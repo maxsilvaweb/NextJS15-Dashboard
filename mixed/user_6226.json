@@ -1,0 +1,26 @@
+{
+    "user_id": "a081f2f1-0744-4f51-b797-a762104fb6ce",
+    "name": "Sonja Purdy",
+    "email": "Erik80@gmail.com",
+    "instagram_handle": "@Maybell.Smith73",
+    "tiktok_handle": "@Laurianne_Conroy",
+    "joined_at": "2024-08-20T07:17:11.780Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ea41f2e8-4fcf-4fe6-9545-ae9f736bbdcc",
+            "brand": "Flatley, Wisoky and Adams",
+            "tasks_completed": [
+                {
+                    "task_id": "1258815b-5662-4757-81b2-8bfc424fe1a7",
+                    "platform": "Instagram",
+                    "post_url": "https://these-riser.org/",
+                    "likes": 405,
+                    "comments": 32,
+                    "shares": 6,
+                    "reach": 2031
+                }
+            ],
+            "total_sales_attributed": 2676.9933969426966
+        }
+    ]
+}

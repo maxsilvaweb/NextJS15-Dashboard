@@ -1,0 +1,26 @@
+{
+    "user_id": "93cbc2f5-16c3-44bc-a7ca-6e6d9c5cb70c",
+    "name": "Mack Ullrich Sr.",
+    "email": "Zella.Baumbach@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 248,
+                    "comments": null,
+                    "shares": 86,
+                    "reach": 9385
+                }
+            ],
+            "total_sales_attributed": 1088.7549306231272
+        }
+    ]
+}

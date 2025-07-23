@@ -1,0 +1,26 @@
+{
+    "user_id": "6ed23a63-d452-4150-b37c-114dabca6596",
+    "name": "Charlotte Jerde",
+    "email": "Davion75@yahoo.com",
+    "instagram_handle": "@Marianne.Ward",
+    "tiktok_handle": "@Tevin.Mayer",
+    "joined_at": "2024-12-10T11:08:31.318Z",
+    "advocacy_programs": [
+        {
+            "program_id": "462c8eea-1288-4dc6-b66a-c9e98c8ea353",
+            "brand": "Boyle and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "9cc03b38-89bf-4c59-96dc-4ca198e28558",
+                    "platform": "TikTok",
+                    "post_url": "https://worst-bar.net",
+                    "likes": 351,
+                    "comments": 46,
+                    "shares": 100,
+                    "reach": 4931
+                }
+            ],
+            "total_sales_attributed": 1588.0853420323665
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "fa6c0c70-8df8-4569-a1bd-0e5d709cb9ea",
+    "name": "Darin Reynolds",
+    "email": "Jeffrey77@gmail.com",
+    "instagram_handle": "@Krystina.Runolfsdottir7",
+    "tiktok_handle": "@Alia.Miller-Ryan37",
+    "joined_at": "2025-03-01T03:57:38.353Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b50ff649-29b7-4c7a-a31f-d0a555511a69",
+            "brand": "Prohaska LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "9e5d9ed8-3d45-4145-8bbd-e5c99725a6f7",
+                    "platform": "Instagram",
+                    "post_url": "https://antique-graffiti.com/",
+                    "likes": 139,
+                    "comments": 41,
+                    "shares": 100,
+                    "reach": 2342
+                }
+            ],
+            "total_sales_attributed": 3898.2904856223577
+        }
+    ]
+}

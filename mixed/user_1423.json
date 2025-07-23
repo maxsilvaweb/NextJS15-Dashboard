@@ -1,0 +1,26 @@
+{
+    "user_id": "6260d951-9726-4b68-b517-a1fee602e4ae",
+    "name": "Mr. Earl O'Reilly",
+    "email": "Hazel_Berge@hotmail.com",
+    "instagram_handle": "@Francesco.Boehm11",
+    "tiktok_handle": "@Kailey51",
+    "joined_at": "2024-05-11T10:47:10.642Z",
+    "advocacy_programs": [
+        {
+            "program_id": "df377a3b-b388-485d-9fe8-ea5eec87d36b",
+            "brand": "Cremin, Crooks and Klocko",
+            "tasks_completed": [
+                {
+                    "task_id": "02c65bc3-9da0-4b16-8e4a-64eb2598c667",
+                    "platform": "Instagram",
+                    "post_url": "https://qualified-injunction.name",
+                    "likes": 176,
+                    "comments": 0,
+                    "shares": 54,
+                    "reach": 5077
+                }
+            ],
+            "total_sales_attributed": 2583.8426401979973
+        }
+    ]
+}

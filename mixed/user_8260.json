@@ -1,0 +1,26 @@
+{
+    "user_id": "6dc77c94-d890-46f3-9c44-f7464cc3d183",
+    "name": "Bennie Funk",
+    "email": "Leslie87@gmail.com",
+    "instagram_handle": "@Makayla22",
+    "tiktok_handle": "@Darby_Waelchi",
+    "joined_at": "2024-08-26T13:52:55.333Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9f692025-9d8a-4ade-995c-7a200cf3ff62",
+            "brand": "Brown - Effertz",
+            "tasks_completed": [
+                {
+                    "task_id": "745647a9-a3d0-4882-a39e-243dc47d822c",
+                    "platform": "TikTok",
+                    "post_url": "https://grave-freckle.biz",
+                    "likes": 474,
+                    "comments": 26,
+                    "shares": 76,
+                    "reach": 6346
+                }
+            ],
+            "total_sales_attributed": 118.7966100797068
+        }
+    ]
+}

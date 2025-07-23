@@ -1,0 +1,26 @@
+{
+    "user_id": "5d2deecf-ba44-4e30-b14e-ccaf7bf7fbe6",
+    "name": "Karen Marks",
+    "email": "Philip13@hotmail.com",
+    "instagram_handle": "@Lilla.Hirthe",
+    "tiktok_handle": "@Saige33",
+    "joined_at": "2025-01-22T19:14:37.545Z",
+    "advocacy_programs": [
+        {
+            "program_id": "58486181-e596-41cf-b21d-a41c094f78c5",
+            "brand": "Hilpert Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "e927dc74-a1ed-4162-9445-da73e44d204b",
+                    "platform": "Instagram",
+                    "post_url": "https://incomparable-step-mother.org",
+                    "likes": 227,
+                    "comments": 37,
+                    "shares": 42,
+                    "reach": 7837
+                }
+            ],
+            "total_sales_attributed": 2144.428943651842
+        }
+    ]
+}

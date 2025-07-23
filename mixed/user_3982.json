@@ -1,0 +1,26 @@
+{
+    "user_id": "a3473e35-57cf-47e7-8ffe-b98d0407ed49",
+    "name": "Joel Johnson Jr.",
+    "email": "Arno.Hessel-Price@hotmail.com",
+    "instagram_handle": "@Guiseppe65",
+    "tiktok_handle": "@Arturo94",
+    "joined_at": "2024-06-12T21:38:23.050Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8f776b04-278c-4d46-bbc3-7cbddcc644af",
+            "brand": "Wunsch LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c48e054e-c733-4000-b852-d1bf721dd1ef",
+                    "platform": "TikTok",
+                    "post_url": "https://rowdy-sightseeing.net",
+                    "likes": 15,
+                    "comments": 20,
+                    "shares": 49,
+                    "reach": 2751
+                }
+            ],
+            "total_sales_attributed": 744.8636212049341
+        }
+    ]
+}

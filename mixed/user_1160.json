@@ -1,0 +1,26 @@
+{
+    "user_id": "f816a14e-3a42-4fbb-a9f1-d9cc9d9a3d16",
+    "name": "Flora Langosh",
+    "email": "Jaida.Champlin96@hotmail.com",
+    "instagram_handle": "@Whitney_Bernhard",
+    "tiktok_handle": "@Shane.Hills",
+    "joined_at": "2024-11-10T18:34:43.582Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fb1c476e-f8d7-4477-9f6a-2de413818c70",
+            "brand": "Hansen, Dare and Boehm",
+            "tasks_completed": [
+                {
+                    "task_id": "f130613a-da68-499e-80a7-689cfcc89f04",
+                    "platform": "TikTok",
+                    "post_url": "https://mean-acquaintance.org",
+                    "likes": 338,
+                    "comments": 4,
+                    "shares": 78,
+                    "reach": 1228
+                }
+            ],
+            "total_sales_attributed": 1382.7485485367465
+        }
+    ]
+}

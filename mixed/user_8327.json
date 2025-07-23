@@ -1,0 +1,26 @@
+{
+    "user_id": "73e7e6b7-3b05-490b-a8b3-64e3686cd312",
+    "name": "???",
+    "email": "Emile_Buckridge69@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 26,
+                    "reach": 5770
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

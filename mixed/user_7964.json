@@ -1,0 +1,26 @@
+{
+    "user_id": "89361b32-f6fe-43b5-bdaf-535c13fa7e51",
+    "name": "Roosevelt Durgan",
+    "email": "Johann37@gmail.com",
+    "instagram_handle": "@Vivienne.McDermott",
+    "tiktok_handle": "@Edward_Hahn",
+    "joined_at": "2024-08-01T06:03:54.011Z",
+    "advocacy_programs": [
+        {
+            "program_id": "22b800bb-72a4-4daf-b4b1-b9d2d393f023",
+            "brand": "Shields LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "04d1f969-7132-43c9-b23e-c17999e61241",
+                    "platform": "Instagram",
+                    "post_url": "https://grounded-designation.net",
+                    "likes": 123,
+                    "comments": 36,
+                    "shares": 12,
+                    "reach": 9200
+                }
+            ],
+            "total_sales_attributed": 1556.5312648854515
+        }
+    ]
+}

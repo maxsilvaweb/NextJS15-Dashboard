@@ -1,0 +1,26 @@
+{
+    "user_id": "d0f50179-7de6-43d8-bf22-fb57a182bc23",
+    "name": "Dr. Hugh Moen DVM",
+    "email": "Arvilla81@yahoo.com",
+    "instagram_handle": "@Morgan_Herzog",
+    "tiktok_handle": "@Demarco4",
+    "joined_at": "2024-06-08T07:42:40.089Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2f048039-447f-4ebb-9e61-c7ea16853d11",
+            "brand": "Howell, Douglas and Schneider",
+            "tasks_completed": [
+                {
+                    "task_id": "114e1c2c-4163-4a97-8b3c-9af4f50c4da6",
+                    "platform": "TikTok",
+                    "post_url": "https://animated-cap.net/",
+                    "likes": 275,
+                    "comments": 44,
+                    "shares": 57,
+                    "reach": 5881
+                }
+            ],
+            "total_sales_attributed": 3088.077379306158
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "46ed79c7-fe6c-48b3-b4f0-b748278edc32",
+            "brand": "Brakus, Larson and Herzog",
+            "tasks_completed": [
+                {
+                    "task_id": "4ff5ba67-45c3-4e2a-8ab8-e3055c1f3bea",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 15,
+                    "shares": 27,
+                    "reach": 9610
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

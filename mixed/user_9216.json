@@ -1,0 +1,26 @@
+{
+    "user_id": "dc5e1c22-c999-49cf-8f1d-5b35a2661ab0",
+    "name": "Dr. Christina Hoeger",
+    "email": "Alessia_Satterfield@yahoo.com",
+    "instagram_handle": "@Hal_Runolfsdottir46",
+    "tiktok_handle": "@Addie.Batz85",
+    "joined_at": "2024-08-08T14:45:46.351Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b90fe92f-556c-48be-9503-fa6f96f12089",
+            "brand": "Huel, Spencer and Zboncak",
+            "tasks_completed": [
+                {
+                    "task_id": "b6510ce1-9c2a-4fc7-8f7b-e6a2429216c4",
+                    "platform": "Instagram",
+                    "post_url": "https://favorable-gymnast.com",
+                    "likes": 464,
+                    "comments": 15,
+                    "shares": 88,
+                    "reach": 6910
+                }
+            ],
+            "total_sales_attributed": 2980.396039197865
+        }
+    ]
+}

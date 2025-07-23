@@ -1,0 +1,26 @@
+{
+    "user_id": "98a80940-0a1c-42fe-9fa7-dffe652c9e31",
+    "name": "Curtis Conn",
+    "email": "Nedra.Sipes@yahoo.com",
+    "instagram_handle": "@Fernando_Bins",
+    "tiktok_handle": "@Eva_Hauck36",
+    "joined_at": "2025-02-23T19:17:40.371Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c7c9c9c8-054b-4edd-b5a5-5885aeb058af",
+            "brand": "Streich - Kling",
+            "tasks_completed": [
+                {
+                    "task_id": "b6052b40-04c2-44ea-97da-c57257bd65f4",
+                    "platform": "Instagram",
+                    "post_url": "https://monstrous-almighty.org/",
+                    "likes": 29,
+                    "comments": 22,
+                    "shares": 90,
+                    "reach": 7649
+                }
+            ],
+            "total_sales_attributed": 2412.9781905355094
+        }
+    ]
+}

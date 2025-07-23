@@ -1,0 +1,26 @@
+{
+    "user_id": "afc05c1d-71e6-4b76-9be1-10b9ac2f322a",
+    "name": "Alejandro Kub IV",
+    "email": "Leslie_Kihn53@yahoo.com",
+    "instagram_handle": "@Nola.Gutkowski35",
+    "tiktok_handle": "@Laurianne.Batz84",
+    "joined_at": "2024-05-03T12:34:37.038Z",
+    "advocacy_programs": [
+        {
+            "program_id": "413420f9-f108-4c99-a035-4f13cc93ca90",
+            "brand": "Weber, Jenkins and Rogahn",
+            "tasks_completed": [
+                {
+                    "task_id": "0b2b29d0-6a95-4f6f-b362-b66d782533be",
+                    "platform": "Instagram",
+                    "post_url": "https://severe-department.com",
+                    "likes": 219,
+                    "comments": 1,
+                    "shares": 74,
+                    "reach": 2567
+                }
+            ],
+            "total_sales_attributed": 3233.779862474926
+        }
+    ]
+}

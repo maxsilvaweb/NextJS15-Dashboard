@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Delores.Balistreri-Nitzsche@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "3c2af77e-fad5-4274-a274-2bb61d2c8b35",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 45,
+                    "shares": 89,
+                    "reach": 2134
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

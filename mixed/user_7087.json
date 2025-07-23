@@ -1,0 +1,26 @@
+{
+    "user_id": "f0fa5300-ec4c-47b3-9ecc-5a7daf6fe1ee",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "86bc80e8-087b-4c97-8059-3ce8d1b4a96e",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://irresponsible-mainstream.info",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 4,
+                    "reach": 6298
+                }
+            ],
+            "total_sales_attributed": 4204.302403319387
+        }
+    ]
+}

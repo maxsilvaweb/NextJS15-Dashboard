@@ -1,0 +1,26 @@
+{
+    "user_id": "3090d4f3-0c9f-45f6-87f9-123faac71019",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Keeling Group",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 100,
+                    "reach": 8320
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

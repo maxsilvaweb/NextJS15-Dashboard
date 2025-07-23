@@ -1,0 +1,26 @@
+{
+    "user_id": "74c67c43-0dc8-41ee-bf9e-15ec279e4a4e",
+    "name": "Doris Hoppe",
+    "email": "Dominique.Fisher33@gmail.com",
+    "instagram_handle": "@Donny40",
+    "tiktok_handle": "@Emerald_Altenwerth18",
+    "joined_at": "2024-03-21T10:35:22.052Z",
+    "advocacy_programs": [
+        {
+            "program_id": "96d410ea-0897-485c-819f-d35f36136c89",
+            "brand": "Fisher - D'Amore",
+            "tasks_completed": [
+                {
+                    "task_id": "47c8f916-34c9-4b46-ac7a-4cfa54ea6b32",
+                    "platform": "Instagram",
+                    "post_url": "https://wordy-expansion.org/",
+                    "likes": 98,
+                    "comments": 14,
+                    "shares": 88,
+                    "reach": 3153
+                }
+            ],
+            "total_sales_attributed": 418.37169259003673
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "11db6488-e300-49f4-b358-f18b44cbd277",
+    "name": "Priscilla Welch",
+    "email": "Amie23@yahoo.com",
+    "instagram_handle": "@Magnolia_Swaniawski15",
+    "tiktok_handle": "@Saul56",
+    "joined_at": "2024-12-08T14:28:39.127Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1844b4f8-24b6-4756-86e6-8537d75e9a51",
+            "brand": "Fritsch - Wilkinson",
+            "tasks_completed": [
+                {
+                    "task_id": "4211ad53-1bff-4248-a902-effe6108caae",
+                    "platform": "Instagram",
+                    "post_url": "https://enchanting-analogy.org",
+                    "likes": 452,
+                    "comments": 33,
+                    "shares": 27,
+                    "reach": 8265
+                }
+            ],
+            "total_sales_attributed": 3746.281401750633
+        }
+    ]
+}

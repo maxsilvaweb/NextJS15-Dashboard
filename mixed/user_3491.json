@@ -1,0 +1,26 @@
+{
+    "user_id": "441f3ed7-ffad-4249-945e-a48f13c2b039",
+    "name": "Amy Schulist MD",
+    "email": "Cordell40@hotmail.com",
+    "instagram_handle": "@Amira_Crona",
+    "tiktok_handle": "@Percy99",
+    "joined_at": "2024-03-25T11:51:09.639Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2342c292-ba04-4e95-8cc9-087c888295fd",
+            "brand": "Kunde, Rodriguez and Schaden",
+            "tasks_completed": [
+                {
+                    "task_id": "9e867ead-30cd-4a67-8aa6-a383ee772d08",
+                    "platform": "TikTok",
+                    "post_url": "https://gummy-shoulder.net",
+                    "likes": 213,
+                    "comments": 5,
+                    "shares": 100,
+                    "reach": 2970
+                }
+            ],
+            "total_sales_attributed": 3197.2426119462125
+        }
+    ]
+}

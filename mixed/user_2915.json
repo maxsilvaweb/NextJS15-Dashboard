@@ -1,0 +1,26 @@
+{
+    "user_id": "5cd786bf-fb27-4093-8566-d2ca7d7e2944",
+    "name": "???",
+    "email": "Mireille_Harris@gmail.com",
+    "instagram_handle": "@Tessie_Blanda28",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "9b68f413-77bc-4439-b905-f5eaca43d24b",
+                    "platform": 123,
+                    "post_url": "https://dismal-repeat.net",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 19,
+                    "reach": 5720
+                }
+            ],
+            "total_sales_attributed": 2389.3513591644764
+        }
+    ]
+}

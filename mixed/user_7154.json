@@ -1,0 +1,26 @@
+{
+    "user_id": "39a9cc67-7f68-47ec-8116-6d9bac60aa25",
+    "name": "Molly Davis",
+    "email": "Jazlyn.Kirlin@yahoo.com",
+    "instagram_handle": "@Beatrice_Parisian16",
+    "tiktok_handle": "@Hipolito_Price15",
+    "joined_at": "2025-02-16T05:07:25.959Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b2c09f10-4cad-4476-a531-9c583f74f97a",
+            "brand": "Mayer, Gottlieb and Swift",
+            "tasks_completed": [
+                {
+                    "task_id": "d2bfd64a-2e00-4283-ba23-25f2d6eceefa",
+                    "platform": "TikTok",
+                    "post_url": "https://strict-mixture.name/",
+                    "likes": 13,
+                    "comments": 23,
+                    "shares": 43,
+                    "reach": 4374
+                }
+            ],
+            "total_sales_attributed": 2581.0197674126516
+        }
+    ]
+}

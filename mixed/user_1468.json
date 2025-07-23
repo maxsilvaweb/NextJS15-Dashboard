@@ -1,0 +1,26 @@
+{
+    "user_id": "2ce200e1-67ba-4dba-acc4-ed7472b1dfa0",
+    "name": "Geneva Wunsch",
+    "email": "Katheryn_Langworth43@gmail.com",
+    "instagram_handle": "@Ben_Kessler",
+    "tiktok_handle": "@Daphney73",
+    "joined_at": "2024-05-12T20:32:53.650Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a4d8af28-605f-4cef-b8b3-986e6a2646d6",
+            "brand": "Reichert - Bogisich",
+            "tasks_completed": [
+                {
+                    "task_id": "3cf1292e-70da-4ab1-af6c-3c101aebac3f",
+                    "platform": "Instagram",
+                    "post_url": "https://menacing-kick.biz/",
+                    "likes": 497,
+                    "comments": 18,
+                    "shares": 97,
+                    "reach": 4679
+                }
+            ],
+            "total_sales_attributed": 4532.564331118878
+        }
+    ]
+}

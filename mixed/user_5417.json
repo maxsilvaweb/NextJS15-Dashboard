@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Ms. Jeannie Brown",
+    "email": "Lila.Breitenberg@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://present-archaeology.org/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 7,
+                    "reach": 9368
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

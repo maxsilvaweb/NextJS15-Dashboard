@@ -1,0 +1,26 @@
+{
+    "user_id": "565baccc-b73b-4e10-8b97-1eff31d70345",
+    "name": "Patrick Conn",
+    "email": "Gaetano.Cartwright@yahoo.com",
+    "instagram_handle": "@Cletus_Huels23",
+    "tiktok_handle": "@Jayda.Lehner",
+    "joined_at": "2024-09-06T06:45:16.888Z",
+    "advocacy_programs": [
+        {
+            "program_id": "90910c6b-efcf-4fb0-b057-4f1706a68232",
+            "brand": "Mayer, Green and Kuhic",
+            "tasks_completed": [
+                {
+                    "task_id": "e405b0dc-fb73-4709-92a8-c9389155743c",
+                    "platform": "TikTok",
+                    "post_url": "https://unripe-annual.biz/",
+                    "likes": 116,
+                    "comments": 23,
+                    "shares": 61,
+                    "reach": 6389
+                }
+            ],
+            "total_sales_attributed": 3443.869024837307
+        }
+    ]
+}

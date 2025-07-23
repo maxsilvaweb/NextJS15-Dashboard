@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "796be40a-45c5-40d1-96cb-a413b251969f",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "f972a52b-957c-40e7-afe7-e43c800094f0",
+                    "platform": "TikTok",
+                    "post_url": "https://mean-zen.net",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 90,
+                    "reach": 1398
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

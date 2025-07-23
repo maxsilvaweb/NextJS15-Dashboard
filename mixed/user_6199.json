@@ -1,0 +1,26 @@
+{
+    "user_id": "a8205296-3fd3-41f1-a65f-97615d42d704",
+    "name": "Raymond Douglas",
+    "email": "Vincenzo_Luettgen82@yahoo.com",
+    "instagram_handle": "@Tyrique9",
+    "tiktok_handle": "@Kenyatta71",
+    "joined_at": "2024-07-09T00:16:03.208Z",
+    "advocacy_programs": [
+        {
+            "program_id": "46ce0e09-129b-4576-b3c5-9d8cb868dbe4",
+            "brand": "Dibbert and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a8b6d6e7-f43f-433e-bb5f-4b4afd156b3a",
+                    "platform": "Instagram",
+                    "post_url": "https://posh-saloon.biz/",
+                    "likes": 254,
+                    "comments": 27,
+                    "shares": 11,
+                    "reach": 3595
+                }
+            ],
+            "total_sales_attributed": 4937.338107889958
+        }
+    ]
+}

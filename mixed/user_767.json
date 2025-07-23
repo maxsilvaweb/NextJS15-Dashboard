@@ -1,0 +1,26 @@
+{
+    "user_id": "f40b2c65-56ee-4e5b-96a2-af5dcfc4088b",
+    "name": "Kristin Auer",
+    "email": "Carolyn.Gutkowski@hotmail.com",
+    "instagram_handle": "@Angelo.Kohler6",
+    "tiktok_handle": "@Philip.Lebsack88",
+    "joined_at": "2024-08-28T09:37:45.081Z",
+    "advocacy_programs": [
+        {
+            "program_id": "188e9d95-f416-44bd-98db-61b43abd3c45",
+            "brand": "Wolff Group",
+            "tasks_completed": [
+                {
+                    "task_id": "0b50c241-507b-454d-a2b6-35affd789374",
+                    "platform": "TikTok",
+                    "post_url": "https://best-behest.com",
+                    "likes": 123,
+                    "comments": 34,
+                    "shares": 18,
+                    "reach": 5951
+                }
+            ],
+            "total_sales_attributed": 3818.3925012804852
+        }
+    ]
+}

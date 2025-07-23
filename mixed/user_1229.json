@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "a93391ed-7f61-4d2f-8ac7-50ee03cd6564",
+                    "platform": 123,
+                    "post_url": "https://alive-swing.name/",
+                    "likes": 46,
+                    "comments": null,
+                    "shares": 56,
+                    "reach": 1180
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

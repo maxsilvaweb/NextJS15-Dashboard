@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Guido_Hane34",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "b448387e-a538-4e1b-bed2-60c9fa861f81",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 59,
+                    "reach": 1660
+                }
+            ],
+            "total_sales_attributed": 1785.5211971538204
+        }
+    ]
+}

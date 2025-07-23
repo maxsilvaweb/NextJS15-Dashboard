@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Lois.Kub33@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "8b5e2e6f-9cc7-4498-ae96-ff6629879682",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 31,
+                    "shares": 75,
+                    "reach": 9599
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

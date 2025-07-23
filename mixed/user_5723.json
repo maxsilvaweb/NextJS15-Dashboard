@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "20c25dcf-75e1-4daf-bfdd-73373587eb76",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://light-coliseum.org/",
+                    "likes": "NaN",
+                    "comments": 45,
+                    "shares": 14,
+                    "reach": 6651
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

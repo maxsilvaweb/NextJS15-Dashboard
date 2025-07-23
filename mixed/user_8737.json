@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Stefan_Daniel82",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://monumental-mallard.biz/",
+                    "likes": "NaN",
+                    "comments": 3,
+                    "shares": 22,
+                    "reach": 1646
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

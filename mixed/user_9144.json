@@ -1,0 +1,26 @@
+{
+    "user_id": "4f3cf4f1-0b44-4940-af15-caca85644933",
+    "name": "Harriet Hyatt",
+    "email": "Marvin43@yahoo.com",
+    "instagram_handle": "@Garett84",
+    "tiktok_handle": "@Jadon75",
+    "joined_at": "2025-01-05T15:10:59.315Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9d67d8ba-1bbf-4e23-960d-bfcb9cfc8a16",
+            "brand": "Rice - Denesik",
+            "tasks_completed": [
+                {
+                    "task_id": "3886ad7a-2603-406c-b4c8-246d16d2e7eb",
+                    "platform": "Instagram",
+                    "post_url": "https://stunning-forager.name",
+                    "likes": 199,
+                    "comments": 3,
+                    "shares": 76,
+                    "reach": 7804
+                }
+            ],
+            "total_sales_attributed": 2556.3127262358225
+        }
+    ]
+}

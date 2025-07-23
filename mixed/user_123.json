@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Florence_Hudson79@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 89,
+                    "comments": 12,
+                    "shares": 80,
+                    "reach": 3951
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

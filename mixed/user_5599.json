@@ -1,0 +1,26 @@
+{
+    "user_id": "28023ff9-a462-4a33-ad67-736f3bd0a206",
+    "name": "Barry Ankunding",
+    "email": "Cydney.Stoltenberg@hotmail.com",
+    "instagram_handle": "@Stephen_Koepp67",
+    "tiktok_handle": "@Jaron.Lesch",
+    "joined_at": "2024-08-19T00:38:29.291Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1ccfdeb6-c839-4faf-ac30-4068a50a2946",
+            "brand": "Farrell, Dare and Mills",
+            "tasks_completed": [
+                {
+                    "task_id": "6757f78f-35fa-4f06-aa39-22f2f00ac32d",
+                    "platform": "TikTok",
+                    "post_url": "https://fixed-swing.biz",
+                    "likes": 23,
+                    "comments": 2,
+                    "shares": 90,
+                    "reach": 1206
+                }
+            ],
+            "total_sales_attributed": 4131.046051971687
+        }
+    ]
+}

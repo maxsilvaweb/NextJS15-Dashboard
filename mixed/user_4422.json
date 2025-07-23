@@ -1,0 +1,26 @@
+{
+    "user_id": "2f85c1fd-d35a-4cea-983f-bbb4d98abe3f",
+    "name": "Roosevelt Herman I",
+    "email": "Danika.Becker5@hotmail.com",
+    "instagram_handle": "@Jasen.Mayert",
+    "tiktok_handle": "@Raegan47",
+    "joined_at": "2024-09-06T11:12:00.245Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f686958c-4e0b-4d1e-bba5-7e13a8940f8f",
+            "brand": "DuBuque - Kuphal",
+            "tasks_completed": [
+                {
+                    "task_id": "f462513f-ab4b-4a65-aa4e-96faadd84a4d",
+                    "platform": "TikTok",
+                    "post_url": "https://black-and-white-jury.org",
+                    "likes": 242,
+                    "comments": 26,
+                    "shares": 2,
+                    "reach": 6276
+                }
+            ],
+            "total_sales_attributed": 4726.107526817794
+        }
+    ]
+}

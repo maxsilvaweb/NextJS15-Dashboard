@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Emerald88@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-10-23T05:44:49.093Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://esteemed-fork.biz/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 39,
+                    "reach": 1452
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

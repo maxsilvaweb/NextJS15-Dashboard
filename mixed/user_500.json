@@ -1,0 +1,26 @@
+{
+    "user_id": "17ae2f86-10a6-4c00-ad33-a9225cda5c03",
+    "name": "Santos Keeling",
+    "email": "Broderick79@gmail.com",
+    "instagram_handle": "@Nedra_Denesik19",
+    "tiktok_handle": "@Adelle_Miller",
+    "joined_at": "2024-12-14T00:58:37.508Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3aa3d8dd-9ac3-4a33-889f-f9d58898b778",
+            "brand": "Mertz - Rau",
+            "tasks_completed": [
+                {
+                    "task_id": "2bbb72f1-3603-40fc-a54f-c785b2090a10",
+                    "platform": "TikTok",
+                    "post_url": "https://enraged-poetry.com",
+                    "likes": 395,
+                    "comments": 50,
+                    "shares": 33,
+                    "reach": 2819
+                }
+            ],
+            "total_sales_attributed": 498.8383972137239
+        }
+    ]
+}

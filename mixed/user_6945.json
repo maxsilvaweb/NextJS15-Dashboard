@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Charity65",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 56,
+                    "comments": null,
+                    "shares": 96,
+                    "reach": 2112
+                }
+            ],
+            "total_sales_attributed": 431.17993418423345
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "a464a779-0599-4d6a-8154-2de18f4ee184",
+                    "platform": "Instagram",
+                    "post_url": "https://ugly-tooth.info/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 17,
+                    "reach": 9927
+                }
+            ],
+            "total_sales_attributed": 1050.3430499017363
+        }
+    ]

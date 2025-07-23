@@ -1,0 +1,26 @@
+{
+    "user_id": "5cfcc44c-311b-4df0-8add-16eac38586de",
+    "name": "Dr. Mike Steuber",
+    "email": "Jaycee.Daniel20@yahoo.com",
+    "instagram_handle": "@Danial81",
+    "tiktok_handle": "@Reagan51",
+    "joined_at": "2024-11-05T09:01:01.812Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e130b093-db28-4577-bceb-8135026fb9ab",
+            "brand": "Dickens, Beahan and Schmitt",
+            "tasks_completed": [
+                {
+                    "task_id": "840e0c19-9044-40d7-8266-53f1992f8c67",
+                    "platform": "TikTok",
+                    "post_url": "https://shimmering-longboat.net/",
+                    "likes": 445,
+                    "comments": 43,
+                    "shares": 96,
+                    "reach": 3121
+                }
+            ],
+            "total_sales_attributed": 3585.080494669366
+        }
+    ]
+}

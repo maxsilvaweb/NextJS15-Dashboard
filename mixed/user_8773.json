@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-10-29T08:37:56.799Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://striking-bookcase.info/",
+                    "likes": 188,
+                    "comments": null,
+                    "shares": 43,
+                    "reach": 3459
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

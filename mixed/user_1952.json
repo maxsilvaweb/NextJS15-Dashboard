@@ -1,0 +1,26 @@
+{
+    "user_id": "7ebb56f8-8bb2-4e6a-a640-8c3eeb3c5105",
+    "name": "???",
+    "email": "Myles_Sipes88@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 1,
+                    "reach": 2224
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

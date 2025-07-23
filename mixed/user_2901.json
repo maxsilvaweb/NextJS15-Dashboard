@@ -1,0 +1,26 @@
+{
+    "user_id": "a200d525-8040-42ac-9757-493197420df1",
+    "name": "Heather Hilpert",
+    "email": "Monserrat_Considine@yahoo.com",
+    "instagram_handle": "@Melyssa.Witting48",
+    "tiktok_handle": "@Uriel.Considine",
+    "joined_at": "2025-03-07T04:15:05.688Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3c87a014-4971-4cfd-bd9a-fa04ae0b0908",
+            "brand": "Durgan - Ondricka",
+            "tasks_completed": [
+                {
+                    "task_id": "d908fa5e-be73-4a3f-b89f-4d9b37e9a798",
+                    "platform": "TikTok",
+                    "post_url": "https://artistic-squid.org/",
+                    "likes": 332,
+                    "comments": 19,
+                    "shares": 39,
+                    "reach": 8171
+                }
+            ],
+            "total_sales_attributed": 3343.6198459747598
+        }
+    ]
+}

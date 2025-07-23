@@ -1,0 +1,26 @@
+{
+    "user_id": "efd200d8-f3d5-4cf7-a505-902293112daf",
+    "name": "???",
+    "email": "Leopoldo.Sanford@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "3909683d-1b1b-4b64-9a87-b03642c26a83",
+                    "platform": "TikTok",
+                    "post_url": "https://phony-sweatshop.name",
+                    "likes": "NaN",
+                    "comments": 17,
+                    "shares": 92,
+                    "reach": 5699
+                }
+            ],
+            "total_sales_attributed": 2862.8776571818426
+        }
+    ]
+}

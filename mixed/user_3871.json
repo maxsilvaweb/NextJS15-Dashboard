@@ -1,0 +1,25 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Haskell77@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Miller Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "78c18b01-7adb-4c77-a516-b869ecf627ff",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 120,
+                    "comments": 23,
+                    "shares": 50,
+                    "reach": 7163
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

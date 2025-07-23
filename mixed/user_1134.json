@@ -1,0 +1,26 @@
+{
+    "user_id": "464ea5d0-e31a-4210-8fd2-568e38d63520",
+    "name": "David Feest",
+    "email": "Jovanny.Franey29@hotmail.com",
+    "instagram_handle": "@Tyrell.Little",
+    "tiktok_handle": "@Ashleigh7",
+    "joined_at": "2024-07-25T23:30:47.197Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6e1d5cb5-9792-4f76-abfc-bf387d62fb08",
+            "brand": "Prosacco Group",
+            "tasks_completed": [
+                {
+                    "task_id": "7e65a3f7-4530-4b28-b4d8-6cc58c999215",
+                    "platform": "TikTok",
+                    "post_url": "https://babyish-stitcher.name",
+                    "likes": 206,
+                    "comments": 41,
+                    "shares": 94,
+                    "reach": 3839
+                }
+            ],
+            "total_sales_attributed": 4356.603679067979
+        }
+    ]
+}

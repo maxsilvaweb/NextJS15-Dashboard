@@ -1,0 +1,26 @@
+{
+    "user_id": "a0892220-1d26-4c4c-a931-1523b29d9fec",
+    "name": "Luther Trantow",
+    "email": "Isabell91@gmail.com",
+    "instagram_handle": "@Janie66",
+    "tiktok_handle": "@Missouri26",
+    "joined_at": "2024-12-12T03:14:25.707Z",
+    "advocacy_programs": [
+        {
+            "program_id": "89c71179-d93e-4f0c-aa16-6a6a00a572a0",
+            "brand": "Moen, Pfeffer and Bernier",
+            "tasks_completed": [
+                {
+                    "task_id": "9c974969-ce46-4477-9ccc-7a09eb219b52",
+                    "platform": "Instagram",
+                    "post_url": "https://wonderful-fundraising.biz/",
+                    "likes": 118,
+                    "comments": 2,
+                    "shares": 98,
+                    "reach": 6628
+                }
+            ],
+            "total_sales_attributed": 2128.730759281437
+        }
+    ]
+}

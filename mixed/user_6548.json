@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Karina8@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Haley, McKenzie and Emard",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 40,
+                    "shares": 94,
+                    "reach": 8649
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Opal Auer",
+    "email": "invalid-email",
+    "instagram_handle": "@Unique83",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-08-12T17:39:27.420Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://damaged-seagull.name/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 93,
+                    "reach": 3273
+                }
+            ],
+            "total_sales_attributed": 4145.888078659826
+        }
+    ]
+}

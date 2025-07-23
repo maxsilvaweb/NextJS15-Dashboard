@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Ottilie0@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://boring-pulse.org",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 100,
+                    "reach": 909
+                }
+            ],
+            "total_sales_attributed": 3831.7548908738436
+        }
+    ]
+}

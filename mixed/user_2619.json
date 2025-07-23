@@ -1,0 +1,26 @@
+{
+    "user_id": "88cc56a0-ba6e-4dd0-949f-ab0d981dad4e",
+    "name": "Alicia Russel",
+    "email": "Eden.Morissette@gmail.com",
+    "instagram_handle": "@Abe_Fahey",
+    "tiktok_handle": "@Karley.Jaskolski72",
+    "joined_at": "2024-05-26T18:34:58.316Z",
+    "advocacy_programs": [
+        {
+            "program_id": "79036069-b022-4e6f-8b38-eae2ebb7f586",
+            "brand": "Bernhard, Torphy and Pouros",
+            "tasks_completed": [
+                {
+                    "task_id": "cfa98b32-bc2c-4e6f-8c70-3ebfa84539aa",
+                    "platform": "Instagram",
+                    "post_url": "https://shrill-characterization.name",
+                    "likes": 71,
+                    "comments": 22,
+                    "shares": 89,
+                    "reach": 3305
+                }
+            ],
+            "total_sales_attributed": 3634.731491847194
+        }
+    ]
+}

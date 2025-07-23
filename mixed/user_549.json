@@ -1,0 +1,26 @@
+{
+    "user_id": "22ac02f4-da48-4172-943b-6b5f9981df61",
+    "name": "Mr. Johnny Price",
+    "email": "Erich47@yahoo.com",
+    "instagram_handle": "@Sanford.Reinger",
+    "tiktok_handle": "@Jimmy14",
+    "joined_at": "2024-04-02T16:40:25.704Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c8491cae-1c93-4a60-a11e-1065d1b6b784",
+            "brand": "Zemlak, Jacobs and Goodwin",
+            "tasks_completed": [
+                {
+                    "task_id": "6fda5847-35c5-459a-9e98-2542abd33452",
+                    "platform": "Instagram",
+                    "post_url": "https://self-assured-edge.info",
+                    "likes": 413,
+                    "comments": 49,
+                    "shares": 8,
+                    "reach": 4678
+                }
+            ],
+            "total_sales_attributed": 301.4724156553442
+        }
+    ]
+}

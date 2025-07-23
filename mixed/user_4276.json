@@ -1,0 +1,26 @@
+{
+    "user_id": "65f8b961-ede3-4800-a3d8-a54167f9584f",
+    "name": "Leroy Russel",
+    "email": "Maegan.Mohr@yahoo.com",
+    "instagram_handle": "@Israel.Blanda",
+    "tiktok_handle": "@Ramona.Wisoky",
+    "joined_at": "2024-04-20T15:19:19.117Z",
+    "advocacy_programs": [
+        {
+            "program_id": "87bf33da-5840-48b2-aea4-f1694e8190ef",
+            "brand": "Christiansen - Cummings",
+            "tasks_completed": [
+                {
+                    "task_id": "f749f73c-9a46-4c5d-8de8-2a87433f419e",
+                    "platform": "TikTok",
+                    "post_url": "https://curly-bookcase.biz",
+                    "likes": 487,
+                    "comments": 42,
+                    "shares": 33,
+                    "reach": 1127
+                }
+            ],
+            "total_sales_attributed": 2678.8941577271976
+        }
+    ]
+}

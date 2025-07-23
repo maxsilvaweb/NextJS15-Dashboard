@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Jaylon_Abernathy@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "51f425f8-a785-4de5-ba6e-7ff4d833af5a",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 273,
+                    "comments": 3,
+                    "shares": 21,
+                    "reach": 5414
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

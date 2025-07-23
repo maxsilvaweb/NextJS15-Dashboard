@@ -1,0 +1,26 @@
+{
+    "user_id": "50f98d5f-3f38-43b3-8267-76138a489c13",
+    "name": "Kathleen Barrows",
+    "email": "Walton.Cole12@yahoo.com",
+    "instagram_handle": "@Melba_Nitzsche26",
+    "tiktok_handle": "@Cielo.Cormier17",
+    "joined_at": "2024-06-20T14:39:10.489Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2ca95989-999d-4aa5-82bd-3affd6f27aec",
+            "brand": "O'Reilly, Boyle and Barton",
+            "tasks_completed": [
+                {
+                    "task_id": "309225d7-4971-410c-99eb-b1b7e501cd6f",
+                    "platform": "Instagram",
+                    "post_url": "https://beneficial-lady.name/",
+                    "likes": 462,
+                    "comments": 19,
+                    "shares": 70,
+                    "reach": 7208
+                }
+            ],
+            "total_sales_attributed": 2875.4289754873307
+        }
+    ]
+}

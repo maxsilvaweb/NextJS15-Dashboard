@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "5c33fc81-a535-41ed-89e5-1b20914b26fe",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://coarse-haircut.org/",
+                    "likes": 127,
+                    "comments": null,
+                    "shares": 27,
+                    "reach": 9256
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

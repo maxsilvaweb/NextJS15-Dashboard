@@ -1,0 +1,26 @@
+{
+    "user_id": "2773542e-b709-4060-b0a8-5a6512185d19",
+    "name": "Bernadette Bashirian",
+    "email": "Anjali.Wolff50@yahoo.com",
+    "instagram_handle": "@Priscilla90",
+    "tiktok_handle": "@Remington.Zemlak",
+    "joined_at": "2024-08-25T08:02:49.939Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4109109c-b3fc-45d2-b078-ed9494deb19d",
+            "brand": "Lehner, Gutkowski and Cartwright",
+            "tasks_completed": [
+                {
+                    "task_id": "b3d4a1c0-524a-4280-9a82-368801d08554",
+                    "platform": "Instagram",
+                    "post_url": "https://lost-tenant.info",
+                    "likes": 206,
+                    "comments": 26,
+                    "shares": 38,
+                    "reach": 4073
+                }
+            ],
+            "total_sales_attributed": 4644.176310749895
+        }
+    ]
+}

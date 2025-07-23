@@ -1,0 +1,26 @@
+{
+    "user_id": "4aae9e0e-92eb-4ebc-9ce2-df4cf3a4111c",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Price, Bergstrom and Conn",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 84,
+                    "reach": 9320
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

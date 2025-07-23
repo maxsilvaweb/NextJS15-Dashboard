@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://hefty-dash.name",
+                    "likes": "NaN",
+                    "comments": 14,
+                    "shares": 72,
+                    "reach": 7846
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

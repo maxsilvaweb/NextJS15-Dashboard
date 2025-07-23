@@ -1,0 +1,26 @@
+{
+    "user_id": "09158aa4-f2ab-4e99-a328-1751924bfc25",
+    "name": "Crystal D'Amore II",
+    "email": "Destinee_Treutel@hotmail.com",
+    "instagram_handle": "@Lucie_Leffler39",
+    "tiktok_handle": "@Lynn_Beer75",
+    "joined_at": "2024-10-08T17:54:04.405Z",
+    "advocacy_programs": [
+        {
+            "program_id": "328d5704-fbf9-4fbe-8603-badcadb7adb5",
+            "brand": "Lowe, Dicki and Kuvalis",
+            "tasks_completed": [
+                {
+                    "task_id": "a4aa6453-931c-4295-ac99-76d5da89177f",
+                    "platform": "Instagram",
+                    "post_url": "https://triangular-travel.info/",
+                    "likes": 239,
+                    "comments": 31,
+                    "shares": 80,
+                    "reach": 3460
+                }
+            ],
+            "total_sales_attributed": 1221.4272741057193
+        }
+    ]
+}

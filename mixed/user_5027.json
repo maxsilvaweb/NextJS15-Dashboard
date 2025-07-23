@@ -1,0 +1,26 @@
+{
+    "user_id": "5d2ff899-cc73-427b-8101-d3c4e211faa8",
+    "name": "Michael Reinger",
+    "email": "Marjorie.Emard@hotmail.com",
+    "instagram_handle": "@Bryana_Brown69",
+    "tiktok_handle": "@Benedict_Daniel",
+    "joined_at": "2025-03-08T11:13:30.933Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ca0cd176-05ba-4c9b-ae7e-f26b9b47f2f8",
+            "brand": "Predovic LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "77f4cfe4-cc90-4357-b018-9e0e20bc72ae",
+                    "platform": "Instagram",
+                    "post_url": "https://sure-footed-barge.net",
+                    "likes": 284,
+                    "comments": 31,
+                    "shares": 2,
+                    "reach": 9877
+                }
+            ],
+            "total_sales_attributed": 1212.3221697198069
+        }
+    ]
+}

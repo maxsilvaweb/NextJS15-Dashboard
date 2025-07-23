@@ -1,0 +1,26 @@
+{
+    "user_id": "f2269ebf-d503-4fdb-98b1-4cc4dcc6e19d",
+    "name": "Brandy Jerde",
+    "email": "Eliane.Leffler76@yahoo.com",
+    "instagram_handle": "@Guido_Keeling80",
+    "tiktok_handle": "@Melyssa_Lemke24",
+    "joined_at": "2024-12-16T16:17:52.431Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7f3992e6-8f39-439c-b4a3-676a339b4581",
+            "brand": "Lebsack and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "4b45dd29-71f1-498c-8829-f1eeb244fa87",
+                    "platform": "TikTok",
+                    "post_url": "https://pertinent-chapel.name/",
+                    "likes": 151,
+                    "comments": 50,
+                    "shares": 47,
+                    "reach": 4328
+                }
+            ],
+            "total_sales_attributed": 1437.5483620654072
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-05-13T22:03:58.772Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "3eb8898b-a75c-426d-ac8d-8c824a3bb3a0",
+                    "platform": "TikTok",
+                    "post_url": "https://reckless-veto.biz",
+                    "likes": 181,
+                    "comments": null,
+                    "shares": 80,
+                    "reach": 6306
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

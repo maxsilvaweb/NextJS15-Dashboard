@@ -1,0 +1,26 @@
+{
+    "user_id": "67e371e8-b6f1-4367-8c15-838120c05e54",
+    "name": "Sonja Waelchi I",
+    "email": "Neva_Denesik30@yahoo.com",
+    "instagram_handle": "@Nola47",
+    "tiktok_handle": "@Rosalee62",
+    "joined_at": "2024-05-23T02:49:39.670Z",
+    "advocacy_programs": [
+        {
+            "program_id": "42485d04-0231-48ca-8bf1-e824dae7db1b",
+            "brand": "Stehr - O'Conner",
+            "tasks_completed": [
+                {
+                    "task_id": "16e089ee-1dcb-4830-b053-6da6694a049c",
+                    "platform": "Instagram",
+                    "post_url": "https://cuddly-management.name",
+                    "likes": 170,
+                    "comments": 13,
+                    "shares": 95,
+                    "reach": 1714
+                }
+            ],
+            "total_sales_attributed": 4224.9431281617835
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a6d55d5d-daac-4572-99ae-6f8297abd858",
+    "name": "Mr. Wilson Witting",
+    "email": "Neva84@hotmail.com",
+    "instagram_handle": "@Melody_Prohaska",
+    "tiktok_handle": "@Hyman.Labadie61",
+    "joined_at": "2024-06-23T17:19:06.710Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9115b468-a581-4e09-ba81-8805e7b7233d",
+            "brand": "Towne LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "116d7c70-d9c1-460d-b2af-792713497683",
+                    "platform": "Instagram",
+                    "post_url": "https://suburban-cruelty.org/",
+                    "likes": 498,
+                    "comments": 35,
+                    "shares": 85,
+                    "reach": 6249
+                }
+            ],
+            "total_sales_attributed": 4594.2613479234105
+        }
+    ]
+}

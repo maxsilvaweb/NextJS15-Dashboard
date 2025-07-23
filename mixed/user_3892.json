@@ -1,0 +1,26 @@
+{
+    "user_id": "2716edaf-02b8-4875-aa9f-2f35b46fd6fe",
+    "name": "Curtis Kihn",
+    "email": "Kayleigh.Bergnaum@gmail.com",
+    "instagram_handle": "@Mattie76",
+    "tiktok_handle": "@Joesph.OConner",
+    "joined_at": "2024-06-30T13:40:19.395Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d2314f2f-202c-4a9a-bc47-f7fc9416b0d3",
+            "brand": "Jones - Blanda",
+            "tasks_completed": [
+                {
+                    "task_id": "811a5000-8573-4f14-a1f7-4e4200594e88",
+                    "platform": "TikTok",
+                    "post_url": "https://subtle-case.org",
+                    "likes": 464,
+                    "comments": 34,
+                    "shares": 71,
+                    "reach": 8718
+                }
+            ],
+            "total_sales_attributed": 3845.079253969485
+        }
+    ]
+}

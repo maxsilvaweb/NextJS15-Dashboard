@@ -1,0 +1,26 @@
+{
+    "user_id": "4f2bc175-2537-44fe-a5d4-860360429318",
+    "name": "Dr. Keith Crona",
+    "email": "Ramiro_Beier@yahoo.com",
+    "instagram_handle": "@Dovie_Stoltenberg",
+    "tiktok_handle": "@Lilliana_Smitham71",
+    "joined_at": "2024-12-23T20:53:08.103Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9a0dc010-f88c-486d-b3fc-c59e6c64b796",
+            "brand": "Schaden - Gerhold",
+            "tasks_completed": [
+                {
+                    "task_id": "f95396c4-bb06-4854-b43f-f540402c70d0",
+                    "platform": "TikTok",
+                    "post_url": "https://definite-lounge.com",
+                    "likes": 290,
+                    "comments": 22,
+                    "shares": 45,
+                    "reach": 5429
+                }
+            ],
+            "total_sales_attributed": 2899.2135975328592
+        }
+    ]
+}

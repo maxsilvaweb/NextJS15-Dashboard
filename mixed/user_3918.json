@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Vivien_Lind-Hagenes@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 190,
+                    "comments": 4,
+                    "shares": 75,
+                    "reach": 5226
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2c2a42dd-9c20-4de2-b3d7-cb21307e7bcb",
+    "name": "Mrs. Shawna Glover",
+    "email": "Halle_Morar36@gmail.com",
+    "instagram_handle": "@Hazel_Ritchie",
+    "tiktok_handle": "@Dana.Mertz",
+    "joined_at": "2025-03-05T13:19:48.288Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2209b2c7-4d29-40c3-952c-bc148e568afb",
+            "brand": "O'Reilly - Marks",
+            "tasks_completed": [
+                {
+                    "task_id": "bb151733-1b3d-4dc7-aef5-f3ef38001dc7",
+                    "platform": "Instagram",
+                    "post_url": "https://admired-ostrich.name/",
+                    "likes": 303,
+                    "comments": 45,
+                    "shares": 82,
+                    "reach": 917
+                }
+            ],
+            "total_sales_attributed": 4917.8737196316
+        }
+    ]
+}

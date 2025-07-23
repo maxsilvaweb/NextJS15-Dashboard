@@ -1,0 +1,26 @@
+{
+    "user_id": "3e3c89b5-e044-4dbb-8de4-06ba999a3cfa",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "9352ab57-68ac-444c-a108-e7e0dd4a8774",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://spherical-devastation.name/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 58,
+                    "reach": 4868
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

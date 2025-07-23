@@ -1,0 +1,26 @@
+{
+    "user_id": "64d94875-705a-4c77-a4f5-1b3e5ace2a5c",
+    "name": "Eric Wilderman",
+    "email": "Mathilde.Labadie26@hotmail.com",
+    "instagram_handle": "@Juanita_Christiansen66",
+    "tiktok_handle": "@Florencio.Adams48",
+    "joined_at": "2024-05-19T20:43:59.288Z",
+    "advocacy_programs": [
+        {
+            "program_id": "80dbdd6a-c287-4d51-ad50-9f339453b2ea",
+            "brand": "Ferry, Corkery and Kutch",
+            "tasks_completed": [
+                {
+                    "task_id": "db230148-560d-4c84-83cb-db168336c08b",
+                    "platform": "TikTok",
+                    "post_url": "https://colorful-innovation.net",
+                    "likes": 187,
+                    "comments": 29,
+                    "shares": 42,
+                    "reach": 6844
+                }
+            ],
+            "total_sales_attributed": 4606.191683677838
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Linwood44@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Wyatt_Lynch",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "ef181ef8-8915-488e-a6e6-45b745e471b0",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 37,
+                    "reach": 8530
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

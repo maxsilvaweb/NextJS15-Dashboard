@@ -1,0 +1,26 @@
+{
+    "user_id": "c032cac1-c4e7-4ee9-87c0-09214b68fd02",
+    "name": "Hector Mayert",
+    "email": "Merritt1@hotmail.com",
+    "instagram_handle": "@Kaela.Dicki",
+    "tiktok_handle": "@Muriel_Walsh88",
+    "joined_at": "2024-10-18T18:32:31.581Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cf705c5a-0c52-49bc-916c-f770e857d466",
+            "brand": "Weimann Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "183d4548-85c6-4679-8592-0848af095039",
+                    "platform": "TikTok",
+                    "post_url": "https://regular-thunderbolt.net",
+                    "likes": 87,
+                    "comments": 22,
+                    "shares": 10,
+                    "reach": 7451
+                }
+            ],
+            "total_sales_attributed": 4772.405568995542
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3b3e67d6-a25d-4f8d-9ce0-321b50531b38",
+    "name": "Carl Cruickshank",
+    "email": "Leola32@hotmail.com",
+    "instagram_handle": "@Donato_Hammes",
+    "tiktok_handle": "@Coy_Olson73",
+    "joined_at": "2024-04-25T20:32:59.382Z",
+    "advocacy_programs": [
+        {
+            "program_id": "52ef0b5b-39df-4de9-9179-7782120367ee",
+            "brand": "Marks and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "cc72fc10-6e31-4e1b-934b-38261bb11811",
+                    "platform": "Instagram",
+                    "post_url": "https://stiff-advertisement.name",
+                    "likes": 396,
+                    "comments": 6,
+                    "shares": 7,
+                    "reach": 4267
+                }
+            ],
+            "total_sales_attributed": 1441.2706612770169
+        }
+    ]
+}

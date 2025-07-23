@@ -1,0 +1,26 @@
+{
+    "user_id": "59058a16-7cfa-4066-bf6f-f222d4089656",
+    "name": "Alexis Bayer",
+    "email": "Eulalia.Sipes@hotmail.com",
+    "instagram_handle": "@Lonny7",
+    "tiktok_handle": "@Marianna.Hamill",
+    "joined_at": "2024-07-21T08:04:58.727Z",
+    "advocacy_programs": [
+        {
+            "program_id": "738dddfc-1247-44db-988b-8a1a72cca002",
+            "brand": "Mayert - Bogisich",
+            "tasks_completed": [
+                {
+                    "task_id": "8410defa-825d-44e5-bc2f-caeed19fc588",
+                    "platform": "TikTok",
+                    "post_url": "https://agreeable-fisherman.info",
+                    "likes": 234,
+                    "comments": 2,
+                    "shares": 95,
+                    "reach": 5484
+                }
+            ],
+            "total_sales_attributed": 1185.5048860484662
+        }
+    ]
+}

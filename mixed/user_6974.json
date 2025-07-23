@@ -1,0 +1,26 @@
+{
+    "user_id": "3538ccc5-c3ae-4d41-a08f-b57f3bb8fd59",
+    "name": "Amelia Windler",
+    "email": "Elnora29@hotmail.com",
+    "instagram_handle": "@Ludie22",
+    "tiktok_handle": "@Nathan_Graham",
+    "joined_at": "2024-03-22T13:15:08.814Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1e7acde3-2683-4705-aec0-6dd3e1cefe25",
+            "brand": "Ortiz Group",
+            "tasks_completed": [
+                {
+                    "task_id": "fb8e8d92-9b97-4bef-a0fe-9fe0683f7e23",
+                    "platform": "TikTok",
+                    "post_url": "https://jam-packed-palate.name",
+                    "likes": 402,
+                    "comments": 22,
+                    "shares": 91,
+                    "reach": 7227
+                }
+            ],
+            "total_sales_attributed": 4404.583483833286
+        }
+    ]
+}

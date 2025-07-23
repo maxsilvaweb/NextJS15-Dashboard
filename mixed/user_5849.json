@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "8fe7190f-8aab-4aea-b21b-4e50334e3e32",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "27ded450-f800-49d2-8d4c-e0487474e1e1",
+                    "platform": "TikTok",
+                    "post_url": "https://questionable-jury.name/",
+                    "likes": "NaN",
+                    "comments": 29,
+                    "shares": 56,
+                    "reach": 8188
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

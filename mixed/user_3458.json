@@ -1,0 +1,26 @@
+{
+    "user_id": "be04c77a-0e2f-4b87-a0a1-3fe3abce720e",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Barton Group",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 45,
+                    "shares": 50,
+                    "reach": 5676
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

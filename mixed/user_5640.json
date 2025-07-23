@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "d7f53a0a-e5f9-4543-aa41-da7aaf0129a2",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "84b4aa82-83c7-40b7-92ae-f1087e446a2f",
+                    "platform": "Instagram",
+                    "post_url": "https://hairy-defendant.biz/",
+                    "likes": "NaN",
+                    "comments": 35,
+                    "shares": 87,
+                    "reach": 6803
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

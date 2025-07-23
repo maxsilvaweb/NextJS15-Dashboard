@@ -1,0 +1,26 @@
+{
+    "user_id": "3c81f786-038a-41f0-b874-2cd0cfb80af9",
+    "name": "Janice Von",
+    "email": "Olga3@gmail.com",
+    "instagram_handle": "@Cloyd.Stanton",
+    "tiktok_handle": "@Lola.Block63",
+    "joined_at": "2024-04-10T03:51:49.560Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a4246c47-7fbd-4056-9175-0d402b4da79c",
+            "brand": "McCullough, Dickens and Dooley",
+            "tasks_completed": [
+                {
+                    "task_id": "76c0ec28-0902-42d4-8f4b-8c0608316e75",
+                    "platform": "TikTok",
+                    "post_url": "https://fine-wafer.biz/",
+                    "likes": 116,
+                    "comments": 49,
+                    "shares": 30,
+                    "reach": 9166
+                }
+            ],
+            "total_sales_attributed": 1086.7166591220878
+        }
+    ]
+}

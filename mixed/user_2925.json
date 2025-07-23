@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Reilly_OReilly89",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://total-numeric.net/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 92,
+                    "reach": 3859
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

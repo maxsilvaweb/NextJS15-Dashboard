@@ -1,0 +1,26 @@
+{
+    "user_id": "3d8a02db-0254-4a69-8a3a-d74261872a25",
+    "name": "Alfredo Daniel",
+    "email": "Jakob.Dibbert@gmail.com",
+    "instagram_handle": "@Jennyfer69",
+    "tiktok_handle": "@Ernie57",
+    "joined_at": "2024-08-25T19:54:55.314Z",
+    "advocacy_programs": [
+        {
+            "program_id": "68ffe37e-6d91-4066-b744-f0ab42e091d0",
+            "brand": "Schmidt and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "51527e6e-90cf-41f5-8241-b4e5272794f8",
+                    "platform": "Instagram",
+                    "post_url": "https://illiterate-riser.name",
+                    "likes": 480,
+                    "comments": 20,
+                    "shares": 37,
+                    "reach": 1712
+                }
+            ],
+            "total_sales_attributed": 3460.5632655062177
+        }
+    ]
+}

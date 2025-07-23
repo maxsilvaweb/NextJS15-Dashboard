@@ -1,0 +1,26 @@
+{
+    "user_id": "f946cf69-0a9e-4d52-a119-ac553e8c4ad2",
+    "name": "Wanda Walker",
+    "email": "Rosamond_Kihn85@gmail.com",
+    "instagram_handle": "@Javon.Larkin95",
+    "tiktok_handle": "@Humberto_Considine-Bergnaum",
+    "joined_at": "2024-06-22T22:35:15.180Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a583059e-9bbc-4983-87af-5504a49b3977",
+            "brand": "Wehner and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "24d6b35a-2b9c-4cff-b725-f4f59d000773",
+                    "platform": "TikTok",
+                    "post_url": "https://antique-lawmaker.info",
+                    "likes": 445,
+                    "comments": 35,
+                    "shares": 65,
+                    "reach": 7009
+                }
+            ],
+            "total_sales_attributed": 1161.1647951424554
+        }
+    ]
+}

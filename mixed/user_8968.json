@@ -1,0 +1,26 @@
+{
+    "user_id": "b6318f33-7f6b-4cb8-b102-4c31a0ce5adb",
+    "name": "Sylvia Hintz",
+    "email": "Elsie56@gmail.com",
+    "instagram_handle": "@Stephan.Fay10",
+    "tiktok_handle": "@Gladyce_Roob",
+    "joined_at": "2024-08-15T03:16:58.878Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e2605241-8bf9-4ac6-8aa0-ddce22e05f39",
+            "brand": "Pollich, Streich and Vandervort",
+            "tasks_completed": [
+                {
+                    "task_id": "6d9084a5-9b40-4775-9dc9-1fb316d7b078",
+                    "platform": "TikTok",
+                    "post_url": "https://sure-footed-typewriter.biz/",
+                    "likes": 390,
+                    "comments": 27,
+                    "shares": 99,
+                    "reach": 4188
+                }
+            ],
+            "total_sales_attributed": 2991.9877194887717
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "59f68738-c25d-4eef-8b24-b83c9b50d35c",
+    "name": "???",
+    "email": "Lucy71@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 29,
+                    "reach": 6548
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

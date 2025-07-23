@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "9812b923-72ca-4fd6-9b6e-1ae78dc76c08",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://mild-dwell.biz",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 70,
+                    "reach": 4532
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

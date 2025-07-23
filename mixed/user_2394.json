@@ -1,0 +1,26 @@
+{
+    "user_id": "ef8aa1c6-10ec-4087-b344-000492f8f8c5",
+    "name": "Faye Emard",
+    "email": "Houston_Turcotte48@yahoo.com",
+    "instagram_handle": "@Afton_Metz",
+    "tiktok_handle": "@Margarette.Padberg",
+    "joined_at": "2024-05-13T08:57:13.459Z",
+    "advocacy_programs": [
+        {
+            "program_id": "34060085-3f6f-44b6-b96c-4293f71f5793",
+            "brand": "Grant Group",
+            "tasks_completed": [
+                {
+                    "task_id": "e2b7d99c-75be-4383-a0a9-2ccf29274795",
+                    "platform": "TikTok",
+                    "post_url": "https://windy-reasoning.com",
+                    "likes": 105,
+                    "comments": 24,
+                    "shares": 21,
+                    "reach": 1132
+                }
+            ],
+            "total_sales_attributed": 2929.641902678606
+        }
+    ]
+}

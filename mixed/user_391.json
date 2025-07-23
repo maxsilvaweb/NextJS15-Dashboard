@@ -1,0 +1,26 @@
+{
+    "user_id": "da2a97f3-f8ea-4b98-a08a-34675ffe7502",
+    "name": "Carrie Koss",
+    "email": "Gregg.Wunsch99@hotmail.com",
+    "instagram_handle": "@Cleta_Harris57",
+    "tiktok_handle": "@Ocie.Reichert",
+    "joined_at": "2024-04-16T19:04:39.409Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5a2b118e-c128-4408-a2d8-a14e38bfc797",
+            "brand": "Hagenes - Graham",
+            "tasks_completed": [
+                {
+                    "task_id": "070458ff-c1a2-4676-84a9-89dc5d533498",
+                    "platform": "Instagram",
+                    "post_url": "https://admired-wriggler.org/",
+                    "likes": 191,
+                    "comments": 41,
+                    "shares": 41,
+                    "reach": 5615
+                }
+            ],
+            "total_sales_attributed": 726.495140047325
+        }
+    ]
+}

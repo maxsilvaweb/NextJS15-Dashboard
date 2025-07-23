@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Freida.Schinner96",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "587410b0-b760-4f82-b33c-f896f9899c92",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 16,
+                    "shares": 72,
+                    "reach": 5535
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

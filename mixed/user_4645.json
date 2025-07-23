@@ -1,0 +1,26 @@
+{
+    "user_id": "f79eb695-e209-48ed-9e7c-17b75bb1fe81",
+    "name": "Cameron Quigley",
+    "email": "Melody8@gmail.com",
+    "instagram_handle": "@Dejuan.Erdman47",
+    "tiktok_handle": "@Cary6",
+    "joined_at": "2024-06-13T10:05:43.812Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5abe0ee8-eb0f-4610-ad8c-9063aeeb5d9b",
+            "brand": "Grimes, Koelpin and Dickinson",
+            "tasks_completed": [
+                {
+                    "task_id": "c690936c-c16b-42cc-a7a5-bf74923b017a",
+                    "platform": "Instagram",
+                    "post_url": "https://extra-large-formation.org/",
+                    "likes": 43,
+                    "comments": 41,
+                    "shares": 57,
+                    "reach": 5657
+                }
+            ],
+            "total_sales_attributed": 2493.6749780077703
+        }
+    ]
+}

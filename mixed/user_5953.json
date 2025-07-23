@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Bulah_Collins",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2025-01-05T01:22:29.591Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 56,
+                    "reach": 9081
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

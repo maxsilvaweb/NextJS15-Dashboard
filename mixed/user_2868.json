@@ -1,0 +1,26 @@
+{
+    "user_id": "6f431f12-fa9f-4e6f-91da-0e5e656b89a1",
+    "name": "Leah Gleichner",
+    "email": "Misty.Ratke@gmail.com",
+    "instagram_handle": "@Alvah33",
+    "tiktok_handle": "@Omari77",
+    "joined_at": "2024-06-17T18:48:34.608Z",
+    "advocacy_programs": [
+        {
+            "program_id": "41cd483a-932e-47f4-a65d-21c1d73946f9",
+            "brand": "Hickle LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "386083bd-cd9b-4881-ab50-630272cc5ad3",
+                    "platform": "Instagram",
+                    "post_url": "https://silent-bran.biz/",
+                    "likes": 132,
+                    "comments": 48,
+                    "shares": 73,
+                    "reach": 1479
+                }
+            ],
+            "total_sales_attributed": 186.97675728642915
+        }
+    ]
+}

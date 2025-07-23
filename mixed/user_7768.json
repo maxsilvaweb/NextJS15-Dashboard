@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "e80dd11d-b08f-430a-ab6f-2ddf0cce5b3d",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://jagged-character.name/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 89,
+                    "reach": 7102
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

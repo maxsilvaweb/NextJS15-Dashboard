@@ -1,0 +1,26 @@
+{
+    "user_id": "564c8410-9b96-488a-9a36-e869cd09beb6",
+    "name": "Larry Powlowski",
+    "email": "Kenya.Pfeffer@hotmail.com",
+    "instagram_handle": "@Florencio.Maggio",
+    "tiktok_handle": "@Fay.Lesch7",
+    "joined_at": "2024-08-19T07:01:07.674Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fe449843-69b1-4f18-9599-20ea78cc60dd",
+            "brand": "Cruickshank - Kuhn",
+            "tasks_completed": [
+                {
+                    "task_id": "2a971ad2-0173-449e-a689-d400a3af03c4",
+                    "platform": "Instagram",
+                    "post_url": "https://shy-wear.biz",
+                    "likes": 448,
+                    "comments": 38,
+                    "shares": 93,
+                    "reach": 7133
+                }
+            ],
+            "total_sales_attributed": 4228.562925015067
+        }
+    ]
+}

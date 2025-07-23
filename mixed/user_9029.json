@@ -1,0 +1,26 @@
+{
+    "user_id": "2074226e-d5c0-4ea6-80af-4218b0c7eba3",
+    "name": "Mr. Roger Hamill",
+    "email": "Rasheed.Donnelly@hotmail.com",
+    "instagram_handle": "@Cydney.Bechtelar",
+    "tiktok_handle": "@Jaylen46",
+    "joined_at": "2024-09-01T19:46:28.135Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b46d4eb2-903e-4f6e-b641-4510fbbd155e",
+            "brand": "Wuckert, Tremblay and Sauer",
+            "tasks_completed": [
+                {
+                    "task_id": "df2462d0-237a-4995-90db-7b32881480f2",
+                    "platform": "Instagram",
+                    "post_url": "https://dramatic-metal.name/",
+                    "likes": 114,
+                    "comments": 12,
+                    "shares": 41,
+                    "reach": 6561
+                }
+            ],
+            "total_sales_attributed": 1495.538510022981
+        }
+    ]
+}

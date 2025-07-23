@@ -1,0 +1,26 @@
+{
+    "user_id": "c5f74351-d5f1-4c19-a577-46ee152b4502",
+    "name": "Dana Blick",
+    "email": "Deron_Goyette@gmail.com",
+    "instagram_handle": "@Jo.Schulist9",
+    "tiktok_handle": "@Katherine.Turner",
+    "joined_at": "2024-05-13T19:13:35.886Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d2a63538-f77d-436f-aef0-6b91f0665669",
+            "brand": "VonRueden, Lemke and Lueilwitz",
+            "tasks_completed": [
+                {
+                    "task_id": "f6d1351f-e9e4-4bc9-9620-ee262c5446da",
+                    "platform": "Instagram",
+                    "post_url": "https://impish-management.com",
+                    "likes": 198,
+                    "comments": 47,
+                    "shares": 78,
+                    "reach": 1064
+                }
+            ],
+            "total_sales_attributed": 1150.4901207121072
+        }
+    ]
+}

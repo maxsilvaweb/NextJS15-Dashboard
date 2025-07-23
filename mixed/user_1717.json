@@ -1,0 +1,26 @@
+{
+    "user_id": "e717ce5f-feea-4582-8ebc-90ca0149675a",
+    "name": "Miss Eloise MacGyver",
+    "email": "Magnus.Ratke3@yahoo.com",
+    "instagram_handle": "@Pat.Pfannerstill",
+    "tiktok_handle": "@Wilma_Jacobson",
+    "joined_at": "2025-03-10T03:45:24.818Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c6a7ccc5-f948-4432-9450-3f6a34b7eb0b",
+            "brand": "Kertzmann, O'Kon and Graham",
+            "tasks_completed": [
+                {
+                    "task_id": "34ad0272-5829-4db0-a875-3c0a7a4a9b57",
+                    "platform": "TikTok",
+                    "post_url": "https://unconscious-pear.biz/",
+                    "likes": 224,
+                    "comments": 45,
+                    "shares": 93,
+                    "reach": 8615
+                }
+            ],
+            "total_sales_attributed": 4480.179748872697
+        }
+    ]
+}

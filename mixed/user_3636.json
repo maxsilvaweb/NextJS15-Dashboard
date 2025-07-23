@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Isai62",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://gifted-shoulder.net",
+                    "likes": 45,
+                    "comments": null,
+                    "shares": 68,
+                    "reach": 9010
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

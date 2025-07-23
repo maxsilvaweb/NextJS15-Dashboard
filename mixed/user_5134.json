@@ -1,0 +1,26 @@
+{
+    "user_id": "6d92d956-8230-4ef5-9ab0-df4fcab14a2f",
+    "name": "Josh Jenkins",
+    "email": "Jake_Wuckert@yahoo.com",
+    "instagram_handle": "@Ashleigh.Marks23",
+    "tiktok_handle": "@Aimee_Graham",
+    "joined_at": "2024-05-26T00:18:06.701Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5281d6b7-35ee-4c5e-a305-573fa4ba3300",
+            "brand": "Corkery LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5dbfd262-8398-4194-993e-fc60c2f95212",
+                    "platform": "Instagram",
+                    "post_url": "https://unselfish-monocle.net/",
+                    "likes": 371,
+                    "comments": 4,
+                    "shares": 28,
+                    "reach": 1817
+                }
+            ],
+            "total_sales_attributed": 4008.5296032829297
+        }
+    ]
+}

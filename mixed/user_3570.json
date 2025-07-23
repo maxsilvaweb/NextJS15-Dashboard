@@ -1,0 +1,26 @@
+{
+    "user_id": "de6dada3-4a10-41b9-aa51-8a9c16bf07a0",
+    "name": "Rosemary Auer",
+    "email": "Eliane88@hotmail.com",
+    "instagram_handle": "@Wellington_Jenkins",
+    "tiktok_handle": "@Alexys6",
+    "joined_at": "2025-03-04T16:55:57.653Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4faa082b-0ca2-4300-9b6b-f87a6877e1f2",
+            "brand": "Carter and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "3a27ecb3-164a-4e80-96d7-e9346d4018d1",
+                    "platform": "TikTok",
+                    "post_url": "https://orange-median.name/",
+                    "likes": 72,
+                    "comments": 40,
+                    "shares": 91,
+                    "reach": 1790
+                }
+            ],
+            "total_sales_attributed": 676.8428478232104
+        }
+    ]
+}

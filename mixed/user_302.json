@@ -1,0 +1,26 @@
+{
+    "user_id": "6d394d2a-2f10-420b-b638-173202a4a4fb",
+    "name": "Kathleen Kris I",
+    "email": "Evans.Labadie@gmail.com",
+    "instagram_handle": "@Sedrick.Franey81",
+    "tiktok_handle": "@Hans.Daniel53",
+    "joined_at": "2024-07-10T03:59:34.909Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e8f4090d-d181-478c-96aa-4bb1b53e6f1d",
+            "brand": "Upton - Hettinger",
+            "tasks_completed": [
+                {
+                    "task_id": "e2fdfd97-0efc-43a1-b5b3-d2e79fde061d",
+                    "platform": "Instagram",
+                    "post_url": "https://surprised-calculus.org",
+                    "likes": 367,
+                    "comments": 38,
+                    "shares": 35,
+                    "reach": 8395
+                }
+            ],
+            "total_sales_attributed": 762.2041555934269
+        }
+    ]
+}

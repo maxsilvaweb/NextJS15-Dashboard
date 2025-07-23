@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "8e62182d-5889-4c9b-abaa-295efb4c148b",
+                    "platform": "TikTok",
+                    "post_url": "https://soggy-permafrost.org",
+                    "likes": "NaN",
+                    "comments": 5,
+                    "shares": 93,
+                    "reach": 7495
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

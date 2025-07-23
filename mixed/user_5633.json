@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Darwin_Powlowski7",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-05-05T04:06:13.500Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 23,
+                    "comments": null,
+                    "shares": 62,
+                    "reach": 5273
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

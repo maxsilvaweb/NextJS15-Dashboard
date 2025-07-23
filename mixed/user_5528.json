@@ -1,0 +1,26 @@
+{
+    "user_id": "4c030872-5778-4541-a49b-6b6223c04a24",
+    "name": "Dr. Leon McGlynn",
+    "email": "Queen.Rohan21@hotmail.com",
+    "instagram_handle": "@Douglas.McGlynn",
+    "tiktok_handle": "@Mara70",
+    "joined_at": "2025-01-19T05:00:27.659Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a6810b63-194a-451f-b485-8924aadfd8de",
+            "brand": "Stroman, Kilback and Kuhlman",
+            "tasks_completed": [
+                {
+                    "task_id": "fb72a200-776b-45e3-bd49-b1b3bad0df2b",
+                    "platform": "Instagram",
+                    "post_url": "https://bitter-husband.name",
+                    "likes": 147,
+                    "comments": 12,
+                    "shares": 57,
+                    "reach": 8761
+                }
+            ],
+            "total_sales_attributed": 1234.9780493175554
+        }
+    ]
+}

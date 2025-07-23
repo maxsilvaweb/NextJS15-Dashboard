@@ -1,0 +1,26 @@
+{
+    "user_id": "8f52fd4b-14f2-440a-a6ad-92deab96bb95",
+    "name": "Calvin Marquardt",
+    "email": "Violet.Renner@hotmail.com",
+    "instagram_handle": "@Rozella_Stokes",
+    "tiktok_handle": "@Carole63",
+    "joined_at": "2024-12-30T07:37:30.910Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8869b52c-f903-4894-a158-d1150d6aed70",
+            "brand": "Schumm Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "635a78b3-a022-4b60-bec2-4fe2ed8de05f",
+                    "platform": "Instagram",
+                    "post_url": "https://black-decision.org/",
+                    "likes": 43,
+                    "comments": 46,
+                    "shares": 57,
+                    "reach": 6515
+                }
+            ],
+            "total_sales_attributed": 3748.4513722340025
+        }
+    ]
+}

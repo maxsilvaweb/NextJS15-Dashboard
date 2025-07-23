@@ -1,0 +1,26 @@
+{
+    "user_id": "7cd35267-439e-49f8-80dd-5a0099c272e4",
+    "name": "???",
+    "email": "Winifred.Goldner42@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "80344f14-b886-4cea-9402-f34524ced160",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 71,
+                    "reach": 4746
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

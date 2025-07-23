@@ -1,0 +1,26 @@
+{
+    "user_id": "3dc5df63-1a74-4bae-ba83-290f29d4f971",
+    "name": "Arturo Nikolaus",
+    "email": "Amelia85@gmail.com",
+    "instagram_handle": "@Garrett.Zboncak65",
+    "tiktok_handle": "@Sofia_Lemke",
+    "joined_at": "2024-07-15T07:43:46.579Z",
+    "advocacy_programs": [
+        {
+            "program_id": "00ead0d1-3610-48cb-88ad-d058a33d1f51",
+            "brand": "Mills Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "a056b061-ecf4-494b-91d8-5b6f3ecb22a2",
+                    "platform": "Instagram",
+                    "post_url": "https://unfinished-dependency.org/",
+                    "likes": 433,
+                    "comments": 37,
+                    "shares": 77,
+                    "reach": 4948
+                }
+            ],
+            "total_sales_attributed": 1729.866221576729
+        }
+    ]
+}

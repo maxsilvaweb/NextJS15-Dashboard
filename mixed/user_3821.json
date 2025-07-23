@@ -1,0 +1,26 @@
+{
+    "user_id": "bfba9186-3438-4622-8128-02570e63f138",
+    "name": "Darryl Toy",
+    "email": "Chet_Green@hotmail.com",
+    "instagram_handle": "@Bonnie_Sipes5",
+    "tiktok_handle": "@Cierra31",
+    "joined_at": "2024-04-01T13:20:46.073Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d3e6e8ec-d2c5-4b94-9a42-b1824d36b35f",
+            "brand": "Yost and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "5b786a46-6e05-47ea-9fee-f19576b33005",
+                    "platform": "Instagram",
+                    "post_url": "https://grown-skyline.biz/",
+                    "likes": 133,
+                    "comments": 17,
+                    "shares": 81,
+                    "reach": 951
+                }
+            ],
+            "total_sales_attributed": 4556.252313455566
+        }
+    ]
+}

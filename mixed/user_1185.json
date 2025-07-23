@@ -1,0 +1,26 @@
+{
+    "user_id": "3cd99612-18bc-4a57-bfb2-1a54834234b2",
+    "name": "Nicole Thompson",
+    "email": "Jarrod.Toy17@hotmail.com",
+    "instagram_handle": "@Alisa_Beatty8",
+    "tiktok_handle": "@Murray_Kreiger",
+    "joined_at": "2024-07-07T19:15:28.964Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c0e24562-e1bd-432d-9cb0-3b146bdb8bdd",
+            "brand": "Heller Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9da42c5a-e131-4d70-b286-03f77d786f7d",
+                    "platform": "Instagram",
+                    "post_url": "https://irresponsible-suv.net",
+                    "likes": 64,
+                    "comments": 0,
+                    "shares": 59,
+                    "reach": 5362
+                }
+            ],
+            "total_sales_attributed": 1519.5240275288907
+        }
+    ]
+}

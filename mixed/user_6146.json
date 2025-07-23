@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Adolf7@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "46bfb1ec-1bc8-4c95-bcd4-a6d6114fbbb3",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 70,
+                    "comments": null,
+                    "shares": 81,
+                    "reach": 3957
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

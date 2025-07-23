@@ -1,0 +1,26 @@
+{
+    "user_id": "906051ad-cc3e-4097-97b9-de74c0bf2c66",
+    "name": "Lana Farrell",
+    "email": "Tanya66@gmail.com",
+    "instagram_handle": "@Diego.Mraz",
+    "tiktok_handle": "@Seth.Bahringer",
+    "joined_at": "2024-08-26T02:57:30.869Z",
+    "advocacy_programs": [
+        {
+            "program_id": "42275164-9ae6-4626-9ba3-08114dfe262b",
+            "brand": "Simonis - Schaefer",
+            "tasks_completed": [
+                {
+                    "task_id": "d5d86e9b-52b3-466e-be55-644b71f6663f",
+                    "platform": "Instagram",
+                    "post_url": "https://free-humor.org",
+                    "likes": 434,
+                    "comments": 41,
+                    "shares": 76,
+                    "reach": 8736
+                }
+            ],
+            "total_sales_attributed": 1769.7050419777336
+        }
+    ]
+}

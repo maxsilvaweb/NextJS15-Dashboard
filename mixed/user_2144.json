@@ -1,0 +1,26 @@
+{
+    "user_id": "92d0d4b6-a1d4-49a4-b2e8-ad476cf33d5b",
+    "name": "Malcolm Thompson",
+    "email": "Rudy.Leffler58@hotmail.com",
+    "instagram_handle": "@Arnaldo_Lockman",
+    "tiktok_handle": "@Deborah.Kuvalis",
+    "joined_at": "2024-07-27T13:08:38.863Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4bc54256-4759-487b-9b2c-6a98a74af90e",
+            "brand": "Runolfsdottir - Toy",
+            "tasks_completed": [
+                {
+                    "task_id": "69f69ccb-a9f8-48eb-8034-790b1ca41cb1",
+                    "platform": "TikTok",
+                    "post_url": "https://back-best-seller.org",
+                    "likes": 425,
+                    "comments": 45,
+                    "shares": 78,
+                    "reach": 3828
+                }
+            ],
+            "total_sales_attributed": 4508.765738751007
+        }
+    ]
+}

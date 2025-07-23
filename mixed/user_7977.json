@@ -1,0 +1,26 @@
+{
+    "user_id": "90eff1cf-8b9d-4b55-a2db-5a9db54aa9fd",
+    "name": "Audrey Kuphal",
+    "email": "Mina_Reinger-Wolf91@gmail.com",
+    "instagram_handle": "@Jermaine.Murazik",
+    "tiktok_handle": "@Myles_Moore85",
+    "joined_at": "2024-10-31T21:23:08.253Z",
+    "advocacy_programs": [
+        {
+            "program_id": "73c3e4f0-a157-4f2a-8257-a0af9c07f162",
+            "brand": "Gerlach - Crona",
+            "tasks_completed": [
+                {
+                    "task_id": "404092b6-04d5-4b95-a06a-c2b90f6d4ee6",
+                    "platform": "TikTok",
+                    "post_url": "https://quixotic-councilman.name",
+                    "likes": 265,
+                    "comments": 37,
+                    "shares": 99,
+                    "reach": 6606
+                }
+            ],
+            "total_sales_attributed": 839.6378121483781
+        }
+    ]
+}

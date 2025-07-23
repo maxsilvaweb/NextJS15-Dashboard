@@ -1,0 +1,26 @@
+{
+    "user_id": "83e862fa-9958-4da6-9457-ba81a7dd2a43",
+    "name": "Joanna Haley",
+    "email": "Orlando10@gmail.com",
+    "instagram_handle": "@Nolan.Rau74",
+    "tiktok_handle": "@Kristian5",
+    "joined_at": "2024-04-01T00:55:52.030Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1c98f5e9-8119-4617-ba70-5a54fb7a9702",
+            "brand": "Kiehn Group",
+            "tasks_completed": [
+                {
+                    "task_id": "3910e45d-be8b-44e3-bd8b-1c9bc6ea7f64",
+                    "platform": "TikTok",
+                    "post_url": "https://close-cassava.info/",
+                    "likes": 329,
+                    "comments": 4,
+                    "shares": 46,
+                    "reach": 7273
+                }
+            ],
+            "total_sales_attributed": 3859.3598180756107
+        }
+    ]
+}

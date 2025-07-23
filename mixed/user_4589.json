@@ -1,0 +1,25 @@
+{
+    "user_id": "054d92e2-d147-4bba-ab2d-abfd346c4e9f",
+    "name": "???",
+    "email": "Gaston_King16@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 97,
+                    "reach": 2006
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

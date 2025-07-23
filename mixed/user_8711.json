@@ -1,0 +1,26 @@
+{
+    "user_id": "f27bb275-3222-477c-8300-35a2f01d49b7",
+    "name": "Jacqueline Anderson",
+    "email": "Kameron.Fay@yahoo.com",
+    "instagram_handle": "@Lavina_Sanford-Ryan69",
+    "tiktok_handle": "@Garth_Morissette65",
+    "joined_at": "2024-11-24T05:24:48.582Z",
+    "advocacy_programs": [
+        {
+            "program_id": "16120196-ddeb-415a-9592-ce2842461818",
+            "brand": "Wyman, Schaden and Rice",
+            "tasks_completed": [
+                {
+                    "task_id": "ad57dcae-32e8-4e2e-9ef7-c7ca4112de5b",
+                    "platform": "TikTok",
+                    "post_url": "https://unaware-fishery.com",
+                    "likes": 163,
+                    "comments": 6,
+                    "shares": 39,
+                    "reach": 3254
+                }
+            ],
+            "total_sales_attributed": 3181.179643281039
+        }
+    ]
+}

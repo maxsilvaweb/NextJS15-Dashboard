@@ -1,0 +1,26 @@
+{
+    "user_id": "aba2e5d7-9807-46e9-8b57-75d13f4bc733",
+    "name": "Ian Williamson",
+    "email": "Kallie.Reynolds@hotmail.com",
+    "instagram_handle": "@Celia.Mohr40",
+    "tiktok_handle": "@Travis_Wisoky55",
+    "joined_at": "2024-08-21T18:43:36.600Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f0aada9c-68f7-482f-80a8-b85de6ce8568",
+            "brand": "Monahan Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "a122f62d-c627-4e7c-8481-78ca3796745a",
+                    "platform": "TikTok",
+                    "post_url": "https://talkative-descendant.com/",
+                    "likes": 262,
+                    "comments": 41,
+                    "shares": 29,
+                    "reach": 2724
+                }
+            ],
+            "total_sales_attributed": 434.010038016863
+        }
+    ]
+}

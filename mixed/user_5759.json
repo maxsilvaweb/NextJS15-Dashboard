@@ -1,0 +1,26 @@
+{
+    "user_id": "c4fd9e4b-7f87-4d39-8e30-e1a9d6687ce6",
+    "name": "Mr. Melvin Rippin",
+    "email": "Emmet22@gmail.com",
+    "instagram_handle": "@Isobel_Schaden23",
+    "tiktok_handle": "@Cindy.Fadel33",
+    "joined_at": "2024-09-24T04:25:39.133Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8f017700-9e49-4894-bc9b-69fe2b12b6fc",
+            "brand": "Ruecker, Braun and Cole",
+            "tasks_completed": [
+                {
+                    "task_id": "73951b44-5763-4fbb-8003-4c1f6fd4a92d",
+                    "platform": "TikTok",
+                    "post_url": "https://blue-ferret.net/",
+                    "likes": 262,
+                    "comments": 35,
+                    "shares": 9,
+                    "reach": 8184
+                }
+            ],
+            "total_sales_attributed": 4978.135508235195
+        }
+    ]
+}

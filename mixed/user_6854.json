@@ -1,0 +1,26 @@
+{
+    "user_id": "65d85d9e-1a9c-44b9-b16a-de64a1520ba5",
+    "name": "Jamie Huel",
+    "email": "Elva_Jaskolski@yahoo.com",
+    "instagram_handle": "@Carleton3",
+    "tiktok_handle": "@Johnathon56",
+    "joined_at": "2024-09-26T21:13:17.773Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4144bd2c-3435-4387-99fe-341ecddde42a",
+            "brand": "Franecki Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f52deccf-9ac8-499c-b99b-8f51b8b7bc33",
+                    "platform": "Instagram",
+                    "post_url": "https://ultimate-interviewer.net",
+                    "likes": 400,
+                    "comments": 18,
+                    "shares": 21,
+                    "reach": 4284
+                }
+            ],
+            "total_sales_attributed": 4878.805500811849
+        }
+    ]
+}

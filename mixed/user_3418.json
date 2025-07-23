@@ -1,0 +1,26 @@
+{
+    "user_id": "b09cff03-0c0e-4ba8-8ee0-d8ed2876710c",
+    "name": "Tina Schroeder",
+    "email": "Jerald.Stanton@gmail.com",
+    "instagram_handle": "@Stefan_Torphy",
+    "tiktok_handle": "@Norma42",
+    "joined_at": "2024-10-22T03:41:17.238Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7ae8c6f5-6202-4777-b758-953275ead815",
+            "brand": "Swaniawski Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "1ead5ac0-947e-49ec-9f53-1a10274a6479",
+                    "platform": "TikTok",
+                    "post_url": "https://bleak-quinoa.net/",
+                    "likes": 311,
+                    "comments": 15,
+                    "shares": 41,
+                    "reach": 8722
+                }
+            ],
+            "total_sales_attributed": 1956.5534801244805
+        }
+    ]
+}

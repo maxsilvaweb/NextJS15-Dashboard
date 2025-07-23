@@ -1,0 +1,26 @@
+{
+    "user_id": "395804c5-1023-42e9-8c88-f7ed90edfa71",
+    "name": "Freddie Walter",
+    "email": "Ima_Harris@hotmail.com",
+    "instagram_handle": "@Cordia45",
+    "tiktok_handle": "@Adolphus_Crona",
+    "joined_at": "2024-12-29T00:25:29.568Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bb33402e-69d0-4455-9bc4-1d042b0aeff1",
+            "brand": "Osinski Group",
+            "tasks_completed": [
+                {
+                    "task_id": "66e967dd-5da6-42c6-af48-8ed0b08aa127",
+                    "platform": "Instagram",
+                    "post_url": "https://weighty-guacamole.com",
+                    "likes": 388,
+                    "comments": 12,
+                    "shares": 99,
+                    "reach": 9166
+                }
+            ],
+            "total_sales_attributed": 4280.569671045533
+        }
+    ]
+}

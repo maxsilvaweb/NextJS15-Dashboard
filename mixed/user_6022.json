@@ -1,0 +1,26 @@
+{
+    "user_id": "76371797-34c7-4cf9-97a0-cf4341cecfbf",
+    "name": "Stella Casper",
+    "email": "Alivia_Lebsack-Reichel27@gmail.com",
+    "instagram_handle": "@Gabriel_Maggio23",
+    "tiktok_handle": "@Trevion_Schmidt",
+    "joined_at": "2024-08-30T16:15:24.792Z",
+    "advocacy_programs": [
+        {
+            "program_id": "35384d90-571b-47d1-bdb1-bc3f1341dcb8",
+            "brand": "O'Connell, Tromp and Littel",
+            "tasks_completed": [
+                {
+                    "task_id": "07347d7a-bb83-4301-9166-df82504ddcec",
+                    "platform": "TikTok",
+                    "post_url": "https://good-natured-taro.com",
+                    "likes": 140,
+                    "comments": 48,
+                    "shares": 86,
+                    "reach": 5943
+                }
+            ],
+            "total_sales_attributed": 1684.1244974428253
+        }
+    ]
+}

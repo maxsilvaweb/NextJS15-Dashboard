@@ -1,0 +1,26 @@
+{
+    "user_id": "8aca06ca-4181-4022-a01c-9952bee38ee1",
+    "name": "Sabrina Bayer",
+    "email": "Amiya37@hotmail.com",
+    "instagram_handle": "@Gordon.Kuhic-OHara",
+    "tiktok_handle": "@Kailey.Ernser65",
+    "joined_at": "2024-09-08T12:07:21.969Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9b970de4-0453-468d-9a9f-1b33c0354c1b",
+            "brand": "Quigley, Krajcik and Feil",
+            "tasks_completed": [
+                {
+                    "task_id": "29ead6bf-d2b7-4710-87fb-c4e2c5c39926",
+                    "platform": "Instagram",
+                    "post_url": "https://digital-edge.com",
+                    "likes": 327,
+                    "comments": 45,
+                    "shares": 48,
+                    "reach": 1763
+                }
+            ],
+            "total_sales_attributed": 1627.8572907798173
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "05ba3e65-defe-40f4-b3ff-3d761e0845de",
+    "name": "Alvin Murray",
+    "email": "Greg.Rippin51@yahoo.com",
+    "instagram_handle": "@Cornell89",
+    "tiktok_handle": "@Augusta_Swift",
+    "joined_at": "2024-12-18T12:13:30.978Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f1bd10aa-147a-4e2b-8243-a6c1558e2a22",
+            "brand": "Corkery, Zieme and Murray",
+            "tasks_completed": [
+                {
+                    "task_id": "3eeaba46-f8c4-4ae2-8e61-63f879f7b697",
+                    "platform": "Instagram",
+                    "post_url": "https://antique-skeleton.net/",
+                    "likes": 341,
+                    "comments": 39,
+                    "shares": 91,
+                    "reach": 6184
+                }
+            ],
+            "total_sales_attributed": 2804.500070686372
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "dfedf2b0-6558-453a-8090-8475ae4a99d6",
+    "name": "Dr. Robyn Langosh",
+    "email": "Toni_Sporer@hotmail.com",
+    "instagram_handle": "@Pearlie.Wiegand",
+    "tiktok_handle": "@Yasmine_Rohan76",
+    "joined_at": "2024-08-07T03:51:46.711Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e9ab7270-cea5-4a73-a5b6-a4ab8f8b166f",
+            "brand": "Schultz - Kub",
+            "tasks_completed": [
+                {
+                    "task_id": "a77ff7b7-8fc2-4f28-9def-49982849528b",
+                    "platform": "Instagram",
+                    "post_url": "https://clear-brook.info",
+                    "likes": 49,
+                    "comments": 38,
+                    "shares": 55,
+                    "reach": 7699
+                }
+            ],
+            "total_sales_attributed": 4292.64288885446
+        }
+    ]
+}

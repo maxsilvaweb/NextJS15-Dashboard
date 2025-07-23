@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Mr. Bradley Collins Sr.",
+    "email": "Demarcus.Schultz@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "ef6d27e0-2174-4a46-8dfe-637066ab11cb",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 479,
+                    "comments": null,
+                    "shares": 43,
+                    "reach": 5174
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

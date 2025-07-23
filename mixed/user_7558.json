@@ -1,0 +1,26 @@
+{
+    "user_id": "752ffedd-2430-47c2-a5ef-076dbf7ddd33",
+    "name": "Lillian Mueller",
+    "email": "Preston.Thompson@yahoo.com",
+    "instagram_handle": "@Georgette66",
+    "tiktok_handle": "@Lavada35",
+    "joined_at": "2024-08-25T21:34:52.115Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f70df4d6-b6cc-4a16-8153-92812eb44b1b",
+            "brand": "Hegmann, Beier and Dibbert",
+            "tasks_completed": [
+                {
+                    "task_id": "2daa38b7-260a-41ff-b86c-62eae02527dc",
+                    "platform": "TikTok",
+                    "post_url": "https://muffled-ice-cream.net/",
+                    "likes": 315,
+                    "comments": 28,
+                    "shares": 16,
+                    "reach": 6376
+                }
+            ],
+            "total_sales_attributed": 2730.42388536112
+        }
+    ]
+}

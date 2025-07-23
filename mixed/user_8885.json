@@ -1,0 +1,26 @@
+{
+    "user_id": "a93a0ff0-5fb2-4fe9-b4aa-3cbd69f160a3",
+    "name": "Lee Weimann",
+    "email": "Jakayla48@hotmail.com",
+    "instagram_handle": "@Filomena82",
+    "tiktok_handle": "@Stevie.Quigley55",
+    "joined_at": "2024-08-12T04:37:41.067Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b60d3bf2-332f-4e4b-a40f-b8da3c6ada10",
+            "brand": "Jerde - Breitenberg",
+            "tasks_completed": [
+                {
+                    "task_id": "7ecaefad-7f02-443d-8ae9-5945a0e7f228",
+                    "platform": "TikTok",
+                    "post_url": "https://elementary-government.org",
+                    "likes": 470,
+                    "comments": 27,
+                    "shares": 28,
+                    "reach": 4504
+                }
+            ],
+            "total_sales_attributed": 505.47527758497614
+        }
+    ]
+}

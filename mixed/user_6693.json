@@ -1,0 +1,25 @@
+{
+    "user_id": "d204ba42-f1ae-42b0-8a16-8ab826bb6d50",
+    "name": "Aubrey Cartwright",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "1de24405-0e83-400f-a232-8a42363e4f6a",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 15,
+                    "shares": 42,
+                    "reach": 2712
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

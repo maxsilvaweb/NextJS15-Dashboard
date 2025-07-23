@@ -1,0 +1,26 @@
+{
+    "user_id": "78f6b841-a71e-4596-a95a-b275974ab707",
+    "name": "???",
+    "email": "Dorothea_Fay43@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 85,
+                    "reach": 7527
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

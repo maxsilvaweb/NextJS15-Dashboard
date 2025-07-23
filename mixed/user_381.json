@@ -1,0 +1,26 @@
+{
+    "user_id": "01fa48b7-7d19-477a-a33f-a1e640b2efeb",
+    "name": "Roosevelt Cummings",
+    "email": "Leone72@gmail.com",
+    "instagram_handle": "@Celia.Wiegand",
+    "tiktok_handle": "@Mireya58",
+    "joined_at": "2024-05-01T14:02:45.970Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8e988f5c-fff4-4365-a303-d59b2141caeb",
+            "brand": "DuBuque Group",
+            "tasks_completed": [
+                {
+                    "task_id": "6f9c1ee7-f0d1-4ca0-ac6b-5c7f6f0136f3",
+                    "platform": "Instagram",
+                    "post_url": "https://gentle-schedule.info",
+                    "likes": 205,
+                    "comments": 38,
+                    "shares": 62,
+                    "reach": 3241
+                }
+            ],
+            "total_sales_attributed": 3696.93352670769
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "98de5dfd-927f-4f54-aca9-f4d163fd0945",
+    "name": "Terence Ullrich",
+    "email": "Abdullah.Berge@yahoo.com",
+    "instagram_handle": "@Trenton_Botsford",
+    "tiktok_handle": "@Dock_Aufderhar",
+    "joined_at": "2025-02-07T10:38:32.260Z",
+    "advocacy_programs": [
+        {
+            "program_id": "72135291-c9c0-4ce3-ae1b-bcf34059c6d4",
+            "brand": "Erdman, Donnelly and Daniel",
+            "tasks_completed": [
+                {
+                    "task_id": "20070275-30ba-4c49-8abc-7f686d9f77bd",
+                    "platform": "Instagram",
+                    "post_url": "https://wee-fun.info/",
+                    "likes": 92,
+                    "comments": 30,
+                    "shares": 45,
+                    "reach": 3829
+                }
+            ],
+            "total_sales_attributed": 937.2939382475283
+        }
+    ]
+}

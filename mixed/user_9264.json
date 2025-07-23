@@ -1,0 +1,26 @@
+{
+    "user_id": "0cec4092-2c3d-490a-b469-50bd273355c0",
+    "name": "Monique Pacocha",
+    "email": "Lily.Harber-Yundt6@hotmail.com",
+    "instagram_handle": "@Bell_Wintheiser",
+    "tiktok_handle": "@Edmond.Jakubowski",
+    "joined_at": "2024-04-11T06:25:38.954Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c52b7026-13ec-4a30-80c4-ee4426b7c9f0",
+            "brand": "Wiegand, Mertz and Greenholt",
+            "tasks_completed": [
+                {
+                    "task_id": "ab8e04be-7815-4784-90f0-c5481d2ece02",
+                    "platform": "TikTok",
+                    "post_url": "https://sour-labourer.net",
+                    "likes": 382,
+                    "comments": 2,
+                    "shares": 99,
+                    "reach": 2739
+                }
+            ],
+            "total_sales_attributed": 2864.267272401649
+        }
+    ]
+}

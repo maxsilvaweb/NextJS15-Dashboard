@@ -1,0 +1,26 @@
+{
+    "user_id": "66321148-6ae0-42ab-b6ed-98a3fec50c71",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://only-bran.info/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 48,
+                    "reach": 8909
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

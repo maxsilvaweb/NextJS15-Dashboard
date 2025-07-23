@@ -1,0 +1,26 @@
+{
+    "user_id": "c4ab00b2-f24b-4601-b2ad-ff7d98309816",
+    "name": "Milton Harvey",
+    "email": "Rosendo.Schinner17@gmail.com",
+    "instagram_handle": "@Rosamond_Moen",
+    "tiktok_handle": "@Pansy.VonRueden10",
+    "joined_at": "2024-08-31T19:25:08.207Z",
+    "advocacy_programs": [
+        {
+            "program_id": "14d855a3-27c4-46f9-84af-2c8091eb210c",
+            "brand": "Bernier LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "8803fde6-723c-4bb8-b24c-bac9cf911abf",
+                    "platform": "TikTok",
+                    "post_url": "https://agile-coal.net",
+                    "likes": 229,
+                    "comments": 45,
+                    "shares": 2,
+                    "reach": 2585
+                }
+            ],
+            "total_sales_attributed": 1394.3418960303409
+        }
+    ]
+}

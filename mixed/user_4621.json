@@ -1,0 +1,26 @@
+{
+    "user_id": "17faa10b-8f8a-4f7d-b8be-a97f7654495a",
+    "name": "Woodrow Hansen",
+    "email": "Vivien_Klein@gmail.com",
+    "instagram_handle": "@Vada_Goldner48",
+    "tiktok_handle": "@Nadia45",
+    "joined_at": "2024-11-09T20:05:46.206Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ff5a8ace-91e8-4110-91ef-8c480b09cf57",
+            "brand": "Kemmer, Wyman and Stark",
+            "tasks_completed": [
+                {
+                    "task_id": "eebae5a1-29e3-482a-8845-0bb07947cf1b",
+                    "platform": "TikTok",
+                    "post_url": "https://oily-conversation.net",
+                    "likes": 307,
+                    "comments": 20,
+                    "shares": 9,
+                    "reach": 9205
+                }
+            ],
+            "total_sales_attributed": 622.1166815082619
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cad6eb74-ce77-4732-9083-d43d850c1e3e",
+    "name": "Dr. Ruben Mills",
+    "email": "Loren_Kautzer@yahoo.com",
+    "instagram_handle": "@Luis.Beatty71",
+    "tiktok_handle": "@Cale81",
+    "joined_at": "2024-05-13T00:02:00.704Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2c9fde13-2b52-44c5-ba19-00891772550b",
+            "brand": "Schmidt - Bernhard",
+            "tasks_completed": [
+                {
+                    "task_id": "6e8df6d4-9c3a-4016-b2d2-289a3b4ec924",
+                    "platform": "Instagram",
+                    "post_url": "https://worthless-unblinking.net/",
+                    "likes": 292,
+                    "comments": 6,
+                    "shares": 32,
+                    "reach": 9213
+                }
+            ],
+            "total_sales_attributed": 618.7469715928612
+        }
+    ]
+}

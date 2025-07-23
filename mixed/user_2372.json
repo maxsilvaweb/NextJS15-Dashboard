@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Pierce84",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "188c05b3-b831-4ace-9b45-7848f6fa2ef0",
+                    "platform": 123,
+                    "post_url": "https://unused-hyphenation.net",
+                    "likes": 332,
+                    "comments": null,
+                    "shares": 8,
+                    "reach": 1337
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

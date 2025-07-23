@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Syble.Sanford79@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Lauriane_Schuster",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://quick-witted-dandelion.biz",
+                    "likes": 10,
+                    "comments": null,
+                    "shares": 3,
+                    "reach": 4976
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "04de259f-8f9a-4e2c-9a95-72fe845a3b6a",
+    "name": "Mable O'Reilly",
+    "email": "Nolan.Schulist@hotmail.com",
+    "instagram_handle": "@Jasen_VonRueden",
+    "tiktok_handle": "@Davion.Watsica",
+    "joined_at": "2024-07-14T15:34:40.810Z",
+    "advocacy_programs": [
+        {
+            "program_id": "93c6feff-6149-4dba-8feb-9a0e6d27f679",
+            "brand": "Gulgowski - Sipes",
+            "tasks_completed": [
+                {
+                    "task_id": "5824837a-f977-4a2a-9aa8-e88e40d7bdfa",
+                    "platform": "TikTok",
+                    "post_url": "https://expensive-petticoat.net",
+                    "likes": 205,
+                    "comments": 23,
+                    "shares": 20,
+                    "reach": 1898
+                }
+            ],
+            "total_sales_attributed": 3683.217441733208
+        }
+    ]
+}

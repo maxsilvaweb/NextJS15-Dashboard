@@ -1,0 +1,26 @@
+{
+    "user_id": "5cd869c3-bfc4-4a79-8d6f-3f140fddc62c",
+    "name": "Dr. Douglas Maggio",
+    "email": "Javonte_Lindgren@gmail.com",
+    "instagram_handle": "@Mya_Dach",
+    "tiktok_handle": "@Myah_Hyatt62",
+    "joined_at": "2025-01-04T18:11:45.377Z",
+    "advocacy_programs": [
+        {
+            "program_id": "19139dfa-7a1d-4771-8de5-ddda75c9f55b",
+            "brand": "Miller, Nikolaus and Smitham",
+            "tasks_completed": [
+                {
+                    "task_id": "86ef622d-f4de-44ba-855e-8eb117abd39e",
+                    "platform": "TikTok",
+                    "post_url": "https://tidy-hovel.biz",
+                    "likes": 402,
+                    "comments": 4,
+                    "shares": 43,
+                    "reach": 2656
+                }
+            ],
+            "total_sales_attributed": 3549.2438164588493
+        }
+    ]
+}

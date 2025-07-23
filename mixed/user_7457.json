@@ -1,0 +1,26 @@
+{
+    "user_id": "030a36cc-4589-4c58-be94-47bba4bd2f20",
+    "name": "Teri Herzog",
+    "email": "Deon.Bernier76@gmail.com",
+    "instagram_handle": "@Vivian_Lemke39",
+    "tiktok_handle": "@Pearlie.Raynor28",
+    "joined_at": "2024-05-23T03:26:00.297Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4d31cb5d-4afe-4a69-a3ce-83af2677dc37",
+            "brand": "Rippin - Skiles",
+            "tasks_completed": [
+                {
+                    "task_id": "25fa8e17-54de-4b39-9d54-28f558e84bae",
+                    "platform": "Instagram",
+                    "post_url": "https://ripe-prohibition.name",
+                    "likes": 122,
+                    "comments": 17,
+                    "shares": 27,
+                    "reach": 8429
+                }
+            ],
+            "total_sales_attributed": 166.46105043656337
+        }
+    ]
+}

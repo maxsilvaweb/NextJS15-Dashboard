@@ -1,0 +1,25 @@
+{
+    "user_id": null,
+    "name": "Dean Goyette",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://puzzled-meal.name/",
+                    "likes": 436,
+                    "comments": 41,
+                    "shares": 40,
+                    "reach": 5190
+                }
+            ],
+            "total_sales_attributed": 3774.9272784893483
+        }
+    ]

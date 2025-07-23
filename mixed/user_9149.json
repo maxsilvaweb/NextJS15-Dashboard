@@ -1,0 +1,26 @@
+{
+    "user_id": "4ddc6123-afb5-4e9c-8b98-8bc5a7d9d9fd",
+    "name": "Kelly Reilly",
+    "email": "Mya39@yahoo.com",
+    "instagram_handle": "@Ava56",
+    "tiktok_handle": "@Emmy_Waelchi",
+    "joined_at": "2025-02-13T22:23:47.728Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a8074307-81d1-4696-b05b-6fcf26c3060f",
+            "brand": "Ferry Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b948c5fe-d418-4d85-894d-3a3865931047",
+                    "platform": "TikTok",
+                    "post_url": "https://fussy-cricket.name",
+                    "likes": 121,
+                    "comments": 5,
+                    "shares": 62,
+                    "reach": 9416
+                }
+            ],
+            "total_sales_attributed": 2625.821152178758
+        }
+    ]
+}

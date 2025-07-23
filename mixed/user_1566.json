@@ -1,0 +1,26 @@
+{
+    "user_id": "221eedc2-e8d1-49d1-8b1f-e7b4dd807b3a",
+    "name": "Wallace Schamberger",
+    "email": "Alyson_Koss@gmail.com",
+    "instagram_handle": "@Rachelle.Cassin59",
+    "tiktok_handle": "@Francesca29",
+    "joined_at": "2024-12-04T10:11:23.553Z",
+    "advocacy_programs": [
+        {
+            "program_id": "08e68413-8415-4ad1-b11a-7bb3e90dce1e",
+            "brand": "Marks - Zboncak",
+            "tasks_completed": [
+                {
+                    "task_id": "ce878e23-461c-4cff-b1e4-3c7450a6781d",
+                    "platform": "TikTok",
+                    "post_url": "https://ultimate-carnival.biz",
+                    "likes": 202,
+                    "comments": 49,
+                    "shares": 16,
+                    "reach": 5666
+                }
+            ],
+            "total_sales_attributed": 2875.877837711847
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7545eadb-04cc-47c4-b28f-95689b65fc59",
+    "name": "Caleb Senger",
+    "email": "Stefan10@gmail.com",
+    "instagram_handle": "@Sonny.Lebsack",
+    "tiktok_handle": "@Trisha35",
+    "joined_at": "2024-08-23T03:37:34.840Z",
+    "advocacy_programs": [
+        {
+            "program_id": "786c6cfd-fdf5-46d7-82e7-2e5ec5e95803",
+            "brand": "Ryan LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "201b3119-2e1c-43be-a9f1-df458468481b",
+                    "platform": "TikTok",
+                    "post_url": "https://strong-morbidity.org",
+                    "likes": 376,
+                    "comments": 4,
+                    "shares": 50,
+                    "reach": 9615
+                }
+            ],
+            "total_sales_attributed": 930.4552677065047
+        }
+    ]
+}

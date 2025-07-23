@@ -1,0 +1,26 @@
+{
+    "user_id": "6452d49d-2c3b-456a-8ae5-784b65080a39",
+    "name": "???",
+    "email": "Ward60@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Zella_Donnelly88",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Jaskolski, Gibson and Hammes",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 5,
+                    "reach": 1768
+                }
+            ],
+            "total_sales_attributed": 3583.981054929442
+        }
+    ]
+}

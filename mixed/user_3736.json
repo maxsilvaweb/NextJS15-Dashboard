@@ -1,0 +1,26 @@
+{
+    "user_id": "3bc22420-d758-4143-ad64-12bd399bceb1",
+    "name": "Nicholas Senger",
+    "email": "Ray_Cormier@gmail.com",
+    "instagram_handle": "@Tyrique70",
+    "tiktok_handle": "@Ally48",
+    "joined_at": "2024-10-19T19:57:10.330Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5a4431c6-5aba-4c26-957e-d1729b7300cd",
+            "brand": "Wiegand, Stamm and Feest",
+            "tasks_completed": [
+                {
+                    "task_id": "7d4d043a-eab7-42cc-bda1-ed08fd179239",
+                    "platform": "TikTok",
+                    "post_url": "https://prudent-yarmulke.com",
+                    "likes": 491,
+                    "comments": 42,
+                    "shares": 86,
+                    "reach": 3532
+                }
+            ],
+            "total_sales_attributed": 1900.7732548146566
+        }
+    ]
+}

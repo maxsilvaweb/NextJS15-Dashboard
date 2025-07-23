@@ -1,0 +1,26 @@
+{
+    "user_id": "9e3b4675-de1e-452f-99e9-c6f1d142d929",
+    "name": "Trevor Konopelski",
+    "email": "Chet_Kessler95@hotmail.com",
+    "instagram_handle": "@Casper65",
+    "tiktok_handle": "@Gerard46",
+    "joined_at": "2024-10-29T17:22:50.528Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d4c1fb96-660a-456d-a2b1-80d8c5ce1a98",
+            "brand": "Reinger and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "3dab4cbd-02fb-44b3-960b-ecda5ba50254",
+                    "platform": "TikTok",
+                    "post_url": "https://superior-birth.name",
+                    "likes": 167,
+                    "comments": 26,
+                    "shares": 85,
+                    "reach": 1637
+                }
+            ],
+            "total_sales_attributed": 4945.996301489764
+        }
+    ]
+}

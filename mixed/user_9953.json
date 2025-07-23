@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Dayton_Wiza67",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2025-02-17T18:06:49.322Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://brilliant-wedding.org",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 22,
+                    "reach": 3038
+                }
+            ],
+            "total_sales_attributed": 4286.750451918544
+        }
+    ]
+}

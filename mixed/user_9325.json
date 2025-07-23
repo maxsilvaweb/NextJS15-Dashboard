@@ -1,0 +1,26 @@
+{
+    "user_id": "7d1e8474-d147-47b0-a9c6-945ac3e2c986",
+    "name": "Michelle Bins",
+    "email": "Alfonso.Feest@hotmail.com",
+    "instagram_handle": "@Jaiden_Hintz61",
+    "tiktok_handle": "@Nona0",
+    "joined_at": "2025-01-31T05:10:16.683Z",
+    "advocacy_programs": [
+        {
+            "program_id": "32107a1e-6214-4a88-ae08-08b4b39eb26a",
+            "brand": "Thompson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "cfc51e09-efb3-4f7d-beb1-0cd5e8426d08",
+                    "platform": "TikTok",
+                    "post_url": "https://elementary-costume.org/",
+                    "likes": 12,
+                    "comments": 40,
+                    "shares": 11,
+                    "reach": 1397
+                }
+            ],
+            "total_sales_attributed": 1364.1549711879168
+        }
+    ]
+}

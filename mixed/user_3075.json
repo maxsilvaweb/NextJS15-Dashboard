@@ -1,0 +1,26 @@
+{
+    "user_id": "6a2788c4-1d62-4e9a-b55f-4dbd0592721a",
+    "name": "Ollie Funk",
+    "email": "Elisa_Quitzon68@yahoo.com",
+    "instagram_handle": "@Chanelle.Kunze85",
+    "tiktok_handle": "@Quinten.Gutmann",
+    "joined_at": "2024-05-30T13:32:36.850Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2599a1cc-959a-45f6-a2ca-93f0dee512b5",
+            "brand": "Hackett - McClure",
+            "tasks_completed": [
+                {
+                    "task_id": "e0b1caeb-031a-492a-a58a-32e37349eec6",
+                    "platform": "TikTok",
+                    "post_url": "https://criminal-wedding.org",
+                    "likes": 191,
+                    "comments": 37,
+                    "shares": 2,
+                    "reach": 1430
+                }
+            ],
+            "total_sales_attributed": 703.2726530663749
+        }
+    ]
+}

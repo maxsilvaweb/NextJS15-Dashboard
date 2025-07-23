@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Reginald_Will57",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "2f5a2c3e-d33e-46ec-add2-8c4f20227930",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 37,
+                    "shares": 16,
+                    "reach": 4637
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7dad13b1-a710-48a0-ba12-ae05d085789d",
+    "name": "Olivia Grant",
+    "email": "Dusty.Gutkowski@gmail.com",
+    "instagram_handle": "@Rosie80",
+    "tiktok_handle": "@Noemi_Schiller31",
+    "joined_at": "2024-08-27T05:37:08.744Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0df3428c-5154-468c-a0e2-9b3a615a4e5c",
+            "brand": "Zemlak, Emmerich and Boyer",
+            "tasks_completed": [
+                {
+                    "task_id": "fb605b19-b44a-4fae-8e6c-3d3e12dfd717",
+                    "platform": "Instagram",
+                    "post_url": "https://handy-redesign.org/",
+                    "likes": 122,
+                    "comments": 36,
+                    "shares": 50,
+                    "reach": 6232
+                }
+            ],
+            "total_sales_attributed": 2561.4345893845566
+        }
+    ]
+}

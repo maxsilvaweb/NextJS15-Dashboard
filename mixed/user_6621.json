@@ -1,0 +1,26 @@
+{
+    "user_id": "c4e6379b-691c-4d4d-8729-d23db4756fdd",
+    "name": "Edna Kutch",
+    "email": "Cathy92@yahoo.com",
+    "instagram_handle": "@Genesis89",
+    "tiktok_handle": "@Aletha2",
+    "joined_at": "2024-05-20T19:45:25.870Z",
+    "advocacy_programs": [
+        {
+            "program_id": "39d89cd0-0105-448c-afa2-2010334e2dcb",
+            "brand": "Breitenberg LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1733a143-982e-48c0-b2d1-02c7a56e37be",
+                    "platform": "TikTok",
+                    "post_url": "https://faint-fax.biz/",
+                    "likes": 154,
+                    "comments": 24,
+                    "shares": 99,
+                    "reach": 6416
+                }
+            ],
+            "total_sales_attributed": 1446.8476721678626
+        }
+    ]
+}

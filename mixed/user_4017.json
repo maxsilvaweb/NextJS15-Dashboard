@@ -1,0 +1,26 @@
+{
+    "user_id": "5cd75c05-56c2-494f-8f96-fe4ef22393e2",
+    "name": "Jeff Wehner",
+    "email": "Dora61@gmail.com",
+    "instagram_handle": "@Scottie80",
+    "tiktok_handle": "@Georgianna_Champlin53",
+    "joined_at": "2024-05-02T08:08:28.489Z",
+    "advocacy_programs": [
+        {
+            "program_id": "991c3667-b97a-4f18-a634-c75203dd71d2",
+            "brand": "Homenick, Heaney and Terry",
+            "tasks_completed": [
+                {
+                    "task_id": "2b8724bc-eb22-4683-bf7a-1580c6ae7c7a",
+                    "platform": "Instagram",
+                    "post_url": "https://delicious-label.info/",
+                    "likes": 197,
+                    "comments": 19,
+                    "shares": 68,
+                    "reach": 8048
+                }
+            ],
+            "total_sales_attributed": 4040.374374619785
+        }
+    ]
+}

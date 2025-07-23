@@ -1,0 +1,25 @@
+{
+    "user_id": "8a1d386c-9851-4b03-af8b-6a6b0ef5349c",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Ondricka - Auer",
+            "tasks_completed": [
+                {
+                    "task_id": "bbcf60eb-8fcc-4f87-84ed-8f4d5118d206",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 6,
+                    "reach": 2120
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

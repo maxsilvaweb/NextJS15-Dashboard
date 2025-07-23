@@ -1,0 +1,26 @@
+{
+    "user_id": "8b42e53d-590f-4d0d-be23-022eae0e5454",
+    "name": "Roman Kub",
+    "email": "Odie92@yahoo.com",
+    "instagram_handle": "@Eula.Schamberger",
+    "tiktok_handle": "@Elenora.Simonis79",
+    "joined_at": "2025-01-04T06:04:46.726Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1560fa69-504d-41ed-a0bb-f433f337c61b",
+            "brand": "Kuvalis - Langworth",
+            "tasks_completed": [
+                {
+                    "task_id": "314261d3-904f-470a-bb37-bfdc89fc74ae",
+                    "platform": "Instagram",
+                    "post_url": "https://emotional-gym.info",
+                    "likes": 470,
+                    "comments": 1,
+                    "shares": 3,
+                    "reach": 7792
+                }
+            ],
+            "total_sales_attributed": 1659.468241002238
+        }
+    ]
+}

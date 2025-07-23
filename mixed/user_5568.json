@@ -1,0 +1,26 @@
+{
+    "user_id": "24aab20d-d07e-4c89-b954-a317761e5edc",
+    "name": "Mrs. Sylvia Bogan",
+    "email": "Zechariah46@yahoo.com",
+    "instagram_handle": "@Leone_Marvin",
+    "tiktok_handle": "@Imani68",
+    "joined_at": "2024-11-11T20:48:43.372Z",
+    "advocacy_programs": [
+        {
+            "program_id": "30db021d-fa4c-4253-9f25-0089c167f26b",
+            "brand": "Ritchie - Torphy",
+            "tasks_completed": [
+                {
+                    "task_id": "1e04b2f1-f45f-48c3-b480-439705dcebb9",
+                    "platform": "Instagram",
+                    "post_url": "https://shrill-redesign.com",
+                    "likes": 127,
+                    "comments": 47,
+                    "shares": 6,
+                    "reach": 8182
+                }
+            ],
+            "total_sales_attributed": 4445.87500646887
+        }
+    ]
+}

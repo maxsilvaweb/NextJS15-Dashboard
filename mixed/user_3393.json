@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Khalil71",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://hefty-straw.org",
+                    "likes": "NaN",
+                    "comments": 43,
+                    "shares": 98,
+                    "reach": 7334
+                }
+            ],
+            "total_sales_attributed": 3388.7200777708176
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "fa5cb814-193f-4104-bd94-e15c17836b88",
+    "name": "Wendy Koss",
+    "email": "Nellie_Green47@yahoo.com",
+    "instagram_handle": "@Larue_Kessler",
+    "tiktok_handle": "@Florencio10",
+    "joined_at": "2024-04-12T14:47:54.206Z",
+    "advocacy_programs": [
+        {
+            "program_id": "48f92574-b510-4a49-a13c-489205d5d59d",
+            "brand": "Kuhic - Koepp",
+            "tasks_completed": [
+                {
+                    "task_id": "c7d1e979-b32e-49e8-b7a3-e6e8bb0da6ad",
+                    "platform": "TikTok",
+                    "post_url": "https://favorite-heating.net",
+                    "likes": 118,
+                    "comments": 25,
+                    "shares": 0,
+                    "reach": 2038
+                }
+            ],
+            "total_sales_attributed": 3245.7865864973896
+        }
+    ]
+}

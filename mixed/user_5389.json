@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "a1199451-03ef-40a7-9dba-9c793d68cbd1",
+            "brand": "Schoen Inc",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 45,
+                    "shares": 44,
+                    "reach": 3451
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

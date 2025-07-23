@@ -1,0 +1,26 @@
+{
+    "user_id": "538fb3b5-1198-405e-8b8d-7b5f7bc9e344",
+    "name": "Pamela D'Amore",
+    "email": "Gina.Haley@gmail.com",
+    "instagram_handle": "@Crystal.Larson",
+    "tiktok_handle": "@Gabrielle.Thompson8",
+    "joined_at": "2024-09-06T09:20:13.050Z",
+    "advocacy_programs": [
+        {
+            "program_id": "70c8d52d-bc6d-4c40-bb71-babaa33cf9b8",
+            "brand": "Hoeger and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "be0d9715-dde9-4806-8c28-9227c06cbcd3",
+                    "platform": "TikTok",
+                    "post_url": "https://joyous-backburn.com",
+                    "likes": 100,
+                    "comments": 34,
+                    "shares": 43,
+                    "reach": 5524
+                }
+            ],
+            "total_sales_attributed": 2236.6649704727906
+        }
+    ]
+}

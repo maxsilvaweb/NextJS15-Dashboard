@@ -1,0 +1,26 @@
+{
+    "user_id": "4f6d6a55-94e8-49a1-a05c-fd4aba54d233",
+    "name": "Allan Reichert III",
+    "email": "Samara97@hotmail.com",
+    "instagram_handle": "@Jeanie.Kerluke29",
+    "tiktok_handle": "@Einar.Christiansen",
+    "joined_at": "2025-02-24T09:51:57.263Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e6b6eb7e-82cb-4fb3-97bb-a2423f1ef54b",
+            "brand": "Franecki, Mueller and Langosh",
+            "tasks_completed": [
+                {
+                    "task_id": "216b7f5b-bd39-44c0-b935-024cde0788e5",
+                    "platform": "TikTok",
+                    "post_url": "https://lovely-cleaner.name/",
+                    "likes": 37,
+                    "comments": 46,
+                    "shares": 96,
+                    "reach": 4294
+                }
+            ],
+            "total_sales_attributed": 1665.9338539419764
+        }
+    ]
+}

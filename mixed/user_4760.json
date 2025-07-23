@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Nikita_Tillman6@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "9ab46819-4395-4526-8cb2-496745de83f7",
+            "brand": "Brakus, Kohler and Lueilwitz",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 38,
+                    "comments": 17,
+                    "shares": 15,
+                    "reach": 2904
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

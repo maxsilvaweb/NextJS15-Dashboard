@@ -1,0 +1,26 @@
+{
+    "user_id": "1efeff13-a050-4127-b025-07e02b03b097",
+    "name": "Stella Stark",
+    "email": "Sonia_Schulist@yahoo.com",
+    "instagram_handle": "@Rocio75",
+    "tiktok_handle": "@Vicente31",
+    "joined_at": "2025-01-11T09:46:03.004Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8f85e3f8-6e22-4f78-bb57-e946f5096e40",
+            "brand": "Zulauf - Ratke",
+            "tasks_completed": [
+                {
+                    "task_id": "0f7d9a77-ce1b-44eb-a76b-721d4f170b66",
+                    "platform": "Instagram",
+                    "post_url": "https://slight-underneath.info/",
+                    "likes": 237,
+                    "comments": 17,
+                    "shares": 51,
+                    "reach": 7761
+                }
+            ],
+            "total_sales_attributed": 1731.1995382945972
+        }
+    ]
+}

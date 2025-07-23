@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "796ef6d6-157b-4a24-a2f2-da8dfafdb502",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://proud-outrun.com/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 89,
+                    "reach": 6544
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d56a4b55-c4a8-4dac-af19-cd7c193d9775",
+    "name": "Kristopher Auer DVM",
+    "email": "Karli.Schimmel@gmail.com",
+    "instagram_handle": "@Aniya_Raynor",
+    "tiktok_handle": "@Meda41",
+    "joined_at": "2024-09-23T21:58:38.423Z",
+    "advocacy_programs": [
+        {
+            "program_id": "92e9429b-43e4-405c-b681-eeb9dea5c2b1",
+            "brand": "Legros, Gutkowski and Swaniawski",
+            "tasks_completed": [
+                {
+                    "task_id": "6040c526-3730-4c46-8890-4fc23776c6d8",
+                    "platform": "TikTok",
+                    "post_url": "https://frizzy-blowgun.com",
+                    "likes": 387,
+                    "comments": 37,
+                    "shares": 7,
+                    "reach": 903
+                }
+            ],
+            "total_sales_attributed": 3691.5396425195963
+        }
+    ]
+}

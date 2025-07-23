@@ -1,0 +1,26 @@
+{
+    "user_id": "16bf1dbc-1ef7-4b8b-8dcd-d048822325e9",
+    "name": "Mr. Jermaine Wiegand",
+    "email": "Dock_Trantow78@yahoo.com",
+    "instagram_handle": "@Danny.Tremblay47",
+    "tiktok_handle": "@Yolanda_Leuschke-Lakin32",
+    "joined_at": "2024-04-17T17:20:57.276Z",
+    "advocacy_programs": [
+        {
+            "program_id": "70a8ce74-2e81-44c2-b24f-3880df0fa7c3",
+            "brand": "Connelly, Bradtke and Crist",
+            "tasks_completed": [
+                {
+                    "task_id": "f24c50a3-0977-4027-8ddc-9eadb7279081",
+                    "platform": "TikTok",
+                    "post_url": "https://these-linseed.name/",
+                    "likes": 62,
+                    "comments": 13,
+                    "shares": 97,
+                    "reach": 3181
+                }
+            ],
+            "total_sales_attributed": 2178.0701750782036
+        }
+    ]
+}

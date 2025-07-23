@@ -1,0 +1,26 @@
+{
+    "user_id": "95b8b1c0-866d-440a-a98e-a08357c7c6e9",
+    "name": "Christian Bauch",
+    "email": "Noah41@yahoo.com",
+    "instagram_handle": "@Toby_Labadie-Howell",
+    "tiktok_handle": "@Chaim77",
+    "joined_at": "2024-08-02T20:03:03.076Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eebf004d-53cb-4290-aa36-4c0c6507b102",
+            "brand": "Kassulke, Weissnat and McGlynn",
+            "tasks_completed": [
+                {
+                    "task_id": "b2f25160-fb55-4831-9401-54a05923f847",
+                    "platform": "TikTok",
+                    "post_url": "https://cultivated-tooth.biz/",
+                    "likes": 329,
+                    "comments": 41,
+                    "shares": 8,
+                    "reach": 4490
+                }
+            ],
+            "total_sales_attributed": 4622.342106734728
+        }
+    ]
+}

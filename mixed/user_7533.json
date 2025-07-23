@@ -1,0 +1,26 @@
+{
+    "user_id": "1b334969-b71c-4e42-97af-b8a06cb0f9b4",
+    "name": "Cory Kshlerin",
+    "email": "Hilma13@hotmail.com",
+    "instagram_handle": "@Isac.Cruickshank-Hilpert3",
+    "tiktok_handle": "@Rickey.Raynor",
+    "joined_at": "2024-08-03T04:11:21.790Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d21e27da-3ba9-47ea-a2fc-1f56375048e7",
+            "brand": "Rippin, Skiles and Lakin",
+            "tasks_completed": [
+                {
+                    "task_id": "faa9f1d5-c43b-4af6-a2b6-131bc21fe723",
+                    "platform": "Instagram",
+                    "post_url": "https://selfish-fellow.org",
+                    "likes": 20,
+                    "comments": 39,
+                    "shares": 11,
+                    "reach": 4939
+                }
+            ],
+            "total_sales_attributed": 4967.254556773135
+        }
+    ]
+}

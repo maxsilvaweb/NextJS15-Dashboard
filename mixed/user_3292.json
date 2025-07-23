@@ -1,0 +1,26 @@
+{
+    "user_id": "a75ae2c9-091d-4ab1-b71e-3e0376769cb0",
+    "name": "Isabel Lind",
+    "email": "Cooper.Orn@gmail.com",
+    "instagram_handle": "@Wilhelm_Shields22",
+    "tiktok_handle": "@Betty.Barton52",
+    "joined_at": "2025-03-10T10:11:25.392Z",
+    "advocacy_programs": [
+        {
+            "program_id": "82c38dec-9e94-4c21-b1c2-8f5c0e9cedea",
+            "brand": "Dooley LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "8d849e1f-9dc3-4473-a3c5-41e6b5e3fe57",
+                    "platform": "Instagram",
+                    "post_url": "https://common-governance.name",
+                    "likes": 33,
+                    "comments": 15,
+                    "shares": 16,
+                    "reach": 8149
+                }
+            ],
+            "total_sales_attributed": 4499.7487953028485
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cf523ee5-9d4b-4f6e-b6cb-e06b46b09bed",
+    "name": "Manuel Hirthe",
+    "email": "Emmitt65@gmail.com",
+    "instagram_handle": "@Jerrell.Yost",
+    "tiktok_handle": "@Jamey.Ryan-Mertz22",
+    "joined_at": "2024-10-09T22:53:40.775Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d4423aa7-3c8f-4634-bce4-be43f4b0ad12",
+            "brand": "Goodwin Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "913188c4-e93f-4d96-90c1-e06451bf3e23",
+                    "platform": "TikTok",
+                    "post_url": "https://jittery-baseboard.name",
+                    "likes": 482,
+                    "comments": 42,
+                    "shares": 67,
+                    "reach": 1458
+                }
+            ],
+            "total_sales_attributed": 1002.7401722359418
+        }
+    ]
+}

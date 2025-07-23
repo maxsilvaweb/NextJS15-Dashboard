@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Michale_OReilly",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Denesik Inc",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://miserable-commercial.info",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 39,
+                    "reach": 5224
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

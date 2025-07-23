@@ -1,0 +1,26 @@
+{
+    "user_id": "0cff6796-c062-4a72-b461-aaa5e49c1fbe",
+    "name": "Bernice Gislason",
+    "email": "Olen15@hotmail.com",
+    "instagram_handle": "@Tracy_Jakubowski10",
+    "tiktok_handle": "@Trudie.Ritchie",
+    "joined_at": "2024-09-28T08:59:17.452Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dcf00910-437c-4415-b477-c0426a7d6a9a",
+            "brand": "Schuster, Stark and Glover",
+            "tasks_completed": [
+                {
+                    "task_id": "697a988e-f743-4d9a-b480-761e56051112",
+                    "platform": "TikTok",
+                    "post_url": "https://those-receptor.org",
+                    "likes": 499,
+                    "comments": 15,
+                    "shares": 93,
+                    "reach": 6462
+                }
+            ],
+            "total_sales_attributed": 3508.105786059831
+        }
+    ]
+}

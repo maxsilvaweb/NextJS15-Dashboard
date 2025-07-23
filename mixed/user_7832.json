@@ -1,0 +1,26 @@
+{
+    "user_id": "dff88009-129a-49c4-9ef5-77ffbd60aeb3",
+    "name": "Pearl Osinski",
+    "email": "Timothy75@hotmail.com",
+    "instagram_handle": "@Zora.Hoppe",
+    "tiktok_handle": "@Sallie47",
+    "joined_at": "2025-03-17T04:19:19.336Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a43953a3-84dc-4b4f-9cca-06cdc2fca967",
+            "brand": "Beahan Group",
+            "tasks_completed": [
+                {
+                    "task_id": "56a24863-25b3-4655-a371-ab0325f73ce6",
+                    "platform": "TikTok",
+                    "post_url": "https://stupendous-monocle.org",
+                    "likes": 419,
+                    "comments": 14,
+                    "shares": 91,
+                    "reach": 4805
+                }
+            ],
+            "total_sales_attributed": 380.2728035757871
+        }
+    ]
+}

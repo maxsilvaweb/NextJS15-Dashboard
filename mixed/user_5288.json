@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Antoinette Kemmer PhD",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "f87b3de0-c6fe-4fe9-80fc-b31ed535eb7f",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "05b18092-6b33-4243-afd0-ed0183df7f73",
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 24,
+                    "reach": 1732
+                }
+            ],
+            "total_sales_attributed": 534.6974992125199
+        }
+    ]
+}

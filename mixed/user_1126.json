@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Mr. Donnie Rohan III",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "ccfc7ad7-ae07-4bc2-b52d-be02696bb488",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 24,
+                    "reach": 4873
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

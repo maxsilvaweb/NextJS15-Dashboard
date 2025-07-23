@@ -1,0 +1,26 @@
+{
+    "user_id": "547aeab1-8b16-4c2a-acdf-295754860f05",
+    "name": "Jaime Stracke",
+    "email": "Marge37@hotmail.com",
+    "instagram_handle": "@Arjun.Cremin",
+    "tiktok_handle": "@Tracy_Wisoky",
+    "joined_at": "2025-01-31T09:56:51.146Z",
+    "advocacy_programs": [
+        {
+            "program_id": "45b4026a-d75c-4001-98e3-2ede22992494",
+            "brand": "Lindgren LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a65d9791-d21a-4564-868b-fc9a8400342b",
+                    "platform": "Instagram",
+                    "post_url": "https://plump-giggle.net/",
+                    "likes": 435,
+                    "comments": 6,
+                    "shares": 27,
+                    "reach": 2681
+                }
+            ],
+            "total_sales_attributed": 1973.9910933935073
+        }
+    ]
+}

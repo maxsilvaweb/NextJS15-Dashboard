@@ -1,0 +1,26 @@
+{
+    "user_id": "831c8ae3-1d7a-44b9-8891-af8b42449cbc",
+    "name": "Marc Baumbach",
+    "email": "Silas42@hotmail.com",
+    "instagram_handle": "@Marjory19",
+    "tiktok_handle": "@Jeramie_Batz",
+    "joined_at": "2024-03-30T05:33:32.684Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b28f1d50-0f8e-48cd-b9a8-b85bcd73eac9",
+            "brand": "Fritsch - Hand",
+            "tasks_completed": [
+                {
+                    "task_id": "97bcd7e4-fb82-4133-96da-6797171db37c",
+                    "platform": "Instagram",
+                    "post_url": "https://tepid-submitter.net/",
+                    "likes": 242,
+                    "comments": 0,
+                    "shares": 1,
+                    "reach": 3204
+                }
+            ],
+            "total_sales_attributed": 203.0291925635774
+        }
+    ]
+}

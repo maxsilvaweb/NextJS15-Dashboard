@@ -1,0 +1,26 @@
+{
+    "user_id": "c00222c0-89d5-45c0-91cc-1059d8a75845",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Grimes LLC",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://classic-puritan.biz",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 86,
+                    "reach": 2093
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "fd4eb9d6-b3e3-41b3-b999-662c07e1d8ef",
+    "name": "Luther Carroll",
+    "email": "Boris_Runte97@yahoo.com",
+    "instagram_handle": "@Dorothea_Herzog",
+    "tiktok_handle": "@Corrine.Crooks-Feeney34",
+    "joined_at": "2024-12-05T05:03:21.354Z",
+    "advocacy_programs": [
+        {
+            "program_id": "121d8009-08c9-42e6-bf97-e9ed837b66fc",
+            "brand": "Heaney Group",
+            "tasks_completed": [
+                {
+                    "task_id": "b2135aa4-0ac3-4e07-88d2-c70f7de3d79c",
+                    "platform": "TikTok",
+                    "post_url": "https://agile-battle.biz",
+                    "likes": 430,
+                    "comments": 40,
+                    "shares": 13,
+                    "reach": 7238
+                }
+            ],
+            "total_sales_attributed": 1579.816786739398
+        }
+    ]
+}

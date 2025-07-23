@@ -1,0 +1,26 @@
+{
+    "user_id": "b3ec7a75-e5e4-490b-89a1-66a1e20aa19d",
+    "name": "Michelle Anderson",
+    "email": "Kole_Bechtelar@hotmail.com",
+    "instagram_handle": "@Eldon.Greenholt71",
+    "tiktok_handle": "@Hobart3",
+    "joined_at": "2025-01-08T22:29:39.545Z",
+    "advocacy_programs": [
+        {
+            "program_id": "48662e7c-d8c9-4ffe-84b1-433b115ce6f0",
+            "brand": "Oberbrunner - Streich",
+            "tasks_completed": [
+                {
+                    "task_id": "ed7a8809-7205-4de3-a40e-5bab585df2b6",
+                    "platform": "TikTok",
+                    "post_url": "https://broken-diver.org",
+                    "likes": 151,
+                    "comments": 5,
+                    "shares": 93,
+                    "reach": 5065
+                }
+            ],
+            "total_sales_attributed": 2999.835876467141
+        }
+    ]
+}

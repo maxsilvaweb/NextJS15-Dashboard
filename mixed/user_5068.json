@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Ryleigh_Bogan23@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "286132c2-9502-41a1-a070-f2609cf34b61",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 19,
+                    "shares": 47,
+                    "reach": 2920
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

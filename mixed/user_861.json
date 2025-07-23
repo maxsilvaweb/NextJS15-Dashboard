@@ -1,0 +1,26 @@
+{
+    "user_id": "60847d7b-4cfb-4061-9f17-1fbe0614b72e",
+    "name": "Matt Metz",
+    "email": "Eusebio_Jerde13@yahoo.com",
+    "instagram_handle": "@Tanner.Veum9",
+    "tiktok_handle": "@Macie_Green79",
+    "joined_at": "2024-10-23T09:17:37.435Z",
+    "advocacy_programs": [
+        {
+            "program_id": "893bae28-b389-4e67-bb8f-c582d93d32c4",
+            "brand": "Bins, Hegmann and Ernser",
+            "tasks_completed": [
+                {
+                    "task_id": "8fe9b1ba-2348-4018-aad3-baca41aaadc5",
+                    "platform": "Instagram",
+                    "post_url": "https://swift-rust.com",
+                    "likes": 111,
+                    "comments": 5,
+                    "shares": 83,
+                    "reach": 5458
+                }
+            ],
+            "total_sales_attributed": 4180.647368840236
+        }
+    ]
+}

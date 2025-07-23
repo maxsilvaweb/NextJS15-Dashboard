@@ -1,0 +1,26 @@
+{
+    "user_id": "efb4ad57-13fb-4b50-83b1-a080c362364d",
+    "name": "Bryant Lueilwitz",
+    "email": "Meghan_Dach41@yahoo.com",
+    "instagram_handle": "@Paige77",
+    "tiktok_handle": "@Nicolette.Schinner",
+    "joined_at": "2024-08-07T02:04:40.037Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bb61bb99-eaf6-428a-881a-101fd99d26ed",
+            "brand": "Moen, Larkin and Kling",
+            "tasks_completed": [
+                {
+                    "task_id": "bba2f5cc-e67b-4677-acb9-6aa2698b3d5e",
+                    "platform": "Instagram",
+                    "post_url": "https://dental-horst.info/",
+                    "likes": 295,
+                    "comments": 42,
+                    "shares": 64,
+                    "reach": 2604
+                }
+            ],
+            "total_sales_attributed": 3929.315866216428
+        }
+    ]
+}

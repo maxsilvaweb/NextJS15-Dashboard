@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Brandi.Morar@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-05-29T11:18:12.979Z",
+    "advocacy_programs": [
+        {
+            "program_id": "46c02c2e-7cbc-4e36-aa5a-ce99733ea963",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://stiff-heartache.biz",
+                    "likes": "NaN",
+                    "comments": 16,
+                    "shares": 3,
+                    "reach": 1312
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "65407f8c-f57e-4a7d-8c44-2a0cf74c4060",
+    "name": "Domingo Nicolas",
+    "email": "Hailey_Treutel@yahoo.com",
+    "instagram_handle": "@Jeramy.Zemlak95",
+    "tiktok_handle": "@Garret_Herman74",
+    "joined_at": "2025-02-10T07:42:57.790Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ba93b5cb-e1a4-4922-ba5b-608ab647afc3",
+            "brand": "Hartmann Group",
+            "tasks_completed": [
+                {
+                    "task_id": "623eb68a-2e69-4bba-ad82-9d3f848bc8ad",
+                    "platform": "Instagram",
+                    "post_url": "https://well-groomed-interviewer.info/",
+                    "likes": 496,
+                    "comments": 30,
+                    "shares": 39,
+                    "reach": 3208
+                }
+            ],
+            "total_sales_attributed": 529.8055010468794
+        }
+    ]
+}

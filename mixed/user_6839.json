@@ -1,0 +1,26 @@
+{
+    "user_id": "cbc67fc7-3113-4f66-b67b-da9bd9d8fb87",
+    "name": "Claude Schultz",
+    "email": "Jordi13@gmail.com",
+    "instagram_handle": "@America.Walker",
+    "tiktok_handle": "@Corine.Lowe78",
+    "joined_at": "2024-06-28T14:33:36.006Z",
+    "advocacy_programs": [
+        {
+            "program_id": "96cf7266-ed11-45d1-b67d-9682a19566de",
+            "brand": "Kuvalis Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "2006c16e-02d2-4ee8-b93f-1620dde60448",
+                    "platform": "Instagram",
+                    "post_url": "https://physical-fisherman.org/",
+                    "likes": 329,
+                    "comments": 10,
+                    "shares": 73,
+                    "reach": 1578
+                }
+            ],
+            "total_sales_attributed": 1291.1618626650622
+        }
+    ]
+}

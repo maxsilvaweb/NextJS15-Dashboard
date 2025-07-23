@@ -1,0 +1,26 @@
+{
+    "user_id": "708dfa41-f197-49ec-a970-fe0a25ba699c",
+    "name": "Pablo Lebsack",
+    "email": "Hettie0@hotmail.com",
+    "instagram_handle": "@Edyth75",
+    "tiktok_handle": "@Gregory_Auer21",
+    "joined_at": "2024-08-21T18:14:00.964Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b18558ea-c3b7-4c3e-846f-e780daa44629",
+            "brand": "Gutmann, Bayer and Nitzsche",
+            "tasks_completed": [
+                {
+                    "task_id": "b98223f7-8baf-4021-a315-06b1228d94c4",
+                    "platform": "TikTok",
+                    "post_url": "https://golden-ectoderm.net",
+                    "likes": 139,
+                    "comments": 35,
+                    "shares": 18,
+                    "reach": 4859
+                }
+            ],
+            "total_sales_attributed": 4330.804867137006
+        }
+    ]
+}

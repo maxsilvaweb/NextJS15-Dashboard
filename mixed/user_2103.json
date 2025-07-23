@@ -1,0 +1,26 @@
+{
+    "user_id": "005a766e-de9f-4940-9e58-e0b765415529",
+    "name": "Dr. Glen Dietrich DDS",
+    "email": "Zella.Ankunding4@gmail.com",
+    "instagram_handle": "@Nola54",
+    "tiktok_handle": "@Darian_Parisian-Reichert13",
+    "joined_at": "2024-11-25T23:56:57.914Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0a9c42b5-f5e1-4455-ac00-9567acf03193",
+            "brand": "Wiza and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "f7936f02-345e-4a19-b1de-cab9cb477e41",
+                    "platform": "TikTok",
+                    "post_url": "https://tough-ribbon.com/",
+                    "likes": 158,
+                    "comments": 6,
+                    "shares": 31,
+                    "reach": 6262
+                }
+            ],
+            "total_sales_attributed": 4268.266728298187
+        }
+    ]
+}

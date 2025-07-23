@@ -1,0 +1,26 @@
+{
+    "user_id": "195ac74e-632b-4e7b-8d2b-b39430f75f90",
+    "name": "Doris Graham",
+    "email": "Isabell_Blanda@gmail.com",
+    "instagram_handle": "@Haven.Lindgren61",
+    "tiktok_handle": "@Zella27",
+    "joined_at": "2025-01-24T23:57:15.462Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1921de85-696d-4743-b3f3-4c65492ce646",
+            "brand": "Hayes - Mitchell",
+            "tasks_completed": [
+                {
+                    "task_id": "ec24e8dc-1419-4b0f-99ef-ad0386c33637",
+                    "platform": "Instagram",
+                    "post_url": "https://these-accelerator.info/",
+                    "likes": 319,
+                    "comments": 45,
+                    "shares": 16,
+                    "reach": 2315
+                }
+            ],
+            "total_sales_attributed": 4938.807239049547
+        }
+    ]
+}

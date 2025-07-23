@@ -1,0 +1,26 @@
+{
+    "user_id": "c2f8604a-5ac3-4fd4-b84d-fb36e0453138",
+    "name": "Juana Streich",
+    "email": "Victor.Hahn@gmail.com",
+    "instagram_handle": "@Marjory90",
+    "tiktok_handle": "@Jeffery.Schimmel47",
+    "joined_at": "2024-06-06T23:16:28.646Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3c2aa499-e770-4e3f-b864-acdc0c917191",
+            "brand": "O'Kon - Skiles",
+            "tasks_completed": [
+                {
+                    "task_id": "acaf6517-bcad-424d-82b0-b915247271fa",
+                    "platform": "Instagram",
+                    "post_url": "https://fake-invite.biz/",
+                    "likes": 435,
+                    "comments": 41,
+                    "shares": 87,
+                    "reach": 777
+                }
+            ],
+            "total_sales_attributed": 2705.7253670874516
+        }
+    ]
+}

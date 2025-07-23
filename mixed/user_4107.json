@@ -1,0 +1,26 @@
+{
+    "user_id": "ef4c69d3-1bfc-47fa-9618-09b7f6df4e20",
+    "name": "Camille Cormier",
+    "email": "Cayla_Raynor@gmail.com",
+    "instagram_handle": "@Eli.Herman60",
+    "tiktok_handle": "@Garnett16",
+    "joined_at": "2025-01-29T19:53:41.446Z",
+    "advocacy_programs": [
+        {
+            "program_id": "45b741de-fdd1-40ce-972d-601ab3d95500",
+            "brand": "Schimmel, Beier and Mueller",
+            "tasks_completed": [
+                {
+                    "task_id": "f19e2202-5852-454b-8266-c16eae43e671",
+                    "platform": "TikTok",
+                    "post_url": "https://broken-rule.org/",
+                    "likes": 387,
+                    "comments": 13,
+                    "shares": 77,
+                    "reach": 5225
+                }
+            ],
+            "total_sales_attributed": 1787.8995425473183
+        }
+    ]
+}

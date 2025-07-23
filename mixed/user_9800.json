@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "506c0c96-5e06-4745-b154-0c956407ae14",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "cfd389be-3879-4237-916d-2a0b44631d00",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 16,
+                    "shares": 89,
+                    "reach": 9545
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

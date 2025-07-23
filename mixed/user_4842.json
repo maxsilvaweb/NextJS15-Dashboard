@@ -1,0 +1,26 @@
+{
+    "user_id": "d787461e-0eb1-4dc9-aeb7-9e4263fc449b",
+    "name": "Cathy Tromp",
+    "email": "Jan_Klocko@hotmail.com",
+    "instagram_handle": "@Diego_Koepp-Bosco",
+    "tiktok_handle": "@Albertha_Grimes38",
+    "joined_at": "2025-02-15T11:55:44.426Z",
+    "advocacy_programs": [
+        {
+            "program_id": "201fdee7-844c-435d-861f-eca0bdeebc09",
+            "brand": "Kautzer - Stokes",
+            "tasks_completed": [
+                {
+                    "task_id": "d61277e1-f26a-49d4-90a1-da1329ac8ee6",
+                    "platform": "TikTok",
+                    "post_url": "https://left-couch.info/",
+                    "likes": 117,
+                    "comments": 18,
+                    "shares": 67,
+                    "reach": 8120
+                }
+            ],
+            "total_sales_attributed": 268.0309528513362
+        }
+    ]
+}

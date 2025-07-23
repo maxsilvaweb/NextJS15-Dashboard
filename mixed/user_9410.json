@@ -1,0 +1,26 @@
+{
+    "user_id": "018ecca6-7330-433b-afcc-dc180fe79bc9",
+    "name": "Mrs. Janet Stamm",
+    "email": "Margaret_VonRueden@gmail.com",
+    "instagram_handle": "@Sienna_Zulauf",
+    "tiktok_handle": "@Josue_Schuppe",
+    "joined_at": "2024-11-28T19:38:51.797Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b3c4af3d-7aa3-40e0-a6a6-4e5a5de9f83c",
+            "brand": "Boehm and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "4941719f-1750-4f1a-8a94-9b5cf4ed7dcf",
+                    "platform": "TikTok",
+                    "post_url": "https://austere-illusion.biz/",
+                    "likes": 500,
+                    "comments": 37,
+                    "shares": 99,
+                    "reach": 2571
+                }
+            ],
+            "total_sales_attributed": 4855.459670649855
+        }
+    ]
+}

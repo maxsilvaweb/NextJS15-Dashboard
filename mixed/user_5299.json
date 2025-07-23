@@ -1,0 +1,26 @@
+{
+    "user_id": "39e94264-6611-45e4-9149-05814464e088",
+    "name": "Deanna Hauck",
+    "email": "Jo_Cremin-Olson@gmail.com",
+    "instagram_handle": "@Bonita79",
+    "tiktok_handle": "@Noe_Krajcik",
+    "joined_at": "2025-01-02T00:00:47.803Z",
+    "advocacy_programs": [
+        {
+            "program_id": "717bfac7-183f-4a24-a833-b51d241b5d9b",
+            "brand": "Thiel - Pacocha",
+            "tasks_completed": [
+                {
+                    "task_id": "e4998e8a-178a-4cfd-8713-1c58d04ce111",
+                    "platform": "TikTok",
+                    "post_url": "https://agile-illusion.name",
+                    "likes": 443,
+                    "comments": 3,
+                    "shares": 22,
+                    "reach": 5859
+                }
+            ],
+            "total_sales_attributed": 4974.855924914646
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-05-20T12:44:37.805Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Boehm, Block and Smitham",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 87,
+                    "reach": 7206
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

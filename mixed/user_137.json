@@ -1,0 +1,26 @@
+{
+    "user_id": "f1dfab89-7496-4e27-93fc-544fc9a9fd41",
+    "name": "Dr. Samuel Mohr",
+    "email": "Martin_Barrows@yahoo.com",
+    "instagram_handle": "@Cathy.Johnson",
+    "tiktok_handle": "@Maximillia30",
+    "joined_at": "2024-11-13T03:02:16.282Z",
+    "advocacy_programs": [
+        {
+            "program_id": "00ceb822-0560-4892-92af-bc5aa935b5ba",
+            "brand": "Parisian, Carroll and Wisozk",
+            "tasks_completed": [
+                {
+                    "task_id": "eea4d815-2cb9-470c-b206-c951286f1332",
+                    "platform": "Instagram",
+                    "post_url": "https://smug-pick.biz",
+                    "likes": 20,
+                    "comments": 10,
+                    "shares": 85,
+                    "reach": 7751
+                }
+            ],
+            "total_sales_attributed": 3938.7365980121663
+        }
+    ]
+}

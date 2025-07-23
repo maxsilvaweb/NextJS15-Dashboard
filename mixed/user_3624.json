@@ -1,0 +1,26 @@
+{
+    "user_id": "eb859f25-f189-4d67-80dd-e3ee8a59176c",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-04-12T16:44:22.875Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://happy-celsius.biz",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 22,
+                    "reach": 9713
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

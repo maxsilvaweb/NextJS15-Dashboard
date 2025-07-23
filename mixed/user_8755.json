@@ -1,0 +1,26 @@
+{
+    "user_id": "cffaaa87-fa6b-4b01-b12a-d864e50afc7e",
+    "name": "Jimmie Koch-Cole",
+    "email": "Vincent.Barton@hotmail.com",
+    "instagram_handle": "@Tobin.Dietrich",
+    "tiktok_handle": "@Josefina_Spinka",
+    "joined_at": "2024-12-11T13:20:14.235Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d30026b7-06a2-4d17-bb79-fa9ad3972587",
+            "brand": "Pfannerstill Group",
+            "tasks_completed": [
+                {
+                    "task_id": "4ce8f810-53b3-4128-bb96-c06add7c2ae0",
+                    "platform": "TikTok",
+                    "post_url": "https://blond-goat.com",
+                    "likes": 409,
+                    "comments": 20,
+                    "shares": 66,
+                    "reach": 2580
+                }
+            ],
+            "total_sales_attributed": 4729.627471074732
+        }
+    ]
+}

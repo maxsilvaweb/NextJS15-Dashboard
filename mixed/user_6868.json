@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Cali_Quigley53",
+    "joined_at": "2024-08-04T15:11:53.175Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "ed9bee7d-f8a0-4a8c-a929-575efc2359ef",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 62,
+                    "reach": 4296
+                }
+            ],
+            "total_sales_attributed": 4213.704428021303
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ce5258e9-d89d-4789-8206-2764fe1338b5",
+    "name": "Freda Ferry",
+    "email": "Leonora60@yahoo.com",
+    "instagram_handle": "@Tyshawn.Padberg",
+    "tiktok_handle": "@Cassandra.Weissnat34",
+    "joined_at": "2025-02-17T04:02:52.721Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7ac10710-03ee-4373-83b0-5866456e02c5",
+            "brand": "Hodkiewicz LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e986a44b-0455-4439-b99e-d79d6669cf6d",
+                    "platform": "TikTok",
+                    "post_url": "https://actual-supplier.name",
+                    "likes": 171,
+                    "comments": 37,
+                    "shares": 15,
+                    "reach": 632
+                }
+            ],
+            "total_sales_attributed": 4328.40124232829
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "090a35f3-db46-4e22-9f7a-65ae9b0e368c",
+    "name": "Miss Lana Hane",
+    "email": "Gracie.Hermiston6@gmail.com",
+    "instagram_handle": "@Johan37",
+    "tiktok_handle": "@Pasquale.Nolan37",
+    "joined_at": "2024-08-30T22:56:32.828Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0ced6be9-f3c4-477e-94f4-744a5e4ab02c",
+            "brand": "Kunze - Paucek",
+            "tasks_completed": [
+                {
+                    "task_id": "26dd5574-1a62-42d8-bc12-1394716cd6aa",
+                    "platform": "TikTok",
+                    "post_url": "https://interesting-obedience.biz/",
+                    "likes": 463,
+                    "comments": 8,
+                    "shares": 63,
+                    "reach": 7762
+                }
+            ],
+            "total_sales_attributed": 1626.6673404480787
+        }
+    ]
+}

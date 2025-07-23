@@ -1,0 +1,26 @@
+{
+    "user_id": "5b4cc48e-48c1-4825-aa57-138238133e9b",
+    "name": "Clyde Lowe III",
+    "email": "Monte66@gmail.com",
+    "instagram_handle": "@Friedrich.Wiegand18",
+    "tiktok_handle": "@Francesco_Berge",
+    "joined_at": "2025-03-02T17:00:00.129Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9368e3dc-c4b9-426d-a57f-78279f39a045",
+            "brand": "Parker - Beier",
+            "tasks_completed": [
+                {
+                    "task_id": "df7bb9ef-51cd-4453-8827-b472f783efb5",
+                    "platform": "Instagram",
+                    "post_url": "https://reasonable-cricket.name",
+                    "likes": 465,
+                    "comments": 3,
+                    "shares": 39,
+                    "reach": 8381
+                }
+            ],
+            "total_sales_attributed": 2949.72924100837
+        }
+    ]
+}

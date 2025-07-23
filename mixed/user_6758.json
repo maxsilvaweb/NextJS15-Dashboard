@@ -1,0 +1,26 @@
+{
+    "user_id": "94b78b48-ccf6-4321-851b-effb609c2e87",
+    "name": "Iris Halvorson",
+    "email": "Braeden59@yahoo.com",
+    "instagram_handle": "@Ed_Hoeger",
+    "tiktok_handle": "@Amari_Grady60",
+    "joined_at": "2024-05-12T09:45:11.864Z",
+    "advocacy_programs": [
+        {
+            "program_id": "348b06fe-4852-4b30-9b66-a53b95a3176e",
+            "brand": "Moore - Koelpin",
+            "tasks_completed": [
+                {
+                    "task_id": "1b18da12-d782-42b1-a5c0-1cc7542f810c",
+                    "platform": "TikTok",
+                    "post_url": "https://definite-unique.com",
+                    "likes": 45,
+                    "comments": 0,
+                    "shares": 39,
+                    "reach": 1271
+                }
+            ],
+            "total_sales_attributed": 4172.32057894603
+        }
+    ]
+}

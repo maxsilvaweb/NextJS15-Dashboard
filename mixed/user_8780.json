@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Emma McClure",
+    "email": "invalid-email",
+    "instagram_handle": "@Ozella.Kemmer34",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 54,
+                    "reach": 3224
+                }
+            ],
+            "total_sales_attributed": 3920.0735038294833
+        }
+    ]
+}

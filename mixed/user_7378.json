@@ -1,0 +1,26 @@
+{
+    "user_id": "128feb5e-7143-4daa-8ca5-92ad0536e3f8",
+    "name": "Cory Grant V",
+    "email": "Ernestine.Lakin@yahoo.com",
+    "instagram_handle": "@Doug.Krajcik",
+    "tiktok_handle": "@Shemar.Bednar",
+    "joined_at": "2025-02-27T18:40:47.310Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dfb2b97c-9fbc-4aa4-a7b4-fc209ea432bc",
+            "brand": "Nicolas, Schoen and Kuhic",
+            "tasks_completed": [
+                {
+                    "task_id": "68f2b41f-6845-4666-90fb-ec3ff0544441",
+                    "platform": "TikTok",
+                    "post_url": "https://shameful-technologist.net/",
+                    "likes": 355,
+                    "comments": 42,
+                    "shares": 94,
+                    "reach": 6454
+                }
+            ],
+            "total_sales_attributed": 1777.0958616216571
+        }
+    ]
+}

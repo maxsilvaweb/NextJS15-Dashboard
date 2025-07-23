@@ -1,0 +1,26 @@
+{
+    "user_id": "22e07f6f-b0f3-4fc4-a423-870be520dda6",
+    "name": "Angelica Hayes",
+    "email": "Rhiannon_Pollich58@gmail.com",
+    "instagram_handle": "@Obie_Kub",
+    "tiktok_handle": "@Erika85",
+    "joined_at": "2025-01-29T09:14:45.585Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2e2f9cdd-11a1-4c38-9226-0948e425dee2",
+            "brand": "Schiller - Jenkins",
+            "tasks_completed": [
+                {
+                    "task_id": "238926c7-fb66-47a8-8e3e-1f64622dcb5f",
+                    "platform": "TikTok",
+                    "post_url": "https://squiggly-teriyaki.com/",
+                    "likes": 360,
+                    "comments": 31,
+                    "shares": 86,
+                    "reach": 7323
+                }
+            ],
+            "total_sales_attributed": 3249.6269577910484
+        }
+    ]
+}

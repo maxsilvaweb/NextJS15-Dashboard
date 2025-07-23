@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Braun, Koepp and Von",
+            "tasks_completed": [
+                {
+                    "task_id": "a068c5ed-d549-43fe-b9f3-f14ca6074ba6",
+                    "platform": "Instagram",
+                    "post_url": "https://yummy-plugin.info",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 11,
+                    "reach": 3815
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

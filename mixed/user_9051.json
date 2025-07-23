@@ -1,0 +1,26 @@
+{
+    "user_id": "569bbe5e-8b1a-4771-95f2-381ab3b8cbff",
+    "name": "Roberta Cormier",
+    "email": "Melisa_Hilll@hotmail.com",
+    "instagram_handle": "@Romaine_Feest16",
+    "tiktok_handle": "@Heath.Rau",
+    "joined_at": "2024-04-02T03:29:20.884Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ccb31d5f-b108-435a-831f-cb75794fec56",
+            "brand": "Schinner - Champlin",
+            "tasks_completed": [
+                {
+                    "task_id": "3c1c6a26-ee79-4879-aeac-503c605bdeac",
+                    "platform": "Instagram",
+                    "post_url": "https://wretched-footrest.name",
+                    "likes": 231,
+                    "comments": 48,
+                    "shares": 100,
+                    "reach": 2603
+                }
+            ],
+            "total_sales_attributed": 1541.8984035105022
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Fletcher62",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 171,
+                    "comments": 22,
+                    "shares": 36,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

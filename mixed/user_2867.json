@@ -1,0 +1,26 @@
+{
+    "user_id": "da430f2a-0227-4551-921f-2ba80a7c74a3",
+    "name": "Cedric Hermann",
+    "email": "Gladyce.Turcotte@gmail.com",
+    "instagram_handle": "@Braulio_Larson",
+    "tiktok_handle": "@Jairo12",
+    "joined_at": "2024-05-06T03:52:22.859Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cac025d7-2b56-4026-becc-e4b59a87f2b9",
+            "brand": "Wolf, Toy and Grady",
+            "tasks_completed": [
+                {
+                    "task_id": "954191e9-ed0a-476a-9528-31056e1d6dfd",
+                    "platform": "TikTok",
+                    "post_url": "https://practical-saw.info",
+                    "likes": 82,
+                    "comments": 44,
+                    "shares": 97,
+                    "reach": 4653
+                }
+            ],
+            "total_sales_attributed": 3783.488738420626
+        }
+    ]
+}

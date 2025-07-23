@@ -1,0 +1,26 @@
+{
+    "user_id": "f80002d6-142b-46b5-9901-3fa1bacb283d",
+    "name": "Vicki Larkin",
+    "email": "Major.Rutherford@hotmail.com",
+    "instagram_handle": "@Hanna_Christiansen84",
+    "tiktok_handle": "@Alfredo18",
+    "joined_at": "2024-05-12T16:17:00.690Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2f638147-58c3-4ba2-8645-09ab16103e4e",
+            "brand": "Lueilwitz - DuBuque",
+            "tasks_completed": [
+                {
+                    "task_id": "7cbf284f-49de-4eed-8481-877057fec8e1",
+                    "platform": "TikTok",
+                    "post_url": "https://vast-pupil.net",
+                    "likes": 209,
+                    "comments": 45,
+                    "shares": 68,
+                    "reach": 4498
+                }
+            ],
+            "total_sales_attributed": 2691.807230048011
+        }
+    ]
+}

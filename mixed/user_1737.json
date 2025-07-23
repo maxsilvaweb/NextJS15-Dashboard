@@ -1,0 +1,26 @@
+{
+    "user_id": "c89e4cea-64bc-4e9b-9da4-70bd20163a1f",
+    "name": "Drew Rohan Jr.",
+    "email": "Gillian_Baumbach19@hotmail.com",
+    "instagram_handle": "@Estell_Kirlin84",
+    "tiktok_handle": "@Maurine.Aufderhar",
+    "joined_at": "2024-05-14T11:37:24.554Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8ac213d1-9c68-4580-a82d-1c3be823d37f",
+            "brand": "Fay Group",
+            "tasks_completed": [
+                {
+                    "task_id": "cc88fcb1-3e05-497b-a456-5e0dca581ca3",
+                    "platform": "TikTok",
+                    "post_url": "https://rigid-mentor.biz/",
+                    "likes": 296,
+                    "comments": 50,
+                    "shares": 33,
+                    "reach": 4506
+                }
+            ],
+            "total_sales_attributed": 1293.123219196394
+        }
+    ]
+}

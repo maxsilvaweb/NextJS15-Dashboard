@@ -1,0 +1,26 @@
+{
+    "user_id": "f0460215-21c6-4a41-8c4e-1fdff1506579",
+    "name": "Billy Jones",
+    "email": "Robb_Maggio@yahoo.com",
+    "instagram_handle": "@Caleigh17",
+    "tiktok_handle": "@Wilma33",
+    "joined_at": "2024-11-25T07:29:26.323Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8b92ebc6-debf-4e40-b418-9d758ca62719",
+            "brand": "Turcotte - Greenholt",
+            "tasks_completed": [
+                {
+                    "task_id": "31d8cfcd-b001-49fc-99b2-080e5f88394d",
+                    "platform": "TikTok",
+                    "post_url": "https://unhappy-subexpression.org",
+                    "likes": 196,
+                    "comments": 8,
+                    "shares": 99,
+                    "reach": 4408
+                }
+            ],
+            "total_sales_attributed": 2930.485778036397
+        }
+    ]
+}

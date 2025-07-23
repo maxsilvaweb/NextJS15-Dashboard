@@ -1,0 +1,26 @@
+{
+    "user_id": "f2c567da-dbba-4b1a-b943-edc43ff12203",
+    "name": "Evelyn Cormier Sr.",
+    "email": "Spencer10@hotmail.com",
+    "instagram_handle": "@Isom.Metz64",
+    "tiktok_handle": "@Glennie_Raynor",
+    "joined_at": "2024-10-05T04:59:01.708Z",
+    "advocacy_programs": [
+        {
+            "program_id": "df42eea2-0dc9-4334-9c43-637c24ca9c17",
+            "brand": "Jenkins, Nicolas and Corwin",
+            "tasks_completed": [
+                {
+                    "task_id": "6d8f9f54-856e-4675-b65a-688ac5e63113",
+                    "platform": "Instagram",
+                    "post_url": "https://obvious-perfection.name",
+                    "likes": 264,
+                    "comments": 10,
+                    "shares": 11,
+                    "reach": 1212
+                }
+            ],
+            "total_sales_attributed": 1817.45040876141
+        }
+    ]
+}

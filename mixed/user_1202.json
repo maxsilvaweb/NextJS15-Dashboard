@@ -1,0 +1,26 @@
+{
+    "user_id": "6f34b6a7-9367-4c7c-a235-6438ea73d78e",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Roxane.Stehr45",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Cummings, Bailey and Cremin",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 273,
+                    "comments": null,
+                    "shares": 54,
+                    "reach": 7913
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

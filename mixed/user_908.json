@@ -1,0 +1,26 @@
+{
+    "user_id": "c7d98ab7-babc-445e-9883-a20b3556c1a3",
+    "name": "Abel Ruecker",
+    "email": "Ruthe.Murphy@gmail.com",
+    "instagram_handle": "@Helene70",
+    "tiktok_handle": "@Mitchel_Cremin",
+    "joined_at": "2025-01-03T07:17:41.586Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9e724fd7-e710-4ddd-8311-84bf2612b60b",
+            "brand": "Bernier - Mante",
+            "tasks_completed": [
+                {
+                    "task_id": "c3b111dc-a827-48a2-a364-bc991bced5a1",
+                    "platform": "TikTok",
+                    "post_url": "https://odd-nudge.com/",
+                    "likes": 150,
+                    "comments": 49,
+                    "shares": 13,
+                    "reach": 7142
+                }
+            ],
+            "total_sales_attributed": 1103.7427724157164
+        }
+    ]
+}

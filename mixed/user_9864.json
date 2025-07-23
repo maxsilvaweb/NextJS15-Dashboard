@@ -1,0 +1,26 @@
+{
+    "user_id": "a6c9b594-1816-4619-a140-2e729611ae06",
+    "name": "Mr. Lionel Kerluke",
+    "email": "Darren_McGlynn84@gmail.com",
+    "instagram_handle": "@Claude_Hudson",
+    "tiktok_handle": "@Aurelio.Weissnat",
+    "joined_at": "2024-03-27T18:38:18.418Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b0ffba59-5222-493c-b47b-01e2e62b55c7",
+            "brand": "Beahan - Williamson",
+            "tasks_completed": [
+                {
+                    "task_id": "8ced4355-5ff5-4759-8032-de73468b029a",
+                    "platform": "TikTok",
+                    "post_url": "https://posh-puritan.name",
+                    "likes": 155,
+                    "comments": 28,
+                    "shares": 82,
+                    "reach": 3384
+                }
+            ],
+            "total_sales_attributed": 4011.685117675731
+        }
+    ]
+}

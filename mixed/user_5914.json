@@ -1,0 +1,26 @@
+{
+    "user_id": "a661b4e2-bee1-4280-9750-147ca9628011",
+    "name": "Becky Sipes",
+    "email": "Ryan36@yahoo.com",
+    "instagram_handle": "@Shanon.Ullrich",
+    "tiktok_handle": "@Bernhard_Funk33",
+    "joined_at": "2024-07-28T09:44:24.200Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9fa483e6-ecc3-4b71-8b44-3cc86c65c708",
+            "brand": "Langosh - Murazik",
+            "tasks_completed": [
+                {
+                    "task_id": "80002f7a-b00d-4a15-a877-599dc118605b",
+                    "platform": "Instagram",
+                    "post_url": "https://stylish-term.info/",
+                    "likes": 59,
+                    "comments": 7,
+                    "shares": 67,
+                    "reach": 6332
+                }
+            ],
+            "total_sales_attributed": 364.9458927345743
+        }
+    ]
+}

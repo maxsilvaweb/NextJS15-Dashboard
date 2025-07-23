@@ -1,0 +1,26 @@
+{
+    "user_id": "a66a4f6f-68ac-4579-b8f6-46308655993c",
+    "name": "Wilfred Gutmann",
+    "email": "Alyce_Schowalter@yahoo.com",
+    "instagram_handle": "@Osbaldo.Bergstrom94",
+    "tiktok_handle": "@Carter_Kassulke89",
+    "joined_at": "2024-06-16T04:43:57.513Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ffbbd86e-6697-466a-90e4-88a77ff8ed75",
+            "brand": "Robel Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "976309ab-2c9f-41e2-add2-2334be09ebd7",
+                    "platform": "TikTok",
+                    "post_url": "https://lively-vol.info",
+                    "likes": 451,
+                    "comments": 37,
+                    "shares": 54,
+                    "reach": 1663
+                }
+            ],
+            "total_sales_attributed": 2491.281712055709
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1ad80cc2-eaf3-4e05-8bdd-6cb8c6c3953d",
+    "name": "Rosalie Shanahan",
+    "email": "Yvette_Grant@gmail.com",
+    "instagram_handle": "@Marilyne66",
+    "tiktok_handle": "@Jake74",
+    "joined_at": "2024-12-09T13:14:04.376Z",
+    "advocacy_programs": [
+        {
+            "program_id": "790bf306-88e6-4767-97a5-58f21d341acf",
+            "brand": "Tremblay - Hilll",
+            "tasks_completed": [
+                {
+                    "task_id": "894c4953-073d-498b-b954-03b0f9de0cec",
+                    "platform": "TikTok",
+                    "post_url": "https://worst-sailor.biz",
+                    "likes": 206,
+                    "comments": 49,
+                    "shares": 22,
+                    "reach": 6040
+                }
+            ],
+            "total_sales_attributed": 1419.177215833434
+        }
+    ]
+}

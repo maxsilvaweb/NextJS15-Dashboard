@@ -1,0 +1,26 @@
+{
+    "user_id": "89a57ecb-393a-47fe-bcc8-cfacec1f5782",
+    "name": "Dr. Freddie Borer-Cremin",
+    "email": "Virginie68@gmail.com",
+    "instagram_handle": "@Lillie91",
+    "tiktok_handle": "@Athena.Trantow48",
+    "joined_at": "2024-11-21T20:00:55.105Z",
+    "advocacy_programs": [
+        {
+            "program_id": "33dde8cf-8136-455b-a7c6-c65446b188d6",
+            "brand": "Gutmann, Terry and Connelly",
+            "tasks_completed": [
+                {
+                    "task_id": "0494166e-6163-417d-b90a-5a16653274e3",
+                    "platform": "TikTok",
+                    "post_url": "https://dim-custom.net",
+                    "likes": 370,
+                    "comments": 50,
+                    "shares": 54,
+                    "reach": 7209
+                }
+            ],
+            "total_sales_attributed": 3408.1187158303997
+        }
+    ]
+}

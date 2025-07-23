@@ -1,0 +1,26 @@
+{
+    "user_id": "99e1809a-fc76-4acb-94fb-65353add7c8d",
+    "name": "Myra Bashirian",
+    "email": "Brisa.Kassulke@gmail.com",
+    "instagram_handle": "@Brook10",
+    "tiktok_handle": "@Margaretta71",
+    "joined_at": "2025-02-18T19:54:24.684Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5dadf4bc-8303-4173-bd7f-c5f0f0a377bc",
+            "brand": "Spinka - Little",
+            "tasks_completed": [
+                {
+                    "task_id": "758c7551-4714-49d7-b9d7-feaea5741bc6",
+                    "platform": "Instagram",
+                    "post_url": "https://shimmering-safe.com",
+                    "likes": 398,
+                    "comments": 43,
+                    "shares": 4,
+                    "reach": 4377
+                }
+            ],
+            "total_sales_attributed": 846.5952022673773
+        }
+    ]
+}

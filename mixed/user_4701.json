@@ -1,0 +1,26 @@
+{
+    "user_id": "16c7c7d9-ed8a-422a-850c-ae61241fc281",
+    "name": "Sharon Rosenbaum",
+    "email": "Darlene5@gmail.com",
+    "instagram_handle": "@Margie_Price",
+    "tiktok_handle": "@Georgiana_Hettinger",
+    "joined_at": "2024-05-20T03:57:40.552Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f0377c55-a0e1-4c59-88da-358721702bdb",
+            "brand": "Reynolds, Kohler and Balistreri",
+            "tasks_completed": [
+                {
+                    "task_id": "ccade958-7b4b-426e-a381-7a662ef0ea83",
+                    "platform": "TikTok",
+                    "post_url": "https://hefty-casement.org",
+                    "likes": 455,
+                    "comments": 23,
+                    "shares": 89,
+                    "reach": 7889
+                }
+            ],
+            "total_sales_attributed": 671.5410536399653
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "50ca519a-46a5-408b-a1fa-5dbac68b751d",
+    "name": "Rochelle Fahey",
+    "email": "Claudia.Maggio90@gmail.com",
+    "instagram_handle": "@Terrill24",
+    "tiktok_handle": "@May.Prohaska",
+    "joined_at": "2024-07-10T10:36:10.840Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e9bf801f-b2bf-4bb6-8a4c-1a5c48b5b41b",
+            "brand": "Jenkins - Cummings",
+            "tasks_completed": [
+                {
+                    "task_id": "599be5b4-6c7a-43c8-9730-cf52ba6f6947",
+                    "platform": "Instagram",
+                    "post_url": "https://emotional-spear.name/",
+                    "likes": 320,
+                    "comments": 7,
+                    "shares": 58,
+                    "reach": 7086
+                }
+            ],
+            "total_sales_attributed": 3658.532367758102
+        }
+    ]
+}

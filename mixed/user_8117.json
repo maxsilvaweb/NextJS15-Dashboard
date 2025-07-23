@@ -1,0 +1,26 @@
+{
+    "user_id": "c65c4ef9-1575-4686-8d63-4d08ece72f1d",
+    "name": "Wilma Kemmer",
+    "email": "Ozella6@gmail.com",
+    "instagram_handle": "@Kennedi_Kuphal",
+    "tiktok_handle": "@General.Raynor",
+    "joined_at": "2024-03-31T01:12:59.633Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5a6445a9-693b-4b47-b591-ce636a5ca070",
+            "brand": "Bode, Conn and Berge",
+            "tasks_completed": [
+                {
+                    "task_id": "8339467c-caed-4036-b544-b630d7eaf5eb",
+                    "platform": "TikTok",
+                    "post_url": "https://first-tinderbox.com",
+                    "likes": 296,
+                    "comments": 34,
+                    "shares": 40,
+                    "reach": 5138
+                }
+            ],
+            "total_sales_attributed": 3909.1768624600977
+        }
+    ]
+}

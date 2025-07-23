@@ -1,0 +1,26 @@
+{
+    "user_id": "fd45981b-a66a-4321-a83c-064ad7d85d6f",
+    "name": "Miss Megan Rolfson",
+    "email": "Narciso_Turcotte@yahoo.com",
+    "instagram_handle": "@Connor_Osinski58",
+    "tiktok_handle": "@Norma75",
+    "joined_at": "2024-07-27T05:04:59.913Z",
+    "advocacy_programs": [
+        {
+            "program_id": "641fdb3e-637a-4487-9595-cb56bfaf5c81",
+            "brand": "Mayer - Green",
+            "tasks_completed": [
+                {
+                    "task_id": "20da41bc-6e0b-4cb2-bf48-fe3ba65fba66",
+                    "platform": "TikTok",
+                    "post_url": "https://unusual-challenge.biz",
+                    "likes": 196,
+                    "comments": 47,
+                    "shares": 35,
+                    "reach": 5907
+                }
+            ],
+            "total_sales_attributed": 3739.5977663422045
+        }
+    ]
+}

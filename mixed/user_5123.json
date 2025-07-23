@@ -1,0 +1,26 @@
+{
+    "user_id": "f9c145e2-a5f0-4d0d-a08b-f58ead1021ab",
+    "name": "Velma Reinger",
+    "email": "Abigale_Lindgren@yahoo.com",
+    "instagram_handle": "@Blaise_Hudson",
+    "tiktok_handle": "@Daisy42",
+    "joined_at": "2024-03-29T16:24:31.177Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6b6feab5-16b0-42dd-8e80-67f23ff6e25d",
+            "brand": "Ritchie - Ullrich",
+            "tasks_completed": [
+                {
+                    "task_id": "0b16f927-9534-4734-8904-e8db925ee7b3",
+                    "platform": "TikTok",
+                    "post_url": "https://nervous-mixture.biz/",
+                    "likes": 48,
+                    "comments": 47,
+                    "shares": 36,
+                    "reach": 7528
+                }
+            ],
+            "total_sales_attributed": 4873.355025665711
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4aa86158-07dd-4832-9e2c-fc4242cbab35",
+    "name": "Amos Schneider",
+    "email": "Lamar_Grady@gmail.com",
+    "instagram_handle": "@Ahmed_Lueilwitz",
+    "tiktok_handle": "@Elva_Ritchie22",
+    "joined_at": "2024-04-14T14:51:02.987Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4d654720-20fe-4287-9a6f-f2cae68d4eec",
+            "brand": "Wiegand, Daugherty and Pollich",
+            "tasks_completed": [
+                {
+                    "task_id": "1622f330-ba56-435c-9345-b1c6ace8e0d7",
+                    "platform": "TikTok",
+                    "post_url": "https://definitive-annual.info",
+                    "likes": 256,
+                    "comments": 11,
+                    "shares": 13,
+                    "reach": 1640
+                }
+            ],
+            "total_sales_attributed": 3590.107171351833
+        }
+    ]
+}

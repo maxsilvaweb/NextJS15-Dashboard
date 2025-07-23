@@ -1,0 +1,26 @@
+{
+    "user_id": "7751ed26-d277-4ab2-9f30-2a6b8704dd6f",
+    "name": "Leah Jast",
+    "email": "Adrain68@gmail.com",
+    "instagram_handle": "@Dena.Ruecker5",
+    "tiktok_handle": "@Ebba98",
+    "joined_at": "2024-09-03T01:31:34.921Z",
+    "advocacy_programs": [
+        {
+            "program_id": "98849729-f1df-4257-80fc-65a7c38c7b98",
+            "brand": "Krajcik - Heaney",
+            "tasks_completed": [
+                {
+                    "task_id": "8a7b5fd0-cbe4-4011-a6fa-b1088b159f63",
+                    "platform": "Instagram",
+                    "post_url": "https://whimsical-plastic.com/",
+                    "likes": 219,
+                    "comments": 31,
+                    "shares": 30,
+                    "reach": 8506
+                }
+            ],
+            "total_sales_attributed": 1593.551920898943
+        }
+    ]
+}

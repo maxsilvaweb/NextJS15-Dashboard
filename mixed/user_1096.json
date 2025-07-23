@@ -1,0 +1,26 @@
+{
+    "user_id": "b0b2829a-7449-494d-a228-b91502d387e9",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "c016fd93-48b5-4609-8414-e2af6068e305",
+                    "platform": 123,
+                    "post_url": "https://humble-charm.biz/",
+                    "likes": "NaN",
+                    "comments": 7,
+                    "shares": 87,
+                    "reach": 3498
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

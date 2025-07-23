@@ -1,0 +1,26 @@
+{
+    "user_id": "01beee8e-91f5-4757-958e-691819e0784e",
+    "name": "Dr. Drew Bahringer V",
+    "email": "Marlon.Cremin@hotmail.com",
+    "instagram_handle": "@Derrick_Conroy",
+    "tiktok_handle": "@Nora.Rice",
+    "joined_at": "2024-04-28T11:09:59.958Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b81015ca-b377-4b0d-8c3a-2a646de33c64",
+            "brand": "Bartell LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1533cf40-4668-462d-9f48-d7d4d1b19d2b",
+                    "platform": "Instagram",
+                    "post_url": "https://excited-halt.biz/",
+                    "likes": 367,
+                    "comments": 33,
+                    "shares": 92,
+                    "reach": 1850
+                }
+            ],
+            "total_sales_attributed": 3680.572875057426
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d58de8c3-dc32-4cb3-897e-6c4d3f3dbc10",
+    "name": "Mae Treutel",
+    "email": "Lola.Goodwin@gmail.com",
+    "instagram_handle": "@Jaquan46",
+    "tiktok_handle": "@Claudia_Padberg",
+    "joined_at": "2024-08-26T18:13:42.015Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d73427f8-98bf-4649-b3a1-8a9d5bfe9b06",
+            "brand": "Abernathy and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "1d3455c0-5018-4c43-bc79-fd919f246f13",
+                    "platform": "Instagram",
+                    "post_url": "https://minor-restaurant.org",
+                    "likes": 25,
+                    "comments": 28,
+                    "shares": 71,
+                    "reach": 1705
+                }
+            ],
+            "total_sales_attributed": 3271.235523894732
+        }
+    ]
+}

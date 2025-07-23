@@ -1,0 +1,26 @@
+{
+    "user_id": "2da7364d-be7e-4681-aaf6-6a005806cd95",
+    "name": "Rolando Wintheiser",
+    "email": "Cale.Howe50@hotmail.com",
+    "instagram_handle": "@Hadley.Murphy",
+    "tiktok_handle": "@Clint.Rosenbaum39",
+    "joined_at": "2025-03-17T11:59:03.145Z",
+    "advocacy_programs": [
+        {
+            "program_id": "508c6dc8-4a02-4b90-a304-aa4f0c8fc967",
+            "brand": "Johnson Group",
+            "tasks_completed": [
+                {
+                    "task_id": "45bf63d2-e473-4d71-b831-93eb7b046de0",
+                    "platform": "TikTok",
+                    "post_url": "https://polished-fishery.info/",
+                    "likes": 159,
+                    "comments": 39,
+                    "shares": 63,
+                    "reach": 5759
+                }
+            ],
+            "total_sales_attributed": 4313.337471622098
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7131d6dc-61cb-4547-b5cb-7ea5f36c702c",
+    "name": "Willis Howe",
+    "email": "Chelsea_Heller@hotmail.com",
+    "instagram_handle": "@Brandi.Abshire",
+    "tiktok_handle": "@Laron63",
+    "joined_at": "2024-03-21T22:45:40.735Z",
+    "advocacy_programs": [
+        {
+            "program_id": "43d0d541-421e-4031-b743-9ba0267eddf5",
+            "brand": "Lang, Metz and Stamm",
+            "tasks_completed": [
+                {
+                    "task_id": "c63b90d7-d83b-436c-acf5-3454be6f6331",
+                    "platform": "TikTok",
+                    "post_url": "https://twin-devastation.org/",
+                    "likes": 185,
+                    "comments": 5,
+                    "shares": 70,
+                    "reach": 1138
+                }
+            ],
+            "total_sales_attributed": 3835.6432900869977
+        }
+    ]
+}

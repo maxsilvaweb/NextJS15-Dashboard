@@ -1,0 +1,26 @@
+{
+    "user_id": "81897e5e-9abf-4fbb-938e-282198837a27",
+    "name": "Natasha Cremin",
+    "email": "Jessy_Wilkinson@hotmail.com",
+    "instagram_handle": "@Trey54",
+    "tiktok_handle": "@Dorothy_Hagenes",
+    "joined_at": "2024-08-23T10:33:06.599Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f84e2ff5-caa5-4c91-b279-f552fc36e5a5",
+            "brand": "Crona - Langworth",
+            "tasks_completed": [
+                {
+                    "task_id": "f0923a6b-e1c2-4fce-8da7-2a7dcec4ab8e",
+                    "platform": "TikTok",
+                    "post_url": "https://powerless-apricot.net",
+                    "likes": 345,
+                    "comments": 49,
+                    "shares": 22,
+                    "reach": 3419
+                }
+            ],
+            "total_sales_attributed": 3297.64150236908
+        }
+    ]
+}

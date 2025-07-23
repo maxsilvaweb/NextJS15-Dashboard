@@ -1,0 +1,26 @@
+{
+    "user_id": "6189da99-2224-4268-b6ad-b73b7cf23c56",
+    "name": "Shannon Heaney",
+    "email": "Geo_Cassin15@gmail.com",
+    "instagram_handle": "@Tyler_Koelpin",
+    "tiktok_handle": "@Gardner94",
+    "joined_at": "2024-05-31T09:19:43.530Z",
+    "advocacy_programs": [
+        {
+            "program_id": "30738c1e-f0bc-40a1-a357-078bc2aeb49d",
+            "brand": "Murazik, Schamberger and Huel",
+            "tasks_completed": [
+                {
+                    "task_id": "09d2439e-c213-40c2-b77e-cf93fe5e24d1",
+                    "platform": "TikTok",
+                    "post_url": "https://weary-cauliflower.biz/",
+                    "likes": 406,
+                    "comments": 9,
+                    "shares": 85,
+                    "reach": 4344
+                }
+            ],
+            "total_sales_attributed": 3009.6157447120563
+        }
+    ]
+}

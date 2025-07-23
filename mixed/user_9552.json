@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Stewart_Russel44",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Harber - Sanford",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 111,
+                    "comments": null,
+                    "shares": 76,
+                    "reach": 1695
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

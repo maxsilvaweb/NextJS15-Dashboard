@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Madeline20@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-06-21T03:19:18.596Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "1ffc46e5-06f8-47de-9df1-1b2118dfbc2a",
+                    "platform": "Instagram",
+                    "post_url": "https://mixed-window.name/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 61,
+                    "reach": 9397
+                }
+            ],
+            "total_sales_attributed": 2639.1522691883024
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3e8ac131-566a-4a7e-9c30-5ee7f7b82ea2",
+    "name": "???",
+    "email": "Derrick39@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 11,
+                    "comments": null,
+                    "shares": 85,
+                    "reach": 1291
+                }
+            ],
+            "total_sales_attributed": 3926.7625396524295
+        }
+    ]
+}

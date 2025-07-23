@@ -1,0 +1,26 @@
+{
+    "user_id": "e12cb417-12cb-49f0-aa36-eeac32cdcb48",
+    "name": "Teri Dach",
+    "email": "Emerald.Bergstrom18@hotmail.com",
+    "instagram_handle": "@Delphine_Klocko80",
+    "tiktok_handle": "@Assunta_Green-Bergnaum",
+    "joined_at": "2024-05-15T02:38:11.555Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ac3aab7f-d9fb-45f9-ad48-26b74d18cf64",
+            "brand": "Jacobi - Cormier",
+            "tasks_completed": [
+                {
+                    "task_id": "a8d35793-8538-47a8-853e-cd76fc2455b8",
+                    "platform": "Instagram",
+                    "post_url": "https://unusual-place.name/",
+                    "likes": 325,
+                    "comments": 41,
+                    "shares": 61,
+                    "reach": 2239
+                }
+            ],
+            "total_sales_attributed": 4578.648181052792
+        }
+    ]
+}

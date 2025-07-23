@@ -1,0 +1,26 @@
+{
+    "user_id": "c16dcdae-e0c0-43f7-8245-7688ea3a418c",
+    "name": "Maria Dibbert IV",
+    "email": "Hertha_Smitham@yahoo.com",
+    "instagram_handle": "@Milton_Ritchie44",
+    "tiktok_handle": "@Kaden19",
+    "joined_at": "2025-02-25T10:16:39.319Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4c353106-0027-46b0-8e64-8d8e1d79b263",
+            "brand": "Padberg, Lesch and McLaughlin",
+            "tasks_completed": [
+                {
+                    "task_id": "febdf1f8-8a00-46fc-af4b-03b32b269657",
+                    "platform": "Instagram",
+                    "post_url": "https://important-representation.biz",
+                    "likes": 237,
+                    "comments": 0,
+                    "shares": 96,
+                    "reach": 7036
+                }
+            ],
+            "total_sales_attributed": 4342.866103290025
+        }
+    ]
+}

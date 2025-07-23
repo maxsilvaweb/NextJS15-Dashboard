@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Arielle42@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "54551980-44c0-44bd-a061-0ee74b0d6861",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 11,
+                    "shares": 41,
+                    "reach": 4458
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

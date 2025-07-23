@@ -1,0 +1,26 @@
+{
+    "user_id": "e466a9d4-5bf1-48c0-8b44-bf0b61ad1272",
+    "name": "Mrs. Leah Mertz",
+    "email": "Abby_Fritsch63@gmail.com",
+    "instagram_handle": "@Samson_Conroy87",
+    "tiktok_handle": "@Edison.Abshire90",
+    "joined_at": "2024-11-04T09:03:21.456Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9c7d582b-7d01-4664-8b79-2783985ee684",
+            "brand": "Hoppe - Johns",
+            "tasks_completed": [
+                {
+                    "task_id": "9b4d4349-2b0a-4ff4-8b42-4bf61bd8006b",
+                    "platform": "TikTok",
+                    "post_url": "https://winding-obedience.info",
+                    "likes": 265,
+                    "comments": 19,
+                    "shares": 2,
+                    "reach": 1523
+                }
+            ],
+            "total_sales_attributed": 1451.373383684092
+        }
+    ]
+}

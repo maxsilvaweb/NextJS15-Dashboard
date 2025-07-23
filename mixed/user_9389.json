@@ -1,0 +1,26 @@
+{
+    "user_id": "1c6c0a5c-945d-46dc-ad9a-2cb508102090",
+    "name": "Rickey Kemmer",
+    "email": "Ethel_Walter3@gmail.com",
+    "instagram_handle": "@Frederic_Kirlin-Kuvalis",
+    "tiktok_handle": "@Tyrel.Kihn",
+    "joined_at": "2024-11-12T21:47:47.065Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8f69efcd-401d-451e-a834-8641c26f3939",
+            "brand": "Waters - Connelly",
+            "tasks_completed": [
+                {
+                    "task_id": "c443b345-9c1a-47c0-96e8-93278f96c8ab",
+                    "platform": "Instagram",
+                    "post_url": "https://drab-farmer.net/",
+                    "likes": 456,
+                    "comments": 44,
+                    "shares": 46,
+                    "reach": 8273
+                }
+            ],
+            "total_sales_attributed": 418.63416362107137
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Hodkiewicz, Pfannerstill and O'Hara",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 114,
+                    "comments": null,
+                    "shares": 49,
+                    "reach": 8470
+                }
+            ],
+            "total_sales_attributed": 1504.9122983983907
+        }
+    ]

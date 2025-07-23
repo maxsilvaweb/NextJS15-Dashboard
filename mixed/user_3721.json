@@ -1,0 +1,26 @@
+{
+    "user_id": "263a213f-1e32-4d32-af8e-ee29fde7fe8f",
+    "name": "Emmett Hansen",
+    "email": "Carmen63@yahoo.com",
+    "instagram_handle": "@Macey_Frami26",
+    "tiktok_handle": "@Enid.Thompson-VonRueden",
+    "joined_at": "2024-04-03T19:35:36.458Z",
+    "advocacy_programs": [
+        {
+            "program_id": "90dc89a9-1082-43d2-af11-04cc291d264c",
+            "brand": "Huels - Keebler",
+            "tasks_completed": [
+                {
+                    "task_id": "e9752246-3e02-47e5-801b-cba995320c1a",
+                    "platform": "TikTok",
+                    "post_url": "https://tattered-premium.net/",
+                    "likes": 433,
+                    "comments": 16,
+                    "shares": 29,
+                    "reach": 5626
+                }
+            ],
+            "total_sales_attributed": 1304.1063034553129
+        }
+    ]
+}

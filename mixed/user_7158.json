@@ -1,0 +1,26 @@
+{
+    "user_id": "c3c02c4e-4faf-485c-96a3-721ec68193ba",
+    "name": "Pat Bailey-Swift",
+    "email": "Dante_Predovic33@gmail.com",
+    "instagram_handle": "@Cassandra.Barton",
+    "tiktok_handle": "@Irma.Terry",
+    "joined_at": "2024-03-27T01:51:18.144Z",
+    "advocacy_programs": [
+        {
+            "program_id": "19c26aaf-bd93-42ed-8bdd-46e5db2026d7",
+            "brand": "Ernser, Larson and Hagenes",
+            "tasks_completed": [
+                {
+                    "task_id": "7fa17a13-9c8d-46b5-b9e8-b8ff56e36f76",
+                    "platform": "Instagram",
+                    "post_url": "https://strident-scaffold.name",
+                    "likes": 173,
+                    "comments": 44,
+                    "shares": 69,
+                    "reach": 2327
+                }
+            ],
+            "total_sales_attributed": 570.4127042351496
+        }
+    ]
+}

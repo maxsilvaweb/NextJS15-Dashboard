@@ -1,0 +1,26 @@
+{
+    "user_id": "02da2cb6-f4b0-4797-90b9-dea49ed2e09f",
+    "name": "Mamie Ledner",
+    "email": "Jonatan41@hotmail.com",
+    "instagram_handle": "@Jaylin96",
+    "tiktok_handle": "@Elliot21",
+    "joined_at": "2024-08-15T16:03:07.472Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4412144e-0e57-426c-b784-aee768144762",
+            "brand": "Marquardt LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "02dfd56a-b62e-4261-9545-b5859217601d",
+                    "platform": "TikTok",
+                    "post_url": "https://rare-scenario.org/",
+                    "likes": 394,
+                    "comments": 10,
+                    "shares": 87,
+                    "reach": 2482
+                }
+            ],
+            "total_sales_attributed": 4373.5493698657965
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Dr. Mack Sporer",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://only-perfection.name",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 89,
+                    "reach": 5484
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

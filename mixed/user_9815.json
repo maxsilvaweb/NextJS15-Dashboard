@@ -1,0 +1,26 @@
+{
+    "user_id": "9c0581d9-990c-41fd-9c3a-d34c8ef6fd73",
+    "name": "Iris Funk",
+    "email": "Vivianne.Runolfsson29@yahoo.com",
+    "instagram_handle": "@Geovanni81",
+    "tiktok_handle": "@Osborne42",
+    "joined_at": "2024-12-22T22:13:19.495Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ea7e955c-141c-4b7c-b38b-ed5e52c17d22",
+            "brand": "Sawayn - Wunsch",
+            "tasks_completed": [
+                {
+                    "task_id": "d28d1c93-69d7-416b-874b-bbc9b140ffc8",
+                    "platform": "TikTok",
+                    "post_url": "https://descriptive-lounge.org/",
+                    "likes": 207,
+                    "comments": 47,
+                    "shares": 33,
+                    "reach": 3998
+                }
+            ],
+            "total_sales_attributed": 4802.318212737828
+        }
+    ]
+}

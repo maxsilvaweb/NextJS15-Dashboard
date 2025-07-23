@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "60439e71-fdf9-44f1-b4d7-bd95efb1e3f6",
+                    "platform": 123,
+                    "post_url": "https://staid-mobility.com",
+                    "likes": "NaN",
+                    "comments": 10,
+                    "shares": 69,
+                    "reach": 5865
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

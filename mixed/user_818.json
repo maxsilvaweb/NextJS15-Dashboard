@@ -1,0 +1,26 @@
+{
+    "user_id": "1dd6b996-fe26-4ec0-82bc-ecad705a4bcd",
+    "name": "Mrs. Pam Kuhic",
+    "email": "Carmela_Connelly@yahoo.com",
+    "instagram_handle": "@Donna.Lockman",
+    "tiktok_handle": "@Dariana37",
+    "joined_at": "2024-11-28T06:33:46.998Z",
+    "advocacy_programs": [
+        {
+            "program_id": "02c9b4f2-ec65-420f-9d42-613cd1a71f99",
+            "brand": "Wyman Group",
+            "tasks_completed": [
+                {
+                    "task_id": "3ec46189-4998-4b71-b478-168e2cb02e55",
+                    "platform": "TikTok",
+                    "post_url": "https://strange-velocity.net",
+                    "likes": 437,
+                    "comments": 43,
+                    "shares": 23,
+                    "reach": 8750
+                }
+            ],
+            "total_sales_attributed": 2323.2211639486986
+        }
+    ]
+}

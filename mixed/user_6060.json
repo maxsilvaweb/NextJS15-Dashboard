@@ -1,0 +1,26 @@
+{
+    "user_id": "c95abf06-2ab3-4b22-bdbc-9a8dc913c3e0",
+    "name": "Santos Kihn",
+    "email": "Evert70@hotmail.com",
+    "instagram_handle": "@Dandre19",
+    "tiktok_handle": "@Addison_Robel-Bosco",
+    "joined_at": "2024-10-16T15:06:40.654Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0b9a15df-f7f6-4761-b45b-786a71ad2828",
+            "brand": "Hayes, Leuschke and Tromp",
+            "tasks_completed": [
+                {
+                    "task_id": "3962655f-6172-4979-aaa6-7956eff40c90",
+                    "platform": "Instagram",
+                    "post_url": "https://upright-chapel.name/",
+                    "likes": 426,
+                    "comments": 46,
+                    "shares": 63,
+                    "reach": 4652
+                }
+            ],
+            "total_sales_attributed": 3908.1114505155765
+        }
+    ]
+}

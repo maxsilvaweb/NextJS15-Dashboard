@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Kozey, Paucek and Schuster",
+            "tasks_completed": [
+                {
+                    "task_id": "ae2ee6a0-f943-44d3-a3b8-2572ed274962",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 16,
+                    "reach": 9974
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

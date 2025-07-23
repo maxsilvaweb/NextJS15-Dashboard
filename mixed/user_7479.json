@@ -1,0 +1,26 @@
+{
+    "user_id": "cb388745-7a49-4085-bfce-a3d7035c347d",
+    "name": "Suzanne Schmeler",
+    "email": "Uriel_Streich@gmail.com",
+    "instagram_handle": "@Monty_Moen84",
+    "tiktok_handle": "@Ewald_Boyer48",
+    "joined_at": "2024-12-11T22:23:14.143Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cf52bf78-6dfb-463b-9cec-886d821917fe",
+            "brand": "Stark - Predovic",
+            "tasks_completed": [
+                {
+                    "task_id": "690da1b3-5397-41ef-92b9-d57f89be6e98",
+                    "platform": "TikTok",
+                    "post_url": "https://merry-adult.com/",
+                    "likes": 37,
+                    "comments": 2,
+                    "shares": 31,
+                    "reach": 9256
+                }
+            ],
+            "total_sales_attributed": 4867.0718969082345
+        }
+    ]
+}

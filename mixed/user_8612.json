@@ -1,0 +1,26 @@
+{
+    "user_id": "ace31c3e-d3f5-4196-a362-b4c327242973",
+    "name": "Mr. Darrin Satterfield",
+    "email": "Wiley.Steuber@yahoo.com",
+    "instagram_handle": "@Pinkie32",
+    "tiktok_handle": "@Geovanni_Abernathy68",
+    "joined_at": "2024-05-29T22:11:24.480Z",
+    "advocacy_programs": [
+        {
+            "program_id": "313f6586-d6f5-4c3c-989f-76b17a51eaa5",
+            "brand": "Hilpert LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "97868ca1-04a0-46fe-95e4-62540cbd2326",
+                    "platform": "Instagram",
+                    "post_url": "https://faint-arcade.info",
+                    "likes": 183,
+                    "comments": 0,
+                    "shares": 3,
+                    "reach": 3763
+                }
+            ],
+            "total_sales_attributed": 2009.5503756498251
+        }
+    ]
+}

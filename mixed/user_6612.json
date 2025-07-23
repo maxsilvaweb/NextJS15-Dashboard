@@ -1,0 +1,26 @@
+{
+    "user_id": "5edf979b-c8e8-45d8-8b0f-774fbd20c5b8",
+    "name": "Lillie Pollich",
+    "email": "Megane.Witting21@hotmail.com",
+    "instagram_handle": "@Rebekah79",
+    "tiktok_handle": "@Vita_Boyer12",
+    "joined_at": "2025-02-22T00:18:58.540Z",
+    "advocacy_programs": [
+        {
+            "program_id": "64375f6f-8565-4fb1-a6ca-2daf1af31249",
+            "brand": "Kreiger LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d7a05523-29b0-4070-95a1-138cecc5e3ad",
+                    "platform": "TikTok",
+                    "post_url": "https://untrue-term.org",
+                    "likes": 206,
+                    "comments": 9,
+                    "shares": 3,
+                    "reach": 5841
+                }
+            ],
+            "total_sales_attributed": 3383.7831112834315
+        }
+    ]
+}

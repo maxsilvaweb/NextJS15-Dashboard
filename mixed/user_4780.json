@@ -1,0 +1,26 @@
+{
+    "user_id": "2ce5ce36-d81e-4e56-9edf-f2616be06a55",
+    "name": "Derrick Reynolds",
+    "email": "Alexandrea_Douglas@gmail.com",
+    "instagram_handle": "@Christelle.Toy",
+    "tiktok_handle": "@Triston_Nicolas44",
+    "joined_at": "2024-09-09T15:48:48.702Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ed21c6b4-af86-4335-8970-d6134d099e81",
+            "brand": "Watsica, Mosciski and Leannon",
+            "tasks_completed": [
+                {
+                    "task_id": "a4b2519a-fafd-4fe5-b055-096b46131676",
+                    "platform": "TikTok",
+                    "post_url": "https://portly-hygienic.name",
+                    "likes": 31,
+                    "comments": 10,
+                    "shares": 73,
+                    "reach": 7447
+                }
+            ],
+            "total_sales_attributed": 3238.0453642467564
+        }
+    ]
+}

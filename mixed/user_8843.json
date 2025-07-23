@@ -1,0 +1,26 @@
+{
+    "user_id": "0e2ad7c4-5b1b-4214-9493-bae296b07e91",
+    "name": "Sue Powlowski",
+    "email": "Merlin77@hotmail.com",
+    "instagram_handle": "@Rosie.Fahey94",
+    "tiktok_handle": "@Charley_Pollich38",
+    "joined_at": "2025-01-10T14:12:15.069Z",
+    "advocacy_programs": [
+        {
+            "program_id": "334311e1-ed16-435d-a475-24e8153ddd39",
+            "brand": "Kunze LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5b53b24b-c9e0-4105-aaff-37bb69f54e13",
+                    "platform": "Instagram",
+                    "post_url": "https://squiggly-heating.org/",
+                    "likes": 133,
+                    "comments": 10,
+                    "shares": 15,
+                    "reach": 2717
+                }
+            ],
+            "total_sales_attributed": 4660.10218580262
+        }
+    ]
+}

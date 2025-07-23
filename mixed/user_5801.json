@@ -1,0 +1,26 @@
+{
+    "user_id": "a03d05ed-c441-494f-a013-0105a4473b31",
+    "name": "Leticia Hodkiewicz",
+    "email": "Ian.Mitchell@yahoo.com",
+    "instagram_handle": "@Ethyl60",
+    "tiktok_handle": "@Eloise_Dicki9",
+    "joined_at": "2024-07-12T15:08:18.835Z",
+    "advocacy_programs": [
+        {
+            "program_id": "de20bab2-d1a8-4d77-a4b7-4b4d781b0fb4",
+            "brand": "Bosco, Cummerata and Kirlin",
+            "tasks_completed": [
+                {
+                    "task_id": "1986565b-0056-430a-8bc1-3432d4388d28",
+                    "platform": "TikTok",
+                    "post_url": "https://triangular-viability.net/",
+                    "likes": 30,
+                    "comments": 27,
+                    "shares": 35,
+                    "reach": 2166
+                }
+            ],
+            "total_sales_attributed": 4910.791656984887
+        }
+    ]
+}

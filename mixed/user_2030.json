@@ -1,0 +1,26 @@
+{
+    "user_id": "e5ba238f-a4d3-4a31-a312-4503883fccba",
+    "name": "Gustavo Pagac-Shanahan",
+    "email": "Sandrine_Klocko78@hotmail.com",
+    "instagram_handle": "@Dereck81",
+    "tiktok_handle": "@Enoch_Crona",
+    "joined_at": "2024-06-14T18:15:30.417Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ec85424c-0e33-44a1-8cf5-90e064299774",
+            "brand": "Renner - Gerlach",
+            "tasks_completed": [
+                {
+                    "task_id": "5566b04f-fc82-446c-8bfb-7b3282725df3",
+                    "platform": "Instagram",
+                    "post_url": "https://tricky-range.com",
+                    "likes": 48,
+                    "comments": 27,
+                    "shares": 32,
+                    "reach": 4717
+                }
+            ],
+            "total_sales_attributed": 245.55450225498691
+        }
+    ]
+}

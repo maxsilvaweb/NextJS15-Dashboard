@@ -1,0 +1,26 @@
+{
+    "user_id": "49ae6bca-e0cc-4a26-800a-5bd53a494e04",
+    "name": "Whitney Strosin",
+    "email": "Josianne64@hotmail.com",
+    "instagram_handle": "@Bertrand_Volkman80",
+    "tiktok_handle": "@Price32",
+    "joined_at": "2024-08-26T02:55:32.958Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e50b017d-e0de-42e8-a82a-d58acdd5bfd4",
+            "brand": "Mills - Rutherford",
+            "tasks_completed": [
+                {
+                    "task_id": "ab8ad4a2-06c2-4a9b-b945-57a43c9cb491",
+                    "platform": "Instagram",
+                    "post_url": "https://elliptical-unit.org/",
+                    "likes": 53,
+                    "comments": 37,
+                    "shares": 9,
+                    "reach": 9958
+                }
+            ],
+            "total_sales_attributed": 2498.7152895204995
+        }
+    ]
+}

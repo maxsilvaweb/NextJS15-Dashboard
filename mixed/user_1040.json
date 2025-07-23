@@ -1,0 +1,26 @@
+{
+    "user_id": "73abb081-d468-472d-95dd-32dc8d8a19b6",
+    "name": "Harold Walter",
+    "email": "Quinn_Lemke@gmail.com",
+    "instagram_handle": "@Ryan.Kreiger10",
+    "tiktok_handle": "@Alayna_Satterfield49",
+    "joined_at": "2025-01-13T10:35:53.543Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f7ba4416-0ff2-4eb0-b589-e51fc3f45455",
+            "brand": "Bradtke - Johnston",
+            "tasks_completed": [
+                {
+                    "task_id": "75a4c27b-d84b-4a60-87d1-26863bb1ee12",
+                    "platform": "Instagram",
+                    "post_url": "https://urban-fishery.org/",
+                    "likes": 203,
+                    "comments": 50,
+                    "shares": 44,
+                    "reach": 5674
+                }
+            ],
+            "total_sales_attributed": 4675.146202899103
+        }
+    ]
+}

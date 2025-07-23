@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Jewel_Funk-Roberts92@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "beadd1bd-5680-4ac7-bfd6-3aaa2f43b41b",
+            "brand": "Cassin - Sawayn",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://somber-cardboard.name",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 77,
+                    "reach": 2832
+                }
+            ],
+            "total_sales_attributed": 2355.3629355866897
+        }
+    ]
+}

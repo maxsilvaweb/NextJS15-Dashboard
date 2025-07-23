@@ -1,0 +1,26 @@
+{
+    "user_id": "b327601b-1d7c-4620-97e4-201b5cf003f8",
+    "name": "Jeremy Nolan",
+    "email": "Noble63@yahoo.com",
+    "instagram_handle": "@Geovanny_Krajcik2",
+    "tiktok_handle": "@Tavares31",
+    "joined_at": "2024-09-05T23:31:04.094Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b5d9d78d-eaf8-442c-bc99-107bd87c8790",
+            "brand": "Kuhn, Wolff and MacGyver",
+            "tasks_completed": [
+                {
+                    "task_id": "121bed76-c26e-4502-9657-5b67c9f71c0a",
+                    "platform": "Instagram",
+                    "post_url": "https://leading-impact.biz/",
+                    "likes": 263,
+                    "comments": 4,
+                    "shares": 57,
+                    "reach": 1978
+                }
+            ],
+            "total_sales_attributed": 2855.565482279528
+        }
+    ]
+}

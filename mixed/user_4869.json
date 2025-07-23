@@ -1,0 +1,26 @@
+{
+    "user_id": "c5cb4000-08c5-4da7-9574-fa6204e5ade8",
+    "name": "Monica Steuber Jr.",
+    "email": "Jerald.Marvin@hotmail.com",
+    "instagram_handle": "@Doyle.Yost",
+    "tiktok_handle": "@Yvette.Walsh",
+    "joined_at": "2025-02-05T20:00:45.093Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5d87f6d2-f172-4eea-a2ef-c897fa08d27b",
+            "brand": "Cormier, Lemke and Schuppe",
+            "tasks_completed": [
+                {
+                    "task_id": "5b2d8da3-2d79-40c4-b5a1-8fa9b30029c3",
+                    "platform": "Instagram",
+                    "post_url": "https://enlightened-legging.info/",
+                    "likes": 316,
+                    "comments": 49,
+                    "shares": 97,
+                    "reach": 6671
+                }
+            ],
+            "total_sales_attributed": 3271.924020409384
+        }
+    ]
+}

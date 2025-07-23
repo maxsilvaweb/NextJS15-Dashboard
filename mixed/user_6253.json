@@ -1,0 +1,26 @@
+{
+    "user_id": "40b5103e-c411-427d-99b2-c1bf52034f91",
+    "name": "Perry Boehm",
+    "email": "Rod62@hotmail.com",
+    "instagram_handle": "@Veda.Pouros86",
+    "tiktok_handle": "@Coty.Oberbrunner",
+    "joined_at": "2025-02-05T08:13:17.395Z",
+    "advocacy_programs": [
+        {
+            "program_id": "91d06513-3ba6-478a-8e7a-fa7520583ee4",
+            "brand": "Cormier - Hoppe",
+            "tasks_completed": [
+                {
+                    "task_id": "bd61a23f-03cc-4d96-8bb9-7db1e168adef",
+                    "platform": "Instagram",
+                    "post_url": "https://violent-intervention.net/",
+                    "likes": 176,
+                    "comments": 23,
+                    "shares": 92,
+                    "reach": 5174
+                }
+            ],
+            "total_sales_attributed": 3764.4717970525703
+        }
+    ]
+}

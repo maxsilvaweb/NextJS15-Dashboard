@@ -1,0 +1,26 @@
+{
+    "user_id": "06ec82d4-490f-436d-9f91-e1de04d47c35",
+    "name": "Marcia Borer",
+    "email": "Frankie_Pagac9@hotmail.com",
+    "instagram_handle": "@Lincoln8",
+    "tiktok_handle": "@Genevieve.OConner",
+    "joined_at": "2024-06-02T02:37:23.893Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a9f629b9-ed03-4ddc-8fc9-a39728e57ff7",
+            "brand": "Williamson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2aa131d9-abfd-4e8f-9a44-5789fd48d11b",
+                    "platform": "TikTok",
+                    "post_url": "https://tepid-hygienic.com",
+                    "likes": 474,
+                    "comments": 48,
+                    "shares": 36,
+                    "reach": 7098
+                }
+            ],
+            "total_sales_attributed": 3393.8869478106767
+        }
+    ]
+}

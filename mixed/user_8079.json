@@ -1,0 +1,26 @@
+{
+    "user_id": "799d45c3-c805-4458-84a4-0229e5d28182",
+    "name": "Dewey Lang",
+    "email": "Nicolette.Kulas@gmail.com",
+    "instagram_handle": "@Sylvia.Lubowitz",
+    "tiktok_handle": "@Odell_Pfeffer78",
+    "joined_at": "2025-01-26T06:31:58.539Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3fc0308e-b239-48c2-8939-9fd574793863",
+            "brand": "Towne and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "55cb8915-aac2-4107-bd45-b63c26cecd2b",
+                    "platform": "Instagram",
+                    "post_url": "https://light-coin.biz",
+                    "likes": 453,
+                    "comments": 38,
+                    "shares": 64,
+                    "reach": 8701
+                }
+            ],
+            "total_sales_attributed": 3798.3481226368453
+        }
+    ]
+}

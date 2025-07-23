@@ -1,0 +1,26 @@
+{
+    "user_id": "7c36b835-6209-40ea-a824-49cbdac19a48",
+    "name": "Dexter Lynch Sr.",
+    "email": "Kayla.Swaniawski@yahoo.com",
+    "instagram_handle": "@Jerel12",
+    "tiktok_handle": "@Oma.Leuschke",
+    "joined_at": "2025-01-07T20:30:32.111Z",
+    "advocacy_programs": [
+        {
+            "program_id": "54d62acc-3123-406f-8953-23f65919cf53",
+            "brand": "Kuvalis Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d235fe0e-888d-449a-9b3d-253e2acbd2fd",
+                    "platform": "TikTok",
+                    "post_url": "https://different-disposer.com",
+                    "likes": 334,
+                    "comments": 37,
+                    "shares": 51,
+                    "reach": 5248
+                }
+            ],
+            "total_sales_attributed": 948.5092359636405
+        }
+    ]
+}

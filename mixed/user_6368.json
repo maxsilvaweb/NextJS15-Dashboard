@@ -1,0 +1,26 @@
+{
+    "user_id": "bf833ac0-88c7-4c29-b285-5e71a789bda2",
+    "name": "Wade Pfeffer",
+    "email": "Mozelle_Flatley@hotmail.com",
+    "instagram_handle": "@Jany_Bosco",
+    "tiktok_handle": "@Roberta34",
+    "joined_at": "2025-02-26T19:15:46.527Z",
+    "advocacy_programs": [
+        {
+            "program_id": "912fc889-3743-4683-82c2-773b1a0f4a74",
+            "brand": "Gleichner and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "ee27a365-9109-41e5-ab9b-13e756a04cad",
+                    "platform": "TikTok",
+                    "post_url": "https://minty-defendant.org/",
+                    "likes": 348,
+                    "comments": 6,
+                    "shares": 81,
+                    "reach": 7257
+                }
+            ],
+            "total_sales_attributed": 1661.0300977993052
+        }
+    ]
+}

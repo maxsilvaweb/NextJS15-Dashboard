@@ -1,0 +1,26 @@
+{
+    "user_id": "4026b6b7-4754-45bc-969f-972476a2186f",
+    "name": "Mabel Koepp",
+    "email": "Hilario97@hotmail.com",
+    "instagram_handle": "@Deanna50",
+    "tiktok_handle": "@Adelia.Nienow",
+    "joined_at": "2024-10-15T19:22:17.893Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d644450c-317f-44c6-9bea-9e80481903eb",
+            "brand": "Thiel, Feest and Hermiston",
+            "tasks_completed": [
+                {
+                    "task_id": "e7eabc28-d1b6-4261-b689-7278a3d69d3c",
+                    "platform": "TikTok",
+                    "post_url": "https://webbed-crest.org/",
+                    "likes": 226,
+                    "comments": 18,
+                    "shares": 40,
+                    "reach": 7938
+                }
+            ],
+            "total_sales_attributed": 3262.9984488074097
+        }
+    ]
+}

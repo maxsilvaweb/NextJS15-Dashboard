@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Marjorie_Kertzmann@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Terrance_Littel",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 30,
+                    "shares": 69,
+                    "reach": 8693
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

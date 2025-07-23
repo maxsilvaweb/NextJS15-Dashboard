@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Jessyca.Sporer@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "55cd7ece-0dc6-4451-be56-8b6b9d206d18",
+                    "platform": 123,
+                    "post_url": "https://dazzling-word.com",
+                    "likes": "NaN",
+                    "comments": 0,
+                    "shares": 73,
+                    "reach": 9890
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

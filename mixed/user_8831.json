@@ -1,0 +1,26 @@
+{
+    "user_id": "26c5c2f6-8910-4c9a-80f0-ca4ed99cc11b",
+    "name": "Christine Schamberger",
+    "email": "Ruben76@hotmail.com",
+    "instagram_handle": "@Frances_Schimmel34",
+    "tiktok_handle": "@Hassan_Wiegand22",
+    "joined_at": "2024-08-07T09:29:21.485Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7f56ba7a-ce21-4a12-89c7-b2b146475fc7",
+            "brand": "Johns - Abernathy",
+            "tasks_completed": [
+                {
+                    "task_id": "00ad2015-bb6e-4fe6-9e8c-92e9f7efaf4d",
+                    "platform": "Instagram",
+                    "post_url": "https://defenseless-cheese.net/",
+                    "likes": 80,
+                    "comments": 27,
+                    "shares": 97,
+                    "reach": 7271
+                }
+            ],
+            "total_sales_attributed": 156.8023618898667
+        }
+    ]
+}

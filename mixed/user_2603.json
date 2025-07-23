@@ -1,0 +1,26 @@
+{
+    "user_id": "7e51cd24-d43d-4a62-8135-a9e7ef0fc278",
+    "name": "Donald Ernser",
+    "email": "Velda13@hotmail.com",
+    "instagram_handle": "@Desiree76",
+    "tiktok_handle": "@Mya_Corkery",
+    "joined_at": "2024-06-01T18:39:44.043Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4b59e41c-a050-4f4b-a8d0-95f4ebd16378",
+            "brand": "Dietrich, O'Keefe and Langworth",
+            "tasks_completed": [
+                {
+                    "task_id": "10942b70-22d0-4c11-b31e-f2d7f51da8d0",
+                    "platform": "TikTok",
+                    "post_url": "https://buttery-honesty.name/",
+                    "likes": 438,
+                    "comments": 6,
+                    "shares": 13,
+                    "reach": 6562
+                }
+            ],
+            "total_sales_attributed": 3196.2489048701273
+        }
+    ]
+}

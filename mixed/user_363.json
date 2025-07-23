@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-06-24T13:11:06.597Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Weber Group",
+            "tasks_completed": [
+                {
+                    "task_id": "38070f9b-b1e1-4489-8a7f-59e4aeffcf67",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 21,
+                    "shares": 16,
+                    "reach": 7400
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

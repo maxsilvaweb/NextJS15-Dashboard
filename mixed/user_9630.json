@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Gilbert.Pacocha@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2025-03-06T16:41:13.024Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "a817feff-38a1-46a2-8de1-b8fccb4846be",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 59,
+                    "reach": 4835
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e3a9e147-4064-411f-bcf1-e416a40a6c24",
+    "name": "Cristina Nikolaus",
+    "email": "Isom_Heathcote76@hotmail.com",
+    "instagram_handle": "@Jayne78",
+    "tiktok_handle": "@Kassandra_Olson55",
+    "joined_at": "2024-09-04T21:21:20.811Z",
+    "advocacy_programs": [
+        {
+            "program_id": "43ba4011-c086-4598-86ec-b4b2dbb0a9d2",
+            "brand": "Olson, Hagenes and Carter",
+            "tasks_completed": [
+                {
+                    "task_id": "a159086c-8b3c-47d6-9bdd-cae4f6300fb9",
+                    "platform": "TikTok",
+                    "post_url": "https://inborn-membership.name",
+                    "likes": 135,
+                    "comments": 25,
+                    "shares": 9,
+                    "reach": 9208
+                }
+            ],
+            "total_sales_attributed": 2227.9215464897043
+        }
+    ]
+}

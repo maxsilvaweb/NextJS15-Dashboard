@@ -1,0 +1,26 @@
+{
+    "user_id": "8b387b95-e651-43a7-923e-01db035eea31",
+    "name": "Suzanne Veum IV",
+    "email": "Rafael_Emard@gmail.com",
+    "instagram_handle": "@Moises.Christiansen",
+    "tiktok_handle": "@Ezra.Yost-Weber47",
+    "joined_at": "2024-05-19T14:35:02.997Z",
+    "advocacy_programs": [
+        {
+            "program_id": "19ec542c-aeb1-4612-bc6f-3aa0ef95c08f",
+            "brand": "Macejkovic - Adams",
+            "tasks_completed": [
+                {
+                    "task_id": "74db6afa-4e40-429e-9083-5be17dfb89f4",
+                    "platform": "TikTok",
+                    "post_url": "https://anguished-embarrassment.com/",
+                    "likes": 79,
+                    "comments": 40,
+                    "shares": 87,
+                    "reach": 9418
+                }
+            ],
+            "total_sales_attributed": 2936.105469984044
+        }
+    ]
+}

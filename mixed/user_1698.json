@@ -1,0 +1,26 @@
+{
+    "user_id": "7dd206ef-85c6-40e7-92df-ef2f48cc1d87",
+    "name": "Diane Kub DVM",
+    "email": "Ivy_Cronin34@gmail.com",
+    "instagram_handle": "@Tillman.Kihn52",
+    "tiktok_handle": "@Estrella77",
+    "joined_at": "2024-11-24T05:13:21.324Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e57914b8-0f38-42ba-a053-b91bc589fb63",
+            "brand": "Wuckert LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "678c16bf-fd02-46f8-996c-96c5426d0c94",
+                    "platform": "Instagram",
+                    "post_url": "https://breakable-humor.org/",
+                    "likes": 440,
+                    "comments": 32,
+                    "shares": 25,
+                    "reach": 9572
+                }
+            ],
+            "total_sales_attributed": 919.8844618582971
+        }
+    ]
+}

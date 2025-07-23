@@ -1,0 +1,26 @@
+{
+    "user_id": "30b411fc-40ac-4946-b029-acde6fcc6d04",
+    "name": "Evelyn Wehner",
+    "email": "Myrna.Langosh12@gmail.com",
+    "instagram_handle": "@Rosemarie.Marquardt9",
+    "tiktok_handle": "@Electa61",
+    "joined_at": "2024-06-11T08:48:09.318Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3e30bee6-211a-4bc1-9c45-d04edcf7d55b",
+            "brand": "Powlowski and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "91166f02-6457-4827-bef7-bf357ad5345c",
+                    "platform": "TikTok",
+                    "post_url": "https://devoted-sediment.org",
+                    "likes": 457,
+                    "comments": 5,
+                    "shares": 24,
+                    "reach": 5095
+                }
+            ],
+            "total_sales_attributed": 4921.775087789674
+        }
+    ]
+}

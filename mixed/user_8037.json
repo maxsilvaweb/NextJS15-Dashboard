@@ -1,0 +1,26 @@
+{
+    "user_id": "3fc59ff3-a14a-434a-aa2d-0cd60e6ccfc3",
+    "name": "Mr. Charlie Bailey",
+    "email": "Kathryn.Maggio@gmail.com",
+    "instagram_handle": "@Donnie_Glover",
+    "tiktok_handle": "@Janae92",
+    "joined_at": "2024-03-25T19:46:00.310Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c6688aaa-3afd-4cb8-b45d-1cf0d0a81ba1",
+            "brand": "O'Conner and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "5f382c17-c4f7-492b-be11-963520b6a7b0",
+                    "platform": "Instagram",
+                    "post_url": "https://humble-yeast.biz/",
+                    "likes": 243,
+                    "comments": 31,
+                    "shares": 65,
+                    "reach": 9612
+                }
+            ],
+            "total_sales_attributed": 4310.6887858119935
+        }
+    ]
+}

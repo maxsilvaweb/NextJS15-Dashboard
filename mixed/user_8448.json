@@ -1,0 +1,26 @@
+{
+    "user_id": "c8e19fc2-7e0c-44d2-816a-e802c8f3b6a1",
+    "name": "Jerome Murphy",
+    "email": "Cyril_Rogahn@gmail.com",
+    "instagram_handle": "@Stan31",
+    "tiktok_handle": "@Elian_OConnell",
+    "joined_at": "2024-05-16T18:32:02.388Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9f1899d4-cc8a-46c7-8775-1f1824fd717a",
+            "brand": "Champlin - Runolfsson",
+            "tasks_completed": [
+                {
+                    "task_id": "e4edffb2-db7b-4a06-a267-9858150c52a5",
+                    "platform": "Instagram",
+                    "post_url": "https://corny-other.org/",
+                    "likes": 59,
+                    "comments": 31,
+                    "shares": 58,
+                    "reach": 4882
+                }
+            ],
+            "total_sales_attributed": 4704.4905576256815
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Joey_Swaniawski@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Pablo67",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Hahn, Hintz and Ullrich",
+            "tasks_completed": [
+                {
+                    "task_id": "87a9d665-3f09-489a-8918-a1828415f976",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 3,
+                    "reach": 8587
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

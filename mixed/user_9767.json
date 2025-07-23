@@ -1,0 +1,26 @@
+{
+    "user_id": "57ea5925-9fff-4bc4-8809-c0da7ef75c2d",
+    "name": "Lola Haag PhD",
+    "email": "Violet_Jacobs@gmail.com",
+    "instagram_handle": "@Ebba_Goodwin31",
+    "tiktok_handle": "@Merritt76",
+    "joined_at": "2024-04-25T16:48:56.693Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d4555ac6-29a1-4070-81c9-2f43ce7a9b17",
+            "brand": "Beatty, Thiel and Nader",
+            "tasks_completed": [
+                {
+                    "task_id": "a7304cf7-8c27-45d4-bf7d-d9877d5ecc2b",
+                    "platform": "Instagram",
+                    "post_url": "https://burly-worth.com/",
+                    "likes": 282,
+                    "comments": 19,
+                    "shares": 76,
+                    "reach": 8520
+                }
+            ],
+            "total_sales_attributed": 2853.971890513521
+        }
+    ]
+}

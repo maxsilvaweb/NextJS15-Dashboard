@@ -1,0 +1,26 @@
+{
+    "user_id": "87985168-354f-4205-8a5d-42fe83597867",
+    "name": "Mr. Zachary Flatley",
+    "email": "Eileen_Hessel89@hotmail.com",
+    "instagram_handle": "@Quinn_Labadie26",
+    "tiktok_handle": "@Brad_Stamm",
+    "joined_at": "2024-06-13T10:17:51.368Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3ae08167-c133-4c4a-b025-2d75224de89b",
+            "brand": "Kulas - Wintheiser",
+            "tasks_completed": [
+                {
+                    "task_id": "5414e460-e35a-4404-b61b-c1583bd7b58f",
+                    "platform": "Instagram",
+                    "post_url": "https://weighty-conservation.name/",
+                    "likes": 154,
+                    "comments": 16,
+                    "shares": 16,
+                    "reach": 4241
+                }
+            ],
+            "total_sales_attributed": 898.2825655708874
+        }
+    ]
+}

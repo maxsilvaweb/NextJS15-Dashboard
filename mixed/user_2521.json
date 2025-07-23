@@ -1,0 +1,26 @@
+{
+    "user_id": "a6e775cb-f5e9-4d76-ae0f-6c701c73afd0",
+    "name": "Elsa Bayer",
+    "email": "Lottie12@hotmail.com",
+    "instagram_handle": "@Ramon74",
+    "tiktok_handle": "@Samanta_Medhurst95",
+    "joined_at": "2024-06-26T10:39:35.801Z",
+    "advocacy_programs": [
+        {
+            "program_id": "209519e1-18dc-4b54-b688-c7d4ea6e9110",
+            "brand": "Daugherty - Reynolds",
+            "tasks_completed": [
+                {
+                    "task_id": "945ff58e-ff36-4543-8794-2a83777379f3",
+                    "platform": "Instagram",
+                    "post_url": "https://gripping-contractor.biz/",
+                    "likes": 189,
+                    "comments": 13,
+                    "shares": 75,
+                    "reach": 4348
+                }
+            ],
+            "total_sales_attributed": 2609.8980248888242
+        }
+    ]
+}

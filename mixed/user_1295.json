@@ -1,0 +1,26 @@
+{
+    "user_id": "c4a43245-ea91-44f4-a2f9-a4e7773a02d1",
+    "name": "Erin Huel",
+    "email": "Jeffery_Yost-Lowe@hotmail.com",
+    "instagram_handle": "@Dedrick34",
+    "tiktok_handle": "@Sidney.Runolfsdottir",
+    "joined_at": "2024-11-16T08:02:32.990Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e9cc79de-5608-4887-9d9b-f3ca916080e9",
+            "brand": "Wilderman - Fritsch",
+            "tasks_completed": [
+                {
+                    "task_id": "d4276c0c-57cb-4ce8-923d-28b6e4d4cde1",
+                    "platform": "Instagram",
+                    "post_url": "https://made-up-bin.biz/",
+                    "likes": 300,
+                    "comments": 49,
+                    "shares": 12,
+                    "reach": 8763
+                }
+            ],
+            "total_sales_attributed": 662.8577286384481
+        }
+    ]
+}

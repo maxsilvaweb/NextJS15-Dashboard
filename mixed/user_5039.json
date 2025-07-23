@@ -1,0 +1,26 @@
+{
+    "user_id": "5863efdd-3bb8-4c5c-b94f-8b57fcd3805b",
+    "name": "Hattie Jakubowski",
+    "email": "Adaline1@hotmail.com",
+    "instagram_handle": "@Idell_Hegmann",
+    "tiktok_handle": "@Melany17",
+    "joined_at": "2024-11-15T14:19:24.040Z",
+    "advocacy_programs": [
+        {
+            "program_id": "083c5113-4d4d-4a89-9279-971b99b38a07",
+            "brand": "Bartoletti Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "a6a4be69-22e9-47c7-9829-0c01749302fb",
+                    "platform": "Instagram",
+                    "post_url": "https://practical-orchid.biz",
+                    "likes": 97,
+                    "comments": 21,
+                    "shares": 93,
+                    "reach": 1977
+                }
+            ],
+            "total_sales_attributed": 4839.541636108747
+        }
+    ]
+}

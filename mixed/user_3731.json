@@ -1,0 +1,26 @@
+{
+    "user_id": "dee795e4-1824-4d72-8e0c-b6ea96eb233c",
+    "name": "Sammy Jenkins",
+    "email": "Alexandrea_Goldner82@yahoo.com",
+    "instagram_handle": "@Rickie58",
+    "tiktok_handle": "@Dortha63",
+    "joined_at": "2024-05-26T07:10:59.806Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3485e83e-f7b0-4770-b9bb-c46212dadebd",
+            "brand": "Flatley Group",
+            "tasks_completed": [
+                {
+                    "task_id": "dcd43ea2-6dd4-4a5a-a640-745dda813704",
+                    "platform": "TikTok",
+                    "post_url": "https://blue-humor.com",
+                    "likes": 332,
+                    "comments": 19,
+                    "shares": 58,
+                    "reach": 9149
+                }
+            ],
+            "total_sales_attributed": 4283.527692392278
+        }
+    ]
+}

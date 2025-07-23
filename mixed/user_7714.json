@@ -1,0 +1,26 @@
+{
+    "user_id": "82a4d57e-ce28-42b6-a123-646952001a31",
+    "name": "Terry Bechtelar",
+    "email": "Clemens.Mertz50@yahoo.com",
+    "instagram_handle": "@Frieda.Trantow75",
+    "tiktok_handle": "@Jack28",
+    "joined_at": "2024-03-30T01:15:27.317Z",
+    "advocacy_programs": [
+        {
+            "program_id": "51e4ca16-0c82-4301-9b8a-08f4b0e1b90d",
+            "brand": "Corwin, Sauer and Lebsack",
+            "tasks_completed": [
+                {
+                    "task_id": "5adf4549-4947-4a9a-be87-4d9eb81a8cf3",
+                    "platform": "Instagram",
+                    "post_url": "https://deserted-hyphenation.biz/",
+                    "likes": 166,
+                    "comments": 22,
+                    "shares": 64,
+                    "reach": 4225
+                }
+            ],
+            "total_sales_attributed": 984.0538483767339
+        }
+    ]
+}

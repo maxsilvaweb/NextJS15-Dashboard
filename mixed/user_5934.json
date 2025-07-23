@@ -1,0 +1,26 @@
+{
+    "user_id": "b2c54e0d-2bb8-42d2-8998-3b3b79459380",
+    "name": "Linda Gislason",
+    "email": "Jay_Stanton1@hotmail.com",
+    "instagram_handle": "@Muhammad.Krajcik61",
+    "tiktok_handle": "@Demetris.Larkin28",
+    "joined_at": "2024-04-21T20:46:00.261Z",
+    "advocacy_programs": [
+        {
+            "program_id": "78d42c07-d60c-4847-8696-2d36f54ec60c",
+            "brand": "Lynch - Kunze",
+            "tasks_completed": [
+                {
+                    "task_id": "caa73f5a-7dad-4ea1-b274-5a18507d1b41",
+                    "platform": "Instagram",
+                    "post_url": "https://flimsy-intervention.info",
+                    "likes": 295,
+                    "comments": 24,
+                    "shares": 100,
+                    "reach": 6140
+                }
+            ],
+            "total_sales_attributed": 4922.240884963766
+        }
+    ]
+}

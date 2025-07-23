@@ -1,0 +1,26 @@
+{
+    "user_id": "ee5447c1-ae54-482f-bd23-54370107fbe3",
+    "name": "Javier Doyle",
+    "email": "Brad.Graham@hotmail.com",
+    "instagram_handle": "@Stan_Satterfield",
+    "tiktok_handle": "@Ronny_Bogisich",
+    "joined_at": "2024-05-13T00:04:06.079Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d4aeac1b-8db6-4a19-be1b-5e15444a2651",
+            "brand": "Kassulke LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5125fdad-f752-4a21-aba5-77acaff4043b",
+                    "platform": "TikTok",
+                    "post_url": "https://muted-fishery.com/",
+                    "likes": 471,
+                    "comments": 25,
+                    "shares": 44,
+                    "reach": 9254
+                }
+            ],
+            "total_sales_attributed": 2077.0228862081613
+        }
+    ]
+}

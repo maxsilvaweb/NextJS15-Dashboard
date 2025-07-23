@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Gertrude59@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-03-26T08:54:31.280Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Nolan, Boyle and O'Connell",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 56,
+                    "reach": 946
+                }
+            ],
+            "total_sales_attributed": 4724.09304183996
+        }
+    ]
+}

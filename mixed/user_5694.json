@@ -1,0 +1,26 @@
+{
+    "user_id": "986a134f-25c4-4677-9d87-cb258241fb72",
+    "name": "Billy Haag",
+    "email": "Krystel.Smitham@yahoo.com",
+    "instagram_handle": "@Queen_Bogisich",
+    "tiktok_handle": "@Olga34",
+    "joined_at": "2024-10-03T05:54:52.524Z",
+    "advocacy_programs": [
+        {
+            "program_id": "79065e4d-f38b-4fe6-be72-2305ad0d7eaa",
+            "brand": "Gerhold - Bergstrom",
+            "tasks_completed": [
+                {
+                    "task_id": "25b8af83-3390-42af-acd2-b38e53e3dcd9",
+                    "platform": "TikTok",
+                    "post_url": "https://powerful-concentration.org",
+                    "likes": 59,
+                    "comments": 11,
+                    "shares": 2,
+                    "reach": 7872
+                }
+            ],
+            "total_sales_attributed": 240.89052588428078
+        }
+    ]
+}

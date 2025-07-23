@@ -1,0 +1,26 @@
+{
+    "user_id": "ee8f445b-736e-455e-9b04-9248a7279a0e",
+    "name": "Mandy Bauch",
+    "email": "Erna.Wuckert@gmail.com",
+    "instagram_handle": "@Euna.Fritsch",
+    "tiktok_handle": "@Nigel.Osinski",
+    "joined_at": "2025-02-11T04:41:00.509Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d1cf7f01-7dcb-40d4-af58-80433564a4f3",
+            "brand": "Weissnat - Gerhold",
+            "tasks_completed": [
+                {
+                    "task_id": "1359205f-5bbc-4071-8ca9-73dbc4f98f17",
+                    "platform": "TikTok",
+                    "post_url": "https://calculating-grouper.com/",
+                    "likes": 237,
+                    "comments": 20,
+                    "shares": 95,
+                    "reach": 8564
+                }
+            ],
+            "total_sales_attributed": 4209.514452928678
+        }
+    ]
+}

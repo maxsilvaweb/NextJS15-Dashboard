@@ -1,0 +1,26 @@
+{
+    "user_id": "c1f4eeae-586b-434e-a9c9-4ca308941362",
+    "name": "Lula Waelchi",
+    "email": "Deangelo27@hotmail.com",
+    "instagram_handle": "@Fritz.Gibson29",
+    "tiktok_handle": "@Estell.Jenkins53",
+    "joined_at": "2024-04-02T07:40:18.240Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f600df4c-ce38-43a4-b4cd-a98ee962d8f8",
+            "brand": "Klein, Lakin and Jakubowski",
+            "tasks_completed": [
+                {
+                    "task_id": "c82d7288-5869-4194-92a5-b350a07739ff",
+                    "platform": "Instagram",
+                    "post_url": "https://coordinated-disappointment.name",
+                    "likes": 248,
+                    "comments": 24,
+                    "shares": 96,
+                    "reach": 2956
+                }
+            ],
+            "total_sales_attributed": 346.69632527679204
+        }
+    ]
+}

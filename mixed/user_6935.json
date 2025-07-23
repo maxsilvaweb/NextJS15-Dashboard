@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "ce1857c9-ab4b-46f8-999f-20b13c99b5b6",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://rectangular-technician.biz/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 34,
+                    "reach": 7241
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

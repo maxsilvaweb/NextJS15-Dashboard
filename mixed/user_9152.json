@@ -1,0 +1,26 @@
+{
+    "user_id": "5d313c4f-e107-47cb-98e0-5bda5dc9962b",
+    "name": "Todd Hettinger PhD",
+    "email": "Abbigail60@yahoo.com",
+    "instagram_handle": "@Shea8",
+    "tiktok_handle": "@Gerard79",
+    "joined_at": "2024-10-09T05:44:11.717Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5ba8e17c-44e1-4b54-94a9-6f2c5de9e08b",
+            "brand": "Larkin - Maggio",
+            "tasks_completed": [
+                {
+                    "task_id": "157e8f5e-ae87-4b28-8ad3-f1b269d548eb",
+                    "platform": "Instagram",
+                    "post_url": "https://weird-postbox.name",
+                    "likes": 227,
+                    "comments": 9,
+                    "shares": 27,
+                    "reach": 3397
+                }
+            ],
+            "total_sales_attributed": 4073.7220646360456
+        }
+    ]
+}

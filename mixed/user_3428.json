@@ -1,0 +1,26 @@
+{
+    "user_id": "52f22702-3c5e-4145-b9cc-01dc9d7d1273",
+    "name": "Wilfred Miller",
+    "email": "Lydia.Goldner@gmail.com",
+    "instagram_handle": "@Elise45",
+    "tiktok_handle": "@Berneice.Feest35",
+    "joined_at": "2024-12-24T05:07:01.334Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4c27115b-4a1d-40e5-8fb5-c85a54f43def",
+            "brand": "Cassin Group",
+            "tasks_completed": [
+                {
+                    "task_id": "4e0c8e3b-af75-4987-86f3-deedad84c543",
+                    "platform": "Instagram",
+                    "post_url": "https://pleasant-cosset.name/",
+                    "likes": 361,
+                    "comments": 41,
+                    "shares": 54,
+                    "reach": 3027
+                }
+            ],
+            "total_sales_attributed": 1280.532797068848
+        }
+    ]
+}

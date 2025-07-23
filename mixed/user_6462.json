@@ -1,0 +1,26 @@
+{
+    "user_id": "8bfec1a6-609d-4d57-90a6-b29cd7ff0bad",
+    "name": "Heidi Hilll",
+    "email": "Roscoe.Runolfsdottir65@yahoo.com",
+    "instagram_handle": "@Emerald_OReilly",
+    "tiktok_handle": "@Robin_Schaden-Willms",
+    "joined_at": "2024-05-13T11:27:11.375Z",
+    "advocacy_programs": [
+        {
+            "program_id": "030a5383-97a1-4993-a933-4262ee369511",
+            "brand": "Huels - Walker",
+            "tasks_completed": [
+                {
+                    "task_id": "0ac37ea2-28a0-413a-b8d6-e01b1dc9e695",
+                    "platform": "TikTok",
+                    "post_url": "https://well-documented-longboat.net",
+                    "likes": 312,
+                    "comments": 5,
+                    "shares": 56,
+                    "reach": 9207
+                }
+            ],
+            "total_sales_attributed": 505.7466772868678
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Block - Collins",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://hairy-stitcher.info/",
+                    "likes": "NaN",
+                    "comments": 38,
+                    "shares": 26,
+                    "reach": 9504
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

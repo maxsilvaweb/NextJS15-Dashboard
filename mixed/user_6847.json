@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Frida78",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "c2c0278e-f370-481f-bb3e-914c22145b86",
+                    "platform": "Facebook",
+                    "post_url": "https://scratchy-stump.biz/",
+                    "likes": "NaN",
+                    "comments": 24,
+                    "shares": 27,
+                    "reach": 5214
+                }
+            ],
+            "total_sales_attributed": 1772.6319351648874
+        }
+    ]
+}

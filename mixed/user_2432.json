@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Thalia3@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "9b7600b7-467d-4e04-87ec-99d9c506f780",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 12,
+                    "comments": null,
+                    "shares": 27,
+                    "reach": 7543
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

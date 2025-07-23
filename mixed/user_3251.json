@@ -1,0 +1,26 @@
+{
+    "user_id": "04ba76f3-40a9-44fd-b0a1-2301c30993dd",
+    "name": "Alejandro Muller",
+    "email": "Bailee68@hotmail.com",
+    "instagram_handle": "@Jeramy.Metz",
+    "tiktok_handle": "@Amaya54",
+    "joined_at": "2024-11-22T20:54:21.565Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e80cad86-8186-412d-b7a2-2162ae3f4de8",
+            "brand": "Smitham - Franey",
+            "tasks_completed": [
+                {
+                    "task_id": "4bd9c0a6-49a8-4eb2-aa8f-103c04187730",
+                    "platform": "TikTok",
+                    "post_url": "https://expensive-sailor.biz/",
+                    "likes": 434,
+                    "comments": 32,
+                    "shares": 11,
+                    "reach": 3475
+                }
+            ],
+            "total_sales_attributed": 286.5515404811622
+        }
+    ]
+}

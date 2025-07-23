@@ -1,0 +1,26 @@
+{
+    "user_id": "baa1053e-6bc7-44b5-9adc-abf351cb9507",
+    "name": "Owen Homenick",
+    "email": "Bonita.Pagac97@yahoo.com",
+    "instagram_handle": "@Ahmed61",
+    "tiktok_handle": "@Ricky_Thiel",
+    "joined_at": "2024-11-07T19:56:34.114Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e4be9a00-d802-4141-a1d0-9c2fede28461",
+            "brand": "Bergnaum - Moore",
+            "tasks_completed": [
+                {
+                    "task_id": "d622cf95-95f8-4bda-9d93-28ee19268d73",
+                    "platform": "Instagram",
+                    "post_url": "https://brown-charm.com/",
+                    "likes": 193,
+                    "comments": 32,
+                    "shares": 38,
+                    "reach": 7744
+                }
+            ],
+            "total_sales_attributed": 2947.8268213558845
+        }
+    ]
+}

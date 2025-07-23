@@ -1,0 +1,26 @@
+{
+    "user_id": "61d5bf73-e06f-40c6-af97-f7f991a48a86",
+    "name": "Heather Johnson",
+    "email": "Marlin.Bernhard@yahoo.com",
+    "instagram_handle": "@Uriah62",
+    "tiktok_handle": "@Dayne.Baumbach",
+    "joined_at": "2024-12-18T08:16:52.548Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7314db75-9f73-4486-81b7-6b2c5e29bc19",
+            "brand": "Cormier - Bahringer",
+            "tasks_completed": [
+                {
+                    "task_id": "a89992db-db58-457f-9f9f-3c3fea7767fb",
+                    "platform": "Instagram",
+                    "post_url": "https://prestigious-insolence.net/",
+                    "likes": 335,
+                    "comments": 17,
+                    "shares": 14,
+                    "reach": 3897
+                }
+            ],
+            "total_sales_attributed": 3543.500451150132
+        }
+    ]
+}

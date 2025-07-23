@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "afa9d801-3a19-4310-80b2-46bc3c1dfed6",
+                    "platform": 123,
+                    "post_url": "https://aggravating-compromise.name",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 40,
+                    "reach": 6019
+                }
+            ],
+            "total_sales_attributed": 2125.8649795860715
+        }
+    ]
+}

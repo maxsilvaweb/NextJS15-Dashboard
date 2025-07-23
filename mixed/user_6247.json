@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "67ce720b-a5de-4e5b-a1d5-92de1f06189d",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://wiggly-allocation.net",
+                    "likes": "NaN",
+                    "comments": 15,
+                    "shares": 52,
+                    "reach": 7341
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

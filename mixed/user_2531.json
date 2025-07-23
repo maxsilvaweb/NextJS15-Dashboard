@@ -1,0 +1,26 @@
+{
+    "user_id": "8b86d27e-7ce8-486d-96cb-da83568cbb05",
+    "name": "Stephanie Collier",
+    "email": "Carmel.Luettgen@hotmail.com",
+    "instagram_handle": "@Raleigh_Windler",
+    "tiktok_handle": "@Ewell15",
+    "joined_at": "2025-02-08T06:29:01.173Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5625b658-b7de-42a1-b52c-ebae512c7f0b",
+            "brand": "Willms - Langosh",
+            "tasks_completed": [
+                {
+                    "task_id": "b76ea348-2a6c-44f0-83e9-c2af6bf0f9ee",
+                    "platform": "TikTok",
+                    "post_url": "https://wealthy-jogging.org/",
+                    "likes": 369,
+                    "comments": 22,
+                    "shares": 85,
+                    "reach": 1647
+                }
+            ],
+            "total_sales_attributed": 1612.8048472815274
+        }
+    ]
+}

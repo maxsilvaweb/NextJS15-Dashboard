@@ -1,0 +1,26 @@
+{
+    "user_id": "27de7172-bfb1-46c7-9887-e7446c60d713",
+    "name": "Salvatore Parisian",
+    "email": "Eleanora24@gmail.com",
+    "instagram_handle": "@Kirsten_Oberbrunner",
+    "tiktok_handle": "@Devin_Auer17",
+    "joined_at": "2024-04-08T22:50:59.118Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a24be755-7447-4653-b810-e6564de56e3e",
+            "brand": "Jenkins and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "6754eeea-87b6-4416-a015-5b78b55df3fe",
+                    "platform": "TikTok",
+                    "post_url": "https://noted-vestment.info/",
+                    "likes": 198,
+                    "comments": 44,
+                    "shares": 81,
+                    "reach": 9014
+                }
+            ],
+            "total_sales_attributed": 3106.715729775938
+        }
+    ]
+}

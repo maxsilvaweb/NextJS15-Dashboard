@@ -1,0 +1,26 @@
+{
+    "user_id": "e1392a18-920b-4c0a-82cf-fd279f444530",
+    "name": "Shari Frami",
+    "email": "Junius.Bergnaum@yahoo.com",
+    "instagram_handle": "@Tremaine79",
+    "tiktok_handle": "@Zelma_Stokes",
+    "joined_at": "2024-04-16T04:27:18.549Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ffe4c7b7-36b3-4c72-8c52-224ac4f581bc",
+            "brand": "Hoppe Group",
+            "tasks_completed": [
+                {
+                    "task_id": "88758b20-0abf-4fda-b3ae-178f22de4697",
+                    "platform": "TikTok",
+                    "post_url": "https://altruistic-loyalty.org/",
+                    "likes": 98,
+                    "comments": 9,
+                    "shares": 12,
+                    "reach": 6315
+                }
+            ],
+            "total_sales_attributed": 2632.228727597534
+        }
+    ]
+}

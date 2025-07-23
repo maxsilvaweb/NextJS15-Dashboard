@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Kris, Pollich and Schamberger",
+            "tasks_completed": [
+                {
+                    "task_id": "7a12a1e0-9ad2-4a07-9298-527326f5fcc2",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 419,
+                    "comments": 47,
+                    "shares": 36,
+                    "reach": 5166
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

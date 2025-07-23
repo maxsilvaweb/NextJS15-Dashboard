@@ -1,0 +1,26 @@
+{
+    "user_id": "42442a59-25f0-4148-bfdc-7b64f07ca7b6",
+    "name": "Lamar Walter Sr.",
+    "email": "Taurean56@gmail.com",
+    "instagram_handle": "@Brycen.Schultz4",
+    "tiktok_handle": "@Giuseppe50",
+    "joined_at": "2024-08-27T19:39:40.364Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6b0bdb39-f6eb-4d95-822b-fe05d0091fc8",
+            "brand": "Oberbrunner - Beahan",
+            "tasks_completed": [
+                {
+                    "task_id": "03eeef55-212f-49a2-8560-d2fae3a61b93",
+                    "platform": "TikTok",
+                    "post_url": "https://spotless-lawmaker.net/",
+                    "likes": 365,
+                    "comments": 43,
+                    "shares": 13,
+                    "reach": 5662
+                }
+            ],
+            "total_sales_attributed": 1327.8162730536417
+        }
+    ]
+}

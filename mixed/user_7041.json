@@ -1,0 +1,26 @@
+{
+    "user_id": "2d7478dc-69e3-47d2-a4a8-cb28f60930c2",
+    "name": "Ms. Luz Cassin",
+    "email": "Josie_Leannon@hotmail.com",
+    "instagram_handle": "@Vanessa_Leffler69",
+    "tiktok_handle": "@Delaney_Mills60",
+    "joined_at": "2024-10-27T20:09:31.248Z",
+    "advocacy_programs": [
+        {
+            "program_id": "56c593d3-e66e-4d7a-8ff9-9248bbde097f",
+            "brand": "Wisozk - Gibson",
+            "tasks_completed": [
+                {
+                    "task_id": "54302ebe-d33e-4a9b-94c5-2405d21ef276",
+                    "platform": "TikTok",
+                    "post_url": "https://overdue-majority.net/",
+                    "likes": 398,
+                    "comments": 38,
+                    "shares": 29,
+                    "reach": 6867
+                }
+            ],
+            "total_sales_attributed": 4227.602384096607
+        }
+    ]
+}

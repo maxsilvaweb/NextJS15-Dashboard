@@ -1,0 +1,26 @@
+{
+    "user_id": "3d07b4fd-b653-4dbd-8332-cb6cb36f583e",
+    "name": "Terrell Hand",
+    "email": "Rollin_Reynolds6@hotmail.com",
+    "instagram_handle": "@Tristian40",
+    "tiktok_handle": "@Mallory37",
+    "joined_at": "2024-10-30T02:25:35.499Z",
+    "advocacy_programs": [
+        {
+            "program_id": "472807a7-389a-45b0-b8d1-438f9ab9de1d",
+            "brand": "Jenkins, Donnelly and Effertz",
+            "tasks_completed": [
+                {
+                    "task_id": "d3574baa-63ae-40b4-9489-a1b32817d7d8",
+                    "platform": "TikTok",
+                    "post_url": "https://spirited-scorn.com/",
+                    "likes": 38,
+                    "comments": 2,
+                    "shares": 59,
+                    "reach": 3906
+                }
+            ],
+            "total_sales_attributed": 2250.122073753154
+        }
+    ]
+}

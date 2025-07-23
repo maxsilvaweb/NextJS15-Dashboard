@@ -1,0 +1,26 @@
+{
+    "user_id": "419bad71-7fdf-4be5-a7be-19d8be44f0b1",
+    "name": "Felipe Braun",
+    "email": "Monica.Ledner@gmail.com",
+    "instagram_handle": "@Terence_Torphy",
+    "tiktok_handle": "@Darryl.Gulgowski42",
+    "joined_at": "2024-05-16T21:17:37.611Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2a6570d2-6154-4803-9dbf-9d23f70eae29",
+            "brand": "Wiegand, Kuvalis and Bartoletti",
+            "tasks_completed": [
+                {
+                    "task_id": "1acf166d-7822-49a5-98ca-ac6ccf3cae77",
+                    "platform": "TikTok",
+                    "post_url": "https://kooky-mixture.net/",
+                    "likes": 16,
+                    "comments": 5,
+                    "shares": 37,
+                    "reach": 8035
+                }
+            ],
+            "total_sales_attributed": 3907.54140252569
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c68408f4-f11e-4e8d-a87c-c4554aa2e4be",
+    "name": "Jeannie Waelchi",
+    "email": "Henderson.Wiegand@gmail.com",
+    "instagram_handle": "@Rod_Ullrich28",
+    "tiktok_handle": "@Fermin_Cormier",
+    "joined_at": "2024-09-29T12:50:51.196Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b3a391ff-a2d2-4087-ab87-5ca52d2e14f8",
+            "brand": "Simonis, Kertzmann and Nicolas",
+            "tasks_completed": [
+                {
+                    "task_id": "238ac8dd-f943-4af9-8c8b-b64cb80acce8",
+                    "platform": "TikTok",
+                    "post_url": "https://ill-fated-advancement.biz/",
+                    "likes": 380,
+                    "comments": 29,
+                    "shares": 25,
+                    "reach": 2119
+                }
+            ],
+            "total_sales_attributed": 1626.0953839310498
+        }
+    ]
+}

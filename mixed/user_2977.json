@@ -1,0 +1,26 @@
+{
+    "user_id": "3291b470-c9a9-4952-bef9-cd1808b1571d",
+    "name": "Genevieve Rath",
+    "email": "Quentin_Quigley@gmail.com",
+    "instagram_handle": "@Wyatt_Schiller5",
+    "tiktok_handle": "@Alvis_Jast-Rice",
+    "joined_at": "2024-12-03T07:19:10.176Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4f8070d3-bcad-4e03-aa2c-3df0fea2fb09",
+            "brand": "Nienow, Predovic and Sawayn",
+            "tasks_completed": [
+                {
+                    "task_id": "ad4c04dd-d6ee-4983-8bf6-9fb86f2415c1",
+                    "platform": "TikTok",
+                    "post_url": "https://emotional-aircraft.org",
+                    "likes": 474,
+                    "comments": 9,
+                    "shares": 89,
+                    "reach": 4200
+                }
+            ],
+            "total_sales_attributed": 4845.482587898132
+        }
+    ]
+}

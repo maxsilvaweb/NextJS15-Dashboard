@@ -1,0 +1,26 @@
+{
+    "user_id": "27f04f31-24c1-46b7-805e-34671a856ae8",
+    "name": "Beth Brekke",
+    "email": "Emelie.Hermann10@gmail.com",
+    "instagram_handle": "@Toby_Wolff",
+    "tiktok_handle": "@Colin4",
+    "joined_at": "2024-10-27T22:31:35.412Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3419f0b2-fa83-419d-b25e-b5379ab63c90",
+            "brand": "Bechtelar Group",
+            "tasks_completed": [
+                {
+                    "task_id": "43c4d322-286f-436a-b054-b60ec6db9fe6",
+                    "platform": "TikTok",
+                    "post_url": "https://useless-nougat.org",
+                    "likes": 440,
+                    "comments": 32,
+                    "shares": 47,
+                    "reach": 8617
+                }
+            ],
+            "total_sales_attributed": 940.9836698889529
+        }
+    ]
+}

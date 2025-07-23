@@ -1,0 +1,26 @@
+{
+    "user_id": "bc13652f-b8a5-4c98-9fda-e52a1068f0bf",
+    "name": "Claudia Price",
+    "email": "Billie.Balistreri@hotmail.com",
+    "instagram_handle": "@Stephan_Parisian",
+    "tiktok_handle": "@Quinten85",
+    "joined_at": "2024-07-14T17:41:12.579Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a4121e62-17f1-4bcf-85ae-09d06e8d528e",
+            "brand": "Hammes Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "201fb379-f29a-4248-8247-aed0c7f2e4c1",
+                    "platform": "Instagram",
+                    "post_url": "https://authentic-jump.info/",
+                    "likes": 179,
+                    "comments": 39,
+                    "shares": 25,
+                    "reach": 7903
+                }
+            ],
+            "total_sales_attributed": 325.1853185621377
+        }
+    ]
+}

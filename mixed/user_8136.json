@@ -1,0 +1,26 @@
+{
+    "user_id": "e1755695-0471-4409-98b6-771ca59b97d0",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://intelligent-begonia.biz",
+                    "likes": 367,
+                    "comments": null,
+                    "shares": 29,
+                    "reach": 4232
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

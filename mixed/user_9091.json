@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Dovie_Rosenbaum6",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "5bea2a06-8b52-4718-b44c-cb998c49c822",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://wordy-baseboard.info/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 94,
+                    "reach": 7567
+                }
+            ],
+            "total_sales_attributed": 2785.1486438774045
+        }
+    ]
+}

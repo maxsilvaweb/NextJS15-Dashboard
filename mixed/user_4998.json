@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "0e287e0a-ff27-4214-9e87-92d7a94bcc60",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://heavenly-awareness.net/",
+                    "likes": 354,
+                    "comments": null,
+                    "shares": 8,
+                    "reach": 6526
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

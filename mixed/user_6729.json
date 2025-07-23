@@ -1,0 +1,26 @@
+{
+    "user_id": "a1e93c66-c962-4d23-a5e4-993ec41c606d",
+    "name": "???",
+    "email": "Kennedi97@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Von Inc",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 30,
+                    "shares": 57,
+                    "reach": 4106
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

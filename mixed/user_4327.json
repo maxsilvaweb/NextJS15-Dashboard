@@ -1,0 +1,26 @@
+{
+    "user_id": "a22b7f5d-23e7-4f09-bd64-f0138df0ce57",
+    "name": "Mrs. Kathleen Franecki",
+    "email": "Jammie.Armstrong-Dooley@yahoo.com",
+    "instagram_handle": "@Burnice72",
+    "tiktok_handle": "@Katlyn49",
+    "joined_at": "2024-11-20T22:27:56.045Z",
+    "advocacy_programs": [
+        {
+            "program_id": "94855ed1-739a-416b-82d0-b4e1a9a41852",
+            "brand": "McDermott - Littel",
+            "tasks_completed": [
+                {
+                    "task_id": "af762bb2-5301-4a28-afd1-aa428dd8a43a",
+                    "platform": "Instagram",
+                    "post_url": "https://comfortable-dish.name/",
+                    "likes": 43,
+                    "comments": 39,
+                    "shares": 54,
+                    "reach": 1621
+                }
+            ],
+            "total_sales_attributed": 4251.955955846016
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "af6fc7a8-673a-45b0-ad9a-e23d2bb001b7",
+    "name": "Beth Monahan",
+    "email": "Florence_Bogisich@yahoo.com",
+    "instagram_handle": "@Yoshiko.Robel21",
+    "tiktok_handle": "@Heath.Kuhn50",
+    "joined_at": "2024-03-29T14:32:41.238Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bcd82995-a3e9-40d3-b403-c9df2d6b859c",
+            "brand": "Strosin - Corkery",
+            "tasks_completed": [
+                {
+                    "task_id": "f7d1bf23-7cfe-452b-aead-36d3e16a9066",
+                    "platform": "TikTok",
+                    "post_url": "https://portly-bourgeoisie.com/",
+                    "likes": 406,
+                    "comments": 46,
+                    "shares": 52,
+                    "reach": 5848
+                }
+            ],
+            "total_sales_attributed": 900.1798431123061
+        }
+    ]
+}

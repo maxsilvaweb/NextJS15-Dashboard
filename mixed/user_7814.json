@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-12-31T16:43:53.322Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "3ebf7a3e-eb13-4d51-9e67-2a0dca82e360",
+                    "platform": 123,
+                    "post_url": "https://colossal-heating.org",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 84,
+                    "reach": 8445
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

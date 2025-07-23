@@ -1,0 +1,26 @@
+{
+    "user_id": "41394174-5ff6-4c5c-bed0-f00fea5df50e",
+    "name": "Emma Schuppe",
+    "email": "Carlos28@hotmail.com",
+    "instagram_handle": "@Leonard_Weissnat63",
+    "tiktok_handle": "@Rhiannon8",
+    "joined_at": "2024-12-30T14:41:21.673Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9ca8fc18-0b2e-4b81-8188-5b5187261fa1",
+            "brand": "Kozey - Hagenes",
+            "tasks_completed": [
+                {
+                    "task_id": "72064b56-2623-41f2-bbba-cca877088624",
+                    "platform": "Instagram",
+                    "post_url": "https://advanced-molasses.info/",
+                    "likes": 424,
+                    "comments": 40,
+                    "shares": 58,
+                    "reach": 4603
+                }
+            ],
+            "total_sales_attributed": 1350.1203903970572
+        }
+    ]
+}

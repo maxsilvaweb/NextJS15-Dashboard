@@ -1,0 +1,26 @@
+{
+    "user_id": "d3dc9b70-4625-4efb-8396-7610f9c6b85a",
+    "name": "Miriam O'Hara",
+    "email": "Michael_Schmitt-Veum69@yahoo.com",
+    "instagram_handle": "@Napoleon32",
+    "tiktok_handle": "@Wellington15",
+    "joined_at": "2024-12-01T07:43:59.499Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7ba146ae-d85a-4d9b-a12d-95a2f14022a6",
+            "brand": "O'Kon - Ward",
+            "tasks_completed": [
+                {
+                    "task_id": "a7f51fb8-8883-4eee-8623-0d99a655b29c",
+                    "platform": "TikTok",
+                    "post_url": "https://lonely-lady.com/",
+                    "likes": 196,
+                    "comments": 30,
+                    "shares": 72,
+                    "reach": 7713
+                }
+            ],
+            "total_sales_attributed": 1840.1800303788477
+        }
+    ]
+}

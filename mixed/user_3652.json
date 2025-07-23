@@ -1,0 +1,26 @@
+{
+    "user_id": "1ccf3ad0-58a4-42a2-aa0c-c925bcf6978e",
+    "name": "???",
+    "email": "Jerald32@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 18,
+                    "reach": 2179
+                }
+            ],
+            "total_sales_attributed": 1459.479312174717
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "acc12b32-c8c7-4a78-8c72-081954d109b5",
+    "name": "Garrett Dare PhD",
+    "email": "Katheryn_Weber@hotmail.com",
+    "instagram_handle": "@Jaren.Cummerata10",
+    "tiktok_handle": "@Lysanne.Kuvalis98",
+    "joined_at": "2024-06-05T12:03:02.072Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7bb02a99-5963-4bb2-b589-8babfef06135",
+            "brand": "Lemke LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "0c7ec70e-41dc-4efe-ba69-1c330edffd0f",
+                    "platform": "TikTok",
+                    "post_url": "https://silver-impact.org",
+                    "likes": 474,
+                    "comments": 42,
+                    "shares": 50,
+                    "reach": 5083
+                }
+            ],
+            "total_sales_attributed": 4529.4045676575715
+        }
+    ]
+}

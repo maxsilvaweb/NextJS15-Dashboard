@@ -1,0 +1,26 @@
+{
+    "user_id": "6c69270b-bac5-4ae6-ad97-6fdbd84c40a6",
+    "name": "Jordan Hickle",
+    "email": "Keagan_Gutmann58@gmail.com",
+    "instagram_handle": "@Tom26",
+    "tiktok_handle": "@Marilyne_Kozey",
+    "joined_at": "2024-04-09T09:43:19.576Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9873b060-d553-45ab-a037-51c6ca2590af",
+            "brand": "Jakubowski - Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "ce3304ea-c5ff-4888-a1c9-35e28c06e320",
+                    "platform": "Instagram",
+                    "post_url": "https://pink-marten.biz/",
+                    "likes": 253,
+                    "comments": 37,
+                    "shares": 25,
+                    "reach": 3027
+                }
+            ],
+            "total_sales_attributed": 1645.2913226784656
+        }
+    ]
+}

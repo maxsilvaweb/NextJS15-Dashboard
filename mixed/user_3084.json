@@ -1,0 +1,26 @@
+{
+    "user_id": "71a2c8f3-54c3-4596-bec1-78dbd6c65d13",
+    "name": "Krista Farrell",
+    "email": "Patricia_Rosenbaum-Ledner@gmail.com",
+    "instagram_handle": "@Felipa_Yost",
+    "tiktok_handle": "@Lindsay0",
+    "joined_at": "2024-10-01T18:49:14.425Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6c4888e9-e70d-4582-bea3-39d0857773d0",
+            "brand": "Prosacco - Cruickshank",
+            "tasks_completed": [
+                {
+                    "task_id": "10c9ce1d-84a0-4bc6-9c60-2db0695bfeb1",
+                    "platform": "TikTok",
+                    "post_url": "https://ill-fated-provision.info",
+                    "likes": 91,
+                    "comments": 41,
+                    "shares": 89,
+                    "reach": 8793
+                }
+            ],
+            "total_sales_attributed": 224.97413873944978
+        }
+    ]
+}

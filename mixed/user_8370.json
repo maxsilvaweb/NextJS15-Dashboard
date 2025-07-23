@@ -1,0 +1,26 @@
+{
+    "user_id": "1278bc2b-ac0a-44fd-a0cd-a4f85c9517c8",
+    "name": "Cheryl Leannon",
+    "email": "Dax.Blanda74@hotmail.com",
+    "instagram_handle": "@Hope73",
+    "tiktok_handle": "@Ruth98",
+    "joined_at": "2025-03-14T07:35:55.286Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2d5fae2e-3500-4806-937e-4890b741b674",
+            "brand": "Nikolaus - Cormier",
+            "tasks_completed": [
+                {
+                    "task_id": "974a7769-4c63-4d4f-8ca7-a96310075042",
+                    "platform": "TikTok",
+                    "post_url": "https://babyish-descent.biz",
+                    "likes": 276,
+                    "comments": 31,
+                    "shares": 62,
+                    "reach": 8324
+                }
+            ],
+            "total_sales_attributed": 286.88790462196187
+        }
+    ]
+}

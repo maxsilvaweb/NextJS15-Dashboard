@@ -1,0 +1,26 @@
+{
+    "user_id": "5d964ada-e4ea-4aeb-9b8c-9c2444035699",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://glass-paintwork.name/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 65,
+                    "reach": 7691
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

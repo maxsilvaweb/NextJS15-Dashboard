@@ -1,0 +1,26 @@
+{
+    "user_id": "37acbbab-44e0-4d57-8f9b-9874a8692f83",
+    "name": "???",
+    "email": "Hyman71@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 461,
+                    "comments": null,
+                    "shares": 46,
+                    "reach": 5298
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

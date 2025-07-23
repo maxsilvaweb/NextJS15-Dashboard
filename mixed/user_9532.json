@@ -1,0 +1,26 @@
+{
+    "user_id": "3ea7c096-9bfd-468d-8c86-2752b8f96743",
+    "name": "Alfredo DuBuque",
+    "email": "Gerson.Lueilwitz1@hotmail.com",
+    "instagram_handle": "@Deja_Lesch",
+    "tiktok_handle": "@Lenny_Rutherford",
+    "joined_at": "2024-12-20T00:12:56.707Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5fca77bc-6ab5-4a41-b301-292cd0c1b151",
+            "brand": "Luettgen, Mueller and Hudson",
+            "tasks_completed": [
+                {
+                    "task_id": "c376fd02-3642-49ab-9ebc-886a7c69b217",
+                    "platform": "TikTok",
+                    "post_url": "https://those-section.net/",
+                    "likes": 423,
+                    "comments": 28,
+                    "shares": 46,
+                    "reach": 3729
+                }
+            ],
+            "total_sales_attributed": 2104.0392261437523
+        }
+    ]
+}

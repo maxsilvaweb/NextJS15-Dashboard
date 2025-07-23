@@ -1,0 +1,26 @@
+{
+    "user_id": "7bd61b0d-c36d-48f9-b9fd-392e16dde5a6",
+    "name": "Gustavo Zieme",
+    "email": "Edwardo_Lubowitz60@hotmail.com",
+    "instagram_handle": "@Laurianne28",
+    "tiktok_handle": "@Kenyatta_Runte",
+    "joined_at": "2024-11-10T00:15:49.773Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a881f3e5-256c-46de-bb78-1f3558de617d",
+            "brand": "Bernier - Stiedemann",
+            "tasks_completed": [
+                {
+                    "task_id": "83c39a1f-b75f-4ad2-a055-3bd0ba9a2c57",
+                    "platform": "Instagram",
+                    "post_url": "https://sentimental-dependency.com",
+                    "likes": 344,
+                    "comments": 38,
+                    "shares": 74,
+                    "reach": 947
+                }
+            ],
+            "total_sales_attributed": 3526.1948300237905
+        }
+    ]
+}

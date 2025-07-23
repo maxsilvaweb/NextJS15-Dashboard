@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "6406a24d-fb6d-4f93-b484-bc9fea9d4778",
+                    "platform": "Facebook",
+                    "post_url": "https://tight-duffel.biz/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 74,
+                    "reach": 7940
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

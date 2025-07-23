@@ -1,0 +1,26 @@
+{
+    "user_id": "55b67ec7-e5b4-4c35-83d2-9c81b3c9b423",
+    "name": "Delia Grant",
+    "email": "Monique75@yahoo.com",
+    "instagram_handle": "@Leopold94",
+    "tiktok_handle": "@Oran_Prosacco85",
+    "joined_at": "2024-06-30T03:29:04.438Z",
+    "advocacy_programs": [
+        {
+            "program_id": "19ff9625-745f-4f28-9a43-1775796da068",
+            "brand": "Rice - Lowe",
+            "tasks_completed": [
+                {
+                    "task_id": "cfc3a05e-e4a6-41bf-a84d-baa7a1ee7fbc",
+                    "platform": "TikTok",
+                    "post_url": "https://unused-translation.net",
+                    "likes": 173,
+                    "comments": 39,
+                    "shares": 71,
+                    "reach": 3983
+                }
+            ],
+            "total_sales_attributed": 2388.561974391507
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "de435d48-4227-4542-8ae1-7ad7e07f822c",
+    "name": "Lucas Wiegand",
+    "email": "Teagan.Parisian51@yahoo.com",
+    "instagram_handle": "@Macy.Mayert",
+    "tiktok_handle": "@Coy.Reichel46",
+    "joined_at": "2024-04-10T01:26:54.387Z",
+    "advocacy_programs": [
+        {
+            "program_id": "35c2d5ce-7f3b-4438-b0bf-b9a256b0cb25",
+            "brand": "Spinka and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "ee6710c1-f537-4fb5-89c9-32a00870756b",
+                    "platform": "Instagram",
+                    "post_url": "https://handy-flame.info",
+                    "likes": 416,
+                    "comments": 10,
+                    "shares": 68,
+                    "reach": 2111
+                }
+            ],
+            "total_sales_attributed": 795.8267615263767
+        }
+    ]
+}

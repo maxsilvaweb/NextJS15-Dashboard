@@ -1,0 +1,26 @@
+{
+    "user_id": "25bd5c49-03e7-43be-b48c-b107747f51a8",
+    "name": "Luis Fritsch",
+    "email": "Amber.Fahey20@yahoo.com",
+    "instagram_handle": "@Rafael_McKenzie73",
+    "tiktok_handle": "@Jedediah.Gislason3",
+    "joined_at": "2025-01-11T14:24:46.490Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9f80a3dc-9f62-4e32-84e3-4b4ed677dc9f",
+            "brand": "Bartell LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "9432573e-d3c7-424b-8581-de8ce09bed17",
+                    "platform": "TikTok",
+                    "post_url": "https://unlucky-wedding.com",
+                    "likes": 21,
+                    "comments": 21,
+                    "shares": 6,
+                    "reach": 8176
+                }
+            ],
+            "total_sales_attributed": 823.0290394188246
+        }
+    ]
+}

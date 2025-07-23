@@ -1,0 +1,26 @@
+{
+    "user_id": "07b5aff5-5d90-42ac-b6fb-b9fe9a53d757",
+    "name": "Cody Schinner",
+    "email": "Timmothy.Torphy89@gmail.com",
+    "instagram_handle": "@Esmeralda14",
+    "tiktok_handle": "@Lurline.Pagac",
+    "joined_at": "2025-01-03T07:58:48.319Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bbb6383f-e338-4baf-b269-905596432e27",
+            "brand": "Kihn, Kovacek and Mayert",
+            "tasks_completed": [
+                {
+                    "task_id": "6cc39d3b-7bc5-4a88-9657-39a9eaf04006",
+                    "platform": "TikTok",
+                    "post_url": "https://ideal-flood.info",
+                    "likes": 288,
+                    "comments": 21,
+                    "shares": 78,
+                    "reach": 7352
+                }
+            ],
+            "total_sales_attributed": 4005.903596649032
+        }
+    ]
+}

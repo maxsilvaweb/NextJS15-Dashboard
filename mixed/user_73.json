@@ -1,0 +1,26 @@
+{
+    "user_id": "bb603b43-823e-404f-ac16-dde6b422dbe7",
+    "name": "Sheryl Effertz",
+    "email": "Shayne15@hotmail.com",
+    "instagram_handle": "@Thurman_Mraz89",
+    "tiktok_handle": "@Susanna.Rempel-Schiller",
+    "joined_at": "2024-07-18T10:17:52.078Z",
+    "advocacy_programs": [
+        {
+            "program_id": "239e2c3d-d7d3-4550-af12-37a02d2c9790",
+            "brand": "Hartmann - Lehner",
+            "tasks_completed": [
+                {
+                    "task_id": "5a1f9f70-7d5e-45ed-baa0-5c25ee738050",
+                    "platform": "TikTok",
+                    "post_url": "https://miserly-costume.name/",
+                    "likes": 383,
+                    "comments": 2,
+                    "shares": 7,
+                    "reach": 8769
+                }
+            ],
+            "total_sales_attributed": 877.7889384001746
+        }
+    ]
+}

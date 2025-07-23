@@ -1,0 +1,26 @@
+{
+    "user_id": "3b1247d6-4498-4a89-a926-ff67052f8c93",
+    "name": "Glenda Cassin",
+    "email": "Justen_Gutmann95@yahoo.com",
+    "instagram_handle": "@Lenore3",
+    "tiktok_handle": "@Lela0",
+    "joined_at": "2024-10-15T09:14:02.328Z",
+    "advocacy_programs": [
+        {
+            "program_id": "102a3727-0d1e-41b9-a5d4-a42384538c54",
+            "brand": "Rogahn Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "271bd75a-5cda-47ee-b4ac-542a2d855c91",
+                    "platform": "Instagram",
+                    "post_url": "https://punctual-swim.biz/",
+                    "likes": 357,
+                    "comments": 32,
+                    "shares": 41,
+                    "reach": 7223
+                }
+            ],
+            "total_sales_attributed": 4469.276131069265
+        }
+    ]
+}

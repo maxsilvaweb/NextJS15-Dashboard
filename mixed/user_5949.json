@@ -1,0 +1,26 @@
+{
+    "user_id": "23d9b26a-5b30-4b31-bfb8-aed0b8eda0e1",
+    "name": "Harvey Rath",
+    "email": "Jack.Rempel@yahoo.com",
+    "instagram_handle": "@Mackenzie30",
+    "tiktok_handle": "@Amalia.Nitzsche99",
+    "joined_at": "2025-03-14T04:28:11.764Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b8e5a7a2-6731-488b-9508-77bfc41da519",
+            "brand": "Pfannerstill, Stoltenberg and Okuneva",
+            "tasks_completed": [
+                {
+                    "task_id": "7df20c32-93f4-4e56-9c0d-0e2672cee343",
+                    "platform": "Instagram",
+                    "post_url": "https://small-carboxyl.biz/",
+                    "likes": 229,
+                    "comments": 2,
+                    "shares": 92,
+                    "reach": 6806
+                }
+            ],
+            "total_sales_attributed": 820.3069045507864
+        }
+    ]
+}

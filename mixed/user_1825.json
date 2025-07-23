@@ -1,0 +1,26 @@
+{
+    "user_id": "da6668fe-e179-452f-8499-7f8d84ed8fc9",
+    "name": "Linda Feeney",
+    "email": "Carmelo42@hotmail.com",
+    "instagram_handle": "@Loy.Ortiz",
+    "tiktok_handle": "@Sam.Schowalter-Cormier",
+    "joined_at": "2024-12-28T02:04:00.706Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eae6b88f-24ba-44dc-a62b-3b617565db1f",
+            "brand": "Cruickshank and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "76e7ced5-072d-47fb-934c-728f3193fae2",
+                    "platform": "TikTok",
+                    "post_url": "https://hidden-coliseum.name",
+                    "likes": 52,
+                    "comments": 46,
+                    "shares": 51,
+                    "reach": 2564
+                }
+            ],
+            "total_sales_attributed": 2338.0251015373096
+        }
+    ]
+}

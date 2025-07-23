@@ -1,0 +1,26 @@
+{
+    "user_id": "c7572b86-c765-40a7-8e38-671bf24fefbe",
+    "name": "Cindy Wintheiser",
+    "email": "Cale.Ryan53@hotmail.com",
+    "instagram_handle": "@Boyd7",
+    "tiktok_handle": "@Helmer.Effertz",
+    "joined_at": "2024-08-03T12:06:20.743Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d3ce051f-55e6-43e1-9d09-fed3778c1a31",
+            "brand": "Mertz, Conn and Little",
+            "tasks_completed": [
+                {
+                    "task_id": "cd3b6327-014a-4e7a-93a2-b82dcb6ca9b0",
+                    "platform": "Instagram",
+                    "post_url": "https://sour-typeface.biz",
+                    "likes": 174,
+                    "comments": 40,
+                    "shares": 99,
+                    "reach": 5349
+                }
+            ],
+            "total_sales_attributed": 841.8155831692712
+        }
+    ]
+}

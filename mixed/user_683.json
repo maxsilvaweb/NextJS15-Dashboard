@@ -1,0 +1,26 @@
+{
+    "user_id": "164a415f-04dc-4bfb-872c-88f294231f98",
+    "name": "Ms. Lela Spencer",
+    "email": "Rafaela_Mann31@yahoo.com",
+    "instagram_handle": "@Tiara_Ullrich",
+    "tiktok_handle": "@Deanna5",
+    "joined_at": "2024-07-29T07:22:03.722Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b99db2a9-9d93-4d1a-af52-4ee4c94438d7",
+            "brand": "Jacobson, Runolfsson and Bergnaum",
+            "tasks_completed": [
+                {
+                    "task_id": "242e5ccf-dc23-4d76-8382-e6af144de14a",
+                    "platform": "Instagram",
+                    "post_url": "https://trivial-grandpa.info",
+                    "likes": 260,
+                    "comments": 18,
+                    "shares": 54,
+                    "reach": 5221
+                }
+            ],
+            "total_sales_attributed": 4978.750700645705
+        }
+    ]
+}

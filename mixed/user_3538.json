@@ -1,0 +1,26 @@
+{
+    "user_id": "54653742-eaa6-4e31-baba-b75d3f4f4e2d",
+    "name": "Dr. Lena Jacobson",
+    "email": "Maia.Leuschke86@yahoo.com",
+    "instagram_handle": "@Zaria_Wilderman",
+    "tiktok_handle": "@Meta40",
+    "joined_at": "2024-04-19T16:49:35.009Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a78afb73-4c50-475c-a505-2a2689dadb7e",
+            "brand": "Wolf, Labadie and Emard",
+            "tasks_completed": [
+                {
+                    "task_id": "d2d77e43-3e5f-4a13-be74-45b59ecc09a2",
+                    "platform": "Instagram",
+                    "post_url": "https://serpentine-thongs.biz/",
+                    "likes": 465,
+                    "comments": 35,
+                    "shares": 8,
+                    "reach": 3042
+                }
+            ],
+            "total_sales_attributed": 558.8805236116452
+        }
+    ]
+}

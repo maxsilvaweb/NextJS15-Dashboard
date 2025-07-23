@@ -1,0 +1,26 @@
+{
+    "user_id": "844bee28-4e80-40a7-923e-3934780ae92f",
+    "name": "Adrienne Schroeder",
+    "email": "Robbie_Harris@gmail.com",
+    "instagram_handle": "@Jo53",
+    "tiktok_handle": "@Federico.Bashirian3",
+    "joined_at": "2025-03-02T17:57:16.851Z",
+    "advocacy_programs": [
+        {
+            "program_id": "aa626e04-c030-4841-9773-7321006565ab",
+            "brand": "Fadel and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a40528ed-e8a6-4ded-bb32-64e03cc4e81d",
+                    "platform": "TikTok",
+                    "post_url": "https://sparse-obedience.info",
+                    "likes": 256,
+                    "comments": 38,
+                    "shares": 58,
+                    "reach": 7409
+                }
+            ],
+            "total_sales_attributed": 4333.7941450406515
+        }
+    ]
+}

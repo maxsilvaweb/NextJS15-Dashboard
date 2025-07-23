@@ -1,0 +1,26 @@
+{
+    "user_id": "5b9b7e98-d915-4b54-9f0f-9edfa7bed408",
+    "name": "Joy Deckow",
+    "email": "Kory80@gmail.com",
+    "instagram_handle": "@Humberto22",
+    "tiktok_handle": "@Bridgette66",
+    "joined_at": "2025-03-14T20:37:14.997Z",
+    "advocacy_programs": [
+        {
+            "program_id": "86543d5b-ec50-4582-9579-26ae52f3ceb1",
+            "brand": "Jacobi LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2b0da373-d54c-45e2-a0b4-1f15adb2982b",
+                    "platform": "TikTok",
+                    "post_url": "https://teeming-tentacle.biz",
+                    "likes": 191,
+                    "comments": 9,
+                    "shares": 60,
+                    "reach": 1700
+                }
+            ],
+            "total_sales_attributed": 4792.534464952764
+        }
+    ]
+}

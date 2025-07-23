@@ -1,0 +1,26 @@
+{
+    "user_id": "d8a48fd2-a6c9-4bc5-9694-93fac821b212",
+    "name": "Madeline Kovacek",
+    "email": "Foster.Denesik18@hotmail.com",
+    "instagram_handle": "@Devon_Maggio",
+    "tiktok_handle": "@Adrienne_Johnson",
+    "joined_at": "2024-07-29T02:33:12.622Z",
+    "advocacy_programs": [
+        {
+            "program_id": "636a3d09-a333-4789-9fcc-feda845813c1",
+            "brand": "Lebsack - Leuschke",
+            "tasks_completed": [
+                {
+                    "task_id": "556cad5c-e24f-4d4c-ac13-57faaa638e7f",
+                    "platform": "Instagram",
+                    "post_url": "https://scary-slide.net/",
+                    "likes": 385,
+                    "comments": 19,
+                    "shares": 93,
+                    "reach": 5133
+                }
+            ],
+            "total_sales_attributed": 3132.2071564589637
+        }
+    ]
+}

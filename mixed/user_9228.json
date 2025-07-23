@@ -1,0 +1,25 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Taylor37@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "83b5ede5-ce94-4bdb-814e-48b8fa0d84e9",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 46,
+                    "shares": 96,
+                    "reach": 3502
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

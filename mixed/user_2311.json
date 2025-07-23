@@ -1,0 +1,26 @@
+{
+    "user_id": "c34f329b-69bc-49a8-b52c-68979d0e3284",
+    "name": "Delores Smith",
+    "email": "Hector_Schneider70@yahoo.com",
+    "instagram_handle": "@Viola_Effertz58",
+    "tiktok_handle": "@Ellis_Tremblay-Kirlin",
+    "joined_at": "2024-10-27T09:15:24.096Z",
+    "advocacy_programs": [
+        {
+            "program_id": "46892fbe-9878-4fbc-b73c-3bccdbc6179e",
+            "brand": "Runolfsson - Ernser",
+            "tasks_completed": [
+                {
+                    "task_id": "234451ec-e0aa-4ce8-9860-ae9c2ca7c16d",
+                    "platform": "TikTok",
+                    "post_url": "https://sick-charlatan.name/",
+                    "likes": 132,
+                    "comments": 31,
+                    "shares": 18,
+                    "reach": 7105
+                }
+            ],
+            "total_sales_attributed": 818.9066840213773
+        }
+    ]
+}

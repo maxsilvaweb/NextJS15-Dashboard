@@ -1,0 +1,26 @@
+{
+    "user_id": "3bd627ad-6039-4cf5-80c9-b63aee04ca2e",
+    "name": "Marianne Bashirian",
+    "email": "Matt17@gmail.com",
+    "instagram_handle": "@Jadyn.Wolf",
+    "tiktok_handle": "@Mario81",
+    "joined_at": "2025-02-21T04:54:01.548Z",
+    "advocacy_programs": [
+        {
+            "program_id": "354b1a84-037e-4bc0-9e09-548f20b12caf",
+            "brand": "Howe and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "e29e8af4-6750-4eb7-9891-e8d5526d4ea6",
+                    "platform": "Instagram",
+                    "post_url": "https://private-pupil.name",
+                    "likes": 295,
+                    "comments": 17,
+                    "shares": 68,
+                    "reach": 5761
+                }
+            ],
+            "total_sales_attributed": 3383.9682069893806
+        }
+    ]
+}

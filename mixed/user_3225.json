@@ -1,0 +1,26 @@
+{
+    "user_id": "8980c84c-6319-4c67-82c0-2b0fd6aee72f",
+    "name": "Emilio Hammes",
+    "email": "Edgar9@hotmail.com",
+    "instagram_handle": "@Eva.Fay",
+    "tiktok_handle": "@Carmelo_Huel14",
+    "joined_at": "2025-02-17T15:17:18.312Z",
+    "advocacy_programs": [
+        {
+            "program_id": "385f3991-6cc5-407f-9d00-03a934fcdc79",
+            "brand": "Pagac, Russel and Robel",
+            "tasks_completed": [
+                {
+                    "task_id": "3d7e54e3-c619-4e34-af0e-0ac3422f613b",
+                    "platform": "TikTok",
+                    "post_url": "https://afraid-farmer.name/",
+                    "likes": 400,
+                    "comments": 14,
+                    "shares": 72,
+                    "reach": 1013
+                }
+            ],
+            "total_sales_attributed": 4752.340674762021
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Fredy.Reilly73",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 147,
+                    "comments": null,
+                    "shares": 78,
+                    "reach": 8472
+                }
+            ],
+            "total_sales_attributed": 917.2576613198329
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b3ea7c7c-f9ef-4674-b726-67a73cf2d85c",
+    "name": "Dianna Wilderman",
+    "email": "Tom_Cummerata4@yahoo.com",
+    "instagram_handle": "@Domenick49",
+    "tiktok_handle": "@Carolyn_Runolfsdottir",
+    "joined_at": "2024-06-19T07:30:55.996Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dbff516a-d996-451e-a3d2-54b8fc4fb184",
+            "brand": "Stoltenberg and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "85038138-de20-4a63-b71f-abc4591df1a6",
+                    "platform": "TikTok",
+                    "post_url": "https://brown-glider.net",
+                    "likes": 112,
+                    "comments": 5,
+                    "shares": 16,
+                    "reach": 7034
+                }
+            ],
+            "total_sales_attributed": 2675.5466196583634
+        }
+    ]
+}

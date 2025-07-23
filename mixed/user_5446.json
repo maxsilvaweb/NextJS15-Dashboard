@@ -1,0 +1,26 @@
+{
+    "user_id": "4ac86b95-1310-48e9-aa7e-24ef2622ad1e",
+    "name": "Camille Lubowitz",
+    "email": "Addie.Franey@yahoo.com",
+    "instagram_handle": "@Lamar1",
+    "tiktok_handle": "@Dessie8",
+    "joined_at": "2024-07-03T08:24:19.966Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b9ffdad0-89cb-4858-bbed-da172a3bfa3c",
+            "brand": "Muller, Boehm and Erdman",
+            "tasks_completed": [
+                {
+                    "task_id": "960abc5c-b823-46a1-91fd-7a0c36e6e065",
+                    "platform": "TikTok",
+                    "post_url": "https://flimsy-secrecy.com/",
+                    "likes": 329,
+                    "comments": 7,
+                    "shares": 81,
+                    "reach": 9983
+                }
+            ],
+            "total_sales_attributed": 2379.768656394577
+        }
+    ]
+}

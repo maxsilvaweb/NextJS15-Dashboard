@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "6099fd25-1e3a-4644-98e2-6a544556a97c",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://pretty-makeover.name",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 58,
+                    "reach": 9781
+                }
+            ],
+            "total_sales_attributed": 1395.22204108713
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Violet Grady",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-07-18T19:54:54.889Z",
+    "advocacy_programs": [
+        {
+            "program_id": "23288611-ff3e-431b-85f5-4bf3bccc30fa",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 367,
+                    "comments": null,
+                    "shares": 64,
+                    "reach": 3979
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

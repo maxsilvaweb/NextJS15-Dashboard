@@ -1,0 +1,26 @@
+{
+    "user_id": "de9473e9-5d97-4e3f-9833-51c072e16453",
+    "name": "Kristine Schmidt",
+    "email": "Jovan59@gmail.com",
+    "instagram_handle": "@Ewell.Trantow",
+    "tiktok_handle": "@Susanna69",
+    "joined_at": "2024-06-28T13:14:22.615Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b9426a07-a590-4424-8ed5-b0cdcc38ad86",
+            "brand": "Moen - Kuhlman",
+            "tasks_completed": [
+                {
+                    "task_id": "305831ee-4d2e-4548-952b-2310a1be345d",
+                    "platform": "TikTok",
+                    "post_url": "https://gruesome-oil.biz",
+                    "likes": 127,
+                    "comments": 15,
+                    "shares": 0,
+                    "reach": 1291
+                }
+            ],
+            "total_sales_attributed": 3286.4639354767146
+        }
+    ]
+}

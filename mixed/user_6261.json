@@ -1,0 +1,26 @@
+{
+    "user_id": "df791d97-efe2-4472-bb44-cb64bc28c5e9",
+    "name": "Dr. Otis Lakin-Welch Jr.",
+    "email": "Gust19@gmail.com",
+    "instagram_handle": "@Delbert72",
+    "tiktok_handle": "@Imelda_Stoltenberg55",
+    "joined_at": "2024-07-22T15:52:47.252Z",
+    "advocacy_programs": [
+        {
+            "program_id": "655f821c-1ee3-4566-a47b-e74c275d73c8",
+            "brand": "Larkin - Kassulke",
+            "tasks_completed": [
+                {
+                    "task_id": "ed121d9b-bf26-4734-bbe6-4f15a4614b9f",
+                    "platform": "Instagram",
+                    "post_url": "https://descriptive-wear.net",
+                    "likes": 20,
+                    "comments": 0,
+                    "shares": 25,
+                    "reach": 2397
+                }
+            ],
+            "total_sales_attributed": 4896.7783651336795
+        }
+    ]
+}

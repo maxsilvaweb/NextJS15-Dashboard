@@ -1,0 +1,26 @@
+{
+    "user_id": "cbeb2c61-45b7-4ff5-821a-be47605ba18c",
+    "name": "Janet Haag",
+    "email": "Maiya.Reilly@yahoo.com",
+    "instagram_handle": "@Arvilla91",
+    "tiktok_handle": "@Skye99",
+    "joined_at": "2024-05-24T01:51:24.874Z",
+    "advocacy_programs": [
+        {
+            "program_id": "36474c42-1c79-4f64-8633-07d5c1dbc390",
+            "brand": "O'Keefe Group",
+            "tasks_completed": [
+                {
+                    "task_id": "b1603e49-98ef-461c-8314-b94e74f9ca18",
+                    "platform": "Instagram",
+                    "post_url": "https://appropriate-iridescence.com/",
+                    "likes": 225,
+                    "comments": 32,
+                    "shares": 1,
+                    "reach": 8344
+                }
+            ],
+            "total_sales_attributed": 4979.779923939008
+        }
+    ]
+}

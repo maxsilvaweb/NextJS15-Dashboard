@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Buddy.Johns@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Arnulfo.Zulauf28",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 441,
+                    "comments": 27,
+                    "shares": 36,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

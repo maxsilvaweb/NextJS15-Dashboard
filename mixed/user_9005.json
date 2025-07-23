@@ -1,0 +1,26 @@
+{
+    "user_id": "c25b53ef-98a9-499c-83b7-7081bb2d48db",
+    "name": "Freda Casper",
+    "email": "Rhiannon66@hotmail.com",
+    "instagram_handle": "@Mylene.Pfannerstill83",
+    "tiktok_handle": "@Ubaldo_Steuber63",
+    "joined_at": "2024-12-16T05:59:09.321Z",
+    "advocacy_programs": [
+        {
+            "program_id": "80f2725f-2866-410a-a92e-465f68bdab05",
+            "brand": "Ward - VonRueden",
+            "tasks_completed": [
+                {
+                    "task_id": "a21b363d-43d9-43ac-a245-0797f6713502",
+                    "platform": "Instagram",
+                    "post_url": "https://educated-hunger.biz/",
+                    "likes": 102,
+                    "comments": 25,
+                    "shares": 74,
+                    "reach": 982
+                }
+            ],
+            "total_sales_attributed": 380.45410749352686
+        }
+    ]
+}

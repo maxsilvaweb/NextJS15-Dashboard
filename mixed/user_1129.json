@@ -1,0 +1,26 @@
+{
+    "user_id": "bac2a0d0-339c-424d-ab48-f5f0f2d262ad",
+    "name": "???",
+    "email": "Kendrick.Stokes2@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 371,
+                    "comments": null,
+                    "shares": 36,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

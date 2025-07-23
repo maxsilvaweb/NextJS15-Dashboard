@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Lloyd39",
+    "joined_at": "2024-06-08T16:39:39.713Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6c080cbf-a98a-4485-a561-88c71a0606ea",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 136,
+                    "comments": null,
+                    "shares": 13,
+                    "reach": 1078
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

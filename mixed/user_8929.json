@@ -1,0 +1,26 @@
+{
+    "user_id": "b24109b4-996a-4590-aed4-3eff1d9698c1",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-03-23T21:26:23.949Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 44,
+                    "shares": 32,
+                    "reach": 5040
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

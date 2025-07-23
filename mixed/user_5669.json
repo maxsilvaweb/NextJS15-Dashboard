@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Jordan Witting I",
+    "email": "invalid-email",
+    "instagram_handle": "@Emilia_Morar",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "c9dfd5a8-a5f8-4935-9fa2-9cfd6364be7d",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 414,
+                    "comments": null,
+                    "shares": 51,
+                    "reach": 2567
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

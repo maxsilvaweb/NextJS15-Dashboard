@@ -1,0 +1,26 @@
+{
+    "user_id": "8580b0d5-5300-43e6-814b-83f84a16b952",
+    "name": "Jeannette Parisian",
+    "email": "Elijah_Kertzmann@hotmail.com",
+    "instagram_handle": "@Elaina82",
+    "tiktok_handle": "@Dusty66",
+    "joined_at": "2025-01-31T23:25:11.649Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7a878fb8-0ece-498c-b040-3d92b8914d03",
+            "brand": "Thiel, Monahan and Quitzon",
+            "tasks_completed": [
+                {
+                    "task_id": "e83bdd77-a746-4215-b0c3-ffd66d460236",
+                    "platform": "TikTok",
+                    "post_url": "https://confused-schedule.name/",
+                    "likes": 423,
+                    "comments": 31,
+                    "shares": 90,
+                    "reach": 6248
+                }
+            ],
+            "total_sales_attributed": 1894.2649120483557
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d7e83635-1cc7-4c09-855b-4f284ee9bc71",
+    "name": "Daisy Parisian",
+    "email": "Aniya_Ebert-Koch@yahoo.com",
+    "instagram_handle": "@Virginia12",
+    "tiktok_handle": "@Marcelina20",
+    "joined_at": "2024-08-07T15:30:34.756Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7e86c096-6249-41e0-9b4d-f594a7e82035",
+            "brand": "Hauck - Stokes",
+            "tasks_completed": [
+                {
+                    "task_id": "cddbeef9-b346-4e58-8113-279af9d2a399",
+                    "platform": "Instagram",
+                    "post_url": "https://frail-hundred.biz",
+                    "likes": 146,
+                    "comments": 33,
+                    "shares": 53,
+                    "reach": 8305
+                }
+            ],
+            "total_sales_attributed": 470.958192561371
+        }
+    ]
+}

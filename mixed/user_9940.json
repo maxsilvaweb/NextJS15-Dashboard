@@ -1,0 +1,26 @@
+{
+    "user_id": "a511dc98-f7c3-4462-99cf-875f023868f4",
+    "name": "Kelvin Stroman V",
+    "email": "Terrence.Bahringer17@gmail.com",
+    "instagram_handle": "@Meredith61",
+    "tiktok_handle": "@Pamela16",
+    "joined_at": "2024-07-26T06:11:56.439Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bf7370ad-4148-49b4-9330-eec96de7a5aa",
+            "brand": "Leuschke, Cole and Anderson",
+            "tasks_completed": [
+                {
+                    "task_id": "5226becc-8eed-4623-ad53-48b6e1e1f19f",
+                    "platform": "Instagram",
+                    "post_url": "https://medium-vista.biz",
+                    "likes": 487,
+                    "comments": 10,
+                    "shares": 89,
+                    "reach": 7410
+                }
+            ],
+            "total_sales_attributed": 306.9433029131716
+        }
+    ]
+}

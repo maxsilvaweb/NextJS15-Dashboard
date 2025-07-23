@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Dino_Vandervort",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "33cf1f73-f2e8-4dee-98da-02ce911407fd",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://old-fashioned-brace.com",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 26,
+                    "reach": 1096
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

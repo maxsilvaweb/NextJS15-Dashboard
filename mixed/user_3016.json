@@ -1,0 +1,26 @@
+{
+    "user_id": "f743a34e-73eb-46ab-a808-dfe309b50eff",
+    "name": "Simon Reichel",
+    "email": "Jaclyn_Fadel20@gmail.com",
+    "instagram_handle": "@Elta_Fisher81",
+    "tiktok_handle": "@Graham22",
+    "joined_at": "2025-03-18T15:32:08.095Z",
+    "advocacy_programs": [
+        {
+            "program_id": "30308b95-b268-45d8-97ba-337a30f33cb2",
+            "brand": "Hayes - Bradtke",
+            "tasks_completed": [
+                {
+                    "task_id": "f780fa4b-bd0c-41c0-886d-23ec54dc1aab",
+                    "platform": "TikTok",
+                    "post_url": "https://surprised-battle.com/",
+                    "likes": 333,
+                    "comments": 14,
+                    "shares": 24,
+                    "reach": 5691
+                }
+            ],
+            "total_sales_attributed": 2971.856021333027
+        }
+    ]
+}

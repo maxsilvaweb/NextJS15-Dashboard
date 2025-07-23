@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Bridgette.Johnson33@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://artistic-cuckoo.org",
+                    "likes": 390,
+                    "comments": null,
+                    "shares": 88,
+                    "reach": 8154
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

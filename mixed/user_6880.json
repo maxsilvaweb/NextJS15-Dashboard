@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Carlos Gleichner",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Eleonore73",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Okuneva LLC",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 174,
+                    "comments": 25,
+                    "shares": 16,
+                    "reach": 3158
+                }
+            ],
+            "total_sales_attributed": 4223.675700496258
+        }
+    ]
+}

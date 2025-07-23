@@ -1,0 +1,26 @@
+{
+    "user_id": "9c856a51-388e-4ac8-81a2-609ef66cdf14",
+    "name": "Julian Considine",
+    "email": "Mitchel.Effertz@hotmail.com",
+    "instagram_handle": "@Reynold_Leffler",
+    "tiktok_handle": "@Delphine.Jones",
+    "joined_at": "2024-04-13T10:45:19.401Z",
+    "advocacy_programs": [
+        {
+            "program_id": "109bfe79-34af-4af5-b27b-6118f2b36015",
+            "brand": "O'Connell, Dickens and Schaefer",
+            "tasks_completed": [
+                {
+                    "task_id": "a59e9d72-dc10-4573-8fc4-f18a09ade630",
+                    "platform": "Instagram",
+                    "post_url": "https://shady-obedience.com/",
+                    "likes": 184,
+                    "comments": 8,
+                    "shares": 21,
+                    "reach": 1573
+                }
+            ],
+            "total_sales_attributed": 4535.339094623433
+        }
+    ]
+}

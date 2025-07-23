@@ -1,0 +1,26 @@
+{
+    "user_id": "0f40853a-1735-40a7-8f88-ecffcd5bd4f7",
+    "name": "Kayla Kiehn",
+    "email": "Chandler92@gmail.com",
+    "instagram_handle": "@Maci_Stanton",
+    "tiktok_handle": "@Leann21",
+    "joined_at": "2024-07-08T02:58:41.758Z",
+    "advocacy_programs": [
+        {
+            "program_id": "89697ab2-4aab-4370-be77-9f6c085fe534",
+            "brand": "Simonis - Rolfson",
+            "tasks_completed": [
+                {
+                    "task_id": "77074099-64b1-4dc5-aff4-57b302df09b7",
+                    "platform": "TikTok",
+                    "post_url": "https://actual-sightseeing.info",
+                    "likes": 434,
+                    "comments": 7,
+                    "shares": 24,
+                    "reach": 9809
+                }
+            ],
+            "total_sales_attributed": 1521.2675480165542
+        }
+    ]
+}

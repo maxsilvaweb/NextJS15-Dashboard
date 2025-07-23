@@ -1,0 +1,26 @@
+{
+    "user_id": "77c38b4d-67ee-4139-a5b7-138cc895d646",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 137,
+                    "comments": 27,
+                    "shares": 9,
+                    "reach": 5988
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9f2228f2-04ad-4067-83fd-bb90551a472a",
+    "name": "Marsha Kuphal",
+    "email": "Carol76@yahoo.com",
+    "instagram_handle": "@Van24",
+    "tiktok_handle": "@Winnifred.Rau13",
+    "joined_at": "2024-07-18T05:36:48.032Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e86e43d4-f667-4910-b0cd-cd9978f69b06",
+            "brand": "Stamm, Hettinger and Wolf",
+            "tasks_completed": [
+                {
+                    "task_id": "cb3a2b99-68ce-404b-bca7-f367191f706c",
+                    "platform": "TikTok",
+                    "post_url": "https://impish-appliance.info",
+                    "likes": 313,
+                    "comments": 34,
+                    "shares": 71,
+                    "reach": 1682
+                }
+            ],
+            "total_sales_attributed": 2215.467621720419
+        }
+    ]
+}

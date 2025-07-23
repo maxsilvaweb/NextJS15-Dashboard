@@ -1,0 +1,26 @@
+{
+    "user_id": "c87fed3a-ae69-4d36-84f2-efbe6529e881",
+    "name": "Mr. Dwight Leuschke Sr.",
+    "email": "Clarissa90@gmail.com",
+    "instagram_handle": "@Lane.OHara",
+    "tiktok_handle": "@Rosa98",
+    "joined_at": "2024-07-02T19:22:57.977Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a050db2a-edcf-4900-aa68-51f419946b72",
+            "brand": "Rohan - Ruecker",
+            "tasks_completed": [
+                {
+                    "task_id": "3c0fd3af-8197-4462-a737-9420098c57fa",
+                    "platform": "TikTok",
+                    "post_url": "https://amused-certification.info",
+                    "likes": 281,
+                    "comments": 4,
+                    "shares": 66,
+                    "reach": 4525
+                }
+            ],
+            "total_sales_attributed": 2142.588970794992
+        }
+    ]
+}

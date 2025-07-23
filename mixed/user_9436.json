@@ -1,0 +1,26 @@
+{
+    "user_id": "f0d5f34f-7cfa-4809-ba61-c402b0dc2cec",
+    "name": "Ira Veum",
+    "email": "Alfredo83@hotmail.com",
+    "instagram_handle": "@Nayeli_Williamson-Satterfield",
+    "tiktok_handle": "@Adolph10",
+    "joined_at": "2024-06-07T01:42:07.386Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1a30cfc2-c3b9-46a5-8800-93158815bf75",
+            "brand": "Maggio, Thiel and Cole",
+            "tasks_completed": [
+                {
+                    "task_id": "cd218ce8-3872-464a-ba76-b2a5710b1dc5",
+                    "platform": "TikTok",
+                    "post_url": "https://steel-soybean.com/",
+                    "likes": 328,
+                    "comments": 42,
+                    "shares": 70,
+                    "reach": 5094
+                }
+            ],
+            "total_sales_attributed": 1881.3449946527317
+        }
+    ]
+}

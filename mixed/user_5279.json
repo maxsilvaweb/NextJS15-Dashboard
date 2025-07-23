@@ -1,0 +1,26 @@
+{
+    "user_id": "08e9a2c0-098d-412f-a959-56b877ef82a4",
+    "name": "Ms. Cora Fadel",
+    "email": "Wilburn51@yahoo.com",
+    "instagram_handle": "@Ursula_Bradtke90",
+    "tiktok_handle": "@Eldred.Klocko",
+    "joined_at": "2024-07-25T15:52:19.797Z",
+    "advocacy_programs": [
+        {
+            "program_id": "719ff320-733f-4b93-b0a0-d75eeb797073",
+            "brand": "Will, Kris and Von",
+            "tasks_completed": [
+                {
+                    "task_id": "362bfbb0-0fd1-4362-858a-6e398113063a",
+                    "platform": "Instagram",
+                    "post_url": "https://inborn-sauerkraut.com",
+                    "likes": 27,
+                    "comments": 44,
+                    "shares": 49,
+                    "reach": 5497
+                }
+            ],
+            "total_sales_attributed": 4158.779659607157
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "35209f3e-d983-4f17-a15b-71a58ccbfef6",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://unhappy-custody.name",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 98,
+                    "reach": 8845
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

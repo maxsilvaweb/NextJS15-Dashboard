@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "6eeca2b0-b9db-4fb8-8dab-dc442d8af72e",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://specific-elver.net",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 12,
+                    "reach": 9256
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

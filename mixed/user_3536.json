@@ -1,0 +1,26 @@
+{
+    "user_id": "e0b78e45-d31f-49b1-9797-7a962ac717ca",
+    "name": "Herbert Abbott",
+    "email": "Jayda.Haag80@gmail.com",
+    "instagram_handle": "@Emely_Bernhard3",
+    "tiktok_handle": "@Lucile35",
+    "joined_at": "2025-03-03T10:45:44.706Z",
+    "advocacy_programs": [
+        {
+            "program_id": "72089fd5-71de-457f-a8a7-23961d663824",
+            "brand": "Gutkowski - Abshire",
+            "tasks_completed": [
+                {
+                    "task_id": "3fe7cbdc-7664-4734-b13a-86cfb0de1063",
+                    "platform": "TikTok",
+                    "post_url": "https://shameless-descendant.net/",
+                    "likes": 137,
+                    "comments": 45,
+                    "shares": 80,
+                    "reach": 4583
+                }
+            ],
+            "total_sales_attributed": 2936.9395700440837
+        }
+    ]
+}

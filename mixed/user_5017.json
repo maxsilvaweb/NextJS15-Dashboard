@@ -1,0 +1,26 @@
+{
+    "user_id": "49f2bf1e-c246-49ca-8fcc-3303cf5d2b2c",
+    "name": "Felix Bosco",
+    "email": "Alexandrea32@gmail.com",
+    "instagram_handle": "@Gideon_Daugherty88",
+    "tiktok_handle": "@Chesley_Franecki",
+    "joined_at": "2024-08-12T15:13:03.728Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a90773be-da1d-4387-ab91-dbe998286e83",
+            "brand": "Marvin Group",
+            "tasks_completed": [
+                {
+                    "task_id": "38cbbe09-8bef-4314-81e4-dd6c3732a0d8",
+                    "platform": "TikTok",
+                    "post_url": "https://impressive-velocity.info",
+                    "likes": 205,
+                    "comments": 16,
+                    "shares": 59,
+                    "reach": 1574
+                }
+            ],
+            "total_sales_attributed": 405.25530922521443
+        }
+    ]
+}

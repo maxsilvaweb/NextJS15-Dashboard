@@ -1,0 +1,26 @@
+{
+    "user_id": "3387a5ab-aaf0-4060-9f0c-188469ef9c32",
+    "name": "Shelley Waters",
+    "email": "Anibal.Welch2@gmail.com",
+    "instagram_handle": "@Emma_Heaney",
+    "tiktok_handle": "@Erich99",
+    "joined_at": "2024-12-17T04:16:10.336Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5e0d7843-5d37-463f-99a3-3d63c68dcc73",
+            "brand": "Pfannerstill, Waters and Braun",
+            "tasks_completed": [
+                {
+                    "task_id": "9bf57d37-9412-45b8-8ecf-acd976d67f95",
+                    "platform": "Instagram",
+                    "post_url": "https://cheerful-mantua.name/",
+                    "likes": 239,
+                    "comments": 17,
+                    "shares": 67,
+                    "reach": 4029
+                }
+            ],
+            "total_sales_attributed": 2309.38336673118
+        }
+    ]
+}

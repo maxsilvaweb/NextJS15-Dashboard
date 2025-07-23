@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Taya20",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "1b22549d-af84-4505-b599-5c4bbab1847a",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 294,
+                    "comments": 13,
+                    "shares": 26,
+                    "reach": 8191
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "30ff0888-4726-4e3d-bc81-2301813755d6",
+    "name": "Wilbur Willms",
+    "email": "Jeffery_Balistreri65@yahoo.com",
+    "instagram_handle": "@Delbert.Will27",
+    "tiktok_handle": "@Shany.Oberbrunner84",
+    "joined_at": "2024-11-27T02:23:46.270Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fbb00be3-3e43-413a-be45-2e54a2d1f459",
+            "brand": "Torp and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "71266249-d10d-457d-890b-5ae86e81e131",
+                    "platform": "Instagram",
+                    "post_url": "https://puny-meadow.net",
+                    "likes": 52,
+                    "comments": 49,
+                    "shares": 26,
+                    "reach": 7266
+                }
+            ],
+            "total_sales_attributed": 555.4260711928847
+        }
+    ]
+}

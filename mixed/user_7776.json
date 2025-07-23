@@ -1,0 +1,26 @@
+{
+    "user_id": "b6da539f-495d-4fbe-8599-fb28ab2ce72d",
+    "name": "Jared Adams",
+    "email": "Samanta_Wehner96@gmail.com",
+    "instagram_handle": "@Sam72",
+    "tiktok_handle": "@Eunice19",
+    "joined_at": "2024-07-15T15:52:12.793Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c40f6a8d-ad49-4c9a-a097-2bf39e203cf7",
+            "brand": "Hartmann - Corkery",
+            "tasks_completed": [
+                {
+                    "task_id": "42088dad-ab66-4b7d-bf88-cd0b2ce54e8f",
+                    "platform": "TikTok",
+                    "post_url": "https://colorless-settler.com",
+                    "likes": 354,
+                    "comments": 14,
+                    "shares": 88,
+                    "reach": 9801
+                }
+            ],
+            "total_sales_attributed": 2812.846519643921
+        }
+    ]
+}

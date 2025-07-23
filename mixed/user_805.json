@@ -1,0 +1,26 @@
+{
+    "user_id": "ebe47cd6-20ae-407c-8046-85775d1b829c",
+    "name": "Megan Leannon I",
+    "email": "Eliza.Koss@yahoo.com",
+    "instagram_handle": "@Dereck_Gutmann92",
+    "tiktok_handle": "@Fidel51",
+    "joined_at": "2024-04-22T10:48:33.624Z",
+    "advocacy_programs": [
+        {
+            "program_id": "82dff2bd-72d7-4aa7-b345-991a6e3c2f3e",
+            "brand": "Mayer - Lindgren",
+            "tasks_completed": [
+                {
+                    "task_id": "a5f1920a-89aa-4497-b75e-63686019378b",
+                    "platform": "TikTok",
+                    "post_url": "https://imaginary-brook.org",
+                    "likes": 233,
+                    "comments": 9,
+                    "shares": 39,
+                    "reach": 5594
+                }
+            ],
+            "total_sales_attributed": 1632.6694770282427
+        }
+    ]
+}

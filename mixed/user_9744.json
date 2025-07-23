@@ -1,0 +1,26 @@
+{
+    "user_id": "5ec31c7f-b301-4b3d-9bd0-b866ac2912a1",
+    "name": "Edgar Bernier-Kilback",
+    "email": "Patrick.Romaguera@gmail.com",
+    "instagram_handle": "@Madaline_Marks",
+    "tiktok_handle": "@Kaci.Smith47",
+    "joined_at": "2024-08-19T20:38:57.828Z",
+    "advocacy_programs": [
+        {
+            "program_id": "80086701-4fe2-4aa0-bd7a-dc835d59dd54",
+            "brand": "Wiza, Goyette and Spinka",
+            "tasks_completed": [
+                {
+                    "task_id": "2ddf9d71-b68f-4424-890d-96c75d56eb13",
+                    "platform": "TikTok",
+                    "post_url": "https://tangible-language.info/",
+                    "likes": 328,
+                    "comments": 37,
+                    "shares": 86,
+                    "reach": 3775
+                }
+            ],
+            "total_sales_attributed": 605.6256426384659
+        }
+    ]
+}

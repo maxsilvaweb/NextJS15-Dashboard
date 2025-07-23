@@ -1,0 +1,26 @@
+{
+    "user_id": "fd49cef7-26c5-431f-9a02-e5015d1437f0",
+    "name": "???",
+    "email": "Jeanette67@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://prickly-earth.biz",
+                    "likes": "NaN",
+                    "comments": 47,
+                    "shares": 17,
+                    "reach": 6905
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

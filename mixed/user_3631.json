@@ -1,0 +1,26 @@
+{
+    "user_id": "cd3ae879-ead7-4b93-a7ef-56ac53d19f43",
+    "name": "Jackie Rempel",
+    "email": "Estevan83@yahoo.com",
+    "instagram_handle": "@Hermina.Kunde",
+    "tiktok_handle": "@Mellie46",
+    "joined_at": "2025-03-11T02:22:52.187Z",
+    "advocacy_programs": [
+        {
+            "program_id": "de9e0a99-a8a0-497a-97a1-47566ce05227",
+            "brand": "Cummerata - Gleason",
+            "tasks_completed": [
+                {
+                    "task_id": "3638bdb5-ae61-49a7-937f-e4d872d8c241",
+                    "platform": "Instagram",
+                    "post_url": "https://circular-disconnection.name",
+                    "likes": 173,
+                    "comments": 1,
+                    "shares": 19,
+                    "reach": 662
+                }
+            ],
+            "total_sales_attributed": 4238.802561932203
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Valerie.Monahan69",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "86bfa2ff-593a-45b8-a10a-2b2ec20eaa90",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://apprehensive-lounge.net/",
+                    "likes": "NaN",
+                    "comments": 43,
+                    "shares": 27,
+                    "reach": 1358
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "f3d064cf-a393-48a6-948b-2ee7f9674238",
+    "name": "Dr. Joy Purdy",
+    "email": "Valentina.Donnelly@gmail.com",
+    "instagram_handle": "@Fredy_Schulist",
+    "tiktok_handle": "@Christop.Muller1",
+    "joined_at": "2024-12-02T14:05:44.029Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bbbe3416-49e9-44c6-bcc5-324cae3cc647",
+            "brand": "Kautzer - Lind",
+            "tasks_completed": [
+                {
+                    "task_id": "da456bb3-52e8-45b3-b799-a58c703ec6aa",
+                    "platform": "Instagram",
+                    "post_url": "https://authentic-octave.com",
+                    "likes": 172,
+                    "comments": 37,
+                    "shares": 13,
+                    "reach": 7448
+                }
+            ],
+            "total_sales_attributed": 2402.966763432135
+        }
+    ]
+}

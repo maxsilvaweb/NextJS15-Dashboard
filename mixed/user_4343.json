@@ -1,0 +1,26 @@
+{
+    "user_id": "aa152d47-f0a7-4b34-8bb8-7caa2641c10e",
+    "name": "Ronald Bartell",
+    "email": "Alvena.Rolfson@gmail.com",
+    "instagram_handle": "@Bernita78",
+    "tiktok_handle": "@Brooks.Kirlin17",
+    "joined_at": "2024-11-09T03:58:25.532Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3946bf56-33b9-4c8b-ad6a-0741b4a34abb",
+            "brand": "Emmerich Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d5853f1c-2e53-4650-9702-95570272759e",
+                    "platform": "Instagram",
+                    "post_url": "https://massive-topsail.com/",
+                    "likes": 173,
+                    "comments": 20,
+                    "shares": 95,
+                    "reach": 1103
+                }
+            ],
+            "total_sales_attributed": 1717.497577669122
+        }
+    ]
+}

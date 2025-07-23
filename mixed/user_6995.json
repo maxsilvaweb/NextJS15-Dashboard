@@ -1,0 +1,26 @@
+{
+    "user_id": "98b233cf-e9fe-4694-a163-c498a0108ba5",
+    "name": "Stephanie Weimann-Wehner",
+    "email": "Gust.White@yahoo.com",
+    "instagram_handle": "@Keven_Stiedemann",
+    "tiktok_handle": "@Kacie_Morar61",
+    "joined_at": "2024-05-12T13:42:05.422Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dbc63a75-d3fc-4e65-a96e-328691ca9424",
+            "brand": "Marquardt - Yost",
+            "tasks_completed": [
+                {
+                    "task_id": "6c98e83e-717b-4f9d-ba6d-904c9fae051f",
+                    "platform": "Instagram",
+                    "post_url": "https://alienated-hubris.org",
+                    "likes": 27,
+                    "comments": 11,
+                    "shares": 82,
+                    "reach": 4113
+                }
+            ],
+            "total_sales_attributed": 3042.322352396702
+        }
+    ]
+}

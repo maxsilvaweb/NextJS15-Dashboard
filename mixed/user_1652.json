@@ -1,0 +1,26 @@
+{
+    "user_id": "0744b7ba-8360-44ae-8435-fcd0cbac1b41",
+    "name": "Georgia Schmidt",
+    "email": "Roosevelt67@gmail.com",
+    "instagram_handle": "@Modesta_Ward",
+    "tiktok_handle": "@Moshe23",
+    "joined_at": "2025-03-06T21:35:13.739Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4fbb8a31-dbc0-46dd-8108-9cb602426bbd",
+            "brand": "O'Conner - Daugherty",
+            "tasks_completed": [
+                {
+                    "task_id": "026a8050-05db-4183-b79d-b51854c6f234",
+                    "platform": "TikTok",
+                    "post_url": "https://tepid-adviser.org/",
+                    "likes": 225,
+                    "comments": 41,
+                    "shares": 60,
+                    "reach": 1101
+                }
+            ],
+            "total_sales_attributed": 3215.5412668033227
+        }
+    ]
+}

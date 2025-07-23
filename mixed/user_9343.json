@@ -1,0 +1,26 @@
+{
+    "user_id": "449198f7-1902-4c54-82ba-da8951737b7a",
+    "name": "Mack Olson",
+    "email": "Ewald_White@hotmail.com",
+    "instagram_handle": "@Saige.Schaden86",
+    "tiktok_handle": "@Maryse_Stamm",
+    "joined_at": "2024-06-12T22:49:05.565Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e781b621-9bb7-4b69-bbcf-8503f4629ba2",
+            "brand": "Renner, Hoppe and Bahringer",
+            "tasks_completed": [
+                {
+                    "task_id": "7f49d708-1741-4654-ba03-3d043ba099df",
+                    "platform": "TikTok",
+                    "post_url": "https://basic-dulcimer.net",
+                    "likes": 362,
+                    "comments": 12,
+                    "shares": 7,
+                    "reach": 4188
+                }
+            ],
+            "total_sales_attributed": 504.54133559054816
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "49adcf58-38c4-4623-9e08-5f12fa2341e9",
+    "name": "Lyle Kuhic",
+    "email": "Ivy.Senger@gmail.com",
+    "instagram_handle": "@Carlie.Maggio84",
+    "tiktok_handle": "@Payton.Hudson52",
+    "joined_at": "2024-07-01T05:44:41.171Z",
+    "advocacy_programs": [
+        {
+            "program_id": "88ff17f8-f2e7-4a8d-baba-bd4c64854aaf",
+            "brand": "Bergstrom - Brakus",
+            "tasks_completed": [
+                {
+                    "task_id": "3395c870-e7bb-4bf3-a33f-b642d5e90e0f",
+                    "platform": "TikTok",
+                    "post_url": "https://slight-nun.com",
+                    "likes": 387,
+                    "comments": 7,
+                    "shares": 34,
+                    "reach": 4373
+                }
+            ],
+            "total_sales_attributed": 555.6325603625196
+        }
+    ]
+}

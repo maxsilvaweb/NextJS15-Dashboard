@@ -1,0 +1,26 @@
+{
+    "user_id": "09aceb1f-5c83-4d4f-9ff3-72a29db4728f",
+    "name": "Vincent Buckridge",
+    "email": "Enos.OConnell@yahoo.com",
+    "instagram_handle": "@Monty51",
+    "tiktok_handle": "@Laurel_Hahn",
+    "joined_at": "2024-06-12T21:32:37.302Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bbce300f-82f4-4eaa-a448-0a0688a0f0a8",
+            "brand": "Raynor - Ullrich",
+            "tasks_completed": [
+                {
+                    "task_id": "b159b083-5b10-4fdb-bc01-c91c6ef6afb1",
+                    "platform": "Instagram",
+                    "post_url": "https://rubbery-sport.org/",
+                    "likes": 302,
+                    "comments": 38,
+                    "shares": 40,
+                    "reach": 2146
+                }
+            ],
+            "total_sales_attributed": 4238.6974284755615
+        }
+    ]
+}

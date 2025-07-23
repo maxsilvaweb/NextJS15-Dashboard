@@ -1,0 +1,26 @@
+{
+    "user_id": "283a7dc2-d688-49cb-8235-923e31e31d9e",
+    "name": "???",
+    "email": "Laverna_Lehner@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "5a20110d-0222-40ba-9b3a-1cda33840878",
+                    "platform": "TikTok",
+                    "post_url": "https://hot-tuber.name/",
+                    "likes": "NaN",
+                    "comments": 15,
+                    "shares": 70,
+                    "reach": 5150
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

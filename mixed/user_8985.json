@@ -1,0 +1,26 @@
+{
+    "user_id": "6f0dcfea-a472-4108-ab05-9f468c991475",
+    "name": "Lynn Moore",
+    "email": "Efrain.Bruen@hotmail.com",
+    "instagram_handle": "@Blaise_McDermott44",
+    "tiktok_handle": "@Cheyenne97",
+    "joined_at": "2024-10-25T16:39:10.470Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1835d1a4-7774-42d7-87eb-4ca1c0e3e56c",
+            "brand": "Harvey - McCullough",
+            "tasks_completed": [
+                {
+                    "task_id": "13715ebd-491d-4080-9730-7627cdf306a7",
+                    "platform": "TikTok",
+                    "post_url": "https://delirious-flight.net",
+                    "likes": 230,
+                    "comments": 5,
+                    "shares": 45,
+                    "reach": 7458
+                }
+            ],
+            "total_sales_attributed": 3686.207761675017
+        }
+    ]
+}

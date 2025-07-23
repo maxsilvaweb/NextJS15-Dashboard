@@ -1,0 +1,26 @@
+{
+    "user_id": "dc378f3e-76ca-48ae-b88f-f36bffce7065",
+    "name": "Kathryn Sawayn",
+    "email": "Teagan10@hotmail.com",
+    "instagram_handle": "@Marcellus_Renner",
+    "tiktok_handle": "@Mitchel_Veum",
+    "joined_at": "2024-04-28T12:27:36.952Z",
+    "advocacy_programs": [
+        {
+            "program_id": "19bfbd9a-4843-47d5-a3da-7ac9b8b634b9",
+            "brand": "Prosacco Group",
+            "tasks_completed": [
+                {
+                    "task_id": "0bb4da72-d146-4496-bc62-67797c5a5fcf",
+                    "platform": "Instagram",
+                    "post_url": "https://unripe-dish.name",
+                    "likes": 379,
+                    "comments": 44,
+                    "shares": 56,
+                    "reach": 5600
+                }
+            ],
+            "total_sales_attributed": 2292.564320645943
+        }
+    ]
+}

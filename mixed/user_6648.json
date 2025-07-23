@@ -1,0 +1,26 @@
+{
+    "user_id": "04b9caa8-a8fb-4292-83ef-4c84d82a07ec",
+    "name": "Gregory Ullrich",
+    "email": "Alexis.Krajcik32@hotmail.com",
+    "instagram_handle": "@Ardella_Renner-Kassulke7",
+    "tiktok_handle": "@Braulio42",
+    "joined_at": "2024-07-18T18:42:35.140Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9f8b8a0b-3b63-4adf-be86-345a520ae759",
+            "brand": "Rice, Johnson and Satterfield",
+            "tasks_completed": [
+                {
+                    "task_id": "c32feeb4-233d-40de-ba79-76fd4c768a99",
+                    "platform": "Instagram",
+                    "post_url": "https://turbulent-bog.info",
+                    "likes": 418,
+                    "comments": 25,
+                    "shares": 98,
+                    "reach": 4757
+                }
+            ],
+            "total_sales_attributed": 2726.642500047212
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "01b66a36-1be1-4a06-acdf-42bb46f17f42",
+    "name": "Estelle O'Connell",
+    "email": "Korey.Hayes32@hotmail.com",
+    "instagram_handle": "@Angelina58",
+    "tiktok_handle": "@Jacey_Schowalter",
+    "joined_at": "2024-08-02T00:05:36.553Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2ee7a4b9-f3c1-4922-86c6-bf5376be3803",
+            "brand": "Franey - Lakin",
+            "tasks_completed": [
+                {
+                    "task_id": "6daff094-a63a-42d5-9bf1-87ae20630d14",
+                    "platform": "TikTok",
+                    "post_url": "https://bare-electronics.com",
+                    "likes": 499,
+                    "comments": 24,
+                    "shares": 41,
+                    "reach": 8573
+                }
+            ],
+            "total_sales_attributed": 1079.586117252218
+        }
+    ]
+}

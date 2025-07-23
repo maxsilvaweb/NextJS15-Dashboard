@@ -1,0 +1,26 @@
+{
+    "user_id": "7db07e83-d025-45dd-a5e3-c2ab5bbb3eb3",
+    "name": "Samantha Ritchie",
+    "email": "Mathias.Wyman39@gmail.com",
+    "instagram_handle": "@Iliana_Dicki",
+    "tiktok_handle": "@Giuseppe_DAmore",
+    "joined_at": "2024-06-17T02:40:35.131Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6c459c4f-25e5-4139-9a34-9a6aebfdbd22",
+            "brand": "Ward - Collins",
+            "tasks_completed": [
+                {
+                    "task_id": "35a7406f-272f-4163-9eaf-c1cf45075d80",
+                    "platform": "Instagram",
+                    "post_url": "https://spiteful-hawk.com",
+                    "likes": 176,
+                    "comments": 9,
+                    "shares": 27,
+                    "reach": 3510
+                }
+            ],
+            "total_sales_attributed": 1264.6154070349253
+        }
+    ]
+}

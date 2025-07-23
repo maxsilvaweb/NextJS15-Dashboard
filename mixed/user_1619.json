@@ -1,0 +1,26 @@
+{
+    "user_id": "f7c10512-469c-4b8f-8d5f-13d0d200b393",
+    "name": "Samuel Collier",
+    "email": "Verlie.Haag@hotmail.com",
+    "instagram_handle": "@Augustine_Ryan-Franecki",
+    "tiktok_handle": "@Maida.Bergstrom21",
+    "joined_at": "2024-08-21T05:00:58.076Z",
+    "advocacy_programs": [
+        {
+            "program_id": "02f7f567-6493-4bc8-868d-f11210c87237",
+            "brand": "Sanford LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a7f27a35-2145-419b-b4d3-4e30463e6a60",
+                    "platform": "TikTok",
+                    "post_url": "https://practical-handful.com/",
+                    "likes": 258,
+                    "comments": 22,
+                    "shares": 92,
+                    "reach": 9284
+                }
+            ],
+            "total_sales_attributed": 4357.896787082941
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "de26998d-1c5e-4cad-b5d1-5c36ff8e6f08",
+    "name": "Mable Klocko-Dicki",
+    "email": "Clement.Stanton82@gmail.com",
+    "instagram_handle": "@Adela_Klein",
+    "tiktok_handle": "@Raven.Denesik",
+    "joined_at": "2024-10-01T12:54:36.742Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b14b38a3-6339-418a-a394-01b80979fda7",
+            "brand": "Brown, Krajcik and Keebler",
+            "tasks_completed": [
+                {
+                    "task_id": "6d0f0044-187e-4de5-b5f7-26aa0a89aadf",
+                    "platform": "TikTok",
+                    "post_url": "https://short-term-partridge.com",
+                    "likes": 323,
+                    "comments": 32,
+                    "shares": 60,
+                    "reach": 7475
+                }
+            ],
+            "total_sales_attributed": 2564.0016601779084
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "004f7980-bd15-4364-958f-9e765d90b6a0",
+    "name": "Dewey Brekke",
+    "email": "Deven88@hotmail.com",
+    "instagram_handle": "@Samir_Ryan81",
+    "tiktok_handle": "@Korey5",
+    "joined_at": "2024-09-06T17:18:48.213Z",
+    "advocacy_programs": [
+        {
+            "program_id": "df611fe8-8aa3-4ed2-b44a-47c6c8c6077b",
+            "brand": "Feeney and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "e2a1651c-4965-437d-9e57-3c0f29d63d28",
+                    "platform": "TikTok",
+                    "post_url": "https://specific-fat.org",
+                    "likes": 337,
+                    "comments": 46,
+                    "shares": 4,
+                    "reach": 5051
+                }
+            ],
+            "total_sales_attributed": 1549.7894780311844
+        }
+    ]
+}

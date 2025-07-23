@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Lilla78",
+    "tiktok_handle": "@Rhoda.OKon2",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "19bf2b4b-0009-44c6-a121-6bb7f9721ac1",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 79,
+                    "reach": 9899
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

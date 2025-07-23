@@ -1,0 +1,26 @@
+{
+    "user_id": "79f136bc-5187-4096-aa29-76c921f149ce",
+    "name": "Bradley Douglas",
+    "email": "Pierre.MacGyver@hotmail.com",
+    "instagram_handle": "@Chris_Gleichner68",
+    "tiktok_handle": "@Irwin.Bailey",
+    "joined_at": "2024-03-24T03:33:57.649Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4a1e99bb-8eb2-4de9-9867-845ebb54e31d",
+            "brand": "Funk, Schmidt and Maggio",
+            "tasks_completed": [
+                {
+                    "task_id": "c9e373da-7215-4b8b-90d1-edb731c871e3",
+                    "platform": "TikTok",
+                    "post_url": "https://frequent-subexpression.org",
+                    "likes": 142,
+                    "comments": 17,
+                    "shares": 45,
+                    "reach": 9929
+                }
+            ],
+            "total_sales_attributed": 4079.7432600422535
+        }
+    ]
+}

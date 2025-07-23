@@ -1,0 +1,26 @@
+{
+    "user_id": "27b3debc-d793-4ecd-be82-4543b05a9bb1",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://meager-minion.net/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 89,
+                    "reach": 2976
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

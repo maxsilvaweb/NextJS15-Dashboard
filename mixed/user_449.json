@@ -1,0 +1,26 @@
+{
+    "user_id": "d6a086ee-44db-4c63-8721-1c468795f380",
+    "name": "Gina Botsford Jr.",
+    "email": "Hugh95@hotmail.com",
+    "instagram_handle": "@Jared.McDermott44",
+    "tiktok_handle": "@Jaida91",
+    "joined_at": "2024-09-19T22:30:47.550Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1b59904b-5ab3-4d4b-b266-6e9198d8b854",
+            "brand": "Goyette Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "4869c9dc-6e09-402f-b417-fa9a7f62c0f8",
+                    "platform": "Instagram",
+                    "post_url": "https://shoddy-verve.com",
+                    "likes": 218,
+                    "comments": 34,
+                    "shares": 43,
+                    "reach": 4500
+                }
+            ],
+            "total_sales_attributed": 4967.097288109748
+        }
+    ]
+}

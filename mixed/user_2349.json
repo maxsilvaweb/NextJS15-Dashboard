@@ -1,0 +1,26 @@
+{
+    "user_id": "842d46f3-f353-4fb7-a190-b6eeda6cd7b6",
+    "name": "Michele Kreiger II",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 83,
+                    "reach": 5988
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

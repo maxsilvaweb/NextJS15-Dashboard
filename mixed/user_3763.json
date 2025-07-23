@@ -1,0 +1,26 @@
+{
+    "user_id": "1f91103b-d926-43d8-a26d-3b2514b7ed46",
+    "name": "Chris Larson",
+    "email": "Marlene.Kub4@yahoo.com",
+    "instagram_handle": "@Esmeralda.Raynor",
+    "tiktok_handle": "@Karen97",
+    "joined_at": "2024-04-14T09:46:46.381Z",
+    "advocacy_programs": [
+        {
+            "program_id": "da6bb797-2198-4d14-ac20-fd4814d75729",
+            "brand": "Cummerata - Lesch",
+            "tasks_completed": [
+                {
+                    "task_id": "cc28b48e-c23f-4c93-b4f9-21d924626ca6",
+                    "platform": "Instagram",
+                    "post_url": "https://buzzing-cardboard.info/",
+                    "likes": 393,
+                    "comments": 6,
+                    "shares": 91,
+                    "reach": 2717
+                }
+            ],
+            "total_sales_attributed": 597.0839651791271
+        }
+    ]
+}

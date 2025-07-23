@@ -1,0 +1,26 @@
+{
+    "user_id": "8be3a609-ae35-4a9f-8408-b7a5bea7243d",
+    "name": "Katie Shields",
+    "email": "Clemmie19@yahoo.com",
+    "instagram_handle": "@Lacy.Balistreri59",
+    "tiktok_handle": "@Noe.Hodkiewicz83",
+    "joined_at": "2024-05-09T10:53:28.773Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b8e968ac-8ab4-4a21-806a-ed6b8c3b317d",
+            "brand": "Davis and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "336a4f94-30b6-43cc-9727-2a51429e4b71",
+                    "platform": "Instagram",
+                    "post_url": "https://scaly-monster.org",
+                    "likes": 401,
+                    "comments": 36,
+                    "shares": 57,
+                    "reach": 9019
+                }
+            ],
+            "total_sales_attributed": 785.5046979218431
+        }
+    ]
+}

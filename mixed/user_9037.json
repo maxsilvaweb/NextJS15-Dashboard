@@ -1,0 +1,26 @@
+{
+    "user_id": "f9d4031a-0cb3-47e5-9d1a-539b9a44b7f7",
+    "name": "Mr. Jody Boehm",
+    "email": "Hudson30@gmail.com",
+    "instagram_handle": "@Orville_Treutel14",
+    "tiktok_handle": "@Ernestina_Purdy88",
+    "joined_at": "2024-10-09T10:46:22.439Z",
+    "advocacy_programs": [
+        {
+            "program_id": "48135feb-398e-41c1-ab73-57f031c6e7db",
+            "brand": "Batz - Yundt",
+            "tasks_completed": [
+                {
+                    "task_id": "1ae06d89-cc52-4fce-9a24-b4f70b3907e8",
+                    "platform": "Instagram",
+                    "post_url": "https://flowery-yogurt.org/",
+                    "likes": 316,
+                    "comments": 1,
+                    "shares": 84,
+                    "reach": 3058
+                }
+            ],
+            "total_sales_attributed": 4203.888027361149
+        }
+    ]
+}

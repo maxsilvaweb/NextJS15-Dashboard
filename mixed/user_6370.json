@@ -1,0 +1,26 @@
+{
+    "user_id": "b306cb3d-0909-499c-a4f3-d5d609c77b60",
+    "name": "Jesse Grady",
+    "email": "Kevon56@yahoo.com",
+    "instagram_handle": "@Jasen_Nitzsche",
+    "tiktok_handle": "@Bryon.Bradtke25",
+    "joined_at": "2024-05-09T06:29:02.448Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0a4088a6-36e6-4fc5-90ff-eba6145ce447",
+            "brand": "Shanahan - Beer",
+            "tasks_completed": [
+                {
+                    "task_id": "f76c1909-80fa-4348-bb78-742f5974e96b",
+                    "platform": "Instagram",
+                    "post_url": "https://concrete-experience.com/",
+                    "likes": 74,
+                    "comments": 46,
+                    "shares": 20,
+                    "reach": 6707
+                }
+            ],
+            "total_sales_attributed": 588.7779154504938
+        }
+    ]
+}

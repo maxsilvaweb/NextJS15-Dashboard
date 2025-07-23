@@ -1,0 +1,26 @@
+{
+    "user_id": "ec751da6-61e8-4e78-97bf-0f6b5e7b9577",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://wide-precedent.org/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 82,
+                    "reach": 687
+                }
+            ],
+            "total_sales_attributed": 576.8687656930714
+        }
+    ]
+}

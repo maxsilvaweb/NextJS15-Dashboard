@@ -1,0 +1,26 @@
+{
+    "user_id": "d89e016d-768c-42e6-8114-7c3343bddece",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Thora.Russel80",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 47,
+                    "shares": 14,
+                    "reach": 8345
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

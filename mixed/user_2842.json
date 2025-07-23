@@ -1,0 +1,26 @@
+{
+    "user_id": "19d4da65-2f17-4fdc-a1f5-b7d9386e13f5",
+    "name": "Corey Schoen DDS",
+    "email": "Isobel.Hamill2@gmail.com",
+    "instagram_handle": "@Drew.Hansen6",
+    "tiktok_handle": "@Reanna_Walker90",
+    "joined_at": "2024-05-18T20:52:12.332Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3ce9cca3-3622-455a-8f8e-20b9b8f7815b",
+            "brand": "Ziemann, Johns and Franey",
+            "tasks_completed": [
+                {
+                    "task_id": "a3c9da7a-28f9-45f6-b117-1467b4c11cb8",
+                    "platform": "Instagram",
+                    "post_url": "https://serpentine-dish.org",
+                    "likes": 146,
+                    "comments": 24,
+                    "shares": 8,
+                    "reach": 9255
+                }
+            ],
+            "total_sales_attributed": 4307.153694886314
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "288d64a7-9edf-407f-925b-b45bd6d27c26",
+    "name": "Elisa Will",
+    "email": "Okey.Kling6@yahoo.com",
+    "instagram_handle": "@Olin.Reilly45",
+    "tiktok_handle": "@Lawson19",
+    "joined_at": "2024-04-27T00:50:53.479Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8abe7969-fc5c-4fc3-ab21-6965d3b1e781",
+            "brand": "Mraz Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "7d3657d5-9aba-475c-a158-33126fc106d4",
+                    "platform": "TikTok",
+                    "post_url": "https://salty-substitution.name",
+                    "likes": 125,
+                    "comments": 28,
+                    "shares": 13,
+                    "reach": 6676
+                }
+            ],
+            "total_sales_attributed": 2947.1145200810356
+        }
+    ]
+}

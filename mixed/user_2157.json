@@ -1,0 +1,26 @@
+{
+    "user_id": "85d8edd1-ef16-4833-acae-1bdc7697ea9e",
+    "name": "Shaun Feil",
+    "email": "Gerald40@gmail.com",
+    "instagram_handle": "@Leola.Buckridge",
+    "tiktok_handle": "@Erich.Okuneva72",
+    "joined_at": "2025-01-06T10:25:46.009Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c6667057-6645-4488-9497-23e8d431f31d",
+            "brand": "Feeney Group",
+            "tasks_completed": [
+                {
+                    "task_id": "8aadf211-c5e6-4afa-b376-ac97943d03c5",
+                    "platform": "TikTok",
+                    "post_url": "https://miserable-marten.name/",
+                    "likes": 208,
+                    "comments": 18,
+                    "shares": 8,
+                    "reach": 9888
+                }
+            ],
+            "total_sales_attributed": 857.9703109023557
+        }
+    ]
+}

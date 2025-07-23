@@ -1,0 +1,26 @@
+{
+    "user_id": "8e7cc838-d4c4-4ad3-9f4f-64800095f6a4",
+    "name": "Melinda Emmerich",
+    "email": "Ole_Balistreri@yahoo.com",
+    "instagram_handle": "@Celine82",
+    "tiktok_handle": "@Armani.Franecki60",
+    "joined_at": "2024-08-27T22:54:05.449Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3eb05699-f51e-4bea-9169-86a975c35de2",
+            "brand": "Kerluke - Feest",
+            "tasks_completed": [
+                {
+                    "task_id": "67fbbd31-6cbc-4d68-a94b-e4819f1b22db",
+                    "platform": "Instagram",
+                    "post_url": "https://questionable-secrecy.info/",
+                    "likes": 78,
+                    "comments": 32,
+                    "shares": 28,
+                    "reach": 8847
+                }
+            ],
+            "total_sales_attributed": 1193.2974877680574
+        }
+    ]
+}

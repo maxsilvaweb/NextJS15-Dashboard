@@ -1,0 +1,26 @@
+{
+    "user_id": "13cf89f2-0d7c-47d1-bc51-625e4ad45691",
+    "name": "???",
+    "email": "Donnie38@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "bd246d19-2db0-472c-acfe-b30b9a0ae4f0",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 7,
+                    "shares": 73,
+                    "reach": 1826
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e28fe3bc-54db-44f2-a957-fab9291670a7",
+    "name": "Karl Boyle",
+    "email": "Eva35@yahoo.com",
+    "instagram_handle": "@Augustine_Keebler",
+    "tiktok_handle": "@Paris_Bartoletti",
+    "joined_at": "2024-05-18T17:55:23.323Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6944f8f8-1449-46bb-9fc9-e79e2e991091",
+            "brand": "Schuppe LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ade83631-1761-42cc-b8e4-b4f905f92fe2",
+                    "platform": "Instagram",
+                    "post_url": "https://clumsy-legging.org",
+                    "likes": 232,
+                    "comments": 6,
+                    "shares": 45,
+                    "reach": 874
+                }
+            ],
+            "total_sales_attributed": 3078.5066250362984
+        }
+    ]
+}

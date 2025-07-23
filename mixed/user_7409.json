@@ -1,0 +1,26 @@
+{
+    "user_id": "9d649e5f-e751-44cc-921f-3e5d47b0dd7a",
+    "name": "???",
+    "email": "Elisha88@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Hilpert - Schowalter",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 36,
+                    "shares": 8,
+                    "reach": 5453
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

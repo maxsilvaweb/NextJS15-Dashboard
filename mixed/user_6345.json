@@ -1,0 +1,26 @@
+{
+    "user_id": "b98c41a0-8666-4a92-8713-a39d2bdaa64c",
+    "name": "Anita Gleason",
+    "email": "Manuela.Swaniawski@gmail.com",
+    "instagram_handle": "@Ian.Greenfelder",
+    "tiktok_handle": "@Milo_Douglas",
+    "joined_at": "2025-01-15T15:35:50.005Z",
+    "advocacy_programs": [
+        {
+            "program_id": "362e3443-e99c-4544-af98-85118eb2f079",
+            "brand": "Dach - Casper",
+            "tasks_completed": [
+                {
+                    "task_id": "9b34ecfc-313f-4881-bc05-f16d28e19e92",
+                    "platform": "TikTok",
+                    "post_url": "https://pleasant-packaging.info",
+                    "likes": 297,
+                    "comments": 40,
+                    "shares": 93,
+                    "reach": 9130
+                }
+            ],
+            "total_sales_attributed": 213.2040982139803
+        }
+    ]
+}

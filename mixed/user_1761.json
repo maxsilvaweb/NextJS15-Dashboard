@@ -1,0 +1,26 @@
+{
+    "user_id": "009bbcb7-f018-42ce-b7f0-e853536205b1",
+    "name": "Sheila Robel",
+    "email": "Mariano15@yahoo.com",
+    "instagram_handle": "@Akeem70",
+    "tiktok_handle": "@Denis_OConnell65",
+    "joined_at": "2024-10-12T22:06:59.387Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ea765b69-5f89-46a3-9e7b-3e475480eff5",
+            "brand": "Dickinson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "133bba05-533c-45d1-b2d7-9989de9a8e68",
+                    "platform": "TikTok",
+                    "post_url": "https://biodegradable-strait.info",
+                    "likes": 432,
+                    "comments": 10,
+                    "shares": 36,
+                    "reach": 7682
+                }
+            ],
+            "total_sales_attributed": 1748.6254810358962
+        }
+    ]
+}

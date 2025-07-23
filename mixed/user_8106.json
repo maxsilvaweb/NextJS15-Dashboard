@@ -1,0 +1,26 @@
+{
+    "user_id": "1288a03d-21d8-40c4-b892-888c01eb6c1e",
+    "name": "Mona Predovic",
+    "email": "Maeve_Schowalter@hotmail.com",
+    "instagram_handle": "@Geo_Veum29",
+    "tiktok_handle": "@Jalyn_McKenzie26",
+    "joined_at": "2025-02-17T14:23:46.393Z",
+    "advocacy_programs": [
+        {
+            "program_id": "94ec2687-0482-4e6e-a989-49f50b063b32",
+            "brand": "Ryan, Oberbrunner and Christiansen",
+            "tasks_completed": [
+                {
+                    "task_id": "df20ecd1-fc60-4589-a12d-af9c846cb76e",
+                    "platform": "TikTok",
+                    "post_url": "https://oval-status.name/",
+                    "likes": 29,
+                    "comments": 24,
+                    "shares": 53,
+                    "reach": 759
+                }
+            ],
+            "total_sales_attributed": 3356.5850754894013
+        }
+    ]
+}

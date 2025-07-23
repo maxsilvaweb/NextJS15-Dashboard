@@ -1,0 +1,26 @@
+{
+    "user_id": "591a4a0c-1109-4a0e-9fb8-550e84018267",
+    "name": "Gerard Feil",
+    "email": "Howard39@gmail.com",
+    "instagram_handle": "@Jaleel75",
+    "tiktok_handle": "@Nash84",
+    "joined_at": "2024-08-03T07:44:46.310Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0d9e2be2-ab16-49cd-a72c-9ef228ce560f",
+            "brand": "Mosciski - Wisozk",
+            "tasks_completed": [
+                {
+                    "task_id": "b3cb0b19-b211-4d2a-8cbd-4e8e1bac1b14",
+                    "platform": "Instagram",
+                    "post_url": "https://husky-beret.biz/",
+                    "likes": 452,
+                    "comments": 13,
+                    "shares": 26,
+                    "reach": 7791
+                }
+            ],
+            "total_sales_attributed": 4617.660016813803
+        }
+    ]
+}

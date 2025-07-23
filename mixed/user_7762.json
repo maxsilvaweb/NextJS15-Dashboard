@@ -1,0 +1,25 @@
+{
+    "user_id": "f66f35e3-c2a6-4dad-b8c7-798f2e6819ca",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Percival_Bednar",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "97afa5a4-fcc0-4237-b78e-14b338bdbf66",
+                    "platform": "Facebook",
+                    "post_url": "https://whimsical-milestone.com/",
+                    "likes": "NaN",
+                    "comments": 12,
+                    "shares": 25,
+                    "reach": 753
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

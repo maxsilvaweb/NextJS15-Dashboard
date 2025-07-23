@@ -1,0 +1,26 @@
+{
+    "user_id": "ba4b5208-ce3a-435d-b77b-4391daa3d094",
+    "name": "Estelle Carter",
+    "email": "Murl.Haag@yahoo.com",
+    "instagram_handle": "@Maxime96",
+    "tiktok_handle": "@Rollin_Lemke59",
+    "joined_at": "2024-08-14T21:54:35.465Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5fcac640-3477-48d4-a601-102ec6c6f228",
+            "brand": "Rath - Ullrich",
+            "tasks_completed": [
+                {
+                    "task_id": "b3642c99-92bf-4b5f-9a92-593cd84b9830",
+                    "platform": "Instagram",
+                    "post_url": "https://unkempt-scorpion.biz/",
+                    "likes": 208,
+                    "comments": 30,
+                    "shares": 48,
+                    "reach": 4521
+                }
+            ],
+            "total_sales_attributed": 3076.8702067808304
+        }
+    ]
+}

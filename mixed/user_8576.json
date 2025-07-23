@@ -1,0 +1,26 @@
+{
+    "user_id": "728831ad-c909-4358-969c-ff8176cd1f94",
+    "name": "Faith O'Hara",
+    "email": "Winfield.Blick@yahoo.com",
+    "instagram_handle": "@Golden.Stokes",
+    "tiktok_handle": "@King.Stracke",
+    "joined_at": "2024-09-04T23:45:22.748Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1db25a38-cb25-479f-94ab-27603776cd90",
+            "brand": "Pouros - Pacocha",
+            "tasks_completed": [
+                {
+                    "task_id": "e5b5e44d-e0ec-44a0-985b-ef5b8fe53fac",
+                    "platform": "Instagram",
+                    "post_url": "https://powerful-chap.biz/",
+                    "likes": 273,
+                    "comments": 14,
+                    "shares": 100,
+                    "reach": 6605
+                }
+            ],
+            "total_sales_attributed": 1023.8333993439768
+        }
+    ]
+}

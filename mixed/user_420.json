@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Glenn Rice",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "afefec07-761e-45e5-99b9-9267899b4e30",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 74,
+                    "reach": 2637
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

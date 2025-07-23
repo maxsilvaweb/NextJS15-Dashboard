@@ -1,0 +1,26 @@
+{
+    "user_id": "16e58a3f-7348-4a23-8630-1a6f84de0a31",
+    "name": "Ricardo Orn",
+    "email": "Richie86@gmail.com",
+    "instagram_handle": "@Tracey.Mayert",
+    "tiktok_handle": "@Garnet.Berge-Sawayn10",
+    "joined_at": "2024-10-15T16:26:56.611Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bd975c77-8a41-4cc5-8c57-adbac51d3c4b",
+            "brand": "Christiansen LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "b21d0653-4257-42c2-867a-c72ebf2a396d",
+                    "platform": "TikTok",
+                    "post_url": "https://ignorant-gymnast.com/",
+                    "likes": 473,
+                    "comments": 22,
+                    "shares": 10,
+                    "reach": 641
+                }
+            ],
+            "total_sales_attributed": 133.33898886658238
+        }
+    ]
+}

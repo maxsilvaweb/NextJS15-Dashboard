@@ -1,0 +1,26 @@
+{
+    "user_id": "cde4cecc-f7eb-44ca-9f11-5369ecb7828b",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Irma_Hettinger79",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://gigantic-alliance.org",
+                    "likes": "NaN",
+                    "comments": 44,
+                    "shares": 23,
+                    "reach": 9244
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

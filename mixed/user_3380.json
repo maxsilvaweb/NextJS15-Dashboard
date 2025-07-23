@@ -1,0 +1,26 @@
+{
+    "user_id": "ac17c874-2df7-4689-b9d4-ffee3b3921e3",
+    "name": "Dominic Daugherty",
+    "email": "Jace6@hotmail.com",
+    "instagram_handle": "@Alvis.Dare",
+    "tiktok_handle": "@Hassan_Kuhic54",
+    "joined_at": "2025-02-14T15:51:29.305Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0671ef65-aaf8-40fb-b2f7-97edbbfef25b",
+            "brand": "Hills - Bogisich",
+            "tasks_completed": [
+                {
+                    "task_id": "5235e581-70b7-4c56-ae4c-51a30b39ab08",
+                    "platform": "Instagram",
+                    "post_url": "https://lost-forgery.name",
+                    "likes": 126,
+                    "comments": 39,
+                    "shares": 86,
+                    "reach": 9010
+                }
+            ],
+            "total_sales_attributed": 1768.6331198973967
+        }
+    ]
+}

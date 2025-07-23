@@ -1,0 +1,26 @@
+{
+    "user_id": "e42f391b-b561-4337-8c58-805e9ee18951",
+    "name": "Marcus Grady",
+    "email": "Jaron25@hotmail.com",
+    "instagram_handle": "@Hiram.Pagac91",
+    "tiktok_handle": "@Aileen_Hermiston78",
+    "joined_at": "2024-06-24T01:46:12.754Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f8c0882d-4682-436e-a69c-ea20b2254cc2",
+            "brand": "Lang - Borer",
+            "tasks_completed": [
+                {
+                    "task_id": "e4c52390-09c4-41b5-ad79-625381cd861c",
+                    "platform": "Instagram",
+                    "post_url": "https://monumental-sediment.biz",
+                    "likes": 240,
+                    "comments": 39,
+                    "shares": 17,
+                    "reach": 2718
+                }
+            ],
+            "total_sales_attributed": 2376.2267687053923
+        }
+    ]
+}

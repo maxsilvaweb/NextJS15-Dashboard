@@ -1,0 +1,26 @@
+{
+    "user_id": "951416cd-4f48-4a88-b88b-e318a4d27399",
+    "name": "???",
+    "email": "Leone_Kihn@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "D'Amore, Herman and Weber",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 439,
+                    "comments": 40,
+                    "shares": 90,
+                    "reach": 5052
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

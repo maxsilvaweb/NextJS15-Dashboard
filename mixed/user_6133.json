@@ -1,0 +1,26 @@
+{
+    "user_id": "4c421499-e685-4807-ac69-97a47a3c4b1b",
+    "name": "Lillian Bogan",
+    "email": "Erna.Russel96@hotmail.com",
+    "instagram_handle": "@Bailey.Nikolaus48",
+    "tiktok_handle": "@Enid_Harris15",
+    "joined_at": "2025-02-18T23:23:30.577Z",
+    "advocacy_programs": [
+        {
+            "program_id": "57b344f8-3c94-464a-bcd3-ddd5b30e594b",
+            "brand": "Stoltenberg and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "8fb34cc5-79de-406e-b037-98f78cc257dd",
+                    "platform": "Instagram",
+                    "post_url": "https://vain-platypus.com/",
+                    "likes": 277,
+                    "comments": 38,
+                    "shares": 4,
+                    "reach": 6392
+                }
+            ],
+            "total_sales_attributed": 1225.1240710222135
+        }
+    ]
+}

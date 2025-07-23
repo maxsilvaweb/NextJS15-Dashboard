@@ -1,0 +1,26 @@
+{
+    "user_id": "9f5b6f42-e2d1-46a0-875c-df08f0841a22",
+    "name": "Benny Rippin",
+    "email": "Jarred_Jenkins@hotmail.com",
+    "instagram_handle": "@Berniece82",
+    "tiktok_handle": "@Beth33",
+    "joined_at": "2024-12-20T08:23:03.179Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9a22c551-3cbd-405c-98f2-65355b715a1d",
+            "brand": "Stroman Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "95a1af73-ee1b-472a-87e8-8c09b76c0ae8",
+                    "platform": "TikTok",
+                    "post_url": "https://suburban-velocity.net",
+                    "likes": 109,
+                    "comments": 18,
+                    "shares": 89,
+                    "reach": 9024
+                }
+            ],
+            "total_sales_attributed": 1387.0583626031168
+        }
+    ]
+}

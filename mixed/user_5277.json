@@ -1,0 +1,26 @@
+{
+    "user_id": "2463784d-47d3-42c5-b17e-406f9ab3dcff",
+    "name": "Doug Turner",
+    "email": "Delta_Olson92@yahoo.com",
+    "instagram_handle": "@Roscoe.Maggio",
+    "tiktok_handle": "@Jackie_Weimann99",
+    "joined_at": "2024-04-13T09:57:09.136Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a32629cb-8c7e-4aec-ade4-ab2ca36ed497",
+            "brand": "O'Keefe - Roberts",
+            "tasks_completed": [
+                {
+                    "task_id": "4b705169-8aad-43fa-b571-27200fa87ffe",
+                    "platform": "Instagram",
+                    "post_url": "https://silent-testing.com/",
+                    "likes": 162,
+                    "comments": 7,
+                    "shares": 98,
+                    "reach": 6996
+                }
+            ],
+            "total_sales_attributed": 248.54315044589293
+        }
+    ]
+}

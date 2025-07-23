@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Kaylie62@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "03dbd4cf-3dcb-432d-a853-416e2c2e562f",
+                    "platform": 123,
+                    "post_url": "https://odd-label.info/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 37,
+                    "reach": 4474
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

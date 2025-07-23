@@ -1,0 +1,26 @@
+{
+    "user_id": "27a7d6c9-f588-43fc-bd52-cd7c2eca442a",
+    "name": "Abel Haag",
+    "email": "Thelma_Nolan84@gmail.com",
+    "instagram_handle": "@Zetta85",
+    "tiktok_handle": "@Wilburn85",
+    "joined_at": "2024-11-09T18:03:39.768Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3d52391c-fb61-4e98-9c2a-c8489fffd3ec",
+            "brand": "Stamm, Fahey and McDermott",
+            "tasks_completed": [
+                {
+                    "task_id": "47164338-3711-4d27-9e15-c9f4af69d3b4",
+                    "platform": "Instagram",
+                    "post_url": "https://cuddly-flame.name/",
+                    "likes": 51,
+                    "comments": 28,
+                    "shares": 38,
+                    "reach": 1536
+                }
+            ],
+            "total_sales_attributed": 3792.3386757011126
+        }
+    ]
+}

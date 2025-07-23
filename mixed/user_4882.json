@@ -1,0 +1,26 @@
+{
+    "user_id": "bc4ad4a0-805a-4c1d-b6cb-bf297754f7e8",
+    "name": "???",
+    "email": "Devyn.Shanahan95@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 42,
+                    "shares": 50,
+                    "reach": 5056
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

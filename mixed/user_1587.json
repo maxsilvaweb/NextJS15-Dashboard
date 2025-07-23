@@ -1,0 +1,26 @@
+{
+    "user_id": "f63fe486-69da-4d6b-94ce-a254333d7e99",
+    "name": "Jay Schneider",
+    "email": "Carroll.Cronin@yahoo.com",
+    "instagram_handle": "@Estel.Pfannerstill",
+    "tiktok_handle": "@Duane_Hodkiewicz80",
+    "joined_at": "2025-02-26T02:32:04.366Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7e780ce5-bdbd-480b-bee4-ac30e5e477c5",
+            "brand": "Graham, Goyette and Lemke",
+            "tasks_completed": [
+                {
+                    "task_id": "254d727c-da5b-427e-b87a-5b8a1f1f8d5b",
+                    "platform": "TikTok",
+                    "post_url": "https://bogus-requirement.biz/",
+                    "likes": 495,
+                    "comments": 30,
+                    "shares": 14,
+                    "reach": 6468
+                }
+            ],
+            "total_sales_attributed": 4323.41188125721
+        }
+    ]
+}

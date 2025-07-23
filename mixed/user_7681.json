@@ -1,0 +1,26 @@
+{
+    "user_id": "72a6680f-c926-4d40-a211-f5d19474baa4",
+    "name": "Miss Gail Cruickshank",
+    "email": "Elmira_Littel@hotmail.com",
+    "instagram_handle": "@Kailyn5",
+    "tiktok_handle": "@Jayce_Hartmann7",
+    "joined_at": "2024-11-11T19:48:24.932Z",
+    "advocacy_programs": [
+        {
+            "program_id": "440e71d5-44bc-4e92-b313-aa928c7fc85f",
+            "brand": "Stroman Group",
+            "tasks_completed": [
+                {
+                    "task_id": "bcf35100-7385-4962-8f31-cd5b0df74931",
+                    "platform": "TikTok",
+                    "post_url": "https://mad-meadow.net",
+                    "likes": 137,
+                    "comments": 23,
+                    "shares": 1,
+                    "reach": 6378
+                }
+            ],
+            "total_sales_attributed": 3559.1285511139913
+        }
+    ]
+}

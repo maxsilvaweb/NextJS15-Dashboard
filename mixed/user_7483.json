@@ -1,0 +1,26 @@
+{
+    "user_id": "3de6c66c-8d03-4d3d-8fda-8e12f23a9751",
+    "name": "Dewey Howe",
+    "email": "Cleora_Stracke7@gmail.com",
+    "instagram_handle": "@Braulio_Green",
+    "tiktok_handle": "@Virgie23",
+    "joined_at": "2025-02-25T17:54:50.755Z",
+    "advocacy_programs": [
+        {
+            "program_id": "52ca4db3-24d9-4274-b2aa-9cadecd6b9e3",
+            "brand": "Parisian - Zieme",
+            "tasks_completed": [
+                {
+                    "task_id": "b33b675f-56fa-4977-ab21-7bc9850dcbf9",
+                    "platform": "TikTok",
+                    "post_url": "https://damaged-yogurt.net/",
+                    "likes": 251,
+                    "comments": 31,
+                    "shares": 28,
+                    "reach": 1388
+                }
+            ],
+            "total_sales_attributed": 582.7093925203901
+        }
+    ]
+}

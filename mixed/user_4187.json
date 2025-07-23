@@ -1,0 +1,26 @@
+{
+    "user_id": "29ac57ff-9fcc-40da-bb00-62659669a1ef",
+    "name": "Ervin Mohr",
+    "email": "Muhammad.Langosh61@yahoo.com",
+    "instagram_handle": "@Kyra45",
+    "tiktok_handle": "@Alf.Brakus",
+    "joined_at": "2024-12-06T22:39:07.042Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f6eb55d9-bf2d-450d-b4d1-d7393916fea0",
+            "brand": "Conn, Howell and Boyle",
+            "tasks_completed": [
+                {
+                    "task_id": "fbd88f96-cc56-4a8d-9d27-5acfc619509d",
+                    "platform": "Instagram",
+                    "post_url": "https://orderly-stranger.org",
+                    "likes": 206,
+                    "comments": 36,
+                    "shares": 58,
+                    "reach": 9513
+                }
+            ],
+            "total_sales_attributed": 1362.6538455649745
+        }
+    ]
+}

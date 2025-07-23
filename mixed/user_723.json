@@ -1,0 +1,26 @@
+{
+    "user_id": "01735d9e-e553-4bd1-ba8d-ba4565d23153",
+    "name": "James Hills",
+    "email": "Krista_Jerde32@hotmail.com",
+    "instagram_handle": "@Domenica.Boyer-Mayert",
+    "tiktok_handle": "@Reece81",
+    "joined_at": "2024-10-12T02:33:16.349Z",
+    "advocacy_programs": [
+        {
+            "program_id": "46a4549b-bba0-4060-9672-0a8a7a4f3c46",
+            "brand": "Franey, Rogahn and Hilpert",
+            "tasks_completed": [
+                {
+                    "task_id": "e2f42e05-c03c-4f61-b0cb-4bbd6034eeef",
+                    "platform": "Instagram",
+                    "post_url": "https://magnificent-yeast.com/",
+                    "likes": 364,
+                    "comments": 21,
+                    "shares": 51,
+                    "reach": 6631
+                }
+            ],
+            "total_sales_attributed": 1259.6448744563047
+        }
+    ]
+}

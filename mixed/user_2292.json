@@ -1,0 +1,26 @@
+{
+    "user_id": "6bf5dffd-aae6-46cd-9bb7-28ff858dd538",
+    "name": "Jim Hoppe MD",
+    "email": "Jazmyn.Oberbrunner@hotmail.com",
+    "instagram_handle": "@Mikel55",
+    "tiktok_handle": "@Theresa.Murphy35",
+    "joined_at": "2024-11-15T15:39:23.501Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2f734e74-9c05-4135-b9a9-03f061057d76",
+            "brand": "Jacobs - Wuckert",
+            "tasks_completed": [
+                {
+                    "task_id": "6fc6767c-f2ee-4428-90f0-84fc84b7fe84",
+                    "platform": "Instagram",
+                    "post_url": "https://sizzling-festival.com/",
+                    "likes": 480,
+                    "comments": 24,
+                    "shares": 27,
+                    "reach": 2315
+                }
+            ],
+            "total_sales_attributed": 3947.406549710103
+        }
+    ]
+}

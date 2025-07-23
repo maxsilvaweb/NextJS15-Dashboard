@@ -1,0 +1,26 @@
+{
+    "user_id": "f3759af4-8819-4e09-8a35-93b56d2ed653",
+    "name": "Dr. Clayton Maggio Sr.",
+    "email": "Amelia.Gislason@hotmail.com",
+    "instagram_handle": "@Cooper_Hartmann26",
+    "tiktok_handle": "@Audreanne72",
+    "joined_at": "2024-07-26T20:20:18.558Z",
+    "advocacy_programs": [
+        {
+            "program_id": "873a414c-0685-42f4-bf37-fc8b8c377bda",
+            "brand": "Dibbert, Jakubowski and O'Keefe",
+            "tasks_completed": [
+                {
+                    "task_id": "0c585f75-1974-4911-adca-c6b53b7e37fd",
+                    "platform": "Instagram",
+                    "post_url": "https://courageous-soliloquy.biz/",
+                    "likes": 409,
+                    "comments": 17,
+                    "shares": 38,
+                    "reach": 897
+                }
+            ],
+            "total_sales_attributed": 2342.170257157072
+        }
+    ]
+}

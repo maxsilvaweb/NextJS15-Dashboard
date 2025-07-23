@@ -1,0 +1,26 @@
+{
+    "user_id": "ec6ae882-6586-49dc-a2ff-9c051e8603aa",
+    "name": "Dolores Little DVM",
+    "email": "Kira7@hotmail.com",
+    "instagram_handle": "@Oswaldo92",
+    "tiktok_handle": "@Ray_Herzog",
+    "joined_at": "2024-10-12T01:34:58.115Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4367f398-43ea-40e5-92de-a1561da9414a",
+            "brand": "Lowe LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "0f2d245b-40c0-4c4f-bd6b-ebd0141dbeca",
+                    "platform": "TikTok",
+                    "post_url": "https://roasted-flame.net",
+                    "likes": 205,
+                    "comments": 11,
+                    "shares": 86,
+                    "reach": 6202
+                }
+            ],
+            "total_sales_attributed": 918.7437382845351
+        }
+    ]
+}

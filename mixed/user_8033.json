@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Zachariah_Roob4",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "5ef7f3ae-22f2-4750-bde2-b335e6de20db",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "4a676a8e-0209-4baf-b650-699e7eb76258",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 35,
+                    "shares": 65,
+                    "reach": 7884
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "da7348f9-0bfe-4a8f-97f8-dba0a4c033c5",
+    "name": "???",
+    "email": "Reese_Douglas@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "5f3d6967-7532-4519-a756-aaf4068ca29a",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 9,
+                    "reach": 9255
+                }
+            ],
+            "total_sales_attributed": 3098.5786092571466
+        }
+    ]
+}

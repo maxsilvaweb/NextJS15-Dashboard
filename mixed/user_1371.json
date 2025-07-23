@@ -1,0 +1,26 @@
+{
+    "user_id": "da0e8895-c786-432e-addf-47e6462ff26c",
+    "name": "Cecelia Gutmann",
+    "email": "Durward_Dare18@hotmail.com",
+    "instagram_handle": "@Elena.Bergstrom11",
+    "tiktok_handle": "@Gerry_Huels",
+    "joined_at": "2024-06-24T03:20:39.542Z",
+    "advocacy_programs": [
+        {
+            "program_id": "32d6f143-0c94-44fe-971c-47211a8de70b",
+            "brand": "Weber, Spencer and Lang",
+            "tasks_completed": [
+                {
+                    "task_id": "fddf48e9-904b-4111-80f1-7c444d07a6aa",
+                    "platform": "Instagram",
+                    "post_url": "https://stupendous-farmer.biz",
+                    "likes": 38,
+                    "comments": 25,
+                    "shares": 82,
+                    "reach": 8153
+                }
+            ],
+            "total_sales_attributed": 4717.988048330232
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "93c2423a-ef56-4a69-a24c-3af2f30e5cb3",
+    "name": "Jeremiah Cole",
+    "email": "Loren.Ryan@hotmail.com",
+    "instagram_handle": "@Bridie.Kemmer",
+    "tiktok_handle": "@Kris94",
+    "joined_at": "2024-06-03T09:09:22.395Z",
+    "advocacy_programs": [
+        {
+            "program_id": "671ffc45-e476-4d00-8319-81fd965be1b1",
+            "brand": "Von, Waters and Wuckert",
+            "tasks_completed": [
+                {
+                    "task_id": "84df8314-158b-45c2-b958-178ee5deea06",
+                    "platform": "Instagram",
+                    "post_url": "https://trivial-tectonics.biz/",
+                    "likes": 136,
+                    "comments": 8,
+                    "shares": 21,
+                    "reach": 4004
+                }
+            ],
+            "total_sales_attributed": 2938.2423865202586
+        }
+    ]
+}

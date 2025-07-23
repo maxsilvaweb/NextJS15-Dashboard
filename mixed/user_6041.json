@@ -1,0 +1,26 @@
+{
+    "user_id": "54a7a68b-2b9b-4524-a477-b0256a19a520",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Constance28",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "4a4ddd33-28b7-4638-a504-60ca0e5f9999",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 66,
+                    "reach": 2115
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

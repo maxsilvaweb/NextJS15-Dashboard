@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "77596223-cca4-404b-9a3e-eb729208e931",
+            "brand": "Goldner, Watsica and Satterfield",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 3,
+                    "reach": 5377
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

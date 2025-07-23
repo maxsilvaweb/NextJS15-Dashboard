@@ -1,0 +1,26 @@
+{
+    "user_id": "17a0e48f-6465-479d-a9f7-3d5a6033affd",
+    "name": "Eileen Sauer",
+    "email": "Tessie68@yahoo.com",
+    "instagram_handle": "@Isabel_Stiedemann87",
+    "tiktok_handle": "@Roman85",
+    "joined_at": "2024-05-01T01:00:39.904Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2141a28e-7c6f-4668-adf8-e9e9d6868f4e",
+            "brand": "Koelpin - Stehr",
+            "tasks_completed": [
+                {
+                    "task_id": "4c2315a1-2efb-4fd7-bd20-dcab5f21a9f7",
+                    "platform": "Instagram",
+                    "post_url": "https://true-gown.com",
+                    "likes": 482,
+                    "comments": 30,
+                    "shares": 27,
+                    "reach": 7085
+                }
+            ],
+            "total_sales_attributed": 3792.533472248922
+        }
+    ]
+}

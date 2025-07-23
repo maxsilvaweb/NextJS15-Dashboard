@@ -1,0 +1,26 @@
+{
+    "user_id": "d4c1e0f4-df08-42c1-a2f9-37e45ff47a0e",
+    "name": "???",
+    "email": "Keenan_Pouros71@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 9,
+                    "reach": 6932
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6a2f9e3f-a1c7-4e97-ad6c-6217409ac4b4",
+    "name": "Myrtle Harber MD",
+    "email": "Arielle.Schmidt@gmail.com",
+    "instagram_handle": "@Chad2",
+    "tiktok_handle": "@Kali.Weimann1",
+    "joined_at": "2024-09-24T13:34:29.585Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f7f30d57-ac7b-4d4f-bd61-f66279abaeee",
+            "brand": "Treutel, Franecki and Haag",
+            "tasks_completed": [
+                {
+                    "task_id": "430a03cf-cf0d-413f-a970-1c8169a6084c",
+                    "platform": "TikTok",
+                    "post_url": "https://spirited-sock.net",
+                    "likes": 138,
+                    "comments": 30,
+                    "shares": 98,
+                    "reach": 6353
+                }
+            ],
+            "total_sales_attributed": 3404.062719396709
+        }
+    ]
+}

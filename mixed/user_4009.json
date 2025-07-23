@@ -1,0 +1,26 @@
+{
+    "user_id": "c261e4cb-7080-4c2b-9e84-b1698192ca4e",
+    "name": "Hugo Toy",
+    "email": "Wilfrid1@yahoo.com",
+    "instagram_handle": "@Berneice.Heller",
+    "tiktok_handle": "@Lemuel.Kuvalis",
+    "joined_at": "2024-07-27T09:55:30.761Z",
+    "advocacy_programs": [
+        {
+            "program_id": "49eee2d5-2ab0-424e-a3b2-3f17a20ba891",
+            "brand": "Kirlin, Ratke and Kuhic",
+            "tasks_completed": [
+                {
+                    "task_id": "354c98ea-dd18-436d-9a6d-f55f9c47c0ff",
+                    "platform": "TikTok",
+                    "post_url": "https://frank-fun.info",
+                    "likes": 122,
+                    "comments": 15,
+                    "shares": 12,
+                    "reach": 7741
+                }
+            ],
+            "total_sales_attributed": 3729.966074083534
+        }
+    ]
+}

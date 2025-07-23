@@ -1,0 +1,26 @@
+{
+    "user_id": "bfb79370-90ac-4a41-af08-540a74556056",
+    "name": "Dr. Casey Mraz",
+    "email": "Hershel_Walsh7@yahoo.com",
+    "instagram_handle": "@Khalid_Metz",
+    "tiktok_handle": "@Earline_Ziemann20",
+    "joined_at": "2024-12-19T19:36:29.615Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dbd9c61f-3548-48bf-99aa-99f4e2dd6864",
+            "brand": "Maggio, Kreiger and Hodkiewicz",
+            "tasks_completed": [
+                {
+                    "task_id": "f424873f-4b2f-4c2d-a6e8-6869b6306f0c",
+                    "platform": "Instagram",
+                    "post_url": "https://incomparable-numeracy.net",
+                    "likes": 196,
+                    "comments": 37,
+                    "shares": 93,
+                    "reach": 3105
+                }
+            ],
+            "total_sales_attributed": 3906.113687124321
+        }
+    ]
+}

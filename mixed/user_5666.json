@@ -1,0 +1,26 @@
+{
+    "user_id": "ff4c42d7-2d66-4cc5-a943-222ee8743225",
+    "name": "Levi Gusikowski",
+    "email": "Merlin.Osinski8@gmail.com",
+    "instagram_handle": "@Tyler_Reilly",
+    "tiktok_handle": "@Nathanial.Balistreri41",
+    "joined_at": "2025-02-27T17:12:41.957Z",
+    "advocacy_programs": [
+        {
+            "program_id": "546cdf1c-037a-41b3-9be8-fef871c43018",
+            "brand": "Zboncak - Ernser",
+            "tasks_completed": [
+                {
+                    "task_id": "3bb700c7-f2ae-4cbe-a40a-300dfb98b6ae",
+                    "platform": "TikTok",
+                    "post_url": "https://major-fold.com",
+                    "likes": 331,
+                    "comments": 22,
+                    "shares": 46,
+                    "reach": 3153
+                }
+            ],
+            "total_sales_attributed": 1507.1761931971482
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e848642c-8ca3-4cac-b71e-4ac60bbfb2c2",
+    "name": "Ashley Nienow",
+    "email": "Kaela.Glover@hotmail.com",
+    "instagram_handle": "@Carolanne81",
+    "tiktok_handle": "@Darrin38",
+    "joined_at": "2025-03-10T15:30:06.537Z",
+    "advocacy_programs": [
+        {
+            "program_id": "019c53ad-c19a-4b3c-832c-b7cc64d49cbd",
+            "brand": "Glover - Tromp",
+            "tasks_completed": [
+                {
+                    "task_id": "24491858-8aa7-42ef-8321-8063230b6e23",
+                    "platform": "TikTok",
+                    "post_url": "https://grimy-wear.name/",
+                    "likes": 126,
+                    "comments": 12,
+                    "shares": 83,
+                    "reach": 7298
+                }
+            ],
+            "total_sales_attributed": 878.1596464040852
+        }
+    ]
+}

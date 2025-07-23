@@ -1,0 +1,26 @@
+{
+    "user_id": "dace8adc-d0b0-4ed4-b0b8-333008e337ca",
+    "name": "Delbert Kassulke",
+    "email": "Kaela_Wiegand@hotmail.com",
+    "instagram_handle": "@Yesenia30",
+    "tiktok_handle": "@Ted_Beatty29",
+    "joined_at": "2024-09-24T15:10:29.811Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e942bd1a-02b4-4d12-8efe-388aa665fa2b",
+            "brand": "Stamm and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "65939a28-a997-4d4b-912e-bc1022b3060d",
+                    "platform": "Instagram",
+                    "post_url": "https://lost-prohibition.biz",
+                    "likes": 379,
+                    "comments": 47,
+                    "shares": 79,
+                    "reach": 8284
+                }
+            ],
+            "total_sales_attributed": 1875.8203551893496
+        }
+    ]
+}

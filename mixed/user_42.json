@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Clarabelle.OHara",
+    "joined_at": "2024-12-26T08:44:49.108Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://animated-derby.info/",
+                    "likes": "NaN",
+                    "comments": 3,
+                    "shares": 42,
+                    "reach": 1255
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

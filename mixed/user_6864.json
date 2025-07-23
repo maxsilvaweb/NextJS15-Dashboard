@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Justine.Koch69@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Jaquan_Simonis73",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "9c000134-8825-468e-b6b2-883db28a0aa7",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 32,
+                    "shares": 31,
+                    "reach": 1829
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

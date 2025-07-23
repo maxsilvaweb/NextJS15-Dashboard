@@ -1,0 +1,26 @@
+{
+    "user_id": "ea24ed3a-d4be-4a03-8133-3d2249c4d90b",
+    "name": "Elijah Beahan",
+    "email": "Emile_Terry@yahoo.com",
+    "instagram_handle": "@Lucas_Bayer21",
+    "tiktok_handle": "@Alex.Orn26",
+    "joined_at": "2024-07-23T01:39:47.682Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ca76f20e-e8b8-4667-a209-c91dff599ff4",
+            "brand": "Berge, Mante and Goldner",
+            "tasks_completed": [
+                {
+                    "task_id": "b5929475-68ef-4bcf-9a39-71ca4b3ada42",
+                    "platform": "TikTok",
+                    "post_url": "https://incomparable-drive.org/",
+                    "likes": 456,
+                    "comments": 28,
+                    "shares": 96,
+                    "reach": 9189
+                }
+            ],
+            "total_sales_attributed": 723.8705278936337
+        }
+    ]
+}

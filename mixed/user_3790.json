@@ -1,0 +1,26 @@
+{
+    "user_id": "55d6b438-2662-48d2-a5ad-786310982b2a",
+    "name": "Jeremy Senger",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "735e8f46-323b-4254-99e6-927b3231dfc6",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 55,
+                    "reach": 4096
+                }
+            ],
+            "total_sales_attributed": 3101.156881865671
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "16467096-ef94-4693-8dfd-5c960eda8fd6",
+    "name": "Ora Wunsch",
+    "email": "Isabell24@gmail.com",
+    "instagram_handle": "@Michaela.Grady1",
+    "tiktok_handle": "@Felicity.Ryan32",
+    "joined_at": "2024-10-02T19:48:20.929Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5279ebd6-d0ec-40d7-b873-863370476a31",
+            "brand": "Schinner - Hodkiewicz",
+            "tasks_completed": [
+                {
+                    "task_id": "6104b02b-c670-4412-888e-e18a9e444871",
+                    "platform": "Instagram",
+                    "post_url": "https://sick-pearl.com",
+                    "likes": 387,
+                    "comments": 38,
+                    "shares": 69,
+                    "reach": 9559
+                }
+            ],
+            "total_sales_attributed": 291.7587202047033
+        }
+    ]
+}

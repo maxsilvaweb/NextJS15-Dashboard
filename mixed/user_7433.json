@@ -1,0 +1,26 @@
+{
+    "user_id": "2e8faca6-79b5-421b-88a6-972bcba6c745",
+    "name": "Vicki Hayes",
+    "email": "Ian21@gmail.com",
+    "instagram_handle": "@Jimmie.Auer79",
+    "tiktok_handle": "@Daphney94",
+    "joined_at": "2025-03-05T12:57:59.399Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fa0e48eb-ffe3-41c2-a369-ca597651fe85",
+            "brand": "Kunde Group",
+            "tasks_completed": [
+                {
+                    "task_id": "809f8816-4fd8-430f-a603-0644dcb6c2cb",
+                    "platform": "TikTok",
+                    "post_url": "https://sure-footed-ceramics.net",
+                    "likes": 13,
+                    "comments": 29,
+                    "shares": 47,
+                    "reach": 1754
+                }
+            ],
+            "total_sales_attributed": 1701.0856121860743
+        }
+    ]
+}

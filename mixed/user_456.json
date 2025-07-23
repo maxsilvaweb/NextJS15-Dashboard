@@ -1,0 +1,26 @@
+{
+    "user_id": "de4f5079-022a-4719-a30b-6935e54c7a93",
+    "name": "Steve Marquardt",
+    "email": "Marge5@gmail.com",
+    "instagram_handle": "@Abraham.Hudson",
+    "tiktok_handle": "@Hubert82",
+    "joined_at": "2025-01-04T23:40:16.115Z",
+    "advocacy_programs": [
+        {
+            "program_id": "71fcc551-c7fd-4750-aac8-05a9ee244ac1",
+            "brand": "Heathcote LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "027b16b1-787b-4f40-96b5-c15bf18ff604",
+                    "platform": "TikTok",
+                    "post_url": "https://velvety-median.biz",
+                    "likes": 409,
+                    "comments": 16,
+                    "shares": 22,
+                    "reach": 6010
+                }
+            ],
+            "total_sales_attributed": 2604.8124599057005
+        }
+    ]
+}

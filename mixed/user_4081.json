@@ -1,0 +1,26 @@
+{
+    "user_id": "692b57ac-4f04-466a-bcdb-9c49743eeff2",
+    "name": "Edith Kuvalis",
+    "email": "Gabriella97@hotmail.com",
+    "instagram_handle": "@Charlene.Schamberger",
+    "tiktok_handle": "@Alana_Blanda45",
+    "joined_at": "2024-11-29T14:09:25.365Z",
+    "advocacy_programs": [
+        {
+            "program_id": "55fdf8c0-edf7-4f00-a239-e194949f28c7",
+            "brand": "Leuschke - Grady",
+            "tasks_completed": [
+                {
+                    "task_id": "2ed0f4a2-9381-4ed1-9b88-ee34cd7076cf",
+                    "platform": "Instagram",
+                    "post_url": "https://practical-folklore.info",
+                    "likes": 156,
+                    "comments": 12,
+                    "shares": 71,
+                    "reach": 1091
+                }
+            ],
+            "total_sales_attributed": 3651.3736868718006
+        }
+    ]
+}

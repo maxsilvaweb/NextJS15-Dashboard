@@ -1,0 +1,26 @@
+{
+    "user_id": "64c52334-749b-4325-a553-9b59c183f7f0",
+    "name": "Dr. Alfredo Hilpert",
+    "email": "Heaven_Kub46@gmail.com",
+    "instagram_handle": "@Noel7",
+    "tiktok_handle": "@Leone.Macejkovic",
+    "joined_at": "2024-05-01T14:43:31.734Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3775268c-efa8-4a87-88ea-77a9f7064d3f",
+            "brand": "Upton, Will and Tremblay",
+            "tasks_completed": [
+                {
+                    "task_id": "295c88e1-5954-414f-8d85-8e524738c435",
+                    "platform": "Instagram",
+                    "post_url": "https://accurate-pliers.com/",
+                    "likes": 437,
+                    "comments": 12,
+                    "shares": 68,
+                    "reach": 4717
+                }
+            ],
+            "total_sales_attributed": 4103.494535298765
+        }
+    ]
+}

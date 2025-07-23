@@ -1,0 +1,26 @@
+{
+    "user_id": "0487eea9-788a-4ee8-8435-e85f25e3ae12",
+    "name": "Mrs. Josefina Doyle",
+    "email": "Linnea9@hotmail.com",
+    "instagram_handle": "@Lavonne51",
+    "tiktok_handle": "@Micah.Stark",
+    "joined_at": "2024-08-26T01:15:40.430Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ffef78eb-d3c3-4afa-8853-e1d6088a24b1",
+            "brand": "Romaguera, Carroll and Reynolds",
+            "tasks_completed": [
+                {
+                    "task_id": "fc9a8533-174c-4475-9929-6de156758bf4",
+                    "platform": "TikTok",
+                    "post_url": "https://vibrant-steeple.com",
+                    "likes": 158,
+                    "comments": 21,
+                    "shares": 8,
+                    "reach": 9010
+                }
+            ],
+            "total_sales_attributed": 4211.029514758598
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2fac122b-c165-4fd2-88b9-abe2617d8682",
+    "name": "Mindy Kertzmann Sr.",
+    "email": "Isaac_Larkin@gmail.com",
+    "instagram_handle": "@Edmond40",
+    "tiktok_handle": "@Kristina.Pfannerstill23",
+    "joined_at": "2025-01-15T03:04:23.697Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1c7bf2d4-2a87-4a21-87b9-1f28266778b1",
+            "brand": "Moore Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "2b3c63b0-d118-4f97-b0d9-187485f67055",
+                    "platform": "Instagram",
+                    "post_url": "https://profitable-platypus.org",
+                    "likes": 239,
+                    "comments": 10,
+                    "shares": 68,
+                    "reach": 7209
+                }
+            ],
+            "total_sales_attributed": 608.1872862920571
+        }
+    ]
+}

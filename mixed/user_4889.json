@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Louis Schultz",
+    "email": "Arlo48@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 65,
+                    "reach": 7191
+                }
+            ],
+            "total_sales_attributed": 1312.0575540465602
+        }
+    ]
+}

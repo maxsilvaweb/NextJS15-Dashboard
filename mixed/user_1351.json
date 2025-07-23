@@ -1,0 +1,26 @@
+{
+    "user_id": "93c602f6-5268-4823-8b16-11c309d5f068",
+    "name": "Catherine Price",
+    "email": "Grover_Shields@yahoo.com",
+    "instagram_handle": "@Jordyn57",
+    "tiktok_handle": "@Gussie.Fahey",
+    "joined_at": "2024-09-28T07:03:33.597Z",
+    "advocacy_programs": [
+        {
+            "program_id": "06ceca2c-8739-49f2-8b21-09f71f2c1ad3",
+            "brand": "Wilderman and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "b5b6b7c5-b4d6-4c6a-97c7-a5e83f8daaad",
+                    "platform": "TikTok",
+                    "post_url": "https://weekly-zebra.name/",
+                    "likes": 101,
+                    "comments": 48,
+                    "shares": 14,
+                    "reach": 7494
+                }
+            ],
+            "total_sales_attributed": 2236.8205825242644
+        }
+    ]
+}

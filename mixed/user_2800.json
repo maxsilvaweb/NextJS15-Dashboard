@@ -1,0 +1,26 @@
+{
+    "user_id": "e6b65796-e93e-47da-ae68-7995bca7ec4e",
+    "name": "Kevin Schultz",
+    "email": "Carolina48@gmail.com",
+    "instagram_handle": "@Durward_MacGyver",
+    "tiktok_handle": "@Hanna_Cremin",
+    "joined_at": "2024-08-17T16:20:24.259Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0ff98fb1-69a3-4e4d-84f1-434f7771fc21",
+            "brand": "Haley, Rath and Mertz",
+            "tasks_completed": [
+                {
+                    "task_id": "815ee12d-5d85-4d69-ad60-277e11fd5c41",
+                    "platform": "TikTok",
+                    "post_url": "https://yummy-object.info",
+                    "likes": 40,
+                    "comments": 23,
+                    "shares": 91,
+                    "reach": 1968
+                }
+            ],
+            "total_sales_attributed": 1784.812619694799
+        }
+    ]
+}

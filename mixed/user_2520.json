@@ -1,0 +1,26 @@
+{
+    "user_id": "a5805930-7409-4ff3-86b7-599ee864c876",
+    "name": "Kayla Tromp",
+    "email": "Esther_Keeling7@hotmail.com",
+    "instagram_handle": "@Milton_Braun",
+    "tiktok_handle": "@Sophie.Rippin",
+    "joined_at": "2024-10-08T22:05:07.362Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6437e0ee-384a-4e45-af17-5868a854ee7b",
+            "brand": "Lowe Group",
+            "tasks_completed": [
+                {
+                    "task_id": "85162e12-7df4-4d2b-996f-29a1388e5395",
+                    "platform": "TikTok",
+                    "post_url": "https://uneven-viability.biz/",
+                    "likes": 435,
+                    "comments": 32,
+                    "shares": 20,
+                    "reach": 1192
+                }
+            ],
+            "total_sales_attributed": 1222.7008095837286
+        }
+    ]
+}

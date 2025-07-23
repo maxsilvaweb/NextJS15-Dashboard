@@ -1,0 +1,26 @@
+{
+    "user_id": "695a69f1-ff05-4b27-8ccb-8b6c9639e2ee",
+    "name": "Johnnie Hessel",
+    "email": "Justyn85@hotmail.com",
+    "instagram_handle": "@Shaun61",
+    "tiktok_handle": "@Lurline69",
+    "joined_at": "2024-09-06T09:20:21.246Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4d8d883a-0ceb-48c8-a286-866d17f0304a",
+            "brand": "Hagenes, Gorczany and Green",
+            "tasks_completed": [
+                {
+                    "task_id": "f3e57181-94c1-4122-8e4d-0bd3cf7d8955",
+                    "platform": "TikTok",
+                    "post_url": "https://idealistic-bin.com",
+                    "likes": 132,
+                    "comments": 41,
+                    "shares": 46,
+                    "reach": 2329
+                }
+            ],
+            "total_sales_attributed": 2607.579510121363
+        }
+    ]
+}

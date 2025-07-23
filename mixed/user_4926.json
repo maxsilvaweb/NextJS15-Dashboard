@@ -1,0 +1,26 @@
+{
+    "user_id": "d0574e16-286b-44e2-b27b-00b4574bbe45",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Lorenzo.Towne",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "McGlynn, Gislason and Fadel",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 5,
+                    "shares": 39,
+                    "reach": 9661
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e65c999a-4f7e-4d7c-9c26-25774afc5dbd",
+    "name": "Mrs. Florence Frami",
+    "email": "Jacey14@hotmail.com",
+    "instagram_handle": "@Hiram15",
+    "tiktok_handle": "@Waylon.Greenfelder57",
+    "joined_at": "2024-11-13T12:19:17.035Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8f0e49c7-3ac7-4e0c-84e3-5539d468081e",
+            "brand": "Kohler, Crist and Nikolaus",
+            "tasks_completed": [
+                {
+                    "task_id": "edf79e1a-70fa-4242-924d-4ec962a14797",
+                    "platform": "Instagram",
+                    "post_url": "https://incomparable-haircut.org",
+                    "likes": 234,
+                    "comments": 41,
+                    "shares": 83,
+                    "reach": 2718
+                }
+            ],
+            "total_sales_attributed": 3102.5439027323155
+        }
+    ]
+}

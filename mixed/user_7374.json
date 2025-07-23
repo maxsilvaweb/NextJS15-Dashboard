@@ -1,0 +1,26 @@
+{
+    "user_id": "66027743-18a2-48d1-94e5-f7037736afa9",
+    "name": "Rebecca Beier",
+    "email": "Caroline_Connelly77@hotmail.com",
+    "instagram_handle": "@Tracey54",
+    "tiktok_handle": "@Adalberto.Wiegand",
+    "joined_at": "2024-09-28T09:43:48.112Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4f40b91c-ed7d-459a-b047-1f2b23ca1d30",
+            "brand": "Sauer LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "8a4d9295-ea40-4915-abf5-3ea25e103ffc",
+                    "platform": "TikTok",
+                    "post_url": "https://subdued-lounge.name",
+                    "likes": 491,
+                    "comments": 2,
+                    "shares": 81,
+                    "reach": 3973
+                }
+            ],
+            "total_sales_attributed": 2421.642827383316
+        }
+    ]
+}

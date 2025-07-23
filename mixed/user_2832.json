@@ -1,0 +1,26 @@
+{
+    "user_id": "ad8060e4-3066-429d-9066-2dbb880c4769",
+    "name": "Billy Howell",
+    "email": "Emilie.Hermiston@gmail.com",
+    "instagram_handle": "@Deanna.Simonis",
+    "tiktok_handle": "@Darrick98",
+    "joined_at": "2024-09-15T20:09:58.648Z",
+    "advocacy_programs": [
+        {
+            "program_id": "67e69844-fddc-462b-9ac2-48fa0ca9c593",
+            "brand": "Dare, Aufderhar and Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "54fbd460-3e97-44a7-9165-39d913277615",
+                    "platform": "TikTok",
+                    "post_url": "https://breakable-merit.biz",
+                    "likes": 472,
+                    "comments": 15,
+                    "shares": 86,
+                    "reach": 1884
+                }
+            ],
+            "total_sales_attributed": 856.5634453427011
+        }
+    ]
+}

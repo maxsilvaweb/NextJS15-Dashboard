@@ -1,0 +1,26 @@
+{
+    "user_id": "df309d27-1e73-460d-abd0-e82073d3b809",
+    "name": "Pam Kirlin",
+    "email": "Clara.Olson@yahoo.com",
+    "instagram_handle": "@Alivia.Stamm75",
+    "tiktok_handle": "@German4",
+    "joined_at": "2025-01-22T07:45:31.168Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2e3fe9af-5c2f-4d16-bdd1-d442e2474129",
+            "brand": "Cronin - Brakus",
+            "tasks_completed": [
+                {
+                    "task_id": "4e8b54b7-351f-43e8-b0eb-495e223a7d2d",
+                    "platform": "Instagram",
+                    "post_url": "https://outlandish-baseboard.biz/",
+                    "likes": 217,
+                    "comments": 24,
+                    "shares": 46,
+                    "reach": 1811
+                }
+            ],
+            "total_sales_attributed": 3291.907310418248
+        }
+    ]
+}

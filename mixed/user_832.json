@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Maurice Bogisich",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "fe31181f-6dbf-4322-a6ab-d866d142f588",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://majestic-request.org/",
+                    "likes": 415,
+                    "comments": null,
+                    "shares": 91,
+                    "reach": 7077
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

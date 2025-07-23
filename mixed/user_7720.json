@@ -1,0 +1,26 @@
+{
+    "user_id": "2767fe16-5980-41f0-8a20-2178c7e0c39b",
+    "name": "Tracy Upton",
+    "email": "Peyton.Schumm33@hotmail.com",
+    "instagram_handle": "@Sandy91",
+    "tiktok_handle": "@Liliane.Marquardt",
+    "joined_at": "2024-11-07T17:25:48.866Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d065c793-1e52-42c3-b17c-e3898958e65b",
+            "brand": "O'Conner Group",
+            "tasks_completed": [
+                {
+                    "task_id": "3f2cceda-66ba-422f-823a-671078338c2b",
+                    "platform": "Instagram",
+                    "post_url": "https://fatal-sonar.biz",
+                    "likes": 102,
+                    "comments": 25,
+                    "shares": 80,
+                    "reach": 2013
+                }
+            ],
+            "total_sales_attributed": 1009.7169160027737
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Cartwright, Waelchi and Stoltenberg",
+            "tasks_completed": [
+                {
+                    "task_id": "6add28ca-309e-4966-9b47-9f33cf58dd03",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 366,
+                    "comments": null,
+                    "shares": 59,
+                    "reach": 2559
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

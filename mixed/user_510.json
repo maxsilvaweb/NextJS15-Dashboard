@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Kaylah.Wuckert",
+    "tiktok_handle": "@Dahlia77",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "f634a212-b86a-4203-aa19-2a7974458750",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 31,
+                    "reach": 7440
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

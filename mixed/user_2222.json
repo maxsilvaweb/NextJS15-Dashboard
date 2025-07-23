@@ -1,0 +1,26 @@
+{
+    "user_id": "b1e2cd37-ad5d-463a-b6a3-257f2e9952a8",
+    "name": "Dr. Marcella Stehr II",
+    "email": "Kaley.Farrell-Runolfsson68@hotmail.com",
+    "instagram_handle": "@Friedrich_Bechtelar95",
+    "tiktok_handle": "@Roosevelt.Sauer47",
+    "joined_at": "2024-11-02T09:55:12.650Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6c1f8206-16e1-4739-8de0-baf37f4a6162",
+            "brand": "Borer - Rau",
+            "tasks_completed": [
+                {
+                    "task_id": "347c53fb-a52c-4d33-a45b-1a6db8f71561",
+                    "platform": "TikTok",
+                    "post_url": "https://weary-spirit.org",
+                    "likes": 24,
+                    "comments": 1,
+                    "shares": 57,
+                    "reach": 9629
+                }
+            ],
+            "total_sales_attributed": 4123.143076621597
+        }
+    ]
+}

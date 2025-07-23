@@ -1,0 +1,26 @@
+{
+    "user_id": "7055a60d-df4e-4245-95fa-3f3fe74bb226",
+    "name": "Nichole Marvin",
+    "email": "Eveline10@gmail.com",
+    "instagram_handle": "@Oren_Hartmann1",
+    "tiktok_handle": "@Salma_Crist27",
+    "joined_at": "2024-06-26T05:52:59.433Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3e7a758e-919a-402a-8c04-79db1b6fee69",
+            "brand": "Mraz, Reilly and Pagac",
+            "tasks_completed": [
+                {
+                    "task_id": "13c1647e-c2aa-46a8-989a-1c836f30ea52",
+                    "platform": "Instagram",
+                    "post_url": "https://oval-governance.info",
+                    "likes": 330,
+                    "comments": 36,
+                    "shares": 66,
+                    "reach": 3356
+                }
+            ],
+            "total_sales_attributed": 2554.3393723990084
+        }
+    ]
+}

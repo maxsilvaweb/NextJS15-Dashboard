@@ -1,0 +1,26 @@
+{
+    "user_id": "7eadfe94-c4d9-43f2-8b6f-6dd5d6a979a8",
+    "name": "Duane Turner",
+    "email": "Gertrude_Bednar-Mohr71@yahoo.com",
+    "instagram_handle": "@Bonita.Cassin",
+    "tiktok_handle": "@Arvid_Kub",
+    "joined_at": "2024-08-08T19:58:44.595Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5f57615f-b354-40fe-a157-66afc4f9a534",
+            "brand": "Braun, O'Keefe and Beier",
+            "tasks_completed": [
+                {
+                    "task_id": "a9ca989e-a36e-4bca-8147-d61d0ea0140b",
+                    "platform": "Instagram",
+                    "post_url": "https://rubbery-sonnet.info/",
+                    "likes": 337,
+                    "comments": 41,
+                    "shares": 3,
+                    "reach": 5249
+                }
+            ],
+            "total_sales_attributed": 3469.188491474847
+        }
+    ]
+}

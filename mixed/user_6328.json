@@ -1,0 +1,26 @@
+{
+    "user_id": "2337af02-bce9-4df7-937e-514d3e377be9",
+    "name": "Danny Gleichner",
+    "email": "Carlotta97@gmail.com",
+    "instagram_handle": "@Brown.Abshire54",
+    "tiktok_handle": "@Melvin.Monahan",
+    "joined_at": "2024-08-05T05:11:05.741Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cfb56312-cf14-4bb1-9e03-9b7725af701a",
+            "brand": "Paucek Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "a1ca575a-f996-4b57-80b8-6dce322dc256",
+                    "platform": "TikTok",
+                    "post_url": "https://dutiful-lashes.biz/",
+                    "likes": 469,
+                    "comments": 31,
+                    "shares": 33,
+                    "reach": 3250
+                }
+            ],
+            "total_sales_attributed": 4661.421487789214
+        }
+    ]
+}

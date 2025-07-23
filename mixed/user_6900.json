@@ -1,0 +1,26 @@
+{
+    "user_id": "0194b719-33e4-42c8-a13b-48b71bd173e7",
+    "name": "Jasmine Moen",
+    "email": "Jaylan.Hoeger@hotmail.com",
+    "instagram_handle": "@Rhett.Mills",
+    "tiktok_handle": "@Howard_Mitchell",
+    "joined_at": "2024-11-09T16:50:42.666Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4cb1307c-e917-4295-b568-c33454d7578c",
+            "brand": "Lang and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "5deef624-a204-4731-b89c-937bc42d4d10",
+                    "platform": "Instagram",
+                    "post_url": "https://thorough-comestible.org/",
+                    "likes": 127,
+                    "comments": 14,
+                    "shares": 67,
+                    "reach": 4837
+                }
+            ],
+            "total_sales_attributed": 140.38594317550547
+        }
+    ]
+}

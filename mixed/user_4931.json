@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Leuschke - Kiehn",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://expert-institute.info",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 45,
+                    "reach": 9818
+                }
+            ],
+            "total_sales_attributed": 4536.805454289588
+        }
+    ]
+}

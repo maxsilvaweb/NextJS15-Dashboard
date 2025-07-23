@@ -1,0 +1,26 @@
+{
+    "user_id": "7cb98b45-393b-48f4-bd9f-7c03cd0e4f0e",
+    "name": "Doreen Orn",
+    "email": "Devante53@hotmail.com",
+    "instagram_handle": "@Porter.Cartwright",
+    "tiktok_handle": "@Rickey95",
+    "joined_at": "2024-04-10T22:41:11.259Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e71c18fc-ea6d-468d-9df1-9cafd78655a7",
+            "brand": "Ruecker - Marks",
+            "tasks_completed": [
+                {
+                    "task_id": "197990b9-752a-407e-9f7d-e5fd545f612c",
+                    "platform": "TikTok",
+                    "post_url": "https://whimsical-dividend.com/",
+                    "likes": 62,
+                    "comments": 30,
+                    "shares": 8,
+                    "reach": 3904
+                }
+            ],
+            "total_sales_attributed": 3681.086563644076
+        }
+    ]
+}

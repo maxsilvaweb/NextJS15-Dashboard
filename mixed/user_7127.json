@@ -1,0 +1,26 @@
+{
+    "user_id": "6575ab88-b36b-4f72-af98-1e9ca1d2707a",
+    "name": "Jean Bruen",
+    "email": "Cale46@hotmail.com",
+    "instagram_handle": "@Stephanie_Kerluke33",
+    "tiktok_handle": "@Owen.Schowalter",
+    "joined_at": "2024-05-31T19:20:34.882Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3fe2954b-cd13-4e7e-a1f1-e2577ae55b13",
+            "brand": "Bartoletti, Wolf and Yost",
+            "tasks_completed": [
+                {
+                    "task_id": "1a8be7a8-e100-4b2b-b7d6-2647a3eca44d",
+                    "platform": "TikTok",
+                    "post_url": "https://unused-mouser.net/",
+                    "likes": 257,
+                    "comments": 5,
+                    "shares": 54,
+                    "reach": 4718
+                }
+            ],
+            "total_sales_attributed": 3925.54453444584
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1defd6ab-239a-421a-aa3c-91b18ca3dcb0",
+    "name": "Phil Corwin",
+    "email": "Mauricio.Hagenes@gmail.com",
+    "instagram_handle": "@Catherine15",
+    "tiktok_handle": "@Buster32",
+    "joined_at": "2025-02-02T06:56:22.318Z",
+    "advocacy_programs": [
+        {
+            "program_id": "249671d5-3bad-4507-86dd-8b978217dd0c",
+            "brand": "Heller, Keeling and Greenfelder",
+            "tasks_completed": [
+                {
+                    "task_id": "7705842d-31d3-4f94-a853-bac0f72e5beb",
+                    "platform": "Instagram",
+                    "post_url": "https://fair-ecliptic.name",
+                    "likes": 18,
+                    "comments": 30,
+                    "shares": 35,
+                    "reach": 3834
+                }
+            ],
+            "total_sales_attributed": 2414.391007495754
+        }
+    ]
+}

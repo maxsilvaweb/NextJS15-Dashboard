@@ -1,0 +1,26 @@
+{
+    "user_id": "714064b0-33a9-4637-a047-60f67dc398ad",
+    "name": "Luis Smitham",
+    "email": "Doug78@yahoo.com",
+    "instagram_handle": "@Krystal.Rutherford61",
+    "tiktok_handle": "@Bruce_Hackett",
+    "joined_at": "2024-11-01T17:49:05.449Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9e76340b-5345-416c-9f6d-5d7a11b700c2",
+            "brand": "Sanford, Quitzon and Hartmann",
+            "tasks_completed": [
+                {
+                    "task_id": "2881714b-a4d5-418e-b046-020c91444a0f",
+                    "platform": "Instagram",
+                    "post_url": "https://informal-monocle.org/",
+                    "likes": 463,
+                    "comments": 1,
+                    "shares": 1,
+                    "reach": 5111
+                }
+            ],
+            "total_sales_attributed": 2274.0579643146884
+        }
+    ]
+}

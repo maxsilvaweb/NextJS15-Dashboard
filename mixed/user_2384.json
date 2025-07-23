@@ -1,0 +1,26 @@
+{
+    "user_id": "a78db0fc-9c60-4335-8109-579ababe27d7",
+    "name": "Wanda Veum",
+    "email": "Miguel_Schaden7@gmail.com",
+    "instagram_handle": "@Eve27",
+    "tiktok_handle": "@Makenzie.Barton",
+    "joined_at": "2024-10-04T07:44:59.615Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cf343095-a4bc-4d45-b773-ebe67484481d",
+            "brand": "Hackett, Schumm and Ruecker",
+            "tasks_completed": [
+                {
+                    "task_id": "1950dd53-497c-429a-8056-b8395d9c748c",
+                    "platform": "TikTok",
+                    "post_url": "https://idealistic-illusion.org",
+                    "likes": 192,
+                    "comments": 48,
+                    "shares": 35,
+                    "reach": 7072
+                }
+            ],
+            "total_sales_attributed": 4339.298221443197
+        }
+    ]
+}

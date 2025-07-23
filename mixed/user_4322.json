@@ -1,0 +1,26 @@
+{
+    "user_id": "39609170-bdce-442d-b97d-2dd27f53cb91",
+    "name": "Jeanette Ritchie",
+    "email": "Alyce.Rice@gmail.com",
+    "instagram_handle": "@Betty_Wolf86",
+    "tiktok_handle": "@Melyssa_Hudson-Stokes43",
+    "joined_at": "2024-10-14T18:26:14.376Z",
+    "advocacy_programs": [
+        {
+            "program_id": "09e4c601-7530-4d17-b50c-dc099504e7a8",
+            "brand": "Dietrich Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "5ed0f130-9059-4ef3-a1e7-72166f20bd93",
+                    "platform": "Instagram",
+                    "post_url": "https://knotty-repeat.net",
+                    "likes": 74,
+                    "comments": 32,
+                    "shares": 69,
+                    "reach": 1519
+                }
+            ],
+            "total_sales_attributed": 567.6744963660485
+        }
+    ]
+}

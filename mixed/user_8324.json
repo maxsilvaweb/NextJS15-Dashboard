@@ -1,0 +1,26 @@
+{
+    "user_id": "e42e26c6-e5d6-4bbb-802c-fe8dc250c7bd",
+    "name": "Dr. Jean Frami",
+    "email": "Ethyl_Kertzmann49@gmail.com",
+    "instagram_handle": "@Royce_Berge",
+    "tiktok_handle": "@Leonie_Bauch",
+    "joined_at": "2024-05-21T17:28:32.014Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b736f479-0825-44f5-9d78-8a9373a830f2",
+            "brand": "Schmeler - Nienow",
+            "tasks_completed": [
+                {
+                    "task_id": "72858220-7f65-435e-8a00-dc4184573583",
+                    "platform": "Instagram",
+                    "post_url": "https://shrill-handover.info/",
+                    "likes": 278,
+                    "comments": 32,
+                    "shares": 55,
+                    "reach": 4387
+                }
+            ],
+            "total_sales_attributed": 1749.800300023984
+        }
+    ]
+}

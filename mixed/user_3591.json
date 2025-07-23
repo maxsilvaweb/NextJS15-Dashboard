@@ -1,0 +1,26 @@
+{
+    "user_id": "fb61f56a-30ac-4107-ab18-27e76d59bcc0",
+    "name": "Kirk Crooks",
+    "email": "Merritt_Halvorson@yahoo.com",
+    "instagram_handle": "@Horacio_Zulauf17",
+    "tiktok_handle": "@Jordi11",
+    "joined_at": "2024-12-14T00:11:53.952Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a83e3350-8977-4242-9029-297166812c55",
+            "brand": "Leuschke LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c9800ad0-71be-45f9-89a2-054279da83a1",
+                    "platform": "Instagram",
+                    "post_url": "https://misguided-elver.info",
+                    "likes": 69,
+                    "comments": 30,
+                    "shares": 49,
+                    "reach": 7198
+                }
+            ],
+            "total_sales_attributed": 2190.731292088514
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0697e2c5-1357-4ba9-9ace-df379d49afd0",
+    "name": "Miss Edna Heller-Mraz",
+    "email": "Fritz_Reichert2@gmail.com",
+    "instagram_handle": "@Mertie28",
+    "tiktok_handle": "@Carey_Cartwright",
+    "joined_at": "2025-02-03T20:48:54.218Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4b63ce70-bff2-426e-8a11-8afb1abb5f40",
+            "brand": "Marvin - Abbott",
+            "tasks_completed": [
+                {
+                    "task_id": "a0581b39-85de-4036-9705-379c9b66e900",
+                    "platform": "Instagram",
+                    "post_url": "https://assured-tusk.com/",
+                    "likes": 227,
+                    "comments": 41,
+                    "shares": 67,
+                    "reach": 3628
+                }
+            ],
+            "total_sales_attributed": 4311.120405934215
+        }
+    ]
+}

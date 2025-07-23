@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Ubaldo84",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "6c26b204-43d8-442a-bc1f-dd4b8578e32c",
+            "brand": "Haag and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 24,
+                    "shares": 46,
+                    "reach": 7425
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

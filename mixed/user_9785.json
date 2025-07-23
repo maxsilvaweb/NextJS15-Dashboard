@@ -1,0 +1,26 @@
+{
+    "user_id": "cafa85df-bd79-460c-b303-4c98f7ebbd8f",
+    "name": "Sammy Hills",
+    "email": "Ned_Hackett87@hotmail.com",
+    "instagram_handle": "@Ardella.Gusikowski",
+    "tiktok_handle": "@Stephany_Keeling",
+    "joined_at": "2024-11-27T02:21:46.117Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3687f9d5-543a-4df4-b310-7296813ff038",
+            "brand": "Bernhard, Renner and Morar",
+            "tasks_completed": [
+                {
+                    "task_id": "54d9484e-fe9f-434a-a974-d9c91718a93b",
+                    "platform": "Instagram",
+                    "post_url": "https://political-cook.info/",
+                    "likes": 112,
+                    "comments": 39,
+                    "shares": 45,
+                    "reach": 3623
+                }
+            ],
+            "total_sales_attributed": 2319.645369894011
+        }
+    ]
+}

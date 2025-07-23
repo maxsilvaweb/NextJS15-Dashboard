@@ -1,0 +1,26 @@
+{
+    "user_id": "e06df9c4-a47e-42ca-a1c1-3a53f4621e37",
+    "name": "Tiffany Powlowski Sr.",
+    "email": "Hollis73@gmail.com",
+    "instagram_handle": "@Kaylah_Becker22",
+    "tiktok_handle": "@Alysa_Kerluke",
+    "joined_at": "2024-09-28T17:29:42.794Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0225dfd1-18a5-4149-9025-4481f37d53e4",
+            "brand": "Trantow - Watsica",
+            "tasks_completed": [
+                {
+                    "task_id": "0b07e4a9-94cb-447d-9470-2284ffd34c68",
+                    "platform": "Instagram",
+                    "post_url": "https://natural-halt.name/",
+                    "likes": 457,
+                    "comments": 39,
+                    "shares": 74,
+                    "reach": 4144
+                }
+            ],
+            "total_sales_attributed": 685.3518342760028
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "20994be9-0de6-4a8b-9ea7-12580d7d6258",
+    "name": "Mr. Rudolph Schinner",
+    "email": "Parker_Mertz11@hotmail.com",
+    "instagram_handle": "@Kelton68",
+    "tiktok_handle": "@Adrian.Bartoletti",
+    "joined_at": "2024-07-08T03:50:31.350Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6e44dd4e-8f3a-4013-9392-f6ea6903cf4a",
+            "brand": "Nicolas Group",
+            "tasks_completed": [
+                {
+                    "task_id": "79bfc42c-b17e-45a1-a5d1-595399f5eb35",
+                    "platform": "TikTok",
+                    "post_url": "https://stiff-duffel.org",
+                    "likes": 201,
+                    "comments": 26,
+                    "shares": 39,
+                    "reach": 9976
+                }
+            ],
+            "total_sales_attributed": 4867.042280007662
+        }
+    ]
+}

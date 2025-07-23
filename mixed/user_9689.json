@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Duncan.Carroll@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-04-25T09:29:24.461Z",
+    "advocacy_programs": [
+        {
+            "program_id": "35e3eb36-ca74-4645-9b3a-2af2bf9ee1e6",
+            "brand": "Powlowski LLC",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://smug-testing.com/",
+                    "likes": 495,
+                    "comments": null,
+                    "shares": 3,
+                    "reach": 6028
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

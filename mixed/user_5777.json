@@ -1,0 +1,26 @@
+{
+    "user_id": "ad3dec0a-fd72-435d-97d6-4c3a40679e96",
+    "name": "???",
+    "email": "Zelma34@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "ab71edc6-2ca1-4e2a-9cc5-881468209439",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 8,
+                    "reach": 3736
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

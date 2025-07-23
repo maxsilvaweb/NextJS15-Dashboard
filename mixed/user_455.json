@@ -1,0 +1,26 @@
+{
+    "user_id": "fc2ca81e-a401-4c60-a30a-053fcf67c143",
+    "name": "Angel Farrell",
+    "email": "Andrew79@gmail.com",
+    "instagram_handle": "@Myrtle_Jacobs",
+    "tiktok_handle": "@Arely10",
+    "joined_at": "2024-11-08T10:18:53.722Z",
+    "advocacy_programs": [
+        {
+            "program_id": "378b8b9a-d44d-464c-9a7e-e657efaef3e2",
+            "brand": "Gusikowski, Mitchell and Jacobi",
+            "tasks_completed": [
+                {
+                    "task_id": "4b36cd6d-e9ad-4712-b2ed-572b73ec2d6e",
+                    "platform": "TikTok",
+                    "post_url": "https://dull-roadway.info/",
+                    "likes": 309,
+                    "comments": 4,
+                    "shares": 15,
+                    "reach": 9348
+                }
+            ],
+            "total_sales_attributed": 4291.278785853609
+        }
+    ]
+}

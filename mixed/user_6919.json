@@ -1,0 +1,26 @@
+{
+    "user_id": "dece003f-4433-4b70-864c-39b1054ad567",
+    "name": "Mrs. Molly Brekke",
+    "email": "Amy66@gmail.com",
+    "instagram_handle": "@Lacey_Luettgen52",
+    "tiktok_handle": "@Noble_Medhurst",
+    "joined_at": "2024-12-22T08:15:00.252Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ba89cb60-80e9-4779-a169-f4bdf1e2fe0b",
+            "brand": "Johns, Grady and Hoeger",
+            "tasks_completed": [
+                {
+                    "task_id": "bd682f39-234a-4955-bb2b-6aca479bd5d2",
+                    "platform": "Instagram",
+                    "post_url": "https://each-fort.info",
+                    "likes": 15,
+                    "comments": 9,
+                    "shares": 89,
+                    "reach": 8741
+                }
+            ],
+            "total_sales_attributed": 1270.4148214922814
+        }
+    ]
+}

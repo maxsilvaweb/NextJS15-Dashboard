@@ -1,0 +1,26 @@
+{
+    "user_id": "e2711857-cdf8-455c-a619-caed3a29d857",
+    "name": "Johnny Lebsack",
+    "email": "Wyatt_Predovic58@gmail.com",
+    "instagram_handle": "@Maximilian_Bernhard23",
+    "tiktok_handle": "@Anya_Balistreri44",
+    "joined_at": "2024-06-11T08:08:28.513Z",
+    "advocacy_programs": [
+        {
+            "program_id": "10ec018c-9512-4d2e-950f-69d068d119b8",
+            "brand": "Gorczany, Bauch and Zboncak",
+            "tasks_completed": [
+                {
+                    "task_id": "78098d41-e96a-42f9-a925-4f4f54bc89db",
+                    "platform": "TikTok",
+                    "post_url": "https://decisive-vestment.biz",
+                    "likes": 389,
+                    "comments": 12,
+                    "shares": 43,
+                    "reach": 979
+                }
+            ],
+            "total_sales_attributed": 4193.805380056545
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9972ad91-db19-4ae8-ab27-cfe9e2ca5544",
+    "name": "Claudia Orn",
+    "email": "Cindy.Konopelski@hotmail.com",
+    "instagram_handle": "@Marty_Simonis",
+    "tiktok_handle": "@Mateo.Ryan",
+    "joined_at": "2024-10-17T23:51:12.221Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f418c4b4-44a3-498e-a51c-11c4fb94b7c2",
+            "brand": "Welch, Wunsch and Rath",
+            "tasks_completed": [
+                {
+                    "task_id": "a52b59b1-c2b9-4bbb-9aa8-6c12148ed5fb",
+                    "platform": "TikTok",
+                    "post_url": "https://amused-oil.info",
+                    "likes": 462,
+                    "comments": 9,
+                    "shares": 73,
+                    "reach": 1442
+                }
+            ],
+            "total_sales_attributed": 4015.6784310674752
+        }
+    ]
+}

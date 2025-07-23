@@ -1,0 +1,26 @@
+{
+    "user_id": "074620c8-b949-4344-87bf-83523bcfcbac",
+    "name": "Isaac Kreiger II",
+    "email": "Viva96@hotmail.com",
+    "instagram_handle": "@Krystal3",
+    "tiktok_handle": "@Clemmie52",
+    "joined_at": "2024-09-18T09:21:24.269Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0f6b75e6-5ebe-47fc-aa81-7bf2add5d54d",
+            "brand": "Bergstrom and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a78147b4-3e02-47c1-86f6-4a75c29b5417",
+                    "platform": "Instagram",
+                    "post_url": "https://worse-bourgeoisie.biz/",
+                    "likes": 362,
+                    "comments": 17,
+                    "shares": 82,
+                    "reach": 551
+                }
+            ],
+            "total_sales_attributed": 4821.067747374852
+        }
+    ]
+}

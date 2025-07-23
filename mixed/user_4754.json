@@ -1,0 +1,26 @@
+{
+    "user_id": "d4102704-f21c-47c6-9648-25fe7caf1de6",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Nader, O'Connell and Larson",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 31,
+                    "reach": 1018
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

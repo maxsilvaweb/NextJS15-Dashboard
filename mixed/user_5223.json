@@ -1,0 +1,26 @@
+{
+    "user_id": "f3effc67-b1d3-4043-a265-b4c1103b10af",
+    "name": "Eva Okuneva",
+    "email": "Robb22@yahoo.com",
+    "instagram_handle": "@Bryana6",
+    "tiktok_handle": "@Rodrick34",
+    "joined_at": "2024-04-27T09:08:17.249Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8ff7b6f7-d3e9-4b5e-ba12-b3613e8815c9",
+            "brand": "Moore Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "c9ae4521-27b8-4be8-b5ce-e8ddb20e1e74",
+                    "platform": "Instagram",
+                    "post_url": "https://physical-stay.net",
+                    "likes": 14,
+                    "comments": 0,
+                    "shares": 2,
+                    "reach": 2671
+                }
+            ],
+            "total_sales_attributed": 1793.9493301519283
+        }
+    ]
+}

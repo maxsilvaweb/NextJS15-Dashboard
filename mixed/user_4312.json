@@ -1,0 +1,26 @@
+{
+    "user_id": "e4300fa1-5215-4bfe-8103-a41bf2313378",
+    "name": "???",
+    "email": "Dolly.Will91@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 41,
+                    "shares": 0,
+                    "reach": 596
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

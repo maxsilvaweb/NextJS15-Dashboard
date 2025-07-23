@@ -1,0 +1,26 @@
+{
+    "user_id": "5d6ba955-4ae7-4237-aa73-42c330f28178",
+    "name": "Jake Bailey",
+    "email": "Floy_Gottlieb@gmail.com",
+    "instagram_handle": "@Maverick_Stehr23",
+    "tiktok_handle": "@Henderson.Goyette",
+    "joined_at": "2024-09-14T22:44:06.963Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5677d28e-cdc4-4428-8156-7b413dd031d4",
+            "brand": "Flatley and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "7a820929-31ee-465c-84fa-ee7e002094ab",
+                    "platform": "TikTok",
+                    "post_url": "https://second-hand-meal.biz/",
+                    "likes": 60,
+                    "comments": 44,
+                    "shares": 35,
+                    "reach": 7001
+                }
+            ],
+            "total_sales_attributed": 1211.780401707134
+        }
+    ]
+}

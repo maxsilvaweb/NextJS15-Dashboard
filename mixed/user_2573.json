@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Norma Thompson",
+    "email": "invalid-email",
+    "instagram_handle": "@Easter.Boehm92",
+    "tiktok_handle": "@Matteo40",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Jacobson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://grim-swim.net",
+                    "likes": "NaN",
+                    "comments": 23,
+                    "shares": 31,
+                    "reach": 3255
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

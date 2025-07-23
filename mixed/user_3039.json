@@ -1,0 +1,26 @@
+{
+    "user_id": "33036a45-79a8-42f2-88dc-4b420fe00b27",
+    "name": "Emanuel Schultz",
+    "email": "Al_Rippin21@hotmail.com",
+    "instagram_handle": "@Maddison.Gerhold",
+    "tiktok_handle": "@Ross3",
+    "joined_at": "2024-08-08T23:32:42.537Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e448eb77-1bb7-45d7-b530-008252d51513",
+            "brand": "Lemke - Parker",
+            "tasks_completed": [
+                {
+                    "task_id": "63a90a89-98f0-4b16-99c0-ed66293e4bac",
+                    "platform": "TikTok",
+                    "post_url": "https://rural-passport.net",
+                    "likes": 271,
+                    "comments": 0,
+                    "shares": 14,
+                    "reach": 1892
+                }
+            ],
+            "total_sales_attributed": 643.9933616463805
+        }
+    ]
+}

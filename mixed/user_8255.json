@@ -1,0 +1,26 @@
+{
+    "user_id": "8c1388e8-a17d-4bf0-8e06-ce853a5949ae",
+    "name": "Shannon Stroman",
+    "email": "Hollie.Daugherty@gmail.com",
+    "instagram_handle": "@Ilene_Schuppe-Wisozk95",
+    "tiktok_handle": "@Donna.Ratke16",
+    "joined_at": "2024-08-10T22:05:44.841Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a24609ba-6958-412c-a7f8-547add0f07e8",
+            "brand": "Larson, Considine and McCullough",
+            "tasks_completed": [
+                {
+                    "task_id": "c15e50b1-63e9-4438-a7ed-9899ab4b1953",
+                    "platform": "Instagram",
+                    "post_url": "https://every-colonialism.name",
+                    "likes": 133,
+                    "comments": 30,
+                    "shares": 60,
+                    "reach": 5117
+                }
+            ],
+            "total_sales_attributed": 149.39571829505365
+        }
+    ]
+}

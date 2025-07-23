@@ -1,0 +1,26 @@
+{
+    "user_id": "32203475-bfdf-4490-bbd3-278a72e0a7f3",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Sincere8",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://showy-castanet.net",
+                    "likes": "NaN",
+                    "comments": 26,
+                    "shares": 94,
+                    "reach": 6797
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

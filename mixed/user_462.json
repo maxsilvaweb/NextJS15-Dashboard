@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Tamara.Bartell-Nikolaus38",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-05-03T03:51:12.485Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3c5a9e6b-5428-4f36-9e2d-dc481a0018e1",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 10,
+                    "shares": 21,
+                    "reach": 3065
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

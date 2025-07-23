@@ -1,0 +1,26 @@
+{
+    "user_id": "35bd2183-9dc2-4d00-89f1-cb8254069cb4",
+    "name": "Lewis Marks",
+    "email": "Enrico99@gmail.com",
+    "instagram_handle": "@Johnnie_OConnell31",
+    "tiktok_handle": "@Alana.Hartmann33",
+    "joined_at": "2024-05-18T17:42:59.391Z",
+    "advocacy_programs": [
+        {
+            "program_id": "934d6579-88de-4b89-bbf2-ce6ef1fb2616",
+            "brand": "Crooks - Pacocha",
+            "tasks_completed": [
+                {
+                    "task_id": "8fb81cc3-fdad-4b18-8076-07900214eaea",
+                    "platform": "TikTok",
+                    "post_url": "https://gentle-publication.name",
+                    "likes": 17,
+                    "comments": 17,
+                    "shares": 90,
+                    "reach": 7294
+                }
+            ],
+            "total_sales_attributed": 4062.9097733549024
+        }
+    ]
+}

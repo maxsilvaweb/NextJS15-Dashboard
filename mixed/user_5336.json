@@ -1,0 +1,26 @@
+{
+    "user_id": "827190d1-a75a-46be-b030-77e019a996c8",
+    "name": "Dr. Darrin Kerluke",
+    "email": "Kayley.Bailey@hotmail.com",
+    "instagram_handle": "@Stanford_Casper-Spencer",
+    "tiktok_handle": "@Caleb61",
+    "joined_at": "2024-06-07T18:43:08.257Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f3db5898-e146-40de-9b76-378e6dea1946",
+            "brand": "Hayes - Weissnat",
+            "tasks_completed": [
+                {
+                    "task_id": "8bbeda40-7893-433a-abb6-fbc8bac0c541",
+                    "platform": "TikTok",
+                    "post_url": "https://nautical-antelope.name",
+                    "likes": 28,
+                    "comments": 6,
+                    "shares": 54,
+                    "reach": 2386
+                }
+            ],
+            "total_sales_attributed": 2475.7204141056113
+        }
+    ]
+}

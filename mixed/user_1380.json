@@ -1,0 +1,26 @@
+{
+    "user_id": "cc7b148e-2f48-4150-a6c9-63647318badb",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Cummerata Group",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 6,
+                    "shares": 24,
+                    "reach": 4249
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

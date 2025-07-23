@@ -1,0 +1,26 @@
+{
+    "user_id": "25117de9-5895-4bab-b7f0-459e44a606df",
+    "name": "Eva Spinka",
+    "email": "Micaela31@yahoo.com",
+    "instagram_handle": "@Katrine_Bashirian-Emmerich",
+    "tiktok_handle": "@Rocio36",
+    "joined_at": "2024-05-16T03:40:58.150Z",
+    "advocacy_programs": [
+        {
+            "program_id": "140d423b-93ab-477c-a30c-7189949cb178",
+            "brand": "Kemmer Group",
+            "tasks_completed": [
+                {
+                    "task_id": "5b6847d1-0b2b-4732-82cb-7ca736a86fa6",
+                    "platform": "Instagram",
+                    "post_url": "https://foolhardy-nun.net/",
+                    "likes": 456,
+                    "comments": 46,
+                    "shares": 84,
+                    "reach": 7686
+                }
+            ],
+            "total_sales_attributed": 3224.9257914472164
+        }
+    ]
+}

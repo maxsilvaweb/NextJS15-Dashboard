@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Rodolfo.Davis33",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "e8678b2d-a523-496b-9a1a-42958526cef0",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://deficient-newsstand.com/",
+                    "likes": 450,
+                    "comments": null,
+                    "shares": 63,
+                    "reach": 645
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

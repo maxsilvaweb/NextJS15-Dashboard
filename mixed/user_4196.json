@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Haag, Dibbert and Kling",
+            "tasks_completed": [
+                {
+                    "task_id": "f4ada08d-ed59-4134-813f-e9737446f265",
+                    "platform": "TikTok",
+                    "post_url": "https://overcooked-packaging.info/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 82,
+                    "reach": 6207
+                }
+            ],
+            "total_sales_attributed": 4491.461468024658
+        }
+    ]
+}

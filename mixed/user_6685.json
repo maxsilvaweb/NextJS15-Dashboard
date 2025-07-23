@@ -1,0 +1,26 @@
+{
+    "user_id": "5d16a8d8-f187-4374-a813-85ee950392d5",
+    "name": "Fannie Walker",
+    "email": "Minnie90@hotmail.com",
+    "instagram_handle": "@Betty48",
+    "tiktok_handle": "@Jonatan.Sporer16",
+    "joined_at": "2024-07-21T00:10:20.586Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8b590475-db4f-497d-a495-deaf199f7ddb",
+            "brand": "Altenwerth, Schmitt and Bradtke",
+            "tasks_completed": [
+                {
+                    "task_id": "135b4574-8c1c-4f74-adf8-a74e91079aea",
+                    "platform": "TikTok",
+                    "post_url": "https://angelic-dependency.info/",
+                    "likes": 157,
+                    "comments": 44,
+                    "shares": 79,
+                    "reach": 994
+                }
+            ],
+            "total_sales_attributed": 3825.975453570189
+        }
+    ]
+}

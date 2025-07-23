@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Haley, Wehner and Mayert",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://compassionate-doorpost.info",
+                    "likes": 353,
+                    "comments": null,
+                    "shares": 11,
+                    "reach": 9887
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

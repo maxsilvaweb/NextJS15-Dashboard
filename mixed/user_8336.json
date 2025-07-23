@@ -1,0 +1,26 @@
+{
+    "user_id": "d686bb3d-c945-407a-8f54-3ab2d336f1f2",
+    "name": "Alberta Braun",
+    "email": "Rene_Bode@hotmail.com",
+    "instagram_handle": "@Demarco_Grady",
+    "tiktok_handle": "@Gwendolyn94",
+    "joined_at": "2025-02-03T00:23:40.815Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d27e3f55-b457-46f3-8020-1542df5672cc",
+            "brand": "Kerluke, O'Hara and Howell",
+            "tasks_completed": [
+                {
+                    "task_id": "46d40fba-5b29-485d-8981-cbba75075234",
+                    "platform": "Instagram",
+                    "post_url": "https://golden-scenario.info/",
+                    "likes": 79,
+                    "comments": 50,
+                    "shares": 60,
+                    "reach": 4833
+                }
+            ],
+            "total_sales_attributed": 900.0324318839399
+        }
+    ]
+}

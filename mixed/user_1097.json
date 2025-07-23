@@ -1,0 +1,26 @@
+{
+    "user_id": "32e05f26-2057-40fc-aa32-b4ee6050e9bb",
+    "name": "Thomas Pacocha",
+    "email": "Elyse.Ziemann@yahoo.com",
+    "instagram_handle": "@Patsy.Boyle45",
+    "tiktok_handle": "@Jayne.Mosciski13",
+    "joined_at": "2024-05-20T08:25:43.964Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e26b6193-77be-4755-a3fc-0eb6c23194ff",
+            "brand": "Legros, Borer and Larkin",
+            "tasks_completed": [
+                {
+                    "task_id": "f558c618-7681-4b43-a718-93bc3d2eb624",
+                    "platform": "TikTok",
+                    "post_url": "https://torn-diversity.org/",
+                    "likes": 482,
+                    "comments": 29,
+                    "shares": 73,
+                    "reach": 7385
+                }
+            ],
+            "total_sales_attributed": 4992.814470849372
+        }
+    ]
+}

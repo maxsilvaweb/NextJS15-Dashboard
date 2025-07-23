@@ -1,0 +1,26 @@
+{
+    "user_id": "8cd24233-b276-4d87-8359-bdf27fd53bc0",
+    "name": "Orville Harvey",
+    "email": "Alvis70@hotmail.com",
+    "instagram_handle": "@Mariano.Morar62",
+    "tiktok_handle": "@Webster48",
+    "joined_at": "2024-12-02T16:20:48.557Z",
+    "advocacy_programs": [
+        {
+            "program_id": "279ef0f1-f289-4472-a7cc-82495b472bc0",
+            "brand": "Weber, Quigley and Weimann",
+            "tasks_completed": [
+                {
+                    "task_id": "a5aa7450-59a0-42f3-a704-e64d06734186",
+                    "platform": "TikTok",
+                    "post_url": "https://reckless-elevation.org/",
+                    "likes": 186,
+                    "comments": 7,
+                    "shares": 41,
+                    "reach": 6316
+                }
+            ],
+            "total_sales_attributed": 3409.285353066472
+        }
+    ]
+}

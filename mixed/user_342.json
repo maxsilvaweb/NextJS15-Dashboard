@@ -1,0 +1,26 @@
+{
+    "user_id": "3772221c-8bbe-489d-b5bc-a39505b18b60",
+    "name": "Dawn Muller",
+    "email": "Nicolette_Hettinger@yahoo.com",
+    "instagram_handle": "@Bo.Kohler30",
+    "tiktok_handle": "@Burdette_Trantow",
+    "joined_at": "2024-12-22T01:42:57.027Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6647bf3b-fc29-46e5-af5e-bd6b9755ae44",
+            "brand": "Lubowitz - Rice",
+            "tasks_completed": [
+                {
+                    "task_id": "39ccb6c2-0873-4b28-9aab-45310a35c2e3",
+                    "platform": "Instagram",
+                    "post_url": "https://brave-popularity.info/",
+                    "likes": 134,
+                    "comments": 50,
+                    "shares": 84,
+                    "reach": 9560
+                }
+            ],
+            "total_sales_attributed": 838.42467473061
+        }
+    ]
+}

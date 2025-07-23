@@ -1,0 +1,26 @@
+{
+    "user_id": "51528461-5a22-4f98-9ef6-0f7aa17f6a73",
+    "name": "Fred Botsford",
+    "email": "Rosanna50@gmail.com",
+    "instagram_handle": "@Ryleigh_Bogisich",
+    "tiktok_handle": "@Ayla60",
+    "joined_at": "2024-04-29T00:20:30.120Z",
+    "advocacy_programs": [
+        {
+            "program_id": "90a90d8a-efe7-42b2-9e52-3ed17711eab6",
+            "brand": "Beatty, Spinka and Kiehn",
+            "tasks_completed": [
+                {
+                    "task_id": "4d46dda7-28bf-47b7-b92b-187f34254f54",
+                    "platform": "Instagram",
+                    "post_url": "https://vague-chiffonier.name",
+                    "likes": 310,
+                    "comments": 47,
+                    "shares": 84,
+                    "reach": 3366
+                }
+            ],
+            "total_sales_attributed": 2877.1228347377546
+        }
+    ]
+}

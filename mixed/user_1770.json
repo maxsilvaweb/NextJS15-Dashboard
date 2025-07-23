@@ -1,0 +1,26 @@
+{
+    "user_id": "0faf4593-68c4-4347-a9d6-1d82f367a6b1",
+    "name": "Drew Windler",
+    "email": "Liana_Dooley93@gmail.com",
+    "instagram_handle": "@Joshua2",
+    "tiktok_handle": "@Madisyn.Kub",
+    "joined_at": "2024-12-10T14:20:44.694Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a22840b6-3895-40cb-a0ed-3dc1589c8be6",
+            "brand": "Steuber and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "14173b2e-ccb9-454d-a183-6c8e9c68a7a3",
+                    "platform": "TikTok",
+                    "post_url": "https://gorgeous-intellect.com",
+                    "likes": 138,
+                    "comments": 0,
+                    "shares": 65,
+                    "reach": 2608
+                }
+            ],
+            "total_sales_attributed": 2771.329027398268
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8da20fd7-131c-44d9-9f80-02123b24cf51",
+    "name": "Jody Blanda",
+    "email": "Marlee14@yahoo.com",
+    "instagram_handle": "@Amira35",
+    "tiktok_handle": "@Jessica35",
+    "joined_at": "2024-11-07T22:40:38.262Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8e30db5e-dbbf-41eb-8145-4eeb1e1ca5a6",
+            "brand": "Baumbach - Legros",
+            "tasks_completed": [
+                {
+                    "task_id": "f0498979-f043-486a-9562-d6a9a31e0301",
+                    "platform": "TikTok",
+                    "post_url": "https://sugary-negotiation.org",
+                    "likes": 373,
+                    "comments": 13,
+                    "shares": 16,
+                    "reach": 2034
+                }
+            ],
+            "total_sales_attributed": 2166.5616709133456
+        }
+    ]
+}

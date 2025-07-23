@@ -1,0 +1,26 @@
+{
+    "user_id": "265dbc77-a7a5-4892-8e2d-69e10222ffff",
+    "name": "Blake Koss V",
+    "email": "Nils.Bode@yahoo.com",
+    "instagram_handle": "@Izaiah.Witting",
+    "tiktok_handle": "@Joyce.Schaden14",
+    "joined_at": "2024-11-08T04:22:05.247Z",
+    "advocacy_programs": [
+        {
+            "program_id": "57b9c4d0-39a6-48c1-861b-5fe9b72c4f4b",
+            "brand": "Hayes - Legros",
+            "tasks_completed": [
+                {
+                    "task_id": "dd72b6b1-3d79-4c48-aef2-f90f5fde0cc6",
+                    "platform": "Instagram",
+                    "post_url": "https://bogus-bend.org/",
+                    "likes": 329,
+                    "comments": 12,
+                    "shares": 42,
+                    "reach": 6175
+                }
+            ],
+            "total_sales_attributed": 3879.0009015944197
+        }
+    ]
+}

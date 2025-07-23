@@ -1,0 +1,26 @@
+{
+    "user_id": "75d4fef8-4fd0-4a80-9774-b1f739de4641",
+    "name": "Sammy Blick",
+    "email": "Sigrid17@yahoo.com",
+    "instagram_handle": "@Kellie16",
+    "tiktok_handle": "@Cyril76",
+    "joined_at": "2024-06-16T13:22:51.010Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dc6fee1a-8471-4bbd-b4e8-937527953b0b",
+            "brand": "Blanda - O'Kon",
+            "tasks_completed": [
+                {
+                    "task_id": "4f637018-1917-4920-8f26-f763d76b9eff",
+                    "platform": "Instagram",
+                    "post_url": "https://quarrelsome-wombat.name",
+                    "likes": 257,
+                    "comments": 34,
+                    "shares": 88,
+                    "reach": 9240
+                }
+            ],
+            "total_sales_attributed": 239.84057727570826
+        }
+    ]
+}

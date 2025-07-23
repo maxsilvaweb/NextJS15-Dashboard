@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Predovic Group",
+            "tasks_completed": [
+                {
+                    "task_id": "eb2e9d44-6a6f-4eab-82ec-895b8a40e768",
+                    "platform": 123,
+                    "post_url": "https://putrid-detective.info/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 18,
+                    "reach": 5721
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

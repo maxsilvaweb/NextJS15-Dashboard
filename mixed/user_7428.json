@@ -1,0 +1,26 @@
+{
+    "user_id": "6a667aa0-d235-4d39-a8a3-328cb81b69f3",
+    "name": "Francisco Fisher",
+    "email": "Leilani93@yahoo.com",
+    "instagram_handle": "@Clay.Gutmann14",
+    "tiktok_handle": "@Charlene49",
+    "joined_at": "2024-08-20T11:54:27.161Z",
+    "advocacy_programs": [
+        {
+            "program_id": "068db264-d571-4141-b04d-d1a17597136c",
+            "brand": "Willms - Walter",
+            "tasks_completed": [
+                {
+                    "task_id": "66b5b85f-f8fa-45f3-a1fd-0382c215c1f0",
+                    "platform": "Instagram",
+                    "post_url": "https://good-natured-fund.org/",
+                    "likes": 136,
+                    "comments": 26,
+                    "shares": 6,
+                    "reach": 3799
+                }
+            ],
+            "total_sales_attributed": 1641.0738800849915
+        }
+    ]
+}

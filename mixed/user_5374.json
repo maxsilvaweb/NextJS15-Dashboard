@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "8f27945c-fb72-4fe0-9d8d-e8916311f105",
+            "brand": "Senger, Towne and Gerhold",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 97,
+                    "reach": 6458
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

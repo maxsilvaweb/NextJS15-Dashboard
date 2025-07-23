@@ -1,0 +1,26 @@
+{
+    "user_id": "7646ae96-b69b-4be6-9942-428987c17309",
+    "name": "Maxine O'Conner",
+    "email": "Austyn49@yahoo.com",
+    "instagram_handle": "@Colby8",
+    "tiktok_handle": "@Stacy_Casper",
+    "joined_at": "2024-05-24T13:48:11.699Z",
+    "advocacy_programs": [
+        {
+            "program_id": "67c7bddb-31f2-4be5-88a0-0106738603f0",
+            "brand": "Hamill Group",
+            "tasks_completed": [
+                {
+                    "task_id": "3080ba92-3dff-4675-9561-d3a7b7ef894e",
+                    "platform": "TikTok",
+                    "post_url": "https://scientific-trick.name/",
+                    "likes": 322,
+                    "comments": 24,
+                    "shares": 82,
+                    "reach": 7943
+                }
+            ],
+            "total_sales_attributed": 2319.639429205851
+        }
+    ]
+}

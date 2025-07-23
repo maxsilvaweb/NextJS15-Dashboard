@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Pollich Group",
+            "tasks_completed": [
+                {
+                    "task_id": "6ae577c0-37a2-471c-94a1-1064ef8c93b6",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 0,
+                    "reach": 5656
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

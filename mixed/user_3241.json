@@ -1,0 +1,26 @@
+{
+    "user_id": "fd341bcd-d0b5-4fc0-ad17-1ae1961446a7",
+    "name": "Kevin Abernathy",
+    "email": "Russell29@gmail.com",
+    "instagram_handle": "@Jose.McGlynn",
+    "tiktok_handle": "@Casey.Gottlieb66",
+    "joined_at": "2024-07-12T18:55:12.441Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f3fe1af9-03e4-4fd6-acf6-dfb62256ce27",
+            "brand": "Stanton, Wintheiser and Murazik",
+            "tasks_completed": [
+                {
+                    "task_id": "83ca66b8-a0e8-42fc-b3aa-643793145746",
+                    "platform": "TikTok",
+                    "post_url": "https://honorable-adult.org/",
+                    "likes": 169,
+                    "comments": 21,
+                    "shares": 69,
+                    "reach": 3760
+                }
+            ],
+            "total_sales_attributed": 3696.4369896648946
+        }
+    ]
+}

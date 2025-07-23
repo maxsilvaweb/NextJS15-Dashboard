@@ -1,0 +1,26 @@
+{
+    "user_id": "dafdfba4-8ebd-455a-8ad1-1c61a447d423",
+    "name": "Dustin Turner",
+    "email": "Cristobal.Rolfson1@hotmail.com",
+    "instagram_handle": "@Edyth.Metz21",
+    "tiktok_handle": "@Carolyn15",
+    "joined_at": "2024-07-11T19:30:43.058Z",
+    "advocacy_programs": [
+        {
+            "program_id": "104e3b5c-32ce-4b4a-bf08-99df0ea9f59e",
+            "brand": "Bednar Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ef0bf516-12c4-4bb0-a6a1-66e68a0ae2f6",
+                    "platform": "TikTok",
+                    "post_url": "https://monumental-tooth.com/",
+                    "likes": 205,
+                    "comments": 19,
+                    "shares": 61,
+                    "reach": 8628
+                }
+            ],
+            "total_sales_attributed": 1496.976411928869
+        }
+    ]
+}

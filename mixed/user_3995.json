@@ -1,0 +1,26 @@
+{
+    "user_id": "c6cf2d50-115a-4f90-a235-d811a7baeec5",
+    "name": "Della Kozey",
+    "email": "Dominique84@gmail.com",
+    "instagram_handle": "@Hilda.Stoltenberg78",
+    "tiktok_handle": "@Garry_Rolfson64",
+    "joined_at": "2025-02-04T16:26:51.504Z",
+    "advocacy_programs": [
+        {
+            "program_id": "019d847c-848b-413f-8dd2-e336327c03ab",
+            "brand": "Strosin - O'Kon",
+            "tasks_completed": [
+                {
+                    "task_id": "80a51c00-2f97-4561-ba11-06ebeab57c2c",
+                    "platform": "TikTok",
+                    "post_url": "https://terrible-vibration.net",
+                    "likes": 289,
+                    "comments": 45,
+                    "shares": 78,
+                    "reach": 6251
+                }
+            ],
+            "total_sales_attributed": 2339.6488371025557
+        }
+    ]
+}

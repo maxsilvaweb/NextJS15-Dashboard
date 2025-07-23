@@ -1,0 +1,26 @@
+{
+    "user_id": "49e73a9c-9e8c-4883-aaba-5478ca2166fe",
+    "name": "George VonRueden",
+    "email": "Jordon.Bartoletti93@yahoo.com",
+    "instagram_handle": "@Virginia_Hane",
+    "tiktok_handle": "@Giovanny.Jakubowski17",
+    "joined_at": "2024-08-03T18:37:11.616Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ac286918-c4a9-4eb5-b2ba-4005ae664b1b",
+            "brand": "Kirlin, Kassulke and Spencer",
+            "tasks_completed": [
+                {
+                    "task_id": "9929531f-19e3-4388-b0bf-a5bf1e2ac8fa",
+                    "platform": "TikTok",
+                    "post_url": "https://shady-toothpick.net",
+                    "likes": 454,
+                    "comments": 3,
+                    "shares": 20,
+                    "reach": 2442
+                }
+            ],
+            "total_sales_attributed": 2352.6205444932143
+        }
+    ]
+}

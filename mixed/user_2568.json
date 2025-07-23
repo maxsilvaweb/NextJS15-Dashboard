@@ -1,0 +1,26 @@
+{
+    "user_id": "161b31d5-42c7-47f1-84e2-a852a830b63e",
+    "name": "Ronnie Bayer",
+    "email": "Ariel10@gmail.com",
+    "instagram_handle": "@Magdalen.Maggio",
+    "tiktok_handle": "@Ida_Robel-Kunde",
+    "joined_at": "2024-09-06T20:37:28.279Z",
+    "advocacy_programs": [
+        {
+            "program_id": "715b2780-96ca-48a9-9c5a-c5f636164be2",
+            "brand": "Bailey - Adams",
+            "tasks_completed": [
+                {
+                    "task_id": "06a8a1e9-9ebf-4701-b14b-bbfe952069a0",
+                    "platform": "TikTok",
+                    "post_url": "https://corny-tray.name",
+                    "likes": 125,
+                    "comments": 20,
+                    "shares": 28,
+                    "reach": 7366
+                }
+            ],
+            "total_sales_attributed": 2988.217929196766
+        }
+    ]
+}

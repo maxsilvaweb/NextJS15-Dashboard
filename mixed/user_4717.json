@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Sophia.Ferry6@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-04-11T12:39:56.014Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://smug-density.com",
+                    "likes": 420,
+                    "comments": null,
+                    "shares": 13,
+                    "reach": 647
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

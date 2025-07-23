@@ -1,0 +1,26 @@
+{
+    "user_id": "232a533e-a6e8-4815-8974-b004e9a1479d",
+    "name": "Evan Turcotte Jr.",
+    "email": "Raheem.Altenwerth41@hotmail.com",
+    "instagram_handle": "@Gideon_Wunsch",
+    "tiktok_handle": "@Adele_Kutch",
+    "joined_at": "2024-09-07T06:59:15.015Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cefbce31-d20c-47c7-83d1-9114da00d9ff",
+            "brand": "Rolfson, Davis and Grady",
+            "tasks_completed": [
+                {
+                    "task_id": "f7c5659a-55b7-422e-8f03-f2b1a5e7b3f4",
+                    "platform": "TikTok",
+                    "post_url": "https://whole-citizen.name/",
+                    "likes": 406,
+                    "comments": 38,
+                    "shares": 82,
+                    "reach": 4551
+                }
+            ],
+            "total_sales_attributed": 2461.387192793129
+        }
+    ]
+}

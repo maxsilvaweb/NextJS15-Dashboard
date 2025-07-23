@@ -1,0 +1,26 @@
+{
+    "user_id": "d384205d-ae56-4509-9e05-8d85d2e7832d",
+    "name": "Janice Borer",
+    "email": "Maximilian_Lesch@yahoo.com",
+    "instagram_handle": "@Verona_Reilly",
+    "tiktok_handle": "@Dorian62",
+    "joined_at": "2024-06-18T01:25:04.737Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8961e4df-881e-49de-97f6-4aaf85d9d007",
+            "brand": "Cummerata, Carter and Schmeler",
+            "tasks_completed": [
+                {
+                    "task_id": "9cb9deeb-f01a-41dd-9472-9ad10eff79b8",
+                    "platform": "Instagram",
+                    "post_url": "https://nocturnal-academics.info",
+                    "likes": 298,
+                    "comments": 18,
+                    "shares": 39,
+                    "reach": 4914
+                }
+            ],
+            "total_sales_attributed": 1393.603508729779
+        }
+    ]
+}

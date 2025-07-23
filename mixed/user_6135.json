@@ -1,0 +1,26 @@
+{
+    "user_id": "d391353a-4305-400e-99d5-0560082a25db",
+    "name": "Lester Okuneva",
+    "email": "Corine10@gmail.com",
+    "instagram_handle": "@Gerda97",
+    "tiktok_handle": "@Aubree91",
+    "joined_at": "2025-01-16T06:15:39.116Z",
+    "advocacy_programs": [
+        {
+            "program_id": "15efea6b-bb5f-4474-b3de-e40dc1530134",
+            "brand": "Cummerata - Schmeler",
+            "tasks_completed": [
+                {
+                    "task_id": "b2d50485-3f39-43ce-8aaf-5927dfe72f1b",
+                    "platform": "TikTok",
+                    "post_url": "https://mushy-vein.net",
+                    "likes": 286,
+                    "comments": 15,
+                    "shares": 94,
+                    "reach": 7419
+                }
+            ],
+            "total_sales_attributed": 792.4427036091988
+        }
+    ]
+}

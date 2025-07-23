@@ -1,0 +1,26 @@
+{
+    "user_id": "2bb7012f-b61c-42a0-a277-80b5889a3e26",
+    "name": "Rex Paucek",
+    "email": "Arvilla.Mraz-Stroman@hotmail.com",
+    "instagram_handle": "@Kellie60",
+    "tiktok_handle": "@Alberto_Kassulke11",
+    "joined_at": "2024-04-25T18:49:06.671Z",
+    "advocacy_programs": [
+        {
+            "program_id": "29ec587d-74d8-49fb-a9bc-910dfa6ebba9",
+            "brand": "Lesch Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "c348bb8c-a540-4418-9fec-1c036aaddc10",
+                    "platform": "TikTok",
+                    "post_url": "https://each-accountability.name/",
+                    "likes": 199,
+                    "comments": 32,
+                    "shares": 32,
+                    "reach": 1513
+                }
+            ],
+            "total_sales_attributed": 2907.502793781312
+        }
+    ]
+}

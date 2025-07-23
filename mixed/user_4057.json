@@ -1,0 +1,25 @@
+{
+    "user_id": "352e9166-e11e-4e63-af29-fef906a99490",
+    "name": "???",
+    "email": "Karlie_Gerhold@hotmail.com",
+    "instagram_handle": "@Floyd_Monahan76",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 36,
+                    "reach": 7632
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

@@ -1,0 +1,26 @@
+{
+    "user_id": "c8207f87-f36a-4ba8-a680-2e3a6d015509",
+    "name": "Eva Batz",
+    "email": "Stone_Wuckert-Littel@yahoo.com",
+    "instagram_handle": "@Alisa_Rohan",
+    "tiktok_handle": "@Alfredo72",
+    "joined_at": "2024-07-27T18:40:38.015Z",
+    "advocacy_programs": [
+        {
+            "program_id": "523a5461-d28d-435c-8c5f-418206de65bf",
+            "brand": "Prohaska Group",
+            "tasks_completed": [
+                {
+                    "task_id": "40059ec9-ef4a-45ec-af54-9e59b600f396",
+                    "platform": "Instagram",
+                    "post_url": "https://brown-developmental.name",
+                    "likes": 202,
+                    "comments": 21,
+                    "shares": 64,
+                    "reach": 3210
+                }
+            ],
+            "total_sales_attributed": 4313.65502430553
+        }
+    ]
+}

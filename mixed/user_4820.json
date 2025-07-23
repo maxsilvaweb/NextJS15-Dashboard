@@ -1,0 +1,26 @@
+{
+    "user_id": "827f01c0-7dfe-49a0-9ed4-84131d6c7848",
+    "name": "Dr. Nancy Nolan",
+    "email": "Tre.Hane@hotmail.com",
+    "instagram_handle": "@Olen91",
+    "tiktok_handle": "@Candelario_Grant73",
+    "joined_at": "2024-06-18T15:40:32.042Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cd7101a0-d764-4c48-b26e-b0f3ac5802c1",
+            "brand": "Lowe Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "74147f16-a25e-41c2-bdb8-28d2a16b418d",
+                    "platform": "TikTok",
+                    "post_url": "https://short-technologist.info/",
+                    "likes": 14,
+                    "comments": 48,
+                    "shares": 12,
+                    "reach": 7274
+                }
+            ],
+            "total_sales_attributed": 4682.64755385624
+        }
+    ]
+}

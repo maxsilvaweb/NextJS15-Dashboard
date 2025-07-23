@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "e82665b5-27db-4ad7-84a5-ee46168c0605",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://dependent-lid.biz",
+                    "likes": 362,
+                    "comments": null,
+                    "shares": 23,
+                    "reach": 6707
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

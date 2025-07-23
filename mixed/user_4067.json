@@ -1,0 +1,26 @@
+{
+    "user_id": "bebd984e-e9c7-4860-b197-1433fdc3a971",
+    "name": "Theresa Dibbert",
+    "email": "Brycen82@hotmail.com",
+    "instagram_handle": "@Jonathon73",
+    "tiktok_handle": "@Ashtyn84",
+    "joined_at": "2025-02-09T01:31:38.463Z",
+    "advocacy_programs": [
+        {
+            "program_id": "51e58121-7a61-45cb-97c0-5e50ab75347f",
+            "brand": "Rau - Pollich",
+            "tasks_completed": [
+                {
+                    "task_id": "a5110815-4417-4600-a879-6313b29b84b3",
+                    "platform": "TikTok",
+                    "post_url": "https://bulky-equal.info",
+                    "likes": 340,
+                    "comments": 39,
+                    "shares": 21,
+                    "reach": 3505
+                }
+            ],
+            "total_sales_attributed": 2530.133590452816
+        }
+    ]
+}

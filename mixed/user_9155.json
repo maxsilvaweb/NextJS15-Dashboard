@@ -1,0 +1,26 @@
+{
+    "user_id": "9cc0cc41-c9e4-4066-8533-ff3c3119d8af",
+    "name": "Walter Fay",
+    "email": "Maryam.Brakus9@hotmail.com",
+    "instagram_handle": "@Eldora83",
+    "tiktok_handle": "@Jake38",
+    "joined_at": "2024-04-13T19:08:41.715Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c9f578f1-83a2-476d-a781-ab5769030ebc",
+            "brand": "Moore - Corwin",
+            "tasks_completed": [
+                {
+                    "task_id": "93d394c6-d927-47f1-a115-71524ca09c88",
+                    "platform": "TikTok",
+                    "post_url": "https://optimistic-community.org",
+                    "likes": 287,
+                    "comments": 42,
+                    "shares": 75,
+                    "reach": 6234
+                }
+            ],
+            "total_sales_attributed": 2424.2827997566633
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "f878c0f1-f548-458f-9124-6e2b033c008d",
+    "name": "Neal Schmidt PhD",
+    "email": "Abdiel_Klein@hotmail.com",
+    "instagram_handle": "@Jordy.Toy47",
+    "tiktok_handle": "@Alba_Littel",
+    "joined_at": "2024-06-11T22:56:41.556Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0ea5ecd5-3a9b-4688-a2ab-6cb5d454ed0d",
+            "brand": "Deckow, Durgan and Green",
+            "tasks_completed": [
+                {
+                    "task_id": "8349c241-bd0a-4449-913f-87c4d23fdfd0",
+                    "platform": "Instagram",
+                    "post_url": "https://extroverted-celsius.org/",
+                    "likes": 306,
+                    "comments": 49,
+                    "shares": 31,
+                    "reach": 9312
+                }
+            ],
+            "total_sales_attributed": 4091.971373912083
+        }
+    ]
+}

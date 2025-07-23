@@ -1,0 +1,26 @@
+{
+    "user_id": "757b6891-35d0-4244-a8e8-a0ea25ff2285",
+    "name": "Camille Corwin",
+    "email": "Luis91@gmail.com",
+    "instagram_handle": "@Sally47",
+    "tiktok_handle": "@Ryann_Barton",
+    "joined_at": "2024-11-03T13:14:40.859Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1afa7cba-bb1e-4eb4-ab63-fd8cb8c41cbd",
+            "brand": "Beer - Heidenreich",
+            "tasks_completed": [
+                {
+                    "task_id": "0de58b2f-d1d0-4f0c-b17f-25d3ae84add7",
+                    "platform": "TikTok",
+                    "post_url": "https://quiet-planula.org",
+                    "likes": 86,
+                    "comments": 20,
+                    "shares": 81,
+                    "reach": 6902
+                }
+            ],
+            "total_sales_attributed": 3835.380463432208
+        }
+    ]
+}

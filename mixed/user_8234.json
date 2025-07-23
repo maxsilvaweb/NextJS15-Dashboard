@@ -1,0 +1,26 @@
+{
+    "user_id": "6c0e354f-3a6b-43a4-bf51-b296d9514ed1",
+    "name": "Opal Nader",
+    "email": "Chance.Wiegand@hotmail.com",
+    "instagram_handle": "@Anderson_Prosacco",
+    "tiktok_handle": "@Vincent57",
+    "joined_at": "2024-12-31T15:15:04.121Z",
+    "advocacy_programs": [
+        {
+            "program_id": "91fdb6d7-0224-4180-b62d-d52d7be963f5",
+            "brand": "Morissette - Stehr",
+            "tasks_completed": [
+                {
+                    "task_id": "fce596e8-3737-4b2b-b26e-5a1c3601d400",
+                    "platform": "TikTok",
+                    "post_url": "https://back-hundred.name",
+                    "likes": 32,
+                    "comments": 16,
+                    "shares": 85,
+                    "reach": 9212
+                }
+            ],
+            "total_sales_attributed": 4509.485757843184
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4eee535d-8338-4361-9d07-e2a9b4cefc99",
+    "name": "Sonja Cruickshank",
+    "email": "Chadd46@yahoo.com",
+    "instagram_handle": "@Tristian_Terry",
+    "tiktok_handle": "@Enoch8",
+    "joined_at": "2025-02-25T23:35:14.949Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b41b47d9-30ea-475b-ad04-947da73af25b",
+            "brand": "Koch, Marquardt and Bogan",
+            "tasks_completed": [
+                {
+                    "task_id": "7ed96bfe-3c92-4cb3-80cd-d2ca06f642ed",
+                    "platform": "Instagram",
+                    "post_url": "https://cuddly-solution.org",
+                    "likes": 407,
+                    "comments": 43,
+                    "shares": 56,
+                    "reach": 5929
+                }
+            ],
+            "total_sales_attributed": 1047.6612027482402
+        }
+    ]
+}

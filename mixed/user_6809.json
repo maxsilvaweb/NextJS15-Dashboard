@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Cortez48@gmail.com",
+    "instagram_handle": "@Ophelia_Wyman",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://far-flung-essence.info",
+                    "likes": 94,
+                    "comments": 35,
+                    "shares": 71,
+                    "reach": 8540
+                }
+            ],
+            "total_sales_attributed": 1857.1418718790908
+        }
+    ]
+}

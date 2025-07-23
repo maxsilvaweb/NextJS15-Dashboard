@@ -1,0 +1,26 @@
+{
+    "user_id": "22060082-8647-42e3-9417-039c73c72ce4",
+    "name": "Alex Schiller",
+    "email": "Tommie53@hotmail.com",
+    "instagram_handle": "@Alexis.Bergnaum",
+    "tiktok_handle": "@Trudie.Yundt",
+    "joined_at": "2024-04-17T12:39:05.134Z",
+    "advocacy_programs": [
+        {
+            "program_id": "949cf0ae-678f-44f2-94af-62e9ef3c6e0f",
+            "brand": "Bogisich, Kunde and Swift",
+            "tasks_completed": [
+                {
+                    "task_id": "42ec6ce1-4f75-40f4-9c1c-f7196b0f6d8f",
+                    "platform": "TikTok",
+                    "post_url": "https://meaty-scout.name",
+                    "likes": 234,
+                    "comments": 1,
+                    "shares": 76,
+                    "reach": 2133
+                }
+            ],
+            "total_sales_attributed": 2222.7294878354464
+        }
+    ]
+}

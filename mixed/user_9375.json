@@ -1,0 +1,26 @@
+{
+    "user_id": "56f05f79-6f23-461d-a9f9-9f3d84757f44",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Elfrieda93",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 1,
+                    "shares": 84,
+                    "reach": 4764
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

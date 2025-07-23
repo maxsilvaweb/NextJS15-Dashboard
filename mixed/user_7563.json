@@ -1,0 +1,26 @@
+{
+    "user_id": "aae49216-d504-4c9a-a208-baa049f4c90e",
+    "name": "Theodore Rosenbaum",
+    "email": "Maximillia_Pfeffer9@hotmail.com",
+    "instagram_handle": "@Holly52",
+    "tiktok_handle": "@Julian.Dickinson",
+    "joined_at": "2024-12-05T16:19:01.164Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5f19ee1f-7ea3-4138-9355-f4e21318bae8",
+            "brand": "Breitenberg, Gerhold and Hyatt",
+            "tasks_completed": [
+                {
+                    "task_id": "46d48d4e-ea7a-469b-9bbf-7284f11144c1",
+                    "platform": "TikTok",
+                    "post_url": "https://lovable-scorn.biz/",
+                    "likes": 422,
+                    "comments": 28,
+                    "shares": 21,
+                    "reach": 8552
+                }
+            ],
+            "total_sales_attributed": 969.8929585414888
+        }
+    ]
+}

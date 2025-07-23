@@ -1,0 +1,26 @@
+{
+    "user_id": "b01f10c9-098e-4fb2-9914-60d305632a81",
+    "name": "Kenneth Krajcik Jr.",
+    "email": "Brigitte58@hotmail.com",
+    "instagram_handle": "@Jordyn.Fay",
+    "tiktok_handle": "@Emanuel43",
+    "joined_at": "2024-09-11T08:22:45.351Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f91dc7c1-8066-4a18-a2b6-8edd7ceb128c",
+            "brand": "Jacobi Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "7678ab9e-5ec2-424a-8607-71a7df326046",
+                    "platform": "TikTok",
+                    "post_url": "https://obedient-ice-cream.net/",
+                    "likes": 431,
+                    "comments": 25,
+                    "shares": 43,
+                    "reach": 1847
+                }
+            ],
+            "total_sales_attributed": 3346.5642591967294
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6655d48b-cab2-4634-8e8c-166ea7082b9a",
+    "name": "Ora Hills",
+    "email": "Helga84@gmail.com",
+    "instagram_handle": "@Nicola73",
+    "tiktok_handle": "@Kendra32",
+    "joined_at": "2024-10-25T06:20:08.114Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f0cae269-c8a1-4066-891e-8e5d910d480c",
+            "brand": "Hermann - Tillman",
+            "tasks_completed": [
+                {
+                    "task_id": "8402db47-5191-4ec4-91d3-50504a3ba765",
+                    "platform": "Instagram",
+                    "post_url": "https://foolhardy-castanet.net",
+                    "likes": 68,
+                    "comments": 43,
+                    "shares": 48,
+                    "reach": 7904
+                }
+            ],
+            "total_sales_attributed": 2614.246537297651
+        }
+    ]
+}

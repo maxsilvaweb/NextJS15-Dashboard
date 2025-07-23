@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "4ca11579-2938-4582-b5eb-4f3d1d2e834d",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://intrepid-petal.info",
+                    "likes": 321,
+                    "comments": 33,
+                    "shares": 3,
+                    "reach": 7440
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

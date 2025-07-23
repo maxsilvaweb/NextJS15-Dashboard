@@ -1,0 +1,26 @@
+{
+    "user_id": "b304e812-3a0e-48ea-b796-e557370ffc1a",
+    "name": "Mark Jones",
+    "email": "Sandra71@yahoo.com",
+    "instagram_handle": "@Jayce69",
+    "tiktok_handle": "@Cathrine67",
+    "joined_at": "2024-10-27T07:25:52.268Z",
+    "advocacy_programs": [
+        {
+            "program_id": "50fa78a9-7fdc-4b58-b3dc-e6614c173bcf",
+            "brand": "Ferry - Ledner",
+            "tasks_completed": [
+                {
+                    "task_id": "d663cae4-5d71-4a98-9f7f-fafc7c96c10b",
+                    "platform": "TikTok",
+                    "post_url": "https://ripe-discourse.name",
+                    "likes": 325,
+                    "comments": 40,
+                    "shares": 96,
+                    "reach": 1634
+                }
+            ],
+            "total_sales_attributed": 3841.291737969298
+        }
+    ]
+}

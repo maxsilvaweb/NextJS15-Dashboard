@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Kuhn, Bruen and Thiel",
+            "tasks_completed": [
+                {
+                    "task_id": "12fa7723-014d-49b8-b8a6-9752ce8761fe",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 56,
+                    "reach": 4529
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

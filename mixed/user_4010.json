@@ -1,0 +1,26 @@
+{
+    "user_id": "40707aff-90e4-4e6e-a878-496b3c407099",
+    "name": "Debra Effertz DDS",
+    "email": "Shanie_Kunze@yahoo.com",
+    "instagram_handle": "@Corrine75",
+    "tiktok_handle": "@Jeramy.Klocko",
+    "joined_at": "2024-08-31T16:39:25.252Z",
+    "advocacy_programs": [
+        {
+            "program_id": "64bb5e1f-81ca-464a-a8b1-9626a71dd9c4",
+            "brand": "Green - Kovacek",
+            "tasks_completed": [
+                {
+                    "task_id": "df5babbe-159a-4b20-85c4-cbd48c01597c",
+                    "platform": "TikTok",
+                    "post_url": "https://legal-diagram.biz",
+                    "likes": 245,
+                    "comments": 50,
+                    "shares": 33,
+                    "reach": 4988
+                }
+            ],
+            "total_sales_attributed": 2303.366433131746
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Randy33",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "42883039-54b9-45be-8adc-3bc412413f87",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "9bbf4f43-6eb9-4d29-a3b6-6483111ba423",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 48,
+                    "reach": 6750
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

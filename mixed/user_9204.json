@@ -1,0 +1,26 @@
+{
+    "user_id": "93185ccb-58a6-4bbf-960b-bc4499ae1b0d",
+    "name": "Homer Hand-Auer",
+    "email": "Nick_Jast@yahoo.com",
+    "instagram_handle": "@Rodrigo.Weissnat45",
+    "tiktok_handle": "@Devon_Goodwin",
+    "joined_at": "2025-01-26T01:16:04.149Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a481b3bd-e3ab-4b45-b6c8-86478cc2f929",
+            "brand": "Reilly, Cartwright and Bernhard",
+            "tasks_completed": [
+                {
+                    "task_id": "0786183c-6c70-45eb-8da0-5427a4d3c76d",
+                    "platform": "Instagram",
+                    "post_url": "https://electric-citizen.net/",
+                    "likes": 59,
+                    "comments": 28,
+                    "shares": 96,
+                    "reach": 6834
+                }
+            ],
+            "total_sales_attributed": 1006.7709657654782
+        }
+    ]
+}

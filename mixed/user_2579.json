@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Karlee.Jones67@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "94d03ebd-6ec1-4683-b6d6-2320b26f49ea",
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 31,
+                    "shares": 89,
+                    "reach": 2813
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

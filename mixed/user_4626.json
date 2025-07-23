@@ -1,0 +1,26 @@
+{
+    "user_id": "fe5ed64f-670a-4964-8709-7e566ddbbdaa",
+    "name": "Diana Wiegand",
+    "email": "Odie.Bergstrom59@yahoo.com",
+    "instagram_handle": "@Lily.Spinka",
+    "tiktok_handle": "@Allie29",
+    "joined_at": "2024-04-11T17:56:34.169Z",
+    "advocacy_programs": [
+        {
+            "program_id": "de5424c0-4ffb-49e9-96d2-f97efdb405a4",
+            "brand": "Ankunding - Stroman",
+            "tasks_completed": [
+                {
+                    "task_id": "235f640b-adee-4cd3-8d71-14f42755f88e",
+                    "platform": "TikTok",
+                    "post_url": "https://comfortable-swing.org",
+                    "likes": 393,
+                    "comments": 18,
+                    "shares": 0,
+                    "reach": 8474
+                }
+            ],
+            "total_sales_attributed": 4737.405554831739
+        }
+    ]
+}

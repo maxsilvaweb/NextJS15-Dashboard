@@ -1,0 +1,26 @@
+{
+    "user_id": "7fad8737-b1b4-48bd-86b1-a225dec0b4c2",
+    "name": "Sonja Yost",
+    "email": "Joyce1@gmail.com",
+    "instagram_handle": "@Daija_Orn54",
+    "tiktok_handle": "@Joelle.Parker",
+    "joined_at": "2024-10-04T10:56:10.187Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6616f45d-dd3f-4204-8ea8-d061f791c3eb",
+            "brand": "Runte and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "11c4ef36-c69e-4705-aa52-f21013113504",
+                    "platform": "TikTok",
+                    "post_url": "https://boring-account.org",
+                    "likes": 382,
+                    "comments": 28,
+                    "shares": 96,
+                    "reach": 6956
+                }
+            ],
+            "total_sales_attributed": 1220.6829921228423
+        }
+    ]
+}

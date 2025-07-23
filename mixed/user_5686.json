@@ -1,0 +1,26 @@
+{
+    "user_id": "095025ae-66dd-41d6-9f93-55225fd97146",
+    "name": "Carol Ortiz",
+    "email": "Darrion53@hotmail.com",
+    "instagram_handle": "@Malachi.Klein66",
+    "tiktok_handle": "@Rolando46",
+    "joined_at": "2024-06-05T23:04:17.292Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0f5ac6f5-4eb3-4753-b6a2-b8ec72a0fa98",
+            "brand": "Torphy - Morar",
+            "tasks_completed": [
+                {
+                    "task_id": "6c4c8aa7-04dd-4392-9d14-92d370ebdf6d",
+                    "platform": "Instagram",
+                    "post_url": "https://unhappy-ruin.net/",
+                    "likes": 156,
+                    "comments": 30,
+                    "shares": 60,
+                    "reach": 2664
+                }
+            ],
+            "total_sales_attributed": 3338.332187329391
+        }
+    ]
+}

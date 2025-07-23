@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Jeramy_Kulas89@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "3ff25c2f-27e7-4f34-90a2-a08ec12f8333",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "81972e55-e9cc-4577-865c-6e798ca06c42",
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 87,
+                    "reach": 3078
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4b14305d-b817-4e75-b7e1-ab7aafaba9a4",
+    "name": "James Raynor",
+    "email": "Warren65@hotmail.com",
+    "instagram_handle": "@Patsy.Denesik",
+    "tiktok_handle": "@Cleve_Orn",
+    "joined_at": "2025-01-09T05:49:24.406Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ceb54db8-d8c8-4c52-b421-66254bb29d74",
+            "brand": "Marquardt - Schiller",
+            "tasks_completed": [
+                {
+                    "task_id": "14c7ff8c-39c7-4df4-8694-43d711708205",
+                    "platform": "TikTok",
+                    "post_url": "https://motionless-hose.net",
+                    "likes": 457,
+                    "comments": 40,
+                    "shares": 12,
+                    "reach": 2957
+                }
+            ],
+            "total_sales_attributed": 1832.0011915527048
+        }
+    ]
+}

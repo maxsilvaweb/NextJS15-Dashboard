@@ -1,0 +1,26 @@
+{
+    "user_id": "52769f89-33e2-413b-8d0b-6249d0b0d3db",
+    "name": "Stephanie Lueilwitz I",
+    "email": "Isidro_Dare@hotmail.com",
+    "instagram_handle": "@Zakary.Kiehn",
+    "tiktok_handle": "@Rogers.Dickens",
+    "joined_at": "2025-03-08T22:06:57.034Z",
+    "advocacy_programs": [
+        {
+            "program_id": "57dc878a-61d3-4412-b4ad-871ec918b27f",
+            "brand": "O'Hara and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "770898a4-e9ad-4c6b-8f73-34ac4c069da4",
+                    "platform": "TikTok",
+                    "post_url": "https://best-convection.net",
+                    "likes": 450,
+                    "comments": 50,
+                    "shares": 75,
+                    "reach": 7030
+                }
+            ],
+            "total_sales_attributed": 1894.2152164139388
+        }
+    ]
+}

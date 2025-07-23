@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Ritchie - Pollich",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://whole-swing.com/",
+                    "likes": "NaN",
+                    "comments": 15,
+                    "shares": 80,
+                    "reach": 631
+                }
+            ],
+            "total_sales_attributed": 3335.5283508777748
+        }
+    ]
+}

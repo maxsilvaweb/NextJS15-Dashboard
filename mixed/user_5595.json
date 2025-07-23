@@ -1,0 +1,26 @@
+{
+    "user_id": "d434e59a-9161-4e1e-9ac6-a1314868bb7b",
+    "name": "Grace Nader",
+    "email": "Hortense97@gmail.com",
+    "instagram_handle": "@Vincenza_Williamson59",
+    "tiktok_handle": "@Bryana.Rohan",
+    "joined_at": "2024-05-07T09:02:04.945Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f63e104a-f4a4-492f-a95e-da97085e459c",
+            "brand": "Pfeffer - Rippin",
+            "tasks_completed": [
+                {
+                    "task_id": "130d8847-6ea8-4602-a8f9-b4dcca7c4246",
+                    "platform": "Instagram",
+                    "post_url": "https://cuddly-digestive.com",
+                    "likes": 321,
+                    "comments": 14,
+                    "shares": 70,
+                    "reach": 7656
+                }
+            ],
+            "total_sales_attributed": 2836.4133649604487
+        }
+    ]
+}

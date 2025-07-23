@@ -1,0 +1,26 @@
+{
+    "user_id": "250a101e-a64b-450d-90f8-9eca75f595d2",
+    "name": "Chelsea Graham",
+    "email": "Vernon_Rosenbaum@gmail.com",
+    "instagram_handle": "@Tracey50",
+    "tiktok_handle": "@Gina.Maggio",
+    "joined_at": "2024-11-26T16:44:41.404Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a840e1ca-5d13-453b-bf41-df7a63e431bf",
+            "brand": "Hansen - O'Connell",
+            "tasks_completed": [
+                {
+                    "task_id": "83cb7b1d-617d-4414-857c-6438ae691b64",
+                    "platform": "Instagram",
+                    "post_url": "https://stunning-farm.name",
+                    "likes": 308,
+                    "comments": 17,
+                    "shares": 23,
+                    "reach": 4082
+                }
+            ],
+            "total_sales_attributed": 2313.532475334598
+        }
+    ]
+}

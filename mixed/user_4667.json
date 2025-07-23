@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "O'Reilly - Daniel",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://aggressive-newsprint.org",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 100,
+                    "reach": 2203
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

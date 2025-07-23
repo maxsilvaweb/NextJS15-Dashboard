@@ -1,0 +1,26 @@
+{
+    "user_id": "8a7f75f0-d39a-4834-b5ed-8580861d07c1",
+    "name": "Aaron Koepp",
+    "email": "Misty23@yahoo.com",
+    "instagram_handle": "@Russel_Roberts",
+    "tiktok_handle": "@Alejandrin.Kuhn54",
+    "joined_at": "2024-08-24T14:52:40.684Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cf71369f-f203-45c8-8c31-1fac5763f1f4",
+            "brand": "Herman, Grant and Medhurst",
+            "tasks_completed": [
+                {
+                    "task_id": "bf15f892-7fc3-42e2-b25b-d9ebe20d3313",
+                    "platform": "Instagram",
+                    "post_url": "https://which-skeleton.com/",
+                    "likes": 211,
+                    "comments": 13,
+                    "shares": 55,
+                    "reach": 7386
+                }
+            ],
+            "total_sales_attributed": 1962.6945358772573
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "968a00a0-9711-4d6f-8206-df9e3fb3d03b",
+    "name": "Pat Champlin",
+    "email": "Darren_Batz@hotmail.com",
+    "instagram_handle": "@Bret44",
+    "tiktok_handle": "@Dorian83",
+    "joined_at": "2024-09-16T07:07:54.602Z",
+    "advocacy_programs": [
+        {
+            "program_id": "92c22486-8328-4b9c-8a34-5f4fe3672cb0",
+            "brand": "Ondricka, Hodkiewicz and Champlin",
+            "tasks_completed": [
+                {
+                    "task_id": "52121cc1-4c51-4bc9-8264-593d35496943",
+                    "platform": "TikTok",
+                    "post_url": "https://awesome-reporter.info/",
+                    "likes": 217,
+                    "comments": 31,
+                    "shares": 80,
+                    "reach": 3085
+                }
+            ],
+            "total_sales_attributed": 4186.037264611201
+        }
+    ]
+}

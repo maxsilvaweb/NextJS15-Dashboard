@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-06-13T05:28:31.970Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Rempel, Ferry and Swaniawski",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://sorrowful-marathon.name",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 46,
+                    "reach": 4506
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

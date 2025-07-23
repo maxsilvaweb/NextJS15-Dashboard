@@ -1,0 +1,26 @@
+{
+    "user_id": "2b582b26-eb4e-4a32-a480-061632932fcb",
+    "name": "Sonya Block",
+    "email": "Halie_Erdman46@hotmail.com",
+    "instagram_handle": "@Anais_Lesch-Jacobi",
+    "tiktok_handle": "@Jessyca_Waelchi",
+    "joined_at": "2024-07-28T22:56:15.946Z",
+    "advocacy_programs": [
+        {
+            "program_id": "56e36a0a-382a-4781-8298-44e7215046c5",
+            "brand": "Waters - Gottlieb",
+            "tasks_completed": [
+                {
+                    "task_id": "6c4232b0-20e2-4acd-a107-5a5cccf43994",
+                    "platform": "Instagram",
+                    "post_url": "https://oddball-sermon.info/",
+                    "likes": 347,
+                    "comments": 25,
+                    "shares": 94,
+                    "reach": 2013
+                }
+            ],
+            "total_sales_attributed": 2503.7269486131454
+        }
+    ]
+}

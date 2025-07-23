@@ -1,0 +1,26 @@
+{
+    "user_id": "1fd74b86-4049-40f2-83e7-e5684ac4536a",
+    "name": "Marty Cassin",
+    "email": "Candice64@hotmail.com",
+    "instagram_handle": "@Elsie36",
+    "tiktok_handle": "@Magdalen.Jakubowski",
+    "joined_at": "2024-08-31T15:50:01.053Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cd8d8bbe-3ded-44dd-9c97-dc15d8d64f17",
+            "brand": "Pagac LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a1f56c1d-5088-416d-b932-f0201610993f",
+                    "platform": "TikTok",
+                    "post_url": "https://bitter-reorganisation.name/",
+                    "likes": 295,
+                    "comments": 24,
+                    "shares": 62,
+                    "reach": 4414
+                }
+            ],
+            "total_sales_attributed": 860.5499399327398
+        }
+    ]
+}

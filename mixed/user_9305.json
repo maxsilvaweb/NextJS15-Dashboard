@@ -1,0 +1,26 @@
+{
+    "user_id": "0c538a78-ddef-4ab0-8742-21e0dd3e1f42",
+    "name": "Constance Torphy",
+    "email": "Alicia.Sipes@hotmail.com",
+    "instagram_handle": "@Davin_Pfannerstill",
+    "tiktok_handle": "@Emery.Lehner42",
+    "joined_at": "2024-06-06T05:45:35.328Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ed9efa5b-a757-4e8d-ad56-0efd9f543cb7",
+            "brand": "O'Hara, Jaskolski and Gutkowski",
+            "tasks_completed": [
+                {
+                    "task_id": "d51a6b2d-5856-429a-b1ce-e2a185ae5ea7",
+                    "platform": "TikTok",
+                    "post_url": "https://neighboring-marathon.com/",
+                    "likes": 329,
+                    "comments": 46,
+                    "shares": 83,
+                    "reach": 747
+                }
+            ],
+            "total_sales_attributed": 1930.2444116345416
+        }
+    ]
+}

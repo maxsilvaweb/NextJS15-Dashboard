@@ -1,0 +1,26 @@
+{
+    "user_id": "b9a9fd3d-8a94-42fa-a81d-f1f37c0bad0f",
+    "name": "Walter Jenkins",
+    "email": "Tabitha.West@yahoo.com",
+    "instagram_handle": "@Brooklyn92",
+    "tiktok_handle": "@Caleigh90",
+    "joined_at": "2024-08-05T04:36:51.112Z",
+    "advocacy_programs": [
+        {
+            "program_id": "025bc24f-0ea9-455c-8ae3-7e9419785fa8",
+            "brand": "Zulauf - Ziemann",
+            "tasks_completed": [
+                {
+                    "task_id": "818e6514-6e4b-49ed-9d5f-db9415430272",
+                    "platform": "Instagram",
+                    "post_url": "https://wavy-meadow.biz",
+                    "likes": 186,
+                    "comments": 29,
+                    "shares": 30,
+                    "reach": 8525
+                }
+            ],
+            "total_sales_attributed": 3576.053969963827
+        }
+    ]
+}

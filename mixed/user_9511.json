@@ -1,0 +1,26 @@
+{
+    "user_id": "4598a0eb-71b8-484e-851a-fe9d39a43d39",
+    "name": "Ollie Greenholt",
+    "email": "Dessie_Wolff@yahoo.com",
+    "instagram_handle": "@Ahmed.Osinski48",
+    "tiktok_handle": "@Gerard66",
+    "joined_at": "2025-03-14T21:21:37.104Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e7699750-7f2e-466e-8c2e-2fc1558625e5",
+            "brand": "O'Conner - Rolfson",
+            "tasks_completed": [
+                {
+                    "task_id": "a9d7d4b8-99a2-4c99-aa83-c695b18e8fbc",
+                    "platform": "TikTok",
+                    "post_url": "https://jagged-junior.info/",
+                    "likes": 330,
+                    "comments": 17,
+                    "shares": 9,
+                    "reach": 2586
+                }
+            ],
+            "total_sales_attributed": 4667.371513806712
+        }
+    ]
+}

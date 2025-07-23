@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Dexter40",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "e7f258ea-3e52-4d27-8dbf-b9cc57d3fb1c",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://actual-grandpa.net/",
+                    "likes": 392,
+                    "comments": 4,
+                    "shares": 81,
+                    "reach": 7212
+                }
+            ],
+            "total_sales_attributed": 4567.342379518087
+        }
+    ]
+}

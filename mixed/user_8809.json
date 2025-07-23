@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "dfd87367-e77b-4017-8998-84f0d7f74758",
+            "brand": "Sawayn - Mohr",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 33,
+                    "comments": null,
+                    "shares": 2,
+                    "reach": 8716
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

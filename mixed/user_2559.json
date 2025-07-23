@@ -1,0 +1,26 @@
+{
+    "user_id": "b00a2f32-a7d3-4f0f-941b-fd27f1f81f9c",
+    "name": "Alfonso Bernier",
+    "email": "Clemmie66@hotmail.com",
+    "instagram_handle": "@Jalyn_Berge65",
+    "tiktok_handle": "@Cara84",
+    "joined_at": "2024-07-20T11:07:07.105Z",
+    "advocacy_programs": [
+        {
+            "program_id": "683727a4-7502-4d1b-b330-02ef07e569ff",
+            "brand": "Effertz Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "507bf0e1-1bc4-4dca-bf90-ba2d70faf12f",
+                    "platform": "TikTok",
+                    "post_url": "https://productive-hunger.name",
+                    "likes": 295,
+                    "comments": 5,
+                    "shares": 55,
+                    "reach": 835
+                }
+            ],
+            "total_sales_attributed": 2094.1165714471804
+        }
+    ]
+}

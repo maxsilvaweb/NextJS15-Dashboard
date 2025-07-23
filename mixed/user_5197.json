@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Melba74@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "0fb0aded-8edf-4623-9904-0551e4cf469e",
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 27,
+                    "shares": 77,
+                    "reach": 1457
+                }
+            ],
+            "total_sales_attributed": 4981.93620449245
+        }
+    ]
+}

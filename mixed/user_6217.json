@@ -1,0 +1,26 @@
+{
+    "user_id": "9331dee9-542c-4219-964f-ed7b147bae57",
+    "name": "Miss Clara Yost",
+    "email": "Lilly_Bosco@hotmail.com",
+    "instagram_handle": "@Ana.Smitham",
+    "tiktok_handle": "@Theron.Shields",
+    "joined_at": "2024-11-09T23:49:07.482Z",
+    "advocacy_programs": [
+        {
+            "program_id": "995dfc5a-7220-4687-999d-60f01b869560",
+            "brand": "Labadie and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "dc879d91-3c5c-43dc-a005-3e6d5d1c5769",
+                    "platform": "Instagram",
+                    "post_url": "https://dark-receptor.name",
+                    "likes": 162,
+                    "comments": 37,
+                    "shares": 94,
+                    "reach": 7966
+                }
+            ],
+            "total_sales_attributed": 297.7111500407809
+        }
+    ]
+}

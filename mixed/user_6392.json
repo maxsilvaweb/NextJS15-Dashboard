@@ -1,0 +1,26 @@
+{
+    "user_id": "9a8c69cb-d0f3-42e0-9803-001c6ae82239",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Gerhold, Blanda and Haley",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 26,
+                    "shares": 68,
+                    "reach": 2290
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bff951f1-9e4d-4087-b3ba-1e4501463fe0",
+    "name": "Sonja Konopelski",
+    "email": "Lela_Morar@yahoo.com",
+    "instagram_handle": "@Annamae.Nikolaus",
+    "tiktok_handle": "@Rolando.Parisian",
+    "joined_at": "2024-05-05T08:13:06.094Z",
+    "advocacy_programs": [
+        {
+            "program_id": "906bac93-6d30-4b26-bf2f-d12d645ca52a",
+            "brand": "Daugherty Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "77e05243-a226-4c79-bf23-f51ffa6fb02b",
+                    "platform": "Instagram",
+                    "post_url": "https://partial-summary.net",
+                    "likes": 67,
+                    "comments": 38,
+                    "shares": 40,
+                    "reach": 6932
+                }
+            ],
+            "total_sales_attributed": 4692.5066757822515
+        }
+    ]
+}

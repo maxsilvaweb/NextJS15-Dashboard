@@ -1,0 +1,26 @@
+{
+    "user_id": "76c8d145-4ee6-457d-bdc6-486934d45180",
+    "name": "Erin Connelly",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Price, Stiedemann and Breitenberg",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 13,
+                    "shares": 1,
+                    "reach": 1276
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

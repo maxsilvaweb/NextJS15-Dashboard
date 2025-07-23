@@ -1,0 +1,26 @@
+{
+    "user_id": "7ca900dd-37e0-4d3e-bd1d-9f3a8f53c762",
+    "name": "Wilson Schuppe",
+    "email": "Eloise9@hotmail.com",
+    "instagram_handle": "@Gia_Rutherford97",
+    "tiktok_handle": "@Afton.Reynolds",
+    "joined_at": "2025-01-02T03:16:54.466Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2fe9f42f-9f8d-4425-acfc-614b7f8c43b1",
+            "brand": "Cassin - Stoltenberg",
+            "tasks_completed": [
+                {
+                    "task_id": "a147a331-74e5-4080-8506-69a15afbb294",
+                    "platform": "TikTok",
+                    "post_url": "https://unfit-nerve.net/",
+                    "likes": 464,
+                    "comments": 4,
+                    "shares": 16,
+                    "reach": 8375
+                }
+            ],
+            "total_sales_attributed": 4352.356057587248
+        }
+    ]
+}

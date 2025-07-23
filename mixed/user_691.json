@@ -1,0 +1,26 @@
+{
+    "user_id": "5f653c2a-8272-4a4e-9b7f-2a37c285fb48",
+    "name": "Kristy Quigley",
+    "email": "Elouise_Sipes@gmail.com",
+    "instagram_handle": "@Amelie4",
+    "tiktok_handle": "@Layne.Harris-Olson41",
+    "joined_at": "2025-03-11T06:37:26.541Z",
+    "advocacy_programs": [
+        {
+            "program_id": "913f5c33-8189-40ca-9c01-35c108a07e18",
+            "brand": "Reilly, Mraz and Gerlach",
+            "tasks_completed": [
+                {
+                    "task_id": "e343ff78-c929-47a2-b4b8-87375e8ab71e",
+                    "platform": "TikTok",
+                    "post_url": "https://stark-teriyaki.org/",
+                    "likes": 452,
+                    "comments": 14,
+                    "shares": 19,
+                    "reach": 4444
+                }
+            ],
+            "total_sales_attributed": 223.73643028120674
+        }
+    ]
+}

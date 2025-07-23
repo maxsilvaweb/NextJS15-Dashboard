@@ -1,0 +1,26 @@
+{
+    "user_id": "cc8bade6-63a5-45f8-9648-cb8782dd8b6e",
+    "name": "Jackie Beer",
+    "email": "Serena_Kautzer54@yahoo.com",
+    "instagram_handle": "@Ericka.Hudson",
+    "tiktok_handle": "@Lafayette.Friesen",
+    "joined_at": "2024-08-20T15:02:38.583Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4fc0c452-b007-4dd9-a7ab-b0cd6135387f",
+            "brand": "Kuhn - Schoen",
+            "tasks_completed": [
+                {
+                    "task_id": "39d65ce7-d3b4-49c3-997f-bfba511c49cb",
+                    "platform": "TikTok",
+                    "post_url": "https://best-thread.info/",
+                    "likes": 365,
+                    "comments": 37,
+                    "shares": 76,
+                    "reach": 9806
+                }
+            ],
+            "total_sales_attributed": 441.0189029355558
+        }
+    ]
+}

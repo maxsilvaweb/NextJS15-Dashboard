@@ -1,0 +1,26 @@
+{
+    "user_id": "4e0c1ae7-e788-4e29-9f76-4357a9625959",
+    "name": "Mr. Gary Streich",
+    "email": "Arlie.Borer51@hotmail.com",
+    "instagram_handle": "@Carli23",
+    "tiktok_handle": "@Darren_Lind",
+    "joined_at": "2025-02-05T09:05:31.968Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5f391dac-fabc-4d60-ba71-17d65c76084e",
+            "brand": "Russel LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "200b1ee5-8020-4483-b624-ad94f3860217",
+                    "platform": "Instagram",
+                    "post_url": "https://cruel-scorpion.com",
+                    "likes": 17,
+                    "comments": 41,
+                    "shares": 82,
+                    "reach": 7317
+                }
+            ],
+            "total_sales_attributed": 2379.811252404046
+        }
+    ]
+}

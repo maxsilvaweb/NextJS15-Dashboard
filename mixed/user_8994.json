@@ -1,0 +1,26 @@
+{
+    "user_id": "3892f9b3-2234-4606-ba43-04125e3d4707",
+    "name": "Robyn Goyette",
+    "email": "Mia7@yahoo.com",
+    "instagram_handle": "@Melissa.Koelpin",
+    "tiktok_handle": "@Stella_Ward",
+    "joined_at": "2024-05-16T14:10:47.060Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fbc954ad-815f-4eea-b5bc-bbbe9f0840d3",
+            "brand": "Paucek, Cruickshank and Mills",
+            "tasks_completed": [
+                {
+                    "task_id": "8dc26738-9778-43c2-9a3e-9fa9b64e3259",
+                    "platform": "TikTok",
+                    "post_url": "https://brisk-scorpion.net",
+                    "likes": 93,
+                    "comments": 21,
+                    "shares": 54,
+                    "reach": 1812
+                }
+            ],
+            "total_sales_attributed": 4461.017078486013
+        }
+    ]
+}

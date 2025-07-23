@@ -1,0 +1,26 @@
+{
+    "user_id": "30a41cbf-cde3-4cf3-8911-62b3f5b1a180",
+    "name": "Dr. Josephine Beier MD",
+    "email": "Zackery.Sauer@gmail.com",
+    "instagram_handle": "@Deshaun23",
+    "tiktok_handle": "@Darren47",
+    "joined_at": "2024-05-05T16:10:54.167Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d4050703-b2c6-4c92-88f4-e902d85f9850",
+            "brand": "Rohan Group",
+            "tasks_completed": [
+                {
+                    "task_id": "36203fbc-e240-4bba-b833-e4c46b1cdf71",
+                    "platform": "Instagram",
+                    "post_url": "https://rowdy-knuckle.name/",
+                    "likes": 206,
+                    "comments": 12,
+                    "shares": 59,
+                    "reach": 6801
+                }
+            ],
+            "total_sales_attributed": 3451.1956831760413
+        }
+    ]
+}

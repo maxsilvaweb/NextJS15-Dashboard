@@ -1,0 +1,26 @@
+{
+    "user_id": "533a1f11-e56f-48b6-b01c-b99d9e2b46b9",
+    "name": "Billy Kertzmann",
+    "email": "Ari28@gmail.com",
+    "instagram_handle": "@Heber_Johns43",
+    "tiktok_handle": "@Ines.Kub57",
+    "joined_at": "2025-02-25T18:22:07.371Z",
+    "advocacy_programs": [
+        {
+            "program_id": "aecd00de-3a3d-4d3b-bbd9-7896226025c8",
+            "brand": "Ankunding and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "2d6f4993-2998-4102-85ed-6cdaaf3adb66",
+                    "platform": "Instagram",
+                    "post_url": "https://unwelcome-embarrassment.name",
+                    "likes": 236,
+                    "comments": 15,
+                    "shares": 77,
+                    "reach": 1963
+                }
+            ],
+            "total_sales_attributed": 3996.367099986286
+        }
+    ]
+}

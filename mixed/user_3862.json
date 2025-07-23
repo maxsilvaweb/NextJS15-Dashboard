@@ -1,0 +1,26 @@
+{
+    "user_id": "4febd52e-b3a7-4260-8ef4-cca2d9158585",
+    "name": "May Blanda",
+    "email": "Cesar.Collins19@yahoo.com",
+    "instagram_handle": "@Myah.Durgan",
+    "tiktok_handle": "@Blake.Ortiz",
+    "joined_at": "2024-04-26T06:04:00.583Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ffd8e796-13de-468f-b5ed-dbc0c6c74201",
+            "brand": "Carroll Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d9e3364e-a482-4a08-8646-dac8c6f922dd",
+                    "platform": "Instagram",
+                    "post_url": "https://remorseful-humor.org",
+                    "likes": 428,
+                    "comments": 41,
+                    "shares": 44,
+                    "reach": 5514
+                }
+            ],
+            "total_sales_attributed": 4209.864771967038
+        }
+    ]
+}

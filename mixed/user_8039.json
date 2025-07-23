@@ -1,0 +1,26 @@
+{
+    "user_id": "ab1628a9-bdbf-4a13-a887-a484c201f749",
+    "name": "Stephanie Zieme",
+    "email": "Zelma.Bernier46@hotmail.com",
+    "instagram_handle": "@Dessie.Wisozk",
+    "tiktok_handle": "@Graham_Franey",
+    "joined_at": "2024-08-20T09:42:48.525Z",
+    "advocacy_programs": [
+        {
+            "program_id": "29ac48e5-83da-41ab-8f2a-0b9a32ec09f3",
+            "brand": "Wisoky Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "80bfd94b-5848-43ee-b68f-527d1c0faef6",
+                    "platform": "Instagram",
+                    "post_url": "https://ideal-gazebo.name/",
+                    "likes": 457,
+                    "comments": 43,
+                    "shares": 76,
+                    "reach": 1900
+                }
+            ],
+            "total_sales_attributed": 1651.5843991101285
+        }
+    ]
+}

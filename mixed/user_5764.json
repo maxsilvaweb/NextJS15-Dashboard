@@ -1,0 +1,26 @@
+{
+    "user_id": "bdfb1152-eccb-45c1-bf8e-028de032d97d",
+    "name": "Natasha Ondricka",
+    "email": "Fritz.Boehm12@yahoo.com",
+    "instagram_handle": "@Leonel84",
+    "tiktok_handle": "@Marcos_Waelchi-Connelly25",
+    "joined_at": "2024-08-18T23:58:46.578Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e58f9db6-71e7-4c22-8b3c-a7b3e560e5c0",
+            "brand": "Herzog LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "3e8405c1-3f22-429b-8b48-ea3e57b9ae12",
+                    "platform": "TikTok",
+                    "post_url": "https://pure-spear.com/",
+                    "likes": 179,
+                    "comments": 36,
+                    "shares": 19,
+                    "reach": 3700
+                }
+            ],
+            "total_sales_attributed": 2416.5880267266475
+        }
+    ]
+}

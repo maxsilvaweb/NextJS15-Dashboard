@@ -1,0 +1,26 @@
+{
+    "user_id": "e4eb622a-8e89-4e7a-a1f7-06d05014001c",
+    "name": "Mr. Domingo Haley",
+    "email": "Jared.Mann24@gmail.com",
+    "instagram_handle": "@Mavis_Gerhold",
+    "tiktok_handle": "@Yvette_Rolfson",
+    "joined_at": "2025-01-06T00:38:41.311Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d357e91b-c7a5-4be8-a45d-df0f20390a9d",
+            "brand": "Hammes, Crona and Zboncak",
+            "tasks_completed": [
+                {
+                    "task_id": "c9a086e8-f5d3-4420-a3a9-0860a52c1b2e",
+                    "platform": "Instagram",
+                    "post_url": "https://educated-cinema.com/",
+                    "likes": 97,
+                    "comments": 38,
+                    "shares": 66,
+                    "reach": 3790
+                }
+            ],
+            "total_sales_attributed": 807.7071529157483
+        }
+    ]
+}

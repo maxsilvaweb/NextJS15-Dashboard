@@ -1,0 +1,26 @@
+{
+    "user_id": "5cfa7717-9f50-4234-912c-701b256a085a",
+    "name": "Esther Lueilwitz",
+    "email": "Jamal_Welch@gmail.com",
+    "instagram_handle": "@Dejuan.Orn54",
+    "tiktok_handle": "@Jeanne.Hegmann83",
+    "joined_at": "2024-11-09T18:19:28.746Z",
+    "advocacy_programs": [
+        {
+            "program_id": "45163d3e-8a46-4ea5-aaf2-f307a9454168",
+            "brand": "McLaughlin, Will and Douglas",
+            "tasks_completed": [
+                {
+                    "task_id": "c86ae68c-f72c-4849-9a80-934ecd979be3",
+                    "platform": "TikTok",
+                    "post_url": "https://neglected-chapel.com/",
+                    "likes": 162,
+                    "comments": 24,
+                    "shares": 54,
+                    "reach": 8647
+                }
+            ],
+            "total_sales_attributed": 4994.365926108431
+        }
+    ]
+}

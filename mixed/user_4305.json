@@ -1,0 +1,26 @@
+{
+    "user_id": "75dcaca9-ad59-486d-a671-a291411a540f",
+    "name": "Erma Effertz",
+    "email": "Agnes_Sauer97@gmail.com",
+    "instagram_handle": "@Alba.Kihn70",
+    "tiktok_handle": "@Derick2",
+    "joined_at": "2024-09-28T12:50:09.390Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b521a577-995b-449c-bea4-0bfd4aae6bcf",
+            "brand": "Schultz Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "ca44d892-c448-4e87-a340-f431467fbf66",
+                    "platform": "TikTok",
+                    "post_url": "https://bowed-tomatillo.info/",
+                    "likes": 332,
+                    "comments": 35,
+                    "shares": 72,
+                    "reach": 4829
+                }
+            ],
+            "total_sales_attributed": 2591.228663228702
+        }
+    ]
+}

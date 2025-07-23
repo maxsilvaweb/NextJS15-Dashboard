@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Marcel.Rippin15@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "88f6d2d7-66d8-453c-be08-89927cffb17c",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://digital-wedding.info/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 28,
+                    "reach": 8856
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

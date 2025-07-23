@@ -1,0 +1,26 @@
+{
+    "user_id": "39eacc00-9f08-420a-8dfa-11d4de64f115",
+    "name": "Jack Macejkovic",
+    "email": "Sonia_Macejkovic@hotmail.com",
+    "instagram_handle": "@Vallie.Pouros",
+    "tiktok_handle": "@Rashad.OReilly",
+    "joined_at": "2024-05-15T13:34:44.375Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8a9cd709-2867-4ccc-9c96-7535fc2fc95b",
+            "brand": "Hane, Marks and Murray",
+            "tasks_completed": [
+                {
+                    "task_id": "f04f8b11-8bad-4aef-ac39-af1e47b0a9ce",
+                    "platform": "TikTok",
+                    "post_url": "https://dutiful-diagram.net/",
+                    "likes": 164,
+                    "comments": 10,
+                    "shares": 96,
+                    "reach": 6930
+                }
+            ],
+            "total_sales_attributed": 1962.5594540606162
+        }
+    ]
+}

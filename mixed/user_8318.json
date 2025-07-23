@@ -1,0 +1,26 @@
+{
+    "user_id": "705957bb-aaae-4bd3-8012-8d0e663c46a6",
+    "name": "Mrs. Blanche Pollich",
+    "email": "Ariane.Barton-Hintz@hotmail.com",
+    "instagram_handle": "@Loraine64",
+    "tiktok_handle": "@Bradly_Stroman",
+    "joined_at": "2024-08-03T20:58:10.317Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8df28d52-3fdc-4c83-a3ef-f8bfda91ba5a",
+            "brand": "Rowe, Schimmel and Haag",
+            "tasks_completed": [
+                {
+                    "task_id": "8cfb4055-551e-4e06-8e39-946d39392ca7",
+                    "platform": "TikTok",
+                    "post_url": "https://friendly-ceramics.biz/",
+                    "likes": 251,
+                    "comments": 24,
+                    "shares": 57,
+                    "reach": 9644
+                }
+            ],
+            "total_sales_attributed": 3212.190469538057
+        }
+    ]
+}

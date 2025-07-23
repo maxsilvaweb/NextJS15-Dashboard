@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Dominic_Koepp@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "7a702a43-b448-4d9b-a9f9-b4226306a4bd",
+                    "platform": "TikTok",
+                    "post_url": "https://scaly-godfather.com/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 13,
+                    "reach": 1263
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "61bca8ce-1575-4f8a-92d0-a2c246b8e0a1",
+    "name": "Troy Hickle",
+    "email": "Lilyan_Schamberger@gmail.com",
+    "instagram_handle": "@Lourdes_Schmidt26",
+    "tiktok_handle": "@Delores53",
+    "joined_at": "2024-06-20T00:15:41.367Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ad457fb6-2f70-40b2-b2b9-c2b74eb84e20",
+            "brand": "Hayes LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5f387d78-ab74-4a77-887c-7892aa638f6f",
+                    "platform": "TikTok",
+                    "post_url": "https://round-attraction.name",
+                    "likes": 275,
+                    "comments": 15,
+                    "shares": 82,
+                    "reach": 8828
+                }
+            ],
+            "total_sales_attributed": 3065.6973622252135
+        }
+    ]
+}

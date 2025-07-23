@@ -1,0 +1,26 @@
+{
+    "user_id": "4412bd30-a291-484f-8d63-0bee532bee3f",
+    "name": "Lindsey Hagenes",
+    "email": "Ansley81@gmail.com",
+    "instagram_handle": "@Jovan_Johnston",
+    "tiktok_handle": "@Marcia_Purdy97",
+    "joined_at": "2024-11-04T19:39:38.449Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0b32806f-e563-40c7-9047-326b57762918",
+            "brand": "Jast LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5234a0ae-d41d-41af-9b43-62c3a6b763f4",
+                    "platform": "TikTok",
+                    "post_url": "https://familiar-acquaintance.org/",
+                    "likes": 222,
+                    "comments": 4,
+                    "shares": 81,
+                    "reach": 9283
+                }
+            ],
+            "total_sales_attributed": 4823.997051158275
+        }
+    ]
+}

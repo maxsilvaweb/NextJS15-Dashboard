@@ -1,0 +1,26 @@
+{
+    "user_id": "4535e9ce-5ad4-4c68-b666-2b84cc4c378b",
+    "name": "Dora Huels I",
+    "email": "Ewald_Kovacek92@yahoo.com",
+    "instagram_handle": "@Melany86",
+    "tiktok_handle": "@Alfonso.Crist23",
+    "joined_at": "2024-07-11T12:53:55.273Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ab028b66-9ede-419d-b35a-536c3dd414a9",
+            "brand": "Luettgen - Grant",
+            "tasks_completed": [
+                {
+                    "task_id": "65babb5b-b3c4-4d22-a444-4a9f5593f4fc",
+                    "platform": "TikTok",
+                    "post_url": "https://noteworthy-punctuation.biz/",
+                    "likes": 236,
+                    "comments": 12,
+                    "shares": 73,
+                    "reach": 9089
+                }
+            ],
+            "total_sales_attributed": 2823.1178763574076
+        }
+    ]
+}

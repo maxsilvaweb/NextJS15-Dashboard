@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Gina.Beahan73@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Carroll, Orn and D'Amore",
+            "tasks_completed": [
+                {
+                    "task_id": "9668e520-8148-450a-97a2-15194ad21d1d",
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 93,
+                    "reach": 1659
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

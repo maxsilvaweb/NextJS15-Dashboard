@@ -1,0 +1,26 @@
+{
+    "user_id": "7c9e905b-fec1-4709-a85b-75532bb4fec8",
+    "name": "Becky Reichel",
+    "email": "Mervin.Langosh@yahoo.com",
+    "instagram_handle": "@Yvette_Stanton",
+    "tiktok_handle": "@Llewellyn.Dare",
+    "joined_at": "2024-05-14T18:17:19.311Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ed56ad24-1e06-401c-9f59-7b99c5c8563e",
+            "brand": "Gleason, Mann and Donnelly",
+            "tasks_completed": [
+                {
+                    "task_id": "90c11efb-3c75-4ddc-91c5-5332380e44fe",
+                    "platform": "TikTok",
+                    "post_url": "https://unwieldy-battle.com",
+                    "likes": 369,
+                    "comments": 5,
+                    "shares": 61,
+                    "reach": 3607
+                }
+            ],
+            "total_sales_attributed": 3125.4582481768102
+        }
+    ]
+}

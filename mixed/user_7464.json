@@ -1,0 +1,26 @@
+{
+    "user_id": "703fd431-3816-4a8d-8589-0028223a5023",
+    "name": "Kelly Wehner",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "f35c84f3-f3c8-4a54-bc27-6285001944aa",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://outrageous-verve.biz",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 20,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

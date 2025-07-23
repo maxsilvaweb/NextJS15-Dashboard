@@ -1,0 +1,26 @@
+{
+    "user_id": "d43f80e3-f036-4a88-9ac8-959e309ce8d3",
+    "name": "Essie Wiegand",
+    "email": "Caroline45@gmail.com",
+    "instagram_handle": "@Judge56",
+    "tiktok_handle": "@Heath_Okuneva",
+    "joined_at": "2024-10-03T09:25:01.465Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0360a8b1-ec71-4c22-8805-747c20fa38fa",
+            "brand": "Renner, Donnelly and Dibbert",
+            "tasks_completed": [
+                {
+                    "task_id": "81fb4ecc-bc9e-4c0a-8625-4ae96b42d4a3",
+                    "platform": "TikTok",
+                    "post_url": "https://ruddy-swordfish.com",
+                    "likes": 432,
+                    "comments": 43,
+                    "shares": 91,
+                    "reach": 4696
+                }
+            ],
+            "total_sales_attributed": 1532.5818720647353
+        }
+    ]
+}

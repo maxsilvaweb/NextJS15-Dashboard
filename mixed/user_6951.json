@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "d40c18ae-4f10-42a9-89da-db3b5ab39edf",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://burly-whale.com/",
+                    "likes": "NaN",
+                    "comments": 2,
+                    "shares": 59,
+                    "reach": 6520
+                }
+            ],
+            "total_sales_attributed": 1136.7688673459768
+        }
+    ]
+}

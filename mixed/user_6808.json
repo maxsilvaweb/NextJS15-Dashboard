@@ -1,0 +1,26 @@
+{
+    "user_id": "38e14d79-8ce8-4feb-9abd-e9c3658691f7",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Braun - Flatley",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 436,
+                    "comments": null,
+                    "shares": 16,
+                    "reach": 6573
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

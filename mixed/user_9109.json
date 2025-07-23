@@ -1,0 +1,26 @@
+{
+    "user_id": "fa7c946c-d203-454e-a702-8db094c6b1c1",
+    "name": "Mr. Tomas Simonis",
+    "email": "Fletcher_Lesch35@yahoo.com",
+    "instagram_handle": "@Lonie_Sawayn39",
+    "tiktok_handle": "@Cristopher.Bruen77",
+    "joined_at": "2025-02-08T04:53:21.914Z",
+    "advocacy_programs": [
+        {
+            "program_id": "90ce990d-4a4a-4084-8548-66140e2132fe",
+            "brand": "Emard - Prosacco",
+            "tasks_completed": [
+                {
+                    "task_id": "6c1049a8-19b6-4165-8183-0aa8d7348906",
+                    "platform": "Instagram",
+                    "post_url": "https://optimal-climb.biz/",
+                    "likes": 63,
+                    "comments": 16,
+                    "shares": 21,
+                    "reach": 9910
+                }
+            ],
+            "total_sales_attributed": 4489.102392516536
+        }
+    ]
+}

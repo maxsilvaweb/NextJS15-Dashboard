@@ -1,0 +1,26 @@
+{
+    "user_id": "7db2dbda-43bb-4f22-a00c-6dc02da75277",
+    "name": "Wilbert Stamm",
+    "email": "Nayeli_Mills@yahoo.com",
+    "instagram_handle": "@Arlie.Bergnaum",
+    "tiktok_handle": "@Alvera38",
+    "joined_at": "2025-02-21T15:27:51.255Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fa8b8c92-7acb-4c63-934f-0cb002413523",
+            "brand": "Smitham - Conn",
+            "tasks_completed": [
+                {
+                    "task_id": "14836489-3f00-4ab0-845c-e892b4c7af7d",
+                    "platform": "Instagram",
+                    "post_url": "https://aware-analogy.com",
+                    "likes": 186,
+                    "comments": 8,
+                    "shares": 59,
+                    "reach": 7321
+                }
+            ],
+            "total_sales_attributed": 2586.648474434728
+        }
+    ]
+}

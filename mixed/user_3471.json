@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "83150e7a-2b1c-401a-a786-a707e2ded38e",
+                    "platform": "Facebook",
+                    "post_url": "https://affectionate-traditionalism.biz",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 86,
+                    "reach": 1939
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

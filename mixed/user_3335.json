@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Schneider LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "55ccdead-0ed3-4cbd-b311-a26600d3ef67",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 0,
+                    "reach": 6308
+                }
+            ],
+            "total_sales_attributed": 1328.5395281469548
+        }
+    ]
+}

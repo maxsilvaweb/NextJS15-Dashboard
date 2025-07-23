@@ -1,0 +1,26 @@
+{
+    "user_id": "52560ded-f310-4bc8-87da-becae2ac87a9",
+    "name": "Merle McClure",
+    "email": "Amara89@gmail.com",
+    "instagram_handle": "@Cathy36",
+    "tiktok_handle": "@Dorcas.Rath11",
+    "joined_at": "2024-11-30T01:56:44.703Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3fe8ce5a-c768-47a5-a627-bf0c55642650",
+            "brand": "Jerde Group",
+            "tasks_completed": [
+                {
+                    "task_id": "eacac768-791c-4518-9871-4544b74909ad",
+                    "platform": "Instagram",
+                    "post_url": "https://trained-sock.name",
+                    "likes": 57,
+                    "comments": 7,
+                    "shares": 73,
+                    "reach": 7128
+                }
+            ],
+            "total_sales_attributed": 972.6025192515224
+        }
+    ]
+}

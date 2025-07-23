@@ -1,0 +1,26 @@
+{
+    "user_id": "ce237fc1-4f44-4e1a-9995-36ee1133665b",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://sinful-waist.org/",
+                    "likes": "NaN",
+                    "comments": 8,
+                    "shares": 49,
+                    "reach": 4760
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

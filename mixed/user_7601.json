@@ -1,0 +1,26 @@
+{
+    "user_id": "02dcddf5-f1d8-4165-a2d9-e0b49c2d3ce3",
+    "name": "???",
+    "email": "Danika.Lesch64@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "0634a373-cfc9-4959-ab20-9177e53daf46",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 21,
+                    "shares": 79,
+                    "reach": 9227
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

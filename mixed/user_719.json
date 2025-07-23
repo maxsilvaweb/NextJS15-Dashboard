@@ -1,0 +1,26 @@
+{
+    "user_id": "a8ad49aa-2621-4daf-bd4a-d7079082981f",
+    "name": "Dr. Whitney Hartmann DVM",
+    "email": "Flo_Tillman-DuBuque44@hotmail.com",
+    "instagram_handle": "@Janice.Bauch",
+    "tiktok_handle": "@Dulce.Lynch",
+    "joined_at": "2024-07-19T00:23:48.629Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6bd91817-f9d0-43d1-8c47-bf50dfec4c55",
+            "brand": "Effertz, Walker and Koch",
+            "tasks_completed": [
+                {
+                    "task_id": "f4088759-b42a-4c80-97d1-3ec85485eabe",
+                    "platform": "TikTok",
+                    "post_url": "https://mammoth-makeover.org",
+                    "likes": 112,
+                    "comments": 0,
+                    "shares": 43,
+                    "reach": 4323
+                }
+            ],
+            "total_sales_attributed": 2917.133305641643
+        }
+    ]
+}

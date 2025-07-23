@@ -1,0 +1,26 @@
+{
+    "user_id": "d9d349ca-a1d0-4022-9ddf-581fb1a8ead6",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "1f78e68f-1f28-4070-97cc-32964f4289c0",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://extra-large-puritan.name",
+                    "likes": "NaN",
+                    "comments": 9,
+                    "shares": 98,
+                    "reach": 1754
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

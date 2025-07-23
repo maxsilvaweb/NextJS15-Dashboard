@@ -1,0 +1,26 @@
+{
+    "user_id": "3279ab74-b3be-49fc-b9c8-ebd8bb360e06",
+    "name": "Shane Altenwerth",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "fa35d415-bdeb-45e1-96b7-ebc03cf836b1",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://granular-hospitalization.biz/",
+                    "likes": 353,
+                    "comments": null,
+                    "shares": 22,
+                    "reach": 3031
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

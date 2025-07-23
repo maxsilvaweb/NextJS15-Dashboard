@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-04-16T00:47:16.682Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Bins - Moen",
+            "tasks_completed": [
+                {
+                    "task_id": "2ecf01ab-99aa-400b-9c1b-b8e90ee8a256",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 14,
+                    "shares": 3,
+                    "reach": 1830
+                }
+            ],
+            "total_sales_attributed": 2239.8562162060707
+        }
+    ]
+}

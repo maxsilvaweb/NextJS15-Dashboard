@@ -1,0 +1,26 @@
+{
+    "user_id": "6e38e6a1-b69e-40d9-84ea-a77f807829fd",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Schumm Group",
+            "tasks_completed": [
+                {
+                    "task_id": "c2b3a68a-9769-4e6f-a712-d059e6c7b43e",
+                    "platform": "TikTok",
+                    "post_url": "https://fond-nerve.org",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 75,
+                    "reach": 5234
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

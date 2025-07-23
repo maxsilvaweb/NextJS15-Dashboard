@@ -1,0 +1,26 @@
+{
+    "user_id": "19395a9d-99a2-4def-bbb6-f30f832cb058",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Kreiger Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "2a85ca55-8ed1-4813-a335-68977dbbee0e",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 86,
+                    "reach": 5208
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

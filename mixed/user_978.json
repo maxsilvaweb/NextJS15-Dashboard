@@ -1,0 +1,26 @@
+{
+    "user_id": "e95d4e03-1ebf-461f-9f88-c6000cbc69d6",
+    "name": "Craig Abbott",
+    "email": "Victoria81@hotmail.com",
+    "instagram_handle": "@Linnea.Beer",
+    "tiktok_handle": "@Arch71",
+    "joined_at": "2025-01-06T11:42:36.247Z",
+    "advocacy_programs": [
+        {
+            "program_id": "308aee57-22fc-4167-b40f-a4118deaa9c8",
+            "brand": "Crona Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "79252e20-3da9-4466-b631-716060b321d1",
+                    "platform": "Instagram",
+                    "post_url": "https://animated-term.net",
+                    "likes": 31,
+                    "comments": 26,
+                    "shares": 32,
+                    "reach": 1825
+                }
+            ],
+            "total_sales_attributed": 649.121462881662
+        }
+    ]
+}

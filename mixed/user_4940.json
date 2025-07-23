@@ -1,0 +1,26 @@
+{
+    "user_id": "e4603942-bb95-430c-83af-e490e96ea692",
+    "name": "Gina Lakin",
+    "email": "Anahi.Corkery61@gmail.com",
+    "instagram_handle": "@Winfield.Wisoky75",
+    "tiktok_handle": "@Nathan70",
+    "joined_at": "2025-01-06T01:17:35.070Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e5f68096-b8e4-440f-bd7c-2ce9d1c8c291",
+            "brand": "Lowe - Hayes",
+            "tasks_completed": [
+                {
+                    "task_id": "848b47fc-d901-41e0-ac5d-ffb807b070f7",
+                    "platform": "Instagram",
+                    "post_url": "https://zealous-yak.info",
+                    "likes": 123,
+                    "comments": 19,
+                    "shares": 27,
+                    "reach": 9100
+                }
+            ],
+            "total_sales_attributed": 2136.494475781752
+        }
+    ]
+}

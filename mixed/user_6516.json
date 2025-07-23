@@ -1,0 +1,26 @@
+{
+    "user_id": "bdd0ba12-9a83-45bb-9589-326b25487f1b",
+    "name": "Kelly Kihn",
+    "email": "Boyd.Harber@yahoo.com",
+    "instagram_handle": "@Stanley32",
+    "tiktok_handle": "@Glennie38",
+    "joined_at": "2024-10-19T23:06:06.907Z",
+    "advocacy_programs": [
+        {
+            "program_id": "63d1903e-2697-4044-a01b-ec8b78087d3c",
+            "brand": "Waters - Stamm",
+            "tasks_completed": [
+                {
+                    "task_id": "61a0f9ad-3b20-4866-a633-65986721f26e",
+                    "platform": "TikTok",
+                    "post_url": "https://rotating-step-mother.org",
+                    "likes": 330,
+                    "comments": 43,
+                    "shares": 72,
+                    "reach": 1225
+                }
+            ],
+            "total_sales_attributed": 2592.3060963808744
+        }
+    ]
+}

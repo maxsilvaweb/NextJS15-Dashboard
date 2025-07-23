@@ -1,0 +1,26 @@
+{
+    "user_id": "cb395ae0-c653-45b9-bde1-67b5449aee6e",
+    "name": "Jessie Murazik",
+    "email": "Breana48@gmail.com",
+    "instagram_handle": "@Justine25",
+    "tiktok_handle": "@Christina6",
+    "joined_at": "2025-01-04T07:52:56.163Z",
+    "advocacy_programs": [
+        {
+            "program_id": "92dbdfa1-aec1-4e2a-8bc8-a285d5d43d6b",
+            "brand": "Cremin Group",
+            "tasks_completed": [
+                {
+                    "task_id": "32e875c1-1d08-4717-9bec-17c6a561e433",
+                    "platform": "TikTok",
+                    "post_url": "https://tepid-outlaw.name/",
+                    "likes": 379,
+                    "comments": 34,
+                    "shares": 22,
+                    "reach": 7496
+                }
+            ],
+            "total_sales_attributed": 2006.9748388375415
+        }
+    ]
+}

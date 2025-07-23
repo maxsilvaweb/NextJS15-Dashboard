@@ -1,0 +1,26 @@
+{
+    "user_id": "67b15bf5-5968-4c37-9aff-a7cebdb507ae",
+    "name": "Janis Maggio",
+    "email": "Earl.Aufderhar@hotmail.com",
+    "instagram_handle": "@Adonis_Swift53",
+    "tiktok_handle": "@Billy_Muller",
+    "joined_at": "2025-03-14T23:14:16.329Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d9149cf5-d360-4857-8c1e-8c06d1706804",
+            "brand": "Rutherford and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "f55c93b2-2160-4077-95bc-1ee1948a9f91",
+                    "platform": "Instagram",
+                    "post_url": "https://youthful-community.net",
+                    "likes": 55,
+                    "comments": 29,
+                    "shares": 75,
+                    "reach": 4140
+                }
+            ],
+            "total_sales_attributed": 3033.0625070334736
+        }
+    ]
+}

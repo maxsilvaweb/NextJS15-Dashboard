@@ -1,0 +1,26 @@
+{
+    "user_id": "8c81d7e7-af57-4206-bd42-e2da6b057a7c",
+    "name": "Virginia Davis",
+    "email": "Lucinda_Shanahan@yahoo.com",
+    "instagram_handle": "@Edd_Ward",
+    "tiktok_handle": "@Chaim77",
+    "joined_at": "2024-12-20T04:50:31.288Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cd016d20-9b99-456d-acce-59ee8aead5f2",
+            "brand": "Ondricka Group",
+            "tasks_completed": [
+                {
+                    "task_id": "0c3d069a-0bf4-4f71-819d-691102da7873",
+                    "platform": "TikTok",
+                    "post_url": "https://deficient-juggernaut.biz/",
+                    "likes": 123,
+                    "comments": 14,
+                    "shares": 56,
+                    "reach": 2402
+                }
+            ],
+            "total_sales_attributed": 2346.3594542778583
+        }
+    ]
+}

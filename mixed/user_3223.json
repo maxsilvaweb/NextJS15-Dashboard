@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "0ab09727-0873-4adb-8805-c296dd3e703d",
+                    "platform": 123,
+                    "post_url": "https://discrete-possession.biz/",
+                    "likes": 339,
+                    "comments": 16,
+                    "shares": 80,
+                    "reach": 2712
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

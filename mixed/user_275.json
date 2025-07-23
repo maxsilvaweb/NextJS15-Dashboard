@@ -1,0 +1,26 @@
+{
+    "user_id": "237b6828-7a3f-435f-950c-7660f94c3c97",
+    "name": "Jeremy Wilderman",
+    "email": "Hassie.Feil@gmail.com",
+    "instagram_handle": "@Kaya.Spinka27",
+    "tiktok_handle": "@Adrain.Brekke",
+    "joined_at": "2024-09-11T09:35:28.760Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1ecd8334-671b-408f-acd1-499e21338517",
+            "brand": "Quitzon Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "8e47aef1-093b-46f6-b274-53166d079b79",
+                    "platform": "Instagram",
+                    "post_url": "https://deadly-cd.org",
+                    "likes": 24,
+                    "comments": 27,
+                    "shares": 39,
+                    "reach": 8305
+                }
+            ],
+            "total_sales_attributed": 3309.154475866617
+        }
+    ]
+}

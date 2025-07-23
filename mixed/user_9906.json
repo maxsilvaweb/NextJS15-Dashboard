@@ -1,0 +1,26 @@
+{
+    "user_id": "d3db5351-1d89-4b7d-bf4b-fc2b57671134",
+    "name": "Lorenzo Lowe",
+    "email": "Mario2@hotmail.com",
+    "instagram_handle": "@Deanna37",
+    "tiktok_handle": "@Fleta47",
+    "joined_at": "2025-03-12T01:29:43.978Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8e91ff54-7775-4209-bfef-ab2b8301f77f",
+            "brand": "Langosh and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "351a49c4-f666-4bf0-b9de-546b19b4d215",
+                    "platform": "TikTok",
+                    "post_url": "https://acclaimed-avalanche.org",
+                    "likes": 80,
+                    "comments": 23,
+                    "shares": 19,
+                    "reach": 3476
+                }
+            ],
+            "total_sales_attributed": 2692.878395543947
+        }
+    ]
+}

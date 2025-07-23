@@ -1,0 +1,26 @@
+{
+    "user_id": "7ef15ef4-7506-4758-bbe8-448ab12d9bce",
+    "name": "Drew Durgan",
+    "email": "Pierce15@hotmail.com",
+    "instagram_handle": "@Carolyn_Huels",
+    "tiktok_handle": "@Theo31",
+    "joined_at": "2025-02-27T10:17:26.681Z",
+    "advocacy_programs": [
+        {
+            "program_id": "89e5526f-afc0-47b5-b9a1-75d7a99585e7",
+            "brand": "Gorczany, Luettgen and Waelchi",
+            "tasks_completed": [
+                {
+                    "task_id": "1e1fd480-9ada-416f-b30c-6b63bf083ddc",
+                    "platform": "TikTok",
+                    "post_url": "https://austere-elver.biz",
+                    "likes": 109,
+                    "comments": 2,
+                    "shares": 0,
+                    "reach": 2440
+                }
+            ],
+            "total_sales_attributed": 3122.7126682300072
+        }
+    ]
+}

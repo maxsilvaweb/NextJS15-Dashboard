@@ -1,0 +1,26 @@
+{
+    "user_id": "431400cb-4765-4b28-a3f7-30a981564811",
+    "name": "Dr. Gilbert Jenkins",
+    "email": "Ena.Feeney@hotmail.com",
+    "instagram_handle": "@Amanda.OKon",
+    "tiktok_handle": "@Otilia.Towne",
+    "joined_at": "2024-07-21T05:58:47.398Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eb897e62-b636-42c5-a290-98b583a3f70b",
+            "brand": "Mayert - Turner",
+            "tasks_completed": [
+                {
+                    "task_id": "1d3c7dff-66d3-4f89-9842-41defb6648f7",
+                    "platform": "TikTok",
+                    "post_url": "https://multicolored-valentine.net/",
+                    "likes": 463,
+                    "comments": 23,
+                    "shares": 21,
+                    "reach": 1809
+                }
+            ],
+            "total_sales_attributed": 1991.3496652762187
+        }
+    ]
+}

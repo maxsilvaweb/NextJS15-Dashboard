@@ -1,0 +1,26 @@
+{
+    "user_id": "16cba4a1-122e-47cf-880a-92e2ebf13db4",
+    "name": "Joshua Green",
+    "email": "Jennifer68@gmail.com",
+    "instagram_handle": "@Mitchell_Tromp-McDermott",
+    "tiktok_handle": "@Billy.Tremblay6",
+    "joined_at": "2024-12-24T13:12:40.779Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0be4e86c-3045-4575-b84a-a7da5c459584",
+            "brand": "Willms, Gutkowski and Reichert",
+            "tasks_completed": [
+                {
+                    "task_id": "605d98d7-006d-465a-a2f5-797125af5ff1",
+                    "platform": "TikTok",
+                    "post_url": "https://shrill-violin.com/",
+                    "likes": 42,
+                    "comments": 13,
+                    "shares": 7,
+                    "reach": 7786
+                }
+            ],
+            "total_sales_attributed": 4177.982162774407
+        }
+    ]
+}

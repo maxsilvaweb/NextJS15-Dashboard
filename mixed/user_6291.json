@@ -1,0 +1,26 @@
+{
+    "user_id": "1b0eef6d-a60f-4072-a003-56b61b37b2af",
+    "name": "Viola Ruecker I",
+    "email": "Dominique89@yahoo.com",
+    "instagram_handle": "@Myra81",
+    "tiktok_handle": "@Jakayla.Welch6",
+    "joined_at": "2025-02-05T04:42:35.985Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e35b4d04-6b26-4796-9734-e3883d101408",
+            "brand": "Keeling Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "15a9d508-f68d-4dfc-b4fa-2e5c2ef076ae",
+                    "platform": "TikTok",
+                    "post_url": "https://damp-insolence.biz",
+                    "likes": 59,
+                    "comments": 39,
+                    "shares": 5,
+                    "reach": 8171
+                }
+            ],
+            "total_sales_attributed": 134.50647227683885
+        }
+    ]
+}

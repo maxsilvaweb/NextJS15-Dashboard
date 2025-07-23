@@ -1,0 +1,26 @@
+{
+    "user_id": "9cbe5363-c619-474f-ac11-c585220ee5ca",
+    "name": "Theodore Reichert",
+    "email": "Halle_Hermann@hotmail.com",
+    "instagram_handle": "@Gerda10",
+    "tiktok_handle": "@Salvatore73",
+    "joined_at": "2024-06-06T14:45:24.540Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fdeae93e-1a29-4b6f-9e2c-6aab4cdd0f4e",
+            "brand": "Herzog, Barton and Wiegand",
+            "tasks_completed": [
+                {
+                    "task_id": "fc8466c0-4a02-4329-99ae-767c66de904b",
+                    "platform": "Instagram",
+                    "post_url": "https://prudent-individual.name/",
+                    "likes": 400,
+                    "comments": 24,
+                    "shares": 73,
+                    "reach": 3373
+                }
+            ],
+            "total_sales_attributed": 1602.5201065263434
+        }
+    ]
+}

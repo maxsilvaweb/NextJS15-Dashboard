@@ -1,0 +1,26 @@
+{
+    "user_id": "0d0719a8-14bc-4e38-98ab-531899543448",
+    "name": "Floyd Streich",
+    "email": "Alvena.Labadie37@hotmail.com",
+    "instagram_handle": "@Luciano24",
+    "tiktok_handle": "@Vinnie_Bashirian-Kuhic",
+    "joined_at": "2024-10-27T10:14:38.824Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b4b676c0-e84a-4a91-9510-627f5679b6f3",
+            "brand": "Collier LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "cbb2a76b-c6b9-4c5c-865b-6a144cfa00e7",
+                    "platform": "Instagram",
+                    "post_url": "https://shocked-forage.com",
+                    "likes": 485,
+                    "comments": 10,
+                    "shares": 18,
+                    "reach": 6674
+                }
+            ],
+            "total_sales_attributed": 4515.539275367129
+        }
+    ]
+}

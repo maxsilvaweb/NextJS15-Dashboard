@@ -1,0 +1,26 @@
+{
+    "user_id": "6f8c2b21-414d-4407-b729-bb0a46028472",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Moore - Kris",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://pale-zebra.com",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 5,
+                    "reach": 1466
+                }
+            ],
+            "total_sales_attributed": 976.1423875370988
+        }
+    ]
+}

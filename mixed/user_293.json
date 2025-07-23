@@ -1,0 +1,26 @@
+{
+    "user_id": "28bb05a8-4a58-48dc-86a6-4a53997cdc8f",
+    "name": "Ryan Rutherford",
+    "email": "Merl31@gmail.com",
+    "instagram_handle": "@Declan29",
+    "tiktok_handle": "@Kirsten_Hickle-Hirthe",
+    "joined_at": "2024-10-27T16:18:35.808Z",
+    "advocacy_programs": [
+        {
+            "program_id": "30f9d84e-dc23-4dc1-a3e3-b3bb71bba6ca",
+            "brand": "Watsica - Cummerata",
+            "tasks_completed": [
+                {
+                    "task_id": "66b16ef0-5625-49b7-bcf2-9f32f614d7ca",
+                    "platform": "Instagram",
+                    "post_url": "https://posh-zen.biz/",
+                    "likes": 70,
+                    "comments": 31,
+                    "shares": 3,
+                    "reach": 8123
+                }
+            ],
+            "total_sales_attributed": 1316.06385646682
+        }
+    ]
+}

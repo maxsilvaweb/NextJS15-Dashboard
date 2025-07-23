@@ -1,0 +1,26 @@
+{
+    "user_id": "7b17e24d-9511-484f-ae89-95b028c1cd3b",
+    "name": "Dr. Drew Rippin",
+    "email": "Macey.Zboncak@hotmail.com",
+    "instagram_handle": "@Jorge26",
+    "tiktok_handle": "@Francisca.Goodwin45",
+    "joined_at": "2024-09-25T12:12:57.350Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6cc646d8-e7f3-4d4a-9bfb-e7af376f07ce",
+            "brand": "Bogan, Herman and Nienow",
+            "tasks_completed": [
+                {
+                    "task_id": "5ab51175-34d0-4557-b9a0-91c162d49553",
+                    "platform": "Instagram",
+                    "post_url": "https://delirious-cork.name/",
+                    "likes": 492,
+                    "comments": 8,
+                    "shares": 62,
+                    "reach": 7372
+                }
+            ],
+            "total_sales_attributed": 2443.10815750951
+        }
+    ]
+}

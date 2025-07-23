@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "3e37dea7-e1d7-45ef-b3c2-e9be5e0e96b2",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://quiet-millet.name",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 34,
+                    "reach": 6947
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

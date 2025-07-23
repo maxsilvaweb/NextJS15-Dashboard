@@ -1,0 +1,26 @@
+{
+    "user_id": "e0d77915-df88-431b-b2b8-e3e2b406ea62",
+    "name": "Sheila Thompson",
+    "email": "Anya.Crooks83@gmail.com",
+    "instagram_handle": "@Steve44",
+    "tiktok_handle": "@Noel_Gutkowski76",
+    "joined_at": "2024-10-17T08:11:28.944Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f39e2dde-8fbb-40b3-9368-652afcd6a56f",
+            "brand": "Wunsch, Howe and Volkman",
+            "tasks_completed": [
+                {
+                    "task_id": "d8b58a45-605a-4bc9-ba7e-d5c68d3e1f5b",
+                    "platform": "Instagram",
+                    "post_url": "https://moist-cinder.info/",
+                    "likes": 215,
+                    "comments": 30,
+                    "shares": 64,
+                    "reach": 3222
+                }
+            ],
+            "total_sales_attributed": 2524.9447071823174
+        }
+    ]
+}

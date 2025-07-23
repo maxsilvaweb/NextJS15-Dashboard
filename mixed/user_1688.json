@@ -1,0 +1,26 @@
+{
+    "user_id": "b9864c84-8a41-4104-944e-18cc16288632",
+    "name": "Cesar Parker IV",
+    "email": "Samantha.Kassulke36@hotmail.com",
+    "instagram_handle": "@London53",
+    "tiktok_handle": "@Ernest.Larkin",
+    "joined_at": "2024-08-09T10:11:46.341Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c5184db8-f7d2-4332-b87b-1ada9b289f21",
+            "brand": "Wilderman, Streich and Beier",
+            "tasks_completed": [
+                {
+                    "task_id": "9ae31999-c215-4987-8d94-3408d545c801",
+                    "platform": "Instagram",
+                    "post_url": "https://pricey-dish.org",
+                    "likes": 238,
+                    "comments": 31,
+                    "shares": 56,
+                    "reach": 5141
+                }
+            ],
+            "total_sales_attributed": 1225.7532139166926
+        }
+    ]
+}

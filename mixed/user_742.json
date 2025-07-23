@@ -1,0 +1,26 @@
+{
+    "user_id": "a2755f7d-bf0d-4679-a619-f112fa7c262a",
+    "name": "Katherine Huels",
+    "email": "Willa_Kuhlman67@gmail.com",
+    "instagram_handle": "@Autumn.Jaskolski14",
+    "tiktok_handle": "@Willy35",
+    "joined_at": "2024-09-19T18:50:21.034Z",
+    "advocacy_programs": [
+        {
+            "program_id": "22e2d480-0a18-4199-a3d4-6050ffc426b5",
+            "brand": "Cole, Olson and Wintheiser",
+            "tasks_completed": [
+                {
+                    "task_id": "196c4500-c07f-4d21-8275-2a4df4eb0089",
+                    "platform": "Instagram",
+                    "post_url": "https://robust-metal.net",
+                    "likes": 36,
+                    "comments": 18,
+                    "shares": 90,
+                    "reach": 1805
+                }
+            ],
+            "total_sales_attributed": 1292.195853527897
+        }
+    ]
+}

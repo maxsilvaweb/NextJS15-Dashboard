@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "d806d113-de1c-4d8c-945a-0d6f658a791a",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "c637d4ba-4c5c-4e06-a95f-1bef6a5ddada",
+                    "platform": "Facebook",
+                    "post_url": "https://back-hygienic.net/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 73,
+                    "reach": 602
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

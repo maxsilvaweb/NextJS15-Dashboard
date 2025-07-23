@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Keyshawn29",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "83979001-6efc-4ec1-89ec-4b579ffa359e",
+            "brand": "Huels and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 44,
+                    "reach": 6273
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

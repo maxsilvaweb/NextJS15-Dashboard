@@ -1,0 +1,26 @@
+{
+    "user_id": "b9700017-dabc-4440-b22b-da5fddbc911a",
+    "name": "Jody Stark",
+    "email": "Sigurd.Torphy81@yahoo.com",
+    "instagram_handle": "@Brain.Emmerich",
+    "tiktok_handle": "@Hermann89",
+    "joined_at": "2024-10-06T19:51:58.351Z",
+    "advocacy_programs": [
+        {
+            "program_id": "54e120c9-1629-4db9-97a9-3b3f9f580f18",
+            "brand": "DuBuque, Franecki and Runolfsdottir",
+            "tasks_completed": [
+                {
+                    "task_id": "3aa13873-df58-4f22-a774-8b509efd4f8e",
+                    "platform": "TikTok",
+                    "post_url": "https://twin-fog.org/",
+                    "likes": 458,
+                    "comments": 28,
+                    "shares": 14,
+                    "reach": 3300
+                }
+            ],
+            "total_sales_attributed": 2966.101785440881
+        }
+    ]
+}

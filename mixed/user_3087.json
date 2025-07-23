@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "2fd795f3-ac79-4f5e-bd34-9f9ce8a80996",
+            "brand": "Schroeder, Smith and King",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://powerful-ribbon.biz/",
+                    "likes": "NaN",
+                    "comments": 41,
+                    "shares": 20,
+                    "reach": 6630
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "297293f9-c7f4-47b8-a951-0848e405d87c",
+    "name": "Harry Lakin DDS",
+    "email": "Lamont99@yahoo.com",
+    "instagram_handle": "@Pearline29",
+    "tiktok_handle": "@Cleta_Purdy",
+    "joined_at": "2025-03-15T02:22:57.936Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d157833c-e45a-453d-9506-898ef66845f0",
+            "brand": "Aufderhar Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "52a9d60a-dd6f-4266-a49c-4a530d7debf0",
+                    "platform": "Instagram",
+                    "post_url": "https://awesome-edge.info",
+                    "likes": 373,
+                    "comments": 11,
+                    "shares": 88,
+                    "reach": 7704
+                }
+            ],
+            "total_sales_attributed": 3267.6874994883483
+        }
+    ]
+}

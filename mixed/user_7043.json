@@ -1,0 +1,26 @@
+{
+    "user_id": "00908760-01b5-41bb-8242-f17e39cb46e3",
+    "name": "Jody Dach",
+    "email": "Keegan36@yahoo.com",
+    "instagram_handle": "@Grace_Russel",
+    "tiktok_handle": "@Eduardo_Walter45",
+    "joined_at": "2024-06-27T15:01:37.388Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d7228ff5-798d-4984-9816-ff7516490f01",
+            "brand": "Kirlin, Wolf and Heidenreich",
+            "tasks_completed": [
+                {
+                    "task_id": "bd764d7b-da99-430b-9a4b-0b02efe96ea2",
+                    "platform": "TikTok",
+                    "post_url": "https://woeful-diver.com/",
+                    "likes": 284,
+                    "comments": 39,
+                    "shares": 14,
+                    "reach": 8055
+                }
+            ],
+            "total_sales_attributed": 1257.662689244578
+        }
+    ]
+}

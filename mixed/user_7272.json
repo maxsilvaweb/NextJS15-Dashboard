@@ -1,0 +1,26 @@
+{
+    "user_id": "a632e7ce-481e-4cf0-9fae-3a63e12bf543",
+    "name": "Shannon Hane",
+    "email": "Alia.Rath@gmail.com",
+    "instagram_handle": "@Major_Prosacco",
+    "tiktok_handle": "@Miracle.Schmitt57",
+    "joined_at": "2025-02-18T00:02:32.655Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c8ba12c9-483e-483e-bcf5-e4c4cbc60961",
+            "brand": "Kohler - Wyman",
+            "tasks_completed": [
+                {
+                    "task_id": "0d621b5f-b083-46a5-8953-da1bdf40dffc",
+                    "platform": "Instagram",
+                    "post_url": "https://tepid-birdbath.com/",
+                    "likes": 243,
+                    "comments": 4,
+                    "shares": 75,
+                    "reach": 3389
+                }
+            ],
+            "total_sales_attributed": 826.0825411125958
+        }
+    ]
+}

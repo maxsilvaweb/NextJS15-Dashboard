@@ -1,0 +1,26 @@
+{
+    "user_id": "8fae5cd9-3f45-4b46-b829-70194c96afa1",
+    "name": "Nicole Conroy",
+    "email": "Floyd_Goldner30@hotmail.com",
+    "instagram_handle": "@Amya_Rodriguez",
+    "tiktok_handle": "@Derrick_Marks56",
+    "joined_at": "2025-02-28T22:47:19.763Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7ecc2d34-4479-47aa-a00c-7ebc6e96cbf3",
+            "brand": "Hamill LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1af050e4-4549-4e9b-a963-108b2c7da19e",
+                    "platform": "Instagram",
+                    "post_url": "https://wide-eyed-tomb.biz/",
+                    "likes": 155,
+                    "comments": 6,
+                    "shares": 36,
+                    "reach": 3052
+                }
+            ],
+            "total_sales_attributed": 3145.028828520608
+        }
+    ]
+}

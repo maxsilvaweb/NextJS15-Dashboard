@@ -1,0 +1,26 @@
+{
+    "user_id": "a5dc1a21-3e08-4086-837b-a910beefe638",
+    "name": "Howard Goyette",
+    "email": "Samir.Schiller0@gmail.com",
+    "instagram_handle": "@Vallie.Purdy31",
+    "tiktok_handle": "@Mathilde44",
+    "joined_at": "2024-10-22T18:28:49.940Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f29af017-6f69-48a0-8173-56c19882c749",
+            "brand": "Parker - Monahan",
+            "tasks_completed": [
+                {
+                    "task_id": "de4fb661-e12d-4848-b3ac-896051ed3978",
+                    "platform": "TikTok",
+                    "post_url": "https://present-fibre.net",
+                    "likes": 101,
+                    "comments": 15,
+                    "shares": 41,
+                    "reach": 1723
+                }
+            ],
+            "total_sales_attributed": 1119.7258834220108
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7abfeb78-2f42-420c-9319-06be3b18cb7a",
+    "name": "Miss Traci Renner",
+    "email": "Kali_Kihn@yahoo.com",
+    "instagram_handle": "@Brando53",
+    "tiktok_handle": "@Clovis_Ratke",
+    "joined_at": "2025-01-26T19:58:58.507Z",
+    "advocacy_programs": [
+        {
+            "program_id": "602b9fac-54e3-4013-b8be-4be4bd057745",
+            "brand": "Shanahan and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "61b69d5c-a817-44b7-9cdb-ba1e6a8ade4e",
+                    "platform": "TikTok",
+                    "post_url": "https://heartfelt-tennis.info/",
+                    "likes": 218,
+                    "comments": 42,
+                    "shares": 51,
+                    "reach": 9712
+                }
+            ],
+            "total_sales_attributed": 1956.9815359597737
+        }
+    ]
+}

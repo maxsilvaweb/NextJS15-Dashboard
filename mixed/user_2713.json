@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Sheldon93@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-06-22T20:50:22.219Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f0c87ab0-c6f7-4580-8460-45e047215aed",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 34,
+                    "shares": 80,
+                    "reach": 2086
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

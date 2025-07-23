@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Heidi Robel",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2025-02-27T19:14:40.579Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "333c1299-a3a9-4fc4-9320-d1382a9e7821",
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 17,
+                    "reach": 1834
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

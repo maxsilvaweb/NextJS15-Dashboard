@@ -1,0 +1,26 @@
+{
+    "user_id": "014549e0-21a3-4da3-b3da-974c75379ac8",
+    "name": "Lucy Dach",
+    "email": "Mollie.Satterfield98@gmail.com",
+    "instagram_handle": "@Frederick88",
+    "tiktok_handle": "@Marguerite.Ward8",
+    "joined_at": "2024-11-05T19:45:28.903Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0e9cef0a-598f-4f53-9a0f-e5243c3ad387",
+            "brand": "Muller - Orn",
+            "tasks_completed": [
+                {
+                    "task_id": "f858c2f2-7a1d-4af0-b4fe-5c7ef676374c",
+                    "platform": "Instagram",
+                    "post_url": "https://whimsical-freight.com/",
+                    "likes": 399,
+                    "comments": 27,
+                    "shares": 18,
+                    "reach": 4309
+                }
+            ],
+            "total_sales_attributed": 929.6151702939374
+        }
+    ]
+}

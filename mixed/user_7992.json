@@ -1,0 +1,26 @@
+{
+    "user_id": "7d5b1fe3-d388-4a3f-a80a-404c5cff733a",
+    "name": "Ms. Nora Hane",
+    "email": "Kaelyn.Jacobs@hotmail.com",
+    "instagram_handle": "@Frankie_Collins",
+    "tiktok_handle": "@Granville.Dare",
+    "joined_at": "2024-04-25T12:18:34.903Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b23e11e8-f01a-4b00-b9d7-3751f696581c",
+            "brand": "Zieme LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2a1141e8-4c27-4a32-bdfe-a6db091f0a4b",
+                    "platform": "Instagram",
+                    "post_url": "https://murky-yarmulke.info/",
+                    "likes": 318,
+                    "comments": 11,
+                    "shares": 47,
+                    "reach": 8919
+                }
+            ],
+            "total_sales_attributed": 2641.807318161471
+        }
+    ]
+}

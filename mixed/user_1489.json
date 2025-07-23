@@ -1,0 +1,26 @@
+{
+    "user_id": "b2a2c3f6-eb34-4e85-ad5e-07f95740e467",
+    "name": "Terence Bergnaum",
+    "email": "Reilly_OReilly@hotmail.com",
+    "instagram_handle": "@Kaleigh_Von",
+    "tiktok_handle": "@Pete71",
+    "joined_at": "2024-09-21T05:40:08.135Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dac28454-af76-4571-9fed-5d14a2b5f135",
+            "brand": "Grady - Lesch",
+            "tasks_completed": [
+                {
+                    "task_id": "217a7bc9-8c86-44c5-9691-b645c042d873",
+                    "platform": "Instagram",
+                    "post_url": "https://critical-meal.com",
+                    "likes": 130,
+                    "comments": 26,
+                    "shares": 19,
+                    "reach": 5655
+                }
+            ],
+            "total_sales_attributed": 1191.0618953777514
+        }
+    ]
+}

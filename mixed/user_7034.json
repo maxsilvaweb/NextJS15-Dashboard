@@ -1,0 +1,26 @@
+{
+    "user_id": "842a21f0-870e-4b48-8142-5af5e355bf4f",
+    "name": "Stephanie Bartoletti MD",
+    "email": "Mara56@gmail.com",
+    "instagram_handle": "@Elenora76",
+    "tiktok_handle": "@Woodrow25",
+    "joined_at": "2024-11-16T14:17:55.479Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fc05cc4a-7ee8-445b-83c5-7473d8de377f",
+            "brand": "Corkery LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1e894779-345c-4333-a1a0-e0e3fb53f799",
+                    "platform": "TikTok",
+                    "post_url": "https://fixed-litter.biz",
+                    "likes": 210,
+                    "comments": 25,
+                    "shares": 54,
+                    "reach": 9857
+                }
+            ],
+            "total_sales_attributed": 267.58037942627084
+        }
+    ]
+}

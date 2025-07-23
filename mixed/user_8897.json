@@ -1,0 +1,26 @@
+{
+    "user_id": "4cf00c39-8293-4cfe-af6a-0e51daa24323",
+    "name": "Jasmine Stanton",
+    "email": "Dewayne.Wiegand85@yahoo.com",
+    "instagram_handle": "@Olen.Osinski17",
+    "tiktok_handle": "@Carli43",
+    "joined_at": "2024-05-03T08:46:15.839Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ae2aba96-4321-454a-98cd-8329958f36f3",
+            "brand": "Baumbach, Sauer and Howell",
+            "tasks_completed": [
+                {
+                    "task_id": "23ddcab2-8790-473a-bf90-b86d9b88f398",
+                    "platform": "TikTok",
+                    "post_url": "https://extroverted-approach.biz",
+                    "likes": 257,
+                    "comments": 14,
+                    "shares": 100,
+                    "reach": 3713
+                }
+            ],
+            "total_sales_attributed": 3349.058445895464
+        }
+    ]
+}

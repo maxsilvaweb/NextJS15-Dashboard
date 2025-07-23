@@ -1,0 +1,26 @@
+{
+    "user_id": "f674924d-f459-41ae-9b6f-bbcc2387ca4f",
+    "name": "Jennifer Towne",
+    "email": "Anya.Conroy24@hotmail.com",
+    "instagram_handle": "@Diana_Kling",
+    "tiktok_handle": "@Lamar76",
+    "joined_at": "2024-10-21T22:53:26.626Z",
+    "advocacy_programs": [
+        {
+            "program_id": "11815c4a-e92f-41cf-a846-268d33405abb",
+            "brand": "Kuhlman - Runolfsdottir",
+            "tasks_completed": [
+                {
+                    "task_id": "e55dfb64-d88b-4c43-b568-a95b2e5d29f8",
+                    "platform": "TikTok",
+                    "post_url": "https://abandoned-intellect.name/",
+                    "likes": 298,
+                    "comments": 50,
+                    "shares": 71,
+                    "reach": 3497
+                }
+            ],
+            "total_sales_attributed": 4548.692211918435
+        }
+    ]
+}

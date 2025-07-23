@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "fb221949-51c2-4512-b511-653b05605bef",
+                    "platform": "TikTok",
+                    "post_url": "https://terrible-meal.name",
+                    "likes": "NaN",
+                    "comments": 42,
+                    "shares": 85,
+                    "reach": 686
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

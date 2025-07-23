@@ -1,0 +1,26 @@
+{
+    "user_id": "20aefb8b-fd30-479b-820a-235f07cdd39a",
+    "name": "Cristina Gleichner",
+    "email": "Garrick53@hotmail.com",
+    "instagram_handle": "@Arne_Bogan",
+    "tiktok_handle": "@Adolph87",
+    "joined_at": "2024-05-16T10:38:29.568Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ac3da434-6701-4b56-a1e2-439ac92fb308",
+            "brand": "Runolfsson, Brown and Green",
+            "tasks_completed": [
+                {
+                    "task_id": "47f88303-232f-4f30-aa75-b33e7991788f",
+                    "platform": "Instagram",
+                    "post_url": "https://silver-kick.org/",
+                    "likes": 112,
+                    "comments": 37,
+                    "shares": 32,
+                    "reach": 5354
+                }
+            ],
+            "total_sales_attributed": 1669.6932175824188
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "80823dba-f066-4a92-82cf-b0eef46102b7",
+    "name": "Erica Bradtke",
+    "email": "Vella_Wisozk@gmail.com",
+    "instagram_handle": "@Randi_Dickens25",
+    "tiktok_handle": "@Rossie.Carter",
+    "joined_at": "2025-02-02T14:36:40.543Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f7018210-75f7-4b64-8197-9f1ffa1461ee",
+            "brand": "Hickle, Kozey and Herman",
+            "tasks_completed": [
+                {
+                    "task_id": "6ea4acf8-8889-4cc2-b94f-333ccda31d36",
+                    "platform": "Instagram",
+                    "post_url": "https://odd-intellect.info/",
+                    "likes": 433,
+                    "comments": 28,
+                    "shares": 50,
+                    "reach": 5297
+                }
+            ],
+            "total_sales_attributed": 465.50607256999734
+        }
+    ]
+}

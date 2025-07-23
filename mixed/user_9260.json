@@ -1,0 +1,25 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Ellie41",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "43ad6472-058d-4fca-8434-08fde2dc97ec",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "ed04e07e-880e-4f8e-9175-e35c021fcf38",
+                    "platform": "TikTok",
+                    "post_url": "https://private-responsibility.biz/",
+                    "likes": 404,
+                    "comments": null,
+                    "shares": 61,
+                    "reach": 1023
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

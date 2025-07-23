@@ -1,0 +1,26 @@
+{
+    "user_id": "ff977fac-87a3-4077-9870-652ab44ded74",
+    "name": "Jessie Anderson MD",
+    "email": "Reece80@yahoo.com",
+    "instagram_handle": "@Clarabelle59",
+    "tiktok_handle": "@Mason36",
+    "joined_at": "2024-10-16T06:04:50.359Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f2f0ca49-f63b-4540-aa94-862f91065d97",
+            "brand": "White LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a1cdf63c-a100-44db-a800-03e7e9d58942",
+                    "platform": "Instagram",
+                    "post_url": "https://variable-yak.name/",
+                    "likes": 150,
+                    "comments": 20,
+                    "shares": 6,
+                    "reach": 5400
+                }
+            ],
+            "total_sales_attributed": 3194.874860190214
+        }
+    ]
+}

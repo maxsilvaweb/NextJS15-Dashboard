@@ -1,0 +1,26 @@
+{
+    "user_id": "39fe717b-949f-4d9a-b7e9-d77b692cd1fc",
+    "name": "Francis Lesch",
+    "email": "Lyric21@yahoo.com",
+    "instagram_handle": "@Tianna66",
+    "tiktok_handle": "@Mortimer49",
+    "joined_at": "2024-08-10T20:54:25.762Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cc2b13e5-7bd8-48d6-813d-9e496d0a4db7",
+            "brand": "Ruecker Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "3aeda0dc-e845-4d07-a165-f5ac847d03f1",
+                    "platform": "TikTok",
+                    "post_url": "https://smart-ice-cream.com",
+                    "likes": 10,
+                    "comments": 7,
+                    "shares": 1,
+                    "reach": 1611
+                }
+            ],
+            "total_sales_attributed": 658.4636353728926
+        }
+    ]
+}

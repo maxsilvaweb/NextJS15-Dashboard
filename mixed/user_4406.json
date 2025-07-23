@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Morar, Mertz and Mills",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 164,
+                    "comments": 15,
+                    "shares": 57,
+                    "reach": 8063
+                }
+            ],
+            "total_sales_attributed": 3681.5995738138213
+        }
+    ]
+}

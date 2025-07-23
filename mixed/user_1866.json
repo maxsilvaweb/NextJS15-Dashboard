@@ -1,0 +1,26 @@
+{
+    "user_id": "f7abe63a-27df-4839-a698-16cd2ea2ef9d",
+    "name": "Rosie Sanford",
+    "email": "Tatum.Satterfield@gmail.com",
+    "instagram_handle": "@Newton_Haag",
+    "tiktok_handle": "@Jarred38",
+    "joined_at": "2025-01-15T19:03:44.494Z",
+    "advocacy_programs": [
+        {
+            "program_id": "486f30e0-5498-48ff-92d5-f845541baa3e",
+            "brand": "Pollich Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d471400e-9487-4517-95a3-d949ef81179d",
+                    "platform": "Instagram",
+                    "post_url": "https://brilliant-wasabi.org/",
+                    "likes": 101,
+                    "comments": 44,
+                    "shares": 92,
+                    "reach": 7046
+                }
+            ],
+            "total_sales_attributed": 2471.6878380149706
+        }
+    ]
+}

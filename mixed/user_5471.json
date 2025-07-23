@@ -1,0 +1,26 @@
+{
+    "user_id": "61915ffb-d5ae-4b95-bc46-5dba9101afae",
+    "name": "Miss Robyn Nitzsche",
+    "email": "Arianna.Cummings@hotmail.com",
+    "instagram_handle": "@Abbie.Cartwright",
+    "tiktok_handle": "@Travon_Schamberger",
+    "joined_at": "2025-02-22T08:04:32.971Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8636a445-d3fd-4473-9d87-a820033333b9",
+            "brand": "Maggio, McGlynn and Pouros",
+            "tasks_completed": [
+                {
+                    "task_id": "662d3691-e89c-411d-95bb-7650d94fc435",
+                    "platform": "TikTok",
+                    "post_url": "https://ideal-recovery.org",
+                    "likes": 171,
+                    "comments": 49,
+                    "shares": 14,
+                    "reach": 4646
+                }
+            ],
+            "total_sales_attributed": 3601.2332241497206
+        }
+    ]
+}

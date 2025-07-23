@@ -1,0 +1,26 @@
+{
+    "user_id": "2690114f-0067-4e37-9a98-c23aca697e68",
+    "name": "Joanna Mann",
+    "email": "Wilfredo.Boyer@hotmail.com",
+    "instagram_handle": "@Maude_Torphy-Heidenreich19",
+    "tiktok_handle": "@Jimmy.Funk",
+    "joined_at": "2025-02-13T13:24:31.408Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c9ba59ce-fbdb-4333-b742-bb65bc3689ca",
+            "brand": "Bahringer, Towne and Franecki",
+            "tasks_completed": [
+                {
+                    "task_id": "42549217-fd50-4d6b-9051-5c729b4cca2f",
+                    "platform": "TikTok",
+                    "post_url": "https://some-council.name/",
+                    "likes": 255,
+                    "comments": 8,
+                    "shares": 24,
+                    "reach": 5982
+                }
+            ],
+            "total_sales_attributed": 1746.0921078910678
+        }
+    ]
+}

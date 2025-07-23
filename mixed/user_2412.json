@@ -1,0 +1,26 @@
+{
+    "user_id": "63121afd-261b-4de2-a8f5-e2862d3c18dc",
+    "name": "Stella Schumm",
+    "email": "Francis71@hotmail.com",
+    "instagram_handle": "@Celestine_Rutherford",
+    "tiktok_handle": "@Ezequiel.Hermann41",
+    "joined_at": "2025-02-11T01:31:16.488Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b7c103ff-e450-483f-9a03-a31edfbd5631",
+            "brand": "Feil - Klein",
+            "tasks_completed": [
+                {
+                    "task_id": "050cfc33-20d3-4a4b-a9a8-d3007c5c8014",
+                    "platform": "Instagram",
+                    "post_url": "https://infatuated-pop.net/",
+                    "likes": 349,
+                    "comments": 39,
+                    "shares": 66,
+                    "reach": 4379
+                }
+            ],
+            "total_sales_attributed": 3360.0061811672686
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0421393b-6761-4c5a-a39b-458f16803398",
+    "name": "Sally Rowe",
+    "email": "Miracle.Bogisich@yahoo.com",
+    "instagram_handle": "@Nedra1",
+    "tiktok_handle": "@Patience.Botsford",
+    "joined_at": "2024-11-15T05:40:01.988Z",
+    "advocacy_programs": [
+        {
+            "program_id": "aff9dc17-9296-4066-87f4-9b0774353866",
+            "brand": "Auer - Schimmel",
+            "tasks_completed": [
+                {
+                    "task_id": "db1bbb07-562a-4335-b693-23ea00ed7d04",
+                    "platform": "TikTok",
+                    "post_url": "https://stupendous-yin.info/",
+                    "likes": 78,
+                    "comments": 19,
+                    "shares": 87,
+                    "reach": 4463
+                }
+            ],
+            "total_sales_attributed": 4703.022527411897
+        }
+    ]
+}

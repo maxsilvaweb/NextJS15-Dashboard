@@ -1,0 +1,26 @@
+{
+    "user_id": "903f5e24-9195-4d2d-b4c8-744482ab58e0",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Roger.Herman84",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Powlowski, Hoeger and Zboncak",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 98,
+                    "reach": 1110
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

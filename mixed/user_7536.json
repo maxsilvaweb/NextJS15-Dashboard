@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Marshall_Runolfsdottir36@gmail.com",
+    "instagram_handle": "@Marta38",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "d1dddd6c-18d8-478e-bc47-6dcdc0ad5d4c",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 19,
+                    "reach": 2510
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

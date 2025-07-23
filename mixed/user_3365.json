@@ -1,0 +1,26 @@
+{
+    "user_id": "9c59b7b3-a35b-4154-bb41-efc35c7de68d",
+    "name": "???",
+    "email": "Melvin17@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 1,
+                    "reach": 4015
+                }
+            ],
+            "total_sales_attributed": 106.8521679626112
+        }
+    ]
+}

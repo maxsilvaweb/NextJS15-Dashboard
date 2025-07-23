@@ -1,0 +1,26 @@
+{
+    "user_id": "e63437c9-d0ca-4b3b-9fe8-074d775fbffc",
+    "name": "Adam Hills",
+    "email": "Emiliano_Wiza@hotmail.com",
+    "instagram_handle": "@Baron_Lesch22",
+    "tiktok_handle": "@Myron.Jones",
+    "joined_at": "2024-08-14T06:33:25.122Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7e06efe8-6f94-4bc0-a387-b395e922ba5b",
+            "brand": "Will, Murray and Bins",
+            "tasks_completed": [
+                {
+                    "task_id": "54b68215-89fb-4fa9-9a70-c716834342a0",
+                    "platform": "TikTok",
+                    "post_url": "https://important-kinase.org",
+                    "likes": 404,
+                    "comments": 31,
+                    "shares": 26,
+                    "reach": 9631
+                }
+            ],
+            "total_sales_attributed": 1309.3585032969834
+        }
+    ]
+}

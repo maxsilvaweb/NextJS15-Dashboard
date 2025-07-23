@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Leslie.Kub95@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "da38d246-7c09-47e3-b07c-15e268b4d590",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 336,
+                    "comments": 36,
+                    "shares": 3,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 1152.2128488630162
+        }
+    ]
+}

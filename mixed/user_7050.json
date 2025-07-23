@@ -1,0 +1,26 @@
+{
+    "user_id": "b634bf5d-a178-42fa-995e-7e4840cb5d7c",
+    "name": "Jeremiah Jakubowski",
+    "email": "Clifton.Okuneva-Brekke@gmail.com",
+    "instagram_handle": "@Maud_Ondricka-McGlynn54",
+    "tiktok_handle": "@Danial35",
+    "joined_at": "2024-09-23T07:04:57.228Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fded6aad-27c7-49d3-ab50-da7730fe17b0",
+            "brand": "Ullrich, Von and Kuphal",
+            "tasks_completed": [
+                {
+                    "task_id": "357a73ef-0b28-4209-ab33-a735c2cebefb",
+                    "platform": "Instagram",
+                    "post_url": "https://those-blowgun.name",
+                    "likes": 424,
+                    "comments": 28,
+                    "shares": 6,
+                    "reach": 1884
+                }
+            ],
+            "total_sales_attributed": 4946.680381947018
+        }
+    ]
+}

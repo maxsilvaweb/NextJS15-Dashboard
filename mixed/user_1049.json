@@ -1,0 +1,26 @@
+{
+    "user_id": "2b3e2671-7983-412c-b9c6-be98e31376f2",
+    "name": "Joanne Haley",
+    "email": "Rigoberto_Kunze@yahoo.com",
+    "instagram_handle": "@Marcella65",
+    "tiktok_handle": "@Magali54",
+    "joined_at": "2024-11-08T04:07:45.559Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bed65854-88fe-417e-961c-9e30b14ec469",
+            "brand": "Torp - Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "af8d3597-0b6f-41fa-88f6-29d74b3a71af",
+                    "platform": "Instagram",
+                    "post_url": "https://fixed-certification.name/",
+                    "likes": 135,
+                    "comments": 40,
+                    "shares": 21,
+                    "reach": 9732
+                }
+            ],
+            "total_sales_attributed": 3117.298093236274
+        }
+    ]
+}

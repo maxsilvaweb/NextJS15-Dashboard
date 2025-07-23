@@ -1,0 +1,26 @@
+{
+    "user_id": "365a09b1-a8f2-4eb2-a2a6-dcfc7674a8a4",
+    "name": "Patsy Kautzer",
+    "email": "Trevor2@hotmail.com",
+    "instagram_handle": "@Randy93",
+    "tiktok_handle": "@Selena.Sanford88",
+    "joined_at": "2024-07-28T01:40:42.161Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5688cb4d-dd06-4fb7-b319-9fe53c9973f4",
+            "brand": "Jacobi Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "22acd0d9-698f-4fa2-9342-176caede64ff",
+                    "platform": "Instagram",
+                    "post_url": "https://staid-scenario.com/",
+                    "likes": 203,
+                    "comments": 2,
+                    "shares": 97,
+                    "reach": 1478
+                }
+            ],
+            "total_sales_attributed": 1500.207514648797
+        }
+    ]
+}

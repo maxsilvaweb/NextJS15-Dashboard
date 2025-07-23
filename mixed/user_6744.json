@@ -1,0 +1,26 @@
+{
+    "user_id": "25e8f7b6-fed8-49bc-af0a-c8d2b8e1da95",
+    "name": "???",
+    "email": "Terence13@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 49,
+                    "reach": 842
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

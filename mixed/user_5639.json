@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "c9df3b8e-4855-4411-a928-56e8c868da95",
+            "brand": "Sanford Inc",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 179,
+                    "comments": 34,
+                    "shares": 67,
+                    "reach": 2348
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

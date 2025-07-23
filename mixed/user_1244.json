@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Clarence Lockman",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "87c9b27d-24c1-4c2e-b53b-238b89a6ec8a",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://equatorial-circumference.net/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 46,
+                    "reach": 3224
+                }
+            ],
+            "total_sales_attributed": 1926.3800030060638
+        }
+    ]
+}

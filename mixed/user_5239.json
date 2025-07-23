@@ -1,0 +1,26 @@
+{
+    "user_id": "cf42bf89-7d2e-440c-8858-eed2bc57a36a",
+    "name": "Dr. Laurie Considine",
+    "email": "Isobel.Dach25@gmail.com",
+    "instagram_handle": "@Evan.Stehr",
+    "tiktok_handle": "@Chadd.Ziemann49",
+    "joined_at": "2024-05-18T14:28:11.783Z",
+    "advocacy_programs": [
+        {
+            "program_id": "064c2d20-0784-4546-aef0-b36774a787e6",
+            "brand": "Schowalter, Rosenbaum and Cronin",
+            "tasks_completed": [
+                {
+                    "task_id": "fa3ad743-22fd-4b83-872d-8a450174c49f",
+                    "platform": "Instagram",
+                    "post_url": "https://big-design.info",
+                    "likes": 112,
+                    "comments": 27,
+                    "shares": 62,
+                    "reach": 843
+                }
+            ],
+            "total_sales_attributed": 2711.9291296050856
+        }
+    ]
+}

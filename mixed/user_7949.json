@@ -1,0 +1,26 @@
+{
+    "user_id": "de7c5541-a9d7-48a2-9ee5-48b8acd0422b",
+    "name": "Mercedes Casper",
+    "email": "Rolando.Ebert@yahoo.com",
+    "instagram_handle": "@Felicita_Mraz",
+    "tiktok_handle": "@Irving_Hauck85",
+    "joined_at": "2024-09-15T04:58:28.910Z",
+    "advocacy_programs": [
+        {
+            "program_id": "30e2bfc4-ae43-40da-9bf0-c291e90bfe78",
+            "brand": "Mitchell, Heller and Bahringer",
+            "tasks_completed": [
+                {
+                    "task_id": "f87a5f52-7657-4374-b50f-5bdd033d2e14",
+                    "platform": "TikTok",
+                    "post_url": "https://total-mobility.name/",
+                    "likes": 303,
+                    "comments": 11,
+                    "shares": 53,
+                    "reach": 614
+                }
+            ],
+            "total_sales_attributed": 1035.913882885986
+        }
+    ]
+}

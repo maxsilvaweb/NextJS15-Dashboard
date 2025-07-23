@@ -1,0 +1,26 @@
+{
+    "user_id": "63f62846-b682-4190-81b1-0dfdcf7d146f",
+    "name": "Neal Terry",
+    "email": "Callie39@hotmail.com",
+    "instagram_handle": "@Simone.Kshlerin",
+    "tiktok_handle": "@Loy19",
+    "joined_at": "2024-06-08T19:32:10.055Z",
+    "advocacy_programs": [
+        {
+            "program_id": "96b33e56-8c1f-4b3a-b5d9-f3546b1477b0",
+            "brand": "Trantow LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ce7efe3a-d571-40c3-8ff9-e4a63205dc86",
+                    "platform": "TikTok",
+                    "post_url": "https://total-vision.info/",
+                    "likes": 15,
+                    "comments": 8,
+                    "shares": 83,
+                    "reach": 6105
+                }
+            ],
+            "total_sales_attributed": 4669.429096493673
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4637a3f5-2421-4a4a-9d88-c276225dfd54",
+    "name": "Spencer Kuvalis",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 25,
+                    "shares": 73,
+                    "reach": 9349
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

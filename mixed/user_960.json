@@ -1,0 +1,26 @@
+{
+    "user_id": "982cf24d-917b-4b0b-b63a-c4f45730e456",
+    "name": "Timmy Ferry",
+    "email": "Haylie96@yahoo.com",
+    "instagram_handle": "@Ryan.Lakin25",
+    "tiktok_handle": "@Shany40",
+    "joined_at": "2025-01-28T02:19:48.786Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0eea211f-1467-4307-8049-d15963d38275",
+            "brand": "Pollich, Sanford and Wintheiser",
+            "tasks_completed": [
+                {
+                    "task_id": "4f67dacf-97b1-493a-ab50-0d9471b58b97",
+                    "platform": "Instagram",
+                    "post_url": "https://lovely-minion.org",
+                    "likes": 70,
+                    "comments": 27,
+                    "shares": 63,
+                    "reach": 2925
+                }
+            ],
+            "total_sales_attributed": 3450.6246162886455
+        }
+    ]
+}

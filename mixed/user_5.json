@@ -1,0 +1,26 @@
+{
+    "user_id": "d9a3e49a-d98e-45e6-883e-42b08e242a19",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "5e9b2209-d659-4aa9-9ade-61e5a3fcce4e",
+            "brand": "Bartell - DuBuque",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 100,
+                    "reach": 9111
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8a15a810-db1c-41f2-90ea-f78b715e0a38",
+    "name": "Bertha Hermann",
+    "email": "Anika36@hotmail.com",
+    "instagram_handle": "@Michael.Boyer",
+    "tiktok_handle": "@Kasey.Dach1",
+    "joined_at": "2024-12-22T17:03:11.453Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fc22a492-f9aa-4ffd-b0dd-8c0e23889c43",
+            "brand": "Bode, Kuhic and Auer",
+            "tasks_completed": [
+                {
+                    "task_id": "48c69aea-53f3-4528-af63-9945d38fe3ba",
+                    "platform": "Instagram",
+                    "post_url": "https://joyous-grouper.biz/",
+                    "likes": 457,
+                    "comments": 29,
+                    "shares": 25,
+                    "reach": 8352
+                }
+            ],
+            "total_sales_attributed": 239.17607082547758
+        }
+    ]
+}

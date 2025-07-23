@@ -1,0 +1,26 @@
+{
+    "user_id": "9f8fa784-c533-4541-b1fa-f49941e1e53f",
+    "name": "Rosa Keebler",
+    "email": "Unique.Breitenberg@gmail.com",
+    "instagram_handle": "@Marcellus25",
+    "tiktok_handle": "@Herta_Langosh82",
+    "joined_at": "2024-09-28T12:03:40.008Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ccda46e1-f3c4-4f93-9b02-ea31c689f4f1",
+            "brand": "Quitzon, Mraz and Feil",
+            "tasks_completed": [
+                {
+                    "task_id": "4f98a79b-d035-4cb9-86f1-dd2f4249953a",
+                    "platform": "TikTok",
+                    "post_url": "https://turbulent-plastic.biz/",
+                    "likes": 120,
+                    "comments": 38,
+                    "shares": 47,
+                    "reach": 3524
+                }
+            ],
+            "total_sales_attributed": 522.1941176283498
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "afd822c4-380b-4dc7-9ba9-6e47858fae5a",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://each-reservation.info",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 35,
+                    "reach": 1851
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

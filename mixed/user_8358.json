@@ -1,0 +1,26 @@
+{
+    "user_id": "1ba3da32-d0a8-48fe-9ca0-bcc522bbc3d8",
+    "name": "Neal Bradtke",
+    "email": "Isabelle41@gmail.com",
+    "instagram_handle": "@Garry_Littel41",
+    "tiktok_handle": "@Paula.Marvin",
+    "joined_at": "2024-06-04T18:05:06.603Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ffde6ba1-3d0f-40ab-862b-c8fc22899511",
+            "brand": "Beahan, Hand and Steuber",
+            "tasks_completed": [
+                {
+                    "task_id": "ff65bc11-5d73-4088-ad42-f2c8ff566d0c",
+                    "platform": "TikTok",
+                    "post_url": "https://caring-casement.name",
+                    "likes": 173,
+                    "comments": 35,
+                    "shares": 48,
+                    "reach": 3073
+                }
+            ],
+            "total_sales_attributed": 3218.3478348158474
+        }
+    ]
+}

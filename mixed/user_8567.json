@@ -1,0 +1,26 @@
+{
+    "user_id": "5904dd6d-ef61-4ac4-8336-50a07adf1ceb",
+    "name": "Irvin Reilly",
+    "email": "Beatrice_Schuster@gmail.com",
+    "instagram_handle": "@Fannie57",
+    "tiktok_handle": "@Elza.McGlynn",
+    "joined_at": "2024-09-12T16:16:34.745Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7f3913cb-76a1-4c92-aa0b-ad056bdf8924",
+            "brand": "Dickens - Streich",
+            "tasks_completed": [
+                {
+                    "task_id": "d1fd2a86-b345-40d4-bbef-ab5bac622fd8",
+                    "platform": "Instagram",
+                    "post_url": "https://mundane-minor.org",
+                    "likes": 421,
+                    "comments": 40,
+                    "shares": 21,
+                    "reach": 7566
+                }
+            ],
+            "total_sales_attributed": 4831.085875134523
+        }
+    ]
+}

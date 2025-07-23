@@ -1,0 +1,26 @@
+{
+    "user_id": "fd4dc2c9-cc9f-41f1-910b-b3a93ae10656",
+    "name": "Jeremy McLaughlin",
+    "email": "Amparo_Crooks@gmail.com",
+    "instagram_handle": "@Polly.Bogisich33",
+    "tiktok_handle": "@Kelvin.Beier99",
+    "joined_at": "2024-11-23T20:18:43.267Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2a3b47a2-c783-4d36-9843-71f8c759596a",
+            "brand": "Hoppe Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f2f4d9f1-75b3-4529-8abb-f99fb373b0bd",
+                    "platform": "TikTok",
+                    "post_url": "https://wrathful-forager.org",
+                    "likes": 226,
+                    "comments": 10,
+                    "shares": 53,
+                    "reach": 2209
+                }
+            ],
+            "total_sales_attributed": 3715.4805053764785
+        }
+    ]
+}

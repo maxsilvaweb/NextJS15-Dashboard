@@ -1,0 +1,26 @@
+{
+    "user_id": "4e53dfbd-ab37-4acf-9eda-d7867593472d",
+    "name": "Leroy Harris",
+    "email": "Taylor_Schiller@yahoo.com",
+    "instagram_handle": "@Melyssa85",
+    "tiktok_handle": "@Easter31",
+    "joined_at": "2024-11-12T09:06:45.578Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4b1865db-6dbd-4f91-9573-12798a3d0f8e",
+            "brand": "Orn, Ruecker and Moore",
+            "tasks_completed": [
+                {
+                    "task_id": "9f2609f6-0a50-48ec-bdcb-b7e69cd828d6",
+                    "platform": "Instagram",
+                    "post_url": "https://filthy-handover.info/",
+                    "likes": 41,
+                    "comments": 7,
+                    "shares": 6,
+                    "reach": 3827
+                }
+            ],
+            "total_sales_attributed": 237.6476357549266
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0105a8cd-5999-4e34-ae9b-c76d1464c509",
+    "name": "Candice Oberbrunner",
+    "email": "Samantha_Romaguera@yahoo.com",
+    "instagram_handle": "@Myriam.Gottlieb",
+    "tiktok_handle": "@Shanie_Bins",
+    "joined_at": "2024-08-28T17:13:39.463Z",
+    "advocacy_programs": [
+        {
+            "program_id": "85f7edff-c9b7-4f34-8dcc-02b8701d6fe0",
+            "brand": "Connelly and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "bead64d4-2141-44c9-92c8-28104fbbd5a4",
+                    "platform": "TikTok",
+                    "post_url": "https://emotional-reorganisation.name/",
+                    "likes": 484,
+                    "comments": 23,
+                    "shares": 34,
+                    "reach": 8021
+                }
+            ],
+            "total_sales_attributed": 4561.363545812002
+        }
+    ]
+}

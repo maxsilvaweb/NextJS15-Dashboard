@@ -1,0 +1,26 @@
+{
+    "user_id": "97bc1743-6cc2-45be-9aaf-ba18c76b03d8",
+    "name": "Russell Bode",
+    "email": "Adolph.Champlin@yahoo.com",
+    "instagram_handle": "@Mayra_Kuvalis",
+    "tiktok_handle": "@Keshawn.Graham73",
+    "joined_at": "2024-06-06T01:40:04.893Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7a1ccc63-2255-4cd5-9fde-601ba81083f7",
+            "brand": "Harris, Littel and Hudson",
+            "tasks_completed": [
+                {
+                    "task_id": "3d0ea570-bdb0-495a-8bee-945e1a0b83e4",
+                    "platform": "Instagram",
+                    "post_url": "https://fearless-lashes.org/",
+                    "likes": 30,
+                    "comments": 10,
+                    "shares": 27,
+                    "reach": 9148
+                }
+            ],
+            "total_sales_attributed": 1856.9768327503907
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bfe00805-3db4-4b7c-b20b-b64923a3fba9",
+    "name": "Ms. Lila Mohr",
+    "email": "Bailee.Moen86@hotmail.com",
+    "instagram_handle": "@Derrick_Schneider",
+    "tiktok_handle": "@Shanie77",
+    "joined_at": "2024-07-26T06:00:02.166Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d7b0a55e-4c77-44e0-bad0-057c1dbbdacd",
+            "brand": "Boehm, Waters and Bahringer",
+            "tasks_completed": [
+                {
+                    "task_id": "7d7eee7f-2741-447c-bac0-ce01a1a04e2d",
+                    "platform": "TikTok",
+                    "post_url": "https://unwritten-haversack.info/",
+                    "likes": 480,
+                    "comments": 25,
+                    "shares": 23,
+                    "reach": 3460
+                }
+            ],
+            "total_sales_attributed": 4044.3089207592448
+        }
+    ]
+}

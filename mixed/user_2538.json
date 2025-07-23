@@ -1,0 +1,26 @@
+{
+    "user_id": "b022c0a7-1688-4953-b7eb-e331f3a94524",
+    "name": "Geneva Hane",
+    "email": "Frederic_Kiehn@yahoo.com",
+    "instagram_handle": "@Norris_Crist25",
+    "tiktok_handle": "@Josue81",
+    "joined_at": "2024-09-16T00:05:11.657Z",
+    "advocacy_programs": [
+        {
+            "program_id": "017e4acd-12d1-4c99-9c81-3bc8006e856e",
+            "brand": "Davis - Hirthe",
+            "tasks_completed": [
+                {
+                    "task_id": "49d696df-dace-4f33-8f8c-1bad1244506a",
+                    "platform": "Instagram",
+                    "post_url": "https://youthful-ad.biz/",
+                    "likes": 338,
+                    "comments": 36,
+                    "shares": 0,
+                    "reach": 8126
+                }
+            ],
+            "total_sales_attributed": 3086.527261414821
+        }
+    ]
+}

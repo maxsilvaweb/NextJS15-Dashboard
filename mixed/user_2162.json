@@ -1,0 +1,26 @@
+{
+    "user_id": "ad1035ae-706d-4e4c-9285-7db4d90237bb",
+    "name": "Lauren Mann",
+    "email": "Junius69@yahoo.com",
+    "instagram_handle": "@Alek80",
+    "tiktok_handle": "@Savanah_Howe",
+    "joined_at": "2024-07-21T10:25:04.807Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4998ac22-af8d-4036-a917-79a8d2bc0d61",
+            "brand": "Koch, Medhurst and Gibson",
+            "tasks_completed": [
+                {
+                    "task_id": "3d44df6b-45f7-4932-a6f1-f46e1e091914",
+                    "platform": "Instagram",
+                    "post_url": "https://lawful-valley.name",
+                    "likes": 401,
+                    "comments": 14,
+                    "shares": 45,
+                    "reach": 9901
+                }
+            ],
+            "total_sales_attributed": 2654.44205118838
+        }
+    ]
+}

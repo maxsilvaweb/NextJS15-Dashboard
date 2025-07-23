@@ -1,0 +1,26 @@
+{
+    "user_id": "8e2992ba-f96b-4a8a-829e-e37ea3a6effe",
+    "name": "Anne Berge",
+    "email": "Einar85@gmail.com",
+    "instagram_handle": "@Amya.Ward2",
+    "tiktok_handle": "@Martin_Jenkins",
+    "joined_at": "2025-01-09T16:39:48.995Z",
+    "advocacy_programs": [
+        {
+            "program_id": "97b6ac3d-5c0d-4de6-bc1e-cada7b201b7f",
+            "brand": "Macejkovic - Zemlak",
+            "tasks_completed": [
+                {
+                    "task_id": "c782bbae-9006-4b8b-844a-e52fca547397",
+                    "platform": "Instagram",
+                    "post_url": "https://antique-godfather.org/",
+                    "likes": 131,
+                    "comments": 11,
+                    "shares": 99,
+                    "reach": 4965
+                }
+            ],
+            "total_sales_attributed": 718.7141981127539
+        }
+    ]
+}

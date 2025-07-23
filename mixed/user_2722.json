@@ -1,0 +1,26 @@
+{
+    "user_id": "d6176623-c27c-43b0-bc7f-7be9988653c7",
+    "name": "Florence Legros",
+    "email": "Mackenzie.Hilpert@gmail.com",
+    "instagram_handle": "@Gunnar_Aufderhar99",
+    "tiktok_handle": "@Perry59",
+    "joined_at": "2025-01-16T10:51:30.669Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bc0558cd-157f-49fb-8cef-ba54b37130a6",
+            "brand": "Feeney LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "728782a9-6e21-474a-bf76-00b53e6ecfb2",
+                    "platform": "TikTok",
+                    "post_url": "https://cruel-mobility.name",
+                    "likes": 316,
+                    "comments": 18,
+                    "shares": 57,
+                    "reach": 8449
+                }
+            ],
+            "total_sales_attributed": 2035.9571698491136
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Bradford.Donnelly",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "77cea5ec-fa92-4bc7-b0c6-9880cdc21951",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 11,
+                    "shares": 8,
+                    "reach": 846
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

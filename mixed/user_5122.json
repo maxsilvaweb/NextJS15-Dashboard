@@ -1,0 +1,26 @@
+{
+    "user_id": "9efc2613-4095-43f1-95cf-d41bc8e71e20",
+    "name": "Miss Marjorie Dicki",
+    "email": "Bret22@hotmail.com",
+    "instagram_handle": "@Darrion83",
+    "tiktok_handle": "@Geo.Jacobs77",
+    "joined_at": "2024-06-11T00:58:36.897Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d03f7f5f-6762-42cb-a895-c1c5cc0a9a0c",
+            "brand": "Rempel LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "cd82f3a3-1878-48b3-829b-bf683b9e204e",
+                    "platform": "TikTok",
+                    "post_url": "https://gummy-sightseeing.net",
+                    "likes": 296,
+                    "comments": 24,
+                    "shares": 18,
+                    "reach": 4680
+                }
+            ],
+            "total_sales_attributed": 1396.6533824168453
+        }
+    ]
+}

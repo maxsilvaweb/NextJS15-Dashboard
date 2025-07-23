@@ -1,0 +1,26 @@
+{
+    "user_id": "7a19e16e-e848-412b-b933-e9f0569ea581",
+    "name": "Dianna MacGyver PhD",
+    "email": "Elizabeth45@gmail.com",
+    "instagram_handle": "@Pansy_Powlowski84",
+    "tiktok_handle": "@Tianna.Ortiz-OKeefe70",
+    "joined_at": "2024-08-18T21:12:06.960Z",
+    "advocacy_programs": [
+        {
+            "program_id": "67e9716a-8006-4304-9310-8b2a9af81a5d",
+            "brand": "Wolf, Rolfson and Boyle",
+            "tasks_completed": [
+                {
+                    "task_id": "d805148f-1567-4e3d-9488-ca47e9ee2e6f",
+                    "platform": "TikTok",
+                    "post_url": "https://robust-outlaw.com",
+                    "likes": 265,
+                    "comments": 36,
+                    "shares": 49,
+                    "reach": 5745
+                }
+            ],
+            "total_sales_attributed": 1502.3252789107262
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4ba66076-4d5b-4b57-aaa5-990dab50315f",
+    "name": "Stanley Marks",
+    "email": "Don_Hackett@gmail.com",
+    "instagram_handle": "@Lorine_Herzog35",
+    "tiktok_handle": "@Garnet40",
+    "joined_at": "2024-05-10T22:20:48.896Z",
+    "advocacy_programs": [
+        {
+            "program_id": "83c754f0-eb29-496d-910f-cd037f4f5a15",
+            "brand": "Bergstrom, Kohler and Bartell",
+            "tasks_completed": [
+                {
+                    "task_id": "ad06dbc7-6c67-48e4-aea8-46af18adb395",
+                    "platform": "Instagram",
+                    "post_url": "https://wobbly-sightseeing.info/",
+                    "likes": 10,
+                    "comments": 14,
+                    "shares": 15,
+                    "reach": 1215
+                }
+            ],
+            "total_sales_attributed": 2954.9588046373733
+        }
+    ]
+}

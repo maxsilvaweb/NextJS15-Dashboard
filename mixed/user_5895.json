@@ -1,0 +1,26 @@
+{
+    "user_id": "b2a3f988-a468-4b1e-9bc6-15f0875e5633",
+    "name": "Sonya Mante I",
+    "email": "Muriel40@yahoo.com",
+    "instagram_handle": "@Julianne_Zboncak",
+    "tiktok_handle": "@Immanuel60",
+    "joined_at": "2024-05-27T03:32:56.035Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3fa6caad-bb95-404d-9043-2502c54d3045",
+            "brand": "Lemke, Price and Mitchell",
+            "tasks_completed": [
+                {
+                    "task_id": "b8536d00-8e1d-44cf-bb7c-ab90e95c572b",
+                    "platform": "TikTok",
+                    "post_url": "https://productive-duster.org/",
+                    "likes": 199,
+                    "comments": 14,
+                    "shares": 90,
+                    "reach": 5103
+                }
+            ],
+            "total_sales_attributed": 1764.4723176646094
+        }
+    ]
+}

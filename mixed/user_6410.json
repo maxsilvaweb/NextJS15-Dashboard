@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Cesar Harber",
+    "email": "Hadley85@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Hayes, Will and Collier",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://unused-cantaloupe.com/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 52,
+                    "reach": 6027
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

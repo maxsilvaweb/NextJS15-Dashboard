@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Emard Inc",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://delicious-plastic.name/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 64,
+                    "reach": 3722
+                }
+            ],
+            "total_sales_attributed": 1360.7476763379373
+        }
+    ]
+}

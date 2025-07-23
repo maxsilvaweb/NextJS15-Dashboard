@@ -1,0 +1,26 @@
+{
+    "user_id": "5a796280-7a1b-48e4-b22a-4e1a8606ebe3",
+    "name": "Reginald Ondricka",
+    "email": "Chance59@yahoo.com",
+    "instagram_handle": "@Molly.Senger53",
+    "tiktok_handle": "@Jordon.Cole40",
+    "joined_at": "2025-03-18T17:38:10.208Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e8acf0a8-b5c1-41c1-ac6d-c803a175ab8d",
+            "brand": "Hammes, Hintz and Langworth",
+            "tasks_completed": [
+                {
+                    "task_id": "fcf759cb-30ee-4d85-8785-c32b5363e503",
+                    "platform": "Instagram",
+                    "post_url": "https://whispered-fold.org/",
+                    "likes": 261,
+                    "comments": 2,
+                    "shares": 8,
+                    "reach": 6492
+                }
+            ],
+            "total_sales_attributed": 4849.039205398916
+        }
+    ]
+}

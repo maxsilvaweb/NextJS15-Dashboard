@@ -1,0 +1,26 @@
+{
+    "user_id": "d8fc439e-e6ba-4efd-9230-d7d7d5e3e75d",
+    "name": "Clint Dickinson",
+    "email": "Ima67@gmail.com",
+    "instagram_handle": "@Nikolas_Sawayn",
+    "tiktok_handle": "@Heather_Ankunding17",
+    "joined_at": "2025-02-07T16:57:55.342Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2a79df68-163c-4a31-916a-1f9080f7fdc2",
+            "brand": "Stanton - Paucek",
+            "tasks_completed": [
+                {
+                    "task_id": "d2c0e7ee-afaf-40ce-85bb-bf3cca07427d",
+                    "platform": "TikTok",
+                    "post_url": "https://favorite-gift.name",
+                    "likes": 230,
+                    "comments": 10,
+                    "shares": 35,
+                    "reach": 9327
+                }
+            ],
+            "total_sales_attributed": 2069.968293044403
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bd57133c-c7fe-4f7e-879a-855b438c3a51",
+    "name": "Marty Hilpert",
+    "email": "Jude95@gmail.com",
+    "instagram_handle": "@Domenic.Weber",
+    "tiktok_handle": "@Stella.Heathcote",
+    "joined_at": "2025-03-15T19:43:41.513Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bc523b68-17f3-4c8e-ac15-ada9e5ddb8cb",
+            "brand": "Huels Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "7c9aa793-f611-4f3d-a628-62237a7dede1",
+                    "platform": "Instagram",
+                    "post_url": "https://greedy-teammate.name/",
+                    "likes": 244,
+                    "comments": 16,
+                    "shares": 66,
+                    "reach": 1415
+                }
+            ],
+            "total_sales_attributed": 2164.3943650792457
+        }
+    ]
+}

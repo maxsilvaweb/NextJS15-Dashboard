@@ -1,0 +1,26 @@
+{
+    "user_id": "c3eab672-d20e-4348-918c-6ed771f1f56b",
+    "name": "Mr. Tony Koepp",
+    "email": "Nelson.Nolan@yahoo.com",
+    "instagram_handle": "@Reilly.Cremin",
+    "tiktok_handle": "@Sonia47",
+    "joined_at": "2025-02-24T22:27:27.242Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b3a94cb2-c949-46d7-94e7-1fb068789a87",
+            "brand": "Bailey, Kuhn and Veum",
+            "tasks_completed": [
+                {
+                    "task_id": "0be8d802-3f9d-4bc1-8f56-99057b00396c",
+                    "platform": "Instagram",
+                    "post_url": "https://admired-trolley.biz/",
+                    "likes": 367,
+                    "comments": 38,
+                    "shares": 26,
+                    "reach": 4715
+                }
+            ],
+            "total_sales_attributed": 2267.750947271379
+        }
+    ]
+}

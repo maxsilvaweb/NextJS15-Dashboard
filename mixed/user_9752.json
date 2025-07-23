@@ -1,0 +1,26 @@
+{
+    "user_id": "d1534713-751e-423b-85ea-50f1612b5bd5",
+    "name": "Bennie Mosciski",
+    "email": "Charlene82@hotmail.com",
+    "instagram_handle": "@Rosemary.McLaughlin8",
+    "tiktok_handle": "@Tara_Zulauf66",
+    "joined_at": "2025-01-17T04:26:24.423Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bce52b28-3df5-47f9-8dd9-d949a0d338da",
+            "brand": "Murray - Prohaska",
+            "tasks_completed": [
+                {
+                    "task_id": "0f7bdace-5ea5-44a4-a133-8a3a356008ee",
+                    "platform": "TikTok",
+                    "post_url": "https://hidden-printer.org",
+                    "likes": 192,
+                    "comments": 16,
+                    "shares": 63,
+                    "reach": 8788
+                }
+            ],
+            "total_sales_attributed": 2793.761693851688
+        }
+    ]
+}

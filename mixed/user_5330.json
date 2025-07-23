@@ -1,0 +1,26 @@
+{
+    "user_id": "4d747dc0-54cc-4d03-b51d-ca719c82c58d",
+    "name": "Darrell Feeney",
+    "email": "Kelley_Parker@gmail.com",
+    "instagram_handle": "@Gregory.Purdy",
+    "tiktok_handle": "@Lamont_Gleason",
+    "joined_at": "2024-04-21T12:44:23.066Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ec0a845b-c177-440a-badf-ef91f7cdb29f",
+            "brand": "Hoeger - Erdman",
+            "tasks_completed": [
+                {
+                    "task_id": "b0c62bcb-0f81-4059-96d8-a7911529acda",
+                    "platform": "TikTok",
+                    "post_url": "https://greedy-willow.net/",
+                    "likes": 52,
+                    "comments": 25,
+                    "shares": 68,
+                    "reach": 6506
+                }
+            ],
+            "total_sales_attributed": 2118.7053388044123
+        }
+    ]
+}

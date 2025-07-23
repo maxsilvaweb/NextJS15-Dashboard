@@ -1,0 +1,26 @@
+{
+    "user_id": "f59ad6d0-62bc-4eb1-b415-44995f658e6f",
+    "name": "Lamar Will PhD",
+    "email": "Lera_Corkery@yahoo.com",
+    "instagram_handle": "@Kenneth_Goodwin26",
+    "tiktok_handle": "@Kayley_Bayer",
+    "joined_at": "2024-08-23T07:19:38.032Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ea5ec002-9c38-4ee2-b68b-1634a04a80ac",
+            "brand": "Reichert - Homenick",
+            "tasks_completed": [
+                {
+                    "task_id": "318d14a8-7e36-4737-9f19-72f36a56547d",
+                    "platform": "Instagram",
+                    "post_url": "https://untidy-knitting.net/",
+                    "likes": 129,
+                    "comments": 6,
+                    "shares": 50,
+                    "reach": 7598
+                }
+            ],
+            "total_sales_attributed": 442.88282755051154
+        }
+    ]
+}

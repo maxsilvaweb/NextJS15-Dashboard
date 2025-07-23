@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "536af14f-2da4-46b6-b2b1-9cbbdf4266d9",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://inborn-distinction.info/",
+                    "likes": 209,
+                    "comments": null,
+                    "shares": 72,
+                    "reach": 4969
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

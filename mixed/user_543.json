@@ -1,0 +1,26 @@
+{
+    "user_id": "45ef93ab-7c12-4086-a0b4-f419e20d4865",
+    "name": "Michael Pfeffer",
+    "email": "Isadore.Hahn@hotmail.com",
+    "instagram_handle": "@Heaven9",
+    "tiktok_handle": "@Jody.Ratke51",
+    "joined_at": "2025-02-15T18:17:07.866Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7300fee8-8449-4003-9565-a0022f2bf7bb",
+            "brand": "Daniel - Tremblay",
+            "tasks_completed": [
+                {
+                    "task_id": "0fc746c7-fee3-4414-8781-1289d7c932e9",
+                    "platform": "TikTok",
+                    "post_url": "https://calculating-cassava.biz",
+                    "likes": 352,
+                    "comments": 32,
+                    "shares": 21,
+                    "reach": 9003
+                }
+            ],
+            "total_sales_attributed": 1333.0705571969552
+        }
+    ]
+}

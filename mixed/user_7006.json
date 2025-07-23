@@ -1,0 +1,26 @@
+{
+    "user_id": "ff4156bc-a390-4721-ada0-71e1744c1856",
+    "name": "Jason Heathcote",
+    "email": "Bryon_Walter46@gmail.com",
+    "instagram_handle": "@Icie.Littel",
+    "tiktok_handle": "@Syble10",
+    "joined_at": "2025-03-14T14:56:17.684Z",
+    "advocacy_programs": [
+        {
+            "program_id": "666df8d7-f7c2-425b-b832-444c82206edc",
+            "brand": "Fisher - Gerlach",
+            "tasks_completed": [
+                {
+                    "task_id": "8159272a-8e25-4a5b-b0f6-89de8e13efff",
+                    "platform": "Instagram",
+                    "post_url": "https://rich-sundae.name/",
+                    "likes": 377,
+                    "comments": 45,
+                    "shares": 56,
+                    "reach": 6473
+                }
+            ],
+            "total_sales_attributed": 4301.106823683688
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a50260a2-3d9a-473c-9c60-987931bc5e6a",
+    "name": "Rogelio Towne Sr.",
+    "email": "Stella_Kassulke63@hotmail.com",
+    "instagram_handle": "@Alia25",
+    "tiktok_handle": "@Cathryn.Lynch50",
+    "joined_at": "2024-10-27T21:28:58.558Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c58f5d44-e1c9-49c9-bcb3-91f0bad6c81e",
+            "brand": "Streich Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "1ffabe8f-c591-41ca-8f51-c3587cd7f3e6",
+                    "platform": "TikTok",
+                    "post_url": "https://cluttered-birdcage.net",
+                    "likes": 194,
+                    "comments": 47,
+                    "shares": 30,
+                    "reach": 2031
+                }
+            ],
+            "total_sales_attributed": 2904.699123542524
+        }
+    ]
+}

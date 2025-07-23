@@ -1,0 +1,26 @@
+{
+    "user_id": "7cdbe20b-aebe-404d-8486-e780caada2d3",
+    "name": "Mr. Roderick Bergnaum",
+    "email": "Mozelle.Torphy72@hotmail.com",
+    "instagram_handle": "@Scarlett45",
+    "tiktok_handle": "@Lucie99",
+    "joined_at": "2025-03-14T02:37:14.912Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8574b8a7-ea8e-4b06-b9a5-8d839a3f5d0d",
+            "brand": "Rohan Group",
+            "tasks_completed": [
+                {
+                    "task_id": "12466d29-e752-4515-aa24-2fbe2f2fe47f",
+                    "platform": "TikTok",
+                    "post_url": "https://late-lotion.org/",
+                    "likes": 355,
+                    "comments": 25,
+                    "shares": 88,
+                    "reach": 4116
+                }
+            ],
+            "total_sales_attributed": 2491.390306391352
+        }
+    ]
+}

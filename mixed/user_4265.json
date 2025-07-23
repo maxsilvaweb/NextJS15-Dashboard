@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Dorcas.Lemke",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Beier - Gleason",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 359,
+                    "comments": null,
+                    "shares": 48,
+                    "reach": 4165
+                }
+            ],
+            "total_sales_attributed": 3980.2806160974146
+        }
+    ]
+}

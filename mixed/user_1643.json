@@ -1,0 +1,26 @@
+{
+    "user_id": "2e48e812-96b0-4725-a4e6-5c983953e07b",
+    "name": "Teresa Zboncak",
+    "email": "Bernard43@hotmail.com",
+    "instagram_handle": "@Meaghan_Gleason64",
+    "tiktok_handle": "@Dorcas_Bode",
+    "joined_at": "2024-10-20T19:22:56.750Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d2cbe5a4-b2d4-47fe-ac82-c5e97a58cffd",
+            "brand": "Romaguera, Kuphal and Waelchi",
+            "tasks_completed": [
+                {
+                    "task_id": "151aad23-35e0-4fc6-9aec-3fc49216601a",
+                    "platform": "TikTok",
+                    "post_url": "https://boiling-pigsty.name/",
+                    "likes": 14,
+                    "comments": 46,
+                    "shares": 26,
+                    "reach": 3922
+                }
+            ],
+            "total_sales_attributed": 200.04454812465434
+        }
+    ]
+}

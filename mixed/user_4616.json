@@ -1,0 +1,26 @@
+{
+    "user_id": "a4d90c9d-5a48-48cc-b16c-f44f38327690",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://rapid-drug.net/",
+                    "likes": "NaN",
+                    "comments": 49,
+                    "shares": 65,
+                    "reach": 8364
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

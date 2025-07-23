@@ -1,0 +1,26 @@
+{
+    "user_id": "cd4082bb-4c11-4cbf-a4d8-a49a0f6af11d",
+    "name": "Randall Lubowitz",
+    "email": "Furman.Wunsch30@gmail.com",
+    "instagram_handle": "@Sterling84",
+    "tiktok_handle": "@Reba56",
+    "joined_at": "2024-07-09T18:05:47.544Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c46af9de-d7a2-40fa-ab55-0522cad1af89",
+            "brand": "Turcotte Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "4a693a6a-1524-49f7-bba4-cdce91d5723e",
+                    "platform": "Instagram",
+                    "post_url": "https://blushing-flight.biz",
+                    "likes": 134,
+                    "comments": 1,
+                    "shares": 74,
+                    "reach": 6627
+                }
+            ],
+            "total_sales_attributed": 2659.5667862020873
+        }
+    ]
+}

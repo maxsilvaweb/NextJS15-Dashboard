@@ -1,0 +1,26 @@
+{
+    "user_id": "a640d4ce-c240-4d8d-8c6b-3a9ca909cf70",
+    "name": "Casey Schumm",
+    "email": "Dessie_Nitzsche@gmail.com",
+    "instagram_handle": "@Oma75",
+    "tiktok_handle": "@Aditya.Gleason94",
+    "joined_at": "2024-09-18T07:47:24.444Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3846648d-6258-493c-864a-faec1ece600f",
+            "brand": "Parisian, Langosh and Crooks",
+            "tasks_completed": [
+                {
+                    "task_id": "9583ac16-a811-4b74-91d5-5f2cc6a00497",
+                    "platform": "TikTok",
+                    "post_url": "https://tricky-plumber.org",
+                    "likes": 207,
+                    "comments": 36,
+                    "shares": 14,
+                    "reach": 8431
+                }
+            ],
+            "total_sales_attributed": 2628.3471735086036
+        }
+    ]
+}

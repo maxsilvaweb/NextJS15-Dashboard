@@ -1,0 +1,26 @@
+{
+    "user_id": "a36ddf42-fcfd-48d9-840c-ae887c923e65",
+    "name": "Ruby Dooley",
+    "email": "Kole_Ryan@yahoo.com",
+    "instagram_handle": "@Johnson.Collier74",
+    "tiktok_handle": "@Dedrick.Kuvalis16",
+    "joined_at": "2024-09-17T10:02:24.816Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0b9e252e-4448-472d-ad0e-22e00e18842d",
+            "brand": "Morissette, VonRueden and Roberts",
+            "tasks_completed": [
+                {
+                    "task_id": "47c1d21c-03d9-4cd2-89e4-042070e0cc2a",
+                    "platform": "Instagram",
+                    "post_url": "https://able-tuba.com/",
+                    "likes": 186,
+                    "comments": 40,
+                    "shares": 25,
+                    "reach": 8484
+                }
+            ],
+            "total_sales_attributed": 2890.4787427128936
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9ba0e44a-29cd-4320-907c-ece897c5e1e9",
+    "name": "Lela Hansen",
+    "email": "Itzel.McCullough@gmail.com",
+    "instagram_handle": "@Sandy.OConnell69",
+    "tiktok_handle": "@Alejandra.Pacocha59",
+    "joined_at": "2024-08-30T16:50:57.932Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1cca8f59-f3fb-42cf-ab4e-9b00db8f3543",
+            "brand": "McClure and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "e8b34359-ac37-45e5-8628-f97fd79ce5d7",
+                    "platform": "TikTok",
+                    "post_url": "https://gullible-marten.com/",
+                    "likes": 495,
+                    "comments": 17,
+                    "shares": 30,
+                    "reach": 3904
+                }
+            ],
+            "total_sales_attributed": 3458.3670197843476
+        }
+    ]
+}

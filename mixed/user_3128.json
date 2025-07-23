@@ -1,0 +1,26 @@
+{
+    "user_id": "6656452c-30cd-4091-b9b3-713189eee882",
+    "name": "Gordon Schoen",
+    "email": "Lowell.Pouros@gmail.com",
+    "instagram_handle": "@Helga87",
+    "tiktok_handle": "@Kailey94",
+    "joined_at": "2025-01-26T17:53:50.165Z",
+    "advocacy_programs": [
+        {
+            "program_id": "da0fea7d-70f4-4d9e-a26f-b0c47cd66977",
+            "brand": "Walker LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a1f9f55f-6284-44d5-a4cd-5fb6a27b7c0e",
+                    "platform": "Instagram",
+                    "post_url": "https://passionate-commodity.net",
+                    "likes": 314,
+                    "comments": 36,
+                    "shares": 76,
+                    "reach": 2861
+                }
+            ],
+            "total_sales_attributed": 4265.899698601119
+        }
+    ]
+}

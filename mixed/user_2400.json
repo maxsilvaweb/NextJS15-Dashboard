@@ -1,0 +1,26 @@
+{
+    "user_id": "4a94ef2c-cf3a-4f48-8710-3cc7f462c136",
+    "name": "Dr. Floyd Moore",
+    "email": "Jaime22@hotmail.com",
+    "instagram_handle": "@Sanford.Franecki42",
+    "tiktok_handle": "@Alf46",
+    "joined_at": "2025-03-13T05:32:18.285Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0a545573-cb5e-4314-9698-a64344fa39a2",
+            "brand": "Gerlach, Konopelski and O'Kon",
+            "tasks_completed": [
+                {
+                    "task_id": "ff9d4f74-a3c1-42aa-b99f-eb2119a8ff8e",
+                    "platform": "TikTok",
+                    "post_url": "https://phony-tributary.biz",
+                    "likes": 126,
+                    "comments": 24,
+                    "shares": 59,
+                    "reach": 2296
+                }
+            ],
+            "total_sales_attributed": 4011.130599437147
+        }
+    ]
+}

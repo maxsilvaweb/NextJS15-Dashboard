@@ -1,0 +1,26 @@
+{
+    "user_id": "d75aab81-70c7-4e4c-a965-534230dedeef",
+    "name": "Pete Bergnaum",
+    "email": "Mckenzie0@hotmail.com",
+    "instagram_handle": "@Anabelle_Monahan8",
+    "tiktok_handle": "@Luz.Kuhn",
+    "joined_at": "2024-12-15T22:57:13.774Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9e7e1186-9aa3-4e85-8bb4-1abed73f76be",
+            "brand": "Windler - Pouros",
+            "tasks_completed": [
+                {
+                    "task_id": "f509b320-0325-4420-a502-cd470363e435",
+                    "platform": "TikTok",
+                    "post_url": "https://babyish-singing.biz",
+                    "likes": 79,
+                    "comments": 13,
+                    "shares": 12,
+                    "reach": 5827
+                }
+            ],
+            "total_sales_attributed": 4497.941633746512
+        }
+    ]
+}

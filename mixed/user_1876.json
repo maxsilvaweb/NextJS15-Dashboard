@@ -1,0 +1,26 @@
+{
+    "user_id": "6d4cc802-0ed5-420e-b2b0-145584de58f4",
+    "name": "Shari Walsh",
+    "email": "Bernadine47@yahoo.com",
+    "instagram_handle": "@Lucious.Stracke",
+    "tiktok_handle": "@Dante30",
+    "joined_at": "2024-08-06T11:25:47.113Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b69c5380-a7fc-4ffe-85d2-d39a4cbef859",
+            "brand": "Johns Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "dcf5612a-3338-4bd2-89f2-fdb68e806436",
+                    "platform": "Instagram",
+                    "post_url": "https://timely-conservative.name",
+                    "likes": 232,
+                    "comments": 43,
+                    "shares": 2,
+                    "reach": 9915
+                }
+            ],
+            "total_sales_attributed": 4729.273806715827
+        }
+    ]
+}

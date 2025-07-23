@@ -1,0 +1,26 @@
+{
+    "user_id": "aa6bb756-fe20-43f6-b200-9cb0ac7c503c",
+    "name": "Erick Jaskolski",
+    "email": "Melvina13@yahoo.com",
+    "instagram_handle": "@Lucas82",
+    "tiktok_handle": "@Dave_Kessler",
+    "joined_at": "2024-09-11T23:20:57.729Z",
+    "advocacy_programs": [
+        {
+            "program_id": "324fdc11-132b-4f42-9e8b-fad5f165f14a",
+            "brand": "Jones, Murray and Zemlak",
+            "tasks_completed": [
+                {
+                    "task_id": "8a3e6a95-8949-4348-9ade-5b276c1f02af",
+                    "platform": "TikTok",
+                    "post_url": "https://woeful-brook.info/",
+                    "likes": 286,
+                    "comments": 36,
+                    "shares": 25,
+                    "reach": 2459
+                }
+            ],
+            "total_sales_attributed": 1705.7159305078073
+        }
+    ]
+}

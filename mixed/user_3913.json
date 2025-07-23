@@ -1,0 +1,26 @@
+{
+    "user_id": "beac9feb-117f-4e9f-b742-9f3ce7b159b6",
+    "name": "Mr. Lloyd Yundt",
+    "email": "Verdie.Schumm@hotmail.com",
+    "instagram_handle": "@Brayan_Senger",
+    "tiktok_handle": "@Jamaal.Marquardt34",
+    "joined_at": "2024-06-15T16:57:38.828Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1a464253-5d81-41b2-bb67-205beb82e3a2",
+            "brand": "Nikolaus, Weimann and Harvey",
+            "tasks_completed": [
+                {
+                    "task_id": "4344dd1c-8a0a-4a7a-8f02-1930640df39e",
+                    "platform": "TikTok",
+                    "post_url": "https://agile-pop.net/",
+                    "likes": 268,
+                    "comments": 47,
+                    "shares": 69,
+                    "reach": 5117
+                }
+            ],
+            "total_sales_attributed": 3260.3221202445666
+        }
+    ]
+}

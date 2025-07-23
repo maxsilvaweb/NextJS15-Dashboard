@@ -1,0 +1,26 @@
+{
+    "user_id": "a7cee471-da09-4137-a2c3-4feefa9a056b",
+    "name": "Conrad Fay",
+    "email": "Waylon.Treutel@yahoo.com",
+    "instagram_handle": "@Velda67",
+    "tiktok_handle": "@Alec_Farrell3",
+    "joined_at": "2025-03-14T08:12:30.946Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c9e0bd63-6ad7-4dbd-81d4-27cc8c272a02",
+            "brand": "Jacobs - Botsford",
+            "tasks_completed": [
+                {
+                    "task_id": "7adea380-854e-468a-9bf4-bac8dfb02517",
+                    "platform": "Instagram",
+                    "post_url": "https://lovable-grandson.net/",
+                    "likes": 180,
+                    "comments": 25,
+                    "shares": 85,
+                    "reach": 5672
+                }
+            ],
+            "total_sales_attributed": 825.8602462627547
+        }
+    ]
+}

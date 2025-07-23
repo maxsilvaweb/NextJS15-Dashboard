@@ -1,0 +1,26 @@
+{
+    "user_id": "f73d9c58-5c53-4a49-b90f-358bdc5333bc",
+    "name": "Gladys Daniel",
+    "email": "Zander.Leuschke@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Bette48",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 8,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

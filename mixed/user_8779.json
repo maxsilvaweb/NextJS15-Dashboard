@@ -1,0 +1,26 @@
+{
+    "user_id": "d6e34d76-6f03-4154-b59e-c7c9cc91965d",
+    "name": "Miss Monique Hilll",
+    "email": "Alisha96@hotmail.com",
+    "instagram_handle": "@Hortense87",
+    "tiktok_handle": "@Forrest.Schumm-Heaney",
+    "joined_at": "2024-05-10T03:58:44.787Z",
+    "advocacy_programs": [
+        {
+            "program_id": "94261f11-ce7d-4e50-8c2b-104493d381d5",
+            "brand": "Grimes, Bernier and Osinski",
+            "tasks_completed": [
+                {
+                    "task_id": "930b4042-99ab-4baf-8e03-9009de5365b3",
+                    "platform": "TikTok",
+                    "post_url": "https://earnest-lay.com/",
+                    "likes": 222,
+                    "comments": 19,
+                    "shares": 38,
+                    "reach": 1090
+                }
+            ],
+            "total_sales_attributed": 3771.9527348743254
+        }
+    ]
+}

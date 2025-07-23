@@ -1,0 +1,26 @@
+{
+    "user_id": "edbe014b-6c70-4267-a1db-9a17c600881c",
+    "name": "Tony Kassulke",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://compassionate-moment.info",
+                    "likes": "NaN",
+                    "comments": 35,
+                    "shares": 42,
+                    "reach": 4749
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

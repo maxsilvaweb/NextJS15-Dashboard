@@ -1,0 +1,26 @@
+{
+    "user_id": "8c585bb7-12a2-40dc-97c0-a3932f195554",
+    "name": "Malcolm Gibson",
+    "email": "Ari.Lind15@gmail.com",
+    "instagram_handle": "@Loren94",
+    "tiktok_handle": "@Pinkie_Cummerata68",
+    "joined_at": "2025-01-04T02:57:31.278Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b7c5666a-41fc-4395-94ef-673255a4b05a",
+            "brand": "Welch, Kulas and Ullrich",
+            "tasks_completed": [
+                {
+                    "task_id": "6fcf977d-07a5-4c2c-ae8a-28b7b924d60d",
+                    "platform": "TikTok",
+                    "post_url": "https://mean-pacemaker.name",
+                    "likes": 318,
+                    "comments": 34,
+                    "shares": 38,
+                    "reach": 7085
+                }
+            ],
+            "total_sales_attributed": 3583.7321068914443
+        }
+    ]
+}

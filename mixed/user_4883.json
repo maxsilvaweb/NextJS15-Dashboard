@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Orland.Grimes21@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Preston28",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 80,
+                    "reach": 5412
+                }
+            ],
+            "total_sales_attributed": 328.7831272717669
+        }
+    ]
+}

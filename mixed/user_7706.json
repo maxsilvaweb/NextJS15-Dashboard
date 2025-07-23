@@ -1,0 +1,26 @@
+{
+    "user_id": "d3ce4ac7-7719-4a5d-b490-6ba9491704d8",
+    "name": "Ms. Carolyn Grady Jr.",
+    "email": "Lorna.Hettinger9@gmail.com",
+    "instagram_handle": "@Kaylee_Torp16",
+    "tiktok_handle": "@Ayden.Williamson",
+    "joined_at": "2024-09-26T13:43:22.692Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f7948e95-1764-4494-813d-afc44d79724a",
+            "brand": "Von, Williamson and Hermiston",
+            "tasks_completed": [
+                {
+                    "task_id": "8caeff32-c7cb-4458-acb5-42001ab80063",
+                    "platform": "Instagram",
+                    "post_url": "https://unwilling-shore.org",
+                    "likes": 264,
+                    "comments": 27,
+                    "shares": 53,
+                    "reach": 6368
+                }
+            ],
+            "total_sales_attributed": 2776.895337788707
+        }
+    ]
+}

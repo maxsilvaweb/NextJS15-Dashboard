@@ -1,0 +1,26 @@
+{
+    "user_id": "effa8835-7f77-4bc0-9ef3-787f1e376316",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "51941859-9adc-4268-95ab-edf42537f94c",
+            "brand": "Gutmann - Schinner",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 8,
+                    "reach": 5606
+                }
+            ],
+            "total_sales_attributed": 532.3154155732591
+        }
+    ]
+}

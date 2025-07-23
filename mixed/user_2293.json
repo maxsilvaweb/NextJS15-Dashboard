@@ -1,0 +1,26 @@
+{
+    "user_id": "eb9223bf-b2d6-4adb-a582-1df4bcd83b17",
+    "name": "Kay Kunde Sr.",
+    "email": "Vesta.Morissette51@hotmail.com",
+    "instagram_handle": "@Geovanny.Kemmer",
+    "tiktok_handle": "@Lenna_Walsh4",
+    "joined_at": "2025-01-23T15:13:44.571Z",
+    "advocacy_programs": [
+        {
+            "program_id": "89c84c7c-44ad-447e-9309-d0c7a416eeb3",
+            "brand": "Jerde, Monahan and Bogan",
+            "tasks_completed": [
+                {
+                    "task_id": "772bfa66-3d2b-4ff7-b78a-5d8416997048",
+                    "platform": "TikTok",
+                    "post_url": "https://crooked-bathrobe.biz/",
+                    "likes": 307,
+                    "comments": 30,
+                    "shares": 74,
+                    "reach": 4483
+                }
+            ],
+            "total_sales_attributed": 736.9056076418614
+        }
+    ]
+}

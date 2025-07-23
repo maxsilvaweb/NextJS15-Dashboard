@@ -1,0 +1,26 @@
+{
+    "user_id": "bcd04368-89c4-482d-b9a2-a17e5a9ea8f0",
+    "name": "Warren Franey",
+    "email": "Andrew.Swift95@gmail.com",
+    "instagram_handle": "@Lowell.Heaney",
+    "tiktok_handle": "@Joana63",
+    "joined_at": "2024-08-31T13:06:02.965Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ef4c5919-2a8c-4a00-9700-0caa42ed8ce9",
+            "brand": "West, Mayer and Balistreri",
+            "tasks_completed": [
+                {
+                    "task_id": "b14180ed-895d-4a77-aa27-5e42dd24134b",
+                    "platform": "TikTok",
+                    "post_url": "https://suburban-vestment.net/",
+                    "likes": 411,
+                    "comments": 41,
+                    "shares": 82,
+                    "reach": 2302
+                }
+            ],
+            "total_sales_attributed": 832.9411886243606
+        }
+    ]
+}

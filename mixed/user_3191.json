@@ -1,0 +1,26 @@
+{
+    "user_id": "77580a12-6237-4c3c-9008-992d7f377a4f",
+    "name": "Jesse Bruen",
+    "email": "Reva72@gmail.com",
+    "instagram_handle": "@Lambert.Vandervort49",
+    "tiktok_handle": "@Ruthie_Bashirian19",
+    "joined_at": "2025-02-25T11:14:38.626Z",
+    "advocacy_programs": [
+        {
+            "program_id": "19dbcb2c-a113-4e75-aff3-aa5e7e71a826",
+            "brand": "Cruickshank - Mayer",
+            "tasks_completed": [
+                {
+                    "task_id": "093a31d9-2015-4da9-84eb-b0278b01df9e",
+                    "platform": "TikTok",
+                    "post_url": "https://unwilling-filter.com",
+                    "likes": 250,
+                    "comments": 2,
+                    "shares": 83,
+                    "reach": 1307
+                }
+            ],
+            "total_sales_attributed": 1100.6180778720982
+        }
+    ]
+}

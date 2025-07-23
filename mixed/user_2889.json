@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Littel - MacGyver",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://skeletal-poetry.biz",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 11,
+                    "reach": 9427
+                }
+            ],
+            "total_sales_attributed": 2609.574932676789
+        }
+    ]
+}

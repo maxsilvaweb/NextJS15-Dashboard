@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Shanahan, Keebler and Kassulke",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://punctual-cruelty.org/",
+                    "likes": "NaN",
+                    "comments": 50,
+                    "shares": 1,
+                    "reach": 7286
+                }
+            ],
+            "total_sales_attributed": 2307.268781622554
+        }
+    ]
+}

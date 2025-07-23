@@ -1,0 +1,26 @@
+{
+    "user_id": "1cda06b5-7ebd-4a5b-8229-5da16519210f",
+    "name": "Tomas Lesch",
+    "email": "Alessandra_Anderson@yahoo.com",
+    "instagram_handle": "@Pierre0",
+    "tiktok_handle": "@Raphael.Ward-Feil",
+    "joined_at": "2025-03-15T12:26:49.327Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bfd1d9e4-007d-492a-9adb-212aa4e3e075",
+            "brand": "Hartmann, Toy and Reilly",
+            "tasks_completed": [
+                {
+                    "task_id": "e72da680-3ca2-4f95-addc-ecbe496ea075",
+                    "platform": "TikTok",
+                    "post_url": "https://trivial-embossing.biz/",
+                    "likes": 62,
+                    "comments": 30,
+                    "shares": 78,
+                    "reach": 748
+                }
+            ],
+            "total_sales_attributed": 2951.8460578947797
+        }
+    ]
+}

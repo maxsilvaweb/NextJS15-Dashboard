@@ -1,0 +1,26 @@
+{
+    "user_id": "c094ca6e-f46e-443d-84e4-4e29d3d3e5ec",
+    "name": "Dr. Jackie Quigley",
+    "email": "Ross46@hotmail.com",
+    "instagram_handle": "@Mariela_Lueilwitz",
+    "tiktok_handle": "@Shannon_Gutmann",
+    "joined_at": "2024-12-23T22:40:09.076Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a61cb16f-c9c4-4bd8-b7ed-58cc5221ea15",
+            "brand": "Kutch, Larkin and Pagac",
+            "tasks_completed": [
+                {
+                    "task_id": "33edb37f-6254-491d-868b-1ad2a255431a",
+                    "platform": "TikTok",
+                    "post_url": "https://acceptable-seal.biz/",
+                    "likes": 471,
+                    "comments": 17,
+                    "shares": 87,
+                    "reach": 9135
+                }
+            ],
+            "total_sales_attributed": 355.0584496159496
+        }
+    ]
+}

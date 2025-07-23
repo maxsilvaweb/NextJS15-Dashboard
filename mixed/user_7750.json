@@ -1,0 +1,26 @@
+{
+    "user_id": "727eb504-2e7d-40da-a0fb-55bc65c76460",
+    "name": "Tina Nikolaus",
+    "email": "Elenora_Gutmann-Keeling@yahoo.com",
+    "instagram_handle": "@Jeanie41",
+    "tiktok_handle": "@Derrick82",
+    "joined_at": "2024-11-01T14:07:12.924Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3b308add-ad8f-47ae-91ab-146d3b58ee42",
+            "brand": "Klein and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a549634c-9c5e-40d8-957e-44d09817e0f6",
+                    "platform": "TikTok",
+                    "post_url": "https://aggravating-bump.com",
+                    "likes": 492,
+                    "comments": 49,
+                    "shares": 10,
+                    "reach": 5232
+                }
+            ],
+            "total_sales_attributed": 1776.2826689662247
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e9f4baa4-50c7-4e06-a041-2a7c8fc3aa17",
+    "name": "Joel Schiller DVM",
+    "email": "Jayme.Ryan@gmail.com",
+    "instagram_handle": "@Germaine_Sporer26",
+    "tiktok_handle": "@Rogers9",
+    "joined_at": "2024-09-24T08:02:38.731Z",
+    "advocacy_programs": [
+        {
+            "program_id": "de0988d5-62e3-4589-80af-dbb39e57732f",
+            "brand": "Bosco Group",
+            "tasks_completed": [
+                {
+                    "task_id": "a1fecea5-5570-4035-b495-9d8d3943ad15",
+                    "platform": "TikTok",
+                    "post_url": "https://marvelous-yak.net/",
+                    "likes": 177,
+                    "comments": 41,
+                    "shares": 70,
+                    "reach": 7507
+                }
+            ],
+            "total_sales_attributed": 714.2536295052402
+        }
+    ]
+}

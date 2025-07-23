@@ -1,0 +1,26 @@
+{
+    "user_id": "0c5d1ed7-ff2e-4289-ab41-811ec7ced791",
+    "name": "Myron Brown",
+    "email": "Xzavier55@hotmail.com",
+    "instagram_handle": "@Vickie.Olson41",
+    "tiktok_handle": "@Golden.Stark48",
+    "joined_at": "2024-09-08T19:37:02.080Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e1ac7e86-5863-4ae3-a40f-db6b3300b962",
+            "brand": "Jones - Hessel",
+            "tasks_completed": [
+                {
+                    "task_id": "1467df0b-e946-41f6-b660-c888524573e8",
+                    "platform": "TikTok",
+                    "post_url": "https://gentle-convection.org",
+                    "likes": 398,
+                    "comments": 35,
+                    "shares": 51,
+                    "reach": 5072
+                }
+            ],
+            "total_sales_attributed": 1343.7811712508717
+        }
+    ]
+}

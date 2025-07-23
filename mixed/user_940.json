@@ -1,0 +1,26 @@
+{
+    "user_id": "6c3c7c11-b033-43a2-8376-ec44dd1a01e3",
+    "name": "Ronald Murray",
+    "email": "Elmo_Crist50@gmail.com",
+    "instagram_handle": "@Myriam_West",
+    "tiktok_handle": "@Alanis.Bergstrom-Quitzon",
+    "joined_at": "2024-09-19T14:42:20.295Z",
+    "advocacy_programs": [
+        {
+            "program_id": "76adfeef-3784-486a-acf7-72e4c1e977da",
+            "brand": "Mayer and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "e408b7ce-7f22-4cda-8264-be4cb19f0ff0",
+                    "platform": "TikTok",
+                    "post_url": "https://murky-planula.name/",
+                    "likes": 415,
+                    "comments": 39,
+                    "shares": 31,
+                    "reach": 3185
+                }
+            ],
+            "total_sales_attributed": 231.37625309357452
+        }
+    ]
+}

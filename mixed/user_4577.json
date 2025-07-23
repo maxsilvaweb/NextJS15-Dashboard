@@ -1,0 +1,26 @@
+{
+    "user_id": "6754ad6e-50a1-40ae-b2af-4e97ae35abc6",
+    "name": "Luke DuBuque",
+    "email": "Ari_Kuvalis@gmail.com",
+    "instagram_handle": "@Winona.Connelly28",
+    "tiktok_handle": "@Weston_Mills3",
+    "joined_at": "2024-06-07T10:36:49.961Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3c215625-f595-4e4c-be2a-94c63249112b",
+            "brand": "Rodriguez, Bogisich and Runolfsdottir",
+            "tasks_completed": [
+                {
+                    "task_id": "0af81fe6-c22e-4dc4-96a8-c176fa359a1a",
+                    "platform": "Instagram",
+                    "post_url": "https://quick-witted-cake.net",
+                    "likes": 328,
+                    "comments": 46,
+                    "shares": 42,
+                    "reach": 8290
+                }
+            ],
+            "total_sales_attributed": 1778.9671799847822
+        }
+    ]
+}

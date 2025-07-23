@@ -1,0 +1,26 @@
+{
+    "user_id": "ae18e664-0048-4b44-9675-258fd14e406e",
+    "name": "Lillian Buckridge",
+    "email": "Monte.Ernser90@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "ad613f46-8344-499b-8e98-c949f611cfef",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://mad-cellar.name/",
+                    "likes": "NaN",
+                    "comments": 43,
+                    "shares": 66,
+                    "reach": 8248
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

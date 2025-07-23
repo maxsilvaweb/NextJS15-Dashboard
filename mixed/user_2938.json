@@ -1,0 +1,26 @@
+{
+    "user_id": "825433f2-2568-4adc-8e1f-6da0c2bdde18",
+    "name": "Lana Von-Rempel",
+    "email": "Rahul_Gleichner8@hotmail.com",
+    "instagram_handle": "@Zoie24",
+    "tiktok_handle": "@Mohammad.Champlin78",
+    "joined_at": "2024-09-19T10:47:05.853Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7fb6df6a-e4ba-45e5-aa6f-d4f0a8a15654",
+            "brand": "Romaguera Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "3532491a-9643-4c93-bf59-217851f70779",
+                    "platform": "TikTok",
+                    "post_url": "https://rare-sundae.name",
+                    "likes": 487,
+                    "comments": 5,
+                    "shares": 26,
+                    "reach": 2589
+                }
+            ],
+            "total_sales_attributed": 542.436935365648
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8ef2bc56-53d9-4991-81fa-fed22921b586",
+    "name": "Cameron Price",
+    "email": "Darren21@yahoo.com",
+    "instagram_handle": "@Van_Kling",
+    "tiktok_handle": "@Consuelo69",
+    "joined_at": "2024-08-14T23:41:05.026Z",
+    "advocacy_programs": [
+        {
+            "program_id": "73eda5f4-acff-43be-aa2a-3a289534bf2f",
+            "brand": "Reynolds - Medhurst",
+            "tasks_completed": [
+                {
+                    "task_id": "1e5a4303-fddb-4dc8-89a2-027a12eb7ed1",
+                    "platform": "Instagram",
+                    "post_url": "https://hateful-bend.org",
+                    "likes": 333,
+                    "comments": 45,
+                    "shares": 20,
+                    "reach": 8933
+                }
+            ],
+            "total_sales_attributed": 3793.100837813412
+        }
+    ]
+}

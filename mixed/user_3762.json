@@ -1,0 +1,26 @@
+{
+    "user_id": "804f9e72-b957-4205-acce-6120ab948235",
+    "name": "???",
+    "email": "Marian_Littel@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 18,
+                    "reach": 4862
+                }
+            ],
+            "total_sales_attributed": 2554.0173266058446
+        }
+    ]
+}

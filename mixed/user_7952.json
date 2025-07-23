@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Zelda.Kshlerin96@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Gislason Inc",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://meager-armchair.info",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 1,
+                    "reach": 2710
+                }
+            ],
+            "total_sales_attributed": 2873.353675671719
+        }
+    ]
+}

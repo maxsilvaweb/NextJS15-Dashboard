@@ -1,0 +1,26 @@
+{
+    "user_id": "d27f819a-ee3a-4504-90f3-fffb9beca2c0",
+    "name": "Irene Brown",
+    "email": "Vivian.Denesik@hotmail.com",
+    "instagram_handle": "@Carroll.Yost",
+    "tiktok_handle": "@Arturo.Labadie0",
+    "joined_at": "2025-02-01T05:32:37.208Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a40cec3b-c1c9-4a62-80c6-14d467c9fd4b",
+            "brand": "Schuster Group",
+            "tasks_completed": [
+                {
+                    "task_id": "59edece8-7975-4a20-8e03-bd9ca087543a",
+                    "platform": "Instagram",
+                    "post_url": "https://well-groomed-reorganisation.com",
+                    "likes": 148,
+                    "comments": 35,
+                    "shares": 74,
+                    "reach": 3754
+                }
+            ],
+            "total_sales_attributed": 1951.3391290831705
+        }
+    ]
+}

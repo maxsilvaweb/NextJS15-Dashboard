@@ -1,0 +1,26 @@
+{
+    "user_id": "1ec2fd86-6d5b-47dc-96e6-2cf936685f68",
+    "name": "Cesar Rodriguez",
+    "email": "Anastacio_McCullough40@gmail.com",
+    "instagram_handle": "@Alford43",
+    "tiktok_handle": "@Delphia_Bednar",
+    "joined_at": "2024-05-27T20:25:34.535Z",
+    "advocacy_programs": [
+        {
+            "program_id": "94ed7ee9-b9c5-45b8-947f-2a39a1bb8594",
+            "brand": "Boyer, Schamberger and Labadie",
+            "tasks_completed": [
+                {
+                    "task_id": "bb12cd03-00a2-4a96-90c4-d6b36c51fb38",
+                    "platform": "TikTok",
+                    "post_url": "https://jealous-blight.info",
+                    "likes": 102,
+                    "comments": 28,
+                    "shares": 10,
+                    "reach": 512
+                }
+            ],
+            "total_sales_attributed": 4623.795353832849
+        }
+    ]
+}

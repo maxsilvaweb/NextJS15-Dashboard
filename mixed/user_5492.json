@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-05-31T22:06:54.022Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "275f317a-8385-46bd-a69d-64ac1037f1ea",
+                    "platform": "Instagram",
+                    "post_url": "https://wry-fat.net/",
+                    "likes": 134,
+                    "comments": null,
+                    "shares": 59,
+                    "reach": 9624
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

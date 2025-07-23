@@ -1,0 +1,26 @@
+{
+    "user_id": "b15acbfb-4cd6-482b-b31f-ef1a006fb6ad",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Muller - Miller",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 50,
+                    "reach": 6080
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

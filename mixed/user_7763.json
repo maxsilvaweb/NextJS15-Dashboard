@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Ebba98@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "84bbe54f-4cf6-47c5-ad5c-6bd6521694b7",
+            "brand": "Altenwerth - Hessel",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 397,
+                    "comments": null,
+                    "shares": 7,
+                    "reach": 7163
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

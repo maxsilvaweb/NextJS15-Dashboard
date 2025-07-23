@@ -1,0 +1,26 @@
+{
+    "user_id": "2cb8bf8d-e24e-4012-9505-aa81773e63cf",
+    "name": "Elaine Kutch",
+    "email": "Samantha_Stroman44@gmail.com",
+    "instagram_handle": "@Delmer_Kessler",
+    "tiktok_handle": "@Dessie43",
+    "joined_at": "2024-12-25T00:31:26.060Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2703bd26-2603-4855-bc63-626178ec1c2c",
+            "brand": "Stracke, Nikolaus and Cole",
+            "tasks_completed": [
+                {
+                    "task_id": "4d925918-fbaf-479d-984f-46da98f97dda",
+                    "platform": "Instagram",
+                    "post_url": "https://wobbly-vestment.com/",
+                    "likes": 376,
+                    "comments": 23,
+                    "shares": 44,
+                    "reach": 6236
+                }
+            ],
+            "total_sales_attributed": 805.3325380917137
+        }
+    ]
+}

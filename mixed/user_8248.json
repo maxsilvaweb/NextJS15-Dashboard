@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "66b80c38-b4b7-42c0-a74b-18bdd3989a2e",
+                    "platform": "TikTok",
+                    "post_url": "https://weekly-boyfriend.biz",
+                    "likes": 298,
+                    "comments": null,
+                    "shares": 86,
+                    "reach": 6890
+                }
+            ],
+            "total_sales_attributed": 1862.127233753611
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Laura25",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "8016e0f7-45b4-4502-b462-92111077255d",
+            "brand": "Funk, Carroll and McClure",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://unconscious-fencing.biz",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 27,
+                    "reach": 839
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

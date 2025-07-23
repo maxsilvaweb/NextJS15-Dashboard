@@ -1,0 +1,26 @@
+{
+    "user_id": "3169cafb-5d1d-4f72-aa84-8c1ba5e35791",
+    "name": "Norma Bechtelar",
+    "email": "Marty53@hotmail.com",
+    "instagram_handle": "@Roel_OKeefe5",
+    "tiktok_handle": "@Felicia.Becker",
+    "joined_at": "2024-12-19T17:23:34.250Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6274cf6f-5991-4e38-94ff-c5eef27bb06d",
+            "brand": "Hettinger - Lang",
+            "tasks_completed": [
+                {
+                    "task_id": "8e7005aa-2f70-4c9d-8d9f-34a66324b183",
+                    "platform": "Instagram",
+                    "post_url": "https://devoted-hoof.com",
+                    "likes": 153,
+                    "comments": 33,
+                    "shares": 37,
+                    "reach": 4726
+                }
+            ],
+            "total_sales_attributed": 830.9318969255553
+        }
+    ]
+}

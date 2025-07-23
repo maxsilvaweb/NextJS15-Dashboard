@@ -1,0 +1,26 @@
+{
+    "user_id": "7edeb79d-9780-4606-b771-37cf1159aed7",
+    "name": "Dr. Gabriel Skiles",
+    "email": "Itzel.Haley@yahoo.com",
+    "instagram_handle": "@Nickolas97",
+    "tiktok_handle": "@Alice21",
+    "joined_at": "2024-07-18T15:04:44.368Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9d478240-580e-4084-8997-3488a4fc93f3",
+            "brand": "Kuphal and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "9d3f45d4-9503-400c-86bc-e119e4bbe295",
+                    "platform": "TikTok",
+                    "post_url": "https://surprised-championship.com/",
+                    "likes": 68,
+                    "comments": 29,
+                    "shares": 15,
+                    "reach": 5335
+                }
+            ],
+            "total_sales_attributed": 3232.618682789915
+        }
+    ]
+}

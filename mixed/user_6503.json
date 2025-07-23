@@ -1,0 +1,26 @@
+{
+    "user_id": "2d11d4e3-5755-467f-9a34-0cee84c3aeca",
+    "name": "Camille Mitchell",
+    "email": "Frederique_Dicki@yahoo.com",
+    "instagram_handle": "@Orval34",
+    "tiktok_handle": "@Alfonso_Cummings53",
+    "joined_at": "2024-04-26T16:43:04.053Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2c6e1ec4-6ada-4b27-9f26-98316d19fffc",
+            "brand": "Erdman, Weimann and Barrows",
+            "tasks_completed": [
+                {
+                    "task_id": "cea4326c-f7af-4ad7-871e-a17109a9654f",
+                    "platform": "TikTok",
+                    "post_url": "https://posh-saloon.org",
+                    "likes": 320,
+                    "comments": 50,
+                    "shares": 2,
+                    "reach": 2281
+                }
+            ],
+            "total_sales_attributed": 230.6521321863807
+        }
+    ]
+}

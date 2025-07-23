@@ -1,0 +1,26 @@
+{
+    "user_id": "31d2f2ce-e4d8-4897-a66b-34fb477b27ee",
+    "name": "Valerie Smitham",
+    "email": "Lyla_Wehner@yahoo.com",
+    "instagram_handle": "@Stacy34",
+    "tiktok_handle": "@Eriberto_Sipes21",
+    "joined_at": "2024-05-05T15:07:17.435Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f0468052-40ab-41b3-b813-6614aa67df72",
+            "brand": "Jaskolski LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "9d2dad3e-4609-43ae-ac60-44e7b09ebd70",
+                    "platform": "TikTok",
+                    "post_url": "https://stale-swim.name/",
+                    "likes": 430,
+                    "comments": 16,
+                    "shares": 28,
+                    "reach": 9245
+                }
+            ],
+            "total_sales_attributed": 1479.0713702758699
+        }
+    ]
+}

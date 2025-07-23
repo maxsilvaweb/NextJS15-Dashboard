@@ -1,0 +1,26 @@
+{
+    "user_id": "9c548567-ae6c-48ce-8fe8-da336b65440e",
+    "name": "Dallas Metz",
+    "email": "Giovanna_Gusikowski70@yahoo.com",
+    "instagram_handle": "@Lucio98",
+    "tiktok_handle": "@Jaleel93",
+    "joined_at": "2024-09-07T15:59:34.170Z",
+    "advocacy_programs": [
+        {
+            "program_id": "355e40a7-58ca-41c4-abe8-2aaeaf4bfca9",
+            "brand": "Gibson, Hartmann and Murray",
+            "tasks_completed": [
+                {
+                    "task_id": "90f738ce-9ca8-4fb6-8b34-7d035925e089",
+                    "platform": "TikTok",
+                    "post_url": "https://hateful-custom.org",
+                    "likes": 287,
+                    "comments": 14,
+                    "shares": 15,
+                    "reach": 9993
+                }
+            ],
+            "total_sales_attributed": 564.0311517201802
+        }
+    ]
+}

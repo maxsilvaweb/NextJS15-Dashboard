@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "4c13ebaf-0d30-4ab5-a14e-cb3219a9fd94",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://swift-sock.org",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 33,
+                    "reach": 7992
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

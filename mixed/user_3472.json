@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "6531dc9a-abc4-4f54-bfa1-3af52ac9310b",
+                    "platform": "Facebook",
+                    "post_url": "https://easy-aftermath.net",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 20,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 4233.869668692508
+        }
+    ]
+}

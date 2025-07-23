@@ -1,0 +1,26 @@
+{
+    "user_id": "94b77cff-e817-4bd0-92cb-091eb66fbc54",
+    "name": "Vera Pfeffer Jr.",
+    "email": "Major_Metz6@gmail.com",
+    "instagram_handle": "@Shakira_Rath",
+    "tiktok_handle": "@Sterling_Jast",
+    "joined_at": "2024-08-07T06:15:38.285Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1fd0e54e-82a5-40c7-bbe4-c666d90d41a5",
+            "brand": "Ruecker, Lakin and Beahan",
+            "tasks_completed": [
+                {
+                    "task_id": "ff885ea9-13ba-4b75-aabe-24af7e7dd80a",
+                    "platform": "Instagram",
+                    "post_url": "https://rowdy-larva.org",
+                    "likes": 165,
+                    "comments": 21,
+                    "shares": 18,
+                    "reach": 1363
+                }
+            ],
+            "total_sales_attributed": 2946.2310223660857
+        }
+    ]
+}

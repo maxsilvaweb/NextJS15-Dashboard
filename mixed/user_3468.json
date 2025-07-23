@@ -1,0 +1,26 @@
+{
+    "user_id": "70ce1895-9012-42f8-a31a-db3579f0d0d9",
+    "name": "Kay Cormier",
+    "email": "Cecilia_Hettinger42@gmail.com",
+    "instagram_handle": "@Gage.Rowe",
+    "tiktok_handle": "@Viviane_Hilll1",
+    "joined_at": "2024-04-01T02:35:18.007Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1e785abd-9823-4eae-aed1-4b43ba35e268",
+            "brand": "Rau - Kemmer",
+            "tasks_completed": [
+                {
+                    "task_id": "41977b10-e5d5-434e-a071-e33bf472404e",
+                    "platform": "TikTok",
+                    "post_url": "https://imaginary-willow.com/",
+                    "likes": 488,
+                    "comments": 30,
+                    "shares": 92,
+                    "reach": 3771
+                }
+            ],
+            "total_sales_attributed": 3297.7988281562784
+        }
+    ]
+}

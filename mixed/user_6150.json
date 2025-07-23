@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://necessary-pepper.biz",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 78,
+                    "reach": 3769
+                }
+            ],
+            "total_sales_attributed": 4895.482152495575
+        }
+    ]
+}

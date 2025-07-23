@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Marlen54",
+    "tiktok_handle": "@Marlen14",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 22,
+                    "shares": 37,
+                    "reach": 2835
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

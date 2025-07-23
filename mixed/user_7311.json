@@ -1,0 +1,26 @@
+{
+    "user_id": "330eb0ce-5ac8-415c-ad46-ca4ad1a4fd53",
+    "name": "Charlene Crona",
+    "email": "Lizeth_Gulgowski@yahoo.com",
+    "instagram_handle": "@Waldo66",
+    "tiktok_handle": "@Annalise_Schaden",
+    "joined_at": "2024-10-03T07:36:06.186Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c442f55c-c239-4c5c-a805-52b2e7b0e6df",
+            "brand": "Dickinson, Beer and Sporer",
+            "tasks_completed": [
+                {
+                    "task_id": "3a5abb27-1217-4ab3-8dd3-fd235bbc1fcc",
+                    "platform": "Instagram",
+                    "post_url": "https://unruly-dress.net",
+                    "likes": 56,
+                    "comments": 8,
+                    "shares": 73,
+                    "reach": 4935
+                }
+            ],
+            "total_sales_attributed": 3202.993743036676
+        }
+    ]
+}

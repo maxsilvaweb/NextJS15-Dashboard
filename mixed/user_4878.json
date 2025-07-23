@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-05-20T21:00:53.760Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e90c6c47-7afd-4d45-aa2d-7d8f80850a43",
+            "brand": "Miller LLC",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 435,
+                    "comments": 48,
+                    "shares": 39,
+                    "reach": 8848
+                }
+            ],
+            "total_sales_attributed": 3820.619677297215
+        }
+    ]
+}

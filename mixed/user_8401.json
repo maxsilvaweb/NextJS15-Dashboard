@@ -1,0 +1,26 @@
+{
+    "user_id": "2b29bea3-2d2a-4f38-88e2-1ed3a5f1f6dd",
+    "name": "Marilyn Gusikowski",
+    "email": "Minnie.Christiansen10@yahoo.com",
+    "instagram_handle": "@Johnson32",
+    "tiktok_handle": "@Gina.Hilll",
+    "joined_at": "2025-03-04T21:58:47.046Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9961237e-31ab-43b8-a532-d936dc9af556",
+            "brand": "Nader - Crooks",
+            "tasks_completed": [
+                {
+                    "task_id": "36bbb43b-3d7a-4284-af51-ef1765cc0781",
+                    "platform": "Instagram",
+                    "post_url": "https://plain-gift.com/",
+                    "likes": 10,
+                    "comments": 40,
+                    "shares": 34,
+                    "reach": 9669
+                }
+            ],
+            "total_sales_attributed": 3094.01509363497
+        }
+    ]
+}

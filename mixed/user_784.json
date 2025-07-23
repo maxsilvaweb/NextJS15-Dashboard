@@ -1,0 +1,26 @@
+{
+    "user_id": "87fa8505-a236-4ba1-81d4-952408c32f72",
+    "name": "Alan Lesch",
+    "email": "Alize_Cassin39@yahoo.com",
+    "instagram_handle": "@Margaretta78",
+    "tiktok_handle": "@Humberto_Mueller",
+    "joined_at": "2024-04-24T04:58:41.297Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4ff2d720-95f6-4b79-b3a0-ee12c01d74df",
+            "brand": "Powlowski, Gutkowski and Hettinger",
+            "tasks_completed": [
+                {
+                    "task_id": "4611b43a-a08a-405b-9069-d7ae6d821b47",
+                    "platform": "TikTok",
+                    "post_url": "https://new-mobility.info/",
+                    "likes": 297,
+                    "comments": 7,
+                    "shares": 51,
+                    "reach": 1104
+                }
+            ],
+            "total_sales_attributed": 2222.9188182384987
+        }
+    ]
+}

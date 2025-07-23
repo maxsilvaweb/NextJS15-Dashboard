@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Bernard Lowe",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Klein, Deckow and Haag",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 14,
+                    "shares": 36,
+                    "reach": 9956
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ec82770d-e813-4af0-845a-8a2ee0712d1a",
+    "name": "Tommie Beatty",
+    "email": "Otis35@hotmail.com",
+    "instagram_handle": "@Dixie56",
+    "tiktok_handle": "@Kristofer85",
+    "joined_at": "2025-02-15T07:18:31.108Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f35ce86a-04c2-49c8-b5ec-a8fb4927f817",
+            "brand": "Upton - Lebsack",
+            "tasks_completed": [
+                {
+                    "task_id": "f9ee357f-3389-4b34-9e19-2fb041d0e8f3",
+                    "platform": "TikTok",
+                    "post_url": "https://steep-corporation.com",
+                    "likes": 324,
+                    "comments": 15,
+                    "shares": 29,
+                    "reach": 6407
+                }
+            ],
+            "total_sales_attributed": 3725.1773399996086
+        }
+    ]
+}

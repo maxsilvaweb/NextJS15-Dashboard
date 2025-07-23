@@ -1,0 +1,26 @@
+{
+    "user_id": "5469dea0-72ba-4c7d-a7ac-ecc8517b3e0f",
+    "name": "Austin Bogisich",
+    "email": "Sandra_Schaefer61@hotmail.com",
+    "instagram_handle": "@Carissa_Bogisich",
+    "tiktok_handle": "@Gillian.Auer76",
+    "joined_at": "2024-11-02T11:19:40.294Z",
+    "advocacy_programs": [
+        {
+            "program_id": "af946788-a8f8-4ea9-9d2c-91d04e03a4f5",
+            "brand": "Weber - Bednar",
+            "tasks_completed": [
+                {
+                    "task_id": "9867d2bd-f9d1-4781-be75-76f9a2c99f4c",
+                    "platform": "Instagram",
+                    "post_url": "https://big-giant.org/",
+                    "likes": 365,
+                    "comments": 6,
+                    "shares": 75,
+                    "reach": 1051
+                }
+            ],
+            "total_sales_attributed": 2343.1394752036235
+        }
+    ]
+}

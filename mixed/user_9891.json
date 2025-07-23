@@ -1,0 +1,26 @@
+{
+    "user_id": "f6d2a7dc-b8d6-48f3-9137-8a99c7f91c1f",
+    "name": "Audrey Daugherty",
+    "email": "Rae_Flatley@gmail.com",
+    "instagram_handle": "@Jamel14",
+    "tiktok_handle": "@Alicia.Kuhlman",
+    "joined_at": "2024-10-02T19:06:20.614Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d4643aa7-185d-4a07-816d-4817ab3b6f3a",
+            "brand": "Dicki and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "f4341187-05e2-42b3-9c45-7396d44518a0",
+                    "platform": "TikTok",
+                    "post_url": "https://salty-palate.com/",
+                    "likes": 169,
+                    "comments": 18,
+                    "shares": 33,
+                    "reach": 1462
+                }
+            ],
+            "total_sales_attributed": 4557.92807270994
+        }
+    ]
+}

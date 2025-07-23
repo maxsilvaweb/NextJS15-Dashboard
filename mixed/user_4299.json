@@ -1,0 +1,25 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "4e7e656c-2f49-42ab-8cf7-0177b3591eb7",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://inexperienced-brief.net/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 32,
+                    "reach": 3746
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

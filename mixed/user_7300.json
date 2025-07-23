@@ -1,0 +1,26 @@
+{
+    "user_id": "e0949066-ac1e-4c6c-b275-87f9460b956b",
+    "name": "Delia Smith",
+    "email": "Leanna_Sporer28@yahoo.com",
+    "instagram_handle": "@Candelario_Connelly63",
+    "tiktok_handle": "@Arely.Kemmer",
+    "joined_at": "2025-02-14T17:31:45.425Z",
+    "advocacy_programs": [
+        {
+            "program_id": "650782a0-e4e7-4db8-991c-66dd5e8ca332",
+            "brand": "Koch - Paucek",
+            "tasks_completed": [
+                {
+                    "task_id": "b498ff41-07be-4244-97bb-eb2d53d1120a",
+                    "platform": "TikTok",
+                    "post_url": "https://dental-availability.com/",
+                    "likes": 292,
+                    "comments": 48,
+                    "shares": 16,
+                    "reach": 5787
+                }
+            ],
+            "total_sales_attributed": 4345.514809460433
+        }
+    ]
+}

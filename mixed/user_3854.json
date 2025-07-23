@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Miss Ana Will",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Brent45",
+    "joined_at": "2024-05-15T17:06:21.181Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "9f8c7f93-2ead-45e0-bc4a-9cd815c826d8",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 8,
+                    "shares": 71,
+                    "reach": 6061
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

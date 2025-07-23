@@ -1,0 +1,26 @@
+{
+    "user_id": "28e86ae1-f764-4f28-ae34-9f133a612d91",
+    "name": "Allan Hansen PhD",
+    "email": "Cleve.Larkin63@hotmail.com",
+    "instagram_handle": "@Grace_Spinka",
+    "tiktok_handle": "@Dereck40",
+    "joined_at": "2025-01-01T10:30:48.109Z",
+    "advocacy_programs": [
+        {
+            "program_id": "334cb158-7c48-438d-a370-901e4a746050",
+            "brand": "Steuber Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f63fe284-7674-4749-9664-eb520def8405",
+                    "platform": "TikTok",
+                    "post_url": "https://wrong-championship.org/",
+                    "likes": 168,
+                    "comments": 23,
+                    "shares": 26,
+                    "reach": 2741
+                }
+            ],
+            "total_sales_attributed": 754.2949915730152
+        }
+    ]
+}

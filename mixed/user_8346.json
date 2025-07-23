@@ -1,0 +1,26 @@
+{
+    "user_id": "aec8ac0b-d155-4e81-9582-cde5840a0463",
+    "name": "Carmen Predovic II",
+    "email": "Kathlyn_Cormier81@hotmail.com",
+    "instagram_handle": "@Anastasia_OConnell",
+    "tiktok_handle": "@Everette_Franecki22",
+    "joined_at": "2024-05-09T14:09:24.799Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4e369c05-0bc9-4c9b-bbca-184fc85029c0",
+            "brand": "Crooks and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "50360e86-284c-48d9-8b43-1b210d9805e4",
+                    "platform": "TikTok",
+                    "post_url": "https://steel-lobster.org/",
+                    "likes": 484,
+                    "comments": 37,
+                    "shares": 87,
+                    "reach": 1590
+                }
+            ],
+            "total_sales_attributed": 1772.710141420586
+        }
+    ]
+}

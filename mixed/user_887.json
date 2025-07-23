@@ -1,0 +1,26 @@
+{
+    "user_id": "a113208e-f0e2-4e27-ab05-2ad380637932",
+    "name": "Fernando Koepp",
+    "email": "Emil.Wyman-Cummings31@gmail.com",
+    "instagram_handle": "@Tiara20",
+    "tiktok_handle": "@Hipolito_Beier13",
+    "joined_at": "2025-03-03T10:22:36.356Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5041c2e4-d0c5-4265-af95-d3bb19bd1058",
+            "brand": "Purdy Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "7380fbe6-9286-4815-8f5e-ed4ffcf13ebd",
+                    "platform": "TikTok",
+                    "post_url": "https://inconsequential-cannon.com",
+                    "likes": 458,
+                    "comments": 49,
+                    "shares": 15,
+                    "reach": 8864
+                }
+            ],
+            "total_sales_attributed": 2657.3097367056716
+        }
+    ]
+}

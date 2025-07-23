@@ -1,0 +1,26 @@
+{
+    "user_id": "bcfb0f05-1aab-4735-9a50-b3238ec9c32f",
+    "name": "Mr. Toby Denesik-Dach",
+    "email": "Valerie_Barton91@hotmail.com",
+    "instagram_handle": "@Abe_OConner31",
+    "tiktok_handle": "@Wilma.Lockman32",
+    "joined_at": "2024-05-20T20:11:15.262Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4d4e56d0-890e-4695-80c1-8f14ca36061d",
+            "brand": "Schulist, Rosenbaum and Bayer",
+            "tasks_completed": [
+                {
+                    "task_id": "7dad1ffc-0d26-43fd-8828-d344ac5dedde",
+                    "platform": "Instagram",
+                    "post_url": "https://narrow-caption.name",
+                    "likes": 120,
+                    "comments": 32,
+                    "shares": 4,
+                    "reach": 4469
+                }
+            ],
+            "total_sales_attributed": 3231.679763295303
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6ba74507-40b0-4048-a499-f796350d63d8",
+    "name": "Sara Glover",
+    "email": "Nigel_Champlin20@yahoo.com",
+    "instagram_handle": "@Lourdes42",
+    "tiktok_handle": "@Kale14",
+    "joined_at": "2024-07-10T02:16:59.870Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5fb215b3-fa57-4247-89fc-52c86426179b",
+            "brand": "Schmidt - Kilback",
+            "tasks_completed": [
+                {
+                    "task_id": "eb39058b-913a-4703-93b7-dc53a4cb7a46",
+                    "platform": "Instagram",
+                    "post_url": "https://wide-eyed-switchboard.com",
+                    "likes": 147,
+                    "comments": 3,
+                    "shares": 59,
+                    "reach": 5179
+                }
+            ],
+            "total_sales_attributed": 919.5724047911986
+        }
+    ]
+}

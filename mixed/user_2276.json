@@ -1,0 +1,26 @@
+{
+    "user_id": "3eec7312-c95f-4f29-934e-2ca6f3b59702",
+    "name": "Doreen Schaefer",
+    "email": "Kolby20@yahoo.com",
+    "instagram_handle": "@Ora79",
+    "tiktok_handle": "@Kailyn_Raynor33",
+    "joined_at": "2024-10-28T05:49:24.063Z",
+    "advocacy_programs": [
+        {
+            "program_id": "487966b2-45a4-492c-af5b-9442ad1d775e",
+            "brand": "Hand and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "77c642be-8500-401e-b9e8-f3f3931d64fe",
+                    "platform": "TikTok",
+                    "post_url": "https://blank-strategy.name/",
+                    "likes": 146,
+                    "comments": 37,
+                    "shares": 32,
+                    "reach": 3873
+                }
+            ],
+            "total_sales_attributed": 4529.459643013106
+        }
+    ]
+}

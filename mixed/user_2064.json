@@ -1,0 +1,26 @@
+{
+    "user_id": "bc67c496-38d9-4e94-b3ee-9f9cfef29efe",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Schamberger Group",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 12,
+                    "reach": 9937
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

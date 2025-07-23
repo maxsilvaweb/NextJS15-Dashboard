@@ -1,0 +1,26 @@
+{
+    "user_id": "d26fe9ec-0266-4a33-92d8-d85d5dfcfbdc",
+    "name": "Tim Brekke",
+    "email": "Millie_Gusikowski@gmail.com",
+    "instagram_handle": "@Tabitha_Hand94",
+    "tiktok_handle": "@Hosea.Runte79",
+    "joined_at": "2024-09-20T04:31:53.087Z",
+    "advocacy_programs": [
+        {
+            "program_id": "89d03d81-7cbd-414d-9933-f491c96e5da2",
+            "brand": "Cruickshank, Jacobi and Crooks",
+            "tasks_completed": [
+                {
+                    "task_id": "8ae378a6-4da0-4366-ae30-1111e7c20f8b",
+                    "platform": "Instagram",
+                    "post_url": "https://stupendous-tusk.info",
+                    "likes": 305,
+                    "comments": 38,
+                    "shares": 0,
+                    "reach": 1332
+                }
+            ],
+            "total_sales_attributed": 3309.8719843894205
+        }
+    ]
+}

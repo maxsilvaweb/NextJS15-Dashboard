@@ -1,0 +1,26 @@
+{
+    "user_id": "9a0d836d-4894-4363-a933-1d5c5f6ff9c2",
+    "name": "Tabitha Lueilwitz",
+    "email": "Camila29@hotmail.com",
+    "instagram_handle": "@Flavio.McLaughlin66",
+    "tiktok_handle": "@Estrella74",
+    "joined_at": "2024-05-30T07:37:56.569Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6828209c-f3b5-49fd-aca8-8dc4a4a68028",
+            "brand": "Romaguera Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "279f4ccd-3ae9-4f77-b8d5-f4dea561e956",
+                    "platform": "TikTok",
+                    "post_url": "https://unwieldy-spork.name",
+                    "likes": 353,
+                    "comments": 43,
+                    "shares": 11,
+                    "reach": 6959
+                }
+            ],
+            "total_sales_attributed": 1453.795098914638
+        }
+    ]
+}

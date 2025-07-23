@@ -1,0 +1,26 @@
+{
+    "user_id": "d1513abd-0959-4989-9992-ee5922c27e66",
+    "name": "Tommy Stehr",
+    "email": "Mariane66@yahoo.com",
+    "instagram_handle": "@Aurore_Friesen",
+    "tiktok_handle": "@Jerad.Dooley",
+    "joined_at": "2025-03-10T13:47:41.893Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eee24037-5a0f-4ed4-837d-6173b592afd4",
+            "brand": "Bartell Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "206945a6-eaf8-4597-b77a-f20549cc341a",
+                    "platform": "Instagram",
+                    "post_url": "https://unlucky-sandbar.org",
+                    "likes": 186,
+                    "comments": 43,
+                    "shares": 1,
+                    "reach": 1607
+                }
+            ],
+            "total_sales_attributed": 4593.47744018763
+        }
+    ]
+}

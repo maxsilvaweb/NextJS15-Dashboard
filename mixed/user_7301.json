@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "f5c6915e-1990-4898-b7f5-4f02e38c6448",
+                    "platform": "TikTok",
+                    "post_url": "https://boiling-version.info",
+                    "likes": "NaN",
+                    "comments": 34,
+                    "shares": 54,
+                    "reach": 4877
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

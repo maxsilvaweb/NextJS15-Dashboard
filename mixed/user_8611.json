@@ -1,0 +1,26 @@
+{
+    "user_id": "50d226bf-f6a4-4619-89cc-d6abdfddc02a",
+    "name": "Essie Blanda",
+    "email": "Laverna.Hane@yahoo.com",
+    "instagram_handle": "@Naomie.Purdy88",
+    "tiktok_handle": "@Gus78",
+    "joined_at": "2024-08-28T19:04:19.839Z",
+    "advocacy_programs": [
+        {
+            "program_id": "72f31c6e-0b28-4eb3-870b-c48dac515a40",
+            "brand": "Morar, Schiller and Kihn",
+            "tasks_completed": [
+                {
+                    "task_id": "24f9c4c2-bd04-4f11-a038-e7aaead38cfc",
+                    "platform": "TikTok",
+                    "post_url": "https://grave-director.org",
+                    "likes": 224,
+                    "comments": 10,
+                    "shares": 94,
+                    "reach": 5626
+                }
+            ],
+            "total_sales_attributed": 2212.7888807821682
+        }
+    ]
+}

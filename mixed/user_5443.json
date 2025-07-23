@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Daryl21@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "e2fb5fea-2b4c-4a52-af88-b77ca5e25f3c",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "12381381-d28f-442f-9f74-57be242166cb",
+                    "platform": "Instagram",
+                    "post_url": "https://creamy-marten.biz/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 65,
+                    "reach": 3065
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

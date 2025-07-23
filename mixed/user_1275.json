@@ -1,0 +1,26 @@
+{
+    "user_id": "a3324f96-95ac-4512-a9e5-89de37342fc9",
+    "name": "Jenny Johnson",
+    "email": "Kristina.Will@hotmail.com",
+    "instagram_handle": "@Sister_Homenick8",
+    "tiktok_handle": "@Luis65",
+    "joined_at": "2024-10-31T04:43:08.753Z",
+    "advocacy_programs": [
+        {
+            "program_id": "74dd5ffd-de3e-4e7e-b259-03fb4b570409",
+            "brand": "Bode, Price and Howell",
+            "tasks_completed": [
+                {
+                    "task_id": "3ce578de-0a18-4560-80fd-996f112218c5",
+                    "platform": "Instagram",
+                    "post_url": "https://burdensome-providence.org/",
+                    "likes": 139,
+                    "comments": 9,
+                    "shares": 26,
+                    "reach": 9332
+                }
+            ],
+            "total_sales_attributed": 3927.206764646116
+        }
+    ]
+}

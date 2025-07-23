@@ -1,0 +1,26 @@
+{
+    "user_id": "f4f5db24-70a7-4cac-bc6c-a56d848e07b8",
+    "name": "Gladys Rath",
+    "email": "Elda.Rath@yahoo.com",
+    "instagram_handle": "@Verona_McLaughlin92",
+    "tiktok_handle": "@Nelson.Beatty64",
+    "joined_at": "2024-06-30T11:48:58.324Z",
+    "advocacy_programs": [
+        {
+            "program_id": "99a41eb8-abb5-4f87-be24-838826410c18",
+            "brand": "Franey, Mayert and Ferry",
+            "tasks_completed": [
+                {
+                    "task_id": "4629a037-a614-4201-984c-7c9da3e1f3b3",
+                    "platform": "Instagram",
+                    "post_url": "https://stingy-certification.info",
+                    "likes": 207,
+                    "comments": 31,
+                    "shares": 98,
+                    "reach": 1730
+                }
+            ],
+            "total_sales_attributed": 1511.5966370574195
+        }
+    ]
+}

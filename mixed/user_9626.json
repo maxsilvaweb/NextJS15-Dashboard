@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Craig70@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://pleased-corporation.com/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 100,
+                    "reach": 9587
+                }
+            ],
+            "total_sales_attributed": 1822.653232683903
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "90552afd-d7cc-472e-920c-d0de5f1ae4dc",
+    "name": "Oscar Brakus",
+    "email": "Cali.Leuschke63@yahoo.com",
+    "instagram_handle": "@Tom67",
+    "tiktok_handle": "@Sylvan.Donnelly",
+    "joined_at": "2025-01-11T05:25:23.414Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ba10ec7d-2669-4c2d-ac25-fc3128a006d9",
+            "brand": "Bashirian, Funk and Lindgren",
+            "tasks_completed": [
+                {
+                    "task_id": "e08f9ca9-0b4f-46dd-bc9f-739002d90b9b",
+                    "platform": "Instagram",
+                    "post_url": "https://enraged-editor.name",
+                    "likes": 284,
+                    "comments": 44,
+                    "shares": 79,
+                    "reach": 5174
+                }
+            ],
+            "total_sales_attributed": 1490.0736205170222
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c177f115-570e-4f3d-99fd-3a16fc5c40ca",
+    "name": "Frankie Parker V",
+    "email": "Bridie.Hahn@yahoo.com",
+    "instagram_handle": "@Tod56",
+    "tiktok_handle": "@Fernando_Haley",
+    "joined_at": "2024-03-26T22:46:58.032Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fd1afcf2-dd42-4136-a3f3-7eae73c24175",
+            "brand": "Greenholt, Skiles and Kautzer",
+            "tasks_completed": [
+                {
+                    "task_id": "9ac49ddf-14cf-4e02-bece-4d8ed8bb2be1",
+                    "platform": "TikTok",
+                    "post_url": "https://cultivated-minister.org",
+                    "likes": 287,
+                    "comments": 7,
+                    "shares": 76,
+                    "reach": 6618
+                }
+            ],
+            "total_sales_attributed": 3148.8838450410526
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Brad Flatley",
+    "email": "Jazmyne.Murazik77@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Nicklaus27",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "18f81f85-1dc6-46e2-94c2-7caecc62062f",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 75,
+                    "reach": 1750
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

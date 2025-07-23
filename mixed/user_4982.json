@@ -1,0 +1,26 @@
+{
+    "user_id": "123bafa2-f9a6-4d1c-9eb6-ea63b76e941f",
+    "name": "Dr. Jonathon Heidenreich",
+    "email": "Jerald8@yahoo.com",
+    "instagram_handle": "@Virgil30",
+    "tiktok_handle": "@Nat14",
+    "joined_at": "2024-10-06T19:40:07.325Z",
+    "advocacy_programs": [
+        {
+            "program_id": "312005dd-87c4-4655-9e64-826c7f96fd09",
+            "brand": "Emmerich - Halvorson",
+            "tasks_completed": [
+                {
+                    "task_id": "8e60305a-9f68-4040-91c7-01e0f5ae9cb6",
+                    "platform": "TikTok",
+                    "post_url": "https://idolized-recommendation.org/",
+                    "likes": 273,
+                    "comments": 41,
+                    "shares": 9,
+                    "reach": 1639
+                }
+            ],
+            "total_sales_attributed": 788.850273500629
+        }
+    ]
+}

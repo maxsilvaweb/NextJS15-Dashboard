@@ -1,0 +1,26 @@
+{
+    "user_id": "4824c4dd-a672-4db4-8d5b-fd23780e6ef5",
+    "name": "Hugo Gottlieb",
+    "email": "Wilbert74@gmail.com",
+    "instagram_handle": "@Scot.Abbott",
+    "tiktok_handle": "@Ariane.Homenick",
+    "joined_at": "2024-11-06T04:21:28.571Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2c1bf2cf-fb4b-42ce-858f-2b1215cc84e0",
+            "brand": "Gerlach Group",
+            "tasks_completed": [
+                {
+                    "task_id": "89ba85ec-ac10-4cdc-9f8d-7dd6548a7caf",
+                    "platform": "TikTok",
+                    "post_url": "https://angelic-celsius.com",
+                    "likes": 206,
+                    "comments": 13,
+                    "shares": 93,
+                    "reach": 4309
+                }
+            ],
+            "total_sales_attributed": 1129.5908231313813
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9ae38947-4843-4b61-a014-3eec232e949a",
+    "name": "Maxine Larkin",
+    "email": "Ofelia_Larkin@hotmail.com",
+    "instagram_handle": "@Arne54",
+    "tiktok_handle": "@Presley.Koch88",
+    "joined_at": "2024-04-16T10:15:49.792Z",
+    "advocacy_programs": [
+        {
+            "program_id": "458e5d52-9dc4-472d-b4c4-7d3f1f0c8080",
+            "brand": "Reynolds - Farrell",
+            "tasks_completed": [
+                {
+                    "task_id": "0dbc6870-b292-49f7-8180-e7c0cd336731",
+                    "platform": "TikTok",
+                    "post_url": "https://intent-convection.com/",
+                    "likes": 316,
+                    "comments": 50,
+                    "shares": 16,
+                    "reach": 4382
+                }
+            ],
+            "total_sales_attributed": 4302.975418664596
+        }
+    ]
+}

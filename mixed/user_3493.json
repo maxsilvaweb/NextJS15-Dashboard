@@ -1,0 +1,26 @@
+{
+    "user_id": "21d2f121-144c-40eb-ba73-cb99a78770d7",
+    "name": "Ruby Konopelski",
+    "email": "Chanel.Bergnaum@hotmail.com",
+    "instagram_handle": "@Sierra69",
+    "tiktok_handle": "@Marcelo.Pollich3",
+    "joined_at": "2024-09-28T17:11:51.666Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c1d30f4c-3d05-490d-b996-df30ee2c679c",
+            "brand": "Pfannerstill LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "17dc8cc3-41ba-4674-a94d-26064a15e773",
+                    "platform": "Instagram",
+                    "post_url": "https://vengeful-yin.com/",
+                    "likes": 183,
+                    "comments": 41,
+                    "shares": 15,
+                    "reach": 4120
+                }
+            ],
+            "total_sales_attributed": 2019.5411064960556
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "12397d93-03df-4e8a-9d8c-254b9cf291ee",
+    "name": "Dave Schulist",
+    "email": "Randi48@yahoo.com",
+    "instagram_handle": "@Garrick48",
+    "tiktok_handle": "@Caitlyn_Bergstrom",
+    "joined_at": "2025-01-18T03:12:53.114Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f1e29b33-aa61-4de0-af91-88b34d5ef638",
+            "brand": "Roob, Mraz and Erdman",
+            "tasks_completed": [
+                {
+                    "task_id": "3644cfc9-5fd1-4fc9-a878-e4c1a711f49e",
+                    "platform": "Instagram",
+                    "post_url": "https://peaceful-sauerkraut.info",
+                    "likes": 41,
+                    "comments": 25,
+                    "shares": 72,
+                    "reach": 1979
+                }
+            ],
+            "total_sales_attributed": 3075.2673450548295
+        }
+    ]
+}

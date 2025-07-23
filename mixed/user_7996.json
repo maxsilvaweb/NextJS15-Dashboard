@@ -1,0 +1,26 @@
+{
+    "user_id": "c790b22a-5456-4bc3-9c9c-04f0470864cf",
+    "name": "Elizabeth Mayer",
+    "email": "Elijah_Collins13@hotmail.com",
+    "instagram_handle": "@Bria_Lesch",
+    "tiktok_handle": "@Cecelia23",
+    "joined_at": "2024-08-30T06:18:56.864Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b6688d7c-ef5f-4965-934e-41934b44a09d",
+            "brand": "Torp Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "2281baf8-2d4c-4758-a29d-1b9e61418c21",
+                    "platform": "Instagram",
+                    "post_url": "https://slow-omelet.net",
+                    "likes": 148,
+                    "comments": 2,
+                    "shares": 76,
+                    "reach": 2651
+                }
+            ],
+            "total_sales_attributed": 628.4161524934655
+        }
+    ]
+}

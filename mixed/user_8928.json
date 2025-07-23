@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Wilderman Group",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://homely-accompanist.info",
+                    "likes": "NaN",
+                    "comments": 42,
+                    "shares": 80,
+                    "reach": 3913
+                }
+            ],
+            "total_sales_attributed": 4548.2741793390305
+        }
+    ]
+}

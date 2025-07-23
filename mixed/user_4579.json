@@ -1,0 +1,26 @@
+{
+    "user_id": "511bd77a-136a-4e24-8304-45f0e83484cd",
+    "name": "Tracy Jaskolski",
+    "email": "Rodger.Kertzmann48@yahoo.com",
+    "instagram_handle": "@Brennan_Kuvalis",
+    "tiktok_handle": "@Yadira_Corkery55",
+    "joined_at": "2025-03-07T17:26:56.004Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c05b2d8e-114b-490f-bc5d-468ca9c9978a",
+            "brand": "Harvey, Kiehn and Wunsch",
+            "tasks_completed": [
+                {
+                    "task_id": "71a9fca8-c884-4ac3-b262-af2412f31028",
+                    "platform": "TikTok",
+                    "post_url": "https://velvety-provision.com/",
+                    "likes": 84,
+                    "comments": 4,
+                    "shares": 64,
+                    "reach": 9276
+                }
+            ],
+            "total_sales_attributed": 2979.16063633893
+        }
+    ]
+}

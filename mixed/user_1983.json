@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Lexus_Dickens80",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-08-13T13:18:18.194Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 72,
+                    "reach": 9952
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

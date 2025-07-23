@@ -1,0 +1,26 @@
+{
+    "user_id": "f4f02dad-07b2-4365-ab08-13149bb183db",
+    "name": "Dominic Schoen",
+    "email": "Aiyana81@gmail.com",
+    "instagram_handle": "@Kira.Hickle",
+    "tiktok_handle": "@Josiah_Heathcote89",
+    "joined_at": "2024-10-22T20:54:38.603Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eac3b873-06a6-4f27-8bd6-886dd4b5dca6",
+            "brand": "Fisher - Torphy",
+            "tasks_completed": [
+                {
+                    "task_id": "bfd53a2c-ce61-4cf7-a27e-4e644cfeb16e",
+                    "platform": "Instagram",
+                    "post_url": "https://massive-grandpa.com/",
+                    "likes": 98,
+                    "comments": 33,
+                    "shares": 70,
+                    "reach": 7449
+                }
+            ],
+            "total_sales_attributed": 3680.707495591267
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Heather88",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "198a79da-353c-4e75-949d-eb3109161dc7",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://roasted-flat.net/",
+                    "likes": "NaN",
+                    "comments": 39,
+                    "shares": 50,
+                    "reach": 7800
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

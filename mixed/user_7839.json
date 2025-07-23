@@ -1,0 +1,25 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Hilll Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "c318ff82-e732-4fd0-8592-52b0eb52eebf",
+                    "platform": "TikTok",
+                    "post_url": "https://colorless-cuckoo.name",
+                    "likes": "NaN",
+                    "comments": 22,
+                    "shares": 62,
+                    "reach": 2015
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

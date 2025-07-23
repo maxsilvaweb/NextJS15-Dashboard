@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2025-02-27T17:32:29.398Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Hagenes - Krajcik",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 10,
+                    "shares": 94,
+                    "reach": 4019
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

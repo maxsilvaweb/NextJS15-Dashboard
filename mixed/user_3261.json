@@ -1,0 +1,26 @@
+{
+    "user_id": "55c470bd-2964-47c7-8cc0-86d07b3d6bcb",
+    "name": "Horace Zemlak",
+    "email": "Kaia.Kutch23@gmail.com",
+    "instagram_handle": "@Reymundo_Kihn-Lakin",
+    "tiktok_handle": "@Gino.Waters-Aufderhar62",
+    "joined_at": "2024-12-06T08:01:41.851Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d8fc9ac8-179d-4aae-bf7f-7068abbf015c",
+            "brand": "Tremblay Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "cb3d72f8-b8c8-473e-a567-8297e99b52b7",
+                    "platform": "TikTok",
+                    "post_url": "https://sarcastic-release.net/",
+                    "likes": 58,
+                    "comments": 36,
+                    "shares": 57,
+                    "reach": 3275
+                }
+            ],
+            "total_sales_attributed": 876.895663897974
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "fbad5979-b6ec-479d-8beb-40a242fc9c4c",
+    "name": "Lindsay Metz",
+    "email": "Dillan.Wolff17@hotmail.com",
+    "instagram_handle": "@Stephan.McGlynn78",
+    "tiktok_handle": "@Annalise13",
+    "joined_at": "2024-09-17T19:39:49.884Z",
+    "advocacy_programs": [
+        {
+            "program_id": "de9ac245-773a-4335-91fd-f2c7cea21b1e",
+            "brand": "Medhurst Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "1565c715-a0f4-49b8-b640-0483e38a35eb",
+                    "platform": "Instagram",
+                    "post_url": "https://thick-lady.net/",
+                    "likes": 72,
+                    "comments": 39,
+                    "shares": 67,
+                    "reach": 6649
+                }
+            ],
+            "total_sales_attributed": 3605.1374182529603
+        }
+    ]
+}

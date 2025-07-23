@@ -1,0 +1,26 @@
+{
+    "user_id": "c9e9a7bb-2ce9-451b-b8aa-9a3c0312889b",
+    "name": "Ramiro Schoen",
+    "email": "Beulah.Marvin@yahoo.com",
+    "instagram_handle": "@Melba42",
+    "tiktok_handle": "@Izabella14",
+    "joined_at": "2024-04-17T12:51:52.573Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3492dbd5-29a0-4359-9a98-c093b1b97044",
+            "brand": "Bednar, Bogisich and Berge",
+            "tasks_completed": [
+                {
+                    "task_id": "5e5be999-32b5-4d08-9a1b-d5e203a59ac0",
+                    "platform": "TikTok",
+                    "post_url": "https://ambitious-goodwill.info",
+                    "likes": 159,
+                    "comments": 20,
+                    "shares": 50,
+                    "reach": 8498
+                }
+            ],
+            "total_sales_attributed": 3750.452999381895
+        }
+    ]
+}

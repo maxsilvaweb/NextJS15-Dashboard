@@ -1,0 +1,26 @@
+{
+    "user_id": "89f52426-647a-4f8b-a59e-71e329ec2545",
+    "name": "Jerry Stroman",
+    "email": "Orlando27@gmail.com",
+    "instagram_handle": "@Pablo_OHara",
+    "tiktok_handle": "@Tomas26",
+    "joined_at": "2024-12-19T23:01:42.029Z",
+    "advocacy_programs": [
+        {
+            "program_id": "62a06324-713f-413f-b33c-48d92eaa9295",
+            "brand": "Donnelly, Rowe and Dietrich",
+            "tasks_completed": [
+                {
+                    "task_id": "b159de48-5e78-4208-9a6b-98993743c006",
+                    "platform": "Instagram",
+                    "post_url": "https://gruesome-cinema.biz/",
+                    "likes": 429,
+                    "comments": 28,
+                    "shares": 73,
+                    "reach": 2832
+                }
+            ],
+            "total_sales_attributed": 3419.9240436823097
+        }
+    ]
+}

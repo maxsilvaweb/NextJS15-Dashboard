@@ -1,0 +1,26 @@
+{
+    "user_id": "50edab7b-05af-4ac2-b004-c9d7991bdbec",
+    "name": "Valerie Bins",
+    "email": "Judge.Rath@hotmail.com",
+    "instagram_handle": "@Angus89",
+    "tiktok_handle": "@Malinda58",
+    "joined_at": "2024-09-10T07:46:27.634Z",
+    "advocacy_programs": [
+        {
+            "program_id": "70fa3373-9ba2-49c8-9a52-18eacfecf0c9",
+            "brand": "Nolan, Boehm and Mertz",
+            "tasks_completed": [
+                {
+                    "task_id": "74a9ab0f-fe16-4e7c-8323-f5e5c98948a5",
+                    "platform": "TikTok",
+                    "post_url": "https://wee-clamp.net",
+                    "likes": 292,
+                    "comments": 3,
+                    "shares": 27,
+                    "reach": 6178
+                }
+            ],
+            "total_sales_attributed": 2793.2304055793556
+        }
+    ]
+}

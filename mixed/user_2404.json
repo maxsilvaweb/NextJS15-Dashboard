@@ -1,0 +1,26 @@
+{
+    "user_id": "bf24a3fb-4299-4f2f-9f28-da5c22df3e31",
+    "name": "Alyssa Torp",
+    "email": "Yessenia_Schoen21@gmail.com",
+    "instagram_handle": "@Bert11",
+    "tiktok_handle": "@Hillard.Strosin",
+    "joined_at": "2024-09-09T13:21:24.827Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3d8385d1-d401-4b8f-b019-bae2ffcf2df7",
+            "brand": "Luettgen - Conroy",
+            "tasks_completed": [
+                {
+                    "task_id": "338dcab6-5a9a-4bb8-88f4-91c289315eae",
+                    "platform": "Instagram",
+                    "post_url": "https://intent-archaeology.net",
+                    "likes": 198,
+                    "comments": 38,
+                    "shares": 2,
+                    "reach": 7411
+                }
+            ],
+            "total_sales_attributed": 615.6527612706466
+        }
+    ]
+}

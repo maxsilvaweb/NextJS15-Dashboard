@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Barry Skiles",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "032249d8-9442-447c-81a1-6412331c87af",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 95,
+                    "reach": 6059
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

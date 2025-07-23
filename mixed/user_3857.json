@@ -1,0 +1,26 @@
+{
+    "user_id": "0b8573af-763f-459a-ba43-495e1aeffcd9",
+    "name": "Wilma Hauck",
+    "email": "Alan_Harris@hotmail.com",
+    "instagram_handle": "@Jaunita97",
+    "tiktok_handle": "@Caleigh21",
+    "joined_at": "2024-08-10T15:31:22.234Z",
+    "advocacy_programs": [
+        {
+            "program_id": "70df181f-20ad-434b-ae28-b0c7b1364e25",
+            "brand": "Stiedemann - Farrell",
+            "tasks_completed": [
+                {
+                    "task_id": "e9f5af33-cc46-4fa7-9d13-1d2fef8950d2",
+                    "platform": "TikTok",
+                    "post_url": "https://biodegradable-invite.biz/",
+                    "likes": 338,
+                    "comments": 29,
+                    "shares": 11,
+                    "reach": 3396
+                }
+            ],
+            "total_sales_attributed": 1001.1040462630486
+        }
+    ]
+}

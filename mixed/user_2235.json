@@ -1,0 +1,26 @@
+{
+    "user_id": "817dd6d8-b9e7-470a-9b17-685f984b9f06",
+    "name": "Catherine Grady",
+    "email": "Vena_Blanda6@hotmail.com",
+    "instagram_handle": "@Tomasa.Braun",
+    "tiktok_handle": "@Briana41",
+    "joined_at": "2025-02-27T01:11:13.705Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4ae52e59-d111-4f10-bd40-e822f7396339",
+            "brand": "Hettinger - Connelly",
+            "tasks_completed": [
+                {
+                    "task_id": "3698e9b7-d4a9-4215-a144-b1c1d59d48fa",
+                    "platform": "Instagram",
+                    "post_url": "https://deadly-alliance.name",
+                    "likes": 364,
+                    "comments": 31,
+                    "shares": 3,
+                    "reach": 7429
+                }
+            ],
+            "total_sales_attributed": 1104.3566193919744
+        }
+    ]
+}

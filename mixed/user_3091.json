@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Maggie.Jones",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "961f7866-04e0-4242-87f7-01ef4ecc760f",
+                    "platform": "Instagram",
+                    "post_url": "https://hairy-printer.com",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 46,
+                    "reach": 8039
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

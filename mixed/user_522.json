@@ -1,0 +1,26 @@
+{
+    "user_id": "9c8f9d14-4c82-4173-b981-2a9d73b13a64",
+    "name": "Phillip Ratke",
+    "email": "Aylin_Kirlin@hotmail.com",
+    "instagram_handle": "@Treva_Hahn53",
+    "tiktok_handle": "@Kristopher53",
+    "joined_at": "2024-08-29T17:15:07.940Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f3197031-ccea-4300-b236-69cb75f3ad03",
+            "brand": "Cronin, Hayes and Will",
+            "tasks_completed": [
+                {
+                    "task_id": "dc2ea547-9d0d-402f-a561-f6acd7dca25d",
+                    "platform": "Instagram",
+                    "post_url": "https://bony-alb.org/",
+                    "likes": 294,
+                    "comments": 6,
+                    "shares": 96,
+                    "reach": 7810
+                }
+            ],
+            "total_sales_attributed": 4332.754667260248
+        }
+    ]
+}

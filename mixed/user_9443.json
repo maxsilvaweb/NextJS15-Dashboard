@@ -1,0 +1,26 @@
+{
+    "user_id": "51006126-5388-45ce-8fe3-2e439cd8ab2a",
+    "name": "Edith Monahan",
+    "email": "Myrtle_Torp14@gmail.com",
+    "instagram_handle": "@Neoma.Jaskolski25",
+    "tiktok_handle": "@Mireya_Batz79",
+    "joined_at": "2025-02-20T23:07:12.708Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6f01a9ce-7e42-4897-80e9-b9e970084da4",
+            "brand": "Ledner, Smith and Jacobson",
+            "tasks_completed": [
+                {
+                    "task_id": "0d6dc632-1132-4785-843a-a04eac563e5b",
+                    "platform": "Instagram",
+                    "post_url": "https://unselfish-programme.net",
+                    "likes": 312,
+                    "comments": 20,
+                    "shares": 60,
+                    "reach": 5733
+                }
+            ],
+            "total_sales_attributed": 4737.44665584853
+        }
+    ]
+}

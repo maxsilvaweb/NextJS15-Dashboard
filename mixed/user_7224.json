@@ -1,0 +1,26 @@
+{
+    "user_id": "324b6601-2e58-443f-857b-7b38e6c2b0c6",
+    "name": "Dr. Thomas McClure-Kuhn",
+    "email": "Alba_Cummings41@yahoo.com",
+    "instagram_handle": "@Charity.Purdy15",
+    "tiktok_handle": "@Geovany.Moen93",
+    "joined_at": "2025-03-19T08:49:52.701Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6b5891a3-6268-4139-a4fd-76c0e0437867",
+            "brand": "Huels, Homenick and Zulauf",
+            "tasks_completed": [
+                {
+                    "task_id": "c21a260f-ee43-4ded-94c6-4ea7b1591e7b",
+                    "platform": "TikTok",
+                    "post_url": "https://tense-approach.net",
+                    "likes": 300,
+                    "comments": 25,
+                    "shares": 17,
+                    "reach": 4572
+                }
+            ],
+            "total_sales_attributed": 3988.5582485899554
+        }
+    ]
+}

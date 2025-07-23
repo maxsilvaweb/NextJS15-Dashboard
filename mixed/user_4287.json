@@ -1,0 +1,26 @@
+{
+    "user_id": "49144026-557e-4f69-bec0-360afabd004d",
+    "name": "Olga Mohr",
+    "email": "Kaleb0@hotmail.com",
+    "instagram_handle": "@Arlie_Murphy",
+    "tiktok_handle": "@Emilia_Wintheiser19",
+    "joined_at": "2025-03-05T06:24:04.715Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f73683bf-7171-4967-a9ce-65e16a90dd38",
+            "brand": "Zieme Group",
+            "tasks_completed": [
+                {
+                    "task_id": "33a6a199-3f93-4c99-94c7-1cd69e3f7fa7",
+                    "platform": "TikTok",
+                    "post_url": "https://impressive-chops.net",
+                    "likes": 325,
+                    "comments": 10,
+                    "shares": 30,
+                    "reach": 4180
+                }
+            ],
+            "total_sales_attributed": 3973.1158622100806
+        }
+    ]
+}

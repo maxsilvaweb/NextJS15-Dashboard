@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Deanna Collins",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://worthless-pliers.org/",
+                    "likes": 280,
+                    "comments": null,
+                    "shares": 19,
+                    "reach": 8669
+                }
+            ],
+            "total_sales_attributed": 880.3882750916919
+        }
+    ]
+}

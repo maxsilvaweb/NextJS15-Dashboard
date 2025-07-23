@@ -1,0 +1,26 @@
+{
+    "user_id": "8e444038-2781-4888-96c0-cfb964075a6c",
+    "name": "Rene Waelchi PhD",
+    "email": "Ned_Heidenreich76@gmail.com",
+    "instagram_handle": "@Quinton_Frami7",
+    "tiktok_handle": "@Jennyfer.Kris70",
+    "joined_at": "2024-12-19T10:47:08.823Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b9325506-fbb5-4560-8c83-a7b898e5c0fe",
+            "brand": "West Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "442a6307-7de2-4b39-815b-d7a1c9c36440",
+                    "platform": "Instagram",
+                    "post_url": "https://snappy-community.org/",
+                    "likes": 377,
+                    "comments": 50,
+                    "shares": 71,
+                    "reach": 9109
+                }
+            ],
+            "total_sales_attributed": 2315.7139842651136
+        }
+    ]
+}

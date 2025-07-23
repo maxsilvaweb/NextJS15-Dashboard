@@ -1,0 +1,26 @@
+{
+    "user_id": "0dbcacf9-ecff-4903-9dab-667bf7ddde93",
+    "name": "Ann Altenwerth",
+    "email": "Norbert.Smitham71@yahoo.com",
+    "instagram_handle": "@Neva30",
+    "tiktok_handle": "@Kavon.Walker",
+    "joined_at": "2024-11-06T03:22:42.162Z",
+    "advocacy_programs": [
+        {
+            "program_id": "74508fd9-dd0d-4158-9b7d-49c8e23d7baf",
+            "brand": "Gorczany, Kuhlman and Lueilwitz",
+            "tasks_completed": [
+                {
+                    "task_id": "871d30a1-f8f0-43a9-a11e-4fe7958d9845",
+                    "platform": "Instagram",
+                    "post_url": "https://assured-shark.name",
+                    "likes": 305,
+                    "comments": 36,
+                    "shares": 84,
+                    "reach": 4406
+                }
+            ],
+            "total_sales_attributed": 1411.4254559315038
+        }
+    ]
+}

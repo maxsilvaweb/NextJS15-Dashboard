@@ -1,0 +1,26 @@
+{
+    "user_id": "922c597e-589c-44c5-8233-e595d6e22575",
+    "name": "???",
+    "email": "Claude9@yahoo.com",
+    "instagram_handle": "@Robin84",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Romaguera and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 97,
+                    "reach": 5543
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

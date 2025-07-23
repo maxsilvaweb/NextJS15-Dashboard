@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Gregorio48",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://long-term-metal.info/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 62,
+                    "reach": 5920
+                }
+            ],
+            "total_sales_attributed": 2418.8318574062223
+        }
+    ]
+}

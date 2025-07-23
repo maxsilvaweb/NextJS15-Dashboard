@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Mattie Pagac PhD",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://glass-hutch.biz/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 25,
+                    "reach": 1454
+                }
+            ],
+            "total_sales_attributed": 4161.014221875332
+        }
+    ]
+}

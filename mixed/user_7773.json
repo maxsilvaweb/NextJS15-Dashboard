@@ -1,0 +1,26 @@
+{
+    "user_id": "2e000314-b1e0-4407-8f6d-37b75fba64f6",
+    "name": "Miss Theresa Ankunding",
+    "email": "Hannah.Gutkowski@gmail.com",
+    "instagram_handle": "@Ibrahim.Strosin19",
+    "tiktok_handle": "@Clara.Mayer",
+    "joined_at": "2024-10-05T10:57:20.920Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b23b3dbd-cf90-49f9-897a-8ad0546136ff",
+            "brand": "Reichel, Crooks and Reichel",
+            "tasks_completed": [
+                {
+                    "task_id": "b498f7a8-381b-45fc-9d29-003dffdf116d",
+                    "platform": "TikTok",
+                    "post_url": "https://boring-mozzarella.name",
+                    "likes": 459,
+                    "comments": 2,
+                    "shares": 62,
+                    "reach": 1463
+                }
+            ],
+            "total_sales_attributed": 4096.769522407563
+        }
+    ]
+}

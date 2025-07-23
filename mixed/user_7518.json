@@ -1,0 +1,26 @@
+{
+    "user_id": "4668bdd0-52f5-4a9a-af73-87fae63c8fe0",
+    "name": "Dr. Ada McKenzie",
+    "email": "Blaise18@gmail.com",
+    "instagram_handle": "@Destiney24",
+    "tiktok_handle": "@Clinton.Rodriguez",
+    "joined_at": "2024-07-09T08:08:25.083Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0ea0a03a-2e0d-4fc4-99b0-936618539167",
+            "brand": "Quitzon, Bailey and Bartell",
+            "tasks_completed": [
+                {
+                    "task_id": "a91ec71b-bd20-410f-ac3a-205a97f5274c",
+                    "platform": "Instagram",
+                    "post_url": "https://agitated-dwell.net",
+                    "likes": 23,
+                    "comments": 11,
+                    "shares": 17,
+                    "reach": 2956
+                }
+            ],
+            "total_sales_attributed": 1267.0123466742493
+        }
+    ]
+}

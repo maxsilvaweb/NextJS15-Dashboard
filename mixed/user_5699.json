@@ -1,0 +1,26 @@
+{
+    "user_id": "bdf8ccc0-2504-421e-a494-145e6c666b2f",
+    "name": "Bruce Schmidt",
+    "email": "Antone.Quitzon59@hotmail.com",
+    "instagram_handle": "@Lenora32",
+    "tiktok_handle": "@Keegan0",
+    "joined_at": "2024-05-19T15:07:42.663Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9826dd9d-05dc-454f-8d17-b9bb7fbe0e70",
+            "brand": "Bechtelar and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "65b49787-6ac2-44d6-b329-f20415f95b18",
+                    "platform": "TikTok",
+                    "post_url": "https://emotional-apparatus.name/",
+                    "likes": 344,
+                    "comments": 42,
+                    "shares": 15,
+                    "reach": 9699
+                }
+            ],
+            "total_sales_attributed": 4331.440200354586
+        }
+    ]
+}

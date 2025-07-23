@@ -1,0 +1,26 @@
+{
+    "user_id": "0d2a32b1-1a8c-4fdd-abd3-534333c242f9",
+    "name": "Mrs. Katrina Goldner",
+    "email": "Ephraim.Prosacco@hotmail.com",
+    "instagram_handle": "@Theron47",
+    "tiktok_handle": "@Marian_Wehner65",
+    "joined_at": "2024-05-18T19:25:05.393Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3bead8d6-3e5b-490f-8d3f-c92b4c4bd458",
+            "brand": "Beier - Block",
+            "tasks_completed": [
+                {
+                    "task_id": "cb8b998d-1e8b-4eff-af88-4da38b6b8af2",
+                    "platform": "TikTok",
+                    "post_url": "https://scientific-metal.info/",
+                    "likes": 223,
+                    "comments": 13,
+                    "shares": 35,
+                    "reach": 2648
+                }
+            ],
+            "total_sales_attributed": 4092.6292593465405
+        }
+    ]
+}

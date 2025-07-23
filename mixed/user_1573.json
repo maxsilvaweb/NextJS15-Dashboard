@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Ernestine Lynch",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "8b40ea92-6972-4473-8b16-1e88379d8d20",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 30,
+                    "shares": 60,
+                    "reach": 8124
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

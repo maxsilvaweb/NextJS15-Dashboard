@@ -1,0 +1,26 @@
+{
+    "user_id": "c528cefb-28fc-402d-ae5d-8bd46a7b48e4",
+    "name": "Ellis Kunde",
+    "email": "Vincent_Berge4@gmail.com",
+    "instagram_handle": "@Keyshawn14",
+    "tiktok_handle": "@Jane18",
+    "joined_at": "2025-03-04T15:50:56.059Z",
+    "advocacy_programs": [
+        {
+            "program_id": "20dea5a1-a774-41b7-9a03-e16d32e19571",
+            "brand": "Altenwerth, Ryan and Kunde",
+            "tasks_completed": [
+                {
+                    "task_id": "b7afa2a2-3c14-488f-ab3d-1cbf55f071b4",
+                    "platform": "TikTok",
+                    "post_url": "https://striking-galoshes.info",
+                    "likes": 286,
+                    "comments": 13,
+                    "shares": 6,
+                    "reach": 4639
+                }
+            ],
+            "total_sales_attributed": 1298.6125893735293
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e48cbdde-5b30-46b7-b156-90ef4cc990d4",
+    "name": "Hilda McCullough",
+    "email": "Woodrow33@yahoo.com",
+    "instagram_handle": "@Rudolph.Kemmer",
+    "tiktok_handle": "@Arnold_Denesik54",
+    "joined_at": "2024-10-17T14:24:36.622Z",
+    "advocacy_programs": [
+        {
+            "program_id": "baf09c61-9b4a-4fd9-8598-52634d3b07e5",
+            "brand": "Prosacco and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "99249007-04db-41b6-bd08-8b14a032e234",
+                    "platform": "TikTok",
+                    "post_url": "https://favorite-mixture.biz/",
+                    "likes": 265,
+                    "comments": 29,
+                    "shares": 87,
+                    "reach": 8945
+                }
+            ],
+            "total_sales_attributed": 2793.6488264545264
+        }
+    ]
+}

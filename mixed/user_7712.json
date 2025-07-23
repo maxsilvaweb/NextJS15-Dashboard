@@ -1,0 +1,26 @@
+{
+    "user_id": "3ab246d0-61fd-4268-8235-429a910f84fd",
+    "name": "Billy Larkin",
+    "email": "Deborah.Marvin@hotmail.com",
+    "instagram_handle": "@Matilde15",
+    "tiktok_handle": "@Lenore.Blick89",
+    "joined_at": "2025-02-24T10:38:27.648Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3e5ae8a5-dbea-4591-a54f-699962597b3f",
+            "brand": "Hahn LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d405b64d-810b-48da-8378-302a308e1f43",
+                    "platform": "Instagram",
+                    "post_url": "https://key-solution.net",
+                    "likes": 317,
+                    "comments": 38,
+                    "shares": 49,
+                    "reach": 1748
+                }
+            ],
+            "total_sales_attributed": 3374.426542935872
+        }
+    ]
+}

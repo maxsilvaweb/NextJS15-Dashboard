@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2025-02-13T07:07:13.982Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Klocko, Berge and Funk",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 100,
+                    "reach": 1084
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

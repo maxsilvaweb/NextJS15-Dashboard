@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Brycen8@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-11-10T23:08:37.958Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 382,
+                    "comments": null,
+                    "shares": 49,
+                    "reach": 7229
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "f0909ed4-1370-418a-83b3-54ff4ac2fdb4",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "cc62eb9d-a886-4730-9797-425d8f20841a",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://lighthearted-mom.org",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 43,
+                    "reach": 4975
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

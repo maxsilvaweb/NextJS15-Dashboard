@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Casper and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://flowery-cross-contamination.info",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 67,
+                    "reach": 3135
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

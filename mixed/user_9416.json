@@ -1,0 +1,26 @@
+{
+    "user_id": "1b1226cb-5f1b-43a0-b1ff-8135655a15a0",
+    "name": "Gary Bechtelar",
+    "email": "Christ_Daugherty39@gmail.com",
+    "instagram_handle": "@Tanner.Goldner",
+    "tiktok_handle": "@Lucile.Vandervort",
+    "joined_at": "2024-05-16T10:50:13.409Z",
+    "advocacy_programs": [
+        {
+            "program_id": "742c8f06-cc83-4083-9a86-cda1634ef377",
+            "brand": "West LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ed1f1db2-e3b4-4169-b3a1-c083a25e1ad6",
+                    "platform": "Instagram",
+                    "post_url": "https://staid-inspection.info",
+                    "likes": 455,
+                    "comments": 20,
+                    "shares": 89,
+                    "reach": 597
+                }
+            ],
+            "total_sales_attributed": 2034.2991427795287
+        }
+    ]
+}

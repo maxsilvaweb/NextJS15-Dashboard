@@ -1,0 +1,26 @@
+{
+    "user_id": "38054980-5df1-4d87-ab38-3f48c4b11a32",
+    "name": "Faith Kuhlman",
+    "email": "Marlene_Zulauf74@hotmail.com",
+    "instagram_handle": "@Cloyd1",
+    "tiktok_handle": "@Naomie.Douglas10",
+    "joined_at": "2024-12-02T00:55:35.468Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b5dbe90c-e33d-4d0a-9283-c7d06f6aa856",
+            "brand": "Auer Group",
+            "tasks_completed": [
+                {
+                    "task_id": "4052a5ab-3f9e-4665-aec3-ec1453b60ea1",
+                    "platform": "Instagram",
+                    "post_url": "https://sardonic-promise.net",
+                    "likes": 304,
+                    "comments": 5,
+                    "shares": 43,
+                    "reach": 3401
+                }
+            ],
+            "total_sales_attributed": 4279.77786090895
+        }
+    ]
+}

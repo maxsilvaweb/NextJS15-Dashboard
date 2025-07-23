@@ -1,0 +1,26 @@
+{
+    "user_id": "10e205f8-c651-47b7-9ed5-1c23ea753a20",
+    "name": "Silvia Towne II",
+    "email": "Josue_Koepp@gmail.com",
+    "instagram_handle": "@Kyla70",
+    "tiktok_handle": "@Joel_Kerluke35",
+    "joined_at": "2024-07-05T06:46:18.062Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a50a2f08-f180-4ff6-a822-a364075b27ef",
+            "brand": "Kiehn - Kohler",
+            "tasks_completed": [
+                {
+                    "task_id": "56638d9d-fb3b-40d9-a77c-c20cb99713aa",
+                    "platform": "Instagram",
+                    "post_url": "https://upbeat-hammock.org",
+                    "likes": 225,
+                    "comments": 11,
+                    "shares": 33,
+                    "reach": 9152
+                }
+            ],
+            "total_sales_attributed": 3770.8127639315485
+        }
+    ]
+}

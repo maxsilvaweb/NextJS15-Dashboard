@@ -1,0 +1,26 @@
+{
+    "user_id": "8027b5e3-c54d-4a19-856b-90dca34e7f13",
+    "name": "Ellis Gleason",
+    "email": "Derek.Weimann83@hotmail.com",
+    "instagram_handle": "@Edmond.Erdman",
+    "tiktok_handle": "@Genoveva_Kunze",
+    "joined_at": "2024-05-02T06:19:07.254Z",
+    "advocacy_programs": [
+        {
+            "program_id": "559478b9-5a51-4239-9015-9d3175fc66b2",
+            "brand": "Kertzmann - Gerhold",
+            "tasks_completed": [
+                {
+                    "task_id": "75f39f46-12db-486d-aea8-30f6bd958d95",
+                    "platform": "Instagram",
+                    "post_url": "https://linear-switchboard.biz/",
+                    "likes": 257,
+                    "comments": 35,
+                    "shares": 25,
+                    "reach": 1919
+                }
+            ],
+            "total_sales_attributed": 652.2052882048423
+        }
+    ]
+}

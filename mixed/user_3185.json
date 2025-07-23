@@ -1,0 +1,26 @@
+{
+    "user_id": "76b8c255-c1fb-4d6e-91ce-2c24e19796ad",
+    "name": "Mr. Omar Ruecker",
+    "email": "Lysanne_Johns@hotmail.com",
+    "instagram_handle": "@Xavier_Witting",
+    "tiktok_handle": "@Deondre41",
+    "joined_at": "2024-09-25T06:50:52.220Z",
+    "advocacy_programs": [
+        {
+            "program_id": "459e796f-653d-4a0f-bcc8-081800389711",
+            "brand": "Stoltenberg and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "03eab517-9e82-410e-a729-fa1f67696fcb",
+                    "platform": "TikTok",
+                    "post_url": "https://apt-convection.name",
+                    "likes": 495,
+                    "comments": 17,
+                    "shares": 58,
+                    "reach": 509
+                }
+            ],
+            "total_sales_attributed": 3364.439362925116
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e637210e-40c1-4c2d-8579-9c48e9cb8e7f",
+    "name": "Rickey McDermott",
+    "email": "Ian61@hotmail.com",
+    "instagram_handle": "@Alta_Gerhold",
+    "tiktok_handle": "@Tate_Satterfield",
+    "joined_at": "2024-08-11T21:55:19.007Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7117a040-9010-480a-828a-74a874d75f04",
+            "brand": "Bechtelar and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "24763491-f1ba-4ab2-b871-2507e61c9695",
+                    "platform": "TikTok",
+                    "post_url": "https://grizzled-dash.net",
+                    "likes": 45,
+                    "comments": 12,
+                    "shares": 26,
+                    "reach": 3238
+                }
+            ],
+            "total_sales_attributed": 2736.923806451352
+        }
+    ]
+}

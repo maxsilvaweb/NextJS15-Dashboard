@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Sarah_Quitzon44",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 462,
+                    "comments": 20,
+                    "shares": 11,
+                    "reach": 5123
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

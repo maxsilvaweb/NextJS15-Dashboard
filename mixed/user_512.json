@@ -1,0 +1,26 @@
+{
+    "user_id": "4ffc636c-169a-4ebe-8760-6522bfcea8ab",
+    "name": "Omar Schimmel",
+    "email": "Gardner.Rowe@hotmail.com",
+    "instagram_handle": "@Kallie_Kuhic",
+    "tiktok_handle": "@Amya_Osinski24",
+    "joined_at": "2025-02-03T15:07:02.777Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6986c9a4-490b-4b7d-8bfd-12d1e15db3b5",
+            "brand": "Paucek, Herman and Frami",
+            "tasks_completed": [
+                {
+                    "task_id": "1def3a64-ead4-4a10-8fd4-15e466689236",
+                    "platform": "Instagram",
+                    "post_url": "https://dazzling-blowgun.net",
+                    "likes": 242,
+                    "comments": 19,
+                    "shares": 93,
+                    "reach": 6001
+                }
+            ],
+            "total_sales_attributed": 1757.5657239141565
+        }
+    ]
+}

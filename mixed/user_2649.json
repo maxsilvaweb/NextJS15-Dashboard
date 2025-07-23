@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Itzel_Johnston72@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "de5c4743-5d0b-48b3-b327-1efe2dc1dc57",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 362,
+                    "comments": null,
+                    "shares": 85,
+                    "reach": 2255
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

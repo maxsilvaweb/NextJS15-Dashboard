@@ -1,0 +1,26 @@
+{
+    "user_id": "b5b231cf-d605-4576-b831-766d9e314be8",
+    "name": "Jeremy Lebsack",
+    "email": "Marion.Powlowski-Boehm3@gmail.com",
+    "instagram_handle": "@Salma15",
+    "tiktok_handle": "@Lonzo.McGlynn",
+    "joined_at": "2024-09-11T08:29:15.676Z",
+    "advocacy_programs": [
+        {
+            "program_id": "750014f2-4666-4079-8c5d-a2196cca7447",
+            "brand": "Stracke, Hegmann and Schuster",
+            "tasks_completed": [
+                {
+                    "task_id": "a4ce6bf3-93cd-4ee8-a975-c59a66ffcc78",
+                    "platform": "TikTok",
+                    "post_url": "https://nippy-bell.com/",
+                    "likes": 393,
+                    "comments": 10,
+                    "shares": 22,
+                    "reach": 8783
+                }
+            ],
+            "total_sales_attributed": 2019.4282831441324
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7ea08cc8-7838-461b-887f-d0ba682c33a3",
+    "name": "Mrs. Faith Greenfelder",
+    "email": "Earline25@hotmail.com",
+    "instagram_handle": "@Kaia44",
+    "tiktok_handle": "@Garrett.Reichel85",
+    "joined_at": "2024-11-11T02:05:48.843Z",
+    "advocacy_programs": [
+        {
+            "program_id": "22a3893e-fb09-41f9-9826-687d235b8670",
+            "brand": "Anderson, Friesen and Mueller",
+            "tasks_completed": [
+                {
+                    "task_id": "39e1dc51-d17a-47b9-9edb-06326b9dcfc2",
+                    "platform": "TikTok",
+                    "post_url": "https://rosy-carboxyl.info",
+                    "likes": 360,
+                    "comments": 7,
+                    "shares": 95,
+                    "reach": 4627
+                }
+            ],
+            "total_sales_attributed": 3171.8561809399043
+        }
+    ]
+}

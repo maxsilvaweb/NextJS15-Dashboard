@@ -1,0 +1,26 @@
+{
+    "user_id": "42c435c8-db28-497c-bd46-03d06515a20a",
+    "name": "Melinda Wunsch",
+    "email": "Josephine_Bergnaum@hotmail.com",
+    "instagram_handle": "@Camren56",
+    "tiktok_handle": "@Marcelle_Kohler65",
+    "joined_at": "2024-10-30T10:40:27.848Z",
+    "advocacy_programs": [
+        {
+            "program_id": "99a59a87-3ed5-4a99-ba30-773cfb7a9626",
+            "brand": "Kuphal and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "ee66d58d-d803-44e6-b1a3-8786dffd4e05",
+                    "platform": "TikTok",
+                    "post_url": "https://whirlwind-mountain.com",
+                    "likes": 231,
+                    "comments": 37,
+                    "shares": 54,
+                    "reach": 7620
+                }
+            ],
+            "total_sales_attributed": 3579.8258965281107
+        }
+    ]
+}

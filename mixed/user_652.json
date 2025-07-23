@@ -1,0 +1,26 @@
+{
+    "user_id": "0feea9e7-88fe-4143-87e5-b31eb740e6c7",
+    "name": "Viola Lehner V",
+    "email": "Jacynthe89@gmail.com",
+    "instagram_handle": "@Vincenza.Yost3",
+    "tiktok_handle": "@Cathrine.Pagac47",
+    "joined_at": "2024-12-25T04:23:44.116Z",
+    "advocacy_programs": [
+        {
+            "program_id": "47998305-9d8a-4f2f-89e3-580a79729bfe",
+            "brand": "Zboncak, Hermann and Schumm",
+            "tasks_completed": [
+                {
+                    "task_id": "2cb87fa6-3c1b-46d9-8860-c277cd67cc8f",
+                    "platform": "TikTok",
+                    "post_url": "https://tender-fundraising.com",
+                    "likes": 445,
+                    "comments": 31,
+                    "shares": 3,
+                    "reach": 6179
+                }
+            ],
+            "total_sales_attributed": 3187.5699204363555
+        }
+    ]
+}

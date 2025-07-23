@@ -1,0 +1,26 @@
+{
+    "user_id": "5206df38-ff80-46cc-95ab-464e7b809fb6",
+    "name": "Ralph Purdy",
+    "email": "Jeramy_Simonis@hotmail.com",
+    "instagram_handle": "@Marcelino.Walter44",
+    "tiktok_handle": "@Delaney31",
+    "joined_at": "2024-04-01T15:08:48.256Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3c8b4e06-34af-4c03-8fdc-019e7cb82d0e",
+            "brand": "Walter LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "811ea3b3-6b62-4e6e-a427-c6c41ddeaad2",
+                    "platform": "TikTok",
+                    "post_url": "https://murky-zen.net",
+                    "likes": 106,
+                    "comments": 35,
+                    "shares": 28,
+                    "reach": 5341
+                }
+            ],
+            "total_sales_attributed": 357.4976727704505
+        }
+    ]
+}

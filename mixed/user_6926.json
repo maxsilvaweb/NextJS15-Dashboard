@@ -1,0 +1,26 @@
+{
+    "user_id": "65d41d47-e35a-4d80-a958-373b7ef98338",
+    "name": "Gilberto Mante",
+    "email": "Jessica36@yahoo.com",
+    "instagram_handle": "@Brent_Swaniawski",
+    "tiktok_handle": "@Corbin44",
+    "joined_at": "2024-09-01T23:10:38.890Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d298261a-d327-42a7-b9fa-47db6a58a64b",
+            "brand": "Gibson and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a8398581-4eda-432a-a3b1-385be284e927",
+                    "platform": "Instagram",
+                    "post_url": "https://awesome-tinderbox.com/",
+                    "likes": 229,
+                    "comments": 49,
+                    "shares": 32,
+                    "reach": 4033
+                }
+            ],
+            "total_sales_attributed": 4214.890459110912
+        }
+    ]
+}

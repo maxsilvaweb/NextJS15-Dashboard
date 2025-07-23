@@ -1,0 +1,26 @@
+{
+    "user_id": "1dd98c37-3802-4bb5-baf3-d1cf2b5a5dac",
+    "name": "???",
+    "email": "Christiana_Fisher98@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://hairy-tuxedo.net/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 9,
+                    "reach": 1480
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

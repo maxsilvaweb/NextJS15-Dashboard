@@ -1,0 +1,26 @@
+{
+    "user_id": "fb292791-ecff-44d9-943d-71277956082c",
+    "name": "Shawn Corkery",
+    "email": "Aida.Rosenbaum@yahoo.com",
+    "instagram_handle": "@Raven_Pfannerstill80",
+    "tiktok_handle": "@Osvaldo53",
+    "joined_at": "2024-05-03T17:08:07.197Z",
+    "advocacy_programs": [
+        {
+            "program_id": "55d4dc2c-0fb4-4652-be56-2b19ddcca1c1",
+            "brand": "Runolfsson - Waters",
+            "tasks_completed": [
+                {
+                    "task_id": "9eef89cd-8891-4818-92c8-56a86810d205",
+                    "platform": "TikTok",
+                    "post_url": "https://accomplished-ocelot.org",
+                    "likes": 498,
+                    "comments": 48,
+                    "shares": 87,
+                    "reach": 9689
+                }
+            ],
+            "total_sales_attributed": 2762.8139365676993
+        }
+    ]
+}

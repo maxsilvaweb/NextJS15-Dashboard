@@ -1,0 +1,26 @@
+{
+    "user_id": "817c235a-3d45-4c1c-a129-eefa05c8e59c",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://unhealthy-linseed.com/",
+                    "likes": "NaN",
+                    "comments": 11,
+                    "shares": 64,
+                    "reach": 8816
+                }
+            ],
+            "total_sales_attributed": 636.9300121397263
+        }
+    ]
+}

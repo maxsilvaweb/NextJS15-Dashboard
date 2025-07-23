@@ -1,0 +1,26 @@
+{
+    "user_id": "7f77959b-9f90-4525-8038-e812a29bb6f1",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "6529cb2d-6ad6-48de-bcf2-5687522de16e",
+            "brand": "Denesik Group",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 52,
+                    "reach": 3564
+                }
+            ],
+            "total_sales_attributed": 654.4971636614706
+        }
+    ]
+}

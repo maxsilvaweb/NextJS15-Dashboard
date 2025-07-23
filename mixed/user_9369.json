@@ -1,0 +1,26 @@
+{
+    "user_id": "99ab026d-fa5f-471a-ac38-bd759bf44bbd",
+    "name": "Robin Smith",
+    "email": "Madalyn88@gmail.com",
+    "instagram_handle": "@Theron_Lebsack",
+    "tiktok_handle": "@Lauryn84",
+    "joined_at": "2025-02-27T15:58:55.979Z",
+    "advocacy_programs": [
+        {
+            "program_id": "75b46cf5-f7db-4c29-b977-f8befb17c331",
+            "brand": "Swaniawski - Mueller",
+            "tasks_completed": [
+                {
+                    "task_id": "c64e92c0-57b1-4518-b82d-a2cc94dfd243",
+                    "platform": "Instagram",
+                    "post_url": "https://far-off-pantyhose.net",
+                    "likes": 70,
+                    "comments": 39,
+                    "shares": 4,
+                    "reach": 5911
+                }
+            ],
+            "total_sales_attributed": 4387.488640837281
+        }
+    ]
+}

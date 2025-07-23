@@ -1,0 +1,26 @@
+{
+    "user_id": "6cd47928-5408-4c20-b898-b468d3eed536",
+    "name": "Brendan Bergstrom",
+    "email": "Sean_Emmerich@yahoo.com",
+    "instagram_handle": "@Lemuel_Spencer60",
+    "tiktok_handle": "@Myron.Rau",
+    "joined_at": "2024-07-02T15:44:42.573Z",
+    "advocacy_programs": [
+        {
+            "program_id": "52aef9b4-4dfe-42bf-b9fb-566a9720c462",
+            "brand": "Smith Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "53888857-4d1b-4f2e-a00b-32b6586c5786",
+                    "platform": "Instagram",
+                    "post_url": "https://quarrelsome-bran.com",
+                    "likes": 256,
+                    "comments": 43,
+                    "shares": 9,
+                    "reach": 6252
+                }
+            ],
+            "total_sales_attributed": 2104.173060398371
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7eb20f15-ab2e-4f3a-b447-2fbe3fe4a3c9",
+    "name": "Mr. Conrad Mueller III",
+    "email": "Josiane11@hotmail.com",
+    "instagram_handle": "@Marcos_Kutch98",
+    "tiktok_handle": "@Jerrold_Doyle31",
+    "joined_at": "2024-05-18T20:31:26.549Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ea1b078e-e4a2-4193-8505-0c09d81f9ade",
+            "brand": "Christiansen Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d46c4242-694e-400a-82ad-1bc0d52b5994",
+                    "platform": "TikTok",
+                    "post_url": "https://all-tool.info/",
+                    "likes": 432,
+                    "comments": 49,
+                    "shares": 3,
+                    "reach": 4912
+                }
+            ],
+            "total_sales_attributed": 3679.0361163432576
+        }
+    ]
+}

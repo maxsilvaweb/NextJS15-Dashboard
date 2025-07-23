@@ -1,0 +1,26 @@
+{
+    "user_id": "7649e988-0c4e-41e8-9b5d-67c61c17051c",
+    "name": "Peggy Durgan",
+    "email": "Elinor.Bergstrom@gmail.com",
+    "instagram_handle": "@Tavares_Hettinger",
+    "tiktok_handle": "@Aron_Lubowitz",
+    "joined_at": "2024-08-27T10:50:56.544Z",
+    "advocacy_programs": [
+        {
+            "program_id": "77812c9e-d5d1-44ab-a9f2-480c326958e5",
+            "brand": "Hessel, Durgan and Mayert",
+            "tasks_completed": [
+                {
+                    "task_id": "3b5ecd61-6bb2-4cf7-bf4e-51a54466cfc1",
+                    "platform": "Instagram",
+                    "post_url": "https://stormy-grandson.net/",
+                    "likes": 486,
+                    "comments": 25,
+                    "shares": 18,
+                    "reach": 1245
+                }
+            ],
+            "total_sales_attributed": 3766.2701562203565
+        }
+    ]
+}

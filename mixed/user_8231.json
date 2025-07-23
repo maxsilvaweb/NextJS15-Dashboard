@@ -1,0 +1,26 @@
+{
+    "user_id": "2185e4d5-66ae-4bad-bbc3-7e765050838d",
+    "name": "Dr. Roxanne Hagenes",
+    "email": "Maida.Baumbach52@yahoo.com",
+    "instagram_handle": "@Willard_Green85",
+    "tiktok_handle": "@Cletus97",
+    "joined_at": "2024-10-21T09:42:45.720Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f22f8c7e-5bc8-42c3-96bc-cc989e974181",
+            "brand": "Frami - Cummings",
+            "tasks_completed": [
+                {
+                    "task_id": "e8d29b3c-ee7d-449d-8f38-5d847fc57469",
+                    "platform": "Instagram",
+                    "post_url": "https://taut-dusk.org/",
+                    "likes": 481,
+                    "comments": 16,
+                    "shares": 35,
+                    "reach": 1545
+                }
+            ],
+            "total_sales_attributed": 4112.3812641774
+        }
+    ]
+}

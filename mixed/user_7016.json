@@ -1,0 +1,26 @@
+{
+    "user_id": "6c389264-953b-4711-8f95-20251a6157d1",
+    "name": "Bert Luettgen",
+    "email": "Leanne70@hotmail.com",
+    "instagram_handle": "@Esmeralda_Doyle94",
+    "tiktok_handle": "@Evan.Schultz72",
+    "joined_at": "2024-08-16T16:47:15.805Z",
+    "advocacy_programs": [
+        {
+            "program_id": "077633fb-cd7c-4285-b8c3-641e6b80dd8d",
+            "brand": "Beer - Rohan",
+            "tasks_completed": [
+                {
+                    "task_id": "84c61554-4e53-4222-8069-53bb045fb0f3",
+                    "platform": "TikTok",
+                    "post_url": "https://sturdy-encouragement.info/",
+                    "likes": 264,
+                    "comments": 22,
+                    "shares": 29,
+                    "reach": 1234
+                }
+            ],
+            "total_sales_attributed": 459.3662628893774
+        }
+    ]
+}

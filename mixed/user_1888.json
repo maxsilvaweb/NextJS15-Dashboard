@@ -1,0 +1,26 @@
+{
+    "user_id": "6d3afadb-4836-47b5-b7de-bc6ff5c15710",
+    "name": "Emmett Crooks",
+    "email": "Cornelius_Halvorson18@gmail.com",
+    "instagram_handle": "@Isabelle_Wilderman83",
+    "tiktok_handle": "@Claude.Gerlach81",
+    "joined_at": "2024-10-17T16:27:32.137Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8fff7646-c005-4e71-9168-420db3e12b18",
+            "brand": "Boehm, Lang and Barrows",
+            "tasks_completed": [
+                {
+                    "task_id": "c56c991f-8fcf-4f88-b6c8-cc1c3e370adb",
+                    "platform": "Instagram",
+                    "post_url": "https://unhappy-switchboard.org/",
+                    "likes": 406,
+                    "comments": 46,
+                    "shares": 86,
+                    "reach": 1499
+                }
+            ],
+            "total_sales_attributed": 2153.599781740878
+        }
+    ]
+}

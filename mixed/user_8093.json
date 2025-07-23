@@ -1,0 +1,26 @@
+{
+    "user_id": "4046fff8-9a04-4a57-b275-413f8afcdde5",
+    "name": "Toby Schulist",
+    "email": "Eliane.Larson@gmail.com",
+    "instagram_handle": "@Fidel76",
+    "tiktok_handle": "@Stevie.Torphy87",
+    "joined_at": "2025-03-03T19:31:42.088Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e359cfc0-c97c-4919-83c3-4c4579985d7a",
+            "brand": "Graham and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "c5569876-7f7d-4977-b0ce-b752fa063560",
+                    "platform": "Instagram",
+                    "post_url": "https://royal-kielbasa.org/",
+                    "likes": 449,
+                    "comments": 9,
+                    "shares": 45,
+                    "reach": 2778
+                }
+            ],
+            "total_sales_attributed": 474.61808009014334
+        }
+    ]
+}

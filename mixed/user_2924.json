@@ -1,0 +1,26 @@
+{
+    "user_id": "9f0d3e51-9431-4dbd-9bd9-3e4e885f37f4",
+    "name": "Jackie Ratke",
+    "email": "Rubie_Kozey98@gmail.com",
+    "instagram_handle": "@Vallie9",
+    "tiktok_handle": "@Hettie88",
+    "joined_at": "2024-07-02T13:52:09.561Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ab50076f-8da9-4ae1-b3fc-5aacda74b402",
+            "brand": "O'Reilly - McLaughlin",
+            "tasks_completed": [
+                {
+                    "task_id": "1ca40b4d-03c7-40be-a1f9-f1a5f3d4f061",
+                    "platform": "Instagram",
+                    "post_url": "https://athletic-pine.org/",
+                    "likes": 391,
+                    "comments": 37,
+                    "shares": 74,
+                    "reach": 7562
+                }
+            ],
+            "total_sales_attributed": 855.023714428059
+        }
+    ]
+}

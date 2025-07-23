@@ -1,0 +1,26 @@
+{
+    "user_id": "9b6275a5-6416-48bf-ae10-fc1238d95780",
+    "name": "Cindy Jenkins",
+    "email": "Verda.Koelpin39@hotmail.com",
+    "instagram_handle": "@Tyrel.Kulas74",
+    "tiktok_handle": "@Alexandrine24",
+    "joined_at": "2024-12-15T07:36:47.880Z",
+    "advocacy_programs": [
+        {
+            "program_id": "91c9799c-ac0a-4e4a-a49d-427863e2804c",
+            "brand": "Marvin - Turner",
+            "tasks_completed": [
+                {
+                    "task_id": "38d0819d-b637-4def-93f9-5c8a27a1ee82",
+                    "platform": "Instagram",
+                    "post_url": "https://hospitable-festival.net/",
+                    "likes": 58,
+                    "comments": 6,
+                    "shares": 85,
+                    "reach": 5726
+                }
+            ],
+            "total_sales_attributed": 2639.72857757737
+        }
+    ]
+}

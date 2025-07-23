@@ -1,0 +1,26 @@
+{
+    "user_id": "16a1c538-eefb-402c-b8a9-4db77750c486",
+    "name": "Norma Connelly",
+    "email": "Paxton.Stehr@gmail.com",
+    "instagram_handle": "@Alexie.Dibbert44",
+    "tiktok_handle": "@Alia95",
+    "joined_at": "2024-04-05T01:13:59.651Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6947e6f4-144a-4202-bbf2-8fe48d819ede",
+            "brand": "Johnston, Franey and Willms",
+            "tasks_completed": [
+                {
+                    "task_id": "e4a70ea4-1daf-41fc-b5f6-98b9e8d41df5",
+                    "platform": "TikTok",
+                    "post_url": "https://giving-bar.info/",
+                    "likes": 81,
+                    "comments": 24,
+                    "shares": 32,
+                    "reach": 7115
+                }
+            ],
+            "total_sales_attributed": 1714.4095640409057
+        }
+    ]
+}

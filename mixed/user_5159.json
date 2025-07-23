@@ -1,0 +1,26 @@
+{
+    "user_id": "424a5548-5a49-4d43-826e-7626d179e978",
+    "name": "Ryan Blanda DDS",
+    "email": "Jonas.Stroman40@hotmail.com",
+    "instagram_handle": "@Erich7",
+    "tiktok_handle": "@Sadie_Koss49",
+    "joined_at": "2025-01-27T11:05:21.017Z",
+    "advocacy_programs": [
+        {
+            "program_id": "db86b013-96e2-4383-b1ac-c415ac209335",
+            "brand": "Simonis - Auer",
+            "tasks_completed": [
+                {
+                    "task_id": "5b1a8697-88ba-4ac4-b00f-13f458ef2d20",
+                    "platform": "Instagram",
+                    "post_url": "https://ideal-translation.biz",
+                    "likes": 254,
+                    "comments": 34,
+                    "shares": 64,
+                    "reach": 5421
+                }
+            ],
+            "total_sales_attributed": 4034.567925214491
+        }
+    ]
+}

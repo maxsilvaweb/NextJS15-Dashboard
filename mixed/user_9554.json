@@ -1,0 +1,26 @@
+{
+    "user_id": "e1010665-24d5-46e2-a0d4-ff01158cb145",
+    "name": "Faye McDermott",
+    "email": "Fritz2@hotmail.com",
+    "instagram_handle": "@Beaulah.Torphy40",
+    "tiktok_handle": "@Annamae_Rolfson",
+    "joined_at": "2024-04-09T08:18:12.934Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fb982fb9-1d6f-45c9-97b9-b83ec6ffc46a",
+            "brand": "Hickle - Powlowski",
+            "tasks_completed": [
+                {
+                    "task_id": "dbd5b370-73df-49a5-89b2-984726c15bb6",
+                    "platform": "Instagram",
+                    "post_url": "https://aware-minor.biz/",
+                    "likes": 267,
+                    "comments": 26,
+                    "shares": 4,
+                    "reach": 5039
+                }
+            ],
+            "total_sales_attributed": 1983.141727762593
+        }
+    ]
+}

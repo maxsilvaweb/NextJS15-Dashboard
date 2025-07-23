@@ -1,0 +1,26 @@
+{
+    "user_id": "45ef9ae4-845e-4a96-bdcc-f81dcfbec518",
+    "name": "Lisa Gislason",
+    "email": "Angel_Franecki95@gmail.com",
+    "instagram_handle": "@Johanna44",
+    "tiktok_handle": "@Ansley.Roob",
+    "joined_at": "2024-09-30T06:52:02.816Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1c7f5210-fd48-4654-910f-04cbe94772ef",
+            "brand": "Nader, Schuppe and Torp",
+            "tasks_completed": [
+                {
+                    "task_id": "96c90fa1-ca6b-47b7-a70b-9077c5de2a8f",
+                    "platform": "Instagram",
+                    "post_url": "https://upright-nun.info/",
+                    "likes": 490,
+                    "comments": 42,
+                    "shares": 29,
+                    "reach": 3442
+                }
+            ],
+            "total_sales_attributed": 2319.6249047315496
+        }
+    ]
+}

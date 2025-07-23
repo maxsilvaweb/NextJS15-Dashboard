@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Krista.Marquardt23@yahoo.com",
+    "instagram_handle": "@Edgar_Carroll80",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://glorious-making.net/",
+                    "likes": "NaN",
+                    "comments": 34,
+                    "shares": 41,
+                    "reach": 8475
+                }
+            ],
+            "total_sales_attributed": 2924.7012578706203
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c1bfde56-09e3-4ed6-9aed-3dfce499ad7c",
+    "name": "Pam Bogan-Effertz",
+    "email": "Mary_Ernser93@yahoo.com",
+    "instagram_handle": "@Magnolia_Reichel98",
+    "tiktok_handle": "@Grover57",
+    "joined_at": "2024-06-01T23:00:22.191Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5ba70112-e30d-443e-b421-780ca8a8fc10",
+            "brand": "Sauer, Rodriguez and Hartmann",
+            "tasks_completed": [
+                {
+                    "task_id": "02f154b5-1722-432c-afc3-96555e570cdb",
+                    "platform": "TikTok",
+                    "post_url": "https://glaring-guide.biz",
+                    "likes": 94,
+                    "comments": 17,
+                    "shares": 41,
+                    "reach": 2302
+                }
+            ],
+            "total_sales_attributed": 848.6783143777286
+        }
+    ]
+}

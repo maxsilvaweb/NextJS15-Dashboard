@@ -1,0 +1,26 @@
+{
+    "user_id": "6588a44a-f9de-4413-827f-cb2bcd9a4c85",
+    "name": "David Cole",
+    "email": "Meggie.Kassulke99@gmail.com",
+    "instagram_handle": "@Vergie55",
+    "tiktok_handle": "@Ottis.Wisoky8",
+    "joined_at": "2024-05-26T08:07:10.629Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3066b484-8fc5-41fb-8a3b-8578f5f23a6a",
+            "brand": "Franey - Christiansen",
+            "tasks_completed": [
+                {
+                    "task_id": "d5823949-2c1d-4d31-a654-f65330df48ed",
+                    "platform": "TikTok",
+                    "post_url": "https://gummy-complication.com/",
+                    "likes": 427,
+                    "comments": 35,
+                    "shares": 57,
+                    "reach": 2638
+                }
+            ],
+            "total_sales_attributed": 418.8120269237333
+        }
+    ]
+}

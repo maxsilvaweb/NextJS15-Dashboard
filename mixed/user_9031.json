@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-12-21T22:11:15.163Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "22a78bb1-8298-408c-810a-16cc7f7c8b9c",
+                    "platform": 123,
+                    "post_url": "https://awesome-bandwidth.info",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 59,
+                    "reach": 8776
+                }
+            ],
+            "total_sales_attributed": 3910.5710222317866
+        }
+    ]
+}

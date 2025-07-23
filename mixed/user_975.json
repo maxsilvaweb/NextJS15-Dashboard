@@ -1,0 +1,26 @@
+{
+    "user_id": "8860c6d3-dfdd-4c51-a904-87c1596ab5eb",
+    "name": "???",
+    "email": "Dariana_Zulauf@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Haag, Fritsch and Roberts",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 40,
+                    "reach": 4810
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

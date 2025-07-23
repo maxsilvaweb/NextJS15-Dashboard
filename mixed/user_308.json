@@ -1,0 +1,26 @@
+{
+    "user_id": "bf4eb29d-ca75-4fd9-ab33-389852b0db5b",
+    "name": "Manuel Crona",
+    "email": "Dayna.OKon@hotmail.com",
+    "instagram_handle": "@Van26",
+    "tiktok_handle": "@Muriel_Brekke",
+    "joined_at": "2024-07-18T22:58:08.559Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0506f9c6-d758-4ea9-8d6e-9c633ee92665",
+            "brand": "Gerhold Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "a0e15719-3c1a-452f-936c-150760dfe35f",
+                    "platform": "TikTok",
+                    "post_url": "https://prickly-forgery.name/",
+                    "likes": 326,
+                    "comments": 49,
+                    "shares": 81,
+                    "reach": 8594
+                }
+            ],
+            "total_sales_attributed": 2513.5867284817105
+        }
+    ]
+}

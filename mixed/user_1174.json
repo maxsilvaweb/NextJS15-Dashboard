@@ -1,0 +1,26 @@
+{
+    "user_id": "6d20951f-03fb-4514-97b6-da4f169da59a",
+    "name": "Jan Mueller",
+    "email": "Dayne34@yahoo.com",
+    "instagram_handle": "@Wilfrid_Satterfield50",
+    "tiktok_handle": "@Rafaela_Gibson",
+    "joined_at": "2025-03-15T10:30:30.257Z",
+    "advocacy_programs": [
+        {
+            "program_id": "39fad8ba-01d9-481b-b2e8-91778841ae87",
+            "brand": "Leuschke - Streich",
+            "tasks_completed": [
+                {
+                    "task_id": "22494b3b-4986-45c1-88e5-9ed09582a1d8",
+                    "platform": "Instagram",
+                    "post_url": "https://far-willow.name/",
+                    "likes": 457,
+                    "comments": 31,
+                    "shares": 41,
+                    "reach": 2411
+                }
+            ],
+            "total_sales_attributed": 1312.305443631934
+        }
+    ]
+}

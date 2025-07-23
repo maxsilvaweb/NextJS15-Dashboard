@@ -1,0 +1,26 @@
+{
+    "user_id": "d8aa4544-b7f4-41bd-ac31-393a19485536",
+    "name": "Ricky Kris",
+    "email": "Katelynn76@gmail.com",
+    "instagram_handle": "@Jadyn_Dietrich47",
+    "tiktok_handle": "@Humberto_Wyman",
+    "joined_at": "2024-10-16T06:38:41.069Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3f5207a9-9467-408e-b61c-274ae8713601",
+            "brand": "Harber and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "cdabec1b-e1a0-43c4-b8e7-7f2672c4699b",
+                    "platform": "Instagram",
+                    "post_url": "https://punctual-tabletop.org/",
+                    "likes": 297,
+                    "comments": 39,
+                    "shares": 19,
+                    "reach": 5216
+                }
+            ],
+            "total_sales_attributed": 3336.1222571270246
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-07-02T22:46:35.509Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "1699fde2-165c-41bd-b3e4-9d794369d02b",
+                    "platform": 123,
+                    "post_url": "https://cultivated-legging.net",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 33,
+                    "reach": 6320
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "40c3e2dc-c27c-4e33-8df6-abb88f66667f",
+    "name": "???",
+    "email": "Santina94@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 87,
+                    "reach": 8310
+                }
+            ],
+            "total_sales_attributed": 1339.868738826134
+        }
+    ]
+}

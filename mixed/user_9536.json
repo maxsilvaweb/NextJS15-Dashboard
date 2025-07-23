@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Lempi81",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "660beaba-9636-47b8-87c3-286b53942d13",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 34,
+                    "shares": 2,
+                    "reach": 8593
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

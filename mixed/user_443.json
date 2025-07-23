@@ -1,0 +1,26 @@
+{
+    "user_id": "9e271872-1737-476d-bd7f-3eed774c70c3",
+    "name": "Sylvester Graham",
+    "email": "Lisandro84@hotmail.com",
+    "instagram_handle": "@Alicia_Rempel63",
+    "tiktok_handle": "@Vallie.Wisoky38",
+    "joined_at": "2024-09-17T19:44:33.135Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6a9d5c4f-6bd1-4413-922f-eeaf07358e1d",
+            "brand": "Jenkins Group",
+            "tasks_completed": [
+                {
+                    "task_id": "e5597fd3-5190-4833-87a0-d8581491940a",
+                    "platform": "TikTok",
+                    "post_url": "https://flustered-instance.com/",
+                    "likes": 253,
+                    "comments": 20,
+                    "shares": 82,
+                    "reach": 8127
+                }
+            ],
+            "total_sales_attributed": 2503.58595238177
+        }
+    ]
+}

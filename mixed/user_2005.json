@@ -1,0 +1,26 @@
+{
+    "user_id": "c0a97164-ce24-41ae-a77f-df8f5e632b02",
+    "name": "Joe Deckow",
+    "email": "Kacey.Fadel84@yahoo.com",
+    "instagram_handle": "@Darwin90",
+    "tiktok_handle": "@Douglas.Lindgren86",
+    "joined_at": "2025-01-29T23:42:31.845Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3a428200-56a7-4095-bacd-5b6c7ad36e49",
+            "brand": "Aufderhar, Fisher and Balistreri",
+            "tasks_completed": [
+                {
+                    "task_id": "fe2cf3ed-c04e-45d5-a838-8923506ecaf8",
+                    "platform": "TikTok",
+                    "post_url": "https://personal-signature.net",
+                    "likes": 499,
+                    "comments": 25,
+                    "shares": 46,
+                    "reach": 5952
+                }
+            ],
+            "total_sales_attributed": 4005.332169907606
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "03fc528d-6204-476a-b74a-82e1aa3a7c4f",
+    "name": "Mrs. Lillie Weimann V",
+    "email": "Hunter73@yahoo.com",
+    "instagram_handle": "@Marcelina.Schuster",
+    "tiktok_handle": "@Constance_Haley",
+    "joined_at": "2024-12-16T07:56:56.066Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a5fd9e66-adae-4599-a0a2-fdae0024b93b",
+            "brand": "Schmidt - Toy",
+            "tasks_completed": [
+                {
+                    "task_id": "6c0465a7-a996-4b08-86fe-c32b33ce4c25",
+                    "platform": "Instagram",
+                    "post_url": "https://easy-parsnip.info/",
+                    "likes": 475,
+                    "comments": 48,
+                    "shares": 51,
+                    "reach": 6066
+                }
+            ],
+            "total_sales_attributed": 526.8726735113246
+        }
+    ]
+}

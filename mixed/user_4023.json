@@ -1,0 +1,26 @@
+{
+    "user_id": "23df0293-16da-4281-823f-d6bc0ab8deaa",
+    "name": "Elena Abbott",
+    "email": "Hank_Bahringer17@yahoo.com",
+    "instagram_handle": "@Marilie_Windler44",
+    "tiktok_handle": "@Vinnie.Bayer25",
+    "joined_at": "2024-12-03T08:22:59.254Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0724c631-a991-40c7-b57b-3f3e7a4b5d0b",
+            "brand": "Hartmann, Lebsack and Harber",
+            "tasks_completed": [
+                {
+                    "task_id": "f51b1b33-60d6-4a58-bf2d-661700e4cd81",
+                    "platform": "TikTok",
+                    "post_url": "https://courageous-fibre.org",
+                    "likes": 206,
+                    "comments": 36,
+                    "shares": 31,
+                    "reach": 3945
+                }
+            ],
+            "total_sales_attributed": 4748.148857189244
+        }
+    ]
+}

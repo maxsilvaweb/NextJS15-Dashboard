@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Adolphus.Predovic63@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Bertram9",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 94,
+                    "reach": 1265
+                }
+            ],
+            "total_sales_attributed": 328.7534008943493
+        }
+    ]
+}

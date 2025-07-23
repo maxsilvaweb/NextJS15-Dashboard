@@ -1,0 +1,26 @@
+{
+    "user_id": "c21fcb6c-8c09-4332-8e26-b6709ee23785",
+    "name": "Ann Hettinger",
+    "email": "Beverly.Funk@hotmail.com",
+    "instagram_handle": "@Alverta_Schowalter82",
+    "tiktok_handle": "@Roxane60",
+    "joined_at": "2024-09-19T12:52:29.230Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ba6bd396-284e-4127-bb84-3318d7dc7825",
+            "brand": "Collins, Lueilwitz and Heller",
+            "tasks_completed": [
+                {
+                    "task_id": "d9b8b78b-93f7-408e-8871-8a4b54785842",
+                    "platform": "Instagram",
+                    "post_url": "https://heavy-technologist.com/",
+                    "likes": 297,
+                    "comments": 30,
+                    "shares": 80,
+                    "reach": 4363
+                }
+            ],
+            "total_sales_attributed": 3534.962114747052
+        }
+    ]
+}

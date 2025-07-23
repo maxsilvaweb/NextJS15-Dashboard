@@ -1,0 +1,26 @@
+{
+    "user_id": "e5886e90-b335-4f11-b2d6-5bf5659beac0",
+    "name": "Karen Daugherty II",
+    "email": "Norberto.White12@hotmail.com",
+    "instagram_handle": "@Ewell42",
+    "tiktok_handle": "@Blaze_Powlowski",
+    "joined_at": "2024-12-04T01:35:58.606Z",
+    "advocacy_programs": [
+        {
+            "program_id": "27a8bdd9-9fbf-48b9-a9ad-939b862c5f0a",
+            "brand": "Pouros, Jacobson and Prosacco",
+            "tasks_completed": [
+                {
+                    "task_id": "ad232554-072c-4479-a1d9-3cfb45930250",
+                    "platform": "Instagram",
+                    "post_url": "https://soupy-zen.biz",
+                    "likes": 265,
+                    "comments": 38,
+                    "shares": 28,
+                    "reach": 9303
+                }
+            ],
+            "total_sales_attributed": 1593.7464370726464
+        }
+    ]
+}

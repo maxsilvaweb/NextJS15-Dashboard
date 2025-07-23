@@ -1,0 +1,26 @@
+{
+    "user_id": "ca5dc5ca-f552-4a91-b6f4-e00dbd51640d",
+    "name": "Marty Kilback",
+    "email": "Hettie.Johnson@gmail.com",
+    "instagram_handle": "@Orval95",
+    "tiktok_handle": "@Marley68",
+    "joined_at": "2024-07-24T21:12:05.741Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2ff35284-e77c-4329-a43f-7b30e57f7776",
+            "brand": "Hilll, Mante and Treutel",
+            "tasks_completed": [
+                {
+                    "task_id": "1fc682a0-a7a0-4733-9d51-9f1c8ef3c418",
+                    "platform": "TikTok",
+                    "post_url": "https://funny-traditionalism.org",
+                    "likes": 419,
+                    "comments": 11,
+                    "shares": 10,
+                    "reach": 3052
+                }
+            ],
+            "total_sales_attributed": 1161.6207193565665
+        }
+    ]
+}

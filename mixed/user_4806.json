@@ -1,0 +1,26 @@
+{
+    "user_id": "4ed7503f-da49-4e05-aa44-ad1331e83f03",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Zieme and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://impolite-creator.com",
+                    "likes": 219,
+                    "comments": null,
+                    "shares": 93,
+                    "reach": 4834
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

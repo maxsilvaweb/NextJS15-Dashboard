@@ -1,0 +1,26 @@
+{
+    "user_id": "b6393f04-79e7-4bf3-8604-7f493739fe66",
+    "name": "Judy Armstrong",
+    "email": "Mohammad_Denesik@gmail.com",
+    "instagram_handle": "@Mayra_Veum98",
+    "tiktok_handle": "@Kaitlin_Osinski59",
+    "joined_at": "2024-04-09T00:19:31.892Z",
+    "advocacy_programs": [
+        {
+            "program_id": "75b2e8b3-fb5e-4cac-a311-4be8cb36810b",
+            "brand": "Hintz - Kuvalis",
+            "tasks_completed": [
+                {
+                    "task_id": "58a737a4-8e97-4cef-86ef-a31927c65c82",
+                    "platform": "Instagram",
+                    "post_url": "https://cautious-step-mother.com",
+                    "likes": 210,
+                    "comments": 34,
+                    "shares": 90,
+                    "reach": 6863
+                }
+            ],
+            "total_sales_attributed": 1352.10655465958
+        }
+    ]
+}

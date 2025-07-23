@@ -1,0 +1,26 @@
+{
+    "user_id": "a645975c-8878-4e8f-bf04-804d2a7f5d85",
+    "name": "Carroll Lueilwitz",
+    "email": "Korey.Roberts@hotmail.com",
+    "instagram_handle": "@Ford_Sporer",
+    "tiktok_handle": "@Eusebio_Torp",
+    "joined_at": "2024-07-30T11:08:50.265Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bf66de14-d47c-4876-8519-f923d73a9fa9",
+            "brand": "Wolf - Franey",
+            "tasks_completed": [
+                {
+                    "task_id": "876d0efa-81c9-4255-8c61-7bb75c953aaf",
+                    "platform": "TikTok",
+                    "post_url": "https://giving-marathon.net",
+                    "likes": 415,
+                    "comments": 44,
+                    "shares": 44,
+                    "reach": 5990
+                }
+            ],
+            "total_sales_attributed": 4300.48122651316
+        }
+    ]
+}

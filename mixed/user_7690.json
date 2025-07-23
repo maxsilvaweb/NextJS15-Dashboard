@@ -1,0 +1,26 @@
+{
+    "user_id": "97be876a-645d-4b04-92e2-73c053783aa0",
+    "name": "Candice Swaniawski",
+    "email": "Cary_Schinner@hotmail.com",
+    "instagram_handle": "@Linnie.Nader",
+    "tiktok_handle": "@Jermain.Hegmann",
+    "joined_at": "2024-12-16T19:36:22.416Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e51ae879-d09f-4b2d-9611-6da342695e7f",
+            "brand": "Walter, Gottlieb and Huels",
+            "tasks_completed": [
+                {
+                    "task_id": "e694bc30-c4e1-47bb-8674-1aee842d762d",
+                    "platform": "TikTok",
+                    "post_url": "https://bulky-vicinity.org/",
+                    "likes": 191,
+                    "comments": 39,
+                    "shares": 61,
+                    "reach": 5698
+                }
+            ],
+            "total_sales_attributed": 1261.6078263144213
+        }
+    ]
+}

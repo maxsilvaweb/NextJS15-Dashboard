@@ -1,0 +1,26 @@
+{
+    "user_id": "b6cce509-e489-4ca2-9c6e-af89498da0a0",
+    "name": "Javier Bogisich",
+    "email": "Makenna.Keebler24@gmail.com",
+    "instagram_handle": "@Alek_Dibbert",
+    "tiktok_handle": "@Rory63",
+    "joined_at": "2024-10-29T22:00:26.516Z",
+    "advocacy_programs": [
+        {
+            "program_id": "be5a9395-0a2f-495b-b768-ce405fcc7393",
+            "brand": "Johnson - Stracke",
+            "tasks_completed": [
+                {
+                    "task_id": "32462044-3ab2-4044-ab48-e8834ccddb98",
+                    "platform": "Instagram",
+                    "post_url": "https://favorite-dead.biz",
+                    "likes": 136,
+                    "comments": 15,
+                    "shares": 9,
+                    "reach": 3737
+                }
+            ],
+            "total_sales_attributed": 4174.148469930735
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "afa46260-e4e3-475f-a1af-3b7aa9d2d029",
+    "name": "Alexis Halvorson",
+    "email": "Bobbie72@gmail.com",
+    "instagram_handle": "@Lori_Cassin",
+    "tiktok_handle": "@Mitchell16",
+    "joined_at": "2024-07-01T22:41:35.104Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2876e7d6-aa76-488c-b85a-815cba297a54",
+            "brand": "Gulgowski LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e3a2d603-0350-42fc-9889-03b4153b388b",
+                    "platform": "Instagram",
+                    "post_url": "https://cautious-wear.biz",
+                    "likes": 438,
+                    "comments": 34,
+                    "shares": 85,
+                    "reach": 1745
+                }
+            ],
+            "total_sales_attributed": 4521.131365670731
+        }
+    ]
+}

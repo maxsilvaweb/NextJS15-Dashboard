@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Bertram88@hotmail.com",
+    "instagram_handle": "@Amira_Jacobi",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "bdbdfded-4da8-4eff-bc16-cda46af356d0",
+            "brand": "Kohler - Homenick",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 317,
+                    "comments": null,
+                    "shares": 60,
+                    "reach": 3702
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

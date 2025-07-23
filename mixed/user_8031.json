@@ -1,0 +1,26 @@
+{
+    "user_id": "34351c0c-0fef-4bee-aa46-36b1c93206ea",
+    "name": "Omar Sawayn",
+    "email": "Shawna.Adams93@gmail.com",
+    "instagram_handle": "@Fidel.Nienow88",
+    "tiktok_handle": "@Carson.Jerde",
+    "joined_at": "2024-09-23T22:00:24.498Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cd7549ca-7f1a-4ef9-a98c-a41ca2d9df93",
+            "brand": "Hermiston - Bogan",
+            "tasks_completed": [
+                {
+                    "task_id": "d8aa5127-87f8-4b4e-82a5-f62ed79e9b82",
+                    "platform": "Instagram",
+                    "post_url": "https://monstrous-design.info",
+                    "likes": 491,
+                    "comments": 38,
+                    "shares": 89,
+                    "reach": 4555
+                }
+            ],
+            "total_sales_attributed": 4454.501523254846
+        }
+    ]
+}

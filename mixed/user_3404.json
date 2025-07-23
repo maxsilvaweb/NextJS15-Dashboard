@@ -1,0 +1,26 @@
+{
+    "user_id": "19f381c7-5361-4fcb-8035-31e1a1932d06",
+    "name": "Donna Bartell I",
+    "email": "Rowena.Homenick83@yahoo.com",
+    "instagram_handle": "@Paul.Koss96",
+    "tiktok_handle": "@Madonna29",
+    "joined_at": "2025-01-02T03:30:22.434Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7c282d85-ddbb-4b51-9367-0457017f1ed5",
+            "brand": "Morissette LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2d45d464-58aa-418e-93d3-d0bff70c549d",
+                    "platform": "Instagram",
+                    "post_url": "https://little-hubris.com/",
+                    "likes": 386,
+                    "comments": 32,
+                    "shares": 97,
+                    "reach": 8952
+                }
+            ],
+            "total_sales_attributed": 4254.020314314968
+        }
+    ]
+}

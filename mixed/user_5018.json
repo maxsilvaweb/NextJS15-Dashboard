@@ -1,0 +1,26 @@
+{
+    "user_id": "43035d18-fd4d-401d-95e6-8589c4c49b1c",
+    "name": "Dr. Ida Blanda",
+    "email": "Callie.Turcotte-Armstrong@gmail.com",
+    "instagram_handle": "@Stella46",
+    "tiktok_handle": "@Cruz4",
+    "joined_at": "2024-09-18T11:53:16.700Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5edd3cc8-6e2f-4d61-91d6-24d32ac39736",
+            "brand": "Bradtke - Stehr",
+            "tasks_completed": [
+                {
+                    "task_id": "5284d2dd-de44-4600-ba24-abf944cd46c5",
+                    "platform": "Instagram",
+                    "post_url": "https://unripe-fedora.org",
+                    "likes": 183,
+                    "comments": 39,
+                    "shares": 30,
+                    "reach": 2963
+                }
+            ],
+            "total_sales_attributed": 2445.6489293855366
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9a610190-775b-4db5-8e60-dbf3346aa975",
+    "name": "Carlton Osinski DVM",
+    "email": "Myra8@yahoo.com",
+    "instagram_handle": "@Rhett.Harber",
+    "tiktok_handle": "@Drew_Wilkinson47",
+    "joined_at": "2025-02-08T07:35:11.009Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ce0eefbb-31a2-4e24-8edf-5a68d64c8594",
+            "brand": "Crooks Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "39630edb-2499-46b9-9bf6-0c061fe34508",
+                    "platform": "TikTok",
+                    "post_url": "https://timely-outset.org",
+                    "likes": 462,
+                    "comments": 19,
+                    "shares": 69,
+                    "reach": 2821
+                }
+            ],
+            "total_sales_attributed": 4842.775946313333
+        }
+    ]
+}

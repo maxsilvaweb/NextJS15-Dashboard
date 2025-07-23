@@ -1,0 +1,26 @@
+{
+    "user_id": "ba969753-a2c6-45db-8a40-4505f15465d0",
+    "name": "Melanie Koss",
+    "email": "Elliott_Nicolas54@gmail.com",
+    "instagram_handle": "@Delta.Weissnat",
+    "tiktok_handle": "@Pasquale9",
+    "joined_at": "2024-11-26T00:50:35.772Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cdc35120-e256-4983-bf21-4fcc00736b79",
+            "brand": "Heathcote, Tromp and Marquardt",
+            "tasks_completed": [
+                {
+                    "task_id": "d5626ae8-8101-4c80-a5ff-3684f130cb0f",
+                    "platform": "TikTok",
+                    "post_url": "https://obvious-vibraphone.name/",
+                    "likes": 490,
+                    "comments": 15,
+                    "shares": 34,
+                    "reach": 8321
+                }
+            ],
+            "total_sales_attributed": 572.3712121099961
+        }
+    ]
+}

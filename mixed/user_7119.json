@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "cf5d80b0-1748-4f8c-bfa7-6fd7abc99dca",
+                    "platform": "Facebook",
+                    "post_url": "https://trained-deer.net/",
+                    "likes": 313,
+                    "comments": null,
+                    "shares": 41,
+                    "reach": 5104
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

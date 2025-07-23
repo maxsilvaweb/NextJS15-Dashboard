@@ -1,0 +1,26 @@
+{
+    "user_id": "f1633269-61ff-4ff4-b97d-24f6ea5e7e6f",
+    "name": "Mr. Grant Little",
+    "email": "Clementine71@hotmail.com",
+    "instagram_handle": "@Oswaldo_Crist",
+    "tiktok_handle": "@Marietta_Will25",
+    "joined_at": "2024-05-24T17:15:41.599Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3660abae-150b-4287-a3d8-8fe4bfc15aa5",
+            "brand": "Kub Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "158b5892-67fb-4fba-89bd-66a4083eac9b",
+                    "platform": "Instagram",
+                    "post_url": "https://cute-intellect.org/",
+                    "likes": 413,
+                    "comments": 49,
+                    "shares": 97,
+                    "reach": 4945
+                }
+            ],
+            "total_sales_attributed": 4786.265392944525
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "211898de-fd49-4fab-a1c9-a89d225eb545",
+    "name": "Kelly Cassin",
+    "email": "Melissa.Schaefer4@hotmail.com",
+    "instagram_handle": "@Yoshiko_Farrell90",
+    "tiktok_handle": "@Florine_Stamm",
+    "joined_at": "2024-08-31T10:58:08.355Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3d631265-9106-4027-8d16-b79eb018a35f",
+            "brand": "Sauer - Nader",
+            "tasks_completed": [
+                {
+                    "task_id": "2ab93545-90aa-4ee3-bb4a-562ecac6f2d7",
+                    "platform": "Instagram",
+                    "post_url": "https://striking-fishery.biz/",
+                    "likes": 27,
+                    "comments": 23,
+                    "shares": 63,
+                    "reach": 7321
+                }
+            ],
+            "total_sales_attributed": 4625.279731371204
+        }
+    ]
+}

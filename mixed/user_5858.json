@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "d5f25f83-7b87-4144-a8b0-43233637226b",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://square-vanadyl.org",
+                    "likes": "NaN",
+                    "comments": 42,
+                    "shares": 35,
+                    "reach": 5310
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

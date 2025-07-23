@@ -1,0 +1,26 @@
+{
+    "user_id": "10cb8c4e-655a-47ce-8891-fab3b8e57525",
+    "name": "Julie Hoppe",
+    "email": "Norwood23@yahoo.com",
+    "instagram_handle": "@Lorenza.Bernier87",
+    "tiktok_handle": "@Ophelia.Reichert",
+    "joined_at": "2025-01-09T16:12:47.348Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3b2a3997-10a5-43de-a7c2-fce2747adb8c",
+            "brand": "Dicki, Cummerata and Connelly",
+            "tasks_completed": [
+                {
+                    "task_id": "63756412-9124-4ec2-9f9f-adc03640da59",
+                    "platform": "TikTok",
+                    "post_url": "https://sentimental-diagram.name/",
+                    "likes": 62,
+                    "comments": 20,
+                    "shares": 58,
+                    "reach": 1638
+                }
+            ],
+            "total_sales_attributed": 4671.43188165785
+        }
+    ]
+}

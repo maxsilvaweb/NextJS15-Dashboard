@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Dooley - Gislason",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://whimsical-declaration.net/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 32,
+                    "reach": 6539
+                }
+            ],
+            "total_sales_attributed": 538.1950476161775
+        }
+    ]
+}

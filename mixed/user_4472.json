@@ -1,0 +1,26 @@
+{
+    "user_id": "a22df34f-3416-4aa6-a531-fe976ac7232f",
+    "name": "Kent Barton",
+    "email": "Zetta30@yahoo.com",
+    "instagram_handle": "@Noel32",
+    "tiktok_handle": "@Zora_Ondricka",
+    "joined_at": "2024-05-10T04:56:50.003Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1241dd89-0567-45a4-a78c-021b03d58b17",
+            "brand": "Braun Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "22625b89-c4ea-480f-8db8-a65f00d35f48",
+                    "platform": "TikTok",
+                    "post_url": "https://hidden-summer.org",
+                    "likes": 296,
+                    "comments": 49,
+                    "shares": 46,
+                    "reach": 4487
+                }
+            ],
+            "total_sales_attributed": 4983.673139975075
+        }
+    ]
+}

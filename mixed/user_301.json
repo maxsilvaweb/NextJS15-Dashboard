@@ -1,0 +1,26 @@
+{
+    "user_id": "62f89237-0463-4d2a-a5e0-b1e7e226c2dd",
+    "name": "Janice Rempel",
+    "email": "Rusty77@yahoo.com",
+    "instagram_handle": "@Chance_Runolfsdottir22",
+    "tiktok_handle": "@Zachery.Heidenreich",
+    "joined_at": "2025-02-06T11:28:46.628Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d93109e3-362b-4fe7-80d1-10db4f037a54",
+            "brand": "Bartoletti - Stokes",
+            "tasks_completed": [
+                {
+                    "task_id": "e96a5e2b-0fb8-45e8-a0db-9691f4ed153e",
+                    "platform": "TikTok",
+                    "post_url": "https://incomplete-march.biz/",
+                    "likes": 95,
+                    "comments": 40,
+                    "shares": 6,
+                    "reach": 1328
+                }
+            ],
+            "total_sales_attributed": 3913.8850678205404
+        }
+    ]
+}

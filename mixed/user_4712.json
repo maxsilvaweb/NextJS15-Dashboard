@@ -1,0 +1,26 @@
+{
+    "user_id": "69fae1f8-5744-480f-bef4-43846b846dff",
+    "name": "Dave Lebsack",
+    "email": "Sebastian.Yost@gmail.com",
+    "instagram_handle": "@Jamaal58",
+    "tiktok_handle": "@Diego.McLaughlin25",
+    "joined_at": "2025-02-19T20:32:30.932Z",
+    "advocacy_programs": [
+        {
+            "program_id": "12b50295-0afc-4a84-9247-078da65e30b1",
+            "brand": "Emard, Hermann and D'Amore",
+            "tasks_completed": [
+                {
+                    "task_id": "fa206496-d5a4-49a0-93d9-9a5e8abbf481",
+                    "platform": "TikTok",
+                    "post_url": "https://muddy-festival.net",
+                    "likes": 315,
+                    "comments": 30,
+                    "shares": 1,
+                    "reach": 8654
+                }
+            ],
+            "total_sales_attributed": 4651.374123117611
+        }
+    ]
+}

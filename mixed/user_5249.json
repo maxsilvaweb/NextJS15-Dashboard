@@ -1,0 +1,26 @@
+{
+    "user_id": "7afc7c1d-2f35-4370-92a4-020a10574bfb",
+    "name": "Valerie Bartell",
+    "email": "Sherwood_Senger87@hotmail.com",
+    "instagram_handle": "@Felipa.Klocko",
+    "tiktok_handle": "@Eino_Pouros75",
+    "joined_at": "2025-01-23T20:05:46.501Z",
+    "advocacy_programs": [
+        {
+            "program_id": "975726d3-48a6-425b-9d48-64c100e1a7e5",
+            "brand": "Sauer, VonRueden and Bosco",
+            "tasks_completed": [
+                {
+                    "task_id": "5b354cb4-517c-4e9a-b1e6-503150e0fce8",
+                    "platform": "Instagram",
+                    "post_url": "https://chubby-convection.name",
+                    "likes": 249,
+                    "comments": 10,
+                    "shares": 87,
+                    "reach": 9622
+                }
+            ],
+            "total_sales_attributed": 2139.9129550165244
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Murray - Wehner",
+            "tasks_completed": [
+                {
+                    "task_id": "635acb2a-e302-4eb5-9aa8-317df054a076",
+                    "platform": 123,
+                    "post_url": "https://glass-nucleotidase.com/",
+                    "likes": "NaN",
+                    "comments": 1,
+                    "shares": 16,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

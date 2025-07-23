@@ -1,0 +1,26 @@
+{
+    "user_id": "4db09547-9bc1-49af-a0e3-aa5433adedaf",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://wee-singing.com/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 100,
+                    "reach": 3205
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

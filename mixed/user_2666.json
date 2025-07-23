@@ -1,0 +1,26 @@
+{
+    "user_id": "d4d9135a-eb85-4e46-b06e-9d31fa5e2efa",
+    "name": "Lowell Towne",
+    "email": "Demetrius.Spinka@hotmail.com",
+    "instagram_handle": "@Ethelyn.Streich",
+    "tiktok_handle": "@Dominique.Collier63",
+    "joined_at": "2024-04-30T17:00:11.855Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3a59f9a7-fb1d-4413-bd10-f9793d2728c9",
+            "brand": "Gutkowski and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "9e198070-4c70-4114-ba87-abe31e6e344b",
+                    "platform": "TikTok",
+                    "post_url": "https://energetic-vicinity.name",
+                    "likes": 110,
+                    "comments": 3,
+                    "shares": 27,
+                    "reach": 7187
+                }
+            ],
+            "total_sales_attributed": 4562.744604751808
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "27a5c0c9-dc09-43ed-82e7-7ae2ab460dcd",
+    "name": "Andy Kunze",
+    "email": "Leonardo1@hotmail.com",
+    "instagram_handle": "@Urban.Hansen",
+    "tiktok_handle": "@Anabelle_Schmitt",
+    "joined_at": "2024-10-05T21:12:23.446Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8116f2a6-f7d9-4998-aa22-24247a7cb67f",
+            "brand": "Boyer, Skiles and Muller",
+            "tasks_completed": [
+                {
+                    "task_id": "83c05836-e85d-4b54-969e-3d1500dff36e",
+                    "platform": "Instagram",
+                    "post_url": "https://paltry-gazebo.name/",
+                    "likes": 16,
+                    "comments": 43,
+                    "shares": 13,
+                    "reach": 6882
+                }
+            ],
+            "total_sales_attributed": 4136.968863783886
+        }
+    ]
+}

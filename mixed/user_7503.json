@@ -1,0 +1,26 @@
+{
+    "user_id": "f03fc2e6-23c0-4d55-943d-a8836ae9addc",
+    "name": "Mary Stanton",
+    "email": "Jacquelyn_White-Auer8@hotmail.com",
+    "instagram_handle": "@Donnell95",
+    "tiktok_handle": "@Dejah_Jacobi-Wehner50",
+    "joined_at": "2024-11-30T04:32:30.618Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cc232072-e0a7-4987-8e46-e729c8c23247",
+            "brand": "Emard - Wilkinson",
+            "tasks_completed": [
+                {
+                    "task_id": "37bec70f-c3b8-415b-bc6c-1f2f8eaf7902",
+                    "platform": "TikTok",
+                    "post_url": "https://writhing-technologist.org",
+                    "likes": 330,
+                    "comments": 27,
+                    "shares": 47,
+                    "reach": 6671
+                }
+            ],
+            "total_sales_attributed": 1222.1309161227912
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bd1489cf-69c5-4662-9fcb-909ceaeb7eeb",
+    "name": "Pauline Torphy MD",
+    "email": "Blanche57@gmail.com",
+    "instagram_handle": "@Nikki32",
+    "tiktok_handle": "@Trystan_Collier",
+    "joined_at": "2025-03-04T02:40:12.014Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b766f22a-f0ee-4bbb-bbf7-990242b08adc",
+            "brand": "Luettgen LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c1b22a43-4cb5-406e-af85-06ee101eb0e1",
+                    "platform": "Instagram",
+                    "post_url": "https://whirlwind-poppy.biz",
+                    "likes": 400,
+                    "comments": 34,
+                    "shares": 58,
+                    "reach": 3126
+                }
+            ],
+            "total_sales_attributed": 733.227093124817
+        }
+    ]
+}

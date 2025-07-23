@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Donna Conn",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Konopelski, Hills and Upton",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 16,
+                    "shares": 5,
+                    "reach": 5403
+                }
+            ],
+            "total_sales_attributed": 1747.1125790511792
+        }
+    ]
+}

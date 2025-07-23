@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Schmeler - Bartell",
+            "tasks_completed": [
+                {
+                    "task_id": "55c8b0fd-9d3d-46ce-954b-83153585f178",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 21,
+                    "reach": 5230
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

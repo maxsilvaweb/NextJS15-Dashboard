@@ -1,0 +1,26 @@
+{
+    "user_id": "734f0fb8-2827-4c94-992b-13f4bda7b704",
+    "name": "June Hackett",
+    "email": "Rudolph58@gmail.com",
+    "instagram_handle": "@Juanita48",
+    "tiktok_handle": "@Hallie.Pollich",
+    "joined_at": "2025-03-13T02:24:40.800Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cd9bd934-86e2-444f-bdab-f3fff4e30d5c",
+            "brand": "Sauer, Veum and Simonis",
+            "tasks_completed": [
+                {
+                    "task_id": "79a2c62d-5644-44c8-b1c4-e28f857b1afe",
+                    "platform": "TikTok",
+                    "post_url": "https://bony-pressure.info/",
+                    "likes": 153,
+                    "comments": 13,
+                    "shares": 18,
+                    "reach": 7506
+                }
+            ],
+            "total_sales_attributed": 1303.8297250173352
+        }
+    ]
+}

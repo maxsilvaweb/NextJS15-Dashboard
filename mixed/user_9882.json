@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Hermann.OConner@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "1d4fb4d1-fe6f-478d-9aef-59f2bfbfee2d",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 316,
+                    "comments": 8,
+                    "shares": 97,
+                    "reach": 8833
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7ecd7bb2-fdcb-43c9-b6e8-20ee70efa3cc",
+    "name": "Ms. Colleen Wiza MD",
+    "email": "Brent.Robel@yahoo.com",
+    "instagram_handle": "@Woodrow_Renner",
+    "tiktok_handle": "@Leta.Sanford",
+    "joined_at": "2024-07-16T17:30:48.969Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b73bfe1d-90ce-4663-bd2a-f8712ac05814",
+            "brand": "Hammes - Collier",
+            "tasks_completed": [
+                {
+                    "task_id": "262f51b6-8ac8-4217-8791-64068c403cd8",
+                    "platform": "Instagram",
+                    "post_url": "https://buttery-decryption.name/",
+                    "likes": 54,
+                    "comments": 11,
+                    "shares": 78,
+                    "reach": 8845
+                }
+            ],
+            "total_sales_attributed": 4220.9532265808175
+        }
+    ]
+}

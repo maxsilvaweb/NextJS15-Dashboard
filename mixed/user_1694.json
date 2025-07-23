@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Barney.Grady9@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "46e0e96a-3999-44ae-a9b5-44e76e02bf3f",
+                    "platform": "Facebook",
+                    "post_url": "https://tempting-cap.name",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 63,
+                    "reach": 7950
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

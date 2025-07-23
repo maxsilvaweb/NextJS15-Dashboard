@@ -1,0 +1,26 @@
+{
+    "user_id": "3c2cc36b-5557-42b7-ab40-96f9eb468972",
+    "name": "Erma Durgan",
+    "email": "Hal_Quitzon@gmail.com",
+    "instagram_handle": "@Frankie.Hayes",
+    "tiktok_handle": "@Maxie.Schneider",
+    "joined_at": "2024-11-21T21:06:54.782Z",
+    "advocacy_programs": [
+        {
+            "program_id": "891585a8-4438-40f1-9d5a-1eb2c6924d49",
+            "brand": "Schmitt, Huels and Larkin",
+            "tasks_completed": [
+                {
+                    "task_id": "9267e8f3-6fea-4ba0-b92d-dcb581c28bba",
+                    "platform": "TikTok",
+                    "post_url": "https://forsaken-deed.org",
+                    "likes": 215,
+                    "comments": 32,
+                    "shares": 85,
+                    "reach": 8510
+                }
+            ],
+            "total_sales_attributed": 3283.4949743139696
+        }
+    ]
+}

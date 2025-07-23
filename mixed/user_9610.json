@@ -1,0 +1,26 @@
+{
+    "user_id": "ccb25b89-3c2c-4806-8704-33967e50286a",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-12-13T12:02:10.640Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 23,
+                    "shares": 45,
+                    "reach": 8039
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

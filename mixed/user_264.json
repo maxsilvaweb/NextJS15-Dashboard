@@ -1,0 +1,26 @@
+{
+    "user_id": "fa566845-77fd-4a2f-ab69-6bf6a3b707be",
+    "name": "Leona Veum",
+    "email": "Keith_Hahn@gmail.com",
+    "instagram_handle": "@Laurence_Crist",
+    "tiktok_handle": "@Zetta_Sporer",
+    "joined_at": "2025-01-06T02:52:29.056Z",
+    "advocacy_programs": [
+        {
+            "program_id": "98d534a6-0d47-425e-8d65-c122f94e1903",
+            "brand": "Brown, Keebler and Runolfsson",
+            "tasks_completed": [
+                {
+                    "task_id": "7d184797-01e9-427a-8843-add6dae90099",
+                    "platform": "TikTok",
+                    "post_url": "https://cruel-ravioli.com",
+                    "likes": 189,
+                    "comments": 22,
+                    "shares": 46,
+                    "reach": 7014
+                }
+            ],
+            "total_sales_attributed": 3301.8013970099646
+        }
+    ]
+}

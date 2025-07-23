@@ -1,0 +1,26 @@
+{
+    "user_id": "3687ee8b-3b56-4479-a6b6-031f7b0e8fc7",
+    "name": "Taylor Pollich",
+    "email": "Michael.Denesik90@yahoo.com",
+    "instagram_handle": "@Mitchel23",
+    "tiktok_handle": "@Reece_Hartmann84",
+    "joined_at": "2024-12-14T05:30:02.948Z",
+    "advocacy_programs": [
+        {
+            "program_id": "13d82e3c-5c1d-438e-9178-c7a00877275f",
+            "brand": "Denesik - Simonis",
+            "tasks_completed": [
+                {
+                    "task_id": "ecad33f2-93a8-40e5-9982-6718340f4254",
+                    "platform": "TikTok",
+                    "post_url": "https://all-forgery.name",
+                    "likes": 428,
+                    "comments": 26,
+                    "shares": 79,
+                    "reach": 4517
+                }
+            ],
+            "total_sales_attributed": 467.59259732386346
+        }
+    ]
+}

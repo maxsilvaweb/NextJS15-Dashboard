@@ -1,0 +1,26 @@
+{
+    "user_id": "11d30fc8-47a8-4ef6-8175-fcaa2ee280bf",
+    "name": "Mabel Corkery IV",
+    "email": "August.Pagac@hotmail.com",
+    "instagram_handle": "@Don_Mertz",
+    "tiktok_handle": "@Adele72",
+    "joined_at": "2024-08-22T15:25:40.475Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fdba0c66-b052-44a3-9db2-f91e7298c4da",
+            "brand": "Hegmann, Von and Hegmann",
+            "tasks_completed": [
+                {
+                    "task_id": "57ff435d-1c53-4720-b110-79739467bb2b",
+                    "platform": "Instagram",
+                    "post_url": "https://bleak-vestment.net/",
+                    "likes": 255,
+                    "comments": 12,
+                    "shares": 96,
+                    "reach": 7857
+                }
+            ],
+            "total_sales_attributed": 946.5011455142225
+        }
+    ]
+}

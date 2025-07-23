@@ -1,0 +1,26 @@
+{
+    "user_id": "35e273b9-377e-4761-99dd-1cb7d6a0735b",
+    "name": "Lauren Lemke",
+    "email": "Asha.Runte@hotmail.com",
+    "instagram_handle": "@Nakia_Metz",
+    "tiktok_handle": "@Michele98",
+    "joined_at": "2025-01-04T12:00:17.729Z",
+    "advocacy_programs": [
+        {
+            "program_id": "77206a2a-c041-4f9e-a0f9-388c08806192",
+            "brand": "Little - Kuvalis",
+            "tasks_completed": [
+                {
+                    "task_id": "f1c98784-0a94-494f-bd83-220ca9f87808",
+                    "platform": "TikTok",
+                    "post_url": "https://sentimental-shoulder.name",
+                    "likes": 323,
+                    "comments": 6,
+                    "shares": 21,
+                    "reach": 7205
+                }
+            ],
+            "total_sales_attributed": 583.6125384792688
+        }
+    ]
+}

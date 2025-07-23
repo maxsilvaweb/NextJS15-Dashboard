@@ -1,0 +1,26 @@
+{
+    "user_id": "89962a6e-027c-41c1-a035-d605071d9ddb",
+    "name": "Maggie Wolf",
+    "email": "Enola.Kerluke29@yahoo.com",
+    "instagram_handle": "@Michael_Stokes5",
+    "tiktok_handle": "@Kade29",
+    "joined_at": "2024-05-27T17:12:24.614Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3d490fb4-fa80-4188-a269-2633f30f3c9d",
+            "brand": "Wunsch - Lemke",
+            "tasks_completed": [
+                {
+                    "task_id": "5cf97b48-2b9b-4d9b-942b-5d8fd95b31c1",
+                    "platform": "Instagram",
+                    "post_url": "https://firsthand-plumber.net",
+                    "likes": 204,
+                    "comments": 12,
+                    "shares": 42,
+                    "reach": 7982
+                }
+            ],
+            "total_sales_attributed": 1150.0630900084298
+        }
+    ]
+}

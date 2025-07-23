@@ -1,0 +1,26 @@
+{
+    "user_id": "a19e7ea6-4deb-40e5-b065-f53dbbbe6f20",
+    "name": "Raymond Bergstrom",
+    "email": "Ollie.Jenkins20@gmail.com",
+    "instagram_handle": "@Beaulah66",
+    "tiktok_handle": "@Daija.Mitchell",
+    "joined_at": "2024-10-24T23:17:11.086Z",
+    "advocacy_programs": [
+        {
+            "program_id": "db00925f-0c47-4ccf-b530-e2accc6b0394",
+            "brand": "Spinka - Dickinson",
+            "tasks_completed": [
+                {
+                    "task_id": "45be35af-0305-40f4-8f36-9cfc6de3128e",
+                    "platform": "TikTok",
+                    "post_url": "https://gifted-cinder.com/",
+                    "likes": 272,
+                    "comments": 7,
+                    "shares": 63,
+                    "reach": 8169
+                }
+            ],
+            "total_sales_attributed": 2320.425797510384
+        }
+    ]
+}

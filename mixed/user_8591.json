@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "deba9feb-b180-4946-b221-dc3eb7a52abc",
+            "brand": "Homenick Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "6cb0725a-77a1-4969-b3ca-0e74605da174",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 47,
+                    "shares": 48,
+                    "reach": 1511
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

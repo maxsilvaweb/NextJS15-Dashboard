@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2025-01-12T00:40:53.024Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://naughty-hierarchy.info",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 32,
+                    "reach": 5476
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

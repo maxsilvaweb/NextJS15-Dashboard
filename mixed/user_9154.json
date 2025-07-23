@@ -1,0 +1,26 @@
+{
+    "user_id": "22dcded9-0829-4f79-ac9d-f9ada52032d8",
+    "name": "Elena Grant",
+    "email": "Tyree30@hotmail.com",
+    "instagram_handle": "@Manley.Koss",
+    "tiktok_handle": "@Michaela_DuBuque81",
+    "joined_at": "2024-08-11T03:54:45.242Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0026512c-7ad5-4a12-b42c-a25c0efad695",
+            "brand": "Reichel, Wolff and Schinner",
+            "tasks_completed": [
+                {
+                    "task_id": "28bc1af2-a78f-458d-b96a-963a1b1687c5",
+                    "platform": "TikTok",
+                    "post_url": "https://pleased-swath.org/",
+                    "likes": 269,
+                    "comments": 0,
+                    "shares": 12,
+                    "reach": 6885
+                }
+            ],
+            "total_sales_attributed": 2187.486740707493
+        }
+    ]
+}

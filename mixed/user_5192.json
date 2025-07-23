@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "5dec33ab-dfb2-49cd-99d0-30be3580d611",
+            "brand": "Heaney, Kassulke and McGlynn",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 35,
+                    "reach": 3828
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

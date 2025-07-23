@@ -1,0 +1,26 @@
+{
+    "user_id": "f87f1422-2c48-4849-a496-1521b1fc4e9d",
+    "name": "Mr. Frankie Deckow",
+    "email": "Walton46@hotmail.com",
+    "instagram_handle": "@Audreanne.Schuppe",
+    "tiktok_handle": "@Cleta_OReilly91",
+    "joined_at": "2025-03-16T17:54:14.467Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f2c557f9-4979-4877-8500-8d83cb7f57f4",
+            "brand": "Romaguera - Bergnaum",
+            "tasks_completed": [
+                {
+                    "task_id": "9f6ccbcb-c4e7-4160-acdc-a1f0b2792acb",
+                    "platform": "Instagram",
+                    "post_url": "https://perky-nougat.com/",
+                    "likes": 333,
+                    "comments": 16,
+                    "shares": 14,
+                    "reach": 5259
+                }
+            ],
+            "total_sales_attributed": 4069.2576437644498
+        }
+    ]
+}

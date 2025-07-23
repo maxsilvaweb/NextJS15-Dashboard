@@ -1,0 +1,26 @@
+{
+    "user_id": "be275c05-ec92-422d-8171-1eb5296fe912",
+    "name": "Mr. Carl Mitchell",
+    "email": "Cristina.Ratke69@yahoo.com",
+    "instagram_handle": "@Juvenal_Collins49",
+    "tiktok_handle": "@Bethel0",
+    "joined_at": "2025-02-22T05:32:39.694Z",
+    "advocacy_programs": [
+        {
+            "program_id": "39a967ca-af2a-4035-ac33-45e6c17826c7",
+            "brand": "Breitenberg, Bogan and Armstrong",
+            "tasks_completed": [
+                {
+                    "task_id": "ab356715-d156-4c05-bedc-49309fb4d7b2",
+                    "platform": "TikTok",
+                    "post_url": "https://humble-submitter.name/",
+                    "likes": 109,
+                    "comments": 26,
+                    "shares": 43,
+                    "reach": 4158
+                }
+            ],
+            "total_sales_attributed": 2910.6646608081674
+        }
+    ]
+}

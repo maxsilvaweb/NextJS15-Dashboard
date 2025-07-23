@@ -1,0 +1,26 @@
+{
+    "user_id": "887a64a6-a43a-4aa2-81ac-4a60ae26ccad",
+    "name": "Ms. Carla Muller",
+    "email": "Watson93@yahoo.com",
+    "instagram_handle": "@Olin13",
+    "tiktok_handle": "@Dayton65",
+    "joined_at": "2024-09-27T12:58:30.392Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f8d0266c-7b45-4d98-8e8a-578861ac363f",
+            "brand": "Crona - Schuster",
+            "tasks_completed": [
+                {
+                    "task_id": "b1b73aa1-5a25-4ab7-b973-5fe62cb3b487",
+                    "platform": "Instagram",
+                    "post_url": "https://simple-euphonium.biz/",
+                    "likes": 345,
+                    "comments": 43,
+                    "shares": 38,
+                    "reach": 4955
+                }
+            ],
+            "total_sales_attributed": 170.34753446899484
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Dr. Willis Conroy",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2025-02-19T05:36:44.083Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://dense-meander.com",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 8,
+                    "reach": 7644
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

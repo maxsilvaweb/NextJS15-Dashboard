@@ -1,0 +1,26 @@
+{
+    "user_id": "ef4a6aa9-4c95-45d5-82b0-b874b9cad74f",
+    "name": "Nelson Kutch",
+    "email": "Hollie_Mills97@hotmail.com",
+    "instagram_handle": "@Jules_Cassin-Pfeffer75",
+    "tiktok_handle": "@Baylee_Schneider17",
+    "joined_at": "2024-07-05T19:54:26.648Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d4e92ada-3a7a-4bea-a9f4-6185ed03f2f2",
+            "brand": "Collins Group",
+            "tasks_completed": [
+                {
+                    "task_id": "e0dabc00-d4c8-4043-acf8-6adadfe0e637",
+                    "platform": "TikTok",
+                    "post_url": "https://untrue-schnitzel.net",
+                    "likes": 38,
+                    "comments": 38,
+                    "shares": 18,
+                    "reach": 5407
+                }
+            ],
+            "total_sales_attributed": 2344.3457871458504
+        }
+    ]
+}

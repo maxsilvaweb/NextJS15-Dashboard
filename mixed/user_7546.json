@@ -1,0 +1,26 @@
+{
+    "user_id": "e3b17658-7241-48c0-aca8-8dcbc7878a16",
+    "name": "Pat Reichert",
+    "email": "Maureen0@yahoo.com",
+    "instagram_handle": "@Aurelia.Kuhlman",
+    "tiktok_handle": "@Sidney3",
+    "joined_at": "2025-01-16T17:57:12.756Z",
+    "advocacy_programs": [
+        {
+            "program_id": "726abce6-2fb3-4028-9767-f2ebf9a813dc",
+            "brand": "Lynch - Satterfield",
+            "tasks_completed": [
+                {
+                    "task_id": "495ec305-fe9a-4b2a-89d7-4fc5436d6c27",
+                    "platform": "TikTok",
+                    "post_url": "https://free-tuber.name",
+                    "likes": 157,
+                    "comments": 30,
+                    "shares": 35,
+                    "reach": 3323
+                }
+            ],
+            "total_sales_attributed": 1708.1892452502218
+        }
+    ]
+}

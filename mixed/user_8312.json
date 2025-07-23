@@ -1,0 +1,26 @@
+{
+    "user_id": "a2b46b11-1c47-443c-8e0f-93c4691d6bab",
+    "name": "Dr. Curtis Brakus",
+    "email": "Precious2@hotmail.com",
+    "instagram_handle": "@Sean55",
+    "tiktok_handle": "@Bobby_Gislason69",
+    "joined_at": "2024-03-28T08:10:02.003Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e726079f-4775-4739-a38b-384b6bf94881",
+            "brand": "Boyer, Cummerata and Reinger",
+            "tasks_completed": [
+                {
+                    "task_id": "351b753d-b559-45be-a421-64c23df49ccb",
+                    "platform": "Instagram",
+                    "post_url": "https://polite-pilot.info/",
+                    "likes": 482,
+                    "comments": 49,
+                    "shares": 27,
+                    "reach": 710
+                }
+            ],
+            "total_sales_attributed": 1683.526732563753
+        }
+    ]
+}

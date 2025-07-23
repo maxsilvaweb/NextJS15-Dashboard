@@ -1,0 +1,26 @@
+{
+    "user_id": "6a2b33bb-15e2-4e9e-88eb-77e35a682307",
+    "name": "Arlene Hartmann",
+    "email": "Brent.Koss69@yahoo.com",
+    "instagram_handle": "@Archibald20",
+    "tiktok_handle": "@Jordane_Goldner",
+    "joined_at": "2025-01-24T11:21:01.318Z",
+    "advocacy_programs": [
+        {
+            "program_id": "64d72d1f-09dd-4a87-8882-5c66e31e61e7",
+            "brand": "Walsh Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f2ab696b-39d1-4563-9961-a7203fc1ab17",
+                    "platform": "TikTok",
+                    "post_url": "https://bustling-necklace.biz/",
+                    "likes": 444,
+                    "comments": 26,
+                    "shares": 1,
+                    "reach": 7653
+                }
+            ],
+            "total_sales_attributed": 1836.3821290890317
+        }
+    ]
+}

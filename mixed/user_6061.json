@@ -1,0 +1,26 @@
+{
+    "user_id": "ceebe09f-2c7e-43d6-9d2a-53ddbcb474a6",
+    "name": "Chelsea McGlynn",
+    "email": "Zola.Stark@yahoo.com",
+    "instagram_handle": "@Shakira_Dickens79",
+    "tiktok_handle": "@Omari_Hills",
+    "joined_at": "2024-11-12T20:40:27.637Z",
+    "advocacy_programs": [
+        {
+            "program_id": "04bcd72c-eb0f-400b-ade0-586685fc7c39",
+            "brand": "Carter LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a630df28-8a92-457b-815e-c0f9a43cd181",
+                    "platform": "TikTok",
+                    "post_url": "https://untrue-molasses.org",
+                    "likes": 337,
+                    "comments": 13,
+                    "shares": 80,
+                    "reach": 1827
+                }
+            ],
+            "total_sales_attributed": 1425.000041519957
+        }
+    ]
+}

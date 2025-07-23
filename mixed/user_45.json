@@ -1,0 +1,26 @@
+{
+    "user_id": "c65d4a7e-b4fc-4fb5-8adf-789fff7894a7",
+    "name": "Enrique Terry IV",
+    "email": "Ari_Abshire54@gmail.com",
+    "instagram_handle": "@Alena0",
+    "tiktok_handle": "@Riley.Altenwerth85",
+    "joined_at": "2025-02-12T22:10:47.502Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a65dad59-7fc7-41b9-81bb-9f65bdd3f1fb",
+            "brand": "Langworth - Douglas",
+            "tasks_completed": [
+                {
+                    "task_id": "00103159-aabb-440e-9669-cd3d39824aea",
+                    "platform": "Instagram",
+                    "post_url": "https://knowledgeable-corporation.info",
+                    "likes": 333,
+                    "comments": 29,
+                    "shares": 26,
+                    "reach": 4760
+                }
+            ],
+            "total_sales_attributed": 3623.1010120128044
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2b1744f1-0ffc-437f-812a-0654ecbfb9fc",
+    "name": "Ross Hermiston Sr.",
+    "email": "Murray_Rath@hotmail.com",
+    "instagram_handle": "@Daphnee_Orn28",
+    "tiktok_handle": "@Kelvin_Pagac76",
+    "joined_at": "2025-02-23T09:17:12.668Z",
+    "advocacy_programs": [
+        {
+            "program_id": "230f6ffa-774b-496c-a284-50d5878c74e8",
+            "brand": "Runolfsson, Nader and Aufderhar",
+            "tasks_completed": [
+                {
+                    "task_id": "262d3121-3268-4a11-be24-a790fc1e0e07",
+                    "platform": "TikTok",
+                    "post_url": "https://soupy-technologist.net",
+                    "likes": 53,
+                    "comments": 0,
+                    "shares": 29,
+                    "reach": 9976
+                }
+            ],
+            "total_sales_attributed": 3752.0210239150547
+        }
+    ]
+}

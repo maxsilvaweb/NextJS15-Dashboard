@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Leland_Schuppe90",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Moore Inc",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://difficult-nectarine.info/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 22,
+                    "reach": 3693
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

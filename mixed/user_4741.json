@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-10-15T17:54:06.643Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "O'Connell Inc",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 496,
+                    "comments": 42,
+                    "shares": 86,
+                    "reach": 9914
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

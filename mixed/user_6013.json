@@ -1,0 +1,26 @@
+{
+    "user_id": "e5553221-666d-4a5f-a97b-edaddaf2e104",
+    "name": "Ricardo Murray Jr.",
+    "email": "Lisandro47@hotmail.com",
+    "instagram_handle": "@Kenny.Bins",
+    "tiktok_handle": "@Chase.Nikolaus",
+    "joined_at": "2024-04-01T12:12:20.263Z",
+    "advocacy_programs": [
+        {
+            "program_id": "44329d9a-bb32-49cd-9d17-c38d70484271",
+            "brand": "Reichert Group",
+            "tasks_completed": [
+                {
+                    "task_id": "486a6998-b2ea-4477-bb8d-708b298d318d",
+                    "platform": "TikTok",
+                    "post_url": "https://knotty-signature.biz/",
+                    "likes": 286,
+                    "comments": 49,
+                    "shares": 64,
+                    "reach": 4924
+                }
+            ],
+            "total_sales_attributed": 4449.387291833783
+        }
+    ]
+}

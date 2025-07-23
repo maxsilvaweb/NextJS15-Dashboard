@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "9c1b2cad-2905-41d3-a34f-8e2250320001",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://short-term-fisherman.org/",
+                    "likes": 25,
+                    "comments": null,
+                    "shares": 83,
+                    "reach": 813
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

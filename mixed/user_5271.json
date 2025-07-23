@@ -1,0 +1,26 @@
+{
+    "user_id": "413bd07b-638b-4bb9-8f35-35a94e6eb3af",
+    "name": "Kathleen Harris DDS",
+    "email": "Stephon.Bayer31@gmail.com",
+    "instagram_handle": "@Chesley65",
+    "tiktok_handle": "@Kirstin_Bogisich28",
+    "joined_at": "2024-05-07T13:03:31.909Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8cd4800a-b8be-47a9-bf1d-db6ae3a70e96",
+            "brand": "Kihn Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "a2ab06f3-5f9a-497b-a56e-d455431423fb",
+                    "platform": "Instagram",
+                    "post_url": "https://steep-mom.info/",
+                    "likes": 130,
+                    "comments": 37,
+                    "shares": 58,
+                    "reach": 9670
+                }
+            ],
+            "total_sales_attributed": 4691.06989684021
+        }
+    ]
+}

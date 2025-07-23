@@ -1,0 +1,26 @@
+{
+    "user_id": "2ec31b5a-2867-4b26-872f-874f426ed23d",
+    "name": "Hannah Hoeger V",
+    "email": "Flo94@yahoo.com",
+    "instagram_handle": "@Yadira.Hammes40",
+    "tiktok_handle": "@Francesco.Stokes",
+    "joined_at": "2024-06-15T02:37:01.424Z",
+    "advocacy_programs": [
+        {
+            "program_id": "aad0c940-ff0a-4fce-b075-d67f943980ef",
+            "brand": "Koss, Gutmann and Wisozk",
+            "tasks_completed": [
+                {
+                    "task_id": "359ab5db-e50a-4bb3-ab77-3e1a4bf00369",
+                    "platform": "TikTok",
+                    "post_url": "https://leading-extension.net",
+                    "likes": 105,
+                    "comments": 1,
+                    "shares": 56,
+                    "reach": 9987
+                }
+            ],
+            "total_sales_attributed": 3154.2303312392455
+        }
+    ]
+}

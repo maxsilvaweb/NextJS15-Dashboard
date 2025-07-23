@@ -1,0 +1,26 @@
+{
+    "user_id": "0c4c9e34-b3d7-4c77-8b37-265add19e260",
+    "name": "Mr. Bradley Bednar",
+    "email": "Keagan.Bergnaum84@gmail.com",
+    "instagram_handle": "@Jaqueline28",
+    "tiktok_handle": "@Melyssa.Zemlak",
+    "joined_at": "2024-06-01T17:53:28.331Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f0288d82-c906-46d8-b006-791c346dbc8a",
+            "brand": "Stehr, Altenwerth and Erdman",
+            "tasks_completed": [
+                {
+                    "task_id": "b2fd8816-07bf-4af0-9347-151deaa8fb2b",
+                    "platform": "Instagram",
+                    "post_url": "https://sticky-requirement.name/",
+                    "likes": 352,
+                    "comments": 50,
+                    "shares": 23,
+                    "reach": 7109
+                }
+            ],
+            "total_sales_attributed": 4099.78245016041
+        }
+    ]
+}

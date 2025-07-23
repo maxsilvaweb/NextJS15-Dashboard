@@ -1,0 +1,26 @@
+{
+    "user_id": "b55ad5cc-1d96-4d79-bcef-3b265e74031a",
+    "name": "Mrs. Jo Goodwin III",
+    "email": "Santino88@gmail.com",
+    "instagram_handle": "@Marlen65",
+    "tiktok_handle": "@Kevin.Borer",
+    "joined_at": "2024-07-16T14:09:00.744Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0777473e-d7ef-490c-8103-09b99de0b4cc",
+            "brand": "Stamm - Ledner",
+            "tasks_completed": [
+                {
+                    "task_id": "84c17434-9732-4f83-830c-65bf44a546bc",
+                    "platform": "Instagram",
+                    "post_url": "https://gray-going.org/",
+                    "likes": 255,
+                    "comments": 1,
+                    "shares": 20,
+                    "reach": 9767
+                }
+            ],
+            "total_sales_attributed": 1335.8115948025247
+        }
+    ]
+}

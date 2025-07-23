@@ -1,0 +1,26 @@
+{
+    "user_id": "daff8578-5ec6-4a30-a65b-1c6155638a32",
+    "name": "Sheila Kovacek",
+    "email": "Makayla.Hane69@gmail.com",
+    "instagram_handle": "@Thurman74",
+    "tiktok_handle": "@Virgie_Koelpin71",
+    "joined_at": "2024-10-17T02:58:58.814Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6e8f28bf-175e-4c56-bab7-ebb4808fde19",
+            "brand": "Gulgowski LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f7ab0ffd-8c02-4688-b7a1-39873e651b5f",
+                    "platform": "Instagram",
+                    "post_url": "https://comfortable-stitcher.name/",
+                    "likes": 200,
+                    "comments": 8,
+                    "shares": 32,
+                    "reach": 6518
+                }
+            ],
+            "total_sales_attributed": 4621.236769573608
+        }
+    ]
+}

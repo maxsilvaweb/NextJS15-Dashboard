@@ -1,0 +1,26 @@
+{
+    "user_id": "4e9175d1-06b1-451f-bc55-538878e12d45",
+    "name": "Alyssa Larson",
+    "email": "Steve_Keeling@hotmail.com",
+    "instagram_handle": "@Nova.Bailey",
+    "tiktok_handle": "@Marcella70",
+    "joined_at": "2024-07-28T22:09:29.084Z",
+    "advocacy_programs": [
+        {
+            "program_id": "919e0340-b962-41ff-9be2-f8dc3ac559de",
+            "brand": "Aufderhar and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "6285fc37-5698-498f-b8af-bcee1faeefed",
+                    "platform": "TikTok",
+                    "post_url": "https://wide-eyed-soybean.net",
+                    "likes": 277,
+                    "comments": 2,
+                    "shares": 77,
+                    "reach": 5875
+                }
+            ],
+            "total_sales_attributed": 2622.978168379639
+        }
+    ]
+}

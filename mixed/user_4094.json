@@ -1,0 +1,26 @@
+{
+    "user_id": "ddceffdc-2605-44ac-a7ce-b4477e7593de",
+    "name": "Dr. Franklin Mayert",
+    "email": "Thomas69@gmail.com",
+    "instagram_handle": "@Sylvan24",
+    "tiktok_handle": "@Demetrius.Ebert-Hamill76",
+    "joined_at": "2024-05-20T20:23:32.489Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b613aa97-b5d8-4dfa-bb02-96540f66ad8b",
+            "brand": "Boyle - Rippin",
+            "tasks_completed": [
+                {
+                    "task_id": "3960e529-5c91-477a-a6e0-733a24eb70ad",
+                    "platform": "TikTok",
+                    "post_url": "https://discrete-interior.org",
+                    "likes": 144,
+                    "comments": 41,
+                    "shares": 76,
+                    "reach": 4176
+                }
+            ],
+            "total_sales_attributed": 325.9144927446753
+        }
+    ]
+}

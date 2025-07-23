@@ -1,0 +1,26 @@
+{
+    "user_id": "61e4e29d-851c-4ea8-8134-90738d48f581",
+    "name": "???",
+    "email": "Jada_Stiedemann30@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 42,
+                    "shares": 70,
+                    "reach": 6778
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

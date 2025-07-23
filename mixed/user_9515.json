@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "c54383df-7df3-4229-9c94-f5c6e0534f1f",
+            "brand": "Klocko - Wehner",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 202,
+                    "comments": 29,
+                    "shares": 63,
+                    "reach": 2756
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a1cdd5ca-fbfa-4b35-b186-ade196668ed0",
+    "name": "Santos Pollich",
+    "email": "Lisandro58@gmail.com",
+    "instagram_handle": "@Thea.Simonis45",
+    "tiktok_handle": "@Meta_Crona",
+    "joined_at": "2024-11-06T01:57:03.943Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ef31830a-43a6-4a56-8b50-d8f1db48362c",
+            "brand": "Kassulke - Treutel",
+            "tasks_completed": [
+                {
+                    "task_id": "537ad14d-da48-419c-ba66-63c8495129a0",
+                    "platform": "TikTok",
+                    "post_url": "https://runny-vestment.com/",
+                    "likes": 330,
+                    "comments": 5,
+                    "shares": 40,
+                    "reach": 9031
+                }
+            ],
+            "total_sales_attributed": 4406.290225203766
+        }
+    ]
+}

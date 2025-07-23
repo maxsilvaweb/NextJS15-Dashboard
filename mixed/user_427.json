@@ -1,0 +1,26 @@
+{
+    "user_id": "b25994ba-a272-4cb0-958f-06b401b03e09",
+    "name": "Ms. Lola Abernathy",
+    "email": "Dasia12@yahoo.com",
+    "instagram_handle": "@Einar_Weissnat",
+    "tiktok_handle": "@Larry_Dickinson67",
+    "joined_at": "2025-03-07T12:05:41.855Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b7bf52c2-a4fd-41ee-8c32-7d39f695bb75",
+            "brand": "Hilll - Glover",
+            "tasks_completed": [
+                {
+                    "task_id": "e788cbb6-a5a6-4b04-8ac0-04de80bd9a4d",
+                    "platform": "Instagram",
+                    "post_url": "https://pretty-bowling.org",
+                    "likes": 393,
+                    "comments": 32,
+                    "shares": 18,
+                    "reach": 2553
+                }
+            ],
+            "total_sales_attributed": 1620.2320896599729
+        }
+    ]
+}

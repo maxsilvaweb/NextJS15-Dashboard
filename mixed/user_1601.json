@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Lisandro58@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-06-05T19:14:51.085Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Abernathy and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 1,
+                    "shares": 29,
+                    "reach": 8579
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

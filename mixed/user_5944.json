@@ -1,0 +1,26 @@
+{
+    "user_id": "dfc8943a-91dc-4fb4-ac70-d4c25cadf632",
+    "name": "Roman Klocko",
+    "email": "Maxine_OReilly@gmail.com",
+    "instagram_handle": "@Sid.Kuvalis",
+    "tiktok_handle": "@Kolby_Kunde85",
+    "joined_at": "2024-06-05T20:48:02.324Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c7c02485-b2a7-4fdf-bc55-b1e01750a338",
+            "brand": "Veum, Reynolds and Raynor",
+            "tasks_completed": [
+                {
+                    "task_id": "07bef00c-41a1-4fcf-8181-1838b292ded3",
+                    "platform": "Instagram",
+                    "post_url": "https://animated-cricket.biz",
+                    "likes": 29,
+                    "comments": 44,
+                    "shares": 89,
+                    "reach": 3240
+                }
+            ],
+            "total_sales_attributed": 1223.9792356396852
+        }
+    ]
+}

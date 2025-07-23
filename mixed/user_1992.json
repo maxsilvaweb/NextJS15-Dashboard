@@ -1,0 +1,26 @@
+{
+    "user_id": "814645fa-5c28-4af3-9460-479d1c0f9fc3",
+    "name": "Oscar Simonis DDS",
+    "email": "Erick_Pfeffer@yahoo.com",
+    "instagram_handle": "@Macy.Carter3",
+    "tiktok_handle": "@Owen64",
+    "joined_at": "2024-07-07T05:29:52.934Z",
+    "advocacy_programs": [
+        {
+            "program_id": "afad55c6-1763-4c40-a29a-8105297b9a49",
+            "brand": "Barrows - Heller",
+            "tasks_completed": [
+                {
+                    "task_id": "736fdf11-e90f-4f88-a502-50d8d660e0d9",
+                    "platform": "Instagram",
+                    "post_url": "https://blue-intellect.org",
+                    "likes": 376,
+                    "comments": 15,
+                    "shares": 16,
+                    "reach": 1505
+                }
+            ],
+            "total_sales_attributed": 1100.9478825443111
+        }
+    ]
+}

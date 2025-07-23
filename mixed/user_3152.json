@@ -1,0 +1,26 @@
+{
+    "user_id": "4559c90f-db6a-455b-b9f4-78d30dfcb6d8",
+    "name": "Ada Murray",
+    "email": "Deon_Bednar95@gmail.com",
+    "instagram_handle": "@Chesley_Weber-Huel65",
+    "tiktok_handle": "@Phyllis.Wolff",
+    "joined_at": "2024-06-29T01:50:21.963Z",
+    "advocacy_programs": [
+        {
+            "program_id": "864ddaa3-3cc3-47be-ab40-7342f8038e7e",
+            "brand": "Rath and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "bbdcb55c-95ab-482c-89c2-960cdaf7db56",
+                    "platform": "TikTok",
+                    "post_url": "https://profitable-worth.biz",
+                    "likes": 134,
+                    "comments": 47,
+                    "shares": 24,
+                    "reach": 8029
+                }
+            ],
+            "total_sales_attributed": 2530.422949545461
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Margarett57",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "7f74ccf3-2aed-4891-882a-f83404e245b0",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://spirited-jump.biz",
+                    "likes": 492,
+                    "comments": null,
+                    "shares": 45,
+                    "reach": 3271
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "aa69548a-115c-4d23-9436-a4646b764fe0",
+    "name": "Herman Zemlak",
+    "email": "Dennis.Renner42@yahoo.com",
+    "instagram_handle": "@Heloise59",
+    "tiktok_handle": "@Anabel83",
+    "joined_at": "2024-12-28T17:12:28.170Z",
+    "advocacy_programs": [
+        {
+            "program_id": "db0133c4-f85d-493a-b191-483d2c81c54e",
+            "brand": "Kihn LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a503a423-5316-4008-8d18-e61b1bd1620a",
+                    "platform": "TikTok",
+                    "post_url": "https://impolite-resolve.org/",
+                    "likes": 222,
+                    "comments": 30,
+                    "shares": 29,
+                    "reach": 7037
+                }
+            ],
+            "total_sales_attributed": 2229.518082322538
+        }
+    ]
+}

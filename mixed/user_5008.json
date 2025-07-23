@@ -1,0 +1,26 @@
+{
+    "user_id": "ceee210f-3d9f-444d-90b4-8fcc96421826",
+    "name": "Mr. Lionel Blanda",
+    "email": "Zetta25@hotmail.com",
+    "instagram_handle": "@Agustina17",
+    "tiktok_handle": "@Rosalyn.Casper",
+    "joined_at": "2024-06-02T10:50:32.845Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b24a28ae-b8bd-4293-878b-0172bac8f472",
+            "brand": "Padberg - Blick",
+            "tasks_completed": [
+                {
+                    "task_id": "5c3b2982-1c6e-4bdf-8a7c-9fdd3dd0c05d",
+                    "platform": "Instagram",
+                    "post_url": "https://realistic-alb.info",
+                    "likes": 360,
+                    "comments": 22,
+                    "shares": 11,
+                    "reach": 2774
+                }
+            ],
+            "total_sales_attributed": 737.6738872241704
+        }
+    ]
+}

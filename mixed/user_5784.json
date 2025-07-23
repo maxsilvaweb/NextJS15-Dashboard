@@ -1,0 +1,26 @@
+{
+    "user_id": "82ec1563-97d0-4a0e-b3bd-b6b1f08e536d",
+    "name": "Nelson Armstrong",
+    "email": "Breanna.Dooley40@gmail.com",
+    "instagram_handle": "@Rebeka_Boyer50",
+    "tiktok_handle": "@Scotty0",
+    "joined_at": "2024-07-04T12:37:21.304Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6d5446ca-f543-4c22-94bb-4acbcbbe02d9",
+            "brand": "Lang Group",
+            "tasks_completed": [
+                {
+                    "task_id": "1e649193-bf6e-41d6-a97c-64871eabfffb",
+                    "platform": "TikTok",
+                    "post_url": "https://illiterate-scout.org",
+                    "likes": 49,
+                    "comments": 41,
+                    "shares": 27,
+                    "reach": 2431
+                }
+            ],
+            "total_sales_attributed": 1460.7829471420916
+        }
+    ]
+}

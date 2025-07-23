@@ -1,0 +1,26 @@
+{
+    "user_id": "4e05e3bd-65a8-4b67-9a16-6350ec9c7584",
+    "name": "Amber Rempel-Kassulke",
+    "email": "Karlee.Davis98@yahoo.com",
+    "instagram_handle": "@Roscoe44",
+    "tiktok_handle": "@Freddie.Blick",
+    "joined_at": "2024-10-22T07:59:33.451Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1ee67a2d-d7fc-43d1-8aed-310222a9b052",
+            "brand": "Lueilwitz, Pacocha and Nolan",
+            "tasks_completed": [
+                {
+                    "task_id": "baf7308d-7d12-43ea-a082-720310df0707",
+                    "platform": "TikTok",
+                    "post_url": "https://unpleasant-swim.name/",
+                    "likes": 440,
+                    "comments": 12,
+                    "shares": 91,
+                    "reach": 7405
+                }
+            ],
+            "total_sales_attributed": 1260.552768053456
+        }
+    ]
+}

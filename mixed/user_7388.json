@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Zachariah.Jacobson@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "6410a9fa-5c69-4b19-ae6c-6c967d8f3bfb",
+                    "platform": "Instagram",
+                    "post_url": "https://basic-exterior.org/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 22,
+                    "reach": 9982
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

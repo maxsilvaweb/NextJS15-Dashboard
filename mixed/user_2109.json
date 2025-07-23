@@ -1,0 +1,26 @@
+{
+    "user_id": "64a9df15-ae83-43ee-a0f7-31ce11709688",
+    "name": "Leon Walker",
+    "email": "Oscar43@hotmail.com",
+    "instagram_handle": "@Matilde.Heidenreich",
+    "tiktok_handle": "@Amos.Rutherford68",
+    "joined_at": "2024-05-19T21:00:00.230Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bdbddafd-b8e0-4c9d-a3dc-9ac664116225",
+            "brand": "Bartell - Legros",
+            "tasks_completed": [
+                {
+                    "task_id": "e4e27057-3850-4180-8090-158c00a4a666",
+                    "platform": "Instagram",
+                    "post_url": "https://unripe-seagull.net/",
+                    "likes": 272,
+                    "comments": 28,
+                    "shares": 77,
+                    "reach": 8670
+                }
+            ],
+            "total_sales_attributed": 2114.6200238413203
+        }
+    ]
+}

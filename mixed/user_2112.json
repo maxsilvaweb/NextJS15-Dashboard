@@ -1,0 +1,26 @@
+{
+    "user_id": "b712d42c-f8a6-4422-a658-c4b3f1e9bace",
+    "name": "Darla Balistreri",
+    "email": "Allen.Shanahan84@yahoo.com",
+    "instagram_handle": "@Myrtle_Dooley1",
+    "tiktok_handle": "@Dexter_Borer",
+    "joined_at": "2024-09-24T23:59:54.135Z",
+    "advocacy_programs": [
+        {
+            "program_id": "29df2b50-cc73-42f5-a4b2-538e9f5f43dd",
+            "brand": "Tremblay - Auer",
+            "tasks_completed": [
+                {
+                    "task_id": "78699625-46c4-40d0-a103-ba4809d91f46",
+                    "platform": "Instagram",
+                    "post_url": "https://bright-baritone.com",
+                    "likes": 19,
+                    "comments": 1,
+                    "shares": 55,
+                    "reach": 673
+                }
+            ],
+            "total_sales_attributed": 2970.041373734643
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8cdbdd8a-8828-46d2-84fc-c19e24a7c813",
+    "name": "Reginald Thompson",
+    "email": "Lavonne.Kilback@gmail.com",
+    "instagram_handle": "@Hermann.Schuppe-Krajcik78",
+    "tiktok_handle": "@Vallie_Heaney93",
+    "joined_at": "2024-12-10T04:58:49.741Z",
+    "advocacy_programs": [
+        {
+            "program_id": "301c2b2b-ed8a-4185-9366-b5bbebabbce5",
+            "brand": "Emard, Mayert and Stokes",
+            "tasks_completed": [
+                {
+                    "task_id": "6a99f3aa-69eb-48aa-a51e-5d718df8f258",
+                    "platform": "Instagram",
+                    "post_url": "https://bright-brush.info/",
+                    "likes": 203,
+                    "comments": 12,
+                    "shares": 39,
+                    "reach": 6117
+                }
+            ],
+            "total_sales_attributed": 2940.9355484307384
+        }
+    ]
+}

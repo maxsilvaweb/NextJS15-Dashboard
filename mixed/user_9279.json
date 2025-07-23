@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Pedro.Lindgren24@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "ccbbd3b6-fc02-4adc-a3bd-34aca6c8ac31",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 323,
+                    "comments": null,
+                    "shares": 89,
+                    "reach": 7465
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

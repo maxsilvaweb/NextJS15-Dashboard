@@ -1,0 +1,26 @@
+{
+    "user_id": "feff3544-1fef-4b3d-a640-e91e2977e976",
+    "name": "William Prosacco",
+    "email": "Noelia85@yahoo.com",
+    "instagram_handle": "@Trisha_Wolff24",
+    "tiktok_handle": "@Cruz74",
+    "joined_at": "2024-09-10T20:50:56.230Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1fd0f186-5137-4b07-8425-474e2f2d4179",
+            "brand": "Prosacco LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "58981d4a-190b-4213-8c11-616f00938989",
+                    "platform": "TikTok",
+                    "post_url": "https://silent-majority.org/",
+                    "likes": 214,
+                    "comments": 34,
+                    "shares": 60,
+                    "reach": 1132
+                }
+            ],
+            "total_sales_attributed": 4091.552562129171
+        }
+    ]
+}

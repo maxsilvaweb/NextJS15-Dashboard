@@ -1,0 +1,26 @@
+{
+    "user_id": "24f84ff5-b02e-4879-977d-80eacf4e4fb5",
+    "name": "???",
+    "email": "Beverly.Rau92@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "e4d5e97b-a52c-4c21-8c0d-f1ca7efe91c2",
+                    "platform": "Facebook",
+                    "post_url": "https://frank-toothpick.com",
+                    "likes": 283,
+                    "comments": null,
+                    "shares": 74,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 4136.106130988048
+        }
+    ]
+}

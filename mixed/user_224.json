@@ -1,0 +1,26 @@
+{
+    "user_id": "63f61394-663c-44ab-a055-e01e8dafa325",
+    "name": "Miss Joanna Kuhlman",
+    "email": "Peggie.King27@hotmail.com",
+    "instagram_handle": "@Pat_OKon",
+    "tiktok_handle": "@Kara_Adams-Cruickshank",
+    "joined_at": "2024-04-18T17:54:26.933Z",
+    "advocacy_programs": [
+        {
+            "program_id": "752a592a-c958-4bf0-bdee-678ec763128c",
+            "brand": "Marquardt - Terry",
+            "tasks_completed": [
+                {
+                    "task_id": "e1643eaa-8802-4768-b22e-836670de584c",
+                    "platform": "Instagram",
+                    "post_url": "https://stunning-reward.org",
+                    "likes": 355,
+                    "comments": 12,
+                    "shares": 30,
+                    "reach": 6057
+                }
+            ],
+            "total_sales_attributed": 2953.145621614481
+        }
+    ]
+}

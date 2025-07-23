@@ -1,0 +1,26 @@
+{
+    "user_id": "f80993c1-68dc-47cb-81a2-bddea7a1f574",
+    "name": "Ginger Blanda",
+    "email": "Marvin.OConner55@hotmail.com",
+    "instagram_handle": "@Toney_Wuckert",
+    "tiktok_handle": "@Hester.Thompson",
+    "joined_at": "2024-07-21T14:39:32.670Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a20db56e-78a1-4120-90d5-515242fd8a5f",
+            "brand": "Prohaska, Smith and Sawayn",
+            "tasks_completed": [
+                {
+                    "task_id": "247cb5b1-236c-429c-99c6-75f093b062bd",
+                    "platform": "TikTok",
+                    "post_url": "https://favorite-tarragon.net/",
+                    "likes": 369,
+                    "comments": 46,
+                    "shares": 18,
+                    "reach": 1833
+                }
+            ],
+            "total_sales_attributed": 370.92209476068365
+        }
+    ]
+}

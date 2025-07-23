@@ -1,0 +1,26 @@
+{
+    "user_id": "d3297bdb-2a87-42ea-863c-d7b12a8c933d",
+    "name": "Guy Kuhlman",
+    "email": "Obie_King68@gmail.com",
+    "instagram_handle": "@Vance11",
+    "tiktok_handle": "@Melyssa56",
+    "joined_at": "2024-05-12T14:56:13.108Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3e82e792-19df-49f8-8502-124ff5e41c9f",
+            "brand": "MacGyver - Kulas",
+            "tasks_completed": [
+                {
+                    "task_id": "36912595-0a58-41f6-8fdc-645589c0abf9",
+                    "platform": "TikTok",
+                    "post_url": "https://elderly-transparency.net",
+                    "likes": 242,
+                    "comments": 28,
+                    "shares": 30,
+                    "reach": 6846
+                }
+            ],
+            "total_sales_attributed": 319.58795141353164
+        }
+    ]
+}

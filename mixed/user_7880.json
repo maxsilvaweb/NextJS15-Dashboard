@@ -1,0 +1,26 @@
+{
+    "user_id": "ee4fd3e7-6b87-46fa-b5a4-9b8456fc51b5",
+    "name": "May Welch",
+    "email": "Clara.Simonis@gmail.com",
+    "instagram_handle": "@Benedict.Nitzsche",
+    "tiktok_handle": "@Coy_Raynor41",
+    "joined_at": "2024-06-06T11:27:12.282Z",
+    "advocacy_programs": [
+        {
+            "program_id": "246b1d12-0e98-4607-850e-abdbe2dc5286",
+            "brand": "Cremin, Bins and Yundt",
+            "tasks_completed": [
+                {
+                    "task_id": "2156b75b-c924-4bc3-bfb2-a62f3ec87578",
+                    "platform": "TikTok",
+                    "post_url": "https://odd-hubris.net",
+                    "likes": 472,
+                    "comments": 46,
+                    "shares": 69,
+                    "reach": 5935
+                }
+            ],
+            "total_sales_attributed": 626.2065053593595
+        }
+    ]
+}

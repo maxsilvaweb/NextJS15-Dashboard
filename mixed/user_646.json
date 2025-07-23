@@ -1,0 +1,26 @@
+{
+    "user_id": "4f0b4ffe-1223-482b-bb05-1163984161cb",
+    "name": "Marc VonRueden",
+    "email": "Sid.Littel@yahoo.com",
+    "instagram_handle": "@Beulah_Jerde",
+    "tiktok_handle": "@Janick32",
+    "joined_at": "2024-10-02T16:19:39.206Z",
+    "advocacy_programs": [
+        {
+            "program_id": "56e9454d-e91e-4570-a67e-1723b3f256f5",
+            "brand": "Lindgren, Green and Howell",
+            "tasks_completed": [
+                {
+                    "task_id": "b59e5ad7-1674-4f79-bce9-aae5af70f35f",
+                    "platform": "Instagram",
+                    "post_url": "https://direct-fishery.com",
+                    "likes": 29,
+                    "comments": 20,
+                    "shares": 17,
+                    "reach": 9938
+                }
+            ],
+            "total_sales_attributed": 2655.242580329947
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "07ce9401-74f7-4768-9e3f-1425ca9afd6c",
+    "name": "Elaine Ondricka",
+    "email": "Pascale.Quitzon-Kutch@gmail.com",
+    "instagram_handle": "@Xander95",
+    "tiktok_handle": "@Matt.Wyman96",
+    "joined_at": "2024-05-12T12:53:07.321Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6beb3e1a-cf5a-4114-9aed-665c22387144",
+            "brand": "Okuneva, Denesik and Balistreri",
+            "tasks_completed": [
+                {
+                    "task_id": "a6522247-1e2e-4306-9d1c-4699848d64cf",
+                    "platform": "Instagram",
+                    "post_url": "https://meaty-wallaby.org",
+                    "likes": 284,
+                    "comments": 44,
+                    "shares": 28,
+                    "reach": 8788
+                }
+            ],
+            "total_sales_attributed": 937.6222724577405
+        }
+    ]
+}

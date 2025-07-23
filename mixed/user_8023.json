@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "c179b451-c850-4eca-978f-9cab1675f075",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://quick-wasabi.org",
+                    "likes": 68,
+                    "comments": null,
+                    "shares": 38,
+                    "reach": 5907
+                }
+            ],
+            "total_sales_attributed": 4351.802485426817
+        }
+    ]
+}

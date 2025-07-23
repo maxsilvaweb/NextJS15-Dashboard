@@ -1,0 +1,26 @@
+{
+    "user_id": "3a344a67-4b3e-49c6-97ac-827cbd268261",
+    "name": "Joel Rice",
+    "email": "Kitty.Klein36@gmail.com",
+    "instagram_handle": "@Nya67",
+    "tiktok_handle": "@Kara7",
+    "joined_at": "2024-11-09T17:55:49.152Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c22f729e-1e59-4cc9-aafc-e03a6be331eb",
+            "brand": "McClure LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "fdf0de26-e713-4f40-9802-19fced4fa48d",
+                    "platform": "Instagram",
+                    "post_url": "https://sparkling-catalyst.name/",
+                    "likes": 440,
+                    "comments": 42,
+                    "shares": 80,
+                    "reach": 4018
+                }
+            ],
+            "total_sales_attributed": 2259.4481794358053
+        }
+    ]
+}

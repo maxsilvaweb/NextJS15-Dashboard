@@ -1,0 +1,26 @@
+{
+    "user_id": "b0614be1-2c08-4452-9699-7751c774a0e3",
+    "name": "Guadalupe Simonis",
+    "email": "Hazel21@hotmail.com",
+    "instagram_handle": "@Ebba.Swift",
+    "tiktok_handle": "@Jed73",
+    "joined_at": "2025-01-26T04:16:58.651Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0bf0ce07-caab-4795-ac19-1e506295cb41",
+            "brand": "Crooks and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "fc5e1bb5-78e9-448f-8bce-90946ca09b19",
+                    "platform": "Instagram",
+                    "post_url": "https://legal-allegation.net",
+                    "likes": 49,
+                    "comments": 3,
+                    "shares": 77,
+                    "reach": 3223
+                }
+            ],
+            "total_sales_attributed": 1412.9708684394134
+        }
+    ]
+}

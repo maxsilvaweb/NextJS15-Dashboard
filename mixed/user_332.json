@@ -1,0 +1,26 @@
+{
+    "user_id": "61e26849-71a3-4c79-ae71-57b0f674274b",
+    "name": "Steve Keebler III",
+    "email": "Matt57@hotmail.com",
+    "instagram_handle": "@Jeramie.Hessel",
+    "tiktok_handle": "@Raphaelle51",
+    "joined_at": "2024-04-07T23:45:16.978Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d69c5649-7be3-4376-bc7a-ceb067a11112",
+            "brand": "Johnston - Corwin",
+            "tasks_completed": [
+                {
+                    "task_id": "cf96633c-8781-4ed5-8a08-70f3d3739052",
+                    "platform": "Instagram",
+                    "post_url": "https://acidic-swing.net",
+                    "likes": 129,
+                    "comments": 46,
+                    "shares": 45,
+                    "reach": 4457
+                }
+            ],
+            "total_sales_attributed": 2294.1447875893796
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "5fd5c496-d7df-4e76-b755-2682e003cae2",
+    "name": "Mrs. Gayle Rogahn III",
+    "email": "Angeline.Treutel78@hotmail.com",
+    "instagram_handle": "@Ryder.Rempel52",
+    "tiktok_handle": "@Ford.Lakin",
+    "joined_at": "2024-09-29T00:45:13.878Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b60442d9-7df4-4485-86dd-78054ca2d790",
+            "brand": "Stiedemann Group",
+            "tasks_completed": [
+                {
+                    "task_id": "74a873b3-b2eb-4461-a052-4d9b942256a0",
+                    "platform": "TikTok",
+                    "post_url": "https://white-farmer.org",
+                    "likes": 186,
+                    "comments": 21,
+                    "shares": 24,
+                    "reach": 9374
+                }
+            ],
+            "total_sales_attributed": 2916.714548192409
+        }
+    ]
+}

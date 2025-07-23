@@ -1,0 +1,26 @@
+{
+    "user_id": "e1662491-5122-4d8a-b083-76a7a6c0b981",
+    "name": "Miguel Greenholt",
+    "email": "Stefanie.Bahringer@hotmail.com",
+    "instagram_handle": "@Jessika_Welch78",
+    "tiktok_handle": "@Larry_Tremblay82",
+    "joined_at": "2025-01-12T09:09:54.478Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b77ad20b-9fec-4b5e-b0b3-fed0209a2174",
+            "brand": "Gerhold, Ward and Cartwright",
+            "tasks_completed": [
+                {
+                    "task_id": "e4144015-0a94-45c8-9580-8302fd07a544",
+                    "platform": "Instagram",
+                    "post_url": "https://angelic-scrap.org",
+                    "likes": 259,
+                    "comments": 21,
+                    "shares": 80,
+                    "reach": 8442
+                }
+            ],
+            "total_sales_attributed": 3054.0883336283505
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "13baf8ea-50ca-48f0-88b0-f12928ec90bc",
+    "name": "Mona Kunze",
+    "email": "Jorge70@gmail.com",
+    "instagram_handle": "@Pink.Schmeler99",
+    "tiktok_handle": "@Ayana_Goldner",
+    "joined_at": "2024-11-05T04:37:35.715Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c4aa73b6-087d-437e-aca8-f47f780e4adc",
+            "brand": "Gottlieb LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1bb0de06-6cc8-4359-8534-13b4d70b9d0e",
+                    "platform": "Instagram",
+                    "post_url": "https://celebrated-slipper.biz/",
+                    "likes": 382,
+                    "comments": 5,
+                    "shares": 46,
+                    "reach": 4057
+                }
+            ],
+            "total_sales_attributed": 3993.024876773144
+        }
+    ]
+}

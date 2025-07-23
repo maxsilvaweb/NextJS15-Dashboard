@@ -1,0 +1,26 @@
+{
+    "user_id": "25fea51a-f157-4647-b2ef-e373dfa6ad04",
+    "name": "Todd Ledner",
+    "email": "Art18@yahoo.com",
+    "instagram_handle": "@Montana27",
+    "tiktok_handle": "@Callie96",
+    "joined_at": "2025-01-26T15:39:51.368Z",
+    "advocacy_programs": [
+        {
+            "program_id": "259dc306-590a-4a6d-89f3-d2614855e900",
+            "brand": "Dare Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "780a4475-a541-42aa-9d44-63ce4c86c879",
+                    "platform": "TikTok",
+                    "post_url": "https://short-pigsty.info",
+                    "likes": 441,
+                    "comments": 0,
+                    "shares": 10,
+                    "reach": 4108
+                }
+            ],
+            "total_sales_attributed": 629.2206673963108
+        }
+    ]
+}

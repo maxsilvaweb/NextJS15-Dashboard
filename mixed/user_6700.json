@@ -1,0 +1,26 @@
+{
+    "user_id": "cf872e53-dff2-40d8-b2fb-6eede334572d",
+    "name": "Janet Batz",
+    "email": "Clementina19@hotmail.com",
+    "instagram_handle": "@Blaze.Mills",
+    "tiktok_handle": "@Tiffany64",
+    "joined_at": "2025-02-13T13:46:32.196Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d6d30381-6b05-432a-8ab7-435b1028a43b",
+            "brand": "Bradtke - Bergstrom",
+            "tasks_completed": [
+                {
+                    "task_id": "4d9e3cfa-8b61-4f21-84ac-bf876d7fad2d",
+                    "platform": "TikTok",
+                    "post_url": "https://genuine-birdbath.net/",
+                    "likes": 189,
+                    "comments": 50,
+                    "shares": 29,
+                    "reach": 1804
+                }
+            ],
+            "total_sales_attributed": 4549.834118190244
+        }
+    ]
+}

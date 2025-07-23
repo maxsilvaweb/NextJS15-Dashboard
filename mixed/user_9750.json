@@ -1,0 +1,26 @@
+{
+    "user_id": "085268f7-6a47-44cb-946d-d43434b2fb87",
+    "name": "Dr. Lorena Gutmann",
+    "email": "Hudson_McCullough@hotmail.com",
+    "instagram_handle": "@Oscar43",
+    "tiktok_handle": "@Gordon56",
+    "joined_at": "2024-10-20T20:46:57.742Z",
+    "advocacy_programs": [
+        {
+            "program_id": "494f63f4-0973-4833-a0a8-cdff08825db4",
+            "brand": "Lehner, Kovacek and Purdy",
+            "tasks_completed": [
+                {
+                    "task_id": "f500f5e2-766c-4825-84a5-92d64794969b",
+                    "platform": "Instagram",
+                    "post_url": "https://jam-packed-flight.biz/",
+                    "likes": 50,
+                    "comments": 28,
+                    "shares": 50,
+                    "reach": 8332
+                }
+            ],
+            "total_sales_attributed": 930.9225318754991
+        }
+    ]
+}

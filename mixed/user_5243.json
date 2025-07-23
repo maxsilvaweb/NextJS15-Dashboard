@@ -1,0 +1,26 @@
+{
+    "user_id": "2c1d604e-549e-41d1-90f7-9612b01f2b48",
+    "name": "Al Ratke",
+    "email": "Lina97@yahoo.com",
+    "instagram_handle": "@Hailey_Corkery",
+    "tiktok_handle": "@Chadd26",
+    "joined_at": "2025-02-15T20:29:21.552Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7eba029d-8fbe-429d-8298-38c6cd42a7b6",
+            "brand": "Berge - Deckow",
+            "tasks_completed": [
+                {
+                    "task_id": "60af9973-c29e-4114-a018-a030891908ce",
+                    "platform": "TikTok",
+                    "post_url": "https://regular-lady.info/",
+                    "likes": 444,
+                    "comments": 30,
+                    "shares": 69,
+                    "reach": 9866
+                }
+            ],
+            "total_sales_attributed": 965.4112520537276
+        }
+    ]
+}

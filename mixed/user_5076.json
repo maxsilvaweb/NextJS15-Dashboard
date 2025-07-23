@@ -1,0 +1,26 @@
+{
+    "user_id": "3c8015a0-2f23-407f-99ff-44ced8f36970",
+    "name": "Nicole Hessel",
+    "email": "Emie_Quitzon66@hotmail.com",
+    "instagram_handle": "@Arne.Prohaska28",
+    "tiktok_handle": "@Jake66",
+    "joined_at": "2024-06-19T13:13:23.946Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4abf917f-8ec1-4add-8889-241a40df93bf",
+            "brand": "Hamill - Roberts",
+            "tasks_completed": [
+                {
+                    "task_id": "275b4ab7-65c8-442d-a135-dfa6ae136907",
+                    "platform": "TikTok",
+                    "post_url": "https://closed-divine.name/",
+                    "likes": 73,
+                    "comments": 27,
+                    "shares": 56,
+                    "reach": 7695
+                }
+            ],
+            "total_sales_attributed": 917.2008908818526
+        }
+    ]
+}

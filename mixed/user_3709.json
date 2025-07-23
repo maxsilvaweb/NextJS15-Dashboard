@@ -1,0 +1,26 @@
+{
+    "user_id": "49981b86-d42f-4948-b97a-9d3f80719a9c",
+    "name": "Reginald McDermott",
+    "email": "Willy26@yahoo.com",
+    "instagram_handle": "@Quincy54",
+    "tiktok_handle": "@Vicky.Jacobi",
+    "joined_at": "2024-07-08T00:02:47.449Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fcf58412-5776-417b-b8af-2eca7a190eb5",
+            "brand": "Wilkinson, Klein and Jacobs",
+            "tasks_completed": [
+                {
+                    "task_id": "6bb28c26-65d0-4c95-b4f1-86d173bb4a9f",
+                    "platform": "TikTok",
+                    "post_url": "https://gruesome-barracks.net",
+                    "likes": 22,
+                    "comments": 8,
+                    "shares": 99,
+                    "reach": 4997
+                }
+            ],
+            "total_sales_attributed": 1983.4052369461838
+        }
+    ]
+}

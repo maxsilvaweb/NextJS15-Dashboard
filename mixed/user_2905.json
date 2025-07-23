@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Zakary39",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Collins - Crona",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://hateful-language.info/",
+                    "likes": 326,
+                    "comments": null,
+                    "shares": 70,
+                    "reach": 6449
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

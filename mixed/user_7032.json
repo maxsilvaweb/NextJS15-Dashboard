@@ -1,0 +1,26 @@
+{
+    "user_id": "96a5b2b5-fcd5-4d94-9942-eb0e045d7b49",
+    "name": "Sammy Bergstrom IV",
+    "email": "Ruth_Waelchi-Schumm@yahoo.com",
+    "instagram_handle": "@Faye.Ratke20",
+    "tiktok_handle": "@Conor.Towne",
+    "joined_at": "2024-09-10T06:36:03.399Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cb242a83-fbda-4af5-b7f8-96de689017cd",
+            "brand": "Swaniawski - Hilll",
+            "tasks_completed": [
+                {
+                    "task_id": "0b1dcb04-3d1a-4f87-b90d-6cbb1eb8b702",
+                    "platform": "TikTok",
+                    "post_url": "https://minty-sticker.net/",
+                    "likes": 227,
+                    "comments": 38,
+                    "shares": 100,
+                    "reach": 4622
+                }
+            ],
+            "total_sales_attributed": 4819.126500534423
+        }
+    ]
+}

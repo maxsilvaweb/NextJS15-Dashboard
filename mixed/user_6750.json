@@ -1,0 +1,26 @@
+{
+    "user_id": "0d7c7181-f5b6-4e12-bca5-a1cca45f13b7",
+    "name": "Sherry Dicki",
+    "email": "Augustine_Huel@gmail.com",
+    "instagram_handle": "@Julianne27",
+    "tiktok_handle": "@Zita92",
+    "joined_at": "2024-07-27T15:19:15.617Z",
+    "advocacy_programs": [
+        {
+            "program_id": "166dc0d6-e9b3-40bf-97b7-12bb2edbcfc1",
+            "brand": "Lebsack, Koss and Conroy",
+            "tasks_completed": [
+                {
+                    "task_id": "f5b27106-a787-4f01-bdcf-27a7b2e1d0f1",
+                    "platform": "TikTok",
+                    "post_url": "https://outlandish-meadow.name",
+                    "likes": 246,
+                    "comments": 27,
+                    "shares": 56,
+                    "reach": 1502
+                }
+            ],
+            "total_sales_attributed": 1148.510726590982
+        }
+    ]
+}

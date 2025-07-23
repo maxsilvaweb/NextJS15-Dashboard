@@ -1,0 +1,26 @@
+{
+    "user_id": "0042f5cc-1136-4970-bb9e-eac8ae185574",
+    "name": "Kyle Schmitt",
+    "email": "Thaddeus93@yahoo.com",
+    "instagram_handle": "@Jess58",
+    "tiktok_handle": "@Chase59",
+    "joined_at": "2024-07-26T15:21:06.703Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0f04bd50-986e-4395-8ddc-be1abc135aa1",
+            "brand": "Wilderman, Osinski and Stehr",
+            "tasks_completed": [
+                {
+                    "task_id": "2aeec57c-d082-48fb-9db4-7e0a44f4514f",
+                    "platform": "Instagram",
+                    "post_url": "https://pointless-lieu.org",
+                    "likes": 57,
+                    "comments": 20,
+                    "shares": 38,
+                    "reach": 2419
+                }
+            ],
+            "total_sales_attributed": 2657.502884735247
+        }
+    ]
+}

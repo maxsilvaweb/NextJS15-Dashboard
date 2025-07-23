@@ -1,0 +1,26 @@
+{
+    "user_id": "368f6a52-3aba-494b-8652-1ad5f1ffe527",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Weimann, Mertz and Little",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 10,
+                    "comments": null,
+                    "shares": 40,
+                    "reach": 4452
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

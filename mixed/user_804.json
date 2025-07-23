@@ -1,0 +1,26 @@
+{
+    "user_id": "3811fc63-4309-4940-905e-4f03bd5043c6",
+    "name": "Louise Ziemann",
+    "email": "Alanis53@hotmail.com",
+    "instagram_handle": "@Florine78",
+    "tiktok_handle": "@Leonora9",
+    "joined_at": "2024-04-19T15:14:11.521Z",
+    "advocacy_programs": [
+        {
+            "program_id": "273ebb74-b7bf-435f-9854-402e9183a97c",
+            "brand": "Ruecker and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "672db3cb-19c4-4e0b-897f-1f62de058a0b",
+                    "platform": "Instagram",
+                    "post_url": "https://putrid-lava.biz",
+                    "likes": 56,
+                    "comments": 9,
+                    "shares": 99,
+                    "reach": 7563
+                }
+            ],
+            "total_sales_attributed": 756.7546853543586
+        }
+    ]
+}

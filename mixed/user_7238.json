@@ -1,0 +1,26 @@
+{
+    "user_id": "cecf4e22-a021-49ea-9f2a-2b8211737860",
+    "name": "Joel Krajcik",
+    "email": "Erna5@hotmail.com",
+    "instagram_handle": "@Linnie50",
+    "tiktok_handle": "@Ethyl14",
+    "joined_at": "2024-12-10T08:44:59.096Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a2f4d674-d3b1-4e16-8b45-8dbbafa3a474",
+            "brand": "Lind, Brakus and Hessel",
+            "tasks_completed": [
+                {
+                    "task_id": "557e49ec-79db-4ffc-aa1c-7de7f48426f6",
+                    "platform": "TikTok",
+                    "post_url": "https://dental-pop.org/",
+                    "likes": 396,
+                    "comments": 41,
+                    "shares": 82,
+                    "reach": 1977
+                }
+            ],
+            "total_sales_attributed": 354.1186352571982
+        }
+    ]
+}

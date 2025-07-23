@@ -1,0 +1,26 @@
+{
+    "user_id": "e0ac3c33-be0a-43c4-bf6b-583c6a8c5fb5",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://turbulent-overheard.info/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 76,
+                    "reach": 2015
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

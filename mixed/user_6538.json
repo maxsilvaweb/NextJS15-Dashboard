@@ -1,0 +1,26 @@
+{
+    "user_id": "6cb6439c-e46b-4d10-b155-e56f5273f9a1",
+    "name": "Dennis Dickens",
+    "email": "Isabel.Kunde97@gmail.com",
+    "instagram_handle": "@Vernie_Lemke91",
+    "tiktok_handle": "@Deangelo.Kozey47",
+    "joined_at": "2024-08-22T01:53:11.038Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f2ca9f4c-11cf-4e81-86cf-cb6b080348d9",
+            "brand": "Green Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "c7b4f04c-16e5-4239-acf0-eff8a484cba9",
+                    "platform": "TikTok",
+                    "post_url": "https://standard-brace.name/",
+                    "likes": 98,
+                    "comments": 24,
+                    "shares": 72,
+                    "reach": 3551
+                }
+            ],
+            "total_sales_attributed": 1050.5325740179728
+        }
+    ]
+}

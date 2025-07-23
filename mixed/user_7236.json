@@ -1,0 +1,26 @@
+{
+    "user_id": "a031367f-61f4-4373-ae6b-d64c740b3019",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "078dd6c9-0316-48e8-9f0b-c54f29f98f4a",
+                    "platform": "Facebook",
+                    "post_url": "https://sticky-characterization.com/",
+                    "likes": "NaN",
+                    "comments": 34,
+                    "shares": 42,
+                    "reach": 9164
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

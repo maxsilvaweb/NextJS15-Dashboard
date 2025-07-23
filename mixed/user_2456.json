@@ -1,0 +1,26 @@
+{
+    "user_id": "beb5b24d-e214-4968-9e84-5010ccf2793d",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://brown-comestible.info/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 90,
+                    "reach": 6292
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

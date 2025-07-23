@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "5c0a57c0-6e12-46d5-bb96-15a705e46a0e",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://advanced-casket.biz",
+                    "likes": "NaN",
+                    "comments": 49,
+                    "shares": 37,
+                    "reach": 7490
+                }
+            ],
+            "total_sales_attributed": 1219.3076213801503
+        }
+    ]
+}

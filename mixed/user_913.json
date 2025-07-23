@@ -1,0 +1,26 @@
+{
+    "user_id": "f4047248-f173-48db-8859-874f82b2f218",
+    "name": "Pat Bergstrom",
+    "email": "Berniece.Wilkinson@hotmail.com",
+    "instagram_handle": "@Adelia_Pouros8",
+    "tiktok_handle": "@Percival.Denesik",
+    "joined_at": "2024-04-14T03:20:44.568Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f6db441a-0d3d-4d94-966e-3f5f4067e5c8",
+            "brand": "Renner - Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "8e7a7772-2bd2-4db8-a8a1-edac632dee45",
+                    "platform": "Instagram",
+                    "post_url": "https://granular-valley.com",
+                    "likes": 341,
+                    "comments": 42,
+                    "shares": 16,
+                    "reach": 4563
+                }
+            ],
+            "total_sales_attributed": 475.14873511670214
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "edd5e90c-904d-4aeb-9d45-24262c36f7fa",
+    "name": "Dr. Bradley Purdy",
+    "email": "Kristopher_Connelly@yahoo.com",
+    "instagram_handle": "@Ima.Kutch66",
+    "tiktok_handle": "@Ressie_Legros75",
+    "joined_at": "2025-02-21T12:15:06.741Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ab08cef1-152a-435a-9191-962ecac96ea0",
+            "brand": "Huels Group",
+            "tasks_completed": [
+                {
+                    "task_id": "00c8eb06-7762-4fed-9d37-5b9e84b3f6b9",
+                    "platform": "TikTok",
+                    "post_url": "https://apprehensive-noon.org/",
+                    "likes": 495,
+                    "comments": 13,
+                    "shares": 4,
+                    "reach": 9328
+                }
+            ],
+            "total_sales_attributed": 3296.8258518746543
+        }
+    ]
+}

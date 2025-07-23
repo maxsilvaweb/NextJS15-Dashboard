@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Jaeden_Gottlieb@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "e1aca938-210e-4faf-9269-522e379c6bcb",
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 132,
+                    "comments": null,
+                    "shares": 100,
+                    "reach": 9623
+                }
+            ],
+            "total_sales_attributed": 3516.734600931915
+        }
+    ]
+}

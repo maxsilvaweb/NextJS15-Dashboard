@@ -1,0 +1,26 @@
+{
+    "user_id": "15a9aef2-76e6-45cd-a50b-0c82ac009428",
+    "name": "Stacy Leffler",
+    "email": "Larry.Hills@yahoo.com",
+    "instagram_handle": "@Rodger.Klocko",
+    "tiktok_handle": "@Ryan3",
+    "joined_at": "2025-02-10T16:57:27.193Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0e54e7f6-b207-4086-9458-cfa0d48aeb49",
+            "brand": "Gutmann and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "c51681de-d2c2-44a8-ad28-3a4825ef9f4b",
+                    "platform": "TikTok",
+                    "post_url": "https://vivacious-language.org",
+                    "likes": 238,
+                    "comments": 41,
+                    "shares": 14,
+                    "reach": 8769
+                }
+            ],
+            "total_sales_attributed": 2374.5115826114975
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0d5c2345-cefb-4332-bedb-84b764e07484",
+    "name": "???",
+    "email": "Kimberly_Yost@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "82361882-bee3-416a-9682-a8a2af0ca353",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://intelligent-instruction.com",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 0,
+                    "reach": 6298
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

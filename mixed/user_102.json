@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Walker LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "11d5fdb2-7f4c-47ac-949c-26068d66a1c1",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 434,
+                    "comments": null,
+                    "shares": 100,
+                    "reach": 1699
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

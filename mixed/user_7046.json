@@ -1,0 +1,26 @@
+{
+    "user_id": "01a6edcb-7c18-426d-9ee4-9cef9f025e79",
+    "name": "Mrs. Donna Thompson",
+    "email": "Myrna44@gmail.com",
+    "instagram_handle": "@Timothy.Donnelly",
+    "tiktok_handle": "@Frederick37",
+    "joined_at": "2024-04-03T01:32:40.074Z",
+    "advocacy_programs": [
+        {
+            "program_id": "aeb29a7c-321f-4afb-a74c-2979fcbe6e3c",
+            "brand": "Brakus LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a8e39be9-a95c-4de9-b79d-fe966820d170",
+                    "platform": "Instagram",
+                    "post_url": "https://hateful-innovation.biz",
+                    "likes": 183,
+                    "comments": 7,
+                    "shares": 65,
+                    "reach": 6589
+                }
+            ],
+            "total_sales_attributed": 4822.877740562941
+        }
+    ]
+}

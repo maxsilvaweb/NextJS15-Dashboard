@@ -1,0 +1,26 @@
+{
+    "user_id": "130c9126-fd0a-4cb9-8245-fbeb4b3d6925",
+    "name": "Rochelle Kessler",
+    "email": "Craig33@hotmail.com",
+    "instagram_handle": "@Elise.Cole",
+    "tiktok_handle": "@Aryanna.Huels-Pagac",
+    "joined_at": "2024-07-02T20:35:01.282Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ad088354-9c23-4376-94a2-6191d564cbb2",
+            "brand": "Reinger - Mitchell",
+            "tasks_completed": [
+                {
+                    "task_id": "c779ac6f-56f8-4a68-8694-8a2f61aaa04c",
+                    "platform": "Instagram",
+                    "post_url": "https://yearly-kinase.org/",
+                    "likes": 80,
+                    "comments": 33,
+                    "shares": 77,
+                    "reach": 5456
+                }
+            ],
+            "total_sales_attributed": 2879.413993227872
+        }
+    ]
+}

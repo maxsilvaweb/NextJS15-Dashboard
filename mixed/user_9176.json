@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-05-01T06:01:21.029Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Ankunding, Casper and Leuschke",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://rotten-bonfire.info/",
+                    "likes": 241,
+                    "comments": null,
+                    "shares": 82,
+                    "reach": 9780
+                }
+            ],
+            "total_sales_attributed": 4570.586284117224
+        }
+    ]
+}

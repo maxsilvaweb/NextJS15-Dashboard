@@ -1,0 +1,26 @@
+{
+    "user_id": "a2be660c-fb0f-4d0c-9be0-2bb11db8ec39",
+    "name": "Mamie Bode Jr.",
+    "email": "Taryn.Paucek@hotmail.com",
+    "instagram_handle": "@Geovany_Steuber33",
+    "tiktok_handle": "@Perry_Kutch77",
+    "joined_at": "2024-12-18T10:36:10.484Z",
+    "advocacy_programs": [
+        {
+            "program_id": "16275d36-9fe4-41c0-b40b-685c89f69b43",
+            "brand": "Murphy - Prohaska",
+            "tasks_completed": [
+                {
+                    "task_id": "1d6c04cd-5c15-42a0-bad8-afa7c1c6dac6",
+                    "platform": "Instagram",
+                    "post_url": "https://grouchy-carboxyl.org",
+                    "likes": 67,
+                    "comments": 11,
+                    "shares": 80,
+                    "reach": 1190
+                }
+            ],
+            "total_sales_attributed": 1503.3091512890371
+        }
+    ]
+}

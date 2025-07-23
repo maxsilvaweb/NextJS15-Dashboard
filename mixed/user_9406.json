@@ -1,0 +1,26 @@
+{
+    "user_id": "8d070852-dce3-42f8-83cd-9306c1a95618",
+    "name": "Patsy Koch",
+    "email": "Eileen_Kshlerin34@yahoo.com",
+    "instagram_handle": "@Austen_Tromp",
+    "tiktok_handle": "@Gunner.Steuber",
+    "joined_at": "2024-04-05T09:01:11.213Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d1b41411-237a-46d4-bc6a-d688f1f54eca",
+            "brand": "Collins - Schmitt",
+            "tasks_completed": [
+                {
+                    "task_id": "4525fca5-8106-4421-a0fa-7dbfcd0d4316",
+                    "platform": "TikTok",
+                    "post_url": "https://frightened-puritan.name/",
+                    "likes": 350,
+                    "comments": 13,
+                    "shares": 21,
+                    "reach": 7929
+                }
+            ],
+            "total_sales_attributed": 2446.973209901836
+        }
+    ]
+}

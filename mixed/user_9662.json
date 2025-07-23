@@ -1,0 +1,26 @@
+{
+    "user_id": "c0a30f1d-6c6d-4dde-bb91-b7eeaf1ac20a",
+    "name": "Raul White",
+    "email": "Ozella_Romaguera38@yahoo.com",
+    "instagram_handle": "@Ethel74",
+    "tiktok_handle": "@Kira_Davis-Morissette54",
+    "joined_at": "2024-12-16T20:43:09.154Z",
+    "advocacy_programs": [
+        {
+            "program_id": "42210523-67bc-4795-b022-ae6e461153d4",
+            "brand": "Boyer Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "7c273cbf-2c7e-4212-afee-24eda30264a1",
+                    "platform": "Instagram",
+                    "post_url": "https://specific-secrecy.com",
+                    "likes": 283,
+                    "comments": 22,
+                    "shares": 86,
+                    "reach": 8305
+                }
+            ],
+            "total_sales_attributed": 1958.3805849776718
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "416f3191-14bf-4055-a3c1-74584bbf53fd",
+    "name": "???",
+    "email": "Maurine.Lind62@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 59,
+                    "comments": 34,
+                    "shares": 9,
+                    "reach": 6531
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

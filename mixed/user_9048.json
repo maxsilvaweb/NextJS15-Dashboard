@@ -1,0 +1,26 @@
+{
+    "user_id": "8eeff5da-cb5b-474b-b24b-4321eec6d4e7",
+    "name": "Andrea Johnston",
+    "email": "Alf.Nienow-Kemmer@gmail.com",
+    "instagram_handle": "@Dimitri21",
+    "tiktok_handle": "@Laurianne.Hudson-Lubowitz3",
+    "joined_at": "2025-03-17T09:27:08.139Z",
+    "advocacy_programs": [
+        {
+            "program_id": "924287e0-907c-49d3-bfb7-a84b22e32cc2",
+            "brand": "Lemke Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9bac432f-64a8-4909-9e50-01a9201cefd5",
+                    "platform": "Instagram",
+                    "post_url": "https://dark-viability.name",
+                    "likes": 24,
+                    "comments": 26,
+                    "shares": 67,
+                    "reach": 2460
+                }
+            ],
+            "total_sales_attributed": 3737.4709158338583
+        }
+    ]
+}

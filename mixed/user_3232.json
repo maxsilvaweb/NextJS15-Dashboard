@@ -1,0 +1,26 @@
+{
+    "user_id": "683df29a-88c3-4b97-8dc4-17bad3587785",
+    "name": "Santiago Kassulke",
+    "email": "Merlin.Auer4@gmail.com",
+    "instagram_handle": "@Dewitt98",
+    "tiktok_handle": "@Telly.Bruen-Waelchi9",
+    "joined_at": "2024-10-11T20:28:49.847Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f4c7512c-93ac-4bbe-a5e1-893e1c2554f2",
+            "brand": "Hilpert LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a2868b39-49b1-4d37-9697-31a5d7683ec0",
+                    "platform": "Instagram",
+                    "post_url": "https://decent-reward.net",
+                    "likes": 343,
+                    "comments": 0,
+                    "shares": 23,
+                    "reach": 9549
+                }
+            ],
+            "total_sales_attributed": 4588.610052506436
+        }
+    ]
+}

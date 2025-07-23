@@ -1,0 +1,26 @@
+{
+    "user_id": "e5136f31-cc27-4d52-ad89-942c37fc63c6",
+    "name": "Joy Hodkiewicz",
+    "email": "Rusty.Denesik25@gmail.com",
+    "instagram_handle": "@Stefan.Bauch71",
+    "tiktok_handle": "@Marc98",
+    "joined_at": "2025-02-16T12:49:32.885Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b1e0e5f6-9e8a-4b1f-8708-e0fe119a6af4",
+            "brand": "Hackett, Kassulke and Witting",
+            "tasks_completed": [
+                {
+                    "task_id": "3a65b353-323e-414f-ae91-5cf024d94fd3",
+                    "platform": "TikTok",
+                    "post_url": "https://courageous-minister.net",
+                    "likes": 374,
+                    "comments": 34,
+                    "shares": 78,
+                    "reach": 941
+                }
+            ],
+            "total_sales_attributed": 4458.997896722308
+        }
+    ]
+}

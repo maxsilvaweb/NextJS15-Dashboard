@@ -1,0 +1,26 @@
+{
+    "user_id": "da16dd44-4f16-4861-8101-775140b23bee",
+    "name": "Jaime Mayer",
+    "email": "Lazaro40@gmail.com",
+    "instagram_handle": "@Pamela93",
+    "tiktok_handle": "@Eveline.McGlynn46",
+    "joined_at": "2024-04-11T11:05:06.313Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f4b97143-074e-4276-a13a-6982addf9465",
+            "brand": "Bradtke - Mraz",
+            "tasks_completed": [
+                {
+                    "task_id": "7a805774-776d-4d00-96fd-a6a6b5c55321",
+                    "platform": "TikTok",
+                    "post_url": "https://cluttered-calculus.biz",
+                    "likes": 443,
+                    "comments": 25,
+                    "shares": 79,
+                    "reach": 9157
+                }
+            ],
+            "total_sales_attributed": 1848.4657993946157
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "68e9328c-a0f9-4752-addd-63046eae9d20",
+    "name": "Joanne Wilderman",
+    "email": "Caleigh_Zemlak@hotmail.com",
+    "instagram_handle": "@Delia.Labadie59",
+    "tiktok_handle": "@Ena91",
+    "joined_at": "2024-04-15T19:13:36.327Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dcb051e5-f081-48f8-999f-9103263d04cb",
+            "brand": "Macejkovic - Spinka",
+            "tasks_completed": [
+                {
+                    "task_id": "d96b16e5-4872-4778-852b-d07ef18a2ef4",
+                    "platform": "TikTok",
+                    "post_url": "https://aching-boulevard.name/",
+                    "likes": 155,
+                    "comments": 24,
+                    "shares": 67,
+                    "reach": 7307
+                }
+            ],
+            "total_sales_attributed": 2521.187621616113
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "25c0d578-c888-41bd-8601-112641cc0cf6",
+    "name": "Virginia Bruen",
+    "email": "Paula64@hotmail.com",
+    "instagram_handle": "@Josh_Shields31",
+    "tiktok_handle": "@Nikita29",
+    "joined_at": "2024-03-21T00:34:52.411Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eb6e150f-f315-4b12-803d-2c0d46472415",
+            "brand": "Lemke, Cronin and Tillman",
+            "tasks_completed": [
+                {
+                    "task_id": "02cbc04c-9ea4-4354-bfc1-757d4edce20d",
+                    "platform": "TikTok",
+                    "post_url": "https://front-dwell.biz",
+                    "likes": 412,
+                    "comments": 38,
+                    "shares": 24,
+                    "reach": 5524
+                }
+            ],
+            "total_sales_attributed": 3673.4035456381325
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9d621f11-654a-4311-ac45-ed931a502bf0",
+    "name": "Henry Schinner Sr.",
+    "email": "Dalton14@yahoo.com",
+    "instagram_handle": "@Ephraim.Hayes63",
+    "tiktok_handle": "@Zackary73",
+    "joined_at": "2024-05-15T13:37:52.617Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f2d0ef60-76b5-4304-8a67-6534405a37c7",
+            "brand": "Paucek - Bauch",
+            "tasks_completed": [
+                {
+                    "task_id": "3fa4eca4-901d-4153-8a71-2136a7d92a0e",
+                    "platform": "Instagram",
+                    "post_url": "https://crushing-amnesty.biz",
+                    "likes": 386,
+                    "comments": 34,
+                    "shares": 32,
+                    "reach": 2103
+                }
+            ],
+            "total_sales_attributed": 2227.210203922663
+        }
+    ]
+}

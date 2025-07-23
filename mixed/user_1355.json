@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Julian.Pagac3@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "cf709a9a-f43f-4d05-bf99-7fb5de988aa1",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 457,
+                    "comments": null,
+                    "shares": 28,
+                    "reach": 6634
+                }
+            ],
+            "total_sales_attributed": 4131.5192794937075
+        }
+    ]
+}

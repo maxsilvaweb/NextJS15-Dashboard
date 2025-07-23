@@ -1,0 +1,26 @@
+{
+    "user_id": "82821f98-0b13-44dc-8172-6f2ae6447edb",
+    "name": "Angelica Jones-Bauch",
+    "email": "Diego15@hotmail.com",
+    "instagram_handle": "@Gladys.Borer19",
+    "tiktok_handle": "@Adrienne_Gleason9",
+    "joined_at": "2024-12-27T18:47:33.946Z",
+    "advocacy_programs": [
+        {
+            "program_id": "379ed172-50ea-4727-8488-8a842f00b6b3",
+            "brand": "Hirthe LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "20947b91-5063-402b-9e4e-55d0574a91d4",
+                    "platform": "TikTok",
+                    "post_url": "https://exhausted-moment.org/",
+                    "likes": 151,
+                    "comments": 2,
+                    "shares": 83,
+                    "reach": 5165
+                }
+            ],
+            "total_sales_attributed": 4161.068980173757
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e75b97bc-2797-4434-bf79-5d68d54fd9b6",
+    "name": "Lucy Senger Sr.",
+    "email": "Marguerite.Weissnat-Mante@hotmail.com",
+    "instagram_handle": "@Joyce82",
+    "tiktok_handle": "@Burnice81",
+    "joined_at": "2024-08-24T08:37:59.702Z",
+    "advocacy_programs": [
+        {
+            "program_id": "59ed3931-482f-4e65-a13f-b98c9f897f2a",
+            "brand": "Schimmel - Marvin",
+            "tasks_completed": [
+                {
+                    "task_id": "a8b54597-e686-424a-91ef-7a88c4df7326",
+                    "platform": "TikTok",
+                    "post_url": "https://happy-go-lucky-pleasure.com",
+                    "likes": 198,
+                    "comments": 12,
+                    "shares": 85,
+                    "reach": 5804
+                }
+            ],
+            "total_sales_attributed": 2027.56787430171
+        }
+    ]
+}

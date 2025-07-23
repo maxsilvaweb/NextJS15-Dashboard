@@ -1,0 +1,26 @@
+{
+    "user_id": "a8873083-8d08-4c37-869a-a745e4473495",
+    "name": "Ana Cartwright",
+    "email": "Ludwig52@gmail.com",
+    "instagram_handle": "@Drew_Ruecker",
+    "tiktok_handle": "@Alycia6",
+    "joined_at": "2024-10-05T23:37:22.083Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8c676eb9-a0d8-49d3-9fb2-c7af8b96c0f0",
+            "brand": "Metz, Littel and Pollich",
+            "tasks_completed": [
+                {
+                    "task_id": "a155ead8-de49-45e1-ac9c-c5875de04330",
+                    "platform": "TikTok",
+                    "post_url": "https://pink-chiffonier.org/",
+                    "likes": 289,
+                    "comments": 19,
+                    "shares": 56,
+                    "reach": 5353
+                }
+            ],
+            "total_sales_attributed": 2223.4431279570604
+        }
+    ]
+}

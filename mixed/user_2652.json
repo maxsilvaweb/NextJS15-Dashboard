@@ -1,0 +1,26 @@
+{
+    "user_id": "64961e1e-00da-46f2-80a9-c2118abf5541",
+    "name": "Ella Muller-Hettinger I",
+    "email": "Sabryna_Grimes@hotmail.com",
+    "instagram_handle": "@Akeem_Torp",
+    "tiktok_handle": "@Tracey.Bode69",
+    "joined_at": "2024-09-15T13:01:44.041Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f593fce3-1f04-401f-850f-fa5c1b3bb32d",
+            "brand": "Moen - Hartmann",
+            "tasks_completed": [
+                {
+                    "task_id": "31be91ef-35ba-41e6-bd73-5fb8e4e70400",
+                    "platform": "Instagram",
+                    "post_url": "https://velvety-amnesty.org/",
+                    "likes": 94,
+                    "comments": 47,
+                    "shares": 51,
+                    "reach": 9663
+                }
+            ],
+            "total_sales_attributed": 2976.7490782782265
+        }
+    ]
+}

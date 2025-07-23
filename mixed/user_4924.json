@@ -1,0 +1,26 @@
+{
+    "user_id": "bb4961a3-34db-4594-a98c-70d87fe21877",
+    "name": "Santos Ernser V",
+    "email": "Tyra.Hessel@yahoo.com",
+    "instagram_handle": "@Elsa82",
+    "tiktok_handle": "@Pat_DAmore9",
+    "joined_at": "2025-03-03T12:26:59.910Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dd95fc1b-ad87-4622-810d-9e1aa014e94e",
+            "brand": "Johnston and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "3d951e38-2378-4526-b052-39cbc375f561",
+                    "platform": "Instagram",
+                    "post_url": "https://supportive-ceramics.info/",
+                    "likes": 73,
+                    "comments": 37,
+                    "shares": 77,
+                    "reach": 1562
+                }
+            ],
+            "total_sales_attributed": 2737.344799724379
+        }
+    ]
+}

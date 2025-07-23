@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Bechtelar, Monahan and Shanahan",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://complicated-follower.info",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 79,
+                    "reach": 7609
+                }
+            ],
+            "total_sales_attributed": 4979.961331141588
+        }
+    ]
+}

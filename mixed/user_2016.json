@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Jerrell_Stanton40",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://dirty-zen.biz",
+                    "likes": "NaN",
+                    "comments": 38,
+                    "shares": 100,
+                    "reach": 5503
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

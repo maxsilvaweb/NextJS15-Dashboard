@@ -1,0 +1,26 @@
+{
+    "user_id": "00aa7155-6ad8-444f-a33c-43df9ed7a82b",
+    "name": "Ms. Cheryl Champlin",
+    "email": "Cortez.Hegmann@gmail.com",
+    "instagram_handle": "@Lennie.Cronin32",
+    "tiktok_handle": "@Sister_Bartoletti-Herzog",
+    "joined_at": "2024-11-29T10:43:06.800Z",
+    "advocacy_programs": [
+        {
+            "program_id": "636faa08-fec2-429b-b4d0-a58a2903756a",
+            "brand": "Abbott, Tremblay and Kub",
+            "tasks_completed": [
+                {
+                    "task_id": "b38dabf7-778b-4084-8a6e-05a76f4201ac",
+                    "platform": "Instagram",
+                    "post_url": "https://smooth-nudge.info",
+                    "likes": 150,
+                    "comments": 16,
+                    "shares": 84,
+                    "reach": 6909
+                }
+            ],
+            "total_sales_attributed": 2206.067562168103
+        }
+    ]
+}

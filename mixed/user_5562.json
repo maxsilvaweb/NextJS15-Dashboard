@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-06-18T03:30:45.000Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Kozey, Dach and Wilderman",
+            "tasks_completed": [
+                {
+                    "task_id": "550741f9-8dd6-401b-ad7a-4e9911ff0343",
+                    "platform": "TikTok",
+                    "post_url": "https://busy-nightlife.net/",
+                    "likes": "NaN",
+                    "comments": 16,
+                    "shares": 8,
+                    "reach": 5736
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

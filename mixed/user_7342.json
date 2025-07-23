@@ -1,0 +1,26 @@
+{
+    "user_id": "c39ceaa1-c15b-4d77-876c-8176bb836052",
+    "name": "Moses Emmerich",
+    "email": "Joan_Jakubowski@yahoo.com",
+    "instagram_handle": "@Charity.Klein",
+    "tiktok_handle": "@Bella76",
+    "joined_at": "2024-04-05T19:50:37.718Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5c6b0373-f287-46b6-84b6-b506f9b7cc8b",
+            "brand": "Bradtke, Deckow and Price",
+            "tasks_completed": [
+                {
+                    "task_id": "1d5c50a0-22ba-4cd4-9e0f-1c47b77dcab5",
+                    "platform": "TikTok",
+                    "post_url": "https://remarkable-quinoa.org",
+                    "likes": 465,
+                    "comments": 38,
+                    "shares": 75,
+                    "reach": 9861
+                }
+            ],
+            "total_sales_attributed": 417.4847228218506
+        }
+    ]
+}

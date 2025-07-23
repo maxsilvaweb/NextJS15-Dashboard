@@ -1,0 +1,26 @@
+{
+    "user_id": "ee98bcce-704e-468f-89db-371f9895e4b3",
+    "name": "Nichole Zboncak",
+    "email": "Maureen68@gmail.com",
+    "instagram_handle": "@Mercedes35",
+    "tiktok_handle": "@Earl_Roberts",
+    "joined_at": "2024-11-05T18:10:41.310Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b3b9f757-7997-421c-85be-8a177c47d10e",
+            "brand": "Von and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "40981f5c-8e04-4d86-9f62-e69a9eda006b",
+                    "platform": "Instagram",
+                    "post_url": "https://neat-litter.name/",
+                    "likes": 261,
+                    "comments": 6,
+                    "shares": 61,
+                    "reach": 4403
+                }
+            ],
+            "total_sales_attributed": 4924.947139890029
+        }
+    ]
+}

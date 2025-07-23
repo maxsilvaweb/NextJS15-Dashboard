@@ -1,0 +1,26 @@
+{
+    "user_id": "331e7d17-64de-4ea9-8230-aeedb7efb031",
+    "name": "Caleb Keeling IV",
+    "email": "Nayeli.Jacobi@hotmail.com",
+    "instagram_handle": "@Makenna86",
+    "tiktok_handle": "@Adan42",
+    "joined_at": "2025-03-13T18:14:58.590Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8e2ef101-8a82-4e09-97a7-1dd5396278be",
+            "brand": "Crooks Group",
+            "tasks_completed": [
+                {
+                    "task_id": "b032d435-f2d4-4702-8349-41f548c8b29e",
+                    "platform": "Instagram",
+                    "post_url": "https://proper-hawk.name",
+                    "likes": 159,
+                    "comments": 13,
+                    "shares": 74,
+                    "reach": 4340
+                }
+            ],
+            "total_sales_attributed": 1667.7218027520582
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Lemke LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "cbe2943d-a9a7-4bc7-a427-7ed01d0405eb",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 35,
+                    "reach": 7523
+                }
+            ],
+            "total_sales_attributed": 4188.551134546542
+        }
+    ]
+}

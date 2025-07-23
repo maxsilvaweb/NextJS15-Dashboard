@@ -1,0 +1,26 @@
+{
+    "user_id": "c13ea850-0b87-4b31-b8d3-ba33f340b5c1",
+    "name": "Brad Champlin",
+    "email": "Myrna10@gmail.com",
+    "instagram_handle": "@Eladio.Weimann-Bogan",
+    "tiktok_handle": "@Domenick_Bernier78",
+    "joined_at": "2024-04-03T14:45:08.684Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c94f15a7-8dd2-4766-91ef-088897f13350",
+            "brand": "Weissnat, Green and Schimmel",
+            "tasks_completed": [
+                {
+                    "task_id": "8f3f7552-52ef-487b-977d-40d726ee99e1",
+                    "platform": "Instagram",
+                    "post_url": "https://common-premise.info",
+                    "likes": 215,
+                    "comments": 15,
+                    "shares": 63,
+                    "reach": 1749
+                }
+            ],
+            "total_sales_attributed": 854.905467109862
+        }
+    ]
+}

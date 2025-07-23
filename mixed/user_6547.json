@@ -1,0 +1,26 @@
+{
+    "user_id": "881437b8-fb28-474b-8922-03bb5b5fa63c",
+    "name": "Nathan Quitzon",
+    "email": "Eula.Gutmann@hotmail.com",
+    "instagram_handle": "@Hollis_Wehner76",
+    "tiktok_handle": "@Aaron_Reichel90",
+    "joined_at": "2024-12-25T09:35:54.711Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b246b225-f8fd-4b7c-a67f-a0f67523076a",
+            "brand": "Greenfelder Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b966f105-298e-4839-826c-333c86eff869",
+                    "platform": "Instagram",
+                    "post_url": "https://rotten-guacamole.com",
+                    "likes": 155,
+                    "comments": 27,
+                    "shares": 96,
+                    "reach": 8858
+                }
+            ],
+            "total_sales_attributed": 3547.717199223846
+        }
+    ]
+}

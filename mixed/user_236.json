@@ -1,0 +1,26 @@
+{
+    "user_id": "091ae546-d672-4abe-8dbb-7da5028eacb2",
+    "name": "Bryant Crona",
+    "email": "Adah_Smitham41@gmail.com",
+    "instagram_handle": "@Saige.Schumm",
+    "tiktok_handle": "@Janet.Rath1",
+    "joined_at": "2024-07-24T07:15:33.936Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c9b1f306-6149-4239-8f5c-788e58ef49f3",
+            "brand": "Kozey, Greenholt and Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "4e9abddb-0ebc-4c88-8d15-a0fd8d21c49e",
+                    "platform": "TikTok",
+                    "post_url": "https://rowdy-relative.com/",
+                    "likes": 160,
+                    "comments": 46,
+                    "shares": 3,
+                    "reach": 9138
+                }
+            ],
+            "total_sales_attributed": 2347.577103926424
+        }
+    ]
+}

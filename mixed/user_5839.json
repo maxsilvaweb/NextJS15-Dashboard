@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "15803a28-26e8-4426-8c24-47e29d37f857",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://tedious-giggle.net",
+                    "likes": 341,
+                    "comments": 36,
+                    "shares": 53,
+                    "reach": 1211
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

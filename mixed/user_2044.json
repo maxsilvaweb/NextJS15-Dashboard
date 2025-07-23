@@ -1,0 +1,26 @@
+{
+    "user_id": "b20082f3-707d-431f-90b6-a44f2fd7d923",
+    "name": "Lowell DuBuque DVM",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://shrill-diver.org",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 40,
+                    "reach": 4278
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

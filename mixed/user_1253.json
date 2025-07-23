@@ -1,0 +1,26 @@
+{
+    "user_id": "b8d822a3-f574-4122-ba3c-4fff11302cc3",
+    "name": "???",
+    "email": "Margarete.Satterfield@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 14,
+                    "reach": 5700
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

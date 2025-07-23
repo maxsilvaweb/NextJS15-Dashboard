@@ -1,0 +1,26 @@
+{
+    "user_id": "5ce77108-e31f-43dc-a429-db5579896b6a",
+    "name": "Ricky Bruen",
+    "email": "Ena.Botsford@gmail.com",
+    "instagram_handle": "@Nels.Beahan",
+    "tiktok_handle": "@Kamron14",
+    "joined_at": "2025-02-02T14:16:14.472Z",
+    "advocacy_programs": [
+        {
+            "program_id": "aa3760e5-faaf-4519-96f5-e0e77fc1e6de",
+            "brand": "Bashirian Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "103e88e0-c2f8-4b8e-887d-f914dd26261b",
+                    "platform": "Instagram",
+                    "post_url": "https://taut-fundraising.org",
+                    "likes": 12,
+                    "comments": 21,
+                    "shares": 50,
+                    "reach": 709
+                }
+            ],
+            "total_sales_attributed": 1778.389130202573
+        }
+    ]
+}

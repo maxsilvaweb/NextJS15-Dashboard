@@ -1,0 +1,26 @@
+{
+    "user_id": "50140d45-27f2-463b-9f3c-c721a03ced0a",
+    "name": "Garry Farrell DVM",
+    "email": "Maymie.Heathcote54@hotmail.com",
+    "instagram_handle": "@Edwina_Sanford4",
+    "tiktok_handle": "@Jefferey2",
+    "joined_at": "2024-09-04T19:01:17.105Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b8e5a074-3e0d-4761-819e-7647a7eeea08",
+            "brand": "Beer Group",
+            "tasks_completed": [
+                {
+                    "task_id": "cc64538d-e9f7-401b-bb3c-a2367738a3ac",
+                    "platform": "Instagram",
+                    "post_url": "https://honorable-tennis.net/",
+                    "likes": 424,
+                    "comments": 22,
+                    "shares": 5,
+                    "reach": 4791
+                }
+            ],
+            "total_sales_attributed": 3910.006319854801
+        }
+    ]
+}

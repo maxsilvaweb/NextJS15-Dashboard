@@ -1,0 +1,26 @@
+{
+    "user_id": "b9aa002a-cadf-4cb6-a59d-419359c26c02",
+    "name": "Marty Stoltenberg",
+    "email": "Jarod_Kling13@hotmail.com",
+    "instagram_handle": "@Kareem63",
+    "tiktok_handle": "@Edythe.Rogahn7",
+    "joined_at": "2025-03-04T04:17:53.733Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3fc7b377-3bf7-41f8-ae58-cb19f56782eb",
+            "brand": "Haag, Hammes and Waters",
+            "tasks_completed": [
+                {
+                    "task_id": "e70da1e1-6f00-4c66-9138-93818e7146f5",
+                    "platform": "TikTok",
+                    "post_url": "https://rowdy-sailor.info",
+                    "likes": 151,
+                    "comments": 28,
+                    "shares": 90,
+                    "reach": 4684
+                }
+            ],
+            "total_sales_attributed": 1072.210084047435
+        }
+    ]
+}

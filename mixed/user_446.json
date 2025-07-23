@@ -1,0 +1,26 @@
+{
+    "user_id": "2747bcf4-f524-4faf-a996-4899cc4432eb",
+    "name": "Jeanne Fritsch",
+    "email": "Jakayla42@gmail.com",
+    "instagram_handle": "@Emmet_Turner",
+    "tiktok_handle": "@Ena_Wiza28",
+    "joined_at": "2024-08-15T03:16:54.393Z",
+    "advocacy_programs": [
+        {
+            "program_id": "24a30660-fe79-4323-8acb-49dda97ffed3",
+            "brand": "Ullrich, Lehner and Stiedemann",
+            "tasks_completed": [
+                {
+                    "task_id": "546fec52-daf7-4e3f-b443-c42bd0851e94",
+                    "platform": "Instagram",
+                    "post_url": "https://mild-minor.info/",
+                    "likes": 157,
+                    "comments": 43,
+                    "shares": 59,
+                    "reach": 9040
+                }
+            ],
+            "total_sales_attributed": 1991.6418720006689
+        }
+    ]
+}

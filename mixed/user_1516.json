@@ -1,0 +1,26 @@
+{
+    "user_id": "1ad0285f-a5b3-4543-b7cc-118043128a9f",
+    "name": "Dr. Bill Marvin",
+    "email": "Liam_Deckow46@hotmail.com",
+    "instagram_handle": "@Sid53",
+    "tiktok_handle": "@Cloyd28",
+    "joined_at": "2024-05-03T09:04:58.422Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5cca92e7-1257-43cd-8784-9eebf053a4a0",
+            "brand": "Morissette, Murray and Abbott",
+            "tasks_completed": [
+                {
+                    "task_id": "e742bb86-07d1-4d86-91cc-d0e4c51f14f1",
+                    "platform": "TikTok",
+                    "post_url": "https://square-in-joke.info",
+                    "likes": 27,
+                    "comments": 21,
+                    "shares": 28,
+                    "reach": 851
+                }
+            ],
+            "total_sales_attributed": 4166.515526290791
+        }
+    ]
+}

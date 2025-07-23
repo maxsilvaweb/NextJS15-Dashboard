@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Murl.Grady@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Isabel.Schowalter-Reilly",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "cdec025d-170e-4a28-ac42-e4f0e73c7185",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 30,
+                    "shares": 81,
+                    "reach": 1626
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

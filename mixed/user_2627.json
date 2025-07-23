@@ -1,0 +1,26 @@
+{
+    "user_id": "ab0c7b40-89c3-49da-8363-2fcc125b004d",
+    "name": "Tyler Grady",
+    "email": "Rory.Upton@hotmail.com",
+    "instagram_handle": "@Bridie40",
+    "tiktok_handle": "@Josh11",
+    "joined_at": "2024-08-26T21:42:41.601Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c9cc7441-7a18-4d09-859c-360925b5e393",
+            "brand": "Zemlak - Ritchie",
+            "tasks_completed": [
+                {
+                    "task_id": "caf649a1-576a-4c5b-9fd6-283a6664bfa0",
+                    "platform": "TikTok",
+                    "post_url": "https://boring-insolence.info/",
+                    "likes": 203,
+                    "comments": 14,
+                    "shares": 36,
+                    "reach": 2916
+                }
+            ],
+            "total_sales_attributed": 3393.92466107531
+        }
+    ]
+}

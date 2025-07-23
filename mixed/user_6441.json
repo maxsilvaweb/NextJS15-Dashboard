@@ -1,0 +1,26 @@
+{
+    "user_id": "a10479db-fe87-4135-919c-68d405fe8ce2",
+    "name": "Natasha Haley",
+    "email": "Frieda15@yahoo.com",
+    "instagram_handle": "@Gerda.DAmore",
+    "tiktok_handle": "@Mckenna.Lehner71",
+    "joined_at": "2024-12-01T06:23:15.087Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a1067009-b6db-4cb8-a3f4-70e27b2a8cc2",
+            "brand": "Schaden - Hermiston",
+            "tasks_completed": [
+                {
+                    "task_id": "55fc3e79-52af-43ca-9613-bad9d35d426f",
+                    "platform": "TikTok",
+                    "post_url": "https://timely-suspension.info",
+                    "likes": 431,
+                    "comments": 37,
+                    "shares": 5,
+                    "reach": 7808
+                }
+            ],
+            "total_sales_attributed": 3577.5148055168634
+        }
+    ]
+}

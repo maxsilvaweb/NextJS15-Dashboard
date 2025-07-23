@@ -1,0 +1,26 @@
+{
+    "user_id": "9b572d7a-36a8-4eb9-a9d3-0663a0cbf673",
+    "name": "Evan Schinner",
+    "email": "Isobel.Leuschke@gmail.com",
+    "instagram_handle": "@Carolyn.Nikolaus48",
+    "tiktok_handle": "@Lisandro_Stroman",
+    "joined_at": "2025-01-21T00:49:04.242Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b5c78759-b584-4133-90c9-f9e1b2481675",
+            "brand": "Labadie, Block and Gerlach",
+            "tasks_completed": [
+                {
+                    "task_id": "8fb0d9dd-2270-4b8a-ba80-3168f0a5aecf",
+                    "platform": "Instagram",
+                    "post_url": "https://private-legislature.com",
+                    "likes": 467,
+                    "comments": 1,
+                    "shares": 24,
+                    "reach": 3352
+                }
+            ],
+            "total_sales_attributed": 1448.0493477640196
+        }
+    ]
+}

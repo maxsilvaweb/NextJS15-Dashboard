@@ -1,0 +1,26 @@
+{
+    "user_id": "1baece5d-07fe-4386-acf3-ea9122bafe0f",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Name.Gerhold64",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Leuschke, Nitzsche and Hintz",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 10,
+                    "shares": 13,
+                    "reach": 5105
+                }
+            ],
+            "total_sales_attributed": 172.48923373485343
+        }
+    ]
+}

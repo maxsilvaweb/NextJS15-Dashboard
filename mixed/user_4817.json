@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Vada.Anderson",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-05-02T16:38:58.396Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 13,
+                    "reach": 4690
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

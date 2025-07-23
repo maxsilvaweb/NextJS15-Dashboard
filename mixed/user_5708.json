@@ -1,0 +1,26 @@
+{
+    "user_id": "1c2e5bb4-7070-42c6-b021-844734c51c47",
+    "name": "Krista Satterfield",
+    "email": "Shemar_Crona19@gmail.com",
+    "instagram_handle": "@Lavern_Pfeffer",
+    "tiktok_handle": "@Lily_Cummings-Erdman93",
+    "joined_at": "2024-06-07T11:04:37.819Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6d0b5910-54a4-49d8-9f9c-b43f0212080c",
+            "brand": "Champlin Group",
+            "tasks_completed": [
+                {
+                    "task_id": "79159f00-aaef-490f-a3ec-4e3625cb307d",
+                    "platform": "Instagram",
+                    "post_url": "https://wordy-marksman.name",
+                    "likes": 483,
+                    "comments": 13,
+                    "shares": 76,
+                    "reach": 2730
+                }
+            ],
+            "total_sales_attributed": 2404.535192705702
+        }
+    ]
+}

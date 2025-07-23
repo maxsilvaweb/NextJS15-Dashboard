@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://tinted-bungalow.com",
+                    "likes": 305,
+                    "comments": 3,
+                    "shares": 65,
+                    "reach": 1763
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

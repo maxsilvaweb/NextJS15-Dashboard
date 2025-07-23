@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "9ad92beb-9b0b-48f4-8dbd-68d19488c43f",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://long-term-wasabi.name",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 90,
+                    "reach": 1203
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

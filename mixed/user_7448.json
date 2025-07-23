@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Gus.Mayert48",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-12-11T03:01:56.390Z",
+    "advocacy_programs": [
+        {
+            "program_id": "526926fb-7d81-443a-b980-ed9fa9856a7b",
+            "brand": "Windler, Hodkiewicz and Feil",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 76,
+                    "reach": 7880
+                }
+            ],
+            "total_sales_attributed": 1054.322626500571
+        }
+    ]
+}

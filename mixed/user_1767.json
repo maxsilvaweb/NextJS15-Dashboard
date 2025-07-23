@@ -1,0 +1,26 @@
+{
+    "user_id": "ed170aec-8351-4b4d-8fd2-48c9bacdfa09",
+    "name": "Jared Stiedemann",
+    "email": "Arno_Flatley14@yahoo.com",
+    "instagram_handle": "@Andre74",
+    "tiktok_handle": "@Marcelle_Ward53",
+    "joined_at": "2025-02-23T07:13:43.195Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f0ce1d80-ad10-48f5-8426-24b4a7c6bcce",
+            "brand": "Cummerata, Hand and Moen",
+            "tasks_completed": [
+                {
+                    "task_id": "e68cfaf7-a59f-4346-bb89-3c4aa729d416",
+                    "platform": "Instagram",
+                    "post_url": "https://bare-overload.name",
+                    "likes": 156,
+                    "comments": 7,
+                    "shares": 33,
+                    "reach": 7367
+                }
+            ],
+            "total_sales_attributed": 3305.616328889809
+        }
+    ]
+}

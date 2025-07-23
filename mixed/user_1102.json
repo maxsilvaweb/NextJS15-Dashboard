@@ -1,0 +1,26 @@
+{
+    "user_id": "4c178465-6924-4ab3-85db-d1d569790bd1",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-06-20T02:53:53.967Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://coordinated-gazebo.name/",
+                    "likes": "NaN",
+                    "comments": 4,
+                    "shares": 77,
+                    "reach": 3276
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

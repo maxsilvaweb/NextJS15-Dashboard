@@ -1,0 +1,26 @@
+{
+    "user_id": "08b275a5-1c6b-4637-a26f-cd2dcc95c520",
+    "name": "Tyrone McKenzie",
+    "email": "Madison_Thiel@gmail.com",
+    "instagram_handle": "@Sigrid37",
+    "tiktok_handle": "@Enrique32",
+    "joined_at": "2024-05-25T14:58:31.214Z",
+    "advocacy_programs": [
+        {
+            "program_id": "25380dbb-92a4-469d-8cfd-0d4b4f2c3916",
+            "brand": "Schmitt - Roob",
+            "tasks_completed": [
+                {
+                    "task_id": "28658f6f-83d6-408d-8a65-24ae257d5de7",
+                    "platform": "Instagram",
+                    "post_url": "https://shy-developing.info",
+                    "likes": 204,
+                    "comments": 10,
+                    "shares": 11,
+                    "reach": 4120
+                }
+            ],
+            "total_sales_attributed": 971.8914194310063
+        }
+    ]
+}

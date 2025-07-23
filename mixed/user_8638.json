@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Nathaniel_Balistreri",
+    "joined_at": "2024-04-25T10:19:57.280Z",
+    "advocacy_programs": [
+        {
+            "program_id": "96eaf7a6-26ec-48b0-a66d-d4d826f51dab",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://selfish-minority.net/",
+                    "likes": "NaN",
+                    "comments": 41,
+                    "shares": 65,
+                    "reach": 4951
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

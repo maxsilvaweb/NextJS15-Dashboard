@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Donnie Wolff",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "bfa09a89-7f64-4178-94ae-f930f112d404",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://honored-bathhouse.name/",
+                    "likes": 317,
+                    "comments": 43,
+                    "shares": 3,
+                    "reach": 2101
+                }
+            ],
+            "total_sales_attributed": 924.2948471236454
+        }
+    ]
+}

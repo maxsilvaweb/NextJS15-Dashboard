@@ -1,0 +1,26 @@
+{
+    "user_id": "8579b412-c670-4f42-b9dd-57d0cba5e97b",
+    "name": "Roger Stiedemann",
+    "email": "Else.Swaniawski@gmail.com",
+    "instagram_handle": "@Mabelle.Murphy61",
+    "tiktok_handle": "@Winona63",
+    "joined_at": "2024-10-26T15:03:07.684Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f57a6320-40c1-4955-b08b-cd5b2d8fcebb",
+            "brand": "Abshire Group",
+            "tasks_completed": [
+                {
+                    "task_id": "d4a6e8d9-f0ed-41a3-8d28-9e93234b2278",
+                    "platform": "Instagram",
+                    "post_url": "https://busy-stock.info",
+                    "likes": 321,
+                    "comments": 11,
+                    "shares": 42,
+                    "reach": 1459
+                }
+            ],
+            "total_sales_attributed": 4609.756997329781
+        }
+    ]
+}

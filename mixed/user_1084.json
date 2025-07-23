@@ -1,0 +1,26 @@
+{
+    "user_id": "fc57820d-fb27-4b2a-b0bb-8ef9d619356a",
+    "name": "Josh Prohaska",
+    "email": "Walker.Cummings@gmail.com",
+    "instagram_handle": "@Abe_Conn",
+    "tiktok_handle": "@Kaylee9",
+    "joined_at": "2024-07-12T07:32:04.637Z",
+    "advocacy_programs": [
+        {
+            "program_id": "51f1b51c-f115-4f7a-8cf8-b0ed1d0699a4",
+            "brand": "Cormier Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f1eac71c-d186-4acd-8ac1-d3e1bb608339",
+                    "platform": "TikTok",
+                    "post_url": "https://best-flight.name/",
+                    "likes": 68,
+                    "comments": 7,
+                    "shares": 3,
+                    "reach": 6243
+                }
+            ],
+            "total_sales_attributed": 3942.523194177798
+        }
+    ]
+}

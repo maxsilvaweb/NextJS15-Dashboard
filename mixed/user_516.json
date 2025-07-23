@@ -1,0 +1,26 @@
+{
+    "user_id": "341a2315-c40d-4363-8e38-a09c7da4d15e",
+    "name": "Ernest Batz",
+    "email": "Lois.Lesch-Steuber@yahoo.com",
+    "instagram_handle": "@Willow_Haag",
+    "tiktok_handle": "@Lyric.Crona",
+    "joined_at": "2025-01-16T09:29:30.795Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3239f705-6401-45c2-ac31-0970dace7810",
+            "brand": "Ullrich - Rice",
+            "tasks_completed": [
+                {
+                    "task_id": "dfd9549e-b9e0-4828-8294-f790de7d678d",
+                    "platform": "Instagram",
+                    "post_url": "https://sarcastic-thorn.org/",
+                    "likes": 80,
+                    "comments": 14,
+                    "shares": 84,
+                    "reach": 3660
+                }
+            ],
+            "total_sales_attributed": 1743.545648998189
+        }
+    ]
+}

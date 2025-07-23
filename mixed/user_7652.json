@@ -1,0 +1,26 @@
+{
+    "user_id": "d61ed5e9-6a4e-4b38-8d1f-c24910284441",
+    "name": "Marvin Champlin",
+    "email": "Magdalen_Kirlin@gmail.com",
+    "instagram_handle": "@Jaquan_Koepp97",
+    "tiktok_handle": "@Neil3",
+    "joined_at": "2024-07-03T03:13:13.164Z",
+    "advocacy_programs": [
+        {
+            "program_id": "98fa9740-8d4e-4335-aa50-a3abbd27bd8e",
+            "brand": "Morissette and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "8182dc95-b882-4254-bb72-a214ce78cd6d",
+                    "platform": "Instagram",
+                    "post_url": "https://subtle-zen.org",
+                    "likes": 451,
+                    "comments": 48,
+                    "shares": 88,
+                    "reach": 3854
+                }
+            ],
+            "total_sales_attributed": 3909.0013525150584
+        }
+    ]
+}

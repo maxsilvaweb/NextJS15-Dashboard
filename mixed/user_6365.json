@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Greg_Mitchell",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://torn-scorn.info/",
+                    "likes": 490,
+                    "comments": null,
+                    "shares": 11,
+                    "reach": 3868
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

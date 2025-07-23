@@ -1,0 +1,26 @@
+{
+    "user_id": "2d56aecb-2665-4475-b524-96dcbe886f5f",
+    "name": "Robyn Thiel",
+    "email": "Larry.Upton@gmail.com",
+    "instagram_handle": "@Ignacio63",
+    "tiktok_handle": "@Davin.Schmitt99",
+    "joined_at": "2025-02-06T05:39:45.343Z",
+    "advocacy_programs": [
+        {
+            "program_id": "896101ab-ddd7-40ce-b892-613c8c238205",
+            "brand": "Dach and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "c5fc5060-f78e-4851-93f6-f42e67a6dfa7",
+                    "platform": "TikTok",
+                    "post_url": "https://everlasting-bracelet.net/",
+                    "likes": 41,
+                    "comments": 15,
+                    "shares": 50,
+                    "reach": 7516
+                }
+            ],
+            "total_sales_attributed": 3523.1072191146245
+        }
+    ]
+}

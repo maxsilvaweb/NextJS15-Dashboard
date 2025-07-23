@@ -1,0 +1,26 @@
+{
+    "user_id": "342ff68e-d1c6-4a35-9f97-27927ccfd4d0",
+    "name": "Beatrice Kemmer",
+    "email": "Jacynthe.Stokes85@gmail.com",
+    "instagram_handle": "@Madie_Effertz48",
+    "tiktok_handle": "@Bria_Schinner",
+    "joined_at": "2025-01-06T16:15:28.362Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b1411c39-6398-4826-a065-2f0e9d1f20c8",
+            "brand": "Fisher - Grimes",
+            "tasks_completed": [
+                {
+                    "task_id": "c69a45fd-f925-41d8-bca5-49aa8398de7e",
+                    "platform": "TikTok",
+                    "post_url": "https://humble-secret.net/",
+                    "likes": 392,
+                    "comments": 39,
+                    "shares": 61,
+                    "reach": 7743
+                }
+            ],
+            "total_sales_attributed": 3675.3768950180097
+        }
+    ]
+}

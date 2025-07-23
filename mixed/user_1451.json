@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Rachelle55",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "3d23fb79-97ef-4aea-9b35-30f770d022bd",
+                    "platform": "TikTok",
+                    "post_url": "https://punctual-word.info",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 1,
+                    "reach": 2538
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "95a918cb-4a7d-4e07-8693-0ec4408beef8",
+    "name": "Troy Schulist",
+    "email": "Emmett_Kuhn@hotmail.com",
+    "instagram_handle": "@Reese90",
+    "tiktok_handle": "@Emmanuel_Collier-Schamberger84",
+    "joined_at": "2024-04-03T18:59:53.341Z",
+    "advocacy_programs": [
+        {
+            "program_id": "66139f70-25bd-472d-a76b-0262a8165cfd",
+            "brand": "Gusikowski Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "8770a351-e715-4353-b040-83680e7244cb",
+                    "platform": "TikTok",
+                    "post_url": "https://webbed-puritan.biz/",
+                    "likes": 386,
+                    "comments": 42,
+                    "shares": 7,
+                    "reach": 5452
+                }
+            ],
+            "total_sales_attributed": 1253.8163524301717
+        }
+    ]
+}

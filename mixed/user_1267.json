@@ -1,0 +1,26 @@
+{
+    "user_id": "2eea0b55-76e0-4905-9fdd-bf2402065ee4",
+    "name": "Enrique Green",
+    "email": "Cynthia.Bogisich@gmail.com",
+    "instagram_handle": "@Bennie.Bernhard52",
+    "tiktok_handle": "@Oceane34",
+    "joined_at": "2024-11-05T05:34:56.278Z",
+    "advocacy_programs": [
+        {
+            "program_id": "04d5f9d3-82d8-4170-b78d-c0b0106600bb",
+            "brand": "Kuvalis Group",
+            "tasks_completed": [
+                {
+                    "task_id": "fe8184d6-7b58-4c01-b24d-ab1269df3e87",
+                    "platform": "Instagram",
+                    "post_url": "https://old-overcoat.info",
+                    "likes": 421,
+                    "comments": 45,
+                    "shares": 86,
+                    "reach": 5366
+                }
+            ],
+            "total_sales_attributed": 4225.124458966489
+        }
+    ]
+}

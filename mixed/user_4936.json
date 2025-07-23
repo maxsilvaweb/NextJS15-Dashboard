@@ -1,0 +1,26 @@
+{
+    "user_id": "9c5d4980-8b5c-4044-8719-35e3d04640e5",
+    "name": "Marlene Hahn",
+    "email": "Winfield.Mann89@gmail.com",
+    "instagram_handle": "@Arnaldo23",
+    "tiktok_handle": "@Damaris88",
+    "joined_at": "2024-09-27T01:09:25.014Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1a0d6f0e-3216-488b-a958-470eb4906ec5",
+            "brand": "Nader, Willms and Bins",
+            "tasks_completed": [
+                {
+                    "task_id": "e7ef2941-6640-449f-b149-c9f76f6f588f",
+                    "platform": "TikTok",
+                    "post_url": "https://flowery-yarmulke.net/",
+                    "likes": 231,
+                    "comments": 19,
+                    "shares": 26,
+                    "reach": 3556
+                }
+            ],
+            "total_sales_attributed": 4097.0250117793075
+        }
+    ]
+}

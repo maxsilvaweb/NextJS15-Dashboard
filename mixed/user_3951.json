@@ -1,0 +1,25 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "6c7bda81-36ca-4922-bdc5-e10710ef2cf4",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://delicious-director.net/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 49,
+                    "reach": 8013
+                }
+            ],
+            "total_sales_attributed": 4611.489745294627
+        }
+    ]

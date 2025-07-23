@@ -1,0 +1,26 @@
+{
+    "user_id": "f529c548-26d1-4d81-8b12-350edf73964e",
+    "name": "Joanna Willms",
+    "email": "Christine91@yahoo.com",
+    "instagram_handle": "@Edyth33",
+    "tiktok_handle": "@Bryana_Walker3",
+    "joined_at": "2025-02-20T23:33:51.958Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fb67a6e0-1132-4603-b00c-239f2e00cf3e",
+            "brand": "Kozey, Yost and Grady",
+            "tasks_completed": [
+                {
+                    "task_id": "33056ad2-8370-458d-a456-97e92c591769",
+                    "platform": "TikTok",
+                    "post_url": "https://chilly-cutlet.biz/",
+                    "likes": 89,
+                    "comments": 0,
+                    "shares": 71,
+                    "reach": 2566
+                }
+            ],
+            "total_sales_attributed": 2904.5771651431287
+        }
+    ]
+}

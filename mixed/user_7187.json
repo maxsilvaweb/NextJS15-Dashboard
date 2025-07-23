@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Elisabeth_Kreiger16@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "925f996d-736b-4a32-8512-56d5cb1d1f97",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://another-synergy.info",
+                    "likes": "NaN",
+                    "comments": 49,
+                    "shares": 58,
+                    "reach": 1653
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a93f0a78-263c-481f-8912-e56f77d5c26c",
+    "name": "Katherine Dickens",
+    "email": "Zakary.Rath-Rosenbaum@hotmail.com",
+    "instagram_handle": "@Marge_Gulgowski",
+    "tiktok_handle": "@Marcelle5",
+    "joined_at": "2025-03-18T14:45:51.943Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0dbd9f14-4790-44a1-98ec-2e4d8ea14a3f",
+            "brand": "Wolf LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "11a8580e-a1a4-4bf6-a76d-e234ae2bf963",
+                    "platform": "TikTok",
+                    "post_url": "https://round-import.biz",
+                    "likes": 12,
+                    "comments": 10,
+                    "shares": 56,
+                    "reach": 9168
+                }
+            ],
+            "total_sales_attributed": 2464.685631233962
+        }
+    ]
+}

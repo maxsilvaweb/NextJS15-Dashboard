@@ -1,0 +1,26 @@
+{
+    "user_id": "01f62499-1c0a-48a1-9b04-3e43c1c7a8a4",
+    "name": "Mattie Hamill",
+    "email": "Marlene.Lind@yahoo.com",
+    "instagram_handle": "@Hilda.Mayer-Johns",
+    "tiktok_handle": "@Herminia10",
+    "joined_at": "2024-04-30T05:04:46.997Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f0369bef-8bd8-4848-800c-b30879d98d48",
+            "brand": "White and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "2444c3cc-8049-4753-ac23-e7dfa89f1fd6",
+                    "platform": "TikTok",
+                    "post_url": "https://minty-resource.org/",
+                    "likes": 249,
+                    "comments": 45,
+                    "shares": 12,
+                    "reach": 774
+                }
+            ],
+            "total_sales_attributed": 3248.136204928773
+        }
+    ]
+}

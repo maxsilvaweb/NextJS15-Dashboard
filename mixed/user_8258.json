@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Darwin_Auer@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-10-03T05:30:12.600Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "4f61e954-e3a5-491c-aa74-5f236a331d9e",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 99,
+                    "reach": 9872
+                }
+            ],
+            "total_sales_attributed": 3694.240532754402
+        }
+    ]
+}

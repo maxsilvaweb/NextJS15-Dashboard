@@ -1,0 +1,26 @@
+{
+    "user_id": "c0dedefc-fc57-4c59-9d61-e1be1b4ae4f3",
+    "name": "Archie Renner",
+    "email": "Darrion44@hotmail.com",
+    "instagram_handle": "@Larissa.Grant6",
+    "tiktok_handle": "@Kayla.Bruen98",
+    "joined_at": "2025-01-25T03:34:00.529Z",
+    "advocacy_programs": [
+        {
+            "program_id": "93da0651-0964-47b2-9178-5e5f5c30064b",
+            "brand": "Nicolas LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c7d9d641-7920-4c4f-b259-141eef9eed78",
+                    "platform": "Instagram",
+                    "post_url": "https://murky-language.org",
+                    "likes": 188,
+                    "comments": 29,
+                    "shares": 90,
+                    "reach": 8846
+                }
+            ],
+            "total_sales_attributed": 2520.6149371407437
+        }
+    ]
+}

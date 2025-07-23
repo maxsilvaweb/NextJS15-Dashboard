@@ -1,0 +1,26 @@
+{
+    "user_id": "0af1a366-c827-4010-8adc-aa1e9e3a18bf",
+    "name": "Mr. Tyler Lemke",
+    "email": "Erin4@gmail.com",
+    "instagram_handle": "@Dolores44",
+    "tiktok_handle": "@Allan36",
+    "joined_at": "2025-01-30T13:27:43.233Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7c78cbe3-810a-4d00-a21c-0ad15d5774df",
+            "brand": "Wehner - Wilkinson",
+            "tasks_completed": [
+                {
+                    "task_id": "9f7606b4-ff96-4139-ad17-4ef051c80877",
+                    "platform": "TikTok",
+                    "post_url": "https://ambitious-scaffold.net/",
+                    "likes": 205,
+                    "comments": 49,
+                    "shares": 36,
+                    "reach": 8890
+                }
+            ],
+            "total_sales_attributed": 3078.562738984042
+        }
+    ]
+}

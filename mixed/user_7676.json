@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Agustina_Steuber1@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 499,
+                    "comments": 3,
+                    "shares": 58,
+                    "reach": 5188
+                }
+            ],
+            "total_sales_attributed": 1510.2497115740575
+        }
+    ]
+}

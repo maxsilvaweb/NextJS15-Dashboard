@@ -1,0 +1,26 @@
+{
+    "user_id": "99a00df5-8668-4863-bb54-eb1469e8c35b",
+    "name": "Tyler Hodkiewicz",
+    "email": "Mike_Trantow@hotmail.com",
+    "instagram_handle": "@Kris_Muller11",
+    "tiktok_handle": "@Lelah3",
+    "joined_at": "2024-09-26T19:41:29.745Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9f0dde6f-1b3b-4c29-9517-e35e97b477f9",
+            "brand": "Gorczany, Harris and Toy",
+            "tasks_completed": [
+                {
+                    "task_id": "d6b5bdbf-c7b3-4464-81b6-5498ee9516cb",
+                    "platform": "Instagram",
+                    "post_url": "https://partial-oil.net",
+                    "likes": 237,
+                    "comments": 18,
+                    "shares": 98,
+                    "reach": 6174
+                }
+            ],
+            "total_sales_attributed": 3495.455569801871
+        }
+    ]
+}

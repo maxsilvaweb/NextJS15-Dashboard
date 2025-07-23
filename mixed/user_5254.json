@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Alexanne_Volkman4@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "24f70bb8-72f1-4243-b80f-f09fc8f848ef",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "55c10243-6fa8-4930-9bf1-ac53f6c5f781",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 11,
+                    "reach": 4228
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

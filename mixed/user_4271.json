@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Rudy91@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://doting-confusion.org/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 88,
+                    "reach": 7705
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

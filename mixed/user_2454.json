@@ -1,0 +1,26 @@
+{
+    "user_id": "b4788fb2-e2d8-4787-bfc6-14dced435b36",
+    "name": "Eileen Raynor",
+    "email": "Edison_Bode@gmail.com",
+    "instagram_handle": "@Scarlett_Mueller",
+    "tiktok_handle": "@Darron75",
+    "joined_at": "2024-07-08T06:59:36.865Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d1b57193-d0f3-44fb-b35c-19ee4923b31d",
+            "brand": "D'Amore, Williamson and Cruickshank",
+            "tasks_completed": [
+                {
+                    "task_id": "faaa8881-9ce9-48f6-a465-be49a3063207",
+                    "platform": "TikTok",
+                    "post_url": "https://genuine-representation.com/",
+                    "likes": 263,
+                    "comments": 24,
+                    "shares": 16,
+                    "reach": 3225
+                }
+            ],
+            "total_sales_attributed": 2932.225371948281
+        }
+    ]
+}

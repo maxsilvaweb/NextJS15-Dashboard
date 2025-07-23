@@ -1,0 +1,26 @@
+{
+    "user_id": "76c7fff9-426f-475b-b4b2-8d8d63650a57",
+    "name": "Estelle Wiza",
+    "email": "Horace_Wolf84@hotmail.com",
+    "instagram_handle": "@Webster_Fisher",
+    "tiktok_handle": "@Jennings17",
+    "joined_at": "2024-09-16T15:00:25.367Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3aba04cc-03f5-4c19-a9a0-ea6c1bd09810",
+            "brand": "O'Connell, Kerluke and Reilly",
+            "tasks_completed": [
+                {
+                    "task_id": "111031e8-f0d8-4023-99ec-0e42b3eb15a1",
+                    "platform": "Instagram",
+                    "post_url": "https://able-backbone.org/",
+                    "likes": 353,
+                    "comments": 33,
+                    "shares": 24,
+                    "reach": 6324
+                }
+            ],
+            "total_sales_attributed": 1257.4770719240848
+        }
+    ]
+}

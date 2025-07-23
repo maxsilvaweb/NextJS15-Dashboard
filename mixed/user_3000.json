@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-06-07T12:31:44.055Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Kohler, Witting and Quitzon",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 33,
+                    "reach": 2144
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

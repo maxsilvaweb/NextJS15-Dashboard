@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Sheryl Cole",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "930cee42-ab28-4ca4-aebf-e66eb0461432",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 25,
+                    "shares": 44,
+                    "reach": 7039
+                }
+            ],
+            "total_sales_attributed": 2472.550138346219
+        }
+    ]
+}

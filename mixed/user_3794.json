@@ -1,0 +1,26 @@
+{
+    "user_id": "bac6d59e-1a30-4244-a16a-e5e612e8ac28",
+    "name": "Jody Bailey V",
+    "email": "Dashawn_Mraz@gmail.com",
+    "instagram_handle": "@Oral_Romaguera62",
+    "tiktok_handle": "@Chasity.Lemke20",
+    "joined_at": "2024-12-01T15:28:55.250Z",
+    "advocacy_programs": [
+        {
+            "program_id": "10eb3bcf-1ff0-4b53-88dd-37c2cb0c1c05",
+            "brand": "Spinka, Mohr and Parisian",
+            "tasks_completed": [
+                {
+                    "task_id": "f85cdd45-0790-4646-9aa7-188fdb5b8aac",
+                    "platform": "TikTok",
+                    "post_url": "https://runny-rule.org",
+                    "likes": 184,
+                    "comments": 33,
+                    "shares": 79,
+                    "reach": 6528
+                }
+            ],
+            "total_sales_attributed": 2768.399828497869
+        }
+    ]
+}

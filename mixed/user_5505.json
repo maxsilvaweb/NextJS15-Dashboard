@@ -1,0 +1,26 @@
+{
+    "user_id": "bbd54035-09fd-4632-a9da-3ed4eee501c2",
+    "name": "Shawn Heaney",
+    "email": "Otha61@hotmail.com",
+    "instagram_handle": "@Aleen.Bosco-Kautzer",
+    "tiktok_handle": "@Marietta.Quitzon",
+    "joined_at": "2025-02-06T10:32:35.192Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f27f5d5c-642e-41b1-a6ab-7162b770b09d",
+            "brand": "Borer Group",
+            "tasks_completed": [
+                {
+                    "task_id": "b6ad4696-cbf9-4f91-a7b1-a3b6bd2d6845",
+                    "platform": "TikTok",
+                    "post_url": "https://proud-procurement.biz",
+                    "likes": 170,
+                    "comments": 47,
+                    "shares": 96,
+                    "reach": 7665
+                }
+            ],
+            "total_sales_attributed": 3028.675295911501
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Agnes Hagenes",
+    "email": "Maegan_Kling@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "08ccd79e-c26d-48ae-956c-e7c54a7c71f2",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://glittering-aftermath.com",
+                    "likes": 110,
+                    "comments": 43,
+                    "shares": 7,
+                    "reach": 7268
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

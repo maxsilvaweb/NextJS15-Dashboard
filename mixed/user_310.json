@@ -1,0 +1,26 @@
+{
+    "user_id": "f59b1f74-1fa3-4999-be58-3d4903fb09ea",
+    "name": "Cornelius Kovacek",
+    "email": "Katrina69@gmail.com",
+    "instagram_handle": "@Layla_Grady35",
+    "tiktok_handle": "@Annette.Breitenberg",
+    "joined_at": "2024-09-25T18:06:41.130Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ea661c5b-615c-4107-8b84-33cb4c20f821",
+            "brand": "McDermott, Schoen and Zulauf",
+            "tasks_completed": [
+                {
+                    "task_id": "f6673c2e-63b6-4e13-97a6-301e5cefca88",
+                    "platform": "Instagram",
+                    "post_url": "https://idealistic-spear.info/",
+                    "likes": 383,
+                    "comments": 44,
+                    "shares": 81,
+                    "reach": 2743
+                }
+            ],
+            "total_sales_attributed": 1964.7940875310126
+        }
+    ]
+}

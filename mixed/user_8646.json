@@ -1,0 +1,26 @@
+{
+    "user_id": "c62c6c70-95ca-4a1b-b15f-86e743742954",
+    "name": "Flora Parker",
+    "email": "Kiarra_Paucek-Konopelski@gmail.com",
+    "instagram_handle": "@Gail_Hilll",
+    "tiktok_handle": "@Eliezer74",
+    "joined_at": "2024-12-16T17:34:52.387Z",
+    "advocacy_programs": [
+        {
+            "program_id": "419af839-c7f3-45d2-bb17-062789e37636",
+            "brand": "Hermiston and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "90e8e264-9ede-4403-acfb-4ee5452b7d93",
+                    "platform": "TikTok",
+                    "post_url": "https://posh-sport.org/",
+                    "likes": 34,
+                    "comments": 1,
+                    "shares": 65,
+                    "reach": 8883
+                }
+            ],
+            "total_sales_attributed": 3738.943960400781
+        }
+    ]
+}

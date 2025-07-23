@@ -1,0 +1,26 @@
+{
+    "user_id": "cc182ce1-01f2-459f-89c0-6adafb7705b9",
+    "name": "Opal Adams",
+    "email": "Gaston_Will@gmail.com",
+    "instagram_handle": "@Ellis.McCullough",
+    "tiktok_handle": "@America_Bruen",
+    "joined_at": "2024-08-24T07:29:14.861Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0ee2c63b-6977-4862-ad1a-96ed56ca64f0",
+            "brand": "Greenholt - Casper",
+            "tasks_completed": [
+                {
+                    "task_id": "d60f33fa-cc65-40da-8351-dbea16d5562d",
+                    "platform": "Instagram",
+                    "post_url": "https://whimsical-birdcage.net/",
+                    "likes": 406,
+                    "comments": 21,
+                    "shares": 1,
+                    "reach": 9389
+                }
+            ],
+            "total_sales_attributed": 4672.5655119357425
+        }
+    ]
+}

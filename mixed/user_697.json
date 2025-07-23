@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Stan.Koss14@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "0444e1af-718c-45d0-99b5-a8975308d19d",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 48,
+                    "shares": 62,
+                    "reach": 7734
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

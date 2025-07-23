@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Stoltenberg, Brekke and Hyatt",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://flowery-instructor.biz/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 44,
+                    "reach": 6254
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

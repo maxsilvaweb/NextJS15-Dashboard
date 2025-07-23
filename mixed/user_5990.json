@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://arid-atrium.biz/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 22,
+                    "reach": 2573
+                }
+            ],
+            "total_sales_attributed": 2356.6485555208064
+        }
+    ]
+}

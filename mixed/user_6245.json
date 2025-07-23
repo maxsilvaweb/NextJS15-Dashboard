@@ -1,0 +1,26 @@
+{
+    "user_id": "db241526-eabb-4279-88d0-2b17d17430b1",
+    "name": "Lillian Strosin-Jerde",
+    "email": "Norberto_Wehner@hotmail.com",
+    "instagram_handle": "@Marie17",
+    "tiktok_handle": "@Zion_Marks",
+    "joined_at": "2024-11-09T02:29:35.889Z",
+    "advocacy_programs": [
+        {
+            "program_id": "399f0e80-9695-4edb-a494-7a0063c5a642",
+            "brand": "Schmeler, Smitham and Carter",
+            "tasks_completed": [
+                {
+                    "task_id": "2aa5019d-d28c-4ece-98fd-06efd294f681",
+                    "platform": "Instagram",
+                    "post_url": "https://stormy-making.com",
+                    "likes": 388,
+                    "comments": 6,
+                    "shares": 65,
+                    "reach": 2284
+                }
+            ],
+            "total_sales_attributed": 887.6479205504936
+        }
+    ]
+}

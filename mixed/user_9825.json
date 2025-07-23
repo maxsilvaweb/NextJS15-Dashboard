@@ -1,0 +1,26 @@
+{
+    "user_id": "d9b56864-9de4-468c-923e-24462ac7d147",
+    "name": "Glenda Heaney",
+    "email": "Joey76@gmail.com",
+    "instagram_handle": "@Wyatt77",
+    "tiktok_handle": "@Eugenia96",
+    "joined_at": "2025-01-31T14:57:46.875Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bd6735c9-4987-4175-b89d-826fb0bae6f7",
+            "brand": "Barrows, Shields and Larson",
+            "tasks_completed": [
+                {
+                    "task_id": "ffa22039-07e0-4dbd-b269-553142740867",
+                    "platform": "TikTok",
+                    "post_url": "https://windy-seal.com/",
+                    "likes": 176,
+                    "comments": 34,
+                    "shares": 89,
+                    "reach": 6689
+                }
+            ],
+            "total_sales_attributed": 3814.677403615155
+        }
+    ]
+}

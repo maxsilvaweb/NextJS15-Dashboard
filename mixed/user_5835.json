@@ -1,0 +1,26 @@
+{
+    "user_id": "1de2a293-5ff0-4887-ad7d-16369a539264",
+    "name": "Jerome Koelpin",
+    "email": "Audra.Klein80@hotmail.com",
+    "instagram_handle": "@Paula43",
+    "tiktok_handle": "@Vance.Schimmel",
+    "joined_at": "2024-12-14T19:27:50.654Z",
+    "advocacy_programs": [
+        {
+            "program_id": "87bdb50a-efe2-4957-8ddd-3e831b803453",
+            "brand": "Waelchi - Robel",
+            "tasks_completed": [
+                {
+                    "task_id": "71482bfd-c8ed-4c4f-8df2-cb23e9a77066",
+                    "platform": "Instagram",
+                    "post_url": "https://wide-hyena.name/",
+                    "likes": 441,
+                    "comments": 21,
+                    "shares": 76,
+                    "reach": 8205
+                }
+            ],
+            "total_sales_attributed": 2187.0094181443765
+        }
+    ]
+}

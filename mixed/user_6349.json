@@ -1,0 +1,26 @@
+{
+    "user_id": "45e289f5-7dc3-4583-98b5-2ff7f52784b9",
+    "name": "Lee Reichel",
+    "email": "Garret_Beahan95@gmail.com",
+    "instagram_handle": "@Kareem48",
+    "tiktok_handle": "@Kenny_Bernier",
+    "joined_at": "2025-02-08T11:07:28.953Z",
+    "advocacy_programs": [
+        {
+            "program_id": "77caa143-5f05-4997-bce8-1ad8af7e2415",
+            "brand": "Schroeder, Vandervort and Koepp",
+            "tasks_completed": [
+                {
+                    "task_id": "d6f4d925-3d86-4547-a5bc-e6309652ed9a",
+                    "platform": "Instagram",
+                    "post_url": "https://separate-editor.name/",
+                    "likes": 407,
+                    "comments": 33,
+                    "shares": 12,
+                    "reach": 6056
+                }
+            ],
+            "total_sales_attributed": 3754.7709831635257
+        }
+    ]
+}

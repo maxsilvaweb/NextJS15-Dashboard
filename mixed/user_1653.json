@@ -1,0 +1,26 @@
+{
+    "user_id": "104831f2-3e50-4ff9-9df4-277efc41fa49",
+    "name": "Terrell White",
+    "email": "Dianna25@gmail.com",
+    "instagram_handle": "@Gus47",
+    "tiktok_handle": "@Valentin_Dibbert",
+    "joined_at": "2024-08-15T00:51:05.921Z",
+    "advocacy_programs": [
+        {
+            "program_id": "22b06a29-7d22-4d2e-b84f-e0d7cc57cb2b",
+            "brand": "Breitenberg, Shields and Marvin",
+            "tasks_completed": [
+                {
+                    "task_id": "21614e09-c14e-44f8-922b-51aa4e56da21",
+                    "platform": "TikTok",
+                    "post_url": "https://motionless-ocelot.info",
+                    "likes": 261,
+                    "comments": 50,
+                    "shares": 80,
+                    "reach": 6460
+                }
+            ],
+            "total_sales_attributed": 4368.553954439295
+        }
+    ]
+}

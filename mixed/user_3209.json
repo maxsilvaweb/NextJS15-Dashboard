@@ -1,0 +1,26 @@
+{
+    "user_id": "124833c7-d113-4145-8401-5bb96484e0b8",
+    "name": "Shaun Mayer",
+    "email": "Lenore95@hotmail.com",
+    "instagram_handle": "@Maegan35",
+    "tiktok_handle": "@Adrianna.Barrows51",
+    "joined_at": "2024-05-24T19:29:29.957Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9dc7428e-50a5-44ba-a078-d3f77bb441dd",
+            "brand": "Prohaska Group",
+            "tasks_completed": [
+                {
+                    "task_id": "a65a39e8-f3ff-4893-b79c-f8b5530ac718",
+                    "platform": "TikTok",
+                    "post_url": "https://bowed-pine.biz/",
+                    "likes": 306,
+                    "comments": 25,
+                    "shares": 27,
+                    "reach": 7868
+                }
+            ],
+            "total_sales_attributed": 466.20600483220215
+        }
+    ]
+}

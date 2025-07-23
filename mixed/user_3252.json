@@ -1,0 +1,26 @@
+{
+    "user_id": "1a7d55b4-2ee9-4add-800b-e39f55a50c53",
+    "name": "Warren Wilkinson",
+    "email": "Ally78@hotmail.com",
+    "instagram_handle": "@Albina_Turcotte",
+    "tiktok_handle": "@Raquel_Prosacco",
+    "joined_at": "2025-03-06T06:52:32.357Z",
+    "advocacy_programs": [
+        {
+            "program_id": "69cc878b-9b30-40a4-967e-468bdaf71ce9",
+            "brand": "Bergstrom, O'Conner and Lindgren",
+            "tasks_completed": [
+                {
+                    "task_id": "5f742e30-887b-4788-a8d2-39d61e6114eb",
+                    "platform": "Instagram",
+                    "post_url": "https://soggy-fundraising.net/",
+                    "likes": 228,
+                    "comments": 34,
+                    "shares": 95,
+                    "reach": 7588
+                }
+            ],
+            "total_sales_attributed": 4019.80901064891
+        }
+    ]
+}

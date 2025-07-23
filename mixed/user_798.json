@@ -1,0 +1,26 @@
+{
+    "user_id": "2bfc30cc-6e0f-470b-af81-9cb063ea2836",
+    "name": "Nicholas Cassin",
+    "email": "Celestino.Mante@gmail.com",
+    "instagram_handle": "@Sheila_Hills58",
+    "tiktok_handle": "@Garett_Nitzsche",
+    "joined_at": "2024-08-23T10:40:18.299Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d7442841-15c5-4804-94aa-d2679fb92777",
+            "brand": "Beer - Sauer",
+            "tasks_completed": [
+                {
+                    "task_id": "ed83854d-d36d-47f3-86ed-3e37fcb32e5c",
+                    "platform": "TikTok",
+                    "post_url": "https://fuzzy-birdcage.biz",
+                    "likes": 89,
+                    "comments": 50,
+                    "shares": 77,
+                    "reach": 8694
+                }
+            ],
+            "total_sales_attributed": 2921.7669235683784
+        }
+    ]
+}

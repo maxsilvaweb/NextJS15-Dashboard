@@ -1,0 +1,26 @@
+{
+    "user_id": "79509b47-c4d4-4b85-9896-427e39eead99",
+    "name": "Eileen Schulist",
+    "email": "Quinton.Kunde5@hotmail.com",
+    "instagram_handle": "@Ludie.Weissnat",
+    "tiktok_handle": "@Lia48",
+    "joined_at": "2024-07-24T16:10:14.606Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b89b7766-6cee-4458-8344-32f4944fdcf1",
+            "brand": "Jakubowski Group",
+            "tasks_completed": [
+                {
+                    "task_id": "cb6702ac-c29b-427e-b092-805de9cfc38a",
+                    "platform": "TikTok",
+                    "post_url": "https://querulous-case.net",
+                    "likes": 369,
+                    "comments": 45,
+                    "shares": 54,
+                    "reach": 7027
+                }
+            ],
+            "total_sales_attributed": 4427.768797837085
+        }
+    ]
+}

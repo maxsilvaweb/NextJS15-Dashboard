@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "O'Hara Inc",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://royal-pearl.org",
+                    "likes": 38,
+                    "comments": null,
+                    "shares": 54,
+                    "reach": 1623
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

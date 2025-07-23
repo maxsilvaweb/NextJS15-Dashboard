@@ -1,0 +1,26 @@
+{
+    "user_id": "191b72af-c195-4bd2-93e0-df2d43a896e5",
+    "name": "Kim Hartmann",
+    "email": "Zackary_Morissette@hotmail.com",
+    "instagram_handle": "@Rudolph32",
+    "tiktok_handle": "@Hailee_Rippin",
+    "joined_at": "2024-10-23T00:59:13.643Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8edcd463-38f2-4cb7-9fc5-b8999eb03a41",
+            "brand": "Auer Group",
+            "tasks_completed": [
+                {
+                    "task_id": "f2c192a1-c747-46cc-a2c0-9ef2b9451cba",
+                    "platform": "TikTok",
+                    "post_url": "https://ample-equal.org/",
+                    "likes": 164,
+                    "comments": 47,
+                    "shares": 25,
+                    "reach": 8265
+                }
+            ],
+            "total_sales_attributed": 1724.3148004684685
+        }
+    ]
+}

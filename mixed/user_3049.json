@@ -1,0 +1,26 @@
+{
+    "user_id": "4fc6ca40-d971-46cb-9403-32f9c9d003e6",
+    "name": "Peter Gibson",
+    "email": "Velda_Daniel@yahoo.com",
+    "instagram_handle": "@Ima_Hettinger",
+    "tiktok_handle": "@Aracely2",
+    "joined_at": "2024-04-21T21:23:26.205Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d956163a-9096-4392-b8e0-6145d95909e9",
+            "brand": "Casper - Kreiger",
+            "tasks_completed": [
+                {
+                    "task_id": "a0cadafb-82bc-44e4-8163-7092232cc391",
+                    "platform": "Instagram",
+                    "post_url": "https://spotless-sushi.com",
+                    "likes": 132,
+                    "comments": 13,
+                    "shares": 100,
+                    "reach": 5606
+                }
+            ],
+            "total_sales_attributed": 3325.7516761022584
+        }
+    ]
+}

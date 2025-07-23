@@ -1,0 +1,26 @@
+{
+    "user_id": "6100e39e-7a28-497f-a68b-d223320eb616",
+    "name": "Marsha Friesen",
+    "email": "Morris_Kilback71@gmail.com",
+    "instagram_handle": "@Uriah53",
+    "tiktok_handle": "@Joshua44",
+    "joined_at": "2024-08-21T16:32:23.333Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f33431dc-7f49-4c32-9185-9b17e1cf69b1",
+            "brand": "Stroman Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "51b1892a-224f-4196-94fd-55c39dd571af",
+                    "platform": "Instagram",
+                    "post_url": "https://infatuated-railway.com/",
+                    "likes": 81,
+                    "comments": 35,
+                    "shares": 88,
+                    "reach": 5265
+                }
+            ],
+            "total_sales_attributed": 3061.409673654457
+        }
+    ]
+}

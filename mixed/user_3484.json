@@ -1,0 +1,26 @@
+{
+    "user_id": "497d0967-1421-47f9-847c-651299257901",
+    "name": "Julia Cartwright",
+    "email": "Meta_Waters@gmail.com",
+    "instagram_handle": "@Bernita95",
+    "tiktok_handle": "@Harvey.Jacobson",
+    "joined_at": "2024-11-03T12:28:11.028Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d57fdef1-011f-4edc-b4b9-eeb0bf92f38d",
+            "brand": "Kub and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "80d8d574-c53a-4c73-8130-34735577a282",
+                    "platform": "Instagram",
+                    "post_url": "https://heavy-bid.org",
+                    "likes": 294,
+                    "comments": 39,
+                    "shares": 88,
+                    "reach": 9828
+                }
+            ],
+            "total_sales_attributed": 1625.4394058799169
+        }
+    ]
+}

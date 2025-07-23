@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "bb521520-e826-4885-aa83-eab7bc296eee",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://sophisticated-hose.net",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 37,
+                    "reach": 1000
+                }
+            ],
+            "total_sales_attributed": 669.0179963662937
+        }
+    ]
+}

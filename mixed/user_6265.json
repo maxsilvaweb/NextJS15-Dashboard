@@ -1,0 +1,26 @@
+{
+    "user_id": "7d7dae26-fdb2-4fc4-be0c-4ef4f9220b62",
+    "name": "Rosemary Monahan IV",
+    "email": "Janelle34@hotmail.com",
+    "instagram_handle": "@August_Lind",
+    "tiktok_handle": "@Mary_Marks",
+    "joined_at": "2024-10-31T18:44:48.212Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7309bced-9444-4759-b025-b299a581c9ee",
+            "brand": "Rodriguez Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f35a2c5d-6787-40ec-be98-e75fe004c1eb",
+                    "platform": "TikTok",
+                    "post_url": "https://good-natured-heartbeat.com/",
+                    "likes": 255,
+                    "comments": 15,
+                    "shares": 37,
+                    "reach": 6010
+                }
+            ],
+            "total_sales_attributed": 229.12326252836795
+        }
+    ]
+}

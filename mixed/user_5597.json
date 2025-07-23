@@ -1,0 +1,26 @@
+{
+    "user_id": "14c669f4-ada8-4930-8e91-d5f7c9619f79",
+    "name": "Arlene Schuster",
+    "email": "Kristian_Farrell@hotmail.com",
+    "instagram_handle": "@Ivory.Franey",
+    "tiktok_handle": "@Ana2",
+    "joined_at": "2025-02-10T10:17:08.086Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e00cb082-6598-4fb4-872b-88c76d55b682",
+            "brand": "Weimann, Hammes and Schamberger",
+            "tasks_completed": [
+                {
+                    "task_id": "1c09d880-9695-4f72-b38b-5663ece23645",
+                    "platform": "TikTok",
+                    "post_url": "https://edible-corporation.name",
+                    "likes": 178,
+                    "comments": 39,
+                    "shares": 81,
+                    "reach": 4703
+                }
+            ],
+            "total_sales_attributed": 3259.4897976120164
+        }
+    ]
+}

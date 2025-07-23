@@ -1,0 +1,26 @@
+{
+    "user_id": "4786e184-7c36-4735-a093-42a3d4dfe855",
+    "name": "Juanita Glover",
+    "email": "Webster2@yahoo.com",
+    "instagram_handle": "@Rodrigo_Hackett",
+    "tiktok_handle": "@Laury.Fritsch-Ruecker",
+    "joined_at": "2024-09-21T04:32:58.631Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2be8303d-3d47-4fb4-8a25-fcea3775a91e",
+            "brand": "Jacobson - Hahn",
+            "tasks_completed": [
+                {
+                    "task_id": "0d537231-d42c-4eb5-96e5-2b6f135e4212",
+                    "platform": "Instagram",
+                    "post_url": "https://extroverted-flame.name",
+                    "likes": 22,
+                    "comments": 50,
+                    "shares": 78,
+                    "reach": 655
+                }
+            ],
+            "total_sales_attributed": 3666.4456347135756
+        }
+    ]
+}

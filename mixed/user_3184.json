@@ -1,0 +1,26 @@
+{
+    "user_id": "87ecc963-17c3-4408-b9e3-6d69a3503abc",
+    "name": "Herbert Becker",
+    "email": "Efren_Lind@yahoo.com",
+    "instagram_handle": "@Isai.Abbott3",
+    "tiktok_handle": "@Eve_Howell",
+    "joined_at": "2024-06-10T21:06:18.102Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8ac49e50-02a5-446d-ac53-0967ea10a730",
+            "brand": "Schroeder LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "add1734f-3318-49cd-b200-d04478e7dfbb",
+                    "platform": "Instagram",
+                    "post_url": "https://lean-smoke.com",
+                    "likes": 228,
+                    "comments": 29,
+                    "shares": 90,
+                    "reach": 6477
+                }
+            ],
+            "total_sales_attributed": 2065.1749583177134
+        }
+    ]
+}

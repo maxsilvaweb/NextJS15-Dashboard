@@ -1,0 +1,26 @@
+{
+    "user_id": "4b683d1b-7e22-4aa8-9b8e-670bccc352dc",
+    "name": "Lucas Kertzmann MD",
+    "email": "Lesly.Strosin@gmail.com",
+    "instagram_handle": "@Andy_Krajcik5",
+    "tiktok_handle": "@Shane.Luettgen97",
+    "joined_at": "2025-02-17T15:38:45.607Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4268e9ec-e90e-432f-ab83-fa2d1f3c6d0c",
+            "brand": "Simonis Group",
+            "tasks_completed": [
+                {
+                    "task_id": "f0d7509e-354f-4cb4-8792-985db657d404",
+                    "platform": "TikTok",
+                    "post_url": "https://faraway-edge.biz/",
+                    "likes": 159,
+                    "comments": 37,
+                    "shares": 1,
+                    "reach": 3089
+                }
+            ],
+            "total_sales_attributed": 4057.7418891834245
+        }
+    ]
+}

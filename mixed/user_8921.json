@@ -1,0 +1,26 @@
+{
+    "user_id": "9d8cd713-c539-46e5-a010-4d2179079567",
+    "name": "Erin Schaefer",
+    "email": "Assunta.Conn@gmail.com",
+    "instagram_handle": "@Jenifer_Goldner",
+    "tiktok_handle": "@Madyson65",
+    "joined_at": "2024-07-27T19:24:15.418Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5ed018ed-4c30-410d-a793-95ed88548677",
+            "brand": "Hudson - Runte",
+            "tasks_completed": [
+                {
+                    "task_id": "44364623-1317-485e-b100-968354babebe",
+                    "platform": "TikTok",
+                    "post_url": "https://devoted-morning.biz/",
+                    "likes": 396,
+                    "comments": 29,
+                    "shares": 20,
+                    "reach": 9932
+                }
+            ],
+            "total_sales_attributed": 4283.290055918297
+        }
+    ]
+}

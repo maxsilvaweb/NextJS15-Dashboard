@@ -1,0 +1,26 @@
+{
+    "user_id": "1f969264-8331-4495-814a-5d06c1d8c983",
+    "name": "John Strosin",
+    "email": "Yadira_Mayert@yahoo.com",
+    "instagram_handle": "@Joanne.Swift",
+    "tiktok_handle": "@Ciara_Haag89",
+    "joined_at": "2024-09-28T15:33:30.331Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b684d349-54f5-420b-b120-9b20932e5fe5",
+            "brand": "Torp - Larson",
+            "tasks_completed": [
+                {
+                    "task_id": "09b22c31-cc58-4cb8-8788-0e7230d0cd62",
+                    "platform": "Instagram",
+                    "post_url": "https://marvelous-humidity.net/",
+                    "likes": 369,
+                    "comments": 26,
+                    "shares": 95,
+                    "reach": 8920
+                }
+            ],
+            "total_sales_attributed": 1665.41885657403
+        }
+    ]
+}

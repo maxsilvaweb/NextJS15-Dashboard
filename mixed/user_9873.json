@@ -1,0 +1,26 @@
+{
+    "user_id": "3408cbfe-864d-465a-91cf-1c37d17bd2ea",
+    "name": "Alma Willms",
+    "email": "Lucile.Stiedemann@hotmail.com",
+    "instagram_handle": "@Ozella_Dare",
+    "tiktok_handle": "@Erna_Muller",
+    "joined_at": "2024-12-19T10:44:59.584Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4e9240ea-3eea-4bdb-ab5e-a6bc40a79109",
+            "brand": "O'Hara LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "9d53e5c5-503f-41a0-aedf-17304c8a7d76",
+                    "platform": "TikTok",
+                    "post_url": "https://orange-agreement.biz/",
+                    "likes": 256,
+                    "comments": 1,
+                    "shares": 98,
+                    "reach": 597
+                }
+            ],
+            "total_sales_attributed": 4651.545132503525
+        }
+    ]
+}

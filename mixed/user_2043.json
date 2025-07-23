@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-07-28T03:26:59.850Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5a5abebb-2d81-49d1-b1c4-e40713589910",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://proud-casement.info/",
+                    "likes": "NaN",
+                    "comments": 11,
+                    "shares": 13,
+                    "reach": 6560
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

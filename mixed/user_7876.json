@@ -1,0 +1,26 @@
+{
+    "user_id": "a6ff6796-b4e0-4dcf-94be-c938f166fd59",
+    "name": "Gilberto Dare",
+    "email": "Ottis37@hotmail.com",
+    "instagram_handle": "@Sigmund.Kuhlman90",
+    "tiktok_handle": "@Amparo.Wunsch",
+    "joined_at": "2025-02-19T08:23:10.504Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6793fab2-c3ed-4bdc-b6a2-f5ea5b75f9fc",
+            "brand": "Lang, Raynor and Abbott",
+            "tasks_completed": [
+                {
+                    "task_id": "271bfbae-13e8-4192-bca2-991d3f70805e",
+                    "platform": "Instagram",
+                    "post_url": "https://critical-sauerkraut.info/",
+                    "likes": 290,
+                    "comments": 1,
+                    "shares": 47,
+                    "reach": 3807
+                }
+            ],
+            "total_sales_attributed": 591.3845898238876
+        }
+    ]
+}

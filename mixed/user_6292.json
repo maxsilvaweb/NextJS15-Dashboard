@@ -1,0 +1,26 @@
+{
+    "user_id": "2af8e213-3cc5-45d5-bf00-e7f9822df60d",
+    "name": "Jasmine Price",
+    "email": "Jeanie_Funk@hotmail.com",
+    "instagram_handle": "@Alexie35",
+    "tiktok_handle": "@Elsie.Simonis-Lind4",
+    "joined_at": "2025-01-10T03:37:19.186Z",
+    "advocacy_programs": [
+        {
+            "program_id": "11c2e53b-ee0e-4b0b-9d88-b0ae6cf91b0b",
+            "brand": "Ebert, Ruecker and Dare",
+            "tasks_completed": [
+                {
+                    "task_id": "dc28c96e-8cca-4544-bb0b-c8a401477f7f",
+                    "platform": "Instagram",
+                    "post_url": "https://limping-place.net/",
+                    "likes": 407,
+                    "comments": 8,
+                    "shares": 13,
+                    "reach": 9036
+                }
+            ],
+            "total_sales_attributed": 3124.366635763442
+        }
+    ]
+}

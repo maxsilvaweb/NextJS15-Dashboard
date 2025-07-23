@@ -1,0 +1,26 @@
+{
+    "user_id": "ae866880-c620-4b34-9c9c-f40cf3c0ca06",
+    "name": "Darrel O'Kon",
+    "email": "Candida_Lockman@hotmail.com",
+    "instagram_handle": "@Vicky_McGlynn5",
+    "tiktok_handle": "@Garret_Jaskolski",
+    "joined_at": "2024-12-24T16:50:48.534Z",
+    "advocacy_programs": [
+        {
+            "program_id": "df5e2713-d7b2-4256-84a8-1165d4333717",
+            "brand": "Kshlerin - Kiehn",
+            "tasks_completed": [
+                {
+                    "task_id": "feb82f0e-f838-4d54-9c9f-a18677f635b1",
+                    "platform": "Instagram",
+                    "post_url": "https://ethical-maestro.com",
+                    "likes": 86,
+                    "comments": 35,
+                    "shares": 34,
+                    "reach": 6157
+                }
+            ],
+            "total_sales_attributed": 266.41579165896974
+        }
+    ]
+}

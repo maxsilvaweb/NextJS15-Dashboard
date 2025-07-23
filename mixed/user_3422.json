@@ -1,0 +1,26 @@
+{
+    "user_id": "ec5877fe-2a8b-44b6-a56b-3e328b1e091a",
+    "name": "Luis Stoltenberg",
+    "email": "Stephan.Jaskolski@yahoo.com",
+    "instagram_handle": "@Alyson_McClure12",
+    "tiktok_handle": "@Paul_Gutmann",
+    "joined_at": "2024-11-30T05:51:13.091Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a7530b6e-2c60-492b-928e-72c6912f814d",
+            "brand": "Kohler - Huels",
+            "tasks_completed": [
+                {
+                    "task_id": "8eb1ff25-d9d3-407e-b33b-5875bc32d450",
+                    "platform": "Instagram",
+                    "post_url": "https://focused-diver.net",
+                    "likes": 252,
+                    "comments": 40,
+                    "shares": 15,
+                    "reach": 8714
+                }
+            ],
+            "total_sales_attributed": 4649.2901797172435
+        }
+    ]
+}

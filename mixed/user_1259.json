@@ -1,0 +1,26 @@
+{
+    "user_id": "fbf88ef8-3fab-4ede-bc08-28035d706e2f",
+    "name": "Sherri Spinka",
+    "email": "Cedrick80@hotmail.com",
+    "instagram_handle": "@Hugh.Hahn",
+    "tiktok_handle": "@Hattie72",
+    "joined_at": "2024-05-27T10:51:24.613Z",
+    "advocacy_programs": [
+        {
+            "program_id": "709491f6-4d04-4cb2-9f37-0604206a11c9",
+            "brand": "Becker Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9d3fbac1-1a64-49da-b717-84c8d4a6430d",
+                    "platform": "TikTok",
+                    "post_url": "https://cluttered-soup.name/",
+                    "likes": 110,
+                    "comments": 8,
+                    "shares": 43,
+                    "reach": 7667
+                }
+            ],
+            "total_sales_attributed": 3079.3446550092876
+        }
+    ]
+}

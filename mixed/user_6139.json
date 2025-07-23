@@ -1,0 +1,26 @@
+{
+    "user_id": "a17cea0b-288b-4869-900b-c5740215b72d",
+    "name": "Diana Kemmer II",
+    "email": "Ona19@hotmail.com",
+    "instagram_handle": "@Rashawn.Larson59",
+    "tiktok_handle": "@Stevie61",
+    "joined_at": "2024-06-22T05:52:49.948Z",
+    "advocacy_programs": [
+        {
+            "program_id": "37a662ba-5e90-49ef-9270-dc55ff70c2f0",
+            "brand": "Torp, Kunde and Schultz",
+            "tasks_completed": [
+                {
+                    "task_id": "e4870079-0b3a-4743-bb2d-e14cf7190604",
+                    "platform": "Instagram",
+                    "post_url": "https://scaly-colon.org",
+                    "likes": 196,
+                    "comments": 42,
+                    "shares": 62,
+                    "reach": 2128
+                }
+            ],
+            "total_sales_attributed": 4728.722736631859
+        }
+    ]
+}

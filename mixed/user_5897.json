@@ -1,0 +1,26 @@
+{
+    "user_id": "1ec328c9-6501-4cf0-bb70-c806cd8f5079",
+    "name": "Emilio Wintheiser",
+    "email": "Darren6@yahoo.com",
+    "instagram_handle": "@Ryder.Kertzmann",
+    "tiktok_handle": "@Moshe_Hermann",
+    "joined_at": "2024-04-01T11:55:36.086Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8daf2c23-7274-4b70-b93b-f0d77d73b386",
+            "brand": "Mertz, Champlin and Block",
+            "tasks_completed": [
+                {
+                    "task_id": "9ec1f5ed-e9ec-4f83-8289-e2480776ea71",
+                    "platform": "Instagram",
+                    "post_url": "https://bossy-video.info",
+                    "likes": 19,
+                    "comments": 50,
+                    "shares": 65,
+                    "reach": 1126
+                }
+            ],
+            "total_sales_attributed": 508.9893373348822
+        }
+    ]
+}

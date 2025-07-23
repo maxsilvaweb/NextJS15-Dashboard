@@ -1,0 +1,26 @@
+{
+    "user_id": "4cfc112a-ba57-458b-a5aa-e067a0b8e76f",
+    "name": "Elaine Swift",
+    "email": "Makayla1@gmail.com",
+    "instagram_handle": "@Zelma_Haley",
+    "tiktok_handle": "@Lorine_Gulgowski",
+    "joined_at": "2024-03-20T22:10:03.285Z",
+    "advocacy_programs": [
+        {
+            "program_id": "322c2de8-581a-42ce-be09-5e8313d3e7e7",
+            "brand": "Zulauf and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "04c02455-734b-4138-8499-b5ada6776afa",
+                    "platform": "Instagram",
+                    "post_url": "https://physical-cauliflower.com",
+                    "likes": 164,
+                    "comments": 48,
+                    "shares": 12,
+                    "reach": 569
+                }
+            ],
+            "total_sales_attributed": 1168.346523120276
+        }
+    ]
+}

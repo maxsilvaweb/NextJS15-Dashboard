@@ -1,0 +1,26 @@
+{
+    "user_id": "c6e88666-63ca-46c4-909e-9d256cd86e0d",
+    "name": "Dolores Block",
+    "email": "Evalyn6@yahoo.com",
+    "instagram_handle": "@Dariana.Hodkiewicz",
+    "tiktok_handle": "@Marie.Hagenes29",
+    "joined_at": "2024-09-23T08:16:09.935Z",
+    "advocacy_programs": [
+        {
+            "program_id": "790727a8-f19f-47b6-8aa5-5805bb4ea6ba",
+            "brand": "Ratke, Abshire and Keeling",
+            "tasks_completed": [
+                {
+                    "task_id": "1e15d86c-1b6b-403d-8f87-86b3f9bb49a3",
+                    "platform": "TikTok",
+                    "post_url": "https://right-larva.net",
+                    "likes": 141,
+                    "comments": 37,
+                    "shares": 19,
+                    "reach": 3029
+                }
+            ],
+            "total_sales_attributed": 2499.8327688046797
+        }
+    ]
+}

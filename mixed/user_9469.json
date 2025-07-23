@@ -1,0 +1,26 @@
+{
+    "user_id": "e8f89719-5ad6-4379-a9d5-5bc97aff7a02",
+    "name": "Wendell Leannon",
+    "email": "Enrico.Vandervort@gmail.com",
+    "instagram_handle": "@Van.Leuschke",
+    "tiktok_handle": "@Clair.Gibson",
+    "joined_at": "2024-09-17T08:55:55.714Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d204c7b7-58b8-4fe4-ae7d-1258a9208b26",
+            "brand": "Lind, Koelpin and Cartwright",
+            "tasks_completed": [
+                {
+                    "task_id": "4e7fbf2e-d10b-40bb-a73d-2d1df9b53718",
+                    "platform": "TikTok",
+                    "post_url": "https://alienated-prohibition.com/",
+                    "likes": 180,
+                    "comments": 12,
+                    "shares": 52,
+                    "reach": 2319
+                }
+            ],
+            "total_sales_attributed": 3413.722437645235
+        }
+    ]
+}

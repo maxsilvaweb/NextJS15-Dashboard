@@ -1,0 +1,26 @@
+{
+    "user_id": "a8fb71bd-2da3-475f-91d4-48650f12e11d",
+    "name": "Mable Osinski",
+    "email": "Laura.Conroy@hotmail.com",
+    "instagram_handle": "@Providenci_Macejkovic",
+    "tiktok_handle": "@Federico_Goldner81",
+    "joined_at": "2024-12-28T17:02:08.256Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b81660f7-ad79-4062-b2e7-1915bfd7c6cb",
+            "brand": "Hirthe, Wolf and Torp",
+            "tasks_completed": [
+                {
+                    "task_id": "98b15aaa-f268-4025-8fed-1876b6e898a5",
+                    "platform": "TikTok",
+                    "post_url": "https://slimy-dead.net",
+                    "likes": 417,
+                    "comments": 47,
+                    "shares": 29,
+                    "reach": 3985
+                }
+            ],
+            "total_sales_attributed": 866.1494385699555
+        }
+    ]
+}

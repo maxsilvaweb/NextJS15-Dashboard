@@ -1,0 +1,26 @@
+{
+    "user_id": "1e0d9c30-77a4-433f-a3ca-6c4db5d5c2bc",
+    "name": "Joyce Auer",
+    "email": "Lonie96@yahoo.com",
+    "instagram_handle": "@Pattie.Hermann93",
+    "tiktok_handle": "@Ulices11",
+    "joined_at": "2025-01-23T11:03:41.613Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1979deda-8810-4592-894f-d7ac5a57e624",
+            "brand": "Buckridge Group",
+            "tasks_completed": [
+                {
+                    "task_id": "fa3c808b-faf6-478c-acec-70480202b9bc",
+                    "platform": "Instagram",
+                    "post_url": "https://physical-cap.biz",
+                    "likes": 205,
+                    "comments": 17,
+                    "shares": 67,
+                    "reach": 7374
+                }
+            ],
+            "total_sales_attributed": 1444.656975192125
+        }
+    ]
+}

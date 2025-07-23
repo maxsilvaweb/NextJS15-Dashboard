@@ -1,0 +1,26 @@
+{
+    "user_id": "7f3a889a-f276-4a45-afc5-1364137371a0",
+    "name": "Kristine Sipes",
+    "email": "Chet.Swift@hotmail.com",
+    "instagram_handle": "@Edgardo76",
+    "tiktok_handle": "@Timmothy42",
+    "joined_at": "2024-12-24T19:51:49.322Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0a8504b9-9c2e-4dca-ba44-1f417996f178",
+            "brand": "Ritchie, Cremin and Luettgen",
+            "tasks_completed": [
+                {
+                    "task_id": "1d9c83c1-15db-423b-874b-c2f33d77a0fd",
+                    "platform": "TikTok",
+                    "post_url": "https://noxious-tomb.biz",
+                    "likes": 120,
+                    "comments": 3,
+                    "shares": 33,
+                    "reach": 4509
+                }
+            ],
+            "total_sales_attributed": 4195.292797439947
+        }
+    ]
+}

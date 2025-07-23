@@ -1,0 +1,26 @@
+{
+    "user_id": "322fc8a3-f32f-4b48-9de3-265e3793fb0d",
+    "name": "Francisco Koepp",
+    "email": "Taylor_Kuhlman41@hotmail.com",
+    "instagram_handle": "@Felicity92",
+    "tiktok_handle": "@Sophie.Carter81",
+    "joined_at": "2025-01-01T16:18:59.693Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5e55fe97-90b6-4a39-b0eb-b92c9351523b",
+            "brand": "Conroy - Wisozk",
+            "tasks_completed": [
+                {
+                    "task_id": "e247db3d-7d8e-49d5-908e-4c6fb06bca3d",
+                    "platform": "TikTok",
+                    "post_url": "https://overcooked-lox.name/",
+                    "likes": 426,
+                    "comments": 36,
+                    "shares": 28,
+                    "reach": 3717
+                }
+            ],
+            "total_sales_attributed": 3558.2347700790865
+        }
+    ]
+}

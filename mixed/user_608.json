@@ -1,0 +1,26 @@
+{
+    "user_id": "3d691f38-5b15-4c32-b86e-bdeda324af9a",
+    "name": "Maureen Dooley",
+    "email": "Kitty43@yahoo.com",
+    "instagram_handle": "@Burdette28",
+    "tiktok_handle": "@Norma_Turner",
+    "joined_at": "2024-04-02T17:28:19.733Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f47f9791-63d6-412c-9dc1-a04ba58d4050",
+            "brand": "Nader - Schamberger",
+            "tasks_completed": [
+                {
+                    "task_id": "134f1b01-fd70-4e22-9123-e05bdf8c8535",
+                    "platform": "Instagram",
+                    "post_url": "https://huge-meal.com/",
+                    "likes": 274,
+                    "comments": 3,
+                    "shares": 98,
+                    "reach": 5366
+                }
+            ],
+            "total_sales_attributed": 3358.344220577694
+        }
+    ]
+}

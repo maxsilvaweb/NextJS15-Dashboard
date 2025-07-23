@@ -1,0 +1,26 @@
+{
+    "user_id": "72945b52-8ba5-4d5b-b4fc-a71b2fe550cc",
+    "name": "Mr. Gilbert Bergstrom III",
+    "email": "Nathan11@hotmail.com",
+    "instagram_handle": "@Luna.Armstrong53",
+    "tiktok_handle": "@Morton1",
+    "joined_at": "2024-05-03T17:30:56.937Z",
+    "advocacy_programs": [
+        {
+            "program_id": "19b10d14-c53b-411b-adee-a985e1d908e0",
+            "brand": "Lueilwitz, Sauer and Morissette",
+            "tasks_completed": [
+                {
+                    "task_id": "8823722e-f7c1-4710-a1e0-18f26a318115",
+                    "platform": "TikTok",
+                    "post_url": "https://specific-solution.info/",
+                    "likes": 203,
+                    "comments": 17,
+                    "shares": 53,
+                    "reach": 8010
+                }
+            ],
+            "total_sales_attributed": 3214.539103405258
+        }
+    ]
+}

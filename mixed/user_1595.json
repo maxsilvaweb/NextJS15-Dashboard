@@ -1,0 +1,26 @@
+{
+    "user_id": "d32e40e9-7d30-4268-be05-64528d8b29e8",
+    "name": "Shannon Bartoletti",
+    "email": "Piper63@hotmail.com",
+    "instagram_handle": "@Reese.Leffler35",
+    "tiktok_handle": "@Flo.Moore",
+    "joined_at": "2024-08-26T19:50:06.171Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7e501688-4cf6-4421-933f-51efffbe3e1a",
+            "brand": "Hickle, Hegmann and Collier",
+            "tasks_completed": [
+                {
+                    "task_id": "a5f73116-a7ce-49e8-8e2e-e11f94717b5f",
+                    "platform": "Instagram",
+                    "post_url": "https://putrid-bourgeoisie.com",
+                    "likes": 341,
+                    "comments": 37,
+                    "shares": 59,
+                    "reach": 6133
+                }
+            ],
+            "total_sales_attributed": 640.3994896967357
+        }
+    ]
+}

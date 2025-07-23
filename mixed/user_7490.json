@@ -1,0 +1,26 @@
+{
+    "user_id": "0b128cc7-54c8-4937-befd-3f0fba356d3d",
+    "name": "Nicolas Senger-Heathcote",
+    "email": "Peter80@hotmail.com",
+    "instagram_handle": "@Samara77",
+    "tiktok_handle": "@Barrett16",
+    "joined_at": "2024-09-28T04:38:49.021Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d0afa02c-460e-418b-964e-a7acedbc1910",
+            "brand": "Gusikowski, Hackett and Berge",
+            "tasks_completed": [
+                {
+                    "task_id": "336287c5-c1e9-4c55-8b9f-66322c257fe7",
+                    "platform": "Instagram",
+                    "post_url": "https://torn-essence.net/",
+                    "likes": 313,
+                    "comments": 36,
+                    "shares": 52,
+                    "reach": 9841
+                }
+            ],
+            "total_sales_attributed": 2159.176477975482
+        }
+    ]
+}

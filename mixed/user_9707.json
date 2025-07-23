@@ -1,0 +1,26 @@
+{
+    "user_id": "16adee1e-a4e6-424d-802d-16e1e7677f53",
+    "name": "Ray Feil V",
+    "email": "Jarrell.Rath93@gmail.com",
+    "instagram_handle": "@Dedric.Smith",
+    "tiktok_handle": "@Devin.Lindgren",
+    "joined_at": "2024-10-14T09:05:39.412Z",
+    "advocacy_programs": [
+        {
+            "program_id": "54284dad-9219-4146-b6ce-de0a8af57832",
+            "brand": "Rowe - Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "607fa2c6-937c-4e65-9ed6-ac03cfbb319e",
+                    "platform": "TikTok",
+                    "post_url": "https://whole-yogurt.com",
+                    "likes": 487,
+                    "comments": 28,
+                    "shares": 55,
+                    "reach": 1432
+                }
+            ],
+            "total_sales_attributed": 3210.8208707227905
+        }
+    ]
+}

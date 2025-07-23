@@ -1,0 +1,26 @@
+{
+    "user_id": "db67165b-cbd2-42d7-8fb2-86f82437af8c",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "1dbabefa-6b91-4e03-98df-d158ed214c02",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://present-tool.org/",
+                    "likes": "NaN",
+                    "comments": 38,
+                    "shares": 53,
+                    "reach": 7217
+                }
+            ],
+            "total_sales_attributed": 2645.1193494426907
+        }
+    ]
+}

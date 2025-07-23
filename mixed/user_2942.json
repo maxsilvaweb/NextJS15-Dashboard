@@ -1,0 +1,26 @@
+{
+    "user_id": "745f447d-af93-4966-8eaa-60d40bc24c67",
+    "name": "Becky McKenzie DDS",
+    "email": "Christopher_Wisozk30@hotmail.com",
+    "instagram_handle": "@Erna95",
+    "tiktok_handle": "@Geoffrey_Reinger",
+    "joined_at": "2024-11-24T15:32:14.135Z",
+    "advocacy_programs": [
+        {
+            "program_id": "39b85442-75a2-4c5f-8750-3e02efb87a27",
+            "brand": "Stamm, Marvin and Considine",
+            "tasks_completed": [
+                {
+                    "task_id": "a24fc1aa-631a-46ce-8975-4a9ffdacb12b",
+                    "platform": "TikTok",
+                    "post_url": "https://emotional-director.org/",
+                    "likes": 107,
+                    "comments": 8,
+                    "shares": 21,
+                    "reach": 6861
+                }
+            ],
+            "total_sales_attributed": 4189.270669495681
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "17f859cb-7afa-4ca9-973b-9f9c5a4f3ce1",
+    "name": "Saul Kris",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Nikolaus - Heidenreich",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 58,
+                    "reach": 4064
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

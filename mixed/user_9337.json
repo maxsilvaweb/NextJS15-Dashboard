@@ -1,0 +1,26 @@
+{
+    "user_id": "2a08e4f9-9eef-4b48-b743-64aba5961b0e",
+    "name": "Charlene Rogahn",
+    "email": "Thea80@hotmail.com",
+    "instagram_handle": "@Selina_Ferry",
+    "tiktok_handle": "@Daija97",
+    "joined_at": "2024-05-25T23:11:00.518Z",
+    "advocacy_programs": [
+        {
+            "program_id": "76374e8f-4dc1-42dd-8b89-04b331c392d1",
+            "brand": "Auer - Dickinson",
+            "tasks_completed": [
+                {
+                    "task_id": "5a2212e3-4cab-4514-8e01-385bfbe381de",
+                    "platform": "Instagram",
+                    "post_url": "https://awful-secret.org/",
+                    "likes": 466,
+                    "comments": 40,
+                    "shares": 61,
+                    "reach": 8038
+                }
+            ],
+            "total_sales_attributed": 1216.448638855249
+        }
+    ]
+}

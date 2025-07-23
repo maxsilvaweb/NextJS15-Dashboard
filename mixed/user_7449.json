@@ -1,0 +1,26 @@
+{
+    "user_id": "0fd15f73-a47b-4684-b0af-c32bc1accb0a",
+    "name": "Ms. Shari Bosco",
+    "email": "Holden_OKon52@hotmail.com",
+    "instagram_handle": "@Jocelyn.OKon",
+    "tiktok_handle": "@Elenora_Kerluke",
+    "joined_at": "2025-01-03T23:01:18.158Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f2a936a4-b05d-4eb5-8585-7b9ba221b5a7",
+            "brand": "Hessel LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ec9938a4-ad8e-4281-b3a6-df6beca63ecf",
+                    "platform": "Instagram",
+                    "post_url": "https://lonely-clavicle.com",
+                    "likes": 368,
+                    "comments": 28,
+                    "shares": 48,
+                    "reach": 5584
+                }
+            ],
+            "total_sales_attributed": 254.78076298471865
+        }
+    ]
+}

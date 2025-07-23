@@ -1,0 +1,26 @@
+{
+    "user_id": "ddf072be-630d-4d18-9ba6-f65d6cb59cb3",
+    "name": "Yvonne Kassulke",
+    "email": "Miguel.Nolan@hotmail.com",
+    "instagram_handle": "@Mina.Wuckert51",
+    "tiktok_handle": "@Curtis21",
+    "joined_at": "2024-05-12T17:36:02.801Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1da52727-353e-42a8-951d-60b69ef786c7",
+            "brand": "Schiller and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "3cbaac9e-1194-4e26-9784-7843eaf41bbd",
+                    "platform": "TikTok",
+                    "post_url": "https://eminent-account.org",
+                    "likes": 28,
+                    "comments": 21,
+                    "shares": 57,
+                    "reach": 9291
+                }
+            ],
+            "total_sales_attributed": 1288.8023812728395
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "42f3399d-fbe9-4b45-aa35-59ca53f424ed",
+    "name": "Clyde Heller",
+    "email": "Maud7@hotmail.com",
+    "instagram_handle": "@Joanne.Abbott",
+    "tiktok_handle": "@Serena_Grant",
+    "joined_at": "2024-09-20T21:12:45.696Z",
+    "advocacy_programs": [
+        {
+            "program_id": "60c8f274-c282-4882-a598-95b6d7ecf277",
+            "brand": "Mitchell - Hahn",
+            "tasks_completed": [
+                {
+                    "task_id": "672f2df9-2e2b-49e0-be08-471a7244e92b",
+                    "platform": "TikTok",
+                    "post_url": "https://somber-jungle.org/",
+                    "likes": 194,
+                    "comments": 4,
+                    "shares": 31,
+                    "reach": 9470
+                }
+            ],
+            "total_sales_attributed": 1604.6987936087805
+        }
+    ]
+}

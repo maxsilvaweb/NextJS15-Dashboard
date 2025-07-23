@@ -1,0 +1,26 @@
+{
+    "user_id": "53cc5f48-c2aa-4fa1-85cc-f9e44628401f",
+    "name": "Ms. Tamara Rau",
+    "email": "Yadira.Effertz@hotmail.com",
+    "instagram_handle": "@Arlo.Wisozk26",
+    "tiktok_handle": "@Christopher60",
+    "joined_at": "2024-03-21T11:55:32.072Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bb840752-5301-4392-9169-5419266c146c",
+            "brand": "Sanford Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "ad4cbf94-3a69-4b40-9fdc-0fad84706fcf",
+                    "platform": "TikTok",
+                    "post_url": "https://awful-roundabout.com/",
+                    "likes": 37,
+                    "comments": 29,
+                    "shares": 67,
+                    "reach": 3408
+                }
+            ],
+            "total_sales_attributed": 3726.80714650183
+        }
+    ]
+}

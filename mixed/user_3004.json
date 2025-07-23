@@ -1,0 +1,26 @@
+{
+    "user_id": "03687f3c-55ed-4c3f-b788-f056e3185ceb",
+    "name": "Wesley Leannon",
+    "email": "Ephraim.Franecki97@gmail.com",
+    "instagram_handle": "@Herminio_McGlynn",
+    "tiktok_handle": "@Isabelle_Tillman",
+    "joined_at": "2024-08-10T02:30:12.562Z",
+    "advocacy_programs": [
+        {
+            "program_id": "286af73f-afd4-455a-a74d-087270d8d42d",
+            "brand": "Balistreri, Sipes and Lemke",
+            "tasks_completed": [
+                {
+                    "task_id": "dc3c3645-1888-4ecb-8844-7bbfe2639be8",
+                    "platform": "TikTok",
+                    "post_url": "https://obedient-dead.net",
+                    "likes": 335,
+                    "comments": 0,
+                    "shares": 31,
+                    "reach": 7712
+                }
+            ],
+            "total_sales_attributed": 4307.615269183735
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e0ad79ec-386d-4e69-a8d7-53d547fab340",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Cruz.Gibson82",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "68594316-818d-4013-ae98-0d262a6b1501",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 85,
+                    "reach": 3236
+                }
+            ],
+            "total_sales_attributed": 3461.1598369296084
+        }
+    ]
+}

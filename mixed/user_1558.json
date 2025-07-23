@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Jim Volkman",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "1b12e79b-53e8-4ed5-bced-fdb48d447b74",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "bc31d36d-11f0-4d19-820a-1536f393639d",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 274,
+                    "comments": 27,
+                    "shares": 28,
+                    "reach": 5954
+                }
+            ],
+            "total_sales_attributed": 1707.3856790685973
+        }
+    ]
+}

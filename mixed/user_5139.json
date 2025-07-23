@@ -1,0 +1,26 @@
+{
+    "user_id": "795930d0-249e-4503-b653-0502151da0c6",
+    "name": "Dr. David Kessler",
+    "email": "Camron75@yahoo.com",
+    "instagram_handle": "@Maribel_Krajcik89",
+    "tiktok_handle": "@Ally11",
+    "joined_at": "2025-01-27T10:43:59.587Z",
+    "advocacy_programs": [
+        {
+            "program_id": "997efa50-6a72-416c-b917-0ee7031cb00e",
+            "brand": "Lind, Lowe and Kerluke",
+            "tasks_completed": [
+                {
+                    "task_id": "b2884808-0791-4080-87fa-c08d2df0c591",
+                    "platform": "Instagram",
+                    "post_url": "https://another-seal.net/",
+                    "likes": 74,
+                    "comments": 3,
+                    "shares": 7,
+                    "reach": 5957
+                }
+            ],
+            "total_sales_attributed": 3347.046760433399
+        }
+    ]
+}

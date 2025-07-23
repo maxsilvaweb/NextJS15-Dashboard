@@ -1,0 +1,26 @@
+{
+    "user_id": "0d100edc-5519-4528-bf7c-28ab0887d3ac",
+    "name": "Clifton Gislason",
+    "email": "Bradford.Stamm40@gmail.com",
+    "instagram_handle": "@Leone71",
+    "tiktok_handle": "@Arvel54",
+    "joined_at": "2025-01-08T04:38:36.740Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ea35864d-165f-482a-8e09-e83e39ea21b8",
+            "brand": "Donnelly - Luettgen",
+            "tasks_completed": [
+                {
+                    "task_id": "f366f766-55dc-4ba4-bd1a-42c1f5487207",
+                    "platform": "TikTok",
+                    "post_url": "https://whispered-cook.org/",
+                    "likes": 500,
+                    "comments": 5,
+                    "shares": 17,
+                    "reach": 9587
+                }
+            ],
+            "total_sales_attributed": 1880.0365472321714
+        }
+    ]
+}

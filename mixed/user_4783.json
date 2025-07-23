@@ -1,0 +1,26 @@
+{
+    "user_id": "58c9c429-b838-4022-9fb9-39e41f643b01",
+    "name": "Glenn Kessler",
+    "email": "Alfonzo61@hotmail.com",
+    "instagram_handle": "@Graham.Grimes",
+    "tiktok_handle": "@Aletha.Green10",
+    "joined_at": "2024-04-20T20:38:37.312Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b1e5fd71-b497-41ce-ae6a-0c99ffa8bf4e",
+            "brand": "Bogan Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "59d245fc-5b77-447f-b756-144fae99dafb",
+                    "platform": "TikTok",
+                    "post_url": "https://immediate-excess.info",
+                    "likes": 11,
+                    "comments": 43,
+                    "shares": 13,
+                    "reach": 1063
+                }
+            ],
+            "total_sales_attributed": 1905.8084579693725
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4b1558f0-39fa-4f10-b684-cdfe2ee19f18",
+    "name": "Michele Cartwright",
+    "email": "Chet_McKenzie64@gmail.com",
+    "instagram_handle": "@Carlo_Torp91",
+    "tiktok_handle": "@Fausto_Ferry69",
+    "joined_at": "2024-11-20T12:33:04.477Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b8a0f714-f14f-405a-bd1e-11dab4d1322b",
+            "brand": "White, Marks and Ruecker",
+            "tasks_completed": [
+                {
+                    "task_id": "dfd4b338-d7f7-48ef-a3f1-563020a84330",
+                    "platform": "Instagram",
+                    "post_url": "https://utter-mythology.info",
+                    "likes": 367,
+                    "comments": 20,
+                    "shares": 75,
+                    "reach": 2584
+                }
+            ],
+            "total_sales_attributed": 2492.2885263730013
+        }
+    ]
+}

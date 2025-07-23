@@ -1,0 +1,25 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "a2a8be3c-af87-4b8a-a865-7c508dbfc8ba",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://jubilant-secret.biz/",
+                    "likes": "NaN",
+                    "comments": 15,
+                    "shares": 4,
+                    "reach": 3935
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

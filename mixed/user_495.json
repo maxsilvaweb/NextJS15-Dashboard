@@ -1,0 +1,26 @@
+{
+    "user_id": "fc8a0bd2-c53b-4440-86b6-6ef76bd3c785",
+    "name": "Robert Powlowski",
+    "email": "Alvera.Schinner38@yahoo.com",
+    "instagram_handle": "@Paris_Armstrong91",
+    "tiktok_handle": "@Janie_Monahan",
+    "joined_at": "2024-12-05T20:45:02.773Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5569c0df-8f8c-4a3a-9ca1-ed69523b0830",
+            "brand": "Kris, Durgan and Goldner",
+            "tasks_completed": [
+                {
+                    "task_id": "84019527-a949-4496-9e6d-f4c865feedfc",
+                    "platform": "TikTok",
+                    "post_url": "https://illustrious-publication.org",
+                    "likes": 387,
+                    "comments": 31,
+                    "shares": 14,
+                    "reach": 4284
+                }
+            ],
+            "total_sales_attributed": 4443.537457344459
+        }
+    ]
+}

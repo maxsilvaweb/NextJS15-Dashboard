@@ -1,0 +1,26 @@
+{
+    "user_id": "02d69982-9cc1-473f-955e-c57f26c23204",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Manuela_Keeling",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Murphy LLC",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://common-scale.org/",
+                    "likes": 28,
+                    "comments": null,
+                    "shares": 86,
+                    "reach": 3473
+                }
+            ],
+            "total_sales_attributed": 4052.6664222116974
+        }
+    ]
+}

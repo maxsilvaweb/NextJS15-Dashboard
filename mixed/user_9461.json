@@ -1,0 +1,26 @@
+{
+    "user_id": "71192c49-0016-4cab-bb54-5579e008fe3b",
+    "name": "Matt King",
+    "email": "Justen_Doyle63@gmail.com",
+    "instagram_handle": "@Reva_Armstrong71",
+    "tiktok_handle": "@Ellen_Hane",
+    "joined_at": "2024-06-22T10:41:13.558Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fc5f4c00-e020-4633-92e3-13d3f3cd3c9a",
+            "brand": "Koch Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f36915a9-27dd-491f-8c74-5f264592de20",
+                    "platform": "Instagram",
+                    "post_url": "https://queasy-handle.info",
+                    "likes": 198,
+                    "comments": 23,
+                    "shares": 8,
+                    "reach": 8845
+                }
+            ],
+            "total_sales_attributed": 1060.0201825851905
+        }
+    ]
+}

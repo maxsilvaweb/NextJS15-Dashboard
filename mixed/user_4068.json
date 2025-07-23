@@ -1,0 +1,26 @@
+{
+    "user_id": "897c4068-59c5-4ea0-8048-3968a4075bfe",
+    "name": "Tommy Stoltenberg",
+    "email": "Kavon_Carroll-Nikolaus9@hotmail.com",
+    "instagram_handle": "@Clay.Abbott",
+    "tiktok_handle": "@Amir.Bayer31",
+    "joined_at": "2024-05-30T13:00:42.474Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3e632ea4-eb01-4763-9965-dc95281e29be",
+            "brand": "Lind - Hodkiewicz",
+            "tasks_completed": [
+                {
+                    "task_id": "4f98b1ef-52d9-492c-8565-1c491326abb6",
+                    "platform": "TikTok",
+                    "post_url": "https://shallow-mantua.name",
+                    "likes": 74,
+                    "comments": 17,
+                    "shares": 73,
+                    "reach": 979
+                }
+            ],
+            "total_sales_attributed": 1236.050431142423
+        }
+    ]
+}

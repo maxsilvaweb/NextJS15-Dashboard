@@ -1,0 +1,26 @@
+{
+    "user_id": "609e34c3-9273-4afb-8dda-ea960342418d",
+    "name": "Megan Goldner III",
+    "email": "Sheila58@yahoo.com",
+    "instagram_handle": "@Rafaela47",
+    "tiktok_handle": "@Rickey84",
+    "joined_at": "2024-10-14T12:44:41.520Z",
+    "advocacy_programs": [
+        {
+            "program_id": "99e19306-9573-48be-8971-a4bcb47df055",
+            "brand": "Nikolaus - Strosin",
+            "tasks_completed": [
+                {
+                    "task_id": "c8e3c7ff-0eaf-4f60-8b31-26bc65b50502",
+                    "platform": "TikTok",
+                    "post_url": "https://neat-whack.com",
+                    "likes": 299,
+                    "comments": 35,
+                    "shares": 37,
+                    "reach": 3783
+                }
+            ],
+            "total_sales_attributed": 1457.0967312403193
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "326635e3-30de-46d2-88e9-1ba3034d39d7",
+    "name": "Alan Gorczany",
+    "email": "Geraldine73@gmail.com",
+    "instagram_handle": "@Esteban.Gislason",
+    "tiktok_handle": "@Scot.Runolfsson",
+    "joined_at": "2024-05-08T22:05:47.691Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bde9115f-55f4-4a29-ae8d-d4e86ac8a4ab",
+            "brand": "King Group",
+            "tasks_completed": [
+                {
+                    "task_id": "b020681e-9223-4f95-85e6-aa7b635749a7",
+                    "platform": "Instagram",
+                    "post_url": "https://silky-sushi.name/",
+                    "likes": 260,
+                    "comments": 28,
+                    "shares": 22,
+                    "reach": 1286
+                }
+            ],
+            "total_sales_attributed": 4211.531254329207
+        }
+    ]
+}

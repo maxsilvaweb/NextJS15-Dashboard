@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "d78ff75b-5eb6-41a5-95a9-fedda3acb495",
+            "brand": "Hudson - Lakin",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 30,
+                    "reach": 2776
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

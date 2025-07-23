@@ -1,0 +1,26 @@
+{
+    "user_id": "72d631e7-a3be-4d47-9dce-6b5160d9b2f9",
+    "name": "Dr. Denise Altenwerth",
+    "email": "Hope98@hotmail.com",
+    "instagram_handle": "@Shad.Carter",
+    "tiktok_handle": "@Jamal.Mayer",
+    "joined_at": "2024-03-27T16:53:50.604Z",
+    "advocacy_programs": [
+        {
+            "program_id": "92996a74-e7a1-48e5-94fb-4c96a3ecc360",
+            "brand": "Runolfsson - Rohan",
+            "tasks_completed": [
+                {
+                    "task_id": "8aefe09c-5c64-4b3f-9269-39f124a25c2d",
+                    "platform": "TikTok",
+                    "post_url": "https://elastic-exterior.net",
+                    "likes": 260,
+                    "comments": 35,
+                    "shares": 10,
+                    "reach": 6051
+                }
+            ],
+            "total_sales_attributed": 667.1524048439902
+        }
+    ]
+}

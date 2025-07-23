@@ -1,0 +1,26 @@
+{
+    "user_id": "f2060f0b-7b86-4038-8c22-d72615032dd3",
+    "name": "Carl Armstrong DDS",
+    "email": "Casandra.Torphy3@yahoo.com",
+    "instagram_handle": "@Malcolm.Graham59",
+    "tiktok_handle": "@Gabriel_Kulas36",
+    "joined_at": "2024-08-11T17:28:53.950Z",
+    "advocacy_programs": [
+        {
+            "program_id": "596fb32d-44c7-4688-bc16-4074fa4fc280",
+            "brand": "Armstrong LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e9deaa6e-650a-4e41-b8b1-c7d1d7674523",
+                    "platform": "TikTok",
+                    "post_url": "https://shimmering-amendment.info",
+                    "likes": 212,
+                    "comments": 22,
+                    "shares": 93,
+                    "reach": 3355
+                }
+            ],
+            "total_sales_attributed": 3905.8033076850443
+        }
+    ]
+}

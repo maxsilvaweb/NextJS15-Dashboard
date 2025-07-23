@@ -1,0 +1,26 @@
+{
+    "user_id": "5ba8d98f-63a9-4287-9474-4a880a3d606c",
+    "name": "Tricia Sauer",
+    "email": "Phoebe_Stamm@gmail.com",
+    "instagram_handle": "@Maxwell_Ebert42",
+    "tiktok_handle": "@Halle_Cummerata71",
+    "joined_at": "2024-03-31T23:13:47.618Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7090e3b9-27b5-4592-8651-ea4f461cf6ea",
+            "brand": "Dietrich and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "3e3dba5d-da6f-4f0e-bb9c-2322ca9ca2b5",
+                    "platform": "TikTok",
+                    "post_url": "https://repentant-fax.info",
+                    "likes": 49,
+                    "comments": 33,
+                    "shares": 53,
+                    "reach": 7316
+                }
+            ],
+            "total_sales_attributed": 3441.6893544929253
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "aef1bf4a-d961-459c-a503-ade55631f36d",
+    "name": "Marguerite Purdy",
+    "email": "Alexandrea.Abshire@gmail.com",
+    "instagram_handle": "@Ursula.Quigley73",
+    "tiktok_handle": "@Kurtis29",
+    "joined_at": "2024-04-07T19:53:16.011Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bb84ccf3-4e9c-4330-a693-0bbb8524599b",
+            "brand": "Orn Group",
+            "tasks_completed": [
+                {
+                    "task_id": "47ef2d5c-bd11-4950-8b4d-03b5e5da97e3",
+                    "platform": "Instagram",
+                    "post_url": "https://fuzzy-curl.biz/",
+                    "likes": 171,
+                    "comments": 42,
+                    "shares": 14,
+                    "reach": 6526
+                }
+            ],
+            "total_sales_attributed": 3519.483150339898
+        }
+    ]
+}

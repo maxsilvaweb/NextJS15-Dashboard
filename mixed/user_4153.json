@@ -1,0 +1,26 @@
+{
+    "user_id": "abfadaac-d218-43fc-b8ef-7c51af18c10a",
+    "name": "Wendy Hagenes",
+    "email": "Orie_Borer@hotmail.com",
+    "instagram_handle": "@Eladio44",
+    "tiktok_handle": "@Deontae.Feil63",
+    "joined_at": "2024-07-18T19:53:18.310Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4f830582-3de6-4190-86f2-1a5701b28fd8",
+            "brand": "Kling, Gleichner and Lueilwitz",
+            "tasks_completed": [
+                {
+                    "task_id": "fc56207a-81f6-4d80-9844-c62d493b38f2",
+                    "platform": "Instagram",
+                    "post_url": "https://pale-mozzarella.biz",
+                    "likes": 397,
+                    "comments": 40,
+                    "shares": 40,
+                    "reach": 9738
+                }
+            ],
+            "total_sales_attributed": 531.9227476372162
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c6529a9d-ccd6-4657-b639-fdd266558931",
+    "name": "Domingo Fisher",
+    "email": "Marianna26@hotmail.com",
+    "instagram_handle": "@Marley_Schiller",
+    "tiktok_handle": "@Immanuel7",
+    "joined_at": "2024-12-02T02:56:05.648Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6b71f9ba-1017-4fab-bd01-b9bdda737106",
+            "brand": "Deckow - Mraz",
+            "tasks_completed": [
+                {
+                    "task_id": "0f72e7a9-19ab-44ae-9ebc-2f2dafb96c3c",
+                    "platform": "TikTok",
+                    "post_url": "https://amazing-grandson.name",
+                    "likes": 335,
+                    "comments": 31,
+                    "shares": 64,
+                    "reach": 8198
+                }
+            ],
+            "total_sales_attributed": 845.0165053011773
+        }
+    ]
+}

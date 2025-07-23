@@ -1,0 +1,26 @@
+{
+    "user_id": "25133c3a-c3db-4d36-81c5-628eb0401232",
+    "name": "Pam Walter",
+    "email": "Joshua.Heathcote@yahoo.com",
+    "instagram_handle": "@Easter49",
+    "tiktok_handle": "@Johnathon_McDermott11",
+    "joined_at": "2024-06-19T05:01:04.881Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0aa39067-6fa4-4798-a57e-f0ff1201707c",
+            "brand": "Raynor - Wolff",
+            "tasks_completed": [
+                {
+                    "task_id": "3f9922ad-5c08-42a5-8230-12b99153fb89",
+                    "platform": "Instagram",
+                    "post_url": "https://oily-flame.com/",
+                    "likes": 89,
+                    "comments": 41,
+                    "shares": 82,
+                    "reach": 7175
+                }
+            ],
+            "total_sales_attributed": 2155.1032459048674
+        }
+    ]
+}

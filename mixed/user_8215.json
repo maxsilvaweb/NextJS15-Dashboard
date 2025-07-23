@@ -1,0 +1,26 @@
+{
+    "user_id": "5485ee85-3087-434e-a19d-16462a717de7",
+    "name": "Melissa Cole IV",
+    "email": "Adrien_Hirthe@hotmail.com",
+    "instagram_handle": "@Bria16",
+    "tiktok_handle": "@Layla_Will87",
+    "joined_at": "2024-11-15T09:23:11.341Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2d8a6036-7f1c-4457-b06d-835ed5534032",
+            "brand": "Davis Group",
+            "tasks_completed": [
+                {
+                    "task_id": "1e0f683a-c683-404a-bba4-897c7d070227",
+                    "platform": "Instagram",
+                    "post_url": "https://timely-schnitzel.com",
+                    "likes": 166,
+                    "comments": 15,
+                    "shares": 78,
+                    "reach": 5515
+                }
+            ],
+            "total_sales_attributed": 323.1375992030984
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "54e7fbcb-7d96-4ecf-be52-efe7803c360e",
+    "name": "Joann Beier",
+    "email": "Robb.Borer@hotmail.com",
+    "instagram_handle": "@Izaiah.Crooks",
+    "tiktok_handle": "@Elbert.Hickle",
+    "joined_at": "2024-07-16T15:00:14.549Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8fe2fd71-260f-4a60-9976-c2b5255fe94d",
+            "brand": "Sanford - Schoen",
+            "tasks_completed": [
+                {
+                    "task_id": "8852f60d-3e4e-4619-999f-088c6abdf4aa",
+                    "platform": "Instagram",
+                    "post_url": "https://ignorant-safe.name/",
+                    "likes": 423,
+                    "comments": 48,
+                    "shares": 17,
+                    "reach": 1985
+                }
+            ],
+            "total_sales_attributed": 1166.2564552300869
+        }
+    ]
+}

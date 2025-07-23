@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Jeromy57@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Brown - Rosenbaum",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://jagged-pepper.org/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 8,
+                    "reach": 4919
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

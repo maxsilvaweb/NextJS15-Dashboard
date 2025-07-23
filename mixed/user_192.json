@@ -1,0 +1,26 @@
+{
+    "user_id": "61df3781-06ea-4845-9c60-398de16d14fa",
+    "name": "Otis Roob",
+    "email": "Derrick.Kuphal@gmail.com",
+    "instagram_handle": "@Jaden_Stark24",
+    "tiktok_handle": "@Rory.Stroman31",
+    "joined_at": "2024-11-27T00:37:31.571Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cc34925d-9a96-4124-a736-249cb44f64da",
+            "brand": "Legros, Ledner and Kirlin",
+            "tasks_completed": [
+                {
+                    "task_id": "acb526ba-753a-4a2a-869e-f8351bdd91df",
+                    "platform": "TikTok",
+                    "post_url": "https://ideal-emergent.com",
+                    "likes": 489,
+                    "comments": 5,
+                    "shares": 27,
+                    "reach": 9797
+                }
+            ],
+            "total_sales_attributed": 4858.575926810178
+        }
+    ]
+}

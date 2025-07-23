@@ -1,0 +1,26 @@
+{
+    "user_id": "db89d90c-4ab0-4338-856c-30e4dd56e1ab",
+    "name": "Brittany Rau",
+    "email": "Quincy.Torphy-Collier@gmail.com",
+    "instagram_handle": "@Vern.Botsford",
+    "tiktok_handle": "@Jane_Gleichner34",
+    "joined_at": "2024-06-05T10:23:22.906Z",
+    "advocacy_programs": [
+        {
+            "program_id": "463d92a5-0a00-4198-aa02-f76b1052abf2",
+            "brand": "Ferry, Jerde and Runte",
+            "tasks_completed": [
+                {
+                    "task_id": "6a07345e-ba93-4bfc-b8b4-27f17cf47e73",
+                    "platform": "TikTok",
+                    "post_url": "https://esteemed-heartbeat.biz",
+                    "likes": 137,
+                    "comments": 18,
+                    "shares": 44,
+                    "reach": 7408
+                }
+            ],
+            "total_sales_attributed": 4925.397970694651
+        }
+    ]
+}

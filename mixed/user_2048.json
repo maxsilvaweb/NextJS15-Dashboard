@@ -1,0 +1,26 @@
+{
+    "user_id": "ca3e814a-2e09-4e75-a590-20ddd8dbe60d",
+    "name": "Ms. Betsy Walker",
+    "email": "Joelle_Fisher55@yahoo.com",
+    "instagram_handle": "@Lilly_Halvorson",
+    "tiktok_handle": "@Clemmie_Kuvalis79",
+    "joined_at": "2025-03-17T17:33:27.098Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bf38111f-2310-4a6e-ad9c-268512554894",
+            "brand": "Kulas - Satterfield",
+            "tasks_completed": [
+                {
+                    "task_id": "eebf4ffa-c2df-43a8-a7c5-ac433a2079a7",
+                    "platform": "Instagram",
+                    "post_url": "https://fatal-in-joke.biz",
+                    "likes": 312,
+                    "comments": 0,
+                    "shares": 17,
+                    "reach": 3026
+                }
+            ],
+            "total_sales_attributed": 998.9935603806902
+        }
+    ]
+}

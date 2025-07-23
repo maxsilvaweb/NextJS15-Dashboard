@@ -1,0 +1,26 @@
+{
+    "user_id": "6c7fe3e2-ece6-46e1-a3d6-eaa16e937703",
+    "name": "Alicia Walker",
+    "email": "Jessy58@yahoo.com",
+    "instagram_handle": "@Merl9",
+    "tiktok_handle": "@Lorena61",
+    "joined_at": "2024-08-30T10:37:15.980Z",
+    "advocacy_programs": [
+        {
+            "program_id": "311cbc75-73f1-4393-8efe-6fb3f40e03c8",
+            "brand": "Schinner and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "1d9027ee-23d8-4ffe-a030-7d04bf422b43",
+                    "platform": "Instagram",
+                    "post_url": "https://evil-aftermath.biz",
+                    "likes": 271,
+                    "comments": 37,
+                    "shares": 65,
+                    "reach": 2683
+                }
+            ],
+            "total_sales_attributed": 2460.8799090813495
+        }
+    ]
+}

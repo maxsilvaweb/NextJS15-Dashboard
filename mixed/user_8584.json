@@ -1,0 +1,26 @@
+{
+    "user_id": "e4c96c11-d6f6-4d89-b6f0-ea1948ed0837",
+    "name": "Joe Daugherty",
+    "email": "Elian_Kirlin@hotmail.com",
+    "instagram_handle": "@Oren.Collins",
+    "tiktok_handle": "@Amelia_Ritchie49",
+    "joined_at": "2024-05-24T13:19:34.050Z",
+    "advocacy_programs": [
+        {
+            "program_id": "53d2747a-645b-4e8b-8de0-47d4c3621f73",
+            "brand": "Pollich - Kautzer",
+            "tasks_completed": [
+                {
+                    "task_id": "c487fdc0-9a91-431b-ae7e-7b4e698eb177",
+                    "platform": "Instagram",
+                    "post_url": "https://proper-airline.org",
+                    "likes": 373,
+                    "comments": 36,
+                    "shares": 23,
+                    "reach": 9644
+                }
+            ],
+            "total_sales_attributed": 4382.719127710046
+        }
+    ]
+}

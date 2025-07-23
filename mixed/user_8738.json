@@ -1,0 +1,26 @@
+{
+    "user_id": "1d85d817-5b1f-4f48-911c-5657247eb12f",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Shanel.Langosh",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-05-16T05:20:13.401Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 215,
+                    "comments": 19,
+                    "shares": 49,
+                    "reach": 5729
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

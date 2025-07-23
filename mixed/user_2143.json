@@ -1,0 +1,26 @@
+{
+    "user_id": "09e073fb-9bb9-485f-b5d7-51851ecc33ae",
+    "name": "Emma Quigley",
+    "email": "Lula.Gutmann-Lindgren@yahoo.com",
+    "instagram_handle": "@Lisette.Parker-Fisher8",
+    "tiktok_handle": "@Clark_Fay42",
+    "joined_at": "2024-06-01T18:12:22.409Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c2d747e2-7bb1-4805-8c16-0c6da0ca18d0",
+            "brand": "Hackett, Daniel and Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "97905210-b559-461f-b268-95fbeef1f157",
+                    "platform": "TikTok",
+                    "post_url": "https://necessary-legislature.com",
+                    "likes": 163,
+                    "comments": 12,
+                    "shares": 59,
+                    "reach": 849
+                }
+            ],
+            "total_sales_attributed": 2845.9915178493384
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Sadie_Boyle62",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://happy-thorn.com/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 41,
+                    "reach": 7237
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

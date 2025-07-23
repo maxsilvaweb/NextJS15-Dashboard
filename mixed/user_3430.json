@@ -1,0 +1,26 @@
+{
+    "user_id": "b9c7e5fb-f368-42ff-8ee8-d19744d1ce79",
+    "name": "Dolores Graham I",
+    "email": "Barrett_Sawayn@hotmail.com",
+    "instagram_handle": "@Elroy_Purdy43",
+    "tiktok_handle": "@Godfrey57",
+    "joined_at": "2024-05-20T04:02:15.158Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0d71d25f-9b54-49ba-ac47-cbc2fe4af51f",
+            "brand": "Ruecker, Mayer and Cole",
+            "tasks_completed": [
+                {
+                    "task_id": "f01327ed-e3a1-4f83-a81e-e60a4fa46683",
+                    "platform": "TikTok",
+                    "post_url": "https://fatherly-fit.biz/",
+                    "likes": 267,
+                    "comments": 41,
+                    "shares": 76,
+                    "reach": 1055
+                }
+            ],
+            "total_sales_attributed": 2337.3895952460693
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8523cb34-f669-443c-ab8d-79f91741fdc9",
+    "name": "Marianne Sipes",
+    "email": "Jerrold_Christiansen@hotmail.com",
+    "instagram_handle": "@Alexandra_Braun73",
+    "tiktok_handle": "@Marielle17",
+    "joined_at": "2024-11-14T14:34:33.927Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f5f270af-f238-4d7f-bf5d-4ff647b62e99",
+            "brand": "Doyle - Hane",
+            "tasks_completed": [
+                {
+                    "task_id": "7fb9965a-dc02-4410-97be-a73b5e1c2c35",
+                    "platform": "TikTok",
+                    "post_url": "https://monstrous-verve.net",
+                    "likes": 272,
+                    "comments": 4,
+                    "shares": 81,
+                    "reach": 5180
+                }
+            ],
+            "total_sales_attributed": 1989.943979563788
+        }
+    ]
+}

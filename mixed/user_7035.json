@@ -1,0 +1,26 @@
+{
+    "user_id": "d93d0a82-9bd0-49eb-9270-b0369928829e",
+    "name": "Elvira Kris",
+    "email": "Fred30@yahoo.com",
+    "instagram_handle": "@Miguel11",
+    "tiktok_handle": "@Jaunita.Spinka",
+    "joined_at": "2024-07-18T18:24:29.268Z",
+    "advocacy_programs": [
+        {
+            "program_id": "18134d6c-f8da-4347-86de-516948ad02d6",
+            "brand": "Sporer, Kohler and Kunze",
+            "tasks_completed": [
+                {
+                    "task_id": "22830b12-4442-4a2a-8660-56d67372ddc2",
+                    "platform": "TikTok",
+                    "post_url": "https://white-viability.net/",
+                    "likes": 463,
+                    "comments": 8,
+                    "shares": 99,
+                    "reach": 8787
+                }
+            ],
+            "total_sales_attributed": 3289.6707546840958
+        }
+    ]
+}

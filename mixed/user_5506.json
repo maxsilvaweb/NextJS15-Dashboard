@@ -1,0 +1,26 @@
+{
+    "user_id": "1d506a08-0bbf-4af7-a4a9-f19fd9eecdf1",
+    "name": "Harvey Zemlak-Krajcik",
+    "email": "Adelia63@gmail.com",
+    "instagram_handle": "@Oren46",
+    "tiktok_handle": "@Savanah99",
+    "joined_at": "2024-12-19T17:06:57.743Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fd4d995c-6d30-4f83-9a4c-16a4f93f65d1",
+            "brand": "Renner LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "de9dec59-6a47-417d-bf3f-2ff0f7dcbcfa",
+                    "platform": "TikTok",
+                    "post_url": "https://foolish-lounge.info",
+                    "likes": 303,
+                    "comments": 33,
+                    "shares": 80,
+                    "reach": 3162
+                }
+            ],
+            "total_sales_attributed": 1473.3085475386295
+        }
+    ]
+}

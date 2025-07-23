@@ -1,0 +1,26 @@
+{
+    "user_id": "cc38f9b0-0d1c-4807-b954-2793caf713db",
+    "name": "Dr. Chris Schumm",
+    "email": "Kayleigh42@hotmail.com",
+    "instagram_handle": "@Jordyn.Cremin",
+    "tiktok_handle": "@Megane.Mante52",
+    "joined_at": "2024-09-12T13:51:33.608Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5314c17c-55fb-4712-a3f9-01a628417c72",
+            "brand": "Murazik LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7461439f-b7ff-4457-9afb-4d8ae57b0737",
+                    "platform": "Instagram",
+                    "post_url": "https://empty-bell.name/",
+                    "likes": 124,
+                    "comments": 42,
+                    "shares": 72,
+                    "reach": 4559
+                }
+            ],
+            "total_sales_attributed": 2681.8303253511795
+        }
+    ]
+}

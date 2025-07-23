@@ -1,0 +1,26 @@
+{
+    "user_id": "aa151ae3-8644-48bc-8526-ad6364755d3a",
+    "name": "Nicholas Crist",
+    "email": "Blanche_Little@gmail.com",
+    "instagram_handle": "@Adrain.Erdman",
+    "tiktok_handle": "@Abbie73",
+    "joined_at": "2024-12-07T19:05:49.949Z",
+    "advocacy_programs": [
+        {
+            "program_id": "466e3cb5-9801-47ba-ad7c-0761c25f874c",
+            "brand": "White Group",
+            "tasks_completed": [
+                {
+                    "task_id": "10547e73-5085-4f1d-9ab9-2176bf076fa1",
+                    "platform": "TikTok",
+                    "post_url": "https://wrong-premier.biz/",
+                    "likes": 471,
+                    "comments": 37,
+                    "shares": 54,
+                    "reach": 1651
+                }
+            ],
+            "total_sales_attributed": 2551.7039515316224
+        }
+    ]
+}

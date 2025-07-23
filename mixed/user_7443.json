@@ -1,0 +1,25 @@
+{
+    "user_id": "9b7583b2-62f8-423f-abb2-da2d39875148",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Botsford Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "78858a43-0b27-47b6-a58d-f081aa01173c",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 8,
+                    "reach": 6429
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]

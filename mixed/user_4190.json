@@ -1,0 +1,26 @@
+{
+    "user_id": "2bf1c06d-4615-43d1-8f35-71a56919acf7",
+    "name": "Orville Feeney",
+    "email": "Norwood88@hotmail.com",
+    "instagram_handle": "@Petra.Abernathy78",
+    "tiktok_handle": "@Myrtis_Dicki10",
+    "joined_at": "2024-10-29T16:39:15.435Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ac99a3d1-77a5-44f8-83b5-ef6b704402e3",
+            "brand": "Bechtelar Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "ec0fc88f-88eb-488b-a7f3-630f81a91d36",
+                    "platform": "TikTok",
+                    "post_url": "https://gracious-gift.info",
+                    "likes": 485,
+                    "comments": 4,
+                    "shares": 29,
+                    "reach": 2177
+                }
+            ],
+            "total_sales_attributed": 2697.8869642010222
+        }
+    ]
+}

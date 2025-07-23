@@ -1,0 +1,26 @@
+{
+    "user_id": "00f69965-8c52-4f2e-8959-789f4c276132",
+    "name": "Lila Sanford",
+    "email": "Myriam_Lynch14@yahoo.com",
+    "instagram_handle": "@Lera42",
+    "tiktok_handle": "@Queen12",
+    "joined_at": "2024-03-22T15:31:47.085Z",
+    "advocacy_programs": [
+        {
+            "program_id": "227a7076-69cf-45b5-8d94-0c72ad2be776",
+            "brand": "Lynch, Bruen and West",
+            "tasks_completed": [
+                {
+                    "task_id": "0cd57a7e-eb4c-4f1a-9b67-efcaccdf435c",
+                    "platform": "TikTok",
+                    "post_url": "https://gorgeous-zen.info/",
+                    "likes": 381,
+                    "comments": 23,
+                    "shares": 10,
+                    "reach": 6403
+                }
+            ],
+            "total_sales_attributed": 1585.5447284175623
+        }
+    ]
+}

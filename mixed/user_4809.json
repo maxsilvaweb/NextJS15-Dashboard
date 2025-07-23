@@ -1,0 +1,26 @@
+{
+    "user_id": "32ba65b1-01b0-4151-b1ca-935dd405e77c",
+    "name": "Roland Powlowski",
+    "email": "Maybell67@yahoo.com",
+    "instagram_handle": "@Zola_Schaden28",
+    "tiktok_handle": "@Bailey_Thompson",
+    "joined_at": "2025-01-02T18:52:54.893Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4ac1ad16-8c43-4cee-bf0e-ba46d36cea2a",
+            "brand": "Mann - Daugherty",
+            "tasks_completed": [
+                {
+                    "task_id": "d88fc31d-1919-41fe-ad6d-e15023810c36",
+                    "platform": "Instagram",
+                    "post_url": "https://soft-cope.org/",
+                    "likes": 492,
+                    "comments": 46,
+                    "shares": 98,
+                    "reach": 767
+                }
+            ],
+            "total_sales_attributed": 3245.1356121306235
+        }
+    ]
+}

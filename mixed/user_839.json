@@ -1,0 +1,26 @@
+{
+    "user_id": "5a4b4bcc-e7d5-424a-b3aa-318a52c8d142",
+    "name": "Cary Block",
+    "email": "Gregoria.Smith80@gmail.com",
+    "instagram_handle": "@Sheridan_Hane",
+    "tiktok_handle": "@Milford93",
+    "joined_at": "2025-02-24T03:16:58.294Z",
+    "advocacy_programs": [
+        {
+            "program_id": "adc2b8d1-1452-49aa-ae08-e8b832548557",
+            "brand": "Haag, Schowalter and Keeling",
+            "tasks_completed": [
+                {
+                    "task_id": "6b7556d5-01e7-4b49-8871-09cdd21f9fe9",
+                    "platform": "TikTok",
+                    "post_url": "https://simplistic-insolence.name",
+                    "likes": 469,
+                    "comments": 3,
+                    "shares": 78,
+                    "reach": 2610
+                }
+            ],
+            "total_sales_attributed": 4049.108988494539
+        }
+    ]
+}

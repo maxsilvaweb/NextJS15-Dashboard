@@ -1,0 +1,26 @@
+{
+    "user_id": "9f2868a0-6f44-4c86-a5d5-c23444ba0217",
+    "name": "Enrique Ernser",
+    "email": "Antonina.Bechtelar52@yahoo.com",
+    "instagram_handle": "@Myrtice_Glover",
+    "tiktok_handle": "@Nolan85",
+    "joined_at": "2024-10-22T18:32:44.285Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7733aa2a-a94a-4c0c-a52c-34abe55e6268",
+            "brand": "O'Keefe, Torphy and Schroeder",
+            "tasks_completed": [
+                {
+                    "task_id": "51dfacaf-dc2e-40c0-9b29-bf2e8e123d1c",
+                    "platform": "Instagram",
+                    "post_url": "https://old-fashioned-tomography.net",
+                    "likes": 145,
+                    "comments": 24,
+                    "shares": 97,
+                    "reach": 8711
+                }
+            ],
+            "total_sales_attributed": 3393.748104839743
+        }
+    ]
+}

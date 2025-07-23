@@ -1,0 +1,26 @@
+{
+    "user_id": "cd677ff2-24d5-44ce-91dc-a6a92d87d4bf",
+    "name": "Erica Boyer",
+    "email": "Kody.Mraz48@hotmail.com",
+    "instagram_handle": "@Trent_McGlynn74",
+    "tiktok_handle": "@Frankie.Murazik",
+    "joined_at": "2024-10-18T15:33:33.180Z",
+    "advocacy_programs": [
+        {
+            "program_id": "98ce964f-e8af-4052-8785-23bfa03ec4f4",
+            "brand": "Gutmann Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ea75bf7c-9ebc-44cb-9923-743cafae5b06",
+                    "platform": "Instagram",
+                    "post_url": "https://passionate-octave.net",
+                    "likes": 419,
+                    "comments": 37,
+                    "shares": 68,
+                    "reach": 4054
+                }
+            ],
+            "total_sales_attributed": 3386.274339991979
+        }
+    ]
+}

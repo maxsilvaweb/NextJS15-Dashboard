@@ -1,0 +1,26 @@
+{
+    "user_id": "cbdf8af5-e3ed-42c7-9915-0a6ef50ab29e",
+    "name": "Lana Hackett",
+    "email": "Jodie_Huels97@yahoo.com",
+    "instagram_handle": "@Rachelle_Erdman-Kub55",
+    "tiktok_handle": "@Alivia_Zboncak",
+    "joined_at": "2024-08-13T08:57:23.494Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a1086d6c-c8de-48f0-bf19-74a3678aa5bc",
+            "brand": "Schmitt Group",
+            "tasks_completed": [
+                {
+                    "task_id": "1cd2fb50-5e9a-4386-b0d0-71752e350ab9",
+                    "platform": "Instagram",
+                    "post_url": "https://key-lender.org",
+                    "likes": 310,
+                    "comments": 22,
+                    "shares": 29,
+                    "reach": 8025
+                }
+            ],
+            "total_sales_attributed": 1349.947533787667
+        }
+    ]
+}

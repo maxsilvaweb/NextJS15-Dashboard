@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://regal-mom.name/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 23,
+                    "reach": 4549
+                }
+            ],
+            "total_sales_attributed": 4808.50718552854
+        }
+    ]
+}

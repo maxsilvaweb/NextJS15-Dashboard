@@ -1,0 +1,26 @@
+{
+    "user_id": "19ad0efc-50be-41bd-9a25-b3a3409264c5",
+    "name": "Tara Tillman",
+    "email": "Giovani38@yahoo.com",
+    "instagram_handle": "@Granville_Moen",
+    "tiktok_handle": "@Pattie.Blanda76",
+    "joined_at": "2024-11-01T19:14:13.685Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2c429742-67c9-4a74-9cf7-64cc5e1cfba4",
+            "brand": "Mayer and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "70354728-857b-40bb-a80c-9b73611b756a",
+                    "platform": "Instagram",
+                    "post_url": "https://oval-asset.org/",
+                    "likes": 416,
+                    "comments": 2,
+                    "shares": 67,
+                    "reach": 8506
+                }
+            ],
+            "total_sales_attributed": 3785.744356229365
+        }
+    ]
+}

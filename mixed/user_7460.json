@@ -1,0 +1,26 @@
+{
+    "user_id": "97922f89-ec30-4baf-84b2-d8452e8191f7",
+    "name": "Gretchen Buckridge",
+    "email": "Johnnie35@hotmail.com",
+    "instagram_handle": "@Ebba.Schaefer-Cassin60",
+    "tiktok_handle": "@Monroe.Jacobson74",
+    "joined_at": "2024-05-04T11:08:48.061Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0c7738ec-9f3f-4143-910f-5ee452968965",
+            "brand": "Schinner - Hermann",
+            "tasks_completed": [
+                {
+                    "task_id": "31865e25-4118-4d9f-be61-951d2c687e39",
+                    "platform": "TikTok",
+                    "post_url": "https://aware-developing.name",
+                    "likes": 298,
+                    "comments": 5,
+                    "shares": 92,
+                    "reach": 6952
+                }
+            ],
+            "total_sales_attributed": 2140.838740831886
+        }
+    ]
+}

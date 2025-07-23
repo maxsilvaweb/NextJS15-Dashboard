@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "26f5618f-4400-4194-a7a2-79f6c5775ec7",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://firm-lounge.biz",
+                    "likes": 162,
+                    "comments": 49,
+                    "shares": 46,
+                    "reach": 7886
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

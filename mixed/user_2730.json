@@ -1,0 +1,26 @@
+{
+    "user_id": "c10e8855-cebb-4920-930e-bc39a5b5625d",
+    "name": "Dr. Loretta Klocko",
+    "email": "Payton_Prohaska85@gmail.com",
+    "instagram_handle": "@Kendra.Reichert",
+    "tiktok_handle": "@Amalia84",
+    "joined_at": "2024-04-14T12:16:13.049Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5eb1e90d-4a64-45ff-8743-ff0d51bcb24d",
+            "brand": "Auer Group",
+            "tasks_completed": [
+                {
+                    "task_id": "bf94fb6c-4e2d-4c7e-bbb3-98df6ffc33cb",
+                    "platform": "Instagram",
+                    "post_url": "https://sparkling-contractor.biz",
+                    "likes": 278,
+                    "comments": 40,
+                    "shares": 87,
+                    "reach": 1746
+                }
+            ],
+            "total_sales_attributed": 3648.221896675002
+        }
+    ]
+}

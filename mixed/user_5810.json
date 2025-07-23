@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Schamberger - Wilderman",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://scornful-opera.name",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 97,
+                    "reach": 1332
+                }
+            ],
+            "total_sales_attributed": 1478.8731055401524
+        }
+    ]
+}

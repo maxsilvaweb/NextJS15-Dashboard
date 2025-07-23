@@ -1,0 +1,26 @@
+{
+    "user_id": "27cd013a-20cc-4abe-b1d2-ca73fc9e6ff1",
+    "name": "Jill Spinka MD",
+    "email": "Daphney.Nolan81@gmail.com",
+    "instagram_handle": "@Carissa.White62",
+    "tiktok_handle": "@Sheila_Ward60",
+    "joined_at": "2025-01-24T10:24:27.508Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3d4ab7fa-0288-4cb9-8ba0-fa54354107da",
+            "brand": "Weber - Hettinger",
+            "tasks_completed": [
+                {
+                    "task_id": "48b96264-69ab-409e-9ac3-dd9d2fe63ec1",
+                    "platform": "Instagram",
+                    "post_url": "https://whole-marimba.info",
+                    "likes": 165,
+                    "comments": 28,
+                    "shares": 33,
+                    "reach": 8769
+                }
+            ],
+            "total_sales_attributed": 4847.5625046559435
+        }
+    ]
+}

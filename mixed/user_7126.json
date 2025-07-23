@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "b307a79a-1384-492b-84e7-36f42cf2d177",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://gleaming-farmer.org",
+                    "likes": "NaN",
+                    "comments": 11,
+                    "shares": 17,
+                    "reach": 660
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

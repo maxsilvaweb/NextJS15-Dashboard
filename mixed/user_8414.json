@@ -1,0 +1,26 @@
+{
+    "user_id": "5c024c2d-7628-44bc-86b6-5f4e3ee98171",
+    "name": "???",
+    "email": "Arne.Leuschke40@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Dietrich - Hartmann",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 41,
+                    "reach": 4403
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

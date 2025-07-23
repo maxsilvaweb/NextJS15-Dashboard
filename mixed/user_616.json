@@ -1,0 +1,26 @@
+{
+    "user_id": "bc47b6d7-eded-4de3-9ff9-beed2ddccd7c",
+    "name": "Jared Crist Sr.",
+    "email": "Herminio16@yahoo.com",
+    "instagram_handle": "@Mia_Schoen",
+    "tiktok_handle": "@Sheldon49",
+    "joined_at": "2024-09-28T16:47:10.590Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b6bb00e1-14f8-4bcc-ba7d-d237878593d6",
+            "brand": "Mante - Dare",
+            "tasks_completed": [
+                {
+                    "task_id": "5112efac-3dbc-4a48-b527-9074dc6c8fef",
+                    "platform": "Instagram",
+                    "post_url": "https://insignificant-outrun.name",
+                    "likes": 174,
+                    "comments": 24,
+                    "shares": 92,
+                    "reach": 902
+                }
+            ],
+            "total_sales_attributed": 4892.678990547522
+        }
+    ]
+}

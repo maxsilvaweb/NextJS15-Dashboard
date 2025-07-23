@@ -1,0 +1,26 @@
+{
+    "user_id": "1e7ea6ff-4ed2-49c2-8382-78ae68b91f29",
+    "name": "Jo Zieme",
+    "email": "Glen_Macejkovic30@hotmail.com",
+    "instagram_handle": "@Tad.Mohr62",
+    "tiktok_handle": "@Jerrell17",
+    "joined_at": "2024-05-25T15:08:22.540Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f532c1c8-143e-42a0-baa5-909c8a3b618b",
+            "brand": "Grady, Lynch and Lockman",
+            "tasks_completed": [
+                {
+                    "task_id": "ece8d283-8252-4fe6-ab77-de737bad94d0",
+                    "platform": "Instagram",
+                    "post_url": "https://skeletal-intent.net",
+                    "likes": 130,
+                    "comments": 34,
+                    "shares": 69,
+                    "reach": 3049
+                }
+            ],
+            "total_sales_attributed": 2869.864073432782
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "991d8610-dac9-4cc7-941a-7df75ee8a6e7",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://late-kinase.com",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 49,
+                    "reach": 8842
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

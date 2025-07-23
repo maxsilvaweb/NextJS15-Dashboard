@@ -1,0 +1,26 @@
+{
+    "user_id": "49527a83-c1fb-47dd-98eb-710e751ba971",
+    "name": "???",
+    "email": "Adonis_Turner@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 42,
+                    "reach": 7079
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

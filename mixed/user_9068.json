@@ -1,0 +1,26 @@
+{
+    "user_id": "de52b7a4-a237-40ff-b473-1a06a592d78a",
+    "name": "Stacy Schiller",
+    "email": "Furman.Satterfield@gmail.com",
+    "instagram_handle": "@Ellis37",
+    "tiktok_handle": "@Ryan_Abbott62",
+    "joined_at": "2024-05-08T19:32:08.004Z",
+    "advocacy_programs": [
+        {
+            "program_id": "15780777-e595-4e6e-a938-dcf43cb2923f",
+            "brand": "Wyman, Auer and Jaskolski",
+            "tasks_completed": [
+                {
+                    "task_id": "c0af9d9d-d839-4ec4-9e0c-f84b32ba938d",
+                    "platform": "Instagram",
+                    "post_url": "https://wilted-taro.net/",
+                    "likes": 115,
+                    "comments": 17,
+                    "shares": 40,
+                    "reach": 9694
+                }
+            ],
+            "total_sales_attributed": 3315.795889230979
+        }
+    ]
+}

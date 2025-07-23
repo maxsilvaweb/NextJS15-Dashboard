@@ -1,0 +1,26 @@
+{
+    "user_id": "4774fa76-1dd6-4b18-a539-29dc323ae8cf",
+    "name": "Mitchell Willms",
+    "email": "Lucile18@yahoo.com",
+    "instagram_handle": "@Brock.Prohaska",
+    "tiktok_handle": "@Brandt.Rau",
+    "joined_at": "2024-10-22T18:26:32.186Z",
+    "advocacy_programs": [
+        {
+            "program_id": "841f825f-23ef-4d4b-820e-40f7461f61b0",
+            "brand": "Gutmann, Kulas and Ryan",
+            "tasks_completed": [
+                {
+                    "task_id": "d09e9f40-209f-4fa9-99e6-3e1284e1f633",
+                    "platform": "Instagram",
+                    "post_url": "https://sweet-petal.com/",
+                    "likes": 330,
+                    "comments": 9,
+                    "shares": 2,
+                    "reach": 7855
+                }
+            ],
+            "total_sales_attributed": 4035.253646023953
+        }
+    ]
+}

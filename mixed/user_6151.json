@@ -1,0 +1,26 @@
+{
+    "user_id": "9b3a7a9d-af6f-44b4-b5b0-4ebee6db4dde",
+    "name": "Bruce Cummings",
+    "email": "Elise38@yahoo.com",
+    "instagram_handle": "@Xander.Schaefer",
+    "tiktok_handle": "@Lamar_Kuhn84",
+    "joined_at": "2024-07-13T05:12:31.618Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c77b74b1-81d1-49a0-999b-4ba059c042ea",
+            "brand": "Grant, Walter and Nikolaus",
+            "tasks_completed": [
+                {
+                    "task_id": "1681af77-674e-44e7-b401-f1134dcace71",
+                    "platform": "Instagram",
+                    "post_url": "https://useless-bourgeoisie.name/",
+                    "likes": 244,
+                    "comments": 41,
+                    "shares": 11,
+                    "reach": 2648
+                }
+            ],
+            "total_sales_attributed": 1699.000296863953
+        }
+    ]
+}

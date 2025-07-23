@@ -1,0 +1,26 @@
+{
+    "user_id": "dd922d14-9b5b-440f-8ade-834df553af2f",
+    "name": "Marvin Hessel-Batz",
+    "email": "Rosalia83@hotmail.com",
+    "instagram_handle": "@Gregorio.Ebert",
+    "tiktok_handle": "@Hiram_MacGyver",
+    "joined_at": "2024-08-29T07:51:33.946Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7c794a3a-6b26-47b7-b367-e391e3c853fc",
+            "brand": "Hirthe Group",
+            "tasks_completed": [
+                {
+                    "task_id": "38d36478-344e-4ca8-8bd8-b2ed380a6f68",
+                    "platform": "Instagram",
+                    "post_url": "https://likable-monocle.org",
+                    "likes": 191,
+                    "comments": 35,
+                    "shares": 63,
+                    "reach": 4407
+                }
+            ],
+            "total_sales_attributed": 2913.0932255942907
+        }
+    ]
+}

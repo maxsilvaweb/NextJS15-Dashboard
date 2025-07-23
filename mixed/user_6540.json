@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Stracke Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f276e809-051e-4b64-8c5d-7991adbd8a04",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 80,
+                    "reach": 2211
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Bode, Kuvalis and Mayert",
+            "tasks_completed": [
+                {
+                    "task_id": "13291f6b-936c-4a20-a272-11500d2d1f28",
+                    "platform": "Facebook",
+                    "post_url": "https://esteemed-tenement.org/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 86,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Johnny22@gmail.com",
+    "instagram_handle": "@Celine.Feest",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "2ad77c87-26b0-464b-a051-cb0c2b7c3c7a",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 47,
+                    "reach": 8769
+                }
+            ],
+            "total_sales_attributed": 1324.2872733973654
+        }
+    ]
+}

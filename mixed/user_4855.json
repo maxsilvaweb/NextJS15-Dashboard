@@ -1,0 +1,26 @@
+{
+    "user_id": "7aeb2bf5-2dee-40ea-9b89-6ae3da06db1b",
+    "name": "Faye Howell",
+    "email": "Keshawn81@hotmail.com",
+    "instagram_handle": "@Agustin_Cronin84",
+    "tiktok_handle": "@Jacinthe_Bechtelar68",
+    "joined_at": "2025-01-09T08:44:40.457Z",
+    "advocacy_programs": [
+        {
+            "program_id": "29741237-8ed0-4445-806e-14a922356151",
+            "brand": "Doyle - Gerlach",
+            "tasks_completed": [
+                {
+                    "task_id": "954e869d-2f93-4898-af0b-5600c45c9136",
+                    "platform": "Instagram",
+                    "post_url": "https://apt-flight.info",
+                    "likes": 250,
+                    "comments": 36,
+                    "shares": 66,
+                    "reach": 4812
+                }
+            ],
+            "total_sales_attributed": 1230.2696505925044
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bf711da3-027e-4d2b-9c9c-5b5be714d2dd",
+    "name": "David Schaden",
+    "email": "Alda.Olson75@yahoo.com",
+    "instagram_handle": "@Daryl8",
+    "tiktok_handle": "@Kaycee.Ullrich44",
+    "joined_at": "2024-07-20T22:43:12.124Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d1616475-9b30-4933-80be-d25c08646bf2",
+            "brand": "Auer, Herman and Olson",
+            "tasks_completed": [
+                {
+                    "task_id": "1475c5f4-519d-4a05-a393-c66a5bf5d544",
+                    "platform": "TikTok",
+                    "post_url": "https://impossible-louse.biz",
+                    "likes": 270,
+                    "comments": 3,
+                    "shares": 62,
+                    "reach": 4600
+                }
+            ],
+            "total_sales_attributed": 3996.9413080007994
+        }
+    ]
+}

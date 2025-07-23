@@ -1,0 +1,26 @@
+{
+    "user_id": "9bce0825-2bc8-4b7c-9b6b-57379f21a1f0",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://personal-premeditation.com/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 0,
+                    "reach": 9624
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

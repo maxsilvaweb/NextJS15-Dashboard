@@ -1,0 +1,26 @@
+{
+    "user_id": "2c3f2a17-9fa0-439e-b77b-20c2f7c80578",
+    "name": "Carrie Batz",
+    "email": "Taylor_Upton@hotmail.com",
+    "instagram_handle": "@Joannie83",
+    "tiktok_handle": "@Susana95",
+    "joined_at": "2025-01-31T16:06:27.797Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9fd26d2a-9258-4953-a185-1360c812f186",
+            "brand": "Wisozk - Prosacco",
+            "tasks_completed": [
+                {
+                    "task_id": "7968be53-c104-4e84-91a9-e2b4857085d6",
+                    "platform": "Instagram",
+                    "post_url": "https://sparse-institute.biz",
+                    "likes": 454,
+                    "comments": 41,
+                    "shares": 86,
+                    "reach": 2283
+                }
+            ],
+            "total_sales_attributed": 4891.77926755073
+        }
+    ]
+}

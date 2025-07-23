@@ -1,0 +1,26 @@
+{
+    "user_id": "cc316099-1d40-441b-9174-a9bd394f9fbc",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Alverta.Will24",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 39,
+                    "shares": 58,
+                    "reach": 2566
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

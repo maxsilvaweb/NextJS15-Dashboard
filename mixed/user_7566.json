@@ -1,0 +1,26 @@
+{
+    "user_id": "9f5fa79b-add1-44d5-9644-94d5ccdac3f8",
+    "name": "Miss Angelina Effertz",
+    "email": "Dwight98@hotmail.com",
+    "instagram_handle": "@Era16",
+    "tiktok_handle": "@Helmer_Wintheiser85",
+    "joined_at": "2025-01-19T10:54:29.208Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b977cbc8-c5e5-4742-80ad-8ec34f048a8b",
+            "brand": "Greenfelder, Bashirian and Dickinson",
+            "tasks_completed": [
+                {
+                    "task_id": "ba83710f-bb92-4b64-9a60-316ca9c29feb",
+                    "platform": "TikTok",
+                    "post_url": "https://unwritten-diversity.biz/",
+                    "likes": 280,
+                    "comments": 13,
+                    "shares": 94,
+                    "reach": 8424
+                }
+            ],
+            "total_sales_attributed": 1276.8224371281385
+        }
+    ]
+}

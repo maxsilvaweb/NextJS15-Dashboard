@@ -1,0 +1,26 @@
+{
+    "user_id": "9aab7aa8-4b34-49f5-bbf5-cdf1d7ed0859",
+    "name": "Dr. Aubrey Bayer",
+    "email": "Bonita69@yahoo.com",
+    "instagram_handle": "@Nikita_Feeney13",
+    "tiktok_handle": "@Bethany_Purdy",
+    "joined_at": "2024-06-07T14:39:12.652Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bfe64ac1-597d-4a9a-904d-ae13116f3d34",
+            "brand": "Hodkiewicz, Murray and Lebsack",
+            "tasks_completed": [
+                {
+                    "task_id": "dbba477f-06c4-4dd6-ac0f-5bf48a2d5af4",
+                    "platform": "TikTok",
+                    "post_url": "https://worldly-story.net",
+                    "likes": 275,
+                    "comments": 46,
+                    "shares": 45,
+                    "reach": 1406
+                }
+            ],
+            "total_sales_attributed": 4276.698842600619
+        }
+    ]
+}

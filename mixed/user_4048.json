@@ -1,0 +1,26 @@
+{
+    "user_id": "ca51d1ed-86ca-4d76-9391-1147afb307e0",
+    "name": "Myron Bogisich-Kuvalis",
+    "email": "Amelie_Hessel31@yahoo.com",
+    "instagram_handle": "@Matilda84",
+    "tiktok_handle": "@Reid.Predovic56",
+    "joined_at": "2024-03-23T19:44:10.402Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a693f43b-da55-456f-ae85-53f3d26423ad",
+            "brand": "Ankunding, Batz and Medhurst",
+            "tasks_completed": [
+                {
+                    "task_id": "7bb11b29-0213-4456-b66c-e5689a4986b5",
+                    "platform": "Instagram",
+                    "post_url": "https://definitive-outrun.org",
+                    "likes": 123,
+                    "comments": 14,
+                    "shares": 19,
+                    "reach": 3177
+                }
+            ],
+            "total_sales_attributed": 2621.396253732715
+        }
+    ]
+}

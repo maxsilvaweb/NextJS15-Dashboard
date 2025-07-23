@@ -1,0 +1,26 @@
+{
+    "user_id": "ff372a6c-0e67-47fb-bb61-43ce0e6ad4b5",
+    "name": "Allan Ankunding",
+    "email": "Miracle_Robel@hotmail.com",
+    "instagram_handle": "@Katelyn_Mertz",
+    "tiktok_handle": "@Antonina_Treutel-Nikolaus81",
+    "joined_at": "2024-11-12T02:19:14.076Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ebdecfbc-5efa-4158-b239-b54efe6f1160",
+            "brand": "Cruickshank - Kilback",
+            "tasks_completed": [
+                {
+                    "task_id": "461a752a-fcb7-4be3-8601-eb4c3e5e41aa",
+                    "platform": "TikTok",
+                    "post_url": "https://strident-insolence.com/",
+                    "likes": 397,
+                    "comments": 6,
+                    "shares": 47,
+                    "reach": 7009
+                }
+            ],
+            "total_sales_attributed": 1582.022453682293
+        }
+    ]
+}

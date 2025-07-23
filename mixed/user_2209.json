@@ -1,0 +1,26 @@
+{
+    "user_id": "2949e0c5-98da-4254-9d30-ca22754f72eb",
+    "name": "Caroline Nikolaus",
+    "email": "Maye11@yahoo.com",
+    "instagram_handle": "@Taya27",
+    "tiktok_handle": "@Emely_Watsica83",
+    "joined_at": "2024-05-01T20:43:46.172Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bc9841de-ba0c-4388-9a9d-2b3afb002df8",
+            "brand": "Wisoky and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "3f364f28-4757-4193-9424-9234e1bce77c",
+                    "platform": "Instagram",
+                    "post_url": "https://spherical-heating.org",
+                    "likes": 293,
+                    "comments": 28,
+                    "shares": 47,
+                    "reach": 4164
+                }
+            ],
+            "total_sales_attributed": 364.9179685239842
+        }
+    ]
+}

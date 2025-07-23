@@ -1,0 +1,26 @@
+{
+    "user_id": "b453ce80-ecbb-4905-91ee-9b067cf96e38",
+    "name": "Tricia Kuvalis",
+    "email": "Leonor99@hotmail.com",
+    "instagram_handle": "@Waino_Torp18",
+    "tiktok_handle": "@Jakob.Armstrong60",
+    "joined_at": "2024-04-01T14:13:33.082Z",
+    "advocacy_programs": [
+        {
+            "program_id": "977357d7-433e-4e47-ad54-98bcdcd8786a",
+            "brand": "Gusikowski - Cummerata",
+            "tasks_completed": [
+                {
+                    "task_id": "f6b30e3e-c13a-43e3-ae2c-c8def0aa508d",
+                    "platform": "Instagram",
+                    "post_url": "https://aggressive-valley.biz/",
+                    "likes": 67,
+                    "comments": 24,
+                    "shares": 65,
+                    "reach": 1265
+                }
+            ],
+            "total_sales_attributed": 3365.3138357924745
+        }
+    ]
+}

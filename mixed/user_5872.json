@@ -1,0 +1,26 @@
+{
+    "user_id": "05f3dcc6-143a-4821-a1be-a89fde4420ea",
+    "name": "Christina Gulgowski",
+    "email": "Samir38@gmail.com",
+    "instagram_handle": "@Arvid_Barton",
+    "tiktok_handle": "@Erica31",
+    "joined_at": "2024-04-11T10:14:23.865Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b8d7dcd7-44b2-48ef-86fc-0fd187cdbaac",
+            "brand": "Boyer Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b23aa700-a639-4888-840a-6c850e54bea4",
+                    "platform": "Instagram",
+                    "post_url": "https://tough-desk.info",
+                    "likes": 118,
+                    "comments": 46,
+                    "shares": 1,
+                    "reach": 9894
+                }
+            ],
+            "total_sales_attributed": 293.38441913800307
+        }
+    ]
+}

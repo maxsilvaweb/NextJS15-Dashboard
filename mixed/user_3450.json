@@ -1,0 +1,26 @@
+{
+    "user_id": "55c8d675-00c5-42f1-b3ab-66ae5eb2c0be",
+    "name": "Michelle Nienow",
+    "email": "Franco84@gmail.com",
+    "instagram_handle": "@Cleta_Schaden71",
+    "tiktok_handle": "@Julian_Sanford",
+    "joined_at": "2024-10-23T11:40:47.279Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b31120d0-90c8-4aea-a575-74d98f901160",
+            "brand": "Leannon - Haley",
+            "tasks_completed": [
+                {
+                    "task_id": "8a04a48b-ace5-426d-be7d-ccd56095e6d7",
+                    "platform": "TikTok",
+                    "post_url": "https://jumbo-academics.info/",
+                    "likes": 267,
+                    "comments": 40,
+                    "shares": 56,
+                    "reach": 5855
+                }
+            ],
+            "total_sales_attributed": 4762.55174755556
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "499e3eee-54fe-4d12-923d-072872a710c5",
+    "name": "Mr. Rudy Barton",
+    "email": "Maxwell_Schamberger@yahoo.com",
+    "instagram_handle": "@Colt_Weimann20",
+    "tiktok_handle": "@Hanna64",
+    "joined_at": "2024-10-06T10:09:04.469Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0adeb5ec-0aa4-4a91-8dd3-72d8b6d64475",
+            "brand": "Hettinger, Metz and Dooley",
+            "tasks_completed": [
+                {
+                    "task_id": "2bc46498-2df1-4fe7-98ea-35bd7c9a180f",
+                    "platform": "Instagram",
+                    "post_url": "https://grizzled-subsidy.biz/",
+                    "likes": 348,
+                    "comments": 27,
+                    "shares": 68,
+                    "reach": 6166
+                }
+            ],
+            "total_sales_attributed": 3598.7897741199204
+        }
+    ]
+}

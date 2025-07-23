@@ -1,0 +1,26 @@
+{
+    "user_id": "dcd2e9e2-7f51-4e7b-992d-88be7ffc0e94",
+    "name": "Mr. Stewart Kertzmann",
+    "email": "Rosalinda.Goyette@yahoo.com",
+    "instagram_handle": "@Leland44",
+    "tiktok_handle": "@Jeffry.Hills",
+    "joined_at": "2024-10-14T19:41:10.057Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a5453e77-6dc3-4035-bf8d-d78aab5a15f9",
+            "brand": "Mann - Moen",
+            "tasks_completed": [
+                {
+                    "task_id": "3ea4d2d0-e20d-4121-aa1b-409b676acbc0",
+                    "platform": "Instagram",
+                    "post_url": "https://any-concentration.com",
+                    "likes": 216,
+                    "comments": 6,
+                    "shares": 80,
+                    "reach": 5571
+                }
+            ],
+            "total_sales_attributed": 798.4618328838832
+        }
+    ]
+}

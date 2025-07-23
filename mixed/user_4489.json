@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Arlene Powlowski I",
+    "email": "invalid-email",
+    "instagram_handle": "@Aaron31",
+    "tiktok_handle": "@Sabrina.Morissette32",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 75,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "45c90584-f12d-40f3-b733-311e04b5bc6f",
+    "name": "Dr. Allison Wilkinson",
+    "email": "Erna66@hotmail.com",
+    "instagram_handle": "@Myrtle38",
+    "tiktok_handle": "@Jackie_Witting",
+    "joined_at": "2024-07-31T18:01:16.551Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e8713f31-b403-4ba2-8afd-d8a43fa5d7d4",
+            "brand": "Hessel Group",
+            "tasks_completed": [
+                {
+                    "task_id": "8707a44c-db3f-4237-8dd8-825620e17ad1",
+                    "platform": "Instagram",
+                    "post_url": "https://favorable-deduction.com/",
+                    "likes": 61,
+                    "comments": 40,
+                    "shares": 92,
+                    "reach": 2144
+                }
+            ],
+            "total_sales_attributed": 1492.1081586444543
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4cf4af3a-928a-4826-84de-1cdc4d045ae4",
+    "name": "Nadine Erdman",
+    "email": "Francis32@gmail.com",
+    "instagram_handle": "@Brianne.Pollich",
+    "tiktok_handle": "@Golden94",
+    "joined_at": "2024-09-02T19:52:01.447Z",
+    "advocacy_programs": [
+        {
+            "program_id": "74c59e77-f82f-45d1-b201-574b10767649",
+            "brand": "O'Hara and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "739c53f3-1ca4-4238-9400-09ec3aa5253e",
+                    "platform": "TikTok",
+                    "post_url": "https://perfumed-case.info/",
+                    "likes": 464,
+                    "comments": 33,
+                    "shares": 34,
+                    "reach": 3895
+                }
+            ],
+            "total_sales_attributed": 1990.2326809248145
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b13ec47b-05cd-4d13-9ea2-5d3a14a45408",
+    "name": "Mr. Lowell Price",
+    "email": "Yesenia.Ullrich@hotmail.com",
+    "instagram_handle": "@Bernita.McLaughlin70",
+    "tiktok_handle": "@Zoe_Harvey0",
+    "joined_at": "2024-08-22T12:52:13.220Z",
+    "advocacy_programs": [
+        {
+            "program_id": "62f6e27b-111f-4111-820e-9fa072aa6028",
+            "brand": "Blick, Yost and Doyle",
+            "tasks_completed": [
+                {
+                    "task_id": "ccf63206-56ed-4020-a2a0-707fca3c571e",
+                    "platform": "TikTok",
+                    "post_url": "https://impressive-analogy.org/",
+                    "likes": 396,
+                    "comments": 23,
+                    "shares": 23,
+                    "reach": 1674
+                }
+            ],
+            "total_sales_attributed": 1915.6079663017924
+        }
+    ]
+}

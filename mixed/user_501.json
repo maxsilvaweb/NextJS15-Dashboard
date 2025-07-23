@@ -1,0 +1,26 @@
+{
+    "user_id": "57965bc2-09b3-42ef-b8b2-923379feced8",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Berge - Rempel",
+            "tasks_completed": [
+                {
+                    "task_id": "1f106ce2-5fa1-4ff8-a580-f924499bfca3",
+                    "platform": "Facebook",
+                    "post_url": "https://forsaken-follower.org/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 100,
+                    "reach": 9324
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

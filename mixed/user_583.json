@@ -1,0 +1,26 @@
+{
+    "user_id": "e7337952-d936-4616-9145-9375c2a3e79f",
+    "name": "Erma Bosco",
+    "email": "Eusebio10@hotmail.com",
+    "instagram_handle": "@Alicia.Weissnat",
+    "tiktok_handle": "@Rhianna62",
+    "joined_at": "2024-05-31T02:39:31.385Z",
+    "advocacy_programs": [
+        {
+            "program_id": "55135961-dfb8-4312-84b3-4bc7d169bbc6",
+            "brand": "Crist and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "d376f6d2-f84b-4c0a-ba41-022cbbeef367",
+                    "platform": "TikTok",
+                    "post_url": "https://salty-yin.com/",
+                    "likes": 341,
+                    "comments": 3,
+                    "shares": 43,
+                    "reach": 4111
+                }
+            ],
+            "total_sales_attributed": 2828.2048497514334
+        }
+    ]
+}

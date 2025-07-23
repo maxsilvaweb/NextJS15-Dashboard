@@ -1,0 +1,26 @@
+{
+    "user_id": "89d7eb7e-42d2-41a8-81d4-82e0abb8251a",
+    "name": "Kirk Sauer",
+    "email": "Elissa_Heller31@gmail.com",
+    "instagram_handle": "@Karl_Volkman",
+    "tiktok_handle": "@Mattie32",
+    "joined_at": "2024-12-13T23:50:43.543Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e1bc7c5f-88fe-4ee0-bc44-b8fda25e2819",
+            "brand": "Turcotte - Marvin",
+            "tasks_completed": [
+                {
+                    "task_id": "34b473bf-0cba-4316-80c8-c6b133c6303b",
+                    "platform": "Instagram",
+                    "post_url": "https://sophisticated-status.net",
+                    "likes": 220,
+                    "comments": 22,
+                    "shares": 49,
+                    "reach": 9442
+                }
+            ],
+            "total_sales_attributed": 2794.1973968725474
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ba1815c3-7686-44c2-a172-44c7ae279e11",
+    "name": "Lorraine Crooks",
+    "email": "Erick19@hotmail.com",
+    "instagram_handle": "@Phoebe86",
+    "tiktok_handle": "@Isabelle.Corwin",
+    "joined_at": "2024-04-26T13:34:01.738Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ba1df208-5a77-4fa7-ad12-cfee387e18d1",
+            "brand": "Price - Brakus",
+            "tasks_completed": [
+                {
+                    "task_id": "7a44b056-0de8-452a-8db8-3be8d2f92db6",
+                    "platform": "Instagram",
+                    "post_url": "https://shameless-singing.com",
+                    "likes": 26,
+                    "comments": 40,
+                    "shares": 70,
+                    "reach": 7738
+                }
+            ],
+            "total_sales_attributed": 3745.1459954148504
+        }
+    ]
+}

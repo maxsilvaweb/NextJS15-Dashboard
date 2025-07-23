@@ -1,0 +1,26 @@
+{
+    "user_id": "1edce20d-5f17-4329-b3cb-aae22c575546",
+    "name": "Penny Miller",
+    "email": "Virgil_Miller@gmail.com",
+    "instagram_handle": "@Jocelyn_Dietrich",
+    "tiktok_handle": "@Gianni80",
+    "joined_at": "2024-10-04T04:40:39.217Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c945884b-72ef-46d9-a71d-e95736e47f3e",
+            "brand": "Schultz and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "5ea976a8-622e-4b03-b51f-9dacf2cf30da",
+                    "platform": "TikTok",
+                    "post_url": "https://whole-pliers.name",
+                    "likes": 452,
+                    "comments": 15,
+                    "shares": 61,
+                    "reach": 3247
+                }
+            ],
+            "total_sales_attributed": 1246.0982562649426
+        }
+    ]
+}

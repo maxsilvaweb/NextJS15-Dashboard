@@ -1,0 +1,26 @@
+{
+    "user_id": "4d3d3f02-394d-49cf-a4e6-0800bfbff74c",
+    "name": "Salvador Adams",
+    "email": "Tod_Feil-Bins58@hotmail.com",
+    "instagram_handle": "@Willa84",
+    "tiktok_handle": "@Loren92",
+    "joined_at": "2025-01-31T09:24:01.897Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b8988ba6-04c8-4d54-b32a-d529f7713eab",
+            "brand": "Kshlerin and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "7df37865-2daa-4e7c-aa35-3f1b59b2a97e",
+                    "platform": "Instagram",
+                    "post_url": "https://super-encouragement.net/",
+                    "likes": 320,
+                    "comments": 24,
+                    "shares": 78,
+                    "reach": 9384
+                }
+            ],
+            "total_sales_attributed": 2863.573985195449
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "395bf687-f835-4825-aaf0-70dcc5175490",
+    "name": "???",
+    "email": "Nickolas60@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 497,
+                    "comments": null,
+                    "shares": 88,
+                    "reach": 5551
+                }
+            ],
+            "total_sales_attributed": 3565.541813059627
+        }
+    ]
+}

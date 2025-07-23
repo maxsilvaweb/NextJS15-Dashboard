@@ -1,0 +1,26 @@
+{
+    "user_id": "25a812a1-0237-486c-8862-dea8b7c27ade",
+    "name": "Dianna Cole",
+    "email": "Gwendolyn_Koss@hotmail.com",
+    "instagram_handle": "@Justen10",
+    "tiktok_handle": "@Iva_Langworth",
+    "joined_at": "2024-07-15T15:45:00.451Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0eecbfa3-e6fd-4186-a67c-fe548333d226",
+            "brand": "Abbott and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "5275d771-b2c1-48c6-8528-d21dc2ff64b2",
+                    "platform": "TikTok",
+                    "post_url": "https://firsthand-term.info/",
+                    "likes": 247,
+                    "comments": 35,
+                    "shares": 45,
+                    "reach": 7348
+                }
+            ],
+            "total_sales_attributed": 4436.882347992986
+        }
+    ]
+}

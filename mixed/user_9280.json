@@ -1,0 +1,26 @@
+{
+    "user_id": "b5aae570-d53a-445e-9978-1c8e1cf9ec30",
+    "name": "Gabriel Jaskolski",
+    "email": "Ford.Fisher34@hotmail.com",
+    "instagram_handle": "@Ivah_Goodwin79",
+    "tiktok_handle": "@Osbaldo62",
+    "joined_at": "2024-09-21T22:27:40.278Z",
+    "advocacy_programs": [
+        {
+            "program_id": "014c5fc1-b521-4caa-aa76-672d86b1514b",
+            "brand": "Greenfelder LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "9b2bc903-71ca-4319-bbb4-4c0eac690279",
+                    "platform": "Instagram",
+                    "post_url": "https://digital-membership.name",
+                    "likes": 477,
+                    "comments": 30,
+                    "shares": 95,
+                    "reach": 3770
+                }
+            ],
+            "total_sales_attributed": 2005.133868739663
+        }
+    ]
+}

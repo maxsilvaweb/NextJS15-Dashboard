@@ -1,0 +1,26 @@
+{
+    "user_id": "525152fa-0d20-4287-997b-5a037d704fca",
+    "name": "Sophia Gleason",
+    "email": "Autumn_Swift@gmail.com",
+    "instagram_handle": "@Tess77",
+    "tiktok_handle": "@Linnea.Kihn32",
+    "joined_at": "2024-11-29T05:01:41.127Z",
+    "advocacy_programs": [
+        {
+            "program_id": "52a77a98-d804-4d57-a3c6-ec8416b27843",
+            "brand": "Dickinson, Marks and Fisher",
+            "tasks_completed": [
+                {
+                    "task_id": "5c29ccb8-175a-4581-83b6-09cccae65b88",
+                    "platform": "Instagram",
+                    "post_url": "https://unripe-duffel.name/",
+                    "likes": 382,
+                    "comments": 40,
+                    "shares": 87,
+                    "reach": 3270
+                }
+            ],
+            "total_sales_attributed": 1058.7347357005024
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Jordane.Murphy-Hoeger@yahoo.com",
+    "instagram_handle": "@Claudia_Bednar28",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "83e7f24f-19d7-4f30-8cfe-3f2f7dfa88e6",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 298,
+                    "comments": null,
+                    "shares": 49,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2469.84147193666
+        }
+    ]

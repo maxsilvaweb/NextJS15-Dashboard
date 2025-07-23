@@ -1,0 +1,26 @@
+{
+    "user_id": "f199a889-96c8-4081-914f-028229ec3af6",
+    "name": "Benjamin Leffler",
+    "email": "Ana57@yahoo.com",
+    "instagram_handle": "@Vicky.Johns-Kozey9",
+    "tiktok_handle": "@Reyna_Kuhn",
+    "joined_at": "2024-10-24T07:06:04.233Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c263f001-b1e4-4bde-8e4c-0829a7dac18a",
+            "brand": "White, Gutkowski and Considine",
+            "tasks_completed": [
+                {
+                    "task_id": "218290aa-0991-488e-a7eb-fd194e8448f9",
+                    "platform": "Instagram",
+                    "post_url": "https://giving-hose.com/",
+                    "likes": 173,
+                    "comments": 15,
+                    "shares": 4,
+                    "reach": 6254
+                }
+            ],
+            "total_sales_attributed": 1571.0593423312987
+        }
+    ]
+}

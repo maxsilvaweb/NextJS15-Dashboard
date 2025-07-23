@@ -1,0 +1,26 @@
+{
+    "user_id": "a95b5001-5c12-4efc-a22d-0d6c1f95ac61",
+    "name": "Irving Rohan",
+    "email": "Kole.Leannon53@gmail.com",
+    "instagram_handle": "@Prudence27",
+    "tiktok_handle": "@Novella.Nikolaus1",
+    "joined_at": "2024-11-04T01:10:57.971Z",
+    "advocacy_programs": [
+        {
+            "program_id": "51c8b37f-b921-47f3-8b88-2d247096a3c1",
+            "brand": "Larkin Group",
+            "tasks_completed": [
+                {
+                    "task_id": "6c91575e-cf6c-4ae4-a22e-34ddc96dd195",
+                    "platform": "Instagram",
+                    "post_url": "https://prudent-coal.net/",
+                    "likes": 448,
+                    "comments": 40,
+                    "shares": 48,
+                    "reach": 3574
+                }
+            ],
+            "total_sales_attributed": 3153.622852525401
+        }
+    ]
+}

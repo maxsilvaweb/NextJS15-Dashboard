@@ -1,0 +1,26 @@
+{
+    "user_id": "558a7756-bea3-4403-9c5d-7b0d29c72e31",
+    "name": "Wilbur Ebert",
+    "email": "Clement_Murray68@yahoo.com",
+    "instagram_handle": "@Doug97",
+    "tiktok_handle": "@Ericka30",
+    "joined_at": "2024-11-29T00:56:42.042Z",
+    "advocacy_programs": [
+        {
+            "program_id": "112a8a59-1298-443f-8702-5c9eca1f06c3",
+            "brand": "Wisozk, Torphy and Skiles",
+            "tasks_completed": [
+                {
+                    "task_id": "1436c095-506f-4ed1-b093-2453e61101d1",
+                    "platform": "Instagram",
+                    "post_url": "https://those-address.org/",
+                    "likes": 186,
+                    "comments": 18,
+                    "shares": 77,
+                    "reach": 5017
+                }
+            ],
+            "total_sales_attributed": 4329.217331988627
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a9ad00de-662b-4699-b249-d5fdb661acbb",
+    "name": "Jeannette Heathcote",
+    "email": "Oda25@gmail.com",
+    "instagram_handle": "@Annabelle.Grimes",
+    "tiktok_handle": "@Nelle.Kilback88",
+    "joined_at": "2024-06-07T03:48:27.084Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2f9a50e3-e012-44b7-b265-de47edce12e1",
+            "brand": "Luettgen, Sawayn and Rippin",
+            "tasks_completed": [
+                {
+                    "task_id": "b7193697-0548-4bf7-8b60-f8e3eddfebc6",
+                    "platform": "TikTok",
+                    "post_url": "https://blank-millet.info",
+                    "likes": 28,
+                    "comments": 24,
+                    "shares": 21,
+                    "reach": 7763
+                }
+            ],
+            "total_sales_attributed": 4326.450503742509
+        }
+    ]
+}

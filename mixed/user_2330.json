@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Rowe - Parisian",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": 453,
+                    "comments": 33,
+                    "shares": 90,
+                    "reach": 2378
+                }
+            ],
+            "total_sales_attributed": 1725.2073402911442
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "f2988be0-1f09-47d2-8a99-9ec59d6de1bc",
+    "name": "Marcus Denesik",
+    "email": "Miles.Christiansen@gmail.com",
+    "instagram_handle": "@Tillman.Maggio",
+    "tiktok_handle": "@Matt.Satterfield20",
+    "joined_at": "2024-07-01T13:38:11.782Z",
+    "advocacy_programs": [
+        {
+            "program_id": "34a431ff-d6ec-4b2c-981f-a7260a1b1cb8",
+            "brand": "Kertzmann - Jaskolski",
+            "tasks_completed": [
+                {
+                    "task_id": "986135be-80b1-4c04-bfe4-8b9c91cdc579",
+                    "platform": "TikTok",
+                    "post_url": "https://strident-mobility.name",
+                    "likes": 130,
+                    "comments": 20,
+                    "shares": 11,
+                    "reach": 3545
+                }
+            ],
+            "total_sales_attributed": 4043.2857306475985
+        }
+    ]
+}

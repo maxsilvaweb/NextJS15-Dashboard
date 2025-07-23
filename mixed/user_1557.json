@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Paul Cole",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "c9ed9aa7-4f06-492c-b498-d9ef6fbd8636",
+                    "platform": 123,
+                    "post_url": "https://needy-puppet.info/",
+                    "likes": "NaN",
+                    "comments": 18,
+                    "shares": 11,
+                    "reach": 8931
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "74a5a5c6-251b-4bd9-9834-6dc9a769d63a",
+    "name": "Lucas McGlynn",
+    "email": "Rhoda_Stiedemann@yahoo.com",
+    "instagram_handle": "@Bettie.Bogan",
+    "tiktok_handle": "@Marc_Jacobson",
+    "joined_at": "2024-04-11T19:23:59.146Z",
+    "advocacy_programs": [
+        {
+            "program_id": "482f793e-d284-4bbf-abfb-da99bbe66065",
+            "brand": "Anderson, Predovic and Thompson",
+            "tasks_completed": [
+                {
+                    "task_id": "8eab2f60-4857-40b8-934c-3b39839f754c",
+                    "platform": "Instagram",
+                    "post_url": "https://wrong-negotiation.org",
+                    "likes": 89,
+                    "comments": 31,
+                    "shares": 78,
+                    "reach": 1448
+                }
+            ],
+            "total_sales_attributed": 3140.78035446928
+        }
+    ]
+}

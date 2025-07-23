@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "aea17bca-d0a4-470f-91b2-e152667e4ae5",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://untrue-embarrassment.info",
+                    "likes": 424,
+                    "comments": null,
+                    "shares": 66,
+                    "reach": 3005
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

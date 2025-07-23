@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-10-22T08:01:22.586Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f7cf49d8-9b0e-414f-9752-28df5c8b0b0c",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Facebook",
+                    "post_url": "https://miserable-boulevard.com",
+                    "likes": "NaN",
+                    "comments": 30,
+                    "shares": 74,
+                    "reach": 6561
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

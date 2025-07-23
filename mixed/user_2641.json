@@ -1,0 +1,26 @@
+{
+    "user_id": "ef4f1435-0ca1-42f0-b0d8-2529e06dfcc5",
+    "name": "Byron Satterfield",
+    "email": "Shaun_Gottlieb@yahoo.com",
+    "instagram_handle": "@Veda_Mraz6",
+    "tiktok_handle": "@Brigitte47",
+    "joined_at": "2024-04-04T13:57:14.759Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f67e1e86-dc06-4349-9632-e6ea63e01b2d",
+            "brand": "Koch - Gerhold",
+            "tasks_completed": [
+                {
+                    "task_id": "c21f75c0-0641-497e-b8fe-39657637fd12",
+                    "platform": "TikTok",
+                    "post_url": "https://impure-fowl.info/",
+                    "likes": 122,
+                    "comments": 28,
+                    "shares": 27,
+                    "reach": 1092
+                }
+            ],
+            "total_sales_attributed": 2599.2397816584994
+        }
+    ]
+}

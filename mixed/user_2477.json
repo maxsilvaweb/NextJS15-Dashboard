@@ -1,0 +1,26 @@
+{
+    "user_id": "da738064-5192-4791-bece-99690171d247",
+    "name": "Henry Gutkowski",
+    "email": "Clay.Johnson78@hotmail.com",
+    "instagram_handle": "@Lempi37",
+    "tiktok_handle": "@Jarod99",
+    "joined_at": "2024-11-30T03:43:05.772Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6b77b734-d51e-4379-a3c5-3cbb71ae98af",
+            "brand": "Larson, Barrows and Mante",
+            "tasks_completed": [
+                {
+                    "task_id": "d94b8b3b-21b4-4e9e-85de-66c7dd8e9985",
+                    "platform": "TikTok",
+                    "post_url": "https://unripe-mountain.name",
+                    "likes": 445,
+                    "comments": 27,
+                    "shares": 99,
+                    "reach": 9308
+                }
+            ],
+            "total_sales_attributed": 4362.046394625392
+        }
+    ]
+}

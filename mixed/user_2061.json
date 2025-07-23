@@ -1,0 +1,26 @@
+{
+    "user_id": "7dd78fb4-616e-463e-ae1c-29e9f96eca54",
+    "name": "Beatrice Moen",
+    "email": "Hilma_Mueller6@gmail.com",
+    "instagram_handle": "@Hilton21",
+    "tiktok_handle": "@Wyman.Miller90",
+    "joined_at": "2025-01-29T12:04:55.192Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e5b39f71-7811-4823-a22d-d40540a9f3e4",
+            "brand": "Marvin, Rippin and D'Amore",
+            "tasks_completed": [
+                {
+                    "task_id": "e4edb6aa-250f-4091-a792-b0f19c078a1b",
+                    "platform": "TikTok",
+                    "post_url": "https://milky-word.org",
+                    "likes": 333,
+                    "comments": 26,
+                    "shares": 86,
+                    "reach": 9822
+                }
+            ],
+            "total_sales_attributed": 3562.868203362685
+        }
+    ]
+}

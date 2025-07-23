@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Larson, Wunsch and Schamberger",
+            "tasks_completed": [
+                {
+                    "task_id": "09170772-d6d4-4056-9073-e0960093bc6f",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 13,
+                    "reach": 3639
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9589826a-8151-41aa-9e14-5557548b36de",
+    "name": "Byron Bosco",
+    "email": "Lilian26@yahoo.com",
+    "instagram_handle": "@Alysson72",
+    "tiktok_handle": "@Ramona.Pouros33",
+    "joined_at": "2024-09-01T02:30:33.006Z",
+    "advocacy_programs": [
+        {
+            "program_id": "363de101-9ff3-4a4f-b11a-4f4730020067",
+            "brand": "Kuhn Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "e9f8e148-2a66-4af9-a926-6780b3764b9f",
+                    "platform": "Instagram",
+                    "post_url": "https://optimistic-unibody.com",
+                    "likes": 66,
+                    "comments": 11,
+                    "shares": 83,
+                    "reach": 1513
+                }
+            ],
+            "total_sales_attributed": 1026.3207994241495
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e23ea007-595a-4e37-8883-45976bbd7a08",
+    "name": "Daisy Gerlach",
+    "email": "Einar_OConner@hotmail.com",
+    "instagram_handle": "@Kaylin83",
+    "tiktok_handle": "@Joel_Bauch25",
+    "joined_at": "2024-09-18T21:10:23.696Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a645050d-22f1-4745-824c-869dd253253b",
+            "brand": "Bednar, Paucek and Kutch",
+            "tasks_completed": [
+                {
+                    "task_id": "561f83e7-6aa2-4fd2-8ce1-6fd34a243244",
+                    "platform": "Instagram",
+                    "post_url": "https://new-linseed.com",
+                    "likes": 36,
+                    "comments": 32,
+                    "shares": 69,
+                    "reach": 2985
+                }
+            ],
+            "total_sales_attributed": 445.79530405946053
+        }
+    ]
+}

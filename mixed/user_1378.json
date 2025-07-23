@@ -1,0 +1,26 @@
+{
+    "user_id": "1bc49f4c-4faf-4838-a5b2-8bfa8692b9b7",
+    "name": "Raymond Strosin",
+    "email": "Antonette_Lubowitz@hotmail.com",
+    "instagram_handle": "@Jayson70",
+    "tiktok_handle": "@Avery50",
+    "joined_at": "2024-10-31T03:07:51.450Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9d7e6b50-3c74-45db-90b2-e1b020967e7d",
+            "brand": "Douglas, Hartmann and Brakus",
+            "tasks_completed": [
+                {
+                    "task_id": "c3a0493f-dbfd-4ea8-99f3-0e07ea1e3283",
+                    "platform": "Instagram",
+                    "post_url": "https://ugly-schedule.name/",
+                    "likes": 13,
+                    "comments": 21,
+                    "shares": 33,
+                    "reach": 782
+                }
+            ],
+            "total_sales_attributed": 2545.9991313385162
+        }
+    ]
+}

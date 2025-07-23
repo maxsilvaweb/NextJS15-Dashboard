@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Powlowski and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://buzzing-t-shirt.com/",
+                    "likes": "NaN",
+                    "comments": 42,
+                    "shares": 55,
+                    "reach": 792
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

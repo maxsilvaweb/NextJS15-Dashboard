@@ -1,0 +1,26 @@
+{
+    "user_id": "4cac64b9-18fa-45c9-8432-57f2be44227f",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "cca499da-0fea-4b0e-90d3-56715a154ba1",
+            "brand": "Nikolaus - Wintheiser",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 18,
+                    "shares": 84,
+                    "reach": 9822
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9b1afe56-c5f5-48ab-9c6e-ea9954f6511b",
+    "name": "Warren Fisher",
+    "email": "Augustus.Heaney@hotmail.com",
+    "instagram_handle": "@Mustafa.Russel72",
+    "tiktok_handle": "@Elyse.Goyette",
+    "joined_at": "2024-08-20T22:54:24.672Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ab1cb369-6a55-4a9d-ae47-ca8d79654ba0",
+            "brand": "Connelly - Koepp",
+            "tasks_completed": [
+                {
+                    "task_id": "5628c7d2-8cad-403e-8ee4-8c841fd8f91a",
+                    "platform": "TikTok",
+                    "post_url": "https://rowdy-archaeology.org",
+                    "likes": 99,
+                    "comments": 2,
+                    "shares": 87,
+                    "reach": 2293
+                }
+            ],
+            "total_sales_attributed": 1707.6393986823155
+        }
+    ]
+}

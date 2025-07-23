@@ -1,0 +1,26 @@
+{
+    "user_id": "915683d6-7e40-49cd-87de-3b5567fc70db",
+    "name": "Cheryl Gerhold I",
+    "email": "Ray_Witting@hotmail.com",
+    "instagram_handle": "@Zola16",
+    "tiktok_handle": "@Allan_Littel",
+    "joined_at": "2024-05-21T01:17:27.807Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4deaa657-e577-4dd7-bc5d-e82a64c46042",
+            "brand": "Mohr and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "7d871ba8-4ed7-4105-9ef1-0cc6ece27739",
+                    "platform": "Instagram",
+                    "post_url": "https://winding-version.org",
+                    "likes": 147,
+                    "comments": 47,
+                    "shares": 69,
+                    "reach": 985
+                }
+            ],
+            "total_sales_attributed": 681.1942016625164
+        }
+    ]
+}

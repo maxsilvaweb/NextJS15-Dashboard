@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "f29ca1f6-3741-4ecc-a8c1-cd905b1642f7",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://impish-dish.net/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 38,
+                    "reach": 5540
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

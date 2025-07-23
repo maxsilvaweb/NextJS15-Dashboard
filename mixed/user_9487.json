@@ -1,0 +1,26 @@
+{
+    "user_id": "d2233f8e-9196-410f-8e76-1659d34edc56",
+    "name": "Wilfred Quitzon",
+    "email": "Nathanael.Feil61@hotmail.com",
+    "instagram_handle": "@Terrance_Bernhard",
+    "tiktok_handle": "@Velma.Turcotte70",
+    "joined_at": "2025-03-08T21:28:18.780Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c54520bd-ec89-413a-84cd-3d61f1a0c977",
+            "brand": "Wintheiser and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "9385c7cd-8c12-450d-a776-94803737ee4f",
+                    "platform": "Instagram",
+                    "post_url": "https://gifted-worth.net",
+                    "likes": 107,
+                    "comments": 24,
+                    "shares": 27,
+                    "reach": 7249
+                }
+            ],
+            "total_sales_attributed": 182.42783108936015
+        }
+    ]
+}

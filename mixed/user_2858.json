@@ -1,0 +1,26 @@
+{
+    "user_id": "654b5bc1-c51f-4d23-97f2-4bd966c4462c",
+    "name": "Claire Raynor",
+    "email": "Amani96@gmail.com",
+    "instagram_handle": "@Matteo.Braun72",
+    "tiktok_handle": "@Weldon68",
+    "joined_at": "2024-11-06T16:36:34.907Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9b5bf191-778c-486c-81c7-e98e04950296",
+            "brand": "Weimann - Wilkinson",
+            "tasks_completed": [
+                {
+                    "task_id": "ccc39a11-6739-4c29-a452-988792181987",
+                    "platform": "TikTok",
+                    "post_url": "https://enlightened-heroine.info/",
+                    "likes": 243,
+                    "comments": 14,
+                    "shares": 79,
+                    "reach": 5279
+                }
+            ],
+            "total_sales_attributed": 721.9918703157364
+        }
+    ]
+}

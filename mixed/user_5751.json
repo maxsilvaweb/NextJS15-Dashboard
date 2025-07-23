@@ -1,0 +1,26 @@
+{
+    "user_id": "a672797e-88c3-41f8-b984-ee07e44cfdb4",
+    "name": "Rick Waelchi",
+    "email": "Lelia97@hotmail.com",
+    "instagram_handle": "@Elisha21",
+    "tiktok_handle": "@Darron.Ward60",
+    "joined_at": "2024-04-26T22:35:56.741Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f83d019f-9f40-4ebe-958b-21dfd0c21740",
+            "brand": "Hilll LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "23e9ddf5-46ae-4b98-bcdb-4d2be7796b8f",
+                    "platform": "TikTok",
+                    "post_url": "https://bowed-guide.net",
+                    "likes": 35,
+                    "comments": 15,
+                    "shares": 26,
+                    "reach": 4072
+                }
+            ],
+            "total_sales_attributed": 1597.3024472621225
+        }
+    ]
+}

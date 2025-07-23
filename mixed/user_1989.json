@@ -1,0 +1,26 @@
+{
+    "user_id": "1dbe9346-b72c-4113-9ce9-28af0a75013c",
+    "name": "Ms. Stacey Boyer",
+    "email": "Novella.Lehner75@gmail.com",
+    "instagram_handle": "@Raven_Renner",
+    "tiktok_handle": "@Winston9",
+    "joined_at": "2024-10-13T08:42:08.622Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7377df11-417e-4392-8229-0a9fabe8476f",
+            "brand": "Borer - Beer",
+            "tasks_completed": [
+                {
+                    "task_id": "619575e4-5f42-44f2-9877-9300c81006e6",
+                    "platform": "TikTok",
+                    "post_url": "https://medium-impact.info",
+                    "likes": 415,
+                    "comments": 15,
+                    "shares": 65,
+                    "reach": 6243
+                }
+            ],
+            "total_sales_attributed": 4865.214293219302
+        }
+    ]
+}

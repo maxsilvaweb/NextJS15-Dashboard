@@ -1,0 +1,26 @@
+{
+    "user_id": "e9aa8961-bb9a-4c99-bef4-eeba956b12fa",
+    "name": "Leo Weimann",
+    "email": "Delaney_Nader@hotmail.com",
+    "instagram_handle": "@Nova_Kertzmann73",
+    "tiktok_handle": "@Tre.Heller",
+    "joined_at": "2024-12-31T21:49:00.425Z",
+    "advocacy_programs": [
+        {
+            "program_id": "821bbb71-5843-4e37-8f47-77a0d4e1daa6",
+            "brand": "Cummerata LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "4565ce5d-dfa8-40b0-9202-6b8219349274",
+                    "platform": "TikTok",
+                    "post_url": "https://whirlwind-kit.info",
+                    "likes": 289,
+                    "comments": 39,
+                    "shares": 10,
+                    "reach": 5410
+                }
+            ],
+            "total_sales_attributed": 500.94646620660484
+        }
+    ]
+}

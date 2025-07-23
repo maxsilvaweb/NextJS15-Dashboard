@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Vicky54",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-07-30T01:01:42.353Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "adcf337c-2f1f-4a24-b815-ae111485775e",
+                    "platform": "Instagram",
+                    "post_url": "https://thick-handover.com/",
+                    "likes": 289,
+                    "comments": null,
+                    "shares": 38,
+                    "reach": 8676
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

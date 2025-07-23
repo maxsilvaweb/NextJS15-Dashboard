@@ -1,0 +1,26 @@
+{
+    "user_id": "520a93ed-8e9d-41a1-9125-54c12b68ef60",
+    "name": "???",
+    "email": "Drake.Ritchie@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Hilll - Hane",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://intelligent-caption.net",
+                    "likes": 447,
+                    "comments": null,
+                    "shares": 65,
+                    "reach": 9219
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

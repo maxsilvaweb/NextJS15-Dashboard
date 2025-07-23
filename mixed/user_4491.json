@@ -1,0 +1,26 @@
+{
+    "user_id": "8291654d-df31-40ab-9de4-0a38570aed6d",
+    "name": "April Schmitt",
+    "email": "Santos_Gerhold@yahoo.com",
+    "instagram_handle": "@Sabrina_Langworth-Durgan94",
+    "tiktok_handle": "@Rudolph11",
+    "joined_at": "2024-09-20T04:34:03.751Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b811ed95-9c6e-43f3-b40f-8e339fce929e",
+            "brand": "Schiller Group",
+            "tasks_completed": [
+                {
+                    "task_id": "fa29ea43-1dab-4992-8d75-a077193b5061",
+                    "platform": "Instagram",
+                    "post_url": "https://jam-packed-corporation.com",
+                    "likes": 331,
+                    "comments": 16,
+                    "shares": 40,
+                    "reach": 9230
+                }
+            ],
+            "total_sales_attributed": 1582.4844807507386
+        }
+    ]
+}

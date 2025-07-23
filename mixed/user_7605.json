@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "1a88d4b0-f8df-4782-83ca-83f27ed7203e",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://potable-puritan.info/",
+                    "likes": "NaN",
+                    "comments": 6,
+                    "shares": 51,
+                    "reach": 9477
+                }
+            ],
+            "total_sales_attributed": 250.61863097907667
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6c8cbabc-ab9e-4767-9b82-d911b38a8146",
+    "name": "Richard O'Reilly",
+    "email": "Brad_Kuphal@hotmail.com",
+    "instagram_handle": "@Una_Bahringer",
+    "tiktok_handle": "@Vicente29",
+    "joined_at": "2025-02-02T08:13:47.686Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8d67caa4-0260-49f3-a61d-df363e1dd0f8",
+            "brand": "Beahan LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "672c46e6-ce95-460d-9c82-c4f6eb938581",
+                    "platform": "TikTok",
+                    "post_url": "https://tall-elevation.info",
+                    "likes": 495,
+                    "comments": 6,
+                    "shares": 86,
+                    "reach": 7042
+                }
+            ],
+            "total_sales_attributed": 3610.0855197023934
+        }
+    ]
+}

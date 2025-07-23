@@ -1,0 +1,26 @@
+{
+    "user_id": "aad02c02-1163-4a27-943f-ccb6adea7962",
+    "name": "Sheila Schaefer MD",
+    "email": "Clementina_Ortiz10@yahoo.com",
+    "instagram_handle": "@Buddy_Douglas",
+    "tiktok_handle": "@Kiana51",
+    "joined_at": "2024-10-15T10:29:57.217Z",
+    "advocacy_programs": [
+        {
+            "program_id": "57e53a7a-0d72-4e10-b18c-efe4aa12cfe1",
+            "brand": "Wolf, Lowe and Emmerich",
+            "tasks_completed": [
+                {
+                    "task_id": "db212530-b213-4792-af88-4826811076c3",
+                    "platform": "Instagram",
+                    "post_url": "https://regular-chairperson.name",
+                    "likes": 383,
+                    "comments": 15,
+                    "shares": 18,
+                    "reach": 3503
+                }
+            ],
+            "total_sales_attributed": 266.0830900973539
+        }
+    ]
+}

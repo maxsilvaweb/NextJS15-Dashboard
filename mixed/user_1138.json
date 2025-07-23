@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "2024-07-02T06:54:44.538Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e709300f-1d4f-46c2-9d89-a3a07336c83a",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://black-and-white-stall.com/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 45,
+                    "reach": 4359
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

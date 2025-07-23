@@ -1,0 +1,26 @@
+{
+    "user_id": "d862a4ac-2050-44c9-8dc9-8ab220e2c546",
+    "name": "Christie Ward",
+    "email": "Alf_Bode@hotmail.com",
+    "instagram_handle": "@Rossie_Runolfsdottir11",
+    "tiktok_handle": "@Austyn_OKeefe",
+    "joined_at": "2024-11-16T23:29:57.362Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fd143611-3945-480b-9874-ff9fed2dd373",
+            "brand": "Zemlak - Murphy",
+            "tasks_completed": [
+                {
+                    "task_id": "3ee077f9-9a12-418e-b0ef-7d90b10a987c",
+                    "platform": "TikTok",
+                    "post_url": "https://cautious-requirement.biz",
+                    "likes": 132,
+                    "comments": 20,
+                    "shares": 37,
+                    "reach": 3793
+                }
+            ],
+            "total_sales_attributed": 3421.18370943564
+        }
+    ]
+}

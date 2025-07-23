@@ -1,0 +1,26 @@
+{
+    "user_id": "480e71c1-970f-4568-b8ff-b9b682bb09e3",
+    "name": "Elijah Lang I",
+    "email": "Erick.Mohr@hotmail.com",
+    "instagram_handle": "@Hiram.Stiedemann10",
+    "tiktok_handle": "@Marcos.Leannon",
+    "joined_at": "2024-10-27T09:59:23.365Z",
+    "advocacy_programs": [
+        {
+            "program_id": "011e2d90-1377-4528-9824-b43eea3f0a54",
+            "brand": "Schoen - Shanahan",
+            "tasks_completed": [
+                {
+                    "task_id": "9bbc2dfe-d27c-475e-92a5-e17014cd0b8c",
+                    "platform": "Instagram",
+                    "post_url": "https://speedy-follower.name/",
+                    "likes": 493,
+                    "comments": 35,
+                    "shares": 61,
+                    "reach": 5102
+                }
+            ],
+            "total_sales_attributed": 4444.281028437016
+        }
+    ]
+}

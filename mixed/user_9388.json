@@ -1,0 +1,26 @@
+{
+    "user_id": "0fb89aee-1582-4033-9869-c41d0751889e",
+    "name": "Ms. Paulette Welch II",
+    "email": "Keanu.Kassulke0@gmail.com",
+    "instagram_handle": "@Liana99",
+    "tiktok_handle": "@Nelson81",
+    "joined_at": "2024-11-13T19:58:29.309Z",
+    "advocacy_programs": [
+        {
+            "program_id": "631b8734-39d8-4309-b5d7-e65c8aff2d30",
+            "brand": "Nolan and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "67f21871-379e-4774-8884-7ff7d7bbc2d4",
+                    "platform": "TikTok",
+                    "post_url": "https://exalted-commodity.biz",
+                    "likes": 244,
+                    "comments": 24,
+                    "shares": 55,
+                    "reach": 7191
+                }
+            ],
+            "total_sales_attributed": 3755.660725277819
+        }
+    ]
+}

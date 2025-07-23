@@ -1,0 +1,26 @@
+{
+    "user_id": "69afef02-1e73-434a-8a15-1ad38c5bf24a",
+    "name": "John Hoeger",
+    "email": "Branson.Jast36@gmail.com",
+    "instagram_handle": "@Kristoffer.Kilback-Pollich33",
+    "tiktok_handle": "@Cierra_Wilderman",
+    "joined_at": "2024-03-30T02:31:45.595Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0180247e-611d-4eba-aaa6-e931f6994444",
+            "brand": "Hickle Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "0db349b1-da14-4936-a1bf-5f5f3d311764",
+                    "platform": "TikTok",
+                    "post_url": "https://artistic-sushi.info/",
+                    "likes": 257,
+                    "comments": 40,
+                    "shares": 98,
+                    "reach": 1516
+                }
+            ],
+            "total_sales_attributed": 1144.9104192367295
+        }
+    ]
+}

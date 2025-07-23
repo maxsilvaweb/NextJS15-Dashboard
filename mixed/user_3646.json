@@ -1,0 +1,26 @@
+{
+    "user_id": "c3e1fe91-6454-425c-a093-451a90723860",
+    "name": "Grant Lesch",
+    "email": "Josefina_Wunsch92@hotmail.com",
+    "instagram_handle": "@Madison42",
+    "tiktok_handle": "@Lesley20",
+    "joined_at": "2025-03-14T17:00:52.509Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4da36509-1255-4618-9f18-cff38df7dcb1",
+            "brand": "Boehm LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "356bef6a-e33e-4359-87d7-48ba5da1c1ca",
+                    "platform": "TikTok",
+                    "post_url": "https://lovable-flood.name",
+                    "likes": 211,
+                    "comments": 2,
+                    "shares": 65,
+                    "reach": 3339
+                }
+            ],
+            "total_sales_attributed": 3434.535140820185
+        }
+    ]
+}

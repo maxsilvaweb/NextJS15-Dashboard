@@ -1,0 +1,26 @@
+{
+    "user_id": "97ea3be7-e7f5-41ff-a8ef-b8a012a48580",
+    "name": "Emilio Bogisich",
+    "email": "Deangelo_Considine-Lynch91@yahoo.com",
+    "instagram_handle": "@Delfina.Feest94",
+    "tiktok_handle": "@Gretchen54",
+    "joined_at": "2024-04-29T22:24:02.613Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3ac10e7c-f8d9-459f-8594-e442017eaafb",
+            "brand": "Walter, Bode and Nicolas",
+            "tasks_completed": [
+                {
+                    "task_id": "d2b512e0-d307-4426-8673-3324516fb33c",
+                    "platform": "TikTok",
+                    "post_url": "https://cautious-newsprint.org/",
+                    "likes": 244,
+                    "comments": 34,
+                    "shares": 77,
+                    "reach": 6704
+                }
+            ],
+            "total_sales_attributed": 4430.5002051897345
+        }
+    ]
+}

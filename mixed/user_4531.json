@@ -1,0 +1,26 @@
+{
+    "user_id": "e148cb44-b481-4fe8-b930-9d7a0586cdf8",
+    "name": "Lonnie Stark",
+    "email": "Kassandra.Renner@yahoo.com",
+    "instagram_handle": "@Kara_Lynch",
+    "tiktok_handle": "@Desmond58",
+    "joined_at": "2025-03-18T05:51:06.505Z",
+    "advocacy_programs": [
+        {
+            "program_id": "709b651d-bf10-43d8-8a62-7f0b02895049",
+            "brand": "Kunze Group",
+            "tasks_completed": [
+                {
+                    "task_id": "e7a9e90a-f538-4689-9a86-50d966376d11",
+                    "platform": "TikTok",
+                    "post_url": "https://oval-publication.biz",
+                    "likes": 210,
+                    "comments": 3,
+                    "shares": 55,
+                    "reach": 4775
+                }
+            ],
+            "total_sales_attributed": 3038.845767719811
+        }
+    ]
+}

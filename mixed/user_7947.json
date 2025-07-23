@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Sanford - Greenfelder",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://cheap-technologist.biz/",
+                    "likes": "NaN",
+                    "comments": 0,
+                    "shares": 91,
+                    "reach": 4000
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Vicky O'Conner",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "@Gerry_Miller11",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 59,
+                    "reach": 2587
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

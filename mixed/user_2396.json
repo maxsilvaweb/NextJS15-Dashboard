@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Sheila_Hane@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "5b71685b-91e0-4f3d-8f96-c08d9d53052d",
+                    "platform": 123,
+                    "post_url": "https://unsung-version.biz/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 4,
+                    "reach": 2073
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

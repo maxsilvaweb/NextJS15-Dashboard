@@ -1,0 +1,26 @@
+{
+    "user_id": "91c2f00b-555d-4901-a259-1be97e75dcd6",
+    "name": "Sue Hettinger-O'Conner",
+    "email": "Kian_Corwin19@gmail.com",
+    "instagram_handle": "@Ottilie.Koepp67",
+    "tiktok_handle": "@Abigail.Barrows",
+    "joined_at": "2024-08-13T19:18:03.480Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4c9dabfc-49aa-4359-aa47-7fe4060add9e",
+            "brand": "Wunsch - Green",
+            "tasks_completed": [
+                {
+                    "task_id": "91ca818e-3f44-43af-80cb-b62460151e92",
+                    "platform": "Instagram",
+                    "post_url": "https://ignorant-captain.info/",
+                    "likes": 183,
+                    "comments": 6,
+                    "shares": 96,
+                    "reach": 3170
+                }
+            ],
+            "total_sales_attributed": 2509.226653576167
+        }
+    ]
+}

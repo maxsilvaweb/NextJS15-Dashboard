@@ -1,0 +1,26 @@
+{
+    "user_id": "3ea688fb-4f51-4629-be06-1edb6d6f1dca",
+    "name": "Nina Farrell",
+    "email": "Roberta_Ryan@gmail.com",
+    "instagram_handle": "@Boyd91",
+    "tiktok_handle": "@Adan89",
+    "joined_at": "2024-05-04T02:36:46.109Z",
+    "advocacy_programs": [
+        {
+            "program_id": "81167cf0-0a34-4098-bb66-4429c2a36279",
+            "brand": "Mills, Ledner and Bogan",
+            "tasks_completed": [
+                {
+                    "task_id": "1970486c-d567-4039-b1ae-5889d53bf8eb",
+                    "platform": "Instagram",
+                    "post_url": "https://minty-following.info/",
+                    "likes": 176,
+                    "comments": 9,
+                    "shares": 14,
+                    "reach": 4388
+                }
+            ],
+            "total_sales_attributed": 670.7261896475868
+        }
+    ]
+}

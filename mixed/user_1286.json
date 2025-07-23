@@ -1,0 +1,26 @@
+{
+    "user_id": "d9a20a8a-a62f-478d-8d52-9da7ba72ef51",
+    "name": "Bonnie Gulgowski",
+    "email": "Casandra_Stroman@hotmail.com",
+    "instagram_handle": "@Lavonne_Roob",
+    "tiktok_handle": "@Virgil23",
+    "joined_at": "2024-10-14T20:29:58.906Z",
+    "advocacy_programs": [
+        {
+            "program_id": "51da74ed-6418-4575-857f-2965991459f3",
+            "brand": "Bahringer Group",
+            "tasks_completed": [
+                {
+                    "task_id": "6bf06f47-ad6d-474f-80cb-53a3027c6c82",
+                    "platform": "Instagram",
+                    "post_url": "https://lustrous-hamburger.com",
+                    "likes": 215,
+                    "comments": 8,
+                    "shares": 65,
+                    "reach": 8989
+                }
+            ],
+            "total_sales_attributed": 4867.495734225514
+        }
+    ]
+}

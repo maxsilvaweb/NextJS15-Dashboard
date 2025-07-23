@@ -1,0 +1,26 @@
+{
+    "user_id": "81e71253-c63d-4d1f-9621-2247ac1deb2c",
+    "name": "Moses Von",
+    "email": "Josie.Dooley4@gmail.com",
+    "instagram_handle": "@Kyle.Feest",
+    "tiktok_handle": "@Amani_Bruen25",
+    "joined_at": "2025-02-15T19:02:05.554Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d0adec2e-fe0a-4654-bc77-04a7d5ca3405",
+            "brand": "Schmeler - Mills",
+            "tasks_completed": [
+                {
+                    "task_id": "700ad799-5127-4a0b-ad47-f682dd477abc",
+                    "platform": "TikTok",
+                    "post_url": "https://lumpy-gown.name/",
+                    "likes": 243,
+                    "comments": 36,
+                    "shares": 90,
+                    "reach": 1431
+                }
+            ],
+            "total_sales_attributed": 2396.8696640352496
+        }
+    ]
+}

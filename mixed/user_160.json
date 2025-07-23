@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "4457c3fa-5c65-45d5-9579-f0a59b6533ae",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "c4b88018-a34b-4eee-87fa-50e202ff1c54",
+                    "platform": 123,
+                    "post_url": "https://untried-velocity.org",
+                    "likes": "NaN",
+                    "comments": 49,
+                    "shares": 49,
+                    "reach": 7362
+                }
+            ],
+            "total_sales_attributed": 3333.9434555190687
+        }
+    ]
+}

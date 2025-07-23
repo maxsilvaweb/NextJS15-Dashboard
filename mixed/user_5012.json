@@ -1,0 +1,26 @@
+{
+    "user_id": "8ee6fdf0-47d2-436d-a049-c82cec23cb3d",
+    "name": "Marcia Ledner",
+    "email": "Jaylen79@hotmail.com",
+    "instagram_handle": "@Jamarcus.Halvorson29",
+    "tiktok_handle": "@Charity_Blick-Abshire",
+    "joined_at": "2024-11-10T21:48:27.106Z",
+    "advocacy_programs": [
+        {
+            "program_id": "039ff78a-67d0-4f34-b420-1a478917b510",
+            "brand": "Mohr, Abbott and Ebert",
+            "tasks_completed": [
+                {
+                    "task_id": "212986cb-2f82-4bdb-ae84-0d1d471c5721",
+                    "platform": "TikTok",
+                    "post_url": "https://everlasting-custom.net/",
+                    "likes": 319,
+                    "comments": 45,
+                    "shares": 96,
+                    "reach": 9528
+                }
+            ],
+            "total_sales_attributed": 4363.74695047153
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bdac8d5e-e478-4e98-94ae-6cbb20b9d32c",
+    "name": "Lynne Rogahn",
+    "email": "Ahmed_Monahan@gmail.com",
+    "instagram_handle": "@Isabell_Beahan",
+    "tiktok_handle": "@Michael13",
+    "joined_at": "2024-12-03T12:51:30.369Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b51450da-1145-485e-99d8-742125ee0f85",
+            "brand": "Ortiz and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "001f5547-fdb3-40fa-adbf-21d362c6d40d",
+                    "platform": "TikTok",
+                    "post_url": "https://somber-chap.com",
+                    "likes": 367,
+                    "comments": 8,
+                    "shares": 7,
+                    "reach": 4267
+                }
+            ],
+            "total_sales_attributed": 4866.374066168759
+        }
+    ]
+}

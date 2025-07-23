@@ -1,0 +1,26 @@
+{
+    "user_id": "ede1ec5e-a60b-4cfd-bc08-bf2132b53b6f",
+    "name": "Sheila Predovic",
+    "email": "Valentine.Daugherty65@gmail.com",
+    "instagram_handle": "@Ophelia.Rowe",
+    "tiktok_handle": "@Frida56",
+    "joined_at": "2025-03-13T16:26:31.275Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b2de8f6a-70df-4712-bb29-3dce9fd29298",
+            "brand": "Schowalter - Howe",
+            "tasks_completed": [
+                {
+                    "task_id": "9a2bb6ad-5f41-42d2-a946-93522c91ec67",
+                    "platform": "TikTok",
+                    "post_url": "https://moral-hunger.name/",
+                    "likes": 448,
+                    "comments": 18,
+                    "shares": 83,
+                    "reach": 8038
+                }
+            ],
+            "total_sales_attributed": 4845.585889488204
+        }
+    ]
+}

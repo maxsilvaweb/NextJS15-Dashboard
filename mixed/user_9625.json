@@ -1,0 +1,26 @@
+{
+    "user_id": "937dd769-af85-422e-94df-7a4ecdfd8223",
+    "name": "Miss Tricia Little",
+    "email": "Bianka.Bernier@yahoo.com",
+    "instagram_handle": "@Lew_Stamm88",
+    "tiktok_handle": "@Neoma_Quitzon-Ledner",
+    "joined_at": "2024-11-07T16:03:25.357Z",
+    "advocacy_programs": [
+        {
+            "program_id": "12d72eda-5fa2-429a-b79e-fb9a02d508cd",
+            "brand": "Heller - Cole",
+            "tasks_completed": [
+                {
+                    "task_id": "5e0e74c4-8ea8-4085-ab1f-5de7ee1433df",
+                    "platform": "TikTok",
+                    "post_url": "https://gracious-analogy.org",
+                    "likes": 231,
+                    "comments": 28,
+                    "shares": 48,
+                    "reach": 552
+                }
+            ],
+            "total_sales_attributed": 4913.674424000199
+        }
+    ]
+}

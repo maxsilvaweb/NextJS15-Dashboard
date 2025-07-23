@@ -1,0 +1,26 @@
+{
+    "user_id": "faa4eb43-052b-434e-b284-f0283885d903",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Carleton_Marks79",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Deckow, Little and Bergstrom",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 14,
+                    "shares": 53,
+                    "reach": 6525
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

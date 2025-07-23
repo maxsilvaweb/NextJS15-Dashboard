@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://obvious-yin.org/",
+                    "likes": "NaN",
+                    "comments": 13,
+                    "shares": 60,
+                    "reach": 9794
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

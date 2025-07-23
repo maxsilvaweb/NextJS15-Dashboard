@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Ian Fadel",
+    "email": "Kianna_Gleason89@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "351dfb1a-3005-402b-b8de-20bb3f434941",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://right-parsnip.org/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 66,
+                    "reach": 2554
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

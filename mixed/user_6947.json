@@ -1,0 +1,26 @@
+{
+    "user_id": "6fec34c5-c4d1-493e-999b-0ad067acda5d",
+    "name": "Kim Paucek",
+    "email": "Miller70@gmail.com",
+    "instagram_handle": "@Hortense_Daugherty84",
+    "tiktok_handle": "@Shayna.Baumbach32",
+    "joined_at": "2025-02-16T00:05:12.862Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ff816f25-31f6-4790-9032-77d6252fda88",
+            "brand": "Powlowski Group",
+            "tasks_completed": [
+                {
+                    "task_id": "f8b44004-2555-4240-b33c-48acb52d1de3",
+                    "platform": "TikTok",
+                    "post_url": "https://beneficial-median.com/",
+                    "likes": 486,
+                    "comments": 35,
+                    "shares": 2,
+                    "reach": 3277
+                }
+            ],
+            "total_sales_attributed": 3437.1015868446234
+        }
+    ]
+}

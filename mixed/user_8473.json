@@ -1,0 +1,26 @@
+{
+    "user_id": "b766855d-f4ff-4dd7-8787-01bb89838c2c",
+    "name": "Dr. Kathy McCullough",
+    "email": "Clark_Cartwright-Pfannerstill63@gmail.com",
+    "instagram_handle": "@Jordyn41",
+    "tiktok_handle": "@Loraine.Graham39",
+    "joined_at": "2024-05-25T15:15:21.550Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d525b6bb-f6ba-462f-b698-d654b71d7ce8",
+            "brand": "McLaughlin - Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "0fc74ee9-21b8-4319-b26c-7de4b74e61eb",
+                    "platform": "Instagram",
+                    "post_url": "https://talkative-thyme.biz/",
+                    "likes": 50,
+                    "comments": 39,
+                    "shares": 42,
+                    "reach": 1593
+                }
+            ],
+            "total_sales_attributed": 800.0922050259168
+        }
+    ]
+}

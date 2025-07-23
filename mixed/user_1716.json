@@ -1,0 +1,26 @@
+{
+    "user_id": "7b07b974-c5f7-4a33-9af4-417b0334c83b",
+    "name": "Dr. Troy Bayer",
+    "email": "Coty98@gmail.com",
+    "instagram_handle": "@Isabella.Hagenes82",
+    "tiktok_handle": "@Angelita45",
+    "joined_at": "2024-07-04T18:27:45.414Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b03c8fd9-72be-4f4e-824c-16ea33e9d95e",
+            "brand": "Larson, Weissnat and Feil",
+            "tasks_completed": [
+                {
+                    "task_id": "891e4a23-a90f-4071-9573-1c7e02714441",
+                    "platform": "TikTok",
+                    "post_url": "https://helpless-birth.biz",
+                    "likes": 408,
+                    "comments": 37,
+                    "shares": 38,
+                    "reach": 1393
+                }
+            ],
+            "total_sales_attributed": 3687.6697615697485
+        }
+    ]
+}

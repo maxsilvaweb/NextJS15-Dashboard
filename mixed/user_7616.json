@@ -1,0 +1,26 @@
+{
+    "user_id": "15891903-0a87-4dc3-987f-731fed17f392",
+    "name": "Meghan Yundt",
+    "email": "Kayli91@gmail.com",
+    "instagram_handle": "@Monte.Mayer",
+    "tiktok_handle": "@Norberto85",
+    "joined_at": "2024-09-09T14:49:31.257Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c0d8fb32-9f9a-42e6-bd44-69ad83f0a7f0",
+            "brand": "Weissnat, Kertzmann and Kshlerin",
+            "tasks_completed": [
+                {
+                    "task_id": "da165ce5-ee3e-4e00-b80b-c46517a065d8",
+                    "platform": "Instagram",
+                    "post_url": "https://taut-bug.name/",
+                    "likes": 321,
+                    "comments": 31,
+                    "shares": 8,
+                    "reach": 8086
+                }
+            ],
+            "total_sales_attributed": 2141.370182830724
+        }
+    ]
+}

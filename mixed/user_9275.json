@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "7e413091-53e9-4f62-914f-5cdecc510af0",
+            "brand": "Harris, Muller and Larson",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://livid-programme.net",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 88,
+                    "reach": 2732
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

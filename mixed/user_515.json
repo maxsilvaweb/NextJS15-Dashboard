@@ -1,0 +1,26 @@
+{
+    "user_id": "8ce3f69a-f060-4fef-b594-a6ee9e50ac8e",
+    "name": "Joey Gibson",
+    "email": "Ellis99@hotmail.com",
+    "instagram_handle": "@Jaylin.Strosin",
+    "tiktok_handle": "@Jordyn97",
+    "joined_at": "2024-05-22T17:38:25.729Z",
+    "advocacy_programs": [
+        {
+            "program_id": "155be139-e824-4fd4-92aa-0e72ce929ed1",
+            "brand": "Nader, Ziemann and Aufderhar",
+            "tasks_completed": [
+                {
+                    "task_id": "ac53044e-e486-4781-b3cf-781afa109019",
+                    "platform": "Instagram",
+                    "post_url": "https://unhappy-acquaintance.info/",
+                    "likes": 461,
+                    "comments": 11,
+                    "shares": 2,
+                    "reach": 5842
+                }
+            ],
+            "total_sales_attributed": 3293.171330632948
+        }
+    ]
+}

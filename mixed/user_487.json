@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Palma77",
+    "tiktok_handle": "@Roslyn55",
+    "joined_at": "2025-02-21T14:23:34.671Z",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 27,
+                    "reach": 5357
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

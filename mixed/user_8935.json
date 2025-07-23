@@ -1,0 +1,26 @@
+{
+    "user_id": "7fdc66ec-d762-4261-8ec4-91cb8afb2d6d",
+    "name": "Raul Goyette",
+    "email": "Brielle_Schneider@gmail.com",
+    "instagram_handle": "@Kali.Jerde66",
+    "tiktok_handle": "@Jettie83",
+    "joined_at": "2024-08-30T04:02:49.340Z",
+    "advocacy_programs": [
+        {
+            "program_id": "590bc5f2-0a10-4596-8930-204e3f5856cc",
+            "brand": "Sipes - Denesik",
+            "tasks_completed": [
+                {
+                    "task_id": "f3bb67b1-8080-4b16-b761-b095667c9a37",
+                    "platform": "TikTok",
+                    "post_url": "https://alienated-remark.org/",
+                    "likes": 476,
+                    "comments": 5,
+                    "shares": 1,
+                    "reach": 8407
+                }
+            ],
+            "total_sales_attributed": 899.0794229707149
+        }
+    ]
+}

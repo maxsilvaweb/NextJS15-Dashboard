@@ -1,0 +1,26 @@
+{
+    "user_id": "55191620-ef06-4c17-bfaa-2aa358caf34d",
+    "name": "Eric Frami",
+    "email": "Graciela_Schuppe48@hotmail.com",
+    "instagram_handle": "@Kylee.Nitzsche",
+    "tiktok_handle": "@Makenzie.Schuppe22",
+    "joined_at": "2024-11-20T11:43:55.020Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7f0b2ca6-6aba-4012-8fae-f93d0134a66e",
+            "brand": "Morissette - Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "53f48f26-8093-4b72-b121-f638060d9cba",
+                    "platform": "TikTok",
+                    "post_url": "https://another-creature.biz/",
+                    "likes": 217,
+                    "comments": 16,
+                    "shares": 54,
+                    "reach": 9536
+                }
+            ],
+            "total_sales_attributed": 2062.5912150912695
+        }
+    ]
+}

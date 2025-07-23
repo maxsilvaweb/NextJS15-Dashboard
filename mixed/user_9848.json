@@ -1,0 +1,26 @@
+{
+    "user_id": "832e93a1-b929-4ab6-9b37-044c4e9b05c6",
+    "name": "Alan Hansen",
+    "email": "Waldo9@gmail.com",
+    "instagram_handle": "@Conner79",
+    "tiktok_handle": "@Mckenzie66",
+    "joined_at": "2024-05-26T01:12:12.974Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b4b82434-22e4-4c4e-bfc5-6e491b938976",
+            "brand": "Sanford Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "faa4b00a-5b52-4d29-b9c7-b616453fe0af",
+                    "platform": "TikTok",
+                    "post_url": "https://each-overcoat.biz/",
+                    "likes": 33,
+                    "comments": 2,
+                    "shares": 56,
+                    "reach": 2462
+                }
+            ],
+            "total_sales_attributed": 4698.163596697876
+        }
+    ]
+}

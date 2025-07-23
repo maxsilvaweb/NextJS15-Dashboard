@@ -1,0 +1,26 @@
+{
+    "user_id": "5a9038fc-9b13-4537-b63b-3b1fca554ea1",
+    "name": "Alexander Stehr",
+    "email": "Jayne89@yahoo.com",
+    "instagram_handle": "@Jalyn_Raynor68",
+    "tiktok_handle": "@Cassandre_MacGyver",
+    "joined_at": "2024-10-03T16:52:46.075Z",
+    "advocacy_programs": [
+        {
+            "program_id": "63582ae2-42b0-48ab-b7c7-6d3fe2baa7fb",
+            "brand": "Parker Group",
+            "tasks_completed": [
+                {
+                    "task_id": "3e7a5999-0f8a-4e40-94f6-15214dc834a0",
+                    "platform": "TikTok",
+                    "post_url": "https://determined-morning.name/",
+                    "likes": 41,
+                    "comments": 34,
+                    "shares": 94,
+                    "reach": 7000
+                }
+            ],
+            "total_sales_attributed": 758.9108536642577
+        }
+    ]
+}

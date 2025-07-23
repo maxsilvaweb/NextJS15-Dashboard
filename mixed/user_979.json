@@ -1,0 +1,26 @@
+{
+    "user_id": "63e319e6-0132-4c7b-9f84-8c953b443f72",
+    "name": "Myrtle Macejkovic",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://noteworthy-adrenalin.com",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 100,
+                    "reach": 6877
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

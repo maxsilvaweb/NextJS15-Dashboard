@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Nia_Labadie41",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "5cc7008f-bf9d-4ccf-a4f3-a8c7cb4108ca",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "ed20b444-807e-468d-942d-2294ee8c9649",
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 96,
+                    "reach": 8252
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

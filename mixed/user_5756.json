@@ -1,0 +1,26 @@
+{
+    "user_id": "99959c20-0252-4738-ae5d-46b0afbd6b35",
+    "name": "Dexter Kulas",
+    "email": "Delmer72@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Langosh - Maggio",
+            "tasks_completed": [
+                {
+                    "task_id": "4b6587d3-5678-4c34-8f24-343675187eab",
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 483,
+                    "comments": null,
+                    "shares": 67,
+                    "reach": 9044
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "43a72917-3d1f-4e5c-97ef-5de9f91496a0",
+    "name": "Dr. Tiffany Macejkovic",
+    "email": "Noelia.Windler-Bartoletti@yahoo.com",
+    "instagram_handle": "@Moshe94",
+    "tiktok_handle": "@Horacio29",
+    "joined_at": "2025-01-26T17:04:38.241Z",
+    "advocacy_programs": [
+        {
+            "program_id": "70f85a7d-a69f-4f3d-895e-5190dcd5ebef",
+            "brand": "McLaughlin LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d679df50-4b15-4a90-8fd7-23af4a0b5e60",
+                    "platform": "TikTok",
+                    "post_url": "https://immaculate-step.biz/",
+                    "likes": 53,
+                    "comments": 35,
+                    "shares": 47,
+                    "reach": 8355
+                }
+            ],
+            "total_sales_attributed": 1976.7380335709017
+        }
+    ]
+}

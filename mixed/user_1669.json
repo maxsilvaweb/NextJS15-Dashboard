@@ -1,0 +1,26 @@
+{
+    "user_id": "8ccc1041-30cb-448b-8ad1-fa63a1a9879b",
+    "name": "Kay Lockman",
+    "email": "Anita_Ortiz6@yahoo.com",
+    "instagram_handle": "@Nathan.Bogan3",
+    "tiktok_handle": "@Oran63",
+    "joined_at": "2024-07-04T18:05:03.289Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3bee913d-5ca4-4ec8-a937-2d2429d6dd99",
+            "brand": "Larkin and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "7b8ed43d-3a22-4227-a5ee-d78252907cee",
+                    "platform": "Instagram",
+                    "post_url": "https://everlasting-pulse.net",
+                    "likes": 286,
+                    "comments": 48,
+                    "shares": 96,
+                    "reach": 8465
+                }
+            ],
+            "total_sales_attributed": 4416.251861898774
+        }
+    ]
+}

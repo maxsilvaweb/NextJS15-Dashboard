@@ -1,0 +1,26 @@
+{
+    "user_id": "290fe5da-7428-4742-af38-b7efe488f962",
+    "name": "Dr. Kristine Parker",
+    "email": "Emmett.Hegmann59@yahoo.com",
+    "instagram_handle": "@Isidro15",
+    "tiktok_handle": "@Tina.Corkery",
+    "joined_at": "2024-05-30T22:19:12.498Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5bd79641-93c5-4db9-8495-a104e99a50a2",
+            "brand": "Borer - Jerde",
+            "tasks_completed": [
+                {
+                    "task_id": "0fd85e6c-3c20-4fb3-9009-63e9b1ff2044",
+                    "platform": "Instagram",
+                    "post_url": "https://variable-pigsty.name/",
+                    "likes": 22,
+                    "comments": 11,
+                    "shares": 20,
+                    "reach": 8904
+                }
+            ],
+            "total_sales_attributed": 2268.4414154599335
+        }
+    ]
+}

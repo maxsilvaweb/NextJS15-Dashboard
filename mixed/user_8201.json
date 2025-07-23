@@ -1,0 +1,26 @@
+{
+    "user_id": "b2ff2ad8-0c3a-48e6-b2e1-1546f2a88040",
+    "name": "Lynette Schmitt",
+    "email": "Anna24@hotmail.com",
+    "instagram_handle": "@Jaycee.Bergstrom",
+    "tiktok_handle": "@Eliezer2",
+    "joined_at": "2024-08-08T18:10:41.058Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c7d9f949-ac82-449f-98c3-b47cf030e052",
+            "brand": "Auer - Braun",
+            "tasks_completed": [
+                {
+                    "task_id": "3e308837-b207-4530-96e6-69bc1a589f56",
+                    "platform": "Instagram",
+                    "post_url": "https://amused-unibody.com/",
+                    "likes": 211,
+                    "comments": 9,
+                    "shares": 2,
+                    "reach": 6701
+                }
+            ],
+            "total_sales_attributed": 2936.999588740227
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "f23006bb-3397-4736-817a-161359c1bed3",
+    "name": "Phillip Upton",
+    "email": "Travis61@gmail.com",
+    "instagram_handle": "@Gladys87",
+    "tiktok_handle": "@Guadalupe_Becker9",
+    "joined_at": "2025-02-09T03:00:13.787Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e2162f05-6331-421b-846f-c0eb9e96e081",
+            "brand": "Bayer Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "9420ebcf-132a-433f-8638-6baa5f05f4b9",
+                    "platform": "TikTok",
+                    "post_url": "https://trusty-validity.info",
+                    "likes": 151,
+                    "comments": 14,
+                    "shares": 70,
+                    "reach": 9756
+                }
+            ],
+            "total_sales_attributed": 1818.7828012476377
+        }
+    ]
+}

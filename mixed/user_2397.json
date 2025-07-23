@@ -1,0 +1,26 @@
+{
+    "user_id": "7d65aac3-233a-4414-84dc-0628f5d4e59f",
+    "name": "Laverne Harvey",
+    "email": "Lance.Kirlin@hotmail.com",
+    "instagram_handle": "@Odessa_Bode95",
+    "tiktok_handle": "@Heber20",
+    "joined_at": "2025-01-21T08:21:25.560Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5cddb51a-99fe-4d88-a04f-981a55efa57f",
+            "brand": "Crona - Friesen",
+            "tasks_completed": [
+                {
+                    "task_id": "95a9ba90-18fe-4a15-bff5-214848e38463",
+                    "platform": "Instagram",
+                    "post_url": "https://definitive-doorpost.name/",
+                    "likes": 448,
+                    "comments": 34,
+                    "shares": 84,
+                    "reach": 815
+                }
+            ],
+            "total_sales_attributed": 2781.0607646805347
+        }
+    ]
+}

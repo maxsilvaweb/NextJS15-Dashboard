@@ -1,0 +1,26 @@
+{
+    "user_id": "b02f9914-0902-4ee7-ada3-ba07af08a5d8",
+    "name": "Dustin Wyman",
+    "email": "Jacey.Schmidt@hotmail.com",
+    "instagram_handle": "@Chelsie23",
+    "tiktok_handle": "@Mohamed_Deckow",
+    "joined_at": "2024-03-24T00:57:38.167Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b7daed0d-f87e-4eb4-b667-93c772d2f64c",
+            "brand": "Davis - Fritsch",
+            "tasks_completed": [
+                {
+                    "task_id": "eb448d99-df05-497a-85e9-1675c844028a",
+                    "platform": "TikTok",
+                    "post_url": "https://lovely-effector.biz",
+                    "likes": 12,
+                    "comments": 4,
+                    "shares": 20,
+                    "reach": 7469
+                }
+            ],
+            "total_sales_attributed": 2070.3055010589806
+        }
+    ]
+}

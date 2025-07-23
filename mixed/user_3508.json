@@ -1,0 +1,26 @@
+{
+    "user_id": "38270ea9-ef98-477d-901c-c2d27c5a9644",
+    "name": "Betty Denesik",
+    "email": "Darrion_Farrell@hotmail.com",
+    "instagram_handle": "@Martine_Purdy29",
+    "tiktok_handle": "@Daniela_Smitham",
+    "joined_at": "2024-04-26T01:22:22.943Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c4ede48b-f20a-4f1a-b64f-c97ede442462",
+            "brand": "Daniel, Kertzmann and Brakus",
+            "tasks_completed": [
+                {
+                    "task_id": "98fddd97-cdc0-48bf-9723-a54f99a618ec",
+                    "platform": "TikTok",
+                    "post_url": "https://gracious-cutlet.net",
+                    "likes": 244,
+                    "comments": 44,
+                    "shares": 60,
+                    "reach": 512
+                }
+            ],
+            "total_sales_attributed": 1102.8642531814244
+        }
+    ]
+}

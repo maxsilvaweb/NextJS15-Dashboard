@@ -1,0 +1,26 @@
+{
+    "user_id": "2d2f49a5-b45e-4aa0-843e-7c189e462e36",
+    "name": "Gerard Reichert",
+    "email": "Mayra_Ledner@gmail.com",
+    "instagram_handle": "@Otha78",
+    "tiktok_handle": "@Meredith42",
+    "joined_at": "2024-06-06T08:42:18.001Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6490f481-5e9a-416f-afea-381f7de07196",
+            "brand": "Nader, Rau and Schamberger",
+            "tasks_completed": [
+                {
+                    "task_id": "750aca11-6d18-49b9-86f1-07611dcefeec",
+                    "platform": "Instagram",
+                    "post_url": "https://beneficial-responsibility.info",
+                    "likes": 95,
+                    "comments": 20,
+                    "shares": 60,
+                    "reach": 2746
+                }
+            ],
+            "total_sales_attributed": 4879.85513504795
+        }
+    ]
+}

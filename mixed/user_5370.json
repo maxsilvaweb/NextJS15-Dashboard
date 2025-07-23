@@ -1,0 +1,26 @@
+{
+    "user_id": "e0c8d820-be86-4a77-a66e-a77f3bb2c2ab",
+    "name": "Clifton Fritsch",
+    "email": "Jerrod.Herman@hotmail.com",
+    "instagram_handle": "@Rebeka_Emard",
+    "tiktok_handle": "@Tiffany_Daniel67",
+    "joined_at": "2024-03-25T06:29:12.515Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6b72c508-4b24-470a-b087-bd63076a5656",
+            "brand": "Gutmann - Metz",
+            "tasks_completed": [
+                {
+                    "task_id": "303a4c4f-f451-4b35-ab65-a83ba278c8d5",
+                    "platform": "Instagram",
+                    "post_url": "https://tight-habit.org/",
+                    "likes": 485,
+                    "comments": 44,
+                    "shares": 33,
+                    "reach": 684
+                }
+            ],
+            "total_sales_attributed": 3532.075598825894
+        }
+    ]
+}

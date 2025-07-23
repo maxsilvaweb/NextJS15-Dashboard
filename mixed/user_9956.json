@@ -1,0 +1,26 @@
+{
+    "user_id": "dde14bb8-c3e0-49b7-9cdf-b0b063d71652",
+    "name": "Candace Orn III",
+    "email": "Beverly13@hotmail.com",
+    "instagram_handle": "@Coleman.Wolff25",
+    "tiktok_handle": "@Stacey.Thiel44",
+    "joined_at": "2024-05-15T23:46:40.549Z",
+    "advocacy_programs": [
+        {
+            "program_id": "58d0b476-4195-477b-825c-03e8a4c5366c",
+            "brand": "Mosciski, Herman and Rutherford",
+            "tasks_completed": [
+                {
+                    "task_id": "a908e3eb-d3b3-4b7d-8a45-68349b2739bf",
+                    "platform": "Instagram",
+                    "post_url": "https://steep-fort.name",
+                    "likes": 356,
+                    "comments": 31,
+                    "shares": 78,
+                    "reach": 2113
+                }
+            ],
+            "total_sales_attributed": 1963.8425064434018
+        }
+    ]
+}

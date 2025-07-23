@@ -1,0 +1,26 @@
+{
+    "user_id": "ef82e165-4860-4bef-b31f-d1895bfa299f",
+    "name": "Emma Mayert MD",
+    "email": "Aditya_Roob51@yahoo.com",
+    "instagram_handle": "@Dayna21",
+    "tiktok_handle": "@Marisol.Dare",
+    "joined_at": "2024-10-01T13:46:02.319Z",
+    "advocacy_programs": [
+        {
+            "program_id": "12b885d8-460d-44ae-b190-3b9abd3c5271",
+            "brand": "Reinger, Hoppe and Zboncak",
+            "tasks_completed": [
+                {
+                    "task_id": "d3d10af5-3990-442a-a575-f2ae869424e3",
+                    "platform": "TikTok",
+                    "post_url": "https://quarrelsome-horde.net",
+                    "likes": 417,
+                    "comments": 0,
+                    "shares": 55,
+                    "reach": 976
+                }
+            ],
+            "total_sales_attributed": 1228.2662923017974
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d295df34-cf70-42e2-960b-fcf38a398ce9",
+    "name": "Connie Mraz",
+    "email": "Rusty.OConnell52@yahoo.com",
+    "instagram_handle": "@Eulah5",
+    "tiktok_handle": "@Alessia87",
+    "joined_at": "2025-01-26T01:21:54.063Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5f3c6251-9089-4056-82c0-bcc92abf3ae9",
+            "brand": "Jerde, Murphy and Corwin",
+            "tasks_completed": [
+                {
+                    "task_id": "248f0078-79de-4b4c-98f8-4b057ec1c73d",
+                    "platform": "Instagram",
+                    "post_url": "https://impartial-grouper.name/",
+                    "likes": 283,
+                    "comments": 16,
+                    "shares": 96,
+                    "reach": 2077
+                }
+            ],
+            "total_sales_attributed": 2352.5761215326033
+        }
+    ]
+}

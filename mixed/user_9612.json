@@ -1,0 +1,26 @@
+{
+    "user_id": "b4b431cb-b13a-4756-a953-95e9719d971e",
+    "name": "Ms. Rochelle Rath",
+    "email": "Nolan.Kemmer@yahoo.com",
+    "instagram_handle": "@Otha.Romaguera",
+    "tiktok_handle": "@Johnson40",
+    "joined_at": "2024-12-08T05:49:24.183Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8a605ece-b712-413e-8981-be52fcee1ddb",
+            "brand": "Torphy LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a00eedda-b4d4-4201-a0d8-e6d3cda9f510",
+                    "platform": "Instagram",
+                    "post_url": "https://sick-story.info",
+                    "likes": 306,
+                    "comments": 4,
+                    "shares": 8,
+                    "reach": 6048
+                }
+            ],
+            "total_sales_attributed": 1098.4232555678293
+        }
+    ]
+}

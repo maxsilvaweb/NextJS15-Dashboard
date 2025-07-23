@@ -1,0 +1,26 @@
+{
+    "user_id": "7e978b61-fa02-462b-8c8f-2016153caa2f",
+    "name": "May Towne",
+    "email": "Orie.Williamson61@yahoo.com",
+    "instagram_handle": "@Jamel.Nader",
+    "tiktok_handle": "@Rosanna.OConnell76",
+    "joined_at": "2024-05-02T22:35:49.094Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b59b97f2-ac17-4169-897d-d9ceb1f46c6d",
+            "brand": "Wunsch LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "b5e35ef3-bf1f-4744-8acc-26a5baf3adfd",
+                    "platform": "Instagram",
+                    "post_url": "https://energetic-optimal.com/",
+                    "likes": 109,
+                    "comments": 7,
+                    "shares": 84,
+                    "reach": 2876
+                }
+            ],
+            "total_sales_attributed": 2791.5337403885087
+        }
+    ]
+}

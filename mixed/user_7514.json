@@ -1,0 +1,26 @@
+{
+    "user_id": "5bb2d9e6-7b54-4989-b275-43d7e9a9caed",
+    "name": "Sidney Nikolaus",
+    "email": "Albina36@gmail.com",
+    "instagram_handle": "@Bell.Kreiger10",
+    "tiktok_handle": "@Marcella.Larson",
+    "joined_at": "2024-09-17T13:58:41.550Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c25973b1-36c3-44b5-9b77-3d22196f6080",
+            "brand": "Mayert, Armstrong and Lubowitz",
+            "tasks_completed": [
+                {
+                    "task_id": "04aa29b0-dd80-4e37-9f36-e51f78c16390",
+                    "platform": "Instagram",
+                    "post_url": "https://glaring-swing.info/",
+                    "likes": 100,
+                    "comments": 15,
+                    "shares": 27,
+                    "reach": 3161
+                }
+            ],
+            "total_sales_attributed": 1542.597399865774
+        }
+    ]
+}

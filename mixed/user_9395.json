@@ -1,0 +1,26 @@
+{
+    "user_id": "1b4657d3-1ee7-4d9c-9141-f29b1d444d5c",
+    "name": "Abraham Stroman",
+    "email": "Malachi85@hotmail.com",
+    "instagram_handle": "@Kurt.McCullough47",
+    "tiktok_handle": "@Clifton.Bauch31",
+    "joined_at": "2024-10-18T09:55:38.283Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8eb5b54b-fb63-40fd-aeb6-d17efa4b335a",
+            "brand": "Harber - Casper",
+            "tasks_completed": [
+                {
+                    "task_id": "f732a3ac-3999-47c4-ba2f-b474cbb91a8c",
+                    "platform": "TikTok",
+                    "post_url": "https://great-disconnection.com",
+                    "likes": 206,
+                    "comments": 8,
+                    "shares": 99,
+                    "reach": 2798
+                }
+            ],
+            "total_sales_attributed": 707.4964917613114
+        }
+    ]
+}

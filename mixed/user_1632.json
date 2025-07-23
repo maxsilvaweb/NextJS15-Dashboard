@@ -1,0 +1,26 @@
+{
+    "user_id": "3d31b9a9-9fcc-402a-86dd-b96fac4e8346",
+    "name": "Bob Paucek",
+    "email": "Ella_Littel34@hotmail.com",
+    "instagram_handle": "@Oral.Kris56",
+    "tiktok_handle": "@Garland_Kuhlman-Blick",
+    "joined_at": "2024-12-18T21:56:10.419Z",
+    "advocacy_programs": [
+        {
+            "program_id": "febae0dd-a122-40c7-aeee-dce7f6889b62",
+            "brand": "Larson Group",
+            "tasks_completed": [
+                {
+                    "task_id": "b68f77ce-22e6-4cbe-8316-28e514d4d0ce",
+                    "platform": "Instagram",
+                    "post_url": "https://caring-ocelot.name/",
+                    "likes": 421,
+                    "comments": 38,
+                    "shares": 62,
+                    "reach": 8509
+                }
+            ],
+            "total_sales_attributed": 890.5358883916854
+        }
+    ]
+}

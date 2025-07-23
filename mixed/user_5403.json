@@ -1,0 +1,26 @@
+{
+    "user_id": "8b9e3496-eef7-4d8e-81a2-225ae577e0a4",
+    "name": "Mr. Edwin Sauer",
+    "email": "Jevon53@gmail.com",
+    "instagram_handle": "@Lorenzo_Crooks",
+    "tiktok_handle": "@Garnet74",
+    "joined_at": "2025-01-04T05:13:11.590Z",
+    "advocacy_programs": [
+        {
+            "program_id": "37a01fca-3a7e-48ce-88d8-b178a1129617",
+            "brand": "Rodriguez Group",
+            "tasks_completed": [
+                {
+                    "task_id": "f65b4360-5820-4f90-8987-a1ff8eb99946",
+                    "platform": "Instagram",
+                    "post_url": "https://subtle-cope.name",
+                    "likes": 380,
+                    "comments": 47,
+                    "shares": 73,
+                    "reach": 8119
+                }
+            ],
+            "total_sales_attributed": 2371.567148042942
+        }
+    ]
+}

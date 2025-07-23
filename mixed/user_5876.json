@@ -1,0 +1,26 @@
+{
+    "user_id": "4ca7e01c-5aef-4672-9c6d-993880b61d0e",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://decisive-palate.net/",
+                    "likes": 114,
+                    "comments": 34,
+                    "shares": 26,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2629.8721403474547
+        }
+    ]
+}

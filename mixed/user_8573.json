@@ -1,0 +1,26 @@
+{
+    "user_id": "863d28fb-7d6f-4ff9-a777-01b5a94ee21a",
+    "name": "Danny Vandervort",
+    "email": "Raven78@hotmail.com",
+    "instagram_handle": "@Adolfo0",
+    "tiktok_handle": "@Sydni46",
+    "joined_at": "2024-10-26T01:03:33.857Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ac1dbce8-0363-4159-b76b-ace22fd1685c",
+            "brand": "Emard, D'Amore and Heaney",
+            "tasks_completed": [
+                {
+                    "task_id": "4c862685-6553-4a85-8759-e88cf725f654",
+                    "platform": "Instagram",
+                    "post_url": "https://evil-event.org/",
+                    "likes": 155,
+                    "comments": 43,
+                    "shares": 31,
+                    "reach": 1203
+                }
+            ],
+            "total_sales_attributed": 1445.0872211081687
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Doris34@gmail.com",
+    "instagram_handle": "@Luther81",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "fcf6d22e-c244-4ea4-842c-2a9f42cdee73",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 87,
+                    "reach": 3379
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

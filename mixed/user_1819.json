@@ -1,0 +1,26 @@
+{
+    "user_id": "4bda5c60-656a-4829-91b9-003e98a48224",
+    "name": "Lee Mann",
+    "email": "Maria74@yahoo.com",
+    "instagram_handle": "@Adele_Russel8",
+    "tiktok_handle": "@Estrella_Skiles",
+    "joined_at": "2024-06-30T22:25:53.317Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3dac4709-f790-4228-91c4-c6faaafa8b0c",
+            "brand": "Hyatt, Harber and Mayert",
+            "tasks_completed": [
+                {
+                    "task_id": "a61cac01-0761-4709-8613-574aa591b821",
+                    "platform": "Instagram",
+                    "post_url": "https://babyish-papa.com",
+                    "likes": 330,
+                    "comments": 22,
+                    "shares": 18,
+                    "reach": 4907
+                }
+            ],
+            "total_sales_attributed": 2849.1161534198295
+        }
+    ]
+}

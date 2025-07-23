@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Dr. Jenna Keeling",
+    "email": "invalid-email",
+    "instagram_handle": "@Kelton28",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "0205bd09-8224-4483-bf86-1a5247bf97cc",
+                    "platform": "TikTok",
+                    "post_url": "https://cloudy-scratch.org/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 39,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2597.7592446425465
+        }
+    ]
+}

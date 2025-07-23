@@ -1,0 +1,26 @@
+{
+    "user_id": "9f9de5f0-32e3-4f58-ba0b-b634b79c1f3d",
+    "name": "Irving Wolf",
+    "email": "Raymond21@gmail.com",
+    "instagram_handle": "@Aimee39",
+    "tiktok_handle": "@Chanel_Satterfield",
+    "joined_at": "2025-01-20T01:19:27.866Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9e30b24c-37d3-4ad9-a81a-b5b4b8abc75f",
+            "brand": "Mraz Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "e6163c4b-cd89-4686-b922-2b615562f809",
+                    "platform": "TikTok",
+                    "post_url": "https://afraid-gift.net",
+                    "likes": 62,
+                    "comments": 0,
+                    "shares": 66,
+                    "reach": 3975
+                }
+            ],
+            "total_sales_attributed": 1547.913990575336
+        }
+    ]
+}

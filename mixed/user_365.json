@@ -1,0 +1,26 @@
+{
+    "user_id": "1d308a1f-9404-4f93-9b4b-7c377397f203",
+    "name": "Arthur O'Kon Jr.",
+    "email": "Adrian_Abbott90@gmail.com",
+    "instagram_handle": "@Deonte97",
+    "tiktok_handle": "@Cleora.Quigley",
+    "joined_at": "2024-09-25T00:32:34.058Z",
+    "advocacy_programs": [
+        {
+            "program_id": "74b1dfee-baad-4bef-b40f-4114b2f3ec4a",
+            "brand": "Skiles LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "4b74294a-1a34-410b-8a9c-4543e36b3ae3",
+                    "platform": "Instagram",
+                    "post_url": "https://defenseless-turret.name/",
+                    "likes": 443,
+                    "comments": 38,
+                    "shares": 9,
+                    "reach": 6266
+                }
+            ],
+            "total_sales_attributed": 224.24403131004198
+        }
+    ]
+}

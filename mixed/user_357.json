@@ -1,0 +1,26 @@
+{
+    "user_id": "3c6a55e4-edad-4db7-b7c0-ef6136858598",
+    "name": "Dr. Gloria Raynor",
+    "email": "Merlin86@yahoo.com",
+    "instagram_handle": "@Petra_Nolan",
+    "tiktok_handle": "@Karianne.Windler4",
+    "joined_at": "2024-12-18T04:33:07.560Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8afa5f5c-ae74-4ac5-92ca-710911ee7415",
+            "brand": "Brakus - Jerde",
+            "tasks_completed": [
+                {
+                    "task_id": "5a868918-d125-4674-b211-729bc9084bd9",
+                    "platform": "TikTok",
+                    "post_url": "https://overcooked-trolley.com",
+                    "likes": 130,
+                    "comments": 7,
+                    "shares": 14,
+                    "reach": 5193
+                }
+            ],
+            "total_sales_attributed": 2067.223767456847
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e7c94f95-01e9-4f1c-bdc7-3d57355c3735",
+    "name": "Josefina Crooks",
+    "email": "Moshe_Quitzon-Emard89@gmail.com",
+    "instagram_handle": "@Moshe.Strosin92",
+    "tiktok_handle": "@Johnson_Johnston",
+    "joined_at": "2024-12-26T07:44:22.893Z",
+    "advocacy_programs": [
+        {
+            "program_id": "21459e48-4e86-4b77-894b-b9588abcf717",
+            "brand": "Waelchi, Dooley and Auer",
+            "tasks_completed": [
+                {
+                    "task_id": "17372f0a-d143-4f71-b976-6040c1bc61b5",
+                    "platform": "Instagram",
+                    "post_url": "https://neglected-help.net",
+                    "likes": 497,
+                    "comments": 37,
+                    "shares": 38,
+                    "reach": 2093
+                }
+            ],
+            "total_sales_attributed": 4141.258526712154
+        }
+    ]
+}

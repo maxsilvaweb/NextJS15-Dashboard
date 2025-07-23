@@ -1,0 +1,26 @@
+{
+    "user_id": "339f0962-6e6f-440b-aebe-b2a8befcec57",
+    "name": "Dr. Randal Wunsch DVM",
+    "email": "Elinor17@hotmail.com",
+    "instagram_handle": "@Gino.Rolfson",
+    "tiktok_handle": "@Flossie12",
+    "joined_at": "2024-09-06T12:56:05.446Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ca42c2ff-d0ad-46ef-b06d-7fac2825004b",
+            "brand": "Heaney Group",
+            "tasks_completed": [
+                {
+                    "task_id": "043ccac0-eca0-41de-ac10-a81ce21d8d7a",
+                    "platform": "Instagram",
+                    "post_url": "https://wavy-scholarship.com",
+                    "likes": 463,
+                    "comments": 4,
+                    "shares": 94,
+                    "reach": 1022
+                }
+            ],
+            "total_sales_attributed": 4733.002565902859
+        }
+    ]
+}

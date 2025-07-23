@@ -1,0 +1,26 @@
+{
+    "user_id": "a86add7e-e767-414d-bbcb-e88360efc0dc",
+    "name": "Pam Rodriguez DDS",
+    "email": "Marcelino_Lemke85@hotmail.com",
+    "instagram_handle": "@Norval_Satterfield24",
+    "tiktok_handle": "@Michelle.Leuschke6",
+    "joined_at": "2024-05-07T21:58:14.260Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1ab90e0d-7d13-462a-876d-2e95747b6fa3",
+            "brand": "Dietrich, Abshire and Nikolaus",
+            "tasks_completed": [
+                {
+                    "task_id": "9e80855d-3416-4f87-a2c2-9e8d70d7fbad",
+                    "platform": "TikTok",
+                    "post_url": "https://skeletal-offset.net",
+                    "likes": 323,
+                    "comments": 42,
+                    "shares": 87,
+                    "reach": 3277
+                }
+            ],
+            "total_sales_attributed": 1140.0646720619675
+        }
+    ]
+}

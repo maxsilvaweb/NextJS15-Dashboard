@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "1c0394b8-cae0-4c5b-9a90-ffae162dbc2c",
+            "brand": "Zemlak, Emard and Murazik",
+            "tasks_completed": [
+                {
+                    "task_id": "3b29b38d-0796-4caa-80c0-775286503361",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 64,
+                    "reach": 2778
+                }
+            ],
+            "total_sales_attributed": 2996.3885093721447
+        }
+    ]
+}

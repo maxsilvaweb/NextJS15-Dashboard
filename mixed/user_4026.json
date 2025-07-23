@@ -1,0 +1,26 @@
+{
+    "user_id": "9a40e04a-edad-43db-a79a-47e22c6a60f8",
+    "name": "Bernadette Ratke",
+    "email": "Rusty.Murphy48@yahoo.com",
+    "instagram_handle": "@Reina.Wolf21",
+    "tiktok_handle": "@Jayson_Hayes",
+    "joined_at": "2024-08-25T19:44:41.001Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bf563034-c2c0-4be0-8fe0-4bd75e591f97",
+            "brand": "Hermiston, Bradtke and Moen",
+            "tasks_completed": [
+                {
+                    "task_id": "1238949e-d6d8-488f-88fb-214aa62bd5d5",
+                    "platform": "TikTok",
+                    "post_url": "https://shrill-monocle.com",
+                    "likes": 372,
+                    "comments": 3,
+                    "shares": 60,
+                    "reach": 642
+                }
+            ],
+            "total_sales_attributed": 1249.458484335407
+        }
+    ]
+}

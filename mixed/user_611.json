@@ -1,0 +1,26 @@
+{
+    "user_id": "e7e9b367-0a75-4283-a689-f2e1067f6b80",
+    "name": "Sheldon White-Hirthe",
+    "email": "Jerrod17@gmail.com",
+    "instagram_handle": "@Janelle46",
+    "tiktok_handle": "@Ila81",
+    "joined_at": "2024-10-05T11:27:52.972Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ca09c5d7-3a6e-42a1-a6bb-105b486f0cc0",
+            "brand": "Cruickshank and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "ef5bd6b5-538b-4bdb-92d8-87c68caa3988",
+                    "platform": "Instagram",
+                    "post_url": "https://lone-safe.org",
+                    "likes": 217,
+                    "comments": 33,
+                    "shares": 24,
+                    "reach": 7394
+                }
+            ],
+            "total_sales_attributed": 3779.591904472037
+        }
+    ]
+}

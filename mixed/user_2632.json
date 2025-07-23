@@ -1,0 +1,26 @@
+{
+    "user_id": "a13a9e67-f5fd-4246-96c8-c5033e78d76f",
+    "name": "Marjorie Boehm",
+    "email": "Cooper.Marks@yahoo.com",
+    "instagram_handle": "@Frederique90",
+    "tiktok_handle": "@Magdalena21",
+    "joined_at": "2025-03-02T11:52:31.491Z",
+    "advocacy_programs": [
+        {
+            "program_id": "47359ec3-621d-4278-b715-e6048fc60459",
+            "brand": "O'Keefe and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "c154c97c-40bc-463f-93d9-168a9a352e69",
+                    "platform": "TikTok",
+                    "post_url": "https://severe-vein.com",
+                    "likes": 90,
+                    "comments": 44,
+                    "shares": 41,
+                    "reach": 6706
+                }
+            ],
+            "total_sales_attributed": 4993.424559490609
+        }
+    ]
+}

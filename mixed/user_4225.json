@@ -1,0 +1,26 @@
+{
+    "user_id": "f6ea0839-309e-44a5-abb8-4a61f9ff5607",
+    "name": "Camille Wyman",
+    "email": "Tess_McCullough@hotmail.com",
+    "instagram_handle": "@Gerson.Terry14",
+    "tiktok_handle": "@Aiyana_Funk",
+    "joined_at": "2024-03-19T17:28:53.361Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6d6c2d52-fbb2-485e-ae9f-b09290bab8de",
+            "brand": "Mueller Group",
+            "tasks_completed": [
+                {
+                    "task_id": "25a879da-16e0-4bfb-9e69-064849446a62",
+                    "platform": "TikTok",
+                    "post_url": "https://powerless-singing.net/",
+                    "likes": 320,
+                    "comments": 38,
+                    "shares": 57,
+                    "reach": 6196
+                }
+            ],
+            "total_sales_attributed": 4401.108197115363
+        }
+    ]
+}

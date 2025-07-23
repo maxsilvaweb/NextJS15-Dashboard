@@ -1,0 +1,26 @@
+{
+    "user_id": "b9e550c5-ecef-47ca-bfef-6a61c2b45ab8",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": "@Agustin_Smitham-Kiehn",
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "1d121d8e-8c4c-4774-9b3e-2fa28aeac49f",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 80,
+                    "reach": 1068
+                }
+            ],
+            "total_sales_attributed": 517.5857312350084
+        }
+    ]
+}

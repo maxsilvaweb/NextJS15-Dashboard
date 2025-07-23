@@ -1,0 +1,26 @@
+{
+    "user_id": "855ed64a-799e-4c7e-bcda-7b558d773fb3",
+    "name": "Gregg Hudson",
+    "email": "Lazaro.Braun@yahoo.com",
+    "instagram_handle": "@Cydney_Bartell",
+    "tiktok_handle": "@Marcella.Tillman41",
+    "joined_at": "2025-01-13T21:47:36.592Z",
+    "advocacy_programs": [
+        {
+            "program_id": "05600a64-7b31-4d1c-b43a-d1913d54ce10",
+            "brand": "Boehm - Bins",
+            "tasks_completed": [
+                {
+                    "task_id": "30cb3ba5-4bc4-4ab5-b135-d96442329d81",
+                    "platform": "Instagram",
+                    "post_url": "https://cute-sonar.org/",
+                    "likes": 91,
+                    "comments": 35,
+                    "shares": 21,
+                    "reach": 6688
+                }
+            ],
+            "total_sales_attributed": 4128.237469650232
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "57fd046c-9743-4d24-99b8-2c529ef0a966",
+    "name": "Jaime Parisian",
+    "email": "Adalberto79@yahoo.com",
+    "instagram_handle": "@Allison_Gusikowski3",
+    "tiktok_handle": "@Orval84",
+    "joined_at": "2024-03-23T06:19:14.510Z",
+    "advocacy_programs": [
+        {
+            "program_id": "79356474-049c-4697-a841-a30f00a4c891",
+            "brand": "Herzog LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d4aafb6b-ac99-4065-82d7-91fada9c8020",
+                    "platform": "TikTok",
+                    "post_url": "https://hollow-moment.org/",
+                    "likes": 37,
+                    "comments": 15,
+                    "shares": 77,
+                    "reach": 1183
+                }
+            ],
+            "total_sales_attributed": 3517.538780686292
+        }
+    ]
+}

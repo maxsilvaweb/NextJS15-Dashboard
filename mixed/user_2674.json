@@ -1,0 +1,26 @@
+{
+    "user_id": "adca0816-fe57-4348-b18e-4db54ec0a987",
+    "name": "Hubert Koch",
+    "email": "Jayme_Lockman57@hotmail.com",
+    "instagram_handle": "@Astrid61",
+    "tiktok_handle": "@Madeline.Doyle50",
+    "joined_at": "2025-03-07T23:22:02.025Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1fe94f8c-a5ee-406e-8835-27655595a284",
+            "brand": "McCullough - Collier",
+            "tasks_completed": [
+                {
+                    "task_id": "9b297507-931c-4465-a871-fb432ecf1f01",
+                    "platform": "TikTok",
+                    "post_url": "https://grouchy-deer.net/",
+                    "likes": 438,
+                    "comments": 12,
+                    "shares": 47,
+                    "reach": 6904
+                }
+            ],
+            "total_sales_attributed": 472.8102729716924
+        }
+    ]
+}

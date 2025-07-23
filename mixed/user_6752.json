@@ -1,0 +1,26 @@
+{
+    "user_id": "5513b3f3-8532-43fb-b526-734b42e3ae5b",
+    "name": "Kayla Cormier",
+    "email": "Gregg_Towne72@gmail.com",
+    "instagram_handle": "@Deonte.Balistreri",
+    "tiktok_handle": "@Leatha.Jerde",
+    "joined_at": "2024-07-28T12:54:59.172Z",
+    "advocacy_programs": [
+        {
+            "program_id": "146be524-fd42-4e6b-941d-4ca2764776ab",
+            "brand": "West, Rohan and Beatty",
+            "tasks_completed": [
+                {
+                    "task_id": "dc557044-b15d-4ef9-a072-5a685df0b207",
+                    "platform": "TikTok",
+                    "post_url": "https://mean-peninsula.name",
+                    "likes": 217,
+                    "comments": 24,
+                    "shares": 88,
+                    "reach": 5176
+                }
+            ],
+            "total_sales_attributed": 3336.6453768264346
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8f3e2bd9-9536-4229-9ea4-682d378860ee",
+    "name": "Mr. Eddie Schaefer",
+    "email": "Holden.Pacocha67@gmail.com",
+    "instagram_handle": "@Ursula26",
+    "tiktok_handle": "@Merritt_Bradtke41",
+    "joined_at": "2024-12-21T01:27:50.630Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c8c194de-e28e-4d4c-b90e-394d10988208",
+            "brand": "Hane, Schaefer and Graham",
+            "tasks_completed": [
+                {
+                    "task_id": "b6f4ef8d-eaf0-4558-8e26-50ddd2c5d3e8",
+                    "platform": "TikTok",
+                    "post_url": "https://parallel-information.biz/",
+                    "likes": 195,
+                    "comments": 2,
+                    "shares": 97,
+                    "reach": 9277
+                }
+            ],
+            "total_sales_attributed": 1396.14503773314
+        }
+    ]
+}

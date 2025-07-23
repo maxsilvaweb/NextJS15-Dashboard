@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Betsy30@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "384054bb-5d2b-456f-832d-acc5a2c7115f",
+                    "platform": "Facebook",
+                    "post_url": "https://swift-birdbath.net",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 18,
+                    "reach": 611
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

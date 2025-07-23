@@ -1,0 +1,26 @@
+{
+    "user_id": "fd34736b-eff3-4c39-bd48-6986c0aa5f1f",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "Instagram",
+                    "post_url": "https://rectangular-membership.info",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 85,
+                    "reach": 1190
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

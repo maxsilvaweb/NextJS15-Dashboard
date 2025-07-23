@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Kerry Adams DVM",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "a99a9b40-de62-4d48-b117-28627e716a52",
+                    "platform": "TikTok",
+                    "post_url": "broken_link",
+                    "likes": 98,
+                    "comments": null,
+                    "shares": 54,
+                    "reach": 1265
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

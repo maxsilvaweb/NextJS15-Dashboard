@@ -1,0 +1,26 @@
+{
+    "user_id": "8d573c85-085d-4061-a1fa-d1a98b1724f9",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": "Fadel LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "cd8e7342-53d0-45e9-8a05-9b097d62ca37",
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 84,
+                    "reach": 4359
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

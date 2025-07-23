@@ -1,0 +1,26 @@
+{
+    "user_id": "1425de07-af3b-4a2f-9ab7-e4f298d48e06",
+    "name": "Carla Hoeger",
+    "email": "Aisha_Ritchie@hotmail.com",
+    "instagram_handle": "@Nyasia9",
+    "tiktok_handle": "@Kurt.Halvorson",
+    "joined_at": "2024-03-23T01:13:28.289Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1c0187e7-18c1-46d8-8240-6f953def5bed",
+            "brand": "Schamberger Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "9b0584d9-9354-4a59-9ffe-3e3d8f16b432",
+                    "platform": "TikTok",
+                    "post_url": "https://suburban-mantua.name",
+                    "likes": 381,
+                    "comments": 49,
+                    "shares": 60,
+                    "reach": 8703
+                }
+            ],
+            "total_sales_attributed": 1990.5608098690138
+        }
+    ]
+}

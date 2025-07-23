@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "5ef4ee8b-49cb-4a56-9e82-5ae800499f79",
+                    "platform": "TikTok",
+                    "post_url": "https://competent-duffel.org",
+                    "likes": 427,
+                    "comments": null,
+                    "shares": 99,
+                    "reach": 5861
+                }
+            ],
+            "total_sales_attributed": 4280.273466916254
+        }
+    ]
+}

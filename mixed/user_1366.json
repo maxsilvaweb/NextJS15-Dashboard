@@ -1,0 +1,26 @@
+{
+    "user_id": "9397d594-f42a-4c95-9c8c-9b21268c78a2",
+    "name": "Dr. Monique Kulas",
+    "email": "Tyler_Kilback19@hotmail.com",
+    "instagram_handle": "@Cale65",
+    "tiktok_handle": "@Vita_Gutkowski44",
+    "joined_at": "2025-03-02T09:55:23.377Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f41ed4e4-1124-4559-aacb-809466d3bfed",
+            "brand": "Schuster, Hoppe and Altenwerth",
+            "tasks_completed": [
+                {
+                    "task_id": "553f8277-c808-4715-ba0b-015617b44554",
+                    "platform": "Instagram",
+                    "post_url": "https://dirty-newsletter.com",
+                    "likes": 340,
+                    "comments": 7,
+                    "shares": 9,
+                    "reach": 2157
+                }
+            ],
+            "total_sales_attributed": 609.8917547725493
+        }
+    ]
+}

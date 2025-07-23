@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "fcdc16ce-1e0d-4408-96f5-3bde92cdb34d",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "https://wiggly-bid.biz/",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 72,
+                    "reach": 6671
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Demarco_Ondricka@yahoo.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Antonio_Tromp-Kautzer",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "5b1a3136-e5dd-43d9-87c7-ce276bef101f",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 28,
+                    "reach": 4249
+                }
+            ],
+            "total_sales_attributed": 2533.4905180224223
+        }
+    ]
+}

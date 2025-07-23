@@ -1,0 +1,26 @@
+{
+    "user_id": "34eb38df-0569-4516-bcb2-bcb709ce68b8",
+    "name": "Kristen Beier",
+    "email": "Jacey_Bernier75@yahoo.com",
+    "instagram_handle": "@Hailie_Johnson21",
+    "tiktok_handle": "@Electa64",
+    "joined_at": "2025-02-27T03:38:20.835Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0aadf265-984e-409b-9593-c5901ade32ff",
+            "brand": "Nolan and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "cf706f16-9a9d-4a1f-862f-3b9db74c7e95",
+                    "platform": "Instagram",
+                    "post_url": "https://doting-word.org/",
+                    "likes": 500,
+                    "comments": 49,
+                    "shares": 0,
+                    "reach": 4729
+                }
+            ],
+            "total_sales_attributed": 3999.7044419245713
+        }
+    ]
+}

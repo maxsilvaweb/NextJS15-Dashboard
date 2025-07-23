@@ -1,0 +1,26 @@
+{
+    "user_id": "185de3e8-5a90-491d-89d4-0a70ee942464",
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "340382a2-6d66-40fc-9d6c-004ab13547ed",
+            "brand": "Kemmer Group",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": null,
+                    "shares": 41,
+                    "reach": 4078
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

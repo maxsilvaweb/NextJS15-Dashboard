@@ -1,0 +1,26 @@
+{
+    "user_id": "010f1d47-c60a-4c90-b6e2-55e7d7e56d30",
+    "name": "Kurt Hirthe",
+    "email": "Delphia.Barton94@hotmail.com",
+    "instagram_handle": "@Nasir_Pfeffer",
+    "tiktok_handle": "@Julien.Jacobson",
+    "joined_at": "2024-12-05T05:54:52.693Z",
+    "advocacy_programs": [
+        {
+            "program_id": "236264df-00f5-453a-b95b-7129728ccf7b",
+            "brand": "Macejkovic, Zulauf and Johnston",
+            "tasks_completed": [
+                {
+                    "task_id": "b83766e4-2bca-4625-8da9-711a8f7d7e54",
+                    "platform": "TikTok",
+                    "post_url": "https://formal-pressure.net/",
+                    "likes": 66,
+                    "comments": 32,
+                    "shares": 99,
+                    "reach": 533
+                }
+            ],
+            "total_sales_attributed": 836.6808229408867
+        }
+    ]
+}

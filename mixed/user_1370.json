@@ -1,0 +1,26 @@
+{
+    "user_id": "f55b8a1a-8359-4ca5-9372-5011ebea27b2",
+    "name": "???",
+    "email": "Dashawn_Rosenbaum@gmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": 359,
+                    "comments": null,
+                    "shares": 52,
+                    "reach": 9034
+                }
+            ],
+            "total_sales_attributed": 825.2621048802414
+        }
+    ]
+}

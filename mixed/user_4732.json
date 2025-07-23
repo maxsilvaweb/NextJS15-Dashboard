@@ -1,0 +1,26 @@
+{
+    "user_id": "11de58b7-38b7-4528-b86a-43bc56e47723",
+    "name": "Dr. Gabriel Mitchell",
+    "email": "Porter.Mraz63@yahoo.com",
+    "instagram_handle": "@Providenci77",
+    "tiktok_handle": "@Emerald_Kreiger",
+    "joined_at": "2025-02-03T07:41:35.608Z",
+    "advocacy_programs": [
+        {
+            "program_id": "66fdf723-7d9d-4c78-8fc7-97d2691297af",
+            "brand": "Wunsch LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "73b738e4-bfa5-46e6-ab07-6daffcd275e6",
+                    "platform": "TikTok",
+                    "post_url": "https://boring-airline.org",
+                    "likes": 446,
+                    "comments": 25,
+                    "shares": 57,
+                    "reach": 9289
+                }
+            ],
+            "total_sales_attributed": 1345.5097670722978
+        }
+    ]
+}

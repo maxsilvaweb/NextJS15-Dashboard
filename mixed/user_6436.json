@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "Thomas O'Connell Sr.",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "dca9b979-c1c0-49d1-80ca-9dee5e3c8e97",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": "TikTok",
+                    "post_url": "https://alienated-skean.name",
+                    "likes": "NaN",
+                    "comments": 22,
+                    "shares": 65,
+                    "reach": 3568
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

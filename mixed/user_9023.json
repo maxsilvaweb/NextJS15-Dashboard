@@ -1,0 +1,26 @@
+{
+    "user_id": "ad8bd895-378b-4c0b-9163-0dcf6607eb42",
+    "name": "Benjamin Wisoky",
+    "email": "Mafalda_Zemlak@gmail.com",
+    "instagram_handle": "@Jeramy99",
+    "tiktok_handle": "@Marlin92",
+    "joined_at": "2024-12-13T04:00:27.630Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c489252a-df0e-4f4c-96c7-3565bd8d824c",
+            "brand": "Williamson and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "31a44556-457e-441a-a7df-6cffe9cb8cdd",
+                    "platform": "TikTok",
+                    "post_url": "https://ordinary-trolley.biz/",
+                    "likes": 493,
+                    "comments": 37,
+                    "shares": 59,
+                    "reach": 7610
+                }
+            ],
+            "total_sales_attributed": 1182.715880692219
+        }
+    ]
+}

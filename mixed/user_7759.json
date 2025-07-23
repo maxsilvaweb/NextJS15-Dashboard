@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Ines17@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "@Raina_Sawayn",
+    "joined_at": "2024-07-03T04:21:10.088Z",
+    "advocacy_programs": [
+        {
+            "program_id": "637592de-76ea-4029-90fe-84be4281322a",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "289e79ca-937d-4f10-84da-b2902a8ef889",
+                    "platform": "Facebook",
+                    "post_url": "broken_link",
+                    "likes": 432,
+                    "comments": null,
+                    "shares": 100,
+                    "reach": 6323
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

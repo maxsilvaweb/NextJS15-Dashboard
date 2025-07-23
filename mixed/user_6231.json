@@ -1,0 +1,26 @@
+{
+    "user_id": "4fa2d17a-aedd-46c2-94af-7a83f9a7d556",
+    "name": "Karen Berge",
+    "email": "Lolita.Blanda@yahoo.com",
+    "instagram_handle": "@Llewellyn56",
+    "tiktok_handle": "@Talia_Haley",
+    "joined_at": "2024-11-01T03:03:06.896Z",
+    "advocacy_programs": [
+        {
+            "program_id": "206b5cbb-0241-4fa8-9932-aa7b46c08f63",
+            "brand": "Medhurst and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "341e1631-1b6c-49db-bec8-ea46a64c0336",
+                    "platform": "Instagram",
+                    "post_url": "https://rich-horst.com",
+                    "likes": 176,
+                    "comments": 47,
+                    "shares": 12,
+                    "reach": 5157
+                }
+            ],
+            "total_sales_attributed": 2844.0919656557003
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "Vella_Willms22@hotmail.com",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "",
+            "brand": 12345,
+            "tasks_completed": [
+                {
+                    "task_id": "735f2fca-aa5c-4789-844b-5cc76ebe8edb",
+                    "platform": "Instagram",
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 8,
+                    "shares": 53,
+                    "reach": 1475
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

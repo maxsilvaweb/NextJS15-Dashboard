@@ -1,0 +1,26 @@
+{
+    "user_id": "59ec3fa4-73b0-45df-9f93-b8a69728bcc5",
+    "name": "Dr. Jeremy Franey",
+    "email": "Max_Towne@hotmail.com",
+    "instagram_handle": "@Summer_McCullough10",
+    "tiktok_handle": "@Mortimer47",
+    "joined_at": "2024-06-04T16:40:11.869Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5fb55475-22be-47f5-9bd6-dff5a7776618",
+            "brand": "Waters LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e6a9c066-a7b5-41af-a333-a65f6797a3ba",
+                    "platform": "TikTok",
+                    "post_url": "https://livid-morning.info/",
+                    "likes": 40,
+                    "comments": 14,
+                    "shares": 21,
+                    "reach": 7069
+                }
+            ],
+            "total_sales_attributed": 318.8046987727971
+        }
+    ]
+}

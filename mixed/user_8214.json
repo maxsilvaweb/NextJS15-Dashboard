@@ -1,0 +1,26 @@
+{
+    "user_id": null,
+    "name": "???",
+    "email": "invalid-email",
+    "instagram_handle": null,
+    "tiktok_handle": "#error_handle",
+    "joined_at": "not-a-date",
+    "advocacy_programs": [
+        {
+            "program_id": "9529e3b3-ba55-42bf-8e34-0001867f8497",
+            "brand": "Doyle, Yost and Huel",
+            "tasks_completed": [
+                {
+                    "task_id": null,
+                    "platform": 123,
+                    "post_url": "broken_link",
+                    "likes": "NaN",
+                    "comments": 3,
+                    "shares": 80,
+                    "reach": 6746
+                }
+            ],
+            "total_sales_attributed": "no-data"
+        }
+    ]
+}

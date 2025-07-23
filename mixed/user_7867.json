@@ -1,0 +1,26 @@
+{
+    "user_id": "a168c2ba-574a-4158-b623-73b2ce04d57a",
+    "name": "Timmy Jacobi",
+    "email": "Krystal_Schaden@hotmail.com",
+    "instagram_handle": "@Ari_Corkery",
+    "tiktok_handle": "@Otis_Flatley15",
+    "joined_at": "2024-08-31T07:15:00.124Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9f238b43-02ec-4aad-a17c-6b6cb4998e12",
+            "brand": "Larson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "69a55154-a229-4ab9-9d42-9d5929d70716",
+                    "platform": "TikTok",
+                    "post_url": "https://caring-blowgun.com/",
+                    "likes": 333,
+                    "comments": 10,
+                    "shares": 90,
+                    "reach": 4329
+                }
+            ],
+            "total_sales_attributed": 3612.101640230513
+        }
+    ]
+}

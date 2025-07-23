@@ -1,0 +1,26 @@
+{
+    "user_id": "0604b461-6ef2-43c2-aee2-e3b0069c2f88",
+    "name": "Jerome McDermott",
+    "email": "Octavia_Langosh12@hotmail.com",
+    "instagram_handle": "@Karina_Brown25",
+    "tiktok_handle": "@Zita.Howell82",
+    "joined_at": "2025-02-04T05:31:57.929Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c650141e-7b43-416b-97ae-84bab1d18047",
+            "brand": "Hackett, Sporer and Runte",
+            "tasks_completed": [
+                {
+                    "task_id": "1af04dc1-eeeb-4516-ab04-db31e5d3f871",
+                    "platform": "TikTok",
+                    "post_url": "https://dirty-comparison.net",
+                    "likes": 489,
+                    "comments": 22,
+                    "shares": 52,
+                    "reach": 1121
+                }
+            ],
+            "total_sales_attributed": 577.7163710680359
+        }
+    ]
+}
