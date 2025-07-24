@@ -1,0 +1,51 @@
+{
+  "name": "duel-users-advocacy-platform",
+  "description": "Data processing pipeline for user advocacy platform",
+  "keywords": ["python", "data-processing", "postgresql"],
+  "website": "https://github.com/maxsilvaweb/duel",
+  "repository": "https://github.com/maxsilvaweb/duel",
+  "logo": "",
+  "success_url": "/",
+  "scripts": {
+    "postdeploy": "echo 'Deployment completed'"
+  },
+  "env": {
+    "HEROKU_DATABASE_URL": {
+      "description": "Database URL for Heroku PostgreSQL",
+      "required": true
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql:essential-0",
+      "as": "DATABASE"
+    }
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "environments": {
+    "test": {
+      "scripts": {
+        "test-setup": "pip install -r requirements.txt",
+        "test": "python test_basic.py"
+      },
+      "env": {
+        "DATABASE_URL": "postgres://test:test@localhost:5432/test_db"
+      },
+      "addons": [
+        {
+          "plan": "heroku-postgresql:in-dyno"
+        }
+      ]
+    }
+  }
+}
