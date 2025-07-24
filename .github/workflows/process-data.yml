@@ -5,9 +5,18 @@ on:
     paths:
       - 'mixed/**'
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Processing mode'
+        required: true
+        default: 'incremental'
+        type: choice
+        options:
+        - incremental
+        - initial
 
 jobs:
-  process-incremental:
+  process-data:
     runs-on: ubuntu-latest
     
     steps:
@@ -24,7 +33,16 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
+    - name: Run initial upload
+      if: github.event.inputs.mode == 'initial'
+      env:
+        HEROKU_DATABASE_URL: ${{ secrets.HEROKU_DATABASE_URL }}
+        GITHUB_RUN_ID: ${{ github.run_id }}
+        GITHUB_SHA: ${{ github.sha }}
+      run: python initial_upload.py
+        
     - name: Run incremental processing
+      if: github.event.inputs.mode != 'initial'
       env:
         HEROKU_DATABASE_URL: ${{ secrets.HEROKU_DATABASE_URL }}
         GITHUB_RUN_ID: ${{ github.run_id }}
@@ -36,5 +54,8 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add file_tracking.json
-        git diff --staged --quiet || git commit -m "Update file tracking data [skip ci]"
+        if [ "${{ github.event.inputs.mode }}" = "initial" ]; then
+          git add processed_data.json data_statistics.json
+        fi
+        git diff --staged --quiet || git commit -m "Update data processing files [skip ci]"
         git push
