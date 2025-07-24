@@ -55,6 +55,7 @@ def process_json_file(file_path):
     """Process a single JSON file and return cleaned data records"""
     try:
         filename = os.path.basename(file_path)
+        all_records = []  # Initialize the missing list
         
         # Extract user number from filename for sequential ID mapping
         user_num_match = re.search(r'user_(\d+)', filename)
@@ -79,25 +80,19 @@ def process_json_file(file_path):
             issues = []
             cleaned_data = {}
             
-            # Handle user_id - use sequential ID based on filename
+            # Handle user_id consistently - always use sequential ID for database
             if sequential_id:
                 cleaned_data['user_id'] = sequential_id
-                cleaned_data['original_user_id'] = user_id
             else:
                 # Fallback for files without proper naming
                 cleaned_data['user_id'] = abs(hash(filename)) % 1000000
-                cleaned_data['original_user_id'] = user_id
                 issues.append("Generated fallback user_id from filename")
+            
+            # Store original user_id separately
+            cleaned_data['original_user_id'] = user_id
             
             if user_id is None:
                 issues.append("Missing user_id in JSON")
-                user_num = re.search(r'user_(\d+)', filename)
-                if user_num:
-                    cleaned_data['user_id'] = f"generated_{user_num.group(1)}"
-                else:
-                    cleaned_data['user_id'] = f"generated_{hash(filename)}"
-            else:
-                cleaned_data['user_id'] = user_id
             
             # Add user data
             cleaned_data['name'] = name
@@ -148,25 +143,19 @@ def process_json_file(file_path):
                     issues = []
                     cleaned_data = {}
                     
-                    # Handle user_id - use sequential ID based on filename
+                    # Handle user_id consistently - always use sequential ID for database
                     if sequential_id:
                         cleaned_data['user_id'] = sequential_id
-                        cleaned_data['original_user_id'] = user_id
                     else:
                         # Fallback for files without proper naming
                         cleaned_data['user_id'] = abs(hash(filename)) % 1000000
-                        cleaned_data['original_user_id'] = user_id
                         issues.append("Generated fallback user_id from filename")
+                    
+                    # Store original user_id separately
+                    cleaned_data['original_user_id'] = user_id
                     
                     if user_id is None:
                         issues.append("Missing user_id in JSON")
-                        user_num = re.search(r'user_(\d+)', filename)
-                        if user_num:
-                            cleaned_data['user_id'] = f"generated_{user_num.group(1)}"
-                        else:
-                            cleaned_data['user_id'] = f"generated_{hash(filename)}"
-                    else:
-                        cleaned_data['user_id'] = user_id
                     
                     # Add user data
                     cleaned_data['name'] = name
@@ -212,25 +201,19 @@ def process_json_file(file_path):
                         issues = []
                         cleaned_data = {}
                         
-                        # Handle user_id - use sequential ID based on filename
+                        # Handle user_id consistently - always use sequential ID for database
                         if sequential_id:
                             cleaned_data['user_id'] = sequential_id
-                            cleaned_data['original_user_id'] = user_id
                         else:
                             # Fallback for files without proper naming
                             cleaned_data['user_id'] = abs(hash(filename)) % 1000000
-                            cleaned_data['original_user_id'] = user_id
                             issues.append("Generated fallback user_id from filename")
+                        
+                        # Store original user_id separately
+                        cleaned_data['original_user_id'] = user_id
                         
                         if user_id is None:
                             issues.append("Missing user_id in JSON")
-                            user_num = re.search(r'user_(\d+)', filename)
-                            if user_num:
-                                cleaned_data['user_id'] = f"generated_{user_num.group(1)}"
-                            else:
-                                cleaned_data['user_id'] = f"generated_{hash(filename)}"
-                        else:
-                            cleaned_data['user_id'] = user_id
                         
                         # Add user data
                         cleaned_data['name'] = name
