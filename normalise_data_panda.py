@@ -399,7 +399,7 @@ def update_processed_count(count):
     with open(count_file, 'w') as f:
         f.write(str(count))
 
-def process_incremental_files(directory):
+def process_all_files(directory):
     """Process only new files since last run"""
     all_data = []
     error_count = 0
@@ -462,7 +462,7 @@ def main():
     
     # Process only new files
     logging.info("Starting incremental data processing")
-    new_data = process_incremental_files(json_dir)
+    new_data = process_all_files(json_dir)
     
     if not new_data:
         logging.info("No new data to process or upload")
