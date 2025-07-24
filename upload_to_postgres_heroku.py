@@ -48,7 +48,8 @@ class HerokuPostgreSQLUploader:
         create_processed_data_table = """
         CREATE TABLE IF NOT EXISTS processed_data (
             id SERIAL PRIMARY KEY,
-            user_id VARCHAR(255),
+            user_id INTEGER,  -- Changed to INTEGER for sequential IDs
+            original_user_id VARCHAR(255),  -- Store original user_id from JSON
             name VARCHAR(255),
             email VARCHAR(255),
             email_valid BOOLEAN DEFAULT FALSE,

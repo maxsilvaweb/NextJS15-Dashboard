@@ -52,8 +52,14 @@ def clean_numeric(value):
         return None
 
 def process_json_file(file_path):
-    """Process a single JSON file and return cleaned data for all tasks"""
+    """Process a single JSON file and return cleaned data records"""
     try:
+        filename = os.path.basename(file_path)
+        
+        # Extract user number from filename for sequential ID mapping
+        user_num_match = re.search(r'user_(\d+)', filename)
+        sequential_id = int(user_num_match.group(1)) + 1 if user_num_match else None
+        
         with open(file_path, 'r') as f:
             data = json.load(f)
         
