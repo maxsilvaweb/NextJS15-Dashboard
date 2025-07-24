@@ -49,15 +49,29 @@ class HerokuPostgreSQLUploader:
         CREATE TABLE IF NOT EXISTS processed_data (
             id SERIAL PRIMARY KEY,
             user_id VARCHAR(255),
+            name VARCHAR(255),
             email VARCHAR(255),
-            post_url TEXT,
+            email_valid BOOLEAN DEFAULT FALSE,
+            instagram_handle VARCHAR(255),
+            tiktok_handle VARCHAR(255),
+            joined_at TIMESTAMP,
             program_id VARCHAR(255),
+            brand VARCHAR(255),
+            task_id VARCHAR(255),
             platform VARCHAR(100),
-            engagement_score DECIMAL(10,2),
-            sales_amount DECIMAL(10,2),
+            post_url TEXT,
+            url_valid BOOLEAN DEFAULT FALSE,
+            likes INTEGER,
+            comments INTEGER,
+            shares INTEGER,
+            reach INTEGER,
+            total_sales_attributed DECIMAL(10,2),
+            source_file VARCHAR(255),
+            issues_found INTEGER DEFAULT 0,
+            issues_list TEXT,
             processed_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-            UNIQUE(user_id, email, post_url)
+            UNIQUE(user_id, email, post_url, task_id)
         );
         """
         
@@ -78,6 +92,8 @@ class HerokuPostgreSQLUploader:
             "CREATE INDEX IF NOT EXISTS idx_processed_data_user_id ON processed_data(user_id);",
             "CREATE INDEX IF NOT EXISTS idx_processed_data_email ON processed_data(email);",
             "CREATE INDEX IF NOT EXISTS idx_processed_data_platform ON processed_data(platform);",
+            "CREATE INDEX IF NOT EXISTS idx_processed_data_task_id ON processed_data(task_id);",
+            "CREATE INDEX IF NOT EXISTS idx_processed_data_program_id ON processed_data(program_id);",
             "CREATE INDEX IF NOT EXISTS idx_processed_data_created_at ON processed_data(created_at);"
         ]
         
@@ -91,7 +107,7 @@ class HerokuPostgreSQLUploader:
                 
                 conn.commit()
                 logger.info("Tables and indexes created successfully")
-    
+
     def upload_processed_data(self, json_file_path='processed_data.json'):
         """Upload processed data to PostgreSQL"""
         if not os.path.exists(json_file_path):
@@ -109,22 +125,49 @@ class HerokuPostgreSQLUploader:
             # Prepare data for batch insert
             insert_data = []
             for record in data:
+                # Convert issues_list to JSON string for storage
+                issues_list_str = json.dumps(record.get('issues_list', [])) if record.get('issues_list') else None
+                
+                # Parse joined_at if it exists
+                joined_at = None
+                if record.get('joined_at'):
+                    try:
+                        joined_at = datetime.fromisoformat(record['joined_at'].replace('Z', '+00:00'))
+                    except:
+                        joined_at = None
+                
                 insert_data.append((
                     record.get('user_id'),
+                    record.get('name'),
                     record.get('email'),
-                    record.get('post_url'),
+                    record.get('email_valid', False),
+                    record.get('instagram_handle'),
+                    record.get('tiktok_handle'),
+                    joined_at,
                     record.get('program_id'),
+                    record.get('brand'),
+                    record.get('task_id'),
                     record.get('platform'),
-                    record.get('engagement_score'),
-                    record.get('sales_amount'),
+                    record.get('post_url'),
+                    record.get('url_valid', False),
+                    record.get('likes'),
+                    record.get('comments'),
+                    record.get('shares'),
+                    record.get('reach'),
+                    record.get('total_sales_attributed'),
+                    record.get('source_file'),
+                    record.get('issues_found', 0),
+                    issues_list_str,
                     datetime.now()
                 ))
             
             insert_sql = """
                 INSERT INTO processed_data 
-                (user_id, email, post_url, program_id, platform, engagement_score, sales_amount, processed_at)
-                VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
-                ON CONFLICT (user_id, email, post_url) DO NOTHING
+                (user_id, name, email, email_valid, instagram_handle, tiktok_handle, joined_at,
+                 program_id, brand, task_id, platform, post_url, url_valid, likes, comments, 
+                 shares, reach, total_sales_attributed, source_file, issues_found, issues_list, processed_at)
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                ON CONFLICT (user_id, email, post_url, task_id) DO NOTHING
             """
             
             with self.get_connection() as conn:
