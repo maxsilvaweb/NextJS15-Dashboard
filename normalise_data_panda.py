@@ -63,19 +63,13 @@ def process_json_file(file_path):
         with open(file_path, 'r') as f:
             data = json.load(f)
         
-        # Extract filename for logging
-        filename = os.path.basename(file_path)
-        
-        # List to store all records from this file
-        all_records = []
-        
-        # Extract user-level data
+        # Extract user data
         user_id = data.get('user_id')
         name = data.get('name')
-        email = data.get('email', '')
-        instagram_handle = data.get('instagram_handle', '')
-        tiktok_handle = data.get('tiktok_handle', '')
-        joined_at = data.get('joined_at', '')
+        email = data.get('email')
+        instagram_handle = data.get('instagram_handle')
+        tiktok_handle = data.get('tiktok_handle')
+        joined_at = data.get('joined_at')
         
         # Process each advocacy program
         advocacy_programs = data.get('advocacy_programs', [])
@@ -85,9 +79,18 @@ def process_json_file(file_path):
             issues = []
             cleaned_data = {}
             
-            # Handle user_id
+            # Handle user_id - use sequential ID based on filename
+            if sequential_id:
+                cleaned_data['user_id'] = sequential_id
+                cleaned_data['original_user_id'] = user_id
+            else:
+                # Fallback for files without proper naming
+                cleaned_data['user_id'] = abs(hash(filename)) % 1000000
+                cleaned_data['original_user_id'] = user_id
+                issues.append("Generated fallback user_id from filename")
+            
             if user_id is None:
-                issues.append("Missing user_id")
+                issues.append("Missing user_id in JSON")
                 user_num = re.search(r'user_(\d+)', filename)
                 if user_num:
                     cleaned_data['user_id'] = f"generated_{user_num.group(1)}"
@@ -145,9 +148,18 @@ def process_json_file(file_path):
                     issues = []
                     cleaned_data = {}
                     
-                    # Handle user_id
+                    # Handle user_id - use sequential ID based on filename
+                    if sequential_id:
+                        cleaned_data['user_id'] = sequential_id
+                        cleaned_data['original_user_id'] = user_id
+                    else:
+                        # Fallback for files without proper naming
+                        cleaned_data['user_id'] = abs(hash(filename)) % 1000000
+                        cleaned_data['original_user_id'] = user_id
+                        issues.append("Generated fallback user_id from filename")
+                    
                     if user_id is None:
-                        issues.append("Missing user_id")
+                        issues.append("Missing user_id in JSON")
                         user_num = re.search(r'user_(\d+)', filename)
                         if user_num:
                             cleaned_data['user_id'] = f"generated_{user_num.group(1)}"
@@ -200,9 +212,18 @@ def process_json_file(file_path):
                         issues = []
                         cleaned_data = {}
                         
-                        # Handle user_id
+                        # Handle user_id - use sequential ID based on filename
+                        if sequential_id:
+                            cleaned_data['user_id'] = sequential_id
+                            cleaned_data['original_user_id'] = user_id
+                        else:
+                            # Fallback for files without proper naming
+                            cleaned_data['user_id'] = abs(hash(filename)) % 1000000
+                            cleaned_data['original_user_id'] = user_id
+                            issues.append("Generated fallback user_id from filename")
+                        
                         if user_id is None:
-                            issues.append("Missing user_id")
+                            issues.append("Missing user_id in JSON")
                             user_num = re.search(r'user_(\d+)', filename)
                             if user_num:
                                 cleaned_data['user_id'] = f"generated_{user_num.group(1)}"

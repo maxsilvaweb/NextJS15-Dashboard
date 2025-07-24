@@ -48,7 +48,7 @@ class HerokuPostgreSQLUploader:
         create_processed_data_table = """
         CREATE TABLE IF NOT EXISTS processed_data (
             id SERIAL PRIMARY KEY,
-            user_id INTEGER,  -- Changed to INTEGER for sequential IDs
+            user_id INTEGER,  -- Sequential integer based on filename
             original_user_id VARCHAR(255),  -- Store original user_id from JSON
             name VARCHAR(255),
             email VARCHAR(255),
@@ -138,7 +138,8 @@ class HerokuPostgreSQLUploader:
                         joined_at = None
                 
                 insert_data.append((
-                    record.get('user_id'),
+                    record.get('user_id'),  # Now an integer
+                    record.get('original_user_id'),  # Original UUID string
                     record.get('name'),
                     record.get('email'),
                     record.get('email_valid', False),
@@ -164,10 +165,10 @@ class HerokuPostgreSQLUploader:
             
             insert_sql = """
                 INSERT INTO processed_data 
-                (user_id, name, email, email_valid, instagram_handle, tiktok_handle, joined_at,
+                (user_id, original_user_id, name, email, email_valid, instagram_handle, tiktok_handle, joined_at,
                  program_id, brand, task_id, platform, post_url, url_valid, likes, comments, 
                  shares, reach, total_sales_attributed, source_file, issues_found, issues_list, processed_at)
-                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                 ON CONFLICT (user_id, email, post_url, task_id) DO NOTHING
             """
             
