@@ -49,7 +49,6 @@ class HerokuPostgreSQLUploader:
         CREATE TABLE IF NOT EXISTS processed_data (
             id SERIAL PRIMARY KEY,
             user_id INTEGER,  -- Sequential integer based on filename
-            original_user_id VARCHAR(255),  -- Store original user_id from JSON
             name VARCHAR(255),
             email VARCHAR(255),
             email_valid BOOLEAN DEFAULT FALSE,
@@ -123,8 +122,17 @@ class HerokuPostgreSQLUploader:
                 logger.warning("No data to upload")
                 return True
             
-            # Sort data by user_id to ensure proper ordering in database
-            data.sort(key=lambda x: x.get('user_id', float('inf')))
+            # Sort data by user_id, ensuring all values are treated as integers
+            def safe_user_id(record):
+                user_id = record.get('user_id')
+                if isinstance(user_id, int):
+                    return user_id
+                elif isinstance(user_id, str) and user_id.isdigit():
+                    return int(user_id)
+                else:
+                    return float('inf')  # Put non-numeric user_ids at the end
+            
+            data.sort(key=safe_user_id)
             
             # Prepare data for batch insert
             insert_data = []
@@ -141,8 +149,7 @@ class HerokuPostgreSQLUploader:
                         joined_at = None
                 
                 insert_data.append((
-                    record.get('user_id'),  # Now an integer
-                    record.get('original_user_id'),  # Original UUID string
+                    record.get('user_id'),  # Should be an integer
                     record.get('name'),
                     record.get('email'),
                     record.get('email_valid', False),
@@ -168,10 +175,10 @@ class HerokuPostgreSQLUploader:
             
             insert_sql = """
                 INSERT INTO processed_data 
-                (user_id, original_user_id, name, email, email_valid, instagram_handle, tiktok_handle, joined_at,
+                (user_id, name, email, email_valid, instagram_handle, tiktok_handle, joined_at,
                  program_id, brand, task_id, platform, post_url, url_valid, likes, comments, 
                  shares, reach, total_sales_attributed, source_file, issues_found, issues_list, processed_at)
-                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                 ON CONFLICT (user_id, email, post_url, task_id) DO NOTHING
             """
             
