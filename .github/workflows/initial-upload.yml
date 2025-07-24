@@ -1,0 +1,48 @@
+name: Initial Data Upload
+
+on:
+  workflow_dispatch:  # Manual trigger only
+    inputs:
+      confirm:
+        description: 'Type "confirm" to proceed with initial upload'
+        required: true
+        default: ''
+
+jobs:
+  initial-upload:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Validate confirmation
+      if: github.event.inputs.confirm != 'confirm'
+      run: |
+        echo "Error: You must type 'confirm' to proceed with initial upload"
+        exit 1
+        
+    - name: Checkout code
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Run initial upload
+      env:
+        HEROKU_DATABASE_URL: ${{ secrets.HEROKU_DATABASE_URL }}
+        GITHUB_RUN_ID: ${{ github.run_id }}
+        GITHUB_SHA: ${{ github.sha }}
+      run: python initial_upload.py
+      
+    - name: Commit tracking file
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add file_tracking.json processed_data.json data_statistics.json
+        git diff --staged --quiet || git commit -m "Initial data upload completed [skip ci]"
+        git push
