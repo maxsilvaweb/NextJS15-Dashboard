@@ -1,0 +1,26 @@
+{
+  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae25",
+  "name": "Max Silva25",
+  "email": "maxsilvvauk@25wwilwweeewd.com",
+  "instagram_handle": null,
+  "tiktok_handle": "#error_handle",
+  "joined_at": "not-a-date",
+  "advocacy_programs": [
+    {
+      "program_id": "",
+      "brand": 12345,
+      "tasks_completed": [
+        {
+          "task_id": null,
+          "platform": "TikTok",
+          "post_url": "broken_link",
+          "likes": 455,
+          "comments": 0,
+          "shares": 68,
+          "reach": 2220
+        }
+      ],
+      "total_sales_attributed": "no-data"
+    }
+  ]
+}
