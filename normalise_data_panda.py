@@ -52,7 +52,7 @@ def clean_numeric(value):
         return None
 
 def process_json_file(file_path):
-    """Process a single JSON file and return cleaned data"""
+    """Process a single JSON file and return cleaned data for all tasks"""
     try:
         with open(file_path, 'r') as f:
             data = json.load(f)
@@ -60,112 +60,222 @@ def process_json_file(file_path):
         # Extract filename for logging
         filename = os.path.basename(file_path)
         
-        # Track issues for this file
-        issues = []
+        # List to store all records from this file
+        all_records = []
         
-        # Clean and validate fields
-        cleaned_data = {}
-        
-        # Handle user_id
-        if data.get('user_id') is None:
-            issues.append("Missing user_id")
-            # Generate a user_id from the filename
-            user_num = re.search(r'user_(\d+)', filename)
-            if user_num:
-                cleaned_data['user_id'] = f"generated_{user_num.group(1)}"
-            else:
-                cleaned_data['user_id'] = f"generated_{hash(filename)}"
-        else:
-            cleaned_data['user_id'] = data['user_id']
-        
-        # Handle email
+        # Extract user-level data
+        user_id = data.get('user_id')
+        name = data.get('name')
         email = data.get('email', '')
-        if not is_valid_email(email):
-            issues.append("Invalid email")
-            cleaned_data['email'] = None
-            cleaned_data['email_valid'] = False
-        else:
-            cleaned_data['email'] = email
-            cleaned_data['email_valid'] = True
-        
-        # Handle social media handles
-        instagram = data.get('instagram_handle', '')
-        tiktok = data.get('tiktok_handle', '')
-        
-        cleaned_data['instagram_handle'] = instagram if is_valid_handle(instagram) else None
-        cleaned_data['tiktok_handle'] = tiktok if is_valid_handle(tiktok) else None
-        
-        # Standardize handles (remove @ if present)
-        if cleaned_data['instagram_handle'] and cleaned_data['instagram_handle'].startswith('@'):
-            cleaned_data['instagram_handle'] = cleaned_data['instagram_handle'][1:]
-        
-        if cleaned_data['tiktok_handle'] and cleaned_data['tiktok_handle'].startswith('@'):
-            cleaned_data['tiktok_handle'] = cleaned_data['tiktok_handle'][1:]
-        
-        # Handle joined_at date
+        instagram_handle = data.get('instagram_handle', '')
+        tiktok_handle = data.get('tiktok_handle', '')
         joined_at = data.get('joined_at', '')
-        if not is_valid_date(joined_at):
-            issues.append("Invalid date format")
-            cleaned_data['joined_at'] = None
-        else:
-            # Standardize to ISO format
-            date_obj = datetime.fromisoformat(joined_at.replace('Z', '+00:00'))
-            cleaned_data['joined_at'] = date_obj.isoformat()
         
-        # Handle program_id
-        program_id = data.get('program_id', '')
-        if not program_id:
-            issues.append("Empty program_id")
+        # Process each advocacy program
+        advocacy_programs = data.get('advocacy_programs', [])
+        
+        if not advocacy_programs:
+            # If no advocacy programs, create one record with user data only
+            issues = []
+            cleaned_data = {}
+            
+            # Handle user_id
+            if user_id is None:
+                issues.append("Missing user_id")
+                user_num = re.search(r'user_(\d+)', filename)
+                if user_num:
+                    cleaned_data['user_id'] = f"generated_{user_num.group(1)}"
+                else:
+                    cleaned_data['user_id'] = f"generated_{hash(filename)}"
+            else:
+                cleaned_data['user_id'] = user_id
+            
+            # Add user data
+            cleaned_data['name'] = name
+            cleaned_data['email'] = email if is_valid_email(email) else None
+            cleaned_data['email_valid'] = is_valid_email(email)
+            cleaned_data['instagram_handle'] = instagram_handle.lstrip('@') if is_valid_handle(instagram_handle) else None
+            cleaned_data['tiktok_handle'] = tiktok_handle.lstrip('@') if is_valid_handle(tiktok_handle) else None
+            
+            # Handle joined_at date
+            if is_valid_date(joined_at):
+                date_obj = datetime.fromisoformat(joined_at.replace('Z', '+00:00'))
+                cleaned_data['joined_at'] = date_obj.isoformat()
+            else:
+                cleaned_data['joined_at'] = None
+                if joined_at:
+                    issues.append("Invalid date format")
+            
+            # Set empty program/task data
             cleaned_data['program_id'] = None
-        else:
-            cleaned_data['program_id'] = program_id
-        
-        # Handle platform (fix type issues)
-        platform = data.get('platform')
-        if isinstance(platform, int):
-            issues.append("Platform is numeric instead of string")
-            # Convert numeric platform to string
-            cleaned_data['platform'] = str(platform)
-        else:
-            cleaned_data['platform'] = platform
-        
-        # Handle post_url
-        post_url = data.get('post_url', '')
-        if not is_valid_url(post_url):
-            issues.append("Invalid post URL")
+            cleaned_data['brand'] = None
+            cleaned_data['task_id'] = None
+            cleaned_data['platform'] = None
             cleaned_data['post_url'] = None
             cleaned_data['url_valid'] = False
-        else:
-            cleaned_data['post_url'] = post_url
-            cleaned_data['url_valid'] = True
-        
-        # Handle numeric fields
-        for field in ['likes', 'comments', 'shares', 'reach']:
-            cleaned_data[field] = clean_numeric(data.get(field))
-            if cleaned_data[field] is None and data.get(field) is not None:
-                issues.append(f"Invalid {field} value: {data.get(field)}")
-        
-        # Handle total_sales_attributed
-        sales = data.get('total_sales_attributed')
-        if sales == "no-data" or sales is None:
-            issues.append("Missing sales data")
+            cleaned_data['likes'] = None
+            cleaned_data['comments'] = None
+            cleaned_data['shares'] = None
+            cleaned_data['reach'] = None
             cleaned_data['total_sales_attributed'] = None
+            
+            # Add metadata
+            cleaned_data['source_file'] = filename
+            cleaned_data['issues_found'] = len(issues)
+            cleaned_data['issues_list'] = issues
+            
+            all_records.append(cleaned_data)
+        
         else:
-            cleaned_data['total_sales_attributed'] = clean_numeric(sales)
+            # Process each advocacy program
+            for program in advocacy_programs:
+                program_id = program.get('program_id')
+                brand = program.get('brand')
+                total_sales_attributed = program.get('total_sales_attributed')
+                tasks_completed = program.get('tasks_completed', [])
+                
+                if not tasks_completed:
+                    # If no tasks, create one record with program data but no task data
+                    issues = []
+                    cleaned_data = {}
+                    
+                    # Handle user_id
+                    if user_id is None:
+                        issues.append("Missing user_id")
+                        user_num = re.search(r'user_(\d+)', filename)
+                        if user_num:
+                            cleaned_data['user_id'] = f"generated_{user_num.group(1)}"
+                        else:
+                            cleaned_data['user_id'] = f"generated_{hash(filename)}"
+                    else:
+                        cleaned_data['user_id'] = user_id
+                    
+                    # Add user data
+                    cleaned_data['name'] = name
+                    cleaned_data['email'] = email if is_valid_email(email) else None
+                    cleaned_data['email_valid'] = is_valid_email(email)
+                    cleaned_data['instagram_handle'] = instagram_handle.lstrip('@') if is_valid_handle(instagram_handle) else None
+                    cleaned_data['tiktok_handle'] = tiktok_handle.lstrip('@') if is_valid_handle(tiktok_handle) else None
+                    
+                    # Handle joined_at date
+                    if is_valid_date(joined_at):
+                        date_obj = datetime.fromisoformat(joined_at.replace('Z', '+00:00'))
+                        cleaned_data['joined_at'] = date_obj.isoformat()
+                    else:
+                        cleaned_data['joined_at'] = None
+                        if joined_at:
+                            issues.append("Invalid date format")
+                    
+                    # Add program data
+                    cleaned_data['program_id'] = program_id
+                    cleaned_data['brand'] = brand
+                    cleaned_data['total_sales_attributed'] = clean_numeric(total_sales_attributed)
+                    
+                    # Set empty task data
+                    cleaned_data['task_id'] = None
+                    cleaned_data['platform'] = None
+                    cleaned_data['post_url'] = None
+                    cleaned_data['url_valid'] = False
+                    cleaned_data['likes'] = None
+                    cleaned_data['comments'] = None
+                    cleaned_data['shares'] = None
+                    cleaned_data['reach'] = None
+                    
+                    # Add metadata
+                    cleaned_data['source_file'] = filename
+                    cleaned_data['issues_found'] = len(issues)
+                    cleaned_data['issues_list'] = issues
+                    
+                    all_records.append(cleaned_data)
+                
+                else:
+                    # Process each task in the program
+                    for task in tasks_completed:
+                        issues = []
+                        cleaned_data = {}
+                        
+                        # Handle user_id
+                        if user_id is None:
+                            issues.append("Missing user_id")
+                            user_num = re.search(r'user_(\d+)', filename)
+                            if user_num:
+                                cleaned_data['user_id'] = f"generated_{user_num.group(1)}"
+                            else:
+                                cleaned_data['user_id'] = f"generated_{hash(filename)}"
+                        else:
+                            cleaned_data['user_id'] = user_id
+                        
+                        # Add user data
+                        cleaned_data['name'] = name
+                        cleaned_data['email'] = email if is_valid_email(email) else None
+                        cleaned_data['email_valid'] = is_valid_email(email)
+                        cleaned_data['instagram_handle'] = instagram_handle.lstrip('@') if is_valid_handle(instagram_handle) else None
+                        cleaned_data['tiktok_handle'] = tiktok_handle.lstrip('@') if is_valid_handle(tiktok_handle) else None
+                        
+                        # Handle joined_at date
+                        if is_valid_date(joined_at):
+                            date_obj = datetime.fromisoformat(joined_at.replace('Z', '+00:00'))
+                            cleaned_data['joined_at'] = date_obj.isoformat()
+                        else:
+                            cleaned_data['joined_at'] = None
+                            if joined_at:
+                                issues.append("Invalid date format")
+                        
+                        # Add program data
+                        cleaned_data['program_id'] = program_id
+                        cleaned_data['brand'] = brand
+                        cleaned_data['total_sales_attributed'] = clean_numeric(total_sales_attributed)
+                        
+                        # Add task data
+                        cleaned_data['task_id'] = task.get('task_id')
+                        
+                        # Handle platform
+                        platform = task.get('platform')
+                        if isinstance(platform, int):
+                            issues.append("Platform is numeric instead of string")
+                            cleaned_data['platform'] = str(platform)
+                        else:
+                            cleaned_data['platform'] = platform
+                        
+                        # Handle post_url
+                        post_url = task.get('post_url', '')
+                        if not is_valid_url(post_url):
+                            if post_url:
+                                issues.append("Invalid post URL")
+                            cleaned_data['post_url'] = None
+                            cleaned_data['url_valid'] = False
+                        else:
+                            cleaned_data['post_url'] = post_url
+                            cleaned_data['url_valid'] = True
+                        
+                        # Handle engagement metrics
+                        for field in ['likes', 'comments', 'shares', 'reach']:
+                            value = task.get(field)
+                            cleaned_value = clean_numeric(value)
+                            cleaned_data[field] = cleaned_value
+                            if cleaned_value is None and value is not None:
+                                issues.append(f"Invalid {field} value: {value}")
+                        
+                        # Add metadata
+                        cleaned_data['source_file'] = filename
+                        cleaned_data['issues_found'] = len(issues)
+                        cleaned_data['issues_list'] = issues
+                        
+                        all_records.append(cleaned_data)
         
-        # Add metadata
-        cleaned_data['source_file'] = filename
-        cleaned_data['issues_found'] = len(issues)
-        cleaned_data['issues_list'] = issues
+        # Log issues if any
+        total_issues = sum(record['issues_found'] for record in all_records)
+        if total_issues > 0:
+            all_issues = []
+            for record in all_records:
+                all_issues.extend(record['issues_list'])
+            logging.warning(f"Issues in {filename}: {', '.join(set(all_issues))}")
         
-        if issues:
-            logging.warning(f"Issues in {filename}: {', '.join(issues)}")
-        
-        return cleaned_data
+        return all_records
     
     except Exception as e:
         logging.error(f"Error processing {file_path}: {str(e)}")
-        return None
+        return []
 
 def process_all_files(directory):
     """Process all JSON files in the directory"""
@@ -189,7 +299,7 @@ def process_all_files(directory):
         
         result = process_json_file(file_path)
         if result:
-            all_data.append(result)
+            all_data.extend(result)  # Extend instead of append since we return a list
         else:
             error_count += 1
     
