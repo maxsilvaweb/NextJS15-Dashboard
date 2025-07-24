@@ -25,6 +25,13 @@ jobs:
         run: |
           pip install pandas psycopg2-binary python-dotenv
 
+      - name: Debug environment variables
+        env:
+          HEROKU_DATABASE_URL: ${{ secrets.HEROKU_DATABASE_URL }}
+        run: |
+          echo "HEROKU_DATABASE_URL is set: $(if [ -n "$HEROKU_DATABASE_URL" ]; then echo 'YES'; else echo 'NO'; fi)"
+          echo "Length: ${#HEROKU_DATABASE_URL}"
+
       - name: Check for new files
         id: check_files
         run: |
