@@ -53,6 +53,8 @@ def clean_numeric(value):
 
 def process_json_file(file_path):
     """Process a single JSON file and return cleaned data records"""
+    all_records = []  # Initialize the list
+    
     try:
         # Extract sequential ID from filename (user_0.json -> 1, user_1.json -> 2, etc.)
         filename = os.path.basename(file_path)
@@ -78,16 +80,15 @@ def process_json_file(file_path):
             issues = []
             cleaned_data = {}
             
-            # Handle user_id consistently - always use sequential ID for database
-            if sequential_id:
+            # Handle user_id: prioritize original, fall back to sequential ID when null
+            if user_id is not None:
+                cleaned_data['user_id'] = user_id
+            elif sequential_id:
                 cleaned_data['user_id'] = sequential_id
             else:
                 # Fallback for files without proper naming
                 cleaned_data['user_id'] = abs(hash(filename)) % 1000000
                 issues.append("Generated fallback user_id from filename")
-            
-            # Store original user_id separately
-            cleaned_data['original_user_id'] = user_id
             
             if user_id is None:
                 issues.append("Missing user_id in JSON")
@@ -141,16 +142,15 @@ def process_json_file(file_path):
                     issues = []
                     cleaned_data = {}
                     
-                    # Handle user_id consistently - always use sequential ID for database
-                    if sequential_id:
+                    # Handle user_id: prioritize original, fall back to sequential ID when null
+                    if user_id is not None:
+                        cleaned_data['user_id'] = user_id
+                    elif sequential_id:
                         cleaned_data['user_id'] = sequential_id
                     else:
                         # Fallback for files without proper naming
                         cleaned_data['user_id'] = abs(hash(filename)) % 1000000
                         issues.append("Generated fallback user_id from filename")
-                    
-                    # Store original user_id separately
-                    cleaned_data['original_user_id'] = user_id
                     
                     if user_id is None:
                         issues.append("Missing user_id in JSON")
@@ -199,16 +199,15 @@ def process_json_file(file_path):
                         issues = []
                         cleaned_data = {}
                         
-                        # Handle user_id consistently - always use sequential ID for database
-                        if sequential_id:
+                        # Handle user_id: prioritize original, fall back to sequential ID when null
+                        if user_id is not None:
+                            cleaned_data['user_id'] = user_id
+                        elif sequential_id:
                             cleaned_data['user_id'] = sequential_id
                         else:
                             # Fallback for files without proper naming
                             cleaned_data['user_id'] = abs(hash(filename)) % 1000000
                             issues.append("Generated fallback user_id from filename")
-                        
-                        # Store original user_id separately
-                        cleaned_data['original_user_id'] = user_id
                         
                         if user_id is None:
                             issues.append("Missing user_id in JSON")
