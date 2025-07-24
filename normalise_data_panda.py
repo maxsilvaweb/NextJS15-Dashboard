@@ -282,27 +282,42 @@ def process_all_files(directory):
     file_count = 0
     error_count = 0
     
-    # Get all JSON files
-    json_files = [f for f in os.listdir(directory) if f.endswith('.json')]
+    # Get all JSON files using glob for better file discovery
+    import glob
+    json_pattern = os.path.join(directory, "user_*.json")
+    json_files = glob.glob(json_pattern)
+    
+    # Sort files numerically by extracting the number from filename
+    def extract_number(filename):
+        match = re.search(r'user_(\d+)\.json', os.path.basename(filename))
+        return int(match.group(1)) if match else 0
+    
+    json_files.sort(key=extract_number)
     total_files = len(json_files)
     
     logging.info(f"Starting to process {total_files} JSON files")
     
-    for filename in json_files:
-        file_path = os.path.join(directory, filename)
+    for file_path in json_files:
+        filename = os.path.basename(file_path)
         file_count += 1
         
         # Log progress every 100 files
         if file_count % 100 == 0:
             logging.info(f"Processed {file_count}/{total_files} files")
         
-        result = process_json_file(file_path)
-        if result:
-            all_data.extend(result)  # Extend instead of append since we return a list
-        else:
+        try:
+            result = process_json_file(file_path)
+            if result:
+                all_data.extend(result)
+            else:
+                error_count += 1
+                logging.error(f"No data returned from {filename}")
+        except Exception as e:
             error_count += 1
+            logging.error(f"Error processing {filename}: {e}")
     
     logging.info(f"Completed processing. Processed {file_count} files with {error_count} errors")
+    logging.info(f"Total records generated: {len(all_data)}")
     return all_data
 
 def analyze_data(data):
