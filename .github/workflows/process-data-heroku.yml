@@ -1,0 +1,51 @@
+name: Process Data and Upload to Heroku PostgreSQL
+
+on:
+  push:
+    paths:
+      - 'mixed/**'
+  workflow_dispatch:
+
+jobs:
+  process-and-upload:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        pip install pandas psycopg2-binary python-dotenv
+    
+    - name: Check for new files
+      id: check_files
+      run: |
+        if git diff --name-only HEAD~1 HEAD | grep -q "^mixed/"; then
+          echo "new_files=true" >> $GITHUB_OUTPUT
+          echo "New JSON files detected in mixed/ directory"
+        else
+          echo "new_files=false" >> $GITHUB_OUTPUT
+          echo "No new files in mixed/ directory"
+        fi
+    
+    - name: Process data
+      if: steps.check_files.outputs.new_files == 'true'
+      run: |
+        python engineer_data_panda.py
+        echo "Data processing completed"
+    
+    - name: Upload to Heroku PostgreSQL
+      if: steps.check_files.outputs.new_files == 'true'
+      env:
+        DATABASE_URL: ${{ secrets.HEROKU_DATABASE_URL }}
+      run: |
+        python upload_to_postgres_heroku.py
+        echo "Data uploaded to Heroku PostgreSQL"
