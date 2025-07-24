@@ -1,0 +1,40 @@
+name: Process User Data
+
+on:
+  push:
+    paths:
+      - 'mixed/**'
+  workflow_dispatch:
+
+jobs:
+  process-incremental:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Run incremental processing
+      env:
+        HEROKU_DATABASE_URL: ${{ secrets.HEROKU_DATABASE_URL }}
+        GITHUB_RUN_ID: ${{ github.run_id }}
+        GITHUB_SHA: ${{ github.sha }}
+      run: python incremental_upload.py
+      
+    - name: Commit tracking file updates
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add file_tracking.json
+        git diff --staged --quiet || git commit -m "Update file tracking data [skip ci]"
+        git push
