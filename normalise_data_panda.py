@@ -114,8 +114,13 @@ def process_json_file(file_path):
         cleaned_data['name'] = name
         cleaned_data['email'] = email
         cleaned_data['email_valid'] = is_valid_email(email)
+        # Replace these lines (appears in 3 places):
         cleaned_data['instagram_handle'] = instagram_handle.lstrip('@') if is_valid_handle(instagram_handle) else None
         cleaned_data['tiktok_handle'] = tiktok_handle.lstrip('@') if is_valid_handle(tiktok_handle) else None
+        
+        # With these safer versions:
+        cleaned_data['instagram_handle'] = instagram_handle.lstrip('@') if instagram_handle and is_valid_handle(instagram_handle) else None
+        cleaned_data['tiktok_handle'] = tiktok_handle.lstrip('@') if tiktok_handle and is_valid_handle(tiktok_handle) else None
         
         # Handle joined_at date
         if is_valid_date(joined_at):
@@ -164,8 +169,13 @@ def process_json_file(file_path):
                 cleaned_data['name'] = name
                 cleaned_data['email'] = email
                 cleaned_data['email_valid'] = is_valid_email(email)
+                # Replace these lines (appears in 3 places):
                 cleaned_data['instagram_handle'] = instagram_handle.lstrip('@') if is_valid_handle(instagram_handle) else None
                 cleaned_data['tiktok_handle'] = tiktok_handle.lstrip('@') if is_valid_handle(tiktok_handle) else None
+                
+                # With these safer versions:
+                cleaned_data['instagram_handle'] = instagram_handle.lstrip('@') if instagram_handle and is_valid_handle(instagram_handle) else None
+                cleaned_data['tiktok_handle'] = tiktok_handle.lstrip('@') if tiktok_handle and is_valid_handle(tiktok_handle) else None
                 
                 # Handle joined_at date
                 if is_valid_date(joined_at):
@@ -209,8 +219,13 @@ def process_json_file(file_path):
                     cleaned_data['name'] = name
                     cleaned_data['email'] = email
                     cleaned_data['email_valid'] = is_valid_email(email)
+                    # Replace these lines (appears in 3 places):
                     cleaned_data['instagram_handle'] = instagram_handle.lstrip('@') if is_valid_handle(instagram_handle) else None
                     cleaned_data['tiktok_handle'] = tiktok_handle.lstrip('@') if is_valid_handle(tiktok_handle) else None
+                    
+                    # With these safer versions:
+                    cleaned_data['instagram_handle'] = instagram_handle.lstrip('@') if instagram_handle and is_valid_handle(instagram_handle) else None
+                    cleaned_data['tiktok_handle'] = tiktok_handle.lstrip('@') if tiktok_handle and is_valid_handle(tiktok_handle) else None
                     
                     # Handle joined_at date
                     if is_valid_date(joined_at):
