@@ -17,10 +17,10 @@ logger = logging.getLogger(__name__)
 class HerokuPostgreSQLUploader:
     def __init__(self):
         
-        # To:
-        database_url = os.getenv('HEROKU_DATABASE_URL')
+        # Try both environment variable names for flexibility
+        database_url = os.getenv('HEROKU_DATABASE_URL') or os.getenv('DATABASE_URL')
         if not database_url:
-            raise ValueError("HEROKU_DATABASE_URL environment variable is required")
+            raise ValueError("HEROKU_DATABASE_URL or DATABASE_URL environment variable is required")
         
         # Parse the DATABASE_URL
         url = urlparse(database_url)
