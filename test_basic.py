@@ -9,7 +9,7 @@ import json
 
 def test_python_files_syntax():
     """Test that all Python files have valid syntax"""
-    python_files = ['engineer_data_panda.py', 'upload_to_postgres_heroku.py', 'upload_to_postgres.py']
+    python_files = ['normalise_data_panda.py', 'upload_to_postgres_heroku.py']
     
     for file in python_files:
         if os.path.exists(file):
