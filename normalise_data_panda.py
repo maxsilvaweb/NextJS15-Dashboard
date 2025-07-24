@@ -384,86 +384,120 @@ def analyze_data(data):
     
     return summary
 
+def get_last_processed_count():
+    """Get the last processed file count from tracking file"""
+    count_file = os.path.join(os.path.dirname(__file__), "last_processed_count.txt")
+    try:
+        with open(count_file, 'r') as f:
+            return int(f.read().strip())
+    except (FileNotFoundError, ValueError):
+        return 0
+
+def update_processed_count(count):
+    """Update the last processed file count"""
+    count_file = os.path.join(os.path.dirname(__file__), "last_processed_count.txt")
+    with open(count_file, 'w') as f:
+        f.write(str(count))
+
+def process_incremental_files(directory):
+    """Process only new files since last run"""
+    all_data = []
+    error_count = 0
+    
+    # Get last processed count
+    last_processed = get_last_processed_count()
+    
+    # Get all JSON files using glob for better file discovery
+    import glob
+    json_pattern = os.path.join(directory, "user_*.json")
+    json_files = glob.glob(json_pattern)
+    
+    # Sort files numerically by extracting the number from filename
+    def extract_number(filename):
+        match = re.search(r'user_(\d+)\.json', os.path.basename(filename))
+        return int(match.group(1)) if match else 0
+    
+    json_files.sort(key=extract_number)
+    total_files = len(json_files)
+    
+    # Only process files beyond the last processed count
+    new_files = json_files[last_processed:]
+    
+    if not new_files:
+        logging.info(f"No new files to process. Last processed: {last_processed}/{total_files}")
+        return []
+    
+    logging.info(f"Processing {len(new_files)} new files (from {last_processed + 1} to {total_files})")
+    
+    file_count = last_processed
+    for file_path in new_files:
+        filename = os.path.basename(file_path)
+        file_count += 1
+        
+        # Log progress every 100 files
+        if file_count % 100 == 0:
+            logging.info(f"Processed {file_count}/{total_files} files")
+        
+        try:
+            result = process_json_file(file_path)
+            if result:
+                all_data.extend(result)
+            else:
+                error_count += 1
+                logging.error(f"No data returned from {filename}")
+        except Exception as e:
+            error_count += 1
+            logging.error(f"Error processing {filename}: {e}")
+    
+    # Update the processed count
+    update_processed_count(total_files)
+    
+    logging.info(f"Completed incremental processing. Processed {len(new_files)} new files with {error_count} errors")
+    logging.info(f"Total new records generated: {len(all_data)}")
+    return all_data
+
 def main():
     # Directory containing JSON files - use relative path
     json_dir = os.path.join(os.path.dirname(__file__), "mixed")
     
-    # Process all files
-    logging.info("Starting data processing")
-    processed_data = process_all_files(json_dir)
+    # Process only new files
+    logging.info("Starting incremental data processing")
+    new_data = process_incremental_files(json_dir)
+    
+    if not new_data:
+        logging.info("No new data to process or upload")
+        return
     
     # Save processed data to JSON (preserving lists) - also make relative
     output_json = os.path.join(os.path.dirname(__file__), "processed_data.json")
-    with open(output_json, 'w') as f:
-        json.dump(processed_data, f, indent=2)
-    logging.info(f"Saved processed data to {output_json}")
     
-    # Analyze and save statistics - also make relative
-    stats = analyze_data(processed_data)
+    # Load existing data if it exists
+    existing_data = []
+    if os.path.exists(output_json):
+        try:
+            with open(output_json, 'r') as f:
+                existing_data = json.load(f)
+        except (json.JSONDecodeError, FileNotFoundError):
+            existing_data = []
+    
+    # Append new data to existing data
+    all_data = existing_data + new_data
+    
+    with open(output_json, 'w') as f:
+        json.dump(all_data, f, indent=2)
+    logging.info(f"Saved {len(new_data)} new records to {output_json} (total: {len(all_data)})")
+    
+    # Analyze and save statistics for all data
+    stats = analyze_data(all_data)
     stats_file = os.path.join(os.path.dirname(__file__), "data_statistics.json")
     with open(stats_file, 'w') as f:
         json.dump(stats, f, indent=2)
-    logging.info(f"Saved data statistics to {stats_file}")
+    logging.info(f"Updated statistics in {stats_file}")
     
-    # Print comprehensive summary to match vanilla version
-    print("\n" + "="*50)
-    print("DATA PROCESSING SUMMARY")
-    print("="*50)
-    print(f"Total records processed: {stats['total_records']}")
-    
-    print(f"\nData Quality Metrics:")
-    print(f"  Valid emails: {int(stats['total_records'] * stats['valid_emails_percentage'] / 100)} ({stats['valid_emails_percentage']:.1f}%)")
-    print(f"  Valid URLs: {int(stats['total_records'] * stats['valid_urls_percentage'] / 100)} ({stats['valid_urls_percentage']:.1f}%)")
-    print(f"  Missing user IDs: {int(stats['total_records'] * stats['missing_user_ids_percentage'] / 100)} ({stats['missing_user_ids_percentage']:.1f}%)")
-    
-    print(f"\nPlatform Distribution:")
-    for platform, count in stats['platform_distribution'].items():
-        percentage = (count / stats['total_records']) * 100 if stats['total_records'] > 0 else 0
-        print(f"  {platform}: {count} ({percentage:.1f}%)")
-    
-    print(f"\nCommon Issues Found:")
-    for issue, count in list(stats['common_issues'].items())[:10]:  # Show top 10 issues
-        percentage = (count / stats['total_records']) * 100 if stats['total_records'] > 0 else 0
-        print(f"  {issue}: {count} ({percentage:.1f}%)")
-    
-    print(f"\nEngagement Statistics:")
-    if stats['engagement_stats']['likes']['mean'] is not None:
-        print(f"  Average likes per post: {stats['engagement_stats']['likes']['mean']:.1f}")
-        print(f"  Median likes per post: {stats['engagement_stats']['likes']['median']:.1f}")
-    print(f"  Records with missing likes: {stats['engagement_stats']['likes']['null_count']}")
-    
-    if stats['engagement_stats']['comments']['mean'] is not None:
-        print(f"  Average comments per post: {stats['engagement_stats']['comments']['mean']:.1f}")
-        print(f"  Median comments per post: {stats['engagement_stats']['comments']['median']:.1f}")
-    print(f"  Records with missing comments: {stats['engagement_stats']['comments']['null_count']}")
-    
-    if stats['engagement_stats']['shares']['mean'] is not None:
-        print(f"  Average shares per post: {stats['engagement_stats']['shares']['mean']:.1f}")
-        print(f"  Median shares per post: {stats['engagement_stats']['shares']['median']:.1f}")
-    print(f"  Records with missing shares: {stats['engagement_stats']['shares']['null_count']}")
-    
-    if stats['engagement_stats']['reach']['mean'] is not None:
-        print(f"  Average reach per post: {stats['engagement_stats']['reach']['mean']:.1f}")
-        print(f"  Median reach per post: {stats['engagement_stats']['reach']['median']:.1f}")
-    print(f"  Records with missing reach: {stats['engagement_stats']['reach']['null_count']}")
-    
-    print(f"\nSales Statistics:")
-    if stats['sales_stats']['mean'] is not None:
-        print(f"  Average sales per record: ${stats['sales_stats']['mean']:.2f}")
-        print(f"  Median sales per record: ${stats['sales_stats']['median']:.2f}")
-    print(f"  Records with missing sales data: {stats['sales_stats']['null_count']}")
-    records_with_sales = stats['total_records'] - stats['sales_stats']['null_count']
-    if stats['total_records'] > 0:
-        sales_conversion_rate = (records_with_sales / stats['total_records']) * 100
-        print(f"  Records with sales data: {records_with_sales} ({sales_conversion_rate:.1f}%)")
-    
-    print(f"\nOutput Files:")
-    print(f"  Processed data: {output_json}")
-    print(f"  Statistics: {stats_file}")
-    
-    print("\n" + "="*50)
-    print("Processing completed successfully!")
-    print("="*50)
+    # Print summary
+    print(f"\nProcessed {len(new_data)} new files")
+    print(f"Total records in database: {len(all_data)}")
+    print(f"New records added: {len(new_data)}")
 
 if __name__ == "__main__":
     main()
