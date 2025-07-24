@@ -51,6 +51,37 @@ def clean_numeric(value):
     except (ValueError, TypeError):
         return None
 
+def get_database_row_count():
+    """Check the current row count in the database"""
+    try:
+        from upload_to_postgres_heroku import HerokuPostgreSQLUploader
+        uploader = HerokuPostgreSQLUploader()
+        with uploader.get_connection() as conn:
+            with conn.cursor() as cursor:
+                cursor.execute("SELECT COUNT(*) FROM processed_data")
+                count = cursor.fetchone()[0]
+                return count
+    except Exception as e:
+        logging.error(f"Error checking database row count: {e}")
+        return 0
+
+def get_highest_numbered_file(directory):
+    """Get the highest numbered user file in the directory"""
+    import glob
+    json_pattern = os.path.join(directory, "user_*.json")
+    json_files = glob.glob(json_pattern)
+    
+    if not json_files:
+        return None
+    
+    # Extract numbers and find the highest
+    def extract_number(filename):
+        match = re.search(r'user_(\d+)\.json', os.path.basename(filename))
+        return int(match.group(1)) if match else -1
+    
+    highest_file = max(json_files, key=extract_number)
+    return highest_file
+
 def process_json_file(file_path):
     """Process a single JSON file and return cleaned data records"""
     filename = os.path.basename(file_path)
@@ -384,120 +415,53 @@ def analyze_data(data):
     
     return summary
 
-def get_last_processed_count():
-    """Get the last processed file count from tracking file"""
-    count_file = os.path.join(os.path.dirname(__file__), "last_processed_count.txt")
-    try:
-        with open(count_file, 'r') as f:
-            return int(f.read().strip())
-    except (FileNotFoundError, ValueError):
-        return 0
-
-def update_processed_count(count):
-    """Update the last processed file count"""
-    count_file = os.path.join(os.path.dirname(__file__), "last_processed_count.txt")
-    with open(count_file, 'w') as f:
-        f.write(str(count))
-
-def process_all_files(directory):
-    """Process only new files since last run"""
-    all_data = []
-    error_count = 0
-    
-    # Get last processed count
-    last_processed = get_last_processed_count()
-    
-    # Get all JSON files using glob for better file discovery
-    import glob
-    json_pattern = os.path.join(directory, "user_*.json")
-    json_files = glob.glob(json_pattern)
-    
-    # Sort files numerically by extracting the number from filename
-    def extract_number(filename):
-        match = re.search(r'user_(\d+)\.json', os.path.basename(filename))
-        return int(match.group(1)) if match else 0
-    
-    json_files.sort(key=extract_number)
-    total_files = len(json_files)
-    
-    # Only process files beyond the last processed count
-    new_files = json_files[last_processed:]
-    
-    if not new_files:
-        logging.info(f"No new files to process. Last processed: {last_processed}/{total_files}")
-        return []
-    
-    logging.info(f"Processing {len(new_files)} new files (from {last_processed + 1} to {total_files})")
-    
-    file_count = last_processed
-    for file_path in new_files:
-        filename = os.path.basename(file_path)
-        file_count += 1
-        
-        # Log progress every 100 files
-        if file_count % 100 == 0:
-            logging.info(f"Processed {file_count}/{total_files} files")
-        
-        try:
-            result = process_json_file(file_path)
-            if result:
-                all_data.extend(result)
-            else:
-                error_count += 1
-                logging.error(f"No data returned from {filename}")
-        except Exception as e:
-            error_count += 1
-            logging.error(f"Error processing {filename}: {e}")
-    
-    # Update the processed count
-    update_processed_count(total_files)
-    
-    logging.info(f"Completed incremental processing. Processed {len(new_files)} new files with {error_count} errors")
-    logging.info(f"Total new records generated: {len(all_data)}")
-    return all_data
-
 def main():
     # Directory containing JSON files - use relative path
     json_dir = os.path.join(os.path.dirname(__file__), "mixed")
     
-    # Process only new files
-    logging.info("Starting incremental data processing")
-    new_data = process_all_files(json_dir)
+    # Check database row count to determine processing strategy
+    row_count = get_database_row_count()
+    logging.info(f"Current database row count: {row_count}")
     
-    if not new_data:
-        logging.info("No new data to process or upload")
+    if row_count == 0:
+        # Database is empty, process all files
+        logging.info("Database is empty, processing all files")
+        data = process_all_files(json_dir)
+    else:
+        # Database has data, only process the highest numbered file
+        logging.info("Database has data, processing only the highest numbered file")
+        highest_file = get_highest_numbered_file(json_dir)
+        if highest_file:
+            logging.info(f"Processing highest numbered file: {os.path.basename(highest_file)}")
+            data = process_json_file(highest_file)
+        else:
+            logging.info("No files found to process")
+            data = []
+    
+    if not data:
+        logging.info("No data to process or upload")
         return
     
     # Save processed data to JSON (preserving lists) - also make relative
     output_json = os.path.join(os.path.dirname(__file__), "processed_data.json")
-    
-    # Load existing data if it exists
-    existing_data = []
-    if os.path.exists(output_json):
-        try:
-            with open(output_json, 'r') as f:
-                existing_data = json.load(f)
-        except (json.JSONDecodeError, FileNotFoundError):
-            existing_data = []
-    
-    # Append new data to existing data
-    all_data = existing_data + new_data
-    
     with open(output_json, 'w') as f:
-        json.dump(all_data, f, indent=2)
-    logging.info(f"Saved {len(new_data)} new records to {output_json} (total: {len(all_data)})")
+        json.dump(data, f, indent=2)
+    logging.info(f"Saved {len(data)} records to {output_json}")
     
-    # Analyze and save statistics for all data
-    stats = analyze_data(all_data)
+    # Analyze and save statistics
+    stats = analyze_data(data)
     stats_file = os.path.join(os.path.dirname(__file__), "data_statistics.json")
     with open(stats_file, 'w') as f:
         json.dump(stats, f, indent=2)
-    logging.info(f"Updated statistics in {stats_file}")
+    logging.info(f"Saved statistics to {stats_file}")
     
     # Print summary
-    print(f"\nProcessed {len(new_data)} new files")
-    print(f"Total records in database: {len(all_data)}")
-    print(f"New records added: {len(new_data)}")
+    print(f"\nProcessed {len(data)} records")
+    print(f"Database row count was: {row_count}")
+    if row_count == 0:
+        print("Processed all files (database was empty)")
+    else:
+        print("Processed only the highest numbered file (database had existing data)")
 
 if __name__ == "__main__":
     main()
