@@ -123,6 +123,9 @@ class HerokuPostgreSQLUploader:
                 logger.warning("No data to upload")
                 return True
             
+            # Sort data by user_id to ensure proper ordering in database
+            data.sort(key=lambda x: x.get('user_id', float('inf')))
+            
             # Prepare data for batch insert
             insert_data = []
             for record in data:
