@@ -307,11 +307,38 @@ def process_json_file(file_path):
     
     return all_records
 
+def get_last_processed_file_number():
+    """Get the last processed file number from a tracking file"""
+    tracking_file = os.path.join(os.path.dirname(__file__), "last_processed_file.txt")
+    try:
+        if os.path.exists(tracking_file):
+            with open(tracking_file, 'r') as f:
+                return int(f.read().strip())
+        return -1  # No files processed yet
+    except Exception as e:
+        logging.error(f"Error reading last processed file: {e}")
+        return -1
+
+def update_last_processed_file_number(file_number):
+    """Update the last processed file number in tracking file"""
+    tracking_file = os.path.join(os.path.dirname(__file__), "last_processed_file.txt")
+    try:
+        with open(tracking_file, 'w') as f:
+            f.write(str(file_number))
+        logging.info(f"Updated last processed file number to: {file_number}")
+    except Exception as e:
+        logging.error(f"Error updating last processed file: {e}")
+
 def process_all_files(directory):
     """Process all JSON files in the directory"""
     all_data = []
     file_count = 0
     error_count = 0
+    last_processed_number = -1
+    
+    # Get the last processed file number
+    start_from = get_last_processed_file_number()
+    logging.info(f"Starting from file number: {start_from + 1}")
     
     # Get all JSON files using glob for better file discovery
     import glob
@@ -324,12 +351,20 @@ def process_all_files(directory):
         return int(match.group(1)) if match else 0
     
     json_files.sort(key=extract_number)
-    total_files = len(json_files)
     
-    logging.info(f"Starting to process {total_files} JSON files")
+    # Filter to only process files after the last processed one
+    files_to_process = [f for f in json_files if extract_number(f) > start_from]
+    total_files = len(files_to_process)
     
-    for file_path in json_files:
+    if total_files == 0:
+        logging.info("No new files to process")
+        return []
+    
+    logging.info(f"Starting to process {total_files} new JSON files")
+    
+    for file_path in files_to_process:
         filename = os.path.basename(file_path)
+        file_number = extract_number(file_path)
         file_count += 1
         
         # Log progress every 100 files
@@ -340,12 +375,17 @@ def process_all_files(directory):
             result = process_json_file(file_path)
             if result:
                 all_data.extend(result)
+                last_processed_number = file_number  # Track the last successfully processed file
             else:
                 error_count += 1
                 logging.error(f"No data returned from {filename}")
         except Exception as e:
             error_count += 1
             logging.error(f"Error processing {filename}: {e}")
+    
+    # Update the tracking file with the last processed file number
+    if last_processed_number > start_from:
+        update_last_processed_file_number(last_processed_number)
     
     logging.info(f"Completed processing. Processed {file_count} files with {error_count} errors")
     logging.info(f"Total records generated: {len(all_data)}")
@@ -489,21 +529,12 @@ def main():
     # Directory containing JSON files - use relative path
     json_dir = os.path.join(os.path.dirname(__file__), "mixed")
     
-    # Check database row count to determine processing strategy
-    row_count = get_database_row_count()
-    logging.info(f"Current database row count: {row_count}")
-    
-    if row_count == 0:
-        # Database is empty, process all files
-        logging.info("Database is empty, processing all files")
-        data = process_all_files(json_dir)
-    else:
-        # Database has data, only process new files
-        logging.info("Database has data, processing only new files")
-        data = process_new_files(json_dir)
+    # Always use the incremental processing approach
+    logging.info("Processing files incrementally")
+    data = process_all_files(json_dir)
     
     if not data:
-        logging.info("No data to process or upload")
+        logging.info("No new data to process or upload")
         return
     
     # Save processed data to JSON (preserving lists) - also make relative
@@ -520,7 +551,9 @@ def main():
     logging.info(f"Saved statistics to {stats_file}")
     
     # Print summary
-    print(f"\nProcessed {len(data)} records")
+    print(f"\nProcessed {len(data)} new records")
+    last_processed = get_last_processed_file_number()
+    print(f"Last processed file number: {last_processed}")
     print(f"Database row count was: {row_count}")
     if row_count == 0:
         print("Processed all files (database was empty)")
