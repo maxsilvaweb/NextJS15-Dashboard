@@ -122,12 +122,18 @@ def main():
     try:
         uploader = HerokuPostgreSQLUploader()
         uploader.create_tables()
+        database_available = True
     except Exception as e:
         logging.error(f"Error creating tables: {e}")
-        return
+        database_available = False
+        # Continue processing even without database
     
-    # Get current database row count
-    current_row_count = get_database_row_count()
+    # Get current database row count (or default to 0 if no database)
+    if database_available:
+        current_row_count = get_database_row_count()
+    else:
+        current_row_count = 0
+        logging.info("Database not available, starting from file 0")
     
     # The next file to process should be user_{current_row_count}.json
     next_file_number = current_row_count
