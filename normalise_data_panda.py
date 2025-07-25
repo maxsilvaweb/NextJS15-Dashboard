@@ -5,6 +5,7 @@ import pandas as pd
 from datetime import datetime
 import logging
 import glob
+from upload_to_postgres_heroku import HerokuPostgreSQLUploader
 
 # Set up logging
 logging.basicConfig(
@@ -82,17 +83,25 @@ def process_json_file(file_path, user_id):
         # Normalize the data into a flat structure
         normalized_record = {
             'user_id': user_id,
-            'email': user_data.get('email', ''),
             'name': user_data.get('name', ''),
+            'email': user_data.get('email', ''),
+            'email_valid': is_valid_email(user_data.get('email', '')),
+            'instagram_handle': user_data.get('instagram_handle', ''),
+            'tiktok_handle': user_data.get('tiktok_handle', ''),
+            'joined_at': user_data.get('joined_at', ''),
+            'program_id': program_data.get('program_id', ''),
+            'brand': program_data.get('brand', ''),
             'platform': user_data.get('platform', ''),
-            'url': user_data.get('url', ''),
-            'followers': user_data.get('followers', 0),
-            'engagement_rate': user_data.get('engagement_rate', 0.0),
-            'total_sales_attributed': sum(task.get('sales_attributed', 0) for task in tasks),
+            'post_url': user_data.get('url', ''),
+            'url_valid': is_valid_url(user_data.get('url', '')),
             'likes': sum(task.get('likes', 0) for task in tasks),
             'comments': sum(task.get('comments', 0) for task in tasks),
             'shares': sum(task.get('shares', 0) for task in tasks),
-            'reach': sum(task.get('reach', 0) for task in tasks)
+            'reach': sum(task.get('reach', 0) for task in tasks),
+            'total_sales_attributed': sum(task.get('sales_attributed', 0) for task in tasks),
+            'source_file': os.path.basename(file_path),
+            'issues_found': 0,
+            'issues_list': []
         }
         
         return normalized_record
@@ -109,6 +118,14 @@ def get_next_file_to_process(mixed_dir, start_from):
     return None
 
 def main():
+    # Create tables first
+    try:
+        uploader = HerokuPostgreSQLUploader()
+        uploader.create_tables()
+    except Exception as e:
+        logging.error(f"Error creating tables: {e}")
+        return
+    
     # Get current database row count
     current_row_count = get_database_row_count()
     
@@ -123,6 +140,9 @@ def main():
     
     if not next_file:
         logging.info(f"No new file to process. Looking for user_{next_file_number}.json")
+        # Create empty processed_data.json for the workflow
+        with open('processed_data.json', 'w') as f:
+            json.dump([], f)
         return
     
     logging.info(f"Processing file: {os.path.basename(next_file)}")
@@ -134,20 +154,20 @@ def main():
     
     if not normalized_data:
         logging.error("Failed to process file")
+        # Create empty processed_data.json for the workflow
+        with open('processed_data.json', 'w') as f:
+            json.dump([], f)
         return
     
-    # Upload to database
-    try:
-        uploader = HerokuPostgreSQLUploader()
-        uploader.upload_data([normalized_data])
-        logging.info(f"Successfully uploaded data for user_id {user_id}")
-        
-        # Verify the upload
-        new_row_count = get_database_row_count()
-        logging.info(f"Database now has {new_row_count} rows (was {current_row_count})")
-        
-    except Exception as e:
-        logging.error(f"Error uploading data: {e}")
+    # Save processed data to JSON file (required by the workflow)
+    with open('processed_data.json', 'w') as f:
+        json.dump([normalized_data], f, indent=2)
+    
+    logging.info(f"Successfully processed and saved data for user_id {user_id}")
+    
+    # Verify the upload by checking row count
+    new_row_count = get_database_row_count()
+    logging.info(f"Processing complete. Ready for upload to database.")
 
 if __name__ == "__main__":
     main()
