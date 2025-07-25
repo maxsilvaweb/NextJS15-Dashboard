@@ -91,6 +91,7 @@ def process_json_file(file_path, user_id):
             'joined_at': user_data.get('joined_at', ''),
             'program_id': program_data.get('program_id', ''),
             'brand': program_data.get('brand', ''),
+            'task_id': f"task_{user_id}",
             'platform': user_data.get('platform', ''),
             'post_url': user_data.get('url', ''),
             'url_valid': is_valid_url(user_data.get('url', '')),
@@ -110,70 +111,72 @@ def process_json_file(file_path, user_id):
         logging.error(f"Error processing {file_path}: {e}")
         return None
 
-def get_next_file_to_process(mixed_dir, start_from):
-    """Get the next file to process based on the starting number"""
-    file_pattern = os.path.join(mixed_dir, f"user_{start_from}.json")
-    if os.path.exists(file_pattern):
-        return file_pattern
-    return None
-
 def main():
-    # Create tables first
+    # 1. Create tables first if they don't exist
     try:
         uploader = HerokuPostgreSQLUploader()
         uploader.create_tables()
+        logging.info("Tables created or already exist")
         database_available = True
     except Exception as e:
         logging.error(f"Error creating tables: {e}")
         database_available = False
-        # Continue processing even without database
+        # Create empty processed_data.json and exit
+        with open('processed_data.json', 'w') as f:
+            json.dump([], f)
+        return
     
-    # Get current database row count (or default to 0 if no database)
-    if database_available:
-        current_row_count = get_database_row_count()
-    else:
-        current_row_count = 0
-        logging.info("Database not available, starting from file 0")
-    
-    # The next file to process should be user_{current_row_count}.json
-    next_file_number = current_row_count
+    # 2. Check current row count in database
+    current_row_count = get_database_row_count()
     
     # Directory containing JSON files
     mixed_dir = os.path.join(os.path.dirname(__file__), "mixed")
     
-    # Get the next file to process
-    next_file = get_next_file_to_process(mixed_dir, next_file_number)
+    # 3. Determine which files to process
+    if current_row_count == 0:
+        # Process ALL files from user_0.json to user_10042.json (10043 files total)
+        logging.info("Database is empty. Processing all files from user_0.json to user_10042.json")
+        start_file = 0
+        end_file = 10042  # This gives us 10043 files (0 to 10042 inclusive)
+    else:
+        # Process only the next file: user_{current_row_count}.json
+        logging.info(f"Database has {current_row_count} rows. Processing next file: user_{current_row_count}.json")
+        start_file = current_row_count
+        end_file = current_row_count
     
-    if not next_file:
-        logging.info(f"No new file to process. Looking for user_{next_file_number}.json")
-        # Create empty processed_data.json for the workflow
-        with open('processed_data.json', 'w') as f:
-            json.dump([], f)
-        return
+    # Process files
+    processed_data = []
+    files_processed = 0
     
-    logging.info(f"Processing file: {os.path.basename(next_file)}")
+    for file_number in range(start_file, end_file + 1):
+        file_path = os.path.join(mixed_dir, f"user_{file_number}.json")
+        
+        if not os.path.exists(file_path):
+            logging.warning(f"File not found: user_{file_number}.json")
+            continue
+        
+        # User ID should be file_number + 1 (1-indexed)
+        user_id = file_number + 1
+        normalized_data = process_json_file(file_path, user_id)
+        
+        if normalized_data:
+            processed_data.append(normalized_data)
+            files_processed += 1
+            if files_processed % 100 == 0:  # Log progress every 100 files
+                logging.info(f"Processed {files_processed} files so far...")
+        else:
+            logging.error(f"Failed to process {file_path}")
     
-    # Process the file
-    # User ID should be current_row_count + 1 (1-indexed)
-    user_id = current_row_count + 1
-    normalized_data = process_json_file(next_file, user_id)
-    
-    if not normalized_data:
-        logging.error("Failed to process file")
-        # Create empty processed_data.json for the workflow
-        with open('processed_data.json', 'w') as f:
-            json.dump([], f)
-        return
-    
-    # Save processed data to JSON file (required by the workflow)
+    # Save all processed data to JSON file (required by the workflow)
     with open('processed_data.json', 'w') as f:
-        json.dump([normalized_data], f, indent=2)
+        json.dump(processed_data, f, indent=2)
     
-    logging.info(f"Successfully processed and saved data for user_id {user_id}")
+    logging.info(f"Successfully processed {files_processed} files. Data saved to processed_data.json")
     
-    # Verify the upload by checking row count
-    new_row_count = get_database_row_count()
-    logging.info(f"Processing complete. Ready for upload to database.")
+    if files_processed == 0:
+        logging.warning("No files were processed")
+    else:
+        logging.info(f"Ready to upload {len(processed_data)} records to database")
 
 if __name__ == "__main__":
     main()
