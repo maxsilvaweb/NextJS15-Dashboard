@@ -308,7 +308,7 @@ def process_json_file(file_path):
     return all_records
 
 def get_last_processed_file_number():
-    """Get the last processed file number from a tracking file"""
+    """Get the last processed file number from tracking file"""
     tracking_file = os.path.join(os.path.dirname(__file__), "last_processed_file.txt")
     try:
         if os.path.exists(tracking_file):
@@ -554,11 +554,11 @@ def main():
     print(f"\nProcessed {len(data)} new records")
     last_processed = get_last_processed_file_number()
     print(f"Last processed file number: {last_processed}")
-    print(f"Database row count was: {row_count}")
-    if row_count == 0:
-        print("Processed all files (database was empty)")
+    
+    if last_processed == -1:
+        print("This was the first run (no tracking file existed)")
     else:
-        print(f"Processed only new files (found {len(data)} new records)")
+        print(f"Processed only new files since file number {last_processed}")
 
 if __name__ == "__main__":
     main()
