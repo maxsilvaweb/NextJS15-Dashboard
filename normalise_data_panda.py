@@ -415,6 +415,76 @@ def analyze_data(data):
     
     return summary
 
+def get_last_processed_file_number():
+    """Get the highest file number that was already processed based on database count"""
+    try:
+        from upload_to_postgres_heroku import HerokuPostgreSQLUploader
+        uploader = HerokuPostgreSQLUploader()
+        with uploader.get_connection() as conn:
+            with conn.cursor() as cursor:
+                # Get the highest user_id from the database
+                cursor.execute("SELECT MAX(user_id) FROM processed_data")
+                result = cursor.fetchone()[0]
+                if result is not None:
+                    # Convert back to file number (user_id = file_number + 1)
+                    return result - 1
+                return -1  # No files processed yet
+    except Exception as e:
+        logging.error(f"Error checking last processed file: {e}")
+        return -1
+
+def process_new_files(directory):
+    """Process only new files that haven't been processed yet"""
+    all_data = []
+    file_count = 0
+    error_count = 0
+    
+    # Get the last processed file number
+    last_processed = get_last_processed_file_number()
+    logging.info(f"Last processed file number: {last_processed}")
+    
+    # Get all JSON files
+    import glob
+    json_pattern = os.path.join(directory, "user_*.json")
+    json_files = glob.glob(json_pattern)
+    
+    # Filter to only new files
+    def extract_number(filename):
+        match = re.search(r'user_(\d+)\.json', os.path.basename(filename))
+        return int(match.group(1)) if match else 0
+    
+    # Only process files with numbers greater than last_processed
+    new_files = [f for f in json_files if extract_number(f) > last_processed]
+    new_files.sort(key=extract_number)
+    
+    total_files = len(new_files)
+    logging.info(f"Found {total_files} new files to process")
+    
+    if total_files == 0:
+        logging.info("No new files to process")
+        return []
+    
+    for file_path in new_files:
+        filename = os.path.basename(file_path)
+        file_count += 1
+        
+        logging.info(f"Processing new file {file_count}/{total_files}: {filename}")
+        
+        try:
+            result = process_json_file(file_path)
+            if result:
+                all_data.extend(result)
+            else:
+                error_count += 1
+                logging.error(f"No data returned from {filename}")
+        except Exception as e:
+            error_count += 1
+            logging.error(f"Error processing {filename}: {e}")
+    
+    logging.info(f"Completed processing. Processed {file_count} new files with {error_count} errors")
+    logging.info(f"Total new records generated: {len(all_data)}")
+    return all_data
+
 def main():
     # Directory containing JSON files - use relative path
     json_dir = os.path.join(os.path.dirname(__file__), "mixed")
@@ -428,15 +498,9 @@ def main():
         logging.info("Database is empty, processing all files")
         data = process_all_files(json_dir)
     else:
-        # Database has data, only process the highest numbered file
-        logging.info("Database has data, processing only the highest numbered file")
-        highest_file = get_highest_numbered_file(json_dir)
-        if highest_file:
-            logging.info(f"Processing highest numbered file: {os.path.basename(highest_file)}")
-            data = process_json_file(highest_file)
-        else:
-            logging.info("No files found to process")
-            data = []
+        # Database has data, only process new files
+        logging.info("Database has data, processing only new files")
+        data = process_new_files(json_dir)
     
     if not data:
         logging.info("No data to process or upload")
@@ -461,7 +525,7 @@ def main():
     if row_count == 0:
         print("Processed all files (database was empty)")
     else:
-        print("Processed only the highest numbered file (database had existing data)")
+        print(f"Processed only new files (found {len(data)} new records)")
 
 if __name__ == "__main__":
     main()
