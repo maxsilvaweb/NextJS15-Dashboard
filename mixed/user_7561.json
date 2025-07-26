@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e1f10cb8-ad18-4ae1-a333-3d1a50222af3",
+    "name": "Samuel Hernandez",
+    "email": "redwards@example.net",
+    "instagram_handle": "@vhunter",
+    "tiktok_handle": "@debramiller",
+    "joined_at": "2025-04-07T05:02:28.115156",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fc2f5a7b-4edd-4a27-ac1a-4113b4bf4160",
+            "brand": "Hughes PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c63af160-bad2-469a-b4fb-31ce930b74e4",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.smith.com/",
+                    "likes": 2767,
+                    "comments": 87,
                     "shares": 33,
                     "reach": -1000
                 }

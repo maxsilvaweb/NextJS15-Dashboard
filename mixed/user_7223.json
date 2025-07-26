@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "e0b6276b-25f4-41d9-a61c-5f129eb231fb",
+    "name": "Shelley Green",
     "email": "Marcellus43@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@obrienbrandon",
+    "tiktok_handle": "@jay67",
+    "joined_at": "2025-07-07T23:18:58.254026",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2791e99a-cdc3-429d-af41-cd5f6a22bedf",
+            "brand": "Palmer, Davis and Berry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "03a50847-2668-44f4-9a73-f5924391987a",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://russell-arnold.com/",
+                    "likes": 3365,
+                    "comments": 91,
                     "shares": 0,
                     "reach": 9307
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7620.49
         }
     ]
 }

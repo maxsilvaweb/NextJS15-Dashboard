@@ -1,26 +1,26 @@
 {
     "user_id": "90c2cd75-8333-4c2b-8db3-df9fad7c9dca",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Kim Hernandez",
+    "email": "jimmypatterson@example.com",
+    "instagram_handle": "@christopher34",
+    "tiktok_handle": "@carrillorenee",
+    "joined_at": "2024-07-09T20:42:38.898103",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e74eed73-6a51-4362-ab09-d8a00a86e774",
+            "brand": "Oconnor-Maldonado",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "c82c8619-b7b9-4b23-af26-bc951be3d9ae",
+                    "platform": "TikTok",
+                    "post_url": "http://benson.com/",
                     "likes": 51,
-                    "comments": null,
+                    "comments": 29,
                     "shares": 54,
                     "reach": 5114
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7227.74
         }
     ]
 }

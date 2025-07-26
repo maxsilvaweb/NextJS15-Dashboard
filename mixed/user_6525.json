@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8355876a-d8dc-4c75-b864-f526dfb37680",
+    "name": "Patricia King",
+    "email": "vjacobs@example.com",
+    "instagram_handle": "@dustin72",
+    "tiktok_handle": "@wilcoxanthony",
+    "joined_at": "2024-08-12T02:14:01.694585",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0ad2349f-22e4-48a8-a518-866199677c25",
+            "brand": "Whitaker-Martinez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "e18e3faf-821a-4cf6-ad36-63ea360a3c5c",
+                    "platform": "Twitter",
+                    "post_url": "http://horton.com/",
+                    "likes": 2492,
                     "comments": 35,
                     "shares": 51,
                     "reach": 6949
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4746.92
         }
     ]
 }

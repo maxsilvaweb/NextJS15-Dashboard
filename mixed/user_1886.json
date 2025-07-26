@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a5129566-2f6f-4dff-a4a9-34adb72c6dc2",
+    "name": "Matthew Walsh",
     "email": "Cecelia_Boyle@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@cory11",
+    "tiktok_handle": "@scottderek",
+    "joined_at": "2024-07-12T04:45:33.907772",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "496e5235-1322-4765-9809-8ba745c88c43",
+            "brand": "Johnson, Ramirez and Mendoza",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "10e69667-50d6-49f9-ad36-09e3d6407fd6",
                     "platform": "Facebook",
                     "post_url": "https://unwieldy-vibration.biz/",
-                    "likes": "NaN",
+                    "likes": 1532,
                     "comments": 21,
                     "shares": 5,
                     "reach": 6083
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5965.61
         }
     ]
 }

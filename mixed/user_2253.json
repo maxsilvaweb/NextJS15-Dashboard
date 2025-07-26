@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e7421731-6e26-4798-a775-3e5d6bffd3f5",
+    "name": "Kayla Barron",
+    "email": "bonillaantonio@example.org",
+    "instagram_handle": "@michael46",
+    "tiktok_handle": "@trevinocurtis",
+    "joined_at": "2024-09-03T02:21:17.220552",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d4e14aa7-e89d-49b4-bc60-4f2dbab157de",
+            "brand": "Meyer PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b5878b77-3175-4572-b7fa-9736577c3528",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.bowen-bennett.com/",
+                    "likes": 6941,
                     "comments": 9,
                     "shares": 84,
                     "reach": 7822

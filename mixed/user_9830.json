@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9a6b8875-c777-4ad4-b4f7-5a10281ad18b",
+    "name": "Becky Solomon",
+    "email": "ashley03@example.net",
+    "instagram_handle": "@todd10",
+    "tiktok_handle": "@xherrera",
+    "joined_at": "2025-01-18T10:53:03.658084",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8f2c41d3-4ca7-46a8-a092-27bd85aabca8",
+            "brand": "Lee-Collins",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "754f0bfe-6b9d-43db-8951-5ce93356270c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.hicks.net/",
+                    "likes": 3520,
+                    "comments": 233,
                     "shares": 25,
                     "reach": 854
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6503.44
         }
     ]
 }

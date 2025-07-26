@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f7bb07f6-a7bf-467d-9383-af45132fea5b",
+    "name": "Laura Hernandez",
+    "email": "monica22@example.org",
+    "instagram_handle": "@daniellehurst",
+    "tiktok_handle": "@jordanamanda",
+    "joined_at": "2024-04-14T18:04:48.773188",
     "advocacy_programs": [
         {
             "program_id": "1e9d9dc2-35f1-406e-959c-2481b5d267a9",
-            "brand": 12345,
+            "brand": "Moore-Montgomery",
             "tasks_completed": [
                 {
                     "task_id": "c3b8b593-63b1-4d1f-97a2-f4e8e8ff3009",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://potts-anderson.info/",
                     "likes": 360,
-                    "comments": null,
+                    "comments": 142,
                     "shares": 77,
                     "reach": 1968
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2479.1
         }
     ]
 }

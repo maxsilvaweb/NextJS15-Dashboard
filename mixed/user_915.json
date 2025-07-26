@@ -1,26 +1,26 @@
 {
     "user_id": "4442c99f-e830-4f1b-ac7d-eb68ceed42d6",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Stephanie Dickerson",
+    "email": "masonbeth@example.net",
+    "instagram_handle": "@curtis19",
+    "tiktok_handle": "@kylesmith",
+    "joined_at": "2024-03-11T18:31:09.549854",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b9618d47-24a2-4d51-a1f1-768d0fc856ea",
+            "brand": "Lewis-Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "445cd9ef-3423-4cd0-ad49-8fd598ea972b",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://ford-velazquez.com/",
+                    "likes": 7928,
                     "comments": 13,
                     "shares": 51,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9754.26
         }
     ]
 }

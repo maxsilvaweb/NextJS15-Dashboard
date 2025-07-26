@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "639738da-4d40-48ce-9245-6ba337927652",
+    "name": "Christina Kirby",
     "email": "Keenan76@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@freemansteven",
+    "tiktok_handle": "@heather30",
+    "joined_at": "2024-02-13T19:09:20.158359",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "78f74052-bd1f-405c-8d8c-f1b2f90e2669",
+            "brand": "Acevedo-White",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cc5fb1ed-7905-42e3-9884-c2b9bf619db4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.cline-norman.org/",
+                    "likes": 3315,
+                    "comments": 98,
                     "shares": 17,
                     "reach": 9352
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5553.06
         }
     ]
 }

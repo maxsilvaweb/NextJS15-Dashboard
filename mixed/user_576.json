@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dd75a545-5d7e-4aa4-b9dd-a1326ee42212",
+    "name": "Jonathan Russo",
+    "email": "ryan20@example.net",
+    "instagram_handle": "@michellepollard",
+    "tiktok_handle": "@kleinwyatt",
+    "joined_at": "2025-02-10T01:23:33.695081",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4659a20d-2da9-465d-8481-7730f980d8fb",
+            "brand": "Gonzalez, Haynes and Gibson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0983de83-3b5f-427b-9d53-5519d8b34093",
                     "platform": "Facebook",
                     "post_url": "https://supportive-behest.net/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8437,
+                    "comments": 176,
                     "shares": 50,
                     "reach": 2901
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 924.11
         }
     ]
 }

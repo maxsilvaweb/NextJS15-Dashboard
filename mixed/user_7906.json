@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "59d02843-3cd4-46d9-8d33-b3dda95b5507",
+    "name": "John Thomas",
+    "email": "ewilson@example.org",
+    "instagram_handle": "@zyoung",
+    "tiktok_handle": "@vwilson",
+    "joined_at": "2023-11-03T03:16:08.471749",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5c2eff1b-7880-499c-a83c-984ceb8744e6",
+            "brand": "Galvan, Ortiz and Lindsey",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "6ce43301-106e-4fae-8642-82bbf79e96e9",
+                    "platform": "Twitter",
+                    "post_url": "http://www.jacobson.info/",
+                    "likes": 7245,
                     "comments": 46,
                     "shares": 32,
                     "reach": 538

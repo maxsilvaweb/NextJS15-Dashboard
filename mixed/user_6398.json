@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c95da667-a595-410b-9b0a-479bf84f11dc",
+    "name": "Michael Watkins",
+    "email": "llittle@example.net",
+    "instagram_handle": "@grahamkristina",
+    "tiktok_handle": "@aaron28",
+    "joined_at": "2024-08-29T13:30:03.329554",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b2f74b6f-cd64-45a1-adc3-0cf7f1bdc671",
+            "brand": "Reilly Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a84db259-a28e-4428-ae33-d5b42d6ecb4c",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.hill.org/",
+                    "likes": 1318,
                     "comments": 39,
                     "shares": 32,
                     "reach": 5245
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8571.81
         }
     ]
 }

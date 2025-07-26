@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "ac96268e-128d-42d8-beaa-df9737c3f086",
+    "name": "Regina Sandoval",
+    "email": "suzanne10@example.net",
+    "instagram_handle": "@xhahn",
+    "tiktok_handle": "@justin08",
     "joined_at": "2024-08-01T19:18:33.346Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "af8666f5-02e4-473a-a05c-e2416f38e2e6",
+            "brand": "Cabrera-Burke",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "84d320b1-7da4-4b4d-a775-e97e793264da",
+                    "platform": "Instagram",
                     "post_url": "https://thick-disconnection.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9701,
+                    "comments": 248,
                     "shares": 2,
                     "reach": 6752
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6342.31
         }
     ]
 }

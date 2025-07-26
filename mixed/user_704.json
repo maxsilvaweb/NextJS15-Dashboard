@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "448bf42d-39b1-46f7-ac79-7579f8ecfcce",
+    "name": "John Diaz",
     "email": "Virgie12@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jason55",
+    "tiktok_handle": "@hoffmanwilliam",
+    "joined_at": "2025-07-26T12:26:16.919655",
     "advocacy_programs": [
         {
             "program_id": "8208e05e-730f-46ef-9f29-59e06c155250",
-            "brand": 12345,
+            "brand": "Dorsey, Gilbert and Stewart",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0525ad34-b42a-492c-b890-70f598827924",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.novak-edwards.com/",
                     "likes": 90,
-                    "comments": null,
+                    "comments": 436,
                     "shares": 42,
                     "reach": 2859
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3073.36
         }
     ]
 }

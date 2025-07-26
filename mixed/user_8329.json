@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "52b6f42b-d18d-4911-997d-bf03f7f22ae6",
+    "name": "Shawn Pena",
+    "email": "deniselee@example.com",
+    "instagram_handle": "@browntodd",
+    "tiktok_handle": "@ugonzalez",
+    "joined_at": "2025-06-11T22:24:25.428718",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8d231de1-1214-4c11-86b5-5d15c68c87a4",
+            "brand": "Johnston, Ortega and Wolfe",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "33b17b60-8e51-4def-a598-94161bb0ba1c",
+                    "platform": "Instagram",
+                    "post_url": "https://lewis-bailey.com/",
+                    "likes": 3454,
+                    "comments": 455,
                     "shares": 27,
                     "reach": 4057
                 }

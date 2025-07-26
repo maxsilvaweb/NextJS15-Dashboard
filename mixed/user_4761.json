@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "664838d1-dc54-4013-8d06-40e2bb61e272",
+    "name": "Jackie Montoya",
+    "email": "sbryan@example.net",
+    "instagram_handle": "@smithvincent",
+    "tiktok_handle": "@shawn50",
+    "joined_at": "2025-04-05T06:51:53.135530",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6f6461a8-67c7-4a89-baa0-2a6611203b15",
+            "brand": "Jackson Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b6c3c043-18ee-4a17-983e-7e92bf3ecfcd",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://trujillo-simmons.org/",
                     "likes": 123,
-                    "comments": null,
+                    "comments": 100,
                     "shares": 62,
                     "reach": 7917
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7570.3
         }
     ]
 }

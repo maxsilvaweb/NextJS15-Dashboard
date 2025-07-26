@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b5301f15-75fc-44bc-bfd1-bc0a3360a828",
+    "name": "Rachel Ross",
+    "email": "danielduarte@example.net",
+    "instagram_handle": "@qsanchez",
+    "tiktok_handle": "@eedwards",
+    "joined_at": "2024-09-02T06:42:04.992903",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0a2e4b6f-dd3b-489e-8032-dc5a7fa7ec1d",
+            "brand": "Parrish Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "edc8ffe6-76dc-41e3-a608-01ab0f2df69f",
+                    "platform": "YouTube",
+                    "post_url": "http://www.lewis.com/",
                     "likes": 60,
-                    "comments": null,
+                    "comments": 218,
                     "shares": 57,
                     "reach": 4987
                 }

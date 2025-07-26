@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6921a114-77da-4ce9-b3a8-3195e0a843ed",
+    "name": "Kyle Evans",
+    "email": "johnsonjessica@example.com",
+    "instagram_handle": "@christinehudson",
+    "tiktok_handle": "@taylorschmidt",
+    "joined_at": "2024-01-10T20:14:19.224005",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d712545a-7396-408a-9161-b37d3765501f",
+            "brand": "Freeman, Reyes and Simon",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ac4ce665-1d68-444b-8209-d49dba88f795",
                     "platform": "TikTok",
                     "post_url": "https://unfortunate-almighty.biz/",
-                    "likes": "NaN",
+                    "likes": 9069,
                     "comments": 45,
                     "shares": 74,
                     "reach": 4254
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4360.61
         }
     ]
+}

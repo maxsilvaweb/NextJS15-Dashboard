@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "ed98433b-04f9-4206-9ce7-9648a174d6da",
+    "name": "Christopher Jimenez",
     "email": "Florence6@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jonesjacqueline",
+    "tiktok_handle": "@terri61",
+    "joined_at": "2023-10-06T21:43:06.689281",
     "advocacy_programs": [
         {
             "program_id": "d25fc6fd-473e-4db1-9103-e12a79ab405e",
-            "brand": 12345,
+            "brand": "Santiago Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2bd6820a-9358-4ef0-aaa5-11f116a43323",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://leach.com/",
+                    "likes": 9454,
+                    "comments": 351,
                     "shares": 83,
                     "reach": 3631
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4495.52
         }
     ]
 }

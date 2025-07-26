@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "431fed21-9fac-47b5-b826-202136c11fb9",
+    "name": "Kathleen Nichols",
+    "email": "chavezkenneth@example.org",
+    "instagram_handle": "@crosbymonica",
+    "tiktok_handle": "@robertsonthomas",
+    "joined_at": "2023-08-27T15:06:44.882001",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9ef66d90-f4ab-4866-bc32-8b6a60c50cef",
+            "brand": "Wright PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2d5fc293-1417-4273-8fb8-db0c180eaf5e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.rojas.com/",
+                    "likes": 5949,
+                    "comments": 445,
                     "shares": 45,
                     "reach": 4915
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6710.92
         }
     ]
 }

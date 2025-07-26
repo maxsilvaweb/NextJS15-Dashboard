@@ -1,26 +1,26 @@
 {
     "user_id": "4b54aa87-a380-492c-827d-7409fb0f763f",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Kerry Patterson",
+    "email": "adam64@example.com",
+    "instagram_handle": "@meganodom",
+    "tiktok_handle": "@cbean",
+    "joined_at": "2024-04-17T10:08:40.374071",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d013acaf-f4c9-44b4-8d32-67837d11ad5e",
+            "brand": "Coleman, Delgado and Lopez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b718f1ea-0764-4681-aa25-aa5e9f474deb",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.rodriguez.biz/",
                     "likes": 458,
                     "comments": 19,
                     "shares": 72,
                     "reach": 7803
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1607.71
         }
     ]
 }

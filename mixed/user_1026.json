@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b7a9c6f3-0396-48ea-86bc-a828b6f896c4",
+    "name": "Timothy Schneider",
+    "email": "shafferann@example.com",
+    "instagram_handle": "@rbaker",
+    "tiktok_handle": "@logan36",
+    "joined_at": "2024-07-29T00:33:55.797588",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d7294727-91cb-4f1c-9c9e-df60aa9b6b77",
+            "brand": "Williams-Martinez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "02fb7663-6cf7-4b41-aeb5-e509ddbfc233",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.henry-olson.com/",
                     "likes": 102,
-                    "comments": null,
+                    "comments": 463,
                     "shares": 36,
                     "reach": 849
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2063.18
         }
     ]
 }

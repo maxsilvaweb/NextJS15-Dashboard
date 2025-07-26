@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "01044002-b615-445c-abed-c1d931b98e24",
+    "name": "Erica Cunningham",
+    "email": "jennifer28@example.org",
+    "instagram_handle": "@hgarcia",
+    "tiktok_handle": "@rbailey",
+    "joined_at": "2024-12-18T12:54:42.888357",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b3e4bb39-d938-49ae-bcbc-35164f5775cf",
+            "brand": "Lee-Lopez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "705e7521-bc70-4b42-a686-5f5b24759926",
+                    "platform": "TikTok",
+                    "post_url": "https://www.miller.info/",
+                    "likes": 1839,
+                    "comments": 254,
                     "shares": 8,
                     "reach": 5968
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6684.38
         }
     ]
 }

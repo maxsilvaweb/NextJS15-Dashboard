@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3c050f03-2160-4360-b10c-be3abe326558",
+    "name": "Traci Garcia",
+    "email": "strongmichelle@example.org",
+    "instagram_handle": "@beardstephanie",
+    "tiktok_handle": "@owong",
+    "joined_at": "2023-12-12T00:25:56.914242",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cf200ba9-ad00-4432-be76-70abd32c8ca0",
+            "brand": "Wheeler Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "636ca4b2-4fcb-401c-baae-2e891d9e13be",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.tate.com/",
+                    "likes": 8088,
+                    "comments": 440,
                     "shares": 7,
                     "reach": 4113
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3294.18
         }
     ]
 }

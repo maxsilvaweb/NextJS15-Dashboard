@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d57353a1-3b59-446d-9b90-a01e06a04446",
+    "name": "Taylor Edwards",
+    "email": "rachel21@example.org",
+    "instagram_handle": "@lisamoore",
+    "tiktok_handle": "@ortizdaniel",
+    "joined_at": "2024-02-04T11:04:12.201736",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "731962f0-a24f-4a81-95c6-743dc4900bb9",
+            "brand": "Thompson-Sanchez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "27385120-ff57-4994-a77e-475d55894f98",
+                    "platform": "Instagram",
+                    "post_url": "http://nielsen-mccormick.biz/",
+                    "likes": 8951,
+                    "comments": 219,
                     "shares": 60,
                     "reach": 8624
                 }

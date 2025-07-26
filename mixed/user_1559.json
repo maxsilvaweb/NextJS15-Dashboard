@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ffdf98d2-cff7-4785-addc-5ebe87e47fc0",
+    "name": "Shannon Moore",
+    "email": "thomashouston@example.com",
+    "instagram_handle": "@laurahancock",
+    "tiktok_handle": "@danielsamy",
+    "joined_at": "2024-09-24T09:53:16.979195",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d9962130-ceae-45be-9c1f-f8236747f2fb",
+            "brand": "Dawson-Mendoza",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4eb4a3f6-649f-4cc3-9c11-7227af2b816a",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://hernandez-velasquez.com/",
                     "likes": 276,
                     "comments": 23,
                     "shares": 16,
                     "reach": 8972
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4212.72
         }
     ]
 }

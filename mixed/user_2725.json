@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c6e42491-9e88-4028-bc6c-57d6699d3ec2",
+    "name": "Paul Brady",
+    "email": "brianmathews@example.org",
+    "instagram_handle": "@danielcochran",
+    "tiktok_handle": "@msmith",
+    "joined_at": "2024-03-27T02:00:51.100240",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9fdc117c-f564-4853-b4ce-630009677a9f",
+            "brand": "Palmer-Lee",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "8eb2796b-776a-4926-b557-de1fc0d16039",
+                    "platform": "Twitter",
+                    "post_url": "https://dixon-gonzales.org/",
+                    "likes": 2809,
+                    "comments": 60,
                     "shares": 85,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5063.97
         }
     ]
 }

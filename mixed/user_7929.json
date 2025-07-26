@@ -1,26 +1,26 @@
 {
     "user_id": "1da516d9-4967-4a99-8930-c627c86c1e2e",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "name": "Caitlin Butler",
+    "email": "ghodges@example.com",
+    "instagram_handle": "@nicholasbarr",
+    "tiktok_handle": "@erin59",
     "joined_at": "2024-08-09T20:55:52.016Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c18ad204-bb97-4590-a72d-3e65a50a55de",
+            "brand": "Robinson, Bolton and Murray",
             "tasks_completed": [
                 {
                     "task_id": "7c00aa90-df0f-40cb-9bd2-8ffe4ffd2c80",
-                    "platform": 123,
+                    "platform": "Instagram",
                     "post_url": "https://present-bonnet.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1298,
+                    "comments": 218,
                     "shares": 71,
                     "reach": 2524
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2209.16
         }
     ]
 }

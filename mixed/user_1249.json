@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d5779c96-234c-4bee-9362-6b8a58eeb4c7",
+    "name": "Michelle Glenn",
+    "email": "nathanmccoy@example.org",
+    "instagram_handle": "@amber48",
+    "tiktok_handle": "@samuelgarcia",
+    "joined_at": "2024-08-30T09:09:27.685708",
     "advocacy_programs": [
         {
             "program_id": "534804dc-6b0a-41c7-b5dd-446662a9fe8c",
-            "brand": 12345,
+            "brand": "Clarke-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8ebf5cff-64d4-410b-b6a3-f6d0ae53527c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://murphy.com/",
+                    "likes": 8713,
+                    "comments": 205,
                     "shares": 18,
                     "reach": 9075
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8877.48
         }
     ]
 }

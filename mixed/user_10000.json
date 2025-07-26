@@ -1,26 +1,26 @@
 {
-  "user_id": null,
-  "name": "Max Silva",
-  "email": "invalid-email",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "2ca8c5be-0e05-4595-8df9-caa097ea656e",
+    "name": "Max Silva",
+    "email": "fward@example.com",
+    "instagram_handle": "@nguyendominique",
+    "tiktok_handle": "@dawnwiggins",
+    "joined_at": "2024-09-21T15:01:02.504560",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "de3f05ad-7089-411c-8d83-f661204765fe",
+            "brand": "Chang, Watson and King",
+            "tasks_completed": [
+                {
+                    "task_id": "6873e5aa-0efd-4084-a10c-9e59b4226459",
+                    "platform": "TikTok",
+                    "post_url": "https://yu.com/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 6329.47
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

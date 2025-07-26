@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "f8f2950a-2889-4614-8242-f9f2f60be1c5",
+    "name": "Hannah Mosley",
     "email": "Christelle89@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@zacharyhebert",
+    "tiktok_handle": "@madeline51",
+    "joined_at": "2024-09-16T17:52:23.113098",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9cf126e0-0288-4324-961a-ac731b8fb489",
+            "brand": "Hernandez PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bd84113a-afc5-4fef-b2c5-f02d021a282f",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://farrell.com/",
                     "likes": 198,
                     "comments": 34,
                     "shares": 65,
                     "reach": 4871
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4955.1
         }
     ]
 }

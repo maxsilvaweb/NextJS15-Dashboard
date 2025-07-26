@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "217535db-d03b-4fb4-9f76-963e2819ffe9",
+    "name": "Laura Lutz",
     "email": "Mike.McKenzie@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@howardjames",
+    "tiktok_handle": "@hammondkatherine",
+    "joined_at": "2024-05-13T06:34:35.723947",
     "advocacy_programs": [
         {
             "program_id": "3e73f77d-e9b3-40b5-835b-710851ecd5e0",
-            "brand": 12345,
+            "brand": "Perry-Robinson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f2ccc861-9c31-4005-a99c-36b49a3898a6",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://martinez-knight.com/",
+                    "likes": 8666,
+                    "comments": 170,
                     "shares": 8,
                     "reach": 8265
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 744.12
         }
     ]
 }

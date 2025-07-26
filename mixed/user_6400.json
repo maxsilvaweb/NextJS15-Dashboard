@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6eeca273-1809-4371-9429-77bb5ce8c160",
+    "name": "Chad Baker",
+    "email": "matthewsangela@example.com",
+    "instagram_handle": "@lallen",
+    "tiktok_handle": "@garrettjordan",
+    "joined_at": "2025-07-06T06:49:52.925819",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "e0843050-01ab-4c8b-bd45-e9303906760e",
             "brand": "Koepp - Effertz",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "72d809f9-90ba-45bd-80c7-f0f5c685c796",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.matthews.com/",
+                    "likes": 5374,
+                    "comments": 94,
                     "shares": 100,
                     "reach": 4440
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6652.35
         }
     ]
 }

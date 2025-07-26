@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d721e2ae23",
-  "name": "Max Silva11",
-  "email": "maxsilvvauk@11awwilww42wd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d721e2ae23",
+    "name": "Max Silva11",
+    "email": "maxsilvvauk@11awwilww42wd.com",
+    "instagram_handle": "@jonbailey",
+    "tiktok_handle": "@christopherdouglas",
+    "joined_at": "2025-04-21T18:58:04.397607",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "04c2377b-def6-484c-b442-d1d361f5055a",
+            "brand": "Wright, Woods and Taylor",
+            "tasks_completed": [
+                {
+                    "task_id": "ef3302d1-e354-41b3-ac9b-8d9c47f5ccdb",
+                    "platform": "TikTok",
+                    "post_url": "http://lopez.com/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 878.13
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

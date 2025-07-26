@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "cb6d8f3a-1cd4-4e4c-8ae4-d0120a9897ec",
+    "name": "Jennifer Howard",
     "email": "Buddy.Johns@gmail.com",
-    "instagram_handle": null,
+    "instagram_handle": "@fsmith",
     "tiktok_handle": "@Arnulfo.Zulauf28",
-    "joined_at": "not-a-date",
+    "joined_at": "2023-09-30T19:47:00.553157",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d3d77d29-9e09-478f-bc47-eb03be790850",
+            "brand": "Anderson, Scott and Mack",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "81e21a14-dcaf-49b7-ad27-732b28c31d27",
+                    "platform": "TikTok",
+                    "post_url": "http://www.walter.net/",
                     "likes": 441,
                     "comments": 27,
                     "shares": 36,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2435.14
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "29f88f66-2f62-4827-8c92-b43274afcdbd",
+    "name": "Terry Rogers",
+    "email": "michael64@example.net",
+    "instagram_handle": "@lindaholmes",
+    "tiktok_handle": "@faithsharp",
+    "joined_at": "2024-11-27T21:36:02.182342",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1a7e1384-e497-4abe-adb2-24fa2358bf6c",
+            "brand": "Lozano-Allen",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d9946c2e-a212-49b0-a29e-bd7a727edf33",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.diaz.net/",
+                    "likes": 3849,
+                    "comments": 34,
                     "shares": 86,
                     "reach": 6095
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2306.63
         }
     ]
 }

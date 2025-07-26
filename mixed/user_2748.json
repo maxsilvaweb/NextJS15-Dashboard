@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "1913a6fd-2408-4beb-ba81-68a3f2f80101",
+    "name": "Sarah Leon",
+    "email": "allisonmueller@example.org",
+    "instagram_handle": "@powersheather",
     "tiktok_handle": "@Austyn.Cruickshank",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-06-08T09:08:30.597678",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e488d472-c2e5-4139-a1eb-e71744dbbe60",
+            "brand": "Rocha-Hammond",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "23b3f20e-194a-4dbf-9ab5-1b71842eb23c",
+                    "platform": "YouTube",
+                    "post_url": "https://www.ramos-barker.org/",
+                    "likes": 8635,
                     "comments": 1,
                     "shares": 76,
                     "reach": 595

@@ -1,26 +1,26 @@
 {
     "user_id": "781cfd32-5d41-4aef-9eda-ade4c04200fd",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Bonnie Johnson",
+    "email": "amurray@example.com",
+    "instagram_handle": "@icase",
+    "tiktok_handle": "@dianarussell",
+    "joined_at": "2024-03-05T10:56:03.145591",
     "advocacy_programs": [
         {
             "program_id": "b3d5d5d7-6bd6-49a7-938a-917089f570a1",
-            "brand": 12345,
+            "brand": "Price and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "9bb5d174-2cbe-4396-b3e5-025dc3d8a9f2",
+                    "platform": "TikTok",
                     "post_url": "https://tight-spirit.org/",
-                    "likes": "NaN",
+                    "likes": 4245,
                     "comments": 5,
                     "shares": 43,
                     "reach": 3621
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1282.59
         }
     ]
 }

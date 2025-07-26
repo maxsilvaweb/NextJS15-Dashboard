@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "80dc0ddf-5a82-472c-a4a9-8e6d5a81b54c",
+    "name": "Rachel Wagner",
+    "email": "kmiller@example.com",
+    "instagram_handle": "@robertlopez",
+    "tiktok_handle": "@bradley99",
+    "joined_at": "2023-10-02T12:06:16.354986",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "60395f64-7e45-4b80-bbf7-a42694a82557",
+            "brand": "Morgan, Herrera and Evans",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "99a134b4-0db2-46da-92f7-e85cad0d5d93",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.ayala.com/",
+                    "likes": 2667,
                     "comments": 9,
                     "shares": 94,
                     "reach": 7442

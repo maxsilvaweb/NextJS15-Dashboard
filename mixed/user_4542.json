@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "ad004856-d25a-4793-8356-b56ac68e2b59",
+    "name": "Joshua Grant",
     "email": "Rudolph.Bogisich67@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@reidjeremy",
+    "tiktok_handle": "@kristinarussell",
+    "joined_at": "2025-04-04T18:19:54.147934",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "e5e09134-0bdb-4bc9-9dd4-c2b0d5101d70",
             "brand": "Crist Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "75fb622f-7089-42af-b5b5-30a9938cfe19",
+                    "platform": "YouTube",
+                    "post_url": "http://herring.com/",
+                    "likes": 2736,
+                    "comments": 30,
                     "shares": 6,
                     "reach": 9028
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3108.98
         }
     ]
 }

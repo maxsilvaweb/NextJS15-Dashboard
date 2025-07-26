@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "4d34d364-6202-417b-afe4-d08aef9530ff",
+    "name": "Cheryl Chavez",
     "email": "Elody58@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@james57",
+    "tiktok_handle": "@rossharry",
+    "joined_at": "2025-01-13T13:51:18.373720",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "10ff60d8-5574-4a6e-99fe-539c140fd06b",
+            "brand": "Hamilton PLC",
             "tasks_completed": [
                 {
                     "task_id": "f512df4a-9782-4125-b8b8-ca9c0180105d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.davis-flores.com/",
+                    "likes": 8223,
                     "comments": 23,
                     "shares": 94,
                     "reach": 8132

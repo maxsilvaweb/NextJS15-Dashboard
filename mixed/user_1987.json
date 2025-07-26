@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a0e574f8-60dd-4776-802e-d7f9e819554f",
+    "name": "Mrs. Lindsay Mann",
+    "email": "tonyawilcox@example.com",
+    "instagram_handle": "@julie37",
+    "tiktok_handle": "@rebeccamckay",
+    "joined_at": "2025-05-14T09:38:50.662919",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "6b1a477f-2e8e-4f8d-af44-14bf6cb9aa9a",
             "brand": "Schmeler - Bartell",
             "tasks_completed": [
                 {
                     "task_id": "55c8b0fd-9d3d-46ce-954b-83153585f178",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "YouTube",
+                    "post_url": "http://english.net/",
+                    "likes": 8444,
+                    "comments": 461,
                     "shares": 21,
                     "reach": 5230
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8519.59
         }
     ]
 }

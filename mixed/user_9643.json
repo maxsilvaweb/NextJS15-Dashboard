@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "a77fc0a4-76ae-4140-a0c4-fe659d54e455",
     "name": "Loretta MacGyver",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "brandidavidson@example.org",
+    "instagram_handle": "@michael39",
+    "tiktok_handle": "@ibaker",
+    "joined_at": "2024-06-21T22:42:48.652245",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dde15ae4-0665-45e1-995d-a2719c326ed9",
+            "brand": "White-Randolph",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "371d7b78-1e23-4f84-aa28-473a397fe5fa",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.mcclure.net/",
                     "likes": 47,
-                    "comments": null,
+                    "comments": 271,
                     "shares": 39,
                     "reach": 8908
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2924.68
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "81ab7559-1b76-4754-a378-fa046e8ab1af",
+    "name": "Steven Marsh",
     "email": "Nat_Blick95@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@rjohnson",
+    "tiktok_handle": "@shines",
+    "joined_at": "2025-06-01T23:28:34.121497",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8a129c43-4b19-41e9-969f-8c03ab557673",
+            "brand": "Stevens, Fry and Best",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "fb48b541-a6af-4762-9af9-5b7160999c7a",
+                    "platform": "TikTok",
+                    "post_url": "https://www.kemp.com/",
+                    "likes": 798,
+                    "comments": 62,
                     "shares": 56,
                     "reach": 3474
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6557.47
         }
     ]
 }

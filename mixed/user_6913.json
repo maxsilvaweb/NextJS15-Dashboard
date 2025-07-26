@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3431f25d-d14e-45ef-818e-964204420bfa",
+    "name": "Caitlyn Marquez",
+    "email": "frederickkimberly@example.net",
+    "instagram_handle": "@laura81",
+    "tiktok_handle": "@browndaniel",
+    "joined_at": "2024-02-11T17:20:20.367394",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "32b24b8f-7acc-40cb-84fa-aa06303b0e67",
+            "brand": "Morales PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "eadc4d76-8d06-460e-a008-d5abe242362d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://ramos.com/",
+                    "likes": 2629,
                     "comments": 19,
                     "shares": 21,
                     "reach": 8168
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2527.35
         }
     ]
 }

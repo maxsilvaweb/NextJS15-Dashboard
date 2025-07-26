@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6808c30b-f2a1-41e0-ae3e-838655c25719",
+    "name": "Tanya Price",
+    "email": "iperez@example.net",
+    "instagram_handle": "@ssolis",
+    "tiktok_handle": "@karen99",
+    "joined_at": "2023-10-24T08:57:39.766317",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5919285a-e6a3-4c29-b4de-1f946c11e355",
+            "brand": "Snow LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bf040900-16d6-41d5-8491-57a17d692a82",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.williams.com/",
+                    "likes": 6880,
+                    "comments": 47,
                     "shares": 74,
                     "reach": 4054
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7500.3
         }
     ]
 }

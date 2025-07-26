@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "28506955-91ca-42bb-89ce-160e61a9e70b",
+    "name": "Joseph Rogers",
+    "email": "uchavez@example.com",
+    "instagram_handle": "@hurstmargaret",
+    "tiktok_handle": "@jrobinson",
+    "joined_at": "2025-02-04T00:23:45.042083",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4eb22860-8867-4729-81b6-7ebbd9b4f182",
+            "brand": "Mcintyre and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "94a07085-0314-4774-9b94-d68fc684160a",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.chan-smith.com/",
+                    "likes": 2806,
                     "comments": 2,
                     "shares": 100,
                     "reach": 6495

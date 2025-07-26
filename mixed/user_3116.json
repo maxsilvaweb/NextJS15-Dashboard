@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e17cb644-22bb-4ac9-82b6-65f57bf5cff2",
+    "name": "Alicia Schultz",
+    "email": "weaverdarin@example.net",
+    "instagram_handle": "@kelseysanchez",
+    "tiktok_handle": "@dayjohn",
+    "joined_at": "2024-02-16T01:35:06.067565",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2af820ea-8bc8-4953-b732-840f406bc124",
+            "brand": "Bennett, Ware and Garcia",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c75cc4a8-9f41-4303-8b40-f03de7601966",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://black-crane.info/",
+                    "likes": 6540,
+                    "comments": 401,
                     "shares": 58,
                     "reach": 5792
                 }

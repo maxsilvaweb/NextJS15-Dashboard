@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "035af515-5d3d-43a7-afa6-99ed4ea8f8d0",
+    "name": "Thomas Aguilar",
     "email": "Ken.Morar@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@potteramber",
+    "tiktok_handle": "@kimcalderon",
+    "joined_at": "2023-10-06T20:08:24.631217",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "df681991-1e20-4b5b-9c28-10688c87391e",
+            "brand": "Collier-Alvarado",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bfc3eeb6-58a5-4f3d-8789-78d082c60dd4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://sloan-daugherty.biz/",
+                    "likes": 8948,
                     "comments": 5,
                     "shares": 42,
                     "reach": 6314
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4305.47
         }
     ]
 }

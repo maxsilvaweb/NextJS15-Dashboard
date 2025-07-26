@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e5a23136-606b-4b49-8c02-bc2cb877ea3d",
+    "name": "Ricky Rodriguez",
+    "email": "zstafford@example.org",
+    "instagram_handle": "@nancy16",
+    "tiktok_handle": "@jbrown",
+    "joined_at": "2023-09-05T21:55:09.323435",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "31ca0067-fbb4-4970-914d-e66785aa4f01",
+            "brand": "Torres-Richardson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a085265d-5f40-4749-8309-34ba8fb21a1f",
                     "platform": "TikTok",
                     "post_url": "https://black-formamide.net/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 83,
+                    "comments": 273,
                     "shares": 38,
                     "reach": 6928
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8122.95
         }
     ]
 }

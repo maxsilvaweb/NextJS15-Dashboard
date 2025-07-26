@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ddc0e79e-eaf6-45c2-b238-530db84f9fbb",
+    "name": "Diana Phillips",
+    "email": "michael79@example.org",
+    "instagram_handle": "@iwilliams",
+    "tiktok_handle": "@hacevedo",
+    "joined_at": "2025-01-15T16:06:25.270317",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dd64a921-a09e-4a69-8a42-e5c69503db91",
+            "brand": "Whitehead-Owens",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "f0c4c9e5-38ee-4d89-b387-12aff7d65f41",
+                    "platform": "YouTube",
                     "post_url": "https://male-transparency.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5192,
+                    "comments": 123,
                     "shares": 58,
                     "reach": -1000
                 }

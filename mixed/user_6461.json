@@ -1,18 +1,18 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "803a8e11-8ce8-4ff7-ab46-ea16007f84d2",
+    "name": "Gary White",
+    "email": "curtis21@example.org",
+    "instagram_handle": "@joann28",
+    "tiktok_handle": "@ericksondavid",
+    "joined_at": "2024-11-29T14:35:49.799130",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c3a86987-8f58-4fb4-a279-a8b01a6db0c5",
+            "brand": "James and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "fc9d6c02-5a05-41f6-8d8e-6657159986dc",
+                    "platform": "TikTok",
                     "post_url": "https://square-mantua.info/",
                     "likes": 160,
                     "comments": 3,
@@ -20,7 +20,7 @@
                     "reach": 6276
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 121.22
         }
     ]
 }

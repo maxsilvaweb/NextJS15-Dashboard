@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e9a845ee-4199-4eb4-bd30-5d325f28f773",
+    "name": "Adam Vang Jr.",
+    "email": "jameswilliams@example.com",
+    "instagram_handle": "@lisahiggins",
+    "tiktok_handle": "@abigailkane",
+    "joined_at": "2024-06-25T16:47:15.661144",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "03920114-b8c8-4980-9c79-4f2439adf0a2",
+            "brand": "Baker Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5ba8a0a9-9316-4a23-8616-0229f845b48d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.zimmerman.org/",
+                    "likes": 2769,
+                    "comments": 44,
                     "shares": 45,
                     "reach": 7176
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4917.59
         }
     ]
 }

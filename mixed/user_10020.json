@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae23",
-  "name": "Max Silva17",
-  "email": "maxsilvvauk@17wwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae23",
+    "name": "Max Silva17",
+    "email": "maxsilvvauk@17wwilwweeewd.com",
+    "instagram_handle": "@nicole88",
+    "tiktok_handle": "@caleb12",
+    "joined_at": "2025-05-28T17:13:40.713888",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "3d71a357-e048-47dd-bc51-6e172f42da7b",
+            "brand": "Hicks-Ellis",
+            "tasks_completed": [
+                {
+                    "task_id": "8436a523-d3ec-40e4-b0d1-89fc0e3d1d81",
+                    "platform": "TikTok",
+                    "post_url": "http://cox.com/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 5997.94
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

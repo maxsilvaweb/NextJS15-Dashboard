@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d63e74a6-bf2a-4026-a8b9-19c8e3278ef5",
+    "name": "Mandy Ward",
+    "email": "linda04@example.com",
+    "instagram_handle": "@kristen20",
+    "tiktok_handle": "@kimberlymcintosh",
+    "joined_at": "2025-06-15T16:11:39.399120",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7e05c27d-20e4-4ad3-9842-dd6c10c253f7",
+            "brand": "Blake, Pruitt and Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "be88e7c4-aa60-48fc-954c-aaf6373fe48f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.young-allen.net/",
+                    "likes": 5831,
+                    "comments": 321,
                     "shares": 41,
                     "reach": 4822
                 }

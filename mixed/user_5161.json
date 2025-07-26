@@ -1,26 +1,26 @@
 {
     "user_id": "c2d69c23-bf31-4f0d-b9e3-1cbf54e5a381",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "name": "John West",
+    "email": "kayla29@example.com",
+    "instagram_handle": "@lnoble",
+    "tiktok_handle": "@yolandadavis",
     "joined_at": "2025-01-05T08:56:32.069Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "056a0d47-d9d8-446d-bb4e-c9723d30d652",
+            "brand": "Martinez-Blair",
             "tasks_completed": [
                 {
                     "task_id": "eef9566d-11a3-4c6c-8105-2485092a747c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.jones.com/",
+                    "likes": 9360,
+                    "comments": 163,
                     "shares": 89,
                     "reach": 8597
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 412.15
         }
     ]
 }

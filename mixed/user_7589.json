@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "ef5d1be3-0b12-4f25-ac33-85629d846de4",
+    "name": "Leah Perez",
+    "email": "joshuagarcia@example.org",
     "instagram_handle": "@Earnest.Casper32",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@gonzalezlindsey",
+    "joined_at": "2025-05-07T11:11:43.065660",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "08218d5f-2bec-4dee-8f7e-c14c1fa24e3b",
+            "brand": "Turner LLC",
             "tasks_completed": [
                 {
                     "task_id": "bfb887ec-1a3b-4db0-ac17-5e88a31e17e5",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://mcbride-ferrell.com/",
+                    "likes": 4361,
                     "comments": 12,
                     "shares": 23,
                     "reach": 6948
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2768.44
         }
     ]
 }

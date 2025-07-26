@@ -1,26 +1,26 @@
 {
     "user_id": "ab11a83a-cbdf-4ac3-a70e-b2bb096a8b09",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Robert Charles",
+    "email": "karamoreno@example.com",
+    "instagram_handle": "@piercemichael",
+    "tiktok_handle": "@webbshelby",
+    "joined_at": "2023-10-24T19:30:03.170799",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9a2fb2df-fe5c-44e6-8482-371a22189ff1",
+            "brand": "Jackson-Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b78bbe14-42d2-4607-a255-d2466716318d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://nguyen.com/",
+                    "likes": 6469,
+                    "comments": 327,
                     "shares": 67,
                     "reach": 8466
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2224.54
         }
     ]
 }

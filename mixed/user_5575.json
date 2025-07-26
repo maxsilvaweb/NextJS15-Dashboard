@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c50fb0c0-e57a-4e1a-8045-075f701eb9fd",
+    "name": "Diana Gill",
+    "email": "hharris@example.net",
+    "instagram_handle": "@rrichards",
+    "tiktok_handle": "@adamsmatthew",
+    "joined_at": "2024-02-18T01:36:22.136640",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c32e655c-c673-411c-9206-8dafb3a7fb28",
+            "brand": "Reynolds-Watson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "a6fa50c7-e86e-415b-be59-6428ae454df1",
+                    "platform": "Twitter",
+                    "post_url": "http://www.brown-lawrence.com/",
                     "likes": 483,
-                    "comments": null,
+                    "comments": 247,
                     "shares": 71,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8496.37
         }
     ]
 }

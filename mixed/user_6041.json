@@ -1,26 +1,26 @@
 {
     "user_id": "54a7a68b-2b9b-4524-a477-b0256a19a520",
-    "name": "???",
-    "email": "invalid-email",
+    "name": "Mark Haynes",
+    "email": "heather25@example.net",
     "instagram_handle": "@Constance28",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@devin58",
+    "joined_at": "2024-10-08T08:14:47.703359",
     "advocacy_programs": [
         {
             "program_id": "4a4ddd33-28b7-4638-a504-60ca0e5f9999",
-            "brand": 12345,
+            "brand": "Sanders, Thomas and Roth",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2bd8dba5-46c4-40f1-a006-63c78146a2e5",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://martinez.net/",
+                    "likes": 5763,
+                    "comments": 254,
                     "shares": 66,
                     "reach": 2115
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 260.51
         }
     ]
 }

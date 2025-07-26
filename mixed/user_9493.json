@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5d455354-0c5d-43ee-a54a-555ed389aef4",
+    "name": "Tony Knight",
+    "email": "jamesgibson@example.org",
+    "instagram_handle": "@andrewmaxwell",
+    "tiktok_handle": "@sarahmiller",
+    "joined_at": "2024-05-29T06:46:22.357144",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2543b972-6381-47b4-954f-edd7b4dc105e",
+            "brand": "Palmer, Gillespie and Williams",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ae00ee25-5dec-4474-82cd-38a351f4d572",
                     "platform": "Facebook",
                     "post_url": "https://neat-patroller.org",
                     "likes": 265,
-                    "comments": null,
+                    "comments": 122,
                     "shares": 55,
                     "reach": 1190
                 }

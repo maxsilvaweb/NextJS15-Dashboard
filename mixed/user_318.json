@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "702c1b64-1334-40d2-b570-2a0d7c1a1bc5",
+    "name": "Ryan Leonard",
+    "email": "dawn80@example.com",
+    "instagram_handle": "@cisnerosstephanie",
+    "tiktok_handle": "@hoodbradley",
+    "joined_at": "2024-03-11T09:58:02.225276",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ba33ecba-35b7-4f1b-8c79-45bf60f04d23",
+            "brand": "Donaldson, Bell and Mitchell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "45f1b707-7bac-46ea-8c46-9a7f6a5c9368",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://baxter-hughes.com/",
                     "likes": 156,
                     "comments": 38,
                     "shares": 37,

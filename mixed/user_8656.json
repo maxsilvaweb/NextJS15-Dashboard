@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c919783d-9a0c-4a82-9e9c-e3de3cf64217",
+    "name": "Meghan Ramirez",
+    "email": "howard10@example.com",
+    "instagram_handle": "@kelseymosley",
+    "tiktok_handle": "@dunnbrittany",
+    "joined_at": "2025-06-01T00:09:49.576871",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "77b1682c-43d5-4a76-be11-66402cc06926",
+            "brand": "Peterson, Robbins and Conner",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e90c56f7-d6cd-406d-85b6-e4ba2d374b4b",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.pena.com/",
                     "likes": 237,
-                    "comments": null,
+                    "comments": 9,
                     "shares": 34,
                     "reach": 7105
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 398.48
         }
     ]
 }

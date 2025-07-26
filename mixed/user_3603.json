@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1dc59500-856d-4482-b307-c48ac06a9218",
+    "name": "Rodney Brown",
+    "email": "campbelljennifer@example.com",
+    "instagram_handle": "@petersonmarvin",
+    "tiktok_handle": "@randy57",
+    "joined_at": "2025-03-17T03:33:20.448764",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0171a716-5681-49d9-be26-303c8dc0a903",
+            "brand": "Bernard, Stephens and Mitchell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a7920ea0-7f24-4577-8951-48449d87672b",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.marquez.net/",
+                    "likes": 3459,
+                    "comments": 235,
                     "shares": 54,
                     "reach": 6905
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8550.71
         }
     ]
 }

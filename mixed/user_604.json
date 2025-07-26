@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b5f7028b-aedd-4123-bd70-6bda7767a36e",
+    "name": "Alexander Wallace",
+    "email": "garciajake@example.com",
+    "instagram_handle": "@joneselizabeth",
+    "tiktok_handle": "@annaoliver",
+    "joined_at": "2025-07-01T00:31:21.172542",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "00f60897-285c-44ba-a94e-172f037b3889",
+            "brand": "Solomon Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "59f87a54-6fe6-4c44-9302-cecd1b5e1e15",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.estes.com/",
                     "likes": 151,
-                    "comments": null,
+                    "comments": 388,
                     "shares": 13,
                     "reach": 5048
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2738.91
         }
     ]
 }

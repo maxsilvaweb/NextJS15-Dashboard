@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6db808d2-b6a2-4868-9a3f-22fdc2b112b3",
+    "name": "Ian Hart",
+    "email": "veronicagarcia@example.net",
+    "instagram_handle": "@charlesbrennan",
+    "tiktok_handle": "@vbowman",
+    "joined_at": "2025-03-22T06:50:57.402939",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3d9deafb-bcde-4ee5-82ca-94600fff5a8c",
+            "brand": "Simon and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "1479ff91-86e5-411b-8a97-7cc03d7feff8",
+                    "platform": "TikTok",
+                    "post_url": "http://www.gomez.net/",
+                    "likes": 2820,
                     "comments": 23,
                     "shares": 11,
                     "reach": 4309
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 610.1
         }
     ]
 }

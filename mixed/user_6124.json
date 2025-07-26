@@ -1,21 +1,21 @@
 {
-    "user_id": null,
+    "user_id": "f438ed2a-8f62-42b5-9ef1-bfe31a728784",
     "name": "Dr. Jenna Keeling",
-    "email": "invalid-email",
+    "email": "krhodes@example.net",
     "instagram_handle": "@Kelton28",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@coreygibson",
+    "joined_at": "2023-10-19T08:49:36.062855",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6f3cf78c-e14a-4de7-aefa-b1f2b9635a25",
+            "brand": "Young, Gonzalez and Jenkins",
             "tasks_completed": [
                 {
                     "task_id": "0205bd09-8224-4483-bf86-1a5247bf97cc",
                     "platform": "TikTok",
                     "post_url": "https://cloudy-scratch.org/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9672,
+                    "comments": 329,
                     "shares": 39,
                     "reach": -1000
                 }

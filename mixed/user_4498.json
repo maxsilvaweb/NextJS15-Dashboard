@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f6b7ad14-d28a-4de2-aa94-7dcc3d6c0c7c",
+    "name": "Rick Jackson",
+    "email": "pdavidson@example.com",
+    "instagram_handle": "@wortiz",
+    "tiktok_handle": "@jamesroy",
+    "joined_at": "2023-09-19T18:08:14.583293",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "26529d64-f007-42db-b301-3b737e2238a5",
+            "brand": "Campbell Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "440be778-ba46-40d8-864e-60cec5c787d2",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://ferguson.com/",
+                    "likes": 835,
+                    "comments": 292,
                     "shares": 53,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9936.99
         }
     ]
 }

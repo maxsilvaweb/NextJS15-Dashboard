@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cb01a019-0dab-42bc-8000-37874b581bd9",
+    "name": "Laura Flowers",
+    "email": "wacosta@example.org",
+    "instagram_handle": "@hernandezshelia",
+    "tiktok_handle": "@bwalter",
+    "joined_at": "2025-03-05T16:12:59.654416",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f8567c6c-d061-44f7-b391-2b5692fe0a12",
+            "brand": "Miranda, Stewart and Jordan",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "ee8b1c2c-6d68-4304-a368-afabd8c55660",
+                    "platform": "Instagram",
+                    "post_url": "http://www.watson.com/",
+                    "likes": 285,
+                    "comments": 44,
                     "shares": 97,
                     "reach": 1870
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 110.63
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0d3fb255-c2d5-4f37-bbb7-ad113322391e",
+    "name": "Theresa Smith",
+    "email": "mason24@example.net",
+    "instagram_handle": "@fyang",
+    "tiktok_handle": "@raymond45",
+    "joined_at": "2025-06-15T22:15:19.440243",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7c2b5cae-60f7-46dd-b248-89cc6d8ce57e",
+            "brand": "Reed, Sanchez and Perez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b3d7c6c4-5beb-4137-8d75-038e72df2665",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.parker-peterson.com/",
+                    "likes": 9579,
                     "comments": 24,
                     "shares": 44,
                     "reach": 9636

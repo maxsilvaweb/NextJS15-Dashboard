@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "d1543228-58ee-4395-9561-fa3e639e07c9",
+    "name": "Samantha Holmes",
+    "email": "dawn61@example.com",
+    "instagram_handle": "@rodriguezjuan",
     "tiktok_handle": "@Heather88",
-    "joined_at": "not-a-date",
+    "joined_at": "2023-08-09T16:03:27.885553",
     "advocacy_programs": [
         {
             "program_id": "198a79da-353c-4e75-949d-eb3109161dc7",
-            "brand": 12345,
+            "brand": "Coleman Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "7ecd5a4e-171d-421a-94c4-c841b72eb891",
+                    "platform": "Twitter",
                     "post_url": "https://roasted-flat.net/",
-                    "likes": "NaN",
+                    "likes": 2968,
                     "comments": 39,
                     "shares": 50,
                     "reach": 7800
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4449.6
         }
     ]
 }

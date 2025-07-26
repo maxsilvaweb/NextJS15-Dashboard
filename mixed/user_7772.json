@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a5e8d46b-8fa7-460e-9406-724e4aaef644",
+    "name": "Brandon Hopkins",
+    "email": "jamie16@example.net",
+    "instagram_handle": "@christopher43",
+    "tiktok_handle": "@adamselizabeth",
+    "joined_at": "2024-04-01T04:09:36.436799",
     "advocacy_programs": [
         {
             "program_id": "6099fd25-1e3a-4644-98e2-6a544556a97c",
-            "brand": 12345,
+            "brand": "Bernard-Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fb78225d-f2e8-426c-ae72-e5d30c5e5b44",
                     "platform": "TikTok",
                     "post_url": "https://pretty-makeover.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3261,
+                    "comments": 3,
                     "shares": 58,
                     "reach": 9781
                 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "d79e798c-f126-4714-a5f9-6c0d25afe028",
+    "name": "Michael Scott",
+    "email": "lvasquez@example.com",
+    "instagram_handle": "@matthewsryan",
+    "tiktok_handle": "@whitneyamy",
     "joined_at": "2024-08-23T02:34:12.036Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d15832e5-1335-44a6-980f-56028943c019",
+            "brand": "Page, Hernandez and Gonzalez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0e87623a-04ae-4257-8567-4939ed94764f",
                     "platform": "Instagram",
                     "post_url": "https://agitated-iridescence.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5751,
+                    "comments": 129,
                     "shares": 51,
                     "reach": 9124
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7fe852fd-79fb-4116-bf8e-d02a3f24e19c",
+    "name": "Courtney Pacheco",
+    "email": "cynthia43@example.net",
+    "instagram_handle": "@earl23",
+    "tiktok_handle": "@johnrichardson",
+    "joined_at": "2023-08-23T08:19:13.295196",
     "advocacy_programs": [
         {
             "program_id": "e902bdcf-6992-4000-828a-b3cfa82dd5d1",
-            "brand": 12345,
+            "brand": "Johnson-Hale",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4c10a23c-5c0d-43fd-92ae-616a2917b56d",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://wilson-smith.com/",
+                    "likes": 4495,
                     "comments": 29,
                     "shares": 56,
                     "reach": 907
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 743.13
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "c50e365b-2427-4bff-8cd3-1f01ae8d17f1",
+    "name": "Renee Fuller",
     "email": "Murphy.Hintz@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@bryanraymond",
+    "tiktok_handle": "@hernandezlindsey",
+    "joined_at": "2024-12-19T18:28:38.602635",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "64b1bd79-ed8a-4966-869a-fd791c54c4d8",
+            "brand": "Taylor Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "52f7f95e-13b9-4d3b-b804-c9a24fb7c446",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.clark.com/",
+                    "likes": 8446,
+                    "comments": 365,
                     "shares": 82,
                     "reach": 4384
                 }

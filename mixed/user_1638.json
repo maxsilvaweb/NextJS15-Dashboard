@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2f52850d-89bb-437a-8171-28ae30d347f8",
+    "name": "Nicole Padilla",
+    "email": "bobbyhudson@example.net",
+    "instagram_handle": "@jacobsonwilliam",
+    "tiktok_handle": "@bradleygolden",
+    "joined_at": "2024-10-02T20:58:35.720718",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "054847e7-9f1f-4adf-86c6-11aea55b0813",
+            "brand": "Guerrero-Rice",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "350a55ed-f2f1-4f1a-a8a5-5eadff49ca54",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.dixon.org/",
+                    "likes": 8802,
+                    "comments": 436,
                     "shares": 64,
                     "reach": 5551
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9298.85
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "77a4b26c-f98f-4518-a82e-decea15ebef7",
+    "name": "Patricia Garza",
+    "email": "qowens@example.com",
+    "instagram_handle": "@evillegas",
+    "tiktok_handle": "@kcruz",
+    "joined_at": "2024-06-29T10:01:55.664410",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b8399aa6-8637-4f46-9ebb-242b0cf63f31",
+            "brand": "Kent-Ibarra",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "77acdb91-bf83-4c22-b78f-1fb663cd22b9",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://mercer.com/",
                     "likes": 264,
                     "comments": 29,
                     "shares": 58,

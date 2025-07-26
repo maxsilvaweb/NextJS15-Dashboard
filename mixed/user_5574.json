@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "042b0546-33e8-48d1-9fe3-91f4bff4d684",
+    "name": "Alicia Norman",
+    "email": "ycruz@example.com",
+    "instagram_handle": "@lawrencekenneth",
+    "tiktok_handle": "@johnmclaughlin",
+    "joined_at": "2024-08-30T10:29:11.590509",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3e5fc75f-87ba-4e2d-b838-45281d9104cf",
+            "brand": "Black and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ed505818-e291-4845-87b7-92c69a70f8cc",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.rivera-smith.com/",
                     "likes": 18,
-                    "comments": null,
+                    "comments": 334,
                     "shares": 59,
                     "reach": 3766
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5106.61
         }
     ]
 }

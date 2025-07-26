@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e42853a2-3761-4232-b5fb-52abc466169d",
+    "name": "Nicole Patterson",
+    "email": "svega@example.org",
+    "instagram_handle": "@lisakirby",
+    "tiktok_handle": "@deanporter",
+    "joined_at": "2025-03-09T10:18:19.957211",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "90f1b399-b35f-4b76-a682-6f8338eae657",
+            "brand": "Martin Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6a0e7953-0bc4-4647-b631-2e68dd233735",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.craig-wilkins.com/",
+                    "likes": 1343,
+                    "comments": 143,
                     "shares": 47,
                     "reach": 2412
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7326.96
         }
     ]
 }

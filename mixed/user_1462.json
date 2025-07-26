@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "b23d4028-fcf6-41a5-95e7-088e18382af1",
+    "name": "Kevin Higgins",
+    "email": "tammygardner@example.net",
+    "instagram_handle": "@todd64",
+    "tiktok_handle": "@armstrongpatricia",
     "joined_at": "2024-10-11T08:51:49.402Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ee802fe3-ea31-41df-8a6e-14885b1864ff",
+            "brand": "Miller-Dennis",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f109950c-ea18-4e51-bd34-593d4613fb99",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.harris.com/",
+                    "likes": 8257,
+                    "comments": 304,
                     "shares": 65,
                     "reach": 8408
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6077.15
         }
     ]
 }

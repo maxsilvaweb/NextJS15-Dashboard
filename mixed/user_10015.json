@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae23",
-  "name": "Max Silva16",
-  "email": "maxsilvvauk@15wwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae23",
+    "name": "Max Silva16",
+    "email": "maxsilvvauk@15wwilwweeewd.com",
+    "instagram_handle": "@michael18",
+    "tiktok_handle": "@christopherhughes",
+    "joined_at": "2024-07-17T02:46:27.196266",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "e1e3ac8c-f3f1-4cb3-9a53-9a3844bd7220",
+            "brand": "Stewart, Brown and Madden",
+            "tasks_completed": [
+                {
+                    "task_id": "9fb2b28e-acbd-43f0-92b1-f7b1cdb4aca1",
+                    "platform": "TikTok",
+                    "post_url": "https://hubbard.com/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 7150.07
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

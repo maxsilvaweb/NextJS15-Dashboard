@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e93f2fcf-59c1-44ee-af7b-cd0c2fd2aacc",
+    "name": "Julie Thomas",
+    "email": "llopez@example.com",
+    "instagram_handle": "@ramosrobert",
+    "tiktok_handle": "@beverly66",
+    "joined_at": "2023-12-07T07:36:02.056874",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "18a622ed-bca5-419c-8fc0-7577de4857d9",
+            "brand": "Perez, Calderon and Walker",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cd8a0fff-d614-4248-8c7a-3128db42ebbf",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.hines.com/",
+                    "likes": 7757,
                     "comments": 48,
                     "shares": 9,
                     "reach": 2129
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5884.85
         }
     ]
+}

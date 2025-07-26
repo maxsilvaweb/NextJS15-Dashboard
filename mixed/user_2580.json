@@ -1,26 +1,26 @@
 {
     "user_id": "ff745557-f9f4-44d5-b0e5-e4a31b5c94c2",
-    "name": "???",
+    "name": "Emily Morris",
     "email": "Elisa77@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jason89",
+    "tiktok_handle": "@ruizcheryl",
+    "joined_at": "2024-05-18T10:02:49.216922",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "91879614-1751-4f5f-8cce-5bc399c8127e",
+            "brand": "Fitzgerald-Lynch",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3b3bcf5c-7b94-46be-a42e-79ddc96e7a06",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.woods.org/",
                     "likes": 175,
-                    "comments": null,
+                    "comments": 169,
                     "shares": 15,
                     "reach": 4481
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4161.12
         }
     ]
 }

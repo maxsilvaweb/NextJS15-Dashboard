@@ -1,26 +1,26 @@
 {
     "user_id": "39fc01a5-3904-42ea-b411-6ee63498a199",
-    "name": "???",
-    "email": "invalid-email",
+    "name": "Duane Holmes Jr.",
+    "email": "bobbyjones@example.org",
     "instagram_handle": "@Edgar_Cremin",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@ryan37",
+    "joined_at": "2023-10-01T07:27:12.729533",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5d3216af-fd97-434f-ac6a-16e55b36ee77",
+            "brand": "Rogers, Perez and Bell",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "0da5470a-8c95-40d3-8bfa-ad300bd29a15",
+                    "platform": "Instagram",
+                    "post_url": "https://www.stewart.com/",
+                    "likes": 3862,
                     "comments": 46,
                     "shares": 20,
                     "reach": 1936
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6789.13
         }
     ]
 }

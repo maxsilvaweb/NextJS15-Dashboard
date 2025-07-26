@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "55b055df-61d0-4dab-999e-64394f7e128d",
+    "name": "Matthew Williams",
+    "email": "vwhite@example.com",
+    "instagram_handle": "@ogriffin",
+    "tiktok_handle": "@lcalhoun",
+    "joined_at": "2024-11-30T05:25:48.255621",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0206fed2-5356-493d-9b17-820b55ed8971",
+            "brand": "Ross LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bb91eafa-a15d-4204-a33b-059e4a2be704",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.foster.org/",
+                    "likes": 7863,
+                    "comments": 308,
                     "shares": 59,
                     "reach": 1393
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6992.77
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7eb6a3f0-7a36-484e-a828-b586271154e7",
+    "name": "Rebecca Hughes MD",
+    "email": "stanleywilson@example.org",
+    "instagram_handle": "@leedeanna",
+    "tiktok_handle": "@scott55",
+    "joined_at": "2025-06-03T00:55:11.952981",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8f2073d0-c02b-4052-bbdd-744e6e2d38c4",
+            "brand": "Hansen-Powell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fa47509a-9c4a-47ff-a7b2-43a902398229",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.robinson.com/",
+                    "likes": 3481,
                     "comments": 27,
                     "shares": 94,
                     "reach": 1383

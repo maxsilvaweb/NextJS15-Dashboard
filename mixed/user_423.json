@@ -1,26 +1,26 @@
 {
     "user_id": "dd3055df-9d42-4bc6-ac0a-63b51428f259",
-    "name": "???",
+    "name": "Christopher Coleman",
     "email": "Shaniya86@yahoo.com",
-    "instagram_handle": null,
+    "instagram_handle": "@courtney20",
     "tiktok_handle": "@Bernhard_MacGyver58",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-09-03T20:50:33.476523",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "18b167a8-9a10-4041-be3d-1af1a4a7b185",
+            "brand": "Sullivan, Watkins and Ruiz",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bdf2be94-c52f-4e87-9b61-54462bc03a53",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.wagner.com/",
+                    "likes": 233,
+                    "comments": 335,
                     "shares": 43,
                     "reach": 9230
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2669.25
         }
     ]
 }

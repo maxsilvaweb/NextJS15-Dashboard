@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "0a663988-559b-4f81-ac98-2d4fb435c025",
+    "name": "Brian Mcguire",
     "email": "Casper.Kling@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@brodriguez",
+    "tiktok_handle": "@smarks",
+    "joined_at": "2024-04-22T22:28:47.833384",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a26277f9-f480-49b9-a79b-59d722ea1c03",
+            "brand": "Warren and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b614cae2-8b5c-43ab-a499-a371fb2363db",
                     "platform": "Facebook",
                     "post_url": "https://late-scenario.org/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5272,
+                    "comments": 158,
                     "shares": 36,
                     "reach": 5605
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1179.54
         }
     ]
 }

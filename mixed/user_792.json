@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a68457c1-bdaa-45cb-b7f0-adb74a96aef0",
+    "name": "Eric Hernandez",
     "email": "Darian_Greenholt21@gmail.com",
     "instagram_handle": "@Sunny76",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@burnsmichael",
+    "joined_at": "2024-07-16T18:13:37.612697",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "56626d0a-2418-4aa9-9da3-f150a84938cf",
+            "brand": "Morton, Gonzalez and Reyes",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a547d590-b7b1-444c-9b7f-1ad0145a2f5a",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://green.biz/",
+                    "likes": 518,
                     "comments": 34,
                     "shares": 59,
                     "reach": 4968
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2295.05
         }
     ]
 }

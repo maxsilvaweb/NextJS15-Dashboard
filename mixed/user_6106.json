@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0845ebeb-247f-49d0-a155-8c525b484b2e",
+    "name": "Thomas Fields",
+    "email": "ktravis@example.org",
+    "instagram_handle": "@jessicacamacho",
+    "tiktok_handle": "@maryrivera",
+    "joined_at": "2024-06-22T07:22:22.681966",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5cda3905-c2c3-4c18-b16e-7628c1a60797",
+            "brand": "Bean-Franco",
             "tasks_completed": [
                 {
                     "task_id": "5428d1b2-62b9-40a1-8031-a43d53e5b34f",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "Twitter",
+                    "post_url": "https://www.pennington.com/",
+                    "likes": 8683,
+                    "comments": 25,
                     "shares": 76,
                     "reach": 8492
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8977.15
         }
     ]
 }

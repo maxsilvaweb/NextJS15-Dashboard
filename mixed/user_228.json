@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "722e4ca8-14be-4153-8262-b3234972f2de",
+    "name": "Donna Marsh",
+    "email": "mcdonaldmichele@example.org",
+    "instagram_handle": "@whogan",
+    "tiktok_handle": "@jose61",
+    "joined_at": "2024-09-27T01:16:02.830895",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "97b0cd64-5253-42e0-9b30-1d5a336dbdd8",
+            "brand": "Cabrera-Wilson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "a133abea-3af0-4b45-bd02-7bef591717dd",
+                    "platform": "Twitter",
+                    "post_url": "http://www.green.com/",
                     "likes": 229,
                     "comments": 28,
                     "shares": 91,
                     "reach": 3312
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5807.16
         }
     ]
 }

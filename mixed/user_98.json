@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "bcffa73e-4fc7-4813-ad18-3ee77dfc8292",
+    "name": "Mr. Michael Bass",
     "email": "Willard.Mohr-Sipes@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@ibowers",
+    "tiktok_handle": "@davislori",
+    "joined_at": "2023-12-04T04:11:21.854495",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b9a91680-76ae-4498-9531-a02dd2d453e0",
+            "brand": "Lawrence, Smith and Griffin",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "19607a27-d6ce-4c05-a62b-c2aab37f0fb1",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://larson.com/",
+                    "likes": 1731,
+                    "comments": 26,
                     "shares": 27,
                     "reach": 3711
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2003.7
         }
     ]
 }

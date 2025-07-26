@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "9b21bd53-181c-4ad1-8e89-cf82528feea1",
+    "name": "Teresa Lewis",
     "email": "Lucius69@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@kayla38",
+    "tiktok_handle": "@adamskyle",
     "joined_at": "2025-02-12T11:09:39.524Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e4ba51b9-d3b0-4b88-8005-3bf6578609ba",
+            "brand": "Booth-Farrell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "978a75ef-2cb5-4f4d-ba8f-b947f35f86b0",
                     "platform": "Instagram",
                     "post_url": "https://nervous-distinction.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4763,
+                    "comments": 241,
                     "shares": 51,
                     "reach": 9048
                 }

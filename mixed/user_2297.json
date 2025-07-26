@@ -1,25 +1,26 @@
 {
     "user_id": "9e23ca12-993b-4323-9fec-0221fccb72bd",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Robin Perez",
+    "email": "xgordon@example.org",
+    "instagram_handle": "@qhall",
+    "tiktok_handle": "@michaelduarte",
+    "joined_at": "2025-01-02T19:37:34.260733",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "60bc3639-6631-446d-821d-aabbb035e182",
+            "brand": "Campos, Wise and Delacruz",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a98a87be-4fcf-4213-97e4-cdfb90d44dfa",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.bailey.biz/",
+                    "likes": 2818,
+                    "comments": 347,
                     "shares": 25,
                     "reach": 4213
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3790.88
         }
     ]
+}

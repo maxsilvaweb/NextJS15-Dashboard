@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e0466fae-d7e5-4973-aaaf-f665bc4a2c5b",
+    "name": "Lucas Wright",
+    "email": "snyderandrew@example.com",
+    "instagram_handle": "@linda75",
+    "tiktok_handle": "@lewisdonna",
+    "joined_at": "2024-05-18T14:33:19.103962",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b9a36c09-1104-4038-a56d-6f7a75933c8e",
+            "brand": "Ramirez-Chambers",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "f011d42f-cd26-4f04-ae42-8a2fb9d42bcd",
+                    "platform": "TikTok",
                     "post_url": "https://multicolored-premise.name/",
                     "likes": 325,
-                    "comments": null,
+                    "comments": 464,
                     "shares": 63,
                     "reach": 2907
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8186.51
         }
     ]
 }

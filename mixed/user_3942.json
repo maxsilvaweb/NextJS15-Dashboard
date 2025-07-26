@@ -1,26 +1,26 @@
 {
     "user_id": "c9c6bd6d-6033-4046-8025-d330b5e980a5",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Terry Bryant DDS",
+    "email": "dawsonelizabeth@example.com",
+    "instagram_handle": "@yryan",
+    "tiktok_handle": "@brett70",
+    "joined_at": "2024-04-26T21:35:53.106858",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ce5d8ae9-7c48-431a-9875-e7728bf1d65f",
+            "brand": "Mcintosh, Lopez and Coleman",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4d5d991a-f8b5-4090-8e14-585b6909bb5b",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://west.biz/",
+                    "likes": 2064,
                     "comments": 44,
                     "shares": 72,
                     "reach": 7860
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4746.97
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c22c6e08-81bc-40bf-a244-83272fd3cf79",
+    "name": "Melissa Lewis",
+    "email": "gainesstephen@example.com",
+    "instagram_handle": "@sheppardglenda",
+    "tiktok_handle": "@jpeters",
+    "joined_at": "2024-10-25T05:06:48.186773",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "11143a38-e676-483c-b495-ca09179c0e13",
+            "brand": "Price, Montoya and Russell",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "d4477bb9-121e-453b-a40b-d301816e4ea6",
+                    "platform": "Twitter",
+                    "post_url": "http://thornton-hogan.com/",
+                    "likes": 6467,
+                    "comments": 105,
                     "shares": 17,
                     "reach": 9859
                 }

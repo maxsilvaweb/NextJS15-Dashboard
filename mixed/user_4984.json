@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5b6a9d16-f047-4ba2-9518-b46de1a2b069",
+    "name": "Amy Waters",
+    "email": "josephhendricks@example.net",
+    "instagram_handle": "@patriciafreeman",
+    "tiktok_handle": "@codybrown",
+    "joined_at": "2025-02-07T01:45:59.166169",
     "advocacy_programs": [
         {
             "program_id": "0d85af09-d1a5-4f00-a148-ff9d30a50e09",
-            "brand": 12345,
+            "brand": "Hensley-Lucas",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "afcd9781-4a8c-45a6-9895-9857635bdbed",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.koch.com/",
+                    "likes": 372,
                     "comments": 10,
                     "shares": 38,
                     "reach": 4311
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 159.0
         }
     ]
 }

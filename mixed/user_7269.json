@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "042b3eb9-d510-4e7a-bfef-69d004a7ddd9",
+    "name": "Jonathan Hays",
+    "email": "ncamacho@example.com",
+    "instagram_handle": "@danielholmes",
+    "tiktok_handle": "@nicholas06",
+    "joined_at": "2023-11-24T06:46:05.790797",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "98b8c1ae-e56c-435b-8724-8bdf4f549fef",
+            "brand": "Mcknight, Hall and Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d2d6f864-cd9c-47d5-9e68-b056a306188e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://miller.com/",
+                    "likes": 7343,
+                    "comments": 225,
                     "shares": 78,
                     "reach": 1082
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5890.37
         }
     ]
 }

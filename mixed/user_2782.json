@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "a32adb9c-61e9-4dae-a2ba-e5f6eaa33d17",
+    "name": "Michael Valdez",
+    "email": "colleenmartinez@example.org",
+    "instagram_handle": "@mayrichard",
     "tiktok_handle": "@Chance11",
-    "joined_at": "not-a-date",
+    "joined_at": "2023-11-05T04:08:35.932441",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "14ea6d90-67c5-4421-90b9-9a52be0f3fc8",
+            "brand": "Martinez and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "968f0fc2-8d74-4ac9-8f08-0d26e3c50f3e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.hawkins.biz/",
+                    "likes": 897,
+                    "comments": 86,
                     "shares": 39,
                     "reach": 3394
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2173.82
         }
     ]
+}

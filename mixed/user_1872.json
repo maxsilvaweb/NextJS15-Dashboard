@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "87aa0fb2-ce0f-4579-a37d-b0616318b2b4",
+    "name": "Jessica Frazier",
+    "email": "claudia71@example.org",
+    "instagram_handle": "@nguyendavid",
+    "tiktok_handle": "@thomasbeltran",
+    "joined_at": "2025-07-23T20:10:00.597126",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b6bdf7e4-f157-4fdf-8fe2-65cf3cf43653",
+            "brand": "Crawford and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "118b9e8f-166d-43c4-a110-9e391cd7dd44",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.cummings.com/",
+                    "likes": 5021,
+                    "comments": 252,
                     "shares": 51,
                     "reach": 9997
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4541.58
         }
     ]
 }

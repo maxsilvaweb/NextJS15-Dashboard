@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ea75942d-52c3-4f0f-8ae5-ffef64e7fdcc",
+    "name": "Michelle Cooper",
+    "email": "wwaters@example.net",
+    "instagram_handle": "@donald35",
+    "tiktok_handle": "@ebaker",
+    "joined_at": "2024-09-21T04:59:57.460436",
     "advocacy_programs": [
         {
             "program_id": "3c0b58bc-31ff-4416-b835-ba2de32b60e6",
-            "brand": 12345,
+            "brand": "Black Inc",
             "tasks_completed": [
                 {
                     "task_id": "cd9dfb10-f628-4a20-99f7-fd81750467c4",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.hamilton.org/",
+                    "likes": 1257,
                     "comments": 40,
                     "shares": 66,
                     "reach": 770
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5770.33
         }
     ]
 }

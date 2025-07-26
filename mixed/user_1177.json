@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "e699b117-9895-48ed-9195-ebb427463896",
+    "name": "Renee Stevens",
+    "email": "smithmaria@example.org",
+    "instagram_handle": "@sara39",
+    "tiktok_handle": "@andrea01",
     "joined_at": "2024-12-19T00:23:45.019Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d3c68909-0fbf-4ce1-b1e2-72b3747a1305",
+            "brand": "Ware-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "e0e4a19c-f0cd-41ab-b890-1ec362f7c62f",
+                    "platform": "TikTok",
+                    "post_url": "https://www.smith-baker.com/",
                     "likes": 25,
-                    "comments": null,
+                    "comments": 362,
                     "shares": 3,
                     "reach": 7824
                 }

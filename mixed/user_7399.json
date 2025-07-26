@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "151264df-70b7-4a4d-82ef-ce049e3d8e33",
+    "name": "Christopher Mitchell",
+    "email": "wporter@example.com",
+    "instagram_handle": "@cevans",
+    "tiktok_handle": "@cynthia35",
+    "joined_at": "2024-06-05T09:53:57.293241",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "236a4836-4a2e-4abd-a657-8adfda67d317",
             "brand": "Powlowski and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "a519f4dd-f8f6-4bab-a739-fa2d505b4a0c",
+                    "platform": "Twitter",
                     "post_url": "https://buzzing-t-shirt.com/",
-                    "likes": "NaN",
+                    "likes": 7169,
                     "comments": 42,
                     "shares": 55,
                     "reach": 792
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8318.38
         }
     ]
 }

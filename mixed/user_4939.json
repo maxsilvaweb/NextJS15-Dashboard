@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "d962f9d2-4a29-48ef-a1b3-bb49ff4af5ec",
+    "name": "Jamie Reyes",
+    "email": "ann60@example.org",
     "instagram_handle": "@Taya20",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@stuartkathleen",
+    "joined_at": "2025-06-29T19:44:08.867219",
     "advocacy_programs": [
         {
             "program_id": "1b22549d-af84-4505-b599-5c4bbab1847a",
-            "brand": 12345,
+            "brand": "Clark-Barnes",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "020009f7-5f1a-4580-8053-e2e666fddefc",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.roberts.com/",
                     "likes": 294,
                     "comments": 13,
                     "shares": 26,
                     "reach": 8191
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8415.69
         }
     ]
 }

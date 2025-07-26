@@ -1,26 +1,26 @@
 {
     "user_id": "45dae9d3-ef1d-4dec-8c5b-5e5ed0fe9bdb",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Molly Lewis",
+    "email": "awilliams@example.org",
+    "instagram_handle": "@mitchellmartin",
+    "tiktok_handle": "@heathersims",
+    "joined_at": "2024-12-18T07:41:36.296757",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4ffd0f36-4a40-410b-897a-8d6245b91e2c",
+            "brand": "Saunders, Powell and Luna",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "10fedbc7-490f-4980-9c8e-ce0201c6217c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://hawkins.biz/",
+                    "likes": 6139,
                     "comments": 10,
                     "shares": 49,
                     "reach": 5681
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5535.63
         }
     ]
 }

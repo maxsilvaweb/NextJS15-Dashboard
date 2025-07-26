@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "df5abdab-5ebd-459e-9145-924e2a9c7665",
+    "name": "Kelly Holmes",
+    "email": "smithashley@example.org",
+    "instagram_handle": "@petersashley",
+    "tiktok_handle": "@swansondeanna",
+    "joined_at": "2025-06-30T11:26:54.002240",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "9407328c-7ed9-4c3c-bc7f-2213b6644172",
             "brand": "Borer, Daugherty and Lang",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6199a3dc-a1a5-49e3-9a21-548df84b91e7",
                     "platform": "TikTok",
                     "post_url": "https://sugary-council.biz/",
-                    "likes": "NaN",
+                    "likes": 2007,
                     "comments": 40,
                     "shares": 48,
                     "reach": 2012
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5474.65
         }
     ]
 }

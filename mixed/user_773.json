@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "94e451bd-80d1-41d9-bf7a-46827d1709d2",
+    "name": "Rachel Fields",
     "email": "Ottilie0@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@lopezandrew",
+    "tiktok_handle": "@harveylarry",
+    "joined_at": "2025-06-05T00:19:11.229464",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "aadb6a6b-3980-4020-888f-024cc7d67150",
+            "brand": "Buck-Duncan",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "76a9222b-9613-4adb-b86d-67cf4fc65636",
+                    "platform": "Twitter",
                     "post_url": "https://boring-pulse.org",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6257,
+                    "comments": 56,
                     "shares": 100,
                     "reach": 909
                 }

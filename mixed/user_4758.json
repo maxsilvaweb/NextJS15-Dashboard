@@ -1,26 +1,26 @@
 {
     "user_id": "666f58cc-836a-43ac-8625-e5baa13049dc",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Charles Wagner",
+    "email": "david89@example.net",
+    "instagram_handle": "@uwood",
+    "tiktok_handle": "@joseph05",
+    "joined_at": "2025-05-01T05:20:16.672622",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2cce69cb-e9c2-473d-b292-3a298e0f7fd9",
+            "brand": "Rodriguez-Wells",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "04a867df-4d07-43fe-94c5-ce4491188c06",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://larson.com/",
+                    "likes": 6867,
+                    "comments": 324,
                     "shares": 90,
                     "reach": 3628
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 278.92
         }
     ]
 }

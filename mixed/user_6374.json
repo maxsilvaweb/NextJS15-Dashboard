@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "9ebdd552-4bbe-4386-9145-437cd1611599",
+    "name": "Kristi Holland",
+    "email": "padillatracy@example.com",
+    "instagram_handle": "@michaelgalvan",
+    "tiktok_handle": "@petersonmichael",
     "joined_at": "2024-09-20T13:32:54.370Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ec7d92b8-7667-49f2-b867-76e489be8ae2",
+            "brand": "Morris-Murphy",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "52b2cdb7-e2b8-4b18-9ba3-a2d44f96966c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://houston-hunter.com/",
+                    "likes": 8510,
+                    "comments": 127,
                     "shares": 23,
                     "reach": 9250
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7755.34
         }
     ]
 }

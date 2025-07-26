@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d2030358-0875-4c03-99b5-97cd13467d46",
+    "name": "Robert Chandler",
+    "email": "scottsamantha@example.com",
+    "instagram_handle": "@kayla31",
+    "tiktok_handle": "@yrogers",
+    "joined_at": "2023-11-14T13:17:52.012322",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a62990c6-7167-46cc-877e-c7ca58ba0d56",
+            "brand": "Tyler-Bolton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f2c39f75-de1d-4a5c-8a62-4dc714caabee",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://hubbard.com/",
+                    "likes": 7035,
+                    "comments": 40,
                     "shares": 68,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9049.75
         }
     ]
 }

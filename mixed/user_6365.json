@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "a4c7ee96-a488-4db9-a110-9dfe875557be",
+    "name": "Katherine Garza",
+    "email": "crystalmartin@example.org",
     "instagram_handle": "@Greg_Mitchell",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@toddcook",
+    "joined_at": "2024-12-20T14:39:24.015347",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a0e0a70c-944c-4574-b678-0a9969bc120e",
+            "brand": "Wells LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "eff5eab7-bf6d-420d-b9d1-030bb7747752",
+                    "platform": "Twitter",
                     "post_url": "https://torn-scorn.info/",
                     "likes": 490,
-                    "comments": null,
+                    "comments": 451,
                     "shares": 11,
                     "reach": 3868
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3192.59
         }
     ]
 }

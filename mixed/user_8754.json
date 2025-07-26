@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "81d163a1-3bfd-42b1-a473-ac3dd5314db5",
+    "name": "Katherine Brown",
+    "email": "holderdale@example.net",
+    "instagram_handle": "@padillajessica",
+    "tiktok_handle": "@kelly75",
+    "joined_at": "2023-11-01T09:14:41.389882",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f2dba1db-fb92-40e0-bc4a-c9599e7fc121",
+            "brand": "Ward-Adams",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "0aecc0ae-a858-43bc-afcc-464a3bff2be8",
+                    "platform": "Instagram",
                     "post_url": "https://noteworthy-space.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7705,
+                    "comments": 149,
                     "shares": 92,
                     "reach": 6013
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7796.62
         }
     ]
 }

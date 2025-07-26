@@ -1,21 +1,21 @@
 {
-    "user_id": null,
+    "user_id": "379b05a1-c995-465e-84e2-aa581dc304db",
     "name": "Emma McClure",
-    "email": "invalid-email",
+    "email": "christopherstevenson@example.net",
     "instagram_handle": "@Ozella.Kemmer34",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@mary53",
+    "joined_at": "2025-04-12T03:59:06.089873",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5933483b-14b5-4191-a771-75b9ad60b1d7",
+            "brand": "Howard-Miles",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8b43fc0b-ee85-40fd-8c09-cbe91bb70069",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.schmidt.net/",
+                    "likes": 2369,
+                    "comments": 225,
                     "shares": 54,
                     "reach": 3224
                 }

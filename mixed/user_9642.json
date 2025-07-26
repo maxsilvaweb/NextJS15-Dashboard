@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "69df3a6b-e1aa-4047-ac7e-9721c94dac4b",
+    "name": "Daniel Dennis",
     "email": "Charlotte.McDermott-Zulauf@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@glee",
+    "tiktok_handle": "@umacias",
+    "joined_at": "2023-08-27T04:30:55.457894",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b8f86b0e-da3c-462f-ae55-33995846cd0d",
+            "brand": "Rodriguez-Hughes",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "37a49caf-2039-4de5-bbf0-3cb957d7905d",
                     "platform": "Instagram",
                     "post_url": "https://noted-cassava.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4754,
+                    "comments": 431,
                     "shares": 17,
                     "reach": 2951
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8781.38
         }
     ]
 }

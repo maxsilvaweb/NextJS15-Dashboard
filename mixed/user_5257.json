@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1a26c05f-83ed-45d4-b2c3-86d464933a33",
+    "name": "Dana Holloway",
+    "email": "sdavis@example.com",
+    "instagram_handle": "@torresjuan",
+    "tiktok_handle": "@kelsey57",
+    "joined_at": "2023-11-30T19:15:50.584001",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "097f4053-e336-496a-bc0b-2e3f43f8d83a",
+            "brand": "Clements and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "20074377-2a22-4612-a3be-0c9fe02a399f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.kennedy-perkins.com/",
                     "likes": 92,
-                    "comments": null,
+                    "comments": 380,
                     "shares": 52,
                     "reach": 3704
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9885.07
         }
     ]
 }

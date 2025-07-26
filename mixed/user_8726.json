@@ -1,26 +1,26 @@
 {
     "user_id": "2c8deaad-9727-4608-9577-ceac825fa0cd",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "name": "Mrs. Sue Wallace PhD",
+    "email": "taylorheather@example.net",
+    "instagram_handle": "@joneskatie",
+    "tiktok_handle": "@hamptondiana",
     "joined_at": "2025-01-31T10:46:17.351Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "75606d65-0b3a-4fd1-8fe7-4efa60a30246",
+            "brand": "Pope-Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "816abcaf-5270-48fc-8631-85a977244d7c",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://james.com/",
+                    "likes": 8274,
+                    "comments": 377,
                     "shares": 83,
                     "reach": 2112
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5543.01
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "04e588b3-c9e2-448f-bb09-bfdafcc6c6d9",
+    "name": "Kimberly Barker",
+    "email": "penny57@example.net",
+    "instagram_handle": "@tabithakramer",
+    "tiktok_handle": "@xsullivan",
+    "joined_at": "2024-07-25T07:56:37.123690",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9bcf5cb4-e31d-4d7d-b2ad-4bf221dd22a6",
+            "brand": "Copeland and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f8223bd2-5cf9-4546-8393-48170123f84e",
                     "platform": "Facebook",
                     "post_url": "https://ignorant-publication.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2436,
+                    "comments": 417,
                     "shares": 98,
                     "reach": 7055
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6425.84
         }
     ]
 }

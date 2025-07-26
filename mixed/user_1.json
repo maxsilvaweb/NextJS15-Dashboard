@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "63992acf-c42e-441a-8e75-926a6fd288b2",
+    "name": "Mary Alexander",
+    "email": "fanderson@example.org",
+    "instagram_handle": "@kevinthomas",
     "tiktok_handle": "@Declan35",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-05-02T11:09:48.715065",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "89ce0c0c-0d2c-48ae-abdb-58222c0fd28e",
+            "brand": "Moss, Sanchez and Torres",
             "tasks_completed": [
                 {
                     "task_id": "b63d78de-40b2-49fd-bda5-9d1f9b0b87df",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "Instagram",
+                    "post_url": "https://johnson.com/",
+                    "likes": 5750,
+                    "comments": 32,
                     "shares": 55,
                     "reach": 3950
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6036.32
         }
     ]
 }

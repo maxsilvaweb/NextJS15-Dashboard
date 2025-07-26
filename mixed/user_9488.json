@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "78cb42a3-8d4f-4529-bbfa-d023c6dc2a24",
+    "name": "Joseph Orr",
     "email": "Jamal_Hauck70@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@gabrielreynolds",
+    "tiktok_handle": "@morganallison",
+    "joined_at": "2025-06-09T20:08:28.827184",
     "advocacy_programs": [
         {
             "program_id": "8485b8bf-7274-4bbc-9717-532f0644f2af",
-            "brand": 12345,
+            "brand": "Mann, Miller and Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "04141830-eb23-4975-aa3a-3cdabd00214c",
+                    "platform": "Instagram",
+                    "post_url": "http://www.smith.com/",
+                    "likes": 4793,
+                    "comments": 129,
                     "shares": 91,
                     "reach": 5586
                 }

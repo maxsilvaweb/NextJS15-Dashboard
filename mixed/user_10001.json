@@ -1,26 +1,26 @@
 {
-  "user_id": null,
-  "name": "Max Silva2",
-  "email": "invalid-email",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "2f76d63e-eb77-431b-886d-a1ea598b0f7a",
+    "name": "Max Silva2",
+    "email": "cgibson@example.net",
+    "instagram_handle": "@frank74",
+    "tiktok_handle": "@chase74",
+    "joined_at": "2024-11-20T12:06:53.566998",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "1d505249-6332-46ea-819f-7d5dba3d80a0",
+            "brand": "Baker PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "beda177a-10d1-4b8b-a690-e2e0c740563c",
+                    "platform": "TikTok",
+                    "post_url": "https://silva.org/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 1314.73
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

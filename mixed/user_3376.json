@@ -1,21 +1,21 @@
 {
     "user_id": "42843071-cb4e-44eb-9e74-75fa4849b2d8",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Tina Bowers",
+    "email": "dscott@example.org",
+    "instagram_handle": "@johnbright",
+    "tiktok_handle": "@matthewthompson",
+    "joined_at": "2025-04-19T16:18:29.637764",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ade125d5-0ec5-4839-88d5-7cd4d4b780f6",
+            "brand": "Martin-Berg",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2b7faaa3-bafa-4371-beb5-eb05c5b461b6",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://miller.com/",
                     "likes": 55,
-                    "comments": null,
+                    "comments": 367,
                     "shares": 33,
                     "reach": 7512
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a31aff23-d991-4eac-a3dd-8c66f72f2cd6",
+    "name": "Tina Lamb",
+    "email": "tasha09@example.org",
+    "instagram_handle": "@gallen",
+    "tiktok_handle": "@jeffrey60",
+    "joined_at": "2024-08-01T20:06:55.760170",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e67eb84e-dfe7-4e82-90f8-8e31ee9020b1",
+            "brand": "Mcmahon, Klein and Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5fb6aa07-b12b-4a09-a1e6-dfba4076301e",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.mckinney.info/",
                     "likes": 173,
-                    "comments": null,
+                    "comments": 403,
                     "shares": 57,
                     "reach": 5428
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3413.97
         }
     ]
 }

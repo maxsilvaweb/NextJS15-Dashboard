@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "d974493d-8c16-470d-949e-1580521d69fa",
+    "name": "Gabriel Brown",
+    "email": "david75@example.net",
+    "instagram_handle": "@kelly05",
+    "tiktok_handle": "@carrolljeffery",
     "joined_at": "2024-07-18T17:44:34.949Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5dbe0ba3-d9c8-4eaf-8340-3deeabf62d6b",
+            "brand": "Richmond, Smith and Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ade9d807-eb6b-465f-a7de-f34172304b5e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://hubbard-spencer.org/",
+                    "likes": 2263,
+                    "comments": 40,
                     "shares": 90,
                     "reach": 2715
                 }

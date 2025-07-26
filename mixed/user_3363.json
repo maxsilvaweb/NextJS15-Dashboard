@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "49904815-fc58-415c-bc5d-89da84dbaacf",
+    "name": "Chelsea Nichols",
     "email": "Maryjane_Bosco70@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@larsondavid",
+    "tiktok_handle": "@rstewart",
+    "joined_at": "2023-09-14T13:50:45.397074",
     "advocacy_programs": [
         {
             "program_id": "f436a3db-2c33-4283-9272-60858945221f",
-            "brand": 12345,
+            "brand": "Miller, Harris and Banks",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dbb0f853-0003-490a-bc42-48cdab85b77d",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.gordon-mack.biz/",
+                    "likes": 5624,
+                    "comments": 408,
                     "shares": 47,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9644.83
         }
     ]
 }

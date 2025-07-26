@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "83415374-3148-4605-95dd-d760040d7cea",
+    "name": "Bradley Johnson",
+    "email": "julie10@example.org",
+    "instagram_handle": "@kennedytimothy",
+    "tiktok_handle": "@kevin61",
+    "joined_at": "2024-09-02T12:43:15.468304",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3cda1015-0616-4554-ac9d-32f2a02880a9",
+            "brand": "Ibarra-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6f123bac-86d4-4990-8913-9f29f1f31039",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.miller.info/",
+                    "likes": 1698,
+                    "comments": 126,
                     "shares": 17,
                     "reach": 7387
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6369.51
         }
     ]
 }

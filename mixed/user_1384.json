@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "d01bd19b-73da-4816-83df-da20dddcf96a",
+    "name": "Brittany Grant",
     "email": "Charles70@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@conleykenneth",
+    "tiktok_handle": "@travis27",
+    "joined_at": "2024-10-26T11:33:57.891727",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9854f191-fc0e-4ed2-8799-7553e8ce1cd1",
+            "brand": "Rodriguez-Brown",
             "tasks_completed": [
                 {
                     "task_id": "b4e10e03-891c-4cff-8a2d-5cb63b511e02",
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "platform": "Instagram",
+                    "post_url": "http://www.newman.info/",
                     "likes": 314,
                     "comments": 3,
                     "shares": 21,
                     "reach": 3004
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4034.12
         }
     ]
 }

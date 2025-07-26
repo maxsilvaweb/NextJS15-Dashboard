@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "08efdb23-cb7d-4378-a0fc-434ef5cecfe2",
+    "name": "Randy Warren",
+    "email": "pmiller@example.org",
+    "instagram_handle": "@timothy07",
+    "tiktok_handle": "@vjames",
+    "joined_at": "2024-10-12T14:49:41.244695",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e068b677-a282-4ebb-84ef-627d188cff52",
+            "brand": "Brooks-Campbell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ebeeef9c-1a80-4306-8d6f-5f69e7f449ad",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.day.com/",
+                    "likes": 3352,
+                    "comments": 231,
                     "shares": 34,
                     "reach": 4390
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7809.62
         }
     ]
 }

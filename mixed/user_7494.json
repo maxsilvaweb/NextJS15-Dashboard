@@ -1,26 +1,26 @@
 {
     "user_id": "5244c4b4-f571-47e6-b010-4d8c2834ff59",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "name": "Alejandro Brooks",
+    "email": "luis31@example.net",
+    "instagram_handle": "@melindamckenzie",
+    "tiktok_handle": "@brownjason",
     "joined_at": "2024-08-20T01:49:53.307Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "933599b9-41c6-44e6-b5e7-8cbf81055d8b",
+            "brand": "Phillips-Bond",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "43a4cddd-6589-4b72-ac62-95d776810d9e",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://freeman-guzman.com/",
+                    "likes": 302,
+                    "comments": 488,
                     "shares": 22,
                     "reach": 7251
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1422.33
         }
     ]
 }

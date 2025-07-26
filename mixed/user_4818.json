@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3992c56c-feaf-4a79-b397-2e02d9621858",
+    "name": "Brooke Kim",
+    "email": "eochoa@example.com",
+    "instagram_handle": "@bailey94",
+    "tiktok_handle": "@slee",
+    "joined_at": "2024-08-11T18:28:50.595255",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "62c73ad8-9add-461d-a6a8-b269e6af4c9e",
+            "brand": "Fletcher, Brown and Baker",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "e2748927-01ef-44af-9f33-897198c44db9",
+                    "platform": "YouTube",
+                    "post_url": "http://www.brown.com/",
+                    "likes": 7026,
                     "comments": 47,
                     "shares": 31,
                     "reach": 4000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8150.43
         }
     ]
 }

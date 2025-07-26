@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "f073e30e-dda5-4b42-88f1-95f1ddfc2c1e",
+    "name": "Heather Floyd",
+    "email": "foxdawn@example.com",
     "instagram_handle": "@Webster_Hermann-Romaguera28",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@dbray",
+    "joined_at": "2025-02-21T00:08:54.359879",
     "advocacy_programs": [
         {
             "program_id": "59b617df-6e73-4718-afbb-8de31125dd6e",
-            "brand": 12345,
+            "brand": "Stein, Evans and Carlson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e11066dc-39fd-4ef3-aff8-86296896bbb5",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://diaz-russell.biz/",
+                    "likes": 6795,
+                    "comments": 353,
                     "shares": 64,
                     "reach": 4909
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3465.85
         }
     ]
 }

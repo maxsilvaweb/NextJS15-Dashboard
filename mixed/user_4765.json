@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f6ff3d2a-868a-47f0-9989-0e18e64fd80e",
+    "name": "Rachel Fuentes",
+    "email": "kmiles@example.com",
+    "instagram_handle": "@wendy90",
+    "tiktok_handle": "@madisonrivera",
+    "joined_at": "2024-05-12T22:09:10.334728",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0ba63943-e85f-4535-a573-b706d1eaaa4d",
+            "brand": "Miller Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c1223d17-91a1-4042-a6bf-257488f45ddb",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.calhoun.com/",
+                    "likes": 1871,
+                    "comments": 37,
                     "shares": 35,
                     "reach": 8839
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8836.87
         }
     ]
 }

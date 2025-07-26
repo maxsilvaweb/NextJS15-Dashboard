@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "746f5b1f-3bb2-4731-88b3-ca78f930d4d8",
+    "name": "Christina Cisneros",
+    "email": "garciajack@example.net",
+    "instagram_handle": "@paul24",
+    "tiktok_handle": "@nicolemorgan",
+    "joined_at": "2023-08-08T12:31:37.010140",
     "advocacy_programs": [
         {
             "program_id": "ce1857c9-ab4b-46f8-999f-20b13c99b5b6",
-            "brand": 12345,
+            "brand": "White-Grimes",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "74578a6b-b163-4fa5-b8af-a01d4d835f33",
                     "platform": "TikTok",
                     "post_url": "https://rectangular-technician.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4805,
+                    "comments": 434,
                     "shares": 34,
                     "reach": 7241
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7743.82
         }
     ]
 }

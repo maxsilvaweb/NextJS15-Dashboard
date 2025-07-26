@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c61fc8b2-5a45-4da0-88b4-d1f386eb6755",
+    "name": "Katie Taylor",
+    "email": "karenwhite@example.com",
+    "instagram_handle": "@ryanstefanie",
+    "tiktok_handle": "@alanburton",
+    "joined_at": "2024-06-17T12:29:39.272279",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "72511ddb-2aed-46eb-b7f1-0a39173854fd",
+            "brand": "Blake LLC",
             "tasks_completed": [
                 {
                     "task_id": "96dbffd4-eb4a-4ead-94be-c66b9382d37a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.flores.org/",
+                    "likes": 9046,
+                    "comments": 134,
                     "shares": 55,
                     "reach": 4887
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5853.59
         }
     ]
 }

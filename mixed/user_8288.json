@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "82eccfe5-e786-41f4-b473-59a51fe47fd7",
+    "name": "Deanna Valenzuela",
+    "email": "oconnorgabriel@example.org",
+    "instagram_handle": "@cassandrawilson",
+    "tiktok_handle": "@johnsontodd",
+    "joined_at": "2024-02-15T10:20:46.949726",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "91925a86-d1dd-4319-8fd4-2749db6f4d0a",
+            "brand": "Wright-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "67ca1132-04c2-4165-9837-9e7ccd2a4f6b",
+                    "platform": "TikTok",
                     "post_url": "https://memorable-teriyaki.info",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5314,
+                    "comments": 220,
                     "shares": 28,
                     "reach": 6682
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 309.22
         }
     ]
 }

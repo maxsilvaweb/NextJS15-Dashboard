@@ -1,26 +1,26 @@
 {
     "user_id": "951416cd-4f48-4a88-b88b-e318a4d27399",
-    "name": "???",
+    "name": "Michael Cooper",
     "email": "Leone_Kihn@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@todonnell",
+    "tiktok_handle": "@stephanie09",
+    "joined_at": "2024-12-27T00:31:18.017830",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "51a608e6-3e49-4df5-b968-f103200a6549",
             "brand": "D'Amore, Herman and Weber",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6ce68094-e68a-46a6-a4c8-59da5e2d8c9a",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.rhodes.org/",
                     "likes": 439,
                     "comments": 40,
                     "shares": 90,
                     "reach": 5052
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1994.06
         }
     ]
 }

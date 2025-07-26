@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "531fc2c4-3512-4d82-9ca6-7f5c88fa73d6",
     "name": "Joseph Sporer",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "meredith38@example.com",
+    "instagram_handle": "@iperez",
+    "tiktok_handle": "@justin01",
+    "joined_at": "2024-09-24T03:56:03.934008",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "33fe741f-c636-46ed-a70d-16159aae74c6",
+            "brand": "Pham, Taylor and Reid",
             "tasks_completed": [
                 {
                     "task_id": "f1163e9f-303d-4b3b-8495-1fa4989e04fa",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.payne.org/",
+                    "likes": 8174,
                     "comments": 15,
                     "shares": 85,
                     "reach": 3333
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4838.9
         }
     ]
 }

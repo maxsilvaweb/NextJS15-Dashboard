@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "21980f56-1603-4bbe-aa29-d3becc4f490d",
+    "name": "Denise Collins",
+    "email": "carolynrichardson@example.com",
     "instagram_handle": "@Zachariah_Roob4",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@arielbautista",
+    "joined_at": "2025-07-15T07:45:56.016819",
     "advocacy_programs": [
         {
             "program_id": "5ef7f3ae-22f2-4750-bde2-b335e6de20db",
-            "brand": 12345,
+            "brand": "Phillips and Sons",
             "tasks_completed": [
                 {
                     "task_id": "4a676a8e-0209-4baf-b650-699e7eb76258",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "platform": "Twitter",
+                    "post_url": "http://www.sanchez-cooke.info/",
+                    "likes": 3037,
                     "comments": 35,
                     "shares": 65,
                     "reach": 7884
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4989.49
         }
     ]
 }

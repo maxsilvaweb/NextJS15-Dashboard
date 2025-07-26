@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "26913551-48ca-4967-b715-0a270dd8c112",
+    "name": "Kim Green",
+    "email": "robertlewis@example.net",
+    "instagram_handle": "@xvaughn",
+    "tiktok_handle": "@michael54",
+    "joined_at": "2024-01-07T21:30:11.217732",
     "advocacy_programs": [
         {
             "program_id": "a745af83-c658-4b61-994b-b9f6c54f787e",
-            "brand": 12345,
+            "brand": "Koch, Hernandez and Davis",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "fe975aa7-25a0-4d4a-aaef-3534f846c2b8",
+                    "platform": "TikTok",
+                    "post_url": "http://curry.com/",
+                    "likes": 3125,
+                    "comments": 408,
                     "shares": 27,
                     "reach": 8133
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7383.57
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "fe84df44-fd53-4bc7-8d79-0958501e2a7c",
+    "name": "Linda Berg",
     "email": "Kendra_Hodkiewicz@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@shane44",
+    "tiktok_handle": "@natalie19",
+    "joined_at": "2025-07-09T00:28:16.355632",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ccca3eb4-28bc-44ef-80b1-9bce40434765",
+            "brand": "Leon Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c0dde78a-6e64-4ed3-8a27-407883ddb5ea",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.garcia.info/",
+                    "likes": 1762,
                     "comments": 21,
                     "shares": 71,
                     "reach": 9494
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6343.31
         }
     ]
 }

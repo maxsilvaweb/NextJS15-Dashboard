@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "360a09fd-429c-4f8e-867b-6703f0972c63",
+    "name": "Levi Santana",
+    "email": "adamsamy@example.com",
+    "instagram_handle": "@fbailey",
+    "tiktok_handle": "@hannahblack",
+    "joined_at": "2023-11-14T12:58:34.343993",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "757b96bf-d836-47ba-9a11-03b67f20b402",
+            "brand": "Clark-Wilson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f08fa928-4d13-4ba0-9a27-535b5f64e772",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://hancock.biz/",
                     "likes": 107,
-                    "comments": null,
+                    "comments": 152,
                     "shares": 77,
                     "reach": 898
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7990.18
         }
     ]
 }

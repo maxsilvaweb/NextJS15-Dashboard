@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "14d05bb7-4ed4-42c9-beca-039c5a6f04a2",
+    "name": "Austin Coleman",
+    "email": "adam34@example.net",
+    "instagram_handle": "@erika46",
+    "tiktok_handle": "@cheryl21",
+    "joined_at": "2025-07-14T00:29:05.245670",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dc659462-581f-489b-ba36-221cb9179539",
+            "brand": "Gay-Roth",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "32808436-e6c4-459b-8707-215546c874a4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.graham.biz/",
+                    "likes": 7545,
+                    "comments": 200,
                     "shares": 70,
                     "reach": 3231
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4257.35
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "47b3203b-d0a0-48d3-b9c8-1d773e0ceb5e",
+    "name": "Jason Walters",
+    "email": "amyburton@example.net",
+    "instagram_handle": "@jennifer55",
+    "tiktok_handle": "@bperez",
+    "joined_at": "2024-01-20T15:05:13.749138",
     "advocacy_programs": [
         {
             "program_id": "8911c77b-b0f8-4029-b203-55294d65b548",
-            "brand": 12345,
+            "brand": "Black Ltd",
             "tasks_completed": [
                 {
                     "task_id": "7c9188e5-e588-4129-8d2a-ab91be275f57",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.wright-valdez.com/",
+                    "likes": 4354,
                     "comments": 5,
                     "shares": 25,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9730.06
         }
     ]
 }

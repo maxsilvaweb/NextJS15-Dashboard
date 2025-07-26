@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a6518e97-3df2-49b2-8b97-c3bb72461b53",
+    "name": "Keith Buchanan",
     "email": "Isadore_Buckridge98@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@samantharandall",
+    "tiktok_handle": "@gcastaneda",
+    "joined_at": "2024-11-08T13:21:58.064791",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b52091ab-01d8-40f1-90be-8e7b73ddcc60",
+            "brand": "White Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6df7a7bb-cf4d-41d7-9c26-0aa6e6910af4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://rowland.net/",
+                    "likes": 5979,
+                    "comments": 460,
                     "shares": 51,
                     "reach": 3624
                 }

@@ -1,17 +1,17 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "02fcd994-9183-44d1-acba-38d51ebc9e49",
+    "name": "Andrew Herrera",
     "email": "Giovanny21@gmail.com",
-    "instagram_handle": null,
+    "instagram_handle": "@robersonjavier",
     "tiktok_handle": "@Amie21",
-    "joined_at": "not-a-date",
+    "joined_at": "2023-10-16T13:40:59.508761",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dfdfb59d-886a-49e7-840b-41feb9b1eb19",
+            "brand": "Richardson, Dean and Robertson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a61b3a1e-4c95-4919-a595-0cf270d454bf",
                     "platform": "Instagram",
                     "post_url": "https://somber-joy.org/",
                     "likes": 470,
@@ -20,7 +20,7 @@
                     "reach": 3601
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6206.72
         }
     ]
 }

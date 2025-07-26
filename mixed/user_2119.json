@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "55729037-7b31-4228-9c38-da8d6adfb563",
+    "name": "Leah Harvey",
+    "email": "oreyes@example.org",
+    "instagram_handle": "@ihawkins",
+    "tiktok_handle": "@stacy78",
     "joined_at": "2024-04-13T16:39:11.265Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c4ee4743-08ce-4607-9122-17a91b0c8006",
+            "brand": "Price-Strickland",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b2815c7b-6755-4174-8513-e14b38b06e0c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.brown.com/",
+                    "likes": 4385,
+                    "comments": 48,
                     "shares": 7,
                     "reach": 9340
                 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "81f1a74a-9b40-4cad-9318-f3ac0f8012b2",
+    "name": "Steven Stuart",
+    "email": "agreen@example.org",
+    "instagram_handle": "@catherinejohnson",
     "tiktok_handle": "@Fredy.Reilly73",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-08-09T04:00:53.393346",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "111d493e-3a8f-40d1-86f1-cd2c6ab4f1bb",
+            "brand": "Yu and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "2504193f-2db0-465f-9fcb-c891939cc754",
+                    "platform": "Twitter",
+                    "post_url": "http://yu.org/",
                     "likes": 147,
-                    "comments": null,
+                    "comments": 92,
                     "shares": 78,
                     "reach": 8472
                 }

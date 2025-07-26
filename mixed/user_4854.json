@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6586f8d4-1c7a-4fd1-ba9d-a83ef464e224",
+    "name": "Richard Waters",
+    "email": "victor48@example.org",
+    "instagram_handle": "@jenniferallen",
+    "tiktok_handle": "@pbrown",
+    "joined_at": "2023-11-09T19:39:14.380427",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "185d9a32-d74d-4b44-8b46-058d7d00180d",
+            "brand": "Armstrong-Butler",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "96463c49-188e-4913-bfc9-d95ccf640a40",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://garza.biz/",
+                    "likes": 7982,
+                    "comments": 119,
                     "shares": 25,
                     "reach": 2549
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6388.38
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9508ded4-4be8-4786-ad54-e7f9b2a30eb2",
+    "name": "Samantha Zhang",
+    "email": "hbernard@example.org",
+    "instagram_handle": "@ctaylor",
+    "tiktok_handle": "@youngcory",
+    "joined_at": "2025-02-19T06:26:21.301937",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c700db8b-d505-48eb-a25e-603a210d9908",
+            "brand": "Thomas Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "a6aaa3ff-3780-48f9-955b-6a7e142deb0e",
+                    "platform": "TikTok",
+                    "post_url": "http://cantrell.com/",
                     "likes": 189,
-                    "comments": null,
+                    "comments": 99,
                     "shares": 44,
                     "reach": 9242
                 }

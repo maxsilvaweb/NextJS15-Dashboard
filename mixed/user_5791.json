@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "c91bb964-f102-4a80-9c73-5bc7055a2c2c",
+    "name": "Dr. Alexander Wells",
     "email": "Floy46@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@millshenry",
+    "tiktok_handle": "@grahamfrank",
+    "joined_at": "2024-08-15T16:53:19.064420",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b84e468b-3eb8-417d-aa85-b67ddc8a84b0",
+            "brand": "Baker Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "79d5cbe8-c816-4037-a409-4f9148497635",
+                    "platform": "YouTube",
+                    "post_url": "https://www.harris.biz/",
+                    "likes": 5389,
+                    "comments": 103,
                     "shares": 99,
                     "reach": 5817
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7536.29
         }
     ]
 }

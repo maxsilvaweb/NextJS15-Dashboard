@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "557e6574-fb23-471c-9255-8c3f606eb023",
+    "name": "Brian Bush",
+    "email": "ealexander@example.net",
+    "instagram_handle": "@amanda98",
+    "tiktok_handle": "@kenneth72",
+    "joined_at": "2024-10-03T14:41:15.661332",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dec0040b-ae48-4567-be0b-b847b13aa3cd",
+            "brand": "Young, Williams and Hall",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5b65f7bc-0e47-47ef-b538-e41c929c1082",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://noble-sharp.com/",
+                    "likes": 5922,
+                    "comments": 323,
                     "shares": 9,
                     "reach": 3325
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6988.75
         }
     ]
 }

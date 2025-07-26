@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "57902613-4913-413d-b13e-e4d9795ee3b5",
+    "name": "Aaron Tyler",
+    "email": "brandonharris@example.net",
     "instagram_handle": "@Jeffery.Schroeder66",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@christian52",
+    "joined_at": "2023-08-29T10:08:05.894239",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fee09ba8-6964-4478-95a3-5e4df6fd3d7b",
+            "brand": "Torres PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dc257bb9-9ee1-48fd-b83a-96cadebfec7f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://bell-payne.com/",
+                    "likes": 466,
                     "comments": 45,
                     "shares": 83,
                     "reach": 1887

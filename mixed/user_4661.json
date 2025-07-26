@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4b1472cb-18c4-4040-9500-8889786a235c",
+    "name": "Diana Roberts DVM",
+    "email": "powelljacob@example.com",
+    "instagram_handle": "@xhoward",
+    "tiktok_handle": "@jdennis",
+    "joined_at": "2023-11-20T22:48:57.187577",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9a69af37-b715-4252-8044-80e59a02bcfc",
+            "brand": "Richardson, Zavala and Bright",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "bb29023b-a15b-4a0e-b434-a16da567720b",
+                    "platform": "YouTube",
+                    "post_url": "https://downs.com/",
+                    "likes": 4232,
                     "comments": 21,
                     "shares": 47,
                     "reach": 7590

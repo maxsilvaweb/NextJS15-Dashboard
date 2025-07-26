@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8f38cd82-3387-456d-9e9b-51e64b70f545",
+    "name": "Marc Morgan",
+    "email": "robertsrichard@example.net",
+    "instagram_handle": "@moorerebecca",
+    "tiktok_handle": "@gilbertdennis",
+    "joined_at": "2024-11-13T12:18:29.975484",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "ed8b4099-b182-410f-8c7e-20ffcb433298",
             "brand": "Sipes, Glover and Heidenreich",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "90a24d68-094c-4b7b-9a0d-eb64cc420ca0",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.parrish.com/",
+                    "likes": 2834,
+                    "comments": 191,
                     "shares": 32,
                     "reach": 6141
                 }

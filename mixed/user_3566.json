@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "beb36ffa-f8fe-45dc-a4bf-f99fdf6c0b4c",
+    "name": "Gregory Rodriguez",
+    "email": "kathleenhoward@example.com",
+    "instagram_handle": "@qpoole",
+    "tiktok_handle": "@ashleyrobinson",
+    "joined_at": "2024-07-13T22:42:51.413177",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b4a61753-71cd-4f76-baf7-31f8c0ab2862",
+            "brand": "King Ltd",
             "tasks_completed": [
                 {
                     "task_id": "cc6a21cb-79e9-4b99-b616-11ff3f0fabd1",
                     "platform": "Facebook",
                     "post_url": "https://whispered-archaeology.net/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4878,
+                    "comments": 103,
                     "shares": 25,
                     "reach": 6491
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8504.63
         }
     ]
 }

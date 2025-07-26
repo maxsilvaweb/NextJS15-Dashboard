@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3838f26f-c5ac-4dff-8c94-7e978e436da7",
+    "name": "April Vargas",
+    "email": "farmerjeremiah@example.com",
+    "instagram_handle": "@justinpowers",
+    "tiktok_handle": "@andrea91",
+    "joined_at": "2024-10-13T13:21:34.462228",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a8de695a-deb6-48df-83f2-8e058a1aa581",
+            "brand": "Smith and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "55d15f9e-e629-4cd5-931d-8d8bb88266fa",
                     "platform": "Instagram",
                     "post_url": "https://sophisticated-airmail.net/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3128,
+                    "comments": 171,
                     "shares": 59,
                     "reach": 9170
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3183.74
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cfbf0b76-5230-4b13-ba49-e401a513c908",
+    "name": "Karen Rose",
+    "email": "brittany44@example.net",
+    "instagram_handle": "@snyderderrick",
+    "tiktok_handle": "@howealison",
+    "joined_at": "2025-02-21T19:54:16.084272",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "04a1093b-bab9-47a1-a8ea-1e09a1a7da1c",
+            "brand": "Weber Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ced4c509-c0bb-4717-8fae-76a4beb18611",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://carlson-torres.com/",
+                    "likes": 2166,
+                    "comments": 484,
                     "shares": 4,
                     "reach": 895
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5885.4
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "739fbcd6-c147-450b-b54b-e20938c19531",
+    "name": "Elizabeth Smith",
+    "email": "dillonleon@example.net",
     "instagram_handle": "@Neal_Glover89",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@watersmark",
+    "joined_at": "2024-11-24T14:39:45.938461",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0c39b57f-e79a-47e9-8d4d-11f63da90291",
+            "brand": "Hale, Lopez and Torres",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "a69ce3ff-e48a-4c39-a21a-e75640089d61",
+                    "platform": "YouTube",
+                    "post_url": "https://www.sanders-walton.org/",
+                    "likes": 9570,
+                    "comments": 35,
                     "shares": 1,
                     "reach": 5072
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1221.35
         }
     ]
 }

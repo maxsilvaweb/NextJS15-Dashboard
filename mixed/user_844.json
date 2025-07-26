@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "e117112d-187f-4de8-a7a0-cf51a4b57b2d",
     "name": "Danielle Koepp",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "scottstephanie@example.org",
+    "instagram_handle": "@jessicaallen",
+    "tiktok_handle": "@williambaird",
+    "joined_at": "2025-06-11T04:13:40.079197",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b9252295-a590-4f81-a48e-ca17b7f5f149",
+            "brand": "Ho-Gonzales",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "6add3921-56ca-4133-9949-bf98033bd663",
+                    "platform": "Instagram",
+                    "post_url": "https://wolf-bowen.com/",
+                    "likes": 4800,
+                    "comments": 464,
                     "shares": 48,
                     "reach": 6174
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3760.18
         }
     ]
 }

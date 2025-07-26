@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "637cda75-9905-4ae6-a3d7-928ef6342062",
+    "name": "Carly Bowman",
     "email": "Yvette.Will@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@wrightjon",
+    "tiktok_handle": "@bwalker",
+    "joined_at": "2024-06-13T00:47:14.592350",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "52d6da3f-2c4c-489d-bd1b-0b15fc968946",
+            "brand": "Contreras, Fox and Guerrero",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "8ce6ae91-8c75-46ed-af8d-416b43636da0",
+                    "platform": "YouTube",
+                    "post_url": "https://foster.com/",
+                    "likes": 6141,
+                    "comments": 445,
                     "shares": 88,
                     "reach": 5195
                 }

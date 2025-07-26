@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "89e8506e-963b-416e-b87b-43cd7e033bb6",
+    "name": "Sheila Hernandez",
     "email": "Kayla19@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@frankhernandez",
+    "tiktok_handle": "@kirkmckee",
+    "joined_at": "2023-11-23T05:12:19.185921",
     "advocacy_programs": [
         {
             "program_id": "ead26abc-0c4c-4780-8978-e772522f2442",
-            "brand": 12345,
+            "brand": "Rodriguez, Donovan and Bridges",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "4197e973-c63a-471b-aa40-d4d2ab280ba2",
+                    "platform": "TikTok",
+                    "post_url": "https://huff.com/",
+                    "likes": 6627,
+                    "comments": 329,
                     "shares": 95,
                     "reach": 1416
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8310.53
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d5876c49-deb1-481f-a68b-9c62df7443de",
+    "name": "Karen Jenkins",
+    "email": "tammieparks@example.com",
+    "instagram_handle": "@fwaters",
+    "tiktok_handle": "@jillnavarro",
+    "joined_at": "2025-02-15T18:17:52.269133",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "abaa804a-e385-4b24-bc15-fc25956df329",
+            "brand": "Owen Group",
             "tasks_completed": [
                 {
                     "task_id": "b7a6b2ba-dc3e-44d0-b685-c854272a8818",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "Twitter",
+                    "post_url": "http://www.meyers.com/",
+                    "likes": 7779,
+                    "comments": 153,
                     "shares": 12,
                     "reach": 4793
                 }

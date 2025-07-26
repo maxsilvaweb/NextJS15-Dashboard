@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d5593e09-fc89-4e8f-b9e4-31801b575636",
+    "name": "Ronald Hall",
+    "email": "ginamccoy@example.org",
+    "instagram_handle": "@cwatts",
+    "tiktok_handle": "@perrylisa",
+    "joined_at": "2024-06-03T09:45:59.425307",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0593b991-99dc-48f2-b917-027561040810",
+            "brand": "Lee Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5c3f09dc-d05a-45cb-9d9f-2f0236842cfe",
                     "platform": "Facebook",
                     "post_url": "https://wobbly-fit.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7629,
+                    "comments": 328,
                     "shares": 64,
                     "reach": 7235
                 }

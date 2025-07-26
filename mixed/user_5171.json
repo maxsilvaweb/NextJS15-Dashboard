@@ -1,20 +1,20 @@
 {
     "user_id": "db67165b-cbd2-42d7-8fb2-86f82437af8c",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Melanie Petty",
+    "email": "mcdonaldtimothy@example.org",
+    "instagram_handle": "@psmith",
+    "tiktok_handle": "@grant90",
+    "joined_at": "2024-08-13T03:11:19.341330",
     "advocacy_programs": [
         {
             "program_id": "1dbabefa-6b91-4e03-98df-d158ed214c02",
-            "brand": 12345,
+            "brand": "Johnson, Nelson and Lopez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0e77d16f-8f62-4a40-a0db-4d00c5b9f6cd",
                     "platform": "TikTok",
                     "post_url": "https://present-tool.org/",
-                    "likes": "NaN",
+                    "likes": 843,
                     "comments": 38,
                     "shares": 53,
                     "reach": 7217

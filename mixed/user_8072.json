@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "213373e3-df8b-404e-b6b6-47fd5be4e64e",
+    "name": "Katie Wilkerson",
+    "email": "mmoore@example.net",
+    "instagram_handle": "@wwhite",
+    "tiktok_handle": "@samuelortega",
+    "joined_at": "2024-03-17T09:32:10.532598",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b82ca367-73bc-4ce0-9404-80215003c567",
+            "brand": "Grant Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "98e8d7f1-f5e0-4553-8bfc-78b7b7852887",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.barker-davis.com/",
+                    "likes": 293,
                     "comments": 12,
                     "shares": 42,
                     "reach": 4783

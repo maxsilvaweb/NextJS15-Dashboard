@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ad5aa492-b49a-4c08-83b0-23c2aad09eb0",
+    "name": "Alexandria Richard",
+    "email": "williamschad@example.org",
+    "instagram_handle": "@brian14",
+    "tiktok_handle": "@walkerelizabeth",
+    "joined_at": "2023-11-23T08:04:56.988518",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a19bb9af-b6a4-4783-8003-366fa4b158b0",
+            "brand": "Hill and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7cf1fda0-9c2f-46b8-b9de-44c019f3fbe7",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://rodriguez-malone.com/",
+                    "likes": 3074,
                     "comments": 2,
                     "shares": 26,
                     "reach": 2151

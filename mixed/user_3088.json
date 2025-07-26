@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6ad07281-78af-42f4-b6b5-66030ea50f32",
+    "name": "Ashley Olson",
+    "email": "tylerjoyce@example.org",
+    "instagram_handle": "@dwilliams",
+    "tiktok_handle": "@john99",
+    "joined_at": "2025-04-02T06:52:09.766798",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4fbec6ab-53fd-4dd6-9f34-ae52401b7341",
+            "brand": "Carter-Collins",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9937e894-2b5c-4871-b9d2-55cf8b53076e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.flores.org/",
+                    "likes": 8691,
+                    "comments": 417,
                     "shares": 94,
                     "reach": -1000
                 }

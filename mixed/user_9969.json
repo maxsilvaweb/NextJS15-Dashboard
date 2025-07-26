@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7d252a07-3d86-4a44-905e-c9994d7f8faa",
+    "name": "Andrew Turner",
+    "email": "wrightheather@example.org",
+    "instagram_handle": "@codyrobertson",
+    "tiktok_handle": "@kennedyjulie",
+    "joined_at": "2023-10-29T12:27:20.619561",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b0d92de9-9d3f-4db6-b23f-be78ce720feb",
+            "brand": "Webb, Martin and Mcneil",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "4d8778e2-fa80-412f-917b-5a93c39bd4f0",
+                    "platform": "YouTube",
+                    "post_url": "http://www.nichols.com/",
+                    "likes": 6495,
                     "comments": 2,
                     "shares": 74,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5699.34
         }
     ]
 }

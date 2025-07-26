@@ -1,26 +1,26 @@
 {
     "user_id": "47563a9b-4e3b-44be-9043-fa69d38d4570",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Gregory Hayes",
+    "email": "darren14@example.com",
+    "instagram_handle": "@patrick47",
+    "tiktok_handle": "@barbaracox",
+    "joined_at": "2024-04-22T10:11:06.326725",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "8af607df-e188-48ba-a31e-13f4d049f2f4",
             "brand": "O'Kon, Zboncak and Barrows",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fe050719-b4a7-421a-9f56-496f0ac40783",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://parsons.com/",
+                    "likes": 3491,
+                    "comments": 107,
                     "shares": 100,
                     "reach": 2813
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1995.35
         }
     ]
 }

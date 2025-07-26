@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d27dcdbe-913e-4218-af34-441d709ba969",
+    "name": "Michael Smith",
+    "email": "stephaniehernandez@example.net",
+    "instagram_handle": "@mejiamario",
+    "tiktok_handle": "@phillip63",
+    "joined_at": "2024-12-13T18:44:50.077081",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "588f002f-665a-45a8-9af5-e725fdff0151",
+            "brand": "Meyer and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3b6816a7-477b-4fbf-8c0f-044cd6a33108",
                     "platform": "TikTok",
                     "post_url": "https://ecstatic-mechanic.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7503,
+                    "comments": 35,
                     "shares": 65,
                     "reach": 8929
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7272.21
         }
     ]
 }

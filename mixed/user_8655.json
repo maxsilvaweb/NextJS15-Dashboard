@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e608554d-98c4-47ba-ae1d-20e3e42e19bf",
+    "name": "Emily Holden",
+    "email": "ortizmichael@example.net",
+    "instagram_handle": "@wrightjeffrey",
+    "tiktok_handle": "@georgebethany",
+    "joined_at": "2024-03-02T11:36:03.951039",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "74fd6707-db63-474e-b291-68d6397cff1b",
+            "brand": "Gardner PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "d87fbb69-d2f4-416c-804a-d66f59c20eb0",
+                    "platform": "YouTube",
+                    "post_url": "https://www.donovan-li.com/",
+                    "likes": 8437,
+                    "comments": 32,
                     "shares": 91,
                     "reach": 9742
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4032.0
         }
     ]
 }

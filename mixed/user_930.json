@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "8a542e59-3dfd-4f32-93c0-8c3dfb728fa2",
+    "name": "Michelle Ochoa",
+    "email": "smithgeorge@example.org",
     "instagram_handle": "@Kylie.Quitzon22",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@sandrajohnson",
+    "joined_at": "2025-02-03T16:34:34.573582",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fc3665ee-a440-4c4a-8ae2-09de402ae8d9",
+            "brand": "Mercado-Rivera",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "429a2d05-d15a-4556-88a4-1589318d54c7",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.collins.com/",
                     "likes": 155,
-                    "comments": null,
+                    "comments": 212,
                     "shares": 73,
                     "reach": 5815
                 }

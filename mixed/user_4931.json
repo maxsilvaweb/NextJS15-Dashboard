@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6ba3b536-b064-4283-bd88-d67a79f05a6e",
+    "name": "Jaime Coleman",
+    "email": "fitzpatrickgarrett@example.org",
+    "instagram_handle": "@lewiselizabeth",
+    "tiktok_handle": "@kimberly15",
+    "joined_at": "2025-03-28T11:37:28.308761",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "79f6172d-81c6-45fd-b944-25a48c3dcd54",
             "brand": "Leuschke - Kiehn",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "628f7eb3-222b-4439-9e6e-f70e939565a7",
                     "platform": "Instagram",
                     "post_url": "https://expert-institute.info",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5806,
+                    "comments": 450,
                     "shares": 45,
                     "reach": 9818
                 }

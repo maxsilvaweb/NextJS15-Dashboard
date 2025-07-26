@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d3c133ea-4f94-4e47-817d-cd87fa5babfc",
+    "name": "Catherine Fields",
+    "email": "megan50@example.net",
+    "instagram_handle": "@lgray",
+    "tiktok_handle": "@alexandriascott",
+    "joined_at": "2025-05-11T19:43:26.532402",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d10eea63-43bc-4394-82c5-87b58ca5a1e9",
+            "brand": "Collins Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a9b67728-a79e-4500-9a39-13b68fedfbf9",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.martinez-king.com/",
                     "likes": 344,
-                    "comments": null,
+                    "comments": 295,
                     "shares": 63,
                     "reach": 5196
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2831.53
         }
     ]
 }

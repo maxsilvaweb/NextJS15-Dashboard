@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "4a89bfa8-a6f6-437c-8a93-00e39cb8e201",
+    "name": "Sydney Baker",
     "email": "Kaelyn.Toy@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@khart",
+    "tiktok_handle": "@adamssean",
+    "joined_at": "2024-03-27T02:47:24.609785",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e18f6f28-96ce-4fbc-b381-a46652ebff03",
+            "brand": "Anderson-Flores",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "617c58ce-6e37-47cb-a740-8326ffe95921",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.smith-coleman.com/",
+                    "likes": 8458,
+                    "comments": 43,
                     "shares": 7,
                     "reach": 5381
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1848.19
         }
     ]
 }

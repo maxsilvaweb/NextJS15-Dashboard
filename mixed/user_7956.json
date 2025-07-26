@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "5790793a-234a-4089-a19c-9ddaa002d24b",
+    "name": "Timothy Cruz",
     "email": "Denis17@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@gatkins",
+    "tiktok_handle": "@phillipselizabeth",
+    "joined_at": "2024-04-12T22:49:48.280714",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "56c98e93-f121-4b2b-a66e-6d7ba9fe46c8",
+            "brand": "Warren Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3c78e85e-a7e4-466a-a11c-640649cf0793",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://robinson.org/",
+                    "likes": 5913,
                     "comments": 30,
                     "shares": 31,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8381.6
         }
     ]
 }

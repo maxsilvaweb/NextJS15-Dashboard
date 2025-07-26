@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7d0aa646-5a91-4b79-83dd-e5299749db59",
+    "name": "Christina Nguyen",
+    "email": "scottcompton@example.org",
+    "instagram_handle": "@erincunningham",
+    "tiktok_handle": "@matthewwebb",
+    "joined_at": "2023-10-27T21:08:15.454934",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bb5fcef2-758c-47f7-bd8d-296f41cd446f",
+            "brand": "Young-Ball",
             "tasks_completed": [
                 {
                     "task_id": "04150c42-c3a7-4cd6-a44a-abdc10385149",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://sims-mckay.com/",
+                    "likes": 3369,
+                    "comments": 320,
                     "shares": 90,
                     "reach": 2988
                 }

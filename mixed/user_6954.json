@@ -1,20 +1,20 @@
 {
-    "user_id": null,
+    "user_id": "7259dfa5-f5cb-4dc3-bd79-d07dcdb2aaa7",
     "name": "Abraham Becker",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "nwright@example.org",
+    "instagram_handle": "@sandovalcharles",
+    "tiktok_handle": "@smithjoseph",
+    "joined_at": "2024-04-01T17:34:57.657790",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "222d2f07-75e3-44d2-8967-a2adbd2fa67f",
+            "brand": "Robbins, Rivera and Carlson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e4414534-22c5-4791-b134-9edfd840e138",
                     "platform": "TikTok",
                     "post_url": "https://artistic-pillbox.net",
-                    "likes": "NaN",
+                    "likes": 1983,
                     "comments": 9,
                     "shares": 40,
                     "reach": 6249

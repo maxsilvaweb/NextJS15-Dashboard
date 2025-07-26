@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "bd12cdaa-1f65-4448-a14f-b8353c59410a",
     "name": "Fred Paucek",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "craigfletcher@example.net",
+    "instagram_handle": "@bryantbrenda",
+    "tiktok_handle": "@staffordlarry",
+    "joined_at": "2024-08-25T17:22:13.121309",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f76239e5-b184-4254-98a7-a35a46671651",
+            "brand": "Garcia Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "8af4aac2-d0aa-4ec4-bf55-a852d8829872",
+                    "platform": "Twitter",
+                    "post_url": "http://rios.com/",
+                    "likes": 2868,
+                    "comments": 269,
                     "shares": 97,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7331.63
         }
     ]
 }

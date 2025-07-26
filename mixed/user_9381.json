@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "82486590-2796-4c0e-bc79-59119c6e4b76",
+    "name": "Kevin Mills",
+    "email": "elizabeth38@example.com",
+    "instagram_handle": "@kjones",
+    "tiktok_handle": "@moyerannette",
+    "joined_at": "2023-10-21T21:38:18.376313",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e12f264e-37ff-4f35-b337-bb6f076cc131",
+            "brand": "Luna, Lee and Ortiz",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a40e294d-92ae-47e0-8e32-2ba62c1da5f0",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://garcia.com/",
+                    "likes": 1042,
+                    "comments": 366,
                     "shares": 5,
                     "reach": 8809
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4680.09
         }
     ]
+}

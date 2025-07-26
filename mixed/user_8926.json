@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "16a7456c-1c3e-46ae-ba56-18b045fd7ab5",
+    "name": "Cynthia Dennis",
+    "email": "sblankenship@example.org",
+    "instagram_handle": "@cooksteven",
     "tiktok_handle": "@Erika.Streich",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-05-13T07:24:30.692913",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3f794aa0-c4b8-41f9-af58-6c42470c2bf1",
+            "brand": "Larson-Terry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5e4cafd5-704d-4150-aa93-7767cf6cf962",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.allison-tanner.info/",
+                    "likes": 7199,
+                    "comments": 89,
                     "shares": 99,
                     "reach": 1053
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5411.26
         }
     ]
 }

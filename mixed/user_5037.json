@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "68d9b68a-5b19-4252-8cd4-f0903f4b2b19",
+    "name": "Jerry Ortiz",
+    "email": "gina69@example.org",
+    "instagram_handle": "@pam77",
+    "tiktok_handle": "@linda26",
+    "joined_at": "2025-03-02T00:07:07.975656",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4b5c7162-779c-47d3-bcd9-5661375140f6",
+            "brand": "Bell LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "44b9d818-317d-4d0d-95a6-088faf3d2bd2",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://williams.info/",
                     "likes": 43,
                     "comments": 4,
                     "shares": 0,
                     "reach": 7066
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 665.64
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "3f00dde9-3344-4531-97b7-77d931b8f314",
     "name": "Kerry Adams DVM",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "hamiltonmarcus@example.org",
+    "instagram_handle": "@williamlong",
+    "tiktok_handle": "@angela47",
+    "joined_at": "2023-08-14T16:23:27.934192",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b398cea2-5a5f-4b91-90e9-ed391e145315",
+            "brand": "Wheeler, Deleon and Davis",
             "tasks_completed": [
                 {
                     "task_id": "a99a9b40-de62-4d48-b117-28627e716a52",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://elliott.com/",
                     "likes": 98,
-                    "comments": null,
+                    "comments": 286,
                     "shares": 54,
                     "reach": 1265
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4667.76
         }
     ]
 }

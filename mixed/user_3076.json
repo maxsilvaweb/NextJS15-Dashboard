@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d2ac6210-d126-4d78-8b13-d0cef365d228",
+    "name": "Justin Scott",
+    "email": "lindabanks@example.com",
+    "instagram_handle": "@moralestimothy",
+    "tiktok_handle": "@baldwinsharon",
+    "joined_at": "2024-02-05T19:27:53.937335",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d8e02814-8d9e-4ade-ba15-f5723267234f",
+            "brand": "Richards, Hill and Love",
             "tasks_completed": [
                 {
                     "task_id": "bd009b8e-07d5-4d8f-8f6f-df7e34aaf57e",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://matthews.com/",
+                    "likes": 5412,
+                    "comments": 274,
                     "shares": 32,
                     "reach": 2821
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5803.97
         }
     ]
 }

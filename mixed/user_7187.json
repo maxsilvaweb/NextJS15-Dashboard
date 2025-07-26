@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "77b4586b-0e1e-48c2-b69b-56bf84584718",
+    "name": "Megan Davis PhD",
     "email": "Elisabeth_Kreiger16@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@smithteresa",
+    "tiktok_handle": "@berrymary",
+    "joined_at": "2024-11-21T06:19:59.067099",
     "advocacy_programs": [
         {
             "program_id": "925f996d-736b-4a32-8512-56d5cb1d1f97",
-            "brand": 12345,
+            "brand": "Thomas Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c617fa3c-6aaa-4e83-bde3-5084c9813cf3",
                     "platform": "Facebook",
                     "post_url": "https://another-synergy.info",
-                    "likes": "NaN",
+                    "likes": 3105,
                     "comments": 49,
                     "shares": 58,
                     "reach": 1653
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6731.13
         }
     ]
 }

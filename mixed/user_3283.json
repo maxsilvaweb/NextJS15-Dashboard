@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "713a0973-1bad-4798-9554-0c17afc2b2d9",
+    "name": "Daniel Sullivan",
+    "email": "moniqueholland@example.org",
+    "instagram_handle": "@cody70",
+    "tiktok_handle": "@parkerlisa",
     "joined_at": "2024-10-28T02:08:28.123Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d3e4d788-982a-4c56-b637-b1d8ad24fb41",
+            "brand": "Rose LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "096c8870-6087-4900-b936-04e5df41f17a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.peters-allen.info/",
                     "likes": 154,
-                    "comments": null,
+                    "comments": 370,
                     "shares": 81,
                     "reach": 2220
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1327.0
         }
     ]
 }

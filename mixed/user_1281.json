@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "c4585ba7-be0d-4be0-a9fd-f28d664ad2a1",
     "name": "Claire Labadie",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "aedwards@example.com",
+    "instagram_handle": "@goldenjanet",
+    "tiktok_handle": "@jasonalexander",
+    "joined_at": "2024-09-19T11:05:53.044793",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fbaa40b3-1ebb-4aee-ada6-69d44b4c86db",
+            "brand": "Rodriguez Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "51a36e3e-c4fc-438e-9792-10db2d8f51c8",
                     "platform": "Facebook",
                     "post_url": "https://cloudy-scratch.org",
-                    "likes": "NaN",
+                    "likes": 5726,
                     "comments": 35,
                     "shares": 89,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7696.7
         }
     ]
 }

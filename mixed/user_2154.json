@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "36604108-1833-472e-a8d8-86649903d761",
+    "name": "Holly Proctor",
+    "email": "krobinson@example.net",
+    "instagram_handle": "@donald95",
+    "tiktok_handle": "@rodriguezmadeline",
+    "joined_at": "2023-12-24T05:36:33.322594",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "883ffce1-461b-4b57-a4ab-fe1c0581501c",
+            "brand": "Ballard-Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "00b4778d-0a50-4f44-95af-c5075bc89a12",
+                    "platform": "TikTok",
+                    "post_url": "http://simpson.info/",
+                    "likes": 959,
                     "comments": 22,
                     "shares": 19,
                     "reach": 1010
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2768.5
         }
     ]
 }

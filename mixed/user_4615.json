@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c81a629e-25c4-4a45-a2b9-b0b848801417",
+    "name": "Robin Bell",
+    "email": "wadams@example.com",
+    "instagram_handle": "@boydjuan",
+    "tiktok_handle": "@sandracrosby",
+    "joined_at": "2024-01-17T17:58:31.793935",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "85960459-60a3-4cd2-ae26-8bd9abe2d16d",
+            "brand": "Lewis, Rogers and Bright",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a7c17239-b7c7-405e-8ba4-9f086b4944aa",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.mcgee.org/",
+                    "likes": 1242,
+                    "comments": 332,
                     "shares": 3,
                     "reach": 9057
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9834.0
         }
     ]
 }

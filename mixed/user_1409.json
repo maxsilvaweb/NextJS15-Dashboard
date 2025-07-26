@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "69b70f8b-dfaf-469a-b817-eb607e2e4d93",
+    "name": "Angel Mata",
+    "email": "latoya47@example.org",
+    "instagram_handle": "@christopher37",
+    "tiktok_handle": "@jeanetterubio",
+    "joined_at": "2024-07-28T06:01:47.009230",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bbd01c7b-8488-4b78-862e-dda9133eeb34",
+            "brand": "Wise, Zhang and Haley",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "17b731ef-4ddb-4e30-8948-cadc503d5c7b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://hill.com/",
                     "likes": 437,
                     "comments": 48,
                     "shares": 6,
                     "reach": 891
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8698.47
         }
     ]
 }

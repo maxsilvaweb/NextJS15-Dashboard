@@ -1,18 +1,18 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "356cb078-751b-41cb-a2d8-3250effb1e31",
+    "name": "Tyler Douglas",
+    "email": "andrealarsen@example.org",
+    "instagram_handle": "@yvetteroth",
+    "tiktok_handle": "@tsmith",
+    "joined_at": "2025-05-14T17:36:28.689420",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4352d56b-df3a-4bd7-bc41-4a85cf3d7c2f",
+            "brand": "Smith Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "ce5ae578-2a60-4444-9680-e27394da69ad",
+                    "platform": "Twitter",
                     "post_url": "https://french-pearl.biz",
                     "likes": 32,
                     "comments": 22,
@@ -20,7 +20,7 @@
                     "reach": 6363
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7223.25
         }
     ]
 }

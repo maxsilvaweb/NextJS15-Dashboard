@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "272d7882-c687-4024-8880-df4e85feca76",
+    "name": "Amber Ramirez",
+    "email": "wilsonmichael@example.net",
+    "instagram_handle": "@marymorrow",
+    "tiktok_handle": "@pattersonethan",
+    "joined_at": "2023-09-23T11:53:08.114655",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5da337ef-e015-41ae-800c-4d66b16c63d3",
+            "brand": "Cox Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "3412f13d-8802-4a48-ba9c-d2f707572f6b",
+                    "platform": "Instagram",
                     "post_url": "https://runny-pine.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5761,
+                    "comments": 330,
                     "shares": 20,
                     "reach": 885
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3856.53
         }
     ]
 }

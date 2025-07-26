@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "65be4257-8517-4c8d-9711-a115a180a70c",
+    "name": "Rebecca Murphy",
+    "email": "stephanie72@example.org",
     "instagram_handle": "@Dorcas.Lemke",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@anthony41",
+    "joined_at": "2023-08-13T08:54:16.583990",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "f6b5cbfb-ba92-43bd-bcaa-485a581d7dd2",
             "brand": "Beier - Gleason",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f4b5f40c-b1fe-4b2d-9e46-78ef192c8f91",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://powell.com/",
                     "likes": 359,
-                    "comments": null,
+                    "comments": 236,
                     "shares": 48,
                     "reach": 4165
                 }

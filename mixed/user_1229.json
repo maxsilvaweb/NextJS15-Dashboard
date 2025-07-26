@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "21258992-8214-43f7-9a5e-c21dc7f11564",
+    "name": "Jenna Vaughan",
+    "email": "vdecker@example.org",
+    "instagram_handle": "@msalinas",
+    "tiktok_handle": "@thompsonjames",
+    "joined_at": "2024-09-10T09:13:36.844688",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f4796825-9702-4720-86f9-08691ab72877",
+            "brand": "Banks Group",
             "tasks_completed": [
                 {
                     "task_id": "a93391ed-7f61-4d2f-8ac7-50ee03cd6564",
-                    "platform": 123,
+                    "platform": "YouTube",
                     "post_url": "https://alive-swing.name/",
                     "likes": 46,
-                    "comments": null,
+                    "comments": 48,
                     "shares": 56,
                     "reach": 1180
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6834.64
         }
     ]
 }

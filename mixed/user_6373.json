@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b56f9f7f-8034-49a5-8113-4b39dada1a5b",
+    "name": "Jennifer Flynn",
+    "email": "nsmith@example.net",
+    "instagram_handle": "@michellecooper",
+    "tiktok_handle": "@fgutierrez",
+    "joined_at": "2025-01-12T07:19:40.810753",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "e3d69af5-85c0-4e80-b4ab-0bc8c1b31918",
             "brand": "Metz, Carter and Hirthe",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "1f53e2c1-2e65-44fb-92a9-40fcb473dfae",
+                    "platform": "TikTok",
+                    "post_url": "https://www.daniels.com/",
                     "likes": 313,
-                    "comments": null,
+                    "comments": 266,
                     "shares": 19,
                     "reach": 2824
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5207.15
         }
     ]
 }

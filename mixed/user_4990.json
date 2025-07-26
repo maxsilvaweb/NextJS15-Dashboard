@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a1ce13a9-0739-47d9-bfec-2c5245aeb614",
+    "name": "Victoria Lyons",
+    "email": "foxcarla@example.net",
+    "instagram_handle": "@nharvey",
+    "tiktok_handle": "@simsterri",
+    "joined_at": "2024-08-11T03:00:19.092218",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3c577419-a91d-4869-9c1d-03592b6274ff",
+            "brand": "Clark-Moore",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "13e69713-9340-403c-9c89-029fdcc4eb52",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://chapman.com/",
+                    "likes": 6856,
+                    "comments": 279,
                     "shares": 65,
                     "reach": 5493
                 }

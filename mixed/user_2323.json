@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4f0a60a4-c7d5-4f9d-a939-99d522789330",
+    "name": "Brenda Pittman",
+    "email": "lauren00@example.org",
+    "instagram_handle": "@baileypatton",
+    "tiktok_handle": "@james06",
+    "joined_at": "2025-06-27T06:12:48.087149",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "5d09225a-4f1f-4f22-8c78-fd5910ba8d94",
             "brand": "Johnson - Hodkiewicz",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1a041ba8-0ae6-4d4f-bf08-fc2aca7d3cad",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://rubio.com/",
+                    "likes": 9199,
+                    "comments": 191,
                     "shares": 23,
                     "reach": 5417
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9746.56
         }
     ]
 }

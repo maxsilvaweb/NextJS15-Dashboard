@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "732b1a1f-e3ba-428f-99a1-a01d847c3f0f",
+    "name": "Stephen West",
+    "email": "nathandavis@example.org",
+    "instagram_handle": "@vasquezchristopher",
+    "tiktok_handle": "@victoria41",
+    "joined_at": "2023-10-10T07:41:07.193269",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "9e36aea7-768d-4f86-8f3d-94de01121529",
             "brand": "Yost - Quitzon",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fbb8d201-fe33-487f-a66f-6d33cb318b20",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.richardson.com/",
                     "likes": 446,
-                    "comments": null,
+                    "comments": 412,
                     "shares": 46,
                     "reach": 2825
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3670.34
         }
     ]
 }

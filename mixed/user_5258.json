@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4797d281-4011-487b-8085-4541ad231aa3",
+    "name": "Audrey Jones",
+    "email": "ronald26@example.com",
+    "instagram_handle": "@graveshaley",
+    "tiktok_handle": "@shawnjuarez",
+    "joined_at": "2023-08-04T07:09:09.985395",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9d8c970d-3c8b-45b3-a012-2f7531349cf4",
+            "brand": "Carter-Moody",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b21725c1-6df4-4ea9-95be-0272e8a501ee",
                     "platform": "Instagram",
                     "post_url": "https://harmful-incandescence.biz",
-                    "likes": "NaN",
+                    "likes": 6712,
                     "comments": 13,
                     "shares": 9,
                     "reach": 8464

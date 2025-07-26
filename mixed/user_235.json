@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "c65ac196-5736-41ac-ab97-e780badeac9c",
+    "name": "Dawn Riley",
+    "email": "cbell@example.com",
+    "instagram_handle": "@mmarquez",
     "tiktok_handle": "@Gerhard7",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-07-22T09:28:22.930314",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fad47c82-d795-4672-876a-777f05ba4c12",
+            "brand": "Whitehead and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cfd2c00a-8ebe-4798-8d65-f47d7139fe99",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.moore.com/",
+                    "likes": 9881,
+                    "comments": 230,
                     "shares": 10,
                     "reach": 1141
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6921.18
         }
     ]
 }

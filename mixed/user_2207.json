@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "21e3a82e-872e-420f-a588-40d8e8b48909",
+    "name": "Jonathan Barrett",
     "email": "Arvilla44@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@justin22",
+    "tiktok_handle": "@tyler54",
+    "joined_at": "2024-01-19T13:55:45.989246",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "89087562-b2ae-4256-82e4-302ffdf93d9a",
+            "brand": "King-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "872fe0c0-eafd-4234-8d34-8c1b8ac754f2",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.petersen.info/",
+                    "likes": 7737,
+                    "comments": 282,
                     "shares": 74,
                     "reach": 7889
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5624.08
         }
     ]
 }

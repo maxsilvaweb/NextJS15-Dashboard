@@ -1,18 +1,18 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6e76337b-5241-4ad8-9b1a-b701ba7853eb",
+    "name": "Vanessa Mathews",
+    "email": "michaelcruz@example.org",
+    "instagram_handle": "@lbrown",
+    "tiktok_handle": "@lnolan",
+    "joined_at": "2024-04-15T01:32:46.211117",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "726df1de-41aa-42a1-99a2-05ddfb83997c",
+            "brand": "Allen-Clements",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "572d9ea9-8a00-41be-b9cd-342b67d9fc3b",
+                    "platform": "YouTube",
                     "post_url": "https://foolish-wombat.biz/",
                     "likes": 80,
                     "comments": 34,
@@ -20,7 +20,7 @@
                     "reach": 1148
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 728.58
         }
     ]
 }

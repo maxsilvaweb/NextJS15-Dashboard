@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "34b6f675-13b9-4615-8855-1dfaa2ea6d39",
+    "name": "Edward Bullock",
+    "email": "kathy93@example.net",
+    "instagram_handle": "@daniel74",
     "tiktok_handle": "@Jake43",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-05-25T17:51:33.896452",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "81ee795c-ccae-483f-a359-d7dbfe2daf72",
+            "brand": "Klein PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4f129d65-376b-4a79-8061-2aa221c15d0b",
                     "platform": "Facebook",
                     "post_url": "https://distorted-typeface.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 303,
+                    "comments": 75,
                     "shares": 22,
                     "reach": 8823
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 126.46
         }
     ]
 }

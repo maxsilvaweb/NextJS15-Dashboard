@@ -1,21 +1,21 @@
 {
     "user_id": "02d69982-9cc1-473f-955e-c57f26c23204",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "name": "Daniel White",
+    "email": "garciashane@example.org",
+    "instagram_handle": "@brittany24",
     "tiktok_handle": "@Manuela_Keeling",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-02-26T11:24:32.216237",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "591a4c07-9a1e-4ed0-954e-1fd142d13c1b",
             "brand": "Murphy LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "ea26131b-d1bc-493d-84ad-b6b9ad5917c7",
+                    "platform": "YouTube",
                     "post_url": "https://common-scale.org/",
                     "likes": 28,
-                    "comments": null,
+                    "comments": 92,
                     "shares": 86,
                     "reach": 3473
                 }

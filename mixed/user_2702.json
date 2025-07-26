@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5730f486-2d2b-4c3a-b489-16f1a01ee325",
+    "name": "Stephanie Johnson",
+    "email": "sarajohnson@example.org",
+    "instagram_handle": "@debbiehubbard",
+    "tiktok_handle": "@hudsonwilliam",
+    "joined_at": "2024-08-06T18:49:01.480768",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b46f77e0-2173-4284-92bc-65bd482e9f5e",
+            "brand": "Strong LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "558655e9-0262-44d2-a920-cb0da484086c",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.stevenson-figueroa.net/",
+                    "likes": 3878,
+                    "comments": 103,
                     "shares": 5,
                     "reach": 1369
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7257.36
         }
     ]
 }

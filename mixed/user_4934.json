@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5c3be720-db4e-447c-822c-3caddc674b12",
+    "name": "Christian Galloway",
+    "email": "amberherrera@example.com",
+    "instagram_handle": "@btaylor",
+    "tiktok_handle": "@bhodges",
+    "joined_at": "2024-07-03T16:27:35.682519",
     "advocacy_programs": [
         {
             "program_id": "dd57eb9a-bdc1-4188-9eaf-61aa8ff8ac79",
-            "brand": 12345,
+            "brand": "Hester-Kelley",
             "tasks_completed": [
                 {
                     "task_id": "8a4fa78e-064c-42ca-9e38-30adfd245f6e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://allen.com/",
                     "likes": 19,
                     "comments": 38,
                     "shares": 43,
                     "reach": 3409
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9475.41
         }
     ]
 }

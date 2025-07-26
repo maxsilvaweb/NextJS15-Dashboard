@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4087ffad-d3d5-4a94-b7de-a82ae7c61018",
+    "name": "Sarah Rodriguez",
+    "email": "weaverjessica@example.com",
+    "instagram_handle": "@conneramanda",
+    "tiktok_handle": "@jsoto",
+    "joined_at": "2024-04-28T03:57:43.136478",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "67ff0e4a-4547-45bf-857f-ca52b6c8b030",
+            "brand": "Robinson Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "b6b57a0e-c0fe-4428-8998-24f3d9b61852",
+                    "platform": "YouTube",
+                    "post_url": "http://www.baker.com/",
                     "likes": 44,
-                    "comments": null,
+                    "comments": 191,
                     "shares": 79,
                     "reach": 8994
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3668.0
         }
     ]
 }

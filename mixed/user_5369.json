@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9305e431-240b-439d-8797-a39e958a7143",
+    "name": "Charles Boone",
+    "email": "aburgess@example.com",
+    "instagram_handle": "@garciaamy",
+    "tiktok_handle": "@imckinney",
+    "joined_at": "2023-09-21T17:55:13.754845",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9ab8a9eb-be37-4dea-b7eb-01a19d93a2e2",
+            "brand": "Ellison-Sullivan",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "626b7966-64f9-4328-bca3-0f94cb8be924",
+                    "platform": "Twitter",
+                    "post_url": "http://www.wang.org/",
                     "likes": 266,
                     "comments": 4,
                     "shares": 52,
                     "reach": 5277
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6442.68
         }
     ]
 }

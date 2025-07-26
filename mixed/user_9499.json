@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "39a4abf4-b0c3-4bd3-ba14-9365086abba5",
+    "name": "Rebecca Hartman",
+    "email": "mary67@example.com",
+    "instagram_handle": "@whitepaul",
+    "tiktok_handle": "@traci60",
+    "joined_at": "2023-12-29T17:51:06.894106",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "802c0e22-a76f-4c62-9972-1e790118ed10",
+            "brand": "Sanchez, Jackson and Rogers",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "26d27f5e-f7a7-4221-bddf-ec95ef66e3d0",
+                    "platform": "TikTok",
+                    "post_url": "http://www.dunn.com/",
                     "likes": 156,
-                    "comments": null,
+                    "comments": 340,
                     "shares": 21,
                     "reach": 9947
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6431.17
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "210a9c62-c26b-41b0-b10e-c13e1cc14501",
+    "name": "Zachary Daugherty",
+    "email": "istrickland@example.net",
+    "instagram_handle": "@jessica35",
+    "tiktok_handle": "@jamesfletcher",
+    "joined_at": "2025-07-21T06:45:23.429537",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7f0ad9c7-be18-4449-8b97-6ecf00a04f6c",
+            "brand": "Campbell, Brewer and Chan",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "60e6d6b9-3f2a-4b72-b97f-1911892acf7e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://shah.net/",
+                    "likes": 1451,
+                    "comments": 230,
                     "shares": 73,
                     "reach": 3618
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9104.27
         }
     ]
 }

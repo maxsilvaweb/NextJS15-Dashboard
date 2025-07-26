@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "fb00bfa6-1abd-4ebf-9977-32aa00ca606b",
+    "name": "Julie Sanders",
     "email": "Verda_Schulist@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@gherrera",
+    "tiktok_handle": "@pamelarice",
+    "joined_at": "2023-12-27T05:26:07.481589",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d1edc089-71bc-42b7-a160-007c644b9254",
+            "brand": "Chan, Mcbride and Cooper",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "191a772e-1cb0-4143-b9bd-e8478b4a90ef",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://greene.biz/",
+                    "likes": 5607,
                     "comments": 9,
                     "shares": 78,
                     "reach": 4222

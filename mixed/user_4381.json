@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "1b256f7b-1131-47ea-9b06-2c43959e04d7",
+    "name": "Sara Vazquez",
     "email": "Mara36@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@michaeljasmine",
+    "tiktok_handle": "@jenniferwalker",
+    "joined_at": "2025-01-30T03:00:57.088908",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d0f82d7c-d640-4e0b-9659-dbe2f60d01ca",
+            "brand": "Kim-Peters",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "771b12da-a3c5-483e-ab1f-09130eb2594f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.cox.org/",
+                    "likes": 1216,
+                    "comments": 80,
                     "shares": 40,
                     "reach": 5629
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7344.28
         }
     ]
 }

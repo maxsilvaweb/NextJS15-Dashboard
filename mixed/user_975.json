@@ -1,26 +1,26 @@
 {
     "user_id": "8860c6d3-dfdd-4c51-a904-87c1596ab5eb",
-    "name": "???",
+    "name": "John Johnson",
     "email": "Dariana_Zulauf@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@phillipmoore",
+    "tiktok_handle": "@parsonsjohn",
+    "joined_at": "2024-08-13T14:24:18.922570",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "fd48cb5e-adc4-4736-a692-cbfa5a5e9689",
             "brand": "Haag, Fritsch and Roberts",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6f601c28-04c8-41f2-bd6d-ea6acc489eb2",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.jones.com/",
+                    "likes": 8032,
+                    "comments": 8,
                     "shares": 40,
                     "reach": 4810
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4457.2
         }
     ]
 }

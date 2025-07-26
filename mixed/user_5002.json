@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "96e3c0bb-cc28-4019-9304-9d437df09423",
+    "name": "George Jennings",
+    "email": "donnabarnes@example.net",
+    "instagram_handle": "@molly11",
     "tiktok_handle": "@Reynold_Turner",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-07-13T00:22:18.907991",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "7a9c5f8e-4c1f-48e7-9550-31b82ecc8550",
             "brand": "Vandervort - Hane",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "583c3e8b-0bcc-4793-9620-80b1011fcff1",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.fletcher-rose.org/",
+                    "likes": 2840,
+                    "comments": 90,
                     "shares": 86,
                     "reach": 5101
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3739.15
         }
     ]
 }

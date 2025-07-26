@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "8d9189f6-d40d-4651-8d94-8c57113e0c96",
+    "name": "Zachary Wilson",
+    "email": "johndaugherty@example.org",
     "instagram_handle": "@Vada.Anderson",
-    "tiktok_handle": "#error_handle",
+    "tiktok_handle": "@dylan00",
     "joined_at": "2024-05-02T16:38:58.396Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c1231e1d-1b24-4c35-9355-c527631b60ed",
+            "brand": "Pruitt, Hendricks and Odonnell",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "a6707fa5-83c6-4e4c-a5d4-f988da2f6abd",
+                    "platform": "YouTube",
+                    "post_url": "https://www.ruiz.org/",
+                    "likes": 102,
+                    "comments": 293,
                     "shares": 13,
                     "reach": 4690
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2092.22
         }
     ]
 }

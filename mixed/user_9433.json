@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "0cf4ab9f-9f45-4a30-8513-34dd66f07e94",
+    "name": "Justin Holmes",
+    "email": "michelle54@example.com",
+    "instagram_handle": "@jsmith",
+    "tiktok_handle": "@zromero",
     "joined_at": "2024-07-10T03:59:06.117Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "89784737-f992-4265-ad4e-b314d5a6acc0",
+            "brand": "Wright, Sharp and Silva",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fcfc18dc-2dcb-4939-869b-cda3834870d8",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://james-simmons.com/",
+                    "likes": 9265,
+                    "comments": 13,
                     "shares": 0,
                     "reach": 7957
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6810.51
         }
     ]
 }

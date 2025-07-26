@@ -1,17 +1,17 @@
 {
-    "user_id": null,
+    "user_id": "ea14d11f-3291-4d48-829e-7a91d81456e4",
     "name": "Felicia Emmerich",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "ajackson@example.org",
+    "instagram_handle": "@bridgettran",
+    "tiktok_handle": "@qford",
+    "joined_at": "2023-11-29T14:56:53.825696",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "045eb940-41af-4104-8f42-96556797d43b",
+            "brand": "Rodriguez, Taylor and Cherry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "654f1ae4-1b72-4987-b271-844e10139d20",
                     "platform": "Instagram",
                     "post_url": "https://compassionate-grandpa.com",
                     "likes": 185,
@@ -20,7 +20,7 @@
                     "reach": 1786
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5527.83
         }
     ]
 }

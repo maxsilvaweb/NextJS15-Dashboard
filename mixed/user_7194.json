@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8525de38-bb3b-4312-9cd2-79ecabb8e916",
+    "name": "Sharon Andrade",
+    "email": "boydalexandra@example.net",
+    "instagram_handle": "@kvilla",
+    "tiktok_handle": "@sharptammy",
+    "joined_at": "2025-04-23T23:28:13.569512",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4715cf60-5a8a-4fb2-a1c3-74fb30193d31",
+            "brand": "Hernandez Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b4d5176d-bb84-4d1c-ab21-37b0e8b383c2",
                     "platform": "Facebook",
                     "post_url": "https://genuine-newsprint.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2566,
+                    "comments": 174,
                     "shares": 74,
                     "reach": 6182
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4722.73
         }
     ]
 }

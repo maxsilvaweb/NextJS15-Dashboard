@@ -1,20 +1,20 @@
 {
-    "user_id": null,
+    "user_id": "69bdbf98-d6b5-4951-84ce-ff604e0144d1",
     "name": "Donna Conn",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "patelkevin@example.com",
+    "instagram_handle": "@ttaylor",
+    "tiktok_handle": "@jimmysantos",
+    "joined_at": "2024-03-29T12:24:03.139417",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "2b89c6f4-e06f-460d-a2f3-c6b77dc6be39",
             "brand": "Konopelski, Hills and Upton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f4f942be-9086-4da0-8acd-21d2cc6c7bfc",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.jordan-lopez.com/",
+                    "likes": 7842,
                     "comments": 16,
                     "shares": 5,
                     "reach": 5403

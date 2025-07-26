@@ -1,26 +1,26 @@
 {
     "user_id": "17f859cb-7afa-4ca9-973b-9f9c5a4f3ce1",
     "name": "Saul Kris",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "dawn43@example.org",
+    "instagram_handle": "@hwhite",
+    "tiktok_handle": "@cynthia95",
+    "joined_at": "2025-03-19T00:44:06.462006",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "acb082f1-49a9-42e8-88fc-4f23facd6e95",
             "brand": "Nikolaus - Heidenreich",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "af7508d2-95af-41e7-8fe1-440522d5c102",
+                    "platform": "Twitter",
+                    "post_url": "http://www.smith-webb.com/",
+                    "likes": 812,
+                    "comments": 400,
                     "shares": 58,
                     "reach": 4064
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2978.9
         }
     ]
 }

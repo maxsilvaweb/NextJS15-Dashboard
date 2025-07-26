@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "74b5e467-4ce6-48d3-83a2-da937be58efe",
+    "name": "Brian Diaz",
     "email": "Sylvan.Hayes@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@smithbenjamin",
+    "tiktok_handle": "@rebeccabaker",
+    "joined_at": "2024-06-08T10:57:08.813258",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cf5dea1c-297f-495b-855c-5e116015cd4d",
+            "brand": "Clark-Johnson",
             "tasks_completed": [
                 {
                     "task_id": "e359f287-d64c-4bd2-8d46-fc3261570947",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://walton.com/",
+                    "likes": 56,
+                    "comments": 307,
                     "shares": 86,
                     "reach": 5319
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7956.16
         }
     ]
 }

@@ -1,18 +1,18 @@
 {
-    "user_id": null,
+    "user_id": "9a52dda2-d8fe-49e1-98b2-8efc94ef844a",
     "name": "Dean Goyette",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "joshua71@example.net",
+    "instagram_handle": "@stephensbrenda",
+    "tiktok_handle": "@hernandezchristina",
+    "joined_at": "2024-02-19T16:59:01.900120",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3ed037dc-0cf9-40c5-8f7f-f401fe5826f9",
+            "brand": "Sutton-Ruiz",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "99c9f893-b200-4a44-98e9-0de5c45e4030",
+                    "platform": "YouTube",
                     "post_url": "https://puzzled-meal.name/",
                     "likes": 436,
                     "comments": 41,
@@ -23,3 +23,4 @@
             "total_sales_attributed": 3774.9272784893483
         }
     ]
+}

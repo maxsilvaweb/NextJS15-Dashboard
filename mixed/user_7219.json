@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "01368fdc-a136-4eea-b7d7-0cf19248b68f",
+    "name": "Brenda Marks",
+    "email": "leonardprince@example.org",
+    "instagram_handle": "@george71",
     "tiktok_handle": "@Myrl_Kihn",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-07-10T11:26:43.453775",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b800a787-8291-4b7f-9236-0048a180459f",
+            "brand": "Williams and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b41b3afd-fb43-4576-afc3-49fdd3a5e6c5",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://zimmerman.com/",
+                    "likes": 4109,
+                    "comments": 90,
                     "shares": 50,
                     "reach": 4677
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6556.8
         }
     ]
 }

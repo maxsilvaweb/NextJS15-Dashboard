@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ea164675-7bfe-46a8-81a2-0f93773fca8f",
+    "name": "Nicholas Williams",
+    "email": "william56@example.net",
+    "instagram_handle": "@nallen",
+    "tiktok_handle": "@matthew99",
+    "joined_at": "2025-02-28T09:16:29.990883",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "451dc668-2311-466b-819f-52acebc521ba",
+            "brand": "Pope, Myers and Hunter",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b9ba4e19-b821-497b-9596-c5d1e23c452f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.wilson-davis.com/",
+                    "likes": 6123,
+                    "comments": 163,
                     "shares": 30,
                     "reach": 6048
                 }

@@ -1,10 +1,10 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a82346b7-4a68-41b9-851e-6f4e97746ecd",
+    "name": "Sarah Brown",
+    "email": "coryphillips@example.net",
+    "instagram_handle": "@jodi12",
+    "tiktok_handle": "@tinahernandez",
+    "joined_at": "2024-06-02T15:53:23.342637",
     "advocacy_programs": [
         {
             "program_id": "deba9feb-b180-4946-b221-dc3eb7a52abc",
@@ -13,14 +13,14 @@
                 {
                     "task_id": "6cb0725a-77a1-4969-b3ca-0e74605da174",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://montgomery.com/",
+                    "likes": 8443,
                     "comments": 47,
                     "shares": 48,
                     "reach": 1511
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2616.22
         }
     ]
 }

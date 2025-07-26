@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e62bea6b-2c55-4237-927c-8d297a8851f5",
+    "name": "Karen Green",
+    "email": "baileyramirez@example.net",
+    "instagram_handle": "@pholmes",
+    "tiktok_handle": "@carlosdouglas",
+    "joined_at": "2023-09-25T10:56:31.003777",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4013d7e8-f657-46ea-9a45-e26d013cd9ce",
+            "brand": "Cruz PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b4f44024-9441-4af4-9826-b8719fb9c729",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.thompson.com/",
+                    "likes": 3345,
+                    "comments": 310,
                     "shares": 100,
                     "reach": 7498
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3306.98
         }
     ]
 }

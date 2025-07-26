@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2be515fb-0c06-4530-8329-d9e6760ea3fe",
+    "name": "Amy Anderson",
+    "email": "wschmidt@example.com",
+    "instagram_handle": "@torresjeanette",
+    "tiktok_handle": "@jessica96",
+    "joined_at": "2024-01-19T18:24:24.933409",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4ba29d1a-27f9-496c-bd1b-c060cec99a94",
+            "brand": "Mcknight LLC",
             "tasks_completed": [
                 {
                     "task_id": "9b9d5937-f200-46f3-ac07-6259d7d5317c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.bates-joseph.com/",
+                    "likes": 666,
+                    "comments": 54,
                     "shares": 72,
                     "reach": 9875
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2518.3
         }
     ]
 }

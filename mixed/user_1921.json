@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "40d95164-e301-4cbe-a47f-2592c2212033",
+    "name": "Ronald Robles",
+    "email": "lynnroberts@example.com",
+    "instagram_handle": "@johnsonlauren",
+    "tiktok_handle": "@dawn86",
+    "joined_at": "2024-07-21T22:51:39.879462",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "854fdf91-ebcd-4ed7-abd5-d2b716f3e47f",
+            "brand": "Cobb-Gibbs",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8636aa75-50bb-4762-be26-50a164f8235c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://davis.org/",
+                    "likes": 5303,
+                    "comments": 476,
                     "shares": 86,
                     "reach": 3909
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9279.07
         }
     ]
 }

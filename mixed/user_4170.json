@@ -1,26 +1,26 @@
 {
     "user_id": "4cac64b9-18fa-45c9-8432-57f2be44227f",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Donald Foster",
+    "email": "samantha01@example.com",
+    "instagram_handle": "@larsonmark",
+    "tiktok_handle": "@lewismariah",
+    "joined_at": "2023-10-07T22:14:26.269643",
     "advocacy_programs": [
         {
             "program_id": "cca499da-0fea-4b0e-90d3-56715a154ba1",
             "brand": "Nikolaus - Wintheiser",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f021a063-5662-4221-8832-5075e1e442b9",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://hicks.biz/",
+                    "likes": 1338,
                     "comments": 18,
                     "shares": 84,
                     "reach": 9822
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7469.01
         }
     ]
 }

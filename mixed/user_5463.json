@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5d456d21-9e31-4ab7-b31e-f83a24d6d132",
+    "name": "Adam Baker",
+    "email": "jasonnielsen@example.net",
+    "instagram_handle": "@benjamin17",
+    "tiktok_handle": "@michele65",
+    "joined_at": "2023-09-29T15:43:28.562613",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2bb06c96-73d4-4454-a3ca-be98c25c7799",
+            "brand": "Daniels-Martinez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a6c2cf82-6c62-4cba-9987-e23c3ce5146a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://alexander.com/",
+                    "likes": 2557,
                     "comments": 18,
                     "shares": 59,
                     "reach": 4409
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3735.07
         }
     ]
 }

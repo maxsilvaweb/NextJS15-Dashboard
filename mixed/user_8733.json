@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "492dca05-5d2e-4ead-bdb2-8fcba2c20e54",
+    "name": "William Wolf",
+    "email": "njackson@example.org",
+    "instagram_handle": "@millersamuel",
+    "tiktok_handle": "@ithomas",
+    "joined_at": "2025-07-01T02:33:14.042878",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f174e935-39ed-4741-8afd-961bcdb0a4d5",
+            "brand": "Ross-Thompson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6168e18e-b5f9-41f9-9b7f-65faabafd6c6",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.williams.org/",
                     "likes": 495,
                     "comments": 17,
                     "shares": 57,
                     "reach": 524
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1920.72
         }
     ]
 }

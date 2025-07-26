@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "503e61e6-4c8c-428c-bbbb-ffa96cc2690f",
+    "name": "Robert Pitts",
+    "email": "mfitzgerald@example.com",
+    "instagram_handle": "@lfarmer",
+    "tiktok_handle": "@lopezthomas",
+    "joined_at": "2024-05-24T21:36:14.046251",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b39fed24-ce6b-4475-8a0f-562b636aeb72",
+            "brand": "Johnson, Gonzalez and Sawyer",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b61f4a33-26aa-4ef9-a71e-f6a0052c1ca4",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://simon.com/",
                     "likes": 415,
-                    "comments": null,
+                    "comments": 64,
                     "shares": 4,
                     "reach": 6295
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4764.01
         }
     ]
 }

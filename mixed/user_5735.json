@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "724cbf99-e759-43d7-8d13-749b21e92a0e",
+    "name": "John Garner",
+    "email": "charlescunningham@example.org",
+    "instagram_handle": "@eric75",
+    "tiktok_handle": "@kendrahamilton",
+    "joined_at": "2024-08-14T00:01:39.553192",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dca4e5cb-d34e-4428-ba54-079b116371f6",
+            "brand": "Taylor Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "59eeadcd-ff0a-4593-a22a-e038f480120d",
                     "platform": "TikTok",
                     "post_url": "https://definite-vein.name/",
-                    "likes": "NaN",
+                    "likes": 3576,
                     "comments": 26,
                     "shares": 46,
                     "reach": 8110
@@ -23,3 +23,4 @@
             "total_sales_attributed": 4119.161905704326
         }
     ]
+}

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "ed8764a6-6514-46f4-b0d5-c45504d8987c",
+    "name": "Theresa Taylor",
     "email": "Leif_Kuhlman7@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@johnsonmark",
+    "tiktok_handle": "@cooperjeff",
+    "joined_at": "2024-08-21T20:04:29.966235",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "57cab855-72c3-4b31-9225-01118de17ac4",
+            "brand": "Miller and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1ab0451e-7b66-485a-8b23-db9d6bce26b4",
                     "platform": "TikTok",
                     "post_url": "https://tattered-completion.info",
                     "likes": 137,
-                    "comments": null,
+                    "comments": 289,
                     "shares": 50,
                     "reach": 2880
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5471.34
         }
     ]
 }

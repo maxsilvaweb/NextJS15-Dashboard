@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6ac8712b-a1de-4b2b-a6fe-04a9d9c2be74",
+    "name": "Kathleen Roach",
+    "email": "brightjoseph@example.net",
+    "instagram_handle": "@lisajohnson",
+    "tiktok_handle": "@moraleslaura",
+    "joined_at": "2023-11-03T13:41:43.869703",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1bc55778-6eb4-4e1c-abfd-88cd4888354e",
+            "brand": "Vega and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a0dd46d1-2158-40dc-8066-62ff5742d597",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://davis-morris.com/",
+                    "likes": 2503,
                     "comments": 46,
                     "shares": 83,
                     "reach": 589

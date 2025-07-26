@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae26",
-  "name": "Max Silva26",
-  "email": "maxsilvvauk@26xwwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae26",
+    "name": "Max Silva26",
+    "email": "maxsilvvauk@26xwwilwweeewd.com",
+    "instagram_handle": "@hooddustin",
+    "tiktok_handle": "@maria63",
+    "joined_at": "2025-03-30T04:44:28.997988",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "7c4d8e71-7ddc-4fd8-a5dd-03fe5a8cc566",
+            "brand": "Blake-Barajas",
+            "tasks_completed": [
+                {
+                    "task_id": "5a73e832-f6ef-4292-9a5d-4b3f6d8283f7",
+                    "platform": "TikTok",
+                    "post_url": "https://www.abbott.com/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 8041.46
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

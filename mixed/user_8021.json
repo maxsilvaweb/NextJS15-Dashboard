@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e240d1cb-418e-4eb4-9367-6053e525e4c5",
+    "name": "Elizabeth Martin",
+    "email": "hsellers@example.org",
+    "instagram_handle": "@amber62",
+    "tiktok_handle": "@michael19",
+    "joined_at": "2024-06-18T14:55:00.370100",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9c0c37c6-5fda-44b5-95ed-b3b94d4199f8",
+            "brand": "Boyer, Pacheco and Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "c4af9ae1-1843-4779-96ca-542303670ae4",
+                    "platform": "Twitter",
+                    "post_url": "http://www.hill-williams.com/",
+                    "likes": 3792,
                     "comments": 30,
                     "shares": 63,
                     "reach": 4393

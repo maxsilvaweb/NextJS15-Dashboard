@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b8725ef0-a34d-4d28-ae0e-3506022bb774",
+    "name": "Jonathan Sheppard",
+    "email": "christopher54@example.com",
+    "instagram_handle": "@turnertimothy",
+    "tiktok_handle": "@victorialawson",
+    "joined_at": "2024-11-18T10:48:47.198555",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "aa8e3cad-aa2c-4ede-8028-8c969d2df824",
+            "brand": "Thomas, Stewart and Brooks",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "162f6f83-4bb7-4acd-ae25-4ed1e2a6b21a",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://pope.com/",
+                    "likes": 6369,
                     "comments": 37,
                     "shares": 33,
                     "reach": 1694
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8955.53
         }
     ]
 }

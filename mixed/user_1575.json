@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bb7625b4-7975-4c00-b653-955987d98607",
+    "name": "Sandra Day",
+    "email": "scottmckee@example.com",
+    "instagram_handle": "@ghaley",
+    "tiktok_handle": "@cbutler",
+    "joined_at": "2025-01-22T02:43:13.429439",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9652cca6-1610-4f6b-8467-3544c4c903d6",
+            "brand": "Lin and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "2f5ff6b2-5b83-4b0a-b9dc-6ac5a1af5e82",
+                    "platform": "Instagram",
                     "post_url": "https://clear-vestment.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9761,
+                    "comments": 188,
                     "shares": 50,
                     "reach": 1731
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 1483.030106124912
         }
     ]
+}

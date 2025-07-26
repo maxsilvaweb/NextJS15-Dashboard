@@ -1,26 +1,26 @@
 {
     "user_id": "83a5904b-8f90-45de-ae12-d0d8384b7326",
-    "name": "???",
+    "name": "Lisa Archer",
     "email": "Mona_OConnell85@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@richardwalters",
+    "tiktok_handle": "@imassey",
+    "joined_at": "2023-08-18T17:41:46.364688",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d8d1f810-0634-4e8b-a3ec-4ceb3841fd44",
+            "brand": "Martinez, Matthews and Moore",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "57f16f66-1557-4246-bcb8-14668b4c815a",
+                    "platform": "YouTube",
+                    "post_url": "http://norris.com/",
+                    "likes": 1112,
+                    "comments": 238,
                     "shares": 49,
                     "reach": 7685
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7869.62
         }
     ]
 }

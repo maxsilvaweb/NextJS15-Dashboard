@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a558be42-44e0-413d-972e-962e2a1b132a",
+    "name": "Morgan Bird",
+    "email": "david79@example.org",
+    "instagram_handle": "@portermichael",
+    "tiktok_handle": "@charles93",
+    "joined_at": "2024-06-03T12:39:37.935060",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e364413f-c2e9-4df8-9739-0a0f0ea0357f",
+            "brand": "Chen-White",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a809cdfa-034a-4574-86c0-8df98ca798ed",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.goodman.com/",
+                    "likes": 1605,
+                    "comments": 270,
                     "shares": 9,
                     "reach": 1714
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3642.34
         }
     ]
+}

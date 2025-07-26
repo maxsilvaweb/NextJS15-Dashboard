@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "3f8adde0-18bc-4b96-88cd-9912ae807047",
+    "name": "Jonathan Mullins",
+    "email": "aayers@example.com",
+    "instagram_handle": "@jeffreynguyen",
+    "tiktok_handle": "@kramsey",
     "joined_at": "2025-01-09T06:49:15.958Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7547a9a8-9939-4fc8-b5a4-bf259e3441bf",
+            "brand": "Huber, Thompson and Higgins",
             "tasks_completed": [
                 {
                     "task_id": "b5ab9855-6304-4c47-8332-4c8d774d30c6",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "YouTube",
+                    "post_url": "https://www.knight-lopez.com/",
+                    "likes": 1575,
+                    "comments": 181,
                     "shares": 100,
                     "reach": 9134
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6738.9
         }
     ]
 }

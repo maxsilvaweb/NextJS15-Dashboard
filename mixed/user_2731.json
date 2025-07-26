@@ -1,21 +1,21 @@
 {
-    "user_id": null,
+    "user_id": "7b074545-8ba3-442b-8a1c-feed74ba838f",
     "name": "Kelvin Botsford",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "lrogers@example.net",
+    "instagram_handle": "@websterchristopher",
+    "tiktok_handle": "@johnathan30",
+    "joined_at": "2024-11-23T17:06:08.018775",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a837eef2-86e6-41b4-a965-706214ee37c4",
+            "brand": "Hubbard-Hurst",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b9bad742-05a8-411a-9489-2e153653c98b",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.mcdonald.com/",
+                    "likes": 1400,
+                    "comments": 29,
                     "shares": 57,
                     "reach": 3560
                 }

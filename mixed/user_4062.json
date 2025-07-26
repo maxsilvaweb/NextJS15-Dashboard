@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aeaf4f06-c06c-498f-8d37-2b4bf6d74ae5",
+    "name": "Christina Meyers",
+    "email": "hernandezbenjamin@example.org",
+    "instagram_handle": "@padillaryan",
+    "tiktok_handle": "@shawn62",
+    "joined_at": "2025-02-13T07:29:01.650090",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "00188018-3421-48a6-a211-678eebf2df74",
+            "brand": "Mercado Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "c3745774-fbba-42f1-bc9c-83ff28117503",
+                    "platform": "TikTok",
                     "post_url": "https://doting-jungle.com",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9374,
+                    "comments": 452,
                     "shares": 36,
                     "reach": 3857
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7080.29
         }
     ]
 }

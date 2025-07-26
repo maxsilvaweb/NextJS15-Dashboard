@@ -1,26 +1,26 @@
 {
     "user_id": "3c48b500-5b6d-45b2-869d-a2ac667fc837",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Michael Wu",
+    "email": "wooddawn@example.org",
+    "instagram_handle": "@brownbrandy",
+    "tiktok_handle": "@xthomas",
+    "joined_at": "2024-05-15T03:11:25.556756",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "73caccdc-03e7-41c2-bb35-19375ecfc37e",
+            "brand": "James LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2d058bec-f870-486d-88c5-2116216e105c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://heath-jones.org/",
+                    "likes": 8601,
+                    "comments": 460,
                     "shares": 57,
                     "reach": 6883
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7247.52
         }
     ]
 }

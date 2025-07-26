@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b42f4579-8cbc-45a6-8324-630afd9c44a6",
+    "name": "Brendan King",
+    "email": "thomas31@example.com",
+    "instagram_handle": "@lynnanderson",
+    "tiktok_handle": "@eortiz",
+    "joined_at": "2025-06-09T11:17:58.288328",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "80963622-fb41-4171-b669-591ee38af717",
             "brand": "Baumbach - Huels",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "69a6e11d-849d-42ae-bc0f-347dab4edc5e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.klein-foster.com/",
                     "likes": 261,
-                    "comments": null,
+                    "comments": 164,
                     "shares": 0,
                     "reach": 4258
                 }

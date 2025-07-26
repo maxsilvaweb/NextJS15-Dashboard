@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "897e1eb1-ae85-4940-b57b-16cef58e699e",
+    "name": "Mrs. Kelly Gonzalez",
+    "email": "ljohnson@example.net",
+    "instagram_handle": "@harrisonedward",
+    "tiktok_handle": "@tiffany00",
+    "joined_at": "2024-10-01T12:07:34.070254",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8eb744ac-a93f-43bd-8a57-5b58b69de847",
+            "brand": "Jimenez, Hurst and Perez",
             "tasks_completed": [
                 {
                     "task_id": "06575756-d47a-450a-b52c-674273601521",
                     "platform": "Instagram",
                     "post_url": "https://aware-alligator.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4710,
+                    "comments": 421,
                     "shares": 79,
                     "reach": 9858
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2115.35
         }
     ]
+}

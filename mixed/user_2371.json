@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "41c9b514-5b27-41c8-81ce-93942172cfab",
+    "name": "Frank Floyd",
     "email": "Carolyne88@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jennifer42",
+    "tiktok_handle": "@simpsonkaren",
+    "joined_at": "2025-02-17T07:10:15.150590",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2ef9316d-9dd5-4322-9f4e-c0ead0ddb388",
+            "brand": "Diaz Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e005223a-1db5-44be-b628-bd841e41eb4b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://matthews.com/",
+                    "likes": 2629,
                     "comments": 33,
                     "shares": 75,
                     "reach": 4667
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7260.1
         }
     ]
 }

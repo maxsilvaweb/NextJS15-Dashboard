@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "56a409db-2c59-45d6-9d1d-79fec185f505",
+    "name": "Andrew Wilson",
+    "email": "donaldhurley@example.org",
+    "instagram_handle": "@maria97",
+    "tiktok_handle": "@jessica64",
+    "joined_at": "2025-01-03T17:06:07.330871",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9f762820-9375-41ad-acd9-38a4b5144890",
+            "brand": "Valdez, Mitchell and Fischer",
             "tasks_completed": [
                 {
                     "task_id": "31b98dd3-b4b9-4cf4-96d0-43268efcf99b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.wilson.com/",
                     "likes": 385,
-                    "comments": null,
+                    "comments": 385,
                     "shares": 38,
                     "reach": 5303
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3688.82
         }
     ]
 }

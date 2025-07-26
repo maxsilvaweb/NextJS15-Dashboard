@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "66666430-da26-4b83-adbe-459386fd0243",
+    "name": "Linda Cook",
     "email": "Julianne56@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jennarodriguez",
+    "tiktok_handle": "@bhamilton",
+    "joined_at": "2023-09-16T12:47:59.563058",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "57ca496e-37f2-43d2-b9b1-b922be99d68d",
+            "brand": "Sullivan Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dfc6d440-ff39-4fad-8283-cb07ea58eca3",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://nguyen-nguyen.com/",
                     "likes": 114,
                     "comments": 8,
                     "shares": 92,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 754.61
         }
     ]
 }

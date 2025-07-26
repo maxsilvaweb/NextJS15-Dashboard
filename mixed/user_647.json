@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "9dedbe1e-b19a-4167-a3bf-a230964e6700",
+    "name": "Mr. Scott Kemp",
     "email": "Lloyd.Leannon@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@kgonzalez",
+    "tiktok_handle": "@cmckinney",
+    "joined_at": "2025-04-10T20:26:08.636800",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "722960a2-9150-4ad3-911d-e39dd35d4ed5",
+            "brand": "Weiss-Brooks",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "52d300bb-bc82-432a-bc5d-5a17f9dde6de",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.campbell-smith.com/",
                     "likes": 167,
-                    "comments": null,
+                    "comments": 481,
                     "shares": 13,
                     "reach": 7468
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4642.88
         }
     ]
+}

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b9934393-e00e-47f1-b641-de610be94970",
+    "name": "Elizabeth Johnson",
+    "email": "nataliegonzales@example.net",
+    "instagram_handle": "@bhaynes",
+    "tiktok_handle": "@sandramcbride",
+    "joined_at": "2024-08-15T22:15:36.592782",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "62fb5e89-7167-4e76-aca0-a6484e313195",
+            "brand": "Huffman Inc",
             "tasks_completed": [
                 {
                     "task_id": "e36885b5-4197-4a60-9078-577b6fea7184",
-                    "platform": 123,
+                    "platform": "Twitter",
                     "post_url": "https://thrifty-fedora.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5254,
+                    "comments": 413,
                     "shares": 86,
                     "reach": 717
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4226.95
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a7ac5f8d-a5ad-4be4-a08e-0365a05251f4",
+    "name": "Christopher Thompson MD",
+    "email": "wileyjacob@example.com",
+    "instagram_handle": "@wrightandrew",
+    "tiktok_handle": "@tcollins",
+    "joined_at": "2024-09-09T17:45:10.491977",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "492bb667-896f-4437-bbe6-8bd9603b1a7d",
+            "brand": "Hodge and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "74e9fee5-4a68-4f4a-97c9-333811a95e0c",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://baker.com/",
+                    "likes": 9310,
+                    "comments": 194,
                     "shares": 7,
                     "reach": 4773
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 379.85
         }
     ]
 }

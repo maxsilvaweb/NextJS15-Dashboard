@@ -1,17 +1,17 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bfb809f3-fa2a-4bba-9d78-a816bf17fbe5",
+    "name": "Molly Williams",
+    "email": "jasminedougherty@example.com",
+    "instagram_handle": "@robert65",
+    "tiktok_handle": "@travisdouglas",
+    "joined_at": "2025-06-10T03:36:55.348680",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9f54e10f-28ff-4eb5-872c-43194926443b",
+            "brand": "Garcia, Turner and Cooper",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "973f0e12-3911-4671-b9f0-1ef664e162e2",
                     "platform": "Instagram",
                     "post_url": "https://superior-daddy.org/",
                     "likes": 239,
@@ -20,7 +20,7 @@
                     "reach": 3356
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9582.8
         }
     ]
 }

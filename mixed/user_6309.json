@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8b1424e2-01e4-4774-9a32-210c67bf77d7",
+    "name": "Melissa Sanders",
+    "email": "jacksonaustin@example.com",
+    "instagram_handle": "@bryantamy",
+    "tiktok_handle": "@bcraig",
+    "joined_at": "2025-04-16T00:37:35.680393",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d5e1b980-0d98-467c-ae98-ea5626df6748",
+            "brand": "Huynh, Clarke and Morton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d27a69cb-85b0-4c15-af71-f24dd771c0ff",
                     "platform": "Facebook",
                     "post_url": "https://teeming-outset.org/",
                     "likes": 369,
-                    "comments": null,
+                    "comments": 191,
                     "shares": 8,
                     "reach": 3321
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8895.51
         }
     ]
 }

@@ -16,14 +16,14 @@ logging.basicConfig(
 
 def is_valid_email(email):
     """Check if email is valid using regex pattern"""
-    if email == "invalid-email":
+    if email == "invalid-email" or not email:
         return False
     pattern = r'^[\w\.-]+@[\w\.-]+\.[a-zA-Z]{2,}$'
     return bool(re.match(pattern, email))
 
 def is_valid_date(date_str):
     """Check if date string is valid ISO format"""
-    if date_str == "not-a-date":
+    if date_str == "not-a-date" or not date_str:
         return False
     try:
         datetime.fromisoformat(date_str.replace('Z', '+00:00'))
@@ -33,25 +33,25 @@ def is_valid_date(date_str):
 
 def is_valid_url(url):
     """Check if URL is valid"""
-    if url == "broken_link":
+    if url == "broken_link" or not url:
         return False
     pattern = r'^https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+'
     return bool(re.match(pattern, url))
 
 def is_valid_handle(handle):
     """Check if social media handle is valid"""
-    if handle in ["#error_handle", ""]:
+    if handle in ["#error_handle", "", None]:
         return False
     return True
 
 def clean_numeric(value):
     """Convert numeric values, handling NaN strings"""
-    if value == "NaN" or value is None:
-        return None
+    if value == "NaN" or value == "no-data" or value is None:
+        return 0
     try:
         return float(value)
     except (ValueError, TypeError):
-        return None
+        return 0
 
 def get_database_row_count():
     """Get the current number of rows in the database"""
@@ -73,43 +73,90 @@ def process_json_file(file_path, user_id):
         with open(file_path, 'r') as f:
             data = json.load(f)
         
-        # Extract user data
-        user_data = data.get('user', {})
+        # Extract user data (root level)
+        user_name = data.get('name', '')
+        user_email = data.get('email', '')
+        instagram_handle = data.get('instagram_handle', '')
+        tiktok_handle = data.get('tiktok_handle', '')
+        joined_at = data.get('joined_at', '')
         
-        # Extract program data (tasks)
-        program_data = data.get('program', {})
-        tasks = program_data.get('tasks', [])
+        # Extract advocacy programs data
+        advocacy_programs = data.get('advocacy_programs', [])
         
-        # Normalize the data into a flat structure
-        normalized_record = {
-            'user_id': user_id,
-            'name': user_data.get('name', ''),
-            'email': user_data.get('email', ''),
-            'email_valid': is_valid_email(user_data.get('email', '')),
-            'instagram_handle': user_data.get('instagram_handle', ''),
-            'tiktok_handle': user_data.get('tiktok_handle', ''),
-            'joined_at': user_data.get('joined_at', ''),
-            'program_id': program_data.get('program_id', ''),
-            'brand': program_data.get('brand', ''),
-            'task_id': f"task_{user_id}",
-            'platform': user_data.get('platform', ''),
-            'post_url': user_data.get('url', ''),
-            'url_valid': is_valid_url(user_data.get('url', '')),
-            'likes': sum(task.get('likes', 0) for task in tasks),
-            'comments': sum(task.get('comments', 0) for task in tasks),
-            'shares': sum(task.get('shares', 0) for task in tasks),
-            'reach': sum(task.get('reach', 0) for task in tasks),
-            'total_sales_attributed': sum(task.get('sales_attributed', 0) for task in tasks),
-            'source_file': os.path.basename(file_path),
-            'issues_found': 0,
-            'issues_list': []
-        }
+        processed_records = []
         
-        return normalized_record
+        # Process each advocacy program
+        for program_idx, program in enumerate(advocacy_programs):
+            program_id = program.get('program_id', '')
+            brand = str(program.get('brand', ''))  # Convert to string since it might be a number
+            total_sales_attributed = clean_numeric(program.get('total_sales_attributed', 0))
+            
+            # Process each task in the program
+            tasks_completed = program.get('tasks_completed', [])
+            
+            for task_idx, task in enumerate(tasks_completed):
+                # Create a unique task_id if none exists
+                task_id = task.get('task_id') or f"task_{user_id}_{program_idx}_{task_idx}"
+                
+                # Normalize the data into a flat structure
+                normalized_record = {
+                    'user_id': user_id,
+                    'name': user_name,
+                    'email': user_email,
+                    'email_valid': is_valid_email(user_email),
+                    'instagram_handle': instagram_handle,
+                    'tiktok_handle': tiktok_handle,
+                    'joined_at': joined_at if is_valid_date(joined_at) else None,
+                    'program_id': program_id,
+                    'brand': brand,
+                    'task_id': str(task_id),
+                    'platform': task.get('platform', ''),
+                    'post_url': task.get('post_url', ''),
+                    'url_valid': is_valid_url(task.get('post_url', '')),
+                    'likes': int(clean_numeric(task.get('likes', 0))),
+                    'comments': int(clean_numeric(task.get('comments', 0))),
+                    'shares': int(clean_numeric(task.get('shares', 0))),
+                    'reach': int(clean_numeric(task.get('reach', 0))),
+                    'total_sales_attributed': total_sales_attributed,
+                    'source_file': os.path.basename(file_path),
+                    'issues_found': 0,
+                    'issues_list': []
+                }
+                
+                processed_records.append(normalized_record)
+        
+        # If no advocacy programs or tasks, create a basic record
+        if not processed_records:
+            normalized_record = {
+                'user_id': user_id,
+                'name': user_name,
+                'email': user_email,
+                'email_valid': is_valid_email(user_email),
+                'instagram_handle': instagram_handle,
+                'tiktok_handle': tiktok_handle,
+                'joined_at': joined_at if is_valid_date(joined_at) else None,
+                'program_id': '',
+                'brand': '',
+                'task_id': f"task_{user_id}_0_0",
+                'platform': '',
+                'post_url': '',
+                'url_valid': False,
+                'likes': 0,
+                'comments': 0,
+                'shares': 0,
+                'reach': 0,
+                'total_sales_attributed': 0,
+                'source_file': os.path.basename(file_path),
+                'issues_found': 0,
+                'issues_list': []
+            }
+            processed_records.append(normalized_record)
+        
+        return processed_records
         
     except Exception as e:
         logging.error(f"Error processing {file_path}: {e}")
-        return None
+        return []
 
 def main():
     # 1. Create tables first if they don't exist
@@ -145,7 +192,7 @@ def main():
         end_file = current_row_count
     
     # Process files
-    processed_data = []
+    all_processed_data = []
     files_processed = 0
     
     for file_number in range(start_file, end_file + 1):
@@ -157,10 +204,10 @@ def main():
         
         # User ID should be file_number + 1 (1-indexed)
         user_id = file_number + 1
-        normalized_data = process_json_file(file_path, user_id)
+        normalized_records = process_json_file(file_path, user_id)
         
-        if normalized_data:
-            processed_data.append(normalized_data)
+        if normalized_records:
+            all_processed_data.extend(normalized_records)
             files_processed += 1
             if files_processed % 100 == 0:  # Log progress every 100 files
                 logging.info(f"Processed {files_processed} files so far...")
@@ -169,14 +216,14 @@ def main():
     
     # Save all processed data to JSON file (required by the workflow)
     with open('processed_data.json', 'w') as f:
-        json.dump(processed_data, f, indent=2)
+        json.dump(all_processed_data, f, indent=2)
     
-    logging.info(f"Successfully processed {files_processed} files. Data saved to processed_data.json")
+    logging.info(f"Successfully processed {files_processed} files. Created {len(all_processed_data)} records. Data saved to processed_data.json")
     
     if files_processed == 0:
         logging.warning("No files were processed")
     else:
-        logging.info(f"Ready to upload {len(processed_data)} records to database")
+        logging.info(f"Ready to upload {len(all_processed_data)} records to database")
 
 if __name__ == "__main__":
     main()

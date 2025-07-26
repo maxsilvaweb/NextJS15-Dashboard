@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "59df7fc0-745b-4026-8ebb-589bf619d293",
+    "name": "Adam Hale",
+    "email": "jose86@example.net",
+    "instagram_handle": "@ortizbobby",
+    "tiktok_handle": "@edwincarlson",
+    "joined_at": "2024-02-04T17:34:53.485439",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a1fc7767-e349-4f9a-bdda-b765d21b8231",
+            "brand": "Jones, Colon and Glass",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6868b08a-c53c-4e1d-af3a-4d151d801a40",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://lin.com/",
+                    "likes": 8183,
+                    "comments": 74,
                     "shares": 88,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9552.49
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "24f8a2d0-90fd-49fd-be2f-0ce6dac4e4b3",
+    "name": "Mr. Ryan Wilson",
     "email": "Newell_McDermott@hotmail.com",
     "instagram_handle": "@Jamal69",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@gonzalezmitchell",
+    "joined_at": "2024-11-28T23:11:21.864405",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1b09c088-cd90-4e34-b293-24b1be641b07",
+            "brand": "Hobbs, Hernandez and Robinson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cb96d242-7875-4a5a-aa39-a1ebee49b801",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.wong-bond.org/",
+                    "likes": 1817,
+                    "comments": 296,
                     "shares": 48,
                     "reach": 1588
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1479.33
         }
     ]
 }

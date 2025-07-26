@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "32eac5f6-d6e7-468a-862f-049e00fd8baf",
+    "name": "Pamela Tucker",
+    "email": "arnoldmark@example.com",
+    "instagram_handle": "@vincent87",
+    "tiktok_handle": "@stephaniegarner",
+    "joined_at": "2024-09-16T09:06:04.989473",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "78336cad-a0a0-431e-beb0-166a7873e8c8",
+            "brand": "Stevens-Mcguire",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e4caba91-c4c5-4f02-ad5b-f25ca6c763dc",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://barnes-oconnor.com/",
+                    "likes": 2096,
+                    "comments": 172,
                     "shares": 0,
                     "reach": 6145
                 }

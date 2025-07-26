@@ -1,26 +1,26 @@
 {
     "user_id": "3e3b60ea-0773-4b29-ac9e-dce9970b5889",
-    "name": "???",
+    "name": "Shawn Meyers",
     "email": "Loren.Pouros71@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jared22",
+    "tiktok_handle": "@brettwolf",
+    "joined_at": "2025-05-04T22:39:01.485341",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "854a6695-e14a-4e88-a9a4-628356b14043",
+            "brand": "Banks PLC",
             "tasks_completed": [
                 {
                     "task_id": "13743d28-03e5-4329-90a4-a13c3af5a5ba",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.roberts-donovan.com/",
+                    "likes": 7889,
+                    "comments": 122,
                     "shares": 20,
                     "reach": 707
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7447.67
         }
     ]
 }

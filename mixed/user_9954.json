@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "89d51abc-5262-47ee-a783-c977129c5b4f",
+    "name": "Rhonda Zhang",
+    "email": "steventurner@example.org",
+    "instagram_handle": "@uhill",
+    "tiktok_handle": "@mayernicole",
+    "joined_at": "2024-10-18T04:01:19.892190",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f0748567-123f-4987-ae57-4895ccfbf9ad",
+            "brand": "Bailey Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b9475a37-d3b0-45f7-878d-0855b98baca8",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.page.com/",
+                    "likes": 789,
                     "comments": 43,
                     "shares": 19,
                     "reach": 2109

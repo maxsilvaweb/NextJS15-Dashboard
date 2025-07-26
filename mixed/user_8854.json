@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b1c45a95-ea82-49c8-a001-0c9e3792e903",
+    "name": "Michelle Pearson",
+    "email": "johnbrown@example.net",
+    "instagram_handle": "@acaldwell",
+    "tiktok_handle": "@edwardshelton",
+    "joined_at": "2023-09-01T08:42:38.776830",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e00cd494-8167-42d3-aabd-4461a49ab779",
+            "brand": "Reid, Griffin and Duke",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "d6e2d4bb-b91f-4885-ae36-9c07f9c92745",
+                    "platform": "Twitter",
                     "post_url": "https://shameless-recommendation.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4285,
+                    "comments": 470,
                     "shares": 11,
                     "reach": -1000
                 }

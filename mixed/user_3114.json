@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "407c4025-bd75-48fa-bb4a-62803ae508ec",
+    "name": "James Walter",
+    "email": "haley40@example.net",
+    "instagram_handle": "@elizabethgomez",
+    "tiktok_handle": "@charlesnunez",
+    "joined_at": "2025-03-26T05:42:16.600222",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6ab412d6-7acc-4d9c-a8c6-502b9798837e",
+            "brand": "Anderson-Garrett",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8431665d-5483-4169-9c2f-22b29211383e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.macdonald.org/",
+                    "likes": 5042,
+                    "comments": 229,
                     "shares": 31,
                     "reach": 7462
                 }

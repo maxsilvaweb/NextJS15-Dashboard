@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9de7f1d1-91d5-4254-a249-492ad44a8c15",
+    "name": "Keith Castillo",
+    "email": "sherry96@example.org",
+    "instagram_handle": "@xstewart",
+    "tiktok_handle": "@sgalvan",
+    "joined_at": "2025-05-04T10:04:58.994867",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8a2c8a1a-f063-4e04-90c8-ba853090c903",
+            "brand": "Hughes-Hensley",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "63dbe9f7-9539-460c-8585-22980752b047",
+                    "platform": "TikTok",
+                    "post_url": "http://chaney.com/",
+                    "likes": 3437,
+                    "comments": 154,
                     "shares": 85,
                     "reach": 7937
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7750.66
         }
     ]
 }

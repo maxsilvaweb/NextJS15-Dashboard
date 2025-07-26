@@ -1,26 +1,26 @@
 {
     "user_id": "a3be489d-23c7-4915-b42a-45cc97b1a5cb",
-    "name": "???",
+    "name": "Jeff Webb",
     "email": "Edison.Becker61@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@hjordan",
+    "tiktok_handle": "@adamsthomas",
+    "joined_at": "2025-05-19T08:47:59.065734",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "72627504-0912-4e8c-9a0b-ef4f0c82a30e",
+            "brand": "Hess Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "7c01fc31-3912-48de-b180-b29bdd520396",
+                    "platform": "Instagram",
+                    "post_url": "http://www.hernandez.com/",
+                    "likes": 1392,
+                    "comments": 165,
                     "shares": 68,
                     "reach": 7962
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 627.13
         }
     ]
 }

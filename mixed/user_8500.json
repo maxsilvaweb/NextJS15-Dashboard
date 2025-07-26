@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "79f0ca59-b6a9-4e5b-9aeb-5ff7c786aa88",
+    "name": "Ashley Stephenson",
+    "email": "anthonycooper@example.com",
+    "instagram_handle": "@rvargas",
+    "tiktok_handle": "@sharon12",
+    "joined_at": "2024-09-19T02:44:33.873168",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8583f740-8823-4e22-8d8c-51a9628c47f8",
+            "brand": "Sanchez Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d6bae66e-7b19-449b-bcae-f36696c36ebe",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://sanders-gomez.info/",
+                    "likes": 5986,
                     "comments": 10,
                     "shares": 96,
                     "reach": 7946
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8943.43
         }
     ]
 }

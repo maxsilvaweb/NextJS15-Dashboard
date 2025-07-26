@@ -1,26 +1,26 @@
 {
     "user_id": "ccb083d9-71b7-480e-abf8-b6f20ac7142a",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Sharon Randolph",
+    "email": "rholmes@example.org",
+    "instagram_handle": "@charlesdavies",
+    "tiktok_handle": "@hendersonmichael",
+    "joined_at": "2024-05-05T10:29:36.332802",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1a5c5eaa-3b5d-4c65-b41e-0e493d4ad921",
+            "brand": "Mora and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d1d6eddb-38c4-4e0e-88c7-f7e8727689e1",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.porter.com/",
+                    "likes": 6116,
+                    "comments": 368,
                     "shares": 69,
                     "reach": 1156
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1389.63
         }
     ]
 }

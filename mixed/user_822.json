@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "91d44680-1371-454f-9eb2-961c6f3bad4d",
+    "name": "Cynthia Turner",
+    "email": "lgonzalez@example.net",
+    "instagram_handle": "@tombenson",
+    "tiktok_handle": "@kristina67",
+    "joined_at": "2023-09-12T14:41:14.462036",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cb9bd7f2-20a7-4bcf-b097-b089d1c833d3",
+            "brand": "Cooper Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "989f80b7-6b2b-4628-8505-181ac45b0a96",
                     "platform": "Facebook",
                     "post_url": "https://watery-request.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2802,
+                    "comments": 210,
                     "shares": 14,
                     "reach": 568
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4176.19
         }
     ]
 }

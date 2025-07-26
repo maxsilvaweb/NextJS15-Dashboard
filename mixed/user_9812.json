@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "41950b08-4854-427e-90f0-b62bd3b52fb0",
+    "name": "Travis Pratt",
+    "email": "operez@example.net",
+    "instagram_handle": "@shepherdmichael",
+    "tiktok_handle": "@celliott",
+    "joined_at": "2023-12-09T06:23:57.620533",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fea5a66d-32dd-4927-8563-d1d2f2a787d1",
+            "brand": "Gonzalez, Gonzalez and Fry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "23b1e4c2-156c-454e-be9a-dbefbe1acf5b",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://rivers.info/",
+                    "likes": 4631,
+                    "comments": 80,
                     "shares": 18,
                     "reach": 3345
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6858.81
         }
     ]
 }

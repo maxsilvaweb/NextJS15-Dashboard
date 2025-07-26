@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e11f2888-ec2a-4c0a-9936-98124c2bc67f",
+    "name": "Jack Daniel",
+    "email": "stevenescobar@example.net",
+    "instagram_handle": "@reesemary",
+    "tiktok_handle": "@jacobpeters",
+    "joined_at": "2025-06-18T12:48:39.493816",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "15aa528d-bda2-48ab-b5a1-433c20e40744",
+            "brand": "Woods-Sanchez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b8170dfd-bc60-4453-b9d7-e9aaa4d9bfa1",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://kaufman.com/",
+                    "likes": 5902,
+                    "comments": 75,
                     "shares": 24,
                     "reach": 6638
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8638.66
         }
     ]
 }

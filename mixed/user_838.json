@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "42abbc56-8761-4c1c-b364-44d9c656567e",
+    "name": "Ana Craig",
     "email": "Bennett.Rath@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@williamsrichard",
+    "tiktok_handle": "@spatterson",
+    "joined_at": "2024-08-07T17:41:43.115309",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6c8dcbf1-006b-44c0-b822-d1634c4c573a",
+            "brand": "Hernandez-Cameron",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ed255adf-6e8a-4568-be21-c1405dff6d73",
                     "platform": "Instagram",
                     "post_url": "https://assured-maestro.net/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2998,
+                    "comments": 395,
                     "shares": 20,
                     "reach": 9504
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3868.34
         }
     ]
 }

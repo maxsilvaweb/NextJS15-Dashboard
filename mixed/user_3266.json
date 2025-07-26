@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "559a433b-a72a-435b-85bf-c59babf53d20",
+    "name": "Carol Deleon",
+    "email": "vjones@example.com",
+    "instagram_handle": "@christinacampbell",
+    "tiktok_handle": "@adampena",
+    "joined_at": "2025-07-25T04:00:38.507106",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "33425dd2-e4f8-44ee-9ed1-4636fe7b0fae",
+            "brand": "Hernandez PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cc60a424-c0d1-41b6-a608-dbf8c27d57f2",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.willis.com/",
+                    "likes": 8108,
+                    "comments": 452,
                     "shares": 97,
                     "reach": 2536
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5939.44
         }
     ]
 }

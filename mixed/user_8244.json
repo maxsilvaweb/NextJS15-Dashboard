@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "61daf3df-1feb-406d-9c44-00bb905b8631",
+    "name": "Jeffrey Stevens",
+    "email": "harrismichael@example.org",
+    "instagram_handle": "@sean90",
+    "tiktok_handle": "@stephanie72",
+    "joined_at": "2023-11-22T16:42:58.114031",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "811915ac-e63d-4eef-a750-fea04ce4411c",
+            "brand": "Thompson-Huerta",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "18ecb5a4-14b3-4674-b0f9-5edbc6602850",
+                    "platform": "Instagram",
+                    "post_url": "https://hartman.com/",
+                    "likes": 9374,
+                    "comments": 169,
                     "shares": 4,
                     "reach": 2875
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2937.47
         }
     ]
 }

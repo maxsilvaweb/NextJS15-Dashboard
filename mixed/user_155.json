@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "6f12f2a8-8704-474f-ab5d-56ea00b9249c",
+    "name": "Mary Stevens",
     "email": "Isabel12@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@monicabrown",
+    "tiktok_handle": "@stephaniejohnson",
+    "joined_at": "2025-06-23T11:54:33.104837",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9ef54229-ffc8-465f-9b64-fc63a64de3f3",
+            "brand": "Juarez-Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "31057595-c4a0-4123-9365-c13136f289b8",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://soto.net/",
+                    "likes": 3099,
+                    "comments": 393,
                     "shares": 76,
                     "reach": 559
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1603.51
         }
     ]
+}

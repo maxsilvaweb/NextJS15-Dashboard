@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2dd54c5e-7f0b-431c-8b79-dac7dbb0b50c",
+    "name": "Maria White",
+    "email": "stewartchristopher@example.org",
+    "instagram_handle": "@paul99",
+    "tiktok_handle": "@justinfuller",
+    "joined_at": "2024-11-27T16:16:25.739392",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6745e831-a7a7-4896-b322-16183ddb3e12",
+            "brand": "Lester-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6cea386d-13ae-4519-9b9a-e0338fcf62f6",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://turner-allen.biz/",
+                    "likes": 23,
+                    "comments": 440,
                     "shares": 56,
                     "reach": 6151
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9874.34
         }
     ]
 }

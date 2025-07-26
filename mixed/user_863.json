@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2bcecf51-7717-42a1-9ce3-104dfcd4832a",
+    "name": "Jacob Osborne",
+    "email": "gardnershannon@example.net",
+    "instagram_handle": "@fritzmegan",
+    "tiktok_handle": "@meghan63",
+    "joined_at": "2025-07-01T07:36:50.892687",
     "advocacy_programs": [
         {
             "program_id": "81803409-c726-4875-84f5-c9c8ceec541b",
-            "brand": 12345,
+            "brand": "Patrick-Barton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "33c171d1-ec34-4d77-beb6-8f7c9f4cff21",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.cooper.com/",
+                    "likes": 9110,
+                    "comments": 108,
                     "shares": 82,
                     "reach": 8532
                 }

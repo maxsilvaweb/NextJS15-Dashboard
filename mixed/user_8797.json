@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d2dfbf08-2aca-48d1-9ee1-90d06d94bc1b",
+    "name": "Adam Tucker",
+    "email": "foxlaura@example.net",
+    "instagram_handle": "@reedchristina",
+    "tiktok_handle": "@grantburns",
+    "joined_at": "2024-05-23T14:32:09.239402",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a3bcb04f-09b5-4d66-bd57-4c958749ab7a",
+            "brand": "Martin and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5112b37b-54f4-4a82-b84f-905cb05d6843",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://may.net/",
+                    "likes": 4027,
+                    "comments": 185,
                     "shares": 19,
                     "reach": 9132
                 }

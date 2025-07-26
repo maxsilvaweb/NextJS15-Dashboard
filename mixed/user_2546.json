@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "d341300a-a3db-467f-9435-d4565d534679",
     "name": "Mrs. Ann Metz",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "umcbride@example.com",
+    "instagram_handle": "@rothvincent",
+    "tiktok_handle": "@jason22",
+    "joined_at": "2023-10-14T17:05:56.070590",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b3934ea4-2c8d-458b-b3e6-f4bf894eed61",
+            "brand": "Lopez-Gonzalez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "8946563d-cd5b-4e3e-bb6e-fa19ca9aedb8",
+                    "platform": "Instagram",
+                    "post_url": "http://rich-barker.com/",
+                    "likes": 3079,
+                    "comments": 151,
                     "shares": 73,
                     "reach": 7765
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5288.9
         }
     ]
 }

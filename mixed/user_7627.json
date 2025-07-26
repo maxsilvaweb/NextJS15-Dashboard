@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "00965ec8-7688-4fb2-8ae8-fe90be74cc2e",
+    "name": "Danielle Chang",
+    "email": "uwilliamson@example.net",
+    "instagram_handle": "@whiteamanda",
+    "tiktok_handle": "@garnersteve",
+    "joined_at": "2024-06-27T21:30:50.567800",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cf240169-4e62-4143-a1b8-c8c53d152b56",
+            "brand": "Carter-Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "71745578-e1ea-4bbf-8d96-fdf1315cdac7",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.robbins-tapia.org/",
+                    "likes": 3529,
+                    "comments": 315,
                     "shares": 95,
                     "reach": 4322
                 }

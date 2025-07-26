@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e86224a2-b442-4501-8b1b-5f58b5d991de",
+    "name": "William Gentry",
+    "email": "gonzalezjessica@example.org",
+    "instagram_handle": "@vaughnelizabeth",
+    "tiktok_handle": "@pkerr",
+    "joined_at": "2025-01-29T23:59:11.543854",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "06843075-30c5-40c8-9a97-ca3cf6938591",
+            "brand": "Bailey, Sawyer and Campbell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f33357fc-51d5-4482-bc89-c389ddcfe81c",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://walters.com/",
+                    "likes": 9578,
+                    "comments": 292,
                     "shares": 49,
                     "reach": 8141
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3448.64
         }
     ]
 }

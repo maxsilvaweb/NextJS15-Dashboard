@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a482ceb8-43d4-4517-9eed-185e6f36a0c5",
+    "name": "Michael Foster",
+    "email": "evan26@example.org",
+    "instagram_handle": "@shawphillip",
+    "tiktok_handle": "@pettylee",
+    "joined_at": "2024-05-18T04:34:31.460196",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e1a9f424-c488-4836-9af4-777af63990d6",
+            "brand": "Whitaker Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "46378042-469f-4a1c-bf74-549d384c9266",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.scott-hernandez.com/",
+                    "likes": 2379,
+                    "comments": 27,
                     "shares": 86,
                     "reach": 4038
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4669.77
         }
     ]
 }

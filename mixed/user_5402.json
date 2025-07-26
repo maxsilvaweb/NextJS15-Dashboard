@@ -1,18 +1,18 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "25a0f1a4-47a1-4e6d-9a40-c626685abb1b",
+    "name": "Tammie Lopez MD",
+    "email": "amber16@example.org",
+    "instagram_handle": "@courtney65",
+    "tiktok_handle": "@williamsdeborah",
+    "joined_at": "2024-02-29T07:28:35.149556",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "b6ec0753-e1c4-43e7-82e2-187c26b3f3d1",
             "brand": "Heaney - Senger",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "0a33cc4b-bc86-46c2-bb0f-d50ae533ddc1",
+                    "platform": "Twitter",
                     "post_url": "https://celebrated-redesign.com",
                     "likes": 402,
                     "comments": 8,
@@ -20,7 +20,7 @@
                     "reach": 6606
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 961.51
         }
     ]
 }

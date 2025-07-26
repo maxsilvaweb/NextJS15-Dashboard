@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aa818eb2-b913-4cc2-a13b-5bf37c52346c",
+    "name": "Jonathan Mcbride",
+    "email": "fleon@example.net",
+    "instagram_handle": "@dukeerica",
+    "tiktok_handle": "@xshea",
+    "joined_at": "2024-05-11T19:51:44.946614",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "938339c2-d6bf-4d22-9cde-b23f36e929fa",
+            "brand": "Salinas, Arellano and Moore",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8226b3d6-13cc-454b-92de-a25720f2c3a8",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://wilson.com/",
+                    "likes": 1554,
                     "comments": 32,
                     "shares": 4,
                     "reach": 5266
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7391.34
         }
     ]
 }

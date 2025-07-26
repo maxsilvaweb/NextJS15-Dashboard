@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8a887072-4af3-4679-a9b5-88d022433c93",
+    "name": "Eric Hodges",
+    "email": "peter52@example.net",
+    "instagram_handle": "@austindavis",
+    "tiktok_handle": "@charlespena",
+    "joined_at": "2025-01-06T02:54:14.144458",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e64d3d36-fcf8-42a0-b132-1f514eda26c3",
+            "brand": "Peterson-Parker",
             "tasks_completed": [
                 {
                     "task_id": "aa62cd50-05ea-4f90-821d-484de33b244b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://leon.com/",
+                    "likes": 1962,
                     "comments": 42,
                     "shares": 9,
                     "reach": 9162
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8883.19
         }
     ]
 }

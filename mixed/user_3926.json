@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9d0d8f2b-0156-4068-a63d-bd81746c5d72",
+    "name": "Christine Smith",
+    "email": "vreeves@example.com",
+    "instagram_handle": "@francozachary",
+    "tiktok_handle": "@hjones",
+    "joined_at": "2025-04-16T17:56:49.261500",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "00a292a2-562c-4736-a5f9-9114c4916fb7",
             "brand": "Kovacek Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "912147cf-f926-4462-ac63-4a31b519a38c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.finley-landry.com/",
+                    "likes": 5435,
                     "comments": 9,
                     "shares": 21,
                     "reach": 7051

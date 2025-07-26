@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aaf3c0ca-63a7-4b0e-8417-72b5f9f21e0f",
+    "name": "Joshua Stewart",
+    "email": "phelpsmatthew@example.com",
+    "instagram_handle": "@stonecassidy",
+    "tiktok_handle": "@jhuff",
+    "joined_at": "2024-10-01T11:01:17.418447",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "710a4f2a-29bb-49aa-8eff-3c75ef81f174",
+            "brand": "Campbell LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1baca2e1-95ef-4f7a-9719-c26db555db9c",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.mcclure.com/",
                     "likes": 67,
-                    "comments": null,
+                    "comments": 194,
                     "shares": 100,
                     "reach": 6270
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6025.37
         }
     ]
 }

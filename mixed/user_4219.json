@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7fd041cd-10ba-47c6-b10d-6bae7163e82c",
+    "name": "Jennifer Smith",
+    "email": "jjenkins@example.net",
+    "instagram_handle": "@faulknerkathy",
+    "tiktok_handle": "@kyle15",
+    "joined_at": "2024-10-18T03:32:27.910619",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f8aa08be-1cc2-4dfe-906e-e4db55a58f38",
+            "brand": "Cross, Ho and Peters",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "82c9ccd0-d9c4-44d6-b54c-45debdd717d0",
+                    "platform": "Twitter",
                     "post_url": "https://nippy-doubter.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4196,
+                    "comments": 162,
                     "shares": 4,
                     "reach": -1000
                 }

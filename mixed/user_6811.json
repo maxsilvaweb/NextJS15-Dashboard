@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "3899c972-59c2-4be4-9e90-674dba79626b",
+    "name": "Lisa English",
     "email": "Lennie5@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@ashleyreed",
+    "tiktok_handle": "@golson",
+    "joined_at": "2024-03-19T19:00:38.060335",
     "advocacy_programs": [
         {
             "program_id": "59806022-2804-4fae-b00b-6ce7d0f3c668",
-            "brand": 12345,
+            "brand": "Moore, Foster and Brown",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4a9966da-de02-4e50-bdbb-9f61053d00c7",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.ellis.com/",
+                    "likes": 7083,
+                    "comments": 216,
                     "shares": 49,
                     "reach": 7707
                 }

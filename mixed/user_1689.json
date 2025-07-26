@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8856368a-6978-49af-afbf-71c200221306",
+    "name": "Christina Banks",
+    "email": "avillegas@example.net",
+    "instagram_handle": "@phillipsjonathan",
+    "tiktok_handle": "@csilva",
+    "joined_at": "2023-10-27T12:27:38.529059",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "18c4a911-c31e-466b-96a1-50485d6da5da",
             "brand": "Kautzer, Prohaska and Kilback",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "644dc733-e6ff-45da-8105-f34ad9ca55a1",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.york-oconnor.com/",
+                    "likes": 5622,
                     "comments": 7,
                     "shares": 71,
                     "reach": 8007
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4287.36
         }
     ]
 }

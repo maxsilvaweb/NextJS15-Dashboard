@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "0b8f96a7-2ff0-4df2-9b27-14924d732436",
+    "name": "Veronica Edwards",
     "email": "Carolina.Davis54@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jamesmiller",
+    "tiktok_handle": "@sanchezjennifer",
+    "joined_at": "2025-01-13T23:12:02.033751",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5cf83629-ff09-4f71-88c8-247a8e8d6277",
+            "brand": "Collins-Gregory",
             "tasks_completed": [
                 {
                     "task_id": "ac0ac825-19db-4c70-84a2-b8cd625ab7c2",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://delgado.com/",
+                    "likes": 6329,
+                    "comments": 94,
                     "shares": 26,
                     "reach": 8708
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1746.52
         }
     ]
 }

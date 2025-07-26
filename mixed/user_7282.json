@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1140bc9b-0a47-46b3-9b95-b16776b3a154",
+    "name": "Susan Walter",
+    "email": "angela68@example.net",
+    "instagram_handle": "@jmcdowell",
+    "tiktok_handle": "@huffpaul",
+    "joined_at": "2025-03-23T03:31:18.541789",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "24d55e36-716f-475d-b4c0-53a871f9a82b",
+            "brand": "Edwards and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "3b522ded-4911-4ba2-a6a1-7ab1dc5442e3",
+                    "platform": "Twitter",
+                    "post_url": "http://www.cooper.com/",
                     "likes": 345,
                     "comments": 22,
                     "shares": 9,
                     "reach": 6269
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5704.71
         }
     ]
 }

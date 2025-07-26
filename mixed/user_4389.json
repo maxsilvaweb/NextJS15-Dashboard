@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b84f8306-68d2-44ef-954d-f4d0ff1e59d8",
+    "name": "Adam Ramirez",
+    "email": "ellisjulie@example.com",
+    "instagram_handle": "@zmiller",
+    "tiktok_handle": "@cclark",
+    "joined_at": "2025-07-11T18:09:53.228419",
     "advocacy_programs": [
         {
             "program_id": "fcdc16ce-1e0d-4408-96f5-3bde92cdb34d",
-            "brand": 12345,
+            "brand": "Simpson, Turner and Stout",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "8011678d-49be-4423-8491-0ab962f0e8ec",
+                    "platform": "Instagram",
                     "post_url": "https://wiggly-bid.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7766,
+                    "comments": 410,
                     "shares": 72,
                     "reach": 6671
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4780.5
         }
     ]
 }

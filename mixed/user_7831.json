@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5ddfd9a7-534d-4734-8ade-953db0bb5eda",
+    "name": "Mary Cochran",
+    "email": "robinsoncarlos@example.com",
+    "instagram_handle": "@xbutler",
+    "tiktok_handle": "@jjackson",
+    "joined_at": "2025-02-19T16:40:56.795655",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "30678966-d196-4697-9216-8c79d4bdafc6",
+            "brand": "Petersen Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fdc0e110-d9d4-4761-a91e-c9f0db7d3c25",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.simmons.com/",
+                    "likes": 3259,
+                    "comments": 2,
                     "shares": 58,
                     "reach": 1243
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6525.06
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "357cb92d-3f3e-4c48-a1e5-3693bd4beaa0",
+    "name": "Michael Huffman",
+    "email": "jgutierrez@example.org",
+    "instagram_handle": "@alanwilson",
+    "tiktok_handle": "@twilliams",
+    "joined_at": "2023-08-04T10:21:28.357057",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d7e8902e-15fb-4782-85f8-38ceaf8790f6",
+            "brand": "Francis, Booth and Perez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6d130313-84fd-4eda-b08b-ebdbd4fe19e0",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.martin-smith.biz/",
+                    "likes": 1760,
+                    "comments": 65,
                     "shares": 85,
                     "reach": 5977
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9999.52
         }
     ]
 }

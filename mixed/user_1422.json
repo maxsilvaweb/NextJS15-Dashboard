@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "efbd51bd-6f7b-4aed-95aa-208e2e341eeb",
+    "name": "Raymond Alexander",
+    "email": "owensandre@example.com",
+    "instagram_handle": "@sandra68",
+    "tiktok_handle": "@fnelson",
+    "joined_at": "2024-01-07T15:33:07.992569",
     "advocacy_programs": [
         {
             "program_id": "3d907e7b-045b-4582-8193-d52ced8ccfe0",
-            "brand": 12345,
+            "brand": "Brown-Jackson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "937beb99-4e41-4afa-bcf0-2b9d5042d303",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://johnson-wilson.com/",
+                    "likes": 4414,
+                    "comments": 109,
                     "shares": 47,
                     "reach": 3263
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7341.98
         }
     ]
 }

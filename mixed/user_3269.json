@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "ddc0bdae-8a38-4a82-ae7e-3cc323cceac0",
+    "name": "Kathleen Chavez",
+    "email": "uwilliams@example.com",
+    "instagram_handle": "@raymondsantos",
+    "tiktok_handle": "@roneill",
     "joined_at": "2024-12-11T00:19:33.026Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2ff1f86e-e886-46ac-9c3b-853775b82501",
+            "brand": "Flores, Floyd and Dean",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4c43bfef-41b7-4742-a993-3d560987d90a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.robinson.biz/",
+                    "likes": 9419,
                     "comments": 5,
                     "shares": 81,
                     "reach": 9533

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6c7eb35a-18dd-4121-9c5e-e2b15da93e2f",
+    "name": "Cody Harris",
+    "email": "emily52@example.org",
+    "instagram_handle": "@glee",
+    "tiktok_handle": "@pyoung",
+    "joined_at": "2023-08-04T13:14:01.561308",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8230327e-b9a9-4941-ab5d-3cde8c3b0577",
+            "brand": "Davis-Herman",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1993ec4b-edec-4a8b-b501-1435def318bb",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://walters.com/",
+                    "likes": 1635,
+                    "comments": 418,
                     "shares": 13,
                     "reach": 5054
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9931.4
         }
     ]
 }

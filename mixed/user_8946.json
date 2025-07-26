@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "d50a53dc-b271-4c04-b84c-ef0e80ecef20",
+    "name": "Lauren Wallace",
     "email": "Ava82@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@knappmarc",
+    "tiktok_handle": "@gkrueger",
+    "joined_at": "2024-09-07T11:55:28.187123",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "133ac84d-7c73-4abe-bc97-f6a41f04fc62",
+            "brand": "Williams Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f3205469-f0d3-48ee-8fbd-f030ec3a4da9",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://salazar-peters.info/",
+                    "likes": 2637,
                     "comments": 19,
                     "shares": 19,
                     "reach": 1471
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4574.35
         }
     ]
 }

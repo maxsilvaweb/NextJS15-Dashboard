@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "36c75075-5188-4cba-ae88-f10de0e50e3b",
+    "name": "Mark Johns",
+    "email": "jonesshelby@example.org",
+    "instagram_handle": "@harristhomas",
+    "tiktok_handle": "@maureen25",
+    "joined_at": "2024-08-17T18:10:06.307438",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "45e32ae7-e963-424a-ab15-cb2567b5e37f",
+            "brand": "Mcknight, Wright and Charles",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7096df5b-b413-4ad1-ab50-59cdfb36a1d8",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.cowan.com/",
+                    "likes": 6055,
+                    "comments": 455,
                     "shares": 54,
                     "reach": 7178
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2870.55
         }
     ]
 }

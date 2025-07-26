@@ -1,26 +1,26 @@
 {
     "user_id": "b829052d-f974-4b49-a932-5b63a8bd8102",
-    "name": "???",
+    "name": "Connor Wong",
     "email": "Loyal93@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@dana06",
+    "tiktok_handle": "@annbrowning",
+    "joined_at": "2024-01-10T05:11:58.537794",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e5b62809-6570-4bbe-ab9a-eff75fb43c74",
+            "brand": "Allen, Clark and Nguyen",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "db58eec7-cd82-49f9-9ef2-71a8b942455e",
                     "platform": "TikTok",
                     "post_url": "https://mushy-gown.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2552,
+                    "comments": 398,
                     "shares": 58,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3477.28
         }
     ]
 }

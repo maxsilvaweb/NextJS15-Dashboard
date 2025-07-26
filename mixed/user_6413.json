@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d50292d2-cabb-43a2-b8be-ca1d27b88470",
+    "name": "Juan Hunt",
+    "email": "lawrencedunn@example.com",
+    "instagram_handle": "@sarah89",
+    "tiktok_handle": "@afuller",
+    "joined_at": "2024-01-07T04:35:08.569476",
     "advocacy_programs": [
         {
             "program_id": "855b25d4-4078-4565-9be0-68f4b4c20555",
-            "brand": 12345,
+            "brand": "Wilson LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "793d3597-4b2c-44dd-bcbe-0825cbf19c5b",
+                    "platform": "TikTok",
+                    "post_url": "http://martin.biz/",
                     "likes": 27,
                     "comments": 41,
                     "shares": 88,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1775.57
         }
     ]
 }

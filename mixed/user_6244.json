@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ebf12b47-4664-46fa-ae5d-a72ae08ca3b9",
+    "name": "Shawn Daniels",
+    "email": "schmidtjessica@example.net",
+    "instagram_handle": "@ghopkins",
+    "tiktok_handle": "@michaelsanchez",
+    "joined_at": "2024-05-25T21:51:29.095024",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5cf11c98-57a6-47ca-97a5-e8172d2fda1b",
+            "brand": "Garcia LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "ab9a38fb-382f-4c81-9b02-f10dc0ab2320",
+                    "platform": "Instagram",
+                    "post_url": "http://www.jackson-lynch.net/",
+                    "likes": 2847,
                     "comments": 22,
                     "shares": 54,
                     "reach": 4103

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "09dfac10-db19-4846-9782-dcc5b75d6096",
+    "name": "Brandon Russell",
+    "email": "lluna@example.org",
+    "instagram_handle": "@weberjeffrey",
+    "tiktok_handle": "@lisa95",
+    "joined_at": "2024-08-10T13:34:31.226835",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fa8d7fc0-c5f7-4e20-97cf-42dcb778af13",
+            "brand": "Conner, Smith and Cuevas",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "558595da-8aa3-4e39-85b2-545709d65338",
+                    "platform": "YouTube",
+                    "post_url": "http://www.moore-owens.info/",
                     "likes": 449,
-                    "comments": null,
+                    "comments": 222,
                     "shares": 9,
                     "reach": 4522
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7006.82
         }
     ]
 }

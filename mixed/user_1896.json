@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fc12fc13-948a-4515-975f-33b2ab6d30f8",
+    "name": "James Bailey",
+    "email": "heathercurry@example.org",
+    "instagram_handle": "@enewton",
+    "tiktok_handle": "@zray",
+    "joined_at": "2024-03-05T06:38:50.957887",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "897a4ec7-61c4-466f-b721-fb4b1e57ec1d",
+            "brand": "Ray Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "83c9c6ef-4700-49d3-983c-0132791d05df",
+                    "platform": "Instagram",
+                    "post_url": "http://www.galvan.biz/",
+                    "likes": 5100,
+                    "comments": 78,
                     "shares": 1,
                     "reach": 5453
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "d18d2510-8317-4577-8cd6-0cdb406917f1",
+    "name": "Melanie Wallace",
+    "email": "anthony07@example.net",
+    "instagram_handle": "@nsweeney",
     "tiktok_handle": "@Dell.Douglas80",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-05-15T14:40:42.393764",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bab8011c-f2e6-458b-8f71-27b43bc896e9",
+            "brand": "Smith, Bell and Park",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d4993db9-5944-4699-bc38-ee07212dad71",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.phillips.com/",
+                    "likes": 6673,
+                    "comments": 55,
                     "shares": 86,
                     "reach": 5558
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1605.57
         }
     ]
 }

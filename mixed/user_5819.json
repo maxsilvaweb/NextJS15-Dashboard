@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "0cf8be6d-c1f6-4eb7-acd6-1ba58209e017",
+    "name": "Katherine Moreno DDS",
     "email": "Shakira.Hane@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@solomoncarlos",
+    "tiktok_handle": "@xday",
+    "joined_at": "2024-08-31T22:39:17.707376",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "818b0664-8267-4abf-9745-c48d9269f1d4",
+            "brand": "Irwin-Flores",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "135a7532-f0fb-4885-af39-d9f7c7da6922",
+                    "platform": "YouTube",
+                    "post_url": "https://stephenson-butler.com/",
+                    "likes": 6827,
+                    "comments": 71,
                     "shares": 49,
                     "reach": 4498
                 }

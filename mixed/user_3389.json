@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "084fa5ba-acfb-4d2a-82a2-7dec7bd00414",
+    "name": "Angela Ramirez",
+    "email": "stevensonjohn@example.net",
+    "instagram_handle": "@satkins",
+    "tiktok_handle": "@jeremy55",
+    "joined_at": "2024-03-28T14:05:38.079787",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e703810b-e218-4d27-a066-b71f08720c17",
+            "brand": "Cobb, Osborne and Wright",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "efdad0ae-ee15-42e9-a10c-5b0e0a1f24c8",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.campbell.com/",
                     "likes": 233,
-                    "comments": null,
+                    "comments": 183,
                     "shares": 24,
                     "reach": 3353
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1611.84
         }
     ]
 }

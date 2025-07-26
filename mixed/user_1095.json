@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4b9ccbbd-c0dc-40ce-9a5f-de246f953a93",
+    "name": "Jeremy Gonzales",
+    "email": "williammiller@example.net",
+    "instagram_handle": "@drogers",
+    "tiktok_handle": "@millernicole",
+    "joined_at": "2024-02-20T11:13:39.803305",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "643ee541-9c4d-4b2c-b62f-04b00618ff82",
+            "brand": "Wilson Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7309213f-bcde-40c6-a914-9520af4c4343",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.hopkins.com/",
+                    "likes": 9644,
                     "comments": 23,
                     "shares": 98,
                     "reach": 8993

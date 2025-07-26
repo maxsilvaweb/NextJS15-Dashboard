@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "e3e906af-8a6f-4747-99bc-b9d2c70542e0",
+    "name": "Tammy Morgan",
+    "email": "wendy54@example.org",
+    "instagram_handle": "@baldwinjeremy",
     "tiktok_handle": "@Madilyn.Pagac97",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-02-24T00:29:21.862395",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9c72233f-0bb9-4464-b266-180fff12cc17",
+            "brand": "Hines Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4384c076-4704-4ee6-a90b-6f97ef19ae48",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.white.com/",
+                    "likes": 4692,
                     "comments": 21,
                     "shares": 54,
                     "reach": 6249

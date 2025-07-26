@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "efba71cc-a5e2-4e55-ae75-49e679e32aa8",
+    "name": "Kelly Melton",
     "email": "Daphne_Heaney-Runolfsdottir10@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jackiebeard",
+    "tiktok_handle": "@shawjames",
+    "joined_at": "2024-05-21T20:09:35.840116",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "64ffe828-bac3-4aaf-9c14-7afff20909da",
+            "brand": "Brown-Bautista",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7e8aaca9-56c5-416e-8cb1-66ea63af4258",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.martin.biz/",
+                    "likes": 7507,
+                    "comments": 48,
                     "shares": 98,
                     "reach": 4863
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3289.65
         }
     ]
 }

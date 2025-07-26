@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "29234c89-797d-4369-8eb5-c492f49a970b",
+    "name": "Bryan Baker",
+    "email": "davidperry@example.org",
+    "instagram_handle": "@bryankrause",
+    "tiktok_handle": "@christopherballard",
+    "joined_at": "2023-12-08T09:42:09.569371",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "583517c1-a1ac-4f10-aeec-28e40a82af8c",
+            "brand": "Rich-Carroll",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0a39b671-95df-40ed-b05a-1648fa61455c",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://smith.com/",
                     "likes": 68,
-                    "comments": null,
+                    "comments": 100,
                     "shares": 53,
                     "reach": 1211
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2286.73
         }
     ]
 }

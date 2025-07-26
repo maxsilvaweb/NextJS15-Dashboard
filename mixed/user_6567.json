@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "51d0db2f-a316-4541-80bc-6a83e03494cb",
+    "name": "Katherine Cameron",
+    "email": "jonesbilly@example.net",
+    "instagram_handle": "@rebeccabyrd",
     "tiktok_handle": "@Justyn_Gerhold",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-01-23T09:29:05.021787",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "61b370c8-d443-4afc-af3b-1a6910bf6b5f",
+            "brand": "Brady-Scott",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "6ef78522-7ec3-450f-98dc-949d7de0c96b",
+                    "platform": "TikTok",
+                    "post_url": "http://www.sanchez.biz/",
+                    "likes": 5091,
+                    "comments": 289,
                     "shares": 34,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1070.47
         }
     ]
 }

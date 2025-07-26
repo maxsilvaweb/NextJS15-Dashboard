@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "45b4d7ba-d191-40e8-9d57-111fd1bf0ad3",
+    "name": "Mrs. Jessica King",
+    "email": "angela03@example.com",
+    "instagram_handle": "@dianabuchanan",
+    "tiktok_handle": "@kingjason",
+    "joined_at": "2023-11-15T20:52:02.006252",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "393d326d-ebc0-4f4d-abcb-0bffc5da50ca",
+            "brand": "Owens-Moore",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "db616c5a-236d-43f0-a4bd-3d7312b859ea",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.campbell.com/",
+                    "likes": 4754,
+                    "comments": 314,
                     "shares": 14,
                     "reach": 1661
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9226.48
         }
     ]
 }

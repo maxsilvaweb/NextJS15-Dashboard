@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7ef39dce-40ab-4e54-948c-04aee2b22289",
+    "name": "Teresa Rodriguez",
+    "email": "stanley14@example.net",
+    "instagram_handle": "@savagelaura",
+    "tiktok_handle": "@townsendjohn",
+    "joined_at": "2023-10-29T21:06:24.289091",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ae680d9b-a9ba-4a03-8c02-462bf1bb51da",
+            "brand": "Tran-Bishop",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7dcd2771-59cc-43b1-95ea-adb3882db99d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://romero.com/",
+                    "likes": 6449,
+                    "comments": 462,
                     "shares": 83,
                     "reach": 9402
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4366.43
         }
     ]
 }

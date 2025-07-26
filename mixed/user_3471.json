@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2bc958b8-75b2-40dd-812e-024f65bf2101",
+    "name": "Christopher Ross",
+    "email": "gonzaleztimothy@example.org",
+    "instagram_handle": "@palmerkristopher",
+    "tiktok_handle": "@tinamartin",
+    "joined_at": "2025-03-10T14:28:23.078519",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "571b0b74-35ff-4dcb-9f97-53add508503a",
+            "brand": "Brown, Torres and Bishop",
             "tasks_completed": [
                 {
                     "task_id": "83150e7a-2b1c-401a-a786-a707e2ded38e",
                     "platform": "Facebook",
                     "post_url": "https://affectionate-traditionalism.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7616,
+                    "comments": 48,
                     "shares": 86,
                     "reach": 1939
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5593.37
         }
     ]
 }

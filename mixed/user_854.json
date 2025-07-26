@@ -1,26 +1,26 @@
 {
     "user_id": "ce237fc1-4f44-4e1a-9995-36ee1133665b",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Jessica Rodgers",
+    "email": "jeromekent@example.com",
+    "instagram_handle": "@jjones",
+    "tiktok_handle": "@westpaul",
+    "joined_at": "2024-02-08T06:38:08.323199",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cfead174-3fef-4901-b7c9-1f40704df2d3",
+            "brand": "Holloway Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8326c2bb-b733-4891-a2d2-bf71ff90d63b",
                     "platform": "TikTok",
                     "post_url": "https://sinful-waist.org/",
-                    "likes": "NaN",
+                    "likes": 8503,
                     "comments": 8,
                     "shares": 49,
                     "reach": 4760
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8870.0
         }
     ]
 }

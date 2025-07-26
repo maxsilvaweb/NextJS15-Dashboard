@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "99b1a421-57fb-493e-aa44-f50ce25d4b49",
+    "name": "Charles Evans",
+    "email": "nathan24@example.org",
+    "instagram_handle": "@jackharmon",
+    "tiktok_handle": "@kimberlybriggs",
+    "joined_at": "2024-07-27T17:24:33.675242",
     "advocacy_programs": [
         {
             "program_id": "dc025d42-6496-4eaf-bce9-f2197d40f34d",
-            "brand": 12345,
+            "brand": "Cordova-Schroeder",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1c7d375d-f6e4-45bf-8731-69bf1cc9c655",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.scott-gardner.com/",
+                    "likes": 7863,
+                    "comments": 210,
                     "shares": 66,
                     "reach": 7342
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3951.46
         }
     ]
+}

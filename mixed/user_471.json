@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1bdbe6b2-6e72-4e3f-873f-b29a66bf9aea",
+    "name": "Anthony Page",
+    "email": "opatton@example.net",
+    "instagram_handle": "@kathleen37",
+    "tiktok_handle": "@scottsingh",
+    "joined_at": "2025-07-08T06:25:38.246918",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "96e66dd7-83ee-4746-8f49-db9e64deb248",
             "brand": "Daugherty and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "e712c966-ed44-4306-be9e-4140b74cf0c2",
+                    "platform": "Instagram",
+                    "post_url": "https://peterson.com/",
+                    "likes": 9751,
+                    "comments": 281,
                     "shares": 76,
                     "reach": 4635
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3002.46
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "32d2e7ff-4425-47d3-9022-e3f6506276ea",
+    "name": "Steven Montoya",
+    "email": "joshua49@example.org",
+    "instagram_handle": "@robert69",
+    "tiktok_handle": "@ograves",
+    "joined_at": "2023-09-17T10:00:42.792326",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "b9208dd2-a879-4007-9345-a0fc7c6cc78d",
             "brand": "Harris, O'Reilly and Gerhold",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "798773d2-7be4-472e-9d7a-9281199d983a",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://hernandez.com/",
                     "likes": 76,
                     "comments": 19,
                     "shares": 69,
                     "reach": 6934
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8376.59
         }
     ]
 }

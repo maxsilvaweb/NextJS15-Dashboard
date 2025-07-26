@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b0c5a338-5728-40cb-87f3-3306d1d2391f",
+    "name": "Jessica Wood",
+    "email": "brianthomas@example.com",
+    "instagram_handle": "@rhill",
+    "tiktok_handle": "@hillpatrick",
+    "joined_at": "2023-11-08T12:40:21.766716",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "84a74858-83bb-405e-949e-6da13d254adf",
+            "brand": "Pennington LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "a975523d-f46f-4c5d-8fe9-7b25ee894823",
+                    "platform": "YouTube",
+                    "post_url": "https://holloway-barnett.net/",
+                    "likes": 7039,
                     "comments": 23,
                     "shares": 44,
                     "reach": 5867
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1024.44
         }
     ]
 }

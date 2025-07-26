@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "35d566e0-b52d-4e49-bdc9-14ba0fd39b35",
+    "name": "Marissa Bray",
+    "email": "smithlinda@example.net",
+    "instagram_handle": "@dustin15",
+    "tiktok_handle": "@ddavis",
+    "joined_at": "2025-01-17T10:01:49.379290",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "f4e46120-6385-45ba-ac36-6445b8870aa9",
             "brand": "Cassin Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d23e782e-67b7-4067-82b2-b27fe521789d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.golden.com/",
+                    "likes": 7664,
+                    "comments": 203,
                     "shares": 31,
                     "reach": 2552
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3799.12
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3ab32d84-7dd0-42e7-9865-75ca1f969205",
+    "name": "Charles White",
+    "email": "james71@example.net",
+    "instagram_handle": "@ejenkins",
+    "tiktok_handle": "@amy35",
+    "joined_at": "2024-06-13T05:37:00.328749",
     "advocacy_programs": [
         {
             "program_id": "4b818304-0cd5-46ef-b4f3-f762c9695dd7",
-            "brand": 12345,
+            "brand": "Kelley PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "06521f3a-dd49-4cf3-aa29-910b2c312ff3",
                     "platform": "TikTok",
                     "post_url": "https://jealous-ectoderm.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4662,
+                    "comments": 396,
                     "shares": 49,
                     "reach": 8820
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4749.33
         }
     ]
 }

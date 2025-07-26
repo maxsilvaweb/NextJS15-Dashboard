@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "61e82a51-10a8-4d56-8972-524ca15c67f5",
+    "name": "Bradley Miller",
+    "email": "evanoneill@example.com",
+    "instagram_handle": "@jrodriguez",
+    "tiktok_handle": "@xwelch",
+    "joined_at": "2024-06-26T15:32:01.241344",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "97c96d86-e0f5-4951-96d3-13ecef792f94",
+            "brand": "Moore, Thomas and Leonard",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "012058e8-8561-499b-b082-0d685d9f35cd",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.williams-allen.com/",
+                    "likes": 6411,
                     "comments": 42,
                     "shares": 15,
                     "reach": 7762

@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8fb27377-7500-4ef4-b514-d8293280a1c7",
+    "name": "Michael Dean",
+    "email": "janicewilson@example.com",
+    "instagram_handle": "@owashington",
+    "tiktok_handle": "@ugarcia",
+    "joined_at": "2024-03-16T23:42:21.224441",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7d477d02-e687-4951-bccb-2f7a77b733aa",
+            "brand": "Flowers PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "fe47d90b-e45c-4f7d-b9d1-8c24c6537d05",
+                    "platform": "Twitter",
+                    "post_url": "https://lawson.biz/",
+                    "likes": 5309,
                     "comments": 24,
                     "shares": 62,
                     "reach": 8843

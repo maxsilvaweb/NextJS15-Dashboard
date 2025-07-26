@@ -1,26 +1,26 @@
 {
     "user_id": "d06d729f-a0f5-4664-bf62-14274a9109a1",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Chris Brown",
+    "email": "stuartsergio@example.org",
+    "instagram_handle": "@jennifer70",
+    "tiktok_handle": "@hernandezdakota",
+    "joined_at": "2024-02-01T15:45:39.440724",
     "advocacy_programs": [
         {
             "program_id": "6a18879b-6b63-4295-b185-00328d9fdc6e",
-            "brand": 12345,
+            "brand": "Bradford-Bell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5a64c985-46f0-4157-933a-ae54627dd27c",
                     "platform": "TikTok",
                     "post_url": "https://striking-commodity.com/",
                     "likes": 309,
-                    "comments": null,
+                    "comments": 104,
                     "shares": 6,
                     "reach": 7562
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2353.15
         }
     ]
 }

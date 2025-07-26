@@ -1,26 +1,26 @@
 {
     "user_id": "1f9da041-3d62-4cf6-b04d-988980676c18",
-    "name": "???",
+    "name": "Ryan Myers",
     "email": "Jaden.Bartoletti34@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@schroederkent",
+    "tiktok_handle": "@troy93",
+    "joined_at": "2023-11-24T13:10:47.394998",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4547468a-3217-46cc-9e82-00131642281a",
+            "brand": "Manning, Cummings and May",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b6288abf-6585-4d23-bc66-2c9b59550983",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.powell-thompson.net/",
+                    "likes": 3634,
                     "comments": 38,
                     "shares": 92,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4171.78
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
     "user_id": "3e8ac131-566a-4a7e-9c30-5ee7f7b82ea2",
-    "name": "???",
+    "name": "Angela Ward",
     "email": "Derrick39@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@belindathomas",
+    "tiktok_handle": "@wendy65",
+    "joined_at": "2024-01-05T15:41:56.922930",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9855bab0-ef22-48db-8c61-c15910f9afbb",
+            "brand": "Brown, Horton and Park",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "382e565b-bbe4-4ac9-b86e-17a12faa4067",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://moyer.com/",
                     "likes": 11,
-                    "comments": null,
+                    "comments": 444,
                     "shares": 85,
                     "reach": 1291
                 }

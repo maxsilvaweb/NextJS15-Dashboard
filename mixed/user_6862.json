@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c1ddda8d-efa6-4e6d-90fb-52369c308815",
+    "name": "Crystal Gibbs",
+    "email": "stevenmayer@example.com",
+    "instagram_handle": "@morganalexandra",
+    "tiktok_handle": "@michaelgreen",
+    "joined_at": "2024-12-27T07:05:14.530853",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "980a8f10-a5c5-41d2-b4b0-b4d853a4a200",
             "brand": "Kub - Bergstrom",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4e271db1-fdd1-433c-92ac-1ccefe3c4520",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://dickerson.com/",
+                    "likes": 3157,
+                    "comments": 422,
                     "shares": 21,
                     "reach": 8103
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2158.12
         }
     ]
 }

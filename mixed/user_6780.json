@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a5668810-673e-4efa-8f4d-8588cb4c2083",
+    "name": "Vicki Oliver",
+    "email": "anthony93@example.com",
+    "instagram_handle": "@mccoynatalie",
+    "tiktok_handle": "@becky72",
+    "joined_at": "2024-05-24T21:59:12.794590",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7976f187-9d07-4b25-8a45-cfd8fd5f4a9a",
+            "brand": "Hernandez and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ce17911b-213b-4e43-a62f-fe3c0e9a420f",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://riley.net/",
+                    "likes": 7280,
+                    "comments": 251,
                     "shares": 100,
                     "reach": 8276
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1801.42
         }
     ]
 }

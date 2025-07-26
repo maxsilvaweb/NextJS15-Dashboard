@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "438addee-d60b-4d1d-82c3-0978e194ce39",
     "name": "Teri Thiel",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "ojohnson@example.net",
+    "instagram_handle": "@markstanton",
+    "tiktok_handle": "@pgonzalez",
+    "joined_at": "2023-09-16T13:40:53.955529",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d18e2d51-5afd-4a04-92ff-ce6c221c1f68",
+            "brand": "Wells Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "34eb68c9-b9a8-48f6-b56c-ee2e50e377af",
+                    "platform": "Twitter",
+                    "post_url": "http://www.turner.info/",
+                    "likes": 827,
+                    "comments": 44,
                     "shares": 4,
                     "reach": 5954
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 834.15
         }
     ]
 }

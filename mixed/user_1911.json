@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "afd53791-fbac-47bd-ba86-0f91497056dd",
+    "name": "Mary Miller",
+    "email": "jonesdana@example.net",
+    "instagram_handle": "@reyeskerry",
+    "tiktok_handle": "@dhebert",
+    "joined_at": "2024-01-26T08:46:39.625407",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "59cba2da-aed3-4226-a95b-ff10072b7599",
+            "brand": "Collins, Simmons and Hines",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "4ec1175b-4ea8-4b3a-9d69-8d89c7f0da00",
+                    "platform": "TikTok",
+                    "post_url": "https://www.mcdowell.info/",
+                    "likes": 7158,
+                    "comments": 464,
                     "shares": 54,
                     "reach": 3325
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3937.03
         }
     ]
 }

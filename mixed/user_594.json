@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2743e744-2611-4570-9b9f-69f8a28ba431",
+    "name": "James Cain",
+    "email": "xmiller@example.org",
+    "instagram_handle": "@denise59",
+    "tiktok_handle": "@kellybarrera",
+    "joined_at": "2024-03-03T15:41:41.336761",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "547c5877-c504-499a-9a72-5aadf21b422a",
+            "brand": "Kelly-Ramirez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b519cbbb-27e7-49f3-a289-2a498147fd61",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://thompson.info/",
+                    "likes": 3898,
                     "comments": 5,
                     "shares": 34,
                     "reach": 9781
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9906.56
         }
     ]
 }

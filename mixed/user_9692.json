@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "24041791-248c-4c96-9dc5-d35a7a81135d",
+    "name": "Michael Stewart",
+    "email": "pwhite@example.org",
+    "instagram_handle": "@catherinebailey",
+    "tiktok_handle": "@parkerdaniel",
+    "joined_at": "2024-10-10T00:45:20.994295",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8b32f70c-06bb-47d6-9a05-3d37590cb0e7",
+            "brand": "Anderson, Reed and Romero",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0ca0a180-4cce-4d1e-a830-e0e074083e4f",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.carr-warren.com/",
                     "likes": 494,
-                    "comments": null,
+                    "comments": 338,
                     "shares": 0,
                     "reach": 4794
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6328.25
         }
     ]
 }

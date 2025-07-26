@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fdc59dac-2943-4122-bcd8-b1783964bbda",
+    "name": "Mr. Charles Carlson Jr.",
+    "email": "skrause@example.org",
+    "instagram_handle": "@monroealex",
+    "tiktok_handle": "@johnsonsarah",
+    "joined_at": "2023-08-26T22:50:38.246490",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "59a21e70-f849-44bf-b3f6-72bb851e7a57",
+            "brand": "Andrews Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "73330533-9d19-497f-8c75-554c50f51ce0",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://johnson-berry.com/",
+                    "likes": 1430,
+                    "comments": 209,
                     "shares": 91,
                     "reach": 3224
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3666.42
         }
     ]
 }

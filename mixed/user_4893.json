@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "9e8bb072-aec7-45f7-8d54-f817510acded",
+    "name": "Jared Cook",
     "email": "Joel.Kuphal44@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jacobsonsean",
+    "tiktok_handle": "@xhines",
+    "joined_at": "2024-08-07T12:56:43.989725",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "20531fb0-5eab-42bf-818a-66025e7afa24",
+            "brand": "White and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b84be945-1149-46a8-ba6a-d8eaced6de79",
                     "platform": "Instagram",
                     "post_url": "https://unfinished-produce.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5045,
+                    "comments": 277,
                     "shares": 39,
                     "reach": -1000
                 }

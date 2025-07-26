@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bbe25cfd-6273-4ba4-b37a-60ddd6560fe3",
+    "name": "Troy Fry",
+    "email": "juliemartinez@example.org",
+    "instagram_handle": "@sallen",
+    "tiktok_handle": "@carolyn41",
+    "joined_at": "2023-08-13T00:55:27.998713",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8bc704e7-6825-4366-a974-5dc9c926922f",
+            "brand": "Morgan, Myers and Davis",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c413c002-9e9a-4424-84f5-dd84a95e1911",
                     "platform": "TikTok",
                     "post_url": "https://plump-larva.com/",
                     "likes": 427,
-                    "comments": null,
+                    "comments": 383,
                     "shares": 5,
                     "reach": 2016
                 }

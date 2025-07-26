@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "dad34d97-1f37-45fa-9f66-07b905b060ff",
+    "name": "Norman James",
     "email": "Leann55@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@thompsonjacqueline",
+    "tiktok_handle": "@dustinlee",
+    "joined_at": "2025-03-17T16:15:15.148009",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "990ab253-ee47-4586-8450-2897813c8a7c",
+            "brand": "Mason Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "7bf9fa38-1bec-4f87-bdc2-9a1cbe11b1d9",
+                    "platform": "Instagram",
                     "post_url": "https://deafening-vol.name",
-                    "likes": "NaN",
+                    "likes": 9206,
                     "comments": 23,
                     "shares": 16,
                     "reach": 585
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5547.13
         }
     ]
 }

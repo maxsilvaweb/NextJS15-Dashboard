@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "ebb1202a-d3db-490d-903d-edddf79a6fc0",
+    "name": "Jason Clements",
+    "email": "amywhite@example.org",
+    "instagram_handle": "@shood",
+    "tiktok_handle": "@glasslori",
     "joined_at": "2025-01-26T14:56:15.499Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b7828ace-f739-424a-96e4-b7c8b1654d20",
+            "brand": "Newton, Buchanan and Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1d842179-034e-4508-94e3-af04cd73572c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://jones.com/",
                     "likes": 321,
-                    "comments": null,
+                    "comments": 375,
                     "shares": 61,
                     "reach": 5642
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7452.97
         }
     ]
 }

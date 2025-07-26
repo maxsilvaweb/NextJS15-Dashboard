@@ -1,26 +1,26 @@
 {
     "user_id": "06b84cd0-22b2-4dc0-88f1-f5731287a04f",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Alicia Logan",
+    "email": "ojones@example.org",
+    "instagram_handle": "@hallsharon",
+    "tiktok_handle": "@davidcoleman",
+    "joined_at": "2024-05-24T02:13:12.543759",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c9907e2e-718b-4379-96f6-2b426bb473e6",
+            "brand": "Dalton, Avery and Richards",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "614bb244-5efc-4b74-abf5-34c074bc7c0b",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://schwartz-patterson.net/",
+                    "likes": 6897,
+                    "comments": 240,
                     "shares": 65,
                     "reach": 3105
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7647.92
         }
     ]
 }

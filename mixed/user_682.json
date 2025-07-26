@@ -1,26 +1,26 @@
 {
     "user_id": "a630444d-3dd3-4ec7-9b39-61d355be65ad",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "name": "Garrett Rodriguez",
+    "email": "darryl62@example.org",
+    "instagram_handle": "@dclayton",
     "tiktok_handle": "@Claude14",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-02-07T20:29:54.481160",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ff44593a-0430-4f3c-80cf-2e65feabedba",
+            "brand": "Castro LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d0e21510-10b8-4622-ae09-9de3841dcdcf",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.norris.org/",
                     "likes": 96,
-                    "comments": null,
+                    "comments": 482,
                     "shares": 86,
                     "reach": 9204
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5406.01
         }
     ]
 }

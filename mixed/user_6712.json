@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c504b1c0-f50b-4614-a9b7-6b320240d05e",
+    "name": "Angela Rodriguez",
+    "email": "maydonna@example.net",
+    "instagram_handle": "@ryanbuchanan",
+    "tiktok_handle": "@tbennett",
+    "joined_at": "2025-04-09T03:58:23.385919",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "35f39b4e-d1cc-41a0-aab8-175c2ae040c7",
+            "brand": "Baker LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7ce232c2-5e36-44e4-96a8-efbc41479e70",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.marshall-ritter.biz/",
+                    "likes": 8028,
                     "comments": 16,
                     "shares": 17,
                     "reach": 5295
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2788.69
         }
     ]
 }

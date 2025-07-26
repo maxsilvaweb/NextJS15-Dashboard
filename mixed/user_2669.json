@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "5b271654-2861-4c7d-a7c6-78dfd7b75c91",
     "name": "Joanne Doyle",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "pfields@example.net",
+    "instagram_handle": "@justinclark",
+    "tiktok_handle": "@jennifer37",
+    "joined_at": "2023-11-07T12:13:04.934560",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9e664f6d-ebcf-4fe3-b41e-d08bf953b6be",
+            "brand": "Miller, Johnson and Jimenez",
             "tasks_completed": [
                 {
                     "task_id": "62e164d1-28e3-4b65-9b9f-b5d7035970f0",
                     "platform": "Instagram",
                     "post_url": "https://other-co-producer.com",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4424,
+                    "comments": 200,
                     "shares": 93,
                     "reach": 9720
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5262.62
         }
     ]
 }

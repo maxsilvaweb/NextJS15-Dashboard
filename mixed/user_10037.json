@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae26",
-  "name": "Max Silva27",
-  "email": "maxsilvvauk@28xwwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae26",
+    "name": "Max Silva27",
+    "email": "maxsilvvauk@28xwwilwweeewd.com",
+    "instagram_handle": "@djenkins",
+    "tiktok_handle": "@plester",
+    "joined_at": "2024-02-10T22:49:45.438723",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "295e7ce7-625e-4e85-8798-409c2fd276a3",
+            "brand": "Rhodes PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "3a753d07-1042-4e30-9753-9f1605fd8daf",
+                    "platform": "TikTok",
+                    "post_url": "http://lucero.biz/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 7168.2
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

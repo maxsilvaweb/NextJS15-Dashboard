@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2b0ea768-2e46-4ee4-aec5-67f95964f6cc",
+    "name": "Jacob Powell",
+    "email": "emilyboone@example.com",
+    "instagram_handle": "@brendanmiles",
+    "tiktok_handle": "@gcampbell",
+    "joined_at": "2024-01-06T07:45:37.283631",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c3d73a4e-4eb7-4336-871f-52284110d692",
+            "brand": "Warren Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3d718c48-bb8a-461a-81fd-7d0b0b21fe50",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://vargas-lyons.org/",
+                    "likes": 9390,
+                    "comments": 499,
                     "shares": 100,
                     "reach": 3794
                 }

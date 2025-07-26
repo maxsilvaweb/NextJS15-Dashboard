@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "b8945a9b-217c-4f33-8e77-1cde4c6b4a96",
+    "name": "Donald Mcdonald",
+    "email": "xlee@example.org",
+    "instagram_handle": "@sgould",
+    "tiktok_handle": "@jasmine83",
     "joined_at": "2025-01-03T21:17:39.389Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0df7bea1-bfb9-44f3-9125-fc7e6e85c895",
+            "brand": "Davis, Jones and Campbell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6543b2f4-e69e-477c-8698-1fe99529f348",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://doyle-kane.net/",
+                    "likes": 4775,
+                    "comments": 245,
                     "shares": 35,
                     "reach": 9195
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3192.57
         }
     ]
 }

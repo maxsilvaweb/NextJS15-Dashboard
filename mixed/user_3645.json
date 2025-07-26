@@ -1,20 +1,20 @@
 {
-    "user_id": null,
+    "user_id": "642af9eb-058e-4bc1-b693-937263de3245",
     "name": "Lorraine Blick",
     "email": "Marguerite_Wilkinson76@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@margaret30",
+    "tiktok_handle": "@rhonda83",
+    "joined_at": "2025-04-25T01:05:48.274853",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b6ebf5f5-aa31-4ed9-9233-ef12e5e5d18e",
+            "brand": "Brown-Cochran",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "4166e291-bdac-4e2f-95de-1a74d99c51e7",
+                    "platform": "YouTube",
+                    "post_url": "http://www.gordon.info/",
+                    "likes": 875,
                     "comments": 9,
                     "shares": 77,
                     "reach": 9867

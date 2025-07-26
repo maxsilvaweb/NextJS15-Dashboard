@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "21cc344c-bd19-4489-aca1-4419ed02e908",
+    "name": "Sarah Roman",
+    "email": "christopher68@example.com",
+    "instagram_handle": "@vchang",
+    "tiktok_handle": "@kimberly34",
+    "joined_at": "2023-11-22T12:58:53.502344",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c3d170b1-ebfe-42da-8f0c-d9c3bcad2dcc",
+            "brand": "Flores-Moss",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fe4f4a21-0936-4149-a8a2-2107e5576c87",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.villanueva.info/",
                     "likes": 284,
-                    "comments": null,
+                    "comments": 285,
                     "shares": 94,
                     "reach": 7989
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5184.98
         }
     ]
 }

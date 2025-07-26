@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "7b54362f-8fc6-428e-b201-a4c75bf851cc",
+    "name": "Jason Martinez",
     "email": "Vinnie.Littel55@yahoo.com",
     "instagram_handle": "@Marcel_Greenholt",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@robertguzman",
+    "joined_at": "2025-05-08T09:28:13.413134",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4aeac976-72c5-4ebf-9271-d92653846fb1",
+            "brand": "Stout, Collins and Cobb",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9ff42414-4d95-488e-be8e-93c34ff4c671",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://snyder.biz/",
                     "likes": 264,
-                    "comments": null,
+                    "comments": 392,
                     "shares": 17,
                     "reach": 5756
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2852.41
         }
     ]
 }

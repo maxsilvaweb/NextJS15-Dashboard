@@ -1,26 +1,26 @@
 {
     "user_id": "805996de-9772-4db4-a3b7-ff558d3d92a1",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Michelle Murphy",
+    "email": "ejohnson@example.net",
+    "instagram_handle": "@wagnermiranda",
+    "tiktok_handle": "@harrisonwilliam",
+    "joined_at": "2024-01-10T16:55:53.082162",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "aff6301a-095b-477e-b0a6-4c45da89e9e1",
+            "brand": "Smith and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "eb24b452-f946-4ab2-b28c-146a368803b5",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.anderson.info/",
                     "likes": 111,
-                    "comments": null,
+                    "comments": 351,
                     "shares": 12,
                     "reach": 4386
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8382.62
         }
     ]
 }

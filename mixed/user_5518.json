@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0e55acdc-ecff-4398-8b13-dcdc10495102",
+    "name": "Lisa Suarez",
+    "email": "cynthialewis@example.org",
+    "instagram_handle": "@peternguyen",
+    "tiktok_handle": "@hwilson",
+    "joined_at": "2025-05-14T22:13:10.165619",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6f7dfa60-cf92-4162-85d6-dbc019951efc",
+            "brand": "Nash-Thomas",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d309bac9-681e-4549-ba78-08d7ef4b01a4",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://knight.biz/",
+                    "likes": 1270,
+                    "comments": 417,
                     "shares": 48,
                     "reach": 4528
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4334.56
         }
     ]
 }

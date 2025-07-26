@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "42481812-2c50-425e-91d6-33986b9445b5",
+    "name": "Samuel Smith",
+    "email": "kstanton@example.org",
+    "instagram_handle": "@ginajones",
+    "tiktok_handle": "@tonicervantes",
+    "joined_at": "2023-10-07T17:11:17.303136",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "1e49c5ca-35b9-417e-8d21-34107fd7982a",
             "brand": "Reilly Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "a00f26ae-478b-4023-8a0e-d84761b3f849",
+                    "platform": "TikTok",
+                    "post_url": "http://brooks.com/",
+                    "likes": 8946,
                     "comments": 7,
                     "shares": 100,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7470.54
         }
     ]
 }

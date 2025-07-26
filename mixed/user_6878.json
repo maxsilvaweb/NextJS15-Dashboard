@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "5be0f487-90e8-4442-a5b0-5f36be667343",
+    "name": "Tamara Wilson",
+    "email": "jessica46@example.com",
+    "instagram_handle": "@laurenrose",
+    "tiktok_handle": "@moonerika",
     "joined_at": "2024-04-03T22:44:09.286Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "26c6adea-6961-41d0-b529-474697818b75",
+            "brand": "Harris Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fe5994e2-2c84-4817-b04c-ae9f771b0eca",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.brooks-jimenez.org/",
+                    "likes": 6777,
+                    "comments": 97,
                     "shares": 61,
                     "reach": 5971
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 976.17
         }
     ]
 }

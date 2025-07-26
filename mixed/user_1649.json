@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "33a3cb26-3fee-46b4-9764-b5fa7999de09",
+    "name": "Robert Bishop",
+    "email": "whitejeffrey@example.net",
+    "instagram_handle": "@webstertimothy",
+    "tiktok_handle": "@waynegray",
+    "joined_at": "2024-09-02T11:08:17.610162",
     "advocacy_programs": [
         {
             "program_id": "29049189-9076-46fb-a054-c6013727d67b",
-            "brand": 12345,
+            "brand": "Freeman, Rodriguez and Jones",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cc6c5ee8-2bec-4095-b19b-7ce140d76b7f",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.booker.com/",
+                    "likes": 6530,
+                    "comments": 221,
                     "shares": 14,
                     "reach": 9912
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8007.89
         }
     ]
 }

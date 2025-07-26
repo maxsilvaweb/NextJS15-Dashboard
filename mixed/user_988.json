@@ -1,26 +1,26 @@
 {
     "user_id": "37acbbab-44e0-4d57-8f9b-9874a8692f83",
-    "name": "???",
+    "name": "Sarah Richardson",
     "email": "Hyman71@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@suzanneweiss",
+    "tiktok_handle": "@douglasbrandon",
+    "joined_at": "2024-02-14T21:35:13.834440",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ecd22298-834e-4008-b45a-710dde2e2a69",
+            "brand": "Cox, Burton and Perez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a4b85959-39ff-48cf-8519-17af96d27182",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.hall.com/",
                     "likes": 461,
-                    "comments": null,
+                    "comments": 387,
                     "shares": 46,
                     "reach": 5298
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8097.28
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c9c56457-2109-44a5-897e-e0a7595918bc",
+    "name": "Amy Garcia",
+    "email": "tyler22@example.net",
+    "instagram_handle": "@qpierce",
+    "tiktok_handle": "@bradleychristopher",
+    "joined_at": "2024-12-03T16:59:20.737044",
     "advocacy_programs": [
         {
             "program_id": "5f6adf96-5fe6-4c7d-80b2-e2a4901fdc71",
-            "brand": 12345,
+            "brand": "Cross LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bf56da5b-20a4-4ad6-919c-2f152b827e91",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.adams.com/",
+                    "likes": 439,
+                    "comments": 255,
                     "shares": 90,
                     "reach": 9895
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9785.29
         }
     ]
 }

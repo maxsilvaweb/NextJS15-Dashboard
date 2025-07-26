@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "87f9153d-3e79-4d0a-8fbe-cbed18e546bd",
+    "name": "Crystal Robinson",
+    "email": "dmorales@example.net",
+    "instagram_handle": "@donald02",
+    "tiktok_handle": "@nicolehanna",
+    "joined_at": "2025-01-03T14:46:17.223973",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "df5ce061-f498-4084-bfec-71aed4ce3c3e",
+            "brand": "Solis, Small and Taylor",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "b00d9555-85d5-4cf7-96d8-d9fc5c18df1e",
+                    "platform": "Twitter",
+                    "post_url": "https://pitts.com/",
+                    "likes": 2678,
                     "comments": 4,
                     "shares": 1,
                     "reach": 9247

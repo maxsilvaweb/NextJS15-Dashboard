@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4a709380-276f-49c4-b6dc-2d1851cdf718",
+    "name": "Ms. Samantha Burgess",
+    "email": "brittanymyers@example.net",
+    "instagram_handle": "@fordsamuel",
+    "tiktok_handle": "@tflores",
+    "joined_at": "2025-07-09T11:54:48.397092",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c7828470-0643-4a7b-a9e7-4eb4e6adc696",
+            "brand": "Acosta Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dac26023-5740-4e83-b2ab-18e5eb8557fa",
                     "platform": "Instagram",
                     "post_url": "https://rough-wallaby.com",
                     "likes": 72,
-                    "comments": null,
+                    "comments": 472,
                     "shares": 49,
                     "reach": 3291
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4021.35
         }
     ]
 }

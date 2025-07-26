@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "712ee9ee-0b09-4ff1-9a22-e29dbd30c990",
+    "name": "Aaron Erickson",
+    "email": "paulmaddox@example.com",
     "instagram_handle": "@Adolfo.Deckow87",
     "tiktok_handle": "@Luciano.Lynch50",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-04-29T09:01:27.487431",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "62bb36e5-a7db-4b7d-8e3a-2845af7a449e",
+            "brand": "Wolf-Rhodes",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1cb0b309-1617-4850-845e-dd11b3c983d2",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://ray.info/",
+                    "likes": 5665,
+                    "comments": 55,
                     "shares": 89,
                     "reach": 1305
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9582.53
         }
     ]
 }

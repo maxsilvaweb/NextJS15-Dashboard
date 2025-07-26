@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fd9da1ac-31ae-485d-9e2e-8d9eef847419",
+    "name": "Robert Brown",
+    "email": "galvanjonathan@example.com",
+    "instagram_handle": "@brianmontoya",
+    "tiktok_handle": "@kaitlyn41",
+    "joined_at": "2024-10-22T05:08:40.740693",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "26809c83-1e70-4581-a8f8-f9382e084a67",
+            "brand": "Bryant, Collier and Becker",
             "tasks_completed": [
                 {
                     "task_id": "c4453bbb-d6ac-4efb-89b3-6b33c65895e9",
-                    "platform": 123,
+                    "platform": "Instagram",
                     "post_url": "https://finished-papa.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5614,
+                    "comments": 73,
                     "shares": 26,
                     "reach": 6517
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8568.37
         }
     ]
 }

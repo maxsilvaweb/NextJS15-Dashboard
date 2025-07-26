@@ -1,26 +1,26 @@
 {
     "user_id": "576d125e-a322-4b01-9dd7-88d131d9df46",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Timothy Thompson",
+    "email": "carlos65@example.net",
+    "instagram_handle": "@mary63",
+    "tiktok_handle": "@bakerrichard",
+    "joined_at": "2024-01-29T14:53:37.997392",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8825e841-568c-4ddd-9df9-08a4bcc61d1a",
+            "brand": "Johnson Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7ead870f-9f61-4e11-9451-c70a58dd37c7",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.stewart.net/",
+                    "likes": 2970,
+                    "comments": 332,
                     "shares": 0,
                     "reach": 2099
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9671.41
         }
     ]
 }

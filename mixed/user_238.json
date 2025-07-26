@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "092cf7f7-5c36-49c6-a2aa-fee6d73eb545",
+    "name": "Lauren Pierce",
+    "email": "paulwagner@example.net",
+    "instagram_handle": "@josephaguirre",
     "tiktok_handle": "@Chloe.Kshlerin",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-10-10T18:57:32.208915",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1d4d1a0a-4ee0-421a-8fa1-69cf4754c1e0",
+            "brand": "Lee-Schneider",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dfd30cdb-3c59-407c-91f7-6f1c28a98546",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://estrada.com/",
+                    "likes": 3278,
+                    "comments": 156,
                     "shares": 11,
                     "reach": 8262
                 }

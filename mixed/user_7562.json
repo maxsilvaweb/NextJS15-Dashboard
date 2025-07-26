@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a1f41ea6-80ee-4ae2-9d8c-0f57f05d5704",
+    "name": "Matthew Ortiz",
     "email": "Jeromy57@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@cherylallen",
+    "tiktok_handle": "@sandramassey",
+    "joined_at": "2024-03-23T21:37:36.112046",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "8b0eba3e-ba88-4b52-9b63-31cf96dd6fe9",
             "brand": "Brown - Rosenbaum",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e7ee9a92-1bc7-490c-9c87-fa743d78dfc4",
                     "platform": "Instagram",
                     "post_url": "https://jagged-pepper.org/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 213,
+                    "comments": 162,
                     "shares": 8,
                     "reach": 4919
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 342.39
         }
     ]
 }

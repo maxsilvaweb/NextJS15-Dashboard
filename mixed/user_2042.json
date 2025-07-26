@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f71c9e0f-a3a8-42a5-9392-e4f1fc78ce14",
+    "name": "Zachary Jones",
+    "email": "tanyarose@example.org",
+    "instagram_handle": "@pmacias",
+    "tiktok_handle": "@morandevin",
+    "joined_at": "2024-07-18T13:24:16.848439",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "85f09599-0105-422f-9f87-6f8e528c1d4f",
+            "brand": "Gardner, Lindsey and Barr",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5fd23b1d-9b8f-43bd-8a9a-eab2a2e9aeba",
                     "platform": "Instagram",
                     "post_url": "https://forceful-video.org/",
-                    "likes": "NaN",
+                    "likes": 8722,
                     "comments": 42,
                     "shares": 32,
                     "reach": 4118
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4741.55
         }
     ]
 }

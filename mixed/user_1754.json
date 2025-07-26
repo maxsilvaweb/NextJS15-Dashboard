@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "15dc6643-e1d7-4c97-a8f7-ae65d96dea02",
+    "name": "Morgan Martinez",
     "email": "Jose89@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@ramirezalison",
+    "tiktok_handle": "@zwhitney",
+    "joined_at": "2023-10-04T13:12:31.655733",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4dc64303-b845-4b7f-9d19-8c814f10cfe2",
+            "brand": "Castillo, Wilson and Vasquez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "aee31c3d-389c-4498-9670-b9cee050899a",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.zavala.com/",
+                    "likes": 629,
                     "comments": 34,
                     "shares": 47,
                     "reach": 1220
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1477.46
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
     "user_id": "8864303c-a1a2-458e-a148-73f863abe2a9",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Elizabeth Harris",
+    "email": "angela17@example.net",
+    "instagram_handle": "@ifritz",
+    "tiktok_handle": "@jenniferblevins",
+    "joined_at": "2025-04-07T18:53:36.366626",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "245675fd-3b75-45de-9aa7-5f7811927d94",
+            "brand": "Powell, Nichols and Powell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ca9141e0-fa43-4b3a-9940-853249dc7e44",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://hernandez.info/",
+                    "likes": 4422,
+                    "comments": 357,
                     "shares": 35,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5099.47
         }
     ]
 }

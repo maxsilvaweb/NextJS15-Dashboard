@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "5d418e39-8d06-4c60-a068-579b51f33d27",
     "name": "Clint Corwin",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "email": "hernandezmargaret@example.org",
+    "instagram_handle": "@slee",
     "tiktok_handle": "@Bertrand.Lockman",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-07-07T05:46:30.195817",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5058ed49-8f2e-4234-8789-5ae193c9fe0b",
+            "brand": "Vasquez Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f8a4a942-8ee8-4ebd-93fa-f8293759afca",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://nichols-allen.com/",
+                    "likes": 7865,
+                    "comments": 262,
                     "shares": 0,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8733.85
         }
     ]
 }

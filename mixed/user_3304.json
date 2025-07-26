@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "db454518-3290-4cc5-8899-2eb0f235909d",
+    "name": "Eric Atkins",
+    "email": "aguilarrachel@example.org",
+    "instagram_handle": "@kevin77",
+    "tiktok_handle": "@emilyfischer",
+    "joined_at": "2023-10-30T18:25:05.360252",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fe764d12-47d0-4c98-bd07-22bf2fe715cc",
+            "brand": "Stephenson-Perry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4a807c9e-93e5-4afb-a387-5652c2258fdc",
                     "platform": "Instagram",
                     "post_url": "https://narrow-community.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3676,
+                    "comments": 41,
                     "shares": 9,
                     "reach": 7329
                 }

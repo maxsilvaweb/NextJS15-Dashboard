@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9763139b-cc89-4a42-a0d4-97ae307398e2",
+    "name": "Sarah Davis",
+    "email": "qstevenson@example.org",
+    "instagram_handle": "@kristenrichards",
+    "tiktok_handle": "@lucaschristian",
+    "joined_at": "2024-07-03T12:01:56.632950",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "0491bbf6-6784-4d8f-8918-53e0eac35b35",
             "brand": "Volkman Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ab40d99c-5b69-4f5e-b5fc-60965ba4b5b6",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.alvarez.com/",
+                    "likes": 2401,
+                    "comments": 440,
                     "shares": 71,
                     "reach": 6508
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9929.84
         }
     ]
 }

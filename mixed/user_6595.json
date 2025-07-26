@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "78e6cd91-4d41-4522-89f7-360d22418e4c",
     "name": "Sheryl Wunsch",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "rodriguezbeth@example.org",
+    "instagram_handle": "@diazelizabeth",
+    "tiktok_handle": "@johnvillanueva",
+    "joined_at": "2025-05-05T23:04:45.030549",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c5aa9dc1-ce8c-4d39-9dff-fca4753f91d5",
+            "brand": "Wright, Garcia and Soto",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a4480749-01aa-4ae4-a83b-dd37aec4b989",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://taylor.com/",
+                    "likes": 4013,
+                    "comments": 114,
                     "shares": 26,
                     "reach": 5688
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8686.57
         }
     ]
 }

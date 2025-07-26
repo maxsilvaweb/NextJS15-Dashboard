@@ -1,21 +1,21 @@
 {
-    "user_id": null,
+    "user_id": "3ca2607c-22c1-48c3-a083-7fc6f90e36f0",
     "name": "Juana Oberbrunner Sr.",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "john65@example.org",
+    "instagram_handle": "@janicehawkins",
+    "tiktok_handle": "@crystalmccullough",
+    "joined_at": "2024-09-24T18:23:26.033216",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fa7bfc68-494a-4014-9f61-f0c6060fa7de",
+            "brand": "Meyer, Hobbs and Griffin",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fa8f2cea-3de9-4a96-8dfc-73ae3421be25",
                     "platform": "Facebook",
                     "post_url": "https://ragged-season.org/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1741,
+                    "comments": 365,
                     "shares": 71,
                     "reach": 9737
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "69124591-4237-4b43-97be-7bb4aafed8a9",
+    "name": "Rodney Melton",
+    "email": "emily21@example.net",
+    "instagram_handle": "@flove",
     "tiktok_handle": "@Timmothy95",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-01-06T12:08:24.791917",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6c360643-0b07-4437-831d-3cd1e21cfc92",
+            "brand": "Howard Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "893eb72b-93fc-4513-8af4-7b54bc88790c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://vega.net/",
                     "likes": 41,
-                    "comments": null,
+                    "comments": 330,
                     "shares": 78,
                     "reach": 5411
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6338.62
         }
     ]
 }

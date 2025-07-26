@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "6db1dd81-ffdf-4795-b195-7aca0fec1a5c",
+    "name": "Kimberly Jackson",
+    "email": "jenniferreese@example.net",
+    "instagram_handle": "@idavis",
     "tiktok_handle": "@Teresa.Bashirian61",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-02-14T13:20:56.931171",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6df1aef6-68b6-49c0-a02a-7c18ab80b786",
+            "brand": "Moore PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3959d6b6-6261-48c4-b4f8-4fedc5b957ad",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://anderson.net/",
+                    "likes": 730,
                     "comments": 46,
                     "shares": 38,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4623.96
         }
     ]
 }

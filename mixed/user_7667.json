@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a6175af7-7d49-45ad-bf75-a3f0a5910453",
+    "name": "Mark Collins",
+    "email": "wwebb@example.net",
+    "instagram_handle": "@nelsonallison",
+    "tiktok_handle": "@tanya13",
+    "joined_at": "2024-11-26T23:37:19.068642",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a377dd2a-bcc2-47db-92a7-0857f445b61a",
+            "brand": "Baker, Prince and Reed",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "99cc0bdf-f156-410f-8e26-bb63a3f3b3d5",
+                    "platform": "Instagram",
+                    "post_url": "http://www.rodriguez.org/",
+                    "likes": 236,
+                    "comments": 445,
                     "shares": 21,
                     "reach": 8147
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9679.76
         }
     ]
 }

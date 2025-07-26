@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8d3949f9-6ec1-4fa0-aef4-a382761f1d5c",
+    "name": "Jon Church",
+    "email": "stephenbryant@example.net",
+    "instagram_handle": "@campbellkristen",
+    "tiktok_handle": "@georgecollins",
+    "joined_at": "2023-12-28T12:03:59.177220",
     "advocacy_programs": [
         {
             "program_id": "0c6d3331-2552-442b-8908-e9fa68aff864",
-            "brand": 12345,
+            "brand": "Anderson, Stanley and Brown",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "d3f8bc3b-cc06-44cd-9b84-e657c15cfdec",
+                    "platform": "TikTok",
+                    "post_url": "https://www.fox.com/",
                     "likes": 17,
                     "comments": 6,
                     "shares": 37,
                     "reach": 9218
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7301.2
         }
     ]
+}

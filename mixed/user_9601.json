@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "fd3c36f9-8dda-47d9-af69-5fecdd9fa8f0",
+    "name": "Gerald West",
     "email": "Estefania74@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@nortiz",
+    "tiktok_handle": "@tammylucas",
+    "joined_at": "2025-07-10T17:09:16.789762",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f09eaa7e-0ba4-4bff-8a27-a4b77714f8af",
+            "brand": "Sherman-Hardy",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2af48836-55c6-433d-abf3-71c72ea5bcab",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.pearson.com/",
+                    "likes": 1990,
+                    "comments": 294,
                     "shares": 81,
                     "reach": 8455
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5197.8
         }
     ]
 }

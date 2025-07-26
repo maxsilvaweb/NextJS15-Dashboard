@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "adf88d57-78f5-4d20-bf32-9261b94c8668",
+    "name": "Frank Schwartz",
+    "email": "shawn43@example.net",
+    "instagram_handle": "@darryl63",
+    "tiktok_handle": "@zachary82",
+    "joined_at": "2024-11-21T14:20:54.816405",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "73002e07-5557-4ef2-bf29-29effba72186",
+            "brand": "Barrera, Ross and Woods",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "51c22df2-d717-418f-aae9-56b696e5a803",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.fernandez.com/",
+                    "likes": 3030,
+                    "comments": 437,
                     "shares": 89,
                     "reach": 8787
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9773.19
         }
     ]
 }

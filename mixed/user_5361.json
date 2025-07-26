@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "30ea58ae-a0ca-4bff-9c48-39bc7989bcea",
     "name": "Brad Flatley",
     "email": "Jazmyne.Murazik77@gmail.com",
-    "instagram_handle": null,
+    "instagram_handle": "@astone",
     "tiktok_handle": "@Nicklaus27",
-    "joined_at": "not-a-date",
+    "joined_at": "2023-10-15T06:41:35.458671",
     "advocacy_programs": [
         {
             "program_id": "18f81f85-1dc6-46e2-94c2-7caecc62062f",
-            "brand": 12345,
+            "brand": "Liu-Morgan",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c2dc87b6-6927-48ef-9e53-e2d814e7d0fa",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://jacobs.com/",
+                    "likes": 9824,
+                    "comments": 358,
                     "shares": 75,
                     "reach": 1750
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4218.12
         }
     ]
 }

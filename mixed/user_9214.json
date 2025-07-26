@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "d8d69b04-c98e-41bb-8895-19ec74fa85e2",
+    "name": "Vanessa Martinez",
     "email": "Gina.Beahan73@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@trevorwilliams",
+    "tiktok_handle": "@robert50",
+    "joined_at": "2023-08-04T23:04:19.582190",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "08862781-1b95-4ed5-911f-b97bf57fb93d",
             "brand": "Carroll, Orn and D'Amore",
             "tasks_completed": [
                 {
                     "task_id": "9668e520-8148-450a-97a2-15194ad21d1d",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://hicks-taylor.com/",
+                    "likes": 7599,
+                    "comments": 387,
                     "shares": 93,
                     "reach": 1659
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7661.84
         }
     ]
 }

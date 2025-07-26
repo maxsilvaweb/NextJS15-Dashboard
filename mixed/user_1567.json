@@ -1,18 +1,18 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "73ffe43a-227d-4f81-b585-68fb3a85292e",
+    "name": "Jenny Hall",
+    "email": "vrobinson@example.net",
+    "instagram_handle": "@lisa78",
     "tiktok_handle": "@Libby_Hansen",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-11-01T18:53:00.641291",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ac9c3a66-cc8a-492f-ac0c-f30433eced22",
+            "brand": "Gonzalez-Simmons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "03d1e18e-846b-4454-95ea-4bf2ea08fbec",
+                    "platform": "TikTok",
                     "post_url": "https://official-release.com/",
                     "likes": 394,
                     "comments": 47,
@@ -20,7 +20,7 @@
                     "reach": 8291
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 433.34
         }
     ]
 }

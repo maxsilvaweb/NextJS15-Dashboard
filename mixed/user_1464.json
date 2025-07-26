@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "678968a8-3987-4630-b078-d05d3b289fa4",
+    "name": "Brett Carr",
+    "email": "millernicholas@example.net",
+    "instagram_handle": "@reneebarnes",
+    "tiktok_handle": "@gonzalezkimberly",
+    "joined_at": "2024-02-12T02:29:13.238610",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2c950811-017c-45aa-b9f5-99d81cfe0a63",
+            "brand": "Gutierrez Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "281c1387-c5d5-4413-88c7-881481e25903",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.cameron.com/",
+                    "likes": 451,
+                    "comments": 369,
                     "shares": 15,
                     "reach": 6206
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3440.66
         }
     ]
 }

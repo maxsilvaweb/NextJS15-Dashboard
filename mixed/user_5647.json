@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "a0a91554-b0d5-469d-9078-06432a3df6cd",
+    "name": "Nathan Martinez",
+    "email": "brittany39@example.net",
     "instagram_handle": "@Daphnee46",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@jeffrey71",
+    "joined_at": "2023-11-01T12:53:04.067486",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a8e3c854-c8ec-4f2c-a517-faba5853f8dc",
+            "brand": "French-Carroll",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d3cc40ec-54ad-4525-9a77-c3d9c80547a3",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.peterson.com/",
+                    "likes": 8742,
                     "comments": 6,
                     "shares": 13,
                     "reach": 6440
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5927.43
         }
     ]
 }

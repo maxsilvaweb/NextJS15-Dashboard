@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "531eb7fc-c8ba-4c40-84df-59a3677c204b",
+    "name": "Matthew Miller",
+    "email": "yperkins@example.com",
+    "instagram_handle": "@burchmelissa",
+    "tiktok_handle": "@phillipsdanielle",
+    "joined_at": "2023-08-21T16:22:42.477887",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8ae03fa4-2186-43b6-9083-9ee570c6ccf4",
+            "brand": "Hall-Turner",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e29e313e-58ba-43d6-bca1-8a25518dba87",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://alvarado.com/",
+                    "likes": 6751,
                     "comments": 19,
                     "shares": 17,
                     "reach": 8386
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 634.79
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1529c89b-5a7f-45af-b7d8-1993494cb61e",
+    "name": "Colin Mcmillan",
+    "email": "steven06@example.net",
+    "instagram_handle": "@dixonlauren",
+    "tiktok_handle": "@shannon52",
+    "joined_at": "2023-09-01T02:53:12.879435",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "35b4c0eb-a086-48d1-8756-be56c223d980",
+            "brand": "Villarreal-Barry",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "1932e523-0dd1-4657-80f6-aded5bdeebeb",
+                    "platform": "YouTube",
+                    "post_url": "https://www.nguyen.com/",
+                    "likes": 6308,
+                    "comments": 496,
                     "shares": 60,
                     "reach": 9460
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3216.33
         }
     ]
 }

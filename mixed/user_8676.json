@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "70da2c06-130e-4cce-b1e3-cfca91f74945",
+    "name": "Tiffany Reed",
     "email": "Mavis45@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@wilkinsmarco",
+    "tiktok_handle": "@velasquezkevin",
     "joined_at": "2024-10-01T00:56:12.836Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a19d4656-3048-4d10-ad59-e7bff49e1fc5",
+            "brand": "Arnold Inc",
             "tasks_completed": [
                 {
                     "task_id": "6d95e84c-957b-422a-a06b-89afdb801d75",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "YouTube",
+                    "post_url": "https://www.cooper-blake.biz/",
+                    "likes": 1563,
+                    "comments": 316,
                     "shares": 92,
                     "reach": 4893
                 }

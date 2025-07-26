@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f4481040-9ca2-4017-b49e-a32e20ef36be",
+    "name": "Nicholas Cannon",
+    "email": "julia45@example.org",
+    "instagram_handle": "@megancamacho",
+    "tiktok_handle": "@parkermark",
+    "joined_at": "2024-11-11T08:17:07.846508",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "12d8a692-90a3-4c45-ba6a-621e951f5264",
+            "brand": "Cabrera, Young and Ward",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "d302fea1-07ce-4ca2-87de-63905e8a5372",
+                    "platform": "Instagram",
+                    "post_url": "https://lowe-mccarty.org/",
+                    "likes": 8110,
+                    "comments": 245,
                     "shares": 34,
                     "reach": 6262
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3695.24
         }
     ]
+}

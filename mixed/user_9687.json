@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d1bcc73c-b57c-43b7-abc9-2ab17752fece",
+    "name": "Bryan Myers",
+    "email": "tonyrobinson@example.net",
+    "instagram_handle": "@william54",
+    "tiktok_handle": "@hschneider",
+    "joined_at": "2024-12-30T04:30:37.773188",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "beb3ab0b-31a8-41e1-a5f3-1735691a30b8",
+            "brand": "May, Perez and Owen",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "86177e36-d12d-44de-926c-776e8ced3e58",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.ayala-david.com/",
+                    "likes": 8197,
+                    "comments": 168,
                     "shares": 83,
                     "reach": 6105
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8084.65
         }
     ]
 }

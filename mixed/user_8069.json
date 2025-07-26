@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "964d3291-692f-46d1-9872-60288da48541",
+    "name": "Molly Cole",
+    "email": "karen79@example.com",
+    "instagram_handle": "@tiffanywright",
+    "tiktok_handle": "@markallen",
+    "joined_at": "2024-07-04T02:35:13.724473",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4ac3b1cf-9716-4c3c-a74c-5f40c34aff49",
+            "brand": "Calderon and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "42074824-9e77-4b82-b214-20fdf9aafbf2",
+                    "platform": "Twitter",
+                    "post_url": "http://www.cook.biz/",
+                    "likes": 5122,
+                    "comments": 397,
                     "shares": 92,
                     "reach": 5814
                 }

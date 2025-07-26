@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bf98de7d-8490-4b80-8d07-93657f38a75f",
+    "name": "Mr. Alexander Watson",
+    "email": "ericksonlisa@example.org",
+    "instagram_handle": "@lnguyen",
+    "tiktok_handle": "@johnstonisabel",
+    "joined_at": "2024-01-18T00:29:21.099519",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9ceef0a1-71cf-40f4-b5c0-7a91aaf69016",
+            "brand": "Wilson and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "205407f1-a857-4bee-ac8f-79216f2f3922",
+                    "platform": "TikTok",
+                    "post_url": "https://baker.net/",
                     "likes": 266,
-                    "comments": null,
+                    "comments": 27,
                     "shares": 71,
                     "reach": 1842
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 545.82
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "61e890aa-6a54-456c-9bf8-eb6ea4649afb",
+    "name": "Brandon Perkins",
     "email": "Violet1@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@bartonjoshua",
+    "tiktok_handle": "@mooremark",
+    "joined_at": "2023-12-03T05:55:50.634432",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7c3121d9-2884-49a3-beae-6ba9ff589462",
+            "brand": "Hoffman, Jackson and Riley",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "93167ec3-5d16-4f7f-998b-12daf4d0f452",
                     "platform": "TikTok",
                     "post_url": "https://mad-parsnip.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5338,
+                    "comments": 112,
                     "shares": 31,
                     "reach": 9998
                 }

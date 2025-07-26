@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c466dd7a-2fe9-4ccf-ac88-9ded76959d2f",
+    "name": "Timothy Wolfe",
+    "email": "pdavis@example.com",
+    "instagram_handle": "@william94",
+    "tiktok_handle": "@nicolereynolds",
+    "joined_at": "2025-06-02T18:56:17.808655",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "902b369e-75bc-4c4b-83a1-8674a5652de1",
+            "brand": "Ford, Hernandez and Reed",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a8f9f96b-172c-4766-8da2-c40c908d5428",
                     "platform": "Instagram",
                     "post_url": "https://shy-meander.info",
-                    "likes": "NaN",
+                    "likes": 1451,
                     "comments": 8,
                     "shares": 95,
                     "reach": 8972
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6434.11
         }
     ]
 }

@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "1cb47b93-2aee-4486-9588-4c0617e3cc14",
+    "name": "Jacob Mcneil",
+    "email": "allisonfisher@example.net",
+    "instagram_handle": "@matthewbullock",
     "tiktok_handle": "@Ellis_Ratke69",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-11-17T14:41:59.941114",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "da736cac-6854-49bb-8e48-be81b5685331",
+            "brand": "Johnson, Hicks and Harrison",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2f8dee8f-c212-4c6e-9596-cd591936313f",
                     "platform": "Instagram",
                     "post_url": "https://excited-tray.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 36,
+                    "comments": 59,
                     "shares": 54,
                     "reach": 9582
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2842.5
         }
     ]
+}

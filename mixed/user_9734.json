@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "db7a010f-d008-4aab-b427-b45cb72955c3",
+    "name": "Amanda Frazier",
+    "email": "jacob15@example.net",
+    "instagram_handle": "@gperez",
+    "tiktok_handle": "@fieldsjoy",
+    "joined_at": "2025-03-25T05:18:36.521792",
     "advocacy_programs": [
         {
             "program_id": "3034027d-38fa-4f40-be7a-eb77f49cef54",
-            "brand": 12345,
+            "brand": "Lowe-Davies",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e41707ab-8264-49ca-a68b-43e28a0c3b9d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.mills-burns.com/",
+                    "likes": 4529,
                     "comments": 5,
                     "shares": 29,
                     "reach": 1486

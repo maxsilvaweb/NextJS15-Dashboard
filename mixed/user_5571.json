@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "e889b757-ee82-48ef-b79a-b3680ba09cc4",
+    "name": "Bryan Garcia",
+    "email": "dickersonheather@example.net",
+    "instagram_handle": "@williamsedgar",
+    "tiktok_handle": "@kingjulie",
     "joined_at": "2024-10-06T07:20:55.355Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cb1eb93a-d0ab-46f7-8725-14d1b49401ad",
+            "brand": "Moss-Robinson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0a6c7e51-4b47-4ea8-9a2b-6b227308f3b5",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.smith.info/",
                     "likes": 160,
-                    "comments": null,
+                    "comments": 15,
                     "shares": 15,
                     "reach": 5705
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5055.06
         }
     ]
 }

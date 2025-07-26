@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fca22fa6-e466-4b86-ba51-346e4c0b3372",
+    "name": "Mary Ward",
+    "email": "castillogail@example.com",
+    "instagram_handle": "@rachel86",
+    "tiktok_handle": "@kbradshaw",
+    "joined_at": "2023-12-02T14:44:51.727942",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ad1cfc31-ab0d-4e82-8852-78d88f7e97ab",
+            "brand": "Taylor, Beard and Morgan",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cb751e35-c249-4f6d-b0c6-43f9188649e4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://payne-ford.net/",
+                    "likes": 9231,
+                    "comments": 440,
                     "shares": 17,
                     "reach": 3720
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9129.41
         }
     ]
+}

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cfb17d77-33d1-4468-8520-f8853a5b2fdb",
+    "name": "Valerie Donovan",
+    "email": "eduncan@example.org",
+    "instagram_handle": "@underwoodjoshua",
+    "tiktok_handle": "@samuelanthony",
+    "joined_at": "2024-09-29T20:41:45.086688",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fe3b3fe5-2562-4c29-9f69-fd6e99c9078c",
+            "brand": "Liu, Mccarthy and Whitney",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "19dfe4ab-2f1d-4b8a-b0f1-00d8a90ca292",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.carter-patterson.com/",
+                    "likes": 4656,
+                    "comments": 1,
                     "shares": 84,
                     "reach": 2655
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7716.46
         }
     ]
 }

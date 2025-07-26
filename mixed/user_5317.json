@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "06a31afa-48a9-49b0-bc80-4795d9312391",
+    "name": "Sara Carlson",
+    "email": "bschwartz@example.net",
+    "instagram_handle": "@chaneymichael",
+    "tiktok_handle": "@wsummers",
+    "joined_at": "2025-01-18T08:52:01.370576",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b0d7dcf3-2eb6-4329-85d0-4199f08710b1",
+            "brand": "Palmer-Pollard",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d62f1328-c9df-4a1a-9ce4-12c637fbe2da",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.gonzalez-beltran.com/",
+                    "likes": 1818,
                     "comments": 42,
                     "shares": 42,
                     "reach": 8441
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6211.57
         }
     ]
 }

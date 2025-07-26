@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "ed486c3a-a30c-466f-965c-fc49a9d1f385",
+    "name": "Stacey Becker",
     "email": "Kianna.Emmerich-Mante70@hotmail.com",
-    "instagram_handle": null,
+    "instagram_handle": "@cameron92",
     "tiktok_handle": "@Erich_Veum",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-03-04T13:08:13.827251",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c5c93718-47d4-4325-913b-889315030478",
+            "brand": "Stephens Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5bf0dee7-2f51-4446-af12-a377f1c77a2f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.perkins-hobbs.com/",
                     "likes": 198,
-                    "comments": null,
+                    "comments": 218,
                     "shares": 81,
                     "reach": 3718
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2624.62
         }
     ]
 }

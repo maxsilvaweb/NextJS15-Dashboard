@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "86b6f8aa-96ef-4daf-b636-9650e7009c89",
+    "name": "Jonathon Russo",
+    "email": "karen13@example.org",
+    "instagram_handle": "@courtney22",
+    "tiktok_handle": "@connor00",
     "joined_at": "2024-05-20T12:44:37.805Z",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "e7eeb840-d999-44b0-86d4-79dd6ce7210c",
             "brand": "Boehm, Block and Smitham",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "16c5a0f1-3ed0-45e0-a7f5-312653307a0a",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://cook.org/",
+                    "likes": 2650,
+                    "comments": 452,
                     "shares": 87,
                     "reach": 7206
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1914.23
         }
     ]
 }

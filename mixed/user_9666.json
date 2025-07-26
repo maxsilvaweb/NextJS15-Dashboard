@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "b4fbc7ba-a895-4f82-9e18-b80326d2afdd",
+    "name": "Stephanie Flynn",
+    "email": "eric68@example.com",
+    "instagram_handle": "@christopherjones",
+    "tiktok_handle": "@ocross",
     "joined_at": "2024-10-28T20:28:20.704Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "99af3919-8699-4e87-ba17-9d9982b7ab10",
+            "brand": "Henry-Kelly",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0c41243f-0916-40e4-8d5f-2d30b2df34ed",
                     "platform": "TikTok",
                     "post_url": "https://educated-fuel.com",
-                    "likes": "NaN",
+                    "likes": 6546,
                     "comments": 11,
                     "shares": 40,
                     "reach": 6201
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2124.5
         }
     ]
 }

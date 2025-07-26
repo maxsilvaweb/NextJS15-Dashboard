@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "fdf8e0b0-f41f-4046-a7ee-77532346cf2b",
+    "name": "Laura Gutierrez",
+    "email": "joselee@example.net",
     "instagram_handle": "@Leif_Bailey",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@huntashley",
+    "joined_at": "2024-03-11T13:56:40.585094",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "be624baf-340b-40ad-944d-fe48daa0f5a1",
+            "brand": "Shea-Davidson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "d7b9fcde-8b63-469a-8b5b-6d8c4edc329c",
+                    "platform": "TikTok",
+                    "post_url": "http://garcia-medina.com/",
+                    "likes": 608,
+                    "comments": 409,
                     "shares": 41,
                     "reach": 5009
                 }

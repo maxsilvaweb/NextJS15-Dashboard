@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f9a6589c-ed6a-4a84-9eb1-956f8d4d0f10",
+    "name": "James Lane",
+    "email": "melodycampos@example.net",
+    "instagram_handle": "@umartin",
+    "tiktok_handle": "@pricemadison",
+    "joined_at": "2024-07-09T19:12:18.265093",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5bf27b99-8f82-44e5-8482-c828f8aeefbb",
+            "brand": "Coffey Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b0f44114-92b1-4c73-bac3-a4c022d70909",
                     "platform": "Instagram",
                     "post_url": "https://winding-brace.biz",
-                    "likes": "NaN",
+                    "likes": 2552,
                     "comments": 18,
                     "shares": 6,
                     "reach": 8387

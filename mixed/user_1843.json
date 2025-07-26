@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "1deeef54-4dbf-409e-8b17-765f520987d0",
+    "name": "Antonio Williams",
     "email": "Triston_Cormier@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@sthompson",
+    "tiktok_handle": "@rodriguezjustin",
+    "joined_at": "2025-01-22T16:05:40.485023",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a16de3cc-f370-485c-b4b5-fbab31ab9655",
+            "brand": "Howard, Mccann and Roberts",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d9c42e7a-7cb9-4b99-81e9-d700c6e3601c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.thomas-gillespie.com/",
                     "likes": 122,
-                    "comments": null,
+                    "comments": 104,
                     "shares": 62,
                     "reach": 6173
                 }

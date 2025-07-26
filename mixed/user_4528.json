@@ -1,26 +1,26 @@
 {
     "user_id": "730f2718-a51f-4b33-93a2-9c540c6ecfa7",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Gregory Wagner MD",
+    "email": "brooke55@example.org",
+    "instagram_handle": "@nicholas19",
+    "tiktok_handle": "@xbrowning",
+    "joined_at": "2025-01-09T09:31:21.947602",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8da59dad-68d2-4505-95e3-136f3fe34e26",
+            "brand": "Lucas-Diaz",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "79852f44-ce98-4302-9ef5-55aa9ee98a6a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://castillo-anderson.com/",
+                    "likes": 2455,
+                    "comments": 476,
                     "shares": 2,
                     "reach": 2865
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4467.95
         }
     ]
 }

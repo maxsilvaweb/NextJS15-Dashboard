@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0e75ec2b-9014-4aa1-8822-3baaea0a04aa",
+    "name": "Justin Evans",
+    "email": "alexis74@example.net",
+    "instagram_handle": "@davishannah",
+    "tiktok_handle": "@robertbryant",
+    "joined_at": "2023-09-06T07:59:32.368563",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6105dd64-291a-40a7-94c7-3fe95bf0d92b",
+            "brand": "Chang, Rodriguez and Olson",
             "tasks_completed": [
                 {
                     "task_id": "6a6ba0be-690b-4314-97aa-3e42064ae5d9",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.rodriguez.com/",
+                    "likes": 447,
+                    "comments": 410,
                     "shares": 3,
                     "reach": 5612
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8993.73
         }
     ]
 }

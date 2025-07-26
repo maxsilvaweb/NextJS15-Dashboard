@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "0ddebfb8-1e81-409d-84c1-d2ea3d00fd6b",
+    "name": "Steven Mccarty",
     "email": "Shannon_Hamill-VonRueden@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@palmerlaura",
+    "tiktok_handle": "@stephanie07",
+    "joined_at": "2025-01-26T21:23:33.228280",
     "advocacy_programs": [
         {
             "program_id": "21a700b6-c971-4ccf-aa8a-17edf8b8e654",
-            "brand": 12345,
+            "brand": "Henry, Huynh and Elliott",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e24d7747-0992-4816-a5be-0bb0d11aa3af",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.macdonald-rhodes.com/",
+                    "likes": 3397,
+                    "comments": 329,
                     "shares": 14,
                     "reach": 7865
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7417.91
         }
     ]
 }

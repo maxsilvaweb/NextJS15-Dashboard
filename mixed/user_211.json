@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "60fc4235-6fc0-4060-a0aa-0d82bca32151",
+    "name": "James Nicholson",
     "email": "Gianni_Weber@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@wallacetammie",
+    "tiktok_handle": "@victorjohnson",
+    "joined_at": "2024-12-19T05:48:55.225973",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e3fdfd5d-5ac0-4fb6-a0ce-e923cb96170a",
+            "brand": "Wells, King and Daniels",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e3123244-78e9-4270-bc62-759b6b8c4633",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://parker-green.com/",
+                    "likes": 8498,
+                    "comments": 49,
                     "shares": 83,
                     "reach": 3274
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3471.59
         }
     ]
 }

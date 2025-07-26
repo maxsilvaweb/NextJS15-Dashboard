@@ -1,21 +1,21 @@
 {
-    "user_id": null,
+    "user_id": "9fc08abf-db62-4999-bb89-b1003a362e17",
     "name": "Miss Dora Franey PhD",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "graycindy@example.org",
+    "instagram_handle": "@udixon",
+    "tiktok_handle": "@fschroeder",
+    "joined_at": "2023-08-23T15:26:56.448337",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1117fc02-de0b-4bb8-b328-1889a56059de",
+            "brand": "Martinez-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f8eff530-6955-424e-88a4-b3cee6b61438",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://wood-porter.com/",
+                    "likes": 8289,
+                    "comments": 491,
                     "shares": 59,
                     "reach": 7077
                 }

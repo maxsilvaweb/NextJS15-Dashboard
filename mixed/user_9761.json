@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aec37f5b-8633-4d79-a6cd-c7919a57d0f5",
+    "name": "John Cook",
+    "email": "skelly@example.net",
+    "instagram_handle": "@jennifer04",
+    "tiktok_handle": "@alex22",
+    "joined_at": "2025-05-26T05:38:31.729183",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "5a7a13b7-e82f-4bf8-b5ee-15c7619a72ab",
             "brand": "Schowalter Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6e5d90dc-cae7-4bdd-973b-b46bf1052d80",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.porter-wright.org/",
+                    "likes": 2194,
+                    "comments": 314,
                     "shares": 57,
                     "reach": 4604
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 937.07
         }
     ]
 }

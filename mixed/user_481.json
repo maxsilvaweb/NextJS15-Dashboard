@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "6933337d-1158-4648-be7a-75351868bdf2",
+    "name": "Jesse Jordan",
     "email": "Mohammad95@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@hesslucas",
+    "tiktok_handle": "@andrew22",
+    "joined_at": "2023-09-13T02:41:54.030589",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "41d7879c-050c-45ad-bee7-5c33cc4b3d00",
+            "brand": "Blake Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "357a8fc0-99c9-45c2-a333-5570b8425b09",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://fernandez-torres.com/",
+                    "likes": 7873,
+                    "comments": 435,
                     "shares": 67,
                     "reach": -1000
                 }

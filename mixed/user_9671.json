@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "04030708-bcdd-4afe-a14f-6c7ab3fe42df",
+    "name": "David Miller",
+    "email": "jacobevans@example.org",
+    "instagram_handle": "@dawnbarton",
+    "tiktok_handle": "@graygeorge",
+    "joined_at": "2024-04-09T10:42:01.819905",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c59b0b5a-9c44-4288-a746-b55577d1298f",
+            "brand": "Cole, Campbell and Castillo",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a80a8adb-4411-4eaa-87e8-85d35af778d2",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://simpson.com/",
+                    "likes": 2713,
+                    "comments": 474,
                     "shares": 3,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7203.06
         }
     ]
 }

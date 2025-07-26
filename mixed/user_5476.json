@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "f2fd5e46-abad-4fba-bb1b-b3f29af9e170",
+    "name": "Paula Elliott",
+    "email": "reynoldsmark@example.com",
+    "instagram_handle": "@carloswilkins",
+    "tiktok_handle": "@david37",
     "joined_at": "2024-09-30T22:15:12.255Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bc6e75bb-efd8-4ce4-a211-3738678831c5",
+            "brand": "Pugh, Rodriguez and Medina",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "56a9eb33-5a69-4cff-a33b-1eb5b7c839ff",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.hardin.com/",
+                    "likes": 6212,
                     "comments": 37,
                     "shares": 57,
                     "reach": 5319

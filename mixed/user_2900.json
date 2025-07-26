@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4def9479-6fed-4cd1-9460-66db01fb1d26",
+    "name": "Bradley Pacheco",
+    "email": "vcummings@example.net",
+    "instagram_handle": "@kingcindy",
+    "tiktok_handle": "@angela57",
+    "joined_at": "2024-07-17T14:54:37.744979",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "25c4915d-3c0c-4bb3-a619-2d7077523945",
+            "brand": "Young, Dixon and Wise",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "54cd029d-4274-456f-a5f2-5a9363dc3c48",
+                    "platform": "Instagram",
+                    "post_url": "https://www.banks.info/",
+                    "likes": 3808,
+                    "comments": 260,
                     "shares": 97,
                     "reach": 9592
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4457.41
         }
     ]
 }

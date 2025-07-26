@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3a17caf5-10f1-4d0a-abd2-dcda4350e4ae",
+    "name": "Pamela Potter",
+    "email": "shannoncastillo@example.net",
+    "instagram_handle": "@elizabeth77",
+    "tiktok_handle": "@joseph46",
+    "joined_at": "2025-06-28T08:52:16.157798",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "25c1f255-50b1-4177-a355-46ceb15b621f",
+            "brand": "Campbell-Wu",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "93db1e61-75d1-4418-9c85-d5e7e5d6b038",
+                    "platform": "YouTube",
+                    "post_url": "https://www.hughes-ellis.info/",
+                    "likes": 4905,
+                    "comments": 9,
                     "shares": 65,
                     "reach": 3009
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 4290.433241861629
         }
     ]
+}

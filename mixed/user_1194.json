@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b32d07f6-1f45-4b9a-a863-6d60de57649d",
+    "name": "Tracy Stewart",
+    "email": "plopez@example.org",
+    "instagram_handle": "@evansanthony",
+    "tiktok_handle": "@yperez",
+    "joined_at": "2025-07-20T06:19:18.553793",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e71c7412-ede4-48fa-a8af-6d9da84cf8aa",
+            "brand": "Santiago, Mckinney and Mcdonald",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "bed98031-cf12-48e5-98ac-c2d7a5a79cdd",
+                    "platform": "YouTube",
+                    "post_url": "https://www.young.com/",
+                    "likes": 4218,
                     "comments": 5,
                     "shares": 7,
                     "reach": 6051
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4573.9
         }
     ]
 }

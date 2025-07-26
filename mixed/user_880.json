@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "854ba590-0558-42e7-a835-cb296dc8d2e2",
+    "name": "Stephanie Collins",
+    "email": "pgarcia@example.net",
+    "instagram_handle": "@melissawiggins",
+    "tiktok_handle": "@sabrina21",
+    "joined_at": "2024-07-14T09:34:39.703314",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "91b19f08-0626-495d-9193-eca219177745",
             "brand": "Abbott Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "947deb86-1ed5-4f4d-a85c-67a8424825b3",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.henderson-dodson.net/",
+                    "likes": 7555,
+                    "comments": 80,
                     "shares": 82,
                     "reach": 9543
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7339.53
         }
     ]
 }

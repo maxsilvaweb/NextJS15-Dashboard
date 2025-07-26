@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "c5fa2723-c524-4e21-a187-1e7526fdfc50",
+    "name": "Jeffrey Price",
     "email": "Nayeli.Hintz38@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@bruce15",
+    "tiktok_handle": "@mdavis",
+    "joined_at": "2024-06-05T07:47:23.822009",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ee05432e-ff3a-47d1-a97e-3eefb0799db3",
+            "brand": "Jackson-Walker",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e7c08e93-f540-4004-befa-d530e36de29a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://cisneros-crosby.com/",
+                    "likes": 4653,
                     "comments": 39,
                     "shares": 91,
                     "reach": 2236
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6788.81
         }
     ]
 }

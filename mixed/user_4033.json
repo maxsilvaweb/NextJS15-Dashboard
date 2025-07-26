@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "5076994c-fa0a-4c9d-881b-35e398ae40ba",
+    "name": "Steven Ferguson",
+    "email": "scott38@example.org",
+    "instagram_handle": "@wrightderek",
     "tiktok_handle": "@Catharine96",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-09-12T04:27:59.054375",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3398f4e4-c2b9-488c-9578-41c191cd9817",
+            "brand": "Stanton, Alexander and Lester",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2ed6b8aa-37be-4877-b9b3-ab541c76bc8c",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://brooks-nichols.org/",
+                    "likes": 1183,
+                    "comments": 418,
                     "shares": 71,
                     "reach": 8117
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7547.63
         }
     ]
 }

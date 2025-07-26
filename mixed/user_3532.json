@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3c2d32d2-390a-4027-9a67-66de6e23fa34",
+    "name": "Sherry Johnson",
+    "email": "michael90@example.org",
+    "instagram_handle": "@ksmith",
+    "tiktok_handle": "@justin38",
+    "joined_at": "2025-06-23T10:30:34.931155",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "709ef365-cbfd-476d-8f28-05342d8f97af",
+            "brand": "Johnston LLC",
             "tasks_completed": [
                 {
                     "task_id": "67feb5d6-2911-4435-a8e6-7f039aff8128",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://stein.com/",
+                    "likes": 9923,
                     "comments": 33,
                     "shares": 64,
                     "reach": 3030
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6027.64
         }
     ]
 }

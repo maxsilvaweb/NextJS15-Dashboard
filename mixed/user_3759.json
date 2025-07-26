@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cf3f16c5-b201-4cc2-b148-b785134487fc",
+    "name": "Brandon Hoffman",
+    "email": "hbaxter@example.org",
+    "instagram_handle": "@brenda04",
+    "tiktok_handle": "@cking",
+    "joined_at": "2025-04-08T21:37:15.055407",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8dbb14a1-9585-4d4f-8778-b0d1eef5fbac",
+            "brand": "Rodriguez-Jordan",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "ab9111cf-d8e2-4013-86d5-9c494e7042be",
+                    "platform": "Instagram",
+                    "post_url": "https://www.benson-zavala.com/",
+                    "likes": 2335,
                     "comments": 33,
                     "shares": 23,
                     "reach": 2769
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3618.48
         }
     ]
 }

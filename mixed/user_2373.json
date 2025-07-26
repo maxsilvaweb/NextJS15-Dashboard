@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c573c303-ade1-49ca-87db-48ec37d4b78b",
+    "name": "Sarah Adams",
+    "email": "angela39@example.org",
+    "instagram_handle": "@warnerkara",
+    "tiktok_handle": "@anthony28",
+    "joined_at": "2025-06-08T17:33:40.975810",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5cd710a4-ea68-4a04-ad86-7038e2804e1a",
+            "brand": "Burke, Delgado and Parker",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "4f8e7a35-e59d-492f-9d6e-41c07644a804",
+                    "platform": "Instagram",
+                    "post_url": "http://www.rodriguez-ballard.com/",
                     "likes": 192,
                     "comments": 41,
                     "shares": 98,
                     "reach": 5004
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2195.71
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f3d5c43f-bbf4-48b2-a7fa-45268656ae8b",
+    "name": "Michael Sanders",
+    "email": "morrisonmelissa@example.com",
+    "instagram_handle": "@gdouglas",
+    "tiktok_handle": "@nicholas71",
+    "joined_at": "2024-03-26T02:20:45.141943",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "be3f0621-011f-4f43-8e7e-579313161ea2",
+            "brand": "Jones Ltd",
             "tasks_completed": [
                 {
                     "task_id": "69535588-58ca-46e1-9be8-b3bdbf68fedf",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.wilson.info/",
+                    "likes": 2032,
+                    "comments": 323,
                     "shares": 78,
                     "reach": 7751
                 }

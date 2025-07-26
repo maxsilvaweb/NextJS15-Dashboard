@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "0d98ad9f-efb2-4337-86f5-0e4e7ff36a27",
+    "name": "Kenneth Ferguson",
     "email": "Elisha_Stanton@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@eric19",
+    "tiktok_handle": "@phillip92",
+    "joined_at": "2025-06-29T06:28:35.851985",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ffee1f8f-6710-497f-b7e6-b3dade77bbee",
+            "brand": "Wagner-Wheeler",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "9eba73a8-cef0-422e-ae45-c003b5b04938",
+                    "platform": "YouTube",
+                    "post_url": "http://escobar-jones.net/",
+                    "likes": 4029,
                     "comments": 33,
                     "shares": 47,
                     "reach": 6856
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4605.12
         }
     ]
 }

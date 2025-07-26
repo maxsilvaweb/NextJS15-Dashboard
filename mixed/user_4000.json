@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "59ce729e-eb22-4260-ae89-689820fc89d6",
+    "name": "Karl Nelson",
+    "email": "freemanpatrick@example.org",
+    "instagram_handle": "@diane73",
+    "tiktok_handle": "@theresa81",
+    "joined_at": "2023-08-22T10:36:46.722396",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c2a8aa6b-7eb7-43c2-a0f5-7a9f3eea5f43",
+            "brand": "Guerrero Group",
             "tasks_completed": [
                 {
                     "task_id": "e6e4b657-4bc9-412e-b777-07ba56887571",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "YouTube",
+                    "post_url": "http://www.brown.com/",
+                    "likes": 7326,
+                    "comments": 76,
                     "shares": 46,
                     "reach": 6726
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1520.42
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae39",
-  "name": "Max Silva390000",
-  "email": "maxsilvvauk@39wwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae39",
+    "name": "Max Silva390000",
+    "email": "maxsilvvauk@39wwilwweeewd.com",
+    "instagram_handle": "@ashley74",
+    "tiktok_handle": "@achurch",
+    "joined_at": "2024-11-03T08:49:06.241010",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "c8aef854-7fd3-4617-a0e3-9692dc9fcdc5",
+            "brand": "Williams, Smith and Jensen",
+            "tasks_completed": [
+                {
+                    "task_id": "53de1ac9-8d20-42ef-9746-1f82d669f8c9",
+                    "platform": "TikTok",
+                    "post_url": "https://webb.info/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 5083.94
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

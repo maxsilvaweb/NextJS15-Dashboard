@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "075f5e18-bcae-4d0b-afac-7fae4fe89fcd",
+    "name": "Henry Cox",
+    "email": "ttran@example.com",
+    "instagram_handle": "@fmorrison",
+    "tiktok_handle": "@nferguson",
     "joined_at": "2025-01-08T06:43:17.443Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d3ab1635-81e5-47e9-9162-6a292f6a1395",
+            "brand": "Jackson-Oliver",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "bb95347b-8546-4644-b222-9c7d9331c645",
+                    "platform": "Instagram",
+                    "post_url": "http://barnett-ellis.net/",
                     "likes": 140,
                     "comments": 41,
                     "shares": 17,
                     "reach": 5544
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3478.52
         }
     ]
 }

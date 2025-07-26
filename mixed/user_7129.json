@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e0dbc6fe-d39f-4fe7-a266-9f027d29ad8e",
+    "name": "Tiffany Fischer",
+    "email": "william44@example.org",
+    "instagram_handle": "@kmurphy",
+    "tiktok_handle": "@browndanielle",
+    "joined_at": "2023-12-26T19:55:23.963122",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "070e67a7-5c35-4571-ad35-ffcadbf4e712",
+            "brand": "Stewart-Jenkins",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "696b7c10-37ca-4066-b708-2fa6739a4391",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.hawkins.biz/",
+                    "likes": 7208,
                     "comments": 40,
                     "shares": 80,
                     "reach": 6769
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 664.5
         }
     ]
 }

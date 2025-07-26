@@ -1,20 +1,20 @@
 {
-    "user_id": null,
+    "user_id": "9f342cef-5270-47b9-9e46-3601882eb75a",
     "name": "Michele Padberg",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "agonzalez@example.net",
+    "instagram_handle": "@roger84",
+    "tiktok_handle": "@deleonmargaret",
+    "joined_at": "2024-12-20T09:06:45.794554",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c8beea38-1856-44f0-8ee3-5fd6ef97b98f",
+            "brand": "Daniels-Rojas",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "91734c38-2a0f-470a-8bf0-dcf4174f7de6",
                     "platform": "Facebook",
                     "post_url": "https://well-lit-obedience.name",
-                    "likes": "NaN",
+                    "likes": 1203,
                     "comments": 34,
                     "shares": 41,
                     "reach": 3348

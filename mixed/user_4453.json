@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0c96a35b-cab7-45ad-b005-1e63aedae4a8",
+    "name": "Mark Smith",
+    "email": "ortizkevin@example.org",
+    "instagram_handle": "@kathryngoodman",
+    "tiktok_handle": "@npeterson",
+    "joined_at": "2025-07-24T12:16:57.122186",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "830efe2e-57d9-432d-82db-e8e4e12d0520",
+            "brand": "Nicholson Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0824c8e2-e3f6-4885-9c01-8f21097bd763",
                     "platform": "Facebook",
                     "post_url": "https://jittery-pilot.info/",
-                    "likes": "NaN",
+                    "likes": 4318,
                     "comments": 40,
                     "shares": 92,
                     "reach": 6944
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2526.59
         }
     ]
 }

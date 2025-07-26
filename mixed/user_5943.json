@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "dc45e083-9593-46a3-9994-a3b380529473",
+    "name": "Michelle Mendoza",
+    "email": "ghughes@example.com",
+    "instagram_handle": "@david52",
+    "tiktok_handle": "@uduffy",
     "joined_at": "2024-09-01T12:15:59.685Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bf3e842f-9c10-48b6-b5ba-9c55394d93d2",
+            "brand": "Jackson, Garcia and Warren",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8e530ccb-152c-4a53-8042-1ed3b42dd5f5",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://weber.com/",
+                    "likes": 9649,
                     "comments": 47,
                     "shares": 71,
                     "reach": 8284
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 198.23
         }
     ]
+}

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "0c193f60-4781-434d-8990-c3e43064d9d7",
+    "name": "Maureen Fernandez",
+    "email": "marystrickland@example.org",
+    "instagram_handle": "@fmoore",
+    "tiktok_handle": "@karen11",
     "joined_at": "2024-09-29T23:34:39.227Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "87cc4e64-077f-4837-8b0f-28b516f67177",
+            "brand": "Maldonado Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bad63a9f-7b6d-4c63-a22e-7fc6decf6061",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.fowler.net/",
                     "likes": 414,
-                    "comments": null,
+                    "comments": 282,
                     "shares": 17,
                     "reach": 1377
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 964.51
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "94138f6c-9dda-4b61-98c0-17919c7349e7",
+    "name": "Erin Baker",
+    "email": "adam50@example.com",
+    "instagram_handle": "@mrichardson",
+    "tiktok_handle": "@nathan95",
     "joined_at": "2025-02-03T01:43:05.959Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e2b7b564-4122-4baf-972d-836ec6ea884b",
+            "brand": "Smith, Taylor and Oneal",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "418f3548-bd09-438e-9974-bd4552365f97",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://baker-ward.com/",
+                    "likes": 3902,
+                    "comments": 431,
                     "shares": 89,
                     "reach": 5591
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4300.08
         }
     ]
 }

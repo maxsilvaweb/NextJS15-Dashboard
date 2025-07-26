@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "dfcc065b-2d43-4505-9534-2d302972694c",
+    "name": "Scott Combs",
     "email": "Gerardo_Swaniawski@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@rebecca09",
+    "tiktok_handle": "@qrivera",
+    "joined_at": "2024-07-05T11:32:59.129139",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "69ccd557-f0c5-4083-95c4-82f82cbd276f",
+            "brand": "Howard Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d3aca460-426d-468c-96b1-ca430cfbb981",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.palmer.com/",
+                    "likes": 6388,
                     "comments": 44,
                     "shares": 69,
                     "reach": 1675
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3377.8
         }
     ]
 }

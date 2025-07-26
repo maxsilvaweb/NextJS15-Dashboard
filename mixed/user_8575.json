@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "49c348d0-7a1f-4426-9589-59a5c0f8cca8",
+    "name": "John Cunningham",
     "email": "Britney11@yahoo.com",
     "instagram_handle": "@Bret.Crooks",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@jennifermontes",
+    "joined_at": "2025-04-27T21:36:06.991724",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "282f51b3-546a-4bb1-870e-fde98b29cb93",
+            "brand": "Vaughn, Wells and Reynolds",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "012edf8d-6385-47f2-aa32-5f2d240d17e5",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.short.org/",
+                    "likes": 9243,
+                    "comments": 0,
                     "shares": 31,
                     "reach": 3577
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8698.34
         }
     ]
 }

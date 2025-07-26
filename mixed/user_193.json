@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f4f93be5-b96f-4771-9941-d4801d4d9051",
+    "name": "Melissa Williams",
+    "email": "houstonstephanie@example.org",
+    "instagram_handle": "@tcharles",
+    "tiktok_handle": "@bradleygonzalez",
+    "joined_at": "2024-07-24T01:55:05.783243",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f39deb1e-8ccc-424c-aac9-aabaa20dfc8f",
+            "brand": "Vargas Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "efab6532-66d0-4949-9c8f-6803d70cebee",
+                    "platform": "Twitter",
                     "post_url": "https://defenseless-expansion.com",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1950,
+                    "comments": 241,
                     "shares": 69,
                     "reach": 5746
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6223.08
         }
     ]
 }

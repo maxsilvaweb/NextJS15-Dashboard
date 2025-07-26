@@ -1,26 +1,26 @@
 {
     "user_id": "13cf89f2-0d7c-47d1-bc51-625e4ad45691",
-    "name": "???",
+    "name": "Virginia Allison",
     "email": "Donnie38@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@walshaustin",
+    "tiktok_handle": "@jenniferlyons",
+    "joined_at": "2024-03-11T14:10:22.173810",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0c7b5fcf-4fba-47dc-9174-8d2df09af893",
+            "brand": "Maxwell PLC",
             "tasks_completed": [
                 {
                     "task_id": "bd246d19-2db0-472c-acfe-b30b9a0ae4f0",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://delgado-davis.biz/",
+                    "likes": 40,
                     "comments": 7,
                     "shares": 73,
                     "reach": 1826
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6462.94
         }
     ]
 }

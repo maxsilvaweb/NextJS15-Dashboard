@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "f86467a6-3986-4706-a30a-41003079232d",
+    "name": "Alexis Harrison",
+    "email": "stephanie48@example.net",
     "instagram_handle": "@Zula6",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@cryan",
+    "joined_at": "2025-01-20T19:10:53.638604",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ffc7737e-df13-442a-9405-7d421f828e9e",
+            "brand": "Stark, Henderson and Hutchinson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "8705d928-2bb4-415a-ab77-9c9581f3352c",
+                    "platform": "Twitter",
                     "post_url": "https://outstanding-slime.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7657,
+                    "comments": 498,
                     "shares": 29,
                     "reach": 8197
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8933.45
         }
     ]
 }

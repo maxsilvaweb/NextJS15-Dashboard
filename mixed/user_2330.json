@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2d0514d6-9317-41df-a9de-728fdc8883f5",
+    "name": "Desiree Swanson",
+    "email": "brittanywhite@example.org",
+    "instagram_handle": "@westgina",
+    "tiktok_handle": "@nclark",
+    "joined_at": "2023-08-27T15:40:37.627443",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "20c17c98-849b-4f1d-9976-7edace08f505",
             "brand": "Rowe - Parisian",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ccbc3834-1c1a-4d6b-b033-f694a2803be6",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.rollins-barnes.org/",
                     "likes": 453,
                     "comments": 33,
                     "shares": 90,

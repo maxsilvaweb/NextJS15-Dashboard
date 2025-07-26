@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "67c3f4ed-a162-46a0-ad31-9f6656ef7f94",
+    "name": "Michele Miller",
+    "email": "jermainemartinez@example.net",
+    "instagram_handle": "@jjohnson",
+    "tiktok_handle": "@rachel76",
+    "joined_at": "2025-06-20T22:25:46.279909",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "914f7d1e-d728-4002-85a2-019fc0f6fd65",
+            "brand": "Lin, Patterson and Spence",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ceebd10d-ecdc-4df5-98b6-e7dfebaecb40",
                     "platform": "TikTok",
                     "post_url": "https://crushing-bid.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 627,
+                    "comments": 36,
                     "shares": 87,
                     "reach": 8808
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5374.47
         }
     ]
+}

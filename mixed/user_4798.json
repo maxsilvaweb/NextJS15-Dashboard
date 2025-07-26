@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "328c2682-1831-4187-8e52-d3b966b8e30b",
+    "name": "Matthew Duncan",
+    "email": "mryan@example.com",
+    "instagram_handle": "@jenkinselizabeth",
+    "tiktok_handle": "@mpatel",
+    "joined_at": "2025-05-22T06:37:44.895030",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4c0b900a-2db7-4f46-ab37-5c7f81e19f27",
+            "brand": "Chung, Martin and Fisher",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "500dec4e-af6e-4f9f-b941-cfc3bc23480f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.brooks-conley.com/",
+                    "likes": 3874,
+                    "comments": 236,
                     "shares": 90,
                     "reach": 4514
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2559.4
         }
     ]
 }

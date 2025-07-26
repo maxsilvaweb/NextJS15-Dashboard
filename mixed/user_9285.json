@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aedff322-5dd9-4a0d-a807-428cf2d1f898",
+    "name": "Danielle Brown",
+    "email": "thompsonsusan@example.net",
+    "instagram_handle": "@bstewart",
+    "tiktok_handle": "@robyn58",
+    "joined_at": "2024-07-07T12:33:47.654811",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "17001917-5d07-48a6-af11-205dea06c175",
+            "brand": "Morris LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "e1099fc8-9da6-4225-a14d-707edcbd43da",
+                    "platform": "Instagram",
+                    "post_url": "https://www.lopez-allen.biz/",
+                    "likes": 8567,
+                    "comments": 119,
                     "shares": 33,
                     "reach": 5895
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6099.78
         }
     ]
 }

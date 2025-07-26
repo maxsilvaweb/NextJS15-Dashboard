@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "be2cf11a-5e00-435e-a340-639abfb95de7",
+    "name": "Nancy Marks",
+    "email": "jessestanley@example.org",
+    "instagram_handle": "@vincent38",
+    "tiktok_handle": "@angelmorgan",
+    "joined_at": "2024-11-01T05:16:37.000980",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a25fd673-f41b-4b58-97b2-e0d4ab43aa5d",
+            "brand": "Zimmerman-Bernard",
             "tasks_completed": [
                 {
                     "task_id": "70b9a199-c6d8-4e1a-9a00-7b4bf064dfe8",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://jenkins.com/",
                     "likes": 497,
-                    "comments": null,
+                    "comments": 305,
                     "shares": 56,
                     "reach": 1345
                 }

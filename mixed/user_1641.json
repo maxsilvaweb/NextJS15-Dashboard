@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6bc30eda-3e15-4e7a-a8f8-db4a05ddb7f3",
+    "name": "Janice Villarreal",
+    "email": "gregorymcmillan@example.org",
+    "instagram_handle": "@erikaparker",
+    "tiktok_handle": "@ywalters",
+    "joined_at": "2024-09-26T20:48:09.074661",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b28ad03d-179d-47fa-9357-086d5021336a",
+            "brand": "Bailey-Frye",
             "tasks_completed": [
                 {
                     "task_id": "fb68b999-d4ed-4df7-a2bc-221aa26af2fd",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.burgess.com/",
                     "likes": 474,
                     "comments": 19,
                     "shares": 31,
                     "reach": 6904
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4027.65
         }
     ]
 }

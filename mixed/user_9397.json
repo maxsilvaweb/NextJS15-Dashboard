@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "16fbb931-12c7-4c62-9182-ee5f8de2fc77",
+    "name": "Erica Smith",
+    "email": "amber09@example.net",
     "instagram_handle": "@Cheyanne.Schroeder",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@brenda91",
+    "joined_at": "2025-06-28T00:52:56.221677",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "94c52fd8-59c4-43b8-b608-8b0ade2658fb",
+            "brand": "Khan, Snyder and Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a4594f93-98ca-4c3d-8b8f-f159c6bd3598",
                     "platform": "Facebook",
                     "post_url": "https://instructive-championship.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8347,
+                    "comments": 44,
                     "shares": 55,
                     "reach": 9760
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9032.63
         }
     ]
 }

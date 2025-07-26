@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "118a5334-6a1e-4aa9-979d-51e9c7a18f7e",
+    "name": "Samantha Phillips",
+    "email": "gonzalezcourtney@example.net",
+    "instagram_handle": "@ynewman",
+    "tiktok_handle": "@james34",
+    "joined_at": "2025-05-02T08:14:28.971908",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "9e8bf8d3-521e-4a0b-aa8d-926b8dc454a3",
             "brand": "Kilback - Schroeder",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9a0ae53d-9eaf-4a89-adc9-dfe6be2e8cc6",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://ramirez.net/",
                     "likes": 179,
-                    "comments": null,
+                    "comments": 58,
                     "shares": 19,
                     "reach": 638
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3141.62
         }
     ]
 }

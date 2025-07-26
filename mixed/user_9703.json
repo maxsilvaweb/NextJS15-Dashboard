@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ab7b5d4a-6f89-4b31-878c-dba997b8bd50",
+    "name": "Crystal Smith",
+    "email": "frank03@example.com",
+    "instagram_handle": "@davidlivingston",
+    "tiktok_handle": "@ramseyalexandria",
+    "joined_at": "2025-01-16T15:05:33.599915",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "29b8bf77-b133-4631-8911-d8ca9ded980c",
             "brand": "Bauch, Mann and Rice",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8dfde753-e79c-463f-a521-4236522d3f38",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://huang.com/",
+                    "likes": 9489,
+                    "comments": 158,
                     "shares": 78,
                     "reach": 3651
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 419.05
         }
     ]
 }

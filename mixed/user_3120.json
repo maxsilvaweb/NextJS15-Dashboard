@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c75afaae-02a4-4b43-af74-49d7b6582fbb",
+    "name": "Linda Jones",
+    "email": "garzajeffrey@example.net",
+    "instagram_handle": "@adamsmonica",
+    "tiktok_handle": "@allenjeremiah",
+    "joined_at": "2024-06-08T01:35:35.397625",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7b373458-b98f-4285-8a2e-164af156a012",
+            "brand": "Sanchez, Wallace and Norris",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "cbf24594-be92-4ba3-ab73-3aa9500923bd",
+                    "platform": "YouTube",
+                    "post_url": "https://chan.com/",
+                    "likes": 7378,
+                    "comments": 177,
                     "shares": 67,
                     "reach": 4762
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6404.35
         }
     ]
 }

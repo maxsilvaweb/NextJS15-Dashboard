@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "257e11f2-9285-4fba-b55c-4ea2f0ac88e0",
+    "name": "Christine Chandler",
+    "email": "alyssasmith@example.com",
+    "instagram_handle": "@pyang",
+    "tiktok_handle": "@courtney46",
+    "joined_at": "2025-01-01T04:03:32.237469",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fd600f01-7cd4-44e5-b46a-8f06fcfb5149",
+            "brand": "Cannon Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cb958a71-052c-4404-adbf-686520d24d28",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://bryan-smith.info/",
                     "likes": 254,
-                    "comments": null,
+                    "comments": 319,
                     "shares": 45,
                     "reach": 5800
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5603.48
         }
     ]
 }

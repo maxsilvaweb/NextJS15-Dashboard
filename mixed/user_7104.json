@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a0a47b11-a233-415c-982d-c403759237ae",
+    "name": "Allen Burton",
+    "email": "stevenwilliams@example.com",
+    "instagram_handle": "@xwatson",
+    "tiktok_handle": "@matthew81",
+    "joined_at": "2023-09-20T10:03:42.273773",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "68ba3f8a-6b9f-48fb-abf2-64fc946c20fa",
+            "brand": "Mcgrath-Lambert",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "70e9fd56-1650-4fd1-8e2c-cd4c4825de44",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.baker.com/",
                     "likes": 67,
-                    "comments": null,
+                    "comments": 458,
                     "shares": 85,
                     "reach": 8703
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8901.07
         }
     ]
 }

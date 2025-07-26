@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "9af187f1-471c-417f-97d1-8e010b451443",
+    "name": "Ryan Sharp",
+    "email": "vasquezdiana@example.org",
+    "instagram_handle": "@cody78",
+    "tiktok_handle": "@christophercook",
     "joined_at": "2025-03-10T13:29:34.329Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c43a277f-79f4-48c9-8096-5f022782eae7",
+            "brand": "Pierce-Myers",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "751289f3-03d9-4aaf-bda1-13a99c82b282",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://robinson.com/",
+                    "likes": 7857,
                     "comments": 27,
                     "shares": 0,
                     "reach": 834
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3459.42
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8f94b16e-1ae7-41df-88bb-d1b0faf1eca0",
+    "name": "Sarah Mcbride",
+    "email": "danielbaker@example.net",
+    "instagram_handle": "@jeremy08",
+    "tiktok_handle": "@alexandranoble",
+    "joined_at": "2024-11-24T08:35:15.786640",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "09bee259-ebb7-4dd6-868a-7153b3d6d024",
+            "brand": "Martinez PLC",
             "tasks_completed": [
                 {
                     "task_id": "1d36a2e2-c3e1-4c90-8a61-9efab69cb14a",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://james.com/",
+                    "likes": 8493,
+                    "comments": 363,
                     "shares": 81,
                     "reach": 5515
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2135.47
         }
     ]
 }

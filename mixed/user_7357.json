@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8322a712-3982-4fe7-b991-e6e1128d0efe",
+    "name": "Alice Yu",
+    "email": "lawrencejulie@example.com",
+    "instagram_handle": "@jkaufman",
+    "tiktok_handle": "@ytorres",
+    "joined_at": "2025-01-08T04:48:20.347432",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6f6b7b38-ebbc-4805-962c-3e3b71d0d80e",
+            "brand": "Brown, Henson and Hawkins",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "59e5c6c0-fe1a-4ef7-833f-143b1c52f9a3",
+                    "platform": "YouTube",
+                    "post_url": "http://kelley-gonzalez.com/",
+                    "likes": 1518,
+                    "comments": 376,
                     "shares": 67,
                     "reach": 1962
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4666.89
         }
     ]
 }

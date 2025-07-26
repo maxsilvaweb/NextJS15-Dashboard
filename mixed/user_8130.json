@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "02a83219-c62b-4213-90fe-37d4e02d5b90",
+    "name": "Willie Robinson",
+    "email": "smithraymond@example.net",
+    "instagram_handle": "@egeorge",
+    "tiktok_handle": "@samuelstafford",
+    "joined_at": "2023-08-05T18:49:33.187052",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "665a561c-4fa0-4155-a25c-c84f582cd1d1",
+            "brand": "Dickerson, Fleming and West",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "de815fc8-e7c6-47de-a978-4664859d8681",
+                    "platform": "YouTube",
+                    "post_url": "https://bishop.info/",
+                    "likes": 6877,
                     "comments": 30,
                     "shares": 59,
                     "reach": 1682
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2053.47
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8b2cfaa9-5ed0-4332-bfb6-8a088d62dba6",
+    "name": "Joel Lewis",
+    "email": "birdtimothy@example.com",
+    "instagram_handle": "@hwalker",
+    "tiktok_handle": "@michaelmeyer",
+    "joined_at": "2023-10-14T04:23:55.653784",
     "advocacy_programs": [
         {
             "program_id": "ad9ae04e-9a61-470f-b812-b4e3ce504970",
-            "brand": 12345,
+            "brand": "Gomez-Morgan",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e1483bdc-5c19-442d-90b2-391e23a8f452",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://mullins.com/",
+                    "likes": 5095,
+                    "comments": 494,
                     "shares": 21,
                     "reach": 2265
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4769.63
         }
     ]
 }

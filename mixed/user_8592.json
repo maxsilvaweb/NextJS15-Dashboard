@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d59021fd-c3a5-43d5-bf7e-130f32764e36",
+    "name": "Eric Kramer",
+    "email": "kendraperez@example.com",
+    "instagram_handle": "@josephdouglas",
+    "tiktok_handle": "@grimeschristopher",
+    "joined_at": "2023-10-30T16:55:59.141546",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "52262753-0483-45e2-8d76-ff3bff6b3640",
+            "brand": "Thomas, Mcmillan and Sawyer",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "da3fb8a4-d5d5-4a5a-b5d9-430d5f5470dc",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://garcia-golden.info/",
+                    "likes": 146,
                     "comments": 18,
                     "shares": 9,
                     "reach": 2691

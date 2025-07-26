@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a8effeff-b412-4779-b39c-26c0ff6a2d64",
+    "name": "Krista Davis",
+    "email": "ngreen@example.org",
+    "instagram_handle": "@hollandmichael",
+    "tiktok_handle": "@crystal46",
+    "joined_at": "2024-07-15T17:56:07.324264",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d6d87905-690a-400e-b951-5634618d93d3",
+            "brand": "Neal-Warren",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0e54a227-5d35-4705-9fbd-20877b487e7e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://gonzales.biz/",
+                    "likes": 6340,
+                    "comments": 247,
                     "shares": 17,
                     "reach": 6745
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7321.59
         }
     ]
+}

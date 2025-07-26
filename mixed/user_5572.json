@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e6c64517-9fc7-4a85-842a-0e574fcb9c5d",
+    "name": "Wayne Jackson",
+    "email": "nicholas03@example.net",
+    "instagram_handle": "@nicholsalice",
+    "tiktok_handle": "@brettraymond",
+    "joined_at": "2024-03-02T04:01:18.997204",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "42cf7c20-f36b-4764-8d42-3f34ad00ce48",
+            "brand": "Howard-Kaiser",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cff7b236-5ace-4814-9235-5289e3334dd3",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.sullivan.com/",
+                    "likes": 7025,
+                    "comments": 249,
                     "shares": 21,
                     "reach": 726
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5151.03
         }
     ]
 }

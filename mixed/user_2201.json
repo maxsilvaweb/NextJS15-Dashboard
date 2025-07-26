@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "17c46169-203e-43c4-a063-83d6029a8a3e",
+    "name": "Sabrina Rivera",
+    "email": "brookeleon@example.com",
+    "instagram_handle": "@bill73",
+    "tiktok_handle": "@amonroe",
+    "joined_at": "2025-05-31T13:18:06.245882",
     "advocacy_programs": [
         {
             "program_id": "504e4695-927a-46f4-b639-7d7ad3651695",
-            "brand": 12345,
+            "brand": "Morales LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a85b00e7-4ce0-462b-8e54-11d1a378a6d3",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://spears.com/",
+                    "likes": 1700,
+                    "comments": 232,
                     "shares": 38,
                     "reach": 644
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2340.9
         }
     ]
 }

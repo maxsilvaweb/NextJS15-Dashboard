@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "89ddd7dc-4c06-43bc-9ac5-0ecee7fdbbc7",
+    "name": "Matthew King",
     "email": "Jamel_Braun73@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@ogolden",
+    "tiktok_handle": "@operkins",
+    "joined_at": "2024-05-21T20:40:18.850759",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "385e5502-2d33-489d-89b6-5d02b6929284",
+            "brand": "Tyler Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "209aacf6-0068-4279-aeb5-e4bbcd7acf47",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://jackson.com/",
+                    "likes": 5563,
+                    "comments": 362,
                     "shares": 89,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6219.69
         }
     ]
 }

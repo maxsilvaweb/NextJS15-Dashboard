@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "944336c8-568a-4782-8c34-74d6fd503ed7",
+    "name": "Kim Turner",
+    "email": "egutierrez@example.com",
+    "instagram_handle": "@milleramanda",
+    "tiktok_handle": "@alexanderraymond",
+    "joined_at": "2025-06-05T00:25:48.882893",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c1305925-0452-4676-ab7e-85e8805bfe1f",
+            "brand": "Bradley, Ross and Jones",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7f447dbc-6c48-47aa-a84e-4857fe2522e7",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.fernandez.com/",
+                    "likes": 7085,
                     "comments": 42,
                     "shares": 7,
                     "reach": 4931

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ac9db2e1-94f6-4cde-8d9b-b32279cc6ad0",
+    "name": "Michelle Payne",
+    "email": "david17@example.net",
+    "instagram_handle": "@timothysharp",
+    "tiktok_handle": "@margaretrivera",
+    "joined_at": "2024-04-08T09:07:51.541508",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4b650b6e-2115-42e4-bf2f-146c083f4834",
+            "brand": "Guerrero, Jones and Wong",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "191a0a59-887e-4069-8795-46156fe17eac",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://blair.net/",
+                    "likes": 7853,
                     "comments": 10,
                     "shares": 95,
                     "reach": 2043
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5903.21
         }
     ]
 }

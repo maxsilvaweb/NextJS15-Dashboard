@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "64048da0-087b-444c-93c4-b1213b249bc4",
+    "name": "Jason Wilson",
     "email": "Grady.Prosacco59@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@ricky15",
+    "tiktok_handle": "@timothywest",
+    "joined_at": "2024-07-09T03:40:06.117585",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "d286abd6-a9d4-4fb7-9d9a-df67bed15bca",
             "brand": "Block - Steuber",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9447b430-ca89-4199-8d7b-f1c70da7e301",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://lopez.net/",
+                    "likes": 973,
+                    "comments": 215,
                     "shares": 36,
                     "reach": 3071
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9333.36
         }
     ]
 }

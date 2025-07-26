@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a11ee031-a180-4fe4-9114-024ef8fe3de7",
+    "name": "Steven Guzman",
     "email": "Kadin45@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jacobgalvan",
+    "tiktok_handle": "@mjoseph",
+    "joined_at": "2024-07-03T17:02:12.364955",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5ca569d1-7946-4fa5-9998-b456c29f58e6",
+            "brand": "White-Martinez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d3ef5b1b-e12d-4a16-85e3-1f315b2479bc",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.crawford.org/",
+                    "likes": 7024,
+                    "comments": 119,
                     "shares": 3,
                     "reach": 783
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6787.16
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bffe9222-e5ab-4f4a-9ab3-d6414c701b0a",
+    "name": "James Walker",
+    "email": "xlester@example.com",
+    "instagram_handle": "@antonio18",
+    "tiktok_handle": "@rpark",
+    "joined_at": "2024-03-18T10:57:38.486124",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d69ab397-189f-42db-8b4e-042c7c538048",
+            "brand": "Mitchell and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b3d7ab95-87ea-48f5-94b5-111403d756be",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://romero-hall.info/",
                     "likes": 23,
-                    "comments": null,
+                    "comments": 231,
                     "shares": 5,
                     "reach": 8694
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6580.09
         }
     ]
 }

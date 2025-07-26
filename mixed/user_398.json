@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7e3d5ece-abec-4075-826d-5ac96f1db575",
+    "name": "Jeremy Santiago",
+    "email": "garzastephanie@example.net",
+    "instagram_handle": "@salaslisa",
+    "tiktok_handle": "@connie19",
+    "joined_at": "2023-07-31T17:27:12.464635",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d234e40e-3434-45ab-8f72-d016e258c7fc",
+            "brand": "Tyler Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "95757480-c4c5-4628-98e8-1b591021e667",
+                    "platform": "TikTok",
+                    "post_url": "https://www.hall-ray.com/",
+                    "likes": 4988,
+                    "comments": 215,
                     "shares": 34,
                     "reach": 1244
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5602.5
         }
     ]
 }

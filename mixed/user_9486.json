@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "55018be6-ef5c-44a8-810f-8024c183fb18",
+    "name": "Kelly Mills",
+    "email": "omarks@example.org",
+    "instagram_handle": "@vanessa17",
+    "tiktok_handle": "@dennismorgan",
+    "joined_at": "2025-01-16T22:04:25.475494",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "679dea8a-5749-4085-9872-70131a38bb99",
+            "brand": "Koch Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8aa679e7-8a23-4a14-ae69-ee55e0c1e620",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.braun.com/",
+                    "likes": 6596,
                     "comments": 6,
                     "shares": 40,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2417.17
         }
     ]
 }

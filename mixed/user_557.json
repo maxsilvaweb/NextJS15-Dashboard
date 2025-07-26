@@ -1,26 +1,26 @@
 {
     "user_id": "bed42c95-6d24-4e06-9363-64d5e1bdfe1a",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Lori Mccall",
+    "email": "washingtonsean@example.org",
+    "instagram_handle": "@ronald88",
+    "tiktok_handle": "@anthonyjensen",
+    "joined_at": "2025-03-02T09:01:26.114843",
     "advocacy_programs": [
         {
             "program_id": "2a2bed33-614d-4b52-8d48-ba93b3de63bb",
-            "brand": 12345,
+            "brand": "Maxwell, Price and May",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a86493d3-0468-45e3-b5b3-416e640fef8a",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.nguyen.net/",
                     "likes": 295,
-                    "comments": null,
+                    "comments": 318,
                     "shares": 72,
                     "reach": 6881
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6981.8
         }
     ]
 }

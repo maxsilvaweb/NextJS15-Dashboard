@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dd5da952-d985-41db-a58d-9b7d68cf51ff",
+    "name": "Jesse Booker",
+    "email": "youngmartha@example.net",
+    "instagram_handle": "@hwhite",
+    "tiktok_handle": "@larsonvirginia",
+    "joined_at": "2024-09-21T02:04:57.368238",
     "advocacy_programs": [
         {
             "program_id": "da635bc9-bea8-414c-80f5-b6ef2513bb05",
-            "brand": 12345,
+            "brand": "Hull, Wright and Fox",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "17c7b895-a894-44be-a556-fc5e7cd559f8",
+                    "platform": "Twitter",
+                    "post_url": "https://hoover.com/",
+                    "likes": 7239,
                     "comments": 1,
                     "shares": 58,
                     "reach": 6922

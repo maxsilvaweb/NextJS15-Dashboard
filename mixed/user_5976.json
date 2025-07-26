@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e1e9fb96-01ee-4a59-a587-93cccead4401",
+    "name": "Barbara Garcia",
+    "email": "amandasmith@example.org",
+    "instagram_handle": "@erika10",
+    "tiktok_handle": "@laurawade",
+    "joined_at": "2023-08-18T17:17:10.873159",
     "advocacy_programs": [
         {
             "program_id": "596ecbef-9c32-4b89-8f2e-53b347180bf6",
-            "brand": 12345,
+            "brand": "Carter, Stevenson and Mitchell",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "e4160cc4-233a-4ce5-a469-00244beba281",
+                    "platform": "YouTube",
+                    "post_url": "https://medina.com/",
                     "likes": 278,
-                    "comments": null,
+                    "comments": 442,
                     "shares": 64,
                     "reach": 6473
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2407.97
         }
     ]
 }

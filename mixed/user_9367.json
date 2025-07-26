@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "5b1ada11-6cb7-4674-abbd-aff15c02643a",
+    "name": "Nathaniel Estes",
+    "email": "andrewfloyd@example.org",
+    "instagram_handle": "@mwilliams",
+    "tiktok_handle": "@nicholsonchristian",
     "joined_at": "2024-05-23T03:45:07.102Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dcf14086-85ed-4af2-a50f-003850b419c3",
+            "brand": "Rodriguez, Harris and Dunn",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "a0be2400-af22-4eee-8eaf-862b5949f48e",
+                    "platform": "YouTube",
+                    "post_url": "https://smith.com/",
+                    "likes": 1333,
                     "comments": 44,
                     "shares": 48,
                     "reach": 2663

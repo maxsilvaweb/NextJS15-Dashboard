@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2f823938-db89-4c5d-a4b2-977098f7b8ca",
+    "name": "Dr. Todd Mcgee",
+    "email": "amberhancock@example.net",
+    "instagram_handle": "@penny55",
+    "tiktok_handle": "@osantiago",
+    "joined_at": "2025-04-16T22:53:03.050349",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "647bc515-9cda-441e-b3b4-416853505277",
+            "brand": "Love and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2c6e89ff-f690-46a3-bc93-0913e04eeb2e",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://bell-nichols.org/",
                     "likes": 60,
                     "comments": 47,
                     "shares": 76,
                     "reach": 8184
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2457.7
         }
     ]
 }

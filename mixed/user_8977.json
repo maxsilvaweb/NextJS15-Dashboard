@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fed3ee87-2754-4ae0-927e-a5bed42a2c9e",
+    "name": "David Chavez",
+    "email": "heatherjohnson@example.org",
+    "instagram_handle": "@sarahhopkins",
+    "tiktok_handle": "@jmcpherson",
+    "joined_at": "2024-01-01T12:50:23.331567",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b8fc52a6-3e98-47d2-aafe-283f55dba6c8",
+            "brand": "Allen, Kennedy and Navarro",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c57fbcce-eea6-4332-bf0a-8607c329450a",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://carter.com/",
+                    "likes": 7282,
                     "comments": 7,
                     "shares": 78,
                     "reach": 871
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4293.49
         }
     ]
 }

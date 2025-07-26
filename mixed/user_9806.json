@@ -1,20 +1,20 @@
 {
     "user_id": "1baece5d-07fe-4386-acf3-ea9122bafe0f",
-    "name": "???",
-    "email": "invalid-email",
+    "name": "Nichole Wolfe",
+    "email": "jessica07@example.com",
     "instagram_handle": "@Name.Gerhold64",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@carla67",
+    "joined_at": "2023-12-05T05:49:55.420277",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "174a801e-0b2b-49f1-9c25-a37be54c0497",
             "brand": "Leuschke, Nitzsche and Hintz",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1fab8ff9-18d5-4a6a-906a-c8403489e56d",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://phillips-abbott.com/",
+                    "likes": 5454,
                     "comments": 10,
                     "shares": 13,
                     "reach": 5105

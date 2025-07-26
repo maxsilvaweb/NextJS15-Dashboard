@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "52c7537a-1fa3-44f0-b616-0173b1ec0ff4",
+    "name": "Kyle Cruz",
+    "email": "freemangerald@example.org",
+    "instagram_handle": "@teresaclark",
+    "tiktok_handle": "@abigail80",
+    "joined_at": "2025-07-15T22:00:13.493127",
     "advocacy_programs": [
         {
             "program_id": "01771d39-fb9b-454d-aef9-ab20a97c06f2",
-            "brand": 12345,
+            "brand": "Rodriguez, Alvarez and Simmons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e514442a-d903-4e79-b72e-37133f2fa715",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.martinez.biz/",
+                    "likes": 6737,
+                    "comments": 240,
                     "shares": 12,
                     "reach": 5796
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3542.42
         }
     ]
 }

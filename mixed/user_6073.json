@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "38b34ea1-8cf4-4c92-94f5-523b603e637d",
+    "name": "Kelli Cole",
+    "email": "vanessabutler@example.net",
+    "instagram_handle": "@brad32",
+    "tiktok_handle": "@chandavid",
+    "joined_at": "2024-02-07T13:00:28.727077",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d668be11-2743-4c02-8e3a-e7232e59d3c7",
+            "brand": "Phillips, Crawford and Williams",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "05b1661d-970f-4f6e-a680-5017d081646f",
+                    "platform": "YouTube",
+                    "post_url": "https://www.young.com/",
+                    "likes": 8320,
+                    "comments": 375,
                     "shares": 82,
                     "reach": 3584
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6950.41
         }
     ]
 }

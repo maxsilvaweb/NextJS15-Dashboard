@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7da4c1e4-ccb1-4e91-81a3-7269928f238b",
+    "name": "Jordan Cantrell",
+    "email": "caroline56@example.com",
+    "instagram_handle": "@hcollins",
+    "tiktok_handle": "@katherineguzman",
+    "joined_at": "2025-01-27T16:18:08.070053",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "19632f5c-d7bc-4c83-96ee-57b754a32a14",
+            "brand": "Oneal-King",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f9e8e563-a37e-4369-afb4-af3b3d782a1a",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://quinn.com/",
                     "likes": 147,
-                    "comments": null,
+                    "comments": 0,
                     "shares": 3,
                     "reach": 5261
                 }

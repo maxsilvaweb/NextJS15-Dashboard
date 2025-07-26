@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "44840611-8205-4943-ab6f-d923db5c6a1c",
+    "name": "Emily Vazquez",
     "email": "Dominic_Koepp@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@sandovalleslie",
+    "tiktok_handle": "@kelly72",
+    "joined_at": "2024-09-29T17:03:44.810398",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "585803b0-6b71-49ab-b264-f41cb39fe81f",
+            "brand": "Turner Ltd",
             "tasks_completed": [
                 {
                     "task_id": "7a702a43-b448-4d9b-a9f9-b4226306a4bd",
                     "platform": "TikTok",
                     "post_url": "https://scaly-godfather.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4662,
+                    "comments": 449,
                     "shares": 13,
                     "reach": 1263
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5259.46
         }
     ]
 }

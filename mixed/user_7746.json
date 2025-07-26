@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "91d9fcbe-c3d8-49b6-986e-758565b72b99",
+    "name": "Andrea Madden",
+    "email": "iallen@example.org",
+    "instagram_handle": "@chandlersteven",
+    "tiktok_handle": "@pmoore",
+    "joined_at": "2024-05-15T17:19:18.024725",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f148343c-5624-4263-af9f-547c6bdc9c08",
+            "brand": "Burke-Hernandez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "256f25bb-7207-4cea-b0bc-9441a844c265",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://parks.com/",
+                    "likes": 9219,
+                    "comments": 340,
                     "shares": 44,
                     "reach": 2869
                 }

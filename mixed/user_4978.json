@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a6b39ddf-99cc-4e62-a143-7e404c61bb65",
+    "name": "Cody Allen",
+    "email": "jessicadavid@example.org",
+    "instagram_handle": "@narnold",
+    "tiktok_handle": "@martinezwilliam",
+    "joined_at": "2023-11-11T15:38:11.207581",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3c9ef644-56a8-4398-9a55-8bd5781d90f6",
+            "brand": "Dillon, Jones and Castro",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9aa99cea-8325-4b64-b0f3-22415ceaf3ea",
                     "platform": "TikTok",
                     "post_url": "https://cute-eternity.com",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8684,
+                    "comments": 316,
                     "shares": 72,
                     "reach": 2179
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9860.67
         }
     ]
 }

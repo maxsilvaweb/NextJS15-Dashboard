@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "679e5880-09ef-47c0-9186-e9948fc7cbee",
+    "name": "Mary Allen",
+    "email": "lisa18@example.com",
+    "instagram_handle": "@watsonjason",
+    "tiktok_handle": "@lmatthews",
+    "joined_at": "2024-01-15T17:15:52.778401",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d86bda77-5395-4fe5-94db-29c5aef99f86",
+            "brand": "Hicks, Nelson and Blankenship",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "df2a540f-4eac-4832-a8aa-e9e3c305b7eb",
+                    "platform": "YouTube",
+                    "post_url": "https://owens.com/",
+                    "likes": 7582,
                     "comments": 30,
                     "shares": 14,
                     "reach": 857
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6938.68
         }
     ]
 }

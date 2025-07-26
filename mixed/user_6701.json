@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8a3ddc8f-4e9f-42a5-be17-f43be77a0e59",
+    "name": "Gregory Chambers",
+    "email": "jsanchez@example.com",
+    "instagram_handle": "@ronaldsmith",
+    "tiktok_handle": "@gpayne",
+    "joined_at": "2023-10-22T15:10:22.730928",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9b19d31b-bae2-45eb-8aa4-dc1c9ca8c830",
+            "brand": "Hart-Rivera",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "995fde47-4c23-48b1-b0c8-23523c0720ea",
                     "platform": "Facebook",
                     "post_url": "https://breakable-swing.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9108,
+                    "comments": 28,
                     "shares": 86,
                     "reach": 7955
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7434.53
         }
     ]
 }

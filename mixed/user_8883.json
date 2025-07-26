@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8a9a905c-58eb-483e-94aa-803107c7ecdf",
+    "name": "Amber Kim",
+    "email": "ryanmark@example.org",
+    "instagram_handle": "@jonesdonald",
+    "tiktok_handle": "@ahurley",
+    "joined_at": "2024-11-20T11:39:29.614853",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "f519a3a0-2b9c-4822-a468-6293013d3cbd",
             "brand": "Jones, Hermann and Kozey",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "51739d92-5308-40ab-a747-46ecacd1b152",
+                    "platform": "YouTube",
+                    "post_url": "https://www.martinez-gibbs.biz/",
+                    "likes": 8117,
+                    "comments": 204,
                     "shares": 32,
                     "reach": 7303
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6503.35
         }
     ]
 }

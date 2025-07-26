@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "b2b8bd90-e7ca-4d4d-9cf0-810040e4e8a0",
+    "name": "Jacob Guerra",
+    "email": "kristinamcbride@example.net",
+    "instagram_handle": "@jared22",
     "tiktok_handle": "@Aileen56",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-05-10T06:22:05.792363",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d75f7e69-2e26-4766-8e37-d3fd9978c648",
+            "brand": "Jones, Rogers and Thomas",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e37c3002-524e-488d-9198-bf2df2e79c06",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.white.net/",
+                    "likes": 240,
                     "comments": 2,
                     "shares": 53,
                     "reach": 8944
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3581.05
         }
     ]
 }

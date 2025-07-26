@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "770d036e-ca06-4252-9b22-e38fa5ead0d7",
+    "name": "Janet Walker",
+    "email": "desireemoore@example.net",
+    "instagram_handle": "@ricky33",
+    "tiktok_handle": "@julie19",
+    "joined_at": "2024-02-26T02:35:44.484347",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "88748bbb-ede1-4aa4-bbdb-03be22efebe6",
+            "brand": "Brown Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "1c702c29-d737-4e27-9bf3-35f05bdaaf3d",
+                    "platform": "Twitter",
                     "post_url": "https://frequent-finer.name/",
-                    "likes": "NaN",
+                    "likes": 8344,
                     "comments": 12,
                     "shares": 58,
                     "reach": 9334
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 572.83
         }
     ]
 }

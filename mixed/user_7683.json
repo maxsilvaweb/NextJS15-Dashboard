@@ -1,25 +1,26 @@
 {
     "user_id": "ff389b31-4090-451a-aeee-1b87283034dd",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Amy Delacruz",
+    "email": "robert30@example.org",
+    "instagram_handle": "@christinahutchinson",
+    "tiktok_handle": "@bennettnancy",
+    "joined_at": "2023-11-09T07:54:45.421443",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5d2a219c-fb2b-48fb-9b86-282aeda7f685",
+            "brand": "Johnson-Campos",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c8edcc89-f726-436a-8139-bf82b5056ce5",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://chase.info/",
+                    "likes": 4692,
+                    "comments": 312,
                     "shares": 65,
                     "reach": 4414
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2002.75
         }
     ]
+}

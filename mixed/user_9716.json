@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "42195eb5-36b4-4a3e-b8ec-60aca4543b6e",
+    "name": "Michael Williams",
+    "email": "bsmith@example.org",
+    "instagram_handle": "@katherinesmith",
+    "tiktok_handle": "@gabrielharmon",
+    "joined_at": "2024-10-05T05:11:58.480658",
     "advocacy_programs": [
         {
             "program_id": "9caeef9e-3bee-4aa4-ae26-cc8be938d00a",
-            "brand": 12345,
+            "brand": "Martin-Pruitt",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "41249b5c-067d-4af1-a6c4-86a5accbb3ac",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.hawkins.com/",
                     "likes": 334,
-                    "comments": null,
+                    "comments": 59,
                     "shares": 76,
                     "reach": 2659
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 794.21
         }
     ]
 }

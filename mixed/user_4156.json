@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "620e62fe-8796-494d-aaa4-b3f3d877293a",
+    "name": "Brian Stafford",
     "email": "Pete_Beer24@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@hlevine",
+    "tiktok_handle": "@byrdthomas",
+    "joined_at": "2025-06-05T02:29:19.974050",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5b370209-b814-4bc6-983d-517c5b173241",
+            "brand": "Petersen, Parker and Washington",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e063b3a7-fd92-4baa-9c28-f1fd158656fe",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.woods-castillo.com/",
+                    "likes": 1298,
+                    "comments": 403,
                     "shares": 14,
                     "reach": 6730
                 }

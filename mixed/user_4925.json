@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "738ccf6f-a3d2-4053-820d-4d7e7b167e17",
+    "name": "Veronica Hughes",
+    "email": "qnelson@example.com",
+    "instagram_handle": "@ashley29",
+    "tiktok_handle": "@sandrabrooks",
+    "joined_at": "2024-02-05T22:45:16.072038",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "95b23312-b1ad-45cb-8f50-f4affa71e429",
             "brand": "Mitchell - Harris",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "ef196e2a-7e07-40eb-b232-715cdc558abb",
+                    "platform": "TikTok",
+                    "post_url": "https://tate-gallagher.biz/",
+                    "likes": 5503,
+                    "comments": 306,
                     "shares": 89,
                     "reach": 7840
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "76f135cf-8910-40de-b0d3-f835c9bf94dd",
+    "name": "Jennifer Rocha",
+    "email": "ycohen@example.com",
+    "instagram_handle": "@adamcarr",
+    "tiktok_handle": "@yolandagreen",
+    "joined_at": "2024-11-18T16:06:57.997209",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "13b2d3f3-acce-4bca-a9aa-38fb74f8e19e",
+            "brand": "Mills, Hall and Benson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fc05ba59-24ce-4e2a-84a6-606f43e9e752",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.stewart-lewis.com/",
+                    "likes": 2513,
+                    "comments": 347,
                     "shares": 91,
                     "reach": 1477
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6497.14
         }
     ]
 }

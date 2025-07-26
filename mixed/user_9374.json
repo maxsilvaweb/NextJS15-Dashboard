@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "07b51b27-1d7e-4bf0-9c61-f6862e8e65f5",
+    "name": "Matthew Morrow",
     "email": "Leopoldo.Wyman@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@ehancock",
+    "tiktok_handle": "@rcombs",
+    "joined_at": "2023-10-23T22:52:16.743769",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8d7c4214-b9ca-4d22-afe9-43b1680a1457",
+            "brand": "Stafford PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "88a7b84b-6a50-43ea-9893-258867f5bd84",
+                    "platform": "Instagram",
+                    "post_url": "http://blackwell-nichols.com/",
                     "likes": 481,
-                    "comments": null,
+                    "comments": 478,
                     "shares": 69,
                     "reach": 3022
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2198.73
         }
     ]
 }

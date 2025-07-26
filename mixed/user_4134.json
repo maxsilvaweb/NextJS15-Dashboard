@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "66ebe02c-558b-4de7-a6e5-ce3fc4885584",
+    "name": "Eric Pineda",
     "email": "Toni.Carroll@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@vconway",
+    "tiktok_handle": "@thomasmatthew",
+    "joined_at": "2023-08-12T07:56:41.112333",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9323bee4-ab0f-4978-916f-24f9a860f70a",
+            "brand": "Oneal-Fox",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ef0f6f5d-1276-44ef-902a-ff8796f4534a",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.young.org/",
+                    "likes": 8038,
+                    "comments": 484,
                     "shares": 81,
                     "reach": 5185
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2438.55
         }
     ]
 }

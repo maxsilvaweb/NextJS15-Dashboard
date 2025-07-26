@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b2d99904-a084-4e9b-bebe-fbae34397a6e",
+    "name": "James Jones",
+    "email": "sharon40@example.net",
+    "instagram_handle": "@sotokelly",
+    "tiktok_handle": "@khoover",
+    "joined_at": "2024-12-11T21:58:22.711649",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3b3f4252-ac07-41a3-9881-232a86293c98",
+            "brand": "Smith-Hudson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cb89fafa-f199-480d-964b-4e4b7e37c7ad",
                     "platform": "Facebook",
                     "post_url": "https://quarterly-fun.org/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4281,
+                    "comments": 346,
                     "shares": 93,
                     "reach": 4295
                 }

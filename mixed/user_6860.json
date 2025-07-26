@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "05ff7058-cd7b-4c1c-95af-1d4a67e3a985",
+    "name": "Eugene Williams",
     "email": "Bettie20@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@scott43",
+    "tiktok_handle": "@beasleydeborah",
+    "joined_at": "2024-05-02T10:14:19.070744",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "48508d11-931d-4234-bd62-54ae83a3b56e",
+            "brand": "Cooper-Kaufman",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "12e98619-6960-440f-a751-e752ff85aa1f",
+                    "platform": "Instagram",
+                    "post_url": "https://www.jones.com/",
+                    "likes": 5060,
+                    "comments": 299,
                     "shares": 65,
                     "reach": 2690
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7333.04
         }
     ]
 }

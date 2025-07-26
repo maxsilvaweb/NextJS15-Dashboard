@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "424e93f9-6513-4eec-8928-1b375530f90b",
+    "name": "April Fritz",
     "email": "Estel.Rice-Bins36@yahoo.com",
     "instagram_handle": "@Mustafa.Kutch86",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@russellpacheco",
+    "joined_at": "2025-06-07T08:54:51.225786",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "27526af7-358b-470c-96c2-da6876b91dd0",
+            "brand": "Reed-Hanna",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f756867b-1e7c-4a80-a1bd-403985723901",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.harper-jones.com/",
+                    "likes": 2579,
+                    "comments": 242,
                     "shares": 70,
                     "reach": 9933
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7842.82
         }
     ]
 }

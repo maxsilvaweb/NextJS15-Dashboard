@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "73620b82-13d3-438f-8e05-47f49ef5413b",
+    "name": "Stephen Lester",
+    "email": "jeffreyfox@example.com",
+    "instagram_handle": "@vwilson",
+    "tiktok_handle": "@rubennoble",
+    "joined_at": "2025-07-03T01:44:01.715713",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "465c74b3-f4bc-43ce-8764-ac65c373a2f1",
+            "brand": "Ward PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9b7e9601-92f0-4d70-9967-abef6deabb5f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.smith-vargas.com/",
+                    "likes": 2238,
+                    "comments": 342,
                     "shares": 50,
                     "reach": 1905
                 }

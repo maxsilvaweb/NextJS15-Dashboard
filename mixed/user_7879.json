@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "c6a97c0c-6a67-4b5e-801c-30c7716e3723",
+    "name": "Brian Jones",
     "email": "Ethyl.Rutherford41@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@valdezcatherine",
+    "tiktok_handle": "@ppeters",
+    "joined_at": "2024-09-10T10:32:09.740026",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "14a64d9f-11b7-462b-80e3-ac0bbae6e3c4",
+            "brand": "Gardner-Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dc4d23b8-0694-4a83-8758-f0b03af7a4dc",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://young-hancock.com/",
+                    "likes": 3288,
+                    "comments": 417,
                     "shares": 21,
                     "reach": 4661
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2631.85
         }
     ]
 }

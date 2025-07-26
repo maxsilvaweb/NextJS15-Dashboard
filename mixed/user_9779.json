@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "f54482b1-2397-4c50-9ae3-2c74b0aad6b7",
+    "name": "Leah Mullins",
     "email": "Frederik.Mertz11@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@browndwayne",
+    "tiktok_handle": "@anthony28",
+    "joined_at": "2023-08-31T14:18:47.702198",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5ca5f339-2fae-4e59-bf2c-202bbc37e3d6",
+            "brand": "Bates-Ellis",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "832a185e-7e5e-493b-9111-3fbfa5d14bf1",
+                    "platform": "TikTok",
+                    "post_url": "https://www.brooks.com/",
+                    "likes": 5264,
+                    "comments": 425,
                     "shares": 41,
                     "reach": 9002
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7714.4
         }
     ]
 }

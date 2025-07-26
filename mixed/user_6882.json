@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "7280ef62-7de8-44b1-a6b6-3153062e748e",
     "name": "Marcella Gutkowski",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "preston42@example.org",
+    "instagram_handle": "@espinozanatalie",
+    "tiktok_handle": "@john64",
+    "joined_at": "2023-08-18T02:51:29.997466",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "734cf4ca-a48f-40a1-9059-fd05b51f2730",
+            "brand": "Ramos Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4f0bf189-4783-49b6-95f2-787c431a8537",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://davis.net/",
+                    "likes": 8409,
+                    "comments": 362,
                     "shares": 32,
                     "reach": 5505
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 281.08
         }
     ]
 }

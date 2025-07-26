@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7aae7bc8-4842-46f8-88df-7077462c5ab3",
+    "name": "Edward Sanchez",
+    "email": "shannon45@example.org",
+    "instagram_handle": "@bradfordwilliam",
+    "tiktok_handle": "@jenniferhartman",
+    "joined_at": "2024-01-13T09:40:31.901485",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "824529a5-6830-4466-b6f9-79a8aaee0f94",
+            "brand": "Lewis Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d2f712c5-242b-4f7d-90c2-6512832c1866",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.perry-shea.info/",
                     "likes": 341,
-                    "comments": null,
+                    "comments": 374,
                     "shares": 85,
                     "reach": 3436
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2939.1
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5c4a12b1-e819-471d-a2aa-28a4a4bc376d",
+    "name": "Melissa Reynolds",
+    "email": "kaitlin43@example.org",
+    "instagram_handle": "@woodryan",
+    "tiktok_handle": "@stephanie59",
+    "joined_at": "2023-08-20T14:17:52.690158",
     "advocacy_programs": [
         {
             "program_id": "f6700f1b-61c2-4edf-97c3-6cf010f89842",
-            "brand": 12345,
+            "brand": "Hampton-Nelson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "90f020ba-b34a-4d86-ba6e-a5c9f15be3e4",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://knight.org/",
+                    "likes": 1446,
+                    "comments": 342,
                     "shares": 54,
                     "reach": 5457
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8319.5
         }
     ]
 }

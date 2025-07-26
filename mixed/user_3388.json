@@ -1,26 +1,26 @@
 {
     "user_id": "b1b301a2-5c10-4d2a-b009-2094bf5ff81b",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Christopher Hall",
+    "email": "thill@example.org",
+    "instagram_handle": "@kstewart",
+    "tiktok_handle": "@victoriaphillips",
+    "joined_at": "2025-05-11T08:02:04.112199",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7968e37b-65d9-4d85-9d6b-ea52869968f5",
+            "brand": "Marquez-Valdez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e54fbdf4-e66c-492c-b1f4-6ef3a49e7c29",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.hawkins.info/",
+                    "likes": 7950,
+                    "comments": 59,
                     "shares": 93,
                     "reach": 2437
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5478.2
         }
     ]
 }

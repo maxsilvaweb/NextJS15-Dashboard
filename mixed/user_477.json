@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "abea93c2-f173-4bbc-aca4-d893bc18b91a",
+    "name": "Sandra Sullivan",
+    "email": "mstein@example.com",
+    "instagram_handle": "@ssanford",
+    "tiktok_handle": "@cannonshannon",
+    "joined_at": "2025-03-21T16:05:06.138177",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "5d92ded2-6c5f-4acb-9b4b-1d048f7de7c7",
             "brand": "Kuhn, Bruen and Thiel",
             "tasks_completed": [
                 {
                     "task_id": "12fa7723-014d-49b8-b8a6-9752ce8761fe",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://blackwell.net/",
+                    "likes": 4196,
+                    "comments": 120,
                     "shares": 56,
                     "reach": 4529
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8817.49
         }
     ]
 }

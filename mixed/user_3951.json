@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1971ee03-062c-4cb3-b91f-65344c1306ff",
+    "name": "Michele Barrett",
+    "email": "michaelcarroll@example.org",
+    "instagram_handle": "@baileydiane",
+    "tiktok_handle": "@tgarrison",
+    "joined_at": "2024-01-07T12:16:56.723151",
     "advocacy_programs": [
         {
             "program_id": "6c7bda81-36ca-4922-bdc5-e10710ef2cf4",
-            "brand": 12345,
+            "brand": "Moran Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c143a440-34f3-46d4-95f9-060d5e4588d5",
                     "platform": "TikTok",
                     "post_url": "https://delicious-director.net/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4660,
+                    "comments": 183,
                     "shares": 49,
                     "reach": 8013
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 4611.489745294627
         }
     ]
+}

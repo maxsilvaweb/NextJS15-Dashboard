@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ae45b0ff-f6a2-44b0-835e-13a74b452d4e",
+    "name": "Joseph Hernandez",
+    "email": "nadams@example.com",
+    "instagram_handle": "@brownalicia",
+    "tiktok_handle": "@sblackburn",
+    "joined_at": "2024-10-10T14:45:39.088369",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "22be2955-a8cc-422e-bd49-dcb0e6676c16",
             "brand": "Wilkinson - Hoppe",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "f17db8b5-6298-4f56-8877-ff1991d638c5",
+                    "platform": "TikTok",
+                    "post_url": "http://stevens-chung.com/",
+                    "likes": 4588,
+                    "comments": 455,
                     "shares": 5,
                     "reach": 8284
                 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fe5387dc-99bf-4905-a60a-e55dfa4d5f29",
+    "name": "Jordan Gordon",
+    "email": "jeremymoreno@example.org",
+    "instagram_handle": "@sheena03",
+    "tiktok_handle": "@tiffany19",
+    "joined_at": "2025-02-01T03:44:00.155225",
     "advocacy_programs": [
         {
             "program_id": "56940649-0b3a-4f82-87ca-483822b629d1",
-            "brand": 12345,
+            "brand": "Ross, Brown and Coffey",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d60ef696-aaae-46ec-af92-1578bf595bde",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.henderson-riley.com/",
                     "likes": 398,
-                    "comments": null,
+                    "comments": 66,
                     "shares": 84,
                     "reach": 6156
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "ab9230fa-f365-4baa-b343-b68d82f38471",
+    "name": "Teresa Wilson",
+    "email": "daniellesimon@example.org",
     "instagram_handle": "@Hattie_Leffler82",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@wellison",
+    "joined_at": "2024-03-16T18:37:38.963161",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "05dcd487-1d1b-4a75-88d6-83dd92ffc259",
+            "brand": "Gonzalez, Holden and Ayala",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dc4f87f2-b7b8-4cdf-b0ef-f18c4009183a",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.frazier-parker.com/",
                     "likes": 334,
                     "comments": 37,
                     "shares": 46,
                     "reach": 4728
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5534.71
         }
     ]
 }

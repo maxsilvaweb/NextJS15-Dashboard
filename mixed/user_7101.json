@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "d7d98a6b-d9e5-4df3-9e05-86c7ae33845c",
+    "name": "Kaylee Bell",
     "email": "Teagan.Hodkiewicz@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@cindy93",
+    "tiktok_handle": "@andrew43",
+    "joined_at": "2025-01-26T04:26:51.396395",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2e725e44-a6c3-4e73-a519-b0a7248459fb",
+            "brand": "Franklin, Rodriguez and Henry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "88dff73f-29f9-418d-96cc-7e3c36513547",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.garcia.com/",
+                    "likes": 8487,
                     "comments": 8,
                     "shares": 91,
                     "reach": 897
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2583.88
         }
     ]
 }

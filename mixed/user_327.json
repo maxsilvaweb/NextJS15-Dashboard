@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "c2d9ac83-a6a7-4fad-87ae-177617e3c652",
+    "name": "Mrs. Nicole Swanson",
+    "email": "kcruz@example.org",
+    "instagram_handle": "@poolerichard",
+    "tiktok_handle": "@cainsamuel",
     "joined_at": "2024-11-01T15:20:15.908Z",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "dff5fbe8-0a9d-4eff-be95-11fe96866e44",
             "brand": "Kozey - Stracke",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2fe058b7-eafd-42ee-a6e1-6d723f4fa2a9",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.ellis.com/",
                     "likes": 487,
                     "comments": 36,
                     "shares": 48,
                     "reach": 5832
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8430.86
         }
     ]
 }

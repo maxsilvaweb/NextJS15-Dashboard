@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "38682e4e-4a45-4c6d-bc9d-f2cb85352577",
+    "name": "Daniel Smith",
     "email": "Ryleigh_Bogan23@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@joannperry",
+    "tiktok_handle": "@yburton",
+    "joined_at": "2024-08-21T15:23:37.429050",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6e05688e-ebc2-4ffe-bdcc-3a6636c50fd0",
+            "brand": "Carrillo, Schroeder and Ross",
             "tasks_completed": [
                 {
                     "task_id": "286132c2-9502-41a1-a070-f2609cf34b61",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://roberson.com/",
+                    "likes": 91,
                     "comments": 19,
                     "shares": 47,
                     "reach": 2920
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3822.18
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "65b58e14-a686-4dac-bea2-48861df3d3c3",
     "name": "Fernando Rolfson",
     "email": "Robb63@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@leesandra",
+    "tiktok_handle": "@mcclainadam",
+    "joined_at": "2024-11-02T03:11:48.588529",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "4bb9f24a-8787-456b-b4b2-44efed5ce500",
             "brand": "Hoeger Inc",
             "tasks_completed": [
                 {
                     "task_id": "6796434f-f65c-4358-bd08-fdf5a70892ed",
-                    "platform": 123,
+                    "platform": "YouTube",
                     "post_url": "https://tragic-extent.org",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9832,
+                    "comments": 232,
                     "shares": 66,
                     "reach": 7432
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7725.44
         }
     ]
 }

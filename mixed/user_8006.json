@@ -1,26 +1,26 @@
 {
     "user_id": "1a1f13ac-1ca1-4ace-92ed-637d7ea957f1",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Paula Williamson",
+    "email": "angela81@example.net",
+    "instagram_handle": "@andersonwendy",
+    "tiktok_handle": "@kkramer",
+    "joined_at": "2024-03-15T22:25:22.164910",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6e6ad43b-a041-43b3-9c24-515793cddd39",
+            "brand": "Everett, Phelps and Rogers",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "342d0c15-5ddb-430a-9228-5ff0fd4278f3",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://french.com/",
+                    "likes": 4562,
+                    "comments": 197,
                     "shares": 20,
                     "reach": 7334
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4604.34
         }
     ]
 }

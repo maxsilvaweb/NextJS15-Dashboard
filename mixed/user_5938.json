@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b236f659-bca9-4bc6-a431-43ac47de9b63",
+    "name": "Michelle Pena",
+    "email": "malonevanessa@example.org",
+    "instagram_handle": "@iporter",
+    "tiktok_handle": "@mendozaamber",
+    "joined_at": "2025-06-22T13:53:56.985376",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fad6ba7f-de50-49dd-967d-e301d4d75edd",
+            "brand": "Stone-Mcbride",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "4bfb2e50-9d93-4474-9432-90e909231e27",
+                    "platform": "TikTok",
+                    "post_url": "http://www.watts.com/",
+                    "likes": 2970,
+                    "comments": 394,
                     "shares": 80,
                     "reach": 1210
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8335.82
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "91b18461-6bc2-49d6-a6dc-c5418053d202",
+    "name": "Michelle Bailey",
+    "email": "elizabeth44@example.com",
+    "instagram_handle": "@amanda76",
+    "tiktok_handle": "@amandahoward",
+    "joined_at": "2023-09-12T19:07:05.042752",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "42c64342-62d9-4f96-99c1-811c8da97575",
+            "brand": "Smith, Walters and Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ab740d86-a7e0-4890-9bdc-fd8c62f03a76",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.gallegos.com/",
                     "likes": 264,
-                    "comments": null,
+                    "comments": 404,
                     "shares": 3,
                     "reach": 9157
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2e2f94b8-e331-46fc-b5ad-05225af821cf",
+    "name": "Ashley Meyer",
+    "email": "kylehutchinson@example.com",
+    "instagram_handle": "@patricia73",
+    "tiktok_handle": "@victoriadowns",
+    "joined_at": "2023-10-09T05:15:40.970107",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d11b5c73-57e8-439a-8a56-a56bb942bc9c",
+            "brand": "Miller Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8fe4222f-ea25-45cf-8696-91d59c4c7900",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.mitchell.com/",
+                    "likes": 2972,
+                    "comments": 76,
                     "shares": 6,
                     "reach": 5509
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2793.92
         }
     ]
 }

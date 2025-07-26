@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "e554fe88-c45b-470d-87ed-918f7b1a3f8a",
+    "name": "Christopher Young",
     "email": "Frieda10@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jessica60",
+    "tiktok_handle": "@dylancoleman",
+    "joined_at": "2024-09-23T15:54:55.124364",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b9b37744-7085-4f71-afd2-1abde456eec8",
+            "brand": "Martinez Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7d3a2e1c-b627-4d8a-b2b4-dd67678be4a3",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://sanders.com/",
+                    "likes": 638,
+                    "comments": 245,
                     "shares": 80,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2450.73
         }
     ]
 }

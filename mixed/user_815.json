@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "949f8819-6081-4a8a-94c9-39d2dbee3d18",
+    "name": "Michael Williams",
+    "email": "gponce@example.com",
+    "instagram_handle": "@danielglass",
+    "tiktok_handle": "@dgiles",
+    "joined_at": "2025-03-15T04:37:21.306014",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d07bd1bc-94bc-4d50-b94f-ffeaf2b983fe",
+            "brand": "Shaw Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "3380d2c8-1ee8-443e-8b24-a864f7a90226",
+                    "platform": "YouTube",
+                    "post_url": "https://www.barnett.com/",
+                    "likes": 394,
+                    "comments": 27,
                     "shares": 28,
                     "reach": 3968
                 }

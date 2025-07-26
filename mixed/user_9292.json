@@ -1,26 +1,26 @@
 {
     "user_id": "78f00cf7-f206-492d-9057-cfbdd537e4c7",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Douglas Cole",
+    "email": "mejiacharles@example.net",
+    "instagram_handle": "@susan37",
+    "tiktok_handle": "@donald36",
+    "joined_at": "2024-09-30T01:56:40.838433",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a8b121c6-a0de-4bfc-b452-56ce296dc17c",
+            "brand": "Lopez-Mccarthy",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e3bb9183-423e-4f65-a95d-25e961b782c2",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.beard-walker.info/",
+                    "likes": 5977,
+                    "comments": 422,
                     "shares": 36,
                     "reach": 9659
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4614.85
         }
     ]
 }

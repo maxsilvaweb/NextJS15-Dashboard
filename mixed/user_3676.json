@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f82efd6c-c875-4242-9d68-2ea96adce37e",
+    "name": "Mark Griffin",
+    "email": "miranda33@example.org",
+    "instagram_handle": "@mcarter",
+    "tiktok_handle": "@uwarner",
+    "joined_at": "2025-01-31T20:05:30.141110",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "25ce3ab9-eafc-4b98-89fd-79b280012bf8",
             "brand": "Kirlin - Mante",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8471d9fc-db4e-45b8-abe3-e42b6a9ac6de",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.aguilar.biz/",
+                    "likes": 2155,
+                    "comments": 349,
                     "shares": 55,
                     "reach": 9174
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9981.97
         }
     ]
 }

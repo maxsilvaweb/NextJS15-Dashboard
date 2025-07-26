@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4f64a6c8-62c8-4fa5-a17b-2edd9791e62d",
+    "name": "David Scott",
+    "email": "falvarado@example.org",
+    "instagram_handle": "@rmurphy",
+    "tiktok_handle": "@xrichardson",
+    "joined_at": "2023-08-16T08:23:06.339046",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4987a598-c3e1-49d7-b471-95bb1f92b4c8",
+            "brand": "Sherman Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "70e82f84-aa07-49df-a3b7-26af9a8bdf82",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://zimmerman-hodge.biz/",
+                    "likes": 281,
+                    "comments": 108,
                     "shares": 47,
                     "reach": 2628
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9400.58
         }
     ]
 }

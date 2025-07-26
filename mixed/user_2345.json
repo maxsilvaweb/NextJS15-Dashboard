@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d7de9dab-e25b-4699-9ea5-aba09dd02320",
+    "name": "Alexander Rodriguez",
+    "email": "stevensshelley@example.org",
+    "instagram_handle": "@brendavelazquez",
+    "tiktok_handle": "@brenda52",
+    "joined_at": "2025-02-25T15:20:16.334503",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0499426b-088d-4c9f-b975-88bd5185584c",
+            "brand": "Vasquez, Rodriguez and Ferguson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e2a566de-f814-43fb-8d97-03177d8a346b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.martinez.com/",
+                    "likes": 4610,
+                    "comments": 266,
                     "shares": 35,
                     "reach": 914
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5319.13
         }
     ]
 }

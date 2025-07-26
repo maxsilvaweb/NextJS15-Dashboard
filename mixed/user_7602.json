@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "26c59b1e-f4fd-4a9b-afe9-4bde4c2737db",
+    "name": "Seth Sparks",
+    "email": "mwhite@example.org",
+    "instagram_handle": "@torresstephen",
+    "tiktok_handle": "@rgutierrez",
+    "joined_at": "2024-07-16T17:34:15.167623",
     "advocacy_programs": [
         {
             "program_id": "bfe6cb5f-284d-4621-a238-abbecebd9afb",
-            "brand": 12345,
+            "brand": "Ross-Taylor",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "1b7bbc38-089f-4b93-bd05-37909e1128c4",
+                    "platform": "TikTok",
+                    "post_url": "http://www.sandoval.org/",
+                    "likes": 9221,
                     "comments": 49,
                     "shares": 95,
                     "reach": 1813
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9875.46
         }
     ]
 }

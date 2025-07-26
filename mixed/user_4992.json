@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ff42146e-0c08-4a2d-8300-427589930ce7",
+    "name": "Kimberly James",
+    "email": "sandradurham@example.com",
+    "instagram_handle": "@marcusjackson",
+    "tiktok_handle": "@david44",
+    "joined_at": "2025-05-07T20:19:10.036552",
     "advocacy_programs": [
         {
             "program_id": "bbc1dde6-3668-4812-9840-bf2077b8594c",
-            "brand": 12345,
+            "brand": "Schroeder-Horne",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "47153f25-63f6-4d11-9c0c-17084754b350",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.parker-smith.net/",
+                    "likes": 5622,
                     "comments": 16,
                     "shares": 97,
                     "reach": -1000

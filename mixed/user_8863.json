@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "1d303e29-4871-48d3-abd2-d8c744b81dda",
+    "name": "Jenna King",
     "email": "Retha.Predovic22@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@susangonzalez",
+    "tiktok_handle": "@uday",
+    "joined_at": "2024-08-01T07:01:16.235427",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "11be8cbc-be80-4239-9963-074a2e2598a2",
+            "brand": "Porter PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d429d046-89a7-4f8c-91a7-e0dee62a11cc",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://mitchell.info/",
+                    "likes": 971,
+                    "comments": 46,
                     "shares": 25,
                     "reach": 6200
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8857.68
         }
     ]
 }

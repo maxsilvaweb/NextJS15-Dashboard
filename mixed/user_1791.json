@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "127bc97f-bb02-402c-b6ec-e2a471753024",
+    "name": "Michael Whitney",
+    "email": "andersonmichael@example.org",
+    "instagram_handle": "@alanatkins",
+    "tiktok_handle": "@david04",
+    "joined_at": "2025-02-23T10:22:56.060632",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "893cee06-4342-457c-b1f8-a67ddd4dfee8",
+            "brand": "Sanchez-White",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a5b6c802-fc35-47bc-8bf7-b7ce62b6ca94",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.price-fowler.net/",
+                    "likes": 3818,
                     "comments": 40,
                     "shares": 83,
                     "reach": 4920
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9181.06
         }
     ]
 }

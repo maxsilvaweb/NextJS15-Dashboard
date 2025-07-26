@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae26",
-  "name": "Max Silva27",
-  "email": "maxsilvvauk@27xwwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae26",
+    "name": "Max Silva27",
+    "email": "maxsilvvauk@27xwwilwweeewd.com",
+    "instagram_handle": "@tmartinez",
+    "tiktok_handle": "@harrisoncarlos",
+    "joined_at": "2023-09-14T12:57:59.401038",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "4aac3456-5207-42d3-ba9f-e2de91c59611",
+            "brand": "Santos-Wolf",
+            "tasks_completed": [
+                {
+                    "task_id": "b1cafef1-f47d-4804-8ff0-76d7626617a1",
+                    "platform": "TikTok",
+                    "post_url": "http://davis.com/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 8044.63
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

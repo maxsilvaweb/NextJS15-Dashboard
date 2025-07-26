@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1a1d61b8-4fcc-4a48-b919-7418ae94abd3",
+    "name": "Jody Edwards",
+    "email": "mclaughlinheather@example.com",
+    "instagram_handle": "@bryan29",
+    "tiktok_handle": "@brooksjennifer",
+    "joined_at": "2024-11-25T13:31:48.278563",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fcceeb28-57d8-44ce-af6f-ef7b5e6d9aef",
+            "brand": "Clark and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2bf1e59c-0d77-4410-9c34-3b7580579335",
                     "platform": "TikTok",
                     "post_url": "https://determined-juggernaut.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7527,
+                    "comments": 400,
                     "shares": 84,
                     "reach": 8115
                 }

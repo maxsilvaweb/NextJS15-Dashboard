@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f4a0f5b5-84a5-48a8-9ce2-6fe819801902",
+    "name": "Nancy Rivera",
+    "email": "jennifersmith@example.org",
+    "instagram_handle": "@welchjamie",
+    "tiktok_handle": "@emeyers",
+    "joined_at": "2025-01-17T04:33:19.130094",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1e54b0c2-bf8f-45b1-a5d2-bcc2d70d2cd5",
+            "brand": "Rhodes and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cbe25e3d-984a-4ba9-b070-0927ddd41e0e",
                     "platform": "TikTok",
                     "post_url": "https://grizzled-thread.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 412,
+                    "comments": 51,
                     "shares": 15,
                     "reach": 9474
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9716.52
         }
     ]
 }

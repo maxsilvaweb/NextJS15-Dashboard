@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a82ecbc8-17f8-48f0-971e-247535c58ab4",
+    "name": "Christopher Oneal",
+    "email": "csmith@example.org",
+    "instagram_handle": "@martinezanthony",
+    "tiktok_handle": "@ujordan",
+    "joined_at": "2024-06-29T01:14:52.430031",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bf964be8-13f4-4196-97ef-60e2a3b553e3",
+            "brand": "Stark, Hill and Graves",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0fd887e3-9379-4964-a7f3-b147f92acbf2",
                     "platform": "TikTok",
                     "post_url": "https://immaculate-hygienic.info/",
-                    "likes": "NaN",
+                    "likes": 9848,
                     "comments": 47,
                     "shares": 52,
                     "reach": 9126
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 768.47
         }
     ]
 }

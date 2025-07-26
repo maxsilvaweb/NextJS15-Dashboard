@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a2764859-0820-4821-9812-d9623dea76b5",
+    "name": "Julia Garrison",
+    "email": "sheena91@example.net",
+    "instagram_handle": "@hallronald",
+    "tiktok_handle": "@johnsontodd",
+    "joined_at": "2024-04-16T11:29:42.211963",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2fdb2b85-8fc2-4d94-8173-3f05cc6e1538",
+            "brand": "Shaw Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c86b3f1e-2b66-45cb-9f9e-17e31ac8b890",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.owen.info/",
+                    "likes": 3276,
                     "comments": 6,
                     "shares": 45,
                     "reach": 782
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6947.98
         }
     ]
+}

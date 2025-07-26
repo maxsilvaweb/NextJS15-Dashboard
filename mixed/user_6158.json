@@ -1,9 +1,9 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "44e054f1-a943-4f6d-bec9-5a42f1d11c2f",
+    "name": "Antonio Jones",
     "email": "Rita_Runolfsson@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@schultzkelli",
+    "tiktok_handle": "@gknight",
     "joined_at": "2024-06-13T01:16:43.017Z",
     "advocacy_programs": [
         {
@@ -13,14 +13,14 @@
                 {
                     "task_id": "f5f8897c-aa94-4ac6-a2ee-d4e15fc4885b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://robbins.info/",
+                    "likes": 7921,
+                    "comments": 210,
                     "shares": 99,
                     "reach": 6693
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1465.87
         }
     ]
 }

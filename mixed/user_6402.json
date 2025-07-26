@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "537b3e74-9069-4735-a833-76c98cb4b154",
+    "name": "Maria Scott",
+    "email": "charlene23@example.net",
+    "instagram_handle": "@imitchell",
+    "tiktok_handle": "@andreacruz",
+    "joined_at": "2025-07-07T15:20:29.505693",
     "advocacy_programs": [
         {
             "program_id": "b6e90fc0-a530-4505-99bc-40c9db72a2b1",
-            "brand": 12345,
+            "brand": "Kline-Sparks",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9e123dd7-e78b-40ac-8508-598f2f3de5a4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.morales.com/",
+                    "likes": 7869,
+                    "comments": 116,
                     "shares": 13,
                     "reach": 6294
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5427.64
         }
     ]
 }

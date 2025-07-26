@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c7fd79db-33d5-4a56-ab0e-0e53b5f56cea",
+    "name": "Thomas Gilbert",
+    "email": "canderson@example.com",
+    "instagram_handle": "@marybradford",
+    "tiktok_handle": "@cassandrawalters",
+    "joined_at": "2024-11-20T23:10:45.329477",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "511fa042-1c4f-4dc8-84a3-1abbf00b33fe",
+            "brand": "Davenport PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a5067b86-2b9c-4c54-a3cf-2654772e4ca1",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://bryant.biz/",
+                    "likes": 2933,
+                    "comments": 294,
                     "shares": 8,
                     "reach": 4093
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9418.13
         }
     ]
 }

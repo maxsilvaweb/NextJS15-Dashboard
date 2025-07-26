@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d8eedef2-9ca1-4c1a-b7fc-21b6a9cac60c",
+    "name": "Russell Hudson",
+    "email": "michael83@example.net",
+    "instagram_handle": "@mbeck",
+    "tiktok_handle": "@simpsonantonio",
+    "joined_at": "2024-08-26T21:59:10.289936",
     "advocacy_programs": [
         {
             "program_id": "3e37dea7-e1d7-45ef-b3c2-e9be5e0e96b2",
-            "brand": 12345,
+            "brand": "Wang Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d6b9c959-ef12-4547-baa8-217bda57e1f3",
                     "platform": "TikTok",
                     "post_url": "https://quiet-millet.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7020,
+                    "comments": 262,
                     "shares": 34,
                     "reach": 6947
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5696.54
         }
     ]
 }

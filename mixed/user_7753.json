@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b1d12e04-1dae-45ae-9a4a-515022ae5f63",
+    "name": "Lauren Baker",
+    "email": "glendabutler@example.com",
+    "instagram_handle": "@vrodriguez",
+    "tiktok_handle": "@ryan58",
+    "joined_at": "2024-08-26T11:12:14.504040",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "51435624-b3a5-46b9-9e30-ece503aad989",
+            "brand": "Cabrera, Sheppard and Walton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1ee499d8-cac6-4435-85c1-d7b586878978",
                     "platform": "Instagram",
                     "post_url": "https://hot-underneath.com/",
                     "likes": 475,
-                    "comments": null,
+                    "comments": 147,
                     "shares": 57,
                     "reach": 3024
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5942.75
         }
     ]
 }

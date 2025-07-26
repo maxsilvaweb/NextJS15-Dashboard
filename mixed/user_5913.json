@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f4249f17-f3de-47ab-b86f-9e3873ced350",
+    "name": "James Griffin",
+    "email": "shayes@example.net",
+    "instagram_handle": "@simpsonjustin",
+    "tiktok_handle": "@jamesrichardson",
+    "joined_at": "2023-10-24T23:21:52.076048",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2e55b0f0-9680-42fa-acac-9fd866fbd16e",
+            "brand": "Kramer, Bryant and Vega",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "2e16e216-264f-4360-a70e-6fafd190e81f",
+                    "platform": "TikTok",
+                    "post_url": "http://jordan-shah.info/",
+                    "likes": 263,
+                    "comments": 487,
                     "shares": 16,
                     "reach": 3584
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9465.75
         }
     ]
 }

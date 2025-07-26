@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "573001ea-0080-4ed5-97bb-c8c24e182495",
+    "name": "Adam Smith",
+    "email": "balljessica@example.org",
+    "instagram_handle": "@richardjohnson",
+    "tiktok_handle": "@hrichard",
+    "joined_at": "2024-05-01T06:40:34.979794",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e20217e4-dcf2-4b0c-b5c4-428bca420e85",
+            "brand": "Smith-Nelson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "57a14715-80d4-48fd-8706-52b00e12ab47",
                     "platform": "Instagram",
                     "post_url": "https://aggressive-collectivization.org/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8851,
+                    "comments": 378,
                     "shares": 49,
                     "reach": 3980
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1962.23
         }
     ]
 }

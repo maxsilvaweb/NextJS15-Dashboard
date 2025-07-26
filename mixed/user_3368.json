@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b8101297-35f2-416c-be86-48443489a365",
+    "name": "Maureen Moore",
+    "email": "rachel53@example.org",
+    "instagram_handle": "@jeremy62",
+    "tiktok_handle": "@gentryluke",
+    "joined_at": "2024-01-22T04:54:38.066380",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "320a3d1c-5976-49c9-903c-72157a82dd37",
+            "brand": "Collins-Parks",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5a131d4f-0290-4960-85c5-25b1fae8ce7c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.anderson-bates.net/",
+                    "likes": 2456,
+                    "comments": 312,
                     "shares": 75,
                     "reach": 5508
                 }

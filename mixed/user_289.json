@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "ffe95087-2478-4f94-8290-0bfa7b73e672",
+    "name": "David Rhodes",
     "email": "Idell54@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@ajimenez",
+    "tiktok_handle": "@jmoore",
+    "joined_at": "2025-06-07T14:29:20.673447",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "85355a31-2f10-44f6-9374-f930ea05c98b",
+            "brand": "Dodson, Fernandez and Green",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "53a96cde-ffc1-45c8-97e3-cd42663ca286",
+                    "platform": "YouTube",
+                    "post_url": "http://www.rodriguez.org/",
+                    "likes": 1431,
+                    "comments": 455,
                     "shares": 11,
                     "reach": 920
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6294.2
         }
     ]
 }

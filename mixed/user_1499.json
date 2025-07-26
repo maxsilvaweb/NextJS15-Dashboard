@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "71fe862d-7977-4705-b12f-f06d0db67d57",
+    "name": "Jermaine Smith",
+    "email": "pcasey@example.com",
+    "instagram_handle": "@tombrown",
+    "tiktok_handle": "@autumn15",
+    "joined_at": "2023-08-30T18:52:12.518477",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d7b8cb08-3a08-4c5e-8793-0ffab7f89d4f",
+            "brand": "Compton-Barnes",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ce146eaf-52f1-4caf-abe0-da1dfed3e035",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://kaufman.biz/",
                     "likes": 56,
                     "comments": 10,
                     "shares": 92,
                     "reach": 1628
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8872.08
         }
     ]
 }

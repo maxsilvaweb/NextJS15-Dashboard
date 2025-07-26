@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c78c0672-1293-4466-ad10-6d1cfff4774c",
+    "name": "Alexander Berry",
+    "email": "harrisveronica@example.com",
+    "instagram_handle": "@gjones",
+    "tiktok_handle": "@awebb",
+    "joined_at": "2024-07-17T18:45:27.899052",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7483f82e-5127-402a-9686-25a56b636660",
+            "brand": "Schultz, Smith and Mcdaniel",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "49602ce6-9fb4-4362-9170-0b69b7208a55",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.green-kelly.info/",
+                    "likes": 657,
+                    "comments": 2,
                     "shares": 84,
                     "reach": 4484
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3971.4
         }
     ]
 }

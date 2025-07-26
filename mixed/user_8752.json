@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2b0713b8-8412-4419-a1a4-fafa56fde21c",
+    "name": "Amanda Bell",
+    "email": "hsimon@example.org",
+    "instagram_handle": "@thompsonchristopher",
+    "tiktok_handle": "@mtaylor",
+    "joined_at": "2025-06-14T04:46:49.821392",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a59cc4fb-7cb1-45fa-9899-7c04dfc231bd",
+            "brand": "Foster, Palmer and Grant",
             "tasks_completed": [
                 {
                     "task_id": "afa9d801-3a19-4310-80b2-46bc3c1dfed6",
-                    "platform": 123,
+                    "platform": "TikTok",
                     "post_url": "https://aggravating-compromise.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 960,
+                    "comments": 490,
                     "shares": 40,
                     "reach": 6019
                 }

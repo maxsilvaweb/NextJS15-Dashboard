@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "96defbb6-d055-4327-b15e-18d76f1bbe30",
     "name": "Fannie Hettinger",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "email": "marie15@example.com",
+    "instagram_handle": "@stephaniebush",
     "tiktok_handle": "@Jevon.OConnell-Schimmel",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-10-29T00:31:52.939813",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f3637d75-d3ae-4288-b0d6-b54abf3695cb",
+            "brand": "Thomas-Bowman",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dab1de53-bb67-404c-9dec-ba04c0f7ccbc",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://bruce-harris.net/",
+                    "likes": 4106,
+                    "comments": 357,
                     "shares": 49,
                     "reach": 8859
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6831.11
         }
     ]
 }

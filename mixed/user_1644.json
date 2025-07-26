@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c00d0e02-5fd1-4aa2-893d-7a3d83fabfe0",
+    "name": "Sarah Richardson",
+    "email": "denise15@example.com",
+    "instagram_handle": "@reginaldgarrison",
+    "tiktok_handle": "@paul36",
+    "joined_at": "2025-07-03T03:48:09.093832",
     "advocacy_programs": [
         {
             "program_id": "cfd26d2c-ac2d-4ca9-a963-2a504123d46e",
-            "brand": 12345,
+            "brand": "Jones-Stanley",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e75b1a4f-68cc-4024-8929-3a6e17cf8fa3",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.vega-robinson.com/",
+                    "likes": 2888,
+                    "comments": 292,
                     "shares": 29,
                     "reach": 3959
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4478.84
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3d0aa5e3-d8f7-4a54-9d2a-54e09c264f3f",
+    "name": "Michael Lambert",
+    "email": "laurencarpenter@example.org",
+    "instagram_handle": "@millerheather",
+    "tiktok_handle": "@robert96",
+    "joined_at": "2025-04-15T22:37:54.356820",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "92893344-0e89-4bb2-9389-0189c9c5adb5",
+            "brand": "Hall Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1c365995-6324-4688-b9e5-2639a0109963",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://sherman-hensley.org/",
                     "likes": 216,
-                    "comments": null,
+                    "comments": 157,
                     "shares": 57,
                     "reach": 3053
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4035.4
         }
     ]
 }

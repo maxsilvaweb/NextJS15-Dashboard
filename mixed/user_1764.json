@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "24c22396-b9c8-4ae7-99e0-f41888491fb5",
+    "name": "Christina Sullivan",
+    "email": "richardjones@example.com",
+    "instagram_handle": "@edwardssean",
+    "tiktok_handle": "@kathryn48",
+    "joined_at": "2023-11-24T00:33:07.927339",
     "advocacy_programs": [
         {
             "program_id": "1c238dc1-e330-4da6-a110-96ab16587b34",
-            "brand": 12345,
+            "brand": "Austin PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "46093171-b8df-4aab-94ed-c190d95d2edc",
+                    "platform": "Instagram",
+                    "post_url": "http://www.park-lee.com/",
                     "likes": 90,
                     "comments": 20,
                     "shares": 72,
                     "reach": 3082
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 183.61
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "78429b96-d83b-415b-adc2-8d1921d6731f",
+    "name": "Mrs. Cheryl Dominguez",
+    "email": "cynthialopez@example.com",
+    "instagram_handle": "@ngrimes",
+    "tiktok_handle": "@kennethrodriguez",
+    "joined_at": "2025-01-23T14:08:26.019257",
     "advocacy_programs": [
         {
             "program_id": "5e37ca58-dcef-4a61-8eb2-b2a2fca771d5",
-            "brand": 12345,
+            "brand": "Rangel-Munoz",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "e6c737d3-7320-4363-a39a-8ff6c6a89240",
+                    "platform": "Twitter",
+                    "post_url": "https://mitchell.info/",
+                    "likes": 7757,
+                    "comments": 168,
                     "shares": 34,
                     "reach": 9821
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6946.39
         }
     ]
 }

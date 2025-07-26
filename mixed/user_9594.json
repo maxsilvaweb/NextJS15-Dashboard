@@ -1,21 +1,21 @@
 {
-    "user_id": null,
+    "user_id": "59c1d676-0680-47b0-9197-6877c5dc2c0e",
     "name": "Enrique Gottlieb",
     "email": "Everette14@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@robertsontimothy",
+    "tiktok_handle": "@samuelowens",
+    "joined_at": "2024-07-12T08:38:07.918105",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "121d6e00-d046-40f2-a80c-4fdeeb720023",
+            "brand": "Johnson-Cannon",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "92a0ede6-a1c8-4cd3-bed1-17e77ea163ef",
                     "platform": "TikTok",
                     "post_url": "https://finished-meadow.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2973,
+                    "comments": 228,
                     "shares": 41,
                     "reach": -1000
                 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "104f1695-cf80-4f8b-ab02-a587b2cee63f",
+    "name": "Joseph Berg",
+    "email": "mary53@example.org",
+    "instagram_handle": "@leekristin",
+    "tiktok_handle": "@joseph43",
+    "joined_at": "2024-02-24T10:26:47.771536",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "131375b0-9d78-49da-82cd-905bc3a59309",
+            "brand": "Ruiz, Dennis and Ramirez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "47644f0a-2ba0-47b9-abc6-427b39d93316",
                     "platform": "TikTok",
                     "post_url": "https://precious-calculus.info/",
                     "likes": 173,
-                    "comments": null,
+                    "comments": 441,
                     "shares": 60,
                     "reach": 7957
                 }

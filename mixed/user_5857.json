@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6655ff32-a300-4771-b7bb-24a64005d0ec",
+    "name": "Bill Martinez",
+    "email": "mbaker@example.com",
+    "instagram_handle": "@schultzcassandra",
+    "tiktok_handle": "@xlewis",
+    "joined_at": "2024-04-21T23:38:53.968051",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b60ccfc0-d909-4e04-a484-7d08b97bd191",
+            "brand": "Mullen-Hoffman",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f7443ab1-ecf3-4606-98ac-67dd4e5be145",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://thomas-taylor.info/",
                     "likes": 284,
-                    "comments": null,
+                    "comments": 292,
                     "shares": 86,
                     "reach": 1966
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5607.81
         }
     ]
 }

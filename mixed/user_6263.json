@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7ca10512-8624-44d8-9a1c-19a1c32663c9",
+    "name": "Amy Rodriguez",
+    "email": "jeancook@example.com",
+    "instagram_handle": "@nelsonjulie",
+    "tiktok_handle": "@ulong",
+    "joined_at": "2024-05-09T20:08:39.586715",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "958f15ef-5bdf-4648-bf60-72293fc6a3bc",
+            "brand": "Williams, Garza and Holmes",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "572a6c6f-18f6-46d1-b8dd-ff61d027dcd6",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.lopez-schmidt.net/",
                     "likes": 456,
                     "comments": 24,
                     "shares": 33,

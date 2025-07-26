@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fb01d265-a61b-4018-8204-9f25c2e084d4",
+    "name": "Joseph Solomon",
+    "email": "sandrabaldwin@example.com",
+    "instagram_handle": "@laura48",
+    "tiktok_handle": "@rmoody",
+    "joined_at": "2024-01-13T11:47:10.176847",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9e7f7f4c-23b0-4754-9c3e-8086a94c0e80",
+            "brand": "Schaefer Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8e519217-a9f1-4c1e-8038-d4660e6fedb8",
                     "platform": "TikTok",
                     "post_url": "https://self-assured-cutover.org/",
-                    "likes": "NaN",
+                    "likes": 4602,
                     "comments": 19,
                     "shares": 63,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7538.46
         }
     ]
+}

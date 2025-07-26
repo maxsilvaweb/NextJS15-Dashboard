@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "84a71a22-c7f3-4610-b68d-2aa3859a3cc3",
+    "name": "Patricia Thompson",
+    "email": "santiagokimberly@example.net",
+    "instagram_handle": "@jhaynes",
+    "tiktok_handle": "@gbooth",
+    "joined_at": "2025-01-13T17:13:08.964757",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ccd26f2c-744b-42b9-9d0d-1e9470ed55e4",
+            "brand": "Johnson, Thompson and Jones",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e642aff6-f3f7-479b-bf2b-c005282e2b57",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://daniels.com/",
+                    "likes": 1994,
+                    "comments": 492,
                     "shares": 91,
                     "reach": 7910
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 974.41
         }
     ]
 }

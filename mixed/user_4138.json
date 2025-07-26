@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "32ef5263-09e5-417f-9fa6-dbfcb7a70ff9",
+    "name": "Ruth Gray",
+    "email": "lmartinez@example.net",
+    "instagram_handle": "@hillmatthew",
+    "tiktok_handle": "@mweaver",
+    "joined_at": "2025-02-25T23:15:23.608884",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3e3af5bf-bab7-43c3-b6ea-5d3589925ee7",
+            "brand": "Wilson-Yates",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "19d31d74-fc1b-48d3-bfc4-0385070b9961",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.rich.com/",
+                    "likes": 5169,
+                    "comments": 80,
                     "shares": 77,
                     "reach": 5347
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2019.04
         }
     ]
 }

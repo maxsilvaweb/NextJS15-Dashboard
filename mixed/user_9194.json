@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cd90a53d-1cb8-40fd-a91c-7fd6de5e3731",
+    "name": "Mary Crosby",
+    "email": "rrodriguez@example.net",
+    "instagram_handle": "@mckeemadison",
+    "tiktok_handle": "@btorres",
+    "joined_at": "2024-09-09T06:05:48.838865",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0fa7cffd-9e03-49d5-ab43-058a409aa2d9",
+            "brand": "Jones, Mckay and Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f8c3818b-4eed-4c44-8a74-84b84e6e641c",
                     "platform": "TikTok",
                     "post_url": "https://boring-obesity.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 394,
+                    "comments": 499,
                     "shares": 44,
                     "reach": 7495
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9660.58
         }
     ]
 }

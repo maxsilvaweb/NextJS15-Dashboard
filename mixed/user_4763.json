@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d9312e57-d016-4319-b469-cbd65557e505",
+    "name": "William Hines",
+    "email": "thomassamantha@example.net",
+    "instagram_handle": "@angela39",
+    "tiktok_handle": "@barbara28",
+    "joined_at": "2024-06-19T01:32:17.881404",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8aea7adb-799a-43d2-aafb-0360982c99b7",
+            "brand": "Bryant, Blake and Randall",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1f809a8a-0da7-4ad4-9899-d44d69f95b7e",
                     "platform": "TikTok",
                     "post_url": "https://powerless-summary.com/",
                     "likes": 482,
-                    "comments": null,
+                    "comments": 386,
                     "shares": 73,
                     "reach": 2834
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3305.34
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
     "user_id": "28db05ab-1cbb-415f-b605-cb9b035a2d9a",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Justin Dodson",
+    "email": "rbutler@example.com",
+    "instagram_handle": "@uchavez",
+    "tiktok_handle": "@ilove",
+    "joined_at": "2024-02-17T00:19:48.523563",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "803d6987-80c5-4368-a26d-28e64941222f",
+            "brand": "Moses, Morse and Jones",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b254dead-8e4d-4bd0-b53f-8e0e5a95fe40",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.kim.com/",
                     "likes": 252,
                     "comments": 46,
                     "shares": 86,
                     "reach": 9094
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4181.72
         }
     ]
 }

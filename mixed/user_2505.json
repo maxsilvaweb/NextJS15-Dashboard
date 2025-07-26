@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "315f7591-ff23-4bc2-ba9c-f30730b426fd",
     "name": "Michael Roob",
     "email": "Trycia91@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@camposmikayla",
+    "tiktok_handle": "@sara71",
+    "joined_at": "2024-08-28T11:28:09.273969",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3b172482-9c11-4718-807b-8022f1e6184d",
+            "brand": "Weaver-Kim",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "16e96492-9117-4769-88f7-96bb5d643dee",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://harris.org/",
+                    "likes": 7214,
+                    "comments": 372,
                     "shares": 77,
                     "reach": 9206
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1604.27
         }
     ]
 }

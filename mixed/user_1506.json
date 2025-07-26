@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "b74b302b-b47d-4da4-8433-db9386125c4d",
+    "name": "Christopher Johnson",
     "email": "Delfina75@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@cynthia89",
+    "tiktok_handle": "@mullinsbrianna",
+    "joined_at": "2024-08-16T20:24:38.264323",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9964a1bf-a955-432f-852d-95758be33e8b",
+            "brand": "Wallace and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "ec6fa5db-9ac6-45da-a009-ffcbc8e941f8",
+                    "platform": "TikTok",
+                    "post_url": "https://www.white.info/",
                     "likes": 89,
-                    "comments": null,
+                    "comments": 304,
                     "shares": 46,
                     "reach": 1923
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e1923501-58e7-401d-a977-d8f85932ab02",
+    "name": "Jenna Sawyer",
+    "email": "dudleykevin@example.com",
+    "instagram_handle": "@tjohnson",
+    "tiktok_handle": "@youngcraig",
+    "joined_at": "2025-01-22T17:57:08.616133",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "46ab2300-0778-476a-9477-fde1c4d0bf5c",
+            "brand": "Swanson PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1d4ffb61-c070-4434-88a1-9f93e5b0084b",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.preston.com/",
+                    "likes": 561,
+                    "comments": 126,
                     "shares": 49,
                     "reach": 2070
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6284.09
         }
     ]
 }

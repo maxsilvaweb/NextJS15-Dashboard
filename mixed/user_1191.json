@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "605a07b7-fc16-49ef-9c26-d7e66ff8777a",
+    "name": "Paul Williams",
+    "email": "samantha71@example.net",
+    "instagram_handle": "@cgriffith",
+    "tiktok_handle": "@philipfoley",
+    "joined_at": "2025-05-27T05:58:31.534635",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dddab868-ed79-40f0-8328-b806ce8fa051",
+            "brand": "Patel PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "c30285e2-18ac-4a7c-b545-453f9c86fd9f",
+                    "platform": "Instagram",
+                    "post_url": "http://barajas.com/",
+                    "likes": 5060,
+                    "comments": 308,
                     "shares": 10,
                     "reach": 3328
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 328.78
         }
     ]
 }

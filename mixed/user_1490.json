@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bb6674b4-7a2a-4498-aa1d-b5f153df2810",
+    "name": "Jeffrey Adams",
+    "email": "margaret36@example.org",
+    "instagram_handle": "@guerrerokathryn",
+    "tiktok_handle": "@james75",
+    "joined_at": "2024-08-30T10:16:03.120163",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "adfb1794-3862-4c47-9f39-1eacc01b74f2",
+            "brand": "Rodgers-Sullivan",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "820bc741-ac64-4891-aa37-e0420ee743b2",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.bowman.com/",
                     "likes": 139,
-                    "comments": null,
+                    "comments": 461,
                     "shares": 37,
                     "reach": 8057
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7521.9
         }
     ]
+}

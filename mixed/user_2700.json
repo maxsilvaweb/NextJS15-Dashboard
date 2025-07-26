@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a9495484-7c82-42e6-8667-995336a6ad98",
+    "name": "Angela Reid",
+    "email": "pamelabell@example.net",
+    "instagram_handle": "@codybush",
+    "tiktok_handle": "@acostadaniel",
+    "joined_at": "2023-11-10T21:40:09.603637",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7585f286-b397-4acd-9993-434a97d9fa71",
+            "brand": "Nolan-Young",
             "tasks_completed": [
                 {
                     "task_id": "10bc6cc3-7d46-46f8-bee8-1c3f99c00654",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.mcbride.com/",
+                    "likes": 4417,
+                    "comments": 131,
                     "shares": 53,
                     "reach": 7067
                 }

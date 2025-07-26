@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9323c37d-5558-42be-ba81-bb288ac5976e",
+    "name": "Shane Farmer",
+    "email": "darrylbell@example.com",
+    "instagram_handle": "@rholland",
+    "tiktok_handle": "@cruzscott",
+    "joined_at": "2024-11-02T23:45:47.012480",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3524d26a-3cef-488a-8c98-68a86b41eda7",
+            "brand": "Long, Coleman and Coleman",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bfd9ba13-ecc5-4543-9767-bc3d52e3a694",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.garrison.com/",
+                    "likes": 1281,
                     "comments": 31,
                     "shares": 61,
                     "reach": 1196
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5228.95
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "1dc44db6-6332-45e5-a41b-63ae50dc5500",
+    "name": "Trevor Blair",
+    "email": "andreabrown@example.org",
     "instagram_handle": "@Holly_Hickle57",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@hicksdaniel",
+    "joined_at": "2025-06-15T10:09:28.679793",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8b03626e-dde5-4c3b-b10a-980f550738c9",
+            "brand": "Patterson Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1df9b16c-4544-4b7e-84b2-788f1cd85614",
                     "platform": "Instagram",
                     "post_url": "https://mammoth-worth.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9241,
+                    "comments": 352,
                     "shares": 42,
                     "reach": 1749
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7067.82
         }
     ]
 }

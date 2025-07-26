@@ -1,26 +1,26 @@
 {
     "user_id": "d26df9f5-4f38-49e9-bb60-631f7a2497e2",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Jason Anderson",
+    "email": "pachecolorraine@example.org",
+    "instagram_handle": "@ronaldvillarreal",
+    "tiktok_handle": "@melaniepeters",
+    "joined_at": "2025-02-23T00:23:38.168988",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f03934c1-ba67-4c97-a62d-6ba359b815f3",
+            "brand": "Martin-Adams",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cf8f8ed7-baf6-486e-8fbd-a99e23ccb035",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.morrison.biz/",
                     "likes": 215,
-                    "comments": null,
+                    "comments": 361,
                     "shares": 23,
                     "reach": 7985
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4232.29
         }
     ]
 }

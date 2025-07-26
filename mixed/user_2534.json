@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "270813bb-c05d-4dc6-b644-14d7eb630aaa",
+    "name": "Ronald Valdez",
     "email": "Carolanne84@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@hcain",
+    "tiktok_handle": "@renee90",
+    "joined_at": "2024-06-13T23:25:10.122043",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3dd95c07-933d-4cb1-8af9-fce9012e0510",
+            "brand": "Moran, Lara and Downs",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1506f0c9-1749-4f66-93e9-4b9cf8630ce2",
                     "platform": "Facebook",
                     "post_url": "https://male-completion.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1355,
+                    "comments": 228,
                     "shares": 48,
                     "reach": 1228
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9249.3
         }
     ]
 }

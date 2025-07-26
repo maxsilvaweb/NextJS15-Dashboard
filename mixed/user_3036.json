@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cdaecb62-b3de-4f6b-b9ef-09575638e4e8",
+    "name": "Bruce Goodwin",
+    "email": "lewisjohn@example.net",
+    "instagram_handle": "@mscott",
+    "tiktok_handle": "@joneslori",
+    "joined_at": "2023-09-18T18:32:18.472919",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "72d18d95-d23d-4ec8-b592-ad28b1d67d57",
+            "brand": "Schneider-Heath",
             "tasks_completed": [
                 {
                     "task_id": "5a80965a-50d3-4c00-b531-006530320578",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://cross-mcgee.com/",
+                    "likes": 7866,
+                    "comments": 233,
                     "shares": 49,
                     "reach": 648
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7265.6
         }
     ]
 }

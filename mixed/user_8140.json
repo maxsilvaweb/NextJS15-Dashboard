@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "071d68b6-f371-48e3-a847-3c3c03032c1f",
+    "name": "Kent Green",
+    "email": "woodsriley@example.org",
+    "instagram_handle": "@qwebb",
+    "tiktok_handle": "@adamscurtis",
+    "joined_at": "2023-11-18T18:52:39.133474",
     "advocacy_programs": [
         {
             "program_id": "9b92cb71-aa90-4338-949d-b14d8d5f4c7a",
-            "brand": 12345,
+            "brand": "Jones-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "b92b116b-19f5-4da6-9c37-dca97abe4254",
+                    "platform": "Twitter",
+                    "post_url": "http://lane.com/",
+                    "likes": 2412,
+                    "comments": 113,
                     "shares": 25,
                     "reach": 2513
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 140.59
         }
     ]
 }

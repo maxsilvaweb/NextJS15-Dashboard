@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "59df2184-1c28-4370-8cb0-d02da664155b",
+    "name": "Troy Rodriguez",
+    "email": "amanda95@example.net",
+    "instagram_handle": "@csmith",
+    "tiktok_handle": "@gbell",
+    "joined_at": "2024-06-06T17:55:16.658645",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "82e72293-fad3-45d3-8ec4-8a7bcac7cf71",
+            "brand": "Horton-Garcia",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ecbf3ba8-bff2-41a0-88ae-8411c4f8a790",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.young-green.com/",
+                    "likes": 2339,
+                    "comments": 35,
                     "shares": 98,
                     "reach": 1383
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 4883.020636813385
         }
     ]
+}

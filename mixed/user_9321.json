@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4308a8cc-acab-44e3-b3e2-ab48266ca973",
+    "name": "Dr. Brittany Mccullough",
+    "email": "brownrichard@example.net",
+    "instagram_handle": "@john65",
+    "tiktok_handle": "@nicolebriggs",
+    "joined_at": "2024-04-21T20:11:19.420746",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5a130ec1-6a85-4951-b96f-3cfc63b5b782",
+            "brand": "Gardner-Lewis",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "37887554-3105-46db-b795-737499a1eca5",
+                    "platform": "YouTube",
                     "post_url": "https://rowdy-extent.org",
                     "likes": 166,
-                    "comments": null,
+                    "comments": 167,
                     "shares": 97,
                     "reach": 1511
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9629.02
         }
     ]
 }

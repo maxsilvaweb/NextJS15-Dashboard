@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "8f32e96d-1f14-4f6f-9e3f-54a75d684e06",
+    "name": "John Barajas",
     "email": "Leslie.Kub95@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@thomasjohnson",
+    "tiktok_handle": "@rhendricks",
+    "joined_at": "2024-12-13T23:46:05.572924",
     "advocacy_programs": [
         {
             "program_id": "da38d246-7c09-47e3-b07c-15e268b4d590",
-            "brand": 12345,
+            "brand": "Harrison, Brooks and Brown",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "a8ab9ff3-d0bc-4029-9944-1498c70ed099",
+                    "platform": "YouTube",
+                    "post_url": "https://www.vaughn-perez.com/",
                     "likes": 336,
                     "comments": 36,
                     "shares": 3,

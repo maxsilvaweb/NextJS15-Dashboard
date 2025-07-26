@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1a923b09-2d77-44ae-97c9-554fd59aea6f",
+    "name": "Sarah Petersen",
+    "email": "oallen@example.org",
+    "instagram_handle": "@grantlong",
+    "tiktok_handle": "@brittany08",
+    "joined_at": "2024-03-12T18:38:58.927047",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5cb4d89e-8d12-450e-ad0c-5dd3ad4224fa",
+            "brand": "Salas Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "958a835f-d2a1-4251-8e7f-b3fe78ace4cd",
+                    "platform": "Twitter",
                     "post_url": "https://scientific-circumference.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7304,
+                    "comments": 364,
                     "shares": 41,
                     "reach": 4158
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8996.36
         }
     ]
 }

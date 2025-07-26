@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8ab804a3-fbab-46e0-b447-72bdc8406672",
+    "name": "Scott Clark",
+    "email": "danielle49@example.com",
+    "instagram_handle": "@meganmason",
+    "tiktok_handle": "@graytiffany",
+    "joined_at": "2024-09-19T08:44:29.793411",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "16d2ed73-a916-4c6a-8085-09ab8ce700f8",
+            "brand": "Waller-Robinson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "31843786-da00-4ad0-abfd-f0a421845e77",
+                    "platform": "Twitter",
+                    "post_url": "https://bailey.com/",
+                    "likes": 8319,
+                    "comments": 1,
                     "shares": 19,
                     "reach": 1527
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6502.45
         }
     ]
 }

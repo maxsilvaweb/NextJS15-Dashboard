@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e078e774-43eb-49df-9ad2-671e6edd890d",
+    "name": "Brandi Moore",
+    "email": "obarr@example.net",
+    "instagram_handle": "@mary48",
+    "tiktok_handle": "@marissa63",
+    "joined_at": "2023-09-17T21:24:19.004314",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "745b82ef-9520-4220-b646-b9bd149e8b24",
+            "brand": "Harris LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d3acce52-cd5d-4d38-b2bf-dc893a0832c6",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.snyder-brown.com/",
+                    "likes": 3224,
+                    "comments": 452,
                     "shares": 6,
                     "reach": 5528
                 }

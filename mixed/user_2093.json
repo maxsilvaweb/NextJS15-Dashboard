@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6351a3ae-65d3-4114-9df0-f140c2bc417f",
+    "name": "Isaac Small",
+    "email": "susanbaker@example.com",
+    "instagram_handle": "@lisa79",
+    "tiktok_handle": "@fjohns",
+    "joined_at": "2024-01-19T07:23:23.157969",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "09267bf1-73fc-4cac-ad34-3718665e3492",
+            "brand": "Adams PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "91c9fa26-8f71-4d80-b486-4d30b219bac7",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://hart.org/",
                     "likes": 358,
                     "comments": 36,
                     "shares": 67,
                     "reach": 9806
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1412.71
         }
     ]
 }

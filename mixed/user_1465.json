@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "850fc1f1-3e05-45eb-b66f-b2988e4ab58a",
+    "name": "Mr. Daniel Klein",
+    "email": "ricky27@example.net",
+    "instagram_handle": "@pwilliamson",
+    "tiktok_handle": "@yharvey",
+    "joined_at": "2024-06-10T04:50:09.268267",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e0bf1ca6-ed80-4566-bae4-aeab35a4550a",
+            "brand": "Davis, Cunningham and Jennings",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "1bab388f-107f-487b-ae27-319fb96d507a",
+                    "platform": "YouTube",
+                    "post_url": "http://walker-torres.net/",
+                    "likes": 2640,
                     "comments": 1,
                     "shares": 49,
                     "reach": 5726

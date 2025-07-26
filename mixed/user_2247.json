@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "35c718cc-9284-418d-b41d-8d78aa7e49a3",
+    "name": "Bryan Wright Jr.",
+    "email": "victoria11@example.net",
+    "instagram_handle": "@becky79",
+    "tiktok_handle": "@hicksamy",
+    "joined_at": "2024-12-11T19:09:01.163045",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "536831c2-f661-4cfc-92f1-c6560304a444",
+            "brand": "Nunez PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1c142e49-e375-49d4-afe8-0158149faaa0",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.hernandez.biz/",
                     "likes": 126,
-                    "comments": null,
+                    "comments": 151,
                     "shares": 62,
                     "reach": 5044
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 545.34
         }
     ]
 }

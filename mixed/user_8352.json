@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c824f700-f19d-4ea9-9fc3-d6eb88add0cc",
+    "name": "Paul Smith",
+    "email": "andrew42@example.com",
+    "instagram_handle": "@ulopez",
+    "tiktok_handle": "@brett85",
+    "joined_at": "2024-08-17T12:23:34.260108",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "95d90410-419e-4c2f-aab8-3671184994b0",
+            "brand": "Fields Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "fe68bfbb-7ed2-4684-85ca-9d029ae58f1c",
+                    "platform": "Twitter",
+                    "post_url": "http://www.carter-romero.com/",
+                    "likes": 850,
                     "comments": 8,
                     "shares": 67,
                     "reach": 8411
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 894.12
         }
     ]
 }

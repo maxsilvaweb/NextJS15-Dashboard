@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "65d39e6d-6ecd-4476-8216-485ed7c4a0d1",
+    "name": "Timothy Nelson",
+    "email": "aprice@example.org",
+    "instagram_handle": "@larry18",
     "tiktok_handle": "@Berry.Sipes",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-08-24T13:14:31.872848",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d394e1d1-ae51-4e7f-bc09-f55991d1ddd6",
+            "brand": "Holland-Barr",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fd29768d-a069-4208-87a1-0ec5090c18b1",
                     "platform": "Facebook",
                     "post_url": "https://urban-mozzarella.com",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6343,
+                    "comments": 388,
                     "shares": 93,
                     "reach": 2330
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5150.21
         }
     ]
 }

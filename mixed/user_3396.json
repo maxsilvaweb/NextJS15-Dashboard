@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0e1923e7-6ca7-4218-b7bc-172e33a8edd7",
+    "name": "Joel Raymond",
+    "email": "brownlisa@example.org",
+    "instagram_handle": "@zschmidt",
+    "tiktok_handle": "@amylawson",
+    "joined_at": "2024-11-08T22:00:27.315452",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2c6ea623-5afd-4ebe-8cfc-d83dfd0ced23",
+            "brand": "Hicks PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e37cb272-3fee-4135-8898-bcafb9705d33",
                     "platform": "TikTok",
                     "post_url": "https://deep-bonfire.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8098,
+                    "comments": 135,
                     "shares": 41,
                     "reach": 3795
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7630.21
         }
     ]
 }

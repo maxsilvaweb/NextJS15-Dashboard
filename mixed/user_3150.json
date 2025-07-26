@@ -1,17 +1,17 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2fc6b2b4-1698-4208-8ad0-f49b88b0d6f9",
+    "name": "George Schroeder",
+    "email": "dodsonwendy@example.net",
+    "instagram_handle": "@lroberts",
+    "tiktok_handle": "@patrick63",
+    "joined_at": "2023-10-10T02:06:03.477073",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a9aa0015-bf63-4221-a20e-f9d1f38349a2",
+            "brand": "Miller PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4b9ad602-9041-429e-bbbf-312d36b8186c",
                     "platform": "Instagram",
                     "post_url": "https://tinted-bungalow.com",
                     "likes": 305,
@@ -20,7 +20,7 @@
                     "reach": 1763
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5905.11
         }
     ]
 }

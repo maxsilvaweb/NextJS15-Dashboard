@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "42b61cd6-0c72-41c4-aa76-1939c6e49e30",
+    "name": "Angela Cooper",
+    "email": "newmanmaria@example.org",
+    "instagram_handle": "@megan21",
     "tiktok_handle": "@Natalie.Howe30",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-02-24T01:48:13.974716",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "89c5bc24-7a17-4779-b179-9c152fa465c3",
+            "brand": "Macdonald LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "bfcd7448-3683-48fa-b33f-99855befe3c1",
+                    "platform": "TikTok",
+                    "post_url": "https://www.george.com/",
+                    "likes": 6393,
+                    "comments": 462,
                     "shares": 76,
                     "reach": 3373
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4083.55
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c7f08273-5925-475d-b145-0aa0a3238ae8",
+    "name": "Mr. Dennis Ross",
+    "email": "mccallsheila@example.org",
+    "instagram_handle": "@patrick07",
+    "tiktok_handle": "@andrewwheeler",
+    "joined_at": "2024-07-09T09:24:06.762485",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8e90aacc-b735-4cbb-bb09-ffea1496bce0",
+            "brand": "King-Strong",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b7cc6c79-392f-484f-a3b6-a116c63e18ac",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://hubbard.com/",
                     "likes": 475,
-                    "comments": null,
+                    "comments": 279,
                     "shares": 33,
                     "reach": 9059
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1987.76
         }
     ]
 }

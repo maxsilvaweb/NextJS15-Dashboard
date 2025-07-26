@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "13fef49b-4d1f-4640-b34e-d651371ff31f",
+    "name": "Amy Bowman",
+    "email": "mdavis@example.org",
+    "instagram_handle": "@lori74",
+    "tiktok_handle": "@destinymartinez",
+    "joined_at": "2024-04-01T15:58:57.915117",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2677fd8d-8127-4cca-aec2-48eaa52c0ba6",
+            "brand": "Williams-Mathews",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "76910ce9-b97c-4e00-bc62-4d3e3559d09e",
+                    "platform": "YouTube",
+                    "post_url": "https://mathews-white.com/",
+                    "likes": 5868,
                     "comments": 45,
                     "shares": 76,
                     "reach": 3716
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6377.35
         }
     ]
+}

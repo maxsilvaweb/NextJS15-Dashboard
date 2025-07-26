@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b42e95a8-09d3-4335-8da2-ad6799b75cbf",
+    "name": "Fernando Lambert",
+    "email": "ubates@example.org",
+    "instagram_handle": "@imendoza",
+    "tiktok_handle": "@kwilliams",
+    "joined_at": "2024-12-21T22:50:33.728235",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6f32acb9-2299-46d2-a84f-cf0a0dd6a60f",
+            "brand": "Smith Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "599a52d8-0216-46c7-9f67-94d7a7f91e04",
                     "platform": "TikTok",
                     "post_url": "https://electric-attraction.info",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6299,
+                    "comments": 461,
                     "shares": 44,
                     "reach": 4455
                 }

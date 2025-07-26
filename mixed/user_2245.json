@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "98a94c66-9629-4746-be02-ca661c98ca27",
+    "name": "Morgan Dickerson",
+    "email": "james97@example.org",
     "instagram_handle": "@Isai68",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@charlenebarnes",
+    "joined_at": "2024-04-11T11:36:04.379533",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9dd92769-8fbe-4184-8987-9e010729f812",
+            "brand": "Coleman, Murillo and Larson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "0768ef06-323a-43ce-ac7a-98f4a9c4cc14",
+                    "platform": "Twitter",
+                    "post_url": "https://www.stone.info/",
+                    "likes": 3047,
+                    "comments": 197,
                     "shares": 12,
                     "reach": 2113
                 }

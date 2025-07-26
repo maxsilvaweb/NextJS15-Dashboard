@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "983e163e-09ac-433d-986e-f1b24ec5350c",
+    "name": "David Green",
+    "email": "karenatkins@example.com",
+    "instagram_handle": "@christopher16",
+    "tiktok_handle": "@qprince",
+    "joined_at": "2023-11-23T01:32:12.064936",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ed79beee-8547-49df-a324-76ea20ce3f58",
+            "brand": "Taylor-Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2c410615-2c6f-419c-9471-2c58d21dbf8b",
                     "platform": "Facebook",
                     "post_url": "https://quarterly-optimal.biz/",
-                    "likes": "NaN",
+                    "likes": 5077,
                     "comments": 4,
                     "shares": 8,
                     "reach": 1439
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3143.41
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fac0d65b-dde9-4a79-b219-b62d8abd8985",
+    "name": "Patty Hopkins",
+    "email": "victoria08@example.net",
+    "instagram_handle": "@andrew30",
+    "tiktok_handle": "@jay88",
+    "joined_at": "2024-10-15T11:31:00.498343",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7a229617-64c3-4e78-8002-f2cb46d71ca0",
+            "brand": "Gallagher, Hill and Ramirez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7b3d1375-4b06-4a94-b754-f1cb4ee6b9e9",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.williams.info/",
+                    "likes": 5046,
                     "comments": 39,
                     "shares": 8,
                     "reach": 9704

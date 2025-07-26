@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c932400e-bddf-4a7c-8857-26632ab35f04",
+    "name": "Hayley Combs",
+    "email": "audrey02@example.com",
+    "instagram_handle": "@murphyjonathan",
+    "tiktok_handle": "@brian17",
+    "joined_at": "2024-05-28T10:17:53.597737",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a6155824-ba8e-45b1-bd99-2d2bead2ea56",
+            "brand": "Ingram, Smith and Chan",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "50a289ed-be79-4f34-af66-ebea6df1cbab",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.soto.com/",
                     "likes": 99,
                     "comments": 8,
                     "shares": 38,
                     "reach": 969
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1621.74
         }
     ]
 }

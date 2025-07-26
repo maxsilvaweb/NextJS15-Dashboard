@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "01d063f8-1bd3-4cb4-a666-679fb8025154",
+    "name": "Brent Hicks",
+    "email": "hbrown@example.com",
+    "instagram_handle": "@ppace",
+    "tiktok_handle": "@zmiller",
+    "joined_at": "2024-10-28T02:06:23.984728",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "d99de5a4-a53d-4759-9691-e85e54f9622e",
             "brand": "Bernhard LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c1762733-7e28-4a04-aaf7-50e2a203bd8f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.scott-blair.com/",
+                    "likes": 1290,
+                    "comments": 393,
                     "shares": 91,
                     "reach": 4163
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2032.09
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
     "user_id": "8f8f60c2-5158-45d2-9147-458e8ec0d45e",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Michael Powell",
+    "email": "doylepatrick@example.net",
+    "instagram_handle": "@mtownsend",
+    "tiktok_handle": "@debra11",
+    "joined_at": "2024-07-24T02:20:45.839536",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a951f57a-da5e-4a52-842f-25d9b4bd1d06",
+            "brand": "Gomez and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bb8b8faa-6fa5-41e4-ab1b-3fc3a70d7862",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://dean-young.info/",
                     "likes": 352,
-                    "comments": null,
+                    "comments": 390,
                     "shares": 28,
                     "reach": 6779
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1656.83
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5241ac34-4801-4cef-a5b4-631ff666d8ac",
+    "name": "Aaron Collins",
+    "email": "amberkline@example.org",
+    "instagram_handle": "@woodssharon",
+    "tiktok_handle": "@pbryant",
+    "joined_at": "2023-12-31T02:57:58.410253",
     "advocacy_programs": [
         {
             "program_id": "8c41175c-12f3-4f61-a733-c56c09e4ea59",
-            "brand": 12345,
+            "brand": "Smith, Reynolds and Dominguez",
             "tasks_completed": [
                 {
                     "task_id": "b04f097c-bf6f-434d-94fa-bdb4742f3585",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "Instagram",
+                    "post_url": "http://www.adams.com/",
+                    "likes": 7335,
+                    "comments": 279,
                     "shares": 83,
                     "reach": 9663
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 903.07
         }
     ]
 }

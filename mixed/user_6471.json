@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5d5c5b17-3d88-4658-9bfd-94f625afe75d",
+    "name": "Christopher Horton",
+    "email": "dennis30@example.net",
+    "instagram_handle": "@jameswilson",
+    "tiktok_handle": "@catherinejohnson",
+    "joined_at": "2023-11-06T11:26:39.059939",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3ec410cc-4734-4a33-994a-075f692d6e74",
+            "brand": "Kent Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c717d877-eb37-49be-a1bd-7bedd1acb2e8",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://hughes.com/",
+                    "likes": 4487,
+                    "comments": 474,
                     "shares": 69,
                     "reach": 3930
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8153.99
         }
     ]
 }

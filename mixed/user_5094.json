@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "2a1611af-95c0-4c69-b64b-29811e04875b",
+    "name": "Luke Rodriguez",
     "email": "Kristofer.Bradtke11@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@robertsmichael",
+    "tiktok_handle": "@xgrant",
+    "joined_at": "2024-05-09T05:36:20.999363",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f0800b4c-b748-4f1a-bfd4-9b271053dc7a",
+            "brand": "Stone, Rios and Green",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "0888be32-d482-47fc-8be2-910cc52141d5",
+                    "platform": "Twitter",
+                    "post_url": "https://www.long.com/",
                     "likes": 275,
-                    "comments": null,
+                    "comments": 200,
                     "shares": 46,
                     "reach": 3958
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b6d3d0bf-5bd0-4965-ab9e-09dc75204641",
+    "name": "Brett Reilly",
+    "email": "andersonalice@example.com",
+    "instagram_handle": "@duncanmichael",
+    "tiktok_handle": "@christinacline",
+    "joined_at": "2024-06-20T00:03:52.401882",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "949e5254-077c-437b-a348-b6365c7b1e97",
+            "brand": "Waters, Mitchell and Calderon",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "222e50c9-01d5-4e32-9a27-0c78f7a40e32",
+                    "platform": "TikTok",
+                    "post_url": "http://vaughan.biz/",
+                    "likes": 5393,
                     "comments": 26,
                     "shares": 65,
                     "reach": 1892
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 819.09
         }
     ]
 }

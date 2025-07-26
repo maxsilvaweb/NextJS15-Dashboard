@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7e2b0990-3c59-4b2b-a99a-796aff056777",
+    "name": "Richard Mitchell",
+    "email": "wesleygarcia@example.org",
+    "instagram_handle": "@jessica49",
+    "tiktok_handle": "@brian04",
+    "joined_at": "2025-04-26T07:19:55.959595",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "04ceea4b-b3c6-4d5e-aea5-53de99321ce7",
+            "brand": "Hansen-Mason",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "efb62086-4b3a-47da-ba79-138f75ec68c3",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://parker.org/",
+                    "likes": 5430,
                     "comments": 46,
                     "shares": 99,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 263.62
         }
     ]
+}

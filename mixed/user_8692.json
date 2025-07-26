@@ -1,21 +1,21 @@
 {
     "user_id": "34c66ea9-acb0-4d62-983b-ff67c7ad396c",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Michael Rios",
+    "email": "qhopkins@example.org",
+    "instagram_handle": "@roy00",
+    "tiktok_handle": "@rosejoseph",
+    "joined_at": "2024-03-20T22:08:10.163267",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5b6e6066-f6ac-456b-96ed-319d20b5fca7",
+            "brand": "Ellis, Howard and Wilkerson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "37d88645-ec0d-40b7-8df9-3309eb7af2b7",
                     "platform": "Facebook",
                     "post_url": "https://spiteful-chiffonier.name/",
                     "likes": 184,
-                    "comments": null,
+                    "comments": 219,
                     "shares": 45,
                     "reach": -1000
                 }

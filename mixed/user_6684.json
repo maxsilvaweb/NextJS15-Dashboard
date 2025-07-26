@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "b9b7ce34-2633-4e21-bccb-fae86dbedbff",
+    "name": "Ronald Mcdonald",
+    "email": "amanda53@example.com",
     "instagram_handle": "@Dustin_Simonis",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@gshort",
+    "joined_at": "2023-09-13T06:35:24.620642",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d933957f-d37c-4a0c-bdbe-48e9a97e2005",
+            "brand": "Humphrey, Cox and Ellis",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "33f9cb2f-fa8e-46df-8d7b-06f77983e5ee",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://morales.com/",
+                    "likes": 8057,
                     "comments": 11,
                     "shares": 55,
                     "reach": 5342
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9188.02
         }
     ]
 }

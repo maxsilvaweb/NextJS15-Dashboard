@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "de985fb8-440a-44a5-ae80-9f24f88b6b9a",
+    "name": "Amy Young",
+    "email": "wyoung@example.com",
+    "instagram_handle": "@yjenkins",
     "tiktok_handle": "@Paige_Spencer",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-02-08T02:39:33.706384",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "98007e19-2384-44c4-9870-2661cef95b67",
+            "brand": "Villanueva Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "06b1a5a7-743e-4e74-bc63-24012ebd9b09",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.phillips-lyons.info/",
+                    "likes": 3879,
                     "comments": 14,
                     "shares": 41,
                     "reach": 9853
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8857.09
         }
     ]
 }

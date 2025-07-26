@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "c6fc67a7-a57a-47b4-885a-5f468fd59224",
+    "name": "Samantha Swanson",
+    "email": "franklingrant@example.com",
+    "instagram_handle": "@fhuang",
+    "tiktok_handle": "@adamvargas",
     "joined_at": "2024-12-18T03:20:33.937Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bbd11f3a-2bd3-4265-a9c6-a8db741b9c4f",
+            "brand": "Ray-Fry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a7febb5a-7f34-4a0f-98e7-81d0faf5b4bf",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.swanson.info/",
+                    "likes": 4695,
+                    "comments": 403,
                     "shares": 40,
                     "reach": 9613
                 }

@@ -1,26 +1,26 @@
 {
     "user_id": "23b73f54-d308-43fa-b907-9770743fd209",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Thomas Lin",
+    "email": "schmidtmakayla@example.net",
+    "instagram_handle": "@robinmiller",
+    "tiktok_handle": "@benjaminbailey",
+    "joined_at": "2024-07-10T05:46:39.316694",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "747ed2a3-b800-47b6-b63b-a192d80dd0d0",
+            "brand": "Hunt-Thompson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b4eb4da7-46f0-4c4e-b401-39463401795f",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.wilson.com/",
+                    "likes": 5733,
+                    "comments": 58,
                     "shares": 68,
                     "reach": 2420
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3505.78
         }
     ]
 }

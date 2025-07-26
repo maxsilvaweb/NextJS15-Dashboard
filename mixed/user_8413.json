@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "843224bd-036e-4b29-a3a6-8cc257dbcd63",
+    "name": "Amber Valencia",
     "email": "Tyrique93@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@cruzchristine",
+    "tiktok_handle": "@nancy09",
+    "joined_at": "2025-05-21T06:25:35.890341",
     "advocacy_programs": [
         {
             "program_id": "38c7d6d4-2ad9-4253-9552-abc1c86c4c03",
-            "brand": 12345,
+            "brand": "Walsh Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d2bc6510-2d4c-47f2-b588-cfa621fcc825",
                     "platform": "Facebook",
                     "post_url": "https://specific-vanadyl.info",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1062,
+                    "comments": 340,
                     "shares": 15,
                     "reach": 7117
                 }

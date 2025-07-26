@@ -1,26 +1,26 @@
 {
     "user_id": "f0ae4591-3e80-4c52-b637-f75b80d749ba",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Megan Mejia",
+    "email": "boonedaniel@example.net",
+    "instagram_handle": "@sydneybenitez",
+    "tiktok_handle": "@johnny70",
+    "joined_at": "2024-05-20T02:03:50.561972",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3a84f711-3c8b-480a-bfdb-507d5de4a42c",
+            "brand": "Gonzalez-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1dee8d6a-d0f1-4011-91c9-73af81d376af",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://smith.com/",
+                    "likes": 3531,
                     "comments": 13,
                     "shares": 94,
                     "reach": 5935
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5175.48
         }
     ]
 }

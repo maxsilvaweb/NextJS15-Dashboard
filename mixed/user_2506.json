@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d3a8dec7-79bb-4526-8118-ddf027c6acc8",
+    "name": "Samantha Pacheco",
+    "email": "leeamy@example.org",
+    "instagram_handle": "@elizabeth04",
+    "tiktok_handle": "@qhunt",
+    "joined_at": "2024-09-22T05:38:38.475984",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b3822f02-0304-4ee3-8e8c-ec8023c41930",
+            "brand": "Woods, Rose and Adams",
             "tasks_completed": [
                 {
                     "task_id": "078cfd86-5e4e-4f00-8d4e-60373480f72a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://wilson-hayes.com/",
+                    "likes": 822,
                     "comments": 10,
                     "shares": 3,
                     "reach": 1887
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2545.19
         }
     ]
 }

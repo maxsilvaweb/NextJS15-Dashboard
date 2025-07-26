@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "40dff2e8-7350-4604-a6c4-6e8d2ea461ac",
+    "name": "Nathan Strong",
+    "email": "joansummers@example.com",
+    "instagram_handle": "@burnettaaron",
+    "tiktok_handle": "@brian85",
+    "joined_at": "2025-03-05T17:10:58.941922",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "a2121e9e-b817-41e3-817c-085aeb0b09af",
             "brand": "Stiedemann - Crist",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "938057bd-6753-491a-9aa4-292f5408a008",
+                    "platform": "TikTok",
+                    "post_url": "https://www.waller-ayala.biz/",
                     "likes": 92,
                     "comments": 28,
                     "shares": 5,
                     "reach": 632
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8217.35
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "36973e39-b666-4251-b48d-cd43d49ba261",
+    "name": "Michael Morrison",
+    "email": "wrose@example.org",
+    "instagram_handle": "@qlarson",
+    "tiktok_handle": "@kathrynwright",
+    "joined_at": "2025-07-06T07:52:11.871927",
     "advocacy_programs": [
         {
             "program_id": "298c462c-37b0-4755-bbed-be28e1ec7e51",
-            "brand": 12345,
+            "brand": "Torres, Perkins and Lowe",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "12a21900-a36a-44b2-8817-2c70e08d1a2a",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.gray.com/",
                     "likes": 489,
-                    "comments": null,
+                    "comments": 420,
                     "shares": 42,
                     "reach": 6864
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9741.43
         }
     ]
 }

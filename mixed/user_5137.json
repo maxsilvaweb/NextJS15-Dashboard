@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7e538a33-f9fb-4a2c-a4b8-bd345fa2d43a",
+    "name": "Jeffery Patel",
+    "email": "bryan03@example.com",
+    "instagram_handle": "@whiteheadmegan",
+    "tiktok_handle": "@walkershawn",
+    "joined_at": "2025-02-03T13:15:13.437501",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "ac063872-8b4e-48b9-8a03-beb38ebdc808",
             "brand": "Herzog - Monahan",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "502fa1cc-f269-493f-84b0-34c35fad9621",
                     "platform": "TikTok",
                     "post_url": "https://stingy-numeracy.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1775,
+                    "comments": 38,
                     "shares": 9,
                     "reach": 6946
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8333.34
         }
     ]
 }

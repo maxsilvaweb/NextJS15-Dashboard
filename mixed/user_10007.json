@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-56d0-422d-973b-44d721e2ae53",
-  "name": "Max Silva6",
-  "email": "maxsilvauk@gmawwilwwdwdwd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-56d0-422d-973b-44d721e2ae53",
+    "name": "Max Silva6",
+    "email": "maxsilvauk@gmawwilwwdwdwd.com",
+    "instagram_handle": "@esmith",
+    "tiktok_handle": "@varmstrong",
+    "joined_at": "2024-02-08T05:38:50.423391",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "4bd5900a-5d93-46de-901b-22a56f14d1f1",
+            "brand": "Patel, Brown and Jackson",
+            "tasks_completed": [
+                {
+                    "task_id": "3d3d9972-4ba9-4403-b0a9-6ecb84e36e75",
+                    "platform": "TikTok",
+                    "post_url": "http://grimes-flores.com/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 9034.58
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

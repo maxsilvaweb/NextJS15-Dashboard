@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "b2e52458-762b-4129-9958-f1656779368f",
     "name": "Elsa O'Kon",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "jonesjacob@example.net",
+    "instagram_handle": "@clayvincent",
+    "tiktok_handle": "@christopherdillon",
+    "joined_at": "2023-10-29T08:29:33.882420",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e7e6d121-07ad-425b-9181-66a5f60a5b75",
+            "brand": "West Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "272f8298-56ef-419c-885e-aef47d1ba75c",
+                    "platform": "Instagram",
+                    "post_url": "https://lopez.info/",
+                    "likes": 4821,
+                    "comments": 58,
                     "shares": 44,
                     "reach": 5261
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5426.09
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "563fe87f-89fa-4c0d-9539-71f487b963cf",
+    "name": "Tyler Garcia",
+    "email": "amandagross@example.org",
+    "instagram_handle": "@floresrichard",
+    "tiktok_handle": "@uchavez",
+    "joined_at": "2025-05-06T15:19:11.954864",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3aab94cc-ec7a-4e5c-9b5e-6b222bddafbb",
+            "brand": "Booker-Patterson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c1dee6ff-cce1-4656-ab94-93a779db8b05",
                     "platform": "TikTok",
                     "post_url": "https://other-approach.org",
-                    "likes": "NaN",
+                    "likes": 665,
                     "comments": 44,
                     "shares": 93,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2456.77
         }
     ]
 }

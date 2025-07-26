@@ -1,26 +1,26 @@
 {
     "user_id": "81c9deba-454d-4574-8458-fb819ac93040",
-    "name": "???",
+    "name": "Elizabeth Moore",
     "email": "Dejuan86@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@ashleyfoley",
+    "tiktok_handle": "@rhondaobrien",
+    "joined_at": "2023-08-09T11:24:59.113289",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b5a2dbd7-a4e3-4528-945e-ec321cc3a7e7",
+            "brand": "Johnson, Williams and Gillespie",
             "tasks_completed": [
                 {
                     "task_id": "457a735f-746a-4d8a-afdc-1c22b4b0e306",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://wallace-gates.info/",
                     "likes": 381,
-                    "comments": null,
+                    "comments": 283,
                     "shares": 73,
                     "reach": 6558
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2471.88
         }
     ]
 }

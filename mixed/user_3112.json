@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "f7b9f408-7b24-453b-8b8b-9189652f6b5b",
+    "name": "Paul Small",
     "email": "Otha57@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@uwest",
+    "tiktok_handle": "@roy77",
+    "joined_at": "2025-03-08T21:31:37.407568",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dfb2c5d0-3048-4d34-a2d1-b90e8c68e5e1",
+            "brand": "Stout, Lopez and Wilson",
             "tasks_completed": [
                 {
                     "task_id": "c6412ac6-53c4-444e-a896-9ef144c0bbba",
                     "platform": "Facebook",
                     "post_url": "https://instructive-arcade.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1408,
+                    "comments": 288,
                     "shares": 54,
                     "reach": 7239
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6163.19
         }
     ]
 }

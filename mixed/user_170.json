@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "937f2d2e-850a-437f-a102-6c09b782fd62",
+    "name": "Anthony Wagner",
     "email": "Salma50@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@rodriguezcalvin",
+    "tiktok_handle": "@theresa19",
+    "joined_at": "2025-06-14T06:08:15.582183",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8c91f888-44c2-4779-9b47-2842834a1a20",
+            "brand": "Jones, Jones and Cohen",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "d45a1fe7-93f7-4c6f-85b6-a7fd07a5acf2",
+                    "platform": "TikTok",
+                    "post_url": "http://www.cruz-patel.net/",
                     "likes": 346,
-                    "comments": null,
+                    "comments": 474,
                     "shares": 32,
                     "reach": 520
                 }

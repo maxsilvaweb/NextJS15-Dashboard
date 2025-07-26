@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "db5ff67e-d70a-4c12-97df-a8b363d6eac9",
+    "name": "Colton Jimenez",
     "email": "Micheal.Dibbert83@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@ruben62",
+    "tiktok_handle": "@james11",
+    "joined_at": "2025-06-13T09:31:15.128122",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "a482cbf6-19eb-45cb-ae10-def9cb739261",
             "brand": "Becker, Kovacek and Kessler",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "df4fb706-3e03-481f-9a88-69eb9b2efe25",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.webster.com/",
+                    "likes": 2971,
                     "comments": 37,
                     "shares": 64,
                     "reach": 8738

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "1f655d6f-6d91-4b3a-b7ec-1fcadf6f6c12",
+    "name": "Kyle Williamson",
     "email": "Carley.Ruecker@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@melissastanley",
+    "tiktok_handle": "@freemandeborah",
+    "joined_at": "2025-07-25T20:05:56.409536",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "930d1602-a510-4e0d-b65a-f6243122f39d",
+            "brand": "Smith and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9156eaaa-1d2c-4628-ae93-86710f9590f9",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.cole.com/",
+                    "likes": 6501,
                     "comments": 10,
                     "shares": 30,
                     "reach": 4817
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 704.23
         }
     ]
 }

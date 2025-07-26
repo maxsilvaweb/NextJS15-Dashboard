@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f30f03da-5f88-48a7-a1db-bcab48b51625",
+    "name": "Madison Moore",
+    "email": "jkoch@example.com",
+    "instagram_handle": "@emma03",
+    "tiktok_handle": "@wallerblake",
+    "joined_at": "2025-06-10T01:38:43.268982",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c493efec-5bcc-4eb8-8294-170b3453ee34",
+            "brand": "Thompson-Peters",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "c5868b8c-a0dc-4403-826c-a0b302c5d712",
+                    "platform": "Instagram",
+                    "post_url": "https://schaefer.info/",
+                    "likes": 9526,
+                    "comments": 93,
                     "shares": 30,
                     "reach": 2486
                 }

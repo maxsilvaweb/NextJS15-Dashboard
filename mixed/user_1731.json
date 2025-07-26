@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "758a3ba5-4e6a-4f44-b8ce-a546f571cf15",
+    "name": "Brian Wiggins",
+    "email": "frankglenn@example.com",
+    "instagram_handle": "@sloanmartin",
+    "tiktok_handle": "@samanthaking",
+    "joined_at": "2024-09-03T05:15:57.895098",
     "advocacy_programs": [
         {
             "program_id": "4b5226b2-0e63-4514-9783-c5fe0f0632f1",
-            "brand": 12345,
+            "brand": "Mathis Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a9ca2f46-f395-431c-ad52-2ef1d4027448",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://scott-rowe.com/",
+                    "likes": 5901,
+                    "comments": 86,
                     "shares": 7,
                     "reach": 9220
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2378.63
         }
     ]
 }

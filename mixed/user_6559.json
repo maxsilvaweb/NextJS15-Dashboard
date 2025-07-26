@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "e4f3999f-617c-4464-a44f-e4a0661ee17a",
+    "name": "Monica Roberts",
     "email": "Daphney_Nader9@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@valeriethomas",
+    "tiktok_handle": "@kayla96",
     "joined_at": "2025-01-21T16:58:38.957Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4419b3ec-0dd9-4944-aeba-3e2d0fe6f52e",
+            "brand": "Spears-Charles",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b31149fd-3d98-44b0-8868-c8c583667b51",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://campbell-johnson.com/",
                     "likes": 244,
                     "comments": 10,
                     "shares": 44,
                     "reach": 4650
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8897.6
         }
     ]
 }

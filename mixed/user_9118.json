@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e87e656a-9d06-44c4-a076-342db55c2cc2",
+    "name": "Dawn Grant DDS",
+    "email": "kelsey49@example.com",
+    "instagram_handle": "@aguilarrobert",
+    "tiktok_handle": "@richardelliott",
+    "joined_at": "2024-02-28T13:13:16.333894",
     "advocacy_programs": [
         {
             "program_id": "b24734a3-c18a-4d40-b7fa-c42d3e4d05e6",
-            "brand": 12345,
+            "brand": "Bryant, Herring and Reid",
             "tasks_completed": [
                 {
                     "task_id": "05634110-f5eb-4d20-b7c5-4bd4f016edcd",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "Instagram",
+                    "post_url": "http://www.moore.biz/",
+                    "likes": 3380,
+                    "comments": 292,
                     "shares": 41,
                     "reach": 1581
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9685.1
         }
     ]
 }

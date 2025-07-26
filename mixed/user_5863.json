@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6bd3861c-d652-4fbc-a274-2bf85c441c2c",
+    "name": "Melissa Fuentes",
+    "email": "roblescrystal@example.net",
+    "instagram_handle": "@wallrobert",
+    "tiktok_handle": "@eric44",
+    "joined_at": "2023-10-19T22:08:49.014295",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "809493da-0fb3-49e2-83ea-7cf4480614ce",
+            "brand": "Young Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bebed52e-d3ae-49e6-9a00-471bf9bd8885",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.martin-boyd.net/",
+                    "likes": 7052,
                     "comments": 31,
                     "shares": 40,
                     "reach": 9625

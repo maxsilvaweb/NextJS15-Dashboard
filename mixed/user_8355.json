@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e4cd4402-05bd-4949-843c-ad06fd814a2e",
+    "name": "Ryan Williams",
+    "email": "brandon44@example.com",
+    "instagram_handle": "@willie00",
+    "tiktok_handle": "@susan81",
+    "joined_at": "2023-12-08T00:42:30.033304",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "65af74e4-2d81-44f5-bdce-73df83c0de6c",
             "brand": "Marquardt - Jacobson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "0b365e2f-558e-41ae-8fe5-a7e0e409f568",
+                    "platform": "Twitter",
+                    "post_url": "http://clayton-nicholson.com/",
+                    "likes": 6919,
+                    "comments": 238,
                     "shares": 60,
                     "reach": 9886
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4408.12
         }
     ]
 }

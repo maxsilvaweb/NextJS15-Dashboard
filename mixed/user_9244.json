@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "df00cba9-34d0-4902-9aa1-f882e52854f3",
+    "name": "Ruben Juarez",
+    "email": "bestdavid@example.org",
+    "instagram_handle": "@pstewart",
     "tiktok_handle": "@Brannon.Hessel19",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-04-29T09:19:06.169755",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4f84131b-ff36-4002-9348-bfc5f0ef9392",
+            "brand": "Jones Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "aee79b63-9be0-4459-bb22-2c8a5713a002",
+                    "platform": "Twitter",
+                    "post_url": "http://hancock-guerra.biz/",
+                    "likes": 3103,
+                    "comments": 223,
                     "shares": 72,
                     "reach": 1124
                 }

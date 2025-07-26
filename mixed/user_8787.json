@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "4f8baeda-0dc3-4be3-956e-b56c112b8f69",
+    "name": "Erica Jones",
     "email": "Ralph_Runolfsdottir40@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@washingtonpeter",
+    "tiktok_handle": "@kristenmorris",
+    "joined_at": "2025-06-10T03:44:03.698149",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ef31f849-7bd1-4d0d-8262-323e56c538b6",
+            "brand": "Hurst-Williams",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f6ba07a4-e19c-40f4-9e29-f960bf20b588",
                     "platform": "Facebook",
                     "post_url": "https://motionless-masterpiece.org/",
-                    "likes": "NaN",
+                    "likes": 8140,
                     "comments": 37,
                     "shares": 91,
                     "reach": 5890
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3727.58
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "61d540a6-3f2f-4de1-8355-713442141860",
+    "name": "Chris Garcia",
+    "email": "jennifer39@example.net",
+    "instagram_handle": "@cheyenne82",
+    "tiktok_handle": "@vcross",
+    "joined_at": "2025-06-01T15:18:37.409891",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5ded91ed-b226-4c41-adbe-03ba76e1befd",
+            "brand": "Davidson, Brown and Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "2dcd547d-90ab-47d1-98a6-53934b262257",
+                    "platform": "TikTok",
+                    "post_url": "http://www.howard.com/",
+                    "likes": 1751,
+                    "comments": 490,
                     "shares": 86,
                     "reach": 5306
                 }

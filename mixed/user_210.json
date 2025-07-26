@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "8e1300c9-4307-4027-a6c7-d64da02a0251",
+    "name": "David Dunn",
     "email": "Leila85@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@zgriffith",
+    "tiktok_handle": "@johngutierrez",
+    "joined_at": "2024-07-05T08:37:09.283155",
     "advocacy_programs": [
         {
             "program_id": "0eaf954d-0ff1-455c-bb48-216b282ab389",
-            "brand": 12345,
+            "brand": "Alexander, Kane and Lopez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c0670a9b-876c-461e-9883-bb4dba906608",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://alvarez.com/",
+                    "likes": 3778,
                     "comments": 7,
                     "shares": 10,
                     "reach": 4667
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 651.01
         }
     ]
 }

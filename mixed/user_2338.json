@@ -1,26 +1,26 @@
 {
     "user_id": "8eec0cb1-e53c-4059-a171-7c9ee851e234",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "name": "Ashley Clark",
+    "email": "jeremycrawford@example.org",
+    "instagram_handle": "@gwendolynmosley",
+    "tiktok_handle": "@smartin",
     "joined_at": "2024-07-13T07:01:43.129Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dcc774ee-cf0d-41e4-95f0-5419dd9b218c",
+            "brand": "Page and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "04c37fb2-ef40-4a2c-bf8d-4a3b2e32b06d",
+                    "platform": "Twitter",
+                    "post_url": "http://www.brown.com/",
+                    "likes": 150,
+                    "comments": 224,
                     "shares": 53,
                     "reach": 5821
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6506.64
         }
     ]
 }

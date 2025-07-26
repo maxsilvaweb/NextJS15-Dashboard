@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f1a6a377-30a6-4ffc-af13-31b12d2bf078",
+    "name": "Jesse Fisher",
+    "email": "scott87@example.org",
+    "instagram_handle": "@linda05",
+    "tiktok_handle": "@heather89",
+    "joined_at": "2025-01-06T16:49:30.712835",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2cfb2178-5027-486a-85ea-d4892bef48d3",
+            "brand": "Smith, Wilson and Santos",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b676e831-71fc-4d73-833c-41b9da849815",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.hernandez.org/",
+                    "likes": 8091,
+                    "comments": 215,
                     "shares": 82,
                     "reach": 2181
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3516.45
         }
     ]
 }

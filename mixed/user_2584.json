@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "64bb8867-3f79-4f66-b3ff-5fc3ebe1b833",
+    "name": "Ryan Sanchez",
+    "email": "kleinandrew@example.org",
+    "instagram_handle": "@james67",
+    "tiktok_handle": "@williamlittle",
+    "joined_at": "2025-06-05T06:47:19.600321",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6e45c725-b3a7-4b07-b290-b0821bc6cb75",
+            "brand": "Jackson LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "08ece342-4ce4-4737-b149-550c8947f78a",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.fitzgerald-rice.com/",
+                    "likes": 9499,
+                    "comments": 291,
                     "shares": 98,
                     "reach": 4336
                 }

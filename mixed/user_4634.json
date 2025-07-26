@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "99baf4ec-22e8-4611-916c-aea7deee022c",
+    "name": "Nathan House",
+    "email": "zramirez@example.com",
+    "instagram_handle": "@jackrivas",
+    "tiktok_handle": "@deborahmontoya",
+    "joined_at": "2024-02-27T20:47:04.458131",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1af86269-2487-4438-a015-622ce2e2fdac",
+            "brand": "Wright-Wyatt",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4c88cbbc-0d37-4e80-a3f9-936b5881d077",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.cunningham.com/",
+                    "likes": 2221,
+                    "comments": 311,
                     "shares": 35,
                     "reach": 577
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2029.53
         }
     ]
 }

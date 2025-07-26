@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a4faac47-fe1e-4173-84f6-dc52e7d6fded",
+    "name": "Sandra Andrews",
+    "email": "williamsonwalter@example.net",
+    "instagram_handle": "@wcombs",
+    "tiktok_handle": "@conradpeter",
+    "joined_at": "2025-03-12T14:27:46.521163",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8052f6a7-827b-4611-9c41-1bc3d5a5b7c1",
+            "brand": "Smith, Hill and Carney",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6b725f79-4889-4d0e-873c-a7fd49bcdd3c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://webster-murillo.com/",
+                    "likes": 5704,
+                    "comments": 241,
                     "shares": 85,
                     "reach": 1747
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2733.6
         }
     ]
 }

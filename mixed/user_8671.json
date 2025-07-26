@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8b88c74d-e3ae-491b-aa1e-7742eb29579e",
+    "name": "Jonathan Jackson",
+    "email": "briansmith@example.com",
+    "instagram_handle": "@cynthiaclark",
+    "tiktok_handle": "@conniehaney",
+    "joined_at": "2025-06-13T01:25:44.513336",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b5104f4b-164c-40e2-99ce-53e4d09d939e",
+            "brand": "Klein-Cooper",
             "tasks_completed": [
                 {
                     "task_id": "4ac72fd0-e0a1-4ee7-95f1-6ad83e0f9c44",
                     "platform": "Instagram",
                     "post_url": "https://amused-synergy.info/",
-                    "likes": "NaN",
+                    "likes": 6520,
                     "comments": 40,
                     "shares": 25,
                     "reach": 6257
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2671.81
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fdf9d9b0-18ca-428b-8775-81b3c2a05a3e",
+    "name": "Jeffrey Mccoy",
+    "email": "johnsonjessica@example.net",
+    "instagram_handle": "@amycox",
+    "tiktok_handle": "@walkervanessa",
+    "joined_at": "2023-11-21T18:10:44.610348",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1ed76d7e-23c7-444e-9c96-a6649a10d465",
+            "brand": "Mason LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2a6543b6-0706-438b-8d0c-ef296d6d0b14",
                     "platform": "TikTok",
                     "post_url": "https://vain-sport.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4848,
+                    "comments": 47,
                     "shares": 73,
                     "reach": 1898
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3173.49
         }
     ]
 }

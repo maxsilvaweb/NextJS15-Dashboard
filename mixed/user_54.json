@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "fb0fad8e-1b8b-4148-8c46-d25463f94ec8",
     "name": "Taylor Greenfelder",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "adamsjason@example.net",
+    "instagram_handle": "@joshuahunter",
+    "tiktok_handle": "@rpadilla",
+    "joined_at": "2025-05-30T15:38:25.007806",
     "advocacy_programs": [
         {
             "program_id": "343427dc-48ab-4446-ab29-1299dfff08ff",
-            "brand": 12345,
+            "brand": "Key, Jones and Daniels",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "94bbd7d1-2ed7-45b3-a97b-056aaacf4067",
+                    "platform": "Twitter",
                     "post_url": "https://gaseous-deployment.net/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8242,
+                    "comments": 212,
                     "shares": 80,
                     "reach": 9302
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3549.21
         }
     ]
 }

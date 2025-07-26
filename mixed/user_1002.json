@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7bdea616-c0f4-4c15-a088-63573d702c7e",
+    "name": "Donna Ortiz",
+    "email": "figueroalindsay@example.net",
+    "instagram_handle": "@dwall",
+    "tiktok_handle": "@michaelharris",
+    "joined_at": "2025-01-30T23:03:29.712851",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "ace2b7f0-a4a1-42b0-8b39-72eb5bca7435",
             "brand": "Kovacek - Shanahan",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fb3084e6-6a55-4dad-8e36-c7c2ad63f319",
                     "platform": "TikTok",
                     "post_url": "https://superficial-meander.name/",
                     "likes": 471,
-                    "comments": null,
+                    "comments": 161,
                     "shares": 8,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2308.33
         }
     ]
 }

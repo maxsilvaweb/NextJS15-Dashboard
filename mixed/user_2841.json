@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d3a82035-9c3d-49bc-b98e-1dabbec2b498",
+    "name": "Karen Bishop",
+    "email": "nunezstephanie@example.com",
+    "instagram_handle": "@brettballard",
+    "tiktok_handle": "@jaclynsmith",
+    "joined_at": "2025-03-24T07:09:27.857057",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f7ce4252-8257-4f92-97c2-0ebce77d8071",
+            "brand": "Vance-Wagner",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "83885418-95c5-402b-9add-695c3d911d29",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.randall.biz/",
+                    "likes": 6159,
+                    "comments": 266,
                     "shares": 6,
                     "reach": 6187
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7979.79
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aef2c7ec-968a-48ee-8bee-e3e1bdea93f6",
+    "name": "Benjamin Smith",
+    "email": "harrisonmark@example.org",
+    "instagram_handle": "@randalllopez",
+    "tiktok_handle": "@odouglas",
+    "joined_at": "2024-01-18T07:08:52.399592",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "88b61a17-3e18-489a-9e9d-77bf96288797",
+            "brand": "Atkinson, White and Mccormick",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2929532c-6512-4e26-bf50-e180c737fedf",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.rogers.com/",
+                    "likes": 2377,
+                    "comments": 139,
                     "shares": 67,
                     "reach": 4609
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3484.33
         }
     ]
 }

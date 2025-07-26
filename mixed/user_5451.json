@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "60382dc0-cfbf-4f2f-a836-d488c09c31d4",
+    "name": "Kristen Sutton",
+    "email": "eileen31@example.com",
+    "instagram_handle": "@ebony32",
+    "tiktok_handle": "@richard10",
+    "joined_at": "2025-04-12T19:23:58.796385",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "9c92979b-6ec1-4004-9ee3-8dd4319860cf",
             "brand": "Kuphal - Paucek",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c15686c2-66aa-4ae4-b2b5-209ce7a611b1",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://alexander.info/",
+                    "likes": 9182,
+                    "comments": 15,
                     "shares": 60,
                     "reach": 6480
                 }

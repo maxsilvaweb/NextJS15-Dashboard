@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0e942dea-420a-4e01-bc9a-cfeaeffa9585",
+    "name": "Samantha Bridges",
+    "email": "nrodriguez@example.com",
+    "instagram_handle": "@edwardpatrick",
+    "tiktok_handle": "@jjones",
+    "joined_at": "2025-03-27T23:33:30.992683",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b064d8a8-b699-4902-89ee-4d96839ca15c",
+            "brand": "Schneider, Kim and Park",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "59d4c82d-ce81-49a1-89ef-2ad6ca73aee1",
+                    "platform": "YouTube",
+                    "post_url": "http://hines.net/",
+                    "likes": 4025,
+                    "comments": 159,
                     "shares": 33,
                     "reach": 6829
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9553.8
         }
     ]
 }

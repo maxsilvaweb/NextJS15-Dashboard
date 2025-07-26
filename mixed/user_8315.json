@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "f5a71ac9-28f8-4c5c-bd02-4c3222a65cd2",
+    "name": "Eric Barnes",
+    "email": "sarah78@example.com",
+    "instagram_handle": "@kbeck",
     "tiktok_handle": "@Sidney_Hackett",
-    "joined_at": "not-a-date",
+    "joined_at": "2023-12-03T05:48:04.070143",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "95e17cf8-574e-4ca6-8f09-7c801046022b",
+            "brand": "Montoya-Murray",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1fb7b653-c273-49d0-9f46-0cde67b6210e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://powers.org/",
+                    "likes": 4502,
+                    "comments": 239,
                     "shares": 0,
                     "reach": 5139
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5390.99
         }
     ]
 }

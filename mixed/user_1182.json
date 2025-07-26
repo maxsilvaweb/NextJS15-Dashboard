@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "fb25610f-5573-4c30-9ff9-0bfbc8aec0e5",
+    "name": "Beth Vega",
+    "email": "richardveronica@example.com",
+    "instagram_handle": "@melendezmartin",
     "tiktok_handle": "@Amari_Feil74",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-05-26T01:21:02.133050",
     "advocacy_programs": [
         {
             "program_id": "f701ddb1-faf7-46fd-94e2-f98501a4b115",
-            "brand": 12345,
+            "brand": "Hawkins, Yates and Fowler",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "4fa17d2a-a372-4e08-8fc7-1d9aff5f2f09",
+                    "platform": "YouTube",
+                    "post_url": "https://www.shepard.com/",
+                    "likes": 3041,
+                    "comments": 178,
                     "shares": 79,
                     "reach": 1531
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6260.79
         }
     ]
 }

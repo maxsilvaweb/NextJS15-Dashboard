@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "fe9441cc-002e-4128-befd-e85d01eafd65",
+    "name": "Jennifer Sanchez",
     "email": "Fabian40@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@xsnow",
+    "tiktok_handle": "@josedelgado",
+    "joined_at": "2024-08-29T02:36:00.038832",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "310bd48d-99cc-40ed-9176-536cb7c5dfd9",
+            "brand": "Castro-Rios",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "3a67ec23-b955-4ac9-8eed-4af7633f72c1",
+                    "platform": "TikTok",
                     "post_url": "https://wrathful-corral.biz",
-                    "likes": "NaN",
+                    "likes": 4170,
                     "comments": 33,
                     "shares": 56,
                     "reach": 3227
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9156.36
         }
     ]
 }

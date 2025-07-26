@@ -1,17 +1,17 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a2c5fe1e-d0db-40c5-ba1a-c500b59385d7",
+    "name": "Alison Cook",
+    "email": "annearnold@example.com",
+    "instagram_handle": "@nhill",
+    "tiktok_handle": "@burgessbenjamin",
+    "joined_at": "2024-02-15T09:07:14.599375",
     "advocacy_programs": [
         {
             "program_id": "b73661a5-ac06-4739-b1bb-6b4b6a9d6dcd",
-            "brand": 12345,
+            "brand": "Jones Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d30d2341-85a3-49ec-9932-7fe6d974a00e",
                     "platform": "Facebook",
                     "post_url": "https://winding-character.biz/",
                     "likes": 420,
@@ -20,7 +20,7 @@
                     "reach": 8192
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2134.07
         }
     ]
 }

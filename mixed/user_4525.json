@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a2eb6e87-a127-488e-b46a-123c82165d82",
+    "name": "Stacey Gay",
+    "email": "tonihenderson@example.net",
+    "instagram_handle": "@hartheather",
+    "tiktok_handle": "@bhamilton",
+    "joined_at": "2024-09-29T12:39:37.632936",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "41e4c5f9-6424-4840-a924-8364392114e9",
+            "brand": "Smith-Austin",
             "tasks_completed": [
                 {
                     "task_id": "36b916da-e6d3-4bfa-9255-3be5b75be038",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.barr.biz/",
+                    "likes": 2180,
+                    "comments": 282,
                     "shares": 13,
                     "reach": 1633
                 }

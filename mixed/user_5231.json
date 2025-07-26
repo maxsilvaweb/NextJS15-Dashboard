@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2f85defd-3919-4bb7-9f0b-d84b23173f86",
+    "name": "Elizabeth Merritt",
+    "email": "peterray@example.com",
+    "instagram_handle": "@kshaffer",
+    "tiktok_handle": "@kfowler",
+    "joined_at": "2024-09-18T22:10:36.014342",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "90fd64b5-d8f4-4732-9630-48e159f9f6ca",
             "brand": "O'Kon - Gutmann",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dc06b8f3-14bd-4786-8786-1c62df85106c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://kirk.org/",
                     "likes": 376,
-                    "comments": null,
+                    "comments": 188,
                     "shares": 22,
                     "reach": 2104
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1656.2
         }
     ]
 }

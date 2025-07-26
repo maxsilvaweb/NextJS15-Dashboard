@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f6cd2dc0-68d0-4f0f-aa47-c9213ebd35d3",
+    "name": "Cynthia Stevens DDS",
+    "email": "iwilliams@example.net",
+    "instagram_handle": "@kbrady",
+    "tiktok_handle": "@patriciajohnson",
+    "joined_at": "2024-10-23T14:21:28.683867",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2f8edbab-0bab-4ffb-81e7-f8f49bce1381",
+            "brand": "Parker, Mendoza and Phillips",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ff989902-9920-486d-bbfe-ea6382bb092e",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.castaneda-smith.biz/",
+                    "likes": 5430,
+                    "comments": 489,
                     "shares": 82,
                     "reach": 3590
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4782.21
         }
     ]
 }

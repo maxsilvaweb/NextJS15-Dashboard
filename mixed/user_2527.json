@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "adf62b9b-f4c1-455c-9227-6bee0fdf82f7",
+    "name": "Thomas Atkinson",
+    "email": "zwade@example.org",
+    "instagram_handle": "@mary65",
+    "tiktok_handle": "@fbell",
+    "joined_at": "2024-10-03T19:00:50.876922",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bea84860-5fcb-4135-a332-ba4919d298df",
+            "brand": "Smith, Mcdonald and Tucker",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "a649b892-2fff-46f1-8753-e3969b0be355",
+                    "platform": "Twitter",
+                    "post_url": "https://www.foster.net/",
+                    "likes": 9622,
                     "comments": 50,
                     "shares": 18,
                     "reach": 931

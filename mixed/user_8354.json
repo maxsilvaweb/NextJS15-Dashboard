@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "edd7755a-cff9-4b37-81b6-244c3dd4630a",
+    "name": "Cathy Carter",
+    "email": "idodson@example.net",
+    "instagram_handle": "@victor72",
+    "tiktok_handle": "@virginiabryant",
+    "joined_at": "2025-01-25T19:43:37.696443",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c79a2dd1-1ce7-4a1a-94f4-f0b32e9a04fa",
+            "brand": "Smith Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "eaae5774-1489-4f6f-8d94-7fd9eb3d38b2",
+                    "platform": "Instagram",
+                    "post_url": "http://www.garcia.com/",
+                    "likes": 2658,
+                    "comments": 262,
                     "shares": 72,
                     "reach": 8857
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1357.98
         }
     ]
 }

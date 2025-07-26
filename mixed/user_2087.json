@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2565668c-6b6d-41e5-a8ca-c800d9896476",
+    "name": "Jason Melton",
+    "email": "herreramonique@example.org",
+    "instagram_handle": "@jillkennedy",
+    "tiktok_handle": "@ldyer",
+    "joined_at": "2023-12-04T16:04:12.801375",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "639a87bc-b89b-4668-a80b-53f8703b2879",
+            "brand": "Flynn-Salazar",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3065c314-cde6-4f06-88a4-91a0166ebb6d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.taylor-garcia.org/",
+                    "likes": 80,
+                    "comments": 148,
                     "shares": 43,
                     "reach": 7484
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9845.78
         }
     ]
 }

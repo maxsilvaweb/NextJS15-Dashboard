@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4e7a93b6-42d9-471a-a0b2-511e8dadb147",
+    "name": "Gabriel Graham",
+    "email": "prush@example.com",
+    "instagram_handle": "@jasmine67",
+    "tiktok_handle": "@carlysmith",
+    "joined_at": "2024-01-26T20:32:57.015614",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "020412ee-1743-4594-bd11-1f80c5349f90",
+            "brand": "Owens PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "74596f10-7436-4e8f-b546-5193831815af",
                     "platform": "Facebook",
                     "post_url": "https://fat-disadvantage.org/",
                     "likes": 247,
-                    "comments": null,
+                    "comments": 159,
                     "shares": 54,
                     "reach": 6928
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8122.85
         }
     ]
 }

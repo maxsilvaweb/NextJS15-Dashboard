@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "3bb3ce95-6619-419c-b0bf-426b5600cb34",
+    "name": "Larry Griffin",
     "email": "Mabel_Purdy@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@anthonyevans",
+    "tiktok_handle": "@jeffery21",
+    "joined_at": "2025-06-30T20:07:12.649060",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "966a1b16-d92f-4acd-b3df-63f379b1523a",
+            "brand": "Villarreal Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0314493a-a741-4e2d-9cb3-ed103e4ef98b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.anderson-koch.info/",
+                    "likes": 1592,
                     "comments": 14,
                     "shares": 36,
                     "reach": -1000
@@ -23,3 +23,4 @@
             "total_sales_attributed": 2246.5190964134504
         }
     ]
+}

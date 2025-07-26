@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e98ecc8d-1382-4171-a8ac-618f0d7ddbbf",
+    "name": "Susan Lee",
+    "email": "gregory68@example.com",
+    "instagram_handle": "@marcus84",
+    "tiktok_handle": "@jbuckley",
+    "joined_at": "2025-01-09T20:36:38.937116",
     "advocacy_programs": [
         {
             "program_id": "47dc5c2b-e8e7-4fdb-9754-6c6e2fcd3561",
-            "brand": 12345,
+            "brand": "Sloan-Knight",
             "tasks_completed": [
                 {
                     "task_id": "ea633676-996b-4a04-8d5c-516aea033a9d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.smith.com/",
+                    "likes": 378,
+                    "comments": 18,
                     "shares": 33,
                     "reach": 7649
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 550.1
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8eb3b401-0592-4c28-8043-2967308a60be",
+    "name": "Michael Jones",
+    "email": "sandrayates@example.com",
+    "instagram_handle": "@danielbrown",
+    "tiktok_handle": "@caselogan",
+    "joined_at": "2025-07-24T13:31:22.713458",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fc4b8be3-36e4-4b61-b433-2b650333932f",
+            "brand": "Peck-Mcgrath",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "268acf41-c5eb-4516-a766-28bc4d58670c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.riggs-grimes.net/",
+                    "likes": 5201,
+                    "comments": 226,
                     "shares": 54,
                     "reach": 5195
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9881fc21-f9f5-4175-8366-f1d37c94b250",
+    "name": "Patricia Soto",
+    "email": "cynthia19@example.net",
+    "instagram_handle": "@zguerra",
+    "tiktok_handle": "@bryanfaulkner",
+    "joined_at": "2023-08-11T13:34:03.979293",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "584c0495-aeef-41cf-9f5f-253dd96d8293",
+            "brand": "Cervantes and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "6f3d54ac-4654-4540-9a9b-f91b72b4955d",
+                    "platform": "Twitter",
+                    "post_url": "https://www.harris-fletcher.biz/",
                     "likes": 37,
-                    "comments": null,
+                    "comments": 239,
                     "shares": 12,
                     "reach": 9170
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9743.69
         }
     ]
 }

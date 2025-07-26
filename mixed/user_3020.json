@@ -1,20 +1,20 @@
 {
     "user_id": "4217e80d-0df1-4e90-a079-4faf720e8d6c",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Blake Ellison",
+    "email": "tara50@example.net",
+    "instagram_handle": "@kayla72",
+    "tiktok_handle": "@andrew59",
+    "joined_at": "2025-04-27T05:55:36.856780",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5c2b0400-07a7-423c-b5e7-349637ca4e13",
+            "brand": "Hudson and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "65ab2613-d813-423d-8e02-5a88984f6354",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://cook-freeman.com/",
+                    "likes": 8978,
                     "comments": 31,
                     "shares": 28,
                     "reach": 9872
@@ -23,3 +23,4 @@
             "total_sales_attributed": 3379.2903822002168
         }
     ]
+}

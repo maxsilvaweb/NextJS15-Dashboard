@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "f7a3f388-a53d-4ed8-a06e-7cd69ac13b3e",
+    "name": "Tiffany Robinson",
+    "email": "bradyricardo@example.net",
+    "instagram_handle": "@gonzalessean",
     "tiktok_handle": "@Helmer.Kohler39",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-05-31T08:25:05.450840",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "84f4e234-2f86-4437-9f27-ae78fbeb4d37",
+            "brand": "Koch-Ross",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b1658fb7-89c8-4ae0-b988-717b634dc1cf",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://sanford.com/",
                     "likes": 469,
-                    "comments": null,
+                    "comments": 392,
                     "shares": 90,
                     "reach": 3918
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2012.65
         }
     ]
 }

@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "d0447f44-8d29-4e36-8b58-f6102f3157b5",
+    "name": "Ashley Casey",
     "email": "Carlie76@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@whitakeralicia",
+    "tiktok_handle": "@allenchristopher",
+    "joined_at": "2025-04-21T08:37:46.192845",
     "advocacy_programs": [
         {
             "program_id": "4ff9cd0f-530a-4391-8f8f-5520834d8f62",
-            "brand": 12345,
+            "brand": "Griffin LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ff9b3a11-7ecf-435b-863d-483043c6bdc6",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://mendoza.com/",
                     "likes": 16,
-                    "comments": null,
+                    "comments": 379,
                     "shares": 35,
                     "reach": 5644
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2915.65
         }
     ]
+}

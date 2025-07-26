@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "483d978e-9cde-4a78-be32-b86dc45cdd17",
+    "name": "Adam Wilson",
+    "email": "esalazar@example.com",
+    "instagram_handle": "@cynthia30",
+    "tiktok_handle": "@bdowns",
+    "joined_at": "2024-11-01T23:49:38.757188",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6fdca228-b9cb-4386-ba1e-cc59e62320aa",
+            "brand": "Miller Inc",
             "tasks_completed": [
                 {
                     "task_id": "6b76dd02-560b-4990-a798-0160b7ee78c0",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://garrett.com/",
+                    "likes": 6427,
+                    "comments": 415,
                     "shares": 71,
                     "reach": 609
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2535.11
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
     "user_id": "3619dc1d-1bd6-4a52-ac6d-b47d4319d0e5",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "William Peterson",
+    "email": "oliverlisa@example.com",
+    "instagram_handle": "@hcarson",
+    "tiktok_handle": "@thompsonthomas",
+    "joined_at": "2025-06-05T08:26:37.511452",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "85e8ea3e-2fce-4611-8d7b-a5a1cfd0e3b5",
+            "brand": "Lopez-Barrera",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6262953a-8024-44ae-9455-e58e3d39a378",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.brown.com/",
+                    "likes": 5422,
                     "comments": 19,
                     "shares": 4,
                     "reach": 9380

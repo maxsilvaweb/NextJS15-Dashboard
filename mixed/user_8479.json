@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3dc5140a-c5df-4463-958a-6f68d9f53d5b",
+    "name": "Denise Kirk",
+    "email": "haroldgarcia@example.net",
+    "instagram_handle": "@kristen79",
+    "tiktok_handle": "@nicolashernandez",
+    "joined_at": "2024-12-26T16:35:46.877017",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "62a4ca95-64a4-44bd-95f5-4a5ff79c433b",
             "brand": "Medhurst - Senger",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3d86cc9d-9e64-445c-b1f5-c68e6f9606f7",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://archer.net/",
+                    "likes": 9544,
+                    "comments": 97,
                     "shares": 82,
                     "reach": 614
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5662.32
         }
     ]
 }

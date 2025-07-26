@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "5d4a8342-c055-4c62-ad6a-4cf413750e25",
+    "name": "William Hamilton",
+    "email": "hayers@example.org",
+    "instagram_handle": "@bhanna",
     "tiktok_handle": "@Maynard.Koss15",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-06-17T05:43:39.950326",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "591b88d3-3f18-4b09-a9bb-7f3bb0073fec",
+            "brand": "Cameron-Porter",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "619b5c85-843b-4720-b92b-b5f430b9872e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.elliott-walker.net/",
+                    "likes": 9808,
                     "comments": 18,
                     "shares": 49,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1433.16
         }
     ]
 }

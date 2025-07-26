@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3db9a1e5-f20f-4c47-8670-62c4a231e967",
+    "name": "Patrick Vasquez",
+    "email": "taylorjose@example.net",
+    "instagram_handle": "@amorgan",
+    "tiktok_handle": "@jacob33",
+    "joined_at": "2024-09-12T20:27:11.746531",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "30b3675c-d875-49a1-b89b-a3b56282a9c7",
+            "brand": "Lara-Carpenter",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0ed20984-e957-4f64-baa5-3e2fa82a917b",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.wheeler.com/",
+                    "likes": 8025,
+                    "comments": 108,
                     "shares": 3,
                     "reach": 1960
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7404.18
         }
     ]
 }

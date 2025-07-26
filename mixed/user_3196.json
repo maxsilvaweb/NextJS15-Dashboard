@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "76bae98d-dba8-4c8e-a60a-d47c4740215a",
+    "name": "Michelle Page",
+    "email": "moniquebrandt@example.org",
+    "instagram_handle": "@andreanewton",
+    "tiktok_handle": "@stephanie63",
+    "joined_at": "2025-01-18T15:29:31.135942",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3847f657-3bff-423b-953a-cc5310ec9829",
+            "brand": "Hernandez, Dean and Dunn",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "f05a1a27-9ae6-45a5-9828-576dd83ee3ea",
+                    "platform": "TikTok",
+                    "post_url": "https://brown-turner.com/",
+                    "likes": 4979,
                     "comments": 13,
                     "shares": 57,
                     "reach": 7124

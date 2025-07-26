@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8930ac8b-5e75-4594-8ceb-a3bc6d4e5fb2",
+    "name": "Erika Wolfe",
+    "email": "dunnjill@example.org",
+    "instagram_handle": "@teresamayer",
+    "tiktok_handle": "@jclark",
+    "joined_at": "2024-01-24T22:31:33.745354",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "26b118eb-efde-4d11-82dd-82f54aa50169",
+            "brand": "Reynolds, Petersen and Deleon",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "238e4210-1419-43e0-87dd-84482b6daf05",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.jensen-carr.biz/",
+                    "likes": 7933,
+                    "comments": 26,
                     "shares": 3,
                     "reach": 1180
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5178.29
         }
     ]
 }

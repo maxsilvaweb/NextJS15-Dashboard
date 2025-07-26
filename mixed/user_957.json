@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bc81e95a-a558-4912-95ae-5b6bf256e861",
+    "name": "Ronald Morgan",
+    "email": "xmendoza@example.org",
+    "instagram_handle": "@katrina74",
+    "tiktok_handle": "@wtorres",
+    "joined_at": "2024-11-12T21:59:41.716692",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "191be1d2-8e64-4a03-a5fd-6cea1b8672f4",
+            "brand": "Gardner Inc",
             "tasks_completed": [
                 {
                     "task_id": "1d628645-0220-46b4-9908-30caff583f74",
                     "platform": "TikTok",
                     "post_url": "https://thorny-reach.biz",
-                    "likes": "NaN",
+                    "likes": 6925,
                     "comments": 7,
                     "shares": 43,
                     "reach": 1128
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4336.48
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
     "user_id": "6e04dcb2-9c2a-45b4-8ede-5e80a27f93d9",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "David Taylor",
+    "email": "tracey78@example.net",
+    "instagram_handle": "@james39",
+    "tiktok_handle": "@cobbkelly",
+    "joined_at": "2024-08-13T18:36:09.705958",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a34f6632-d3da-46a6-94df-1ca225ee44d4",
+            "brand": "Wagner, Jordan and Shields",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "56e36b1d-66c7-45b8-a8f4-a8af8b815153",
+                    "platform": "Instagram",
+                    "post_url": "http://perez-ortega.org/",
+                    "likes": 4046,
                     "comments": 34,
                     "shares": 4,
                     "reach": 5276
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6828.58
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "5c01e5fb-2aab-453f-ae85-aa4ed0d2e48f",
+    "name": "Sherri Barnes",
     "email": "Maximo_Klocko56@hotmail.com",
-    "instagram_handle": null,
+    "instagram_handle": "@christyleach",
     "tiktok_handle": "@Hildegard.Frami37",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-09-12T15:24:13.195357",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8eb7e2d1-58aa-45b4-8d52-c65a2f8d8175",
+            "brand": "Stewart PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "3f08c72f-1427-4c2f-8d43-fd68e46055e7",
+                    "platform": "TikTok",
+                    "post_url": "http://www.reilly.org/",
+                    "likes": 4634,
+                    "comments": 145,
                     "shares": 11,
                     "reach": 7159
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 805.84
         }
     ]
 }

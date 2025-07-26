@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "01f29e91-fb4b-47d9-b236-23b88dc3f93c",
+    "name": "Elizabeth Bennett",
+    "email": "christopher66@example.com",
+    "instagram_handle": "@wwalker",
+    "tiktok_handle": "@johnsonian",
+    "joined_at": "2024-01-17T03:52:36.722789",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "193fdfa6-5633-4ba2-8f2b-96d1867f080d",
+            "brand": "Horn-Hunt",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1a4f4293-c923-4958-a3e5-30c8ef3a84fa",
                     "platform": "Instagram",
                     "post_url": "https://unkempt-pronoun.name",
-                    "likes": "NaN",
+                    "likes": 8111,
                     "comments": 36,
                     "shares": 91,
                     "reach": 6546
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9768.37
         }
     ]
 }

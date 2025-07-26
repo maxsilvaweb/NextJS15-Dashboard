@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5474666e-2d4e-495b-ba50-3f2eefd09121",
+    "name": "Diana Allen",
+    "email": "michelle64@example.com",
+    "instagram_handle": "@petersonlori",
+    "tiktok_handle": "@moyernichole",
+    "joined_at": "2024-05-03T00:56:28.359581",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b96d4ffd-2995-4f91-97b4-54b2077d6695",
+            "brand": "Harris Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0224daf1-0763-463d-b249-1a769525b9b3",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://nunez-hester.com/",
                     "likes": 136,
                     "comments": 47,
                     "shares": 88,
                     "reach": 5450
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1498.38
         }
     ]
 }

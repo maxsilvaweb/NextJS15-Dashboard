@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "4a1baade-8d9b-42e2-a506-bef7cb42a074",
+    "name": "Joann Wilkins",
+    "email": "james24@example.net",
+    "instagram_handle": "@kylegregory",
+    "tiktok_handle": "@diazmichelle",
     "joined_at": "2024-07-01T19:02:43.554Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "97c18396-f47e-4cdc-af9c-c42c238e56c4",
+            "brand": "King PLC",
             "tasks_completed": [
                 {
                     "task_id": "f5eb89fe-dcd5-4b86-989e-6584b81adaa4",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "platform": "Instagram",
+                    "post_url": "http://www.walls.com/",
+                    "likes": 1716,
                     "comments": 7,
                     "shares": 97,
                     "reach": 5854
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7770.26
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "096112d2-5c11-410d-9d6a-e34170f1573d",
+    "name": "Kathryn Reid",
+    "email": "ejohnson@example.com",
+    "instagram_handle": "@millerstephen",
+    "tiktok_handle": "@wyoung",
+    "joined_at": "2024-08-13T21:21:01.078341",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a2f0c020-a06e-4ae5-93fd-cb7efef1df44",
+            "brand": "Reyes Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "94afa2ba-9e05-4d01-a7e7-99ef412aa5d1",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.cox.net/",
+                    "likes": 3713,
+                    "comments": 310,
                     "shares": 18,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5380.4
         }
     ]
 }

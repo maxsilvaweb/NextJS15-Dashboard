@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1cbe5b62-58b3-457f-94b8-e096493e8da1",
+    "name": "William Hamilton",
+    "email": "narnold@example.com",
+    "instagram_handle": "@wilsonsherry",
+    "tiktok_handle": "@alexanderrandolph",
+    "joined_at": "2025-05-11T14:20:33.090043",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "a7d1e041-7868-4688-a707-e0fc668c6236",
             "brand": "Ziemann and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d615558c-5057-4831-80d6-1fdef5fe1d5d",
                     "platform": "Facebook",
                     "post_url": "https://shy-coordination.net",
                     "likes": 368,
-                    "comments": null,
+                    "comments": 92,
                     "shares": 41,
                     "reach": 3322
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3523.87
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "1a69a591-99e6-47f5-88cd-10a057749f59",
     "name": "Dr. Willis Conroy",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "email": "tmartin@example.com",
+    "instagram_handle": "@csimmons",
+    "tiktok_handle": "@mooremegan",
     "joined_at": "2025-02-19T05:36:44.083Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "22f0c835-59fd-40d2-ab62-6b1a4c5565e0",
+            "brand": "Jones-Davidson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "19f04299-b5a5-4cce-a13a-3e97467100dc",
                     "platform": "Instagram",
                     "post_url": "https://dense-meander.com",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5197,
+                    "comments": 230,
                     "shares": 8,
                     "reach": 7644
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2141.14
         }
     ]
 }

@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ed6b1bdd-8bd9-4e31-b11a-c86b2c4bed27",
+    "name": "Heather Lopez",
+    "email": "chambersmichael@example.net",
+    "instagram_handle": "@olivia10",
+    "tiktok_handle": "@hmiller",
+    "joined_at": "2025-04-15T06:45:42.569322",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4a0b46ff-9be3-4542-90c8-4bfe3d53b10b",
+            "brand": "Jones, Swanson and Floyd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "66f480b4-4796-47e1-8ec0-976460c9da1a",
+                    "platform": "Instagram",
+                    "post_url": "http://curry.biz/",
+                    "likes": 3118,
+                    "comments": 56,
                     "shares": 32,
                     "reach": 1796
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 779.91
         }
     ]
+}

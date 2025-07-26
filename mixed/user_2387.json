@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "6ba37c77-7dc8-4f27-b969-589b1ab80b8c",
+    "name": "Justin Colon",
+    "email": "nicole43@example.com",
+    "instagram_handle": "@michele99",
+    "tiktok_handle": "@courtney56",
     "joined_at": "2024-10-16T08:01:54.527Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d6531775-10d6-471a-b370-4f0379e86e88",
+            "brand": "Riley-Blackwell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "64c44db9-8edc-49c5-a649-132a0177b1c4",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://fields.info/",
+                    "likes": 2313,
+                    "comments": 421,
                     "shares": 48,
                     "reach": 712
                 }

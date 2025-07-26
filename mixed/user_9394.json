@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "086c762a-f914-43b7-9ec4-4d731dc722b8",
+    "name": "Amanda Anderson",
+    "email": "stevenrodriguez@example.net",
+    "instagram_handle": "@gwalker",
+    "tiktok_handle": "@stevendiaz",
+    "joined_at": "2025-04-21T12:43:11.005484",
     "advocacy_programs": [
         {
             "program_id": "9812b923-72ca-4fd6-9b6e-1ae78dc76c08",
-            "brand": 12345,
+            "brand": "Escobar PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "5b0203fd-9473-4cb7-a8fb-79e804d918e9",
+                    "platform": "Twitter",
                     "post_url": "https://mild-dwell.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 88,
+                    "comments": 54,
                     "shares": 70,
                     "reach": 4532
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3590.3
         }
     ]
 }

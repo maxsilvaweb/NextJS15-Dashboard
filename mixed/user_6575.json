@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "694ca6e1-baac-435f-85c8-02c051349a8e",
+    "name": "Daniel Bender",
+    "email": "sfreeman@example.net",
+    "instagram_handle": "@richard55",
+    "tiktok_handle": "@simmonscasey",
+    "joined_at": "2025-01-03T23:34:33.893993",
     "advocacy_programs": [
         {
             "program_id": "d1b0255d-6435-4220-b659-67d994788476",
-            "brand": 12345,
+            "brand": "Phillips-Nielsen",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "0089d8a9-67a2-48de-8dce-5278cb6e421b",
+                    "platform": "Instagram",
+                    "post_url": "http://www.henderson.info/",
+                    "likes": 7285,
+                    "comments": 9,
                     "shares": 92,
                     "reach": 3715
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1164.18
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "0d3a53ee-c043-4a8d-93a4-5b3ffe761cb9",
+    "name": "Alexandra Johnson",
+    "email": "alicia35@example.com",
     "instagram_handle": "@Gail_Dare",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@awilliams",
+    "joined_at": "2024-10-24T03:53:50.512091",
     "advocacy_programs": [
         {
             "program_id": "4fe5a9c9-c842-4a85-865a-5ff886b84057",
-            "brand": 12345,
+            "brand": "Greene-Reyes",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9c21be72-4e29-4dde-893e-5cc5d4c05508",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.baker-wilcox.net/",
+                    "likes": 6218,
+                    "comments": 254,
                     "shares": 44,
                     "reach": 507
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7219.38
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "405d4339-53e2-4618-8bb8-f9e5ce969734",
+    "name": "Andrea Baker",
+    "email": "dean08@example.org",
     "instagram_handle": "@Keshaun.Nikolaus54",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@hartdonald",
+    "joined_at": "2024-09-17T03:07:29.388985",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "253eac84-ea5f-4b93-9e70-07931e5a4dd0",
+            "brand": "Blake-Russo",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3fb745d2-0a83-4c93-af87-16054349cdcf",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://thompson.com/",
+                    "likes": 2997,
+                    "comments": 267,
                     "shares": 83,
                     "reach": 951
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 2940.0602221734734
         }
     ]
+}

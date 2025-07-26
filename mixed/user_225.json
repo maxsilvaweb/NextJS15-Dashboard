@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c923d8c1-4b3a-40f5-b69c-a11a7d68a271",
+    "name": "Joy Thomas",
+    "email": "jose37@example.net",
+    "instagram_handle": "@gregoryvincent",
+    "tiktok_handle": "@michelleferguson",
+    "joined_at": "2024-08-02T10:52:04.007485",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bf156b1c-ac3a-4d06-b9af-f43f18d8618e",
+            "brand": "Hunter-Aguilar",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "70557f4d-9ad5-4d59-80b1-bd532a8ecbe8",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://williams.com/",
+                    "likes": 5351,
                     "comments": 49,
                     "shares": 59,
                     "reach": 1859
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9587.96
         }
     ]
 }

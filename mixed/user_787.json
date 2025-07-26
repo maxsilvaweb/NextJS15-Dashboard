@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8dab72a4-42de-4bdd-ba79-44f3f7a401c4",
+    "name": "Stephanie Terry",
+    "email": "tfitzgerald@example.net",
+    "instagram_handle": "@michael17",
+    "tiktok_handle": "@hollynavarro",
+    "joined_at": "2024-11-19T10:25:20.062238",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f372fb33-dbb8-4a90-be02-045b84442d8f",
+            "brand": "Valenzuela, Richardson and Leach",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "0bef558e-c226-4140-8389-f164f9cd27a5",
+                    "platform": "YouTube",
+                    "post_url": "https://garrison.com/",
                     "likes": 206,
-                    "comments": null,
+                    "comments": 95,
                     "shares": 6,
                     "reach": 5222
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5875.96
         }
     ]
 }

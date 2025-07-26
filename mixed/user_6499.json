@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "98bbc915-5365-44eb-bf32-56722ac30855",
+    "name": "James Wilson",
+    "email": "rodney05@example.com",
+    "instagram_handle": "@asantos",
+    "tiktok_handle": "@nicoleyoung",
+    "joined_at": "2024-08-04T06:08:09.405258",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "97d22ed7-4d18-42cb-8006-9d7479afd8c6",
+            "brand": "Jordan Inc",
             "tasks_completed": [
                 {
                     "task_id": "256c8ab1-08eb-4d18-947b-00499c050f41",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://fox-harmon.com/",
+                    "likes": 7452,
+                    "comments": 43,
                     "shares": 84,
                     "reach": 5153
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9571.82
         }
     ]
 }

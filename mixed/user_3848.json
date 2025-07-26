@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "e13c0fea-25a0-466e-8eaa-7cd602ca493d",
+    "name": "Suzanne Miller",
     "email": "Marietta.Greenholt@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@floresmorgan",
+    "tiktok_handle": "@ernestburke",
+    "joined_at": "2024-05-13T10:48:35.133923",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dd389058-8b77-4454-bc99-958e4e39ace6",
+            "brand": "Diaz-Dalton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6e623e87-3ace-4d14-a8a4-75b33eb571db",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.garrett.com/",
+                    "likes": 4664,
+                    "comments": 320,
                     "shares": 31,
                     "reach": 4736
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2082.76
         }
     ]
 }

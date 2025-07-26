@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "251497c2-2b6e-4899-85b8-cfdc480d0990",
+    "name": "Holly Mitchell",
+    "email": "brenda49@example.net",
+    "instagram_handle": "@robert22",
+    "tiktok_handle": "@nicholehoffman",
+    "joined_at": "2025-06-02T15:20:56.803887",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f0ef2f82-a292-4172-9b16-4a29cd59d781",
+            "brand": "Williams-Rodriguez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fded187b-9b7d-4eba-a30d-a58dbeeda72c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://stevens.org/",
                     "likes": 359,
                     "comments": 31,
                     "shares": 85,
                     "reach": 2410
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4380.77
         }
     ]
 }

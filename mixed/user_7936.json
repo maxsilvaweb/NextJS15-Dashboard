@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "d44eed5d-9bad-4f7c-8445-af418a910f9f",
+    "name": "Justin Moran",
+    "email": "schneidermelissa@example.com",
+    "instagram_handle": "@brandondaniel",
+    "tiktok_handle": "@anthony39",
     "joined_at": "2024-11-25T18:43:12.138Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1e4e1ed6-ebe0-4197-affd-cdc17ea45a9a",
+            "brand": "Estrada and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "268e6b50-d720-408f-9403-86d9db5d8918",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://wu.com/",
                     "likes": 313,
-                    "comments": null,
+                    "comments": 277,
                     "shares": 9,
                     "reach": 6636
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3688.54
         }
     ]
 }

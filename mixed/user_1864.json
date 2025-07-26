@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8a86faf4-509f-4523-9bed-6feb6de85705",
+    "name": "Jason Hernandez",
+    "email": "bgarcia@example.net",
+    "instagram_handle": "@fsanchez",
+    "tiktok_handle": "@ryantracey",
+    "joined_at": "2024-06-26T20:48:48.258636",
     "advocacy_programs": [
         {
             "program_id": "d712db1a-6abd-4aca-ae75-3f4b5e7677f5",
-            "brand": 12345,
+            "brand": "Smith, Parks and Williams",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "aa9ded7b-bacb-4c35-92b7-29832a9e979b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://david-hill.org/",
+                    "likes": 2212,
+                    "comments": 154,
                     "shares": 99,
                     "reach": 7500
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1050.53
         }
     ]
 }

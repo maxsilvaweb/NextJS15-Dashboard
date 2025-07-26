@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8bad2d42-47a3-4d56-a2c2-a0403579cb8c",
+    "name": "Lauren Rivera",
+    "email": "jamesmercado@example.com",
+    "instagram_handle": "@janet49",
+    "tiktok_handle": "@gregorytaylor",
+    "joined_at": "2025-02-19T01:38:02.154583",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "90a40328-cacb-4e85-a715-1da920e818d7",
+            "brand": "Jones-Burns",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6e86a339-53af-4774-abc0-738257253197",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.bell.com/",
+                    "likes": 5930,
+                    "comments": 390,
                     "shares": 94,
                     "reach": 3681
                 }

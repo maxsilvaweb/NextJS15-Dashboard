@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dcafdd01-2bb5-470c-99a3-3b5cf8e96ff3",
+    "name": "Jason Roberts",
+    "email": "crystalbrown@example.org",
+    "instagram_handle": "@casey66",
+    "tiktok_handle": "@donald68",
+    "joined_at": "2024-06-28T10:53:33.551708",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8fa5e66d-b313-40fb-ad80-ea507d6bd3b3",
+            "brand": "Gonzalez LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "680b5f75-128c-45f2-ad8c-ef16cb71a3b0",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://watts.com/",
+                    "likes": 7259,
+                    "comments": 347,
                     "shares": 60,
                     "reach": 8090
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4140.32
         }
     ]
 }

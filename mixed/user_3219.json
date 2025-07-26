@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "29cfcdd5-e146-48f2-80b6-2c1797092d37",
+    "name": "Sharon Nelson",
+    "email": "sanchezryan@example.com",
+    "instagram_handle": "@mburke",
+    "tiktok_handle": "@vfields",
+    "joined_at": "2024-08-17T23:44:43.129958",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "054918ad-2a60-46aa-a414-b71cbb808cc1",
+            "brand": "Gonzales, Rodriguez and Roberts",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "8a9e73d6-5da3-4ff7-9a05-b21a5a3f04ef",
+                    "platform": "Instagram",
+                    "post_url": "https://www.smith-johnson.com/",
+                    "likes": 9550,
+                    "comments": 475,
                     "shares": 87,
                     "reach": 2755
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4358.65
         }
     ]
 }

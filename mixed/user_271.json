@@ -1,21 +1,21 @@
 {
-    "user_id": null,
+    "user_id": "c2e21dc6-3e47-402c-90cc-ce83ea577142",
     "name": "Virginia Ferry",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "obrienantonio@example.com",
+    "instagram_handle": "@amandarodgers",
+    "tiktok_handle": "@susan68",
+    "joined_at": "2025-07-26T16:47:28.224235",
     "advocacy_programs": [
         {
             "program_id": "a3bf1005-d728-4973-8dbc-902fd435dbd7",
-            "brand": 12345,
+            "brand": "Thompson-White",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3e52ee9f-5091-4f5c-898e-086626187207",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://stevens.info/",
+                    "likes": 2079,
+                    "comments": 472,
                     "shares": 61,
                     "reach": 3569
                 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4f58d48e-6d71-4e93-ac25-43586c916273",
+    "name": "Jonathan Smith",
+    "email": "farrellnatasha@example.net",
+    "instagram_handle": "@andersonnicholas",
+    "tiktok_handle": "@davislinda",
+    "joined_at": "2025-02-11T13:47:31.408932",
     "advocacy_programs": [
         {
             "program_id": "1c5e4281-eeb4-43e9-81a3-3dc35000e0f4",
-            "brand": 12345,
+            "brand": "Jones Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1782c476-d51e-40e8-bcb6-2c84bc861553",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://thompson.com/",
+                    "likes": 8381,
+                    "comments": 88,
                     "shares": 100,
                     "reach": 8336
                 }

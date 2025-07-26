@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "3732f32f-7522-4587-a77f-59fdd357252c",
+    "name": "Richard Mendoza",
     "email": "Benton_Miller39@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@apeterson",
+    "tiktok_handle": "@christine19",
+    "joined_at": "2023-09-29T11:22:08.156780",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "64eea826-ea26-454d-97a8-6a053c4cdc13",
+            "brand": "Villarreal-Rivera",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "18bc142d-1344-4056-bc62-7b127bb3129f",
+                    "platform": "Twitter",
+                    "post_url": "https://www.evans.info/",
+                    "likes": 84,
                     "comments": 45,
                     "shares": 56,
                     "reach": 4704
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3204.73
         }
     ]
 }

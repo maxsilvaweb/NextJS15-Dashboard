@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "54e3becb-58f9-4d00-be4b-5abd63085941",
     "name": "Wesley Monahan",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "umiller@example.org",
+    "instagram_handle": "@benjaminbaker",
+    "tiktok_handle": "@william02",
+    "joined_at": "2024-02-19T20:52:03.701864",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "46a16b16-4d85-4469-b3b0-278d775c63e7",
+            "brand": "Smith Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5df541cf-900f-45e0-a7fa-6dfc4f759ee1",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.preston-gibson.com/",
+                    "likes": 9138,
+                    "comments": 186,
                     "shares": 19,
                     "reach": 5560
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5088.92
         }
     ]
 }

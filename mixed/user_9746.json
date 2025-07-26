@@ -1,26 +1,26 @@
 {
     "user_id": "7a520a9c-428f-4708-ba1f-4e31d704f589",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Jessica Taylor",
+    "email": "kingsteven@example.com",
+    "instagram_handle": "@keith01",
+    "tiktok_handle": "@petersoneugene",
+    "joined_at": "2023-12-22T17:01:59.637923",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c6ef19e1-2851-4da2-a4cb-b6df5ab36228",
+            "brand": "Carlson-Sawyer",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "02c84b6d-125d-46b7-9b5d-247ac0e468c5",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.neal-fletcher.net/",
                     "likes": 61,
                     "comments": 44,
                     "shares": 65,
                     "reach": 6819
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4166.82
         }
     ]
 }

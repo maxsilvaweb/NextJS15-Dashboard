@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "ab41b1b9-9e14-4ca7-95c4-f45e3248d5ba",
+    "name": "Kevin Coleman",
     "email": "Valentin37@yahoo.com",
     "instagram_handle": "@Kathleen7",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@rowewilliam",
+    "joined_at": "2024-07-06T07:13:40.793247",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "11a40e53-ad79-42de-bf20-4d1f6de8ed51",
+            "brand": "Ingram-Mcdonald",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d8c92738-dc49-475e-b467-c732568aa6c3",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.hall.com/",
+                    "likes": 2626,
+                    "comments": 475,
                     "shares": 53,
                     "reach": 7549
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2056.62
         }
     ]
 }

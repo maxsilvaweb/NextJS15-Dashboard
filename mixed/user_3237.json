@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "4d2ef86b-61de-4e11-acfc-0c45c27f24e1",
+    "name": "Jerry Villanueva",
     "email": "Austen.Wisoky@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@djames",
+    "tiktok_handle": "@fmcdonald",
+    "joined_at": "2024-03-26T00:48:39.515794",
     "advocacy_programs": [
         {
             "program_id": "3da6dd03-a048-42ca-a21d-878cae38696e",
             "brand": "Reynolds Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "1e5a4050-d0f3-4e27-aeb4-e6a6b70c8419",
+                    "platform": "Twitter",
+                    "post_url": "https://www.calhoun.org/",
+                    "likes": 9773,
+                    "comments": 203,
                     "shares": 20,
                     "reach": 2601
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 601.92
         }
     ]
 }

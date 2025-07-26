@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "5df213f4-c218-40cd-8d35-f902b62aa2b8",
     "name": "Melody Breitenberg",
     "email": "Elouise_Kertzmann83@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@rebecca93",
+    "tiktok_handle": "@ryan99",
+    "joined_at": "2023-12-18T16:52:17.937478",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f3397c8e-94a7-44b6-a197-0796b2ff7399",
+            "brand": "Flynn Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "01ab3de8-e128-4e21-ba04-06e98ebec911",
+                    "platform": "TikTok",
                     "post_url": "https://murky-gradient.name/",
                     "likes": 388,
-                    "comments": null,
+                    "comments": 102,
                     "shares": 40,
                     "reach": 7691
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3494.77
         }
     ]
 }

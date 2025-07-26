@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e4a9fb46-4311-472f-8bd5-b6dfb6682cd1",
+    "name": "Angela Davidson",
+    "email": "nicole53@example.net",
+    "instagram_handle": "@amber85",
+    "tiktok_handle": "@christine65",
+    "joined_at": "2025-04-26T14:58:57.175580",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e7af2c28-0903-489d-8a8a-3cbdbdfed77b",
+            "brand": "Graham, Bradshaw and Harris",
             "tasks_completed": [
                 {
                     "task_id": "66b80c38-b4b7-42c0-a74b-18bdd3989a2e",
                     "platform": "TikTok",
                     "post_url": "https://weekly-boyfriend.biz",
                     "likes": 298,
-                    "comments": null,
+                    "comments": 479,
                     "shares": 86,
                     "reach": 6890
                 }

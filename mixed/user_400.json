@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "f6c952b6-6dbc-4303-b10c-531e1a914c45",
+    "name": "Lynn Riggs",
+    "email": "jenniferjennings@example.com",
+    "instagram_handle": "@mosesmelanie",
+    "tiktok_handle": "@whitney81",
     "joined_at": "2024-05-17T09:36:29.044Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "19caec24-5a8f-4db0-a9f3-ddb8c0aa9821",
+            "brand": "Baird, Spencer and Weber",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "666e8d3c-07e6-4efd-bdc4-5e32a8943b5d",
+                    "platform": "YouTube",
                     "post_url": "https://slushy-rationale.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3059,
+                    "comments": 484,
                     "shares": 47,
                     "reach": 5112
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3214.52
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "145bf3bd-aac2-44c7-9ac8-0e303277ccd2",
+    "name": "Erica Edwards",
     "email": "Henry.Adams14@gmail.com",
     "instagram_handle": "@Ressie38",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@danielhall",
+    "joined_at": "2024-05-26T21:14:15.041838",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "38d31f2a-d494-45e7-8bfd-84f059013de9",
+            "brand": "Jones, Garcia and Ponce",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ca6a1dea-6d3f-496b-be7f-644fc2d55ac3",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://fletcher.com/",
+                    "likes": 7299,
+                    "comments": 183,
                     "shares": 38,
                     "reach": 4935
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7941.72
         }
     ]
 }

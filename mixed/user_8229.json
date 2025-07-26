@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "7d842637-7ed0-4687-b11d-54f6827b0d3d",
+    "name": "Richard Mays",
+    "email": "morenokevin@example.org",
+    "instagram_handle": "@michaeltucker",
+    "tiktok_handle": "@joseph01",
     "joined_at": "2024-09-12T12:47:21.692Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ddd9308d-1b28-42de-b9f0-4bc2c849e8cb",
+            "brand": "Rosales, White and Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dd468e65-6eb4-46fb-8763-04780ff71907",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://galvan-perez.com/",
+                    "likes": 3396,
+                    "comments": 346,
                     "shares": 59,
                     "reach": 1129
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1576.13
         }
     ]
 }

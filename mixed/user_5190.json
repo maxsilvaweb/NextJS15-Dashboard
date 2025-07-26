@@ -1,21 +1,21 @@
 {
     "user_id": "8fe21415-d148-4f42-9a02-90cbcdf34eed",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Michael Lozano",
+    "email": "badams@example.net",
+    "instagram_handle": "@carlsonlaura",
+    "tiktok_handle": "@scottchristopher",
+    "joined_at": "2025-05-22T14:46:18.130261",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8faa8790-7357-4a66-956a-1761354d0e60",
+            "brand": "Alexander, Campbell and Howard",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "cb0a0294-5fcd-4df5-bb3b-97bc1d610e56",
+                    "platform": "Twitter",
                     "post_url": "https://suburban-jungle.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7060,
+                    "comments": 487,
                     "shares": 80,
                     "reach": 7166
                 }

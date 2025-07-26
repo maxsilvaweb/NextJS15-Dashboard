@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "0cd93413-a8ef-427c-89f6-e860e18f7376",
+    "name": "Brandy Hanson",
     "email": "Amos.Herman64@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@fowlerdouglas",
+    "tiktok_handle": "@reevesstephanie",
+    "joined_at": "2024-12-16T17:54:02.781591",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8ab37a5a-d90d-42fb-8439-eedd6f754783",
+            "brand": "Richardson-Baird",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f300acc2-2f6f-4ffe-9bd6-65fd44136243",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://parsons.com/",
+                    "likes": 7663,
+                    "comments": 160,
                     "shares": 29,
                     "reach": 5537
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9617.7
         }
     ]
 }

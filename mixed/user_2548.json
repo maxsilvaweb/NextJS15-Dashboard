@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "b13501bc-6359-42f7-9ac1-95e566dc0939",
+    "name": "Garrett Tucker",
     "email": "Tommie13@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@swebb",
+    "tiktok_handle": "@aprilmartin",
+    "joined_at": "2025-03-05T07:42:59.844730",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c30a0bff-ae54-49d8-90fc-f441c941ed3d",
+            "brand": "Green-Coleman",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b243e2ef-1ebc-4f45-928f-156c0ab0fe72",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://harris-leonard.biz/",
+                    "likes": 4988,
+                    "comments": 169,
                     "shares": 100,
                     "reach": 7922
                 }

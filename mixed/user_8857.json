@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a8af7317-fe6e-470f-a8b9-544a5cfbfee7",
+    "name": "Jessica Smith",
+    "email": "bschmitt@example.org",
+    "instagram_handle": "@idavis",
+    "tiktok_handle": "@pamelagonzalez",
+    "joined_at": "2023-10-26T06:54:59.301649",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "044f5489-0677-4ae9-b35e-2d7486947c00",
+            "brand": "Owens, Jones and Bender",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "d472b2c0-82eb-4648-bd64-a5b7f57843eb",
+                    "platform": "TikTok",
+                    "post_url": "http://www.orozco-dunlap.org/",
                     "likes": 379,
                     "comments": 47,
                     "shares": 22,

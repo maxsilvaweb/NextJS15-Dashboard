@@ -1,26 +1,26 @@
 {
     "user_id": "f8c2a803-4e91-43da-b78d-3e8086e1d08e",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Allison Blackburn",
+    "email": "dparker@example.com",
+    "instagram_handle": "@staceynielsen",
+    "tiktok_handle": "@deangregory",
+    "joined_at": "2025-04-05T01:23:45.532374",
     "advocacy_programs": [
         {
             "program_id": "9a8209e1-bda8-4c11-88da-aa800eee9d3a",
             "brand": "Lebsack LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fe30b4dd-bed1-4cb2-bf77-f2105cef39e3",
                     "platform": "TikTok",
                     "post_url": "https://athletic-sesame.org",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2921,
+                    "comments": 245,
                     "shares": 94,
                     "reach": 859
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7554.79
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9def7f8c-a3f0-4650-917d-51514e5b8208",
+    "name": "Annette Wallace PhD",
+    "email": "kristendillon@example.com",
+    "instagram_handle": "@xbartlett",
+    "tiktok_handle": "@gmorris",
+    "joined_at": "2025-02-04T07:09:57.076151",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4ffbce46-6c64-41c6-b2ca-ba2dccf4e4fa",
+            "brand": "Gonzalez PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "5efadb0e-a5b4-469f-8ad0-36d1b4c766f5",
+                    "platform": "YouTube",
+                    "post_url": "http://www.jennings-wilson.info/",
                     "likes": 340,
-                    "comments": null,
+                    "comments": 326,
                     "shares": 44,
                     "reach": 1766
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3812.05
         }
     ]
 }

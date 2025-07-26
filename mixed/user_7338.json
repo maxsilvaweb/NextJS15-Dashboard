@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "23031f00-732d-4dfd-870d-384d37cac5bc",
+    "name": "Dr. Brandon Bishop",
+    "email": "lmiles@example.com",
+    "instagram_handle": "@mbrown",
+    "tiktok_handle": "@ffisher",
+    "joined_at": "2023-11-28T13:40:38.231414",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9fc12c1b-b832-4a07-923a-66e253686d6f",
+            "brand": "Barnes, Noble and Rodriguez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d7c759a8-d7d1-4019-b15f-60273891fed7",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://cruz.net/",
+                    "likes": 742,
+                    "comments": 93,
                     "shares": 23,
                     "reach": 7806
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6589.59
         }
     ]
 }

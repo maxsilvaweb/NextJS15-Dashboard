@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ba511c1e-f43d-430f-ae9f-e60fa9ec384c",
+    "name": "Elizabeth White",
+    "email": "jerry46@example.com",
+    "instagram_handle": "@justin62",
+    "tiktok_handle": "@nathantorres",
+    "joined_at": "2023-10-18T18:50:12.477218",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e5bbc051-5251-49ee-ab16-83205b650d49",
+            "brand": "Gutierrez, Maldonado and Gray",
             "tasks_completed": [
                 {
                     "task_id": "f956078b-36f9-44d0-bfc4-e930336e2659",
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "platform": "Twitter",
+                    "post_url": "https://www.solomon.com/",
                     "likes": 92,
-                    "comments": null,
+                    "comments": 362,
                     "shares": 57,
                     "reach": 6867
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8553.74
         }
     ]
 }

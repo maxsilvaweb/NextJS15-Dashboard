@@ -1,26 +1,26 @@
 {
     "user_id": "e31cc5fe-b4a1-411d-9d0c-59a073f8b4aa",
-    "name": "???",
+    "name": "George Diaz",
     "email": "Josiah63@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@cbanks",
+    "tiktok_handle": "@johnathangraham",
     "joined_at": "2024-11-27T09:53:03.840Z",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "1348e326-ace6-462c-9d04-6956de70fea4",
             "brand": "Barton Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d3761cc5-8692-4d22-be01-e71c4d8e50e5",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://smith.com/",
+                    "likes": 7042,
+                    "comments": 151,
                     "shares": 99,
                     "reach": 8122
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1238.42
         }
     ]
 }

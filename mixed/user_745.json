@@ -1,26 +1,26 @@
 {
     "user_id": "3b3dc0b4-1d43-44b0-9c10-d28eebaadf0d",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "name": "Karen Warner",
+    "email": "claudiawilson@example.com",
+    "instagram_handle": "@wilsonjennifer",
+    "tiktok_handle": "@ryannolan",
     "joined_at": "2024-05-27T20:35:58.805Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "77c17f1c-cb85-474d-b452-adc2f7331a4a",
+            "brand": "Garcia-Wade",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9bf9780b-05cc-497a-a4d2-88ab872cd09c",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.morgan.com/",
+                    "likes": 9248,
                     "comments": 49,
                     "shares": 48,
                     "reach": 7118
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7739.8
         }
     ]
 }

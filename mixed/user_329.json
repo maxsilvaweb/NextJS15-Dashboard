@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e5691a4f-4dd1-477b-9a08-bff2a7436f79",
+    "name": "Allison Smith",
+    "email": "melissa07@example.com",
+    "instagram_handle": "@jortiz",
+    "tiktok_handle": "@monica92",
+    "joined_at": "2024-02-23T01:31:37.182249",
     "advocacy_programs": [
         {
             "program_id": "09e2c07e-4158-490e-82cf-a609fdcf26fd",
-            "brand": 12345,
+            "brand": "Clayton and Sons",
             "tasks_completed": [
                 {
                     "task_id": "7d8ebe41-12da-44d7-8bf6-c533d31e6845",
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "platform": "Twitter",
+                    "post_url": "https://ponce.info/",
                     "likes": 155,
                     "comments": 27,
                     "shares": 19,
                     "reach": 7974
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1715.03
         }
     ]
+}

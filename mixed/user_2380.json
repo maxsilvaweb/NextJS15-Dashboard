@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "3c5c10fa-e149-4fa8-adf9-41ce5b21c949",
+    "name": "David Patterson",
+    "email": "hughescody@example.net",
     "instagram_handle": "@Jennings85",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@paulschmidt",
+    "joined_at": "2024-06-03T02:37:42.983938",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "b028a92c-bcb6-4483-845c-fa9a324bff40",
             "brand": "Bayer, Wunsch and Volkman",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3d008d2a-0b38-40c6-bd32-7fdee026d0e3",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://reed-rivera.com/",
+                    "likes": 1687,
                     "comments": 44,
                     "shares": 60,
                     "reach": 4596

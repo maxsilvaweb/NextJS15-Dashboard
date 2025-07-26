@@ -1,26 +1,26 @@
 {
     "user_id": "eccbcc7f-1fde-4248-9ecc-cba3dcb0b097",
-    "name": "???",
+    "name": "Ryan Jackson",
     "email": "Kasey75@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@morrowstephanie",
+    "tiktok_handle": "@ashleymatthews",
+    "joined_at": "2024-08-27T22:56:26.626268",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6633269e-27dc-408c-89d1-212aac62eb9e",
+            "brand": "Wilson, Martinez and Henry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4237075d-5d08-4314-942a-4df6319d6504",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.smith.com/",
+                    "likes": 1762,
+                    "comments": 191,
                     "shares": 2,
                     "reach": 1630
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3737.56
         }
     ]
 }

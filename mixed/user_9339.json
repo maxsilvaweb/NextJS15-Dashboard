@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "18c991c0-9a7e-43aa-b9cb-7479556309a0",
+    "name": "Steven Mann",
+    "email": "longsean@example.org",
+    "instagram_handle": "@smithchristopher",
+    "tiktok_handle": "@jessica71",
+    "joined_at": "2024-11-20T12:30:15.584923",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b7deb13f-33bc-4ee4-ba3f-69bce3d22f43",
+            "brand": "Castillo-Estrada",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "5bb67088-37f5-48b8-bcd0-d0ce20265b4f",
+                    "platform": "Instagram",
+                    "post_url": "https://www.love.com/",
                     "likes": 165,
-                    "comments": null,
+                    "comments": 30,
                     "shares": 44,
                     "reach": 6863
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8816.53
         }
     ]
 }

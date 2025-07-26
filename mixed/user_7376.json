@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "97185ff4-b777-40d6-9827-54586aa28d9e",
+    "name": "Mrs. Heather Ruiz",
+    "email": "jennifer55@example.com",
+    "instagram_handle": "@brandtchad",
+    "tiktok_handle": "@ramirezmichael",
+    "joined_at": "2023-12-10T06:37:09.104697",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2c4f0c73-9641-4f4a-8e5c-b2436f469c17",
+            "brand": "Lee Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c0a7bf59-de26-4970-b8f9-6ed9d5e0548e",
                     "platform": "Facebook",
                     "post_url": "https://near-descent.com/",
-                    "likes": "NaN",
+                    "likes": 3262,
                     "comments": 34,
                     "shares": 85,
                     "reach": 2130
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9787.84
         }
     ]
 }

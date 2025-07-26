@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "36e7cb33-14f8-4719-8be2-204180be0abf",
+    "name": "Marcus Thomas",
+    "email": "austinjones@example.net",
+    "instagram_handle": "@butlerstephanie",
+    "tiktok_handle": "@ryankaitlyn",
+    "joined_at": "2024-01-22T11:34:46.121088",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "19b68fba-e88a-496c-923d-88901226e258",
+            "brand": "Hill-Sharp",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9fb7bb0d-7be2-4aa7-8cb4-aa0e6b261105",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.young.net/",
                     "likes": 104,
-                    "comments": null,
+                    "comments": 279,
                     "shares": 97,
                     "reach": 1654
                 }

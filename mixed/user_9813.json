@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "b9798af3-94b0-41ce-a682-81c27015e91f",
+    "name": "Kristopher Johnson",
     "email": "Etha96@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jonesamanda",
+    "tiktok_handle": "@marissa05",
+    "joined_at": "2023-09-07T00:26:42.369270",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2d7397da-1e28-4798-bd10-3ea191d5aa79",
+            "brand": "Ball-Durham",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a3920fb5-b81b-45a8-928e-c434ab63853d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.white-brown.info/",
+                    "likes": 3719,
+                    "comments": 459,
                     "shares": 70,
                     "reach": 2743
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6678.74
         }
     ]
 }

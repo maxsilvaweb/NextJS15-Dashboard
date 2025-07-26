@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "27221f28-d2cd-4445-8cc6-c52ea78d072c",
+    "name": "Rhonda Silva DVM",
+    "email": "pbrown@example.net",
+    "instagram_handle": "@kyleowen",
+    "tiktok_handle": "@noah01",
+    "joined_at": "2024-08-11T09:08:10.485301",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d509741e-40b5-428a-b0b0-420d0f65b583",
+            "brand": "Hampton-Stephens",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "13a51029-23cc-40b3-9d1f-17f25474da94",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.vargas-davis.net/",
+                    "likes": 660,
+                    "comments": 92,
                     "shares": 35,
                     "reach": 3041
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 533.32
         }
     ]
 }

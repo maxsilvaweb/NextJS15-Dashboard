@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "de573051-e224-487e-a388-2c0de75ca90a",
+    "name": "Michael Black",
+    "email": "nyoung@example.com",
+    "instagram_handle": "@shari39",
+    "tiktok_handle": "@owensjason",
+    "joined_at": "2024-08-10T13:22:19.604763",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "38a0f7e4-fa1f-4002-bed4-41dc85dc4b96",
+            "brand": "Cox-Castillo",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "984b4c51-0754-44e8-add4-b92f94adf120",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://rogers.com/",
+                    "likes": 3825,
                     "comments": 50,
                     "shares": 100,
                     "reach": 5468

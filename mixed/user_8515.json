@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "40f15de1-1b34-4a74-b2c7-1a60cb19a4a6",
+    "name": "David Baird",
+    "email": "kpreston@example.net",
+    "instagram_handle": "@gbailey",
     "tiktok_handle": "@Tod.Leuschke",
     "joined_at": "2025-01-18T17:35:41.841Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8d6905b3-79d3-4641-9824-2f435ce15d09",
+            "brand": "Johnson, Smith and Perry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2eaef644-9c42-477d-a24a-d8547b029a10",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://price.com/",
+                    "likes": 1823,
+                    "comments": 120,
                     "shares": 32,
                     "reach": 6717
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "39ef8b67-20a5-4837-869d-86a13902b96d",
+    "name": "Louis Payne",
+    "email": "donaldmiller@example.org",
     "instagram_handle": "@Soledad67",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@tammy09",
+    "joined_at": "2023-09-13T12:28:19.799639",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d3a71b0f-c2cb-429e-b272-0384b5ab4999",
+            "brand": "Payne, Gonzalez and Rivas",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "2b3d39cb-1fe1-435c-9115-2722707f4d0e",
+                    "platform": "Instagram",
+                    "post_url": "https://www.johnson.info/",
+                    "likes": 9929,
+                    "comments": 496,
                     "shares": 1,
                     "reach": 4366
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4807.26
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b8c9d885-99e0-4669-8082-4485de99bd70",
+    "name": "Katherine Jones",
+    "email": "janewilliams@example.org",
+    "instagram_handle": "@edwin15",
+    "tiktok_handle": "@pdixon",
+    "joined_at": "2025-05-19T19:06:56.017061",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e6c82299-9952-45f0-96b5-8f637fea3338",
+            "brand": "Nash LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a1e46ce0-299a-4145-82e9-8b24f00e145f",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.lopez.com/",
+                    "likes": 9232,
+                    "comments": 360,
                     "shares": 63,
                     "reach": 8277
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1827.6
         }
     ]
 }

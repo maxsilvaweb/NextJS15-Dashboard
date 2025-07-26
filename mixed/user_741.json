@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "87589ea3-3149-4268-a58d-39635dbdeb7f",
+    "name": "Harry Barton",
+    "email": "susan29@example.net",
+    "instagram_handle": "@beverlyhill",
+    "tiktok_handle": "@john36",
+    "joined_at": "2024-07-24T18:46:26.543813",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ad5aeeba-9149-4012-b07e-a9d094921dae",
+            "brand": "Haas LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d5fcf06e-0308-4056-b472-4661da9e1a83",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.anderson.com/",
                     "likes": 45,
                     "comments": 30,
                     "shares": 8,
                     "reach": 4714
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9783.63
         }
     ]
 }

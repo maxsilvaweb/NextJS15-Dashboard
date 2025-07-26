@@ -1,21 +1,21 @@
 {
     "user_id": "a047e34e-7fbc-46f2-906b-d306a99b15f0",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Sharon Rodriguez",
+    "email": "ravenwood@example.net",
+    "instagram_handle": "@pammathis",
+    "tiktok_handle": "@kcarroll",
+    "joined_at": "2025-02-02T02:06:33.954173",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f20cd711-8a19-4c88-a0b1-46e15216f064",
+            "brand": "Davis, Ballard and Vargas",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "64441e09-6074-40bf-b490-4be99d4ed924",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://lam-bradford.biz/",
+                    "likes": 4510,
+                    "comments": 384,
                     "shares": 41,
                     "reach": 2376
                 }

@@ -1,21 +1,21 @@
 {
     "user_id": "f55b8a1a-8359-4ca5-9372-5011ebea27b2",
-    "name": "???",
+    "name": "Samantha Ball",
     "email": "Dashawn_Rosenbaum@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@ypatterson",
+    "tiktok_handle": "@ocruz",
+    "joined_at": "2025-04-18T15:22:01.399605",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e90646bc-65d0-4bb3-81d1-703a8a56f3e6",
+            "brand": "Reeves-Cardenas",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "8f55807c-7185-4322-8c4d-a37e2b911502",
+                    "platform": "TikTok",
+                    "post_url": "https://www.meyer-ayers.net/",
                     "likes": 359,
-                    "comments": null,
+                    "comments": 181,
                     "shares": 52,
                     "reach": 9034
                 }

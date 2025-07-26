@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3ee0f378-9e59-4afe-be90-a0c6d8b857b4",
+    "name": "Kimberly Clark",
+    "email": "bodom@example.net",
+    "instagram_handle": "@james05",
+    "tiktok_handle": "@wilsonronald",
+    "joined_at": "2023-09-21T20:07:56.552320",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c84584d7-69cd-4e7f-a2d9-103128c4b43c",
+            "brand": "Smith, Ingram and King",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "85dcdece-aaa0-41f6-96fc-bd08cfb33336",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.schneider-marshall.com/",
+                    "likes": 9165,
+                    "comments": 455,
                     "shares": 26,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5042.4
         }
     ]
 }

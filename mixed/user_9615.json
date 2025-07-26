@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f770699c-464d-442d-bbb2-eda6f36cefe0",
+    "name": "Darryl Cardenas",
+    "email": "xayala@example.com",
+    "instagram_handle": "@smithamanda",
+    "tiktok_handle": "@hmarshall",
+    "joined_at": "2023-12-05T05:30:50.198117",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e6b5a1e4-ad45-4ff0-8b82-734c910108e1",
+            "brand": "Gomez-Garcia",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "6d4a49cc-9b7f-4c07-b0f5-e0da8eefe3ea",
+                    "platform": "TikTok",
+                    "post_url": "https://daniel-dodson.com/",
+                    "likes": 1821,
+                    "comments": 488,
                     "shares": 5,
                     "reach": 1510
                 }

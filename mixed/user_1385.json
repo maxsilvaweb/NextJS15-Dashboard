@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9d57cea6-4651-4687-9ad7-32095c491bce",
+    "name": "Reginald Boyd",
+    "email": "richard94@example.net",
+    "instagram_handle": "@jason88",
+    "tiktok_handle": "@kimberly55",
+    "joined_at": "2023-10-14T07:44:01.193059",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3a338141-ac58-435f-ad64-36737f934f8f",
+            "brand": "Valdez, Wilson and Spencer",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c664f9cc-17fb-4e64-8ccd-1e86d07ce422",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://diaz.com/",
+                    "likes": 3532,
+                    "comments": 328,
                     "shares": 80,
                     "reach": 4002
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9920.01
         }
     ]
 }

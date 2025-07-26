@@ -1,21 +1,21 @@
 {
     "user_id": "ff9155bf-29e5-443d-ab22-01c16d0faa05",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "David Carroll",
+    "email": "anthony12@example.net",
+    "instagram_handle": "@cameronrhonda",
+    "tiktok_handle": "@george51",
+    "joined_at": "2024-12-31T11:21:13.756488",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2c302343-d3c1-4cd2-80d2-0ff4b90a5b11",
+            "brand": "Gibson, Johnson and Hartman",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "abf60ea2-5c9b-4fd0-9ab1-9c3b494fb9d0",
+                    "platform": "YouTube",
+                    "post_url": "https://www.kelly.com/",
+                    "likes": 934,
+                    "comments": 422,
                     "shares": 96,
                     "reach": 4814
                 }

@@ -1,20 +1,20 @@
 {
     "user_id": "e163b2bd-759e-468b-b9d1-1a6fb4c612bc",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Meredith Elliott",
+    "email": "marilynwood@example.net",
+    "instagram_handle": "@smiththeresa",
+    "tiktok_handle": "@thomas10",
+    "joined_at": "2025-01-10T10:13:04.307708",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "080976f9-184b-472e-aedc-b283aace9b17",
+            "brand": "Robinson Inc",
             "tasks_completed": [
                 {
                     "task_id": "c39ea7fc-36da-4f7f-8c98-28d73a2495ab",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://robinson.net/",
+                    "likes": 3124,
                     "comments": 6,
                     "shares": 59,
                     "reach": -1000

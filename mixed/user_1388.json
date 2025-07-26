@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c1531cc3-9ef1-4265-92f3-d938978ce5c4",
+    "name": "Alex Gray",
+    "email": "kiddjennifer@example.net",
+    "instagram_handle": "@coreyjackson",
+    "tiktok_handle": "@bpayne",
+    "joined_at": "2025-01-08T23:11:03.281911",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4ae7ca95-6ab9-4dc3-a7e1-c78b462e446f",
+            "brand": "Carpenter PLC",
             "tasks_completed": [
                 {
                     "task_id": "2eb95be5-60a7-40a9-977d-d34abbc7d267",
                     "platform": "Instagram",
                     "post_url": "https://simple-phrase.name",
                     "likes": 300,
-                    "comments": null,
+                    "comments": 53,
                     "shares": 11,
                     "reach": 6565
                 }

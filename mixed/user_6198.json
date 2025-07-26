@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "56130236-4429-48e4-8588-e900a87add9d",
+    "name": "James Kelly",
+    "email": "clintonmalone@example.com",
+    "instagram_handle": "@wfarrell",
+    "tiktok_handle": "@tpatterson",
+    "joined_at": "2024-12-17T16:29:42.713113",
     "advocacy_programs": [
         {
             "program_id": "785dfc7c-fcf6-4752-8396-89055237cc09",
-            "brand": 12345,
+            "brand": "Lee, Wallace and Conway",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c8a07b13-f1a0-4cf1-8c48-db5ecf398acb",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://young.biz/",
+                    "likes": 9904,
                     "comments": 2,
                     "shares": 22,
                     "reach": 5751
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3687.68
         }
     ]
 }

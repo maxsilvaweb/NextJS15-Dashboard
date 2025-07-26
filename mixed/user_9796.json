@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9b243546-21ed-4f1b-90e9-1ca1b1ea37b0",
+    "name": "Erin Wright",
+    "email": "ijensen@example.net",
+    "instagram_handle": "@haneymeredith",
+    "tiktok_handle": "@mikaylawatson",
+    "joined_at": "2024-09-23T19:50:38.713900",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6f0dbd0b-c28a-4ea8-bf5a-8b2bd0077e18",
+            "brand": "Douglas Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "23ba68ba-f668-4ec4-b274-203c43f214a1",
+                    "platform": "TikTok",
+                    "post_url": "http://www.young.com/",
+                    "likes": 5048,
+                    "comments": 260,
                     "shares": 3,
                     "reach": 9359
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2459.93
         }
     ]
 }

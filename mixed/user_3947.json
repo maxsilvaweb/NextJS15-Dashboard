@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "361859f6-d99d-4157-8a80-44ce44d9ad6f",
+    "name": "Daniel Edwards",
+    "email": "curtisvictor@example.com",
+    "instagram_handle": "@smithmark",
+    "tiktok_handle": "@ngonzalez",
+    "joined_at": "2023-11-10T15:34:25.934091",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9646afe9-2d36-4052-a68e-391694704897",
+            "brand": "Williams-Hall",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4d1af18b-a69e-4851-8c9d-fa5ec38903d6",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://townsend.info/",
+                    "likes": 2879,
+                    "comments": 420,
                     "shares": 5,
                     "reach": 6098
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1783.14
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "82d448dd-9003-4a67-9f9d-70e7749d8e60",
+    "name": "Anita Klein",
+    "email": "aaronvargas@example.org",
+    "instagram_handle": "@tamara90",
+    "tiktok_handle": "@robert33",
+    "joined_at": "2024-03-04T12:09:01.220407",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4d6ebbf1-d2ad-464c-b58c-b4f15b7cf5e2",
+            "brand": "Robinson PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "f818958f-cdc3-4f7a-9545-5232430f7059",
+                    "platform": "Instagram",
+                    "post_url": "http://www.ruiz.com/",
+                    "likes": 3394,
+                    "comments": 468,
                     "shares": 86,
                     "reach": 3944
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 448.0
         }
     ]
 }

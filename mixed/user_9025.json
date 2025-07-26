@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2b591c89-e158-41cc-8999-b018be0608fc",
+    "name": "Benjamin Jackson",
+    "email": "smithlance@example.com",
+    "instagram_handle": "@davidevans",
+    "tiktok_handle": "@andersonjohn",
+    "joined_at": "2025-07-26T19:05:03.204320",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c4e50b3f-7b92-4479-810a-b6933c22bfdd",
+            "brand": "Ali-Nelson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0a0a952e-020d-4a2a-8314-5f09a7ef47fe",
                     "platform": "Facebook",
                     "post_url": "https://distant-promise.org/",
                     "likes": 405,
-                    "comments": null,
+                    "comments": 56,
                     "shares": 75,
                     "reach": 831
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6350.95
         }
     ]
 }

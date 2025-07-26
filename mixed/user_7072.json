@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7f0685fd-2476-44ff-9019-d7b40d0e9dea",
+    "name": "Amanda Brown",
+    "email": "johnrangel@example.org",
+    "instagram_handle": "@hodgesmelissa",
+    "tiktok_handle": "@brianna53",
+    "joined_at": "2023-11-01T06:17:39.227451",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2e824b5a-8f84-45cd-bf9c-bc169fab7f5e",
+            "brand": "Singh-Mayer",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e4be25ba-3929-4534-b328-9e8a5ab0393c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.wilson.biz/",
+                    "likes": 7931,
+                    "comments": 266,
                     "shares": 44,
                     "reach": 4448
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1479.57
         }
     ]
 }

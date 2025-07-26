@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "667841ac-2099-4e26-91c0-d5b8197f510a",
+    "name": "Christina Rodriguez",
+    "email": "rebeccareyes@example.com",
+    "instagram_handle": "@emunoz",
+    "tiktok_handle": "@carlospeters",
+    "joined_at": "2024-02-03T08:29:29.167953",
     "advocacy_programs": [
         {
             "program_id": "4de4a466-d85c-4884-b2e8-c40cfff55e9e",
-            "brand": 12345,
+            "brand": "Meadows, George and Mcdaniel",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "16c4ac8a-4ce2-4d6b-9d42-4336cf550769",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://reyes-harris.com/",
+                    "likes": 8831,
+                    "comments": 495,
                     "shares": 62,
                     "reach": 6744
                 }

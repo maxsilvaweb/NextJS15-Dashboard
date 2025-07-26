@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a7c99141-1259-4a10-ba7e-ff0e063b8170",
+    "name": "Randy Villanueva",
+    "email": "charles97@example.com",
+    "instagram_handle": "@rdavis",
+    "tiktok_handle": "@william06",
+    "joined_at": "2025-03-28T19:54:21.668017",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dfa59cce-892a-492e-80cb-4bba5035e93f",
+            "brand": "Ferguson, Pham and Hernandez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "be833f81-cadb-4fdc-aef9-5612907b573f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.gallagher.com/",
                     "likes": 213,
                     "comments": 28,
                     "shares": 100,

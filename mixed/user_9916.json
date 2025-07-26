@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "47e6ced1-9bdb-40a7-ae16-3a9bf8d6adb0",
+    "name": "Rebecca Fuller",
+    "email": "osnyder@example.org",
+    "instagram_handle": "@james89",
+    "tiktok_handle": "@smiththomas",
+    "joined_at": "2025-04-22T15:52:20.469939",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "92c9483b-6072-4f6a-a87f-d4cb42a46875",
+            "brand": "Downs-Martinez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b4030e1e-961b-44e7-b929-e762164740f8",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.wise.com/",
+                    "likes": 4174,
                     "comments": 20,
                     "shares": 59,
                     "reach": 1348

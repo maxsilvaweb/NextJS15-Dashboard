@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "a41728ca-c3cd-4f6c-b3ca-eab7c7cfb7b5",
+    "name": "James Leon",
+    "email": "heathermullins@example.com",
+    "instagram_handle": "@danahunter",
+    "tiktok_handle": "@rebeccaellis",
     "joined_at": "2025-02-16T01:38:27.258Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "07d8ebc9-31f5-450a-9aaf-3578f3299802",
+            "brand": "Williams Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9c0b05a3-12dd-4eb1-bfd4-65d0af60a93e",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.harris.com/",
+                    "likes": 2498,
+                    "comments": 43,
                     "shares": 75,
                     "reach": 1279
                 }

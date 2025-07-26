@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1d325c60-45c5-440c-9338-6feb47b8399c",
+    "name": "Robert Rogers",
+    "email": "simpsonchristine@example.org",
+    "instagram_handle": "@hmoran",
+    "tiktok_handle": "@iwilliams",
+    "joined_at": "2024-09-18T17:39:09.973033",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6757fc71-d638-4d69-a7ff-8faf7d69f475",
+            "brand": "Abbott-Sullivan",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "772ad6a3-dad4-433a-b8a0-cbb9c637e9d9",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://maldonado-walls.org/",
+                    "likes": 8550,
+                    "comments": 201,
                     "shares": 77,
                     "reach": 6958
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9791.55
         }
     ]
 }

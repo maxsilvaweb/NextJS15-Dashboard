@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "e7049ec9-3e52-433f-a1e3-d3162effb08e",
     "name": "Bessie Kub",
     "email": "Dulce.Franey@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@delgadodennis",
+    "tiktok_handle": "@ttate",
+    "joined_at": "2024-09-07T22:22:16.949424",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cde02e6e-5baf-401f-a62c-81a455f612fb",
+            "brand": "West, Ortiz and Silva",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ecd09209-cb28-4bc5-b734-d24c4fd242c5",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.peck.org/",
+                    "likes": 3193,
+                    "comments": 317,
                     "shares": 97,
                     "reach": 2262
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7498.73
         }
     ]
 }

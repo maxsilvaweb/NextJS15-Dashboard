@@ -1,26 +1,26 @@
 {
     "user_id": "a4639b58-88a9-4d51-a9ac-33d15c1e2f74",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Lynn Hurley",
+    "email": "nsmith@example.org",
+    "instagram_handle": "@larajohnathan",
+    "tiktok_handle": "@stephengonzalez",
+    "joined_at": "2025-05-24T02:07:35.904858",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "808258ee-ad73-4b61-993a-42883156b5b1",
+            "brand": "Weber, Campbell and Rivera",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ef04a95b-4d4f-4dc0-8c71-c85fb0912a71",
                     "platform": "Instagram",
                     "post_url": "https://artistic-obesity.org/",
                     "likes": 360,
-                    "comments": null,
+                    "comments": 261,
                     "shares": 89,
                     "reach": 4498
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3475.35
         }
     ]
 }

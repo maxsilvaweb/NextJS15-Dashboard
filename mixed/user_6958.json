@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "820f9833-978b-4b13-848e-9349e58f100a",
+    "name": "Lisa Johnson",
     "email": "Marta_Leannon59@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@knightmark",
+    "tiktok_handle": "@nelsonkeith",
+    "joined_at": "2025-07-24T05:34:18.416953",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "711f0b22-bdae-4bed-88b5-c8c23cee5066",
+            "brand": "Nielsen-Ryan",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d95179c2-74a4-4620-a2d1-d924120ae088",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://wilkinson-short.com/",
+                    "likes": 7034,
                     "comments": 49,
                     "shares": 38,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7740.96
         }
     ]
 }

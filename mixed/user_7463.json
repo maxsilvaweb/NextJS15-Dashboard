@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "48e8c6f6-a02f-4c04-97eb-1353505e3ac9",
+    "name": "John Montoya",
+    "email": "christophermeyer@example.com",
+    "instagram_handle": "@danny79",
+    "tiktok_handle": "@philiptran",
+    "joined_at": "2023-08-27T09:23:30.872219",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "61cef0f7-75ec-4d6c-8f7f-35ab6fea99fd",
+            "brand": "Brown, Snyder and Cooper",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "04436b5b-f3b7-44ed-8ec8-57dde27b26ff",
+                    "platform": "TikTok",
+                    "post_url": "https://anthony.com/",
+                    "likes": 5756,
                     "comments": 37,
                     "shares": 41,
                     "reach": 3672
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3649.88
         }
     ]
 }

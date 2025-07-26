@@ -1,17 +1,17 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "310a7034-e1d6-4c9d-84f9-b55371c2aa53",
+    "name": "Julia Adams",
+    "email": "garciacolton@example.org",
     "instagram_handle": "@Dexter40",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@ffoster",
+    "joined_at": "2024-11-09T12:46:33.284466",
     "advocacy_programs": [
         {
             "program_id": "e7f258ea-3e52-4d27-8dbf-b9cc57d3fb1c",
-            "brand": 12345,
+            "brand": "Benton Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "eec3fa4d-31d7-47c0-ba25-a5195101e403",
                     "platform": "TikTok",
                     "post_url": "https://actual-grandpa.net/",
                     "likes": 392,

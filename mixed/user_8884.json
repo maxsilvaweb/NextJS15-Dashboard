@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a0a74411-9acf-42f5-9f8f-bcc46a9afe82",
+    "name": "Danielle King",
+    "email": "brianjones@example.org",
+    "instagram_handle": "@igallagher",
+    "tiktok_handle": "@andrew37",
+    "joined_at": "2024-08-13T07:08:57.101317",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "65a8bfc3-c57c-4dd6-a0d3-488c235ae90b",
+            "brand": "Lopez, Williams and Berry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9ecb5b22-b7df-444d-8716-47d8426fb533",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.hill.com/",
                     "likes": 209,
-                    "comments": null,
+                    "comments": 0,
                     "shares": 73,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4172.93
         }
     ]
 }

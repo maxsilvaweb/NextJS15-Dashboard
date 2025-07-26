@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "0417c309-adae-424f-bfca-42429018d3f3",
+    "name": "Danielle Cox",
+    "email": "brittany99@example.org",
     "instagram_handle": "@Lea.Wuckert52",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@john84",
+    "joined_at": "2023-11-20T00:58:09.381802",
     "advocacy_programs": [
         {
             "program_id": "ebfec34c-4334-43bf-8d8f-a1c9fc7bf4dc",
-            "brand": 12345,
+            "brand": "Poole Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "79603daf-496f-4167-be42-102174d3023e",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://freeman.com/",
+                    "likes": 156,
+                    "comments": 121,
                     "shares": 67,
                     "reach": 8352
                 }

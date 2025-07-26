@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0024e1d7-40ed-4858-a120-847730582a3a",
+    "name": "Maurice Booker",
+    "email": "feliciakennedy@example.com",
+    "instagram_handle": "@jennifer68",
+    "tiktok_handle": "@sanderseric",
+    "joined_at": "2023-10-08T00:44:36.250064",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a7062f1a-341b-4b08-899b-bce7ac44213d",
+            "brand": "Turner LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a22bace8-c7b9-4d5f-ac7c-81f350724319",
                     "platform": "TikTok",
                     "post_url": "https://bony-possession.com/",
-                    "likes": "NaN",
+                    "likes": 1654,
                     "comments": 3,
                     "shares": 60,
                     "reach": 7803
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9625.27
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cb2fa450-77fd-4ebe-b506-8e57c2b4bef4",
+    "name": "Donald Preston",
+    "email": "markjohnson@example.org",
+    "instagram_handle": "@marcus48",
+    "tiktok_handle": "@stephaniesmith",
+    "joined_at": "2024-06-05T23:56:00.420093",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a5017e60-f311-4151-8c77-e97285c950fb",
+            "brand": "Johnson, Anderson and Williams",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3db865b0-120f-494b-bdfd-570830f2576a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://simon-santiago.com/",
                     "likes": 12,
                     "comments": 26,
                     "shares": 9,
                     "reach": 868
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2631.77
         }
     ]
 }

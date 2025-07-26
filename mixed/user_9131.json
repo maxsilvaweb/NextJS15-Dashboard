@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "78e997a8-6851-4746-849d-5f3d7a8ef036",
+    "name": "Marcia Maldonado",
+    "email": "kevin47@example.org",
+    "instagram_handle": "@laura19",
+    "tiktok_handle": "@omejia",
+    "joined_at": "2024-12-29T21:49:55.434690",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "270b955e-d7e2-4673-a543-791875c0df10",
+            "brand": "Lynch Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fa22bbd8-e1a6-4eac-8cc1-f13ee3aad6f0",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.wagner-jones.org/",
+                    "likes": 6643,
                     "comments": 49,
                     "shares": 68,
                     "reach": 9580

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "f37c67b3-0626-4853-a7ca-aab46fe692e9",
+    "name": "Lance Barber",
     "email": "Marie_Greenholt79@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@randy02",
+    "tiktok_handle": "@melissa79",
+    "joined_at": "2024-12-31T18:00:16.615793",
     "advocacy_programs": [
         {
             "program_id": "507ebba4-c597-43b0-9cd5-76b0778b2c58",
-            "brand": 12345,
+            "brand": "Thompson PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9db01086-335c-4b01-bc4a-bb3327f0e80f",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.cook-garcia.com/",
+                    "likes": 6863,
+                    "comments": 335,
                     "shares": 91,
                     "reach": 6285
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3089.1
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b56ff1f6-3767-47fa-bf08-bf4ae1153754",
+    "name": "Paul Hoffman",
+    "email": "tylerhoward@example.org",
+    "instagram_handle": "@melissacoleman",
+    "tiktok_handle": "@hmills",
+    "joined_at": "2025-07-21T17:11:39.673823",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e28c2851-3423-4fb5-9473-2dab36cffd94",
+            "brand": "Butler Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "17da5fdc-43e5-4151-b9b6-d2ba9b4e9d69",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.villarreal.com/",
                     "likes": 494,
-                    "comments": null,
+                    "comments": 213,
                     "shares": 96,
                     "reach": 7727
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1142.27
         }
     ]
 }

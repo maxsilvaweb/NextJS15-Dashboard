@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "977b92f8-0bae-45b2-b794-d5c21b285abd",
+    "name": "Holly White",
+    "email": "eallen@example.com",
     "instagram_handle": "@Alessandro83",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@richard44",
+    "joined_at": "2023-10-18T22:26:37.509395",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "94594d4b-3391-48e3-8a56-cac74ae61f13",
             "brand": "Pfeffer - Hermiston",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ed793c48-4386-4e39-9ed8-5a76678942b8",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://bennett-collier.biz/",
+                    "likes": 4955,
+                    "comments": 342,
                     "shares": 57,
                     "reach": 7016
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6982.13
         }
     ]
 }

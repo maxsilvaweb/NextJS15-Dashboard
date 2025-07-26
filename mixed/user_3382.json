@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "2fd7e834-8407-4ce6-ae50-171e7bcf42ae",
+    "name": "Jeremy Miller",
     "email": "Francisca33@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@michael12",
+    "tiktok_handle": "@camposjulie",
+    "joined_at": "2024-12-16T17:33:37.980732",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "47252cd2-6adf-4142-be26-6425270af3fb",
+            "brand": "Santiago-Espinoza",
             "tasks_completed": [
                 {
                     "task_id": "63b6098b-ee60-46fe-a76e-dbf06abd6920",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.garcia.biz/",
+                    "likes": 5247,
+                    "comments": 131,
                     "shares": 32,
                     "reach": 5217
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4584.17
         }
     ]
 }

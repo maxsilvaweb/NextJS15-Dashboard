@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "292469fb-33fa-4eaa-ab01-100d608d4d91",
+    "name": "Robert Jenkins",
     "email": "Ruby.Hyatt@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@csantiago",
+    "tiktok_handle": "@malvarez",
+    "joined_at": "2023-11-17T02:41:28.272605",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ca29b9cb-c503-48d2-bf3c-020d96ebcd56",
+            "brand": "Fields-Hernandez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "8f0580fa-495d-4dee-8656-ea34474f6b45",
+                    "platform": "Instagram",
+                    "post_url": "https://moore.biz/",
                     "likes": 264,
-                    "comments": null,
+                    "comments": 38,
                     "shares": 27,
                     "reach": 9928
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3627.57
         }
     ]
 }

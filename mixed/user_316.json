@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "dccb4603-5db4-46eb-8361-723d8b87a626",
+    "name": "Julie Payne",
+    "email": "fherrera@example.net",
+    "instagram_handle": "@mitchellsandra",
+    "tiktok_handle": "@chasejacqueline",
     "joined_at": "2024-04-20T12:59:17.672Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "04286d78-b86a-4a55-b4e3-f83f7ea23f7e",
+            "brand": "Kaiser LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1becfc16-6108-41a2-9e50-e0680222efcc",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://mann-jones.com/",
+                    "likes": 9372,
+                    "comments": 345,
                     "shares": 16,
                     "reach": 8412
                 }

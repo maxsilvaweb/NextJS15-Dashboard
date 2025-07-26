@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "79bcfe9a-ad61-4d2b-b224-0ac33482cd93",
+    "name": "Catherine Fitzgerald",
+    "email": "stephanieadams@example.com",
+    "instagram_handle": "@phillipsbrittany",
+    "tiktok_handle": "@samanthasmith",
+    "joined_at": "2024-12-01T05:07:39.276042",
     "advocacy_programs": [
         {
             "program_id": "eeb1c5d4-fb05-41e5-805e-914d34f2fbd5",
-            "brand": 12345,
+            "brand": "Montes, Sellers and Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ac3ff9fa-b612-4c54-bc07-f6f953b7538c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://daugherty-smith.org/",
                     "likes": 265,
-                    "comments": null,
+                    "comments": 294,
                     "shares": 97,
                     "reach": 7754
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7531.09
         }
     ]
 }

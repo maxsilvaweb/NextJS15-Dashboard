@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "242257c3-07a6-40c5-99ca-1c73f83d9c8b",
+    "name": "Julie Henry",
+    "email": "joshua45@example.com",
     "instagram_handle": "@Destini.Toy",
-    "tiktok_handle": "#error_handle",
+    "tiktok_handle": "@jlee",
     "joined_at": "2024-11-24T09:09:57.417Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4a7bd541-5d0a-449b-996c-14308476bbf6",
+            "brand": "Collier, Tucker and Garcia",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e911b1d6-f544-4e7c-97ef-66de88f2ac14",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://mueller.info/",
+                    "likes": 7087,
                     "comments": 8,
                     "shares": 29,
                     "reach": 3551
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9593.4
         }
     ]
 }

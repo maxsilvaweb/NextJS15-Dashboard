@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "09df33e7-88cb-4c05-ad5f-1c438edb1b9a",
+    "name": "Amber Davenport",
+    "email": "katherinesullivan@example.com",
     "instagram_handle": "@Lucio_Wuckert",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@cnunez",
+    "joined_at": "2025-01-16T10:03:00.799010",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "8812c0b1-685a-44fa-8a79-0f7ac14495ed",
             "brand": "Rogahn - Davis",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "86431f2f-5201-46bd-952c-912bb22adb81",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.huang-roberts.com/",
+                    "likes": 7008,
                     "comments": 24,
                     "shares": 31,
                     "reach": 4146
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3515.87
         }
     ]
 }

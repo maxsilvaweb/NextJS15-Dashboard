@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "6be584ee-d122-455b-84fa-ed93854ef8ff",
+    "name": "Chelsea Reid",
+    "email": "tknight@example.net",
+    "instagram_handle": "@fowlervanessa",
+    "tiktok_handle": "@shannondunn",
     "joined_at": "2024-05-19T04:10:11.160Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8eb2ab30-b356-4b97-b07c-cd6ec81f7b27",
+            "brand": "Robinson Group",
             "tasks_completed": [
                 {
                     "task_id": "c0958162-1bbc-4437-b6bc-5b785fea57ed",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.morgan.com/",
+                    "likes": 6187,
+                    "comments": 148,
                     "shares": 55,
                     "reach": 2516
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1383.98
         }
     ]
 }

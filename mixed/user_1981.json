@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5a0d61e1-c06a-49fa-9fca-2de48de4d5a0",
+    "name": "Ronald Watkins",
+    "email": "kellyhood@example.org",
+    "instagram_handle": "@danielle41",
+    "tiktok_handle": "@brandon94",
+    "joined_at": "2025-05-28T22:25:58.030472",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "b6f9080e-623f-4db0-aa33-c80ed9105e32",
             "brand": "Nolan Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c1edf53c-3760-40fe-a605-aca3cf3cad18",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://craig.com/",
                     "likes": 148,
-                    "comments": null,
+                    "comments": 178,
                     "shares": 59,
                     "reach": 3534
                 }

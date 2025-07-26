@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "1f1c4123-d887-49fd-88c5-da1f59ad64da",
+    "name": "Mr. John Johnson",
     "email": "Merle65@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@alexanderjennifer",
+    "tiktok_handle": "@calebfields",
     "joined_at": "2025-03-06T18:13:38.170Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a5924e86-51bb-432c-96b6-123eadcb50c0",
+            "brand": "Murphy LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "03ad6658-51fe-46f5-8fe9-661b135939d3",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.price-gordon.com/",
+                    "likes": 3458,
+                    "comments": 458,
                     "shares": 76,
                     "reach": 1233
                 }

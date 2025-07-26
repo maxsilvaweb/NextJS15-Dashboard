@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aeb689eb-b078-4612-9cac-454c5f18f7e3",
+    "name": "Duane Decker",
+    "email": "dale56@example.net",
+    "instagram_handle": "@rodriguezshannon",
+    "tiktok_handle": "@scottsandoval",
+    "joined_at": "2023-09-25T12:26:53.676508",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a5276cba-1dba-47c6-ad52-869d01a5bcbf",
+            "brand": "Ford LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "0a1d2763-1e5c-46f7-8c47-8db79fe41b29",
+                    "platform": "TikTok",
+                    "post_url": "http://gibbs-martin.net/",
+                    "likes": 5776,
+                    "comments": 345,
                     "shares": 66,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6115.05
         }
     ]
 }

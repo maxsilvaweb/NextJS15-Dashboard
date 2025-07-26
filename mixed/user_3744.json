@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "66d080ae-8558-437f-8f80-c2f3347a60ff",
+    "name": "Christine Taylor",
     "email": "David5@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@garybutler",
+    "tiktok_handle": "@chloe73",
+    "joined_at": "2024-02-26T07:59:06.989408",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d8579467-cf0d-40bc-ad3d-1b2211c33bf7",
+            "brand": "Myers and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "03cbc06f-c0ce-402a-868a-62ab071bc15a",
                     "platform": "Facebook",
                     "post_url": "https://incomplete-operating.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9399,
+                    "comments": 199,
                     "shares": 100,
                     "reach": 5492
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 672.95
         }
     ]
 }

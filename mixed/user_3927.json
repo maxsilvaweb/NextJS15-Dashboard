@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c511e237-b09f-47b6-80ee-9a08a435722e",
+    "name": "Cindy Peterson",
+    "email": "karen39@example.org",
+    "instagram_handle": "@anngraham",
+    "tiktok_handle": "@michelleneal",
+    "joined_at": "2025-02-15T19:29:01.821814",
     "advocacy_programs": [
         {
             "program_id": "9f3c9e4d-7eaa-4d99-ad07-4d8f971eba75",
-            "brand": 12345,
+            "brand": "Faulkner and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "82297eb7-8c76-4726-82da-54e62cd810d7",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://smith.com/",
                     "likes": 326,
-                    "comments": null,
+                    "comments": 35,
                     "shares": 65,
                     "reach": 7516
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9637.97
         }
     ]
 }

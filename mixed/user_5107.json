@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "97ed3292-ff6e-4cc3-b5bd-66d0274d5bcb",
+    "name": "Jacqueline Schmidt",
+    "email": "james20@example.com",
+    "instagram_handle": "@dmorrison",
+    "tiktok_handle": "@bryanhanson",
     "joined_at": "2025-02-16T13:52:37.050Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "928fba48-1a1d-46ba-bc52-cdbf70df4577",
+            "brand": "Dillon-Calderon",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "de020d73-8a48-4409-9794-1c9f6fb4a53a",
+                    "platform": "Instagram",
+                    "post_url": "http://www.ibarra-chapman.com/",
+                    "likes": 1678,
+                    "comments": 250,
                     "shares": 99,
                     "reach": 2955
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2747.33
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4c4f19ee-de82-4e16-babd-518599ed104a",
+    "name": "Elizabeth Ramirez",
+    "email": "ojenkins@example.org",
+    "instagram_handle": "@vgarcia",
+    "tiktok_handle": "@summersmary",
+    "joined_at": "2023-09-11T15:52:06.748852",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0e6797b7-f459-421c-9bc2-8163ad5ed434",
+            "brand": "Hancock, Dominguez and Humphrey",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "df9c4c8f-0708-4349-a8cd-26f506d60c31",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.gould.com/",
+                    "likes": 8958,
                     "comments": 20,
                     "shares": 74,
                     "reach": 1397

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "35bd36da-9ef7-442b-aac5-f93e51935e35",
+    "name": "Gregory Thornton",
+    "email": "shannon02@example.net",
+    "instagram_handle": "@zmueller",
+    "tiktok_handle": "@chadrobinson",
+    "joined_at": "2025-05-07T20:20:03.828397",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "83058951-3728-4e6c-bd15-2fea24044323",
+            "brand": "Stevenson, Hale and Beck",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "58498145-44ee-4aa3-842e-0ade4299b09a",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://lopez.com/",
+                    "likes": 5011,
+                    "comments": 191,
                     "shares": 3,
                     "reach": 2757
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6703.83
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a39b78f5-7e47-44df-af26-f7191160a1d8",
+    "name": "William Hurst",
+    "email": "anthonykramer@example.org",
+    "instagram_handle": "@anthony11",
+    "tiktok_handle": "@lindsey39",
+    "joined_at": "2023-12-20T05:09:13.662722",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8e98b3af-bab4-4d0d-88ce-49b7ff4132ee",
+            "brand": "Brown-Alvarez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "728be097-781e-4455-ae8f-81b3293dcae8",
                     "platform": "TikTok",
                     "post_url": "https://frail-dream.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1431,
+                    "comments": 134,
                     "shares": 10,
                     "reach": 2089
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3768.81
         }
     ]
 }

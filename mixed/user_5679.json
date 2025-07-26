@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "66293fb4-af16-4dfd-8005-45249ff51724",
+    "name": "Eric Ross",
     "email": "Willa45@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@kelly85",
+    "tiktok_handle": "@michael26",
+    "joined_at": "2025-06-22T17:48:53.318159",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "43f0c87c-d187-4841-89f6-49d025e37561",
+            "brand": "Thornton, Clayton and Kennedy",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "2ed7f8b2-ad8f-444c-9a9d-cfdd0df2ce49",
+                    "platform": "YouTube",
+                    "post_url": "http://sexton.net/",
+                    "likes": 5306,
+                    "comments": 369,
                     "shares": 11,
                     "reach": 3271
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 810.58
         }
     ]
 }

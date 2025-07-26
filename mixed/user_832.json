@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "f2b58ac7-e3d5-4999-8e28-78e8e91b5b48",
     "name": "Maurice Bogisich",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "rachelmoreno@example.net",
+    "instagram_handle": "@jennifer78",
+    "tiktok_handle": "@vrandolph",
+    "joined_at": "2025-04-28T05:47:05.402750",
     "advocacy_programs": [
         {
             "program_id": "fe31181f-6dbf-4322-a6ab-d866d142f588",
-            "brand": 12345,
+            "brand": "Martin, Brown and Olson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b2f68b74-5c5c-4bf4-903c-b7735592c14b",
                     "platform": "Facebook",
                     "post_url": "https://majestic-request.org/",
                     "likes": 415,
-                    "comments": null,
+                    "comments": 239,
                     "shares": 91,
                     "reach": 7077
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8151.33
         }
     ]
 }

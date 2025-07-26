@@ -1,26 +1,26 @@
 {
     "user_id": "32203475-bfdf-4490-bbd3-278a72e0a7f3",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "name": "April Perry",
+    "email": "jacksonkevin@example.com",
+    "instagram_handle": "@dwells",
     "tiktok_handle": "@Sincere8",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-05-31T03:44:13.317707",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0c1e6566-ab44-44a9-b2e3-3c164109ada8",
+            "brand": "Murphy, Christian and Walker",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "97806d5f-5191-4be0-8c6c-16b3c7347861",
                     "platform": "Facebook",
                     "post_url": "https://showy-castanet.net",
-                    "likes": "NaN",
+                    "likes": 3498,
                     "comments": 26,
                     "shares": 94,
                     "reach": 6797
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4377.06
         }
     ]
 }

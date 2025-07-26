@@ -1,26 +1,26 @@
 {
     "user_id": "a9162c44-ad0d-45dc-9560-c454425ca1cd",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Jacob Armstrong",
+    "email": "james96@example.com",
+    "instagram_handle": "@xevans",
+    "tiktok_handle": "@qmccarthy",
+    "joined_at": "2024-09-08T18:49:56.773658",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3cbcdbc7-8195-4430-9c22-4fd28163650c",
+            "brand": "Moore-Jones",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dc69a422-0ddd-470a-ad07-b59b3baa3b83",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://swanson.biz/",
+                    "likes": 4702,
+                    "comments": 52,
                     "shares": 14,
                     "reach": 9234
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7333.93
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6bb601e0-e37c-4261-98bc-0c27947aeafc",
+    "name": "Jesse Miller",
+    "email": "tina07@example.com",
+    "instagram_handle": "@nichole54",
+    "tiktok_handle": "@debra34",
+    "joined_at": "2024-11-21T22:34:03.465872",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a73921e4-50b5-4800-b42f-398e5500910c",
+            "brand": "Mccall, Patrick and Haney",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "1ea205a7-8132-427f-b0b7-7465fcc36eb6",
+                    "platform": "Instagram",
+                    "post_url": "http://ross.com/",
                     "likes": 283,
-                    "comments": null,
+                    "comments": 450,
                     "shares": 51,
                     "reach": 7714
                 }

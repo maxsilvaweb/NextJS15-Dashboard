@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "f79d4921-8693-4192-a535-ee8b937dd549",
+    "name": "Joshua Sanchez",
     "email": "Carey.Murphy@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@mccarthyanthony",
+    "tiktok_handle": "@zsmith",
+    "joined_at": "2024-09-10T22:12:54.301882",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "0d0bad7d-fc78-4e7a-9ff7-0b584e3a8802",
             "brand": "Pouros Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a661ff7b-80ac-4154-adae-937530b804a8",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://webb.info/",
+                    "likes": 8313,
+                    "comments": 328,
                     "shares": 5,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1827.95
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "cc8b4aab-c7bf-4247-a5a4-0d4a0ac8a3ab",
     "name": "Rosalie Mayert",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "eclark@example.com",
+    "instagram_handle": "@ggreen",
+    "tiktok_handle": "@ymartin",
+    "joined_at": "2024-02-20T04:30:14.442721",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7140406c-0968-4a1f-a0b7-9ef081c9d850",
+            "brand": "Jones-Strickland",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "20378b53-4114-4a09-b2ad-3d8adccfceed",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.pope-elliott.com/",
+                    "likes": 18,
+                    "comments": 457,
                     "shares": 4,
                     "reach": 5337
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8557.46
         }
     ]
 }

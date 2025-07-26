@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae23",
-  "name": "Max Silva17",
-  "email": "maxsilvvauk@17wwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae23",
+    "name": "Max Silva17",
+    "email": "maxsilvvauk@17wwilwweeewd.com",
+    "instagram_handle": "@michelle96",
+    "tiktok_handle": "@phillipsmegan",
+    "joined_at": "2024-07-27T10:12:25.389360",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "73fe8bd7-bfad-4dc9-9f83-73b9accbafa3",
+            "brand": "Martin, Hernandez and Camacho",
+            "tasks_completed": [
+                {
+                    "task_id": "9d9002ff-ec54-48f3-8d4b-146fd9a1e804",
+                    "platform": "TikTok",
+                    "post_url": "http://www.cook.org/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 8107.66
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

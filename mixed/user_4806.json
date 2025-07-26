@@ -1,26 +1,26 @@
 {
     "user_id": "4ed7503f-da49-4e05-aa44-ad1331e83f03",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Richard Carr",
+    "email": "david11@example.org",
+    "instagram_handle": "@jessicamullins",
+    "tiktok_handle": "@joseph12",
+    "joined_at": "2023-10-26T23:37:23.100296",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "362cc56b-a3dd-4934-9bf1-cc97979d56ee",
             "brand": "Zieme and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "63754a2e-bb4c-456a-8b53-6339479ab89b",
+                    "platform": "Twitter",
                     "post_url": "https://impolite-creator.com",
                     "likes": 219,
-                    "comments": null,
+                    "comments": 319,
                     "shares": 93,
                     "reach": 4834
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6124.85
         }
     ]
 }

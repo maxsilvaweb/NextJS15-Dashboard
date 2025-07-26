@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fe1c3632-a304-4e7e-bb6f-22001ad88b8e",
+    "name": "John Thomas",
+    "email": "hayleytucker@example.com",
+    "instagram_handle": "@jamesboyer",
+    "tiktok_handle": "@paul90",
+    "joined_at": "2025-04-28T04:15:29.728076",
     "advocacy_programs": [
         {
             "program_id": "c1b39909-6085-46eb-a8a9-28fee5b59aa2",
-            "brand": 12345,
+            "brand": "Lang-Thompson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6f20fb8b-e7d0-4a08-b0d4-74303dda7c0b",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.warner.info/",
+                    "likes": 3160,
+                    "comments": 153,
                     "shares": 55,
                     "reach": 2262
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4256.12
         }
     ]
+}

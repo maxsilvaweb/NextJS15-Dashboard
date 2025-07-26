@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "1c4de222-78dc-4583-91c6-0b81de4ba62d",
+    "name": "Norman Smith",
     "email": "Marcel.Rippin15@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@dominiquekim",
+    "tiktok_handle": "@christina78",
+    "joined_at": "2024-06-30T12:59:17.368305",
     "advocacy_programs": [
         {
             "program_id": "88f6d2d7-66d8-453c-be08-89927cffb17c",
-            "brand": 12345,
+            "brand": "Rodriguez Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "af6fa8dc-a792-44bd-9b32-3a7ca63372d0",
                     "platform": "TikTok",
                     "post_url": "https://digital-wedding.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8154,
+                    "comments": 150,
                     "shares": 28,
                     "reach": 8856
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9521.8
         }
     ]
 }

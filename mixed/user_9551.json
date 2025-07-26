@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b30f7e0a-4272-4109-96a8-31a3c42dea76",
+    "name": "Diane Joseph",
+    "email": "gonzalezjennifer@example.net",
+    "instagram_handle": "@allisonhall",
+    "tiktok_handle": "@hannah87",
+    "joined_at": "2024-10-02T03:07:07.959160",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1503d143-8a55-49c0-8a3d-b695f6350b69",
+            "brand": "Pacheco-Turner",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "8f775b41-027e-4022-b382-bc661cf947ae",
+                    "platform": "Twitter",
+                    "post_url": "https://www.brown.net/",
                     "likes": 402,
-                    "comments": null,
+                    "comments": 86,
                     "shares": 58,
                     "reach": 8201
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5033.13
         }
     ]
 }

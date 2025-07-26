@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a82b701d-6055-42aa-8357-1cecc556122f",
+    "name": "Lisa Owens",
+    "email": "katelynlee@example.net",
+    "instagram_handle": "@melinda11",
+    "tiktok_handle": "@garcialawrence",
+    "joined_at": "2024-11-22T02:17:56.026901",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0471260a-663e-4518-aa9e-7ca1eda8f205",
+            "brand": "Todd-Wiley",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b3c6ec2c-cc5f-45eb-9b0f-cedd7b3048c6",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.pineda.com/",
+                    "likes": 5336,
                     "comments": 36,
                     "shares": 36,
                     "reach": 2883
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5637.39
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "9f2728bb-5823-42c2-b70f-bbb17487bf32",
+    "name": "David Hall",
+    "email": "rwerner@example.net",
     "instagram_handle": "@Jovan49",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@christopher26",
+    "joined_at": "2024-07-25T02:34:33.538930",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "9e1235aa-0714-4062-8af3-b71773aa3e5c",
             "brand": "Purdy, Schulist and Mann",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6893f632-580f-4732-bdb0-ff1ac0ad29bf",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.huang.info/",
+                    "likes": 5858,
+                    "comments": 128,
                     "shares": 83,
                     "reach": 929
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8581.94
         }
     ]
 }

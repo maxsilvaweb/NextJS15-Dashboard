@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7674a43b-31db-4af2-a177-af050af6e1e4",
+    "name": "Deborah Nguyen",
+    "email": "deannathomas@example.org",
+    "instagram_handle": "@allisonhudson",
+    "tiktok_handle": "@johnsonjason",
+    "joined_at": "2024-10-05T09:56:55.736283",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ca426d13-83f4-47a8-bc98-47d96a115f20",
+            "brand": "Strickland-Thornton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dcae2a87-0e08-4c91-8fab-d92f80a74eb6",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://khan-smith.com/",
+                    "likes": 9332,
                     "comments": 8,
                     "shares": 83,
                     "reach": 2284
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6727.11
         }
     ]
 }

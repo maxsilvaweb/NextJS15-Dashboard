@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7e1ec1c7-eb1a-4963-9eeb-a4107ca437b4",
+    "name": "Cody Cobb",
+    "email": "william95@example.net",
+    "instagram_handle": "@lewismichael",
+    "tiktok_handle": "@zfox",
+    "joined_at": "2025-04-18T00:18:27.015576",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9bf1225a-f5b9-4aa4-9b1c-bcdab11fd14a",
+            "brand": "Green Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ff81f9dd-1943-4339-b1b7-bd610b420143",
                     "platform": "TikTok",
                     "post_url": "https://idolized-stitcher.org",
                     "likes": 464,
-                    "comments": null,
+                    "comments": 295,
                     "shares": 66,
                     "reach": 8377
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5959.19
         }
     ]
 }

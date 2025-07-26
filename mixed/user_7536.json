@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "0616dbd4-4a66-437c-bd12-4fe061ac1fb9",
+    "name": "Chase Nelson",
     "email": "Marshall_Runolfsdottir36@gmail.com",
     "instagram_handle": "@Marta38",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@jaredhamilton",
+    "joined_at": "2024-04-05T04:54:37.755333",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a7e6f409-466f-43d0-84c3-cf389c391821",
+            "brand": "Howard Group",
             "tasks_completed": [
                 {
                     "task_id": "d1dddd6c-18d8-478e-bc47-6dcdc0ad5d4c",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "Instagram",
+                    "post_url": "https://zhang.com/",
+                    "likes": 6761,
+                    "comments": 432,
                     "shares": 19,
                     "reach": 2510
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6504.25
         }
     ]
 }

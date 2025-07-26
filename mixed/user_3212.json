@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6cff6e29-b8b8-4fda-b468-bb87e7674747",
+    "name": "Ronnie Anderson",
+    "email": "jeffrey08@example.com",
+    "instagram_handle": "@wrightsusan",
+    "tiktok_handle": "@laura33",
+    "joined_at": "2024-07-12T22:09:28.184271",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "316fda44-f99e-4547-ba70-ff52bc41d957",
+            "brand": "Berry PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "00d3da5e-121f-465f-b0e9-9ea48da89a25",
+                    "platform": "TikTok",
+                    "post_url": "http://www.mcgrath.com/",
                     "likes": 117,
                     "comments": 46,
                     "shares": 16,

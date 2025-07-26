@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "439fb329-64c4-4f13-ae4e-4a7610a2c33e",
+    "name": "Erica Pugh",
+    "email": "bairdcarla@example.org",
+    "instagram_handle": "@henryjohn",
+    "tiktok_handle": "@obrown",
+    "joined_at": "2023-09-13T21:57:24.576088",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "95fd3536-1033-47c6-8732-130dcbcfc2b3",
+            "brand": "Horton, Moore and Fisher",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d4725d9e-1ce5-4b45-89a9-692efce512fa",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.thomas.org/",
+                    "likes": 8830,
+                    "comments": 184,
                     "shares": 21,
                     "reach": 7607
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1731.95
         }
     ]
+}

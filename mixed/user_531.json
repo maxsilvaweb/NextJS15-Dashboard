@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "88f37c28-7a3a-4fd8-8103-6fedb0f11bb6",
+    "name": "Bridget Davis",
     "email": "Leilani3@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@watsondanielle",
+    "tiktok_handle": "@youngrobert",
+    "joined_at": "2024-08-20T14:59:20.702281",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d58da11e-d79e-46c1-b2aa-3fc1bc1b2b60",
+            "brand": "Parker, Romero and Mora",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c7b7fe87-641d-46c3-b64e-ae9c020317c4",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.hayden.biz/",
                     "likes": 59,
-                    "comments": null,
+                    "comments": 91,
                     "shares": 20,
                     "reach": 2163
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8206.45
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "f0fb06b7-8717-474b-a27d-85fa9ad28993",
+    "name": "Amy Kennedy",
     "email": "Julian.Pagac3@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@vhancock",
+    "tiktok_handle": "@mary10",
+    "joined_at": "2024-02-24T23:21:26.266113",
     "advocacy_programs": [
         {
             "program_id": "cf709a9a-f43f-4d05-bf99-7fb5de988aa1",
-            "brand": 12345,
+            "brand": "Griffin, Barnett and Craig",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "47701a3d-44dc-49e5-9385-68c4857bce28",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://allen-hernandez.net/",
                     "likes": 457,
-                    "comments": null,
+                    "comments": 110,
                     "shares": 28,
                     "reach": 6634
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "53ac3e56-4c5d-4f1b-8348-5ba674181b54",
+    "name": "Emily Morales",
+    "email": "wheelerdavid@example.org",
+    "instagram_handle": "@norman12",
     "tiktok_handle": "@Percy_Mayert",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-12-10T15:59:44.384890",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "833880e1-a51f-489f-a168-867bb55abb4d",
+            "brand": "Carpenter-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d82ef40f-764e-45ac-a38f-b62ff00e41e6",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.roach.info/",
+                    "likes": 9287,
+                    "comments": 383,
                     "shares": 77,
                     "reach": 8353
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7633.88
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b79e8281-4280-4589-8466-402536a26f94",
+    "name": "Suzanne Young",
+    "email": "qyoung@example.org",
+    "instagram_handle": "@conleyjohn",
+    "tiktok_handle": "@steven40",
+    "joined_at": "2023-12-10T08:55:44.229988",
     "advocacy_programs": [
         {
             "program_id": "495c13c0-bf3b-418f-becc-56ddec09d2d5",
-            "brand": 12345,
+            "brand": "Todd and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "8d3305dc-5b1a-45d5-9baf-bdb27f61a131",
+                    "platform": "TikTok",
+                    "post_url": "https://coleman.biz/",
+                    "likes": 4151,
+                    "comments": 90,
                     "shares": 6,
                     "reach": 3310
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "381d89ff-933d-4fc2-bee5-d5258e257242",
+    "name": "Hannah Lewis",
+    "email": "amandapatton@example.org",
+    "instagram_handle": "@michael31",
+    "tiktok_handle": "@kyledavis",
+    "joined_at": "2024-06-13T13:24:02.992058",
     "advocacy_programs": [
         {
             "program_id": "b986ecec-dd5a-4162-abb8-b96ebcccccec",
-            "brand": 12345,
+            "brand": "Pugh-Galloway",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a04ac040-a8d4-4c73-afbc-c4faa7623b9b",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.hall.com/",
+                    "likes": 5847,
+                    "comments": 233,
                     "shares": 13,
                     "reach": 3664
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1038.01
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "ea24752b-8fa3-4bc2-8e9c-857eb3476a2e",
     "name": "Lauren Lockman-Labadie",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "mcdonaldjamie@example.org",
+    "instagram_handle": "@noah81",
+    "tiktok_handle": "@samantha71",
+    "joined_at": "2025-01-23T16:23:40.407629",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5f09cc59-e62a-48df-87c6-30d9208181d9",
+            "brand": "Mckenzie-Daniels",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "f40e90b2-0086-473e-942a-3c7c39de9029",
+                    "platform": "Twitter",
+                    "post_url": "http://www.smith.com/",
+                    "likes": 9589,
+                    "comments": 399,
                     "shares": 62,
                     "reach": 7861
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6100.08
         }
     ]
 }

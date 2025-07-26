@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "7bb8c307-ffae-4c0d-9c62-ac7d6e83f2fa",
+    "name": "Tommy Franco",
     "email": "Justine.Koch69@gmail.com",
-    "instagram_handle": null,
+    "instagram_handle": "@sheabrittney",
     "tiktok_handle": "@Jaquan_Simonis73",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-05-09T10:45:29.502154",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8090c232-319d-4d8b-8ae7-cb579b538b74",
+            "brand": "Bell, Clark and Bean",
             "tasks_completed": [
                 {
                     "task_id": "9c000134-8825-468e-b6b2-883db28a0aa7",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://duncan.com/",
+                    "likes": 172,
                     "comments": 32,
                     "shares": 31,
                     "reach": 1829
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7566.54
         }
     ]
 }

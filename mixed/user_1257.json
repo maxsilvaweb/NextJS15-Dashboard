@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "54009b2c-7335-45ab-874a-4883c748d977",
+    "name": "Jonathan Garcia",
+    "email": "shepherdjeffery@example.org",
+    "instagram_handle": "@mullenkatherine",
+    "tiktok_handle": "@michael68",
+    "joined_at": "2024-12-01T09:57:19.661741",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d76851a6-95e1-4097-9739-b7b387b57388",
+            "brand": "Simmons-Marquez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1f3e1d1b-9fff-45cc-8c04-c9981d12f2ad",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://walker.com/",
+                    "likes": 4579,
                     "comments": 17,
                     "shares": 73,
                     "reach": 7864
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 426.46
         }
     ]
 }

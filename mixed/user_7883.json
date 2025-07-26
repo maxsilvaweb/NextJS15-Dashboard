@@ -1,26 +1,26 @@
 {
     "user_id": "c00222c0-89d5-45c0-91cc-1059d8a75845",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Eric Rodriguez",
+    "email": "davislarry@example.com",
+    "instagram_handle": "@juliajames",
+    "tiktok_handle": "@washingtonerica",
+    "joined_at": "2025-06-17T04:31:28.509168",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "16aa78da-479e-49dc-bc22-97e54f69950e",
             "brand": "Grimes LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "22e074da-9471-47f2-b90a-7c9b5ce7f31d",
+                    "platform": "Twitter",
                     "post_url": "https://classic-puritan.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6882,
+                    "comments": 396,
                     "shares": 86,
                     "reach": 2093
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8036.27
         }
     ]
 }

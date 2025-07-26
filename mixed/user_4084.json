@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "f10a9644-0313-467c-8944-c467902f5848",
+    "name": "Stephen Kelley",
+    "email": "garciasara@example.com",
     "instagram_handle": "@Destini.McKenzie80",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@john60",
+    "joined_at": "2024-05-03T08:48:25.995718",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c6ce602a-0ba2-4569-88a7-a13b5ca01916",
+            "brand": "Martin, Steele and Cooper",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cf48829d-23de-4b21-a730-ca1613a0c5b1",
                     "platform": "TikTok",
                     "post_url": "https://nocturnal-teriyaki.net/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8208,
+                    "comments": 472,
                     "shares": 89,
                     "reach": 3350
                 }

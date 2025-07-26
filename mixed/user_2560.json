@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b07bb2ad-5cfb-4b66-9813-41a45a40c1c2",
+    "name": "Randall Harper",
+    "email": "ofranco@example.com",
+    "instagram_handle": "@erinmacdonald",
+    "tiktok_handle": "@mooredeborah",
+    "joined_at": "2023-11-03T23:15:35.196539",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "77640d5b-e9f7-41bb-89f4-b4d5348dd3cd",
+            "brand": "Hill, Douglas and Young",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4ebe29e7-050e-43ae-9bfa-26fcff7f869f",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://hernandez.com/",
+                    "likes": 3594,
                     "comments": 47,
                     "shares": 42,
                     "reach": 9162

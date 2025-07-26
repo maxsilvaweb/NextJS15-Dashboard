@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e7d537ff-1ea0-44cb-8f43-1f7d100603d1",
+    "name": "Jeffrey Oconnor",
+    "email": "johnsonclifford@example.net",
+    "instagram_handle": "@olong",
+    "tiktok_handle": "@reyesjeffrey",
+    "joined_at": "2025-03-06T04:57:02.119213",
     "advocacy_programs": [
         {
             "program_id": "d5f25f83-7b87-4144-a8b0-43233637226b",
-            "brand": 12345,
+            "brand": "Johnson, Hunter and Stevens",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ad1ea898-5bb8-43a7-94a9-97adfb9788bf",
                     "platform": "Instagram",
                     "post_url": "https://square-vanadyl.org",
-                    "likes": "NaN",
+                    "likes": 9276,
                     "comments": 42,
                     "shares": 35,
                     "reach": 5310
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7109.66
         }
     ]
 }

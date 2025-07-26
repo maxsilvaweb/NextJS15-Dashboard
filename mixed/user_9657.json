@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3a3e0bdc-08a2-4585-81a5-499002bcd008",
+    "name": "William Leblanc",
+    "email": "karenzimmerman@example.org",
+    "instagram_handle": "@andrea41",
+    "tiktok_handle": "@richardsims",
+    "joined_at": "2023-09-12T21:19:08.731278",
     "advocacy_programs": [
         {
             "program_id": "1949c14c-5e0b-4796-8e4b-c2ec1f351ac6",
-            "brand": 12345,
+            "brand": "Schaefer-Floyd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f870145c-0ef7-4afe-8775-857f8b2127a7",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://yang-stanley.net/",
+                    "likes": 2813,
+                    "comments": 413,
                     "shares": 68,
                     "reach": 4743
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5362.77
         }
     ]
+}

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "873634b0-f748-404c-8e20-5471d7217749",
+    "name": "Andrea Ryan",
+    "email": "ilong@example.com",
+    "instagram_handle": "@powellstephen",
     "tiktok_handle": "@Madonna18",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-06-16T10:55:10.470266",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "9cea2818-1a02-4498-bab3-f12b408f57ef",
             "brand": "Huels - Wunsch",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "43763aeb-1d20-4ea9-bc6d-bb7dfa0a58cf",
+                    "platform": "Twitter",
+                    "post_url": "http://www.leonard-bryant.biz/",
+                    "likes": 571,
+                    "comments": 379,
                     "shares": 50,
                     "reach": 7502
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8013.75
         }
     ]
 }

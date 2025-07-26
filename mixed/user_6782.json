@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d869e7c3-1c25-4853-bf24-a06d24ba1330",
+    "name": "Robert Taylor",
+    "email": "amandaroman@example.com",
+    "instagram_handle": "@melissamorrison",
+    "tiktok_handle": "@paulastevenson",
+    "joined_at": "2024-01-05T19:37:19.822757",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e5df9c5c-8432-481c-bf27-ee46f7b48366",
+            "brand": "Brooks Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ae4c9c6b-485c-4155-a2b5-a1ec252dac4e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.miller.com/",
+                    "likes": 1245,
+                    "comments": 469,
                     "shares": 50,
                     "reach": 9365
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 573.44
         }
     ]
 }

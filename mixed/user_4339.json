@@ -1,26 +1,26 @@
 {
     "user_id": "fd49cef7-26c5-431f-9a02-e5015d1437f0",
-    "name": "???",
+    "name": "Amy Davies",
     "email": "Jeanette67@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@newmanmark",
+    "tiktok_handle": "@nfisher",
+    "joined_at": "2024-08-12T12:03:33.238775",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "83c0d6c2-b596-4a99-b9a6-e7bee21551a2",
+            "brand": "Wilson, Lynch and Yang",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "c81d4933-5966-4cfd-8747-6cb1127c05b1",
+                    "platform": "Instagram",
                     "post_url": "https://prickly-earth.biz",
-                    "likes": "NaN",
+                    "likes": 8643,
                     "comments": 47,
                     "shares": 17,
                     "reach": 6905
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1145.9
         }
     ]
 }

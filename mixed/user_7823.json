@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "eb8b044a-0cc1-4e38-bbca-ab6e2913ad70",
+    "name": "Joshua Harmon",
+    "email": "chowell@example.org",
+    "instagram_handle": "@nfernandez",
+    "tiktok_handle": "@iwalters",
+    "joined_at": "2023-12-13T08:56:54.275339",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "09796603-44de-4f49-a65c-9ef304314022",
+            "brand": "Moss-Walton",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "6aaa9184-d19f-4637-96a3-7f83a3b55d97",
+                    "platform": "YouTube",
                     "post_url": "https://bossy-couch.org/",
                     "likes": 134,
-                    "comments": null,
+                    "comments": 470,
                     "shares": 23,
                     "reach": 8100
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3212.72
         }
     ]
 }

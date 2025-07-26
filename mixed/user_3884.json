@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6c1f3535-d9d6-414a-9402-61ed6b4bd0f1",
+    "name": "Alison Garcia",
+    "email": "tiffanyanderson@example.com",
+    "instagram_handle": "@warrenthomas",
+    "tiktok_handle": "@joshua31",
+    "joined_at": "2024-05-02T15:39:10.684224",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d683a167-4fbd-4cf9-aaf9-77f793457089",
+            "brand": "Little LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2b9b1204-cc71-4b60-a5b7-6e380ce15dce",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://lam.org/",
+                    "likes": 686,
+                    "comments": 343,
                     "shares": 48,
                     "reach": 4804
                 }

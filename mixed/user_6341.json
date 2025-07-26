@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "38dad5d4-ca2b-47d0-8bc5-f039463244a2",
+    "name": "Kristen Burns",
+    "email": "matthewdavis@example.org",
+    "instagram_handle": "@hendersongabriela",
+    "tiktok_handle": "@ryanwhite",
+    "joined_at": "2023-12-29T08:39:01.371887",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d4ee817e-3f28-4bfd-9176-7c90d0fd087c",
+            "brand": "Warren, Lewis and Bishop",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "904cc3fb-77a3-4122-9710-0dee2ecad56f",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://clark.biz/",
+                    "likes": 3027,
+                    "comments": 411,
                     "shares": 1,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9504.83
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "2f99684a-7ee3-4e2e-8a4a-3f582fb77df4",
     "name": "Otis Crist",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "kenneth12@example.org",
+    "instagram_handle": "@abbottisaac",
+    "tiktok_handle": "@rachelsparks",
+    "joined_at": "2024-04-02T09:55:30.657904",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "249b7ae1-1f82-4cc8-9fb0-9b12bc9dd2f4",
+            "brand": "Lane-Hernandez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "c5dc9e37-c562-4d25-a11a-631e8bae92ca",
+                    "platform": "YouTube",
                     "post_url": "https://squeaky-palate.org/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3215,
+                    "comments": 340,
                     "shares": 51,
                     "reach": 9688
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1942.43
         }
     ]
 }

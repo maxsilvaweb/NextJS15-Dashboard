@@ -1,26 +1,26 @@
 {
     "user_id": "d06a4892-9eec-46ea-bd02-0c07176790e2",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Steven Copeland",
+    "email": "leah75@example.org",
+    "instagram_handle": "@fperry",
+    "tiktok_handle": "@sandersdaniel",
+    "joined_at": "2024-01-11T18:33:32.085513",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6e614ad4-8cf1-4dfa-8859-1533e3b4d285",
+            "brand": "Long Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2f31a9fb-d18e-472c-a44b-2c1d63fdf5ad",
                     "platform": "Instagram",
                     "post_url": "https://yearly-unibody.info",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4053,
+                    "comments": 374,
                     "shares": 18,
                     "reach": 8301
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2969.62
         }
     ]
 }

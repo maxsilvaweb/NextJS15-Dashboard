@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "705ad73f-c558-4039-a42d-61e5876c3275",
+    "name": "Scott Romero",
+    "email": "cbrooks@example.com",
     "instagram_handle": "@Electa.DAmore",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@kendra87",
+    "joined_at": "2025-06-11T19:04:06.124065",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e40c922b-ab4f-4890-b9cf-ed13ca7a147b",
+            "brand": "Walker-Wells",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "92d53360-b60b-4a5f-b861-4e3d5183998a",
+                    "platform": "Instagram",
+                    "post_url": "http://rose-bauer.com/",
                     "likes": 459,
-                    "comments": null,
+                    "comments": 199,
                     "shares": 94,
                     "reach": 4565
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6726.94
         }
     ]
 }

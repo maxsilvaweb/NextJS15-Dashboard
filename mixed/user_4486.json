@@ -1,26 +1,26 @@
 {
     "user_id": "1a6e574a-577f-4371-b669-eab15ad78daa",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Adam Nguyen",
+    "email": "destinypierce@example.org",
+    "instagram_handle": "@flynnjacob",
+    "tiktok_handle": "@swansonshelly",
+    "joined_at": "2025-04-20T06:33:43.462531",
     "advocacy_programs": [
         {
             "program_id": "460919f0-d457-4abe-9970-f414f122ac4b",
-            "brand": 12345,
+            "brand": "Dillon PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4843d678-f6af-48f5-be2f-0ce9b6491fb8",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://weber-baker.info/",
                     "likes": 293,
-                    "comments": null,
+                    "comments": 392,
                     "shares": 87,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7898.81
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "66e4bcd4-238a-48ed-8925-8e490fccf302",
+    "name": "Jeffrey Marshall",
+    "email": "william21@example.net",
+    "instagram_handle": "@uray",
+    "tiktok_handle": "@andrew68",
+    "joined_at": "2024-03-03T20:04:31.251881",
     "advocacy_programs": [
         {
             "program_id": "1f240e47-4c54-43d0-82bb-5f07c4764be1",
-            "brand": 12345,
+            "brand": "Taylor-Schwartz",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b2812fd7-c476-40ff-8c44-6b45066a2f60",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.barajas-webster.com/",
+                    "likes": 5513,
+                    "comments": 32,
                     "shares": 61,
                     "reach": 5057
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1438.18
         }
     ]
 }

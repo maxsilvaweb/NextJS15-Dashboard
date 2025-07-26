@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "e25dac1f-5ae3-4e14-bd11-3b4c1638c096",
+    "name": "Troy Watkins",
     "email": "Zelda.Kshlerin96@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@waynenelson",
+    "tiktok_handle": "@hendersonbrian",
+    "joined_at": "2024-06-03T02:11:39.131446",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "c6db773f-df7c-4cd4-a473-2fb1f1ba1d8f",
             "brand": "Gislason Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "da379e48-423f-47c7-b72d-be00f62d2ddc",
+                    "platform": "Instagram",
                     "post_url": "https://meager-armchair.info",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5898,
+                    "comments": 224,
                     "shares": 1,
                     "reach": 2710
                 }

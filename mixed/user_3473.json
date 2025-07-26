@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c6bd8233-f85c-4418-a9c6-b17b75cce05e",
+    "name": "Kurt Hunt",
+    "email": "aliciamathews@example.net",
+    "instagram_handle": "@marc97",
+    "tiktok_handle": "@phowe",
+    "joined_at": "2024-04-26T02:54:17.249339",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1c4febc7-8872-439c-8cca-f8ca58ffa1b7",
+            "brand": "Jimenez and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ecfbef80-8d8e-4708-aae9-16128e8a38b4",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://wilson.com/",
                     "likes": 295,
                     "comments": 48,
                     "shares": 32,
                     "reach": 3951
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5757.0
         }
     ]
 }

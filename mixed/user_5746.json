@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cf8c8cb2-779a-4dd6-993b-040f9226d1f3",
+    "name": "Lisa Lee",
+    "email": "glawson@example.com",
+    "instagram_handle": "@cooperlaura",
+    "tiktok_handle": "@dhines",
+    "joined_at": "2023-12-11T21:28:41.716384",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bb6ac982-88e5-4c30-ad2b-b097aa4e6528",
+            "brand": "Jefferson-Campbell",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "7d18f336-e985-4e32-a4f8-7eaea0616e99",
+                    "platform": "Instagram",
                     "post_url": "https://secondary-bob.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1176,
+                    "comments": 12,
                     "shares": 33,
                     "reach": 2676
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7746.46
         }
     ]
 }

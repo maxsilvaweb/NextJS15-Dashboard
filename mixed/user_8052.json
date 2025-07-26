@@ -1,26 +1,26 @@
 {
     "user_id": "20072e12-1e7a-4df5-8a7a-cad487ca4f6f",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Sandra Nolan",
+    "email": "plee@example.org",
+    "instagram_handle": "@katherine53",
+    "tiktok_handle": "@sandy78",
+    "joined_at": "2025-05-19T21:57:28.415407",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4eaa13c9-ed08-4a02-9fbf-f4849ac479a7",
+            "brand": "Benson, Miller and Graham",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "d5225e9c-96a3-43ed-8ce6-34c01fd146c9",
+                    "platform": "Instagram",
+                    "post_url": "http://www.price-lynch.com/",
                     "likes": 54,
-                    "comments": null,
+                    "comments": 310,
                     "shares": 74,
                     "reach": 9967
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2988.25
         }
     ]
 }

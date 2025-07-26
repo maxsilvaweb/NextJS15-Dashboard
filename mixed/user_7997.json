@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "383e8da0-1daf-44a2-afef-1d80aaa5101d",
+    "name": "Justin Sanchez",
+    "email": "lcardenas@example.com",
     "instagram_handle": "@Bernadine.Harvey",
     "tiktok_handle": "@Marie81",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-03-04T21:48:53.333536",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9470abc6-45df-4031-ba82-f22145d9c650",
+            "brand": "Dunn, Huffman and Payne",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ac8929ad-2595-4231-a68d-4e706bc42053",
                     "platform": "Instagram",
                     "post_url": "https://orange-retention.net/",
-                    "likes": "NaN",
+                    "likes": 7854,
                     "comments": 5,
                     "shares": 64,
                     "reach": 6937

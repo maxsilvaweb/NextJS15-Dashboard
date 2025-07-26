@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a1ee14c6-29ec-4141-aad7-7f03002487a1",
+    "name": "Stephen Chapman",
     "email": "Bessie14@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@clyons",
+    "tiktok_handle": "@yrojas",
+    "joined_at": "2025-05-19T07:00:13.645604",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "984ff3df-590d-448f-985e-0e627898bb11",
+            "brand": "Johnson, Smith and Jackson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "01925f3d-dae7-4307-ade4-1c0d51e0b0d0",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://hardy.com/",
+                    "likes": 3302,
                     "comments": 0,
                     "shares": 29,
                     "reach": 1049
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1875.65
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dd4f39ae-5b87-4bac-a600-36c02f10e432",
+    "name": "Jennifer Duncan",
+    "email": "nataliecortez@example.org",
+    "instagram_handle": "@kristinamoreno",
+    "tiktok_handle": "@tarnold",
+    "joined_at": "2025-06-01T02:11:43.572056",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "079b6b3b-0b6b-4dbb-8e57-53d4779d923c",
+            "brand": "Lawson PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "65623552-b9be-4cb8-b01f-a311e232c7ea",
+                    "platform": "YouTube",
+                    "post_url": "https://www.cruz-bryant.com/",
+                    "likes": 4548,
+                    "comments": 38,
                     "shares": 79,
                     "reach": 9820
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1094.02
         }
     ]
 }

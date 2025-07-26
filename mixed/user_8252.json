@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "31d0cc55-c26e-40c7-a4c2-a88295cadc84",
+    "name": "Kelsey Dickerson",
     "email": "Sebastian29@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@shawn38",
+    "tiktok_handle": "@amanda44",
+    "joined_at": "2024-04-09T12:16:44.529488",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2f0f54c3-d738-437b-ac40-15cdf5526dc1",
+            "brand": "Benton Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "b6f521e6-0c72-4a06-a14d-e66b429d0fd7",
+                    "platform": "YouTube",
+                    "post_url": "http://www.robinson-taylor.net/",
+                    "likes": 7375,
+                    "comments": 210,
                     "shares": 57,
                     "reach": 2654
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6513.8
         }
     ]
 }

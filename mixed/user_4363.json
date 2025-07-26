@@ -1,26 +1,26 @@
 {
     "user_id": "8688e5ac-796d-43ba-9a4e-f5f3b8410efb",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Jessica Davis",
+    "email": "marylopez@example.org",
+    "instagram_handle": "@carlahernandez",
+    "tiktok_handle": "@kcrane",
+    "joined_at": "2024-06-19T11:11:39.558530",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d4ad08d3-2cbb-419c-9b19-3a3f6e3f51e7",
+            "brand": "Hall-Oneal",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4272bf05-576f-46a3-aa30-47475cbf5b53",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.alvarez.com/",
                     "likes": 177,
                     "comments": 35,
                     "shares": 0,
                     "reach": 797
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7510.41
         }
     ]
 }

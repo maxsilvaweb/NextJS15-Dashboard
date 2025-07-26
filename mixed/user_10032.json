@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae26",
-  "name": "Max Silva27",
-  "email": "maxsilvvauk@27xwwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae26",
+    "name": "Max Silva27",
+    "email": "maxsilvvauk@27xwwilwweeewd.com",
+    "instagram_handle": "@fgonzales",
+    "tiktok_handle": "@krystal15",
+    "joined_at": "2024-10-06T21:39:06.966049",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "4ee39104-a0fe-46c0-8b78-b452053dfe81",
+            "brand": "Montoya-Lopez",
+            "tasks_completed": [
+                {
+                    "task_id": "064b04c7-1852-4e6d-ac92-8aa42e1ed35c",
+                    "platform": "TikTok",
+                    "post_url": "https://www.robles.biz/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 4507.66
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

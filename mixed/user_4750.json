@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c292c7e8-520c-4289-a98b-a61a947c9eef",
+    "name": "Michelle Walker DDS",
+    "email": "oandrews@example.org",
+    "instagram_handle": "@katiedouglas",
+    "tiktok_handle": "@stephanie35",
+    "joined_at": "2024-11-27T04:03:44.735414",
     "advocacy_programs": [
         {
             "program_id": "b16b6975-76ee-4a83-b162-e9ec0a1a933d",
-            "brand": 12345,
+            "brand": "Evans, Hughes and Rios",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "708d7aa6-dce3-4205-9d0c-1826fb6ba9c2",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://ho.info/",
+                    "likes": 3137,
+                    "comments": 366,
                     "shares": 8,
                     "reach": 7624
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9874.77
         }
     ]
 }

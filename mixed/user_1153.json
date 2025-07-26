@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "45a6b5de-5398-429a-9321-af5cb0a60693",
+    "name": "Sandra Watts",
+    "email": "moralesmegan@example.net",
     "instagram_handle": "@Justice.Senger82",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@becky12",
+    "joined_at": "2024-09-20T06:14:12.083379",
     "advocacy_programs": [
         {
             "program_id": "77556c65-3a5d-4f48-b23b-3cfe3e87db09",
-            "brand": 12345,
+            "brand": "Williams-Washington",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3e2bfc24-4118-4213-9bbc-7c57106a8e4b",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.jackson-escobar.com/",
+                    "likes": 1203,
+                    "comments": 290,
                     "shares": 3,
                     "reach": 1470
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7711.98
         }
     ]
 }

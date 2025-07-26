@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7bfa19bc-2f02-4cb8-9158-e2158fe22007",
+    "name": "Timothy Chang",
+    "email": "zscott@example.com",
+    "instagram_handle": "@perezkimberly",
+    "tiktok_handle": "@xallen",
+    "joined_at": "2025-01-07T13:04:31.391347",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "32f03ab8-adea-4c7e-a6b6-bd4be811d8ee",
+            "brand": "Flynn-Yang",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "f0c3157a-1a76-4520-8db3-550da5a8c9b2",
+                    "platform": "YouTube",
                     "post_url": "https://crowded-bakeware.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3807,
+                    "comments": 216,
                     "shares": 38,
                     "reach": 8983
                 }

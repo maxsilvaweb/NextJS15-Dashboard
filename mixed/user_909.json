@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8107f57f-b155-4488-8bb6-3d64ce111b6d",
+    "name": "Benjamin Gomez",
+    "email": "patriciahunter@example.com",
+    "instagram_handle": "@margaret18",
+    "tiktok_handle": "@mackenzie10",
+    "joined_at": "2023-12-27T04:50:27.203338",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "0272cbd0-ba22-45c8-9bbc-53f4e66c015f",
             "brand": "Collins LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b0434f3f-c8ba-45e9-9213-793b9ba88528",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.robinson.com/",
+                    "likes": 2396,
+                    "comments": 273,
                     "shares": 83,
                     "reach": 1723
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1655.95
         }
     ]
 }

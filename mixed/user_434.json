@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f50c75a7-5187-4382-b4fa-d1cc67795d30",
+    "name": "Matthew Bowen",
+    "email": "janice27@example.net",
+    "instagram_handle": "@vbaker",
+    "tiktok_handle": "@nguyenamy",
+    "joined_at": "2024-05-12T09:27:11.321527",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9450188f-7902-49a1-b8a7-572eead0f58f",
+            "brand": "Jacobs, Drake and Sullivan",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "abf59325-1d9d-4f1d-9cc2-d028d3736f3c",
+                    "platform": "Instagram",
+                    "post_url": "http://www.novak.com/",
+                    "likes": 8275,
+                    "comments": 415,
                     "shares": 97,
                     "reach": 6662
                 }

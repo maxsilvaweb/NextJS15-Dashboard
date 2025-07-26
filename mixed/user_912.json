@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "00b27eda-cfc6-4570-b70a-40ac09bb71a2",
+    "name": "James Delgado",
+    "email": "shannonrhodes@example.com",
+    "instagram_handle": "@megansimpson",
+    "tiktok_handle": "@nsmith",
+    "joined_at": "2024-04-18T07:29:51.609950",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "815fdc15-aaf1-4c01-bb3e-7a4b86de0b24",
+            "brand": "Bryan, Baker and Gonzalez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f649ec11-bb21-47f9-99d1-bbb7de2ba790",
                     "platform": "TikTok",
                     "post_url": "https://honorable-extent.org",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3569,
+                    "comments": 176,
                     "shares": 70,
                     "reach": 4925
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5938.82
         }
     ]
+}

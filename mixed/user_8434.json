@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "987c08d0-3af0-436f-b374-953b09379319",
     "name": "Violet Grady",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "email": "john32@example.org",
+    "instagram_handle": "@gstephens",
+    "tiktok_handle": "@millerlori",
     "joined_at": "2024-07-18T19:54:54.889Z",
     "advocacy_programs": [
         {
             "program_id": "23288611-ff3e-431b-85f5-4bf3bccc30fa",
-            "brand": 12345,
+            "brand": "Farley, Acosta and Rodriguez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d5fc59c1-09da-4ebd-aaec-4e0c2c9ba60c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.jones.net/",
                     "likes": 367,
-                    "comments": null,
+                    "comments": 0,
                     "shares": 64,
                     "reach": 3979
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1726.74
         }
     ]
 }

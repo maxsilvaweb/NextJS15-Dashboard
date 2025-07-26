@@ -1,26 +1,26 @@
 {
     "user_id": "1ff6e271-c635-43cb-a4ea-937e381a5ab2",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Heather Sheppard",
+    "email": "jeffrey01@example.net",
+    "instagram_handle": "@gregstuart",
+    "tiktok_handle": "@emilygordon",
+    "joined_at": "2025-05-07T05:02:29.737479",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e7028a08-12d6-47ce-b22a-9b27c6a58ce6",
+            "brand": "Long-Berry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8218ee4f-b87c-426e-88f0-0605248f1cbf",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.richards.com/",
+                    "likes": 9286,
                     "comments": 39,
                     "shares": 47,
                     "reach": 9419
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1188.13
         }
     ]
 }

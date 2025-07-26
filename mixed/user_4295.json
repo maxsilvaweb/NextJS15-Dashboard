@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "689a441d-985c-46ed-9a84-e8b109b0e69e",
+    "name": "Karen White",
+    "email": "fdecker@example.org",
+    "instagram_handle": "@sarahherrera",
+    "tiktok_handle": "@cindybeck",
+    "joined_at": "2024-07-30T03:44:39.704554",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "65207d4c-3e39-4705-9891-e0063b5b5985",
+            "brand": "Shepherd LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "666ab192-b859-4b97-91de-b807005b19a2",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://mendez.com/",
+                    "likes": 7840,
+                    "comments": 120,
                     "shares": 73,
                     "reach": 7712
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7386.99
         }
     ]
 }

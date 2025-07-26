@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e5026fec-85af-4357-a6a4-db4c157e5dd7",
+    "name": "Kimberly Travis",
+    "email": "petermorris@example.com",
+    "instagram_handle": "@rmorgan",
+    "tiktok_handle": "@kristy04",
+    "joined_at": "2024-03-26T09:58:49.534351",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9780ed76-0bcc-47ed-925d-f5fea763b076",
+            "brand": "Carpenter-Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e6dde123-7e4a-4c48-93a0-adacd40bb3f1",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://dawson.net/",
+                    "likes": 94,
+                    "comments": 370,
                     "shares": 37,
                     "reach": 6616
                 }

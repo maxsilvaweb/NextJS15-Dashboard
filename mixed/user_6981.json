@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "79503f5d-d826-42dd-adfc-b658cffbf29e",
+    "name": "Jennifer Mitchell",
+    "email": "leonardmichelle@example.com",
+    "instagram_handle": "@justinkeller",
+    "tiktok_handle": "@wendyclark",
+    "joined_at": "2023-12-25T06:21:20.140686",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0a4e4d70-8cc0-4aa1-8034-7d930b59fe1a",
+            "brand": "Smith Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0689d704-3ab9-4954-9b89-24c9530dc586",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.young.net/",
                     "likes": 462,
-                    "comments": null,
+                    "comments": 41,
                     "shares": 29,
                     "reach": 1447
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4306.84
         }
     ]
 }

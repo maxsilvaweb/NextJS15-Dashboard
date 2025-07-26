@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2dce780e-03fd-48ea-9dda-be22823dfa3e",
+    "name": "Steven Thomas",
+    "email": "uvaldez@example.net",
+    "instagram_handle": "@iwelch",
+    "tiktok_handle": "@harrisolivia",
+    "joined_at": "2023-11-16T01:57:02.972520",
     "advocacy_programs": [
         {
             "program_id": "a7e248f8-c6b2-4b27-95fc-db274d15b9c3",
-            "brand": 12345,
+            "brand": "Chase-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ef35cb4b-416b-4ad3-9738-feb3f217d8b0",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.terry-mccarty.com/",
+                    "likes": 8227,
+                    "comments": 426,
                     "shares": 12,
                     "reach": 6810
                 }

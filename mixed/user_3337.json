@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "a852a369-e5f7-4a59-bc20-137d36c282a3",
+    "name": "Adriana Morris",
+    "email": "tiffanyvillanueva@example.org",
     "instagram_handle": "@Albertha_VonRueden",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@nelsonhaley",
+    "joined_at": "2023-08-06T21:04:32.818145",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "623389ab-76da-4d1c-a4e0-ac7b6d9e706a",
+            "brand": "Rios-Anderson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "f1f3a0fb-071b-4963-93c2-b25d119e6a52",
+                    "platform": "Instagram",
+                    "post_url": "http://benton.net/",
+                    "likes": 4075,
+                    "comments": 17,
                     "shares": 70,
                     "reach": 8298
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7471.53
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b3a92724-fffc-4efa-bafd-7b7a08add184",
+    "name": "Elaine Foley",
+    "email": "tinagreene@example.net",
+    "instagram_handle": "@pagecorey",
+    "tiktok_handle": "@ylane",
+    "joined_at": "2024-07-24T06:24:51.718501",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c599bd34-4582-4a8a-95a7-e883771351a8",
+            "brand": "Reid-Sanchez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "4589aa6c-68e3-4668-b6d4-ddfa9c9a8712",
+                    "platform": "YouTube",
+                    "post_url": "https://www.burns.biz/",
+                    "likes": 1041,
+                    "comments": 15,
                     "shares": 43,
                     "reach": 9690
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3442.3
         }
     ]
 }

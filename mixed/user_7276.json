@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ac069b38-f39b-462b-88e0-f89740dff91e",
+    "name": "James Rios",
+    "email": "anthonynunez@example.com",
+    "instagram_handle": "@wendy47",
+    "tiktok_handle": "@ericameyer",
+    "joined_at": "2025-01-19T20:16:25.773967",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a98eef75-4594-481d-a38a-d8d6e84b3f45",
+            "brand": "Lee-Hicks",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "59fcbf7b-101b-4c09-b860-726e70ecb4a4",
+                    "platform": "TikTok",
+                    "post_url": "https://ryan-lambert.com/",
                     "likes": 266,
-                    "comments": null,
+                    "comments": 338,
                     "shares": 81,
                     "reach": 4465
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3851.77
         }
     ]
 }

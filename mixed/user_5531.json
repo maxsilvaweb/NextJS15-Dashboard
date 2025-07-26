@@ -1,26 +1,26 @@
 {
     "user_id": "5972e57a-c451-45b0-8cb9-9d7b3428b093",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Gregg Alexander",
+    "email": "kfernandez@example.net",
+    "instagram_handle": "@matthew67",
+    "tiktok_handle": "@uparker",
+    "joined_at": "2024-06-30T02:30:26.407296",
     "advocacy_programs": [
         {
             "program_id": "e477b7d2-97a8-460d-8631-c63945c99d52",
-            "brand": 12345,
+            "brand": "Harrison and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "441b3f2a-f414-4ee4-b26a-8495bd34d67b",
                     "platform": "TikTok",
                     "post_url": "https://palatable-taro.info",
                     "likes": 331,
-                    "comments": null,
+                    "comments": 401,
                     "shares": 84,
                     "reach": 3751
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1070.79
         }
     ]
 }

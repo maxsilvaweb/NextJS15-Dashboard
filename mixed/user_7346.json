@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fee7369e-287c-4718-a4af-ee990ace87fc",
+    "name": "Cheyenne Martin",
+    "email": "jbishop@example.org",
+    "instagram_handle": "@kendra96",
+    "tiktok_handle": "@leejames",
+    "joined_at": "2025-04-14T01:43:48.462346",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5e415040-cfb7-4d18-a758-936d6a525775",
+            "brand": "Dixon-Nguyen",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "98f31f21-c013-4f3a-bd4a-4be572228403",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.soto.info/",
+                    "likes": 5804,
                     "comments": 19,
                     "shares": 96,
                     "reach": 2668

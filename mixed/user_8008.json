@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "71e8467d-8cda-4200-854b-dbbf432f8e8a",
+    "name": "Jessica Arnold",
+    "email": "joseph50@example.net",
+    "instagram_handle": "@ulynch",
+    "tiktok_handle": "@qfoster",
+    "joined_at": "2024-02-15T23:24:51.457789",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e7c8206d-5f85-441d-b93d-5916a5df92e5",
+            "brand": "Murray PLC",
             "tasks_completed": [
                 {
                     "task_id": "955b4e02-ab65-4883-8267-95a63ec1e1b7",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.silva.com/",
+                    "likes": 4697,
+                    "comments": 295,
                     "shares": 67,
                     "reach": 4417
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2901.3
         }
     ]
 }

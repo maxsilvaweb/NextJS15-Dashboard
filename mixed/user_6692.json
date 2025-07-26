@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "5556996a-f3e1-4ceb-8b3e-9ba021dd0cee",
+    "name": "Karen Carter",
     "email": "Amelie92@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@qrussell",
+    "tiktok_handle": "@sgutierrez",
+    "joined_at": "2024-04-16T16:32:51.431547",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fae0e8c2-9cd0-4645-b647-8dcf7633925a",
+            "brand": "Lara and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c58d26b4-ccd1-436c-acc7-18e1273bb49e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.barnes-roberts.com/",
+                    "likes": 2673,
+                    "comments": 294,
                     "shares": 75,
                     "reach": 2159
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5884.96
         }
     ]
 }

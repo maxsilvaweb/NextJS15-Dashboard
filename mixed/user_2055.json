@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "a7216c5f-eb15-4038-a2c0-af4b7f81bf71",
+    "name": "George Gallegos",
+    "email": "ethan58@example.org",
+    "instagram_handle": "@waustin",
     "tiktok_handle": "@Stefanie66",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-06-21T14:43:23.685001",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "021e5fa4-a76d-47ba-8de4-c7ad57f67745",
+            "brand": "Quinn, Harris and Maldonado",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "29549b70-b06a-4eec-a010-608c1beca5f2",
+                    "platform": "Instagram",
+                    "post_url": "http://byrd.com/",
                     "likes": 343,
                     "comments": 29,
                     "shares": 33,
                     "reach": 2458
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6016.95
         }
     ]
 }

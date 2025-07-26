@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0da8b59b-447f-4843-97cd-c05bb05945a8",
+    "name": "Richard Ramirez",
+    "email": "tamara48@example.org",
+    "instagram_handle": "@jimenezreginald",
+    "tiktok_handle": "@robertsingleton",
+    "joined_at": "2024-05-19T19:29:37.087309",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "25eb22fd-81e6-42e0-8f08-9c63cbb795bf",
+            "brand": "Martinez, Wilson and Cooley",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a6921ebf-93dd-48e2-9177-1c3fdf23a6ee",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://howard.com/",
+                    "likes": 9938,
                     "comments": 27,
                     "shares": 32,
                     "reach": 996
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8242.96
         }
     ]
 }

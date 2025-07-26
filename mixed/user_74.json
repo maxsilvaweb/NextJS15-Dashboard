@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b8d56a73-bbb2-48f8-bcdb-d386ef85b4ed",
+    "name": "Aaron Daniels",
+    "email": "justin51@example.com",
+    "instagram_handle": "@tylervasquez",
+    "tiktok_handle": "@erinjones",
+    "joined_at": "2024-01-22T12:35:05.155988",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fa27eba5-b7fc-4d49-b7a7-28fb3a2bd32a",
+            "brand": "Bennett, Collins and Taylor",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "c7cf0b0a-56ff-4e99-b186-b32edc2cfff4",
+                    "platform": "Twitter",
+                    "post_url": "https://www.williams.com/",
                     "likes": 222,
-                    "comments": null,
+                    "comments": 272,
                     "shares": 13,
                     "reach": 1773
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2070.46
         }
     ]
 }

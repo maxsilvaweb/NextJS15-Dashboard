@@ -1,21 +1,21 @@
 {
     "user_id": "395bf687-f835-4825-aaf0-70dcc5175490",
-    "name": "???",
+    "name": "Stephanie Martin",
     "email": "Nickolas60@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@bretthoward",
+    "tiktok_handle": "@johnsonrobin",
+    "joined_at": "2025-05-27T20:53:40.856638",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6d795aa9-e70f-4db2-a417-81f3e7c96499",
+            "brand": "Evans, Andrade and Harris",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b5ad05bd-e243-4443-b898-617dd3ee5c62",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.williams.com/",
                     "likes": 497,
-                    "comments": null,
+                    "comments": 409,
                     "shares": 88,
                     "reach": 5551
                 }

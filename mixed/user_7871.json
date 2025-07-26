@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "7bf01d81-eafd-4e6d-9bb7-7d6a6963731f",
+    "name": "Shelley Garza",
+    "email": "kylemoore@example.org",
+    "instagram_handle": "@james72",
+    "tiktok_handle": "@lesliefrye",
     "joined_at": "2024-04-17T21:00:21.061Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "eb4d19b7-f438-4494-af2b-6da25e374fb5",
+            "brand": "May, Allen and David",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "98ba51ff-f5dd-4fa3-808f-18adb819779f",
+                    "platform": "TikTok",
+                    "post_url": "http://mcdonald.org/",
+                    "likes": 1874,
+                    "comments": 491,
                     "shares": 56,
                     "reach": 2461
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7632.13
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "906e352e-25b6-4581-857f-055794ef711b",
+    "name": "Douglas Mcconnell",
     "email": "Levi_Lang35@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@lmeyer",
+    "tiktok_handle": "@tprince",
     "joined_at": "2025-03-06T10:08:29.777Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7fe7560b-9ce9-4ef0-860e-8d7bf8b24441",
+            "brand": "King Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7d4fb108-132d-49bc-af2b-d2180c9a8fbc",
                     "platform": "Facebook",
                     "post_url": "https://bad-lady.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1318,
+                    "comments": 435,
                     "shares": 46,
                     "reach": 8095
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4374.5
         }
     ]
 }

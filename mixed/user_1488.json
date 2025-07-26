@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "45456888-2b38-4e80-8c74-92c6de9c9399",
+    "name": "Daniel Nelson",
+    "email": "elopez@example.net",
+    "instagram_handle": "@jodigarza",
+    "tiktok_handle": "@tburke",
+    "joined_at": "2024-01-14T18:24:11.304746",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f91b7b67-4c34-4824-83ff-67aab16e7fd4",
+            "brand": "Phillips, Davis and Brown",
             "tasks_completed": [
                 {
                     "task_id": "df263da7-26d1-4746-b6e2-176348a52248",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.lewis.com/",
+                    "likes": 3472,
+                    "comments": 484,
                     "shares": 86,
                     "reach": 7690
                 }

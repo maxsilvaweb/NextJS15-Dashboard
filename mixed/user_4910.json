@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "48cf7aff-0294-48f2-85cc-ffdbcbb934ed",
+    "name": "Nicholas Sullivan",
     "email": "Dorothy_Corkery@gmail.com",
     "instagram_handle": "@Bertha_Ryan54",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@qcohen",
+    "joined_at": "2024-09-08T19:11:14.493048",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e5fcb8e8-8a7a-4460-a282-edd870520622",
+            "brand": "Hensley, Hogan and Horn",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "77e0dadd-f95d-4bd9-be7e-8a3b96e77ab4",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://flowers.com/",
+                    "likes": 8196,
+                    "comments": 154,
                     "shares": 68,
                     "reach": 4080
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8514.72
         }
     ]
 }

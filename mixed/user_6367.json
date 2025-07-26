@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "1fb3c4a9-c860-4886-8fe0-c452376c3d88",
     "name": "Marvin Weimann",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "amandajohnson@example.org",
+    "instagram_handle": "@edward44",
+    "tiktok_handle": "@patrick22",
+    "joined_at": "2025-02-03T14:35:10.068861",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0cbff9fa-8a91-46a4-9d73-24f0c0ba41dc",
+            "brand": "Thompson, Martinez and Sanchez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7b056e5a-c48e-4f1a-9aae-d33dd4057c78",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://myers-strong.org/",
+                    "likes": 7247,
+                    "comments": 383,
                     "shares": 72,
                     "reach": 970
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6926.47
         }
     ]
 }

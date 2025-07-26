@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "0e951262-7427-4d0c-a4a0-9b209906dcff",
+    "name": "Kayla Curry",
     "email": "Ines17@hotmail.com",
-    "instagram_handle": null,
+    "instagram_handle": "@lschaefer",
     "tiktok_handle": "@Raina_Sawayn",
     "joined_at": "2024-07-03T04:21:10.088Z",
     "advocacy_programs": [
         {
             "program_id": "637592de-76ea-4029-90fe-84be4281322a",
-            "brand": 12345,
+            "brand": "Lee-George",
             "tasks_completed": [
                 {
                     "task_id": "289e79ca-937d-4f10-84da-b2902a8ef889",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.osborne.com/",
                     "likes": 432,
-                    "comments": null,
+                    "comments": 348,
                     "shares": 100,
                     "reach": 6323
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8633.46
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "75155bc2-bbd3-4eee-a6bb-a1ddedf0f914",
+    "name": "Gabriella Scott",
+    "email": "elizabethpage@example.org",
+    "instagram_handle": "@abigail27",
+    "tiktok_handle": "@williamskirsten",
     "joined_at": "2024-07-12T18:27:35.203Z",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "cb78dac7-19d7-4484-ab0e-91726ba71441",
             "brand": "Douglas, Morissette and Gerlach",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5dbb7165-553b-4cba-ba4e-80b7bdc3d624",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://hawkins.com/",
+                    "likes": 1160,
                     "comments": 48,
                     "shares": 45,
                     "reach": 9240
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1810.49
         }
     ]
 }

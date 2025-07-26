@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "a0c7fc52-34ff-4afe-bb3e-41364d49dae3",
+    "name": "Jay Meyer",
+    "email": "brenda23@example.net",
+    "instagram_handle": "@wliu",
+    "tiktok_handle": "@katie37",
     "joined_at": "2025-01-14T16:56:23.826Z",
     "advocacy_programs": [
         {
             "program_id": "60877e7f-3da3-471f-822d-fcd9731af1d8",
-            "brand": 12345,
+            "brand": "Sosa and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1a3211df-482b-444c-9c8d-4901d5698049",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://roberts.biz/",
                     "likes": 57,
                     "comments": 1,
                     "shares": 78,
                     "reach": 655
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1201.08
         }
     ]
 }

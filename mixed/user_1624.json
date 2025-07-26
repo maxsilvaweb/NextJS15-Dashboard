@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "206a36fd-2d20-4dbf-b398-1d98a74932c4",
+    "name": "John Johnson",
+    "email": "schavez@example.com",
+    "instagram_handle": "@jefferylang",
+    "tiktok_handle": "@mary74",
+    "joined_at": "2025-05-17T12:56:11.832944",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ee2fb77c-1e3c-4e98-be63-c2058bddb141",
+            "brand": "Moore, Ali and Lamb",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "505b1066-1ac0-419a-9fed-b149b581e3c2",
+                    "platform": "Instagram",
+                    "post_url": "https://terry.org/",
                     "likes": 486,
-                    "comments": null,
+                    "comments": 66,
                     "shares": 51,
                     "reach": 9427
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 477.28
         }
     ]
 }

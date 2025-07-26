@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "76c1b7d5-9d7b-4454-9eaf-3da987005be2",
+    "name": "Madison Mitchell",
+    "email": "lisafletcher@example.org",
     "instagram_handle": "@Darwin_Powlowski7",
-    "tiktok_handle": "#error_handle",
+    "tiktok_handle": "@wayne98",
     "joined_at": "2024-05-05T04:06:13.500Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "83bcabb0-6938-4468-a78b-021cc188efb3",
+            "brand": "Rojas, Thomas and Hernandez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c7b5ae4c-ef2c-44c4-8aba-073dd589a3cc",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://wheeler-benson.com/",
                     "likes": 23,
-                    "comments": null,
+                    "comments": 308,
                     "shares": 62,
                     "reach": 5273
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7669.35
         }
     ]
 }

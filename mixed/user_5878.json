@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6fb7f93f-76f7-4177-98c8-dc846f10851f",
+    "name": "Danielle Torres",
+    "email": "william58@example.com",
+    "instagram_handle": "@robert62",
+    "tiktok_handle": "@josephpratt",
+    "joined_at": "2025-02-25T02:20:17.325870",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ca2d4e91-224e-4481-acf8-b272c58d02d5",
+            "brand": "Baldwin and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "b3089f93-1051-495f-9242-47f968ef68e4",
+                    "platform": "Twitter",
+                    "post_url": "http://www.adkins.biz/",
+                    "likes": 2936,
+                    "comments": 459,
                     "shares": 0,
                     "reach": 4333
                 }

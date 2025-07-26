@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "46fbba0e-2a7f-4a07-bea0-237a1d458464",
+    "name": "Danielle Salazar",
+    "email": "michealjohnson@example.org",
+    "instagram_handle": "@michaelclark",
+    "tiktok_handle": "@aphillips",
+    "joined_at": "2025-05-25T15:50:23.701234",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c1de2f73-a64e-4c65-9d10-bd0de3f8f8fd",
+            "brand": "Fields LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1f1c1142-48a2-4de5-870f-37468333d0b3",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.olson.com/",
+                    "likes": 3451,
+                    "comments": 30,
                     "shares": 99,
                     "reach": 4977
                 }

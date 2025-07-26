@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "21a1c66d-a456-404a-b79d-60acf88837ac",
+    "name": "Alyssa Mclaughlin",
+    "email": "zbenson@example.com",
+    "instagram_handle": "@riverasusan",
+    "tiktok_handle": "@jgraham",
+    "joined_at": "2025-04-19T16:25:01.210778",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a2848676-268b-4e1f-bfe8-d9ee971cba58",
+            "brand": "Harris, Ford and Oliver",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a81f8670-252b-4bdf-b67f-e2498b7fb7e9",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.stein.org/",
+                    "likes": 2189,
+                    "comments": 253,
                     "shares": 60,
                     "reach": 5276
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9248.07
         }
     ]
 }

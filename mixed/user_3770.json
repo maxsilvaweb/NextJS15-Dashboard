@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b235d3c3-9638-4cae-83ed-7696f84fb883",
+    "name": "Dr. Craig Richards",
+    "email": "alexcampos@example.net",
+    "instagram_handle": "@courtney35",
+    "tiktok_handle": "@kellyanderson",
+    "joined_at": "2025-04-19T14:32:24.106148",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2ffad8ef-7bfe-403f-a1df-2fc85cd91ca6",
+            "brand": "Roberts, Phillips and Simmons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "2d5f04ec-c67b-47e7-9bd8-ee305dc181ee",
+                    "platform": "TikTok",
+                    "post_url": "http://mullen-smith.com/",
+                    "likes": 1036,
+                    "comments": 77,
                     "shares": 42,
                     "reach": 1044
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4188.72
         }
     ]
 }

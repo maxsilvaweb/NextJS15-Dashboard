@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fb510126-4881-4c1f-b098-6569af174810",
+    "name": "Whitney Reynolds",
+    "email": "rcarter@example.com",
+    "instagram_handle": "@gonzalezrichard",
+    "tiktok_handle": "@jennifer80",
+    "joined_at": "2024-11-29T01:39:41.600075",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "dc0405f0-9816-4009-9442-abe5b75f6642",
             "brand": "Schimmel LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dbd1e594-b9c5-4fdd-b63e-4ccba8b812b2",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.jones.biz/",
+                    "likes": 2593,
+                    "comments": 408,
                     "shares": 14,
                     "reach": 5609
                 }

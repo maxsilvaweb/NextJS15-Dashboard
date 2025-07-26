@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "13ffddaf-ffd0-48bd-9231-896a391a82e9",
+    "name": "James Johnson",
+    "email": "wsmith@example.com",
+    "instagram_handle": "@garciamaria",
+    "tiktok_handle": "@robertwyatt",
+    "joined_at": "2024-02-09T21:25:53.093224",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "290646cf-f4d9-4c1e-a487-c86f832e8cc2",
             "brand": "Jenkins Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "6004f987-3bd9-43f1-a39e-249bcc3161c6",
+                    "platform": "YouTube",
                     "post_url": "https://incomplete-carnival.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2253,
+                    "comments": 13,
                     "shares": 1,
                     "reach": 4430
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5194.91
         }
     ]
 }

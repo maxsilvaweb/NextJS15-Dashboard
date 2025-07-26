@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3432d45b-c32a-4df5-89f1-eaadf2626ef0",
+    "name": "Kenneth Smith",
+    "email": "emily75@example.org",
+    "instagram_handle": "@fgreen",
+    "tiktok_handle": "@jeremyalexander",
+    "joined_at": "2025-02-26T09:52:43.153163",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cffd84d7-8170-40a4-bd03-5fa9d2dc971a",
+            "brand": "Hickman, Hicks and Guerra",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6db7e072-9cdc-494d-ad35-c0736b8aa54c",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.bright.com/",
+                    "likes": 5964,
                     "comments": 11,
                     "shares": 32,
                     "reach": 6699

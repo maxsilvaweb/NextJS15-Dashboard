@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "ec5cea26-879b-499d-b367-cbff17207ddc",
+    "name": "Brian Cummings",
     "email": "Randal.Towne31@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@frank07",
+    "tiktok_handle": "@teresa52",
+    "joined_at": "2024-04-27T04:32:17.379712",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6e92b141-018c-4241-8eb5-cbcdfb5ec7b2",
+            "brand": "Pace, Rodriguez and Wilson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e754f6d7-2e6d-4155-bf35-658eaa472ca3",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://atkinson.info/",
+                    "likes": 9034,
                     "comments": 1,
                     "shares": 27,
                     "reach": 5735
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2840.72
         }
     ]
 }

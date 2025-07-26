@@ -1,26 +1,26 @@
 {
     "user_id": "deca846c-8fda-4425-98f3-0b4783d046fc",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Jamie Norman",
+    "email": "ann26@example.net",
+    "instagram_handle": "@mrichardson",
+    "tiktok_handle": "@andersonrussell",
+    "joined_at": "2024-07-30T22:23:43.646119",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d3b69424-8887-4252-b4be-0b8144e209d3",
+            "brand": "Jackson Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9f3fba01-714e-4059-99fb-7394a8a0d003",
                     "platform": "Instagram",
                     "post_url": "https://handy-plugin.name",
                     "likes": 224,
-                    "comments": null,
+                    "comments": 468,
                     "shares": 89,
                     "reach": 2711
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 398.05
         }
     ]
 }

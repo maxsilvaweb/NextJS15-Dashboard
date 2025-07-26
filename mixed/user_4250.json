@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c57c41a7-779f-454c-98e1-8012bcf69a77",
+    "name": "Patricia Burke",
+    "email": "mary14@example.org",
+    "instagram_handle": "@sarahtaylor",
+    "tiktok_handle": "@shellycruz",
+    "joined_at": "2025-04-14T00:21:10.619166",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "83292d98-3584-490e-ac24-46492a632547",
+            "brand": "Burnett-Dyer",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "688748bf-c324-45cf-8b80-5abce34a0f4e",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://nelson.com/",
+                    "likes": 508,
+                    "comments": 132,
                     "shares": 52,
                     "reach": 9690
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8500.7
         }
     ]
 }

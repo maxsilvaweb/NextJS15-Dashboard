@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "68afea3b-9b34-4ce2-ab80-cae50d934c10",
+    "name": "Christopher White",
+    "email": "hday@example.net",
+    "instagram_handle": "@benjamin70",
+    "tiktok_handle": "@rrowland",
+    "joined_at": "2024-02-23T21:15:20.015119",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fe7f0384-ccce-43ce-986a-6d24ecce618f",
+            "brand": "Griffin, Schultz and Lawrence",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bd57b84f-f71b-4638-94b8-bfd46b66fdd0",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.luna.com/",
+                    "likes": 3246,
+                    "comments": 157,
                     "shares": 41,
                     "reach": -1000
                 }

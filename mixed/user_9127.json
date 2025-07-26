@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "b673641d-1126-4e26-b730-2db5836af764",
+    "name": "Andrea Knight",
+    "email": "heatherjefferson@example.net",
+    "instagram_handle": "@jeremy28",
+    "tiktok_handle": "@browndawn",
     "joined_at": "2024-04-07T06:53:39.601Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e84c650f-3845-4b91-a841-b09f3d17fa48",
+            "brand": "Allen, Meadows and White",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7856e0e8-63f6-4855-88ce-cc87cd2a1b97",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.wilson.net/",
+                    "likes": 7234,
+                    "comments": 247,
                     "shares": 23,
                     "reach": 4464
                 }

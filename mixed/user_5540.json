@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "ae17c0ca-68e0-4c2f-90bc-4142b99eda72",
     "name": "Ms. Cathy Wisozk",
-    "email": "invalid-email",
+    "email": "qjohnson@example.com",
     "instagram_handle": "@Precious.Bednar",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@jonespaula",
+    "joined_at": "2024-06-19T05:42:57.543635",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "613507d7-c894-462d-8256-a4ecd70e61d5",
+            "brand": "Stewart-Maldonado",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2c68759e-b18c-45d4-af34-626090f91f01",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://smith.biz/",
+                    "likes": 1554,
+                    "comments": 84,
                     "shares": 53,
                     "reach": 6228
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6525.96
         }
     ]
 }

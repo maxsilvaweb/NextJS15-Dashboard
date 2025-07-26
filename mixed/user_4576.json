@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "e0a26d77-2302-4c82-b5b4-c83a3ca34aeb",
+    "name": "Susan Brown",
     "email": "Jane28@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@michael33",
+    "tiktok_handle": "@leeregina",
+    "joined_at": "2024-10-25T08:18:47.941848",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4ff50eaf-548c-4ba5-9576-8ecf6913071d",
+            "brand": "Nolan-Lynch",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ab2bfe00-abd9-4bd0-80de-b50f0ae6af01",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://lee.org/",
+                    "likes": 4690,
                     "comments": 48,
                     "shares": 62,
                     "reach": 5112

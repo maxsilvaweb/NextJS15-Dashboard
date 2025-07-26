@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "da642471-06fe-4ec6-87c4-4b4ca80d1810",
+    "name": "Mary Young",
+    "email": "hector08@example.net",
+    "instagram_handle": "@murrayjoseph",
+    "tiktok_handle": "@william41",
+    "joined_at": "2023-08-24T17:06:13.409595",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "510c8fe2-6d01-4958-82f3-9613ace43d2b",
+            "brand": "Hudson-Woods",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c9a879e0-f3be-414f-a137-72c59caa30df",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.white.biz/",
+                    "likes": 5146,
                     "comments": 19,
                     "shares": 7,
                     "reach": 3198
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1631.44
         }
     ]
 }

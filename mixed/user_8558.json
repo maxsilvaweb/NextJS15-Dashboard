@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e07b40f1-2b50-45c6-bb8b-1b47ff138063",
+    "name": "Abigail Cruz",
+    "email": "jennifer02@example.net",
+    "instagram_handle": "@stewartjulie",
+    "tiktok_handle": "@john89",
+    "joined_at": "2023-12-02T05:14:35.469676",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e7cf1c67-13ec-49aa-b500-44729a8d12cf",
+            "brand": "Silva-Roberts",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f18cd007-7ffa-437a-a8dd-a2aad79e66dc",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://schneider-lopez.com/",
                     "likes": 452,
-                    "comments": null,
+                    "comments": 332,
                     "shares": 77,
                     "reach": 8450
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6238.78
         }
     ]
 }

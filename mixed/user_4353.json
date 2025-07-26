@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "92485135-1d83-4bdc-83b5-4e2b92b9a897",
+    "name": "Eric Silva",
+    "email": "sharon39@example.com",
+    "instagram_handle": "@odomjenna",
+    "tiktok_handle": "@gary70",
+    "joined_at": "2024-12-09T04:03:33.685473",
     "advocacy_programs": [
         {
             "program_id": "eddbaf37-9ae6-462f-86ea-0f40570a75e5",
-            "brand": 12345,
+            "brand": "Trevino-Li",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "5846e0fd-8573-4b53-ad36-b86eec1c2567",
+                    "platform": "Twitter",
+                    "post_url": "https://www.perkins-bean.com/",
+                    "likes": 4209,
                     "comments": 0,
                     "shares": 0,
                     "reach": 7958
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8411.47
         }
     ]
 }

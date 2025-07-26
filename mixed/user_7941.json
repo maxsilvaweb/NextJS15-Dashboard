@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bbe961a3-6a2b-46f6-a1da-00f6b48863cd",
+    "name": "Taylor Pennington",
+    "email": "hardychelsea@example.com",
+    "instagram_handle": "@michelewallace",
+    "tiktok_handle": "@tonyjones",
+    "joined_at": "2024-03-11T14:10:52.538021",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "84342656-08d9-4f59-9b3d-969f230a993e",
+            "brand": "Riggs PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e95714ba-4957-4546-be7e-655bc0a5bbc0",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.craig.org/",
+                    "likes": 2539,
+                    "comments": 27,
                     "shares": 96,
                     "reach": 6654
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9409.01
         }
     ]
 }

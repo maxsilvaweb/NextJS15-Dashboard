@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b2e0a490-c102-4ab7-be97-a2093ddcf3d9",
+    "name": "Taylor Cantu",
+    "email": "thomas28@example.org",
+    "instagram_handle": "@austinwhite",
+    "tiktok_handle": "@coreyscott",
+    "joined_at": "2024-02-20T16:42:03.276908",
     "advocacy_programs": [
         {
             "program_id": "f6cc7792-5993-4389-994a-1ec0ec9ded24",
-            "brand": 12345,
+            "brand": "Phillips, Jones and Snow",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "0f9e5247-78ab-41c3-824b-77b6b15ec569",
+                    "platform": "YouTube",
+                    "post_url": "https://www.smith-mcguire.com/",
+                    "likes": 5355,
+                    "comments": 451,
                     "shares": 44,
                     "reach": 6357
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6332.08
         }
     ]
 }

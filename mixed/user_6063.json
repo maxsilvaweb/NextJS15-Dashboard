@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5fc6832e-4b73-494e-a859-ecf54ad51982",
+    "name": "Jeffrey Jackson",
+    "email": "eparker@example.org",
+    "instagram_handle": "@kathleentodd",
+    "tiktok_handle": "@herrerajessica",
+    "joined_at": "2024-09-01T03:13:07.641737",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "04e2612d-463e-49b4-a6fa-1a608b0a9c3e",
+            "brand": "Cooper PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "dda7f621-7e6a-4ef6-9f92-7024b286dc40",
+                    "platform": "Instagram",
                     "post_url": "https://querulous-gym.org/",
                     "likes": 349,
-                    "comments": null,
+                    "comments": 288,
                     "shares": 44,
                     "reach": 4063
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3235.62
         }
     ]
 }

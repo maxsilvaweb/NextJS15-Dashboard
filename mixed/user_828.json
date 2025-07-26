@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4e0f8ae6-7af0-41cd-a6cd-cb537dfbc846",
+    "name": "Ashley Carroll",
+    "email": "todd47@example.net",
+    "instagram_handle": "@sherri45",
+    "tiktok_handle": "@derrick84",
+    "joined_at": "2025-05-25T10:50:37.247348",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f188b1f2-34e9-4344-81e7-2918d6046923",
+            "brand": "Henderson, Young and Little",
             "tasks_completed": [
                 {
                     "task_id": "c04b4aa4-7369-4b8a-815d-975f7604658c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.watson.com/",
+                    "likes": 6402,
+                    "comments": 78,
                     "shares": 63,
                     "reach": 2345
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2082.9
         }
     ]
 }

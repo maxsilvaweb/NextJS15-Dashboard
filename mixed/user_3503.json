@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3ec48d48-3a81-466b-bc53-69f744b39678",
+    "name": "Anthony Bray",
+    "email": "roberthernandez@example.org",
+    "instagram_handle": "@carolynwilson",
+    "tiktok_handle": "@joserodriguez",
+    "joined_at": "2024-06-22T13:18:52.003339",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "792f03e6-fa00-4b0a-ab6e-41ce3b56cbbc",
+            "brand": "Harris, Turner and Lee",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "c159a066-887c-471e-b341-220f8e0fb7a9",
+                    "platform": "Instagram",
+                    "post_url": "http://www.gray.info/",
                     "likes": 205,
-                    "comments": null,
+                    "comments": 216,
                     "shares": 33,
                     "reach": 4777
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 826.1
         }
     ]
 }

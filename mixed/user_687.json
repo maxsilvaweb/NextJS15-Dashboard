@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a6412b9c-3490-4c34-97f2-22338eda9ea4",
+    "name": "Mr. Ricardo Reed DDS",
     "email": "Annamarie20@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@james39",
+    "tiktok_handle": "@ashleyrios",
     "joined_at": "2024-12-07T21:05:00.810Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b102d4dc-ebd4-4369-9079-aeb740127c52",
+            "brand": "Perkins-Stewart",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "6fcc791a-9f74-4f42-b2f4-ccbb5cb56249",
+                    "platform": "YouTube",
+                    "post_url": "http://www.henry.com/",
+                    "likes": 5923,
+                    "comments": 182,
                     "shares": 27,
                     "reach": 9449
                 }

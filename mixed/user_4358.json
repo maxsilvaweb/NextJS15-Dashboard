@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "c411ab83-2904-4ace-addb-3b6f07c35584",
     "name": "Ada Franey",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "smithtiffany@example.com",
+    "instagram_handle": "@laura45",
+    "tiktok_handle": "@coxstephanie",
+    "joined_at": "2024-05-14T01:44:22.027435",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "77f46fae-8bf3-48e3-a970-f7fd36f01df7",
             "brand": "Langosh - Beier",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cfc32fc8-810a-42b9-af87-36db3289fe56",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.blankenship-baker.info/",
+                    "likes": 6999,
+                    "comments": 170,
                     "shares": 75,
                     "reach": 5090
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3243.58
         }
     ]
 }

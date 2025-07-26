@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9a95a039-ab50-4e42-9552-4fbbe21846c5",
+    "name": "Andrew Ware",
+    "email": "cassiehoffman@example.net",
+    "instagram_handle": "@vbutler",
+    "tiktok_handle": "@amanda85",
+    "joined_at": "2025-02-11T16:45:38.801198",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5f662882-0435-424b-aa34-079fa06b8bd5",
+            "brand": "Lucero-Scott",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "aa4cd0d6-d33a-45bf-ace6-a6b7f4e339cf",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.perez.com/",
+                    "likes": 9799,
                     "comments": 31,
                     "shares": 17,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5567.13
         }
     ]
 }

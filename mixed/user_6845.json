@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c98eefab-d715-4fd3-94ed-1676ce9454ec",
+    "name": "Alexis Ford",
+    "email": "laurafuentes@example.net",
+    "instagram_handle": "@xking",
+    "tiktok_handle": "@eugenemartinez",
+    "joined_at": "2023-08-02T03:33:05.675347",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "01ce2a06-632e-4473-83a9-601e7a23674b",
+            "brand": "Buckley-Anderson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fa670f09-d803-46f1-ae58-163c7e088d96",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://higgins.biz/",
+                    "likes": 13,
                     "comments": 41,
                     "shares": 100,
                     "reach": 4649
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6482.83
         }
     ]
 }

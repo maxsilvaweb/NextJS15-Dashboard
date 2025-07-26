@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "66cbebde-08e7-4214-989d-9d911d878119",
+    "name": "Robert Atkins",
+    "email": "rberger@example.com",
+    "instagram_handle": "@murphyvanessa",
+    "tiktok_handle": "@wgordon",
+    "joined_at": "2024-02-16T16:30:24.855591",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b3c8ca9d-6357-4d61-b5ae-ef786c1f7df4",
+            "brand": "Richard-Ingram",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a83bf8aa-8940-4ab5-baec-d0d5e55ac5c8",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.barajas.com/",
                     "likes": 175,
-                    "comments": null,
+                    "comments": 306,
                     "shares": 35,
                     "reach": 3383
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6555.81
         }
     ]
 }

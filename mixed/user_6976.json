@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4931d901-2097-4eca-9021-8926d90e672e",
+    "name": "Robert Williams",
+    "email": "jennifer24@example.net",
+    "instagram_handle": "@dianeball",
+    "tiktok_handle": "@schandler",
+    "joined_at": "2024-04-19T22:27:02.328039",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "773ed713-5f55-44b9-a823-f17afd4019ea",
+            "brand": "Clark-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "7412cb82-cf9e-4233-9b25-b972fa744cbc",
+                    "platform": "Instagram",
+                    "post_url": "http://snyder.com/",
                     "likes": 403,
-                    "comments": null,
+                    "comments": 10,
                     "shares": 98,
                     "reach": 6902
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6294.23
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "835e3bbc-9d00-4aee-ad92-95673fa4c04e",
+    "name": "Karl Rogers",
+    "email": "gilbertallison@example.org",
+    "instagram_handle": "@bjohnson",
+    "tiktok_handle": "@ebutler",
+    "joined_at": "2023-10-09T19:18:12.712701",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7c8c053d-6aeb-4884-bf16-540b400defd8",
+            "brand": "Howard, Chavez and Adkins",
             "tasks_completed": [
                 {
                     "task_id": "4f161eb0-139a-4ec1-b9d1-aec8796e027d",
                     "platform": "Facebook",
                     "post_url": "https://remarkable-saloon.name",
-                    "likes": "NaN",
+                    "likes": 5566,
                     "comments": 9,
                     "shares": 26,
                     "reach": -1000

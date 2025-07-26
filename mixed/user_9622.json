@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aa45666a-132e-49b0-93de-60aba6b7d490",
+    "name": "Mr. Ronald Lucas MD",
+    "email": "crawfordtaylor@example.org",
+    "instagram_handle": "@luis41",
+    "tiktok_handle": "@ytaylor",
+    "joined_at": "2025-03-14T09:07:06.763215",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ff4f6aea-8610-450f-b67a-550932dc693e",
+            "brand": "Hayes PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "61a62bc0-b1b5-41d5-b1f3-dd09222b8e08",
+                    "platform": "TikTok",
+                    "post_url": "https://rojas.com/",
+                    "likes": 9256,
+                    "comments": 299,
                     "shares": 84,
                     "reach": 8839
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1731.47
         }
     ]
 }

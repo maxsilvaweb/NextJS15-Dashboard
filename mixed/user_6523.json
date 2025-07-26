@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "abb62cec-b9f3-4cc0-a0b8-1722fbddb5bb",
+    "name": "Jackie Perry",
+    "email": "margaret79@example.org",
+    "instagram_handle": "@beckbradley",
+    "tiktok_handle": "@krogers",
+    "joined_at": "2024-07-01T19:58:17.369999",
     "advocacy_programs": [
         {
             "program_id": "3fd1bbe9-9069-4451-9f61-6981bc1f68d0",
             "brand": "Kerluke - Heathcote",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ce5de97c-4c55-4f98-8d35-62a60c4338d2",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.tanner.com/",
+                    "likes": 1476,
+                    "comments": 82,
                     "shares": 48,
                     "reach": 2122
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9975.32
         }
     ]
 }

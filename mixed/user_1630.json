@@ -1,20 +1,20 @@
 {
     "user_id": "81ace50e-54a9-4b19-a272-827cfc8bbaa9",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Jonathan Dyer",
+    "email": "samuelrojas@example.net",
+    "instagram_handle": "@nicholsonrhonda",
+    "tiktok_handle": "@hyoung",
+    "joined_at": "2025-07-24T22:36:27.562693",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5f99a8e9-ba21-4b9f-8b33-e07f02df87c7",
+            "brand": "Lane Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0bf64098-826b-4aaf-9e05-9cf18556d9bd",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.larson.net/",
+                    "likes": 5028,
                     "comments": 12,
                     "shares": 21,
                     "reach": -1000

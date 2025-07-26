@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f6d58c1a-8da2-4217-a69c-9c9c649c4a4f",
+    "name": "Daniel Ward MD",
+    "email": "lgonzalez@example.com",
+    "instagram_handle": "@pbrooks",
+    "tiktok_handle": "@bmay",
+    "joined_at": "2025-05-19T06:57:18.524715",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8c6584c0-dba3-47c9-96c4-ac3c60dd3f6f",
+            "brand": "Miller-French",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dd841c8f-c1eb-45f5-909d-969dab97996f",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.maddox.info/",
+                    "likes": 5232,
+                    "comments": 397,
                     "shares": 6,
                     "reach": 3964
                 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "23f7bd55-74b0-42e6-8d91-7d54f0d17924",
+    "name": "Taylor Lozano",
+    "email": "nthomas@example.com",
+    "instagram_handle": "@qward",
+    "tiktok_handle": "@brianhammond",
+    "joined_at": "2025-04-14T08:54:46.192572",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7aca7360-95a4-4f78-af75-287b954b19e2",
+            "brand": "Lopez PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "100e2941-0568-4344-ae9e-665d2c80d3e5",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.johnson.com/",
+                    "likes": 746,
+                    "comments": 198,
                     "shares": 17,
                     "reach": 5222
                 }

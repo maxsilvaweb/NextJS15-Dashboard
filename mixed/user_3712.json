@@ -1,21 +1,21 @@
 {
     "user_id": "88b49d78-d61e-48ba-a111-25fe7fee051b",
-    "name": "???",
+    "name": "Alison Collins",
     "email": "Jamir59@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@afriedman",
+    "tiktok_handle": "@wgross",
+    "joined_at": "2025-05-07T00:32:50.361101",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0bf99409-b2df-4cab-9789-a7ef24788943",
+            "brand": "Gay, Anderson and Parks",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "ccfb8cb7-7646-4a8e-9d9f-e5241fe78eae",
+                    "platform": "Instagram",
+                    "post_url": "https://www.martinez.com/",
+                    "likes": 7220,
+                    "comments": 390,
                     "shares": 74,
                     "reach": 3719
                 }

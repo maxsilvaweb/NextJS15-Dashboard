@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "38959343-802a-4f7e-90b5-b3eb742e8fca",
+    "name": "Calvin Christian",
+    "email": "rduarte@example.org",
+    "instagram_handle": "@samuelthompson",
+    "tiktok_handle": "@kennethsmith",
+    "joined_at": "2025-07-18T01:34:40.824089",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4a024af2-9d07-42a5-9932-da219bf0ffa4",
+            "brand": "Russell-Oneal",
             "tasks_completed": [
                 {
                     "task_id": "007f5f6c-db18-4fde-89c8-6e995c1efd78",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.mcdonald-martinez.com/",
+                    "likes": 4701,
                     "comments": 50,
                     "shares": 99,
                     "reach": 7861

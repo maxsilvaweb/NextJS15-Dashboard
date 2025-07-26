@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "56033f53-723c-40af-9ef9-41bfebd9c5f1",
+    "name": "Wayne Jackson",
+    "email": "wrighttara@example.net",
+    "instagram_handle": "@glee",
+    "tiktok_handle": "@ronaldnoble",
+    "joined_at": "2024-03-20T13:54:24.158767",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4b2a6aac-b92b-4268-8b87-c3a6bac87fe6",
+            "brand": "Wise, Macdonald and Kelly",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f3293c76-be0a-4148-a481-4aae10f55562",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://santiago.com/",
+                    "likes": 7669,
                     "comments": 18,
                     "shares": 43,
                     "reach": 5433
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2551.16
         }
     ]
 }

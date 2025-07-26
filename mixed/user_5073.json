@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aef11842-cffc-47fb-bbc1-cdf7897df23c",
+    "name": "Laura Moreno",
+    "email": "clarkejoshua@example.org",
+    "instagram_handle": "@kbrown",
+    "tiktok_handle": "@kevin96",
+    "joined_at": "2024-09-02T05:44:19.424760",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "de4d9b0b-029e-41fe-907b-73fc9cbb945c",
+            "brand": "Cobb PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "99af8147-a120-48fa-9add-3bccb62625a3",
+                    "platform": "Instagram",
+                    "post_url": "https://www.huff.com/",
+                    "likes": 2731,
+                    "comments": 330,
                     "shares": 42,
                     "reach": 3218
                 }

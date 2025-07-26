@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fb07f845-4003-4563-b6f6-ff106ecab264",
+    "name": "Lori Mason",
+    "email": "rgarcia@example.org",
+    "instagram_handle": "@ronald14",
+    "tiktok_handle": "@jeffrey63",
+    "joined_at": "2024-04-11T00:58:37.271873",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d1460cb3-1f3e-4115-9385-be770c488871",
+            "brand": "Thomas, Bryant and Garcia",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "92e891a0-5ef0-4a71-a6f8-fd548ddbd7ac",
+                    "platform": "YouTube",
+                    "post_url": "http://www.thompson-hunter.info/",
+                    "likes": 9416,
+                    "comments": 159,
                     "shares": 83,
                     "reach": 6916
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7860.02
         }
     ]
 }

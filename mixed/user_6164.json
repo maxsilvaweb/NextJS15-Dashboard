@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7ca93ad2-fef8-4057-81bc-129b68aa2f44",
+    "name": "Rebecca Daugherty",
+    "email": "carlos12@example.net",
+    "instagram_handle": "@jeffrey67",
+    "tiktok_handle": "@alyssaelliott",
+    "joined_at": "2024-04-29T17:22:08.983426",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1a1afdf6-dfd5-4b80-8a3c-0b9e35d2a9e3",
+            "brand": "Smith, Morales and Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "61328d10-54f0-4472-9fed-a20d438100b8",
                     "platform": "TikTok",
                     "post_url": "https://lumpy-netsuke.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8518,
+                    "comments": 197,
                     "shares": 23,
                     "reach": 3521
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4613.95
         }
     ]
 }

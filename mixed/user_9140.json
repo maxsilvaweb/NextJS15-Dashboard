@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "baf24b14-de62-42aa-973b-12d41335b591",
+    "name": "Mrs. Crystal Kennedy",
+    "email": "zharrell@example.org",
+    "instagram_handle": "@jordanmcgee",
+    "tiktok_handle": "@nelsonjessica",
+    "joined_at": "2024-12-02T16:19:03.378729",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "56f56647-c0fd-425c-ae19-305955af631e",
             "brand": "Schmidt, Watsica and Barrows",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "8ffa7285-2526-4559-82a0-b83f91c3483f",
+                    "platform": "TikTok",
+                    "post_url": "http://gray.org/",
+                    "likes": 4467,
+                    "comments": 403,
                     "shares": 20,
                     "reach": 9000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3742.88
         }
     ]
 }

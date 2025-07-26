@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "13ecd96b-2ce4-46ae-80a5-a17ac8efcacb",
+    "name": "Elizabeth Walters",
     "email": "Junior80@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@natasha58",
+    "tiktok_handle": "@jgamble",
+    "joined_at": "2024-04-20T20:57:16.957676",
     "advocacy_programs": [
         {
             "program_id": "79315e8d-b443-4d0b-9502-fbc3309302af",
-            "brand": 12345,
+            "brand": "Wells, Schmidt and Powell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bc85be3b-4320-4900-8147-2b07bd013996",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.wolfe.com/",
+                    "likes": 4678,
+                    "comments": 183,
                     "shares": 29,
                     "reach": 766
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7971.32
         }
     ]
 }

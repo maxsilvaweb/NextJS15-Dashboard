@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ed03d9bd-dba0-48d5-9337-a26fb5db632f",
+    "name": "Samantha Garcia",
+    "email": "paulmueller@example.org",
+    "instagram_handle": "@diane01",
+    "tiktok_handle": "@dburke",
+    "joined_at": "2023-08-08T12:08:00.064691",
     "advocacy_programs": [
         {
             "program_id": "6b653737-d6c2-4764-9637-63833fb7cdc8",
-            "brand": 12345,
+            "brand": "Bishop, Johnson and Snyder",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "25a0764f-2eaa-4529-a06e-52a70642197e",
+                    "platform": "YouTube",
+                    "post_url": "https://www.mathis.com/",
+                    "likes": 2621,
                     "comments": 22,
                     "shares": 24,
                     "reach": 4957
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4911.61
         }
     ]
 }

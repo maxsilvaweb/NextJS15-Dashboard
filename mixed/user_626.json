@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a5257b62-d0ed-4edc-a979-163455d8e161",
+    "name": "Mary Johnson",
+    "email": "erin77@example.net",
+    "instagram_handle": "@wrightamanda",
+    "tiktok_handle": "@westnathan",
+    "joined_at": "2024-10-09T04:20:00.665137",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "57bd6791-fc03-4f12-b954-90b95b4caa0f",
+            "brand": "Castillo, Gould and Murphy",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d5039876-0908-4bf5-a77c-db65b21f686d",
                     "platform": "Facebook",
                     "post_url": "https://cluttered-mixture.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9279,
+                    "comments": 464,
                     "shares": 54,
                     "reach": 2705
                 }

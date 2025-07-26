@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "d9a104dd-f56a-4b61-866b-36350b6f73be",
+    "name": "Eric Reed",
     "email": "Rowena.Schoen87@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@fford",
+    "tiktok_handle": "@kmayer",
+    "joined_at": "2023-12-30T18:13:10.981568",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e8c789fd-a6ab-42f9-b7f8-bc233c82e11f",
+            "brand": "Joyce, Alexander and Williams",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "538d8cda-5ca6-4679-9c5b-3fc27c4c80ce",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.espinoza.com/",
+                    "likes": 9837,
+                    "comments": 88,
                     "shares": 3,
                     "reach": 4931
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4217.46
         }
     ]
 }

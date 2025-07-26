@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "454e5b26-4297-463d-8a60-617c2931d67a",
+    "name": "Carolyn Barker",
+    "email": "jennifer82@example.net",
+    "instagram_handle": "@elizabeth31",
+    "tiktok_handle": "@vincent65",
     "joined_at": "2024-07-29T06:39:10.018Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c01e6fca-bd61-4904-ab19-d687ff408a71",
+            "brand": "Wise LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "e1454859-4c49-41b3-a5ee-beb83d0a9b6c",
+                    "platform": "Instagram",
+                    "post_url": "http://drake.info/",
+                    "likes": 5613,
                     "comments": 9,
                     "shares": 99,
                     "reach": 9971

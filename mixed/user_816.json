@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a4bf729d-ae02-41dc-9cdc-4fd86931b859",
+    "name": "Daniel Rodriguez",
+    "email": "david44@example.com",
+    "instagram_handle": "@ypadilla",
+    "tiktok_handle": "@lauriemullins",
+    "joined_at": "2024-07-06T11:03:37.725255",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fd0ce041-49f6-43f2-b12a-bf625ff6b77f",
+            "brand": "Hernandez, Brown and Chen",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fe04390a-13d1-4299-ba4b-59d79bdefa42",
                     "platform": "Instagram",
                     "post_url": "https://regal-mom.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3468,
+                    "comments": 380,
                     "shares": 23,
                     "reach": 4549
                 }

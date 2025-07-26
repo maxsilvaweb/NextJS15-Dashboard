@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "705dd832-1c29-411f-9df2-e135f47101fe",
+    "name": "Michael Johnson",
+    "email": "romeroantonio@example.net",
+    "instagram_handle": "@jbrown",
+    "tiktok_handle": "@brendashaw",
+    "joined_at": "2024-12-03T12:00:26.389618",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4274166b-4b2a-40a6-bdf4-683ae89a62cf",
+            "brand": "Turner-Cardenas",
             "tasks_completed": [
                 {
                     "task_id": "b79d97da-5af2-4be7-b0be-f4284f0e8b98",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.figueroa.com/",
+                    "likes": 6375,
                     "comments": 11,
                     "shares": 27,
                     "reach": 7947
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1565.25
         }
     ]
 }

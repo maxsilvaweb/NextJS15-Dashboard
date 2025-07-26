@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8f716b63-74cf-47d3-9e63-730700668ba4",
+    "name": "Joseph Lynch",
+    "email": "stevenschristopher@example.net",
+    "instagram_handle": "@juliaashley",
+    "tiktok_handle": "@austin30",
+    "joined_at": "2023-08-15T08:53:37.533782",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cae0cdf4-8f70-49bb-ad6a-94bd718b4463",
+            "brand": "Bishop, Franco and Gregory",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c06c6ade-d079-4e57-aa35-6303fd8e61bb",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.barker-santana.biz/",
+                    "likes": 8154,
                     "comments": 12,
                     "shares": 69,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9167.8
         }
     ]
 }

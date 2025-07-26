@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "2439b592-09f0-4cb7-be3c-a785655ad056",
+    "name": "Deanna Morgan",
     "email": "Brannon63@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@ylong",
+    "tiktok_handle": "@nhays",
     "joined_at": "2024-09-11T19:41:36.100Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6a68a7fc-4228-46ee-a2dd-2f65439d911e",
+            "brand": "Torres Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b5320e94-9d7f-4ab0-9f97-9798a393e940",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://chavez.com/",
                     "likes": 484,
-                    "comments": null,
+                    "comments": 234,
                     "shares": 94,
                     "reach": 1459
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6739.56
         }
     ]
 }

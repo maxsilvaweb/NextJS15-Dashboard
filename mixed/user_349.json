@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "31377e82-0142-4622-bf47-5087b0fa8e43",
+    "name": "Jacob Pratt",
+    "email": "haydenalexis@example.org",
+    "instagram_handle": "@johnsonelijah",
+    "tiktok_handle": "@vincent51",
     "joined_at": "2024-09-01T18:11:04.364Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a2c65c94-be37-4f07-8f53-77184fd91a71",
+            "brand": "White, Black and Chambers",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9dc4d53c-47ad-4935-81e6-4db3ede1a8bc",
                     "platform": "Facebook",
                     "post_url": "https://monumental-taro.net/",
-                    "likes": "NaN",
+                    "likes": 2169,
                     "comments": 0,
                     "shares": 78,
                     "reach": 6802
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3472.25
         }
     ]
 }

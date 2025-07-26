@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "536175b7-d71e-4d38-9ef1-cd6c305ab066",
+    "name": "Debbie Murillo",
+    "email": "melissakrueger@example.net",
+    "instagram_handle": "@hherrera",
+    "tiktok_handle": "@palmernathan",
+    "joined_at": "2024-03-29T20:32:13.112100",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "d34b80a9-b49d-4ae2-b26d-ca1b119346d6",
             "brand": "Glover, Hartmann and Wuckert",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "d92e9ca0-e608-4de4-93fc-bba786d0ece0",
+                    "platform": "YouTube",
+                    "post_url": "https://mcdaniel.org/",
+                    "likes": 2525,
+                    "comments": 287,
                     "shares": 28,
                     "reach": 3688
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 2859.689255051971
         }
     ]
+}

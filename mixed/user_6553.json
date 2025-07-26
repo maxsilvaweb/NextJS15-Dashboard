@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3d3154c9-45e5-4e87-a01d-5d6b3f2f5528",
+    "name": "Anthony Brown",
+    "email": "jacksonlinda@example.com",
+    "instagram_handle": "@ambersantos",
+    "tiktok_handle": "@olewis",
+    "joined_at": "2025-05-09T17:02:42.470888",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "42bf3ab2-ba67-405e-b014-2e4a9a49fc9e",
+            "brand": "Perry-Hill",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "12b313c9-75d1-4202-aa2a-618a34d46074",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://wallace-harris.biz/",
+                    "likes": 5159,
                     "comments": 38,
                     "shares": 5,
                     "reach": 5829
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 174.56
         }
     ]
 }

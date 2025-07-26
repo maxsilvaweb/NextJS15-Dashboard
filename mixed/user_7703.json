@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3cee467d-7caf-468b-9b70-6230c94dbdfe",
+    "name": "Steven Summers",
+    "email": "walterskelly@example.net",
+    "instagram_handle": "@pamela71",
+    "tiktok_handle": "@markkelly",
+    "joined_at": "2024-10-01T05:23:49.486894",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "f654f41d-f9e7-44a9-9eec-65de284b6d78",
             "brand": "Kutch - Weimann",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "14d74c66-0ddd-4c77-a75a-4a42410bc933",
                     "platform": "Facebook",
                     "post_url": "https://decisive-masterpiece.net/",
                     "likes": 457,
-                    "comments": null,
+                    "comments": 179,
                     "shares": 72,
                     "reach": 2655
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 196.66
         }
     ]
 }

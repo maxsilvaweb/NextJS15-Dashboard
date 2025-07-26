@@ -1,26 +1,26 @@
 {
     "user_id": "c6715873-327a-4bc6-ad65-2db37e93beae",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Antonio Jones",
+    "email": "cmeyer@example.net",
+    "instagram_handle": "@timothysmith",
+    "tiktok_handle": "@ericthompson",
+    "joined_at": "2024-04-14T19:29:40.088313",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a2984b87-d71c-4c72-8695-425eedb4b2f1",
+            "brand": "Howell PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "1771f4c0-3ad4-42cb-abf3-3b23002894d7",
+                    "platform": "Twitter",
+                    "post_url": "http://www.foster.biz/",
                     "likes": 120,
-                    "comments": null,
+                    "comments": 62,
                     "shares": 55,
                     "reach": 8647
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4504.48
         }
     ]
 }

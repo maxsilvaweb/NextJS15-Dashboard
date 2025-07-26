@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "6f60f626-92ef-48a6-9feb-1acae11f2a79",
+    "name": "Nicholas Richards",
+    "email": "kennethwilliams@example.com",
+    "instagram_handle": "@martinezsharon",
+    "tiktok_handle": "@walter71",
     "joined_at": "2025-03-17T02:29:55.675Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "592b481f-f80c-4cbe-8652-b0aa178bfc8b",
+            "brand": "Beck, Tate and Douglas",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dd25d716-b7dd-49e2-8bd4-16bacfb8fdbb",
                     "platform": "Facebook",
                     "post_url": "https://late-topsail.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6309,
+                    "comments": 208,
                     "shares": 89,
                     "reach": 3977
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7074.3
         }
     ]
 }

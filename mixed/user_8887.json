@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "4028cdb1-78e8-4695-9792-6160061a8d2e",
+    "name": "Alan Benton",
     "email": "Kyla56@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@thomasnicole",
+    "tiktok_handle": "@hayesbenjamin",
+    "joined_at": "2025-06-16T11:31:08.093973",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4ccd5277-c10d-424f-9ed2-b07865417f71",
+            "brand": "Walker Ltd",
             "tasks_completed": [
                 {
                     "task_id": "d0c8eee3-2148-4030-a30b-0706089084b4",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "YouTube",
+                    "post_url": "http://www.ryan-white.com/",
+                    "likes": 2655,
+                    "comments": 170,
                     "shares": 100,
                     "reach": 8033
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6868.63
         }
     ]
 }

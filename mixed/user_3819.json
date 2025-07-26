@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "48a6b2db-41f0-4708-966b-02473102ee6e",
+    "name": "Christopher Garcia",
+    "email": "johnsonbrenda@example.org",
+    "instagram_handle": "@youngrebecca",
+    "tiktok_handle": "@brent98",
+    "joined_at": "2024-02-23T07:44:23.244415",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b8c3eace-c396-405b-9228-cd88c16b6559",
+            "brand": "Chavez LLC",
             "tasks_completed": [
                 {
                     "task_id": "0d1a153e-a66b-496e-ad82-8561838e3592",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.farmer.com/",
+                    "likes": 7178,
                     "comments": 24,
                     "shares": 64,
                     "reach": 1995
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6566.43
         }
     ]
 }

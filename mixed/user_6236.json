@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c214d8ce-9831-4048-b199-e9e5fd15561c",
+    "name": "Jeffrey Adams",
+    "email": "mtaylor@example.org",
+    "instagram_handle": "@mbaxter",
+    "tiktok_handle": "@jnunez",
+    "joined_at": "2024-04-15T06:49:53.040900",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d552209f-02c8-4bfc-8a36-ca9951271a73",
+            "brand": "Wall-Myers",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "1968ef77-7af9-46a3-bf3e-8ab42b2e5e54",
+                    "platform": "YouTube",
+                    "post_url": "http://smith.com/",
+                    "likes": 7070,
                     "comments": 24,
                     "shares": 94,
                     "reach": 5696
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4826.39
         }
     ]
 }

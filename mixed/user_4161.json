@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7e71d4ec-336e-4ed7-a6c5-340bb146efe4",
+    "name": "Aaron Hall",
+    "email": "petersmolly@example.net",
+    "instagram_handle": "@diazjesse",
+    "tiktok_handle": "@marie84",
+    "joined_at": "2025-02-02T18:42:45.294140",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dfef3024-3222-47dc-8287-a4a984a009f9",
+            "brand": "Sandoval-Sosa",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "804f7c20-bc2a-4c41-ac5e-bf02a6e2ba29",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.fisher.com/",
+                    "likes": 7613,
+                    "comments": 9,
                     "shares": 42,
                     "reach": 4109
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2389.55
         }
     ]
 }

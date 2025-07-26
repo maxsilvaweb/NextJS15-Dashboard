@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c86cd232-e380-4e57-978e-ab27debdebf6",
+    "name": "Deborah Hawkins",
+    "email": "andersonwilliam@example.net",
+    "instagram_handle": "@swhite",
+    "tiktok_handle": "@kennedyaustin",
+    "joined_at": "2024-03-11T20:11:58.726994",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "728d416a-cb4d-41c3-a0e0-3fb59ef1ace0",
+            "brand": "Larson PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "77f97410-8b1a-40cf-abd5-e7464955d86a",
+                    "platform": "Instagram",
+                    "post_url": "http://www.richards.com/",
+                    "likes": 3687,
+                    "comments": 100,
                     "shares": 67,
                     "reach": 9215
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4610.05
         }
     ]
 }

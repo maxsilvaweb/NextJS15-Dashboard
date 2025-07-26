@@ -1,21 +1,21 @@
 {
-    "user_id": null,
+    "user_id": "f16bfc43-c8ba-490f-9731-15fc55412b38",
     "name": "Sonja Schumm",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "joseph04@example.com",
+    "instagram_handle": "@victoriadaugherty",
+    "tiktok_handle": "@gchaney",
+    "joined_at": "2024-02-26T13:34:49.744274",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "5dc35b12-e857-4a22-b0d1-28493e3b576b",
             "brand": "Boyle, Wiza and Fritsch",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "34c2f237-c605-4043-bf3c-2fb2cde04d23",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://jensen.com/",
+                    "likes": 133,
+                    "comments": 119,
                     "shares": 92,
                     "reach": 2238
                 }

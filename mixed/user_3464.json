@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d4be2ade-1074-45ec-9f79-38398758d50b",
+    "name": "David Scott",
+    "email": "hmoore@example.com",
+    "instagram_handle": "@bradley49",
+    "tiktok_handle": "@mcbrideadrienne",
+    "joined_at": "2024-06-05T00:47:41.757363",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8751a0e9-7c7b-48b8-b481-4a75ad89caec",
+            "brand": "Dixon, Anderson and Washington",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "1ad6c37a-a27d-4146-866f-0af606db443b",
+                    "platform": "Instagram",
+                    "post_url": "http://www.bauer-benton.info/",
+                    "likes": 9358,
+                    "comments": 381,
                     "shares": 53,
                     "reach": 1949
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3930.35
         }
     ]
 }

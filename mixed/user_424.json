@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "175257af-b8c2-45b8-af38-746e57c59c0b",
+    "name": "Paul Turner",
+    "email": "hessnathaniel@example.net",
+    "instagram_handle": "@deniseallen",
+    "tiktok_handle": "@markramirez",
+    "joined_at": "2024-01-08T21:57:33.448060",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0431ccdc-6986-4f26-b675-124fc3a4144e",
+            "brand": "Trujillo, Bell and Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1448c5ce-ac01-4fa5-8115-c6633fd47eda",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://hopkins-lee.com/",
                     "likes": 136,
-                    "comments": null,
+                    "comments": 496,
                     "shares": 57,
                     "reach": 2208
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7515.38
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a3586cd1-44db-44f7-9954-af5dc03b238a",
+    "name": "James Reilly",
+    "email": "dickersonanna@example.net",
+    "instagram_handle": "@robertselizabeth",
+    "tiktok_handle": "@nsaunders",
+    "joined_at": "2024-01-18T12:42:55.923842",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ca12bf8f-1c83-4e74-bf1f-4c798573e3df",
+            "brand": "Reyes LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fe932cf2-2e7f-497f-85bd-9c73582ffc2b",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://burton.com/",
+                    "likes": 6586,
+                    "comments": 257,
                     "shares": 10,
                     "reach": 9740
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8861.99
         }
     ]
 }

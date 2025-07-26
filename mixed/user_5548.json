@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "c64c0ed2-3245-4ee3-91a0-9cf1bab571bb",
+    "name": "Kimberly Stevenson",
+    "email": "rhughes@example.net",
+    "instagram_handle": "@aguilarerin",
+    "tiktok_handle": "@michaeljohnson",
     "joined_at": "2024-09-03T05:02:49.283Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "04a0272f-f874-4ab2-8f6a-63d4e0de0dd2",
+            "brand": "Mcmahon-Hall",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bf7baae8-5284-435f-89ae-d1d56bcf7acb",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.williams-williams.net/",
                     "likes": 232,
-                    "comments": null,
+                    "comments": 465,
                     "shares": 97,
                     "reach": 9694
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7932.16
         }
     ]
 }

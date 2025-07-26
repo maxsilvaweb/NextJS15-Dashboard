@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e7b6a0a7-eb9e-4d1b-8a2d-b261215b1a56",
+    "name": "Mary Fowler",
+    "email": "lisa69@example.com",
+    "instagram_handle": "@nburton",
+    "tiktok_handle": "@cainbeth",
+    "joined_at": "2023-08-11T00:40:36.056291",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "48020a3e-eb4b-4d9d-9d30-5f1042de13ae",
+            "brand": "Hubbard Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4befd97f-7d0a-47a9-9da8-8f3942133cf0",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://christian.com/",
+                    "likes": 1909,
+                    "comments": 440,
                     "shares": 17,
                     "reach": 4854
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6214.39
         }
     ]
 }

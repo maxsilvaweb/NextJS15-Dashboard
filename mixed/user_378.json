@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5e02490f-931e-4220-8632-60c3633a6e01",
+    "name": "Gerald Pierce",
+    "email": "xcarter@example.com",
+    "instagram_handle": "@traci26",
+    "tiktok_handle": "@michaeljennings",
+    "joined_at": "2023-12-25T10:21:26.712067",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "41a0c1fd-12eb-44c1-b0f0-7f758e76a59e",
+            "brand": "Barnes Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "10d79623-0422-4503-add5-d604e03a1080",
+                    "platform": "TikTok",
+                    "post_url": "http://www.mullen-franklin.com/",
+                    "likes": 1101,
+                    "comments": 260,
                     "shares": 30,
                     "reach": 6420
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 269.94
         }
     ]
 }

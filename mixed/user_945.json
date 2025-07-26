@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "02fea6d8-9113-40ad-b300-f52697042a68",
+    "name": "Mia Watts",
     "email": "Selmer_Schulist97@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@mckinneycarly",
+    "tiktok_handle": "@ptrujillo",
+    "joined_at": "2023-12-02T11:12:23.046672",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7eeeec5d-d52a-45e1-b1ed-339e7bb7f669",
+            "brand": "Brown-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a347f5f0-48d2-4e81-a8b5-945184994595",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.smith.org/",
+                    "likes": 1652,
                     "comments": 26,
                     "shares": 31,
                     "reach": 4872
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4384.57
         }
     ]
 }

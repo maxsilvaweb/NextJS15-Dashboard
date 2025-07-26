@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3a195725-ba4d-418e-9bc9-9c44fc6d1097",
+    "name": "Evan Warren",
+    "email": "adkinscharles@example.com",
+    "instagram_handle": "@kendradickson",
+    "tiktok_handle": "@uwatson",
+    "joined_at": "2024-11-07T12:26:31.908737",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "375eae85-f80f-4cc1-945c-a0389b0d7ac7",
+            "brand": "Long-Holt",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4d9ff86d-b409-4012-9d33-bd353d86a073",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://avila.com/",
                     "likes": 469,
-                    "comments": null,
+                    "comments": 14,
                     "shares": 49,
                     "reach": 5828
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1372.01
         }
     ]
 }

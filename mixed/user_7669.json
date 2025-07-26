@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0cea4819-0e5d-44b8-8e24-640730373b7d",
+    "name": "Charles Ferrell",
+    "email": "marywilkinson@example.org",
+    "instagram_handle": "@derekferrell",
+    "tiktok_handle": "@lisa20",
+    "joined_at": "2024-02-16T01:57:23.733432",
     "advocacy_programs": [
         {
             "program_id": "8c6b51f2-d1a3-4177-9861-10dd83bea41f",
-            "brand": 12345,
+            "brand": "Cook-Dunlap",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f9497f06-0e7e-4800-8461-8f039f5d6e1f",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://campos.net/",
+                    "likes": 3589,
                     "comments": 32,
                     "shares": 69,
                     "reach": 5034
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3768.77
         }
     ]
 }

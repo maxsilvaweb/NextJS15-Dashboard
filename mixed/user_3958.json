@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "2ef70b26-afc2-4929-a0ab-685f2943d4e0",
+    "name": "Cynthia Harris",
+    "email": "crichardson@example.org",
+    "instagram_handle": "@valdeznicole",
+    "tiktok_handle": "@ewhite",
     "joined_at": "2024-09-01T05:17:19.447Z",
     "advocacy_programs": [
         {
             "program_id": "d36563a7-1e6a-44f7-9e1d-38b73e82cf01",
-            "brand": 12345,
+            "brand": "Snyder, Rivera and Hamilton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "20362403-b749-41e4-8769-40ff434b95e4",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.carpenter.net/",
+                    "likes": 5197,
                     "comments": 19,
                     "shares": 19,
                     "reach": 2355
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3252.59
         }
     ]
 }

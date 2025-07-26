@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b74e36f0-f9a8-4e3d-97bc-8dd615eed0cb",
+    "name": "Edward Cardenas",
+    "email": "erica78@example.com",
+    "instagram_handle": "@guzmankathy",
+    "tiktok_handle": "@joshuawhite",
+    "joined_at": "2023-10-26T14:52:55.215707",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e937912a-4832-4688-9b7d-46834c01d08d",
+            "brand": "Wood, Miller and White",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "14d83a4a-0cdd-4740-b651-3fc6c8fb101e",
+                    "platform": "YouTube",
+                    "post_url": "http://frost.org/",
+                    "likes": 9076,
+                    "comments": 210,
                     "shares": 75,
                     "reach": 2491
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3098.04
         }
     ]
 }

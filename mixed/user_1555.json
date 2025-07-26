@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "42a3b7dd-36dd-4bb3-9655-654bba5efff5",
+    "name": "Misty Curtis DVM",
+    "email": "omercado@example.com",
+    "instagram_handle": "@nrodgers",
+    "tiktok_handle": "@ewatts",
+    "joined_at": "2024-02-14T21:20:06.218969",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7ab60252-05c8-493f-b460-0c40eaa804de",
+            "brand": "Sullivan, Henderson and Valdez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "19c538ec-4f70-45d2-9511-be405877f044",
                     "platform": "TikTok",
                     "post_url": "https://unkempt-suv.info/",
                     "likes": 326,
-                    "comments": null,
+                    "comments": 318,
                     "shares": 46,
                     "reach": 7036
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8431.67
         }
     ]
 }

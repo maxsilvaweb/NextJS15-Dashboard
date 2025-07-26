@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "e08f574e-bceb-45a9-8aa3-b42f6fe600f9",
+    "name": "Robert King",
+    "email": "gbrown@example.net",
     "instagram_handle": "@Myrtis.Effertz",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@vmorrison",
+    "joined_at": "2025-04-16T22:16:27.388484",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0b4779ce-0f45-4907-bb3f-4f9357814e3f",
+            "brand": "Valdez-Fox",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "166d3ba6-2624-4392-8845-eb420b3390e4",
                     "platform": "Instagram",
                     "post_url": "https://ornery-thigh.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1025,
+                    "comments": 382,
                     "shares": 95,
                     "reach": 6650
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3906.14
         }
     ]
 }

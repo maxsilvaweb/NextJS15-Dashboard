@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "521e5507-b24a-4ee4-bd19-2b4944a1ef73",
+    "name": "Steven King",
+    "email": "racheldaniel@example.net",
+    "instagram_handle": "@jenniferweaver",
+    "tiktok_handle": "@kwells",
+    "joined_at": "2023-08-07T00:18:59.029228",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2b22bae9-c4bf-48b3-a298-b2066987b61e",
+            "brand": "Davis-Williams",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8ce77da0-70cb-4a54-b50d-1ec09eacf671",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.osborne.com/",
+                    "likes": 9173,
+                    "comments": 222,
                     "shares": 16,
                     "reach": 1841
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7718.67
         }
     ]
 }

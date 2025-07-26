@@ -2,20 +2,20 @@
     "user_id": "93cbc2f5-16c3-44bc-a7ca-6e6d9c5cb70c",
     "name": "Mack Ullrich Sr.",
     "email": "Zella.Baumbach@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@afuller",
+    "tiktok_handle": "@taylor71",
+    "joined_at": "2024-09-11T06:21:37.556973",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f4190ab5-29c2-4bcb-a744-4aaabfdc2cb5",
+            "brand": "Randall-Ruiz",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "332ebf9b-4fca-4a51-8f81-0e4278e22e9d",
+                    "platform": "Twitter",
+                    "post_url": "https://mcintyre-smith.com/",
                     "likes": 248,
-                    "comments": null,
+                    "comments": 24,
                     "shares": 86,
                     "reach": 9385
                 }

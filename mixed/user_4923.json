@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bc302f79-62b6-4664-b152-cba77fc863a1",
+    "name": "Emma White",
+    "email": "jessicapatel@example.net",
+    "instagram_handle": "@nlindsey",
+    "tiktok_handle": "@brandonstuart",
+    "joined_at": "2024-07-02T10:20:44.481888",
     "advocacy_programs": [
         {
             "program_id": "da377064-5952-4f55-9e96-5dcd27377207",
             "brand": "Huel Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "de7022c3-466b-4e34-a36a-4f5ff35a471d",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://pineda.info/",
+                    "likes": 4807,
                     "comments": 50,
                     "shares": 100,
                     "reach": 7228
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8169.02
         }
     ]
 }

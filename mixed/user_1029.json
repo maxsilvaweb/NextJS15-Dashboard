@@ -1,25 +1,26 @@
 {
     "user_id": "5d5080bb-29e9-4985-811d-f25d58d44e49",
-    "name": "???",
+    "name": "Karl Thomas",
     "email": "Paula.Schiller44@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@michaellong",
+    "tiktok_handle": "@zhaynes",
+    "joined_at": "2023-12-13T10:29:43.961693",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ef158cac-4b80-449b-b3a8-93189198acdb",
+            "brand": "Freeman Inc",
             "tasks_completed": [
                 {
                     "task_id": "95cc6d19-b2fa-4e3d-a774-d1e7fd292927",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "platform": "YouTube",
+                    "post_url": "http://phillips-harris.com/",
+                    "likes": 1491,
                     "comments": 49,
                     "shares": 41,
                     "reach": 3585
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3999.13
         }
     ]
+}

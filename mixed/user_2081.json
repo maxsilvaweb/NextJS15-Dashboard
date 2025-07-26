@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d6c8f25f-faf8-4510-8155-1cd590959f8d",
+    "name": "Aimee Cochran",
+    "email": "tdavis@example.com",
+    "instagram_handle": "@ryancarlos",
+    "tiktok_handle": "@freemanheather",
+    "joined_at": "2024-07-23T10:04:20.202876",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a3a57018-2da4-4584-bbd0-b506a133e59a",
+            "brand": "Jones PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b06bca19-80a5-42a4-b480-f5b7ff9a689e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://little.com/",
+                    "likes": 5889,
+                    "comments": 482,
                     "shares": 20,
                     "reach": 8453
                 }

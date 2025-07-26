@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c3b94a48-b647-428b-b5c9-4b0295f513e0",
+    "name": "Matthew Todd",
+    "email": "kennethsharp@example.org",
+    "instagram_handle": "@qolsen",
+    "tiktok_handle": "@ashleecarney",
+    "joined_at": "2024-07-20T15:24:47.982138",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7dc66160-7331-4490-9ad8-18cbf5162805",
+            "brand": "Todd-Henry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "79ec5b01-95dc-40b1-ab7c-a3db493e3b4d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.little.com/",
+                    "likes": 9513,
+                    "comments": 177,
                     "shares": 89,
                     "reach": 7946
                 }

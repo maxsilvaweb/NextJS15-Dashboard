@@ -1,26 +1,26 @@
 {
     "user_id": "283a7dc2-d688-49cb-8235-923e31e31d9e",
-    "name": "???",
+    "name": "Craig Yoder",
     "email": "Laverna_Lehner@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@pattersonlinda",
+    "tiktok_handle": "@jessejones",
+    "joined_at": "2025-04-11T16:30:13.016614",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "80a5f058-edc9-4249-a230-8b50a136a332",
+            "brand": "Byrd Inc",
             "tasks_completed": [
                 {
                     "task_id": "5a20110d-0222-40ba-9b3a-1cda33840878",
                     "platform": "TikTok",
                     "post_url": "https://hot-tuber.name/",
-                    "likes": "NaN",
+                    "likes": 5476,
                     "comments": 15,
                     "shares": 70,
                     "reach": 5150
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1835.49
         }
     ]
 }

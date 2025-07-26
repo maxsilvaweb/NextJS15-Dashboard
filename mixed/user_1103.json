@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e3b81615-4cb6-4c55-9a80-d545b4b24ae9",
+    "name": "Shari Walsh",
+    "email": "dnorman@example.net",
+    "instagram_handle": "@christinawoodward",
+    "tiktok_handle": "@garzabrooke",
+    "joined_at": "2024-12-24T11:02:14.242569",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ebcdfd21-27fd-4b91-9684-705338e60126",
+            "brand": "Campos-Ruiz",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "4c3d92bb-d440-4c7e-b57a-5c592e7d3d2a",
+                    "platform": "TikTok",
                     "post_url": "https://rubbery-cruelty.info",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5259,
+                    "comments": 464,
                     "shares": 29,
                     "reach": 5605
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6519.72
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "40d22603-eb0c-4ef7-9dea-0d5b4ced7402",
+    "name": "Peter Allen",
+    "email": "lisaburns@example.com",
+    "instagram_handle": "@abrady",
+    "tiktok_handle": "@cathy66",
+    "joined_at": "2023-10-04T09:38:16.647647",
     "advocacy_programs": [
         {
             "program_id": "3908086c-c02c-4697-ae79-04a9a775ef5a",
-            "brand": 12345,
+            "brand": "Roy-Walters",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dfc0de22-b0a4-424e-bb25-869cc23a9b83",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.evans.info/",
+                    "likes": 7650,
                     "comments": 24,
                     "shares": 56,
                     "reach": 4258
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7544.2
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3f6d57ba-d5cc-46aa-abc4-c830a1a61744",
+    "name": "Brandon Garza",
+    "email": "afarrell@example.net",
+    "instagram_handle": "@megan92",
+    "tiktok_handle": "@shamilton",
+    "joined_at": "2024-01-18T01:19:42.565564",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "70dd83b9-ef28-4853-9c3f-83e78381facd",
+            "brand": "Whitehead-Allen",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "22bb90f2-3711-42b2-94af-cf09c046c98a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.anderson.com/",
+                    "likes": 5688,
+                    "comments": 108,
                     "shares": 69,
                     "reach": 9932
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "77c09735-61ca-4bef-857c-8b29d4cff62f",
+    "name": "Miranda Norton",
+    "email": "zclark@example.org",
+    "instagram_handle": "@calebthomas",
+    "tiktok_handle": "@sandra95",
+    "joined_at": "2024-11-08T17:35:12.469111",
     "advocacy_programs": [
         {
             "program_id": "ca666268-8cc2-4130-ba6d-38fc937609d1",
-            "brand": 12345,
+            "brand": "Adams-Tran",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "88c39943-a79d-4baf-a2a7-8be0efb8896a",
+                    "platform": "TikTok",
+                    "post_url": "http://www.barnes-cline.com/",
+                    "likes": 847,
+                    "comments": 186,
                     "shares": 64,
                     "reach": 6187
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1312.33
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "2bd63b90-3088-437f-b88e-fe54eb18766a",
+    "name": "Troy Gibson",
     "email": "Hollie37@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@rshepherd",
+    "tiktok_handle": "@kari03",
+    "joined_at": "2024-11-19T00:31:04.521204",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8c70f75d-ab08-4476-97fa-ce97e70075cd",
+            "brand": "Wilson-Daniels",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "d90e0898-7b89-4489-95b3-8a45d08b6d9b",
+                    "platform": "TikTok",
+                    "post_url": "http://www.jacobs.com/",
+                    "likes": 7814,
+                    "comments": 110,
                     "shares": 46,
                     "reach": 5081
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9450.44
         }
     ]
 }

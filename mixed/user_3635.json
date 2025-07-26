@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1d9c3705-ce70-49d1-9509-f72c5ac2866c",
+    "name": "Dylan Mcintyre",
+    "email": "blairgina@example.net",
+    "instagram_handle": "@xmitchell",
+    "tiktok_handle": "@roykelley",
+    "joined_at": "2023-10-17T23:14:34.981548",
     "advocacy_programs": [
         {
             "program_id": "4a4684d9-187e-4c63-905a-e6809ae6fde9",
-            "brand": 12345,
+            "brand": "Adkins Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "6a9f154b-4ee3-40e1-8e44-407654027622",
+                    "platform": "YouTube",
+                    "post_url": "http://www.craig.com/",
+                    "likes": 1128,
                     "comments": 0,
                     "shares": 59,
                     "reach": 2647
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6756.66
         }
     ]
 }

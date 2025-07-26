@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2d566f9f-a7c7-47eb-a77b-1b05fbc7d946",
+    "name": "Joseph Williams",
+    "email": "okline@example.net",
+    "instagram_handle": "@marymack",
+    "tiktok_handle": "@melissa80",
+    "joined_at": "2024-12-20T18:05:31.907501",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7465cf09-f490-43a7-8215-d95e88fab501",
+            "brand": "Hartman Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "c19fe0fc-e341-4de0-926a-ec0431e7faef",
+                    "platform": "YouTube",
+                    "post_url": "https://baker.net/",
+                    "likes": 4464,
                     "comments": 41,
                     "shares": 65,
                     "reach": 8049
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1791.7
         }
     ]
 }

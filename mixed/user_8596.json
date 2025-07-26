@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aeb261d2-7979-45ff-a11e-f69b33ef772b",
+    "name": "Jared Suarez",
+    "email": "louis33@example.org",
+    "instagram_handle": "@tracyrowe",
+    "tiktok_handle": "@erikhawkins",
+    "joined_at": "2025-07-05T12:51:14.307269",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3a58907a-653b-43cf-a5de-57876d33b4d0",
+            "brand": "Jones, Garcia and Hanson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "ac942406-69be-485f-a9f9-50b9b4af8514",
+                    "platform": "TikTok",
+                    "post_url": "https://moon-cunningham.com/",
+                    "likes": 8673,
+                    "comments": 277,
                     "shares": 28,
                     "reach": 8638
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6637.1
         }
     ]
 }

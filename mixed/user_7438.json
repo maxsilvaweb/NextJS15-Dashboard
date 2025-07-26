@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9c793a35-4f4a-4778-b3a8-6942589b4651",
+    "name": "Alexis Gray",
+    "email": "duartetiffany@example.com",
+    "instagram_handle": "@thomasbeth",
+    "tiktok_handle": "@omercado",
+    "joined_at": "2025-03-10T21:23:48.771121",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "78272ab4-5aad-4124-8abf-665a682ef977",
+            "brand": "Sullivan-Gomez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d7a822b2-47c2-48d6-a2a8-b80830b19e1e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.bowen.net/",
+                    "likes": 6357,
+                    "comments": 423,
                     "shares": 36,
                     "reach": 4130
                 }

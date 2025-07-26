@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9ca62794-36ff-45c0-9ba8-7a30f85007dc",
+    "name": "Miguel Mason",
+    "email": "ifranklin@example.org",
+    "instagram_handle": "@kelsey50",
+    "tiktok_handle": "@ronald67",
+    "joined_at": "2024-04-09T20:05:58.400723",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2b221e1a-ae9e-4fed-b340-5c69a925dc36",
+            "brand": "Garcia Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "77311414-0253-4383-8ee1-cfdd22445c87",
                     "platform": "TikTok",
                     "post_url": "https://outrageous-baritone.info",
                     "likes": 248,
-                    "comments": null,
+                    "comments": 462,
                     "shares": 0,
                     "reach": 7483
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7333.55
         }
     ]
 }

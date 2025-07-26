@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6cc1b2b6-bb78-425b-8aaf-b4eef61abbb0",
+    "name": "Alexander Medina",
+    "email": "hjarvis@example.com",
+    "instagram_handle": "@martin02",
+    "tiktok_handle": "@xjohnson",
+    "joined_at": "2024-12-01T09:46:50.382266",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4aae254c-22e9-4946-9989-b16447333dff",
+            "brand": "Ross LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "11871036-7998-4ae3-9536-1d3c34959696",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.robinson.com/",
+                    "likes": 2555,
+                    "comments": 53,
                     "shares": 87,
                     "reach": 8077
                 }

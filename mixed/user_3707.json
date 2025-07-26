@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d4b11940-b9af-4622-b67a-5c46e908e1be",
+    "name": "Denise Chavez",
+    "email": "browncheyenne@example.net",
+    "instagram_handle": "@bianca34",
+    "tiktok_handle": "@robertscourtney",
+    "joined_at": "2024-05-28T04:49:57.275832",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e8889c36-1b52-4dea-9110-9ef59184db5b",
+            "brand": "Rodriguez, Mills and Graham",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "68fd5d60-21e9-411c-a671-9414a6fc4e29",
                     "platform": "Facebook",
                     "post_url": "https://lumbering-surface.net",
                     "likes": 171,
-                    "comments": null,
+                    "comments": 66,
                     "shares": 47,
                     "reach": 4250
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4284.94
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7c6e3f61-6844-4705-b4db-647e9893bc2b",
+    "name": "Terri Burns",
+    "email": "marquezbrian@example.com",
+    "instagram_handle": "@martinezkari",
+    "tiktok_handle": "@james94",
+    "joined_at": "2023-11-02T21:34:11.443009",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "df0e50c3-f41e-4eaa-854a-e35ad5f31fd0",
+            "brand": "Thompson, Martin and Ford",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "2b905c78-7bf2-415f-a41b-22b2e2b1f28d",
+                    "platform": "Twitter",
+                    "post_url": "http://www.reeves-adams.com/",
+                    "likes": 2228,
                     "comments": 17,
                     "shares": 11,
                     "reach": 7816

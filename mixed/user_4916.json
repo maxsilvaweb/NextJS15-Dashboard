@@ -1,26 +1,26 @@
 {
     "user_id": "abacc191-e19c-4513-a00f-a4fa98f7431f",
-    "name": "???",
-    "email": "invalid-email",
+    "name": "Derrick Porter",
+    "email": "pollardkayla@example.com",
     "instagram_handle": "@Antwan66",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@dawnmason",
+    "joined_at": "2024-10-07T21:15:21.215574",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "02372a53-6cff-4128-b8f5-db1be30bc1f6",
+            "brand": "Day, Robinson and Williams",
             "tasks_completed": [
                 {
                     "task_id": "fe7c9e7b-cbaf-4f07-8955-de94a9e33833",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://leon.com/",
+                    "likes": 4744,
                     "comments": 9,
                     "shares": 56,
                     "reach": 3113
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4052.56
         }
     ]
 }

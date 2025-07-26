@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8f03131d-ecc3-4134-837d-213d74a61f97",
+    "name": "Kristen Johnson",
+    "email": "javier50@example.com",
+    "instagram_handle": "@wrighthoward",
+    "tiktok_handle": "@andrew71",
+    "joined_at": "2025-01-02T05:47:43.770123",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9f6caf17-031a-4d59-9c49-e0488234fb6b",
+            "brand": "Owens-Andrade",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5e763149-ede6-498a-83d6-0abc1945fdc7",
                     "platform": "TikTok",
                     "post_url": "https://considerate-vicinity.info/",
-                    "likes": "NaN",
+                    "likes": 7734,
                     "comments": 3,
                     "shares": 45,
                     "reach": 8807
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5479.86
         }
     ]
 }

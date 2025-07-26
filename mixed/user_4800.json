@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ba99afe3-838c-43fd-ac72-6c1986f25dcf",
+    "name": "Carrie Roberts",
+    "email": "ppatterson@example.net",
+    "instagram_handle": "@gstephenson",
+    "tiktok_handle": "@paynebrenda",
+    "joined_at": "2025-01-13T10:15:31.312048",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1306b287-9da5-4cc8-b7b5-8f9b3786ad50",
+            "brand": "Mccormick, Wheeler and Quinn",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "82b8da62-1afb-4870-8ec4-53adcef19bbf",
                     "platform": "Facebook",
                     "post_url": "https://ajar-bungalow.name/",
-                    "likes": "NaN",
+                    "likes": 2499,
                     "comments": 30,
                     "shares": 39,
                     "reach": 9826
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6268.05
         }
     ]
 }

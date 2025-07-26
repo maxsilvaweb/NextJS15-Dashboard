@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e796146d-0366-4c28-b032-a4726c151d9d",
+    "name": "Harold Contreras",
+    "email": "donaldvazquez@example.com",
+    "instagram_handle": "@aaron19",
+    "tiktok_handle": "@yjackson",
+    "joined_at": "2024-04-11T16:23:21.692038",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "517d31c7-473c-469f-85d5-1cfa13a1f422",
+            "brand": "Reeves Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cda2f021-292b-49d2-9bd4-1216388ba009",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://king-santos.com/",
+                    "likes": 4809,
+                    "comments": 98,
                     "shares": 89,
                     "reach": 9493
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9173.95
         }
     ]
 }

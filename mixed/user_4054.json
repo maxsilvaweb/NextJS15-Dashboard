@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "8d48e643-64b1-4c37-b94f-976db7759369",
+    "name": "Scott Valdez",
     "email": "Donny.Koss99@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jenniferchoi",
+    "tiktok_handle": "@tonyreynolds",
+    "joined_at": "2023-12-28T01:40:41.152555",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3efebc09-edd2-4e4c-a6b8-4fae45588822",
+            "brand": "King Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8498720d-d320-41f0-8158-f443616aa9c8",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.holland.com/",
+                    "likes": 5734,
+                    "comments": 39,
                     "shares": 61,
                     "reach": 5771
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9330.48
         }
     ]
 }

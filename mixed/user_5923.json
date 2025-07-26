@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "5582dbd0-70c3-4ab8-a56a-15235e72ad41",
     "name": "Ms. Sue Mitchell",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "ebrown@example.net",
+    "instagram_handle": "@weissluis",
+    "tiktok_handle": "@mitchell24",
+    "joined_at": "2024-11-28T22:47:53.853457",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9f286028-bded-4109-b355-efd0dcc438c4",
+            "brand": "Mccoy, Mahoney and Mitchell",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "ff6d801f-8200-4cab-ab6c-ce582118d468",
+                    "platform": "TikTok",
+                    "post_url": "https://rodriguez.com/",
                     "likes": 321,
-                    "comments": null,
+                    "comments": 373,
                     "shares": 72,
                     "reach": 9159
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9424.27
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "641ac6d2-7c96-4f6c-95ff-8d156cea3cc7",
+    "name": "Martha English",
+    "email": "jennifer87@example.org",
+    "instagram_handle": "@mejiatiffany",
+    "tiktok_handle": "@christopher00",
+    "joined_at": "2024-05-05T01:48:35.444512",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "54f1409c-6bee-400f-8c3a-cc4adade8415",
+            "brand": "Stout, Contreras and Martin",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9baeef31-7397-4787-96dc-d46466c8cefa",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://harris-figueroa.com/",
+                    "likes": 8709,
+                    "comments": 88,
                     "shares": 4,
                     "reach": 6444
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2558.25
         }
     ]
 }

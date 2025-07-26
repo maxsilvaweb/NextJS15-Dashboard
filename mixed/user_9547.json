@@ -1,26 +1,26 @@
 {
     "user_id": "326f7522-354d-48f6-91f8-daae86841e73",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Nathan Kirby",
+    "email": "kwilliams@example.net",
+    "instagram_handle": "@qmccormick",
+    "tiktok_handle": "@tsherman",
+    "joined_at": "2024-01-29T08:37:27.886278",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "22fcc52b-dae0-46d9-9d03-1af063a452de",
+            "brand": "Warren, Mcintosh and Martin",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c091ce34-a4b8-43ec-ab94-96f55c965890",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.adams-martinez.biz/",
+                    "likes": 1393,
                     "comments": 5,
                     "shares": 97,
                     "reach": 9262
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6272.6
         }
     ]
 }

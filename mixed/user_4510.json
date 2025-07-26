@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "141b0a7e-559d-45a5-9504-bad711386db3",
+    "name": "Elizabeth Wilson",
+    "email": "ricedakota@example.net",
+    "instagram_handle": "@penachristian",
+    "tiktok_handle": "@rholt",
+    "joined_at": "2024-04-15T03:01:06.735621",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c579a64e-98d7-4d39-9d8e-d6bcf9e803b4",
+            "brand": "Daniels, Gray and Adams",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1923cbe5-df6a-47a5-86ad-4a9eb71f8c6a",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.adams-holmes.com/",
+                    "likes": 2077,
+                    "comments": 237,
                     "shares": 84,
                     "reach": 4878
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 786.31
         }
     ]
 }

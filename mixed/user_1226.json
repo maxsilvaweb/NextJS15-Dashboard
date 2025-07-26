@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2d6e2677-44c2-42cc-9747-0eec97948186",
+    "name": "Crystal Nichols",
+    "email": "julie64@example.net",
+    "instagram_handle": "@adammontes",
+    "tiktok_handle": "@paul68",
+    "joined_at": "2024-08-04T21:31:57.031456",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7980b74a-4bcc-4c11-aa0c-24ddddf1253a",
+            "brand": "Johnson, Moreno and Lee",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "7621b37b-1549-484c-b1e2-e079a8b1862c",
+                    "platform": "Instagram",
+                    "post_url": "http://www.galloway.biz/",
+                    "likes": 4760,
+                    "comments": 89,
                     "shares": 20,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5242.62
         }
     ]
 }

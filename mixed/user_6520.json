@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6f1ccc1d-a31e-426b-84b9-eb08b1182c98",
+    "name": "Kevin Ramos",
+    "email": "fcruz@example.net",
+    "instagram_handle": "@davidwilliams",
+    "tiktok_handle": "@qbrewer",
+    "joined_at": "2024-11-27T07:26:58.048115",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "662ae7ec-12fb-4c20-961f-71e276d6028e",
             "brand": "Sauer, Torp and Hilpert",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "99a43aae-7558-460a-bab7-83976f979edd",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://lucero.com/",
+                    "likes": 1675,
+                    "comments": 496,
                     "shares": 25,
                     "reach": 7776
                 }

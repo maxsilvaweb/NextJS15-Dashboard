@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "dcb30624-43ad-4ad6-bdb0-bd3ac2d0cc59",
+    "name": "James Scott",
     "email": "Colten.Yundt96@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@candace15",
+    "tiktok_handle": "@breannacampbell",
+    "joined_at": "2024-12-09T11:37:12.928133",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f85d2be2-6d48-491b-9de0-b925e50b2ab6",
+            "brand": "Farrell, Johnson and Bennett",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cf42e805-7cda-493d-ab9c-3bfe6929314a",
                     "platform": "TikTok",
                     "post_url": "https://quick-witted-prohibition.biz",
                     "likes": 221,
-                    "comments": null,
+                    "comments": 64,
                     "shares": 17,
                     "reach": 3643
                 }

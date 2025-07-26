@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "22f99e68-7f14-49a7-bbd2-5e8cfbd9533b",
+    "name": "Lisa Brown",
+    "email": "pmitchell@example.com",
+    "instagram_handle": "@lisaramirez",
+    "tiktok_handle": "@clarkbarbara",
+    "joined_at": "2023-11-08T08:47:33.802896",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c3a919cd-d951-4060-a6f5-7863d84767bf",
+            "brand": "Warren-Contreras",
             "tasks_completed": [
                 {
                     "task_id": "53af88f5-6f17-4dbe-a26f-c07725b24286",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.garcia-thompson.com/",
+                    "likes": 5734,
                     "comments": 23,
                     "shares": 52,
                     "reach": 7429
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1672.23
         }
     ]
 }

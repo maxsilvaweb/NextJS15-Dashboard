@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c29751bc-989d-48b3-80a2-4a6da2187498",
+    "name": "Meghan Cline",
+    "email": "william84@example.net",
+    "instagram_handle": "@itodd",
+    "tiktok_handle": "@patelmichael",
+    "joined_at": "2023-11-13T02:45:36.788046",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fbb91e13-fc70-4dab-b657-ebbea88f1e06",
+            "brand": "Baird-Porter",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "92ee4c9e-d4b4-4e2a-ade6-2a6110d44001",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.cook.biz/",
+                    "likes": 4613,
+                    "comments": 295,
                     "shares": 98,
                     "reach": 6288
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4733.6
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6ad5a34c-8bf0-42fa-a8bd-ae5aaa900fca",
+    "name": "Gregory Holmes",
+    "email": "warnerbarbara@example.net",
+    "instagram_handle": "@shawna67",
+    "tiktok_handle": "@kylehunt",
+    "joined_at": "2024-10-19T13:52:45.513311",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4f255eca-c91f-4068-9973-2e91a5f3c93e",
+            "brand": "Payne Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "b2b8e36c-d9dd-416e-baa6-25b578818664",
+                    "platform": "YouTube",
                     "post_url": "https://unknown-gymnast.biz/",
-                    "likes": "NaN",
+                    "likes": 8112,
                     "comments": 25,
                     "shares": 28,
                     "reach": 2851
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7340.41
         }
     ]
 }

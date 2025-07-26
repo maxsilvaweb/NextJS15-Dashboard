@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "375aa525-e92e-40c5-ae47-e182d706b6d5",
+    "name": "Blake Brooks",
+    "email": "vfrancis@example.org",
+    "instagram_handle": "@seanmoore",
+    "tiktok_handle": "@edominguez",
+    "joined_at": "2024-04-22T19:28:25.232379",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bc025f24-f460-42ab-9544-57504700b34a",
+            "brand": "Hunter, Gregory and Brown",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "396dec7d-4fc1-4926-81c1-e2ca84a0a3e2",
+                    "platform": "YouTube",
+                    "post_url": "http://thompson.com/",
+                    "likes": 6948,
+                    "comments": 436,
                     "shares": 10,
                     "reach": 9893
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4847.46
         }
     ]
 }

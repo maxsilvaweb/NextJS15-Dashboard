@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "6c783d63-39d5-4dc4-8cde-bd0ab0c7cd70",
+    "name": "Daniel Johnson",
     "email": "Darren.Auer@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@andrew34",
+    "tiktok_handle": "@sandra31",
+    "joined_at": "2025-04-25T03:59:53.379385",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3d1de856-c229-465d-a0a2-aee4d2e44556",
+            "brand": "Garcia-Rogers",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "6df4e8ca-014f-4d2a-91c7-1def14f90c09",
+                    "platform": "YouTube",
+                    "post_url": "https://wheeler-wright.info/",
+                    "likes": 9857,
+                    "comments": 89,
                     "shares": 1,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8026.6
         }
     ]
 }

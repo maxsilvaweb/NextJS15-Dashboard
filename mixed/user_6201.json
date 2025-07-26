@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cdb411eb-123b-456e-a5ea-4e235c00c3a3",
+    "name": "Samantha Garcia",
+    "email": "brownbrian@example.com",
+    "instagram_handle": "@william83",
+    "tiktok_handle": "@mark59",
+    "joined_at": "2025-05-15T20:19:01.514228",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "87d7073c-34cf-48f8-b11c-f9db930d7c43",
+            "brand": "Owens LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "e8ac7021-fcdf-4e00-8790-02364efa7057",
+                    "platform": "Instagram",
                     "post_url": "https://inborn-mom.biz/",
-                    "likes": "NaN",
+                    "likes": 7641,
                     "comments": 39,
                     "shares": 23,
                     "reach": 8520
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6757.89
         }
     ]
 }

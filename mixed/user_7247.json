@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dff31b75-bf32-4422-8de6-6055045b03d1",
+    "name": "Carolyn Robinson",
+    "email": "pbrewer@example.com",
+    "instagram_handle": "@ashley35",
+    "tiktok_handle": "@danielshea",
+    "joined_at": "2025-01-18T08:33:42.697447",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8fb83505-eda2-489c-9fb2-e0453ded7e99",
+            "brand": "Johnson-Jenkins",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a42e22f6-bf16-491b-87bb-9a3e14398415",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.humphrey.com/",
+                    "likes": 7320,
+                    "comments": 328,
                     "shares": 9,
                     "reach": 5109
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9754.38
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "47190006-2002-461a-be6f-553e5266d0b7",
+    "name": "April Nelson",
     "email": "Jeremie_Pouros@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@emilyoconnor",
+    "tiktok_handle": "@laurahampton",
+    "joined_at": "2024-08-07T16:15:52.877953",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7814d999-2bfe-4d40-8303-56c1367aca55",
+            "brand": "Mckenzie, Kramer and Pennington",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "f06781da-b4f7-445b-a621-3f5bfab8865d",
+                    "platform": "Instagram",
+                    "post_url": "http://cohen.info/",
+                    "likes": 3425,
+                    "comments": 471,
                     "shares": 64,
                     "reach": 9251
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7027.92
         }
     ]
 }

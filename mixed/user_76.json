@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5f3cdc4a-c27c-448e-a104-676910fd58a2",
+    "name": "Donna Jones MD",
+    "email": "lindseyfrank@example.com",
+    "instagram_handle": "@dmarquez",
+    "tiktok_handle": "@vconley",
+    "joined_at": "2024-01-10T00:26:04.664535",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2ca34186-1680-469d-899b-2dce39a9f216",
+            "brand": "Levy-Matthews",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "b96e5b42-5137-472c-9c41-739ea572d84d",
+                    "platform": "TikTok",
+                    "post_url": "http://chen.com/",
+                    "likes": 2672,
+                    "comments": 134,
                     "shares": 89,
                     "reach": 9106
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8822.43
         }
     ]
 }

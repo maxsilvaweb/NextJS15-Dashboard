@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7a7ed0ce-b56c-4d5a-a6d0-2ffacf92f79e",
+    "name": "Alejandra Gregory",
+    "email": "oreynolds@example.com",
+    "instagram_handle": "@housexavier",
+    "tiktok_handle": "@gabriellebyrd",
+    "joined_at": "2025-02-24T00:08:28.305856",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "aad75e21-e2c1-470b-8c0a-9f3648f8d4ae",
+            "brand": "Miller-Allen",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "77225784-a9e3-4fb5-a023-d5c0e91946e6",
                     "platform": "Instagram",
                     "post_url": "https://stylish-encouragement.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1985,
+                    "comments": 475,
                     "shares": 71,
                     "reach": 3913
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4641.83
         }
     ]
 }

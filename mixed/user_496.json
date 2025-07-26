@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "62a64676-99f0-4ea2-b36f-36a2ad500825",
+    "name": "Nicole Martinez",
+    "email": "rlee@example.net",
+    "instagram_handle": "@ajohnson",
+    "tiktok_handle": "@jamie67",
+    "joined_at": "2024-12-31T02:59:37.266988",
     "advocacy_programs": [
         {
             "program_id": "6341a776-0536-406a-82ed-64b760722f5a",
-            "brand": 12345,
+            "brand": "Cook, Banks and Williamson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "1bace6f0-bb45-49e0-8b98-f33496023468",
+                    "platform": "Twitter",
+                    "post_url": "https://smith-bowman.net/",
+                    "likes": 7481,
+                    "comments": 130,
                     "shares": 18,
                     "reach": 1968
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8809.64
         }
     ]
 }

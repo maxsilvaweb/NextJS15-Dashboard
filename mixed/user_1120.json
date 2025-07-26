@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a0ad7a41-4291-4b04-9cff-bcf6aa097e85",
+    "name": "Hannah French",
+    "email": "sean42@example.net",
+    "instagram_handle": "@mbarnett",
+    "tiktok_handle": "@estewart",
+    "joined_at": "2024-10-22T22:24:19.281207",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "61a10c15-300d-41e8-8288-84a6837d8c2b",
+            "brand": "Scott Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1c43e986-2e3a-4daf-afce-0aadfadcd4df",
                     "platform": "TikTok",
                     "post_url": "https://magnificent-negotiation.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7200,
+                    "comments": 403,
                     "shares": 16,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8047.81
         }
     ]
 }

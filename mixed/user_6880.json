@@ -1,19 +1,19 @@
 {
-    "user_id": null,
+    "user_id": "56e3ee67-a791-4670-8819-0c47eae64901",
     "name": "Carlos Gleichner",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "email": "johnmaynard@example.org",
+    "instagram_handle": "@ashley63",
     "tiktok_handle": "@Eleonore73",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-07-23T03:22:42.500774",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "0d2e1cc5-6f18-43ba-9d4a-c3546a8276cd",
             "brand": "Okuneva LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "5378131b-f38d-4b8e-ac40-70b6caa84433",
+                    "platform": "YouTube",
+                    "post_url": "https://melton.com/",
                     "likes": 174,
                     "comments": 25,
                     "shares": 16,

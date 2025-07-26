@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b7a2b5ec-9e63-4b67-b1f4-64a3efd477f6",
+    "name": "Douglas Martinez",
+    "email": "edwin69@example.net",
+    "instagram_handle": "@ethomas",
+    "tiktok_handle": "@troy54",
+    "joined_at": "2025-07-07T03:27:26.300127",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "13e119eb-434a-43e4-af4f-18231fcc9c64",
+            "brand": "Brown-Lopez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "f03a6412-8fa2-4d50-b183-908dd8056a71",
+                    "platform": "Twitter",
                     "post_url": "https://roasted-morbidity.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6327,
+                    "comments": 25,
                     "shares": 78,
                     "reach": 5131
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a8a621bd-4fb5-44af-a6aa-c0504a5266d1",
+    "name": "Tyler Evans",
+    "email": "gloriaallen@example.org",
+    "instagram_handle": "@mendozabethany",
+    "tiktok_handle": "@dayryan",
+    "joined_at": "2023-11-15T04:43:41.748990",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4f72cfd9-e488-4170-a507-50b5ad834e90",
+            "brand": "Ortega PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "12dd487c-e0b1-4371-a62d-797d29a9ec80",
+                    "platform": "TikTok",
+                    "post_url": "https://perkins.org/",
+                    "likes": 5620,
                     "comments": 6,
                     "shares": 100,
                     "reach": 7375
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6578.85
         }
     ]
 }

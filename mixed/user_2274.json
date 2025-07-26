@@ -1,21 +1,21 @@
 {
     "user_id": "81e7ceb0-814e-4985-9fea-4d0be29d50c1",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Laura Jefferson",
+    "email": "rgarcia@example.net",
+    "instagram_handle": "@kellytheresa",
+    "tiktok_handle": "@rguerrero",
+    "joined_at": "2023-12-25T22:05:05.833697",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4fbc7e68-65ce-4d69-9dfc-a8640597fde0",
+            "brand": "Strong Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "03c750c1-1013-4f60-aa05-b5d195fe7338",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.gomez-monroe.biz/",
+                    "likes": 9932,
+                    "comments": 366,
                     "shares": 65,
                     "reach": 3263
                 }

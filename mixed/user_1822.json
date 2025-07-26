@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "331bb3d6-937b-4ecf-a175-942f0c18d5dd",
+    "name": "Mr. George Bennett DVM",
     "email": "Murl21@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@ericksondavid",
+    "tiktok_handle": "@steven34",
+    "joined_at": "2024-01-21T16:15:05.107657",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "31adb439-b554-41d3-b200-25d248c75d60",
+            "brand": "Lee, Guzman and Fletcher",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "92f38c97-3048-4760-85c1-e99bf43f0593",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.glover.info/",
+                    "likes": 9829,
+                    "comments": 396,
                     "shares": 32,
                     "reach": 8331
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3779.61
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e40bd0d2-b3a2-4a19-be18-efe098ce4a4c",
+    "name": "Terry Hall",
+    "email": "riveramichael@example.net",
+    "instagram_handle": "@christinehernandez",
+    "tiktok_handle": "@nperez",
+    "joined_at": "2024-12-02T00:20:25.125379",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "43fb0e1e-8c8a-418a-826a-ae60348697f2",
+            "brand": "Palmer, Hill and Wilson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ab3b0cdd-440f-437d-bedd-ca22bd96e123",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.hobbs.com/",
+                    "likes": 6505,
+                    "comments": 45,
                     "shares": 93,
                     "reach": 1695
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5467.48
         }
     ]
 }

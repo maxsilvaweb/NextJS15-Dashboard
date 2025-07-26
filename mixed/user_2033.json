@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "e25b52e6-3277-4b17-85b3-6d23d171a844",
+    "name": "Scott Smith",
+    "email": "jrowland@example.com",
+    "instagram_handle": "@okennedy",
+    "tiktok_handle": "@xvalenzuela",
     "joined_at": "2024-09-13T12:55:40.544Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "261a4697-7b85-44f8-bb27-0768864a4c0d",
+            "brand": "Jones, Williams and Ruiz",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "24012d87-2ed9-4108-bc72-e7a693a42674",
+                    "platform": "TikTok",
+                    "post_url": "https://www.gonzalez.com/",
+                    "likes": 3099,
                     "comments": 41,
                     "shares": 98,
                     "reach": 7867
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8045.03
         }
     ]
 }

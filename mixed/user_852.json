@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e96a6845-50c3-43fb-ac76-584ff186735f",
+    "name": "Christopher Buchanan",
+    "email": "contrerasrebecca@example.org",
+    "instagram_handle": "@cobblawrence",
+    "tiktok_handle": "@jessicamcdaniel",
+    "joined_at": "2024-01-08T17:54:46.572809",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4beb4c20-cf81-402b-995f-22ed04ec2cd7",
+            "brand": "Medina-Taylor",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3d0ffc0a-2950-4c80-ae25-92ca3e12f34f",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://hunter.com/",
+                    "likes": 6037,
+                    "comments": 83,
                     "shares": 36,
                     "reach": 7246
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2159.6
         }
     ]
 }

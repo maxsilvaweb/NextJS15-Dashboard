@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dbfce34e-e7f4-48be-81c7-a8eacf80fcde",
+    "name": "Rebecca Malone",
+    "email": "nicholas62@example.com",
+    "instagram_handle": "@sophiafrazier",
+    "tiktok_handle": "@margaretperez",
+    "joined_at": "2023-12-28T17:10:05.842343",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "92501c28-b970-4233-a107-a64b8f0a3104",
+            "brand": "Johnson-Lucero",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f606a47e-30e9-401e-b5de-265d875f841e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://ponce.net/",
+                    "likes": 978,
+                    "comments": 193,
                     "shares": 1,
                     "reach": 7393
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7590.71
         }
     ]
 }

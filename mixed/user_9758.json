@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7eca98d3-4996-49ee-8b40-9248daf989e4",
+    "name": "Richard Morgan",
+    "email": "kmoore@example.com",
+    "instagram_handle": "@joseph15",
+    "tiktok_handle": "@pburns",
+    "joined_at": "2025-01-09T13:34:19.369589",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3d74e9f5-bffb-4ac4-a75f-658210aaf90c",
+            "brand": "Gallagher, Novak and Davis",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "840de1c0-29ca-4b31-9625-0964583fe016",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://whitehead.com/",
                     "likes": 429,
-                    "comments": null,
+                    "comments": 294,
                     "shares": 36,
                     "reach": 988
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9344.46
         }
     ]
 }

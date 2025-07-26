@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7c29acdc-d4d4-4a33-b92f-a75876702dc6",
+    "name": "Jordan Mcneil",
+    "email": "nbryant@example.com",
+    "instagram_handle": "@harry22",
+    "tiktok_handle": "@rodneyluna",
+    "joined_at": "2024-12-19T16:21:09.837939",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4a4eb9f2-0596-4b75-88db-2a90f488f381",
+            "brand": "Daniel Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "27f1ce4f-bca8-4752-a153-fc91f518b341",
+                    "platform": "Instagram",
+                    "post_url": "http://schneider.com/",
+                    "likes": 8718,
+                    "comments": 343,
                     "shares": 0,
                     "reach": 6505
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1001.96
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c84aa913-bb21-43dc-bc70-c1bcda632488",
+    "name": "Wayne Baker",
+    "email": "mitchellrichardson@example.com",
+    "instagram_handle": "@castrodenise",
+    "tiktok_handle": "@patriciamoyer",
+    "joined_at": "2024-04-11T07:49:25.344117",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5c67196c-29b2-4b0a-bfeb-0d259b9b4fdf",
+            "brand": "Salinas Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "9559ce7f-1b10-4ab2-b0bb-bb5882fe1a66",
+                    "platform": "YouTube",
                     "post_url": "https://creamy-lid.info",
-                    "likes": "NaN",
+                    "likes": 9109,
                     "comments": 40,
                     "shares": 41,
                     "reach": 1970
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8184.75
         }
     ]
 }

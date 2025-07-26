@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e0d149e9-af58-4b91-b092-9919ecb00e57",
+    "name": "Brian Willis",
+    "email": "imills@example.org",
+    "instagram_handle": "@francis94",
+    "tiktok_handle": "@christensentiffany",
+    "joined_at": "2024-06-02T06:44:32.400278",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f72b0321-75fc-4c9f-b59f-658db9ddbb9a",
+            "brand": "Lewis PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c71601ec-d3aa-4c74-ae0d-b7a9b97e83ea",
                     "platform": "Instagram",
                     "post_url": "https://hidden-packaging.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9254,
+                    "comments": 142,
                     "shares": 33,
                     "reach": 6008
                 }

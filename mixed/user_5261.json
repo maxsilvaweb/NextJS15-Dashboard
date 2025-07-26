@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "064c041d-5d84-433f-969f-e4bf5e7db495",
+    "name": "Daniel Murphy",
     "email": "Tyree.Douglas@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@wlester",
+    "tiktok_handle": "@darius88",
+    "joined_at": "2024-07-27T23:26:51.973660",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "572df10e-5515-435f-95a4-54784c3e7db4",
+            "brand": "Walker Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "dcd7dd9e-969b-433d-8c15-47d649c568a4",
+                    "platform": "Instagram",
+                    "post_url": "https://www.simpson-townsend.biz/",
+                    "likes": 899,
+                    "comments": 331,
                     "shares": 1,
                     "reach": 2134
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2332.86
         }
     ]
 }

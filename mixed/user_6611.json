@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "56a716f9-f8c1-472b-9793-d763437902bb",
+    "name": "Nicole Perez",
+    "email": "pamelahall@example.net",
+    "instagram_handle": "@ypayne",
+    "tiktok_handle": "@eric12",
+    "joined_at": "2024-08-30T08:16:49.593561",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "988f020e-910b-4df5-b6da-af8496f4d8bd",
+            "brand": "Perez, Moran and Davis",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "aada1c41-2e54-430f-924d-5cc768bb941a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://nelson.com/",
+                    "likes": 4600,
+                    "comments": 476,
                     "shares": 41,
                     "reach": 592
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7549.1
         }
     ]
 }

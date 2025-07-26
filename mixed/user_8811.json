@@ -1,26 +1,26 @@
 {
     "user_id": "7bba19fc-4e0f-41f9-b435-1f9c0c3b08e0",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Andrew Gardner",
+    "email": "harmstrong@example.net",
+    "instagram_handle": "@zking",
+    "tiktok_handle": "@mmclaughlin",
+    "joined_at": "2024-01-04T00:30:30.548619",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5a271ada-ba5d-4d6f-8118-f2556fa3cceb",
+            "brand": "Villanueva Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b12e44ab-3341-4920-bbbd-18741a28304f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://peterson.com/",
+                    "likes": 4725,
                     "comments": 17,
                     "shares": 53,
                     "reach": 5690
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1062.4
         }
     ]
 }

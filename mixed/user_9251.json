@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "bc52c041-d554-46f0-8872-2bac0741aec2",
+    "name": "David Stewart",
+    "email": "hayeschelsea@example.org",
+    "instagram_handle": "@qdavis",
+    "tiktok_handle": "@john13",
     "joined_at": "2024-07-31T06:49:02.199Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "de19239f-0095-431b-878d-6d9116e64f20",
+            "brand": "Pittman Group",
             "tasks_completed": [
                 {
                     "task_id": "fdc155af-2a58-4f21-8d6a-528275f9f0e2",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.mckinney-dominguez.com/",
                     "likes": 196,
                     "comments": 49,
                     "shares": 21,

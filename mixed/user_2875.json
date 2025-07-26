@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7077e6b4-3b22-453e-872a-66dd511c42ac",
+    "name": "Elizabeth Vargas",
+    "email": "suttonmiguel@example.com",
+    "instagram_handle": "@johnbryant",
+    "tiktok_handle": "@rodney13",
+    "joined_at": "2024-02-01T20:51:31.484671",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7700598d-b056-4bbf-bac4-f166559b2a94",
+            "brand": "Medina, Harris and Lucero",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a7c0d538-4f5b-4655-b1cc-a4ec83ca9d87",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://peck.com/",
+                    "likes": 4600,
+                    "comments": 190,
                     "shares": 30,
                     "reach": 4424
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3795.77
         }
     ]
+}

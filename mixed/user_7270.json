@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0a747c37-5148-44e3-9fc9-256225ab8e06",
+    "name": "Gregory Olson",
+    "email": "carolinesanchez@example.net",
+    "instagram_handle": "@karenpreston",
+    "tiktok_handle": "@perkinslisa",
+    "joined_at": "2024-10-21T21:53:11.186172",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a18f8491-37f7-4add-a71a-ec18e8a22829",
+            "brand": "Mendez Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "4d15a426-eac9-4afd-8d31-3091e657ac1d",
+                    "platform": "Instagram",
                     "post_url": "https://petty-massage.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 479,
+                    "comments": 487,
                     "shares": 86,
                     "reach": 3622
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1426.93
         }
     ]
 }

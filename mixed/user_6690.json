@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0dfe0f7c-6b2b-4eac-a048-dcb3ac02237f",
+    "name": "Kimberly Newman",
+    "email": "kharris@example.com",
+    "instagram_handle": "@yoneill",
+    "tiktok_handle": "@lisa82",
+    "joined_at": "2024-05-26T22:09:25.810145",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5a2cb6c6-c0bb-4eb5-b736-c84b050a91e5",
+            "brand": "Kelley PLC",
             "tasks_completed": [
                 {
                     "task_id": "880f3bf0-0da8-4141-8328-4f52dce01e14",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://armstrong-hunt.org/",
                     "likes": 254,
                     "comments": 34,
                     "shares": 18,
                     "reach": 8150
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5908.2
         }
     ]
 }

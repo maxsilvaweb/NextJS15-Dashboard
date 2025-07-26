@@ -1,26 +1,26 @@
 {
     "user_id": "f18bed1c-bc5f-4271-823a-6c05ba8b6302",
     "name": "Moses Gleichner Jr.",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "jasmineharris@example.net",
+    "instagram_handle": "@michael08",
+    "tiktok_handle": "@gutierreznicole",
+    "joined_at": "2023-12-07T05:33:06.359881",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5bbc733f-0edf-47f5-b157-3743efb4cd24",
+            "brand": "Glover-Roth",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "ba80d9ac-05bc-4343-b490-80939af0a61d",
+                    "platform": "Twitter",
+                    "post_url": "https://moss.com/",
+                    "likes": 4406,
+                    "comments": 430,
                     "shares": 99,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9672.97
         }
     ]
 }

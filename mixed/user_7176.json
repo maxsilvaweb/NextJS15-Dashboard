@@ -1,26 +1,26 @@
 {
     "user_id": "368f6a52-3aba-494b-8652-1ad5f1ffe527",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Sylvia Walsh",
+    "email": "danielwilson@example.net",
+    "instagram_handle": "@christinegardner",
+    "tiktok_handle": "@zfranco",
+    "joined_at": "2024-11-25T18:47:30.741474",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "8bff6db7-62e8-46e3-ba3c-8de8bd465356",
             "brand": "Weimann, Mertz and Little",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bdda778d-5ec5-478d-bf1d-68f9fe670f61",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.hernandez.com/",
                     "likes": 10,
-                    "comments": null,
+                    "comments": 227,
                     "shares": 40,
                     "reach": 4452
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3206.59
         }
     ]
 }

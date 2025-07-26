@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "74dc7755-c3a8-4db1-be4a-508f62357e7d",
+    "name": "Alan Oconnor",
+    "email": "tylersmith@example.com",
+    "instagram_handle": "@zgray",
+    "tiktok_handle": "@matthewcrawford",
+    "joined_at": "2025-06-26T22:27:02.060251",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "770b49ae-896c-4e3a-a17b-de15fab53898",
             "brand": "Ebert - Koss",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d8ce2349-982b-4577-a2b6-ff36bbb1481e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.cook.com/",
+                    "likes": 674,
+                    "comments": 98,
                     "shares": 38,
                     "reach": 2701
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5212.36
         }
     ]
 }

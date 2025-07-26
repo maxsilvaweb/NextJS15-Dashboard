@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2210011f-2438-4e7a-a28d-eba734df85a7",
+    "name": "Daniel Cunningham",
+    "email": "sarahjohnson@example.com",
+    "instagram_handle": "@ysanchez",
+    "tiktok_handle": "@johnwhite",
+    "joined_at": "2024-04-08T23:36:52.339639",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "25cec1c8-8f3f-4198-a550-c03a7af7cc2b",
+            "brand": "Trujillo, Reyes and Cain",
             "tasks_completed": [
                 {
                     "task_id": "bf911000-c502-476d-9bdf-62a36168273e",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "YouTube",
+                    "post_url": "http://pearson.com/",
+                    "likes": 3243,
+                    "comments": 166,
                     "shares": 71,
                     "reach": 8156
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7640.87
         }
     ]
 }

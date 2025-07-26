@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0155af6a-f7ed-4ad3-bc62-10223a12d90a",
+    "name": "Jonathan Young",
+    "email": "lisaweber@example.com",
+    "instagram_handle": "@yhenry",
+    "tiktok_handle": "@mendozamichele",
+    "joined_at": "2024-02-21T10:31:06.641173",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "73211bbb-583d-411d-9277-ad934356d6f6",
+            "brand": "Meyers PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "91538682-a724-4585-a340-04ca846b7a19",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://trujillo.info/",
                     "likes": 284,
-                    "comments": null,
+                    "comments": 109,
                     "shares": 2,
                     "reach": 9982
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 884.41
         }
     ]
 }

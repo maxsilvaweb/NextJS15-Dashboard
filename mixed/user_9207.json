@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8c79a79a-e7e1-4449-b0b6-90450117e384",
+    "name": "Wendy Carney",
+    "email": "davisdesiree@example.org",
+    "instagram_handle": "@hannah48",
+    "tiktok_handle": "@nicholasortiz",
+    "joined_at": "2024-10-29T16:29:21.491770",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a3918ba1-4bfe-43cb-af56-1aeffa3d2f63",
+            "brand": "Gomez and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a911da36-8492-434b-a15c-009974759ee5",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.callahan.com/",
+                    "likes": 4667,
                     "comments": 20,
                     "shares": 95,
                     "reach": 1026
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6389.69
         }
     ]
+}

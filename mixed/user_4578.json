@@ -1,26 +1,26 @@
 {
     "user_id": "eccb1a42-5c14-4eb1-8d5d-95d1b5ecb3a6",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Jim Smith",
+    "email": "ubrooks@example.com",
+    "instagram_handle": "@destinyhayden",
+    "tiktok_handle": "@mjackson",
+    "joined_at": "2024-08-15T01:19:20.610162",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c2e5858a-8e8b-44b9-b974-527b670c9049",
+            "brand": "Brown PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "56624697-6e5e-4e24-956f-d678bad87dc6",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://martin-garcia.com/",
                     "likes": 150,
-                    "comments": null,
+                    "comments": 429,
                     "shares": 61,
                     "reach": 2492
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 453.01
         }
     ]
 }

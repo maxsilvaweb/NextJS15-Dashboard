@@ -1,21 +1,21 @@
 {
     "user_id": "bf0f541f-96a4-4c27-a7d4-89d7edf3f55f",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Christina Gill",
+    "email": "znichols@example.org",
+    "instagram_handle": "@michaelclements",
+    "tiktok_handle": "@jadesmith",
+    "joined_at": "2024-01-05T00:02:41.886114",
     "advocacy_programs": [
         {
             "program_id": "7bd8c8c6-e95f-45d2-b2ee-f24d6ecd3e7f",
-            "brand": 12345,
+            "brand": "Jones LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7573aaac-7f06-45db-b649-c9bb7ed89ebe",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.howell.com/",
+                    "likes": 8669,
+                    "comments": 52,
                     "shares": 98,
                     "reach": 5510
                 }

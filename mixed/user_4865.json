@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "85f3c566-b103-49cd-849d-61423a0ac9e1",
+    "name": "Wendy Spears",
+    "email": "zellison@example.org",
+    "instagram_handle": "@adkinsmichelle",
+    "tiktok_handle": "@drodriguez",
+    "joined_at": "2023-09-13T12:40:09.043130",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f6ac3aab-8818-40b9-95cf-0831e29b03cc",
+            "brand": "Meadows Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "80f4d289-3e1a-460d-a298-830a82b2f381",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.koch-graham.com/",
+                    "likes": 6534,
                     "comments": 39,
                     "shares": 39,
                     "reach": 5775
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5217.46
         }
     ]
 }

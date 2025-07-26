@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "51648df8-fa75-4707-9fca-9104b60258fe",
+    "name": "Ashley Woods",
+    "email": "jeffreyharris@example.net",
+    "instagram_handle": "@justin53",
+    "tiktok_handle": "@anna11",
+    "joined_at": "2024-02-20T01:36:06.638779",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "55f16f3b-6ed6-41a1-9488-1442e0d6c93e",
+            "brand": "Espinoza and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "7f21cce3-f182-4102-ad3f-9c855576a92a",
+                    "platform": "Twitter",
+                    "post_url": "https://www.mcdowell.org/",
+                    "likes": 9665,
                     "comments": 7,
                     "shares": 47,
                     "reach": 3454
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4235.5
         }
     ]
 }

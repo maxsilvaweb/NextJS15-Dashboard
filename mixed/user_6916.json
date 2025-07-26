@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "888a4b8f-dc23-4eeb-8435-9dbd96a58bb7",
+    "name": "Linda Weber",
+    "email": "carteralexander@example.net",
+    "instagram_handle": "@sherrifuentes",
     "tiktok_handle": "@Vergie.West50",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-02-13T16:48:31.595739",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d9123715-3304-4d6c-b179-1ca59ba4b20e",
+            "brand": "Bailey-Parks",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "6220732f-c08c-4a3b-b20d-fd374f982384",
+                    "platform": "Instagram",
+                    "post_url": "http://www.thompson.net/",
+                    "likes": 2081,
+                    "comments": 13,
                     "shares": 84,
                     "reach": 930
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8746.48
         }
     ]
 }

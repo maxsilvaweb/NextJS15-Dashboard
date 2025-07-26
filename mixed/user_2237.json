@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9b78a342-b474-4cc8-9a19-3102b59dd9fd",
+    "name": "Dr. Miguel Bowers",
+    "email": "sara56@example.com",
+    "instagram_handle": "@alexa05",
+    "tiktok_handle": "@lydiasmith",
+    "joined_at": "2025-01-20T16:48:04.453315",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cf17d83f-43e8-41f6-9865-0b2fd0fb6c42",
+            "brand": "Smith, Copeland and Torres",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1cadf01c-65e2-4ba1-92d7-b92e58bf3ade",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.hall-douglas.com/",
                     "likes": 355,
-                    "comments": null,
+                    "comments": 446,
                     "shares": 72,
                     "reach": 1194
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5853.55
         }
     ]
 }

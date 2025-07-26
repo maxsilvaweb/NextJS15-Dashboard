@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "2611b303-3212-47a8-81f8-faa0e5f91576",
     "name": "Arlene Powlowski I",
-    "email": "invalid-email",
+    "email": "john61@example.net",
     "instagram_handle": "@Aaron31",
     "tiktok_handle": "@Sabrina.Morissette32",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-01-11T00:32:14.011409",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1b938f04-5acd-4ad2-97bb-ebc326ba3fe0",
+            "brand": "Little, Harrison and Beard",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1e1b2fc0-39bb-4597-a7d2-8ff3c765648e",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.hill-greene.com/",
+                    "likes": 9121,
+                    "comments": 321,
                     "shares": 75,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8625.56
         }
     ]
 }

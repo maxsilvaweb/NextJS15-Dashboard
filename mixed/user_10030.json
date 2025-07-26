@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae26",
-  "name": "Max Silva27",
-  "email": "maxsilvvauk@27xwwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae26",
+    "name": "Max Silva27",
+    "email": "maxsilvvauk@27xwwilwweeewd.com",
+    "instagram_handle": "@kbishop",
+    "tiktok_handle": "@youngjennifer",
+    "joined_at": "2024-08-11T09:00:40.304783",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "4e41fcbf-d5ed-46a8-98bc-aa8c922dabd9",
+            "brand": "Snow Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "dc70690f-1a6e-4ad0-9400-a281a158cb4f",
+                    "platform": "TikTok",
+                    "post_url": "https://www.webb.info/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 4843.24
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

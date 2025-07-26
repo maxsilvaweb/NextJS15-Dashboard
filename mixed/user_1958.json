@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "bc38a24a-6186-4d53-8c25-9a0272864721",
+    "name": "Christine Guerra",
     "email": "Florian_Hilll@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@jennifer50",
+    "tiktok_handle": "@jamestaylor",
     "joined_at": "2024-05-11T15:51:39.551Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f01ca814-1b01-4de0-a131-d1eac2351b67",
+            "brand": "Wallace Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8c608bc6-4726-4c8b-9e9b-16a0430fee0e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://murphy-nelson.com/",
+                    "likes": 9721,
                     "comments": 13,
                     "shares": 0,
                     "reach": 7745
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 873.37
         }
     ]
 }

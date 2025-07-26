@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4f63f422-f676-4879-a1a7-5142620f1211",
+    "name": "Lucas Thomas",
+    "email": "laura88@example.org",
+    "instagram_handle": "@vanderson",
+    "tiktok_handle": "@lisarichardson",
+    "joined_at": "2025-01-02T05:48:38.090611",
     "advocacy_programs": [
         {
             "program_id": "1267b626-9493-4b31-9663-3935dd16d3a1",
-            "brand": 12345,
+            "brand": "Taylor-Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "faf1b184-0df3-4f1b-8d35-bf7cfb550b1d",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://guerrero.com/",
+                    "likes": 3543,
+                    "comments": 1,
                     "shares": 44,
                     "reach": 3957
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 340.8709144570008
         }
     ]
+}

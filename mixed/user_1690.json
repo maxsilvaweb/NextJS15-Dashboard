@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "de881ae3-dd55-4d74-b473-971d8eb9272c",
+    "name": "Molly Smith",
+    "email": "oreilly@example.net",
     "instagram_handle": "@Lilla78",
     "tiktok_handle": "@Rhoda.OKon2",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-03-20T07:41:56.374739",
     "advocacy_programs": [
         {
             "program_id": "19bf2b4b-0009-44c6-a121-6bb7f9721ac1",
-            "brand": 12345,
+            "brand": "Hale-Acosta",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c9d9683e-cee9-425b-9aab-726d0cc7dec3",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://ali.com/",
+                    "likes": 4907,
+                    "comments": 106,
                     "shares": 79,
                     "reach": 9899
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 630.08
         }
     ]
 }

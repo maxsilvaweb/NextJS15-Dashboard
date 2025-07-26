@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "125b9e12-926d-47e9-80dc-43a33e43d4b8",
+    "name": "Cindy Martinez",
+    "email": "larry06@example.org",
+    "instagram_handle": "@leesara",
+    "tiktok_handle": "@william63",
+    "joined_at": "2023-09-23T20:47:52.287302",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4f55dc1d-7acd-4c06-aa8f-0b157429d0d2",
+            "brand": "Reilly LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4261c8f4-a524-47ff-a868-412ddd8ad8dc",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.carter-bauer.net/",
+                    "likes": 9491,
                     "comments": 17,
                     "shares": 67,
                     "reach": 2866
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1714.1
         }
     ]
 }

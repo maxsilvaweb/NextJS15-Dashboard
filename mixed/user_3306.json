@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "36696601-4deb-461c-b934-6ddc5ca4ed64",
+    "name": "Desiree Hill",
+    "email": "zfoley@example.net",
     "instagram_handle": "@Carli_Christiansen",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@ryan94",
+    "joined_at": "2024-03-09T21:54:38.163682",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e51c4302-a421-4cb9-84c4-968a014561de",
+            "brand": "Johnson, Strickland and Gonzalez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7819730c-cf62-46e2-94b3-f69b14d491c1",
                     "platform": "TikTok",
                     "post_url": "https://authorized-peony.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3848,
+                    "comments": 298,
                     "shares": 84,
                     "reach": 1260
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8468.58
         }
     ]
 }

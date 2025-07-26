@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6a5a8025-0011-47e6-ab6d-df1183768787",
+    "name": "Jasmine West",
+    "email": "vbrown@example.com",
+    "instagram_handle": "@daltonanna",
+    "tiktok_handle": "@bbooth",
+    "joined_at": "2025-02-10T16:50:00.382215",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6b2dc5d2-f7d9-4146-86cc-18ac3dccd7a2",
+            "brand": "Randolph LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "626fa982-b376-41bc-86b9-91decc031e10",
                     "platform": "TikTok",
                     "post_url": "https://distorted-seal.net/",
                     "likes": 207,
-                    "comments": null,
+                    "comments": 171,
                     "shares": 97,
                     "reach": 8119
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7fee94ca-e13a-4266-a222-6c657f4586a9",
+    "name": "David Boyd",
+    "email": "christopher00@example.com",
+    "instagram_handle": "@dominicjohnson",
+    "tiktok_handle": "@lreed",
+    "joined_at": "2025-06-05T17:42:02.728964",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9f982877-38ef-4c2f-98b3-e2aa37313e96",
+            "brand": "Becker Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "4a92bfbf-a765-4e00-a3a2-e62c62aa461f",
+                    "platform": "TikTok",
+                    "post_url": "https://stephenson.com/",
+                    "likes": 7263,
+                    "comments": 21,
                     "shares": 82,
                     "reach": 1823
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8195.57
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "3dae9c65-eff3-4e03-84b6-d6de0c78b36b",
+    "name": "Joseph Evans",
+    "email": "yortiz@example.net",
+    "instagram_handle": "@norma82",
+    "tiktok_handle": "@sarah61",
     "joined_at": "2024-09-12T03:12:02.727Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "325bd873-2ef2-4a96-8c8b-3da8bf3a72fe",
+            "brand": "Cummings-Jones",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a3e8989c-4052-4bd1-a79b-f4bccfad7033",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.terrell-blanchard.biz/",
+                    "likes": 5981,
+                    "comments": 169,
                     "shares": 93,
                     "reach": 5395
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7241.24
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b46292e8-b183-4c5c-8722-fc47314a775a",
+    "name": "Jillian Reid",
+    "email": "baldwinbrenda@example.com",
+    "instagram_handle": "@stevegraham",
+    "tiktok_handle": "@vmiller",
+    "joined_at": "2025-03-10T13:18:23.145266",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "085d7539-2303-4353-a74e-8074f9f3884a",
             "brand": "Larson, Wunsch and Schamberger",
             "tasks_completed": [
                 {
                     "task_id": "09170772-d6d4-4056-9073-e0960093bc6f",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://walsh.com/",
+                    "likes": 2955,
+                    "comments": 21,
                     "shares": 13,
                     "reach": 3639
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6372.33
         }
     ]
 }

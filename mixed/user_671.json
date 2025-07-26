@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "23ffc484-e51b-4ad1-8567-cf6d453a197a",
+    "name": "Brooke Roberts",
+    "email": "krystal06@example.com",
+    "instagram_handle": "@juliescott",
+    "tiktok_handle": "@craigcatherine",
+    "joined_at": "2024-02-03T18:05:37.489334",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e52fbb26-6d1c-4f6a-b2b2-4e9740c3a4a3",
+            "brand": "Hall, Davis and Watts",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "381e8ccf-a811-42e5-8e38-7e027a949103",
                     "platform": "Instagram",
                     "post_url": "https://mad-hunger.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3563,
+                    "comments": 11,
                     "shares": 9,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8567.06
         }
     ]
 }

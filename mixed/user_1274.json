@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "6172eb60-a2c7-49dc-933f-055e5294bf7d",
+    "name": "Andrea Cruz",
     "email": "Ramiro78@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@whitekimberly",
+    "tiktok_handle": "@jgardner",
+    "joined_at": "2024-07-16T19:20:59.236809",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "89dd74fd-48a0-425d-857a-be50235a90fb",
+            "brand": "Griffith-Sanford",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2a7d5036-cefb-4bee-98c7-f5362b0b234f",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://harris.com/",
+                    "likes": 1968,
+                    "comments": 103,
                     "shares": 67,
                     "reach": 4165
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9818.89
         }
     ]
 }

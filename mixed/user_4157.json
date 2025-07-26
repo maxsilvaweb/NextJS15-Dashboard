@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7b299c77-8b27-4885-8451-4c7084b3abc5",
+    "name": "Diana Henderson",
+    "email": "kelsey66@example.com",
+    "instagram_handle": "@melody38",
+    "tiktok_handle": "@greerchristopher",
+    "joined_at": "2024-07-07T22:20:44.747063",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e67162b8-d2e0-4ad3-becf-07197dc07c0b",
+            "brand": "Reeves, Richardson and Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9d765430-0654-4b2f-a9e5-20cf857db8ba",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://ross.com/",
                     "likes": 70,
-                    "comments": null,
+                    "comments": 69,
                     "shares": 82,
                     "reach": 1705
                 }

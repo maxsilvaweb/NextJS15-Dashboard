@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6b16eefa-5633-42ea-a3be-776eedf0ccca",
+    "name": "Brandon Leon",
+    "email": "wrightandrew@example.com",
+    "instagram_handle": "@jessica36",
+    "tiktok_handle": "@ashley71",
+    "joined_at": "2025-06-16T16:21:56.849766",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ed4e74b3-cf7e-490a-809e-198286576076",
+            "brand": "Brown, Wolfe and Kirby",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ec973315-0bec-4d8c-9f69-0d6328109e44",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.rogers.com/",
+                    "likes": 8620,
                     "comments": 21,
                     "shares": 90,
                     "reach": 6351
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3639.97
         }
     ]
+}

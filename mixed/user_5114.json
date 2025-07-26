@@ -1,26 +1,26 @@
 {
     "user_id": "edbe014b-6c70-4267-a1db-9a17c600881c",
     "name": "Tony Kassulke",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "ynorman@example.net",
+    "instagram_handle": "@kelsey99",
+    "tiktok_handle": "@david64",
+    "joined_at": "2024-08-24T00:57:59.853628",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "11c480db-a44a-4dc1-8e3f-e8751ba0f8c8",
+            "brand": "Howard, Howard and Carter",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "28008462-5c96-45e3-ac45-977debeb0259",
+                    "platform": "YouTube",
                     "post_url": "https://compassionate-moment.info",
-                    "likes": "NaN",
+                    "likes": 2797,
                     "comments": 35,
                     "shares": 42,
                     "reach": 4749
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3861.63
         }
     ]
 }

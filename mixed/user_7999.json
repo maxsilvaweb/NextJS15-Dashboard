@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e1b83585-21f5-4224-9f2d-65c328c372ba",
+    "name": "Hector Green",
+    "email": "allenlinda@example.org",
+    "instagram_handle": "@jamesstephens",
+    "tiktok_handle": "@wangbrian",
+    "joined_at": "2025-04-17T19:04:50.781160",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4407fcd1-2231-4f13-8421-36da450e4618",
+            "brand": "Ross Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b6e2ce04-e8ff-49be-bcda-869eff2ccba0",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.clements.com/",
+                    "likes": 4793,
                     "comments": 3,
                     "shares": 84,
                     "reach": 7365
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1079.9
         }
     ]
 }

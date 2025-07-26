@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ff54501b-2118-44d6-9d6c-5366dd755dc3",
+    "name": "Keith Bailey",
+    "email": "kevinsmith@example.org",
+    "instagram_handle": "@brianholmes",
+    "tiktok_handle": "@urodriguez",
+    "joined_at": "2024-06-15T18:32:54.784916",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d9d01e1c-e06d-4010-817d-ed28d4f5d7fc",
+            "brand": "Harris Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "db465070-a47a-45d4-b84a-16cb3960ab45",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.smith.info/",
+                    "likes": 6327,
+                    "comments": 278,
                     "shares": 61,
                     "reach": 2019
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 372.15
         }
     ]
+}

@@ -1,26 +1,26 @@
 {
     "user_id": "56f05f79-6f23-461d-a9f9-9f3d84757f44",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "name": "Tamara Marshall",
+    "email": "kevin11@example.com",
+    "instagram_handle": "@oflores",
     "tiktok_handle": "@Elfrieda93",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-02-20T10:26:16.369849",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "988be45e-e546-478c-bfa4-e5c2f5691f79",
+            "brand": "Foley, Schultz and Ruiz",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8d7286bd-2626-4e29-9fe1-849ba9a8a0ed",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.williams.com/",
+                    "likes": 775,
                     "comments": 1,
                     "shares": 84,
                     "reach": 4764
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3021.56
         }
     ]
 }

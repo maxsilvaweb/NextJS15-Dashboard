@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "270c4192-d17f-4da8-8b7b-030e27e616c7",
+    "name": "Brianna Cannon",
+    "email": "kenneth93@example.com",
+    "instagram_handle": "@ashleylopez",
+    "tiktok_handle": "@pyoung",
+    "joined_at": "2025-03-30T03:21:30.358150",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "7c9e97c4-c123-4696-b3e5-16a47c3bc612",
             "brand": "Schulist, Bednar and Olson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8bffbee6-cd57-457a-b4a2-326e43ffb415",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.moody.info/",
+                    "likes": 6495,
+                    "comments": 219,
                     "shares": 1,
                     "reach": 7652
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5975.58
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "978b1413-f4e8-4671-a9ca-ee06d7f34674",
+    "name": "Jeffrey Blake",
+    "email": "carolynmartinez@example.net",
+    "instagram_handle": "@lauralewis",
+    "tiktok_handle": "@oross",
+    "joined_at": "2024-02-03T09:57:55.469642",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6b891485-61d1-48ee-b007-24e73d85ba06",
+            "brand": "Yates, Lynch and Cobb",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fe37fd2d-4c64-405f-88fa-9b887ffec2d0",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.lane-ortiz.com/",
+                    "likes": 8198,
                     "comments": 44,
                     "shares": 6,
                     "reach": 4572
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8955.91
         }
     ]
 }

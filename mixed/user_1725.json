@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f582667c-ce56-4135-986e-046336d016a0",
+    "name": "Angel Olson",
+    "email": "feliciamills@example.com",
+    "instagram_handle": "@chandlerjames",
+    "tiktok_handle": "@ronaldturner",
+    "joined_at": "2024-11-26T02:14:44.746300",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ba7fd395-5841-4d4b-bc67-41ee6a8b6190",
+            "brand": "Castillo, Frederick and Marshall",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "80f62807-3f54-43d8-a324-55bc0e5a21c7",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://white.info/",
+                    "likes": 8227,
                     "comments": 44,
                     "shares": 81,
                     "reach": 6530
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4617.34
         }
     ]
 }

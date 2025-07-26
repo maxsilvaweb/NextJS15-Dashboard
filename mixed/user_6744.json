@@ -1,26 +1,26 @@
 {
     "user_id": "25e8f7b6-fed8-49bc-af0a-c8d2b8e1da95",
-    "name": "???",
+    "name": "Nathan Pearson",
     "email": "Terence13@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@henglish",
+    "tiktok_handle": "@jdickerson",
+    "joined_at": "2025-05-18T15:15:23.232777",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1c73092f-55a3-4195-8c47-89883c0d3469",
+            "brand": "Jones, Johnson and Snow",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1a678f0d-d490-4c5b-93b8-91ab7e7aad2f",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.randall.org/",
+                    "likes": 6368,
+                    "comments": 174,
                     "shares": 49,
                     "reach": 842
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9101.18
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "040a4513-cc27-42e2-b1b1-4ad84bba57f8",
+    "name": "Emily Perkins",
     "email": "Nella_Satterfield@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@kelsey70",
+    "tiktok_handle": "@christopher33",
+    "joined_at": "2025-05-08T02:00:52.027843",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "725e19d8-1122-49cc-98e4-b9887d11160a",
+            "brand": "Rowe LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "47731957-b82c-40f5-9216-d6d259ab9911",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://jordan-johnson.com/",
+                    "likes": 1789,
                     "comments": 48,
                     "shares": 35,
                     "reach": 2427
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 562.6
         }
     ]
 }

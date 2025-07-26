@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "124b9bc4-d9d1-4ac3-83ef-f142645abb52",
+    "name": "Jeffrey Boyd",
+    "email": "lbarton@example.com",
+    "instagram_handle": "@onealkyle",
+    "tiktok_handle": "@amandaballard",
+    "joined_at": "2023-09-23T11:09:42.695693",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "249a5b1e-30d6-4806-859a-f8c13786b828",
+            "brand": "Olson-Sawyer",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "174faaa9-5cc1-4d1a-9c5a-cbdc555aa28e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://butler.com/",
+                    "likes": 738,
+                    "comments": 32,
                     "shares": 81,
                     "reach": 3153
                 }

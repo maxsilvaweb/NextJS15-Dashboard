@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fc79079f-3bef-4a6d-939f-7561efd88ed6",
+    "name": "Debra Pope",
+    "email": "jtorres@example.org",
+    "instagram_handle": "@kennethmckinney",
+    "tiktok_handle": "@sarah59",
+    "joined_at": "2024-10-30T00:03:00.034098",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5da74ac0-daba-4b6a-b8fc-747f8015848f",
+            "brand": "Adams, Green and Gonzales",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "811e325a-f21d-485d-a038-eb2bcb80e6ab",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://weber-mckenzie.com/",
                     "likes": 308,
-                    "comments": null,
+                    "comments": 194,
                     "shares": 74,
                     "reach": 3990
                 }

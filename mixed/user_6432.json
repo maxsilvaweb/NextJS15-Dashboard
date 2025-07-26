@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "7dc89def-809c-436f-962b-95619e18ab16",
+    "name": "Thomas Pena",
     "email": "Walter23@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@raykatrina",
+    "tiktok_handle": "@cindyarnold",
+    "joined_at": "2024-03-07T23:56:09.041903",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ce2098fb-986e-4b56-b3aa-83bec182e525",
+            "brand": "Mathews, Goodman and Peterson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "71a3616d-4b1c-4816-83c5-3fd71f8aed15",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.baker-meadows.info/",
                     "likes": 181,
-                    "comments": null,
+                    "comments": 217,
                     "shares": 85,
                     "reach": 3021
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 964.26
         }
     ]
 }

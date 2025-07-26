@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "5164b6bc-9899-4549-8022-4847542e8220",
+    "name": "Jennifer Cochran",
+    "email": "iwilson@example.org",
     "instagram_handle": "@Kurtis69",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@alexis66",
+    "joined_at": "2023-10-10T17:30:42.865829",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8deed8b9-b35e-4324-a92e-a5d1af1638e2",
+            "brand": "Palmer, Cameron and Richard",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7b301fc8-9861-423f-bbcf-c6c8c283c825",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.stephens-rivas.com/",
+                    "likes": 2546,
                     "comments": 46,
                     "shares": 63,
                     "reach": 8694
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7257.4
         }
     ]
 }

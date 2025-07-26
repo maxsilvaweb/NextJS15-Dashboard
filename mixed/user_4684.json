@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "93908006-644a-4bde-b530-3cae26d161de",
+    "name": "Barbara Acosta",
     "email": "Americo0@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@allisonstark",
+    "tiktok_handle": "@seth48",
+    "joined_at": "2024-09-28T10:33:47.031834",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "408eaf1a-9fe8-4ee8-a939-db22beaab95c",
+            "brand": "Finley-Franco",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "67dce4e5-ea6e-44a5-a511-ecbec4c584fe",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.erickson-kelly.org/",
+                    "likes": 4897,
+                    "comments": 297,
                     "shares": 63,
                     "reach": 1852
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7374.98
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "34f45a18-f824-4f99-a6e5-45f09c52d87f",
+    "name": "Andrew Fox",
+    "email": "heather81@example.net",
+    "instagram_handle": "@michellenelson",
+    "tiktok_handle": "@perrybrendan",
+    "joined_at": "2024-03-21T07:01:06.834969",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "45b8b90d-92c7-41ca-b1bb-11646a21f64e",
+            "brand": "Horton-Gregory",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "aac44d2c-fbb7-4d71-b114-df92576e98b1",
                     "platform": "Instagram",
                     "post_url": "https://marvelous-permafrost.com/",
-                    "likes": "NaN",
+                    "likes": 5953,
                     "comments": 31,
                     "shares": 68,
                     "reach": 4039
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3721.44
         }
     ]
 }

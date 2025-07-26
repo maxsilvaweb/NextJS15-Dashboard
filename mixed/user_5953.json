@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "6b523883-425f-4793-be9b-233c203aece2",
+    "name": "Jessica Holmes",
+    "email": "gmiller@example.com",
     "instagram_handle": "@Bulah_Collins",
-    "tiktok_handle": "#error_handle",
+    "tiktok_handle": "@susan59",
     "joined_at": "2025-01-05T01:22:29.591Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f71a2736-44ca-4667-beff-430796c6849d",
+            "brand": "Rowland LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "22ad7745-ec7d-45b0-a02d-25b9d26b3732",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.wilson.org/",
+                    "likes": 779,
+                    "comments": 127,
                     "shares": 56,
                     "reach": 9081
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3666.11
         }
     ]
 }

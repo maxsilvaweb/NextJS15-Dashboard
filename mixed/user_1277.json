@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "077f0713-5836-479b-9dd7-48423de958b4",
+    "name": "Lisa Werner",
+    "email": "smithrobert@example.org",
+    "instagram_handle": "@ashley89",
+    "tiktok_handle": "@joneskenneth",
+    "joined_at": "2023-10-06T15:10:30.551006",
     "advocacy_programs": [
         {
             "program_id": "6b3cc44a-3585-45cd-896f-b2c49d4d2ce3",
-            "brand": 12345,
+            "brand": "Cunningham Group",
             "tasks_completed": [
                 {
                     "task_id": "cfd3fa9a-ec40-44c7-98b9-6dc4a2a30247",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "platform": "TikTok",
+                    "post_url": "http://www.greer.net/",
+                    "likes": 1887,
                     "comments": 6,
                     "shares": 28,
                     "reach": 5660
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6606.75
         }
     ]
 }

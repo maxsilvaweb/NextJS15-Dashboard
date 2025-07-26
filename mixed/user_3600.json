@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c64debbd-66f9-4fba-892a-398cc571a036",
+    "name": "Heather Cross",
+    "email": "rodriguezkevin@example.com",
+    "instagram_handle": "@xwalton",
+    "tiktok_handle": "@keithjensen",
+    "joined_at": "2023-09-11T15:16:32.502554",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5a2969bd-e940-4efe-a38e-0041c3dfbf7f",
+            "brand": "Esparza-Yoder",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "351064d6-bc48-4ee9-a448-05f28920d3dc",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.goodwin.com/",
                     "likes": 395,
                     "comments": 4,
                     "shares": 27,
                     "reach": 8760
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2563.06
         }
     ]
 }

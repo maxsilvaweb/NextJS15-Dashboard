@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "ee8a66ef-3f73-4fd1-a6c9-0c568ae7f41e",
     "name": "Sean Runolfsdottir",
-    "email": "invalid-email",
+    "email": "hernandezthomas@example.net",
     "instagram_handle": "@Kaitlin_Grady39",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@harriscollin",
+    "joined_at": "2025-03-08T22:16:43.526687",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1fdc09a1-a054-4388-bfc7-932bd1c94e8f",
+            "brand": "Benitez Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4d060942-036e-4327-8827-f57db800640d",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://roberts-brown.com/",
+                    "likes": 8551,
                     "comments": 5,
                     "shares": 98,
                     "reach": 6193
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5539.27
         }
     ]
 }

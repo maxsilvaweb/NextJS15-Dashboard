@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8a7ca02f-b0f3-49f2-9d24-225f0430a0b3",
+    "name": "Nancy Hobbs",
+    "email": "myersamber@example.org",
+    "instagram_handle": "@patrickbrown",
+    "tiktok_handle": "@debra34",
+    "joined_at": "2024-05-19T17:35:34.051393",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "96106fd5-cc7a-4038-813c-52ba1160e9b3",
             "brand": "Douglas Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5c4bd192-36b0-45f7-ac06-f366da0594f1",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.goodwin-wright.com/",
+                    "likes": 5247,
                     "comments": 49,
                     "shares": 80,
                     "reach": 767
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7233.65
         }
     ]
 }

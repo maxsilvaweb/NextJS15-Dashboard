@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "aff5e7dd-06f5-4885-a162-4493474fa965",
+    "name": "Nicholas Cowan",
     "email": "Berry_Marvin@gmail.com",
     "instagram_handle": "@Mckenzie9",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@james67",
+    "joined_at": "2023-08-07T07:50:32.242924",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4cdb65d1-2207-4aa0-84bd-a7413bf85415",
+            "brand": "Blackwell, Myers and Gonzalez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "2ec3952d-a422-4767-8fa9-5cefbe3c07d8",
+                    "platform": "Twitter",
+                    "post_url": "http://powell.biz/",
+                    "likes": 2052,
+                    "comments": 189,
                     "shares": 60,
                     "reach": 6575
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2786.02
         }
     ]
 }

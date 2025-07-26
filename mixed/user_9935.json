@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c6c98113-b2a9-47f1-8540-24cade4109a1",
+    "name": "Tanner Baker",
+    "email": "megan82@example.net",
+    "instagram_handle": "@bali",
+    "tiktok_handle": "@carla11",
+    "joined_at": "2024-07-02T14:32:12.064690",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "aff16ee7-256b-4cbe-a533-d04e7481b789",
+            "brand": "Taylor Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "03fd93ed-faa6-4732-8243-35454fbd5bf6",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.fuller.com/",
+                    "likes": 4233,
+                    "comments": 439,
                     "shares": 46,
                     "reach": 2956
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1113.03
         }
     ]
 }

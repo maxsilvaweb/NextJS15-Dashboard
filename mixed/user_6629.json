@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aa13e47d-e0e8-4f44-b0b8-ee9be2d9989b",
+    "name": "Tracy Cooper",
+    "email": "mturner@example.org",
+    "instagram_handle": "@jcollins",
+    "tiktok_handle": "@gonzalezrobert",
+    "joined_at": "2023-12-31T15:50:49.365576",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e296a011-c677-4cf8-b407-a97950cbb191",
+            "brand": "Clements and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4076bd78-6a18-472d-92fe-2460af83fec0",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://cortez.com/",
+                    "likes": 2040,
+                    "comments": 243,
                     "shares": 79,
                     "reach": 4539
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 4266.192056204808
         }
     ]
+}

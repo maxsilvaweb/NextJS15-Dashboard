@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "443ddda6-2c8f-41d6-b84f-ab85eaada29e",
+    "name": "Pamela Hardy DDS",
+    "email": "raynatalie@example.org",
     "instagram_handle": "@Reginald_Will57",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@ywatts",
+    "joined_at": "2024-11-23T06:04:11.712945",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1949ce35-6b7b-42d8-8447-ad527fcc26e9",
+            "brand": "Brown LLC",
             "tasks_completed": [
                 {
                     "task_id": "2f5a2c3e-d33e-46ec-add2-8c4f20227930",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "platform": "Instagram",
+                    "post_url": "http://flowers.com/",
+                    "likes": 211,
                     "comments": 37,
                     "shares": 16,
                     "reach": 4637
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9633.72
         }
     ]
 }

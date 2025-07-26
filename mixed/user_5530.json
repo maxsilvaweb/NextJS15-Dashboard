@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ef45add0-2363-4f5a-a3c4-2f2d3becd7ad",
+    "name": "Victor Fleming",
+    "email": "christina82@example.com",
+    "instagram_handle": "@melissa28",
+    "tiktok_handle": "@sandraromero",
+    "joined_at": "2023-12-29T22:52:19.873316",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3e02c2e9-e352-4c6e-9564-7b454f0af426",
+            "brand": "French, Morgan and Kirk",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d61894dd-e746-4050-8843-a9263b31620e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.johnson-scott.com/",
+                    "likes": 447,
                     "comments": 43,
                     "shares": 21,
                     "reach": 6028
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3714.61
         }
     ]
 }

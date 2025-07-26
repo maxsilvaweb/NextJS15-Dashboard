@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3c8aa7a1-367e-4116-b683-278e1b865df3",
+    "name": "Laura Baldwin",
+    "email": "halljames@example.com",
+    "instagram_handle": "@burnettbrady",
+    "tiktok_handle": "@proberts",
+    "joined_at": "2024-05-11T22:17:38.725770",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "68f7a69f-8ec7-4882-8175-6baee68c05ae",
+            "brand": "Macias, Thompson and Guerra",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ee609770-0c77-4586-9f89-0633596d00d0",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.brown-willis.com/",
                     "likes": 303,
-                    "comments": null,
+                    "comments": 432,
                     "shares": 84,
                     "reach": 4316
                 }

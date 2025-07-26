@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0e02c22c-d8fc-4a6f-b1e6-4cc6b01a17da",
+    "name": "Jason Martinez",
+    "email": "jeffrey70@example.com",
+    "instagram_handle": "@ybarr",
+    "tiktok_handle": "@cynthialambert",
+    "joined_at": "2024-05-07T08:04:38.743013",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "786a082e-adfb-4720-b42f-6d38c2e3bf3e",
+            "brand": "Jackson Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ba31455d-c233-4c88-9a8c-04d4df0205c1",
                     "platform": "TikTok",
                     "post_url": "https://snoopy-sock.org",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8469,
+                    "comments": 364,
                     "shares": 41,
                     "reach": 9616
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 750.26
         }
     ]
 }

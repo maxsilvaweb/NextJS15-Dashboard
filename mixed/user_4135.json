@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "00c43e8d-0299-4385-bc6e-bed6c0e669cc",
+    "name": "Dillon Alexander",
+    "email": "pricesarah@example.org",
+    "instagram_handle": "@heather94",
+    "tiktok_handle": "@deanevelyn",
+    "joined_at": "2025-01-13T15:05:37.468478",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4a157ba9-587e-480e-bda7-1b7ef0e4645f",
+            "brand": "Burns and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c7b6351a-2be5-4907-b34d-fb54c925d1b0",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.mcdowell-moore.com/",
+                    "likes": 4373,
+                    "comments": 398,
                     "shares": 38,
                     "reach": 919
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4744.22
         }
     ]
 }

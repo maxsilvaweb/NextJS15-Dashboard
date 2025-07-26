@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "82bae5f0-008f-44a4-925b-599d4812c5fe",
+    "name": "Jose Cantrell",
     "email": "Magdalen_Wintheiser@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@kellycody",
+    "tiktok_handle": "@vallen",
+    "joined_at": "2024-04-10T10:28:33.066447",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cbfe4597-3eba-4b30-a51f-d1163c2a85f2",
+            "brand": "Smith Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ae8f7678-f6fe-4c99-a584-f1dbab78b5f3",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://harrington.biz/",
+                    "likes": 9331,
                     "comments": 36,
                     "shares": 37,
                     "reach": 1002
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4899.64
         }
     ]
 }

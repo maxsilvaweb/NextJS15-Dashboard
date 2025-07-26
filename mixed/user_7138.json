@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "62e0e579-853a-423b-ba7a-55a266eb0a05",
+    "name": "Charles Carlson",
+    "email": "jacqueline86@example.com",
+    "instagram_handle": "@walterssarah",
+    "tiktok_handle": "@suarezlisa",
+    "joined_at": "2024-03-24T15:14:44.042930",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "34292f66-568c-4828-996e-c24f537683bd",
+            "brand": "Jones, Reyes and Evans",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "38c141a8-1098-4017-b465-c6cef6a0fb9d",
+                    "platform": "TikTok",
+                    "post_url": "https://jones.com/",
+                    "likes": 6835,
+                    "comments": 335,
                     "shares": 34,
                     "reach": 4735
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3056.95
         }
     ]
 }

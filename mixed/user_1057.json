@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a0372453-182d-48b7-bb1d-fbd2a02db5e8",
+    "name": "Kathryn Dyer",
+    "email": "joshuacollins@example.com",
+    "instagram_handle": "@claychelsea",
+    "tiktok_handle": "@tranmichael",
+    "joined_at": "2024-03-04T06:55:56.392200",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b860f254-8f19-4c3a-b194-960cce24f077",
+            "brand": "Crane-Hamilton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a48fc98c-1c11-40ba-94fb-6afdca6bea3f",
                     "platform": "Instagram",
                     "post_url": "https://jam-packed-mousse.biz",
                     "likes": 20,
-                    "comments": null,
+                    "comments": 338,
                     "shares": 93,
                     "reach": 3554
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7313.39
         }
     ]
 }

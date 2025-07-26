@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f8432bda-9fc7-4d57-acba-8455fab752bb",
+    "name": "Rodney Franklin",
+    "email": "zachary97@example.org",
+    "instagram_handle": "@ryanking",
+    "tiktok_handle": "@cooperrenee",
+    "joined_at": "2025-06-30T12:41:52.495304",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "978c8c2e-c448-487a-b757-a8b389f76f25",
+            "brand": "Gonzalez, Silva and Ferguson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "a1da3205-8759-4301-89aa-28f4550b5fc2",
+                    "platform": "Twitter",
                     "post_url": "https://serene-negotiation.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9909,
+                    "comments": 264,
                     "shares": 56,
                     "reach": 4589
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6316.23
         }
     ]
 }

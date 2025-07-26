@@ -1,18 +1,18 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f5d91490-ff01-4534-9840-4f43d8fb1f2b",
+    "name": "Jimmy Bell",
+    "email": "irandall@example.org",
+    "instagram_handle": "@stephen72",
+    "tiktok_handle": "@mark66",
+    "joined_at": "2025-02-09T01:19:50.683109",
     "advocacy_programs": [
         {
             "program_id": "26f5618f-4400-4194-a7a2-79f6c5775ec7",
-            "brand": 12345,
+            "brand": "Edwards Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "e2654533-883e-4d43-86c0-dd832d122dc5",
+                    "platform": "TikTok",
                     "post_url": "https://firm-lounge.biz",
                     "likes": 162,
                     "comments": 49,
@@ -20,7 +20,7 @@
                     "reach": 7886
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6656.67
         }
     ]
 }

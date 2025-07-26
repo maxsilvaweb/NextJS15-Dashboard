@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7789b7fe-35ab-425c-9324-05823eaa257a",
+    "name": "Ryan Sherman",
+    "email": "williamsonedward@example.com",
+    "instagram_handle": "@bobbypaul",
+    "tiktok_handle": "@greenechad",
+    "joined_at": "2024-08-24T15:28:00.704821",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d0508e72-f2e5-4c7f-ab72-ab3cb4314553",
+            "brand": "Cohen and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "3e089041-1374-4ff0-8a43-0a68933d0c77",
+                    "platform": "Twitter",
+                    "post_url": "http://paul-johnson.org/",
+                    "likes": 9422,
+                    "comments": 348,
                     "shares": 49,
                     "reach": 7364
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 381.51
         }
     ]
 }

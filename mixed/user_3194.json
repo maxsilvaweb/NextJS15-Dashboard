@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "18e75117-5f31-40d7-ae50-7a17baea8a0d",
+    "name": "Dr. Jamie Nguyen MD",
+    "email": "cchavez@example.org",
+    "instagram_handle": "@kimberly64",
+    "tiktok_handle": "@michele02",
+    "joined_at": "2025-02-18T21:28:14.919605",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d8dfed6d-0827-442d-a2a3-9b97d0d936d7",
+            "brand": "Jackson, Kelley and Lee",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c6de1529-b552-4eb7-a54e-290c26dcbf2b",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.mccarthy.com/",
+                    "likes": 8788,
+                    "comments": 438,
                     "shares": 43,
                     "reach": 2631
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3777.71
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "aac82280-8f9b-42b0-a7dd-cb2230ebb242",
+    "name": "Sandra Lee DDS",
     "email": "Gertrude_Predovic35@hotmail.com",
-    "instagram_handle": null,
+    "instagram_handle": "@ygonzalez",
     "tiktok_handle": "@Henderson_Stoltenberg",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-01-30T18:36:54.752795",
     "advocacy_programs": [
         {
             "program_id": "86b2833a-c147-43f5-9e73-14b3506d5111",
-            "brand": 12345,
+            "brand": "Thompson, Lee and Johns",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "02521a4f-5489-4097-974f-b9c0bbcb34de",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.pope.net/",
+                    "likes": 3179,
                     "comments": 9,
                     "shares": 35,
                     "reach": 9644
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2425.94
         }
     ]
 }

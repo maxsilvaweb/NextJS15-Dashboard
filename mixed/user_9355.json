@@ -1,26 +1,26 @@
 {
     "user_id": "97001e74-be10-4357-8fe2-a2b01c7ecd04",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Carolyn Hill",
+    "email": "kbutler@example.org",
+    "instagram_handle": "@hansenmandy",
+    "tiktok_handle": "@jonesemily",
+    "joined_at": "2024-05-24T18:27:13.392603",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3eb655a6-0dea-483d-9f68-bd96927444f5",
+            "brand": "Miller PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "293bec7b-bdc9-4729-98a6-e3de6795f2be",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.moon.com/",
                     "likes": 68,
-                    "comments": null,
+                    "comments": 173,
                     "shares": 85,
                     "reach": 5237
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2513.13
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "bebe57a7-fa6e-46d3-8e22-dadb7b9c6e20",
+    "name": "Patricia Medina",
     "email": "Alfred68@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@glewis",
+    "tiktok_handle": "@hwallace",
     "joined_at": "2024-11-26T20:24:00.565Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c3be5172-f6bc-4489-bb8b-c2f3f6d2d39a",
+            "brand": "Williams, Wolf and Shaw",
             "tasks_completed": [
                 {
                     "task_id": "e753d969-36f8-44b7-a931-c59a2fbc1d30",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.norris-harris.com/",
+                    "likes": 7497,
+                    "comments": 494,
                     "shares": 91,
                     "reach": 9183
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4498.25
         }
     ]
 }

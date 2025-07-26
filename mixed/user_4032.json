@@ -1,26 +1,26 @@
 {
     "user_id": "06c88c5b-de39-4c1b-bbf4-bad0772cb775",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Rebecca Chavez",
+    "email": "romeroariana@example.org",
+    "instagram_handle": "@monicatate",
+    "tiktok_handle": "@davisbenjamin",
+    "joined_at": "2024-11-27T05:06:34.473201",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "79c5e368-fab6-4789-91e5-a4392b0060c8",
+            "brand": "Dean Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b66cf41e-576b-436c-b510-8646b24f8af8",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://garrett-petersen.com/",
+                    "likes": 827,
+                    "comments": 100,
                     "shares": 65,
                     "reach": 7404
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8246.3
         }
     ]
 }

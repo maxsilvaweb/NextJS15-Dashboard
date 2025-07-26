@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bdd0f329-a818-475f-8763-b08c1eb41f64",
+    "name": "Amanda Page",
+    "email": "yaustin@example.com",
+    "instagram_handle": "@ashleybrown",
+    "tiktok_handle": "@uburgess",
+    "joined_at": "2024-09-07T13:02:26.537424",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fbee5484-b103-4215-bf8d-e89bd0e0b1c9",
+            "brand": "Hines, Herrera and Hoover",
             "tasks_completed": [
                 {
                     "task_id": "b4be0ac3-9f39-4769-9920-59ec532282d2",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://jones-brown.com/",
+                    "likes": 1839,
+                    "comments": 444,
                     "shares": 79,
                     "reach": 3297
                 }

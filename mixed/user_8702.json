@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "de02201e-6452-4222-b60c-5cb612978ec0",
+    "name": "Jonathan Navarro",
+    "email": "meganjones@example.org",
+    "instagram_handle": "@jimmy31",
+    "tiktok_handle": "@kristinmorales",
+    "joined_at": "2024-11-24T08:38:21.118580",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "053f80c9-8d72-4a22-a85e-942155360e1e",
+            "brand": "Fisher, Mahoney and Myers",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b94d326b-1559-4144-94cb-086bcf2d8182",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.williams-lewis.com/",
+                    "likes": 3955,
+                    "comments": 361,
                     "shares": 25,
                     "reach": 8165
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 322.29
         }
     ]
 }

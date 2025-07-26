@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0f6f9d08-b0f8-405d-92a2-b893bd0e269c",
+    "name": "Jill Marks",
+    "email": "leecory@example.net",
+    "instagram_handle": "@fosterdaniel",
+    "tiktok_handle": "@jpearson",
+    "joined_at": "2023-10-25T21:00:38.271971",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "52a494de-ca73-4030-9231-6645b76cf2d8",
+            "brand": "Wilkins, Choi and Wang",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7d19983e-22a3-497d-8b3e-4d532d96a58d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.jimenez.biz/",
+                    "likes": 1431,
                     "comments": 16,
                     "shares": 80,
                     "reach": 6292

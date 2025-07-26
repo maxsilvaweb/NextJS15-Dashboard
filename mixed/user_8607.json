@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6c681df7-ac4f-46d3-bfde-390a734dfc3f",
+    "name": "Dr. Ryan Ritter",
+    "email": "awilson@example.org",
+    "instagram_handle": "@danielerika",
+    "tiktok_handle": "@fboyer",
+    "joined_at": "2025-06-07T15:11:21.792997",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "d560ddee-4af9-42d6-a6af-db689def1228",
             "brand": "Luettgen, Gutmann and Homenick",
             "tasks_completed": [
                 {
                     "task_id": "18495804-17ca-483e-8891-1cf9578f55e8",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.lee.com/",
+                    "likes": 3158,
+                    "comments": 257,
                     "shares": 37,
                     "reach": 8633
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 871.08
         }
     ]
+}

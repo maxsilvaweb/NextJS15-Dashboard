@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "a698c187-6454-4274-9079-00e2477b549c",
+    "name": "Amy Wilson",
+    "email": "ryan85@example.com",
+    "instagram_handle": "@lori06",
     "tiktok_handle": "@Cheyanne9",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-04-08T08:16:21.897773",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "f44b4cd4-78e9-43c7-8756-f0c72a946823",
             "brand": "Kautzer, Dooley and Rempel",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8b2f02f3-3265-4c56-a3d6-a1fa323b0098",
                     "platform": "Facebook",
                     "post_url": "https://pushy-porter.org/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3593,
+                    "comments": 48,
                     "shares": 95,
                     "reach": 2032
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8350.12
         }
     ]
 }

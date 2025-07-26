@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "ebc2c611-6ca8-4886-ac44-5d4083b21462",
     "name": "Owen Olson",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "kimberlymartin@example.org",
+    "instagram_handle": "@parkstony",
+    "tiktok_handle": "@lroberson",
+    "joined_at": "2023-10-04T08:50:35.805452",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "52151795-0ad7-4f89-aa30-fe83943c0c2f",
+            "brand": "Payne Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cc901f65-c439-4d1e-8084-343d90885bdf",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://boone.net/",
                     "likes": 177,
-                    "comments": null,
+                    "comments": 24,
                     "shares": 80,
                     "reach": 3279
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5966.07
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "c7795535-d706-40f7-9cfe-cb25abfd8b63",
+    "name": "Mark Grimes",
     "email": "Wendell_Cruickshank72@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@anna68",
+    "tiktok_handle": "@joshuafaulkner",
+    "joined_at": "2024-11-15T02:44:52.638306",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "75f1f062-db21-4326-b2b4-bf5b9c133bbf",
+            "brand": "Oneill, Horn and Moore",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "822f22c0-07a6-4bcc-a18b-2238a38f21eb",
+                    "platform": "YouTube",
+                    "post_url": "http://ramos-williams.info/",
+                    "likes": 4953,
+                    "comments": 442,
                     "shares": 8,
                     "reach": 7249
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4006.34
         }
     ]
 }

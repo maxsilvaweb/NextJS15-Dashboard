@@ -1,26 +1,26 @@
 {
     "user_id": "3363ce4b-0f25-40ee-9fa9-8b49f4a21f20",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Karen Johnson",
+    "email": "thomasmccoy@example.org",
+    "instagram_handle": "@bcarrillo",
+    "tiktok_handle": "@joanna38",
+    "joined_at": "2025-02-14T18:16:10.967754",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "175f3629-c310-4448-9ded-4396cb4c569a",
+            "brand": "Rivera, Weber and Wilson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "520677fd-411f-483e-a9fc-2b08c2d8aa2a",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://garcia-fitzpatrick.com/",
                     "likes": 139,
-                    "comments": null,
+                    "comments": 232,
                     "shares": 27,
                     "reach": 9702
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1204.02
         }
     ]
 }

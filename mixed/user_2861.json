@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aae87809-5767-4fa3-abe4-d312b486b681",
+    "name": "Derek Tanner",
+    "email": "emontgomery@example.org",
+    "instagram_handle": "@robertsanders",
+    "tiktok_handle": "@dawn34",
+    "joined_at": "2024-03-29T10:35:06.190388",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "52ab6349-73c5-4e6e-90fc-c04bcaf5eb1f",
+            "brand": "Weiss and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "27df05c4-5b28-42a0-a146-596b1838e116",
+                    "platform": "Twitter",
                     "post_url": "https://general-follower.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3945,
+                    "comments": 135,
                     "shares": 1,
                     "reach": 7290
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3667.41
         }
     ]
 }

@@ -1,17 +1,17 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dbded878-c4b0-49f5-adc0-a2cb6a89b953",
+    "name": "Carolyn Hutchinson",
+    "email": "johnsonalex@example.net",
+    "instagram_handle": "@ashley32",
+    "tiktok_handle": "@darrylnicholson",
+    "joined_at": "2025-07-12T22:57:05.534263",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "04be532e-f3dd-4600-b9f5-db5d23ce42d8",
+            "brand": "Mahoney-Jackson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "97723c99-2d17-4dc3-8895-80b252ef378c",
                     "platform": "TikTok",
                     "post_url": "https://mild-detective.info",
                     "likes": 370,
@@ -20,7 +20,7 @@
                     "reach": 1746
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3850.33
         }
     ]
 }

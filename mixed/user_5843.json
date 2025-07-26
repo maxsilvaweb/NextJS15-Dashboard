@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5e77fc8b-7d43-43f4-9b2f-e1070a419f09",
+    "name": "Jessica Bennett",
+    "email": "underwoodmartin@example.net",
+    "instagram_handle": "@grahamkristin",
+    "tiktok_handle": "@kennedynicholas",
+    "joined_at": "2025-03-23T11:39:18.556405",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3a4005ba-a5bd-4a18-a2fd-8aca7a3b0ec6",
+            "brand": "Delacruz, Miles and Welch",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ee8b95ba-6ecb-4fbd-b394-08801fa63be7",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://parrish-delgado.com/",
+                    "likes": 6197,
                     "comments": 44,
                     "shares": 35,
                     "reach": 1220
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7960.32
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dbce0429-271f-4f71-953b-3954d2431ed7",
+    "name": "Michael Daugherty",
+    "email": "paul57@example.org",
+    "instagram_handle": "@jonshaffer",
+    "tiktok_handle": "@margaret90",
+    "joined_at": "2023-11-17T21:44:12.815927",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "ef684f79-ee7b-47fb-8648-5340d7f1ed4d",
             "brand": "Effertz - Stiedemann",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "baa80d49-499d-49d2-ab2b-f7e009851520",
+                    "platform": "Twitter",
                     "post_url": "https://impartial-aftermath.info",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7784,
+                    "comments": 426,
                     "shares": 74,
                     "reach": 2563
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8123.99
         }
     ]
 }

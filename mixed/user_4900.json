@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "b5d7bada-bd92-4a41-b77d-9bde6f4ecfcc",
+    "name": "Michelle Klein",
+    "email": "jennifermoreno@example.org",
+    "instagram_handle": "@chandlerangela",
     "tiktok_handle": "@Keegan.Schimmel",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-03-16T01:52:51.287077",
     "advocacy_programs": [
         {
             "program_id": "6f0fc49f-3b98-4e4a-ad1b-ac8a154947c1",
-            "brand": 12345,
+            "brand": "Holmes, Lewis and Good",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "de2a3d27-5f65-4489-8f4a-d402f758790e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.white.biz/",
                     "likes": 139,
-                    "comments": null,
+                    "comments": 300,
                     "shares": 56,
                     "reach": 1115
                 }

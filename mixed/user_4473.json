@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "fe0711b9-3571-4f97-b2ee-f38132960a3e",
+    "name": "Nicole Nolan",
     "email": "Mariam_Huel@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@gallagheranita",
+    "tiktok_handle": "@ysparks",
+    "joined_at": "2024-11-15T21:55:06.877022",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3d0a6f44-5984-411c-8874-bce4312a942c",
+            "brand": "Walsh-Vargas",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "db599367-7edc-450c-8343-8ee46e6b49fa",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://weiss.com/",
+                    "likes": 5369,
+                    "comments": 464,
                     "shares": 33,
                     "reach": 7675
                 }

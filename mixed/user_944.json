@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "de2268a3-c61a-456c-91af-fa84e2a2579f",
+    "name": "Joel Hurst",
+    "email": "jonathananderson@example.com",
     "instagram_handle": "@Zoey.Walker",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@ygarcia",
+    "joined_at": "2023-12-09T09:49:07.442119",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "ddc405cf-c23d-4433-bbf8-881ba8ca16be",
             "brand": "Doyle - Larson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1f58a668-1baa-4f91-b005-0466bcca7402",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://reyes-baker.com/",
+                    "likes": 2769,
+                    "comments": 160,
                     "shares": 40,
                     "reach": 9062
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4636.66
         }
     ]
 }

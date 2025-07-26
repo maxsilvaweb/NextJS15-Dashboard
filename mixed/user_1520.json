@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a440682e-9ec7-40cc-8320-1a6ee563ad5d",
+    "name": "Melissa Jackson",
+    "email": "bridgesamy@example.com",
+    "instagram_handle": "@jenniferjohnson",
+    "tiktok_handle": "@wmorrison",
+    "joined_at": "2024-10-02T23:05:50.365263",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3d7f67fe-3f57-4c1a-871b-7f8d70e74562",
+            "brand": "Reid, Montgomery and Koch",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "93a95432-9866-4c49-b884-c3bdc991f4ae",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.parker.com/",
                     "likes": 64,
                     "comments": 16,
                     "shares": 17,
                     "reach": 1405
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9112.2
         }
     ]
 }

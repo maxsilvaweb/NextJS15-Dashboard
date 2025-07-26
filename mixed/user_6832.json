@@ -1,26 +1,26 @@
 {
     "user_id": "750d6e29-1d60-43b7-aaee-d1e20bf6c3dd",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Samantha Porter",
+    "email": "brucemarissa@example.net",
+    "instagram_handle": "@aaron88",
+    "tiktok_handle": "@sharon36",
+    "joined_at": "2023-12-01T09:21:04.144874",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "26d11ad8-ac46-4e1c-ab5e-9003907165f8",
+            "brand": "Underwood Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "87628468-90d1-41a8-a623-f994671c7314",
                     "platform": "Facebook",
                     "post_url": "https://sorrowful-mallard.info",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6566,
+                    "comments": 344,
                     "shares": 37,
                     "reach": 1774
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 338.5
         }
     ]
 }

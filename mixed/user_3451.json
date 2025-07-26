@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d856a28d-c9b1-465e-9f53-fd7f3b82b93f",
+    "name": "Michael Griffin",
+    "email": "goodmanjulie@example.net",
+    "instagram_handle": "@agibbs",
+    "tiktok_handle": "@larryyoung",
+    "joined_at": "2023-10-23T06:45:31.525329",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f66ea187-dba6-4d0c-8847-e01b262a27f6",
+            "brand": "Mccormick, Lane and Conner",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b45a061c-c204-498b-bd8f-457adcd7397c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://delgado.net/",
+                    "likes": 3600,
                     "comments": 10,
                     "shares": 49,
                     "reach": 3837
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1320.5
         }
     ]
 }

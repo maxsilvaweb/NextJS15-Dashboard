@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d00cac44-046c-4ae9-91e5-26d6376ffe46",
+    "name": "Andrew Anthony",
+    "email": "robert39@example.net",
+    "instagram_handle": "@richardvillegas",
+    "tiktok_handle": "@gsnyder",
+    "joined_at": "2025-05-26T18:13:40.156886",
     "advocacy_programs": [
         {
             "program_id": "bf5d27bd-561f-40b4-a9ab-5ba598c8ccd0",
-            "brand": 12345,
+            "brand": "Hill Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "4a51fc17-19f1-4978-aeb8-0c2ce3bbdf87",
+                    "platform": "Twitter",
+                    "post_url": "http://roach.com/",
+                    "likes": 1032,
+                    "comments": 429,
                     "shares": 18,
                     "reach": 4090
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3150.6
         }
     ]
+}

@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9520ebb7-3994-4238-9fb3-2b6fde7df53c",
+    "name": "Tony Herrera",
+    "email": "martinezkevin@example.org",
+    "instagram_handle": "@jessicajones",
+    "tiktok_handle": "@rjames",
+    "joined_at": "2025-02-11T17:19:23.815748",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f3cbe814-1ea6-4450-818c-83bb1e3985cc",
+            "brand": "Stokes, James and Mitchell",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "198b7847-2f33-4482-a7a8-6ff4123e7be9",
+                    "platform": "Twitter",
+                    "post_url": "https://www.gross.com/",
+                    "likes": 4396,
                     "comments": 6,
                     "shares": 24,
                     "reach": -1000

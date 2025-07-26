@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "98c18357-23c4-4284-aeca-a734e07cf309",
+    "name": "Megan Walls",
+    "email": "martinterri@example.org",
+    "instagram_handle": "@jongreen",
+    "tiktok_handle": "@dmatthews",
+    "joined_at": "2024-05-09T16:01:49.623754",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "2e62b122-eae4-4364-8cda-0f733686d325",
             "brand": "Dickens, Trantow and Hand",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "621f6dff-3a16-4f7a-bb11-2286106f9025",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://oneill.com/",
+                    "likes": 4015,
+                    "comments": 445,
                     "shares": 46,
                     "reach": 754
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4443.56
         }
     ]
 }

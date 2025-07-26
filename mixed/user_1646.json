@@ -1,26 +1,26 @@
 {
     "user_id": "787883e3-ce1b-4506-91ba-0bc59893ebe6",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Steven Nicholson",
+    "email": "rherrera@example.net",
+    "instagram_handle": "@vpham",
+    "tiktok_handle": "@collinsdeborah",
+    "joined_at": "2024-07-25T15:00:15.114446",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "31b892d8-b526-4e1d-9779-f95f8bab62f5",
+            "brand": "Porter-Lee",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "77d0c20c-292c-4653-9f6d-aaea83087c35",
+                    "platform": "Instagram",
+                    "post_url": "https://decker.net/",
+                    "likes": 5988,
+                    "comments": 95,
                     "shares": 23,
                     "reach": 7171
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5053.61
         }
     ]
 }

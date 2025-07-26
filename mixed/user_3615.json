@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "dc9f17d5-1115-4379-8974-d55164c157c1",
+    "name": "Nicholas Rogers",
     "email": "David_Stamm@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@aaron38",
+    "tiktok_handle": "@ehernandez",
+    "joined_at": "2025-07-24T11:04:29.548522",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a1f326d3-7d1e-46ee-aaf9-fa474f0193f5",
+            "brand": "Butler Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "562eb5b1-4cca-4096-8c51-0103d0a4670f",
+                    "platform": "Twitter",
+                    "post_url": "http://weaver-miller.com/",
+                    "likes": 6352,
+                    "comments": 228,
                     "shares": 35,
                     "reach": 5777
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5506.86
         }
     ]
 }

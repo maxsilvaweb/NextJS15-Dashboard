@@ -1,26 +1,26 @@
 {
     "user_id": "bc67c496-38d9-4e94-b3ee-9f9cfef29efe",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Kathleen Warren",
+    "email": "wmurphy@example.com",
+    "instagram_handle": "@barbara28",
+    "tiktok_handle": "@brownmichael",
+    "joined_at": "2025-04-15T08:47:19.476479",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "916a1f65-18bb-49b6-9f84-96f5148bd58f",
             "brand": "Schamberger Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3b4753d7-4008-4c24-88ef-c2127e576a99",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://thomas-meadows.org/",
+                    "likes": 981,
+                    "comments": 361,
                     "shares": 12,
                     "reach": 9937
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9992.94
         }
     ]
 }

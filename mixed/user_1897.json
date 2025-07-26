@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "25abaa6f-f195-4dbc-bc47-f0c1971d6578",
+    "name": "Samantha Pierce",
+    "email": "jsmith@example.org",
+    "instagram_handle": "@jonesdarren",
+    "tiktok_handle": "@wilsonstephanie",
+    "joined_at": "2023-10-16T15:54:33.088252",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "64a12067-4f9f-466c-9e28-f38633b8f436",
+            "brand": "Powers, Thomas and Calderon",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d0aed536-ffca-4eb3-bfe7-9d34cc1941c4",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.walker.org/",
                     "likes": 240,
-                    "comments": null,
+                    "comments": 328,
                     "shares": 29,
                     "reach": 2228
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 191.03
         }
     ]
 }

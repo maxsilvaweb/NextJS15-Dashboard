@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c1938f9e-1b90-4bec-a0bc-7d013e7d32df",
+    "name": "Gabrielle Savage",
+    "email": "florestamara@example.net",
+    "instagram_handle": "@lintraci",
+    "tiktok_handle": "@greenmelanie",
+    "joined_at": "2024-12-16T19:04:02.562070",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "07d4efda-1a2e-46fe-8ea2-f81c9778afbd",
+            "brand": "Sanchez Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "39606bd6-1e81-48c6-b3b0-5cf2dca69857",
+                    "platform": "TikTok",
+                    "post_url": "http://www.dalton-woods.biz/",
+                    "likes": 5388,
                     "comments": 8,
                     "shares": 54,
                     "reach": 8873

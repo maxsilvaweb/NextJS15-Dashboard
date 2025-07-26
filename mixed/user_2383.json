@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "85f35f46-a983-49f9-8c5c-4f799617e2b0",
+    "name": "Lisa Jones",
+    "email": "daniellemoore@example.net",
+    "instagram_handle": "@ukent",
+    "tiktok_handle": "@kristinsmith",
+    "joined_at": "2024-09-27T23:08:28.763557",
     "advocacy_programs": [
         {
             "program_id": "e12b3c85-5ce0-4873-b5ec-cad2f54c85d3",
-            "brand": 12345,
+            "brand": "Anderson-Allen",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ff82e9b2-83df-467e-b90e-599e21f86308",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://lee.com/",
+                    "likes": 1858,
                     "comments": 50,
                     "shares": 95,
                     "reach": 4406
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9311.78
         }
     ]
+}

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "273202d5-d96b-40d2-851e-ee9aa3440052",
+    "name": "Ashley Reed",
+    "email": "jacobwilkins@example.net",
+    "instagram_handle": "@mariacrawford",
+    "tiktok_handle": "@hicksleslie",
+    "joined_at": "2025-05-05T02:11:13.745963",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2ed398f6-d753-4f00-abab-48cc21664d32",
+            "brand": "Rodriguez Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "90e4a36d-bf88-484a-8ee3-172e19292e24",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.wells-burch.com/",
+                    "likes": 4444,
+                    "comments": 150,
                     "shares": 10,
                     "reach": 2905
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7668.15
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7b3899c8-f8eb-4486-a455-b080531d68f3",
+    "name": "Kimberly Wood",
+    "email": "jacob37@example.net",
+    "instagram_handle": "@uthomas",
+    "tiktok_handle": "@melissa46",
+    "joined_at": "2024-03-01T02:38:28.930493",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0f6ebe5c-ec0e-4eee-a618-88f8bf53741a",
+            "brand": "Castillo Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "5cc10c07-33f8-4a3d-bec2-4e23a7c75bc9",
+                    "platform": "YouTube",
+                    "post_url": "http://hooper.com/",
+                    "likes": 6465,
+                    "comments": 70,
                     "shares": 40,
                     "reach": 9655
                 }

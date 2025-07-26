@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ae92f27b-cc2b-4ebf-a6e3-d582e31a4b8d",
+    "name": "Mary Brown",
+    "email": "johnsonaustin@example.org",
+    "instagram_handle": "@fernandezlee",
+    "tiktok_handle": "@collinsjessica",
+    "joined_at": "2023-11-08T11:34:07.493880",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "52abbe5a-3e1e-4dd0-ab9d-d60b08b47b10",
+            "brand": "Barrett Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "24f4d71b-a03b-4388-93e6-36c7ed570e27",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://woods.org/",
+                    "likes": 7862,
+                    "comments": 413,
                     "shares": 93,
                     "reach": 6897
                 }

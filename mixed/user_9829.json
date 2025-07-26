@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "ea9963c6-8439-432f-9749-cf56e00360b1",
+    "name": "Elizabeth Fields",
     "email": "Malvina_McCullough@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@robertgonzalez",
+    "tiktok_handle": "@annettegilbert",
+    "joined_at": "2023-10-08T21:17:06.591501",
     "advocacy_programs": [
         {
             "program_id": "fca9e33a-e797-4a38-b728-86e2d0479208",
-            "brand": 12345,
+            "brand": "Valdez, Patterson and Drake",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d45aad62-ecda-4c09-a3ed-7b177ceac925",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.vaughn.com/",
+                    "likes": 6093,
+                    "comments": 494,
                     "shares": 20,
                     "reach": 517
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 643.14
         }
     ]
 }

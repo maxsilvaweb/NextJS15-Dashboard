@@ -1,26 +1,26 @@
 {
     "user_id": "c94ef3d7-e0a9-42f6-a85e-da3b4a0fa4ff",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Michele Franco",
+    "email": "charlene21@example.org",
+    "instagram_handle": "@christinagallegos",
+    "tiktok_handle": "@ericdouglas",
+    "joined_at": "2024-06-20T17:24:14.792229",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0625bc90-1fa7-4092-b8d7-e431fc016719",
+            "brand": "Weaver LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ff511779-a891-4609-9ab6-9b66b33278f3",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.bush.info/",
+                    "likes": 9463,
+                    "comments": 300,
                     "shares": 0,
                     "reach": 8186
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2336.78
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f4c88c21-c588-4b15-8ac2-c79d4ac303b3",
+    "name": "Michael Bush",
+    "email": "davidparker@example.net",
+    "instagram_handle": "@qrivera",
+    "tiktok_handle": "@jessica59",
+    "joined_at": "2023-09-25T16:37:59.853832",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "63cf7196-3ee8-4b9f-a694-d2eb8a0d43e9",
+            "brand": "Holt, Erickson and Burton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8a4c9d32-7ff7-43e1-a793-04bf06a26a05",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://schroeder-valdez.com/",
                     "likes": 490,
-                    "comments": null,
+                    "comments": 45,
                     "shares": 85,
                     "reach": 860
                 }

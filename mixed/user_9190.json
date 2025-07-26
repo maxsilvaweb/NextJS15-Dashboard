@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5203cbf5-aa4a-42ab-8093-11c5b43fee9e",
+    "name": "John Mcintosh",
+    "email": "bensonkim@example.net",
+    "instagram_handle": "@stephenskenneth",
+    "tiktok_handle": "@randysmith",
+    "joined_at": "2023-09-01T15:56:50.761024",
     "advocacy_programs": [
         {
             "program_id": "c5e00399-58ba-4956-a3bc-d11eac89ba44",
-            "brand": 12345,
+            "brand": "Lee, Small and Gordon",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4effedc3-9981-45f6-a2b3-71d601bf4265",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.chung-dodson.com/",
+                    "likes": 7565,
                     "comments": 35,
                     "shares": 46,
                     "reach": 7157

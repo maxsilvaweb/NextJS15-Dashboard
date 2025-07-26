@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "26d15b35-bc8e-4c43-934a-064cbdfa6e54",
+    "name": "Andrea Moore",
     "email": "Nicholaus.Terry73@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@rbrown",
+    "tiktok_handle": "@dkaiser",
+    "joined_at": "2025-02-11T06:33:01.423400",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bb0c75b7-5831-46e6-8695-0fc90090729a",
+            "brand": "Ramirez Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "978cee6f-7d8b-4ab4-9e02-d7344d2d00ce",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://fisher-smith.com/",
+                    "likes": 7086,
+                    "comments": 9,
                     "shares": 75,
                     "reach": 9784
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6493.17
         }
     ]
 }

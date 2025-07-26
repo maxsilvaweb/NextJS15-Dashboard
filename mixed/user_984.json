@@ -1,26 +1,26 @@
 {
     "user_id": "405eb262-4c36-4c4d-bed3-afdf8cabf9cf",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Matthew Bennett",
+    "email": "martintyler@example.net",
+    "instagram_handle": "@kristenmoore",
+    "tiktok_handle": "@droberts",
+    "joined_at": "2025-03-14T09:01:40.382369",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "06e18d9a-0fe8-477e-9447-c0a4422ff347",
+            "brand": "Smith, Anderson and Bell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1691dc15-8699-47fb-b68d-7380e1cf50ea",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://huber.info/",
+                    "likes": 3960,
+                    "comments": 209,
                     "shares": 19,
                     "reach": 7446
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1199.48
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "8d41d0a1-ea02-4b44-82ce-e9b82a85b15b",
+    "name": "Marcus Weber",
+    "email": "juliaboyle@example.com",
     "instagram_handle": "@Lonie.Altenwerth96",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@jessicamontoya",
+    "joined_at": "2023-10-29T08:34:08.315073",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "376934d9-10be-4ba7-98df-33abc8ce5e5e",
+            "brand": "Salazar Ltd",
             "tasks_completed": [
                 {
                     "task_id": "5fb8ab12-975a-4b28-a33b-839b2f834832",
                     "platform": "TikTok",
                     "post_url": "https://ornery-replacement.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9730,
+                    "comments": 261,
                     "shares": 11,
                     "reach": 7518
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 919.55
         }
     ]
 }

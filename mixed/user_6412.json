@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "18f03e7f-a548-4958-b2d8-6ebd0fb3921f",
+    "name": "Christian Martin",
+    "email": "mcdowellmichael@example.net",
+    "instagram_handle": "@christinewaters",
+    "tiktok_handle": "@millsdalton",
+    "joined_at": "2023-12-19T02:12:00.391335",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9888822b-06e7-4fac-b758-e72580850059",
+            "brand": "Young and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c1240a0b-9322-434a-9246-c4b7a1986d74",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.butler-johnson.com/",
+                    "likes": 8494,
+                    "comments": 162,
                     "shares": 97,
                     "reach": 4729
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1301.85
         }
     ]
 }

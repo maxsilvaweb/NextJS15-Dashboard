@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a70d3ece-612d-455e-b30e-412edc33c3fe",
+    "name": "Justin Contreras DDS",
+    "email": "rcarpenter@example.org",
+    "instagram_handle": "@robert95",
+    "tiktok_handle": "@phyllislevy",
+    "joined_at": "2025-04-21T04:39:38.439662",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "303c715e-74e3-40ec-9961-f3c6ad2cbc35",
+            "brand": "Robinson-Shaw",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a9d11dec-ab4d-462b-9547-48090d24a763",
                     "platform": "Facebook",
                     "post_url": "https://easy-waterspout.org/",
                     "likes": 328,
-                    "comments": null,
+                    "comments": 64,
                     "shares": 34,
                     "reach": 9435
                 }

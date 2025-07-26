@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dda9090e-63d0-4990-b742-385fdd4d2e18",
+    "name": "Christopher Hernandez",
+    "email": "richard88@example.org",
+    "instagram_handle": "@gsweeney",
+    "tiktok_handle": "@campbellmatthew",
+    "joined_at": "2025-06-01T02:36:32.761035",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "82101ec7-97e7-402d-8f08-f82e93e2f83f",
+            "brand": "Weaver-Collins",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "637e6ee2-9040-48c3-a0b2-a40557820676",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.vaughn.com/",
+                    "likes": 7953,
+                    "comments": 352,
                     "shares": 98,
                     "reach": 8427
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 2835.0484546282787
         }
     ]
+}

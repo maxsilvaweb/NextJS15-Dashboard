@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5891620a-e43d-4a97-b2b7-2c6f81a93121",
+    "name": "Chelsea Collins",
+    "email": "steveguzman@example.org",
+    "instagram_handle": "@andersonchristopher",
+    "tiktok_handle": "@heathersheppard",
+    "joined_at": "2024-02-13T06:29:24.184744",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "014d05ec-dc3c-4017-904f-9047b181aa1c",
+            "brand": "Martin-Baird",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2ca8573f-b062-4719-86da-82eb448e6e69",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://espinoza.org/",
+                    "likes": 5788,
+                    "comments": 201,
                     "shares": 35,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6957.67
         }
     ]
 }

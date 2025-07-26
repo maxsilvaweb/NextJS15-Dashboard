@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3b5a221e-a5ab-4a25-b380-e1af288fd932",
+    "name": "Vanessa Robinson",
+    "email": "randychapman@example.net",
+    "instagram_handle": "@hannah60",
+    "tiktok_handle": "@williamslinda",
+    "joined_at": "2023-10-09T15:13:49.013039",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "b937366f-d67b-4904-b07f-b9ea9b5a0888",
             "brand": "Kub, Weber and Grady",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "671768e2-f367-4b24-92dc-f9fe64c1e398",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.haas.com/",
+                    "likes": 7173,
+                    "comments": 383,
                     "shares": 23,
                     "reach": 6419
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2780.84
         }
     ]
 }

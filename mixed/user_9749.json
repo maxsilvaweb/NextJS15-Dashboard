@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "61ab1284-21fd-4779-a5a0-4d5e3551699e",
+    "name": "Kathryn Raymond",
+    "email": "steven49@example.net",
+    "instagram_handle": "@aallison",
+    "tiktok_handle": "@david74",
+    "joined_at": "2025-06-13T01:29:39.455550",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8fe35979-5acb-40a1-a02e-2da4f8bf4aa3",
+            "brand": "Austin and Sons",
             "tasks_completed": [
                 {
                     "task_id": "b1dddc07-73da-42bf-a330-de5540a3b574",
-                    "platform": 123,
+                    "platform": "TikTok",
                     "post_url": "https://lonely-airbus.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7527,
+                    "comments": 12,
                     "shares": 64,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9982.65
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "3cdcbb1f-3816-4792-9c1d-81c6c6f9a8a1",
     "name": "Helen Wisoky-Hettinger IV",
     "email": "Tyreek29@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@marissawood",
+    "tiktok_handle": "@michelle99",
+    "joined_at": "2023-08-20T03:36:54.383951",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c5dd9082-d22b-4f66-b96e-6ef0a0444e5f",
+            "brand": "Wade and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "987c2953-ecf7-4eb3-bcd7-8098260c39fb",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://woods.com/",
+                    "likes": 139,
+                    "comments": 469,
                     "shares": 83,
                     "reach": 9279
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5985.17
         }
     ]
 }

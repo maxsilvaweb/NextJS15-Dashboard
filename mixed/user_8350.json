@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "16fa0c5b-54ed-41d5-827e-e23bd4ee4bc8",
+    "name": "Greg Porter",
+    "email": "deniseorr@example.org",
+    "instagram_handle": "@matthew41",
+    "tiktok_handle": "@qmoore",
+    "joined_at": "2024-03-24T04:12:23.635126",
     "advocacy_programs": [
         {
             "program_id": "7093a195-5c31-4bbd-a05f-917a24e95b3d",
-            "brand": 12345,
+            "brand": "Ramirez-Long",
             "tasks_completed": [
                 {
                     "task_id": "951addde-e029-4c22-8ac4-70d25c7aac75",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.johnson.info/",
+                    "likes": 7946,
                     "comments": 26,
                     "shares": 47,
                     "reach": 5238
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8964.27
         }
     ]
 }

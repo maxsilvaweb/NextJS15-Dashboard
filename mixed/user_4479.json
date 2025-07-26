@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8612553e-44d5-4b6a-91d3-d4093bc415a0",
+    "name": "Sean Navarro",
+    "email": "oscarjohnson@example.org",
+    "instagram_handle": "@pgross",
+    "tiktok_handle": "@lisa21",
+    "joined_at": "2023-11-21T04:06:04.211595",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0a6d2130-441e-4b0f-918d-e162496095cc",
+            "brand": "Charles, Romero and Roberts",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "053a2333-ab68-417e-b77f-bb15324c8beb",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.santos.org/",
+                    "likes": 7194,
                     "comments": 15,
                     "shares": 25,
                     "reach": 9149
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2474.31
         }
     ]
 }

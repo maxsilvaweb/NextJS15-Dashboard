@@ -1,20 +1,20 @@
 {
     "user_id": "c283fda7-13ae-4b06-9af2-d0ea50c7fadb",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "name": "Joshua Jones",
+    "email": "ybass@example.org",
+    "instagram_handle": "@pamelarice",
     "tiktok_handle": "@Felix_Anderson",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-03-13T08:22:29.692963",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "13c77cc9-eb7a-4f2d-bfa2-153b28b55f3f",
+            "brand": "Brown PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c42d5950-aeeb-411a-a76e-a913ba89887b",
                     "platform": "Instagram",
                     "post_url": "https://nutritious-laughter.biz",
-                    "likes": "NaN",
+                    "likes": 54,
                     "comments": 39,
                     "shares": 91,
                     "reach": 7996

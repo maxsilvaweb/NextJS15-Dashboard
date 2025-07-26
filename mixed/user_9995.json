@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "b598fa41-f2dc-4428-a548-edbc7e32aafd",
+    "name": "Barbara Smith",
     "email": "Jaeden_Gottlieb@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@james19",
+    "tiktok_handle": "@jenniferscott",
+    "joined_at": "2025-05-22T11:03:58.945936",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f72f27c9-0b99-49f1-8e0d-416343c23ddc",
+            "brand": "Flores-Parker",
             "tasks_completed": [
                 {
                     "task_id": "e1aca938-210e-4faf-9269-522e379c6bcb",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://salinas-anderson.org/",
                     "likes": 132,
-                    "comments": null,
+                    "comments": 394,
                     "shares": 100,
                     "reach": 9623
                 }

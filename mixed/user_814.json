@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b82a4189-725b-46f6-a039-07ae754f02ed",
+    "name": "Michael Gardner",
+    "email": "annette58@example.net",
+    "instagram_handle": "@qsantos",
+    "tiktok_handle": "@melissaharvey",
+    "joined_at": "2023-11-13T09:34:37.367217",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "595ad678-2004-4544-91da-5da5f5865766",
+            "brand": "Campos-Edwards",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "f6c10805-a082-46d3-bc5b-e75a1c3edfb4",
+                    "platform": "YouTube",
+                    "post_url": "http://www.allen-adams.biz/",
                     "likes": 406,
                     "comments": 47,
                     "shares": 21,

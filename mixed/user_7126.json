@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cdfd7394-07e3-431c-803f-d68d148a7328",
+    "name": "Virginia Perry",
+    "email": "simpsoncharles@example.net",
+    "instagram_handle": "@pstephens",
+    "tiktok_handle": "@alexandralewis",
+    "joined_at": "2025-05-30T13:19:05.662339",
     "advocacy_programs": [
         {
             "program_id": "b307a79a-1384-492b-84e7-36f42cf2d177",
-            "brand": 12345,
+            "brand": "Mcclain LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c1042bdd-baa8-4caa-bb4e-faf3974b1405",
                     "platform": "Instagram",
                     "post_url": "https://gleaming-farmer.org",
-                    "likes": "NaN",
+                    "likes": 6207,
                     "comments": 11,
                     "shares": 17,
                     "reach": 660
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4517.35
         }
     ]
 }

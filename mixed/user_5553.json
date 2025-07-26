@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a3ea9a7d-d9f2-4f5d-8efe-9650fe1d3438",
+    "name": "Caleb Bowen",
+    "email": "lucasvasquez@example.com",
+    "instagram_handle": "@williamdoyle",
+    "tiktok_handle": "@anthonyevans",
+    "joined_at": "2025-04-25T03:13:28.385045",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7e82009a-fa09-43bc-b444-edb0d967e741",
+            "brand": "Rowe Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cf570008-e4b5-4556-aef9-f4e4d2cc03be",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://williams.com/",
+                    "likes": 2622,
                     "comments": 9,
                     "shares": 76,
                     "reach": 8710
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2805.38
         }
     ]
 }

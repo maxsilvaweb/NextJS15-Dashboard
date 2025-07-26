@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ab79a96c-2bdc-4ee8-8085-7fe3a05ff999",
+    "name": "Alexis Floyd",
+    "email": "jessica90@example.com",
+    "instagram_handle": "@gmorris",
+    "tiktok_handle": "@christine66",
+    "joined_at": "2024-09-16T15:05:40.110184",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3f28eddc-5a43-42e4-b95f-841aa4d0799b",
+            "brand": "Young-Edwards",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f4a4fe11-bdac-4b7a-b460-ea51b92af32b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.cox.com/",
+                    "likes": 6626,
+                    "comments": 65,
                     "shares": 56,
                     "reach": 6535
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5306.75
         }
     ]
 }

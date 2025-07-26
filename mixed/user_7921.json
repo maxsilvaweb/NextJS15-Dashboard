@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f52fe458-4eec-4771-b276-0a738772268d",
+    "name": "Jessica Bowers",
+    "email": "aaronrocha@example.com",
+    "instagram_handle": "@william56",
+    "tiktok_handle": "@helenbarnett",
+    "joined_at": "2023-11-01T20:32:14.703639",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5cb23841-ba1d-435f-9f0a-6ea063e2569c",
+            "brand": "Bradshaw-Wells",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bcfea6af-9924-4621-871d-9810672c306a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://allen-nelson.com/",
+                    "likes": 760,
                     "comments": 5,
                     "shares": 93,
                     "reach": 3828
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1719.46
         }
     ]
 }

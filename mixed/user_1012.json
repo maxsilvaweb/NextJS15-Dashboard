@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0553c215-105b-493c-b892-6578ea5edb95",
+    "name": "Jacob Cunningham",
+    "email": "autumn13@example.net",
+    "instagram_handle": "@crystalwinters",
+    "tiktok_handle": "@callahandiana",
+    "joined_at": "2023-11-26T12:56:26.071196",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "78dd621b-908a-4c9b-ba1a-2aac13fd69a2",
             "brand": "Wilderman, Konopelski and Wilkinson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "28f69932-44d5-4668-80d1-8e6a29eb308f",
+                    "platform": "Twitter",
+                    "post_url": "https://www.mueller.com/",
                     "likes": 107,
                     "comments": 2,
                     "shares": 34,
                     "reach": 5877
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6478.53
         }
     ]
 }

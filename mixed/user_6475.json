@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "84f2873b-9551-4f78-8a9b-fbaa81f6472e",
+    "name": "Vincent Harper",
+    "email": "chad81@example.net",
+    "instagram_handle": "@montesfrederick",
+    "tiktok_handle": "@gsanders",
+    "joined_at": "2023-12-11T07:50:12.407564",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "70f16188-1661-499d-b531-4c77f23d7870",
+            "brand": "Mann-Anderson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "03e168a1-c550-4213-bf25-75b39a966148",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.taylor-salas.info/",
+                    "likes": 7172,
+                    "comments": 358,
                     "shares": 29,
                     "reach": 1738
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2858.95
         }
     ]
 }

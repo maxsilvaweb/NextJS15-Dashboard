@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "75020711-d31c-450d-ad23-0b724091fe52",
+    "name": "Brooke Harrington",
     "email": "Myrtice_Franey29@hotmail.com",
     "instagram_handle": "@Sierra26",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@whitneytara",
+    "joined_at": "2024-02-02T22:13:46.263876",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7516c8a3-e3ba-46e4-b8f1-bb3d82cc3d10",
+            "brand": "Bridges-Nelson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "19f3d059-b6e4-4323-8ec8-518a5303ce7e",
                     "platform": "Facebook",
                     "post_url": "https://ruddy-accompanist.biz",
-                    "likes": "NaN",
+                    "likes": 5493,
                     "comments": 36,
                     "shares": 33,
                     "reach": 2155
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6368.35
         }
     ]
 }

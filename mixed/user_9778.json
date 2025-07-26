@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "22d3d3e8-41a4-4cdf-9667-9b86832c9842",
+    "name": "Scott Mccoy",
     "email": "Zetta.Christiansen@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@panderson",
+    "tiktok_handle": "@boonewesley",
+    "joined_at": "2025-04-02T07:24:16.884092",
     "advocacy_programs": [
         {
             "program_id": "223560b2-db5f-4958-8cef-8da113b08459",
-            "brand": 12345,
+            "brand": "Ramos, Chung and White",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5a24859b-07ff-433c-b7f0-ea6be7563fbd",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.kennedy.biz/",
                     "likes": 296,
-                    "comments": null,
+                    "comments": 343,
                     "shares": 29,
                     "reach": 727
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5850.09
         }
     ]
 }

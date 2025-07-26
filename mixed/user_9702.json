@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "042cf267-c325-414c-bac5-4b29640819ee",
+    "name": "Alan Shaffer",
+    "email": "ewilson@example.net",
+    "instagram_handle": "@martinalexandria",
+    "tiktok_handle": "@tamara96",
+    "joined_at": "2024-03-05T07:50:08.353348",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "078c788d-bd2e-458f-89ab-f01895feca31",
             "brand": "Streich - Langworth",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "88ca8d03-c11c-42ab-8bba-04bba3ed1f72",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.jones.info/",
+                    "likes": 5756,
                     "comments": 34,
                     "shares": 69,
                     "reach": 4469
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2137.74
         }
     ]
+}

@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e6e25b85-1335-4df4-af8c-efeb584b426e",
+    "name": "Jonathan Thompson",
+    "email": "brittney41@example.com",
+    "instagram_handle": "@wpeters",
+    "tiktok_handle": "@isimmons",
+    "joined_at": "2024-06-08T19:00:23.860307",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2d3a2a59-fb8e-4c99-8d8f-609bcfe8c7d8",
+            "brand": "Maldonado-Carter",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "df1c566b-dd6d-441f-9071-3fcde4988078",
+                    "platform": "YouTube",
+                    "post_url": "https://davis.net/",
+                    "likes": 6333,
+                    "comments": 151,
                     "shares": 78,
                     "reach": 3402
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2583.28
         }
     ]
+}

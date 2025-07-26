@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "323b2f6a-b79f-474d-b1b3-145a8d6fb882",
+    "name": "Theresa Vazquez",
+    "email": "ijones@example.org",
+    "instagram_handle": "@brianbowman",
+    "tiktok_handle": "@kellymorales",
+    "joined_at": "2024-06-21T03:42:54.803457",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2c6dd425-b7c8-4346-a741-729e25d4aedf",
+            "brand": "Howell Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "8407b99e-ce63-4774-a231-1a30ffa1e788",
+                    "platform": "Twitter",
+                    "post_url": "http://gray.com/",
                     "likes": 81,
                     "comments": 49,
                     "shares": 50,
                     "reach": 5060
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4196.04
         }
     ]
 }

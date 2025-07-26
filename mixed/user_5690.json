@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "047d2b3f-4675-452f-8b46-caff9e8491d3",
     "name": "Penny O'Conner",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "angeladonaldson@example.org",
+    "instagram_handle": "@bullocklisa",
+    "tiktok_handle": "@patriciajohnson",
+    "joined_at": "2024-01-30T23:42:11.181543",
     "advocacy_programs": [
         {
             "program_id": "63ce4630-7591-467f-a584-7324c9d6ec5d",
-            "brand": 12345,
+            "brand": "Oneal-Richards",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d2d5973b-b7a7-4343-989a-65b978614700",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://gregory-thomas.com/",
+                    "likes": 2536,
+                    "comments": 371,
                     "shares": 63,
                     "reach": 3076
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3432.8
         }
     ]
 }

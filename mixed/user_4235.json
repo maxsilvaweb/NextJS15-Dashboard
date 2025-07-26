@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f279ae36-e44d-4910-a863-3874cf3c5f6f",
+    "name": "Scott Francis",
+    "email": "ramosjohn@example.org",
+    "instagram_handle": "@amybanks",
+    "tiktok_handle": "@justin83",
+    "joined_at": "2024-10-03T22:58:40.465800",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7cfa5af5-6455-45e0-b0ea-fb0e21285016",
+            "brand": "Gill, Jacobs and Burton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2d159d0c-a84a-4875-ae92-ce3e355389b0",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.maldonado.com/",
+                    "likes": 227,
+                    "comments": 330,
                     "shares": 65,
                     "reach": 5254
                 }

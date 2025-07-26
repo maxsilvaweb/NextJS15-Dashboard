@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "76a45a72-8060-4d13-ba38-e4f4efe18c48",
+    "name": "Mark Arellano",
+    "email": "phillipsangela@example.com",
+    "instagram_handle": "@gary64",
+    "tiktok_handle": "@paulalewis",
+    "joined_at": "2023-12-07T16:04:50.382555",
     "advocacy_programs": [
         {
             "program_id": "11d5c99b-193c-4ef9-bd69-a565f479836b",
-            "brand": 12345,
+            "brand": "Garcia-Mills",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "20a6ebed-8c5d-4943-911a-c20175238201",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://lester.com/",
+                    "likes": 7063,
                     "comments": 9,
                     "shares": 15,
                     "reach": 3024
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2930.73
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "efda3cbe-459e-4c11-b2ce-8051b3d5e3ec",
+    "name": "Lisa Williams",
+    "email": "sean51@example.org",
+    "instagram_handle": "@greenjacob",
+    "tiktok_handle": "@qrobinson",
+    "joined_at": "2023-08-07T11:11:52.624975",
     "advocacy_programs": [
         {
             "program_id": "d7f53a0a-e5f9-4543-aa41-da7aaf0129a2",
-            "brand": 12345,
+            "brand": "Harper LLC",
             "tasks_completed": [
                 {
                     "task_id": "84b4aa82-83c7-40b7-92ae-f1087e446a2f",
                     "platform": "Instagram",
                     "post_url": "https://hairy-defendant.biz/",
-                    "likes": "NaN",
+                    "likes": 5230,
                     "comments": 35,
                     "shares": 87,
                     "reach": 6803
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8109.74
         }
     ]
 }

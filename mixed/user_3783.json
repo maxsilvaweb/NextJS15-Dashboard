@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2077dabd-df35-454b-bd1c-0415d78bc35c",
+    "name": "Scott Ryan MD",
+    "email": "petersonjoshua@example.net",
+    "instagram_handle": "@castillonicholas",
+    "tiktok_handle": "@ltapia",
+    "joined_at": "2023-11-25T12:04:09.828857",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "38f39790-677e-4f39-bd3e-05ab30b98c24",
+            "brand": "Castro Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fd3f6c23-a6f5-4662-a2f4-7e20175ceee5",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://mitchell.biz/",
+                    "likes": 7501,
+                    "comments": 261,
                     "shares": 100,
                     "reach": 1239
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7955.13
         }
     ]
 }

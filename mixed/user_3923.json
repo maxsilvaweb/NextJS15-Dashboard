@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6cdb7353-2c9d-4024-b50f-5938b7f4852d",
+    "name": "Jessica Wiley",
+    "email": "matthewglover@example.com",
+    "instagram_handle": "@camachoedward",
+    "tiktok_handle": "@iroberts",
+    "joined_at": "2024-09-25T18:11:04.746580",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "356c1a54-7733-484f-930d-af7cd629dd71",
+            "brand": "Gutierrez, Hawkins and Andrews",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "010f97b2-29b1-40df-b47d-5163bbf45625",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.faulkner-hernandez.com/",
+                    "likes": 3568,
+                    "comments": 198,
                     "shares": 14,
                     "reach": 8987
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5516.75
         }
     ]
 }

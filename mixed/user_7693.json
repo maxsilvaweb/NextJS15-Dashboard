@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "064112ff-e1bd-42a8-85ff-630a8abaaf6b",
+    "name": "Eric Howard",
+    "email": "christophersullivan@example.org",
+    "instagram_handle": "@james65",
+    "tiktok_handle": "@campbelljanet",
+    "joined_at": "2024-11-24T05:59:25.353823",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "45db71cc-d972-4786-a148-af1f903bf1cf",
+            "brand": "Duran, Freeman and Carpenter",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "687fa636-39f5-4583-9454-c995523480cb",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://miranda-george.biz/",
+                    "likes": 609,
+                    "comments": 286,
                     "shares": 68,
                     "reach": 5074
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7658.97
         }
     ]
 }

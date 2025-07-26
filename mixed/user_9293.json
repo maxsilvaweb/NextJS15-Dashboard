@@ -1,26 +1,26 @@
 {
     "user_id": "fc609e1b-46ff-4520-b9c2-b71aeca507cd",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Stephanie Huff",
+    "email": "andersontammy@example.org",
+    "instagram_handle": "@walkerlisa",
+    "tiktok_handle": "@deborahcombs",
+    "joined_at": "2024-02-08T10:34:35.667845",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3f8979e5-963e-4951-a207-cfa7878db9a9",
+            "brand": "Haas, Macias and Sullivan",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "051a1eeb-944c-432e-8126-2ba83000d38e",
+                    "platform": "Twitter",
+                    "post_url": "http://www.black.com/",
+                    "likes": 2201,
+                    "comments": 20,
                     "shares": 94,
                     "reach": 4215
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9389.78
         }
     ]
 }

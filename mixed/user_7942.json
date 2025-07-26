@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "605f6c4e-db4e-4223-abd5-4bf745a1a2aa",
+    "name": "Lucas Gibson",
+    "email": "justin84@example.org",
+    "instagram_handle": "@joseph29",
+    "tiktok_handle": "@jason40",
+    "joined_at": "2023-08-29T15:43:09.852246",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b56d89f8-ea4b-43ff-b5c0-9dd10649ee04",
+            "brand": "Boyd-George",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "95002576-33b8-44fb-b235-7016ec23eacd",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.lee.com/",
+                    "likes": 9990,
+                    "comments": 495,
                     "shares": 30,
                     "reach": 1334
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7407.11
         }
     ]
 }

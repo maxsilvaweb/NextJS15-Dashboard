@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "64f9de95-5fb4-48c9-a94c-d97c663d459c",
+    "name": "Bryce Zavala",
+    "email": "martinleslie@example.net",
     "instagram_handle": "@Henderson69",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@joshuanicholson",
+    "joined_at": "2025-05-07T08:57:28.206387",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "eb75ac43-8a06-49d6-8db0-a737c38d558e",
+            "brand": "Duncan, Hall and Lewis",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1fd73525-33ea-4608-a323-157733957d35",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.scott.com/",
+                    "likes": 3925,
+                    "comments": 281,
                     "shares": 27,
                     "reach": 3288
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9679.45
         }
     ]
 }

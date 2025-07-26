@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "da58e684-a0c1-424b-89f2-57abb89e51d3",
+    "name": "Melissa Freeman",
+    "email": "cyoung@example.net",
+    "instagram_handle": "@lawrenceerica",
+    "tiktok_handle": "@janice71",
+    "joined_at": "2024-08-24T05:26:46.920870",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "48cd5b04-4739-4b3a-91fa-1f43002cb37f",
+            "brand": "Cain-Baldwin",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5967d310-ec0b-4480-bd71-3721ed00cf17",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://simpson.biz/",
+                    "likes": 6138,
+                    "comments": 206,
                     "shares": 93,
                     "reach": 7427
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8272.03
         }
     ]
 }

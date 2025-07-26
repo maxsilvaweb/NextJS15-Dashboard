@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "21698547-cd49-4fb1-9358-21935eff9258",
+    "name": "Samuel Carpenter",
     "email": "Charley_Schuster29@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@wholland",
+    "tiktok_handle": "@tom34",
+    "joined_at": "2025-02-13T12:02:41.930478",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0255cad7-f5ec-4ad0-bc29-84331c3b0adc",
+            "brand": "Foster-Landry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "89cebddd-27d7-452d-b9b6-f43e15a73bf0",
                     "platform": "Facebook",
                     "post_url": "https://spanish-scenario.net/",
-                    "likes": "NaN",
+                    "likes": 1051,
                     "comments": 18,
                     "shares": 26,
                     "reach": 9089
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3579.31
         }
     ]
 }

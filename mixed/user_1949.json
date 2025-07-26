@@ -1,26 +1,26 @@
 {
     "user_id": "f9f664ea-005b-4285-9918-d2a725a910b1",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Ronald Foley",
+    "email": "portermartin@example.net",
+    "instagram_handle": "@alfredacosta",
+    "tiktok_handle": "@ryan66",
+    "joined_at": "2025-07-06T01:24:33.002808",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ca52b4f9-5522-4599-872d-fcb4e66c1aec",
+            "brand": "Parker, Gregory and Norris",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "1dea1c2a-86da-454c-9048-a4584de86a40",
+                    "platform": "TikTok",
+                    "post_url": "https://www.lester.com/",
+                    "likes": 584,
+                    "comments": 377,
                     "shares": 43,
                     "reach": 3111
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9306.75
         }
     ]
 }

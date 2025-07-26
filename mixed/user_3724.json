@@ -1,21 +1,21 @@
 {
     "user_id": "7c50e443-e7cf-47f5-bb1b-00808903ba94",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Suzanne Ware",
+    "email": "yharper@example.net",
+    "instagram_handle": "@jgibson",
+    "tiktok_handle": "@felicia62",
+    "joined_at": "2024-10-13T18:23:56.544806",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c4bf066a-c4ce-4954-a73e-561ef3f6c62c",
+            "brand": "Farley-Russo",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "31e2ee21-4969-4c26-bba7-d08113a1d361",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://martin.com/",
+                    "likes": 8066,
+                    "comments": 74,
                     "shares": 48,
                     "reach": 2888
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8c712c92-d3f1-448c-a685-2e4c8404e819",
+    "name": "John Williams",
+    "email": "vkelly@example.com",
+    "instagram_handle": "@umullen",
+    "tiktok_handle": "@shane67",
+    "joined_at": "2024-12-09T12:39:43.323870",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "383cbe57-f423-43d8-be96-f4eaedcd6a46",
+            "brand": "Harris-Russell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "310d0e1f-4167-400c-97ce-6212edfc3104",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://browning-rodgers.com/",
+                    "likes": 6980,
+                    "comments": 170,
                     "shares": 13,
                     "reach": 1057
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5438.82
         }
     ]
 }

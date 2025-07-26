@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5c3f4147-7bee-4053-aafe-33a2e76926a6",
+    "name": "Brittney Gibbs",
+    "email": "rachel32@example.org",
+    "instagram_handle": "@tvelasquez",
+    "tiktok_handle": "@phillipsalexander",
+    "joined_at": "2025-01-18T14:41:35.905799",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "10b469ac-a3e6-4800-8da2-00ef1fc4684d",
+            "brand": "Lucero, Browning and Miranda",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3373797a-69b2-43fc-9cc1-25c075366c0b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://mcgrath.net/",
+                    "likes": 5542,
                     "comments": 4,
                     "shares": 11,
                     "reach": 1121
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4595.27
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "51d586d5-48e3-454f-80f8-d80de1e200ee",
     "name": "Ginger Gislason",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "xbrown@example.com",
+    "instagram_handle": "@sarah97",
+    "tiktok_handle": "@ojones",
+    "joined_at": "2024-12-25T17:50:00.581825",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "60f10a61-6b1e-45ae-96bc-a4ac9884041f",
+            "brand": "Smith, Walls and Phillips",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6b353588-fc07-4a44-8c82-f6defbfb2529",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://garcia.com/",
+                    "likes": 569,
+                    "comments": 159,
                     "shares": 69,
                     "reach": 1443
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8703.93
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "db339737-fea0-48f8-b8b6-cded5623a5bb",
+    "name": "Sierra Walker",
+    "email": "webbmichael@example.org",
+    "instagram_handle": "@rwest",
+    "tiktok_handle": "@torrestimothy",
+    "joined_at": "2024-02-08T01:56:07.157061",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "0882749c-2454-4dad-929a-a6ef59800ba0",
             "brand": "Braun Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "40eb4d21-5cfd-4455-8be5-f9e24b1e7c54",
+                    "platform": "YouTube",
+                    "post_url": "http://www.lee-curry.com/",
+                    "likes": 9497,
                     "comments": 31,
                     "shares": 34,
                     "reach": 9338
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8025.49
         }
     ]
 }

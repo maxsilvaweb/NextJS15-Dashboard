@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f20b4f72-cffc-436d-a292-5e15ad9e5af1",
+    "name": "Daniel Morgan",
+    "email": "stevechambers@example.com",
+    "instagram_handle": "@debbie15",
+    "tiktok_handle": "@crystalhogan",
+    "joined_at": "2025-05-17T15:44:43.728944",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7c1ed6af-b226-40ee-940e-133e2fa2136b",
+            "brand": "Yang PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "32732967-7b28-4d52-86f8-8c3546178df2",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://hart.com/",
+                    "likes": 541,
+                    "comments": 198,
                     "shares": 12,
                     "reach": 7746
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3491.38
         }
     ]
 }

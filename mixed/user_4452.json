@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b6036a63-bbc8-4da7-9c29-388ab79ef665",
+    "name": "Nicholas Castro",
+    "email": "cathynelson@example.com",
+    "instagram_handle": "@gesparza",
+    "tiktok_handle": "@chelseahowe",
+    "joined_at": "2024-05-16T14:46:03.971884",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "860a302d-ea6a-4bf0-a0d7-32e791bcc1e2",
+            "brand": "Mckay, Mccullough and Ryan",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "c370e294-c11e-43fb-b6f9-847e21962051",
+                    "platform": "TikTok",
+                    "post_url": "http://www.gilbert.com/",
+                    "likes": 8292,
+                    "comments": 497,
                     "shares": 35,
                     "reach": 4534
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5255.95
         }
     ]
 }

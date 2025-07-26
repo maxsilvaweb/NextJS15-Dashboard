@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-56d0-422d-973b-33d721e2ae53",
-  "name": "Max Silva7",
-  "email": "maxsilvauk@22awwilwwdwdwd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-56d0-422d-973b-33d721e2ae53",
+    "name": "Max Silva7",
+    "email": "maxsilvauk@22awwilwwdwdwd.com",
+    "instagram_handle": "@kathleencarey",
+    "tiktok_handle": "@christina52",
+    "joined_at": "2024-11-24T11:29:27.276749",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "097c3dd8-5b55-48d0-bba9-eb90609c783e",
+            "brand": "Aguilar, Hutchinson and Wade",
+            "tasks_completed": [
+                {
+                    "task_id": "8bc48721-60d6-4a5a-93c4-4b0fed0bcfa4",
+                    "platform": "TikTok",
+                    "post_url": "http://www.oconnell-castaneda.biz/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 4202.47
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

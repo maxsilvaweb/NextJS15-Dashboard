@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f76e0a91-1e88-4b0d-a402-04ffb170bf71",
+    "name": "Cindy Perez",
+    "email": "timothygarrett@example.org",
+    "instagram_handle": "@gwalters",
+    "tiktok_handle": "@mark48",
+    "joined_at": "2024-02-04T00:50:28.654338",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "829a35e9-2553-48d0-83ed-7513a975ae42",
+            "brand": "Jordan-Bennett",
             "tasks_completed": [
                 {
                     "task_id": "1ab2db9b-bad2-4273-96ff-9cfe6be252be",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://mercado.org/",
+                    "likes": 8886,
                     "comments": 36,
                     "shares": 82,
                     "reach": 3185
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9956.88
         }
     ]
+}

@@ -1,21 +1,21 @@
 {
     "user_id": "bdcfdac9-4891-4424-b2d9-a2c73ea6c1a1",
-    "name": "???",
+    "name": "Kevin Norris",
     "email": "Santa_Harvey@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@wherman",
+    "tiktok_handle": "@richard81",
+    "joined_at": "2023-08-06T10:42:51.771875",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e319a916-4f93-42ad-8645-c17ed27ff400",
+            "brand": "Juarez-Peterson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "e4546e59-f291-455c-9b0f-772a8c46c5fb",
+                    "platform": "YouTube",
+                    "post_url": "https://www.pratt.com/",
+                    "likes": 2954,
+                    "comments": 431,
                     "shares": 67,
                     "reach": 8949
                 }

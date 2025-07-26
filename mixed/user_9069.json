@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1f96a2bb-5817-44e6-acef-8ba3307a9400",
+    "name": "James Crawford",
+    "email": "kathrynlewis@example.net",
+    "instagram_handle": "@jamescontreras",
+    "tiktok_handle": "@danieldavid",
+    "joined_at": "2024-12-24T22:01:23.330000",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fee061e3-e4bd-4a70-a436-cfbaded9e27c",
+            "brand": "Sanchez Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fc66b6b0-455e-4ba2-abeb-f54e4ded7459",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.thomas-johnson.com/",
+                    "likes": 1742,
+                    "comments": 32,
                     "shares": 76,
                     "reach": 9819
                 }

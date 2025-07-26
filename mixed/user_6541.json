@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a8a4ca82-2169-4b13-aa9c-1884695dc539",
+    "name": "Crystal Gibson",
+    "email": "barbara02@example.org",
+    "instagram_handle": "@carolsoto",
+    "tiktok_handle": "@smithsabrina",
+    "joined_at": "2024-04-27T00:01:55.036128",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5ebede6a-db7e-4a8a-9d1c-e6cae74f7002",
+            "brand": "Scott-Bryant",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "158c329f-8235-4fdf-bef2-b69c9855acc9",
                     "platform": "TikTok",
                     "post_url": "https://experienced-farmer.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5848,
+                    "comments": 376,
                     "shares": 78,
                     "reach": 5033
                 }

@@ -1,25 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "5928e884-658c-4639-a0dc-77bd4e9bb088",
     "name": "Bryant Hartmann",
     "email": "Scot.Okuneva61@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@boonechristopher",
+    "tiktok_handle": "@zamorajamie",
+    "joined_at": "2024-01-05T15:43:30.462191",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "672faa63-47b1-4c79-a937-e4e2b382386d",
+            "brand": "Knight, Howard and Wilson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4312d554-8abb-4194-aa70-dea8ae741457",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.gray.com/",
+                    "likes": 1580,
+                    "comments": 17,
                     "shares": 76,
                     "reach": 1027
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9656.52
         }
     ]
+}

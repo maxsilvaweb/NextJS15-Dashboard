@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a1561578-01a0-4929-8002-020022a0de3d",
+    "name": "Beverly Martinez",
+    "email": "johnsonchristopher@example.net",
+    "instagram_handle": "@ocarpenter",
+    "tiktok_handle": "@christinamyers",
+    "joined_at": "2025-05-14T14:59:09.488951",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cad20ded-c5da-43d6-b0fe-9060ec67160f",
+            "brand": "Smith-Thomas",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "a928290c-058f-4e95-bbbf-a7ce0b72303d",
+                    "platform": "Twitter",
                     "post_url": "https://plump-graffiti.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5141,
+                    "comments": 121,
                     "shares": 88,
                     "reach": 5784
                 }

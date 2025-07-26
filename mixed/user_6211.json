@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cb186e43-23b9-4c1e-b256-0ad18bf2bf75",
+    "name": "Taylor Blanchard",
+    "email": "mcdanielchad@example.com",
+    "instagram_handle": "@plawrence",
+    "tiktok_handle": "@edwardschad",
+    "joined_at": "2025-06-10T03:17:51.940500",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2e2f711e-08e4-4141-aef0-6c56b7079fea",
+            "brand": "Hoover and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ed58c8d9-aee6-4d65-97eb-d0ccd289e12c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.suarez.com/",
+                    "likes": 8084,
                     "comments": 19,
                     "shares": 81,
                     "reach": 3961
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4229.15
         }
     ]
 }

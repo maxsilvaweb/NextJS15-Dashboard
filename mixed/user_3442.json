@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0a615634-2bc7-4c48-9e02-143ae2e92609",
+    "name": "Lori Wolf",
+    "email": "coopereric@example.com",
+    "instagram_handle": "@anthonymcpherson",
+    "tiktok_handle": "@youngsherry",
+    "joined_at": "2023-10-09T18:49:18.736275",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "57b94748-cec5-4ad1-85f0-afff637a32ca",
+            "brand": "Rosales-Mcdonald",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "37c5e6aa-919e-4729-831f-8417f22e9a7b",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.cook.com/",
+                    "likes": 3774,
+                    "comments": 375,
                     "shares": 48,
                     "reach": 2494
                 }

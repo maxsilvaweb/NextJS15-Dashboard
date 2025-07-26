@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3c1d68e3-ee83-465e-b868-ed6783a3dbc5",
+    "name": "Gerald Garner",
+    "email": "robertsonanna@example.com",
+    "instagram_handle": "@bethany81",
+    "tiktok_handle": "@justinrobertson",
+    "joined_at": "2024-03-18T09:02:53.998573",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "534cc08e-6aa0-49a5-96c3-f9215fbd2ca5",
+            "brand": "Sullivan-Harris",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "ee54cae3-bd1d-4abc-8a09-ede4312e220f",
+                    "platform": "Instagram",
+                    "post_url": "https://cortez.net/",
+                    "likes": 5997,
                     "comments": 25,
                     "shares": 67,
                     "reach": 2022
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1674.78
         }
     ]
 }

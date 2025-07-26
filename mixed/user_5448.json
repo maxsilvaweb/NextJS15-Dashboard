@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bbd2f0f1-a331-4dbf-87d6-09a729facbf0",
+    "name": "William Mullins",
+    "email": "turnermary@example.org",
+    "instagram_handle": "@matthewsmith",
+    "tiktok_handle": "@donnarichardson",
+    "joined_at": "2025-04-08T08:21:08.740393",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1ca5b326-0cdd-4f07-b73a-1b242843c877",
+            "brand": "Gregory, Shah and Rice",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b2e4d79d-f87b-4ec3-9b6a-7e4cfea3e603",
                     "platform": "TikTok",
                     "post_url": "https://private-mousse.info",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4469,
+                    "comments": 230,
                     "shares": 41,
                     "reach": 4507
                 }

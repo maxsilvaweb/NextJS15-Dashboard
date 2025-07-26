@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "0d4cff2d-31c3-4e35-9554-0c4a9d36f661",
+    "name": "Colin Novak",
     "email": "Alison.Toy@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@freid",
+    "tiktok_handle": "@xcraig",
+    "joined_at": "2025-05-01T12:36:32.166269",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "32cfe027-efa5-49fc-af71-5b0273aa4dbd",
+            "brand": "Johnson, Williams and Simpson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0e888867-e34e-4c7c-8d13-d7468d656bbb",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://phillips.com/",
                     "likes": 218,
-                    "comments": null,
+                    "comments": 253,
                     "shares": 53,
                     "reach": 8806
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8978.01
         }
     ]
 }

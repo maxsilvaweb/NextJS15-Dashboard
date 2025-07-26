@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d933c901-6087-4eac-bf15-ebf5623b26d3",
+    "name": "Anne Bennett",
+    "email": "mikaylaingram@example.org",
+    "instagram_handle": "@zwhite",
+    "tiktok_handle": "@duane55",
+    "joined_at": "2025-03-09T17:43:10.956230",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e3fe11c6-aa43-4a9c-ae8a-7ae06db30e1e",
+            "brand": "Walter LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "365a6b59-3c73-43dc-a686-0172a0d628d6",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://martinez.net/",
+                    "likes": 8338,
                     "comments": 5,
                     "shares": 26,
                     "reach": 5411
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1586.23
         }
     ]
 }

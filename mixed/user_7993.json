@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "b995859f-4c01-48e2-be57-651d108db3b8",
+    "name": "Troy Dodson",
     "email": "Connie.Kuvalis26@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@raymichael",
+    "tiktok_handle": "@pfletcher",
+    "joined_at": "2025-07-15T20:45:32.040826",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bbea81ef-26da-49b4-8dc9-90637447259d",
+            "brand": "Riggs-Salinas",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "802b8b80-289d-47b6-98b9-7900cfdc8550",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://rich-watson.biz/",
+                    "likes": 502,
+                    "comments": 318,
                     "shares": 62,
                     "reach": 4221
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2357.72
         }
     ]
 }

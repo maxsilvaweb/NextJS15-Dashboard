@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "19e08a54-cacd-408e-8ea3-9621cfa01351",
+    "name": "Kathryn Frazier",
+    "email": "agarrett@example.org",
+    "instagram_handle": "@jacob40",
+    "tiktok_handle": "@acampos",
+    "joined_at": "2024-04-02T18:37:23.404789",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "27b994c3-c67d-42c2-b7e6-0ef05470bdb8",
+            "brand": "Owens LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ce75b055-73d1-458a-8424-ebf8c625b529",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.chapman.net/",
+                    "likes": 6483,
+                    "comments": 216,
                     "shares": 30,
                     "reach": 1561
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7879.37
         }
     ]
 }

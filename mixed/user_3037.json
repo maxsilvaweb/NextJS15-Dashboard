@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "f732cbfa-a3db-4caa-ac62-822f3453d050",
+    "name": "Heather West",
+    "email": "lawrenceronnie@example.com",
+    "instagram_handle": "@ibanks",
+    "tiktok_handle": "@robert06",
     "joined_at": "2024-10-18T18:21:00.995Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "65f3de2b-502f-4a26-b287-46e5355d1f60",
+            "brand": "Rojas-Larson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a23e1610-2788-4aaa-ad76-f9cc4a3770e1",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://johnson.com/",
+                    "likes": 9206,
+                    "comments": 414,
                     "shares": 99,
                     "reach": 8371
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8286.17
         }
     ]
 }

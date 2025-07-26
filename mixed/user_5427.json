@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e9f3c246-99c5-4860-affa-97a3e06c6a63",
+    "name": "Anne Stout",
+    "email": "molly05@example.org",
+    "instagram_handle": "@chelsea06",
+    "tiktok_handle": "@darrencruz",
+    "joined_at": "2024-05-08T21:06:55.019320",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5c745b62-e528-4f20-9214-d5b3e728379e",
+            "brand": "Kelley, Phillips and Bass",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "99742e4f-9e74-4b21-98f2-486e25f47bf5",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.abbott.biz/",
+                    "likes": 4026,
+                    "comments": 174,
                     "shares": 54,
                     "reach": 2789
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9757.52
         }
     ]
 }

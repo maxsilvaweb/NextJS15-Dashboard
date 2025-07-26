@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "9674673f-e517-44d4-9532-384bd1207b70",
+    "name": "Terri Reynolds",
     "email": "Josiah18@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@nwilliams",
+    "tiktok_handle": "@ayersmichael",
+    "joined_at": "2024-09-22T10:28:50.334175",
     "advocacy_programs": [
         {
             "program_id": "16d72b3f-76d9-4ff8-898a-66d0ac752fa8",
-            "brand": 12345,
+            "brand": "Roman and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c94aa361-5802-48d5-8881-8f76fba4e82c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://simmons.info/",
                     "likes": 95,
-                    "comments": null,
+                    "comments": 382,
                     "shares": 85,
                     "reach": 7396
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4988.98
         }
     ]
 }

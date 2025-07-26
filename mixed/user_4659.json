@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c3039b77-cd86-435d-8bf9-5c37ee13cea2",
+    "name": "Brian Brown",
+    "email": "leblancjamie@example.net",
+    "instagram_handle": "@lorimclean",
+    "tiktok_handle": "@nguyenamanda",
+    "joined_at": "2024-02-13T12:12:39.421641",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "825d1074-6a4d-405c-9603-20ddab125960",
+            "brand": "Rodriguez-Faulkner",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7d83f46f-1637-4cc5-b2b4-7413690a16d7",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.simpson.info/",
+                    "likes": 3041,
+                    "comments": 367,
                     "shares": 66,
                     "reach": 3937
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 270.83
         }
     ]
 }

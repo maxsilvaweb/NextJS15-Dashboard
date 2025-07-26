@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1e795776-d25b-49c4-b25c-0dc20cd0143e",
+    "name": "Lisa Hernandez",
+    "email": "ashley64@example.com",
+    "instagram_handle": "@hbell",
+    "tiktok_handle": "@lacey00",
+    "joined_at": "2024-01-31T15:22:52.643466",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7be8416d-262e-4899-8735-43397c618422",
+            "brand": "Green-Graham",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "71987c50-ebc1-44f5-bdd9-5a333d1cae5e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.love-scott.net/",
+                    "likes": 9392,
+                    "comments": 116,
                     "shares": 75,
                     "reach": 9394
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8763.85
         }
     ]
 }

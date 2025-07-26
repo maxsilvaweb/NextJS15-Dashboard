@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2798fdc6-cc16-4a7e-9cd3-ab512fec3875",
+    "name": "William Porter",
+    "email": "bryan86@example.net",
+    "instagram_handle": "@annobrien",
+    "tiktok_handle": "@joshua92",
+    "joined_at": "2024-05-27T05:04:52.129080",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "15138ef3-9671-4e4d-bebf-66554b8305cd",
+            "brand": "Lopez-Castillo",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0585db20-dffd-4fa1-9ed2-4bca4b9fe517",
                     "platform": "TikTok",
                     "post_url": "https://sweet-lender.net",
-                    "likes": "NaN",
+                    "likes": 9119,
                     "comments": 30,
                     "shares": 49,
                     "reach": 6437
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5668.45
         }
     ]
+}

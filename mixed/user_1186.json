@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "02ef0b35-7bd9-4629-9867-065d2a4cfb35",
+    "name": "Michael Wilson",
+    "email": "christian53@example.org",
+    "instagram_handle": "@victoria74",
+    "tiktok_handle": "@shannonjordan",
+    "joined_at": "2025-05-08T08:50:37.687525",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1776a0a7-5b18-47fe-ad7a-acc28b8a97e3",
+            "brand": "Jimenez, Adkins and Owens",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "8474ae45-3e45-4bd6-970e-472437d64e10",
+                    "platform": "Instagram",
+                    "post_url": "https://www.alexander.biz/",
+                    "likes": 5902,
+                    "comments": 157,
                     "shares": 36,
                     "reach": 2347
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7456.84
         }
     ]
 }

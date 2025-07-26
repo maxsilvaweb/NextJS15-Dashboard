@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "b762dd86-4c3b-4526-bb7b-01b6fd2e18e0",
+    "name": "Victoria Walker",
+    "email": "sierramurphy@example.org",
+    "instagram_handle": "@kmassey",
+    "tiktok_handle": "@hhamilton",
     "joined_at": "2025-03-05T07:35:32.670Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9938f36b-37ef-486f-800a-21a4099fb3c6",
+            "brand": "Warren Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "af5ab476-617c-4979-b3fe-f14bd4f131bb",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://drake.org/",
+                    "likes": 253,
+                    "comments": 160,
                     "shares": 42,
                     "reach": 6101
                 }

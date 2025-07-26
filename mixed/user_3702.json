@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c150d167-10c4-4e30-8e03-0fe47c45419a",
+    "name": "Suzanne Romero",
+    "email": "thomastina@example.com",
+    "instagram_handle": "@ravensmith",
+    "tiktok_handle": "@ryanelizabeth",
+    "joined_at": "2025-03-06T05:22:50.550970",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b1cb4871-9370-480a-9102-0d39cacd45c4",
+            "brand": "Morse Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "e677dc2e-8a59-491a-811c-eb75bf58ae7b",
+                    "platform": "YouTube",
+                    "post_url": "https://www.harmon.com/",
+                    "likes": 8837,
+                    "comments": 354,
                     "shares": 58,
                     "reach": 6399
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3942.34
         }
     ]
 }

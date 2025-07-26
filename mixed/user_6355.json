@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "c3413137-0de9-460d-845f-a854e0e7f807",
+    "name": "Darren Bell",
     "email": "Demond25@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@laurenlamb",
+    "tiktok_handle": "@jmartin",
+    "joined_at": "2025-03-15T09:28:02.290237",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "de72e360-8523-4726-b2cf-97f1312c42aa",
+            "brand": "Harris-Boyer",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "70cb69ce-b819-4a2c-aad1-5ac08eb5fd0b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://grimes-smith.com/",
+                    "likes": 3828,
                     "comments": 34,
                     "shares": 20,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5854.53
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "2f627812-b281-415f-9260-106b9916ea5d",
+    "name": "Collin Mason",
+    "email": "patrick01@example.org",
+    "instagram_handle": "@mark54",
+    "tiktok_handle": "@prestonalexander",
     "joined_at": "2024-05-26T08:06:57.373Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f7c1ff54-22c0-43bf-809c-041fb3ea0aa3",
+            "brand": "Carter, Mathis and Torres",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c70ecad3-1497-43fc-8fb6-5c9ef8044839",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.whitaker.com/",
+                    "likes": 630,
+                    "comments": 227,
                     "shares": 8,
                     "reach": 1817
                 }

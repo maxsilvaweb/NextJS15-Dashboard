@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "68dc76c7-a4b9-4c19-88c8-4387a37bbd20",
+    "name": "Jason Khan",
+    "email": "lisa30@example.net",
+    "instagram_handle": "@brianjohnson",
+    "tiktok_handle": "@katelyn41",
+    "joined_at": "2023-12-28T14:54:14.419775",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9f8e6a7c-43be-4312-91dd-21e522856911",
+            "brand": "Harrison-Bell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "93081e6c-cef2-4f92-a1bc-26522cadc7da",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.dunn-flores.com/",
+                    "likes": 6767,
+                    "comments": 467,
                     "shares": 63,
                     "reach": 3706
                 }

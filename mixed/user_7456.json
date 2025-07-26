@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d05885ba-99fc-4aba-92a0-2d875f1555da",
+    "name": "Timothy Moran",
+    "email": "alex07@example.com",
+    "instagram_handle": "@candacepope",
+    "tiktok_handle": "@amywilliams",
+    "joined_at": "2023-09-13T01:05:06.583394",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "52c4f3a5-0952-4d3d-87b5-3474576b88fe",
+            "brand": "Montoya Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "a3755d32-0f7a-4d65-8452-0efa829483fd",
+                    "platform": "YouTube",
+                    "post_url": "http://www.watkins-simmons.com/",
+                    "likes": 9995,
+                    "comments": 17,
                     "shares": 2,
                     "reach": 5967
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8054.74
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "2a8e7940-4f8f-4c4f-92cf-6dbbd0496442",
+    "name": "Dr. Desiree Carson",
     "email": "Delfina20@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@juan27",
+    "tiktok_handle": "@julia30",
+    "joined_at": "2024-12-22T01:52:04.019157",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "401f22b7-a1de-44f8-a780-ed9ec449d074",
+            "brand": "Woods-Howard",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "27e3ca39-e719-4795-a513-081a604fc7b9",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://alexander.info/",
+                    "likes": 6494,
+                    "comments": 133,
                     "shares": 48,
                     "reach": 6957
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8786.11
         }
     ]
 }

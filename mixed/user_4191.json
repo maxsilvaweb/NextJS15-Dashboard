@@ -1,25 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "4af8b6f0-12e6-4c95-b897-f2ec5481df38",
     "name": "Darnell Osinski",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "leah21@example.org",
+    "instagram_handle": "@crivers",
+    "tiktok_handle": "@jonesdanielle",
+    "joined_at": "2024-06-21T10:38:32.698334",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b4f7e167-29db-4fd8-b61f-0a375876f74d",
+            "brand": "Pham-Rogers",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2803fd1b-2d9e-4a5f-a2eb-4f94120eaee7",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://mcintyre.com/",
+                    "likes": 974,
+                    "comments": 16,
                     "shares": 24,
                     "reach": 6865
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8369.57
         }
     ]
+}

@@ -1,17 +1,17 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5c3508fd-922c-4fee-8287-07c8588672a6",
+    "name": "William Espinoza",
+    "email": "frederick57@example.com",
+    "instagram_handle": "@jeffrey80",
+    "tiktok_handle": "@bryantandrew",
+    "joined_at": "2024-08-11T18:36:58.472471",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "aefc2130-7723-4d85-a926-240fb6939fbb",
+            "brand": "Contreras, Robinson and Jensen",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "76139a40-8d21-46be-af71-2e02f43391fd",
                     "platform": "Facebook",
                     "post_url": "https://extroverted-tectonics.name",
                     "likes": 126,
@@ -20,6 +20,7 @@
                     "reach": 1780
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9526.48
         }
     ]
+}

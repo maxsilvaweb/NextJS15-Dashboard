@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "018fc4c8-bb27-42c2-adc1-34cd47713254",
+    "name": "Anthony Conner",
+    "email": "keithlittle@example.com",
+    "instagram_handle": "@pricedouglas",
+    "tiktok_handle": "@kthomas",
+    "joined_at": "2024-11-01T16:23:30.706196",
     "advocacy_programs": [
         {
             "program_id": "bb5b1e18-674e-4317-972a-e0550ed26ae1",
-            "brand": 12345,
+            "brand": "Rodriguez, Greene and Alexander",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ed385394-f88a-4d4e-bb05-d9baf797ae01",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://jones-garner.com/",
+                    "likes": 8449,
+                    "comments": 23,
                     "shares": 49,
                     "reach": 6262
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2530.89
         }
     ]
 }

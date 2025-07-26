@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1db29c6c-acb4-4739-a833-f605d64ad987",
+    "name": "Robin Roberson",
+    "email": "johnnunez@example.org",
+    "instagram_handle": "@castrochristian",
+    "tiktok_handle": "@vazquezchloe",
+    "joined_at": "2025-02-01T13:27:23.404303",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "6df1b615-5dec-459c-9aef-c35b686d6fda",
             "brand": "Adams, Shanahan and Lang",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "81acfe04-4087-441d-adbe-6b1fd88da941",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.wilson.net/",
+                    "likes": 9809,
+                    "comments": 154,
                     "shares": 70,
                     "reach": 1754
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4158.45
         }
     ]
 }

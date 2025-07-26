@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a197dfcf-af51-4595-8fff-c033007a15d3",
+    "name": "Caitlin Callahan",
+    "email": "butlermonique@example.org",
+    "instagram_handle": "@mariohall",
+    "tiktok_handle": "@hrobinson",
+    "joined_at": "2023-10-21T05:21:35.255311",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "76608153-7ed5-47b5-8a43-f87750eb008e",
+            "brand": "Butler, Ortega and Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "734e4a10-0d9b-4862-bdbf-76baf7099eec",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://turner.biz/",
                     "likes": 234,
-                    "comments": null,
+                    "comments": 224,
                     "shares": 80,
                     "reach": 3654
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3366.32
         }
     ]
 }

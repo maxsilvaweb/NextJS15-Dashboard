@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aa2a4fdb-87de-4c0c-99b3-4390b4410695",
+    "name": "Julia Greene",
+    "email": "jhernandez@example.net",
+    "instagram_handle": "@fboyd",
+    "tiktok_handle": "@michelle70",
+    "joined_at": "2024-03-22T08:55:48.254896",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d9e3615d-f2ef-4dd5-b4c2-364e1ac6c75b",
+            "brand": "Cooper-Weaver",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "6c4ffe11-0859-4727-9dd1-0656fc9a220f",
+                    "platform": "TikTok",
+                    "post_url": "https://baldwin.biz/",
+                    "likes": 6705,
+                    "comments": 448,
                     "shares": 65,
                     "reach": 4116
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9318.19
         }
     ]
 }

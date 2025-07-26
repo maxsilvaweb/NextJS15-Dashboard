@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0a2aac1d-5bfc-48d9-87f9-edb27281c2c1",
+    "name": "Derek Pacheco",
+    "email": "denise68@example.com",
+    "instagram_handle": "@sroach",
+    "tiktok_handle": "@christinebrown",
+    "joined_at": "2024-09-06T16:37:00.924507",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7130fd69-23af-454a-9a58-189e83797189",
+            "brand": "Deleon, Higgins and Martin",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8b0b84b6-532b-483f-8c73-f9a6db2b5d78",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.roberts.com/",
+                    "likes": 4075,
+                    "comments": 96,
                     "shares": 43,
                     "reach": 1867
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8815.61
         }
     ]
 }

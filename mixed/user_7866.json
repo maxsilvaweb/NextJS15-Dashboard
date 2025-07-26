@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0ea76e81-2311-4626-adc8-58c8369166db",
+    "name": "Susan Nichols",
+    "email": "ibrown@example.net",
+    "instagram_handle": "@petersnatalie",
+    "tiktok_handle": "@brett18",
+    "joined_at": "2024-08-28T16:58:12.763208",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "143b2357-132d-4ae7-8245-19376098e5d4",
+            "brand": "Solis LLC",
             "tasks_completed": [
                 {
                     "task_id": "c1d3369f-128d-474c-b72a-ded63f43e655",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "Instagram",
+                    "post_url": "http://barnes.net/",
+                    "likes": 5749,
+                    "comments": 28,
                     "shares": 89,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6246.35
         }
     ]
 }

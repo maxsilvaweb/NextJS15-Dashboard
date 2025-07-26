@@ -1,21 +1,21 @@
 {
     "user_id": "f8e691b7-8810-4e6d-b89e-b16857eb099c",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Andrea Proctor",
+    "email": "jamieaguirre@example.org",
+    "instagram_handle": "@garciajacob",
+    "tiktok_handle": "@thomas76",
+    "joined_at": "2024-04-14T19:45:41.031790",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2b71c4a9-c1f7-4ef3-ab71-0ee6ea890dab",
+            "brand": "Nelson Group",
             "tasks_completed": [
                 {
                     "task_id": "f1aa916d-3be6-41ed-876c-85211dd4a69f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://hughes.com/",
                     "likes": 214,
-                    "comments": null,
+                    "comments": 55,
                     "shares": 62,
                     "reach": 8314
                 }

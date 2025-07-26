@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3a390991-30ba-481d-bede-f702ad5ffbc5",
+    "name": "Gregory Ferguson",
+    "email": "vglass@example.com",
+    "instagram_handle": "@robertwilkins",
+    "tiktok_handle": "@williamwalker",
+    "joined_at": "2024-04-09T23:43:55.224621",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b7975c45-31aa-48b8-93e4-f66f12c3cbcb",
+            "brand": "Estes, Young and Salazar",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5088021f-d645-45bf-88ce-bd888656f5eb",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://tyler-kelley.com/",
+                    "likes": 7019,
                     "comments": 15,
                     "shares": 97,
                     "reach": 1839
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5203.09
         }
     ]
 }

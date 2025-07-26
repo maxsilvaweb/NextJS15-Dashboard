@@ -1,21 +1,21 @@
 {
     "user_id": "27d96946-348c-4790-b8cc-aa7e327187cb",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Joshua Burns",
+    "email": "david90@example.org",
+    "instagram_handle": "@fdaniels",
+    "tiktok_handle": "@johnhall",
+    "joined_at": "2024-06-12T09:06:55.387842",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "28f7eaa5-b9f8-4b6a-94d5-4c020ca4b7ca",
+            "brand": "Patrick-Brown",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cb32ae36-9d1a-4da9-9931-699651c34e1e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.taylor.com/",
+                    "likes": 8489,
+                    "comments": 406,
                     "shares": 35,
                     "reach": 7349
                 }

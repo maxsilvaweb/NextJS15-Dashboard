@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1e481a87-0e65-4146-95d1-dc856599d4f6",
+    "name": "Melvin Soto",
+    "email": "dave14@example.com",
+    "instagram_handle": "@madison05",
+    "tiktok_handle": "@ztucker",
+    "joined_at": "2024-02-05T01:21:35.499352",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7a9e7bc9-ed0c-40b6-9a62-40e0d0ad47c8",
+            "brand": "Greer LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "531f233b-427a-4c48-93e8-75ff6a17c097",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://smith-hernandez.info/",
+                    "likes": 5297,
+                    "comments": 48,
                     "shares": 21,
                     "reach": 8445
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6361.81
         }
     ]
 }

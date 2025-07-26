@@ -1,19 +1,19 @@
 {
-    "user_id": null,
+    "user_id": "b4af6039-af46-457d-a4d0-d9274e4f470d",
     "name": "Jim Volkman",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "larry01@example.net",
+    "instagram_handle": "@rodriguezjames",
+    "tiktok_handle": "@jordan07",
+    "joined_at": "2024-12-01T18:15:18.132971",
     "advocacy_programs": [
         {
             "program_id": "1b12e79b-53e8-4ed5-bced-fdb48d447b74",
-            "brand": 12345,
+            "brand": "White-Martin",
             "tasks_completed": [
                 {
                     "task_id": "bc31d36d-11f0-4d19-820a-1536f393639d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://castillo.org/",
                     "likes": 274,
                     "comments": 27,
                     "shares": 28,

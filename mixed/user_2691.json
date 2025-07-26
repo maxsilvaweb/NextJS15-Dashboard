@@ -1,26 +1,26 @@
 {
     "user_id": "ce4b2a74-37d1-4603-8400-64e7cd3ea5cb",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Matthew Brock",
+    "email": "kimberlyholmes@example.net",
+    "instagram_handle": "@timothyjohnson",
+    "tiktok_handle": "@michellebarton",
+    "joined_at": "2024-02-05T08:00:07.858081",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7790eeb5-7d30-4d86-abc7-fdbb7ed04db1",
+            "brand": "Baker LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fc6d51d4-fd79-41ed-ad50-29ac5088c36f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://jordan-baldwin.biz/",
+                    "likes": 867,
+                    "comments": 23,
                     "shares": 3,
                     "reach": 9408
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9330.82
         }
     ]
 }

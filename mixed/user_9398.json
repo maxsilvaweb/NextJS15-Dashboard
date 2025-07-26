@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "b9792c4f-1b22-46f1-b3c2-c8b48ce3cbc2",
+    "name": "Taylor Shaw",
+    "email": "matthewgomez@example.net",
+    "instagram_handle": "@tinamorales",
+    "tiktok_handle": "@guy21",
     "joined_at": "2024-05-23T00:14:49.059Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "52a186de-781f-4971-a4ee-d76165229118",
+            "brand": "Hill LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2b5c4821-9792-4d39-942f-dfee68b81579",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.hammond-swanson.com/",
                     "likes": 193,
-                    "comments": null,
+                    "comments": 201,
                     "shares": 96,
                     "reach": 1709
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6302.6
         }
     ]
 }

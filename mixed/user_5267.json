@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b0462450-9464-4e91-ba76-b66efe144e5c",
+    "name": "Heather Taylor",
+    "email": "ajacobson@example.net",
+    "instagram_handle": "@jamesperkins",
+    "tiktok_handle": "@william40",
+    "joined_at": "2024-02-10T04:49:56.899822",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9bcd6822-fa90-48a8-accc-5029b72a9cd1",
+            "brand": "Ross, Wiggins and Jordan",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bee71eaf-90cd-4fe7-84c8-a4ed56879f41",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.russell.com/",
                     "likes": 398,
                     "comments": 4,
                     "shares": 5,

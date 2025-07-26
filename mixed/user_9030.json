@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f40ae3a1-d439-4e21-aa14-696361fbe45a",
+    "name": "Kristen Bridges",
+    "email": "herrerarobert@example.com",
+    "instagram_handle": "@richard19",
+    "tiktok_handle": "@lori55",
+    "joined_at": "2024-12-29T02:16:28.294832",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cf7d6419-9d48-4ca4-9774-13a234fe3888",
+            "brand": "Evans Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "ab3db913-d798-45d7-b03d-1b3f674bc5b9",
+                    "platform": "YouTube",
+                    "post_url": "https://wells.biz/",
                     "likes": 407,
-                    "comments": null,
+                    "comments": 246,
                     "shares": 11,
                     "reach": 5477
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3399.33
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8618cb29-c79d-42d8-9c80-9182deeb4bbe",
+    "name": "Michael West MD",
+    "email": "norrislindsey@example.com",
+    "instagram_handle": "@charlesmaldonado",
+    "tiktok_handle": "@michael76",
+    "joined_at": "2025-02-13T00:25:22.114201",
     "advocacy_programs": [
         {
             "program_id": "c9df3b8e-4855-4411-a928-56e8c868da95",
             "brand": "Sanford Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "3933d612-39dc-4145-b549-db0dac95fe66",
+                    "platform": "Twitter",
+                    "post_url": "http://www.berg.com/",
                     "likes": 179,
                     "comments": 34,
                     "shares": 67,
                     "reach": 2348
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8170.0
         }
     ]
 }

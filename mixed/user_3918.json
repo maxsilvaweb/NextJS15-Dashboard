@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "82a26214-0713-44fb-8a07-5104716ede02",
+    "name": "Jill Acosta",
     "email": "Vivien_Lind-Hagenes@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@calebcowan",
+    "tiktok_handle": "@gabriel87",
+    "joined_at": "2024-01-05T05:54:56.866079",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "302eba2f-c135-479e-a0f4-a0f7f386ff71",
+            "brand": "Wilkerson Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8db98dfe-b1d8-45a2-9427-be975f9eeb16",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.york-haas.com/",
                     "likes": 190,
                     "comments": 4,
                     "shares": 75,
                     "reach": 5226
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7264.16
         }
     ]
 }

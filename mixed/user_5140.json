@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "50f62d3e-18d9-4f1c-a6ef-5789183320f2",
+    "name": "Shawn Hawkins",
+    "email": "jessicaschroeder@example.com",
+    "instagram_handle": "@dale83",
+    "tiktok_handle": "@richardjacobs",
+    "joined_at": "2024-02-15T08:13:22.528915",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "16bbcfeb-5bc7-4dae-9778-aa2f409f2ee0",
+            "brand": "Howard-Collins",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "59a05caa-6f6b-4b63-8938-1d92b3185714",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.gonzalez-carpenter.biz/",
+                    "likes": 775,
                     "comments": 35,
                     "shares": 5,
                     "reach": 3782
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6176.22
         }
     ]
 }

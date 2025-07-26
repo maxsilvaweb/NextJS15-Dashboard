@@ -1,25 +1,26 @@
 {
     "user_id": "48c131a2-0703-4ceb-a8c6-4cdf35c78ddf",
-    "name": "???",
+    "name": "Jonathan Vaughan",
     "email": "Lauriane.Fahey69@yahoo.com",
     "instagram_handle": "@Gwen_Abbott",
     "tiktok_handle": "@Anastasia.Klocko",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-03-01T01:15:31.065524",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c543be40-0d0b-4da1-9846-44a47821342d",
+            "brand": "Carter, Jennings and Foley",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "791764ef-1b04-463e-84c4-63c3972ec549",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://reed.com/",
+                    "likes": 9280,
+                    "comments": 97,
                     "shares": 70,
                     "reach": 1322
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8500.65
         }
     ]
+}

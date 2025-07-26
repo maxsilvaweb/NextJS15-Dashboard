@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4f896abe-f967-4349-8f9f-3174532145de",
+    "name": "Amy Lutz",
+    "email": "robertstanley@example.net",
+    "instagram_handle": "@tara94",
+    "tiktok_handle": "@bellmark",
+    "joined_at": "2024-01-22T03:08:05.003776",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e56476f3-18cd-495c-9294-4a5507c17df7",
+            "brand": "Miranda, Choi and Roberts",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3765184c-a69e-4e67-a414-ae3767a4af79",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://roberts.org/",
                     "likes": 113,
                     "comments": 0,
                     "shares": 97,
                     "reach": 1484
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4136.51
         }
     ]
 }

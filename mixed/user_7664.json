@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a7e0782e-5456-4f45-9487-fcd83e459390",
+    "name": "Alexander Sawyer",
+    "email": "tibarra@example.org",
+    "instagram_handle": "@daviskathleen",
+    "tiktok_handle": "@joeltaylor",
+    "joined_at": "2024-01-01T13:03:26.172386",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "32fa2216-a2c7-4e59-98fc-51570e6f9764",
             "brand": "Langosh LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "8805c724-24b7-463e-9a51-6dd252765d71",
+                    "platform": "Twitter",
+                    "post_url": "https://sims.com/",
                     "likes": 189,
-                    "comments": null,
+                    "comments": 20,
                     "shares": 86,
                     "reach": 5019
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8113.63
         }
     ]
 }

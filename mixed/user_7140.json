@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d0712471-5be9-4ba7-8cb4-413bf32e3e13",
+    "name": "Diana Macdonald",
+    "email": "ramosmark@example.com",
+    "instagram_handle": "@brian55",
+    "tiktok_handle": "@brittany01",
+    "joined_at": "2023-12-18T00:56:11.012278",
     "advocacy_programs": [
         {
             "program_id": "642def0f-9a7d-4481-b425-95201ab9f07e",
             "brand": "Ritchie Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cb33112c-da69-448d-8c2b-22622104902a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.arias.com/",
+                    "likes": 5148,
                     "comments": 17,
                     "shares": 69,
                     "reach": 4538
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8943.72
         }
     ]
 }

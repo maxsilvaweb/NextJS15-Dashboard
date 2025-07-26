@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dc5e6fde-a93d-4768-a38c-806c4d76825b",
+    "name": "Mr. Aaron Mcdaniel",
+    "email": "jeremy82@example.org",
+    "instagram_handle": "@clarklisa",
+    "tiktok_handle": "@sanchezalexandra",
+    "joined_at": "2024-05-09T05:12:38.379132",
     "advocacy_programs": [
         {
             "program_id": "c858bc3f-c191-4b17-976a-7ade6d279f5f",
-            "brand": 12345,
+            "brand": "Macias Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e22d86bd-27f9-4bc3-aab6-d683eb6294e7",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.bridges.com/",
+                    "likes": 7957,
                     "comments": 14,
                     "shares": 53,
                     "reach": 5817
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6144.5
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "be80b592-b164-4d94-8b47-3a41385ee7a8",
+    "name": "Brittany Davis",
+    "email": "jill36@example.com",
+    "instagram_handle": "@jessica59",
     "tiktok_handle": "@Ulises.Daniel",
     "joined_at": "2024-09-06T03:45:32.421Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "94e807f9-cf04-4511-8bd0-ee16803e9eae",
+            "brand": "Jones LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "83fe6df1-f81e-4cf7-ada6-ce2356fe74ca",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://cole.com/",
+                    "likes": 4910,
                     "comments": 46,
                     "shares": 92,
                     "reach": 9466
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6100.87
         }
     ]
 }

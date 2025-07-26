@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cf0bcd6d-9747-45b6-93e2-3d4e2f352b32",
+    "name": "Mrs. Danielle Boyd MD",
+    "email": "justin39@example.com",
+    "instagram_handle": "@jasonallison",
+    "tiktok_handle": "@gomezpatricia",
+    "joined_at": "2024-08-28T15:01:22.493371",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b4d9d4c9-025e-4554-a208-f79a0efb2461",
+            "brand": "Johnson, Rojas and Taylor",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c3845013-0a18-46c4-b134-db1b39ac9f43",
                     "platform": "Facebook",
                     "post_url": "https://wretched-silk.com",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8394,
+                    "comments": 17,
                     "shares": 76,
                     "reach": 1564
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3434.65
         }
     ]
 }

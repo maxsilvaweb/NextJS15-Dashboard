@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "6ad000ab-39fc-4545-8386-2c82c98db568",
+    "name": "Jesse Stafford",
     "email": "Kayla_Lubowitz@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@swansontyler",
+    "tiktok_handle": "@megananderson",
+    "joined_at": "2024-10-08T15:39:09.626454",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "10296da5-c7d5-46b3-a626-cbda882fd523",
+            "brand": "Brown, Alexander and Mcdowell",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "1e871a8d-3e97-447d-a727-c0688619fab5",
+                    "platform": "TikTok",
+                    "post_url": "https://www.west.com/",
+                    "likes": 4341,
                     "comments": 36,
                     "shares": 85,
                     "reach": 842

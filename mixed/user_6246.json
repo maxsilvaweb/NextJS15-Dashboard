@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6776d06f-202d-4c85-b416-e7efc66d4746",
+    "name": "Mary Grant",
+    "email": "gdickson@example.org",
+    "instagram_handle": "@brownregina",
+    "tiktok_handle": "@michaelmcgee",
+    "joined_at": "2024-09-10T03:16:42.399752",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8ad59e17-8b27-4091-bd0d-23a3c0a680e4",
+            "brand": "Smith-Gibson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ec24188a-40ca-4bdc-b1f8-4f2ef82bd234",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://harris.com/",
+                    "likes": 6138,
+                    "comments": 392,
                     "shares": 15,
                     "reach": 6205
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6576.53
         }
     ]
 }

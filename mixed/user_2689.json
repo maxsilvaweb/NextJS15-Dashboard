@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a308476d-98ce-4b52-aebe-4f38e1dc30d5",
+    "name": "Jonathan White",
+    "email": "lewislarry@example.org",
+    "instagram_handle": "@riggssusan",
+    "tiktok_handle": "@lynchkrystal",
+    "joined_at": "2024-11-07T15:16:51.389882",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "70ffab88-c34e-475d-b52c-93c756f11f27",
+            "brand": "Harris, Garcia and Garza",
             "tasks_completed": [
                 {
                     "task_id": "43b4be47-d77f-4009-a1e3-d64f510ecfde",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.coleman.org/",
+                    "likes": 8413,
+                    "comments": 39,
                     "shares": 6,
                     "reach": 1295
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3858.01
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "53a40d69-5485-4627-86f8-1ad8b6db0c6d",
+    "name": "Melinda Kline",
+    "email": "lsmith@example.com",
+    "instagram_handle": "@fgreen",
+    "tiktok_handle": "@marvinanderson",
+    "joined_at": "2024-08-29T05:04:39.871364",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "30c3761a-f9f7-4367-af6e-f13827923a02",
+            "brand": "Castaneda-Paul",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "0100a25a-7809-4785-8e09-a8b283207c12",
+                    "platform": "YouTube",
+                    "post_url": "http://long-sanchez.com/",
+                    "likes": 5798,
+                    "comments": 303,
                     "shares": 39,
                     "reach": 4028
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4825.65
         }
     ]
 }

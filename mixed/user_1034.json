@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3c0ecf2b-ee6f-44eb-a903-95b3034d7648",
+    "name": "Amanda Mckenzie",
+    "email": "brownmichael@example.org",
+    "instagram_handle": "@washingtontom",
+    "tiktok_handle": "@awilliams",
+    "joined_at": "2024-03-02T20:28:08.870348",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ebb43b0e-0000-4503-9ad0-35a2ccffa1d2",
+            "brand": "Kelley-Collins",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dc5b815d-f882-4587-96d6-6207d9166a39",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.collins.info/",
+                    "likes": 8753,
                     "comments": 32,
                     "shares": 24,
                     "reach": 6256
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1778.9
         }
     ]
 }

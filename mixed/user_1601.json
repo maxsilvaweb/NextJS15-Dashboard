@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "b87f213b-d92e-4616-9796-2616db664eb7",
+    "name": "Allison Hill",
     "email": "Lisandro58@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@dawn82",
+    "tiktok_handle": "@anthony97",
     "joined_at": "2024-06-05T19:14:51.085Z",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "00099cdb-6f62-4f2d-a154-e1667cd1dc7e",
             "brand": "Abernathy and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "d2db770c-803e-479b-a1c6-24fd47a3df90",
+                    "platform": "YouTube",
+                    "post_url": "https://www.mcintosh-cameron.biz/",
+                    "likes": 199,
                     "comments": 1,
                     "shares": 29,
                     "reach": 8579
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 367.52
         }
     ]
 }

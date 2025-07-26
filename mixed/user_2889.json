@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "84304512-e5fd-4d0a-a77d-bf6e397fe2e1",
+    "name": "Duane Hampton",
+    "email": "xavierkirk@example.org",
+    "instagram_handle": "@amberjordan",
+    "tiktok_handle": "@alexanderkatelyn",
+    "joined_at": "2024-12-10T22:32:11.247550",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "89829486-7b9d-4151-82ff-4508d01c056f",
             "brand": "Littel - MacGyver",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "5b212963-0458-4570-8238-76c11ee0c7e7",
+                    "platform": "TikTok",
                     "post_url": "https://skeletal-poetry.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6209,
+                    "comments": 384,
                     "shares": 11,
                     "reach": 9427
                 }

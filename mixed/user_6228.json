@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "93cf5983-ccc4-4bd5-a3c9-f0154df1bd7b",
+    "name": "Jeffrey Preston",
+    "email": "hayesjulie@example.org",
+    "instagram_handle": "@zvance",
+    "tiktok_handle": "@fmedina",
+    "joined_at": "2023-12-06T15:52:13.828772",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fc375635-8f13-487c-b1fa-64b9972c1ea5",
+            "brand": "Allen-Rivera",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9c1de165-d60d-4690-b32a-a3dfefdfd800",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://cobb.org/",
+                    "likes": 779,
+                    "comments": 272,
                     "shares": 62,
                     "reach": 1971
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 806.36
         }
     ]
 }

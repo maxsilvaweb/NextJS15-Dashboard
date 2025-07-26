@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "507f26e3-275d-421a-8e28-1eb61915c694",
+    "name": "Darlene Davidson",
+    "email": "vweaver@example.net",
+    "instagram_handle": "@johnsonsherri",
+    "tiktok_handle": "@cartermegan",
+    "joined_at": "2024-04-19T17:07:15.839803",
     "advocacy_programs": [
         {
             "program_id": "a306757d-7a41-4c1a-8fee-0fdd6624af1d",
-            "brand": 12345,
+            "brand": "Swanson, Allen and Parker",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "60b92db2-73b8-4d57-8a83-0b6715de1071",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://benson.biz/",
+                    "likes": 8528,
                     "comments": 50,
                     "shares": 99,
                     "reach": 3010
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3801.42
         }
     ]
 }

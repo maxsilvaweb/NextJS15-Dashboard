@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "de848516-a054-4cd3-a707-a9d6a4b4bd7b",
+    "name": "Tonya Gutierrez",
+    "email": "michael12@example.net",
+    "instagram_handle": "@richard76",
+    "tiktok_handle": "@cory44",
     "joined_at": "2024-12-31T16:43:53.322Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "94b37d96-96d1-4625-b04f-061a0248fb60",
+            "brand": "Edwards-Cowan",
             "tasks_completed": [
                 {
                     "task_id": "3ebf7a3e-eb13-4d51-9e67-2a0dca82e360",
-                    "platform": 123,
+                    "platform": "YouTube",
                     "post_url": "https://colossal-heating.org",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8977,
+                    "comments": 392,
                     "shares": 84,
                     "reach": 8445
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7515.01
         }
     ]
 }

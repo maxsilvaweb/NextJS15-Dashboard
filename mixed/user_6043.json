@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cc3d6940-279e-471b-b49d-a1a3961f27b1",
+    "name": "Brittney Parker",
+    "email": "skelly@example.com",
+    "instagram_handle": "@jwilliams",
+    "tiktok_handle": "@michaelmorales",
+    "joined_at": "2024-07-01T14:46:20.062034",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ad4a9a7b-9400-400d-a7b8-7a971b266871",
+            "brand": "Bush, Short and Taylor",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f57da0c1-2ede-48c8-bb72-df6ea5da10d2",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.murray.net/",
+                    "likes": 6974,
+                    "comments": 0,
                     "shares": 50,
                     "reach": 2068
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1583.99
         }
     ]
 }

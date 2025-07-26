@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "eb1447ce-3ca1-4006-a8e0-5f5bda1cddd6",
+    "name": "John Kelly",
+    "email": "frostpriscilla@example.com",
+    "instagram_handle": "@peter76",
+    "tiktok_handle": "@ydaugherty",
+    "joined_at": "2025-01-28T02:52:35.350287",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "20082842-18a5-4b4a-950a-411ee01fb409",
+            "brand": "Hall LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "c96069eb-0be2-4d4b-8135-7340e17c14c3",
+                    "platform": "YouTube",
                     "post_url": "https://sure-footed-role.net",
-                    "likes": "NaN",
+                    "likes": 2812,
                     "comments": 15,
                     "shares": 73,
                     "reach": 7075

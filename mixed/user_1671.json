@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "90fa9c14-bd9b-4df7-b23c-53969f49860e",
+    "name": "John Mccarthy",
+    "email": "michaelbarr@example.org",
+    "instagram_handle": "@bowmanjohn",
+    "tiktok_handle": "@phillipcortez",
+    "joined_at": "2025-03-25T02:37:37.190456",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "39a7b1c7-d52e-4c38-9f01-dd0d4c607ad3",
+            "brand": "Smith, Matthews and Robbins",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "670aa291-386d-4488-a909-e56935549a87",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.mendoza.com/",
+                    "likes": 4121,
+                    "comments": 317,
                     "shares": 21,
                     "reach": 2448
                 }

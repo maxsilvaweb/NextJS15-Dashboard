@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c6985eaa-c650-4264-bb82-9c2ffc5816c1",
+    "name": "Marc Anderson",
+    "email": "gutierrezcynthia@example.org",
+    "instagram_handle": "@huntertracy",
+    "tiktok_handle": "@joeladams",
+    "joined_at": "2024-04-21T00:54:44.208069",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c57ba66c-b7b9-45d9-b09f-67f037252fb1",
+            "brand": "Farrell-Rasmussen",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7f1e1159-04c2-4750-97f2-b4794b42da5e",
                     "platform": "Instagram",
                     "post_url": "https://honorable-dash.name/",
-                    "likes": "NaN",
+                    "likes": 6802,
                     "comments": 48,
                     "shares": 70,
                     "reach": 5894
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1078.36
         }
     ]
 }

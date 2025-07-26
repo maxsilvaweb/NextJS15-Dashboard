@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6a1f13b2-96cb-4a99-94b9-700f1856670e",
+    "name": "Sherry Reyes",
+    "email": "gail50@example.net",
+    "instagram_handle": "@mark02",
+    "tiktok_handle": "@dmcintosh",
+    "joined_at": "2023-09-27T14:09:43.085207",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "462b0541-ebd1-4cd1-a1a8-0dc6d415aad1",
+            "brand": "Knight, Sanchez and Tanner",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7ecdcf9b-c97a-4f62-8da1-cc45359e1e8b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://lopez.com/",
+                    "likes": 8378,
+                    "comments": 447,
                     "shares": 27,
                     "reach": 7992
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3434.48
         }
     ]
 }

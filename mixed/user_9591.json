@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "21e239b9-873d-4d5c-b123-3ce9354dc248",
     "name": "Robin Stroman",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "edward31@example.org",
+    "instagram_handle": "@kewing",
+    "tiktok_handle": "@justinwoodward",
+    "joined_at": "2024-07-25T08:21:41.133585",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "465d26d6-93a0-4048-a8f3-1803fbc2be06",
+            "brand": "Leon, Lewis and Weaver",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1526ba3d-5e1f-4950-a17c-c5fa6f19acb4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://gill-dennis.org/",
+                    "likes": 842,
                     "comments": 18,
                     "shares": 12,
                     "reach": 6191
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4109.11
         }
     ]
 }

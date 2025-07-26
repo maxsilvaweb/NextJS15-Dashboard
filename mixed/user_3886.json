@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a289401e-b7a6-4524-8f92-52c1cd0a66f8",
+    "name": "Elizabeth Allison",
+    "email": "thomaslozano@example.com",
+    "instagram_handle": "@kmccann",
+    "tiktok_handle": "@randallfowler",
+    "joined_at": "2024-09-11T06:37:03.464784",
     "advocacy_programs": [
         {
             "program_id": "05cfe2db-cfbd-4363-81e4-95d068d60707",
-            "brand": 12345,
+            "brand": "Tucker PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3e38b5b6-c674-4257-9b64-bd0075f93615",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://chavez-harrell.com/",
+                    "likes": 151,
                     "comments": 15,
                     "shares": 45,
                     "reach": 3550
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8069.4
         }
     ]
+}

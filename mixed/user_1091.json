@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e47097d9-0084-446a-b106-31217b287a70",
+    "name": "Geoffrey Walters",
+    "email": "scottsantana@example.com",
+    "instagram_handle": "@ctaylor",
+    "tiktok_handle": "@millerbrianna",
+    "joined_at": "2024-04-09T15:08:59.814414",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "86405711-7909-4679-b17d-8e1bdf0a4d3e",
+            "brand": "Franklin-Lawrence",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "615fceaa-da83-4160-9b1a-ffd6b2aef02c",
                     "platform": "TikTok",
                     "post_url": "https://ordinary-bracelet.info",
                     "likes": 400,
-                    "comments": null,
+                    "comments": 91,
                     "shares": 75,
                     "reach": 9516
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3590.67
         }
     ]
 }

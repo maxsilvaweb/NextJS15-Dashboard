@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "a1e1f211-ee5f-4410-86a9-9592f9e6240f",
+    "name": "David Hill",
+    "email": "potterjennifer@example.com",
     "instagram_handle": "@Benjamin.Hilll",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@gdavis",
+    "joined_at": "2024-05-04T17:33:19.965694",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "01ed7bae-a568-494d-bfd9-f8aaf8be1900",
+            "brand": "Carroll-Knight",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f45f8569-8710-4dc2-822c-f1c86d00887a",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://brown.info/",
+                    "likes": 2666,
+                    "comments": 187,
                     "shares": 10,
                     "reach": 5814
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5794.13
         }
     ]
 }

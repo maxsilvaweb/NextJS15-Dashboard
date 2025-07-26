@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7da191ed-a6e6-4de0-9ab1-43ae55c3cfba",
+    "name": "Cassandra Smith",
+    "email": "danielledaniels@example.org",
+    "instagram_handle": "@cheryl54",
+    "tiktok_handle": "@alan17",
+    "joined_at": "2025-03-17T06:05:00.034771",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ed6d2a52-a16b-4acd-8864-55fcad7495da",
+            "brand": "Davis Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "fa7d30b4-6108-447f-bf45-9af978e3ff8b",
+                    "platform": "TikTok",
+                    "post_url": "http://yang.com/",
+                    "likes": 5841,
+                    "comments": 94,
                     "shares": 49,
                     "reach": 1451
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2453.87
         }
     ]
 }

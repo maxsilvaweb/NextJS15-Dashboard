@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3195f860-a71f-4543-8968-acc7b14fc5dd",
+    "name": "Steven Schultz",
+    "email": "austin29@example.net",
+    "instagram_handle": "@richardwallace",
+    "tiktok_handle": "@jason11",
+    "joined_at": "2024-12-02T07:30:15.243119",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "eb9a71cc-54b3-4b9f-b9f2-35f46c80a335",
+            "brand": "Rojas, Mcfarland and Gonzalez",
             "tasks_completed": [
                 {
                     "task_id": "3a7af829-a20e-45b7-8c0a-be29f689ee1e",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.johnson-lee.biz/",
+                    "likes": 1456,
+                    "comments": 413,
                     "shares": 4,
                     "reach": 2431
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7907.27
         }
     ]
 }

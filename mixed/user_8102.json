@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "05317856-6dc8-4fcc-8768-629ec2bb9d95",
+    "name": "Frank Grant",
+    "email": "richardcole@example.net",
+    "instagram_handle": "@cvega",
+    "tiktok_handle": "@paula81",
+    "joined_at": "2023-12-29T21:30:15.942029",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a6b7ecbd-8871-464d-ab1e-0b940d6ca53f",
+            "brand": "Ramirez Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "496b5294-b4ec-48eb-847c-b924e990ad84",
+                    "platform": "TikTok",
+                    "post_url": "http://www.hale.com/",
                     "likes": 102,
-                    "comments": null,
+                    "comments": 245,
                     "shares": 61,
                     "reach": 5371
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9754.05
         }
     ]
 }

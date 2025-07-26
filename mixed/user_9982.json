@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "cbeccb58-7f46-4788-ac18-528a15da92ed",
+    "name": "Kaitlyn Diaz",
     "email": "Janice89@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@davidsonwesley",
+    "tiktok_handle": "@karen30",
+    "joined_at": "2025-03-24T20:38:50.492035",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d400dd4b-e1cc-4c92-a24d-3ffed4d129fe",
+            "brand": "Cook Group",
             "tasks_completed": [
                 {
                     "task_id": "9504194d-a224-40cf-8f1b-bdbcb605249b",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.vargas.com/",
+                    "likes": 643,
+                    "comments": 138,
                     "shares": 18,
                     "reach": 4006
                 }

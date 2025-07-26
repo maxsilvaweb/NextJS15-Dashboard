@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4359f800-a335-4398-b8be-7420488c2062",
+    "name": "Chelsea Allen",
+    "email": "chasetaylor@example.net",
+    "instagram_handle": "@kenneth19",
+    "tiktok_handle": "@mhill",
+    "joined_at": "2024-10-24T07:14:06.003692",
     "advocacy_programs": [
         {
             "program_id": "20f701d9-5302-4a54-aee5-3bef26ab49bb",
-            "brand": 12345,
+            "brand": "Santiago-Hernandez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "421fc0d4-bd76-47a7-b044-15902d4f9727",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.brooks-powers.net/",
+                    "likes": 5708,
+                    "comments": 433,
                     "shares": 62,
                     "reach": 9974
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5374.82
         }
     ]
 }

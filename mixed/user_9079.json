@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4128c05e-e833-4ab7-8bf3-543bcde83fd6",
+    "name": "Linda Turner",
+    "email": "isaiah32@example.org",
+    "instagram_handle": "@hayeswilliam",
+    "tiktok_handle": "@huffpamela",
+    "joined_at": "2025-07-17T20:25:43.633488",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "949c150f-e0b2-4125-89b8-7b306fe7f295",
+            "brand": "Jennings, Davis and Hooper",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "31e9a388-f5eb-4129-b148-bd1f878b4f68",
+                    "platform": "Instagram",
                     "post_url": "https://exalted-marksman.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1860,
+                    "comments": 96,
                     "shares": 50,
                     "reach": 1240
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6017.32
         }
     ]
 }

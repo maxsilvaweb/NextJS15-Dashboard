@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "4027cd1d-69eb-4d16-b7ff-face05d54cad",
+    "name": "Kimberly Savage",
     "email": "Dino_OKeefe@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@esanders",
+    "tiktok_handle": "@deborah30",
     "joined_at": "2025-03-10T02:38:23.768Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c1839ef1-c1ec-4eac-8611-4a41d59c7038",
+            "brand": "Ray, Welch and Harper",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e8cd5ae4-4ea8-40b4-a816-e83dace6f7ba",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://higgins.biz/",
+                    "likes": 7311,
+                    "comments": 206,
                     "shares": 71,
                     "reach": 4485
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 411.56
         }
     ]
 }

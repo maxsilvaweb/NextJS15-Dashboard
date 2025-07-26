@@ -1,26 +1,26 @@
 {
     "user_id": "8a1a7ca7-b091-4912-9430-7cf6a09ffe2a",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Patricia Davis",
+    "email": "carsonjessica@example.com",
+    "instagram_handle": "@vwade",
+    "tiktok_handle": "@mhernandez",
+    "joined_at": "2024-12-02T04:51:50.154579",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "18691301-ac2d-4c44-89ab-63616e206d6a",
+            "brand": "Walker-Gallagher",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c81edf1e-cffd-4284-8ad6-1743ff580934",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://ramos.info/",
+                    "likes": 2625,
                     "comments": 31,
                     "shares": 28,
                     "reach": 8135
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 768.14
         }
     ]
 }

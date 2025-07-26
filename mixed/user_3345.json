@@ -1,26 +1,26 @@
 {
     "user_id": "349cb8fc-2370-42f3-acba-238c8ca5c6dc",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Brianna Wright",
+    "email": "qrichardson@example.net",
+    "instagram_handle": "@sarasimpson",
+    "tiktok_handle": "@cwilson",
+    "joined_at": "2023-12-15T03:41:49.792784",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d7611789-5e23-46c9-ad67-4c3530307d05",
+            "brand": "Wilson-Howard",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7e216edb-3aa1-42e8-9663-7944bed8657d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.roth-jones.com/",
+                    "likes": 6111,
+                    "comments": 237,
                     "shares": 25,
                     "reach": 8114
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8845.3
         }
     ]
 }

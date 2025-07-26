@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "5cb81db6-397c-4bf1-89f4-a804b57d4c72",
+    "name": "Brittany Vargas",
+    "email": "christopher88@example.net",
+    "instagram_handle": "@tina64",
     "tiktok_handle": "@Janis77",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-04-01T02:34:59.620136",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "aa8eb358-de10-42b3-81cc-588b6a8bbe3d",
+            "brand": "Martinez Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dd4a62e3-457e-4997-8926-a9e13ce20f22",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.adams.biz/",
+                    "likes": 6672,
                     "comments": 40,
                     "shares": 17,
                     "reach": 3387

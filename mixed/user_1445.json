@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "13e17559-7f0d-4d62-a9b2-d9b94933f6aa",
+    "name": "Mr. Harry Smith",
+    "email": "ngriffin@example.org",
+    "instagram_handle": "@wheelernicholas",
+    "tiktok_handle": "@thomasamber",
+    "joined_at": "2024-09-16T06:49:01.500831",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f8f52110-4e35-41af-beab-2a5d1d1db626",
+            "brand": "Ferguson-Burton",
             "tasks_completed": [
                 {
                     "task_id": "a7440ad5-e47f-42dd-a96c-74ecd6996fde",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.brown-reynolds.com/",
+                    "likes": 3381,
+                    "comments": 495,
                     "shares": 7,
                     "reach": 2142
                 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f7dc730d-0591-4cc7-842e-7fb7770eddd1",
+    "name": "Maria Wang",
+    "email": "fmartin@example.com",
+    "instagram_handle": "@malonechristie",
+    "tiktok_handle": "@blackmatthew",
+    "joined_at": "2025-07-22T09:39:33.377755",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dcfafb98-1813-4bf5-9a6a-930576d858e3",
+            "brand": "Moreno, Sims and Hoffman",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5f5575c4-2080-4755-b4ff-10c28d328801",
                     "platform": "Facebook",
                     "post_url": "https://lasting-stay.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 164,
+                    "comments": 84,
                     "shares": 5,
                     "reach": 916
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 4552.601934103811
         }
     ]
+}

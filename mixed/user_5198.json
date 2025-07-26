@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "858d8c95-1171-454c-8009-61dc15265679",
+    "name": "Sonya Montoya",
     "email": "Darrick_Rath77@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@daniel23",
+    "tiktok_handle": "@amber64",
+    "joined_at": "2024-05-12T15:54:43.701750",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1fdb70f1-1466-400a-836b-f9a0a9ca4998",
+            "brand": "Allen, Perez and Meyer",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "222b0c72-eb01-4501-adfa-b87d468495fd",
                     "platform": "TikTok",
                     "post_url": "https://dazzling-skean.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9936,
+                    "comments": 30,
                     "shares": 68,
                     "reach": 7936
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5529.53
         }
     ]
 }

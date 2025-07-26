@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a8d6f2b3-d2bb-485a-9bc0-c9bc9b9218c8",
+    "name": "Craig Perez MD",
     "email": "Santina32@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@juliebailey",
+    "tiktok_handle": "@pachecokimberly",
+    "joined_at": "2024-12-02T03:44:19.059981",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4200964b-21fc-462f-93a8-0c73e1433e4e",
+            "brand": "Ray-Davis",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "adda05f0-9aee-46c9-bdf3-6cc28eda8393",
+                    "platform": "Twitter",
+                    "post_url": "http://www.watson.com/",
+                    "likes": 6399,
                     "comments": 17,
                     "shares": 66,
                     "reach": 9317
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9947.35
         }
     ]
 }

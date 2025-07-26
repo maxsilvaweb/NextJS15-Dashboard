@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "93b5453f-b1f6-48a5-be69-cc50b94d8192",
+    "name": "Thomas Khan",
     "email": "Verla.Jacobson78@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@henry69",
+    "tiktok_handle": "@ykent",
+    "joined_at": "2024-08-07T17:57:21.133598",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "92ecdcdb-b4fa-471a-b1f7-e64daa994d8c",
+            "brand": "Reynolds, Perry and Cain",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8e27fc6c-8085-47a3-84f8-e05ba23c6b6b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.cole-castillo.net/",
+                    "likes": 3386,
+                    "comments": 391,
                     "shares": 21,
                     "reach": 5921
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9799.05
         }
     ]
 }

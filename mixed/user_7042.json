@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e0cf735a-5d4a-405a-907f-970997c1530a",
+    "name": "Elizabeth Lyons",
+    "email": "guerrerojohn@example.net",
+    "instagram_handle": "@peterspatricia",
+    "tiktok_handle": "@franklintodd",
+    "joined_at": "2025-06-25T01:12:12.298064",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2fa8d12e-1441-463a-a1f5-fdc65a8ebbee",
+            "brand": "Davis, Andrews and Mayer",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "586a8f9b-e92c-4917-9776-a7768070a7b8",
                     "platform": "TikTok",
                     "post_url": "https://powerless-provision.info",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5953,
+                    "comments": 354,
                     "shares": 35,
                     "reach": 3573
                 }

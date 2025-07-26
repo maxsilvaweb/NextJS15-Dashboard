@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a414c3c4-1edf-446c-9b08-e27d3fc633e4",
+    "name": "Robert Leon",
+    "email": "aramirez@example.org",
+    "instagram_handle": "@thomasblack",
+    "tiktok_handle": "@mcbrideadrian",
+    "joined_at": "2025-07-12T20:30:55.669470",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0f78b189-c824-4e38-8e3c-cb9fca7b6279",
+            "brand": "Harris LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "96db7f73-9d38-4997-8c9c-00467d2d7351",
                     "platform": "Instagram",
                     "post_url": "https://frivolous-cornet.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1649,
+                    "comments": 303,
                     "shares": 44,
                     "reach": 4237
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4693.12
         }
     ]
 }

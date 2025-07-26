@@ -1,26 +1,26 @@
 {
     "user_id": "9cc807cd-1b72-42b3-88c9-528624b63861",
     "name": "Greg Satterfield",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "asmith@example.net",
+    "instagram_handle": "@jennaferguson",
+    "tiktok_handle": "@vrollins",
+    "joined_at": "2023-11-19T03:57:45.404971",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "938b89b4-2742-461f-ab52-08591fe45424",
+            "brand": "Torres, Fowler and Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cbe87876-8f7e-401b-a028-ccb782e34167",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.conley-cain.info/",
+                    "likes": 1736,
+                    "comments": 112,
                     "shares": 0,
                     "reach": 7254
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7031.42
         }
     ]
 }

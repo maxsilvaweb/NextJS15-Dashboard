@@ -1,26 +1,26 @@
 {
     "user_id": "ae211681-c428-4104-b17d-8ed01a41397c",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Kyle Berger",
+    "email": "mware@example.org",
+    "instagram_handle": "@thompsonamanda",
+    "tiktok_handle": "@chavezderek",
+    "joined_at": "2024-07-06T11:10:42.550405",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "04253489-5b70-4a3b-998a-f3e525e3da5b",
             "brand": "Upton LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3d69fd94-b664-4ebc-8ac6-0fba4af304d9",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.barnes.com/",
+                    "likes": 5112,
+                    "comments": 75,
                     "shares": 45,
                     "reach": 7489
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9052.71
         }
     ]
 }

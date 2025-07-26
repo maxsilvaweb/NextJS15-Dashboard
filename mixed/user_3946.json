@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bfe48ad3-2efe-49d6-b957-e350a2b3f0e1",
+    "name": "April Holmes",
+    "email": "justin89@example.org",
+    "instagram_handle": "@waltermaldonado",
+    "tiktok_handle": "@alexander66",
+    "joined_at": "2024-11-30T01:14:43.072143",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a8f67aea-9245-44ac-afd2-9257da6450d7",
+            "brand": "Gross, Harvey and Hayes",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "e11bb282-f438-4be0-9d35-91a0cc612e42",
+                    "platform": "Instagram",
+                    "post_url": "https://www.melton.com/",
                     "likes": 469,
-                    "comments": null,
+                    "comments": 433,
                     "shares": 98,
                     "reach": 1895
                 }

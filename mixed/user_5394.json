@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "31ca5f9d-37c7-4c27-a8c6-4599c6891552",
+    "name": "Monica West",
+    "email": "garzamichael@example.net",
+    "instagram_handle": "@leslie94",
+    "tiktok_handle": "@ndavenport",
+    "joined_at": "2025-03-26T13:31:16.194954",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ae0fad6f-bbc6-4b3d-b3d4-1859e9cbf001",
+            "brand": "Mayo, Smith and Hess",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e945ba41-e311-49bf-ad8d-59fad7eaaa66",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.miles.com/",
+                    "likes": 8889,
+                    "comments": 276,
                     "shares": 73,
                     "reach": 2721
                 }

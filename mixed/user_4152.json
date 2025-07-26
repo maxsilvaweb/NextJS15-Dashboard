@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9c78bd89-84b6-49b9-bade-cf28aa99e260",
+    "name": "Ryan Salas",
+    "email": "melissavalenzuela@example.net",
+    "instagram_handle": "@freykara",
+    "tiktok_handle": "@paulagriffin",
+    "joined_at": "2025-02-27T01:21:54.275154",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7835a431-1b53-4f75-aedc-37668db0f056",
+            "brand": "Barry, Buchanan and Sanders",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "82947b47-8755-4412-aebf-75a347c0bb1c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.adams.info/",
+                    "likes": 523,
+                    "comments": 76,
                     "shares": 5,
                     "reach": 3955
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5058.35
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "8240ef33-1dd5-4384-a98f-14bed3da85c2",
     "name": "Byron Fahey",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "mcdonaldallen@example.net",
+    "instagram_handle": "@cameron15",
+    "tiktok_handle": "@heather01",
+    "joined_at": "2024-03-15T17:51:58.721611",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f279d890-87a9-4a1a-8f82-06e3dc1da04f",
+            "brand": "Hudson LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0604ecaa-cecb-4b37-a5fd-9a23944ba69d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://johnson-valenzuela.com/",
+                    "likes": 5811,
                     "comments": 25,
                     "shares": 86,
                     "reach": 1268
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5701.6
         }
     ]
 }

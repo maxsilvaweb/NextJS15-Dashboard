@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae39",
-  "name": "Max Silva390000",
-  "email": "maxsilvvauk@39wwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae39",
+    "name": "Max Silva390000",
+    "email": "maxsilvvauk@39wwilwweeewd.com",
+    "instagram_handle": "@angela16",
+    "tiktok_handle": "@cmiller",
+    "joined_at": "2023-09-30T00:16:18.534180",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "5eba6ff4-dbbd-4745-a82a-b38a7369537c",
+            "brand": "Sloan-Pham",
+            "tasks_completed": [
+                {
+                    "task_id": "2a478591-791c-422e-b806-fc7d941ee281",
+                    "platform": "TikTok",
+                    "post_url": "https://www.nicholson-blake.info/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 2899.33
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

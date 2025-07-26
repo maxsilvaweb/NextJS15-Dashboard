@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "05645d96-3fa7-4b60-b417-31f19747e5ee",
+    "name": "Carrie Robinson",
+    "email": "kevinhawkins@example.com",
+    "instagram_handle": "@hamiltonmichelle",
+    "tiktok_handle": "@ali",
+    "joined_at": "2024-07-29T20:55:17.185971",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "eaa9be14-56fa-4cb8-ad40-cf74c9ce2643",
+            "brand": "Taylor Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "7ce0c136-7135-4529-84e3-2f1d0be14544",
+                    "platform": "Instagram",
+                    "post_url": "https://welch.com/",
+                    "likes": 9360,
+                    "comments": 15,
                     "shares": 92,
                     "reach": 8707
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 664.35
         }
     ]
 }

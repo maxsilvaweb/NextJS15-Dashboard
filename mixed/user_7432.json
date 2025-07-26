@@ -1,26 +1,26 @@
 {
     "user_id": "4db09547-9bc1-49af-a0e3-aa5433adedaf",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Ronald Huerta",
+    "email": "david59@example.com",
+    "instagram_handle": "@millsjulie",
+    "tiktok_handle": "@wilsoncindy",
+    "joined_at": "2024-08-24T22:24:43.117292",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "abea6711-0e31-49d5-9866-c29091eaa7ca",
+            "brand": "Riley-Frazier",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1a46ca36-47c3-4211-b86c-34e2428e46dd",
                     "platform": "TikTok",
                     "post_url": "https://wee-singing.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1285,
+                    "comments": 59,
                     "shares": 100,
                     "reach": 3205
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2310.16
         }
     ]
 }

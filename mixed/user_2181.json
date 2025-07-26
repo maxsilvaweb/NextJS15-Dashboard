@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "81567fe1-1159-472d-a34f-cf44742d7d3d",
+    "name": "Emily Schmidt",
+    "email": "sanchezlisa@example.net",
+    "instagram_handle": "@tiffany50",
+    "tiktok_handle": "@anthonymartinez",
+    "joined_at": "2024-10-03T18:02:39.559564",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cf8a91ce-f4f1-4a1e-9c31-a7ca0546a63e",
+            "brand": "Macdonald-Green",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e30692d3-6c62-4beb-a923-9b0f002b214d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://wong-austin.com/",
+                    "likes": 9888,
+                    "comments": 246,
                     "shares": 20,
                     "reach": 4392
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8969.06
         }
     ]
 }

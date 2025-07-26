@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "642995e5-125c-42ff-9182-8904c51814ca",
+    "name": "Douglas Lyons",
     "email": "Ed_Renner18@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@aguirremark",
+    "tiktok_handle": "@victoriasmith",
     "joined_at": "2024-10-14T20:27:09.739Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "587a2036-944f-4bd1-b9e9-390438e17e67",
+            "brand": "Harris-Powell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4620411f-a3bb-43ab-b2a8-53228c87e013",
                     "platform": "Facebook",
                     "post_url": "https://distinct-instruction.org",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 97,
+                    "comments": 487,
                     "shares": 70,
                     "reach": 5677
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 404.86
         }
     ]
 }

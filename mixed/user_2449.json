@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e80867ea-35fe-440d-a520-e670bcfdc849",
+    "name": "Sonya Boyd",
+    "email": "delacruzjonathan@example.com",
+    "instagram_handle": "@stoneconnor",
+    "tiktok_handle": "@brandonthompson",
+    "joined_at": "2023-09-27T00:38:01.232331",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d2549d26-f18b-4791-971f-99f7e530a98e",
+            "brand": "Brennan Group",
             "tasks_completed": [
                 {
                     "task_id": "1b10595f-c627-4b1e-8a4a-e8b6481c6489",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://williams.info/",
+                    "likes": 6666,
+                    "comments": 76,
                     "shares": 88,
                     "reach": 4131
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6021.54
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "3f6484af-4646-4514-879b-2e27a79bd475",
+    "name": "Monica Wood",
     "email": "Blaise37@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@wilsoncynthia",
+    "tiktok_handle": "@simpsonrobert",
+    "joined_at": "2024-09-04T12:23:10.581546",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "5de1c17b-60c0-4ffc-a91c-ee88c9650c13",
             "brand": "Metz - Spinka",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "823965d6-a282-4584-95df-1589a9f3f6fc",
                     "platform": "TikTok",
                     "post_url": "https://carefree-numeracy.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1794,
+                    "comments": 40,
                     "shares": 75,
                     "reach": 4972
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5710.98
         }
     ]
 }

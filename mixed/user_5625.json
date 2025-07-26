@@ -1,26 +1,26 @@
 {
     "user_id": "922c597e-589c-44c5-8233-e595d6e22575",
-    "name": "???",
+    "name": "Gary Martin",
     "email": "Claude9@yahoo.com",
     "instagram_handle": "@Robin84",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@achavez",
+    "joined_at": "2024-05-18T22:12:40.423662",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "32f08ea0-73c3-459f-9ec7-cbf7b1649dec",
             "brand": "Romaguera and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e98370ac-6d77-4f65-86dc-d95b8518142c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://kelly.com/",
+                    "likes": 194,
+                    "comments": 492,
                     "shares": 97,
                     "reach": 5543
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6449.53
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6940d2ca-1b8b-4fc0-b59d-600d9c5328f5",
+    "name": "James Barnes",
+    "email": "ngomez@example.net",
+    "instagram_handle": "@trevorturner",
+    "tiktok_handle": "@anthonyrodriguez",
+    "joined_at": "2024-09-12T21:41:03.909175",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "479e313d-12eb-49c2-b232-bc16594aa348",
+            "brand": "Williams-Nelson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "b913c8e6-0331-41d4-8ade-e3804b8f098c",
+                    "platform": "YouTube",
+                    "post_url": "https://wong.com/",
+                    "likes": 542,
+                    "comments": 425,
                     "shares": 82,
                     "reach": 3496
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7529.6
         }
     ]
 }

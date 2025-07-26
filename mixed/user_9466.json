@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ae9399fc-2676-452a-aea2-a0f44508c8c6",
+    "name": "Dr. Deborah Wright PhD",
+    "email": "claytoncassidy@example.net",
+    "instagram_handle": "@kclark",
+    "tiktok_handle": "@rsweeney",
+    "joined_at": "2025-02-11T23:43:02.406988",
     "advocacy_programs": [
         {
             "program_id": "cdccd89f-f261-4a04-b1f4-49deb53f7400",
-            "brand": 12345,
+            "brand": "Drake Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5dcb41f4-68f3-49a9-ae2c-b7d55bf2b04c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.williams.info/",
+                    "likes": 4227,
+                    "comments": 223,
                     "shares": 50,
                     "reach": 2523
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8377.84
         }
     ]
 }

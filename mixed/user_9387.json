@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a0773c04-128a-4551-912c-e5d667adae69",
+    "name": "Mario Avila",
     "email": "Josue20@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@larrycarpenter",
+    "tiktok_handle": "@bowmanandrew",
+    "joined_at": "2024-11-10T15:32:59.296969",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "31df080e-1715-410d-8f13-555a205ce2ab",
+            "brand": "Wood LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "9605ce0b-a6e9-462f-8242-393bcef2f28f",
+                    "platform": "YouTube",
+                    "post_url": "http://www.leblanc.info/",
+                    "likes": 5504,
+                    "comments": 311,
                     "shares": 53,
                     "reach": 9304
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2989.51
         }
     ]
 }

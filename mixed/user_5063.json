@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "6a939e3d-9390-438e-8b33-9d088c20ece6",
+    "name": "Miss Teresa Osborne",
     "email": "Griffin.Kohler@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@vsteele",
+    "tiktok_handle": "@staceyjackson",
+    "joined_at": "2025-02-01T17:21:18.843078",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7b5b3060-7251-4717-82c8-c6f465aa6559",
+            "brand": "Gonzales, Rush and Castro",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3be618a8-01b1-437e-b2a2-ea65486f9932",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://taylor.net/",
+                    "likes": 8264,
                     "comments": 28,
                     "shares": 81,
                     "reach": 7394

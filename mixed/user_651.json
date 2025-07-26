@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "11fffda0-78af-43c8-9a84-fb3dacb11332",
+    "name": "Kathryn Clark",
+    "email": "xfuentes@example.net",
+    "instagram_handle": "@lorismith",
+    "tiktok_handle": "@briansmith",
+    "joined_at": "2025-05-27T23:00:40.168226",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5d1c4abc-fa2e-459e-9ea9-2424d4b4611d",
+            "brand": "Davis, Gonzalez and Reed",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "0e0da60e-762b-498f-b828-8c89ff12abab",
+                    "platform": "Instagram",
+                    "post_url": "https://www.bird.info/",
+                    "likes": 4884,
+                    "comments": 67,
                     "shares": 74,
                     "reach": 1057
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9367.63
         }
     ]
 }

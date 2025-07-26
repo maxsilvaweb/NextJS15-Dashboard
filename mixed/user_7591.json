@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "340df367-996b-4a0e-b7a9-d7c967457556",
+    "name": "Michael Obrien",
+    "email": "corey32@example.com",
     "instagram_handle": "@Manley_Hirthe",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@gary76",
+    "joined_at": "2023-08-19T09:07:25.898404",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "d941cb3a-f38c-4689-82b9-4b1f8b90119b",
             "brand": "Zemlak - Oberbrunner",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "be5bdc8b-839f-403f-9a0c-930e5d2ebb88",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.mitchell.com/",
+                    "likes": 3780,
                     "comments": 40,
                     "shares": 20,
                     "reach": 9047
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3532.33
         }
     ]
 }

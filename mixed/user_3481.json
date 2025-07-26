@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "3ad990ad-a232-4915-b366-3af717a304ea",
+    "name": "Martin Hudson",
     "email": "Kraig96@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@bobbyortiz",
+    "tiktok_handle": "@nmarshall",
+    "joined_at": "2024-05-15T07:56:52.919178",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d4eae989-4046-434b-b574-a3042abb6788",
+            "brand": "Pope PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "270c2fff-0721-43c4-b96f-b917a1b73419",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://brown.info/",
+                    "likes": 2730,
+                    "comments": 233,
                     "shares": 47,
                     "reach": 6842
                 }

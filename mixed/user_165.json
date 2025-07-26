@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4dc27ae5-d841-49a7-b059-85e7847121c4",
+    "name": "Joshua Bauer",
+    "email": "seanrobinson@example.net",
+    "instagram_handle": "@williamgibson",
+    "tiktok_handle": "@cdunn",
+    "joined_at": "2024-12-12T12:50:50.590890",
     "advocacy_programs": [
         {
             "program_id": "0a1608a8-79f3-4704-9569-7b2245ca7543",
-            "brand": 12345,
+            "brand": "Sullivan-Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9043041f-bdd7-4e68-a369-faaa54b070c1",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://davis-owens.biz/",
+                    "likes": 1167,
+                    "comments": 87,
                     "shares": 20,
                     "reach": 7814
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8890.79
         }
     ]
 }

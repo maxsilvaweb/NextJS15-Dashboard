@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "4a48fb25-ad55-4dce-aeb5-e6e846a44a26",
     "name": "Mr. Aubrey Davis",
     "email": "Clotilde38@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@colemanrhonda",
+    "tiktok_handle": "@morrisrobert",
+    "joined_at": "2025-05-24T01:24:12.469781",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "79aacf8d-79fa-43d3-8c9f-8480d9321894",
+            "brand": "Page-Barry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3623437b-393b-4277-8736-ea68f21f02bf",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://castillo.info/",
+                    "likes": 5987,
+                    "comments": 5,
                     "shares": 8,
                     "reach": 2874
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8643.46
         }
     ]
 }

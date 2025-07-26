@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "d2c9f3fc-49d2-4bb4-a3d7-f2846d457e09",
+    "name": "Lisa Wright",
     "email": "Cristina_Shields@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@christianray",
+    "tiktok_handle": "@griffinian",
+    "joined_at": "2024-12-24T15:22:47.249790",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7c3ee8b4-dace-42fc-b5f7-b320cb314261",
+            "brand": "Henson-Morales",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "f863a1a1-2000-4b82-92f7-c7318fee6613",
+                    "platform": "YouTube",
+                    "post_url": "http://hawkins.net/",
+                    "likes": 6758,
+                    "comments": 431,
                     "shares": 87,
                     "reach": 7755
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7236.72
         }
     ]
 }

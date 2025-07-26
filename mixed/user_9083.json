@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1cd40fd1-16eb-44c3-a504-8bdd5798b75a",
+    "name": "Terry Lloyd",
+    "email": "mburgess@example.com",
+    "instagram_handle": "@shannon66",
+    "tiktok_handle": "@erikaprice",
+    "joined_at": "2024-02-06T21:58:33.366748",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b599f8ac-af88-43b2-9857-55c4af0b9d90",
+            "brand": "Meyer Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fb8a32d1-8a5a-4063-b2e4-80813f44e09b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://ramirez.com/",
+                    "likes": 4194,
+                    "comments": 269,
                     "shares": 97,
                     "reach": 5892
                 }

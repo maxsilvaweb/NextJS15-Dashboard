@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f7b40b4c-1174-43b8-b040-75790ef8805f",
+    "name": "Dylan Patel",
+    "email": "johnsonelizabeth@example.org",
+    "instagram_handle": "@martinezsteven",
+    "tiktok_handle": "@kstewart",
+    "joined_at": "2024-03-19T22:27:36.789423",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0c921dd8-9533-49ad-8bf7-5b6c13478447",
+            "brand": "Casey PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "47d4e6fa-7291-4926-8bec-ae61e08ba83f",
                     "platform": "Instagram",
                     "post_url": "https://lavish-alligator.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7662,
+                    "comments": 116,
                     "shares": 63,
                     "reach": 4687
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4570.8
         }
     ]
 }

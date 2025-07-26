@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a958d14a-fb44-46d5-8b37-3d66c0735598",
+    "name": "Victoria Zimmerman",
+    "email": "mwong@example.com",
+    "instagram_handle": "@amanda46",
+    "tiktok_handle": "@stacy77",
+    "joined_at": "2024-04-27T07:33:36.494130",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "79ef3e70-8bf4-467b-9b5f-5c041b16875e",
+            "brand": "King-Huffman",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "530ef092-0def-4252-9505-495fe51efd07",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://santos-lynch.biz/",
+                    "likes": 833,
                     "comments": 16,
                     "shares": 35,
                     "reach": 5754
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9429.63
         }
     ]
 }

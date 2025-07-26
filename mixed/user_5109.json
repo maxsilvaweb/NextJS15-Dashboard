@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4bfb2a90-d3de-41f7-8e0f-55986dbad8e9",
+    "name": "Brandon Moore",
+    "email": "edwardsmith@example.org",
+    "instagram_handle": "@kaylee14",
+    "tiktok_handle": "@ymiller",
+    "joined_at": "2024-12-27T07:41:49.934195",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d1dc2afa-dcbc-4284-b50a-0cb8d6ec8986",
+            "brand": "Carson PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a9102e9a-8f03-4a98-9db6-cb06745b5f5b",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://wilson.com/",
+                    "likes": 9940,
+                    "comments": 111,
                     "shares": 96,
                     "reach": 6903
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9466.62
         }
     ]
 }

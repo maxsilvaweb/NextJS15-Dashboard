@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "64d1d995-b49e-4f28-bae0-0a53b2132cb3",
+    "name": "Robert Jones",
+    "email": "joanna54@example.org",
+    "instagram_handle": "@mathewlewis",
+    "tiktok_handle": "@dnorton",
+    "joined_at": "2024-05-16T08:10:12.184754",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bc8cbd8c-08b0-462e-b922-3de572401646",
+            "brand": "White Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "23d0db50-cdab-4690-904d-fa48dd8d26b4",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://poole-brown.com/",
                     "likes": 421,
-                    "comments": null,
+                    "comments": 116,
                     "shares": 59,
                     "reach": 7940
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8729.52
         }
     ]
 }

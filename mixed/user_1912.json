@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ab378d14-0cff-49aa-b8ae-dee1c8c305a3",
+    "name": "Eric Bell",
+    "email": "alozano@example.net",
+    "instagram_handle": "@gileswilliam",
+    "tiktok_handle": "@smithjohn",
+    "joined_at": "2025-06-09T06:59:59.503968",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "6677f79c-13a5-4fe7-a081-da6ecc847823",
             "brand": "Lindgren Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "de25aa1c-c492-4ddc-9166-2a6f029f0f31",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://reyes.info/",
+                    "likes": 1371,
+                    "comments": 6,
                     "shares": 76,
                     "reach": 7115
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5546.52
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d0de0ca3-3c41-400c-8d55-434357a875ed",
+    "name": "Bryan Garcia",
+    "email": "julie01@example.net",
+    "instagram_handle": "@mcclurechristine",
+    "tiktok_handle": "@mbrown",
+    "joined_at": "2025-04-23T08:59:00.410845",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "238d3de3-4b54-4bfe-9413-2bd6091cadcd",
+            "brand": "Carter-Fisher",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "724919fc-e4b0-4a70-98c5-9e16c9c26c6f",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://bentley.com/",
+                    "likes": 5061,
+                    "comments": 238,
                     "shares": 84,
                     "reach": 3993
                 }

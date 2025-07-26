@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bddf58d6-7016-4924-a065-86080ccb0ced",
+    "name": "Joel Knox",
+    "email": "uparker@example.org",
+    "instagram_handle": "@carterchris",
+    "tiktok_handle": "@jessicalawson",
+    "joined_at": "2024-07-15T06:31:29.296297",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "283f333a-eb60-470a-aeda-c05ee4df44fc",
+            "brand": "Neal Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "9f0b80fb-485a-4eb7-83ba-1b22e683d25f",
+                    "platform": "YouTube",
                     "post_url": "https://tight-bonfire.net/",
                     "likes": 42,
-                    "comments": null,
+                    "comments": 498,
                     "shares": 89,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8017.79
         }
     ]
 }

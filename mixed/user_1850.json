@@ -1,26 +1,26 @@
 {
     "user_id": "0021c228-31cb-4508-945f-bab949f9c821",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Samantha Baker",
+    "email": "fjohnson@example.com",
+    "instagram_handle": "@jdorsey",
+    "tiktok_handle": "@daviddavies",
+    "joined_at": "2025-02-12T07:25:15.272601",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "0b3ef928-a16a-4741-947d-150a7896adb3",
             "brand": "White and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8fa81de6-6911-4eb9-b5b7-56818425d6e3",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://figueroa-hughes.net/",
                     "likes": 452,
-                    "comments": null,
+                    "comments": 308,
                     "shares": 90,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8488.77
         }
     ]
 }

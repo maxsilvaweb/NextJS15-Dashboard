@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "364ceb14-7a40-4d6d-9008-ba8fb7e66ff8",
+    "name": "Kevin Marshall",
+    "email": "angel47@example.net",
+    "instagram_handle": "@amontgomery",
+    "tiktok_handle": "@jmason",
+    "joined_at": "2025-02-01T18:36:37.569691",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "14017095-a656-4850-8173-52e63ba61c6f",
+            "brand": "Pratt, Rhodes and Ross",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ec411e80-0f97-4ee4-8330-e0fee98e9e54",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.dean.com/",
+                    "likes": 7070,
                     "comments": 47,
                     "shares": 74,
                     "reach": 1652
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8799.95
         }
     ]
 }

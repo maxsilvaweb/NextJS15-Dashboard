@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "6688e363-a1b7-4c2d-9e0c-8660d372b8cf",
+    "name": "Dr. Denise Brown",
+    "email": "james08@example.net",
     "instagram_handle": "@Zachary.Kovacek",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@olsonkristine",
+    "joined_at": "2025-02-20T13:48:22.683489",
     "advocacy_programs": [
         {
             "program_id": "2157f2bc-8e41-4ff6-b8af-2cf50174f704",
-            "brand": 12345,
+            "brand": "Li-Taylor",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2a69ac65-6ef8-4eb0-91c8-8773d366dce4",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.king.net/",
+                    "likes": 6765,
                     "comments": 16,
                     "shares": 31,
                     "reach": 1515
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9836.04
         }
     ]
 }

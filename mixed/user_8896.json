@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "afea1251-96c2-4f17-bd5f-1d5e9620d94a",
+    "name": "Sheila Peters",
+    "email": "veronicarivera@example.org",
+    "instagram_handle": "@amanda78",
     "tiktok_handle": "@Sadie78",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-01-31T08:17:54.292143",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "76e7b625-283b-433e-90df-5d03b5a11353",
+            "brand": "Evans-Schneider",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e9af6856-da5b-4563-9548-c9fd6b158bdf",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://brown.com/",
                     "likes": 485,
                     "comments": 32,
                     "shares": 14,
                     "reach": 7984
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7246.8
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "03aed5fd-a65f-44c5-870d-c008cddb12d1",
+    "name": "Julie Tate",
+    "email": "hollandjulia@example.net",
+    "instagram_handle": "@nicolejohnson",
+    "tiktok_handle": "@simmonsnathan",
+    "joined_at": "2024-03-22T00:37:09.739378",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "99648479-6b95-4e7d-8afb-bdb556d0560b",
+            "brand": "Reed-Reed",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "4f5f271f-8163-4d88-9856-1d742fb6a152",
+                    "platform": "YouTube",
+                    "post_url": "https://richardson-mclean.com/",
+                    "likes": 3245,
+                    "comments": 395,
                     "shares": 100,
                     "reach": 7555
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7207.78
         }
     ]
 }

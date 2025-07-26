@@ -1,21 +1,21 @@
 {
-    "user_id": null,
+    "user_id": "4b042a7a-314a-4d94-bff6-7847c6db159f",
     "name": "Barbara Nienow",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "jonesbrenda@example.net",
+    "instagram_handle": "@rperez",
+    "tiktok_handle": "@hmiller",
+    "joined_at": "2025-02-08T23:19:00.910749",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9a11393b-d6a1-4f19-a262-27234db14941",
+            "brand": "Murphy-Parrish",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "ee088de1-ccde-45f9-8d58-3d4a7e8875c9",
+                    "platform": "Twitter",
+                    "post_url": "http://becker.com/",
+                    "likes": 7101,
+                    "comments": 30,
                     "shares": 26,
                     "reach": 5164
                 }

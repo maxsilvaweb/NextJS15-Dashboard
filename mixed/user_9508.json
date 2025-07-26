@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "73a94724-587a-4f6f-99d3-305d889b7ffa",
+    "name": "Martin Bailey DDS",
     "email": "Donnell_Fahey@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@littlebrett",
+    "tiktok_handle": "@lori08",
+    "joined_at": "2025-06-15T19:52:09.904374",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6c74a9af-13ef-43dd-ae41-39a509ac54fe",
+            "brand": "Pennington Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5e2fa269-d10c-42e8-8b0e-389581a1d0f8",
                     "platform": "TikTok",
                     "post_url": "https://international-dream.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8705,
+                    "comments": 399,
                     "shares": 17,
                     "reach": 6012
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6222.86
         }
     ]
 }

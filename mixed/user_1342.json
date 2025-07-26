@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "87366ebd-ef62-4627-b460-faf04a280cf3",
+    "name": "Tammy Reid",
+    "email": "elizabethdavis@example.org",
+    "instagram_handle": "@ydoyle",
+    "tiktok_handle": "@bryan33",
+    "joined_at": "2024-01-17T17:53:34.422161",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b87bcd31-4df4-4273-841f-59b66c9c3cab",
+            "brand": "Hampton, Hall and Carrillo",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8526353f-194c-455c-9424-c0ee2adddb6e",
                     "platform": "Facebook",
                     "post_url": "https://some-deployment.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9331,
+                    "comments": 205,
                     "shares": 82,
                     "reach": 1434
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 399.24
         }
     ]
 }

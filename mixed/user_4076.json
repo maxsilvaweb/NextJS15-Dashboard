@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8780f5ef-7524-4427-9875-66d2538e208f",
+    "name": "Jake Kelly",
+    "email": "fpeterson@example.net",
+    "instagram_handle": "@kim50",
+    "tiktok_handle": "@michael07",
+    "joined_at": "2024-03-11T03:08:33.797555",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "30c2caf0-36ee-46d2-b2cd-bc5e5db422ae",
+            "brand": "Potter, Ramirez and Carson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0b644b82-c7cd-4bf3-b92a-e88367ba639b",
                     "platform": "TikTok",
                     "post_url": "https://average-stool.info/",
-                    "likes": "NaN",
+                    "likes": 4907,
                     "comments": 34,
                     "shares": 48,
                     "reach": 1472
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2297.29
         }
     ]
 }

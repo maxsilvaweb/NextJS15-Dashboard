@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4be21c80-f462-432e-b4ac-fe54f6e2c44f",
+    "name": "Daisy Cook",
+    "email": "virginia65@example.net",
+    "instagram_handle": "@orivera",
+    "tiktok_handle": "@misty95",
+    "joined_at": "2024-12-27T04:52:25.070487",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5a65aadd-d1d6-4f1a-a665-712f5686d0c3",
+            "brand": "Watson, Estrada and Wilson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1a2a2c0f-a366-4e2b-9c9e-a7410d82b7a3",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.woods.info/",
+                    "likes": 5795,
+                    "comments": 54,
                     "shares": 3,
                     "reach": 7557
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3325.56
         }
     ]
 }

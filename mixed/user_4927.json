@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "b889ac22-c43a-4cf0-9cea-2542fd38ca61",
+    "name": "Nicholas Johnson",
+    "email": "millernichole@example.net",
+    "instagram_handle": "@christopher35",
     "tiktok_handle": "@Hugh_Christiansen",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-05-11T16:34:18.502520",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c221ab35-138e-42d7-aa8b-dfc17ec50f7b",
+            "brand": "Torres, Payne and Foley",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "505526ad-f680-4b90-9c92-1c617a1997ea",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://jackson-weber.com/",
                     "likes": 96,
                     "comments": 10,
                     "shares": 51,
                     "reach": 1814
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2222.13
         }
     ]
 }

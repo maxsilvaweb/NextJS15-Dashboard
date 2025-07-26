@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "28552ca0-afae-430b-9a4a-23e8f953d4ac",
     "name": "Leon Moen",
     "email": "Craig52@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@erin48",
+    "tiktok_handle": "@fuenteskeith",
+    "joined_at": "2024-07-07T13:26:52.777438",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "856f2535-abad-40d2-bc35-6728a7f9bf2b",
+            "brand": "Roberson-Arroyo",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a29a175a-ad28-4400-9a88-3fbe2909bc92",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://bird.com/",
+                    "likes": 8729,
+                    "comments": 262,
                     "shares": 66,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4511.27
         }
     ]
 }

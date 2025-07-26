@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d185bb4d-88e7-4c17-aeea-869b2d1f1c44",
+    "name": "Christopher Alvarado",
+    "email": "jandersen@example.org",
+    "instagram_handle": "@thomas99",
+    "tiktok_handle": "@james02",
+    "joined_at": "2024-04-30T18:42:48.604656",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8e3ad91d-affd-43e2-abb0-03b52cf60849",
+            "brand": "Hill, Briggs and Simon",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ded42508-90e1-47e0-a5d1-f86a020b35db",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://gardner.com/",
                     "likes": 148,
                     "comments": 50,
                     "shares": 65,

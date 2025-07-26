@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cd19c19e-9eb4-41fa-89ed-b1ea15311bc6",
+    "name": "Jeremy Huynh",
+    "email": "bensoncrystal@example.net",
+    "instagram_handle": "@saraskinner",
+    "tiktok_handle": "@tiffanyjohnson",
+    "joined_at": "2024-05-10T07:55:52.645162",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f67415e1-3052-4b47-b349-5ddd79b30993",
+            "brand": "Kim-Carlson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ec09e54b-dcd5-416c-b29a-f3778aee4653",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.bishop.com/",
+                    "likes": 9375,
+                    "comments": 30,
                     "shares": 34,
                     "reach": 773
                 }

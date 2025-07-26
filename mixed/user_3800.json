@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e1b97dab-7398-461f-a934-228fe953879c",
+    "name": "Joanne Olsen",
+    "email": "xthomas@example.org",
+    "instagram_handle": "@qbenitez",
+    "tiktok_handle": "@qnavarro",
+    "joined_at": "2024-07-27T22:50:58.767376",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "739caa50-b368-4e6a-9018-cb953e056639",
+            "brand": "Palmer-Nelson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "018d260c-402b-49ca-9575-b22fe15f471d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.guerra.com/",
                     "likes": 466,
                     "comments": 5,
                     "shares": 70,
                     "reach": 8125
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5882.34
         }
     ]
 }

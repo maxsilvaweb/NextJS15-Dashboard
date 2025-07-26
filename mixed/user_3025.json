@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "470d9749-8b6b-4a4b-b566-ff19ba1bd18c",
+    "name": "Gregory Rivera",
+    "email": "deborahperkins@example.com",
+    "instagram_handle": "@erinjohnson",
+    "tiktok_handle": "@adamchang",
+    "joined_at": "2025-03-10T01:58:01.343255",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7a0d84c5-7a59-4060-9bc7-832ff5339164",
+            "brand": "Johnson-Buckley",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "ebfbd2ed-1d44-4b31-a67a-59e899f25df3",
+                    "platform": "YouTube",
                     "post_url": "https://concrete-palate.org",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1296,
+                    "comments": 97,
                     "shares": 20,
                     "reach": 3530
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8505.76
         }
     ]
 }

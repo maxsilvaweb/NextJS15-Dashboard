@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "7472eed6-f5b4-4e85-a9ad-4d3fa015cc82",
+    "name": "Michael Lawrence",
     "email": "Jacinto_Berge56@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@herrerajoyce",
+    "tiktok_handle": "@susan63",
+    "joined_at": "2024-02-08T15:24:59.426510",
     "advocacy_programs": [
         {
             "program_id": "a709a1da-918b-4736-9420-13be8db2d143",
-            "brand": 12345,
+            "brand": "Gray, Lee and Dixon",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7a60c3eb-c77f-4c1a-b1c7-12b1e02a9062",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://espinoza.com/",
+                    "likes": 6504,
+                    "comments": 491,
                     "shares": 31,
                     "reach": 4620
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6114.32
         }
     ]
 }

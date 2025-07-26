@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "f90f8efe-98cf-44df-8e67-74f16fb11877",
+    "name": "Ryan Bowman",
+    "email": "thomas95@example.net",
+    "instagram_handle": "@danielsamy",
     "tiktok_handle": "@Madelynn.Greenholt20",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-05-16T18:22:43.597779",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "92e8b08f-b79c-437b-b5e6-622b395dea55",
+            "brand": "Hensley, Irwin and Miller",
             "tasks_completed": [
                 {
                     "task_id": "f1efbaf8-1590-4929-9d26-dcc13272a852",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.pugh.com/",
+                    "likes": 5886,
+                    "comments": 88,
                     "shares": 87,
                     "reach": 6341
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8126.49
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "c4d7b024-41a7-42bd-b6d5-115e8b8d86ac",
+    "name": "Michael Schmidt",
     "email": "Janae45@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@annajackson",
+    "tiktok_handle": "@laurenmiller",
+    "joined_at": "2023-08-25T03:07:38.347110",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "93557d63-d482-4ebc-8d51-ba691f005ced",
             "brand": "Hane - Abshire",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "02ffad00-09d1-4878-9727-2775eb8fa5a4",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.hardy.info/",
+                    "likes": 1866,
+                    "comments": 418,
                     "shares": 61,
                     "reach": 5497
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5548.34
         }
     ]
 }

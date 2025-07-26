@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "db133013-6f76-4f2e-ad61-71a36ad402e7",
+    "name": "William Davis",
+    "email": "anthony73@example.net",
+    "instagram_handle": "@kevincraig",
+    "tiktok_handle": "@rowerussell",
+    "joined_at": "2024-06-14T13:55:40.335273",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "47e10a54-ca9a-4905-bcf2-48c3c7cb4324",
+            "brand": "Clark, Smith and Harris",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4e9aa63d-b2d4-47eb-979c-eccb204776db",
                     "platform": "Instagram",
                     "post_url": "https://flowery-event.org",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2007,
+                    "comments": 251,
                     "shares": 54,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3191.63
         }
     ]
 }

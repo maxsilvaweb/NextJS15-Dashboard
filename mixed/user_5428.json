@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "220f5550-700e-460a-ae66-74270b869b04",
+    "name": "Nicole Juarez",
+    "email": "zacharymays@example.org",
+    "instagram_handle": "@owilliams",
+    "tiktok_handle": "@christopher11",
+    "joined_at": "2024-12-23T09:24:13.398081",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e267c0ce-4a36-4e7c-aab5-d8d6da2055de",
+            "brand": "Anderson-Hoffman",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ad1b6831-b0d8-47d6-9e27-0df83eb39a03",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.green.org/",
+                    "likes": 4778,
                     "comments": 6,
                     "shares": 68,
                     "reach": 2033
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 624.88
         }
     ]
 }

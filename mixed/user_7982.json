@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "78ac3d72-30ca-473c-88a6-1b9332111887",
+    "name": "Angel King",
+    "email": "thomassharon@example.net",
+    "instagram_handle": "@freemanmaxwell",
+    "tiktok_handle": "@christopherlarson",
+    "joined_at": "2024-06-01T23:42:22.070915",
     "advocacy_programs": [
         {
             "program_id": "52435520-03b7-46e3-98f5-d445c387c0ff",
-            "brand": 12345,
+            "brand": "Hernandez-Beck",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "561de783-4d80-4ca4-969b-f331682c4838",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.west-walker.info/",
+                    "likes": 4018,
+                    "comments": 467,
                     "shares": 16,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9397.27
         }
     ]
 }

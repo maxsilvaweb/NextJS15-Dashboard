@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3287abb9-356d-4854-8ee3-7589e2e64f17",
+    "name": "David Roberts",
+    "email": "pfisher@example.com",
+    "instagram_handle": "@dmatthews",
+    "tiktok_handle": "@loganbaker",
+    "joined_at": "2024-12-01T22:19:42.412047",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8e925f47-2836-42a9-acfc-3cc5ae15890c",
+            "brand": "Fritz PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f1eed641-8ae5-4f14-9328-5eba8860fe01",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.brady-barrett.net/",
+                    "likes": 3766,
+                    "comments": 350,
                     "shares": 96,
                     "reach": 2201
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7902.2
         }
     ]
 }

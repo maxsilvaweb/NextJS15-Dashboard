@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "5a1ba574-75d4-435b-8d11-26a0f64771cd",
+    "name": "Andrea James",
+    "email": "qyoung@example.org",
+    "instagram_handle": "@nguyentara",
     "tiktok_handle": "@Pierce84",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-05-29T23:17:58.507809",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4788aa7d-0b0a-44a9-b4e5-e0ad63011f65",
+            "brand": "Powers-Cox",
             "tasks_completed": [
                 {
                     "task_id": "188c05b3-b831-4ace-9b45-7848f6fa2ef0",
-                    "platform": 123,
+                    "platform": "TikTok",
                     "post_url": "https://unused-hyphenation.net",
                     "likes": 332,
-                    "comments": null,
+                    "comments": 115,
                     "shares": 8,
                     "reach": 1337
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8449.61
         }
     ]
 }

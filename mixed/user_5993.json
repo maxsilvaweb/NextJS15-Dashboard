@@ -1,26 +1,26 @@
 {
     "user_id": "53be038a-2bf1-47ac-bae0-b308fd6aabdf",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Richard Strong",
+    "email": "lawrenceswanson@example.com",
+    "instagram_handle": "@kevin80",
+    "tiktok_handle": "@qsheppard",
+    "joined_at": "2024-05-15T09:59:40.181823",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ca34a98b-3ea3-4be0-ae18-40852be133d7",
+            "brand": "Lopez-Carter",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "97823b00-1958-4fa5-8e2c-945562eee6c8",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.franklin.net/",
+                    "likes": 6539,
+                    "comments": 3,
                     "shares": 5,
                     "reach": 4412
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9399.69
         }
     ]
 }

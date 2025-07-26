@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "550286c4-4eda-4efc-8faf-d58d4fe1d163",
     "name": "Jessie Lesch",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "chandlerjacob@example.net",
+    "instagram_handle": "@sheila42",
+    "tiktok_handle": "@robert97",
+    "joined_at": "2025-07-24T02:48:57.728439",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "aad18200-4faa-4dfa-9f0d-a9f0e890b6af",
+            "brand": "Haney, Barnett and Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bf2d0703-ca5e-4293-aec1-34b25a2d8463",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://kelly.org/",
+                    "likes": 8166,
                     "comments": 11,
                     "shares": 76,
                     "reach": 776
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7098.19
         }
     ]
 }

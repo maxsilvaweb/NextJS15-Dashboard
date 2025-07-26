@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "c6143c70-aba2-4c8d-9601-b403ee9760b3",
+    "name": "Ryan Gilbert",
+    "email": "moralesgregory@example.org",
+    "instagram_handle": "@fhull",
+    "tiktok_handle": "@kgarrison",
     "joined_at": "2024-07-25T00:12:19.543Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "267a3629-cc10-4b28-8b64-f9b7cee36afd",
+            "brand": "Buchanan, Rose and Gonzalez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "46240eae-f8d0-4212-b39e-3ac0b33d6824",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.diaz.info/",
+                    "likes": 5963,
+                    "comments": 108,
                     "shares": 25,
                     "reach": 4862
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8946.88
         }
     ]
 }

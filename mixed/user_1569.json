@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7e945491-7222-4643-8423-75d85af7ad12",
+    "name": "Erin Davis",
+    "email": "solomonjerry@example.com",
+    "instagram_handle": "@corywebster",
+    "tiktok_handle": "@klamb",
+    "joined_at": "2023-12-06T07:37:29.547729",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "48df18a8-c91e-4e4d-8112-023a4dcf545c",
             "brand": "Mueller - Schuppe",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1044da2b-6817-4f1d-b33a-bc1fa49ed432",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.martinez-bell.com/",
                     "likes": 495,
-                    "comments": null,
+                    "comments": 451,
                     "shares": 28,
                     "reach": 7564
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1425.04
         }
     ]
 }

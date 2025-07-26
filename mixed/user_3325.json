@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "36530a1d-7497-4088-818d-2923a5edc483",
+    "name": "Sarah Patterson",
+    "email": "nguyengina@example.org",
+    "instagram_handle": "@moorebarbara",
+    "tiktok_handle": "@emily58",
+    "joined_at": "2024-03-03T22:45:12.942175",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "184ab44f-c9f2-4715-81b4-94e130ec209d",
+            "brand": "Nguyen and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "50400bfb-0a77-4dfb-a13c-1ceb3188f9c7",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.lyons.net/",
+                    "likes": 9396,
+                    "comments": 474,
                     "shares": 65,
                     "reach": 2080
                 }

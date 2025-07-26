@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "69d68862-2538-4d4b-9ea4-909494f69655",
+    "name": "Ariana Vincent",
+    "email": "qjames@example.com",
+    "instagram_handle": "@briannawalker",
+    "tiktok_handle": "@velezsamantha",
+    "joined_at": "2025-03-10T16:59:30.056797",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "39bdea7d-26b4-471e-93fd-75a609f1231e",
+            "brand": "Herrera Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b063931c-56fc-4ea5-9e19-ba2a334b9904",
                     "platform": "Facebook",
                     "post_url": "https://empty-ravioli.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 760,
+                    "comments": 146,
                     "shares": 80,
                     "reach": 1574
                 }

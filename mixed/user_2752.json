@@ -1,20 +1,20 @@
 {
-    "user_id": null,
+    "user_id": "6261f0f7-ba10-4240-a893-5dfd62b15242",
     "name": "Margaret Jacobs",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "kayla05@example.org",
+    "instagram_handle": "@jordan59",
+    "tiktok_handle": "@mariefarmer",
+    "joined_at": "2025-05-15T07:44:24.011941",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4be90574-73c6-443f-990b-5f0ca745852a",
+            "brand": "Petty, Williamson and Santiago",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dce6df94-48d1-4d56-8ce9-c0a66530ed73",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.clark.net/",
+                    "likes": 1449,
                     "comments": 10,
                     "shares": 8,
                     "reach": 4890

@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cf49b35a-7918-432c-a104-315e9a516922",
+    "name": "Leslie Mosley",
+    "email": "laurie72@example.com",
+    "instagram_handle": "@morrislisa",
+    "tiktok_handle": "@rsanchez",
+    "joined_at": "2024-10-22T17:42:14.137198",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1fd597d4-8941-4ff7-988c-c13c98b8bef1",
+            "brand": "Alvarado Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "90606b2e-c6f2-41ed-99d4-f6cd8b00e6b5",
+                    "platform": "Twitter",
+                    "post_url": "http://campbell.com/",
                     "likes": 72,
                     "comments": 16,
                     "shares": 90,

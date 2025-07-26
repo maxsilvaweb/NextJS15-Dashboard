@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "ddb26193-3d2c-4a78-a843-923deb8d1d0d",
     "name": "Ada Oberbrunner-Rodriguez",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "christopher16@example.net",
+    "instagram_handle": "@ewilson",
+    "tiktok_handle": "@elizabethburch",
+    "joined_at": "2024-06-13T18:59:15.769137",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2f02a85b-56a0-4982-bea0-cbd1eaa3282b",
+            "brand": "Carey-Guzman",
             "tasks_completed": [
                 {
                     "task_id": "28420b2d-7103-4c8c-8364-7d605d3be7a8",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.perez.com/",
+                    "likes": 9907,
+                    "comments": 300,
                     "shares": 21,
                     "reach": 5762
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5359.55
         }
     ]
 }

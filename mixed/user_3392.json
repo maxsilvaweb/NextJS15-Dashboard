@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b06357b4-0fba-4e1e-875d-9b99ac71c2fb",
+    "name": "Thomas Smith",
+    "email": "hhernandez@example.net",
+    "instagram_handle": "@hortonalbert",
+    "tiktok_handle": "@smalljennifer",
+    "joined_at": "2024-06-17T03:11:09.646821",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a7123771-c080-4988-a6e5-9df97e8dd2a6",
+            "brand": "Thomas, Hernandez and Young",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6eed572e-69d0-4961-b8fb-580779fefe49",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.bishop.com/",
+                    "likes": 3878,
                     "comments": 14,
                     "shares": 90,
                     "reach": 9495
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7891.37
         }
     ]
 }

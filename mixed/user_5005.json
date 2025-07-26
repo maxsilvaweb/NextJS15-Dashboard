@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "98008785-a0a0-406e-ae50-538ff7c04686",
+    "name": "Daisy Johnson",
+    "email": "michealstewart@example.net",
+    "instagram_handle": "@angelaking",
+    "tiktok_handle": "@medinadarren",
+    "joined_at": "2024-11-22T07:43:58.340307",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7340a30c-2177-43b9-89fe-ee73e5626754",
+            "brand": "Petty and Sons",
             "tasks_completed": [
                 {
                     "task_id": "0b3e529a-5808-46de-99a1-285daa4a06c7",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://smith.com/",
+                    "likes": 481,
+                    "comments": 226,
                     "shares": 31,
                     "reach": 4102
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8020.02
         }
     ]
 }

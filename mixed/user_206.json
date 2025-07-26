@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "13eb67f2-9896-402a-ab29-e54aaa3c1618",
+    "name": "Steven Adams",
+    "email": "harrisjessica@example.org",
+    "instagram_handle": "@christine31",
+    "tiktok_handle": "@andrewstephenson",
+    "joined_at": "2025-03-12T15:48:56.370634",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b381ddc8-4239-4f1e-adaf-ded82c7d2b45",
+            "brand": "Ross-Lyons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "1807628d-fb4a-495f-9950-85cb23facfd4",
+                    "platform": "TikTok",
+                    "post_url": "https://gilbert-jackson.com/",
+                    "likes": 532,
+                    "comments": 411,
                     "shares": 34,
                     "reach": 9413
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7158.0
         }
     ]
 }

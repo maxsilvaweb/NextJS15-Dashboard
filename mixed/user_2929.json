@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "89837434-fa18-482e-bbb3-57ae79c5d9e0",
+    "name": "James Smith",
+    "email": "robinsonmichelle@example.com",
+    "instagram_handle": "@morrispamela",
+    "tiktok_handle": "@brianmurphy",
+    "joined_at": "2025-06-03T13:48:13.128218",
     "advocacy_programs": [
         {
             "program_id": "26bb90e8-82f3-43af-8a25-a9b5a506cc1c",
-            "brand": 12345,
+            "brand": "Ingram Ltd",
             "tasks_completed": [
                 {
                     "task_id": "112d76b4-c069-4d1c-82f3-4871b5db8dac",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.jacobs-freeman.com/",
                     "likes": 318,
-                    "comments": null,
+                    "comments": 132,
                     "shares": 33,
                     "reach": 8736
                 }

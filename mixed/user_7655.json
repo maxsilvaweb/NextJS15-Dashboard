@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6e609b38-01b1-4ca9-afa2-fd98315db922",
+    "name": "Nathaniel Stokes",
+    "email": "gardnereric@example.org",
+    "instagram_handle": "@wadedana",
+    "tiktok_handle": "@april30",
+    "joined_at": "2023-08-30T10:11:03.211473",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "58f434de-1676-4f6b-9bf9-5ea35908001f",
+            "brand": "Buckley, Hayes and Evans",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "adf9476b-d314-411f-9d3a-9fceeba3522f",
+                    "platform": "TikTok",
                     "post_url": "https://celebrated-sandbar.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7443,
+                    "comments": 166,
                     "shares": 89,
                     "reach": 4490
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8112.67
         }
     ]
 }

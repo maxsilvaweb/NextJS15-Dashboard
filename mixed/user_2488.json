@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8aa92374-c20d-43e5-9a4f-5d73fcec7b4b",
+    "name": "Michael Baker",
+    "email": "walkerthomas@example.net",
+    "instagram_handle": "@claudiajackson",
+    "tiktok_handle": "@dcarey",
+    "joined_at": "2024-12-25T15:27:53.322648",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5d4b9eb8-3000-432b-bbe2-c0bc7bf007f0",
+            "brand": "Cole LLC",
             "tasks_completed": [
                 {
                     "task_id": "a4f1edb2-ef15-44fe-8436-c01585e10fe0",
                     "platform": "Instagram",
                     "post_url": "https://negative-video.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3427,
+                    "comments": 132,
                     "shares": 43,
                     "reach": 9497
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5624.52
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "57a41a0f-a634-4b78-a0db-f00ab5e0224e",
+    "name": "Felicia Howell",
+    "email": "charles37@example.org",
+    "instagram_handle": "@heather79",
+    "tiktok_handle": "@snydertheresa",
+    "joined_at": "2025-02-08T00:26:58.916711",
     "advocacy_programs": [
         {
             "program_id": "0607fdc6-03ca-4473-a4a9-b2a330524727",
-            "brand": 12345,
+            "brand": "Smith-Blair",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "10273518-cc83-4a2a-a052-68baa7ad7632",
                     "platform": "Instagram",
                     "post_url": "https://well-to-do-godfather.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2835,
+                    "comments": 244,
                     "shares": 36,
                     "reach": 2541
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 449.89
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "eaa0dde7-8f9a-4b7d-b5e9-e8853fabd370",
+    "name": "Derek Adams",
+    "email": "monicathomas@example.com",
+    "instagram_handle": "@amypreston",
+    "tiktok_handle": "@teresamiller",
+    "joined_at": "2025-07-24T03:38:30.495080",
     "advocacy_programs": [
         {
             "program_id": "638f62ce-2bec-491d-a3f8-b257882b11c6",
-            "brand": 12345,
+            "brand": "Lewis, Miller and Weber",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "789ca47a-4d9a-4666-b13f-08139ee24674",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://reyes.com/",
                     "likes": 270,
-                    "comments": null,
+                    "comments": 183,
                     "shares": 11,
                     "reach": 755
                 }

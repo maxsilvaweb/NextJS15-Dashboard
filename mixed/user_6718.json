@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b747a3ba-fcf7-4d15-b103-2681dfaac539",
+    "name": "Hannah Spencer",
+    "email": "adiaz@example.org",
+    "instagram_handle": "@matthewharrison",
+    "tiktok_handle": "@wilkinsjeremy",
+    "joined_at": "2025-04-17T02:38:29.763662",
     "advocacy_programs": [
         {
             "program_id": "5c7a3ddb-8bde-4fd8-a038-5f63af137161",
-            "brand": 12345,
+            "brand": "Kramer-Richardson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b08741cd-b294-4ae3-ae39-78b664a5e130",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.jenkins.com/",
+                    "likes": 4665,
+                    "comments": 93,
                     "shares": 89,
                     "reach": 7931
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3650.73
         }
     ]
 }

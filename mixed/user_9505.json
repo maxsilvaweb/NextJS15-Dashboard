@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "beec8461-2bf7-4683-9a97-81c62a153cac",
+    "name": "Brandon Murray",
     "email": "Jabari.Armstrong99@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@nfranco",
+    "tiktok_handle": "@juan37",
+    "joined_at": "2024-05-06T10:48:03.854965",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "41d12c7a-fe58-4d3d-8abc-bb8c1a9047cb",
+            "brand": "Lee PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "798b2d72-246f-49e6-abfc-597facb469df",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.mendoza.com/",
+                    "likes": 6112,
                     "comments": 44,
                     "shares": 87,
                     "reach": 9393
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9285.13
         }
     ]
 }

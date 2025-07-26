@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "92e5a0e2-2241-4343-a6c1-aa5491a45e87",
+    "name": "Mark Day",
+    "email": "atorres@example.net",
+    "instagram_handle": "@bishopmadison",
+    "tiktok_handle": "@danielmiller",
     "joined_at": "2024-06-07T12:31:44.055Z",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "a5bf2d04-b471-403d-86e3-1ef7716f0f2a",
             "brand": "Kohler, Witting and Quitzon",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e5773e50-e914-4d6a-8902-07372f7dd848",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.martinez.net/",
+                    "likes": 5242,
+                    "comments": 187,
                     "shares": 33,
                     "reach": 2144
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3977.8
         }
     ]
 }

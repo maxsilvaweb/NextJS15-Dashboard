@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a92d86e8-abaa-4cd8-a071-e8ba37f754f5",
+    "name": "Angela Jones",
+    "email": "rileymichael@example.net",
+    "instagram_handle": "@davidgonzales",
+    "tiktok_handle": "@psmith",
+    "joined_at": "2025-05-04T06:36:24.845727",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "751d90bc-156f-4a1f-8c43-84b239b5851f",
+            "brand": "Solomon, Skinner and Lopez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "1c568d2c-566a-4b47-91e8-8696ed406ef4",
+                    "platform": "YouTube",
+                    "post_url": "http://wolfe-wilson.com/",
+                    "likes": 9965,
                     "comments": 13,
                     "shares": 85,
                     "reach": 3500
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2973.28
         }
     ]
 }

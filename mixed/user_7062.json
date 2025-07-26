@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "0a223697-44f2-4015-8384-118e9e075050",
+    "name": "Tara Morris",
     "email": "Kenyon.Carter68@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@johnsondon",
+    "tiktok_handle": "@hdelgado",
+    "joined_at": "2025-03-27T15:36:25.252745",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ba729c8e-df4b-47be-a02f-7e6f3f6eef2b",
+            "brand": "Walter-Rose",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ee3c46c6-25cd-49af-84d6-dc5ce3e53410",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.johnson.com/",
                     "likes": 13,
-                    "comments": null,
+                    "comments": 393,
                     "shares": 28,
                     "reach": 2993
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1205.26
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "037aeb8f-486a-4473-bd7e-0dde1b1b9863",
+    "name": "Amber Todd",
+    "email": "nelsonlaura@example.org",
+    "instagram_handle": "@patricia03",
+    "tiktok_handle": "@lucasclaudia",
+    "joined_at": "2025-05-28T15:14:40.882102",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c8a8485c-9ed5-4719-bca1-488703d9ddbf",
+            "brand": "Green, Bradshaw and Collins",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "623d2d89-881a-4db9-9afb-01262c4a5e50",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.watson-owens.com/",
+                    "likes": 1345,
+                    "comments": 443,
                     "shares": 6,
                     "reach": 4293
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6552.77
         }
     ]
 }

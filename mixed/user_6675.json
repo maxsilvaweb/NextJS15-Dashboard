@@ -1,21 +1,21 @@
 {
     "user_id": "0de8d95f-520d-4584-9047-33352bc92833",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Allen Frye",
+    "email": "daniel25@example.org",
+    "instagram_handle": "@hilljohn",
+    "tiktok_handle": "@ycarter",
+    "joined_at": "2025-07-08T23:11:01.278225",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e3f999ff-da0b-4baa-a130-09fa86536550",
+            "brand": "Crawford, Oliver and Ford",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fbf4e704-7180-471d-8dfd-daebb59fffce",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.wu.com/",
+                    "likes": 877,
+                    "comments": 70,
                     "shares": 15,
                     "reach": 3945
                 }

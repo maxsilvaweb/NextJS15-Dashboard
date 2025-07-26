@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "d46305e6-4e02-42aa-ad94-d3cdf21ab10d",
+    "name": "Jose Bean",
     "email": "Davin94@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@mallen",
+    "tiktok_handle": "@taylorwilliams",
+    "joined_at": "2024-12-06T12:09:52.802451",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bd38c8e4-e30a-4c94-afc1-7a549ce685ba",
+            "brand": "Hawkins, Sanders and Thomas",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1fb19c0d-c412-41ce-8a3b-b357e4705ab4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://brown-davis.org/",
+                    "likes": 4546,
+                    "comments": 402,
                     "shares": 75,
                     "reach": 9731
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4547.47
         }
     ]
 }

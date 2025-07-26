@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "d60204b7-e706-49d3-8a19-5e931481ab96",
     "name": "Heather Renner",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "jay53@example.com",
+    "instagram_handle": "@nicole97",
+    "tiktok_handle": "@melissa51",
+    "joined_at": "2024-10-23T01:08:58.070164",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7d5bf5df-2744-4c6d-8966-e53ce3c94809",
+            "brand": "Mathis PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d60210b9-948b-4e17-95e8-777b62c5f353",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://kelly.com/",
+                    "likes": 2783,
                     "comments": 47,
                     "shares": 44,
                     "reach": 4967
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7359.09
         }
     ]
 }

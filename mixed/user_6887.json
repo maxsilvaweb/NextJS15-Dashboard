@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "61f67662-43c9-4c61-895d-06cf39aa80db",
+    "name": "Kimberly Richards",
     "email": "Antoinette.Jerde49@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@weissrobert",
+    "tiktok_handle": "@kbrown",
+    "joined_at": "2024-07-29T01:08:04.572028",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "165d1ad0-65c1-4b8f-8607-f131af4dabf7",
+            "brand": "Farmer-Castro",
             "tasks_completed": [
                 {
                     "task_id": "11eca0a7-d8d1-4f86-8b59-10f2b6b1c132",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://black.com/",
+                    "likes": 5985,
+                    "comments": 448,
                     "shares": 10,
                     "reach": 5001
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8512.4
         }
     ]
 }

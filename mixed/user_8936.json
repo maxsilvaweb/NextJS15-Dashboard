@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "878c2753-42b6-4add-8b16-3fac9fe4104d",
+    "name": "Dr. Lauren Sanchez",
+    "email": "morgandawn@example.org",
+    "instagram_handle": "@katrina15",
+    "tiktok_handle": "@hilllatasha",
+    "joined_at": "2024-01-07T10:00:25.846061",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6be22898-289f-4c91-ae66-21ab66c6a612",
+            "brand": "Smith-Singleton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6150104c-f4d3-4917-8c20-b2f72bc9352d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.black.biz/",
+                    "likes": 5674,
                     "comments": 48,
                     "shares": 0,
                     "reach": 3814
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4855.28
         }
     ]
 }

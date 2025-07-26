@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4c909d28-b6a9-4ce4-97b1-048a81c68643",
+    "name": "Jacob Conner",
+    "email": "scottstanley@example.com",
+    "instagram_handle": "@cherylbaker",
+    "tiktok_handle": "@whitenancy",
+    "joined_at": "2024-12-20T21:25:48.962496",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9df1a06d-3e5e-4c8d-87aa-12aa64c3da27",
+            "brand": "Hammond Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4d87f173-6260-4b62-b9bc-a5f682b53dc0",
                     "platform": "Instagram",
                     "post_url": "https://hard-to-find-innovation.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2417,
+                    "comments": 1,
                     "shares": 68,
                     "reach": 2698
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9565.03
         }
     ]
 }

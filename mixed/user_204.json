@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bbd0184f-3fc7-4279-87a8-e2f08344dcd3",
+    "name": "Scott Maldonado",
+    "email": "krista67@example.org",
+    "instagram_handle": "@zbrooks",
+    "tiktok_handle": "@danielbanks",
+    "joined_at": "2023-12-01T00:17:03.813601",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "abcad9ac-d666-40a5-aa8a-7bc0f5a764d4",
+            "brand": "Munoz-Irwin",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9c2e8095-0769-49f5-99c2-bfd772cb0583",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.griffin.info/",
+                    "likes": 4745,
+                    "comments": 234,
                     "shares": 17,
                     "reach": 3154
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5606.8
         }
     ]
+}

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d84cff18-66ab-4216-a7bd-b2989711c1d5",
+    "name": "Melody Lewis",
+    "email": "sherilutz@example.com",
+    "instagram_handle": "@alexanderaguilar",
+    "tiktok_handle": "@donaldherrera",
+    "joined_at": "2023-12-02T21:36:08.294425",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4bea841a-d6fa-421f-b128-59c6241fcdb8",
+            "brand": "Jenkins, Diaz and Foley",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "84bef245-c624-4daf-a767-b1c19cf8965f",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.kelley-smith.com/",
                     "likes": 33,
-                    "comments": null,
+                    "comments": 30,
                     "shares": 81,
                     "reach": 8203
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7659.44
         }
     ]
 }

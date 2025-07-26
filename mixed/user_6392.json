@@ -1,26 +1,26 @@
 {
     "user_id": "9a8c69cb-d0f3-42e0-9803-001c6ae82239",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Michael Gallegos",
+    "email": "cherylwright@example.com",
+    "instagram_handle": "@ralphcalderon",
+    "tiktok_handle": "@rebeccagonzalez",
+    "joined_at": "2023-12-01T17:31:14.291467",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "20860dd6-3490-4d35-8c83-1354b55191ea",
             "brand": "Gerhold, Blanda and Haley",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "60add9eb-c3e7-49d7-9e17-ea44adf552be",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://davis.info/",
+                    "likes": 1137,
                     "comments": 26,
                     "shares": 68,
                     "reach": 2290
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4665.95
         }
     ]
 }

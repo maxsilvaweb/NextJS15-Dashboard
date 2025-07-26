@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "77816615-5d2b-4132-8877-2de4043f72b7",
+    "name": "Leah Young",
+    "email": "pamelapratt@example.net",
+    "instagram_handle": "@raymondbrian",
+    "tiktok_handle": "@millertracy",
+    "joined_at": "2024-02-18T09:36:51.690581",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "90d6f380-2ebb-400b-9071-18d1dafaae03",
+            "brand": "Nelson PLC",
             "tasks_completed": [
                 {
                     "task_id": "d86ef182-3bbc-4ace-b14f-ddfd4852e733",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.lee.com/",
                     "likes": 431,
-                    "comments": null,
+                    "comments": 33,
                     "shares": 18,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1162.21
         }
     ]
 }

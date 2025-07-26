@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "e0648138-ce9b-44ff-81c6-a69655e1488c",
+    "name": "Stephanie Edwards",
     "email": "Jarrett66@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@angelamiller",
+    "tiktok_handle": "@simpsonjessica",
+    "joined_at": "2024-10-28T08:36:28.788459",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "02810920-b5c8-4538-a9bb-fbb28944e3c3",
+            "brand": "Garza LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b8274b4b-c953-48a1-8d4b-e25c83b15bfd",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://park.com/",
+                    "likes": 6246,
+                    "comments": 265,
                     "shares": 11,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9665.87
         }
     ]
 }

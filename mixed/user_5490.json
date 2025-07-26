@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "6375c114-2288-4c64-8811-c3dd08593b81",
+    "name": "John Rivera",
     "email": "Frankie71@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@dbrown",
+    "tiktok_handle": "@kstewart",
+    "joined_at": "2023-09-22T21:34:53.840147",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "241c6947-945d-4657-81b6-5fa2a1d355e4",
+            "brand": "Rasmussen-Warner",
             "tasks_completed": [
                 {
                     "task_id": "6ddadf06-5ccd-4476-881f-bdcd2fac2ea7",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://oconnor.com/",
                     "likes": 253,
-                    "comments": null,
+                    "comments": 46,
                     "shares": 61,
                     "reach": 6583
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8224.64
         }
     ]
 }

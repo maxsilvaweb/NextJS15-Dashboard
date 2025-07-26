@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8acb5811-71c4-4e54-85d2-1dae98938e2b",
+    "name": "Katie Randolph",
+    "email": "washingtonangela@example.net",
+    "instagram_handle": "@nmcbride",
+    "tiktok_handle": "@kevin17",
+    "joined_at": "2023-12-08T19:57:48.501692",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e70cb4a0-07a2-4d04-888e-5de1f762928e",
+            "brand": "Rivera, Saunders and Jennings",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dbd3d68d-4a59-4cce-b4a5-0376854f1b00",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.love.com/",
+                    "likes": 1375,
                     "comments": 20,
                     "shares": 63,
                     "reach": 8152
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 570.2
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "fa2c2375-bba7-48af-b8a5-b8b7d4c6bc22",
+    "name": "Crystal Reynolds",
     "email": "Sister57@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@feliciafrost",
+    "tiktok_handle": "@ericvaldez",
+    "joined_at": "2025-01-27T06:18:59.427845",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f4e7e0bc-8b8d-4a60-bfcb-0ed730507699",
+            "brand": "Horton-Chavez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cb017a5e-7029-484f-84bf-bb320b2f923f",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.gates-camacho.net/",
                     "likes": 300,
-                    "comments": null,
+                    "comments": 382,
                     "shares": 29,
                     "reach": 9189
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 931.91
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d02bbf2a-caba-4d88-b977-6d35a5b1e322",
+    "name": "Stacey Peterson",
+    "email": "emartin@example.org",
+    "instagram_handle": "@donna90",
+    "tiktok_handle": "@jgonzalez",
+    "joined_at": "2024-12-07T20:55:30.836762",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "595e68ea-9612-4a5e-8910-8e57b939c7fe",
+            "brand": "Watkins-Edwards",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3afc1085-f08b-4637-b9ea-13daeccdd03c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://roach.biz/",
                     "likes": 65,
-                    "comments": null,
+                    "comments": 205,
                     "shares": 12,
                     "reach": 8500
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3947.93
         }
     ]
 }

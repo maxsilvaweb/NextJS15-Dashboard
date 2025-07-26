@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "264b0f94-a9ec-409e-bfe3-ea89f09ca88c",
+    "name": "Samuel Zhang II",
+    "email": "katherine12@example.com",
+    "instagram_handle": "@tinahines",
+    "tiktok_handle": "@kmiller",
+    "joined_at": "2024-06-23T07:27:14.305928",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2729110f-459d-4c10-897a-b83b5ac79f4b",
+            "brand": "Bowman LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "810e3115-3bb9-4c83-8fcf-ffa926119e99",
+                    "platform": "YouTube",
                     "post_url": "https://extroverted-almighty.net",
-                    "likes": "NaN",
+                    "likes": 5152,
                     "comments": 29,
                     "shares": 53,
                     "reach": 9331
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1873.3
         }
     ]
 }

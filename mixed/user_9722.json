@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6a1175c7-2cf9-4c1d-b023-a1c7f1fae7cc",
+    "name": "Erin Hunter MD",
+    "email": "mark77@example.com",
+    "instagram_handle": "@david71",
+    "tiktok_handle": "@lisa35",
+    "joined_at": "2024-01-06T12:19:00.482841",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "393c018f-c199-4fe9-8127-4eb6a8fe6df0",
+            "brand": "Smith, Santos and Davis",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d4a22940-7cc2-4976-b55f-bcb8a86d4837",
                     "platform": "Facebook",
                     "post_url": "https://zealous-taxicab.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2538,
+                    "comments": 395,
                     "shares": 72,
                     "reach": 8483
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3835.63
         }
     ]
 }

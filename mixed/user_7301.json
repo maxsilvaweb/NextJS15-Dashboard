@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fa60bd67-9954-4fda-bb71-1a2e20dfbf68",
+    "name": "Douglas Ortiz",
+    "email": "lisa90@example.net",
+    "instagram_handle": "@tpatel",
+    "tiktok_handle": "@patrick69",
+    "joined_at": "2024-02-16T18:53:19.565123",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fae78155-1391-4a36-a223-68c700416a83",
+            "brand": "Nichols-Harvey",
             "tasks_completed": [
                 {
                     "task_id": "f5c6915e-1990-4898-b7f5-4f02e38c6448",
                     "platform": "TikTok",
                     "post_url": "https://boiling-version.info",
-                    "likes": "NaN",
+                    "likes": 3770,
                     "comments": 34,
                     "shares": 54,
                     "reach": 4877
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6055.72
         }
     ]
 }

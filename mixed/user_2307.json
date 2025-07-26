@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "bcf0517b-415c-4a38-a350-590cbd010189",
+    "name": "Dylan Watson",
     "email": "Mohamed_Nicolas47@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@nolanteresa",
+    "tiktok_handle": "@katherinegomez",
+    "joined_at": "2025-05-12T00:12:13.979931",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "f3e06e94-e2c8-44ce-80f1-cc4a59d2f4a8",
             "brand": "Monahan - Johns",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a41c8dbf-479d-49b2-b585-cce6ad28c650",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.hawkins.com/",
+                    "likes": 5036,
                     "comments": 25,
                     "shares": 82,
                     "reach": 6343

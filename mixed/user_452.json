@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "53d3be9b-bd41-4d8a-be0b-e0d1fc3826d5",
+    "name": "Susan Burke",
+    "email": "klittle@example.com",
+    "instagram_handle": "@kellymoore",
+    "tiktok_handle": "@joel80",
+    "joined_at": "2024-05-01T09:49:36.978957",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f1d54cae-6b1f-4cc8-b520-7da6c67d152b",
+            "brand": "Brown-Fernandez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0ede6068-d31f-4b1a-b5a7-b168a25f02f1",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://peterson.biz/",
+                    "likes": 3705,
+                    "comments": 402,
                     "shares": 82,
                     "reach": 9534
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6957.52
         }
     ]
 }

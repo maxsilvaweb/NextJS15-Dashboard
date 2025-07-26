@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "b7afdecd-9ee3-4767-be28-5208e62a601d",
     "name": "Shannon Moen",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "shelbyknox@example.net",
+    "instagram_handle": "@justinhernandez",
+    "tiktok_handle": "@nelsonmaria",
+    "joined_at": "2023-12-28T19:39:54.408733",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "326b2d86-6b5d-44ff-ae65-fab2171f779d",
+            "brand": "Anderson PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "d41adda9-27ef-4c45-a76e-fe8c9b9267df",
+                    "platform": "TikTok",
+                    "post_url": "http://www.adams.com/",
+                    "likes": 3841,
+                    "comments": 492,
                     "shares": 42,
                     "reach": 3135
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1177.21
         }
     ]
 }

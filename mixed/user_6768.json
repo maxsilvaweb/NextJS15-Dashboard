@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "038677bc-96b5-45f9-8a7c-85010378c68e",
+    "name": "Stephen Wood",
+    "email": "jennifer82@example.net",
+    "instagram_handle": "@wcrosby",
+    "tiktok_handle": "@millerchristopher",
+    "joined_at": "2024-01-19T11:45:51.563247",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8d2305af-b4cb-44ce-a80f-eef8b1bda0d9",
+            "brand": "Cole, Davis and Tucker",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "d0d5bf34-c080-428f-9aaa-a56cabf92cff",
+                    "platform": "YouTube",
                     "post_url": "https://needy-sport.name",
-                    "likes": "NaN",
+                    "likes": 8093,
                     "comments": 24,
                     "shares": 11,
                     "reach": 6962

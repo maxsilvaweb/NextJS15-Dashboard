@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4a015464-2a04-43d2-8871-443c39dba7bb",
+    "name": "Valerie Guzman",
+    "email": "owalters@example.com",
+    "instagram_handle": "@birwin",
+    "tiktok_handle": "@bob91",
+    "joined_at": "2024-10-09T05:34:38.089822",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "67f201de-6722-43b3-9082-6e33cc654332",
+            "brand": "Thomas Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "df5cba93-8a30-4f02-bf97-cb90f9353ea0",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://moore-mercado.com/",
+                    "likes": 6121,
                     "comments": 7,
                     "shares": 28,
                     "reach": 3507
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3760.22
         }
     ]
 }

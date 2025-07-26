@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "0335fc51-3f33-4a22-a86c-e1b6205ef7b6",
+    "name": "Jessica Morris",
+    "email": "ujimenez@example.com",
+    "instagram_handle": "@thompsonlaura",
+    "tiktok_handle": "@jessicarodriguez",
     "joined_at": "2024-07-02T06:54:44.538Z",
     "advocacy_programs": [
         {
             "program_id": "e709300f-1d4f-46c2-9d89-a3a07336c83a",
-            "brand": 12345,
+            "brand": "Garcia Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a80a5b80-8faa-426f-aa90-675d4d7056a0",
                     "platform": "Instagram",
                     "post_url": "https://black-and-white-stall.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7407,
+                    "comments": 253,
                     "shares": 45,
                     "reach": 4359
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 392.19
         }
     ]
 }

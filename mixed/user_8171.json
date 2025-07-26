@@ -1,26 +1,26 @@
 {
     "user_id": "59f68738-c25d-4eef-8b24-b83c9b50d35c",
-    "name": "???",
+    "name": "Amber Stephens",
     "email": "Lucy71@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@wmiller",
+    "tiktok_handle": "@ncosta",
+    "joined_at": "2024-12-24T00:39:10.072804",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2db6b158-40ac-452e-aff4-f423efb85478",
+            "brand": "Myers PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2d499c61-5950-4378-b0f9-47c85959c115",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://dillon.info/",
+                    "likes": 6330,
+                    "comments": 101,
                     "shares": 29,
                     "reach": 6548
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3196.66
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ae202170-4827-4912-8d8d-4b6a2d8812d7",
+    "name": "Matthew Stephens",
+    "email": "lopezterry@example.org",
+    "instagram_handle": "@samuel86",
+    "tiktok_handle": "@shepherdchad",
+    "joined_at": "2025-07-23T10:23:23.933633",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a3394221-97d8-4745-9bb1-e7298b7061e7",
+            "brand": "Edwards-Neal",
             "tasks_completed": [
                 {
                     "task_id": "c7068b70-7888-4ec4-ae1e-b5deee842d03",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "platform": "Twitter",
+                    "post_url": "http://www.meyer.com/",
+                    "likes": 2530,
                     "comments": 2,
                     "shares": 43,
                     "reach": 3017
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6540.74
         }
     ]
 }

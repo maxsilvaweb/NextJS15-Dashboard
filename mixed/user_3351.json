@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5009e9dd-8cfc-4236-ba27-f93ddae009e3",
+    "name": "Christy Ho",
+    "email": "brian51@example.com",
+    "instagram_handle": "@romanchristine",
+    "tiktok_handle": "@adam72",
+    "joined_at": "2025-06-20T03:19:37.858407",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4d4ae377-4d0f-4703-9bfa-6b2141907662",
+            "brand": "Long LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7aac57a8-1604-4764-81c8-6b0de410cea9",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://jackson.net/",
+                    "likes": 2027,
                     "comments": 14,
                     "shares": 9,
                     "reach": 1620
@@ -23,3 +23,4 @@
             "total_sales_attributed": 1314.8339556403544
         }
     ]
+}

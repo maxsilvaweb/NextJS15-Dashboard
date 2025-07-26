@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "331ac702-435a-4b6e-aeab-cedb1b677137",
+    "name": "Sandra Stewart",
     "email": "Osbaldo56@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@zmiller",
+    "tiktok_handle": "@dianetorres",
+    "joined_at": "2023-11-08T11:54:53.671936",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0f07fba3-22dd-42d1-9c95-f846e935d38c",
+            "brand": "Montgomery, Larson and Zavala",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a68c3f18-e68e-4843-b5e1-31c8426f134f",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://wright.com/",
                     "likes": 318,
-                    "comments": null,
+                    "comments": 493,
                     "shares": 34,
                     "reach": 7010
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2434.88
         }
     ]
 }

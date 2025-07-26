@@ -1,21 +1,21 @@
 {
     "user_id": "6466226f-ed1b-40d5-806c-f7e05fd4a346",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Daniel Dalton",
+    "email": "catherine02@example.org",
+    "instagram_handle": "@larry06",
+    "tiktok_handle": "@eric23",
+    "joined_at": "2023-11-05T19:56:07.289541",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "be17b8ac-de4d-43e2-8ef2-082dbc18090f",
+            "brand": "Sanchez-Williams",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "d669a8f5-30d5-4e2a-97c4-e17be32890d4",
+                    "platform": "Twitter",
+                    "post_url": "https://christian.net/",
+                    "likes": 3997,
+                    "comments": 154,
                     "shares": 68,
                     "reach": 7593
                 }

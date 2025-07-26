@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "99090f72-abf7-4018-b172-f61eb0bfb221",
+    "name": "Tiffany Kerr",
+    "email": "richard87@example.org",
+    "instagram_handle": "@tcarey",
+    "tiktok_handle": "@wgarcia",
+    "joined_at": "2024-02-13T17:38:06.483090",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "416902a5-f4cc-4709-8c9a-9e887f05edff",
+            "brand": "Floyd-Potts",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4b19dd2e-ee1e-4326-906a-11b08c376938",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://miller.com/",
+                    "likes": 6186,
                     "comments": 42,
                     "shares": 78,
                     "reach": 4935
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 487.03
         }
     ]
 }

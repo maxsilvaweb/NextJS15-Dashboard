@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9089b32e-b67f-4cfe-944b-ee5d137674ee",
+    "name": "Christina Obrien",
+    "email": "umaddox@example.net",
+    "instagram_handle": "@yhamilton",
+    "tiktok_handle": "@callahannoah",
+    "joined_at": "2025-06-28T19:09:01.268400",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "276c59d8-ca8f-4a8d-9c53-ae7c971f83a3",
+            "brand": "Campbell, Malone and Johns",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a7c3e429-e122-4465-abb2-1c4f9ef12f65",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://ward-cochran.com/",
+                    "likes": 1411,
+                    "comments": 125,
                     "shares": 46,
                     "reach": 9378
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8241.96
         }
     ]
 }

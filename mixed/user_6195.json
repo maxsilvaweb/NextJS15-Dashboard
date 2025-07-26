@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "fa3cfe15-45e5-49c5-90cc-477d8e7aa181",
+    "name": "Austin Martinez",
+    "email": "denise86@example.org",
     "instagram_handle": "@Tanya_Senger44",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@lstephens",
+    "joined_at": "2024-04-07T14:10:29.577009",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "73350516-d244-42a7-8e56-42ab781d71f4",
+            "brand": "Davis and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0ef2fb50-31f6-4137-b887-b1230b0c8159",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.gomez.net/",
+                    "likes": 6192,
+                    "comments": 483,
                     "shares": 68,
                     "reach": 1165
                 }

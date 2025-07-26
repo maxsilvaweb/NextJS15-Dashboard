@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "74d685af-8a6e-4290-8b56-69161fe42f04",
+    "name": "Casey Solis",
+    "email": "kevin32@example.net",
+    "instagram_handle": "@georgejeffrey",
+    "tiktok_handle": "@maurice99",
+    "joined_at": "2024-12-02T04:44:01.421364",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8af8421a-8ea8-459f-86ff-efb49faf7f7c",
+            "brand": "Rogers-Cisneros",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "89eab5af-2440-4776-be73-58311567be44",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.vargas-martinez.net/",
+                    "likes": 8852,
+                    "comments": 424,
                     "shares": 95,
                     "reach": 3181
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4170.34
         }
     ]
 }

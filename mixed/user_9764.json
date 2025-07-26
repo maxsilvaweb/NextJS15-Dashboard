@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "692490c0-65eb-479c-9c27-f266cc9b7475",
+    "name": "Mercedes Jimenez",
+    "email": "wheelermary@example.com",
+    "instagram_handle": "@lewistamara",
+    "tiktok_handle": "@mthomas",
+    "joined_at": "2024-05-28T02:31:55.222324",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4788b58d-ea22-441a-a5c2-502b57cff263",
+            "brand": "Koch Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "af442ad2-4e85-43bd-ac5d-30cfc450280e",
+                    "platform": "Instagram",
+                    "post_url": "http://www.knox-anderson.com/",
+                    "likes": 3162,
+                    "comments": 113,
                     "shares": 81,
                     "reach": 8654
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 337.02
         }
     ]
 }

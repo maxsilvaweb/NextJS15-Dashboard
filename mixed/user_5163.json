@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8f5444fd-b8b9-4b19-92af-5303e7e0ebec",
+    "name": "Robert King",
+    "email": "fdurham@example.net",
+    "instagram_handle": "@danielreynolds",
+    "tiktok_handle": "@cindybraun",
+    "joined_at": "2025-02-07T21:07:29.796130",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "2561bfd1-ce76-4b2b-9922-e13836f4d657",
             "brand": "Bayer Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5fa08833-ea2b-4852-9e28-2799eb112ff0",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://jimenez.org/",
                     "likes": 222,
-                    "comments": null,
+                    "comments": 416,
                     "shares": 20,
                     "reach": 9556
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2734.01
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bdd7c560-5c5f-4ad7-bc64-83a860ed9e5d",
+    "name": "Ashley Armstrong",
+    "email": "timothy57@example.com",
+    "instagram_handle": "@deannadeleon",
+    "tiktok_handle": "@nleonard",
+    "joined_at": "2024-02-04T19:06:27.965994",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "2d91b5e2-ec0f-46fd-b2f2-d1d20fa8b6a1",
             "brand": "Toy Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e1b433ec-c833-4a16-862e-2a939d5bd5fd",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.schultz.com/",
+                    "likes": 4902,
                     "comments": 36,
                     "shares": 0,
                     "reach": 4933
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8854.31
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "623e1b16-99c6-48d5-94e6-5981593ac553",
+    "name": "Veronica Glover",
+    "email": "williamsbarbara@example.org",
+    "instagram_handle": "@christopher60",
+    "tiktok_handle": "@uwatson",
+    "joined_at": "2023-09-25T16:52:04.393901",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8554d32f-ca13-49b4-947c-76d1044c7f16",
+            "brand": "Houston, Erickson and Medina",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "9baedf13-8c03-4fef-9d66-d73b803e0cf7",
+                    "platform": "TikTok",
                     "post_url": "https://broken-marimba.com",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3123,
+                    "comments": 36,
                     "shares": 24,
                     "reach": 8568
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6339.16
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
     "user_id": "adb537b7-8394-4bb3-9577-b50655d1ff0f",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Erik Parker",
+    "email": "baldwinsarah@example.com",
+    "instagram_handle": "@jdelgado",
+    "tiktok_handle": "@irodriguez",
+    "joined_at": "2025-05-09T15:03:39.325915",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bf549bdf-242e-49e4-87d6-a43808aa4436",
+            "brand": "Reed, Sanchez and Silva",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "1a7d8d5f-2171-4e81-ba14-11f0ce493fda",
+                    "platform": "Instagram",
+                    "post_url": "https://www.johns-anderson.com/",
+                    "likes": 5086,
+                    "comments": 13,
                     "shares": 64,
                     "reach": 1317
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8780.11
         }
     ]
 }

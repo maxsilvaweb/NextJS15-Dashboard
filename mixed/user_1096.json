@@ -1,26 +1,26 @@
 {
     "user_id": "b0b2829a-7449-494d-a228-b91502d387e9",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Mandy Raymond",
+    "email": "kenneth74@example.net",
+    "instagram_handle": "@ashleyarnold",
+    "tiktok_handle": "@mwatts",
+    "joined_at": "2024-07-22T10:39:11.612376",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "df886993-57a3-4f2e-906d-0f56c85f1392",
+            "brand": "Mcintosh-Pham",
             "tasks_completed": [
                 {
                     "task_id": "c016fd93-48b5-4609-8414-e2af6068e305",
-                    "platform": 123,
+                    "platform": "YouTube",
                     "post_url": "https://humble-charm.biz/",
-                    "likes": "NaN",
+                    "likes": 21,
                     "comments": 7,
                     "shares": 87,
                     "reach": 3498
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6648.01
         }
     ]
 }

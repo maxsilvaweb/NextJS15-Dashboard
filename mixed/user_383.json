@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "cf200161-f9ef-419b-805f-e75eac13b3b5",
+    "name": "Claudia Martinez",
     "email": "Viva.Donnelly13@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@lisa53",
+    "tiktok_handle": "@knguyen",
+    "joined_at": "2024-06-15T02:17:34.117961",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d4d10d13-d627-4ff0-b4bd-6e8282bd4c3d",
+            "brand": "Wright and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b79cb1ba-512c-46cc-adbc-017fa1b2ee8f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://good.info/",
                     "likes": 477,
-                    "comments": null,
+                    "comments": 399,
                     "shares": 0,
                     "reach": 3052
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9050.85
         }
     ]
 }

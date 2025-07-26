@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "54b788dd-e630-4a83-a529-dc4f3ef45f53",
+    "name": "Michelle Warren",
+    "email": "alexandermatthew@example.com",
+    "instagram_handle": "@john33",
+    "tiktok_handle": "@debbiethompson",
+    "joined_at": "2025-04-05T07:19:33.580834",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "fd8d57a0-0aec-4c19-98ea-61f37268119f",
             "brand": "Fritsch - Kerluke",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "38f9aa2c-c409-42c3-ae7a-898da75a5d43",
                     "platform": "TikTok",
                     "post_url": "https://pushy-sightseeing.org/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8825,
+                    "comments": 431,
                     "shares": 23,
                     "reach": 1081
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 602.14
         }
     ]
 }

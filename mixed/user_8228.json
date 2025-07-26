@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "03077111-d33d-47c9-90b0-7197f8ac1010",
+    "name": "Karl Mcdaniel",
+    "email": "phelpsjohn@example.org",
+    "instagram_handle": "@nstafford",
+    "tiktok_handle": "@gbenton",
     "joined_at": "2024-11-03T13:20:29.399Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "82420705-4d52-4c33-a682-c1e53bd08bf4",
+            "brand": "Mcmillan-Quinn",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4044c636-825b-472e-9b61-8f1f85f98de0",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://townsend.info/",
+                    "likes": 8075,
+                    "comments": 477,
                     "shares": 40,
                     "reach": 3002
                 }

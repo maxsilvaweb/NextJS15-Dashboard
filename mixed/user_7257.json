@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a877d56e-3f41-40e8-9556-7a488b04ca40",
+    "name": "Corey Nash",
+    "email": "nicoleharrison@example.com",
+    "instagram_handle": "@nancy53",
+    "tiktok_handle": "@shieldsjackie",
+    "joined_at": "2024-12-17T15:16:27.656494",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f49cfdb1-2356-4ab9-a9d5-bf5efb35f52f",
+            "brand": "Reese-Harris",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "34d5d1b7-1a7e-4fe2-ba12-3056360efb95",
+                    "platform": "Instagram",
+                    "post_url": "http://douglas.info/",
+                    "likes": 5732,
+                    "comments": 73,
                     "shares": 90,
                     "reach": 4539
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2096.4
         }
     ]
 }

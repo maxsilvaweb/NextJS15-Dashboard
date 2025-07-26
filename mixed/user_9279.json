@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "4a5a0bd9-51ba-4f61-8788-04bd091c68e2",
+    "name": "John Lee",
     "email": "Pedro.Lindgren24@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@davidbrown",
+    "tiktok_handle": "@edwardsmichael",
+    "joined_at": "2024-07-03T14:41:36.524302",
     "advocacy_programs": [
         {
             "program_id": "ccbbd3b6-fc02-4adc-a3bd-34aca6c8ac31",
-            "brand": 12345,
+            "brand": "Atkins, Valencia and Reid",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "51d62629-e437-4530-94fb-cb03617d6c32",
+                    "platform": "TikTok",
+                    "post_url": "http://www.ibarra.com/",
                     "likes": 323,
-                    "comments": null,
+                    "comments": 330,
                     "shares": 89,
                     "reach": 7465
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5068.38
         }
     ]
 }

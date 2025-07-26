@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d75a5739-25e5-42d2-baba-2398757f804f",
+    "name": "Jessica Jones",
+    "email": "chadsilva@example.net",
+    "instagram_handle": "@justin32",
+    "tiktok_handle": "@kristenhamilton",
+    "joined_at": "2024-01-16T22:16:51.980640",
     "advocacy_programs": [
         {
             "program_id": "758bd0ca-dea6-410f-ab9a-e456321be59e",
-            "brand": 12345,
+            "brand": "Hall-Fritz",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a858598b-e335-456f-bd60-c693f114a676",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://elliott.net/",
                     "likes": 404,
-                    "comments": null,
+                    "comments": 480,
                     "shares": 56,
                     "reach": 7167
                 }

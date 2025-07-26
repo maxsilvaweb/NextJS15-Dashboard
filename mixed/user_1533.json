@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "9f0c85b2-c05c-4ee1-884b-ccda86d09d15",
+    "name": "Anthony Jones",
+    "email": "lpoole@example.org",
     "instagram_handle": "@Keagan.Marks",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@michelle07",
+    "joined_at": "2024-03-18T14:02:15.317347",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8956079b-dc90-4e31-b15b-6e6512b3a33f",
+            "brand": "Walters, Williams and Ellis",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b42b0373-205c-4865-a30b-800423796a59",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://dominguez.com/",
                     "likes": 117,
-                    "comments": null,
+                    "comments": 317,
                     "shares": 53,
                     "reach": 613
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4785.88
         }
     ]
 }

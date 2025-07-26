@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "eaddfd78-247f-4b41-82eb-e9051d23b606",
+    "name": "Karina Arnold",
+    "email": "tuckerlauren@example.com",
+    "instagram_handle": "@mmccoy",
+    "tiktok_handle": "@sherri86",
     "joined_at": "2024-08-03T01:25:16.608Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ae88239d-0583-4dc9-b5f4-4d8d2c34490e",
+            "brand": "Nelson Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e3e6d8f0-2113-4690-b696-81babc84873a",
                     "platform": "Facebook",
                     "post_url": "https://informal-lender.com",
                     "likes": 200,
-                    "comments": null,
+                    "comments": 86,
                     "shares": 47,
                     "reach": 9945
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2935.82
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "4f9bdf28-e0a4-4890-821d-484d856b18c8",
+    "name": "Dennis Clayton",
+    "email": "david56@example.com",
     "instagram_handle": "@Bryon53",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@kellyochoa",
+    "joined_at": "2023-08-08T07:19:40.870492",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "be983464-fba9-4b80-896d-6bae4be5746e",
+            "brand": "Peck-Gonzales",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1d966fc8-062d-4ec6-86a1-4b32e9b65cd2",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://anderson-chambers.biz/",
+                    "likes": 9667,
+                    "comments": 392,
                     "shares": 76,
                     "reach": 5407
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 266.9
         }
     ]
 }

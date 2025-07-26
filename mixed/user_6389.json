@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4773e0e0-bfd4-4b08-9dd2-99920c8558da",
+    "name": "David Grant",
+    "email": "umiller@example.com",
+    "instagram_handle": "@mayronald",
+    "tiktok_handle": "@gerald52",
+    "joined_at": "2024-04-28T07:36:26.136706",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "aa492553-2569-42a1-82f8-81ec076d565e",
+            "brand": "Brown and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d8afab05-d479-44f1-bfe4-710a3f3c4b88",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://white-owens.org/",
                     "likes": 173,
-                    "comments": null,
+                    "comments": 131,
                     "shares": 17,
                     "reach": 8005
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9181.69
         }
     ]
 }

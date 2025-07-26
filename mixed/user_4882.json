@@ -1,26 +1,26 @@
 {
     "user_id": "bc4ad4a0-805a-4c1d-b6cb-bf297754f7e8",
-    "name": "???",
+    "name": "John Rodriguez",
     "email": "Devyn.Shanahan95@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@raymond39",
+    "tiktok_handle": "@staylor",
+    "joined_at": "2023-11-24T23:49:55.433007",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "34c1cf85-f7fd-49d5-a5e4-bb240cc051e4",
+            "brand": "Salazar and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "82414728-3707-4d57-9494-9eecbe98c83a",
+                    "platform": "Twitter",
+                    "post_url": "http://www.turner-andrade.net/",
+                    "likes": 9988,
                     "comments": 42,
                     "shares": 50,
                     "reach": 5056
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9345.4
         }
     ]
 }

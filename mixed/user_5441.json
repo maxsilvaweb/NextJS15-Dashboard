@@ -1,21 +1,21 @@
 {
     "user_id": "2b1a3719-ecb6-4617-97cf-096c444e4027",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Brianna Roth",
+    "email": "blopez@example.net",
+    "instagram_handle": "@dspencer",
+    "tiktok_handle": "@mmadden",
+    "joined_at": "2024-07-23T02:25:13.244649",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "abe218ae-bd0a-45e7-865d-23df9e8bf216",
+            "brand": "Hall, Adams and Silva",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7bb44b79-50f5-44ab-9266-f59249d04587",
                     "platform": "TikTok",
                     "post_url": "https://deficient-clamp.biz/",
                     "likes": 298,
-                    "comments": null,
+                    "comments": 131,
                     "shares": 83,
                     "reach": 5647
                 }

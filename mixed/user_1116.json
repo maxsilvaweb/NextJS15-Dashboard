@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9b797c8b-394e-4e6c-a749-f461efaf7985",
+    "name": "Brooke Lindsey",
+    "email": "hartwilliam@example.com",
+    "instagram_handle": "@cassandra38",
+    "tiktok_handle": "@alexander34",
+    "joined_at": "2024-10-28T11:09:38.258042",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a4d18b45-ed12-43c6-a2a1-9f95112e59da",
+            "brand": "Delgado, Barnes and Lambert",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8f1e6c48-3acd-491d-add4-cf32b5513323",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.townsend.biz/",
+                    "likes": 6977,
+                    "comments": 374,
                     "shares": 64,
                     "reach": 2944
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4936.35
         }
     ]
 }

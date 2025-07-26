@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1f33304b-49eb-428b-9288-95d82ef5fe89",
+    "name": "Amber Carroll",
+    "email": "marywaters@example.com",
+    "instagram_handle": "@rebeccagraves",
+    "tiktok_handle": "@johnwhite",
+    "joined_at": "2023-08-10T12:06:14.860021",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0448361a-1af8-4e01-ba0c-b91a73d3259a",
+            "brand": "Davis-Garner",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "e90e9447-ed6c-4a3d-924f-094c261cf149",
+                    "platform": "TikTok",
+                    "post_url": "https://www.oliver.com/",
+                    "likes": 6986,
+                    "comments": 295,
                     "shares": 12,
                     "reach": 7506
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2094.79
         }
     ]
+}

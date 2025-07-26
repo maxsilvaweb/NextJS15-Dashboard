@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "601eb3dd-5262-4bdd-bfaf-99268d12340d",
+    "name": "Donna Solis",
+    "email": "courtney81@example.org",
+    "instagram_handle": "@nramirez",
+    "tiktok_handle": "@valentinenicholas",
+    "joined_at": "2023-12-02T05:21:03.431480",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "6c529be3-6ab2-4069-b26b-9820fb81649a",
             "brand": "O'Reilly - Schmitt",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "46b03bbe-38bd-43af-b0bf-0d2641dc3245",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.arroyo.info/",
                     "likes": 36,
-                    "comments": null,
+                    "comments": 411,
                     "shares": 7,
                     "reach": 5663
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5784.9
         }
     ]
+}

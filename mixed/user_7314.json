@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "4d491433-c846-4551-aa22-f47a8ebf838d",
+    "name": "Kathryn Stephens",
+    "email": "marknichols@example.com",
     "instagram_handle": "@Columbus_Rath1",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@krogers",
+    "joined_at": "2023-11-01T11:55:31.662118",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1fadd87f-c0ed-4286-b842-0b86ae347a20",
+            "brand": "Bauer, Garrett and Hughes",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4349546e-b4a3-4976-ba6f-976637c95604",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.ortiz.com/",
+                    "likes": 5459,
+                    "comments": 215,
                     "shares": 26,
                     "reach": 1092
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1708.18
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "713bfc7c-25e7-41ce-8bd1-5026ad468782",
+    "name": "Renee Brown",
     "email": "Duncan.Carroll@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@jcoleman",
+    "tiktok_handle": "@garciasteve",
     "joined_at": "2024-04-25T09:29:24.461Z",
     "advocacy_programs": [
         {
@@ -11,16 +11,16 @@
             "brand": "Powlowski LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "f51b18c3-7eb2-4b21-b3fc-a53969fee63a",
+                    "platform": "Instagram",
                     "post_url": "https://smug-testing.com/",
                     "likes": 495,
-                    "comments": null,
+                    "comments": 486,
                     "shares": 3,
                     "reach": 6028
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7696.94
         }
     ]
 }

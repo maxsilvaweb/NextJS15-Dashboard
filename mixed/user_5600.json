@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bfeffc72-c244-43ae-8601-f401bcd83f89",
+    "name": "Whitney Velez",
+    "email": "todd66@example.org",
+    "instagram_handle": "@michellebradley",
+    "tiktok_handle": "@jonathan70",
+    "joined_at": "2023-10-08T12:35:03.173421",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3ab572b0-b92a-4ac8-ac8e-ce08c834ddc3",
+            "brand": "Lara Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "090e8f42-2cd7-4b2e-aa9a-3e7bc3622c15",
+                    "platform": "Instagram",
+                    "post_url": "http://flores.com/",
+                    "likes": 5191,
                     "comments": 3,
                     "shares": 62,
                     "reach": 4945
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1549.5
         }
     ]
 }

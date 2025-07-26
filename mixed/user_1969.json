@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "585a1395-fee6-4c9a-8996-76e818ada9e3",
+    "name": "Samantha Garcia",
+    "email": "gcampbell@example.com",
+    "instagram_handle": "@jennifer99",
+    "tiktok_handle": "@kevinevans",
+    "joined_at": "2024-06-19T06:30:49.412605",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0b963e3b-eb33-46c0-b525-3db4dcef3d53",
+            "brand": "Campbell Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "67d08f0a-2980-41be-abe7-c10e37adf5f7",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://cooke.com/",
+                    "likes": 2846,
+                    "comments": 228,
                     "shares": 69,
                     "reach": 3175
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7551.37
         }
     ]
 }

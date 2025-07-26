@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "62898625-6071-4b92-aa82-64060dc64f6b",
+    "name": "Kimberly Jensen",
+    "email": "mhughes@example.net",
+    "instagram_handle": "@mterrell",
+    "tiktok_handle": "@donaldruiz",
+    "joined_at": "2023-08-01T07:03:30.041518",
     "advocacy_programs": [
         {
             "program_id": "39b35171-9800-45da-b36b-acd8dfd0dc0a",
-            "brand": 12345,
+            "brand": "Jackson, Curtis and Villanueva",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b0125b1b-c8f4-48cf-b10f-404f352e43ed",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://richardson-keller.com/",
+                    "likes": 5901,
+                    "comments": 62,
                     "shares": 27,
                     "reach": 1674
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1460.06
         }
     ]
 }

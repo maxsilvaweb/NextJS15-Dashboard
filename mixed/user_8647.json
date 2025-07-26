@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "e953c47b-16f2-4b05-be4b-1c54ae4311c4",
+    "name": "Melissa Brown",
+    "email": "sheltonkevin@example.com",
+    "instagram_handle": "@castrotheresa",
     "tiktok_handle": "@Bradford.Donnelly",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-06-21T20:32:30.490878",
     "advocacy_programs": [
         {
             "program_id": "77cea5ec-fa92-4bc7-b0c6-9880cdc21951",
-            "brand": 12345,
+            "brand": "Bass-Scott",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "69b562e3-e354-42e4-b4be-06564d473123",
+                    "platform": "YouTube",
+                    "post_url": "https://jensen.com/",
+                    "likes": 7520,
                     "comments": 11,
                     "shares": 8,
                     "reach": 846
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6870.39
         }
     ]
 }

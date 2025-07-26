@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "35240ab7-8fb7-494e-a422-0c6c9427ba05",
+    "name": "Wanda Holloway",
+    "email": "edwardmelton@example.net",
+    "instagram_handle": "@tatejennifer",
+    "tiktok_handle": "@duncanmichael",
+    "joined_at": "2024-11-18T12:11:04.043370",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6c61f0bd-b0e2-4ede-8f4b-5e3f31640be3",
+            "brand": "Brown-Paul",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "6dbc4feb-9a03-4002-a3c3-0ae5ed9fb6f1",
+                    "platform": "YouTube",
+                    "post_url": "http://www.rhodes.info/",
                     "likes": 122,
-                    "comments": null,
+                    "comments": 29,
                     "shares": 16,
                     "reach": -1000
                 }

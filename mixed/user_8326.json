@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "a1113577-d6ea-4c83-acb2-623a6e31d281",
+    "name": "Jeffery Simmons",
+    "email": "uguerra@example.org",
+    "instagram_handle": "@coltonmathews",
+    "tiktok_handle": "@grussell",
     "joined_at": "2024-10-19T20:15:11.428Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0b96dba0-55c8-4cc1-b5ab-17d55769092d",
+            "brand": "Lee Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "2276433b-0f65-4e23-b308-8a0c2885988f",
                     "platform": "Instagram",
                     "post_url": "https://informal-doing.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3206,
+                    "comments": 500,
                     "shares": 35,
                     "reach": 9969
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4612.97
         }
     ]
+}

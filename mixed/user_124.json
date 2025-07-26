@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "8aef2017-751d-4141-ae18-ca0f34f713bc",
+    "name": "Lauren Goodman",
+    "email": "michael83@example.org",
+    "instagram_handle": "@millerpaul",
+    "tiktok_handle": "@johnsonmichael",
     "joined_at": "2025-03-04T06:15:00.085Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cd521119-b786-4984-8cfc-6757860a59ea",
+            "brand": "Khan, Rose and Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "363180ed-525b-4845-92eb-d39fa5770ae2",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.hale.com/",
                     "likes": 487,
-                    "comments": null,
+                    "comments": 101,
                     "shares": 37,
                     "reach": 8632
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7582.91
         }
     ]
 }

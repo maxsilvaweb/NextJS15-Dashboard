@@ -1,21 +1,21 @@
 {
     "user_id": "274b8c9e-5784-43d3-bc29-74c7c7349218",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "name": "Crystal Hansen",
+    "email": "ellistina@example.net",
+    "instagram_handle": "@iford",
     "tiktok_handle": "@Arthur_Corwin0",
-    "joined_at": "not-a-date",
+    "joined_at": "2023-08-19T02:53:34.786176",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "12039fe8-cfba-4e27-a65b-2f3fe52a25ae",
+            "brand": "Nelson-Brooks",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5f84fe6c-d3dd-41e3-81eb-993f46ee3175",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://edwards.info/",
+                    "likes": 2312,
+                    "comments": 500,
                     "shares": 28,
                     "reach": 1627
                 }

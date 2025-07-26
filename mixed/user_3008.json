@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "27717389-ae4f-4818-823d-7318b39ff1f1",
+    "name": "David Stanley",
+    "email": "mortonjennifer@example.com",
+    "instagram_handle": "@riveraraymond",
+    "tiktok_handle": "@ewalker",
+    "joined_at": "2024-10-13T10:19:56.690890",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ca843377-51e7-4d3b-bdb5-809235f9a699",
+            "brand": "Wheeler LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "16d5d1c5-7d8a-428d-add6-ee25ffaf48f5",
+                    "platform": "TikTok",
+                    "post_url": "http://www.finley.com/",
+                    "likes": 5932,
                     "comments": 34,
                     "shares": 42,
                     "reach": 2518

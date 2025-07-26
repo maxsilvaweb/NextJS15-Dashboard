@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c80c13b7-e75f-44a2-a560-7818355a8391",
+    "name": "Cody Alvarez",
+    "email": "gmorris@example.net",
+    "instagram_handle": "@qwilliams",
+    "tiktok_handle": "@jparrish",
+    "joined_at": "2023-09-17T18:05:39.804068",
     "advocacy_programs": [
         {
             "program_id": "4c13ebaf-0d30-4ab5-a14e-cb3219a9fd94",
-            "brand": 12345,
+            "brand": "Peterson, Pearson and Wells",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "dd07eaf2-8118-44bc-a54e-fd7d1addf7f5",
+                    "platform": "Twitter",
                     "post_url": "https://swift-sock.org",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6528,
+                    "comments": 271,
                     "shares": 33,
                     "reach": 7992
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1623.39
         }
     ]
 }

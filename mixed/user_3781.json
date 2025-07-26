@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6afd20c0-6947-40ce-bfc4-c380bb931d72",
+    "name": "Steven Doyle",
+    "email": "sandra98@example.org",
+    "instagram_handle": "@kroman",
+    "tiktok_handle": "@brooke37",
+    "joined_at": "2024-09-29T13:24:04.522400",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6dbe2889-16b6-4ebb-b285-f69cbf15c1c7",
+            "brand": "York, Riley and Duran",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "40141cd2-75e7-4dd3-81a1-650182c7c960",
+                    "platform": "YouTube",
+                    "post_url": "http://roth.com/",
+                    "likes": 1779,
                     "comments": 38,
                     "shares": 34,
                     "reach": 6979
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6841.0
         }
     ]
 }

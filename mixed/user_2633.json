@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dbc3fb43-347c-46cf-a864-90687311af97",
+    "name": "Amanda Johnson",
+    "email": "hunterthompson@example.org",
+    "instagram_handle": "@karengolden",
+    "tiktok_handle": "@marcushebert",
+    "joined_at": "2024-01-05T16:40:55.109042",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "89f352cc-3d47-4d3e-b019-ab5202d1bab7",
+            "brand": "Brown LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1708e92a-16dc-4071-abf5-3217c86e1421",
                     "platform": "Instagram",
                     "post_url": "https://hidden-hydrant.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3559,
+                    "comments": 273,
                     "shares": 96,
                     "reach": 1880
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2885.38
         }
     ]
 }

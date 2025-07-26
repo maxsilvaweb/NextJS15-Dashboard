@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9edf1414-3e4e-44ce-8522-96d4fdac55e2",
+    "name": "Rebecca Coleman",
+    "email": "bmercado@example.com",
+    "instagram_handle": "@harveyanthony",
+    "tiktok_handle": "@jessicagarcia",
+    "joined_at": "2023-08-31T15:13:45.737552",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "10d6c332-58cd-4127-9558-28960c1279df",
             "brand": "Littel - Pfannerstill",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "67853aa3-65d3-4a60-890b-20017b29682a",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://spears.com/",
+                    "likes": 6780,
+                    "comments": 261,
                     "shares": 86,
                     "reach": 9682
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2498.0
         }
     ]
 }

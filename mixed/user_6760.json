@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7ce3b99c-2c8c-41d2-9ec5-1c7b68fe259c",
+    "name": "Sue Williams DVM",
+    "email": "unewton@example.net",
+    "instagram_handle": "@zdickerson",
+    "tiktok_handle": "@medinaricardo",
+    "joined_at": "2024-01-20T18:18:26.654182",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d0dc1196-bc6c-45ef-bd66-649dba8cd326",
+            "brand": "Carpenter, Sandoval and Meadows",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "dc09cf6a-78e3-4d0d-92b9-22db68b61040",
+                    "platform": "TikTok",
+                    "post_url": "http://lamb.com/",
+                    "likes": 1489,
+                    "comments": 378,
                     "shares": 41,
                     "reach": 7061
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5900.87
         }
     ]
+}

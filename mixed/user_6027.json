@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "eed1e7fa-c81b-43c2-a358-b6c5aee32de3",
+    "name": "Anne Moreno",
+    "email": "cummingsjason@example.com",
+    "instagram_handle": "@melissa68",
+    "tiktok_handle": "@harperalyssa",
+    "joined_at": "2024-01-25T01:58:21.417675",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "12d7841b-fd7b-4e32-b28e-a3aae7734329",
+            "brand": "Woodard, Mckinney and Williams",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "57c362ed-8ee4-4902-aae8-f1912dc48efa",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://wilson-cordova.com/",
+                    "likes": 6346,
                     "comments": 14,
                     "shares": 73,
                     "reach": 7425
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7238.91
         }
     ]
 }

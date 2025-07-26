@@ -1,26 +1,26 @@
 {
     "user_id": "3b12a824-4841-47df-939d-cb8329c468a6",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Laura Mathews",
+    "email": "lowejoseph@example.org",
+    "instagram_handle": "@dominguezcathy",
+    "tiktok_handle": "@scottjacob",
+    "joined_at": "2024-04-05T05:22:45.356461",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a1ab2987-5659-4c76-bfa3-bdd75496bd2d",
+            "brand": "Johnson-Rowe",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7026e6da-b418-42e5-9e35-aed555da189d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://davis-aguirre.com/",
                     "likes": 383,
-                    "comments": null,
+                    "comments": 497,
                     "shares": 71,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3999.19
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a2f27069-868c-4b00-b0ff-7ec0f9c9539e",
+    "name": "Brenda Pearson",
+    "email": "christine38@example.com",
+    "instagram_handle": "@sotosheena",
+    "tiktok_handle": "@kchurch",
+    "joined_at": "2023-10-24T08:17:39.303362",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0cf310d3-9836-4c12-8a84-0f65bfe1d202",
+            "brand": "Peterson-Martinez",
             "tasks_completed": [
                 {
                     "task_id": "98c52bc6-d7c1-457a-b7b1-e8b3757f885f",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "platform": "YouTube",
+                    "post_url": "https://www.gibson.com/",
+                    "likes": 503,
                     "comments": 9,
                     "shares": 27,
                     "reach": 8426
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2460.85
         }
     ]
 }

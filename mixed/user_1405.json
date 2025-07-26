@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fe8cd017-b175-4e12-9010-a86d4db985f5",
+    "name": "Ryan Clark",
+    "email": "amanda46@example.com",
+    "instagram_handle": "@julia95",
+    "tiktok_handle": "@brian48",
+    "joined_at": "2024-10-13T08:01:38.872769",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "757ad16c-d289-42b7-8f99-fc3e3b8a1aae",
+            "brand": "Franklin, Phillips and Medina",
             "tasks_completed": [
                 {
                     "task_id": "06a5a68d-df0e-4962-a0c1-33930236942f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.richardson.com/",
+                    "likes": 7092,
                     "comments": 44,
                     "shares": 6,
                     "reach": 5501
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1847.0
         }
     ]
 }

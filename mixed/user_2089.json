@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8c35ee72-81d3-4948-9e9e-263ddeeec2ab",
+    "name": "Brian Black",
+    "email": "nshepherd@example.org",
+    "instagram_handle": "@burgessjeffrey",
+    "tiktok_handle": "@ryanscott",
+    "joined_at": "2024-05-25T13:11:10.019109",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ea976925-2ec4-448d-ba0a-96b4cf54d399",
+            "brand": "Johnson Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "40fab41b-4a68-4902-8ef3-9f7696f258fd",
                     "platform": "Instagram",
                     "post_url": "https://late-suv.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3867,
+                    "comments": 93,
                     "shares": 53,
                     "reach": 3127
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1450.88
         }
     ]
 }

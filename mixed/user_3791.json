@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "4c973ae2-fe9c-4794-bc19-e4778582f04f",
+    "name": "Dakota Williams",
     "email": "Ilene67@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@travisshannon",
+    "tiktok_handle": "@xkelly",
+    "joined_at": "2024-01-18T06:19:46.283238",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ab0acc4a-9ea3-4b16-b69a-3423689b47a0",
+            "brand": "Barnes, Martinez and Schmitt",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "296a964f-9445-46f9-8867-d6b4d0856477",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://smith-kelly.com/",
+                    "likes": 5039,
+                    "comments": 168,
                     "shares": 71,
                     "reach": 3938
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6953.71
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d0183acb-9da9-4388-a8bb-9cc37e285a84",
+    "name": "Mary Stewart",
+    "email": "tiffany36@example.com",
+    "instagram_handle": "@james40",
+    "tiktok_handle": "@tracey86",
+    "joined_at": "2024-09-27T21:23:53.019072",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c039fa0c-6a1c-4389-bd52-d6b65a6eab4f",
+            "brand": "Soto, Barnes and Bradshaw",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6b522fce-edef-484c-977a-2bc1c5727e9f",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.avila-carpenter.com/",
+                    "likes": 2118,
+                    "comments": 275,
                     "shares": 96,
                     "reach": 4217
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 376.95
         }
     ]
 }

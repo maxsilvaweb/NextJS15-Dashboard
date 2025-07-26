@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7dcf5c5e-c28c-45f3-9c2a-a471064cf324",
+    "name": "Tammy Bell DDS",
+    "email": "richard21@example.net",
+    "instagram_handle": "@alyssazamora",
+    "tiktok_handle": "@zgarcia",
+    "joined_at": "2023-10-14T16:49:59.151752",
     "advocacy_programs": [
         {
             "program_id": "f4473c93-30a5-4e92-bfab-8f3061102da7",
-            "brand": 12345,
+            "brand": "Wilkins, Castaneda and Dillon",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "47afec0b-42fd-4cf2-9ea3-87d730a5e51c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://marshall-vasquez.net/",
+                    "likes": 2139,
+                    "comments": 265,
                     "shares": 47,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9200.99
         }
     ]
 }

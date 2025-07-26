@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d05caa1b-a5e3-4db1-95d6-0f39cf63b9fe",
+    "name": "Kathryn Davis",
+    "email": "johnny54@example.net",
+    "instagram_handle": "@gillespietina",
+    "tiktok_handle": "@joseph23",
+    "joined_at": "2024-03-19T10:45:28.760520",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0191be87-578d-415c-8b10-0e085fce8160",
+            "brand": "Morris, Ibarra and Cantu",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1c7f4ff9-e086-4e2d-9e3a-a226c15f2acc",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://howard-murphy.info/",
+                    "likes": 298,
+                    "comments": 98,
                     "shares": 65,
                     "reach": 3813
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4568.59
         }
     ]
 }

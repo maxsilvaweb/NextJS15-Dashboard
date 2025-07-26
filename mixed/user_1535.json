@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "18dfaf13-a26c-40dc-9f41-d386ff34f4cb",
+    "name": "James Glover",
+    "email": "caseycummings@example.org",
+    "instagram_handle": "@jason58",
+    "tiktok_handle": "@gdavila",
+    "joined_at": "2024-09-09T15:27:45.098774",
     "advocacy_programs": [
         {
             "program_id": "20f2e455-2adc-486e-a59e-acd216f246ca",
-            "brand": 12345,
+            "brand": "Harper PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d07358bf-3ff3-499b-a227-57447ecaeabb",
                     "platform": "TikTok",
                     "post_url": "https://leading-squid.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5670,
+                    "comments": 195,
                     "shares": 66,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1302.32
         }
     ]
 }

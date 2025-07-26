@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d5bd1b69-c92d-40db-8380-a8ed8d8a7337",
+    "name": "Paul Willis",
+    "email": "utrujillo@example.net",
+    "instagram_handle": "@imontes",
+    "tiktok_handle": "@carlyward",
+    "joined_at": "2023-08-12T15:09:58.838758",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "03c8dc3d-38e1-4fb4-ad54-ae01d87e159d",
+            "brand": "Ochoa LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "942eef12-fb9a-40b1-81b8-c51c519bc5ec",
                     "platform": "TikTok",
                     "post_url": "https://exalted-fit.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2934,
+                    "comments": 68,
                     "shares": 42,
                     "reach": 4721
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1373.6
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bd963507-f684-4177-b239-728a3759a4f7",
+    "name": "Randall Wood",
+    "email": "sonya55@example.net",
+    "instagram_handle": "@stevenmcconnell",
+    "tiktok_handle": "@phelpsgary",
+    "joined_at": "2025-01-04T10:38:39.614804",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bbde89e4-fbf4-455a-8ab9-0aa011d32622",
+            "brand": "Peterson-Adams",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "13df53ff-c48d-4fbd-9bf9-cee91b8337f7",
                     "platform": "TikTok",
                     "post_url": "https://remorseful-sideboard.org/",
-                    "likes": "NaN",
+                    "likes": 3415,
                     "comments": 22,
                     "shares": 92,
                     "reach": 9581

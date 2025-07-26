@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e6d44976-d52a-414f-b235-a943aeb03b9c",
+    "name": "Natalie Wilson",
+    "email": "ycooke@example.org",
+    "instagram_handle": "@shafferlarry",
+    "tiktok_handle": "@martin50",
+    "joined_at": "2024-12-29T14:50:26.253140",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "91e256f1-8a63-4d94-a0f4-1f4920a7b5ec",
+            "brand": "Palmer, Park and Lin",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "e049ea2c-aa2b-44ca-aced-15ce82327ebf",
+                    "platform": "Twitter",
+                    "post_url": "https://melendez.biz/",
+                    "likes": 2818,
+                    "comments": 60,
                     "shares": 20,
                     "reach": 5465
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 753.48
         }
     ]
 }

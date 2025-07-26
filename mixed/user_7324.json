@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b5977893-a055-4eda-bccb-dedd68fba284",
+    "name": "Mariah Torres",
+    "email": "angela45@example.net",
+    "instagram_handle": "@bramirez",
+    "tiktok_handle": "@wigginsmaria",
+    "joined_at": "2023-08-31T11:17:22.772374",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "715849d8-4e37-45e0-a997-803e14d67963",
+            "brand": "Hess-Parks",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0beccd62-8e10-4b93-b9c2-f77ea17ddb7a",
                     "platform": "Facebook",
                     "post_url": "https://monstrous-monasticism.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5712,
+                    "comments": 305,
                     "shares": 97,
                     "reach": 2113
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3060.85
         }
     ]
 }

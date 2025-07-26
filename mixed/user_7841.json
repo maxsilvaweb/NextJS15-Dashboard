@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "408d419f-49b6-4c6c-8ed6-d87c41ebbd72",
+    "name": "Nicole Jackson",
+    "email": "ohudson@example.org",
+    "instagram_handle": "@sweeneyaaron",
+    "tiktok_handle": "@crystalstein",
+    "joined_at": "2024-07-09T09:57:27.145607",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "50eace4a-e5ea-4bf2-b0e8-ce391c3ac29e",
+            "brand": "Estrada, Cannon and Sullivan",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8f5f47aa-75a8-4cbc-8e40-a4597c15120b",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.reed.com/",
+                    "likes": 9874,
+                    "comments": 108,
                     "shares": 14,
                     "reach": 4006
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6481.51
         }
     ]
 }

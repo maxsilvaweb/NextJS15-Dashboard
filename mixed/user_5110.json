@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "80b220ae-5bb0-4048-a276-028d711df429",
+    "name": "Mrs. Rita Shelton",
     "email": "Luigi.OHara@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@vmueller",
+    "tiktok_handle": "@hmiller",
+    "joined_at": "2024-05-20T09:13:08.731685",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a6c5e82a-0d66-4890-9d39-25cb07a5e522",
+            "brand": "Meyers LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "1045d7f4-81f5-42f0-b9b9-6d8e1a44b68a",
+                    "platform": "Twitter",
+                    "post_url": "https://www.mcgee.org/",
                     "likes": 321,
-                    "comments": null,
+                    "comments": 299,
                     "shares": 96,
                     "reach": 6804
                 }

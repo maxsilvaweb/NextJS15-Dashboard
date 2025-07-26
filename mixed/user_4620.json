@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3190004d-dbdd-4e12-b28e-de5aa55c9545",
+    "name": "Chad Roberts",
+    "email": "jasonlong@example.net",
+    "instagram_handle": "@escobartimothy",
+    "tiktok_handle": "@teresarichards",
+    "joined_at": "2024-09-10T18:00:41.828677",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "42766055-730e-44a1-9bb5-7bd10e5d5fc5",
+            "brand": "Jones-Hansen",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5b9755be-8e11-4e6b-b4a2-7b5df6c8b3de",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://miller-francis.org/",
+                    "likes": 5024,
                     "comments": 35,
                     "shares": 62,
                     "reach": 1176
@@ -23,3 +23,4 @@
             "total_sales_attributed": 1758.5964297573232
         }
     ]
+}

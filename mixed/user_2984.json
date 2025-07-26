@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "32348384-90eb-49e5-8533-f219aacac393",
+    "name": "James Garrison",
     "email": "Jaquan_Gulgowski49@gmail.com",
     "instagram_handle": "@Lon.Weissnat",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@tylerhaley",
+    "joined_at": "2024-11-11T13:02:10.505239",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dceda772-0f5f-4a01-a34b-0f168bad6fff",
+            "brand": "Salazar-Mcconnell",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0f4f9617-a486-45bb-92cb-484610ffe8c8",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://glover.biz/",
                     "likes": 89,
-                    "comments": null,
+                    "comments": 247,
                     "shares": 21,
                     "reach": 9890
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2895.43
         }
     ]
 }

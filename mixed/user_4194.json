@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9af4d8bf-b4ce-4101-99d9-932c76700c11",
+    "name": "David Medina",
+    "email": "hojames@example.org",
+    "instagram_handle": "@jacksontyrone",
+    "tiktok_handle": "@ymorgan",
+    "joined_at": "2024-07-02T05:33:16.409391",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c5110968-592a-422c-b0f8-762ab41b7cb0",
+            "brand": "Brown PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "aabf40a1-cda9-4e99-9ac5-a54d1da0ae1b",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://gutierrez.biz/",
+                    "likes": 8277,
                     "comments": 1,
                     "shares": 74,
                     "reach": 9186
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9141.98
         }
     ]
 }

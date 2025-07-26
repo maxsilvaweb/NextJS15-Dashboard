@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a3b744a5-204f-480c-9b91-40cfe5779d74",
+    "name": "Jake Hughes DVM",
+    "email": "fergusoncynthia@example.com",
+    "instagram_handle": "@anthonywest",
+    "tiktok_handle": "@onealmichele",
+    "joined_at": "2025-02-08T11:45:16.945916",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "055c8481-51bb-4715-ad7b-cb777a9b710d",
+            "brand": "Romero Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "2c5d023f-0002-46f1-bb28-2f4611550e8e",
+                    "platform": "Twitter",
+                    "post_url": "https://bradley.com/",
+                    "likes": 5963,
+                    "comments": 53,
                     "shares": 77,
                     "reach": 2545
                 }

@@ -1,26 +1,26 @@
 {
     "user_id": "be4bfd2c-65fd-48e2-899e-1e7dcfd7ffd9",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Angela Barber",
+    "email": "justinhanna@example.com",
+    "instagram_handle": "@pyang",
+    "tiktok_handle": "@jamespowell",
+    "joined_at": "2024-12-16T18:04:53.870883",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "95280863-e240-4af2-8d85-b7f431624a8e",
+            "brand": "Castillo, Beck and Hansen",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e034ea08-0bcc-4e2f-bf90-08bec13d75f4",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.johnson.biz/",
+                    "likes": 2194,
+                    "comments": 87,
                     "shares": 75,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7138.59
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "791e396a-ab43-403f-8fdd-ef019cc8a8a1",
+    "name": "Adrian Smith",
     "email": "Oran97@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@tmclean",
+    "tiktok_handle": "@nicholas22",
+    "joined_at": "2024-05-12T20:22:31.811407",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e7fb7c0d-03a3-4074-a4a8-f7f05dc417b1",
+            "brand": "Phillips and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "368a2755-e5bd-4032-909b-7ed72a766393",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://raymond.net/",
                     "likes": 127,
                     "comments": 34,
                     "shares": 59,

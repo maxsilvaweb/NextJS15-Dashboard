@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ccf69677-769f-4d39-a523-06fef4d56208",
+    "name": "Jared Holmes",
+    "email": "ibrennan@example.com",
+    "instagram_handle": "@welchkaren",
+    "tiktok_handle": "@glassronald",
+    "joined_at": "2023-12-28T15:05:51.985729",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6f6f1d14-977d-4ddb-9f5a-7da56bee4dda",
+            "brand": "Francis-Evans",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "785a3462-9df0-48e5-9358-a943eb0228fc",
                     "platform": "Facebook",
                     "post_url": "https://everlasting-swordfish.name",
-                    "likes": "NaN",
+                    "likes": 5748,
                     "comments": 40,
                     "shares": 26,
                     "reach": 9578
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9430.88
         }
     ]
 }

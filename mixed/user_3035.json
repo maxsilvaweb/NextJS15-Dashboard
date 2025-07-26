@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f0d48af9-e60f-4a9f-bf5e-e24706581e5b",
+    "name": "Alexis Potter",
+    "email": "amanda27@example.org",
+    "instagram_handle": "@cody05",
+    "tiktok_handle": "@davislaura",
+    "joined_at": "2024-11-14T22:34:33.750602",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "42387eb8-d9e3-4e79-be2f-92a7eb63487d",
+            "brand": "Andrews LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "89a5ead3-724a-4f41-b380-59255dc88324",
+                    "platform": "TikTok",
                     "post_url": "https://blaring-substitution.info/",
                     "likes": 348,
-                    "comments": null,
+                    "comments": 53,
                     "shares": 43,
                     "reach": 6807
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2029.36
         }
     ]
 }

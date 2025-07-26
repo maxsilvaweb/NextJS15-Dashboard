@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "62cdf19c-b8f5-48b7-b5b4-650c279001fc",
+    "name": "Ann Gonzalez",
+    "email": "xfloyd@example.com",
+    "instagram_handle": "@qlopez",
+    "tiktok_handle": "@anthony41",
+    "joined_at": "2024-12-26T23:11:44.545520",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "35fa7490-798c-4479-b29c-3b6926ec3492",
+            "brand": "Lopez Group",
             "tasks_completed": [
                 {
                     "task_id": "e514c8b1-efbe-476a-87a3-6045faeafd44",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://martinez.net/",
+                    "likes": 8794,
+                    "comments": 397,
                     "shares": 62,
                     "reach": 2445
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 965.6554123718657
         }
     ]
+}

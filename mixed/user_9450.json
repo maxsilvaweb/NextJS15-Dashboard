@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "52bdc881-2065-476d-86fa-fd87fc67db02",
+    "name": "Kevin Robinson",
+    "email": "mmoore@example.net",
+    "instagram_handle": "@connerwhitney",
+    "tiktok_handle": "@lovechristina",
+    "joined_at": "2025-01-27T07:14:39.748045",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1d696182-4a80-42b1-8446-17fa30f1b45b",
+            "brand": "Todd Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7506d90e-dbdc-4c99-ae03-ec41eac5953c",
                     "platform": "Instagram",
                     "post_url": "https://sorrowful-birdcage.biz/",
-                    "likes": "NaN",
+                    "likes": 7064,
                     "comments": 1,
                     "shares": 57,
                     "reach": 9980
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8507.25
         }
     ]
 }

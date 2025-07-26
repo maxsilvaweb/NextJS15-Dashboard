@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1713b676-26dc-4257-96e1-20db1c2fc147",
+    "name": "Manuel Brooks",
+    "email": "mguerra@example.net",
+    "instagram_handle": "@carlos85",
+    "tiktok_handle": "@ahernandez",
+    "joined_at": "2024-08-09T23:06:11.562845",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d994a1c7-e760-4a1a-8bf9-9a1f3742e75f",
+            "brand": "Fisher, Sullivan and Clark",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5c79c41f-b52e-4f52-9cd7-b0118c34ffe8",
                     "platform": "TikTok",
                     "post_url": "https://same-sport.com",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2284,
+                    "comments": 242,
                     "shares": 62,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7347.79
         }
     ]
 }

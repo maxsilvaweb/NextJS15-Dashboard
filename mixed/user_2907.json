@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8ba7f52f-6526-4440-ab8e-640ecbd14623",
+    "name": "Micheal Murray",
+    "email": "ashley57@example.org",
+    "instagram_handle": "@mblackwell",
+    "tiktok_handle": "@sara97",
+    "joined_at": "2024-04-12T19:42:12.307098",
     "advocacy_programs": [
         {
             "program_id": "98fa66d4-f570-4fd7-9a18-1bce060ef410",
-            "brand": 12345,
+            "brand": "Cross, Williams and Figueroa",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "f3f5200a-3d5c-4353-b2ce-e19d42806bfa",
+                    "platform": "YouTube",
+                    "post_url": "https://fowler.info/",
+                    "likes": 9930,
+                    "comments": 184,
                     "shares": 68,
                     "reach": 4627
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "01506245-dfa2-4761-8dfd-3f1c89db6391",
+    "name": "Jenny Nelson",
+    "email": "sharon21@example.org",
+    "instagram_handle": "@alevine",
+    "tiktok_handle": "@barrywhitehead",
+    "joined_at": "2023-09-29T05:20:17.472037",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c5774c34-94ff-4acc-9dcf-b9e75421464c",
+            "brand": "Jones-Juarez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c3c9d495-0f2a-4ec6-95da-19d215292467",
                     "platform": "Instagram",
                     "post_url": "https://heavenly-birdbath.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3767,
+                    "comments": 85,
                     "shares": 42,
                     "reach": 3128
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9642.65
         }
     ]
 }

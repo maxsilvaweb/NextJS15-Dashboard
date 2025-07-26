@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2b8fbcf0-54ce-413f-92cc-b161f6fdb74d",
+    "name": "April Andrews",
+    "email": "jennifer01@example.com",
+    "instagram_handle": "@yangamanda",
+    "tiktok_handle": "@andrewroth",
+    "joined_at": "2024-06-22T09:18:15.579952",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c3e149f3-8117-4e58-9f60-1d341dad91ae",
+            "brand": "Johnson, Alexander and Anderson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3f17bba6-6263-46bb-9ac9-8ef0b6dc90b9",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://lopez.org/",
+                    "likes": 1106,
+                    "comments": 95,
                     "shares": 67,
                     "reach": 6817
                 }

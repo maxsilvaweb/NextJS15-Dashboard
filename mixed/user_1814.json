@@ -1,26 +1,26 @@
 {
     "user_id": "09895d4b-e1c9-4a54-ba5a-76dda763a3cd",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "David Thompson",
+    "email": "aprilking@example.org",
+    "instagram_handle": "@vmayer",
+    "tiktok_handle": "@ujensen",
+    "joined_at": "2023-11-20T18:55:18.340973",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8c772488-6aff-43dd-91f8-6407d9a501ee",
+            "brand": "Page-Wilson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "fce19353-f965-4c0e-be34-d8cf4e5460c4",
+                    "platform": "Instagram",
+                    "post_url": "http://zuniga-fleming.com/",
                     "likes": 454,
-                    "comments": null,
+                    "comments": 394,
                     "shares": 75,
                     "reach": 6244
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9011.89
         }
     ]
 }

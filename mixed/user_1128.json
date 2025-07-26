@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b40149d2-99e1-49fa-95e4-7107c21e4b9d",
+    "name": "Jennifer Stephens",
+    "email": "bradleyking@example.com",
+    "instagram_handle": "@antonio86",
+    "tiktok_handle": "@karen61",
+    "joined_at": "2024-09-03T14:26:00.625373",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3e999a94-9d52-4f2f-90ee-2ac5f10a2cad",
+            "brand": "Morris Ltd",
             "tasks_completed": [
                 {
                     "task_id": "bd5ab26e-16a0-4bb0-a788-4bb331e68b64",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.curtis.com/",
+                    "likes": 8479,
+                    "comments": 499,
                     "shares": 19,
                     "reach": 5572
                 }

@@ -1,26 +1,26 @@
 {
     "user_id": "e742c993-2f03-470d-a6dc-00087762a95f",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Eduardo Cameron",
+    "email": "jocelynwilkinson@example.net",
+    "instagram_handle": "@carla80",
+    "tiktok_handle": "@qburgess",
+    "joined_at": "2025-05-26T05:15:34.811533",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "da27af17-6177-441e-ad34-ce2a470cca5b",
+            "brand": "Reed-Gordon",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "21c0c8b4-ef56-452e-8b62-e44b6bc20895",
+                    "platform": "Instagram",
+                    "post_url": "http://www.parks.info/",
+                    "likes": 9323,
+                    "comments": 260,
                     "shares": 79,
                     "reach": 4573
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1564.38
         }
     ]
 }

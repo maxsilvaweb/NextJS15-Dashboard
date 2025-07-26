@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "62beec1b-3ff3-4625-afeb-55e6edaf470d",
+    "name": "Lisa Olson",
+    "email": "amy79@example.com",
+    "instagram_handle": "@daniellehunter",
+    "tiktok_handle": "@ronald63",
+    "joined_at": "2024-04-13T02:21:45.605195",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c492300c-30c5-4325-9367-bce62d07e090",
+            "brand": "Patterson LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4f5c835b-044d-41dd-8bc6-856cf7ec4066",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.bowen.org/",
                     "likes": 114,
-                    "comments": null,
+                    "comments": 117,
                     "shares": 69,
                     "reach": 8580
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4814.01
         }
     ]
 }

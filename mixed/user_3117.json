@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9eaf4035-f2c5-4e5f-9d5a-bb8012567cf3",
+    "name": "Joseph Campbell",
+    "email": "debbiehernandez@example.com",
+    "instagram_handle": "@jgrant",
+    "tiktok_handle": "@crosbyjohn",
+    "joined_at": "2024-03-24T14:34:29.408660",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6b393d8d-c2c0-4451-871a-aef389c3482a",
+            "brand": "Daniel-Gibson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7a2733a9-9b55-4968-b8c2-24091c0079f5",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://medina-craig.com/",
                     "likes": 167,
-                    "comments": null,
+                    "comments": 188,
                     "shares": 53,
                     "reach": 1864
                 }

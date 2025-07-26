@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "d7aa3762-717a-4f8e-95af-b2169a2b11dd",
+    "name": "Debra Perry",
     "email": "Jazmin_Oberbrunner81@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@raymondperkins",
+    "tiktok_handle": "@felicia06",
+    "joined_at": "2024-11-12T22:04:38.042327",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "41207d6d-19c3-417a-91c4-04fc635b053b",
+            "brand": "Dixon, Rodgers and Mendez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "7b054b03-e0f5-49ec-b920-771ccdb6f771",
+                    "platform": "Instagram",
+                    "post_url": "http://lewis-cruz.com/",
+                    "likes": 1192,
                     "comments": 3,
                     "shares": 71,
                     "reach": 1325

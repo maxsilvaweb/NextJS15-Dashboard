@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9dfce5ad-c817-4e2f-b21f-0d537e2d6672",
+    "name": "Michael Wilson",
+    "email": "bonniemyers@example.com",
+    "instagram_handle": "@emilyjimenez",
+    "tiktok_handle": "@hughesryan",
+    "joined_at": "2023-11-10T06:30:34.664236",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "65fc0c35-81a9-48e6-bcdf-863d03a796e7",
+            "brand": "Lopez Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "d8fabec4-6c16-4109-9d58-76729f974419",
+                    "platform": "YouTube",
+                    "post_url": "http://barrera.info/",
                     "likes": 88,
-                    "comments": null,
+                    "comments": 15,
                     "shares": 34,
                     "reach": 4132
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5326.42
         }
     ]
 }

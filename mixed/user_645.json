@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "dec160f2-45c1-4df0-a990-79093f1e2d4d",
+    "name": "Anthony Moore",
+    "email": "stephanie65@example.org",
+    "instagram_handle": "@muellerdenise",
+    "tiktok_handle": "@dwilliamson",
     "joined_at": "2024-09-10T13:25:05.227Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1c9adc65-cab5-449a-9b88-81068efc9a79",
+            "brand": "Shah, White and Ali",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a761ebdf-fe1b-4c03-9d27-7ee10538b901",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://ellis-velasquez.com/",
                     "likes": 460,
-                    "comments": null,
+                    "comments": 395,
                     "shares": 80,
                     "reach": 8967
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5434.04
         }
     ]
 }

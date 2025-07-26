@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "10934c87-ad4b-413d-b002-a0525e90a9b9",
+    "name": "Richard Colon",
+    "email": "bonnie71@example.net",
+    "instagram_handle": "@mendozaemily",
+    "tiktok_handle": "@daniellefigueroa",
+    "joined_at": "2024-05-16T09:31:41.697994",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dfbf54b9-3034-4ea9-bd7a-c9d34a7203a2",
+            "brand": "Nixon LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "066a31ab-c056-429a-bad6-9252ccbb91a7",
                     "platform": "Instagram",
                     "post_url": "https://round-nectarine.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 87,
+                    "comments": 434,
                     "shares": 81,
                     "reach": 9856
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5010.22
         }
     ]
 }

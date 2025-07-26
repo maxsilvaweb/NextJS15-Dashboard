@@ -1,26 +1,26 @@
 {
     "user_id": "83c35d45-0657-49da-a98e-f319e0f3358e",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "name": "Amber Brown",
+    "email": "jcampbell@example.net",
+    "instagram_handle": "@christopherbrown",
     "tiktok_handle": "@Amya_Langworth-Hills",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-06-10T12:10:12.430881",
     "advocacy_programs": [
         {
             "program_id": "0b3e8119-d8d9-465f-8bcf-e9efb31dd814",
-            "brand": 12345,
+            "brand": "Anderson-Ferguson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "259d04b8-b5b6-4951-8ae9-273c422b2fdc",
+                    "platform": "Instagram",
+                    "post_url": "https://www.lambert.info/",
+                    "likes": 5026,
                     "comments": 39,
                     "shares": 9,
                     "reach": 3119
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4438.21
         }
     ]
 }

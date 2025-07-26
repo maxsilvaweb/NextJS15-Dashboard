@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f3429c9d-4121-42ab-9027-7f46d22ef183",
+    "name": "Whitney Wells",
+    "email": "erin95@example.com",
+    "instagram_handle": "@christina16",
+    "tiktok_handle": "@lori01",
+    "joined_at": "2023-11-15T04:07:30.142272",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "55880b01-f8d9-4c88-acd2-049613e3e521",
             "brand": "Turcotte Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7b8bd15e-0ed2-402f-89e1-6faf69d02fe0",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.sanders.com/",
+                    "likes": 5299,
                     "comments": 30,
                     "shares": 2,
                     "reach": 1774

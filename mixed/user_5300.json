@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1e804c96-d7e6-46f7-bdff-d47e18cee254",
+    "name": "Mr. Derrick Blackwell MD",
+    "email": "ronaldduran@example.net",
+    "instagram_handle": "@pattersonkathleen",
+    "tiktok_handle": "@shawbonnie",
+    "joined_at": "2025-01-18T14:51:43.984005",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "53814a15-ff85-4832-82fe-0b1208d1ac7e",
             "brand": "Bechtelar, Durgan and Cronin",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "9ffb01e6-5c0c-4b10-aff7-f9b0993c7f1b",
+                    "platform": "TikTok",
+                    "post_url": "http://pope.com/",
+                    "likes": 4165,
+                    "comments": 165,
                     "shares": 43,
                     "reach": 6331
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 3067.476184399721
         }
     ]
+}

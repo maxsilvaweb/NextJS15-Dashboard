@@ -1,19 +1,19 @@
 {
     "user_id": "2aae12e7-1b27-4073-9c04-ec66f92d45ce",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Justin Lucas",
+    "email": "hernandezshelley@example.com",
+    "instagram_handle": "@brandon58",
+    "tiktok_handle": "@michaelbryan",
+    "joined_at": "2025-07-11T09:30:42.558935",
     "advocacy_programs": [
         {
             "program_id": "49178b6c-6ee3-4d51-ac7c-863e741835f5",
-            "brand": 12345,
+            "brand": "Williams, Hawkins and Welch",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "ba292bb3-e8d3-4506-8c63-45a9582fc985",
+                    "platform": "Twitter",
+                    "post_url": "https://www.booth.com/",
                     "likes": 286,
                     "comments": 29,
                     "shares": 60,

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a40be7f8-3985-405b-bffc-44fb9ed15f52",
+    "name": "Ruth Cobb",
+    "email": "joseph81@example.org",
+    "instagram_handle": "@tgreen",
+    "tiktok_handle": "@qsanders",
+    "joined_at": "2025-01-11T13:51:05.085184",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "a38a79bf-c6c0-42d7-b0ca-3e2b2149523f",
             "brand": "Reynolds - Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c08053eb-e663-4900-96c6-0ff3d0423738",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.evans.com/",
                     "likes": 236,
-                    "comments": null,
+                    "comments": 313,
                     "shares": 94,
                     "reach": 2272
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4460.79
         }
     ]
 }

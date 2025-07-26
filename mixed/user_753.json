@@ -1,26 +1,26 @@
 {
     "user_id": "48536ad7-4d01-4b45-b9d6-f7b4a566cab1",
-    "name": "???",
-    "email": "invalid-email",
+    "name": "Jacob Mercado",
+    "email": "andrea23@example.net",
     "instagram_handle": "@Kaylee.Yost",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@marcuswright",
+    "joined_at": "2024-06-14T22:12:55.492215",
     "advocacy_programs": [
         {
             "program_id": "914a6f8e-408a-4969-b7d8-80ea6c2a45f3",
-            "brand": 12345,
+            "brand": "Maldonado-Reynolds",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "f4759172-d0db-4f50-9b29-392148635e4f",
+                    "platform": "Twitter",
+                    "post_url": "https://www.miller.net/",
+                    "likes": 2582,
+                    "comments": 101,
                     "shares": 40,
                     "reach": 8724
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 541.72
         }
     ]
 }

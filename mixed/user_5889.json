@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8312bffe-a231-4ea8-88f0-630accd50c98",
+    "name": "David Shea",
+    "email": "laurieesparza@example.net",
+    "instagram_handle": "@garyfleming",
+    "tiktok_handle": "@patrickjohnson",
+    "joined_at": "2024-09-06T14:51:57.384126",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f18dc6c8-a418-4c37-b5db-1e95e51e8825",
+            "brand": "Page, Leon and Wright",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1c3a74da-f438-4677-8f27-1b72be2f7d92",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.sandoval.com/",
+                    "likes": 8223,
+                    "comments": 225,
                     "shares": 25,
                     "reach": 6463
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9596.71
         }
     ]
 }

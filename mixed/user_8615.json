@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "87865086-0ea0-4317-87f1-ed6ff9319ae4",
+    "name": "Brian Valenzuela",
+    "email": "odonnelljason@example.org",
+    "instagram_handle": "@xobrien",
+    "tiktok_handle": "@carlos90",
+    "joined_at": "2024-05-29T08:27:01.910342",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "200a485d-1452-4daa-9a85-4cdda5157f81",
+            "brand": "Barron-Sanchez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d31dd3b0-4020-4adb-8fd2-181d59d975cf",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://tucker.net/",
+                    "likes": 6153,
+                    "comments": 278,
                     "shares": 19,
                     "reach": 2234
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6512.85
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d95806f3-748e-4304-b8e5-0c5c37a2382f",
+    "name": "Mark Smith",
+    "email": "sotomelissa@example.com",
+    "instagram_handle": "@gdavis",
+    "tiktok_handle": "@lcline",
+    "joined_at": "2023-10-28T17:22:34.593291",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4d6fe88d-0505-4953-81f9-bc137a3c3d77",
+            "brand": "Cooper, Bray and Huynh",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "758d2abe-e294-4a35-bb0b-9ade9ee29d4d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://sanchez-joseph.com/",
+                    "likes": 437,
                     "comments": 3,
                     "shares": 90,
                     "reach": 5689
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9388.63
         }
     ]
 }

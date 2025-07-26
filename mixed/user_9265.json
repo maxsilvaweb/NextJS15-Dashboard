@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d80e8f9d-1119-4441-8740-8e0583b7fbca",
+    "name": "Amy Cooper",
+    "email": "jon02@example.net",
+    "instagram_handle": "@whitemichael",
+    "tiktok_handle": "@bergdavid",
+    "joined_at": "2025-04-24T18:20:53.010002",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0b316d07-b5b2-4226-9778-7460a699e95a",
+            "brand": "Moore-Anderson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6a38bbf0-031b-4023-827c-795879f7c957",
                     "platform": "Facebook",
                     "post_url": "https://right-obesity.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3374,
+                    "comments": 376,
                     "shares": 75,
                     "reach": 1704
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 330.34
         }
     ]
 }

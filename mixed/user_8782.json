@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "46aadf26-4ce9-403a-b0cd-b506d6dcaf12",
+    "name": "Jeffrey Freeman",
+    "email": "dorothy51@example.org",
+    "instagram_handle": "@mariamiller",
+    "tiktok_handle": "@phillip91",
+    "joined_at": "2024-07-28T01:55:53.119728",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b1da2111-b8a9-47d3-b241-478d715ed243",
+            "brand": "Figueroa LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "b7397741-8162-4d09-9760-253808be961f",
+                    "platform": "Twitter",
+                    "post_url": "http://www.colon.com/",
+                    "likes": 3689,
+                    "comments": 172,
                     "shares": 91,
                     "reach": 8341
                 }

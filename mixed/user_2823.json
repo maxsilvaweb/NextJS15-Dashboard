@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7d5bc1cd-6e3b-48ad-bc73-7fd1decd7aaa",
+    "name": "Kelsey Butler",
+    "email": "ambervaughn@example.org",
+    "instagram_handle": "@kjones",
+    "tiktok_handle": "@ocarpenter",
+    "joined_at": "2024-08-23T06:19:42.349046",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1fa289a5-000d-48bc-bf47-1a17e186a1f4",
+            "brand": "Gould, Clark and Dean",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "71207abf-9320-41f3-ac44-962799b4d33e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://hood-woodward.net/",
+                    "likes": 1534,
+                    "comments": 422,
                     "shares": 87,
                     "reach": 2592
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7219.63
         }
     ]
 }

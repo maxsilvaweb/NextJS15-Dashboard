@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "61e1be8f-199e-4ea7-82ae-9a5737efd268",
+    "name": "David Miller",
+    "email": "gregoryobrien@example.net",
+    "instagram_handle": "@ryanelliott",
+    "tiktok_handle": "@aaron73",
+    "joined_at": "2025-07-15T17:33:37.169857",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e017604a-15dc-4589-b769-06171eac3112",
+            "brand": "Rivera Ltd",
             "tasks_completed": [
                 {
                     "task_id": "17dc4dbd-a9c2-4090-8e24-3b2aebbd8250",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "Twitter",
+                    "post_url": "http://harris-lucas.info/",
+                    "likes": 5121,
+                    "comments": 102,
                     "shares": 55,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1503.98
         }
     ]
 }

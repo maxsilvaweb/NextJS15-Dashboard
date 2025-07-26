@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "65bd1e2c-3d87-4299-92f8-ab0c9f92605d",
+    "name": "Steven Davis",
     "email": "Isaac.Grant@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@kweiss",
+    "tiktok_handle": "@leonjose",
+    "joined_at": "2025-01-30T03:09:21.046389",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b01b4d8e-eb74-42f5-86ff-d76770bfd6cb",
+            "brand": "Miller-Taylor",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ac0f1c2d-0025-41de-8967-44f667a3531e",
                     "platform": "TikTok",
                     "post_url": "https://grouchy-alert.name/",
-                    "likes": "NaN",
+                    "likes": 9723,
                     "comments": 7,
                     "shares": 7,
                     "reach": 2841

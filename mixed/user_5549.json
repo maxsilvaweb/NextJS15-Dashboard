@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3afea8a9-1d92-4153-89d7-09a4541e53ec",
+    "name": "Jacqueline Johnson",
+    "email": "lawrence06@example.org",
+    "instagram_handle": "@kjames",
+    "tiktok_handle": "@stacey44",
+    "joined_at": "2024-07-22T21:41:53.530456",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "21dcdc48-3efa-49fe-ad31-3b1114162fb3",
+            "brand": "Hodge, Contreras and Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "92a9471c-54d6-4919-b719-6a5b0d71b739",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.reid-griffin.com/",
                     "likes": 380,
-                    "comments": null,
+                    "comments": 152,
                     "shares": 75,
                     "reach": 8655
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5911.58
         }
     ]
 }

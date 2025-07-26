@@ -1,26 +1,26 @@
 {
     "user_id": "5d964ada-e4ea-4aeb-9b8c-9c2444035699",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Cheryl Johnson",
+    "email": "matthewdeleon@example.net",
+    "instagram_handle": "@allenwelch",
+    "tiktok_handle": "@davidgarcia",
+    "joined_at": "2024-12-23T11:00:04.177300",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "66b6e1ac-c1b6-46cd-ac5f-335ee648e31c",
+            "brand": "Li-Thompson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "395dcacd-889b-468f-93eb-7189beb94a5d",
+                    "platform": "Instagram",
                     "post_url": "https://glass-paintwork.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6782,
+                    "comments": 366,
                     "shares": 65,
                     "reach": 7691
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6009.17
         }
     ]
 }

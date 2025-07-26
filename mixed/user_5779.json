@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "86dd1e3d-5cbd-4514-be7e-fc54dbd631f9",
+    "name": "Robert Martinez",
+    "email": "jordanshannon@example.net",
+    "instagram_handle": "@teresarodriguez",
+    "tiktok_handle": "@gwendolynmills",
     "joined_at": "2025-02-12T17:12:18.026Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0da40fb5-9c40-4325-a65c-fbeb0e4f06a3",
+            "brand": "Avila, Mcclain and Clarke",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cac7d224-efae-44c3-83fa-11f16f409b99",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://townsend-davis.biz/",
+                    "likes": 9172,
+                    "comments": 104,
                     "shares": 68,
                     "reach": 2034
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5341.58
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "995ea838-4b06-4f4a-b5f8-145f0315b080",
+    "name": "Paul Nguyen",
     "email": "Emmanuelle.Powlowski65@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@tnguyen",
+    "tiktok_handle": "@luis65",
+    "joined_at": "2024-01-17T03:50:20.535284",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1e7df347-779d-45af-a6ff-699fb08723f2",
+            "brand": "West, Johnson and Underwood",
             "tasks_completed": [
                 {
                     "task_id": "7bc77245-d734-4675-8e20-83ddda5c2229",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.lewis.net/",
+                    "likes": 9184,
+                    "comments": 363,
                     "shares": 60,
                     "reach": 645
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3176.59
         }
     ]
 }

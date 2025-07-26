@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae26",
-  "name": "Max Silva27",
-  "email": "maxsilvvauk@27xwwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae26",
+    "name": "Max Silva27",
+    "email": "maxsilvvauk@27xwwilwweeewd.com",
+    "instagram_handle": "@fmiller",
+    "tiktok_handle": "@zduncan",
+    "joined_at": "2025-07-17T04:11:19.106533",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "d493e4f5-31b1-4748-bbfe-771ac16d59bc",
+            "brand": "Gardner PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "9f94f187-762f-4e00-8bea-45921395d5df",
+                    "platform": "TikTok",
+                    "post_url": "https://www.singh.com/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 7881.96
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

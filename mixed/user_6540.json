@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fc504392-8f50-45d7-a480-49c7e75d5018",
+    "name": "Christina Coleman",
+    "email": "foxjason@example.com",
+    "instagram_handle": "@tylerramirez",
+    "tiktok_handle": "@candice70",
+    "joined_at": "2025-02-05T09:25:11.887275",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "66de6e87-4279-4d1c-a379-7d04681408aa",
             "brand": "Stracke Inc",
             "tasks_completed": [
                 {
                     "task_id": "f276e809-051e-4b64-8c5d-7991adbd8a04",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "platform": "YouTube",
+                    "post_url": "https://morales.com/",
+                    "likes": 3410,
+                    "comments": 201,
                     "shares": 80,
                     "reach": 2211
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8198.99
         }
     ]
 }

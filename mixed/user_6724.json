@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "393b76fd-87ae-4daa-a907-3629c9a3b9e5",
+    "name": "Dr. Sarah Love",
+    "email": "thomasvillarreal@example.net",
+    "instagram_handle": "@qstone",
+    "tiktok_handle": "@timothydougherty",
+    "joined_at": "2025-06-30T10:56:04.506101",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2ae35839-0295-4fe4-ac86-e44f3a3d0f15",
+            "brand": "Farley Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "17a6523d-3246-4fd2-8ef2-8fd8587e8eb4",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://barton-barber.info/",
+                    "likes": 1877,
+                    "comments": 287,
                     "shares": 89,
                     "reach": 3095
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9142.61
         }
     ]
 }

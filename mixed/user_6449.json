@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b67a398f-efc2-41b8-9b85-e1fdbfe77cb3",
+    "name": "Haley Maxwell",
+    "email": "hojean@example.org",
+    "instagram_handle": "@dpeck",
+    "tiktok_handle": "@finleyronald",
+    "joined_at": "2024-09-22T03:40:12.321526",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b38f6e54-c533-4d20-a0b6-7c1531fb35a1",
+            "brand": "Mclaughlin Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1447aefe-e084-460d-b74c-09d2e5ab71b0",
                     "platform": "Instagram",
                     "post_url": "https://smoggy-farmer.org/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9850,
+                    "comments": 135,
                     "shares": 4,
                     "reach": 2447
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5562.0
         }
     ]
 }

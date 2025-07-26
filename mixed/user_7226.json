@@ -1,20 +1,20 @@
 {
-    "user_id": null,
+    "user_id": "5313726f-c76d-455b-a0bd-27f8759cba10",
     "name": "Glenda Mohr",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "lopezwilliam@example.com",
+    "instagram_handle": "@hughesraven",
+    "tiktok_handle": "@lthomas",
+    "joined_at": "2025-03-23T01:46:44.573298",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "385bfa88-88a1-4313-911b-a3adf277b9e4",
+            "brand": "Arnold, Jones and Jones",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a0f064b5-f407-4018-b21e-2013790a8f7e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://martinez.net/",
+                    "likes": 8016,
                     "comments": 36,
                     "shares": 62,
                     "reach": 4698

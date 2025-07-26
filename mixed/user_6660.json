@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "278eb424-aac3-4d96-a584-499e9e3a35a0",
+    "name": "Anne Sellers",
+    "email": "jdelgado@example.net",
+    "instagram_handle": "@ebishop",
+    "tiktok_handle": "@ronaldyates",
+    "joined_at": "2024-06-30T05:09:32.381548",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "716d2eff-9221-492c-adbe-b17cfde316db",
+            "brand": "Norton, Porter and Barron",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "14d2987a-b081-40e6-b183-42131bc1cb14",
+                    "platform": "Instagram",
+                    "post_url": "https://www.castillo.com/",
+                    "likes": 2727,
+                    "comments": 242,
                     "shares": 36,
                     "reach": 8114
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1067.33
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "efb1acc8-dce9-4513-86da-5f13ee4c3867",
     "name": "Ian Fadel",
     "email": "Kianna_Gleason89@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@xcraig",
+    "tiktok_handle": "@kristimontgomery",
+    "joined_at": "2023-09-28T18:44:01.195578",
     "advocacy_programs": [
         {
             "program_id": "351dfb1a-3005-402b-b8de-20bb3f434941",
-            "brand": 12345,
+            "brand": "Russell-Myers",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "af22799c-3ae3-47fe-84f6-47700ab86c89",
                     "platform": "TikTok",
                     "post_url": "https://right-parsnip.org/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 8629,
+                    "comments": 250,
                     "shares": 66,
                     "reach": 2554
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7969.85
         }
     ]
 }

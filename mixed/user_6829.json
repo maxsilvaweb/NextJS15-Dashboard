@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "de54f61d-a4da-46a6-a72f-52e0e1c4e67a",
     "name": "Myrtle Spencer I",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "johnathan88@example.net",
+    "instagram_handle": "@lorihall",
+    "tiktok_handle": "@wendybrown",
+    "joined_at": "2024-04-26T05:02:02.842166",
     "advocacy_programs": [
         {
             "program_id": "8d6039bd-705b-4117-af32-d2f8b95e031a",
-            "brand": 12345,
+            "brand": "Harper Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "25072bd5-1928-4502-8522-6b89fe2b98c0",
                     "platform": "Instagram",
                     "post_url": "https://haunting-straw.net/",
-                    "likes": "NaN",
+                    "likes": 2784,
                     "comments": 48,
                     "shares": 68,
                     "reach": 2246
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1504.7
         }
     ]
 }

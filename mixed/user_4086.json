@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dea775fb-14fc-4dfb-8d58-73ed2f78bdba",
+    "name": "Philip Morgan",
+    "email": "seangallagher@example.com",
+    "instagram_handle": "@smithkelly",
+    "tiktok_handle": "@todd02",
+    "joined_at": "2025-06-16T09:24:11.927198",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "04e354e8-0b87-46ae-9b3d-3dbe6df712d7",
+            "brand": "Luna, Mendoza and Moran",
             "tasks_completed": [
                 {
                     "task_id": "f8e561f9-3754-4691-ad18-40b6cf63cdf6",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://jones.com/",
+                    "likes": 7466,
                     "comments": 7,
                     "shares": 8,
                     "reach": 4130
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3479.91
         }
     ]
 }

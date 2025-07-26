@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "0d6a938c-c0c5-4f48-a6a5-00cc586ec1d7",
+    "name": "Eric Kirby",
+    "email": "dana59@example.com",
+    "instagram_handle": "@joycesalas",
+    "tiktok_handle": "@garyjones",
     "joined_at": "2024-10-31T21:03:12.634Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "18bd3bc6-2fa4-456c-bdbe-139d4105f8c3",
+            "brand": "Crane-Griffin",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5097cdd7-6793-4a17-8fad-f5339d72f0af",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.miller.com/",
+                    "likes": 9075,
+                    "comments": 182,
                     "shares": 14,
                     "reach": 840
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7831.48
         }
     ]
 }

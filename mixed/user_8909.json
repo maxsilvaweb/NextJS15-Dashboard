@@ -1,25 +1,26 @@
 {
     "user_id": "539ba5fe-3dde-4f12-aeec-b2a5aa27c0cb",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Sarah Holmes",
+    "email": "taustin@example.org",
+    "instagram_handle": "@mkeith",
+    "tiktok_handle": "@brownmelinda",
+    "joined_at": "2024-04-17T02:58:43.132468",
     "advocacy_programs": [
         {
             "program_id": "5d8c1ca0-51c8-4428-a69c-0320d5e205ff",
-            "brand": 12345,
+            "brand": "Payne, Boyd and Diaz",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "b19cd3ad-05cb-4539-a341-41a1058248ef",
+                    "platform": "YouTube",
+                    "post_url": "https://www.ferguson.org/",
+                    "likes": 3839,
+                    "comments": 118,
                     "shares": 50,
                     "reach": 2859
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2133.56
         }
     ]
+}

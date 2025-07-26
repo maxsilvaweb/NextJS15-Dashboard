@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "37236081-d128-42a9-aae0-44b7326bcd62",
+    "name": "Kristine Small",
+    "email": "christinaprice@example.com",
     "instagram_handle": "@Ricky18",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@derrick21",
+    "joined_at": "2024-07-18T19:17:48.672059",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ef2c7d82-c34c-4988-b201-b4dca23c4056",
+            "brand": "Williams Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "c2187222-ad10-4b27-a41d-4f1af338286d",
+                    "platform": "Instagram",
                     "post_url": "https://blue-backburn.net/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 114,
+                    "comments": 301,
                     "shares": 73,
                     "reach": 4349
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2011.71
         }
     ]
 }

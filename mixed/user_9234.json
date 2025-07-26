@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "01da66a5-2dc3-4d0d-b539-ae8a5d1860be",
+    "name": "Rebecca Johnson",
+    "email": "parkbarbara@example.net",
+    "instagram_handle": "@catherine75",
+    "tiktok_handle": "@lisa42",
+    "joined_at": "2024-06-04T23:06:19.354184",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "af7cef97-a17e-44b2-a800-a6e53730ba27",
             "brand": "Gusikowski, Considine and Wisoky",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5d6e3a63-f4ab-44de-a6fb-994b4a7e18c4",
                     "platform": "TikTok",
                     "post_url": "https://obedient-napkin.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6406,
+                    "comments": 200,
                     "shares": 62,
                     "reach": 4445
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7422.78
         }
     ]
 }

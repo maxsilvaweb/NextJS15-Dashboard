@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "101fd9f2-f70f-4b5e-9168-b1a4e432c2ae",
+    "name": "Christopher Douglas",
+    "email": "hstevens@example.org",
+    "instagram_handle": "@kbernard",
+    "tiktok_handle": "@thomas39",
+    "joined_at": "2024-11-22T08:35:56.430191",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dccef39a-b6aa-4d28-80c1-3daa0ab2de3f",
+            "brand": "King-Fernandez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e3a59ec9-18c3-4406-9b45-96d11ffcf9af",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://brown.com/",
+                    "likes": 8493,
+                    "comments": 498,
                     "shares": 41,
                     "reach": 5462
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3619.67
         }
     ]
 }

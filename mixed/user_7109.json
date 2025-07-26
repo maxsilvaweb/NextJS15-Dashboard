@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8ba1ce16-5606-40db-bb3c-a722e92f1ff7",
+    "name": "Brian Jones",
+    "email": "caldwellhannah@example.org",
+    "instagram_handle": "@elizabethfreeman",
+    "tiktok_handle": "@heidiyates",
+    "joined_at": "2024-10-25T17:24:09.192431",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "d8e85a3b-207f-4cdc-bf7f-27504cc517c5",
             "brand": "Romaguera, Smith and Huels",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "6244f689-591f-4a6a-8a0c-bfb9aeb34124",
+                    "platform": "YouTube",
+                    "post_url": "https://www.lee.net/",
+                    "likes": 8335,
                     "comments": 22,
                     "shares": 98,
                     "reach": 5658
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8997.69
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "354b73d3-d464-4ade-9966-88969e6cdbd5",
+    "name": "Candace Brooks",
+    "email": "wendycampbell@example.com",
+    "instagram_handle": "@ibarker",
+    "tiktok_handle": "@hallshelly",
+    "joined_at": "2024-12-28T02:11:25.287389",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "db3beff7-677b-4f1a-ab25-9b43f5ec26d5",
+            "brand": "Johnson, Wilson and Davis",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5eb3fd82-9bc1-4338-8860-d40a50b6e2b2",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.randall.info/",
+                    "likes": 3257,
+                    "comments": 374,
                     "shares": 61,
                     "reach": 2208
                 }

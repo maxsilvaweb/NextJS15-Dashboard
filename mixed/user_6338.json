@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "1a4dd916-e3bf-4236-91ed-86cd4939f59e",
     "name": "William Lebsack",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "jeffrey30@example.net",
+    "instagram_handle": "@phillipashley",
+    "tiktok_handle": "@jonathan58",
+    "joined_at": "2024-01-08T06:23:25.111513",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c0516075-eed6-4ac3-9dc8-2900bcc597e4",
+            "brand": "Hernandez-Bowers",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "361a88e1-2474-4e11-9aef-6c6beb5686a4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.griffin.com/",
+                    "likes": 1751,
+                    "comments": 84,
                     "shares": 21,
                     "reach": 7302
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1326.19
         }
     ]
 }

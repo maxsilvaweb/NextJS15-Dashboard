@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4e9d948c-cd2f-40c8-a57a-d66fe59a8936",
+    "name": "Eric Tate",
+    "email": "amy02@example.com",
+    "instagram_handle": "@jody52",
+    "tiktok_handle": "@foxgregory",
+    "joined_at": "2024-10-30T02:26:19.218675",
     "advocacy_programs": [
         {
             "program_id": "81e5873d-209e-405b-97ac-5bb7bdbc0bb6",
-            "brand": 12345,
+            "brand": "Jones-Schultz",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "aca0c850-3eb7-4ad0-8a35-1780d52e273e",
+                    "platform": "Instagram",
+                    "post_url": "https://www.hall.com/",
+                    "likes": 8701,
                     "comments": 49,
                     "shares": 67,
                     "reach": 2797
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8793.18
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6e1b3584-ca22-465f-8db3-871c0e7d5c04",
+    "name": "Jamie Martinez",
+    "email": "xfowler@example.com",
+    "instagram_handle": "@bowenbob",
+    "tiktok_handle": "@vreed",
+    "joined_at": "2024-03-12T03:23:15.904413",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "89b41ccf-b4e5-4793-8941-f02e87320a79",
+            "brand": "Perez Ltd",
             "tasks_completed": [
                 {
                     "task_id": "b26c87eb-c3bf-4173-a2b0-acb411f2aa94",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://davis.com/",
                     "likes": 443,
                     "comments": 15,
                     "shares": 76,
                     "reach": 4637
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1377.76
         }
     ]
 }

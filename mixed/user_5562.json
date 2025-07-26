@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "27b80323-841a-4b69-948f-fa99be73edea",
+    "name": "Sherry Diaz",
+    "email": "vanessa59@example.org",
+    "instagram_handle": "@pachecojason",
+    "tiktok_handle": "@floreswendy",
     "joined_at": "2024-06-18T03:30:45.000Z",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "850339bc-0f29-4adb-9da6-1ed32ec79204",
             "brand": "Kozey, Dach and Wilderman",
             "tasks_completed": [
                 {
                     "task_id": "550741f9-8dd6-401b-ad7a-4e9911ff0343",
                     "platform": "TikTok",
                     "post_url": "https://busy-nightlife.net/",
-                    "likes": "NaN",
+                    "likes": 2774,
                     "comments": 16,
                     "shares": 8,
                     "reach": 5736
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8284.84
         }
     ]
 }

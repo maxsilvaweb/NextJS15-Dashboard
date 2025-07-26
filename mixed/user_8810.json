@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b3078991-9f90-462e-9415-38712de08f91",
+    "name": "Eric Mcdowell",
+    "email": "olee@example.net",
+    "instagram_handle": "@millseric",
+    "tiktok_handle": "@bradley55",
+    "joined_at": "2024-04-28T02:39:05.592223",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ca75f19a-ba93-4fc6-b74d-be3eb0b235b5",
+            "brand": "Torres Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "0d499267-d1bf-4895-918a-f8053666ccec",
+                    "platform": "YouTube",
                     "post_url": "https://distinct-hydrant.com/",
                     "likes": 353,
-                    "comments": null,
+                    "comments": 280,
                     "shares": 22,
                     "reach": 3703
                 }

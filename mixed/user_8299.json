@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a789128d-1a2b-4245-8bc0-dd9b9efba513",
+    "name": "Leslie Yoder",
     "email": "Dangelo_Bogan27@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@campbellrebecca",
+    "tiktok_handle": "@johnsondale",
     "joined_at": "2024-08-09T05:43:58.956Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "19665fdc-ba7b-4230-bc81-536423db24cc",
+            "brand": "Moore-Forbes",
             "tasks_completed": [
                 {
                     "task_id": "a9ae93f2-6410-4172-8d5b-55028890f57b",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.gonzalez-miller.com/",
+                    "likes": 2276,
+                    "comments": 360,
                     "shares": 77,
                     "reach": 1490
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8979.38
         }
     ]
 }

@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "e3f24fc4-c007-40f3-aaf0-6b8f560c338f",
+    "name": "Alexander Gray",
     "email": "Rahul81@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@campbelljustin",
+    "tiktok_handle": "@lbray",
+    "joined_at": "2025-03-03T07:41:00.655226",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1944bbe9-0bd1-45ee-a2c4-bc63adc83dd2",
+            "brand": "Gallagher, Fernandez and Parks",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "43cce036-0f2e-48a2-b10b-825ac4e39d85",
+                    "platform": "Twitter",
                     "post_url": "https://direct-priesthood.name",
                     "likes": 462,
-                    "comments": null,
+                    "comments": 388,
                     "shares": 19,
                     "reach": 1799
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2967.71
         }
     ]
+}

@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "808f5a55-e2b2-4691-9939-9629acd287dc",
+    "name": "Stacy Jones",
+    "email": "michellecolon@example.org",
+    "instagram_handle": "@scott70",
+    "tiktok_handle": "@kimgordon",
+    "joined_at": "2024-05-10T23:31:02.638807",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "32d2308a-5db7-4331-ad20-485dc0cba57d",
+            "brand": "Meyers-Hill",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0492ee4f-4100-4347-8325-e86def84ce31",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://maldonado-mathews.org/",
                     "likes": 241,
                     "comments": 43,
                     "shares": 77,

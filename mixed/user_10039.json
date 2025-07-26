@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae39",
-  "name": "Max Silva390000",
-  "email": "maxsilvvauk@39wwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae39",
+    "name": "Max Silva390000",
+    "email": "maxsilvvauk@39wwilwweeewd.com",
+    "instagram_handle": "@uortega",
+    "tiktok_handle": "@hphillips",
+    "joined_at": "2024-06-29T01:02:03.855777",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "902b6f7f-2a01-4cc3-b0a2-c81d56104dfe",
+            "brand": "Berry and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "6a49594b-9445-4669-91b5-02c37dab8795",
+                    "platform": "TikTok",
+                    "post_url": "http://www.hall.com/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 4174.35
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

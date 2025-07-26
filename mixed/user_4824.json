@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5defc512-ba86-4e08-a4fb-61793f27f005",
+    "name": "Angel Trujillo",
+    "email": "fishergary@example.org",
+    "instagram_handle": "@nicholas63",
+    "tiktok_handle": "@maryrich",
+    "joined_at": "2024-03-28T06:38:04.058065",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c80eb36a-5152-4736-84e2-0986e39d5789",
+            "brand": "Schmidt Ltd",
             "tasks_completed": [
                 {
                     "task_id": "fb9b2a63-2fd8-4671-9940-e141e4ab34a7",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.chavez.org/",
+                    "likes": 6855,
+                    "comments": 172,
                     "shares": 1,
                     "reach": 4172
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3963.31
         }
     ]
 }

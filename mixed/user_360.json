@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d566b7f9-b7f4-453e-b0ca-9a47f4ebf738",
+    "name": "Tabitha Black",
+    "email": "omiles@example.org",
+    "instagram_handle": "@jason88",
+    "tiktok_handle": "@floresmargaret",
+    "joined_at": "2025-02-28T08:19:09.137215",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "763a669b-6987-41cd-b759-a695f51d6260",
+            "brand": "Myers-Nunez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "438bcc9f-009a-4793-97ed-61a36b27176f",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.bridges.com/",
                     "likes": 71,
                     "comments": 27,
                     "shares": 65,
                     "reach": 2707
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 974.49
         }
     ]
 }

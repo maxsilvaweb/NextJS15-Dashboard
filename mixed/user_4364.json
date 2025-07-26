@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "b226f01a-79c7-4ff9-977e-05a362e24dbd",
+    "name": "Brian Acosta",
+    "email": "davidmaldonado@example.org",
+    "instagram_handle": "@bleonard",
+    "tiktok_handle": "@vickie76",
     "joined_at": "2024-12-01T09:55:37.480Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "15045f57-4837-480e-8e0d-202d8a2f2021",
+            "brand": "Jennings and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "475b8e99-299e-40b9-b4b5-a69c1c1c40b5",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.valdez-mejia.com/",
+                    "likes": 4050,
                     "comments": 35,
                     "shares": 86,
                     "reach": 9281
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4002.66
         }
     ]
 }

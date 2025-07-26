@@ -1,26 +1,26 @@
 {
     "user_id": "c4feba1b-8fb1-4cfd-9684-c70312fd80ca",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Rachel Shaw",
+    "email": "debbiejones@example.org",
+    "instagram_handle": "@francisdavid",
+    "tiktok_handle": "@aallen",
+    "joined_at": "2024-04-22T01:25:07.869145",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "e68e4153-5e17-455d-868b-45fd7c012b13",
             "brand": "Stamm LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f26a885b-a50a-4c63-b51b-f85a89adbd9d",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.hill.biz/",
+                    "likes": 6790,
                     "comments": 19,
                     "shares": 38,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4108.81
         }
     ]
 }

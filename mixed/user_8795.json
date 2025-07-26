@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1b217f0f-235d-4267-8e29-a760741f0a5d",
+    "name": "Amber Clark",
+    "email": "stephaniecox@example.com",
+    "instagram_handle": "@rodney84",
+    "tiktok_handle": "@holmesshawn",
+    "joined_at": "2024-02-07T09:10:26.048250",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "08cfa313-60b9-49da-873a-8e79c61e07a7",
+            "brand": "Alvarez-Gray",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "4d54acd4-9f22-4cad-bdbe-3f34309ed7e9",
+                    "platform": "Twitter",
+                    "post_url": "http://www.martin-king.org/",
                     "likes": 421,
-                    "comments": null,
+                    "comments": 47,
                     "shares": 38,
                     "reach": 8506
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5066.66
         }
     ]
 }

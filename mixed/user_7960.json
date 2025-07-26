@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "0257723c-7f0c-464d-93e4-4f2fa0e2992f",
+    "name": "Gordon Diaz",
+    "email": "asolis@example.org",
+    "instagram_handle": "@ujones",
     "tiktok_handle": "@Kara.Powlowski58",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-09-05T10:58:06.484258",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "923e8626-e027-420a-afec-d2b61e05e9f3",
+            "brand": "Bennett and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6ab5b008-276f-4862-a88d-4b939fe3fd2e",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.campbell-wilson.com/",
+                    "likes": 9864,
+                    "comments": 281,
                     "shares": 25,
                     "reach": 4857
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 137.69
         }
     ]
 }

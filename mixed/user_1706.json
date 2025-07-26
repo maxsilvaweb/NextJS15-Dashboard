@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a00ee4e5-666a-4aad-89d1-f26f3318a329",
+    "name": "Kristen Payne",
+    "email": "ledwards@example.com",
+    "instagram_handle": "@erik48",
+    "tiktok_handle": "@angelafields",
+    "joined_at": "2024-06-17T21:15:14.639411",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "23447e69-edbd-4d81-8e37-d54f6b437b0d",
+            "brand": "Diaz, Ford and Conway",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "29cee7b5-b687-4802-a5b0-8ad152e76ad9",
+                    "platform": "TikTok",
+                    "post_url": "http://www.stanton.com/",
+                    "likes": 5737,
+                    "comments": 149,
                     "shares": 61,
                     "reach": 6021
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6613.23
         }
     ]
 }

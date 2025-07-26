@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4d890cd2-4ff3-4862-b38b-15a9507604f1",
+    "name": "Richard Sanchez",
+    "email": "williamsmatthew@example.net",
+    "instagram_handle": "@matthew60",
+    "tiktok_handle": "@amy58",
+    "joined_at": "2023-09-24T10:02:15.783763",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dbc643ff-9557-4a21-a362-ddea6d7fc430",
+            "brand": "Daniels-Williams",
             "tasks_completed": [
                 {
                     "task_id": "f047f72f-a17d-4da3-8aa1-1dcda6de26e3",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.mccarthy.info/",
+                    "likes": 2215,
+                    "comments": 40,
                     "shares": 87,
                     "reach": 8892
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4275.67
         }
     ]
+}

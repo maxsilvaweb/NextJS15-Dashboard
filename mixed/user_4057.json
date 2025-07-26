@@ -1,25 +1,26 @@
 {
     "user_id": "352e9166-e11e-4e63-af29-fef906a99490",
-    "name": "???",
+    "name": "Kelly Jennings",
     "email": "Karlie_Gerhold@hotmail.com",
     "instagram_handle": "@Floyd_Monahan76",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@abigailthomas",
+    "joined_at": "2024-09-22T07:26:55.352514",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8691b6fe-95e9-4056-9e81-0d456d350b7e",
+            "brand": "Luna, Price and Brewer",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "29cd80b2-bef4-41a0-9b3f-f1fe1585b1ae",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.stewart.com/",
+                    "likes": 7541,
+                    "comments": 470,
                     "shares": 36,
                     "reach": 7632
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9290.64
         }
     ]
+}

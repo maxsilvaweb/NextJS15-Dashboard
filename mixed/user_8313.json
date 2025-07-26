@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "6e03bc09-3643-4cf9-a7b0-3e2404b92705",
+    "name": "Jermaine Nelson",
     "email": "Verda65@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@kristensanchez",
+    "tiktok_handle": "@jon93",
+    "joined_at": "2024-03-08T12:38:31.160932",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fb7b42b8-bed1-419f-b81a-e5fadf97ed48",
+            "brand": "Baker, Manning and Garrett",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "84531401-8943-4402-be86-28e74510c5d0",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
+                    "post_url": "http://li-villarreal.com/",
                     "likes": 184,
-                    "comments": null,
+                    "comments": 365,
                     "shares": 74,
                     "reach": 2584
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 694.68
         }
     ]
 }

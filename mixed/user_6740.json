@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "73fbae68-425d-485f-82bc-7520b8ed18fe",
+    "name": "Raymond Petersen",
+    "email": "rramirez@example.org",
+    "instagram_handle": "@brandonfrancis",
+    "tiktok_handle": "@kristin23",
+    "joined_at": "2025-03-31T13:27:54.831892",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e8f5c394-2998-424c-a7b6-a06322f368d3",
+            "brand": "Wagner-Ortiz",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e66b29fb-b922-4eaa-9568-0d2d163a44fc",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.david.org/",
+                    "likes": 5958,
+                    "comments": 437,
                     "shares": 0,
                     "reach": 7508
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1276.2
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "85ae21a3-6e4e-4e61-8c65-373877fc2cf3",
+    "name": "Dawn Silva",
+    "email": "hessdavid@example.net",
+    "instagram_handle": "@coreyhorn",
+    "tiktok_handle": "@rhernandez",
     "joined_at": "2024-12-28T03:54:51.160Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f14df0a0-9c54-4aa0-944e-b8b2db68ac76",
+            "brand": "Hansen, Carlson and Romero",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1d6ec176-457f-4817-9606-11b54edb95d8",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.crane.com/",
                     "likes": 411,
                     "comments": 6,
                     "shares": 80,
                     "reach": 1842
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6238.25
         }
     ]
 }

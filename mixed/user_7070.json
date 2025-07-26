@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ff5da056-8402-4677-b3bd-cc069ee67fa1",
+    "name": "Grace Evans",
+    "email": "robertdougherty@example.net",
+    "instagram_handle": "@ricardolee",
+    "tiktok_handle": "@sabrinawhite",
+    "joined_at": "2024-05-27T23:57:01.036783",
     "advocacy_programs": [
         {
             "program_id": "699a925c-f8e1-46a6-ace4-1c42806823a9",
-            "brand": 12345,
+            "brand": "Roy and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "c4903c01-deed-4681-bd9d-021da9243022",
+                    "platform": "YouTube",
+                    "post_url": "https://www.mcdonald.biz/",
+                    "likes": 4478,
+                    "comments": 376,
                     "shares": 55,
                     "reach": 2427
                 }

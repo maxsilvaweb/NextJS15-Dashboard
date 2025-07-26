@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "062edbbe-fb95-4885-96dc-0cc26e20a88a",
+    "name": "Doris Freeman",
+    "email": "anthonyellis@example.net",
+    "instagram_handle": "@rogersvickie",
+    "tiktok_handle": "@clewis",
+    "joined_at": "2025-07-18T00:33:08.562957",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5c37939a-8592-4c23-971f-325c99ae245f",
+            "brand": "Nguyen Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ac7cef5d-683f-4279-a0f6-48f2755193fd",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://fowler-stewart.biz/",
+                    "likes": 5087,
+                    "comments": 181,
                     "shares": 84,
                     "reach": 2920
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 476.21
         }
     ]
 }

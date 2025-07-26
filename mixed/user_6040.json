@@ -1,25 +1,26 @@
 {
     "user_id": "cfe0329b-8f61-4ea6-9686-2986ce8cb897",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Ana Price",
+    "email": "nwilliams@example.org",
+    "instagram_handle": "@castanedarobert",
+    "tiktok_handle": "@johnsonapril",
+    "joined_at": "2024-11-10T16:55:56.149848",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "315f10a9-78b8-4d42-9df1-24f1e8c8d1c3",
+            "brand": "Howard-Burgess",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "55d99f49-f450-4de7-80d5-82d664fa46d5",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://smith-cohen.biz/",
+                    "likes": 3092,
+                    "comments": 276,
                     "shares": 35,
                     "reach": 5679
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9551.37
         }
     ]
+}

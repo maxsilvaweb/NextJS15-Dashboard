@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "db0c0c1a-ddc8-4fec-8f8c-18ceedc619e1",
+    "name": "Samuel Johnson",
+    "email": "lthomas@example.com",
+    "instagram_handle": "@rwhite",
+    "tiktok_handle": "@mallorylong",
+    "joined_at": "2024-08-12T14:02:48.973429",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7edb5dac-545a-4269-8186-f414b86a420f",
+            "brand": "Smith, Middleton and Meyers",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8903f1b3-ad75-48e6-a760-aad81067c7b1",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://kirby.org/",
+                    "likes": 9109,
+                    "comments": 476,
                     "shares": 19,
                     "reach": 8968
                 }

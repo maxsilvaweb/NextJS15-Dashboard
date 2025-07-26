@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d76dcb9c-aeb0-47f5-98d8-8c1ac5539e1a",
+    "name": "Nicole Butler",
+    "email": "jessica42@example.org",
+    "instagram_handle": "@heatherpark",
+    "tiktok_handle": "@jbennett",
+    "joined_at": "2024-04-03T09:49:54.979100",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ed7ee472-a0a8-447f-aebc-bbb7fc32b1ff",
+            "brand": "Martin PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "836493ae-3aac-4041-9103-b8f58a47f705",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://johnson.com/",
+                    "likes": 6329,
+                    "comments": 263,
                     "shares": 47,
                     "reach": 6615
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2112.64
         }
     ]
 }

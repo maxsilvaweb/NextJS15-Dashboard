@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d13f0965-0cff-4c99-bb85-f4819efeceeb",
+    "name": "Julia Pruitt",
+    "email": "johnsoncourtney@example.net",
+    "instagram_handle": "@johnsonheather",
+    "tiktok_handle": "@scottgomez",
+    "joined_at": "2023-12-30T14:09:15.432791",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "561b10db-a888-448c-a673-fe80dfd5746b",
+            "brand": "Frazier-Brown",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "390c9947-a8b7-432a-9799-3e0950c224e9",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://stone-richardson.org/",
+                    "likes": 2543,
+                    "comments": 437,
                     "shares": 87,
                     "reach": 9635
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "2e7bac58-08b9-4f1c-81d0-e5ccd290a418",
     "name": "Wanda Doyle",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "nathanielsimpson@example.net",
+    "instagram_handle": "@hendersonjim",
+    "tiktok_handle": "@rachael67",
+    "joined_at": "2023-08-28T09:50:35.702498",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "52aaa30f-5ba1-4892-be23-4cd6cf20de3f",
+            "brand": "Flynn-Martinez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cd532821-5aa6-4dcc-b90e-eac5dd82d51e",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://brown-wright.com/",
+                    "likes": 1871,
+                    "comments": 417,
                     "shares": 74,
                     "reach": 3603
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5552.26
         }
     ]
 }

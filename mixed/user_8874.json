@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "5ecbfe97-51dc-4d89-920d-3c7ffc66ce38",
+    "name": "Robin Tucker",
     "email": "Colby.Bednar84@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@michael89",
+    "tiktok_handle": "@rosefrazier",
     "joined_at": "2024-12-04T04:10:37.616Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "988c39aa-7acf-4616-a634-503b3b137217",
+            "brand": "Smith-Brooks",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ec1683be-cb09-45bb-95ff-684eaed1a9dd",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.webb.biz/",
+                    "likes": 5820,
+                    "comments": 319,
                     "shares": 3,
                     "reach": 7023
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1265.45
         }
     ]
 }

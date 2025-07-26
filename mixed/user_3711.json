@@ -1,26 +1,26 @@
 {
     "user_id": "2337cdd8-5397-4bde-a925-4be72a21636a",
-    "name": "???",
+    "name": "Robert Burton",
     "email": "Garrick.Morar96@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@woodsjames",
+    "tiktok_handle": "@moorebrad",
+    "joined_at": "2024-09-18T07:29:07.308195",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bcd5d845-dcca-4722-9ec2-fbdeee1b5876",
+            "brand": "Bradley, Rodriguez and Brown",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "684909bd-fc77-4030-9a5c-95667166b7ff",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://peterson-green.biz/",
+                    "likes": 5683,
+                    "comments": 208,
                     "shares": 10,
                     "reach": 7940
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6068.8
         }
     ]
 }

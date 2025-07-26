@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "40fcdea3-891f-4fe7-afc3-d861156575a9",
+    "name": "Lisa Smith",
     "email": "Lorena_Gerlach@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@tsosa",
+    "tiktok_handle": "@rhunt",
+    "joined_at": "2025-05-28T07:12:52.546059",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b3cf844c-ac19-48e0-b77c-57ab9eef1b2b",
+            "brand": "Huynh-Malone",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "ec60a341-f67b-43fd-86dc-c56f93ceda42",
+                    "platform": "YouTube",
+                    "post_url": "https://rosario.com/",
+                    "likes": 7877,
                     "comments": 21,
                     "shares": 35,
                     "reach": 5057
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2934.49
         }
     ]
 }

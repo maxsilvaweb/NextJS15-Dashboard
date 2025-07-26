@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "5a13f1cb-1d44-477c-8678-5d9b9c8c06b2",
+    "name": "Eric Frazier",
+    "email": "cmontgomery@example.org",
+    "instagram_handle": "@jonessusan",
     "tiktok_handle": "@Chad.Lubowitz",
     "joined_at": "2024-04-09T08:26:01.913Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a94f4ee5-04f3-4d18-a6d3-aa4ce4aa21c8",
+            "brand": "Powell, Warner and Aguirre",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bba87057-87f9-413b-9e0e-5018698e7159",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://barber.com/",
+                    "likes": 9181,
+                    "comments": 3,
                     "shares": 78,
                     "reach": -1000
                 }

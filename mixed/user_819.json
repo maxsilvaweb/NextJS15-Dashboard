@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4ce35c1b-0fa6-4454-b9bc-a2f0bebd714b",
+    "name": "Erin Barnes",
+    "email": "johnrivera@example.net",
+    "instagram_handle": "@wattsjessica",
+    "tiktok_handle": "@michael30",
+    "joined_at": "2023-12-15T18:51:10.656041",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ce9467cc-d917-4206-8a1c-d5342a2bcb8e",
+            "brand": "Smith-Perry",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "91042791-a427-4791-9b20-988ab8eff56e",
+                    "platform": "YouTube",
                     "post_url": "https://zealous-certification.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 182,
+                    "comments": 87,
                     "shares": 30,
                     "reach": 3808
                 }

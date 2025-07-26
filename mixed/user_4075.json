@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "3ffed762-c4ad-4be4-8a1d-c4dc9518231e",
+    "name": "Eric Jacobson",
+    "email": "msanchez@example.org",
     "instagram_handle": "@Jacynthe95",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@georgediaz",
+    "joined_at": "2025-03-03T11:10:16.100115",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "178999ad-9de8-4c40-9ae4-25e9895a26c3",
+            "brand": "Jones, Brooks and Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "11cb4dd7-e23e-418c-9dc8-5fb9886df2b1",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.harris.biz/",
+                    "likes": 6526,
+                    "comments": 368,
                     "shares": 0,
                     "reach": 597
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1421.03
         }
     ]
 }

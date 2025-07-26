@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "dd74e78f-14c5-4bb5-98e8-ee14515bbfe9",
+    "name": "Andrew Gordon",
+    "email": "wilsonerica@example.org",
+    "instagram_handle": "@smooney",
+    "tiktok_handle": "@johnwilson",
+    "joined_at": "2023-12-05T11:23:16.557929",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3dd9777e-e9d9-4be3-85a1-48a20db492df",
+            "brand": "Green, Mccann and Mccoy",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ecb677c5-18e7-47c8-8d7c-23a06d198514",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.patterson.com/",
+                    "likes": 3470,
                     "comments": 40,
                     "shares": 42,
                     "reach": 9433
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5397.81
         }
     ]
 }

@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a7b44e34-8388-42da-ae70-f9ba096f6c80",
+    "name": "Robert Vasquez",
     "email": "Luis_Wilkinson@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@rfranco",
+    "tiktok_handle": "@mnoble",
+    "joined_at": "2024-11-02T06:02:11.462643",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f63f6801-3610-465e-a483-183848fde5e7",
+            "brand": "Hoffman, Mckinney and Miller",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6bf3e413-e4e4-4d93-9e2a-6bf9527ecc4d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.santos.com/",
+                    "likes": 6909,
                     "comments": 8,
                     "shares": 64,
                     "reach": 6770
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4335.74
         }
     ]
+}

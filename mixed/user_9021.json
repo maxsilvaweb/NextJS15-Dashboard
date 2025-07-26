@@ -1,26 +1,26 @@
 {
     "user_id": "e92675ae-c8d6-415b-9a44-c642d52835ae",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Ashley Cruz",
+    "email": "michellemiles@example.com",
+    "instagram_handle": "@melissa33",
+    "tiktok_handle": "@elawrence",
+    "joined_at": "2024-04-25T15:02:41.387488",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5eda8e1e-55b6-46c6-8ea1-bfcff88e42e3",
+            "brand": "Holt, Rodriguez and Pollard",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "29af22cd-a925-40e5-ad17-6167b8cc6709",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.wood.com/",
+                    "likes": 9693,
+                    "comments": 255,
                     "shares": 36,
                     "reach": 3469
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7670.92
         }
     ]
 }

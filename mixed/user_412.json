@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "f7cfb7ba-dae5-409b-b2f3-105239a96b66",
+    "name": "Jessica Lyons",
+    "email": "qlee@example.net",
+    "instagram_handle": "@brittanywilson",
     "tiktok_handle": "@Brandt.Hilll28",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-03-21T23:35:39.223610",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "953f45c1-0aa7-4408-84d2-3c4221be9080",
+            "brand": "Watson-Coffey",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7edfbd72-8f38-4f6e-978b-8769a902c9e4",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://fox.com/",
+                    "likes": 6682,
                     "comments": 30,
                     "shares": 41,
                     "reach": 7485
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8402.26
         }
     ]
 }

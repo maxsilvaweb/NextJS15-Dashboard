@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "174bb468-fe81-45d4-b511-faaf242f319d",
+    "name": "Gary Johnson",
+    "email": "amatthews@example.org",
+    "instagram_handle": "@jscott",
+    "tiktok_handle": "@martinkaren",
+    "joined_at": "2024-01-29T17:34:16.082282",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e793ba46-8ace-4e6b-a864-05623e7a2969",
+            "brand": "Kennedy, Pruitt and Carter",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "001a6db1-99a0-4c3d-af94-22d4357718ad",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://mccoy.com/",
+                    "likes": 6295,
                     "comments": 45,
                     "shares": 22,
                     "reach": 1182
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1160.89
         }
     ]
 }

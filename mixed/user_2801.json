@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "c20243c6-1f18-47c2-869e-cfc26c1f9d56",
+    "name": "Laura Knight",
+    "email": "wmooney@example.net",
     "instagram_handle": "@Conor80",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@yvang",
+    "joined_at": "2024-02-07T18:37:34.798365",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7e6328ec-8e3b-4535-ac3f-2c856e3c096d",
+            "brand": "Harris, Hendricks and Barnes",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "cea668ca-b14f-401e-b80d-c37af3a527d3",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://cruz-russell.biz/",
+                    "likes": 6350,
+                    "comments": 230,
                     "shares": 82,
                     "reach": 9150
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5490.34
         }
     ]
 }

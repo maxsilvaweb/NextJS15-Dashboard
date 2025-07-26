@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "b7201a87-6510-4ba9-b933-f787d1d63e3b",
+    "name": "Christopher Melton",
+    "email": "bairdheather@example.com",
+    "instagram_handle": "@sean84",
     "tiktok_handle": "@Davin22",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-05-18T02:10:06.621453",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d2e9de2b-f4b4-467a-b137-1f992309a60f",
+            "brand": "Rice Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5d0f9a8c-7002-4ad3-93f5-f415e534bb8d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.mills-williams.biz/",
+                    "likes": 142,
+                    "comments": 329,
                     "shares": 29,
                     "reach": 4923
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9046.67
         }
     ]
 }

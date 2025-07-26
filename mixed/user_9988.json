@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "8bf7c259-4d83-4403-9941-175df1798a25",
+    "name": "Joseph Nguyen",
+    "email": "kari40@example.org",
+    "instagram_handle": "@jason99",
+    "tiktok_handle": "@daniellewebb",
     "joined_at": "2024-12-21T14:42:50.107Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4417e782-f562-401c-882f-977cad1ba77f",
+            "brand": "Bailey, Nash and Cook",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f96df837-2579-4bd4-aaeb-165deb8fe0b4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://hobbs.org/",
+                    "likes": 9253,
+                    "comments": 443,
                     "shares": 70,
                     "reach": 2811
                 }

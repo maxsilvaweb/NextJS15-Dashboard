@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "647eea1c-df88-49f7-8c2b-440de35fbf36",
     "name": "Karl Murazik",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "rileydiana@example.org",
+    "instagram_handle": "@vdaniels",
+    "tiktok_handle": "@bianca38",
+    "joined_at": "2024-03-14T13:29:48.437992",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "834ae6fb-b972-43b0-8b47-967116095086",
+            "brand": "Novak, Garcia and Grant",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "563ef832-981d-4476-8ffd-4b12fe0cecb0",
                     "platform": "Instagram",
                     "post_url": "https://physical-hepatitis.org/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6017,
+                    "comments": 54,
                     "shares": 46,
                     "reach": 9472
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6983.18
         }
     ]
 }

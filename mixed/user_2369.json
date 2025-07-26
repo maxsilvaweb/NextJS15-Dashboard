@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7ddc17f3-1bd1-4d14-bae8-18b1dc427965",
+    "name": "Angelica Rivas",
+    "email": "cookdawn@example.net",
+    "instagram_handle": "@achan",
+    "tiktok_handle": "@corycaldwell",
+    "joined_at": "2024-08-07T04:15:23.122118",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "189c1173-508c-4bad-9c3f-8e305dc6634c",
+            "brand": "Stewart-Bond",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "28607ed6-297f-411f-9094-d78d7974bbd6",
+                    "platform": "Instagram",
                     "post_url": "https://squiggly-cantaloupe.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 9217,
+                    "comments": 362,
                     "shares": 83,
                     "reach": 8676
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7368.65
         }
     ]
 }

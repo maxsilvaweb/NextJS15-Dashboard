@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e00f6e2b-0c0b-4f77-a484-9599ad5ac593",
+    "name": "John Grant",
+    "email": "natasha96@example.com",
+    "instagram_handle": "@glopez",
+    "tiktok_handle": "@ambercarter",
+    "joined_at": "2024-11-14T19:36:21.199303",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "225ebc64-d509-484d-a392-e8a8d5205b36",
+            "brand": "Khan, Flores and Taylor",
             "tasks_completed": [
                 {
                     "task_id": "dbbf0759-f10d-4fa7-b128-3347571e660e",
-                    "platform": 123,
+                    "platform": "Twitter",
                     "post_url": "https://artistic-adaptation.net",
-                    "likes": "NaN",
+                    "likes": 3099,
                     "comments": 12,
                     "shares": 90,
                     "reach": 9819

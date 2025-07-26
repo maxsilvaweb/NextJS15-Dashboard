@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6a65e411-973f-4a5a-a3fc-7c3b5533cb47",
+    "name": "Patricia Nixon",
+    "email": "johnny09@example.net",
+    "instagram_handle": "@belindahouston",
+    "tiktok_handle": "@lisacollins",
+    "joined_at": "2025-04-24T18:25:38.086266",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2346251b-8717-4338-ae23-e3e6b37fb788",
+            "brand": "Bailey, Wallace and Ashley",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f9ca78b3-9f38-4169-a657-f4f2e4472b67",
                     "platform": "TikTok",
                     "post_url": "https://thin-archaeology.biz",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2779,
+                    "comments": 92,
                     "shares": 73,
                     "reach": 6187
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 369.79
         }
     ]
 }

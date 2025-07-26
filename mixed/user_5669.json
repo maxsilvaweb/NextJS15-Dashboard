@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "673c383d-fc91-4908-943a-ab0447e4ed97",
     "name": "Jordan Witting I",
-    "email": "invalid-email",
+    "email": "ofrank@example.com",
     "instagram_handle": "@Emilia_Morar",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@benitezcarla",
+    "joined_at": "2023-09-05T18:45:57.346469",
     "advocacy_programs": [
         {
             "program_id": "c9dfd5a8-a5f8-4935-9fa2-9cfd6364be7d",
-            "brand": 12345,
+            "brand": "Hernandez-Johnson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bcb07283-ca25-420f-bb8d-ebca475226f6",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://jacobson.info/",
                     "likes": 414,
-                    "comments": null,
+                    "comments": 285,
                     "shares": 51,
                     "reach": 2567
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2673.21
         }
     ]
 }

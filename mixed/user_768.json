@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "201109bf-de44-4438-aab5-ae484d0c1a6a",
+    "name": "Daniel Levine",
+    "email": "sanfordbrian@example.net",
+    "instagram_handle": "@wlawrence",
+    "tiktok_handle": "@chunter",
+    "joined_at": "2023-10-12T05:50:10.840555",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b2fd5810-2d94-4f0e-baa3-f6e59cf90318",
+            "brand": "Myers-Phillips",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "64a8152d-7f15-4bbb-b4fc-910aeb3f7cad",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.jones.com/",
+                    "likes": 5094,
                     "comments": 40,
                     "shares": 56,
                     "reach": 972
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7335.74
         }
     ]
 }

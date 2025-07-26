@@ -1,26 +1,26 @@
 {
     "user_id": "9bce0825-2bc8-4b7c-9b6b-57379f21a1f0",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Marco Sanders",
+    "email": "michele97@example.org",
+    "instagram_handle": "@rodriguezjulie",
+    "tiktok_handle": "@znewman",
+    "joined_at": "2025-03-14T10:28:35.030787",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5f4422f6-5524-4463-ad3e-7117cd3199ea",
+            "brand": "Collins, Brown and Reynolds",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "447af286-8ccb-43de-a44f-17ca659c2144",
                     "platform": "TikTok",
                     "post_url": "https://personal-premeditation.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4088,
+                    "comments": 230,
                     "shares": 0,
                     "reach": 9624
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 507.47
         }
     ]
 }

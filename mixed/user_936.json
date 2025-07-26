@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "4400d834-cdc8-43e2-8362-03e1b14deca7",
+    "name": "Angel Sanchez",
     "email": "Quinn_Pouros@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@michelle94",
+    "tiktok_handle": "@khuang",
+    "joined_at": "2024-04-24T10:37:38.150233",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "29d1c26a-4fbe-4f33-9b40-2e8606ad60c5",
+            "brand": "Nichols, Johnson and Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "daea1541-1d37-4f46-927e-8baf0477a90c",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://barajas.biz/",
+                    "likes": 7153,
+                    "comments": 129,
                     "shares": 53,
                     "reach": 4873
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8816.37
         }
     ]
 }

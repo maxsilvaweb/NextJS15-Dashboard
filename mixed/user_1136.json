@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fc14f603-994a-4ae7-ba8c-f8058b70e602",
+    "name": "Christopher Solomon",
+    "email": "cmiller@example.net",
+    "instagram_handle": "@michael19",
+    "tiktok_handle": "@alejandrasmith",
+    "joined_at": "2024-09-05T11:41:24.625268",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a08279cd-1551-4d3f-86c9-4c52109c7b3d",
+            "brand": "Stark, Maynard and Sims",
             "tasks_completed": [
                 {
                     "task_id": "45b4bf9c-2a61-45d2-b228-3d00b974f859",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "platform": "YouTube",
+                    "post_url": "https://powell.biz/",
+                    "likes": 4454,
                     "comments": 31,
                     "shares": 48,
                     "reach": 5904
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5331.25
         }
     ]
 }

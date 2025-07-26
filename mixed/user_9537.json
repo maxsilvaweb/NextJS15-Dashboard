@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "754d47d7-c8e1-4af7-b979-eeb603334dee",
+    "name": "Brian Parsons",
     "email": "Minerva_Parisian@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@sullivanbrian",
+    "tiktok_handle": "@sfox",
+    "joined_at": "2024-12-12T03:28:25.936611",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "07b807ba-3efd-4335-a10f-50970af85691",
+            "brand": "Lewis Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "e7d6040e-21c9-4853-8b70-268ee4460f5c",
+                    "platform": "Twitter",
+                    "post_url": "http://www.robertson.com/",
+                    "likes": 203,
+                    "comments": 123,
                     "shares": 40,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6882.94
         }
     ]
 }

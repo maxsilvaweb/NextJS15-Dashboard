@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "5738872a-edc5-4d79-b07c-46ff27a6fb94",
+    "name": "Joseph Fox",
     "email": "Alaina72@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@floydjoseph",
+    "tiktok_handle": "@cantulindsay",
+    "joined_at": "2023-11-30T03:24:54.394214",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f4686dfa-4083-4ad0-98d9-036d87f8360d",
+            "brand": "Ware-Howard",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f80e71e2-dd5e-4b52-a73c-f1aa1fe231c8",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.miller-andrews.com/",
+                    "likes": 5756,
+                    "comments": 196,
                     "shares": 82,
                     "reach": 2386
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 236.93
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8b6d5644-5a16-49de-817f-f73340f778cc",
+    "name": "Kathy Hoffman",
+    "email": "watsonmary@example.net",
+    "instagram_handle": "@andreshill",
+    "tiktok_handle": "@williamsmith",
+    "joined_at": "2024-07-24T22:11:53.421128",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0848cbcd-c0e0-48b8-a948-b13af9c4a50f",
+            "brand": "Wilcox-Smith",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "908f68a3-662e-4578-9f11-1741b4191902",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://schwartz-wilson.net/",
                     "likes": 282,
                     "comments": 2,
                     "shares": 33,
                     "reach": 8305
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 832.88
         }
     ]
 }

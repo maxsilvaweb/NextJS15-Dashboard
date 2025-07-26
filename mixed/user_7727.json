@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "b3d8c28d-5622-4219-a962-1422cf963d7c",
+    "name": "Karen Johnson",
     "email": "Adolph19@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@zwoods",
+    "tiktok_handle": "@jeffrey05",
+    "joined_at": "2025-01-27T08:54:55.432385",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "856af974-83a1-4146-b710-40e6bef414f8",
             "brand": "Hamill and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8f73689d-4add-46a7-8423-9b37d1e5a63a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.wilson.biz/",
+                    "likes": 245,
+                    "comments": 386,
                     "shares": 90,
                     "reach": 6234
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6634.25
         }
     ]
 }

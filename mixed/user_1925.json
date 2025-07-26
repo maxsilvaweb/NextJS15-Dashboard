@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "c853f986-d998-4032-9bb2-fb2f573018d6",
+    "name": "Jennifer Smith",
+    "email": "bryancampos@example.net",
+    "instagram_handle": "@burchshane",
     "tiktok_handle": "@Mayra0",
-    "joined_at": "not-a-date",
+    "joined_at": "2023-12-28T05:10:53.783602",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8c45bba7-4ed3-4d4a-a5f9-856712a2d55d",
+            "brand": "Walker and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "98593628-bc7b-4470-ba84-50c13d372897",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://jackson.com/",
+                    "likes": 7891,
+                    "comments": 363,
                     "shares": 18,
                     "reach": 5421
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5949.96
         }
     ]
 }

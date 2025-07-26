@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "9ede29e1-cace-47dd-a4a1-82dff42cff31",
+    "name": "Anthony Hernandez",
+    "email": "folson@example.net",
+    "instagram_handle": "@lopezjose",
+    "tiktok_handle": "@mary90",
     "joined_at": "2025-01-28T23:25:09.804Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "041aad8d-4969-4f6c-bdb7-8e6270fd76c2",
+            "brand": "Pearson, Coleman and Lowe",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d5732ff2-92eb-4d66-928c-5a0cb552b954",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.cox.biz/",
+                    "likes": 2410,
+                    "comments": 385,
                     "shares": 60,
                     "reach": 1024
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2355.24
         }
     ]
 }

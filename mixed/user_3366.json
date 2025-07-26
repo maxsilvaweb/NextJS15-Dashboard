@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "895fa696-42ab-4614-8e51-fa510999d320",
+    "name": "Sarah Edwards",
     "email": "Tommie.Kirlin12@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@bthompson",
+    "tiktok_handle": "@tammie65",
+    "joined_at": "2025-05-24T04:11:01.100209",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e23148df-b998-4869-bd91-349734e77e3b",
+            "brand": "Smith Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ed7d14fe-bc9a-409d-9849-15a4ea9a7ea6",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://pham-fry.com/",
+                    "likes": 633,
+                    "comments": 152,
                     "shares": 55,
                     "reach": 4686
                 }

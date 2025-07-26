@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "100259e9-2fbc-4712-b6c0-15035cf7c4f3",
+    "name": "David Ferrell",
+    "email": "johnthompson@example.net",
+    "instagram_handle": "@natasha54",
     "tiktok_handle": "@Tyrell_Hagenes",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-05-16T23:41:49.032597",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "9747ee50-0477-417b-b4a9-af64edf84eaf",
             "brand": "Conn Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b0ee6bdd-601c-4649-91f1-eebaba961a5d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://jackson-olson.org/",
+                    "likes": 7482,
                     "comments": 3,
                     "shares": 84,
                     "reach": 4746
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5899.97
         }
     ]
 }

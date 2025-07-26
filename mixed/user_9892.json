@@ -1,17 +1,17 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "064994c2-c8dd-4a47-aad4-16f9a22b4806",
+    "name": "Gary Roberts",
+    "email": "shannonfitzgerald@example.com",
+    "instagram_handle": "@bryanamy",
+    "tiktok_handle": "@lisagarcia",
+    "joined_at": "2024-05-03T18:13:35.166169",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "49d72f9b-4fad-43d1-b042-7c293f099581",
+            "brand": "Goodman PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d56c329e-c470-4986-aa46-5a4d0da38346",
                     "platform": "Instagram",
                     "post_url": "https://mad-awareness.name/",
                     "likes": 285,
@@ -20,7 +20,7 @@
                     "reach": 7626
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6631.72
         }
     ]
 }

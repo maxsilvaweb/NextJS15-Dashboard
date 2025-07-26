@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "cf74678d-2bb9-45e4-96bf-c72841af89dd",
+    "name": "Carlos Thompson",
+    "email": "danielwilliams@example.com",
+    "instagram_handle": "@ronaldthomas",
+    "tiktok_handle": "@psnow",
+    "joined_at": "2025-05-03T19:59:28.422937",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "effa5675-b6e1-429c-851a-780c145f1351",
+            "brand": "Glenn and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "4f052696-9078-446b-a9b5-6e6164d8ee5b",
+                    "platform": "Twitter",
+                    "post_url": "http://www.hughes-nichols.net/",
                     "likes": 48,
-                    "comments": null,
+                    "comments": 191,
                     "shares": 47,
                     "reach": 4342
                 }

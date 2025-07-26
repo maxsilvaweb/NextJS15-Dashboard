@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "bac9327a-117c-4757-8a92-a63a81708dd1",
+    "name": "Mary Smith",
+    "email": "xwilliams@example.org",
+    "instagram_handle": "@jamestaylor",
+    "tiktok_handle": "@sandrabeasley",
+    "joined_at": "2023-12-28T14:17:26.677587",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6001921d-51db-46d1-ade2-c09e8ff5a3ad",
+            "brand": "Lawrence Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f22e9dc8-e980-416a-8b56-c269339fc46a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://sanchez-griffin.com/",
+                    "likes": 7235,
+                    "comments": 472,
                     "shares": 69,
                     "reach": 5706
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5460.27
         }
     ]
 }

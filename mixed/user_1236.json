@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4a2afb50-5edb-4c2d-9bb3-14aedf35d11f",
+    "name": "Abigail Allen",
+    "email": "dixonrichard@example.org",
+    "instagram_handle": "@regina34",
+    "tiktok_handle": "@cameron12",
+    "joined_at": "2024-03-30T23:13:55.686169",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5b7fe6b4-ccc6-4cab-8eef-f3d2b4975e54",
+            "brand": "Mooney-Snyder",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7ef1be8c-7319-4915-b6ca-0991bca2552f",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.arias.com/",
+                    "likes": 9328,
+                    "comments": 173,
                     "shares": 53,
                     "reach": 7376
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3413.58
         }
     ]
 }

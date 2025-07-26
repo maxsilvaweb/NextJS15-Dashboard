@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "72d9945e-e510-44e0-8931-8858b6b687af",
+    "name": "Edward Bell",
     "email": "Laverna.Steuber59@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@carrie88",
+    "tiktok_handle": "@crystalharris",
+    "joined_at": "2023-12-29T05:45:03.720758",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d2edc034-a967-4a55-963b-d12333403b5c",
+            "brand": "Gross, Holloway and Scott",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "80357bd1-b2de-47a8-8018-bec3db8cfbbe",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.gray-young.org/",
+                    "likes": 9171,
+                    "comments": 134,
                     "shares": 91,
                     "reach": 3246
                 }

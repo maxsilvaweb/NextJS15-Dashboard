@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "cb8e5a47-4041-4d34-9fb6-09f4fa40f448",
     "name": "Glenn Nitzsche",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "josephhodges@example.com",
+    "instagram_handle": "@graycaleb",
+    "tiktok_handle": "@snunez",
+    "joined_at": "2023-08-22T17:50:14.057282",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b7611e4f-d0e7-4e32-94ef-35fbf8d31281",
+            "brand": "Powell-Norman",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b3f31e09-4e77-4bc2-81c1-7ee42524e8da",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.park.org/",
+                    "likes": 95,
                     "comments": 41,
                     "shares": 34,
                     "reach": 5748
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4631.8
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "54587a45-052f-4496-a507-cf3135a899d6",
+    "name": "Maria Burns",
+    "email": "lindseyyu@example.com",
+    "instagram_handle": "@katelynwilliams",
+    "tiktok_handle": "@pbaker",
+    "joined_at": "2024-05-03T19:19:08.879168",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "40791251-9647-49da-bbcc-dd3f5d5b5bc1",
             "brand": "Haley, Wehner and Mayert",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1fcf1780-bb2d-46bf-8b74-dcbc04f64261",
                     "platform": "TikTok",
                     "post_url": "https://compassionate-doorpost.info",
                     "likes": 353,
-                    "comments": null,
+                    "comments": 52,
                     "shares": 11,
                     "reach": 9887
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8246.9
         }
     ]
 }

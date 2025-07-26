@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f70192e0-ce1f-4038-8625-d5b8dd805621",
+    "name": "Tristan Hunt",
+    "email": "chasewalters@example.org",
+    "instagram_handle": "@rebeccacarey",
+    "tiktok_handle": "@wjackson",
+    "joined_at": "2024-04-05T20:40:05.085875",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8e2dda94-d351-4fd9-9771-16a05fbcdb7e",
+            "brand": "Duncan, Fowler and Garcia",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "89cd9aa4-26d7-4361-aee1-c75609f4d379",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://fleming.com/",
+                    "likes": 4472,
+                    "comments": 255,
                     "shares": 100,
                     "reach": 4509
                 }

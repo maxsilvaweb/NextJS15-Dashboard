@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "4014919a-3d23-411a-a38d-d86834837b43",
+    "name": "Jamie Brooks",
+    "email": "opace@example.com",
+    "instagram_handle": "@psmith",
     "tiktok_handle": "@Wayne.Kohler55",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-08-10T02:54:19.215160",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5d4dfd0e-51ca-43eb-988d-242f0e96cee1",
+            "brand": "Baker LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f7551e2d-64c6-48da-aee8-a0e045547e2b",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://lewis-thomas.info/",
+                    "likes": 8169,
+                    "comments": 481,
                     "shares": 32,
                     "reach": 3466
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1099.29
         }
     ]
 }

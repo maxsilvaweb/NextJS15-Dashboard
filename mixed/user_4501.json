@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "20ee158a-12d9-4378-8f3c-0e7f34a0fdda",
+    "name": "Daniel Harris",
+    "email": "moorebrandon@example.org",
+    "instagram_handle": "@cbaker",
+    "tiktok_handle": "@stephanie37",
     "joined_at": "2025-02-25T08:22:47.815Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "318d3352-38f3-4e56-8a48-d3011e125a65",
+            "brand": "Nguyen and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5b7acc94-afbf-4502-9926-aad16961c72d",
                     "platform": "Facebook",
                     "post_url": "https://lost-colon.name",
-                    "likes": "NaN",
+                    "likes": 4648,
                     "comments": 47,
                     "shares": 84,
                     "reach": 3081
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1999.12
         }
     ]
 }

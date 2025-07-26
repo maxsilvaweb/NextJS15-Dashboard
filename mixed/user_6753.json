@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "52b00e79-5e82-4c60-be85-ad19497040e1",
+    "name": "Michael Sanchez",
+    "email": "robertjones@example.org",
+    "instagram_handle": "@eknight",
+    "tiktok_handle": "@andrewshort",
+    "joined_at": "2024-07-26T17:34:20.977727",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "02409d36-fe34-4b01-abb5-5b4bf9a0b749",
+            "brand": "Church-Williams",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "88589559-5468-4cb5-9783-9c79a83bd9d5",
+                    "platform": "Twitter",
+                    "post_url": "http://www.wall.com/",
+                    "likes": 6282,
+                    "comments": 230,
                     "shares": 11,
                     "reach": 8496
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5703.8
         }
     ]
 }

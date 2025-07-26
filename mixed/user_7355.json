@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "185ee5be-f18f-428e-8fa4-e5a85df29b8f",
+    "name": "Susan Lewis",
+    "email": "erodriguez@example.net",
+    "instagram_handle": "@stephaniesimpson",
     "tiktok_handle": "@Mustafa_Zboncak8",
-    "joined_at": "not-a-date",
+    "joined_at": "2023-12-05T05:07:14.758880",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "1b8f50f5-0f05-4b6b-9ea5-aed3e2f6f095",
             "brand": "Harris - Kris",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7c67fb4e-8d46-4f04-bc4b-b577e43dd9fa",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://simmons-bennett.com/",
+                    "likes": 9718,
+                    "comments": 378,
                     "shares": 90,
                     "reach": 6485
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6889.79
         }
     ]
 }

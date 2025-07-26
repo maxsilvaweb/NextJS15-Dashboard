@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8c0aa084-c1d6-4f99-8173-9d8f86c3e84d",
+    "name": "Gary Myers",
+    "email": "kshaw@example.com",
+    "instagram_handle": "@lewisjamie",
+    "tiktok_handle": "@spencerstephanie",
+    "joined_at": "2025-04-08T13:04:24.949633",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "14f79714-6c57-4b33-bc3e-a66ecb3e56b8",
+            "brand": "Cowan PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e747bc9b-9144-43ec-b005-56128c0e77bb",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://horn.com/",
                     "likes": 150,
                     "comments": 28,
                     "shares": 3,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9750.06
         }
     ]
 }

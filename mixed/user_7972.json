@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "06d7756e-31af-4ee8-ad9d-996b3d71d77b",
+    "name": "Kristi Cooper",
+    "email": "abigailreeves@example.net",
     "instagram_handle": "@Jerrold_Kertzmann",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@paul26",
+    "joined_at": "2025-04-26T13:24:25.912880",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d94c798f-53d1-4fae-9f56-147a82b9a1b9",
+            "brand": "Black-Thompson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "ef30297c-47cf-4883-9df2-1626f685aeef",
+                    "platform": "TikTok",
+                    "post_url": "http://www.frey-smith.com/",
+                    "likes": 4452,
+                    "comments": 208,
                     "shares": 21,
                     "reach": 1062
                 }

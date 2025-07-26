@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "bbc52e8a-c866-4580-a512-f90df6f7af94",
+    "name": "Jeff Edwards",
     "email": "Alyson_Koss@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@holmeserin",
+    "tiktok_handle": "@brandy90",
+    "joined_at": "2024-06-26T07:36:41.792946",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4c4e02f7-c312-4866-b816-c56bc153e897",
+            "brand": "Jones-Carroll",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "df5d2014-884b-4312-b1f1-d0c816a9cfb2",
+                    "platform": "TikTok",
                     "post_url": "https://diligent-horst.com",
-                    "likes": "NaN",
+                    "likes": 9050,
                     "comments": 29,
                     "shares": 86,
                     "reach": 1845

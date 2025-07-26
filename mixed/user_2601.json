@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "bf98680c-892d-478b-a0ca-ae445133c571",
+    "name": "Timothy Richardson",
     "email": "Jed_Blanda11@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@frusso",
+    "tiktok_handle": "@isanchez",
+    "joined_at": "2025-07-09T06:39:31.380317",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f13b0d4f-07ee-4dbc-9277-9b3ab04d2737",
+            "brand": "Johnson LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f7c07787-19e4-48d1-b54d-4f09baf5e5d6",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://diaz.com/",
+                    "likes": 7406,
+                    "comments": 493,
                     "shares": 55,
                     "reach": 3827
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 340.74
         }
     ]
 }

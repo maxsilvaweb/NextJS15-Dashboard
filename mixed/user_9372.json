@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "eaec98e0-756b-4475-9673-4ff77ad48f90",
+    "name": "Bryan Thornton",
+    "email": "andreaknox@example.org",
+    "instagram_handle": "@williamsbenjamin",
+    "tiktok_handle": "@fletcherlynn",
+    "joined_at": "2023-08-31T10:04:21.445925",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3d07c4fd-ee42-421b-b810-58e4d66ea8fb",
+            "brand": "Robinson-Combs",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "59a3b922-6e67-4633-9178-e9069d8503b0",
+                    "platform": "YouTube",
+                    "post_url": "https://www.jones.com/",
                     "likes": 188,
-                    "comments": null,
+                    "comments": 214,
                     "shares": 84,
                     "reach": 6340
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6607.37
         }
     ]
 }

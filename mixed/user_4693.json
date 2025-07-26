@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a2b314d0-bc27-4fdc-b35b-9e7a69e291c3",
+    "name": "Felicia Rivera",
+    "email": "johnreeves@example.org",
+    "instagram_handle": "@clarkmark",
+    "tiktok_handle": "@cameronmccarthy",
+    "joined_at": "2024-02-23T22:47:57.702682",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "14513fd2-0a1f-4cb5-b1b2-1b72dbe98979",
+            "brand": "Young, Spence and Krueger",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ec56ea9f-5934-41e4-9264-aaf26d50e266",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://campos.com/",
+                    "likes": 7942,
                     "comments": 3,
                     "shares": 72,
                     "reach": 9621
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3262.87
         }
     ]
 }

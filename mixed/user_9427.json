@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ce4ba87b-d7fe-4be0-afe7-89129d79d84e",
+    "name": "Rachel Barnes",
+    "email": "anita45@example.com",
+    "instagram_handle": "@virginiamitchell",
+    "tiktok_handle": "@velliott",
+    "joined_at": "2025-02-28T04:42:27.568434",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9eab4ad4-e428-4e7e-84c8-ab9f761f8159",
+            "brand": "Jones-Young",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "134b09cc-4c9b-4181-b6a4-5832ce162325",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://www.miller.com/",
                     "likes": 482,
-                    "comments": null,
+                    "comments": 383,
                     "shares": 10,
                     "reach": 8803
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6766.06
         }
     ]
 }

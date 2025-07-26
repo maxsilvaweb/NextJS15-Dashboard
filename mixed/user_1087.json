@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "daf133fc-9437-4f9a-b1e5-bbbaab1ceced",
+    "name": "Karen Johnson",
+    "email": "jennifer70@example.org",
+    "instagram_handle": "@mackbryan",
+    "tiktok_handle": "@wscott",
+    "joined_at": "2023-12-25T17:21:05.814263",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d37e2c6c-9d23-4e94-abeb-87e69c6fdcae",
+            "brand": "Wilkinson PLC",
             "tasks_completed": [
                 {
                     "task_id": "d026a4ad-43a9-4595-b8d5-6fc333cf021f",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://carpenter.com/",
                     "likes": 244,
-                    "comments": null,
+                    "comments": 497,
                     "shares": 54,
                     "reach": 8542
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2252.36
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2bc7761c-1352-487f-8fc4-89b4153a9654",
+    "name": "Daniel Brennan",
+    "email": "phillip81@example.org",
+    "instagram_handle": "@wellsjonathan",
+    "tiktok_handle": "@penathomas",
+    "joined_at": "2024-03-29T09:02:26.423955",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "7b920cb2-9bce-4b09-afc8-2cd8f72e3ba9",
             "brand": "Nitzsche Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3a4903a6-68a0-4dbc-8317-a59b9828cb89",
                     "platform": "Instagram",
                     "post_url": "https://courteous-dress.com",
                     "likes": 117,
-                    "comments": null,
+                    "comments": 13,
                     "shares": 19,
                     "reach": 1423
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9591.36
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "15d7972d-98c9-4594-8b77-d6aa1e1961f7",
+    "name": "Dawn Rogers",
+    "email": "rachel85@example.org",
+    "instagram_handle": "@anthony44",
+    "tiktok_handle": "@aramsey",
+    "joined_at": "2024-11-13T17:24:13.743937",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2fd0c650-eeaa-44e1-9989-1423b3ed64c5",
+            "brand": "Gonzalez-Murphy",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "04ed3a74-40a8-4014-a16e-0ac48888f5a7",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.olson-bright.com/",
+                    "likes": 3098,
+                    "comments": 340,
                     "shares": 12,
                     "reach": 9175
                 }

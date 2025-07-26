@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5427cbaa-1b7c-43b9-8d59-ed15b8b34efd",
+    "name": "Jamie Mayer",
+    "email": "jasonjones@example.com",
+    "instagram_handle": "@romannicholas",
+    "tiktok_handle": "@colemanseth",
+    "joined_at": "2023-09-30T19:28:41.840566",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3cfe1f41-9f40-44c2-8d35-a3073782951f",
+            "brand": "Thompson, Bowman and Daniel",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "22ec88a7-312d-48c2-b9cb-f79795bd28b2",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://kennedy.com/",
+                    "likes": 7488,
+                    "comments": 452,
                     "shares": 21,
                     "reach": 8528
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5963.74
         }
     ]
 }

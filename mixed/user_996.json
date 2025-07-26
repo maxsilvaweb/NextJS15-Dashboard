@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ec6a35f0-cb7b-42ec-b377-2dafbe828ebb",
+    "name": "Alexander Perry",
+    "email": "hfleming@example.org",
+    "instagram_handle": "@tstephens",
+    "tiktok_handle": "@iweaver",
+    "joined_at": "2025-05-25T01:52:42.058590",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "996f8647-5ee3-4346-8e1b-1f4a2e76e0f7",
+            "brand": "Jenkins-Martinez",
             "tasks_completed": [
                 {
                     "task_id": "eec65100-214d-4b37-9143-24dd453012a7",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.riggs.com/",
+                    "likes": 4224,
+                    "comments": 431,
                     "shares": 1,
                     "reach": 5839
                 }

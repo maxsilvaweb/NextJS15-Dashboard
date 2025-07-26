@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "561d85d8-7cb2-4d72-8b10-f53ad0d80017",
+    "name": "Nancy Landry",
     "email": "Amparo59@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@debra67",
+    "tiktok_handle": "@thomasreed",
     "joined_at": "2025-03-03T20:20:59.141Z",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "d6665edf-db29-4f73-a95d-2afb441c6a6c",
             "brand": "Osinski - Hartmann",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "779c7d9c-3fe6-48d4-b7c6-0bfb564affa7",
                     "platform": "Facebook",
                     "post_url": "https://miserable-essence.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 441,
+                    "comments": 366,
                     "shares": 28,
                     "reach": 6212
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2164.72
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "035d0b4e-381d-4997-b9fa-3fb4619fda09",
+    "name": "Lindsey Brown",
+    "email": "kcardenas@example.org",
+    "instagram_handle": "@ellensmith",
+    "tiktok_handle": "@lancesmith",
+    "joined_at": "2024-03-13T23:51:47.643075",
     "advocacy_programs": [
         {
             "program_id": "5dec33ab-dfb2-49cd-99d0-30be3580d611",
             "brand": "Heaney, Kassulke and McGlynn",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a1bda992-cebb-4ba2-b643-fd08c7ec4cc5",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.logan.com/",
+                    "likes": 9473,
+                    "comments": 1,
                     "shares": 35,
                     "reach": 3828
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9277.5
         }
     ]
 }

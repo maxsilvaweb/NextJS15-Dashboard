@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e93bcb4a-02f5-4f82-9cac-040082ac9518",
+    "name": "Michael Ross",
+    "email": "wolfmark@example.com",
+    "instagram_handle": "@rsmith",
+    "tiktok_handle": "@christinewells",
+    "joined_at": "2025-05-09T22:18:18.939645",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "89265c39-aac1-4c88-a8ef-c3ed500c51ea",
+            "brand": "Martinez, Solomon and Jacobs",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "7fa2a4be-9167-483c-b3a0-073d62b14a24",
+                    "platform": "Twitter",
+                    "post_url": "https://baker.com/",
+                    "likes": 8315,
+                    "comments": 453,
                     "shares": 84,
                     "reach": 5745
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1280.24
         }
     ]
 }

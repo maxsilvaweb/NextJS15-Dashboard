@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "fd51b8d0-c644-45da-8135-33e975f6333a",
+    "name": "Sean Snyder",
+    "email": "martinchristopher@example.org",
+    "instagram_handle": "@markstimothy",
+    "tiktok_handle": "@duncanchristine",
+    "joined_at": "2023-10-15T22:55:11.314166",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "70725672-ce43-44fb-977a-cd54a5fee1ea",
+            "brand": "Barrett LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "e87b32bb-c777-460a-b7fa-552a10e88f1f",
+                    "platform": "TikTok",
+                    "post_url": "http://www.reilly-anderson.com/",
+                    "likes": 6346,
+                    "comments": 284,
                     "shares": 47,
                     "reach": 6097
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9251.88
         }
     ]
 }

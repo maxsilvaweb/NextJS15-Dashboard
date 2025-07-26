@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "f385cbf7-128f-4406-9192-d28c15b75167",
+    "name": "Emily Banks",
     "email": "Mathilde.Funk55@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@syoung",
+    "tiktok_handle": "@hector39",
+    "joined_at": "2025-02-09T09:03:07.539728",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "e5f1c775-873f-4bbc-9b56-eb76a77034e7",
             "brand": "Cormier, Willms and Roberts",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "033c0b81-6c5b-4e36-970d-69f9ff260b0e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://murray.com/",
+                    "likes": 351,
+                    "comments": 346,
                     "shares": 71,
                     "reach": 7722
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1741.22
         }
     ]
 }

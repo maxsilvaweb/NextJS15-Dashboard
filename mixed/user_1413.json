@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "79315279-0df3-4075-a0ab-0f76f48fb3ec",
+    "name": "Jose Smith",
+    "email": "hwilliams@example.com",
+    "instagram_handle": "@kendra67",
+    "tiktok_handle": "@selena04",
+    "joined_at": "2025-04-28T07:45:02.626907",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "06f02c8f-c908-4e34-9aad-1b4abca6ec06",
+            "brand": "Silva, Mills and Marshall",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "41287afc-6a11-4992-b251-12be973ec451",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.gutierrez.com/",
+                    "likes": 9968,
                     "comments": 25,
                     "shares": 47,
                     "reach": 3987

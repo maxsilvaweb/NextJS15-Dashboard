@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "43b08216-65d8-43c2-a36f-0c321bfd6210",
+    "name": "Adrian White",
+    "email": "sarah60@example.com",
+    "instagram_handle": "@orranthony",
+    "tiktok_handle": "@ghunter",
+    "joined_at": "2024-05-28T21:27:55.526895",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dd831154-db2a-4feb-aeda-5bac813b7eea",
+            "brand": "Jenkins-Gordon",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "99f2fe78-31b2-443e-97f7-5c03e89a473d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://white.com/",
                     "likes": 387,
-                    "comments": null,
+                    "comments": 29,
                     "shares": 5,
                     "reach": 1384
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2032.01
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "7264cc3d-9b45-41a4-a35e-b5fb6f3708a4",
+    "name": "Jennifer Frazier",
+    "email": "berryjulie@example.org",
+    "instagram_handle": "@matthew51",
     "tiktok_handle": "@Freddy67",
-    "joined_at": "not-a-date",
+    "joined_at": "2025-03-15T05:18:24.474956",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f6157538-b391-49ad-9daf-e0c5f73293c0",
+            "brand": "Archer-Patterson",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "284c2280-377e-4293-855b-85463ae67b6d",
+                    "platform": "TikTok",
+                    "post_url": "http://www.tanner-jones.com/",
                     "likes": 310,
-                    "comments": null,
+                    "comments": 489,
                     "shares": 84,
                     "reach": 4429
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3665.78
         }
     ]
 }

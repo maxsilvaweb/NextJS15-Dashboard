@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "6f03b7e1-3c47-41cf-8124-0b35b8246bf4",
     "name": "Eleanor Kohler",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "lkrause@example.net",
+    "instagram_handle": "@ubryan",
+    "tiktok_handle": "@jennifer87",
+    "joined_at": "2025-04-26T07:54:41.562540",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e3490761-6128-4243-8678-2cd714c7e66b",
+            "brand": "Clark LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5d1fd34c-01fb-43d3-8730-71958bee1382",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.thompson.com/",
+                    "likes": 2927,
+                    "comments": 205,
                     "shares": 86,
                     "reach": 5900
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 204.71
         }
     ]
 }

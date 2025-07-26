@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "23c1a9a3-9251-46f7-a627-f2e4018dd63e",
+    "name": "Renee Peterson",
     "email": "Joy.Cummings@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@leachannette",
+    "tiktok_handle": "@xwhite",
     "joined_at": "2024-12-09T20:43:12.422Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a1d8d5e4-fca2-4caa-b70b-57e126e3428f",
+            "brand": "Moss, Wilson and Ramos",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a3c20d07-3dda-49a4-8b1b-075af9c6d97c",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://ramsey.com/",
                     "likes": 95,
                     "comments": 49,
                     "shares": 39,
                     "reach": 5957
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7996.97
         }
     ]
 }

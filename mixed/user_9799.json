@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "1a56d178-cf78-4cbc-9df0-6986d84e65a3",
     "name": "Doreen Cole",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "kristi73@example.com",
+    "instagram_handle": "@keith68",
+    "tiktok_handle": "@williamsjacob",
+    "joined_at": "2024-11-16T01:19:31.841764",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "512152c8-ad0a-42e2-93d7-b4bf21863e80",
+            "brand": "Randolph-Werner",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c91e4782-4117-4526-8731-bf19b6a9faca",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://torres.info/",
+                    "likes": 8189,
+                    "comments": 225,
                     "shares": 65,
                     "reach": 9900
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1144.0
         }
     ]
 }

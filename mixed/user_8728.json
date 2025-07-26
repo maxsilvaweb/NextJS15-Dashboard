@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "890960b4-8e82-4312-8cb4-ecc5ca574fa5",
+    "name": "Benjamin Alvarez",
     "email": "Rebekah.Buckridge22@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@victoriaberry",
+    "tiktok_handle": "@cindy65",
+    "joined_at": "2024-12-16T21:55:14.896590",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3a8bc096-b9d1-4be0-9bd8-f6580bcf5c41",
+            "brand": "Aguirre-Garcia",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d4e5912c-b5bf-406a-8a8c-3e1123966d9f",
                     "platform": "TikTok",
                     "post_url": "https://yellowish-unibody.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 4340,
+                    "comments": 378,
                     "shares": 16,
                     "reach": 6792
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 590.9
         }
     ]
 }

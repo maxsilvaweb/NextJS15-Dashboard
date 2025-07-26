@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "127b1285-0b4e-44d7-82d7-f10d5851fa04",
+    "name": "Shannon Franklin",
+    "email": "randerson@example.org",
+    "instagram_handle": "@karenmccall",
+    "tiktok_handle": "@ocarrillo",
+    "joined_at": "2025-02-21T11:14:56.256548",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "91752c88-141c-481f-89dc-83c44e3f9448",
+            "brand": "Irwin-Carr",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4cb64448-e8b2-4ce7-9896-0f4a2013e350",
                     "platform": "TikTok",
                     "post_url": "https://negligible-pine.net/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7943,
+                    "comments": 43,
                     "shares": 58,
                     "reach": 6401
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2893.88
         }
     ]
 }

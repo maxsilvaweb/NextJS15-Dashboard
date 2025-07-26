@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "803ddf91-0d0c-481b-bacd-3f9a41d69908",
+    "name": "Emily King",
+    "email": "torresedwin@example.org",
+    "instagram_handle": "@chloedavis",
+    "tiktok_handle": "@kimberlyroberts",
+    "joined_at": "2024-05-12T03:35:44.471492",
     "advocacy_programs": [
         {
             "program_id": "5366a3c0-b40b-4a84-afc6-662cff6e6ffd",
-            "brand": 12345,
+            "brand": "Mckee, Moore and Hamilton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "13f81d4a-fe1a-41b9-8e24-b46c20c97795",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.edwards.com/",
+                    "likes": 244,
+                    "comments": 303,
                     "shares": 34,
                     "reach": 9278
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7863.71
         }
     ]
 }

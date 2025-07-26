@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "2a438882-cc4b-44bb-898a-3225d7f232b0",
+    "name": "Johnny Jackson",
     "email": "Kenyatta_Roberts0@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@hornemichele",
+    "tiktok_handle": "@contrerasrickey",
+    "joined_at": "2024-12-02T05:44:43.728565",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "473ed89c-45ed-45e3-adee-0543a78c09f4",
+            "brand": "Harrison-Chaney",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e19aa9da-88c2-47e5-a03f-ea192a7a96d9",
                     "platform": "Facebook",
                     "post_url": "https://empty-eyeliner.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 6948,
+                    "comments": 154,
                     "shares": 15,
                     "reach": 8488
                 }

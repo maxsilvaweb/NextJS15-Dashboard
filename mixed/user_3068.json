@@ -1,21 +1,21 @@
 {
     "user_id": "effa8835-7f77-4bc0-9ef3-787f1e376316",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Sarah Johnson",
+    "email": "qaguilar@example.com",
+    "instagram_handle": "@krystal00",
+    "tiktok_handle": "@josephburton",
+    "joined_at": "2024-10-03T22:08:15.837110",
     "advocacy_programs": [
         {
             "program_id": "51941859-9adc-4268-95ab-edf42537f94c",
             "brand": "Gutmann - Schinner",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9bb797d4-8727-41cb-8f3e-db4b6bab0b87",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.dawson.com/",
+                    "likes": 9809,
+                    "comments": 270,
                     "shares": 8,
                     "reach": 5606
                 }

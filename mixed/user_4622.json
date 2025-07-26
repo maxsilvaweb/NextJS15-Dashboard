@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "448a5f5a-b425-4c21-9d64-ad5626f7068e",
+    "name": "Steven Avila",
+    "email": "christopher54@example.com",
+    "instagram_handle": "@patricia21",
+    "tiktok_handle": "@aking",
+    "joined_at": "2025-05-16T08:29:17.445793",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d23c1777-383c-4143-825f-ff549c14b775",
+            "brand": "Rosales Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "359a20ad-4ee1-4562-8aa7-b6b26673b663",
+                    "platform": "TikTok",
+                    "post_url": "http://key.com/",
+                    "likes": 8315,
                     "comments": 7,
                     "shares": 73,
                     "reach": 2696
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3219.21
         }
     ]
 }

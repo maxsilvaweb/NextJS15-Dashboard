@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "55af5384-41ec-47fe-93bf-ba50e5587ff5",
+    "name": "Christopher Jimenez",
+    "email": "brittany29@example.net",
+    "instagram_handle": "@zwebb",
+    "tiktok_handle": "@roberthernandez",
+    "joined_at": "2025-01-21T21:15:39.066077",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f6c470e9-5a3a-4a7e-9793-a6501fd0cf3d",
+            "brand": "Howell and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "ca930d5d-36a5-45a7-a9ab-e6a756956aa2",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.alexander-hernandez.com/",
+                    "likes": 5596,
+                    "comments": 291,
                     "shares": 39,
                     "reach": 1603
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8310.28
         }
     ]
 }

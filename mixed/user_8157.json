@@ -1,26 +1,26 @@
 {
     "user_id": "d89e016d-768c-42e6-8114-7c3343bddece",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "name": "Lauren Gordon",
+    "email": "uhooper@example.com",
+    "instagram_handle": "@oellis",
     "tiktok_handle": "@Thora.Russel80",
-    "joined_at": "not-a-date",
+    "joined_at": "2023-11-21T10:56:32.062418",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3f0eb61b-1f28-4bfc-bfa8-f0eb559a5111",
+            "brand": "Sanchez Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5002e376-f73b-4b49-8450-b774ce36c15d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://meyer.org/",
+                    "likes": 2439,
                     "comments": 47,
                     "shares": 14,
                     "reach": 8345
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1320.19
         }
     ]
 }

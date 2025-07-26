@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "e604db6c-2d93-44ae-a2c1-828e72dd92cf",
+    "name": "Amy Ramirez",
+    "email": "kellywood@example.org",
     "instagram_handle": "@Carole.Stokes35",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@rayerica",
+    "joined_at": "2023-09-29T18:37:11.127077",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3ddc8c11-1ede-4976-a186-fc02eb9a5c35",
+            "brand": "Gallegos Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d2dac8d0-3be6-4d1c-9512-408fa4ef3d70",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.yates-hancock.com/",
+                    "likes": 1635,
+                    "comments": 437,
                     "shares": 75,
                     "reach": 8734
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2750.15
         }
     ]
 }

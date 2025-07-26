@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f775012a-d5e6-44a0-9606-e5320ffbabc2",
+    "name": "Charles Guerrero",
+    "email": "halljose@example.net",
+    "instagram_handle": "@vmorris",
+    "tiktok_handle": "@nicholasperez",
+    "joined_at": "2023-12-12T09:23:29.993490",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "c13269f7-0f91-4324-9c25-b87ef1fb00c9",
+            "brand": "Hall Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "faff1cea-33e7-41c3-963e-a3b7240b18ad",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://jones.info/",
                     "likes": 155,
-                    "comments": null,
+                    "comments": 107,
                     "shares": 10,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8368.85
         }
     ]
 }

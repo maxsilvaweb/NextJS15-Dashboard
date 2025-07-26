@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b297a977-94df-4c87-bca1-5cc46fb3a6c5",
+    "name": "Rodney Mcintyre",
+    "email": "nperez@example.net",
+    "instagram_handle": "@xsmith",
+    "tiktok_handle": "@ymarshall",
+    "joined_at": "2025-04-15T10:10:10.836231",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9dff079d-56ab-4ae0-bc9b-936620b2ab57",
+            "brand": "Anderson-Marshall",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "59b84f83-1c2a-489a-ad25-64f9e49f356a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.scott.com/",
+                    "likes": 6607,
+                    "comments": 51,
                     "shares": 34,
                     "reach": 3220
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3252.65
         }
     ]
 }

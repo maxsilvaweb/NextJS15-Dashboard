@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "02d8f01d-7faa-4226-8af1-5c5351cb7073",
+    "name": "Felicia Stone",
+    "email": "ashleyroach@example.net",
+    "instagram_handle": "@nathanward",
+    "tiktok_handle": "@angela11",
+    "joined_at": "2025-03-08T19:05:28.212868",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d07ac987-102d-4db7-9c99-d8292703f810",
+            "brand": "Bridges, Howell and Barrett",
             "tasks_completed": [
                 {
                     "task_id": "aad39da6-e732-4129-9055-d08726536f92",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.gibson-preston.org/",
+                    "likes": 4841,
+                    "comments": 316,
                     "shares": 69,
                     "reach": 840
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3989.57
         }
     ]
 }

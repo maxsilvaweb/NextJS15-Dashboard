@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "673c9862-1a47-40e7-89d8-0792d15f1249",
+    "name": "Brandi Williams",
+    "email": "ubenitez@example.org",
+    "instagram_handle": "@michaelnelson",
+    "tiktok_handle": "@williamtucker",
+    "joined_at": "2024-12-28T04:07:42.027736",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "708cba3f-657e-4f84-86fe-fb5f7c9fc409",
+            "brand": "Mckenzie LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e46e4bd9-b9bc-4c10-b36c-b8961d8aa42d",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.parker.org/",
+                    "likes": 5224,
+                    "comments": 215,
                     "shares": 0,
                     "reach": 2307
                 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "b021d040-a137-4d00-97ae-9a59f7937339",
+    "name": "Tiffany Evans",
+    "email": "hamiltondavid@example.com",
     "instagram_handle": "@Rachelle_Heaney",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@duartemichael",
+    "joined_at": "2023-10-11T23:35:57.764182",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f651c8cd-e92c-4ef5-9107-dbd44bdba54c",
+            "brand": "Ortiz-Smith",
             "tasks_completed": [
                 {
                     "task_id": "c2bf111f-24f1-4645-948c-d20815e7d922",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.oconnor.biz/",
+                    "likes": 4675,
+                    "comments": 263,
                     "shares": 3,
                     "reach": 5631
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 526.44
         }
     ]
 }

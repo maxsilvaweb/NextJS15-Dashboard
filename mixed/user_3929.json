@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "13cc8f2a-a45b-4576-90b1-021a6efbcb92",
+    "name": "Mrs. Amber Smith",
+    "email": "colonjamie@example.com",
+    "instagram_handle": "@oramirez",
+    "tiktok_handle": "@upeterson",
+    "joined_at": "2024-02-13T04:07:43.373617",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a8dc9e15-098a-4992-9b4f-a77f42ecdc93",
+            "brand": "Gallagher Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "f82a8740-2916-4c5f-a569-aaef782574f5",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://wilson.biz/",
+                    "likes": 1177,
+                    "comments": 419,
                     "shares": 33,
                     "reach": -1000
                 }

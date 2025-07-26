@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a8fb6756-bc9f-40a5-a372-8e950a4c0400",
+    "name": "Anthony Holt",
+    "email": "maryscott@example.org",
+    "instagram_handle": "@zcasey",
+    "tiktok_handle": "@ojohnson",
+    "joined_at": "2024-04-18T16:33:51.556165",
     "advocacy_programs": [
         {
             "program_id": "73c95cd3-0424-46b1-bb63-686b7a14a0ef",
-            "brand": 12345,
+            "brand": "Jones Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4ae79dca-144f-401d-ac38-96e1f361ee58",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://harvey.com/",
+                    "likes": 5224,
+                    "comments": 66,
                     "shares": 18,
                     "reach": 3299
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3911.91
         }
     ]
 }

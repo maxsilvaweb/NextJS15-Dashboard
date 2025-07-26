@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "74d64a62-c99d-4ed5-93b8-67fa5b5b3a9b",
+    "name": "Lawrence Roberts",
+    "email": "melody71@example.com",
     "instagram_handle": "@Charity65",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@teresa26",
+    "joined_at": "2023-10-22T08:15:44.289272",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b09cda53-ec1d-49c0-94b9-2ea7fc636072",
+            "brand": "Taylor-Cooper",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "d38510d0-90b2-4f7a-b992-a277e1c5c8fb",
+                    "platform": "YouTube",
+                    "post_url": "http://montgomery.com/",
                     "likes": 56,
-                    "comments": null,
+                    "comments": 108,
                     "shares": 96,
                     "reach": 2112
                 }

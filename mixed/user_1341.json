@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "af56a423-ec4d-4e4f-8e64-a915a4ede7b2",
+    "name": "Nicholas Munoz",
+    "email": "tara34@example.org",
+    "instagram_handle": "@christina11",
+    "tiktok_handle": "@matthewdavenport",
+    "joined_at": "2023-08-05T01:27:57.720795",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "f7df089c-f462-4b4c-97f4-9eb411c3aa68",
+            "brand": "Bell, Rowe and Jones",
             "tasks_completed": [
                 {
                     "task_id": "674bf3fc-8943-4dea-a5d9-96456961052d",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.long.com/",
+                    "likes": 2161,
+                    "comments": 151,
                     "shares": 64,
                     "reach": 9899
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 695.03
         }
     ]
 }

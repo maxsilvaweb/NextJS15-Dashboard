@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "967332dc-e670-4ea7-ac74-99ef69f5502e",
+    "name": "Brian Estrada",
+    "email": "kevinadams@example.com",
+    "instagram_handle": "@ltran",
+    "tiktok_handle": "@dawnrobinson",
+    "joined_at": "2024-12-28T05:32:09.626937",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8fe9c6af-0206-4954-8296-e2ad6ebd5dfc",
+            "brand": "Hale Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fc2dc010-248b-47ef-ab31-5345863df492",
                     "platform": "TikTok",
                     "post_url": "https://sturdy-makeover.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 1952,
+                    "comments": 44,
                     "shares": 20,
                     "reach": 6326
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4764.34
         }
     ]
 }

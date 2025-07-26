@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8b8a8f1a-5009-46ef-8c18-7d2fcb1c8a7a",
+    "name": "Craig Johnston",
+    "email": "bennettmichael@example.com",
+    "instagram_handle": "@rebeccacastillo",
+    "tiktok_handle": "@mooresherry",
+    "joined_at": "2024-05-08T11:36:32.502437",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "79bf948b-2395-4a23-b343-d4258c0b0a8a",
+            "brand": "Reyes-Walton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "271dd48a-cf7e-4e6e-8c87-c8035cf7300d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://rodriguez.org/",
                     "likes": 471,
-                    "comments": null,
+                    "comments": 112,
                     "shares": 26,
                     "reach": 5044
                 }

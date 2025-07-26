@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4a6f8fdd-9823-4c2f-ace7-fd9929555422",
+    "name": "Stephen Martinez",
+    "email": "hturner@example.net",
+    "instagram_handle": "@matthewjackson",
+    "tiktok_handle": "@elliswayne",
+    "joined_at": "2024-03-14T05:47:12.107812",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "bb8f6ecc-b82e-4b70-9d3b-7e8c5296ec39",
+            "brand": "Simpson Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "e79b7551-6bbd-45cf-bd94-5c72e900addc",
+                    "platform": "Instagram",
+                    "post_url": "http://www.peterson-brooks.com/",
+                    "likes": 5259,
                     "comments": 6,
                     "shares": 10,
                     "reach": 7673
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4154.47
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0fddf8fb-a266-421e-8e49-40e073164615",
+    "name": "Kimberly Cooley",
+    "email": "david07@example.com",
+    "instagram_handle": "@campbellcrystal",
+    "tiktok_handle": "@samantha07",
+    "joined_at": "2025-07-03T06:15:48.310554",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0879bbc9-be06-46d8-aa91-cdaec3869087",
+            "brand": "Smith-Frye",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "631c15c2-220c-4d82-a8de-53f35a7b1004",
                     "platform": "TikTok",
                     "post_url": "https://male-jacket.name",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7926,
+                    "comments": 68,
                     "shares": 12,
                     "reach": 2955
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6977.09
         }
     ]
 }

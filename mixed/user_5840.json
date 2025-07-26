@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "81d6c5f5-3306-4ce5-af1e-5eaac759abe9",
+    "name": "Beth Salazar",
+    "email": "robert65@example.net",
+    "instagram_handle": "@jwilliams",
+    "tiktok_handle": "@jessicaleonard",
+    "joined_at": "2024-04-19T15:48:07.788368",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "01c2ed16-2c07-423a-a897-071d55a3bb4a",
+            "brand": "Ramos-Perez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "77128d59-e6e0-4704-b261-25014973ec82",
+                    "platform": "TikTok",
+                    "post_url": "http://bradley.info/",
                     "likes": 360,
-                    "comments": null,
+                    "comments": 498,
                     "shares": 28,
                     "reach": 1975
                 }

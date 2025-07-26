@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e80f7fd6-b605-45dc-86ec-f0e1a1e318fb",
+    "name": "Jeffrey Henderson",
+    "email": "mannbrittany@example.net",
+    "instagram_handle": "@dhull",
+    "tiktok_handle": "@eric09",
+    "joined_at": "2023-12-27T23:52:35.234457",
     "advocacy_programs": [
         {
             "program_id": "9c1b2cad-2905-41d3-a34f-8e2250320001",
-            "brand": 12345,
+            "brand": "Graves, Harrington and Briggs",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "0edf488a-3865-4415-b9fd-10d72ffb5491",
+                    "platform": "Twitter",
                     "post_url": "https://short-term-fisherman.org/",
                     "likes": 25,
-                    "comments": null,
+                    "comments": 167,
                     "shares": 83,
                     "reach": 813
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2605.39
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "632191ea-de6b-4a02-b714-cdaa2ebe0665",
+    "name": "Raymond Mcfarland",
+    "email": "hudsoncaleb@example.org",
+    "instagram_handle": "@patrick58",
+    "tiktok_handle": "@brandonsullivan",
+    "joined_at": "2025-04-05T08:49:39.490502",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7d35f734-25f2-49f7-8a5a-2e2542336770",
+            "brand": "Johnson LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "31d00ac4-a029-498d-93b1-6fa5ea2ef4fc",
+                    "platform": "Instagram",
+                    "post_url": "http://diaz-patrick.com/",
+                    "likes": 8819,
+                    "comments": 169,
                     "shares": 18,
                     "reach": 737
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1598.34
         }
     ]
 }

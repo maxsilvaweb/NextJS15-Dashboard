@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1c24a00f-c7c8-49ad-b3e6-32034b0d12bc",
+    "name": "Troy Anderson",
+    "email": "kcline@example.org",
+    "instagram_handle": "@jaywatkins",
+    "tiktok_handle": "@fishergabriel",
+    "joined_at": "2025-01-17T02:42:01.262839",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e47c8a8a-5ec8-48fb-8f41-c0b46e37264f",
+            "brand": "Ali-Francis",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "df583056-149a-4bb2-96b3-c1b8660c7eba",
                     "platform": "Facebook",
                     "post_url": "https://only-straw.name/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 2873,
+                    "comments": 249,
                     "shares": 61,
                     "reach": 4948
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4901.23
         }
     ]
 }

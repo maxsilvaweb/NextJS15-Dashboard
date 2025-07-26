@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "7aea888b-a63e-45d4-8588-4adb5f9cb5bb",
+    "name": "Jay Thomas II",
     "email": "Juana_Ritchie@hotmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@ortegaanne",
+    "tiktok_handle": "@mikaylawhite",
+    "joined_at": "2024-02-22T12:59:57.838809",
     "advocacy_programs": [
         {
             "program_id": "5d4fc272-c9ae-4698-90a0-592981b42535",
-            "brand": 12345,
+            "brand": "Randolph, Andrews and Henry",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "aa0d350c-a4d5-4c5c-8871-7c065c3aeca4",
+                    "platform": "TikTok",
+                    "post_url": "http://wood.net/",
                     "likes": 121,
                     "comments": 3,
                     "shares": 52,
                     "reach": 6215
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8735.79
         }
     ]
 }

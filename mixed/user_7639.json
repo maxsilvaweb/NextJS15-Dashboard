@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2eef04ef-cbc4-489f-8813-922e347e72d7",
+    "name": "Nancy Diaz",
+    "email": "conwayryan@example.org",
+    "instagram_handle": "@grahambrian",
+    "tiktok_handle": "@msanchez",
+    "joined_at": "2024-08-02T14:01:21.076855",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "f407541e-e2d9-422f-a764-038a182e463f",
             "brand": "Zulauf - Schimmel",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "fa857a01-7d18-4861-96cb-cbc1c98c4e3b",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://watkins.com/",
+                    "likes": 6321,
+                    "comments": 219,
                     "shares": 12,
                     "reach": 4157
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7387.3
         }
     ]
 }

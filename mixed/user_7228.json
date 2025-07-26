@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a02f430a-544e-43c5-93cc-3a1d14865eb7",
+    "name": "Douglas Johnson",
+    "email": "williamsjulie@example.net",
+    "instagram_handle": "@joshua52",
+    "tiktok_handle": "@shepherdmeagan",
+    "joined_at": "2025-01-31T00:31:35.575430",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "a30f9fa0-cd2b-47f5-a02c-61af7538294b",
             "brand": "Bode, Botsford and Predovic",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "911f7bf8-731a-4530-8b20-d076e8a86197",
                     "platform": "TikTok",
                     "post_url": "https://sugary-pile.net/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5752,
+                    "comments": 250,
                     "shares": 61,
                     "reach": 1297
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7718.72
         }
     ]
 }

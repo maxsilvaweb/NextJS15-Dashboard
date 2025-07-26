@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2aedcc9e-da05-4165-b05e-c382966e5340",
+    "name": "Stacy Villanueva",
+    "email": "thomas84@example.org",
+    "instagram_handle": "@sanchezlori",
+    "tiktok_handle": "@christina02",
+    "joined_at": "2025-06-04T10:24:14.633315",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a9599f7f-38df-4412-9063-ef0a64d4e55b",
+            "brand": "Craig-Butler",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "592261b8-72c1-45cf-931b-318abbd62bea",
+                    "platform": "Twitter",
+                    "post_url": "http://jordan.net/",
                     "likes": 307,
-                    "comments": null,
+                    "comments": 214,
                     "shares": 14,
                     "reach": 8100
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9622.29
         }
     ]
 }

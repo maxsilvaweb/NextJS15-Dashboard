@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "6bdda1d1-cc8e-4e56-91e3-bd09c18159b4",
+    "name": "Richard Harrison",
     "email": "Raquel.Champlin@yahoo.com",
-    "instagram_handle": null,
+    "instagram_handle": "@aaronmcmillan",
     "tiktok_handle": "@Karley.Cummings95",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-01-28T10:17:40.235795",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "eaca16ca-8e00-48a6-96ad-b2f78234bb41",
+            "brand": "Marquez-Goodwin",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "513eea29-742e-4157-b74f-e1a821a7938d",
+                    "platform": "Instagram",
+                    "post_url": "https://www.carter.org/",
+                    "likes": 3433,
+                    "comments": 354,
                     "shares": 11,
                     "reach": 5390
                 }

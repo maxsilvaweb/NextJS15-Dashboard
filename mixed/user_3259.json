@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "19762f2c-27c6-407c-8f85-971806c966b9",
+    "name": "Ms. Brittney Downs",
+    "email": "apetersen@example.org",
+    "instagram_handle": "@hreed",
+    "tiktok_handle": "@joshua35",
+    "joined_at": "2024-07-18T23:17:55.825877",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "c44d21dc-cdfc-4f65-ac92-16439284298f",
             "brand": "Fahey and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "58253b8d-7cc5-4e4c-8d6e-4342afcd6dbd",
                     "platform": "TikTok",
                     "post_url": "https://aged-yak.name/",
                     "likes": 170,
-                    "comments": null,
+                    "comments": 184,
                     "shares": 66,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4851.62
         }
     ]
 }

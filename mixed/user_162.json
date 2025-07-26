@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a23e7777-86c1-47d6-a8f8-203d911aa297",
+    "name": "Gloria Bean",
+    "email": "ralph94@example.org",
+    "instagram_handle": "@roseandrew",
+    "tiktok_handle": "@johnsongordon",
+    "joined_at": "2025-01-02T20:16:30.102263",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "16e67d62-2f10-463e-8f2b-215345344eac",
             "brand": "Armstrong - Prohaska",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a5bd185d-041c-47e3-9002-1aad31e20ded",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.smith-smith.com/",
+                    "likes": 2924,
+                    "comments": 168,
                     "shares": 3,
                     "reach": 6692
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4725.5
         }
     ]
 }

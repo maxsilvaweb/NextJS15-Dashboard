@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "347331f5-ffd2-4935-9d40-4422af163cee",
+    "name": "Kimberly Frazier",
+    "email": "qmayo@example.org",
+    "instagram_handle": "@davidmiller",
+    "tiktok_handle": "@wallacejonathan",
+    "joined_at": "2023-10-08T02:01:27.965842",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "48843313-beba-4887-bb41-153794bc0b03",
+            "brand": "Adkins-Delgado",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "566afb55-dbd6-4011-afc9-88ac1fc21026",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.lane-freeman.net/",
+                    "likes": 9358,
+                    "comments": 461,
                     "shares": 71,
                     "reach": 1830
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7687.8
         }
     ]
 }

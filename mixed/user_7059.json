@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "7f0bdcb3-f572-43c6-b2a1-f1367b81a94f",
+    "name": "Daniel Meadows",
+    "email": "dhubbard@example.net",
+    "instagram_handle": "@roberta62",
+    "tiktok_handle": "@rodriguezapril",
+    "joined_at": "2023-09-14T04:47:51.123230",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "df64a5f7-c32b-4b4e-9e56-50fd96b35816",
+            "brand": "Munoz, Weaver and Martin",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "0e82a32a-a1d2-4364-9319-b320bc966e28",
+                    "platform": "Twitter",
+                    "post_url": "http://kramer.com/",
+                    "likes": 4481,
+                    "comments": 131,
                     "shares": 80,
                     "reach": 2045
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5866.89
         }
     ]
 }

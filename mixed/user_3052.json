@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5e2362c7-d524-45be-bdc0-ab3d14fcc32b",
+    "name": "Matthew Burns",
+    "email": "allenchristopher@example.org",
+    "instagram_handle": "@hendersonandrea",
+    "tiktok_handle": "@duanehernandez",
+    "joined_at": "2023-09-08T20:23:59.548589",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "56d05e3b-36b5-4db5-a41f-6c7dd9432dbb",
+            "brand": "Freeman and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "e6b1e1f2-34ed-46d7-89f7-efd4d4948cbd",
+                    "platform": "Instagram",
+                    "post_url": "https://galvan.org/",
+                    "likes": 9079,
+                    "comments": 381,
                     "shares": 60,
                     "reach": 7364
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1672.8
         }
     ]
 }

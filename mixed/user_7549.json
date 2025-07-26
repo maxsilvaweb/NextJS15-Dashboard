@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d72799c3-2956-4c51-9ea3-331835f9d7d9",
+    "name": "Patrick Dunn",
+    "email": "hancocksarah@example.org",
+    "instagram_handle": "@walterslaura",
+    "tiktok_handle": "@andreaclark",
+    "joined_at": "2025-03-09T14:56:55.194665",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "cebf5801-6a55-4f74-8094-42fb86122580",
+            "brand": "Ortiz, Mcdonald and Stevenson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0d035afa-2f1c-4699-b5ae-1f70c8b08b1f",
                     "platform": "Facebook",
                     "post_url": "https://knotty-bar.org",
-                    "likes": "NaN",
+                    "likes": 2709,
                     "comments": 46,
                     "shares": 6,
                     "reach": 4012
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7758.91
         }
     ]
 }

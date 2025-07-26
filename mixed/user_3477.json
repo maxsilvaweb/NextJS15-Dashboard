@@ -1,26 +1,26 @@
 {
     "user_id": "c78d2cf4-ace8-4be8-805e-73f1351b9bee",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Mary Morse",
+    "email": "jessicaramirez@example.com",
+    "instagram_handle": "@rli",
+    "tiktok_handle": "@chandlercatherine",
+    "joined_at": "2024-10-12T13:40:47.206408",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "019057fb-5c48-4982-be61-81babd6d524e",
+            "brand": "Harris, Sharp and Ferguson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "05b65605-636f-4f81-97af-6cc0ba5bb3f7",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://gomez.com/",
+                    "likes": 4511,
                     "comments": 38,
                     "shares": 51,
                     "reach": 6881
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9188.72
         }
     ]
 }

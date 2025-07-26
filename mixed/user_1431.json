@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f19ab391-be1f-47c6-b404-d0d972c581de",
+    "name": "Jason Ramos",
+    "email": "edwardskatherine@example.com",
+    "instagram_handle": "@margaret25",
+    "tiktok_handle": "@curtismann",
+    "joined_at": "2024-04-28T23:02:06.532807",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3ae18fe9-9d4a-4c0a-8ab7-289843adf5b6",
+            "brand": "Cruz, Clements and Lee",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "8d7952e5-be60-44c2-9919-af4deb46d16f",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.vazquez.com/",
+                    "likes": 9722,
+                    "comments": 307,
                     "shares": 53,
                     "reach": 9631
                 }

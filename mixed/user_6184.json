@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f583e697-2786-428f-9d23-b179e1503828",
+    "name": "Joseph Turner",
+    "email": "deleonmary@example.com",
+    "instagram_handle": "@wriley",
+    "tiktok_handle": "@njackson",
+    "joined_at": "2024-08-13T01:26:35.799806",
     "advocacy_programs": [
         {
             "program_id": "4448cda8-bc91-4ddf-906a-13360e78aa39",
-            "brand": 12345,
+            "brand": "Meadows, Montgomery and Alvarez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0f66084a-d829-48a1-bcce-aa71209638b3",
                     "platform": "Facebook",
                     "post_url": "https://impractical-freight.info/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 7339,
+                    "comments": 451,
                     "shares": 53,
                     "reach": 5043
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6553.85
         }
     ]
 }

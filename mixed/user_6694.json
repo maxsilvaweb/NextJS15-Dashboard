@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "81634d39-d1b8-4b6e-8a2d-79033be1a9a6",
+    "name": "Spencer Newman",
+    "email": "freemanamy@example.net",
+    "instagram_handle": "@trevorjones",
+    "tiktok_handle": "@ehubbard",
+    "joined_at": "2025-02-03T08:42:08.621410",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "31bc046b-3cc4-4294-bb00-477adb01789b",
+            "brand": "Hoover, Simpson and Brandt",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "d61c9354-01c4-4dde-a11c-d863a3398e95",
+                    "platform": "YouTube",
                     "post_url": "https://squiggly-carnival.biz/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 683,
+                    "comments": 85,
                     "shares": 41,
                     "reach": 9079
                 }

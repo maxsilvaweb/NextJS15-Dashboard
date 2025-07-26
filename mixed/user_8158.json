@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "73918b1b-29ad-4556-86c5-e08057df9f3b",
+    "name": "Brandi Woods",
+    "email": "david60@example.org",
+    "instagram_handle": "@joshua45",
     "tiktok_handle": "@Emiliano_Cassin52",
-    "joined_at": "not-a-date",
+    "joined_at": "2023-11-01T06:59:42.030480",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d60d4a37-ae98-45bf-883c-f1bb44dbac4d",
+            "brand": "Banks-Cantu",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "e0856a4b-23a7-4500-9c0d-dc63da74d5a9",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://jackson.com/",
+                    "likes": 374,
                     "comments": 11,
                     "shares": 5,
                     "reach": 7118
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7816.73
         }
     ]
 }

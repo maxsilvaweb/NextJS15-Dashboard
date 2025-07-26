@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "925f9ab4-37c2-4fd2-ac1f-c182aad0bc9f",
+    "name": "Cody Hart",
+    "email": "buckchristopher@example.com",
+    "instagram_handle": "@jennifermartin",
+    "tiktok_handle": "@laura86",
+    "joined_at": "2024-06-13T08:31:26.695181",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d8af110a-1a34-44eb-a39a-081290a4c9bf",
+            "brand": "Morrow PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "d06c5b67-f727-436d-b015-4ac1fad755bf",
+                    "platform": "YouTube",
                     "post_url": "https://legal-hierarchy.info",
                     "likes": 73,
-                    "comments": null,
+                    "comments": 279,
                     "shares": 37,
                     "reach": 7848
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3711.89
         }
     ]
 }

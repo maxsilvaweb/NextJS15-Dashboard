@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c405d5e4-90e1-40c5-8844-b4006d3f113a",
+    "name": "Kevin Robinson",
+    "email": "adamgonzalez@example.org",
+    "instagram_handle": "@kevinchen",
+    "tiktok_handle": "@kschmidt",
+    "joined_at": "2024-09-16T15:27:34.264074",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "036e9f8c-ae0a-4d3b-a5e2-b1793cf3af11",
+            "brand": "Shields Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b7c03e9c-7ada-446a-adb3-d1be651d34e6",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.ellison.org/",
+                    "likes": 9399,
+                    "comments": 224,
                     "shares": 47,
                     "reach": 8245
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 882.34
         }
     ]
 }

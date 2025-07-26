@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "654b0eaa-58cc-4afe-9a41-b78111922114",
+    "name": "Abigail Delgado",
+    "email": "john76@example.com",
+    "instagram_handle": "@xthornton",
+    "tiktok_handle": "@cookjay",
+    "joined_at": "2023-08-02T16:24:56.776660",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "3f8d8c80-ae7c-4809-a1c7-5161af8b673f",
             "brand": "O'Keefe - Braun",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1d7fc0c7-868d-419a-a263-8e2efb391e44",
                     "platform": "Facebook",
                     "post_url": "https://enraged-other.net",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 5713,
+                    "comments": 369,
                     "shares": 45,
                     "reach": 8157
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3922.67
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "f79a1c8d-aeed-42d5-be6f-80d94f3475d1",
+    "name": "Dr. Jill Parker",
+    "email": "crawfordralph@example.org",
+    "instagram_handle": "@thomas06",
+    "tiktok_handle": "@jamesmiller",
+    "joined_at": "2023-10-26T04:15:00.057981",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1f3f48d9-ff0e-4525-9652-c7ab898488cb",
+            "brand": "Page, Cox and Flores",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "11c77a03-0dc0-4b53-b2b5-2e7555c43582",
                     "platform": "Facebook",
                     "post_url": "https://zany-tenement.com",
-                    "likes": "NaN",
+                    "likes": 7127,
                     "comments": 28,
                     "shares": 48,
                     "reach": 5425
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2333.27
         }
     ]
 }

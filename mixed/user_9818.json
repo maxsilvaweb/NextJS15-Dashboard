@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "664ace4d-1788-4c5b-bf43-46600fe5c895",
+    "name": "Christopher Gonzalez",
     "email": "Raphaelle_Lang94@gmail.com",
-    "instagram_handle": null,
+    "instagram_handle": "@zholland",
     "tiktok_handle": "@Karli.Terry",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-12-30T13:41:00.101738",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "2d10d44a-47c6-45e0-9329-34ae1ee7741d",
             "brand": "Gutmann - Brakus",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bdc7547c-b0a0-4d8e-abd7-cfcd97975df6",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://www.carlson.com/",
+                    "likes": 9390,
+                    "comments": 496,
                     "shares": 33,
                     "reach": 4616
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6165.73
         }
     ]
 }

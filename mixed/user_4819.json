@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "4c27901e-223b-44fb-91df-2eca755468d8",
+    "name": "Megan Rhodes",
+    "email": "chale@example.com",
+    "instagram_handle": "@williamwhite",
+    "tiktok_handle": "@espears",
+    "joined_at": "2024-09-18T03:37:11.500307",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9939e9a3-7193-41bb-a141-9e6f54b3944b",
+            "brand": "Ward Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "bec58339-21e6-40f0-8745-c1fa31488923",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.swanson-rivas.net/",
+                    "likes": 8454,
                     "comments": 40,
                     "shares": 12,
                     "reach": 8601
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3788.02
         }
     ]
 }

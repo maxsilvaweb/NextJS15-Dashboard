@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "ceaab861-1dfd-4634-9f2f-bdccf3316a34",
+    "name": "Robert Booth",
+    "email": "christopher80@example.com",
+    "instagram_handle": "@jameswilliams",
+    "tiktok_handle": "@galvanbeth",
+    "joined_at": "2024-03-13T03:14:20.611526",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "374bee77-be50-4b96-80bd-8dbcb7880e51",
+            "brand": "Wilson, Cohen and Rivera",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "982b7dd9-9b52-41de-8477-1610d54bd0b5",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://hebert.info/",
+                    "likes": 4583,
+                    "comments": 304,
                     "shares": 44,
                     "reach": 6359
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4117.11
         }
     ]
 }

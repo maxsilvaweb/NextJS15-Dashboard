@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "8060c928-86de-4e5d-9306-bd2af8057e7d",
+    "name": "Joshua Baker",
     "email": "Sophie_Streich67@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@samantha85",
+    "tiktok_handle": "@kaylajohnson",
+    "joined_at": "2024-02-12T14:46:06.482282",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "96ea9b6a-e32a-4312-97aa-4ccc4cf254ef",
+            "brand": "Fields-Hamilton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3f1907c0-e71f-4f45-bff9-15b8f3a9bf56",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://bullock.info/",
+                    "likes": 4463,
+                    "comments": 286,
                     "shares": 6,
                     "reach": 1196
                 }

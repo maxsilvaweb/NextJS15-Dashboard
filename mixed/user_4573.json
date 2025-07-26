@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "07313e30-9b60-4c4b-99e5-3db827114f09",
+    "name": "Edward Cox",
+    "email": "brianbutler@example.org",
+    "instagram_handle": "@tina30",
+    "tiktok_handle": "@webbstephen",
+    "joined_at": "2024-04-17T08:16:12.932113",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0c6d2442-ee9c-40e7-bffc-07a9ff82ab89",
+            "brand": "Gillespie, Dennis and Hernandez",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "11e6f83a-7dcb-4ba5-97b8-cc226338657a",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://wallace-perez.net/",
                     "likes": 157,
-                    "comments": null,
+                    "comments": 332,
                     "shares": 25,
                     "reach": 7845
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6686.24
         }
     ]
 }

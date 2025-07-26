@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8daf3427-d813-4dee-9c8b-8983ef1c16d0",
+    "name": "Samantha Washington",
+    "email": "iwagner@example.com",
+    "instagram_handle": "@markcollins",
+    "tiktok_handle": "@laurafritz",
+    "joined_at": "2025-07-08T08:53:15.508574",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "d91f4501-513d-4f97-9a4b-180fb48457c4",
+            "brand": "Hart Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "afa1b493-3f97-4d12-9f1e-de0db2514dad",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://butler.com/",
+                    "likes": 7808,
+                    "comments": 360,
                     "shares": 86,
                     "reach": 9028
                 }

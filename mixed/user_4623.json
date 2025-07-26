@@ -1,26 +1,26 @@
 {
     "user_id": "783bad3a-55d5-4c2d-bdea-c2d1e27b6b95",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Mark Downs",
+    "email": "corybaird@example.com",
+    "instagram_handle": "@ericriley",
+    "tiktok_handle": "@smithmadison",
+    "joined_at": "2025-02-05T13:52:33.065030",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "31a99e32-10d2-4c63-8318-87ef903fc9e0",
+            "brand": "Molina Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "5f0fc558-e2f2-484f-ab46-6ec235c41fd9",
+                    "platform": "Twitter",
+                    "post_url": "http://www.austin.net/",
+                    "likes": 56,
+                    "comments": 165,
                     "shares": 32,
                     "reach": 8312
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9836.72
         }
     ]
 }

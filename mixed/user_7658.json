@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5e1b939b-40d4-49b7-89d1-457b9ffdbbb8",
+    "name": "Michael Nixon",
+    "email": "trevorfrazier@example.org",
+    "instagram_handle": "@tinaswanson",
+    "tiktok_handle": "@xrichard",
+    "joined_at": "2024-11-05T23:40:54.924739",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ec0f5203-3ee5-4d1c-8d35-90b698e65fa2",
+            "brand": "Reeves, Stone and Collier",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "268c4a3c-05c3-4bb4-9c4c-65259abcc509",
+                    "platform": "Twitter",
+                    "post_url": "http://www.jones.org/",
+                    "likes": 8354,
                     "comments": 18,
                     "shares": 94,
                     "reach": 6093
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6929.99
         }
     ]
 }

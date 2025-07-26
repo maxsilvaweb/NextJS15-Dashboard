@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "2758c3fc-11c8-4b26-8eb5-b0f14ca7db66",
+    "name": "Shelby Gonzalez",
+    "email": "flemingpatricia@example.org",
+    "instagram_handle": "@jrussell",
+    "tiktok_handle": "@wattsshane",
+    "joined_at": "2023-11-18T14:16:38.904132",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "967e88ba-7867-4bf9-891e-e45a81bab11d",
             "brand": "Marquardt and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "92202e87-a6de-497e-8a8d-6757769d70e4",
                     "platform": "Facebook",
                     "post_url": "https://criminal-chasuble.name",
                     "likes": 238,
-                    "comments": null,
+                    "comments": 438,
                     "shares": 79,
                     "reach": 646
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1242.05
         }
     ]
 }

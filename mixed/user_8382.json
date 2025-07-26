@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "74b4b445-12aa-4e91-9194-a4bd2a290b58",
+    "name": "Gary Daniel",
+    "email": "theresamartin@example.org",
+    "instagram_handle": "@nmorrison",
+    "tiktok_handle": "@zkim",
+    "joined_at": "2024-08-21T00:39:44.059519",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "1d67963e-019d-46c7-82d2-b521959d647f",
+            "brand": "Chan, Pruitt and Jones",
             "tasks_completed": [
                 {
                     "task_id": "a179eac2-44d3-4c9d-bde2-3b27e8f113bf",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "http://peters-perez.com/",
                     "likes": 366,
                     "comments": 29,
                     "shares": 80,
                     "reach": 8879
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4712.71
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
     "user_id": "d4e439eb-1b36-417c-bddd-0d5889820a5a",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Jacob Baker",
+    "email": "paula27@example.net",
+    "instagram_handle": "@ythompson",
+    "tiktok_handle": "@taylorheidi",
+    "joined_at": "2025-07-21T22:41:12.002566",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a46bf67e-12e0-46ae-8a5e-3163796ac5e3",
+            "brand": "Miller-Brock",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "626e29a4-24a8-4fd7-a851-75fb53f6f84d",
+                    "platform": "Instagram",
+                    "post_url": "https://www.contreras.biz/",
+                    "likes": 9619,
+                    "comments": 30,
                     "shares": 92,
                     "reach": 1310
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2936.13
         }
     ]
 }

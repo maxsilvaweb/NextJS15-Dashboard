@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1c8d1be4-1868-48c0-9115-b6a6d01820a5",
+    "name": "Mr. Gary Gross II",
+    "email": "morrisbrenda@example.net",
+    "instagram_handle": "@ddixon",
+    "tiktok_handle": "@jonathan94",
+    "joined_at": "2024-04-04T10:16:17.807570",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a9976b3f-e6ac-4183-be33-24fcc299c370",
+            "brand": "Clark, Rice and Kelly",
             "tasks_completed": [
                 {
                     "task_id": "9de5590c-a095-415c-b41c-79ec86dfd6f4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.moore-palmer.info/",
                     "likes": 191,
                     "comments": 18,
                     "shares": 57,
                     "reach": 8425
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4023.02
         }
     ]
 }

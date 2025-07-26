@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "d661f382-723c-42b6-9cb6-89c6f5ed6d22",
+    "name": "Mallory Sweeney",
+    "email": "jennifercohen@example.org",
+    "instagram_handle": "@nrodriguez",
+    "tiktok_handle": "@natasha65",
+    "joined_at": "2023-11-25T08:30:56.169378",
     "advocacy_programs": [
         {
             "program_id": "00c29c62-39f9-4f95-a7a2-bd6a3033f8e3",
-            "brand": 12345,
+            "brand": "Whitehead-Stewart",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "6e9d8f9d-721e-4c7e-9244-6861af429e14",
+                    "platform": "TikTok",
+                    "post_url": "http://anderson.com/",
+                    "likes": 1082,
+                    "comments": 182,
                     "shares": 30,
                     "reach": 6140
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 906.72
         }
     ]
 }

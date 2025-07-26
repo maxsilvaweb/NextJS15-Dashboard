@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "9b724088-7b83-482e-8711-7e3be4e35a63",
+    "name": "Dawn Watson",
     "email": "Abe.Medhurst@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "instagram_handle": "@joshua45",
+    "tiktok_handle": "@krausedustin",
     "joined_at": "2024-07-15T16:52:39.087Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e6acf17b-2c82-4ae0-bbb3-708f5cc46891",
+            "brand": "Potts, Meyer and Brown",
             "tasks_completed": [
                 {
                     "task_id": "d02c4520-9b79-4016-9b01-f472747a22d4",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://white-fry.com/",
+                    "likes": 3938,
+                    "comments": 425,
                     "shares": 86,
                     "reach": 6286
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4986.23
         }
     ]
 }

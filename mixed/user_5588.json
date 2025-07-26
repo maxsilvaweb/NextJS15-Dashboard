@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c3662886-579a-4e5a-aa36-20d0cf370a65",
+    "name": "Daniel Gallagher",
+    "email": "lawsonheather@example.org",
+    "instagram_handle": "@gmiller",
+    "tiktok_handle": "@lucasdawn",
+    "joined_at": "2024-06-04T18:19:43.112058",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8e3b6334-7a65-44a3-9697-c24da682a877",
+            "brand": "Compton, Aguilar and Martin",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "265ef926-8a70-46e0-bc44-26e45a47c6d8",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.nguyen-hernandez.com/",
                     "likes": 80,
-                    "comments": null,
+                    "comments": 450,
                     "shares": 17,
                     "reach": 3456
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7067.08
         }
     ]
 }

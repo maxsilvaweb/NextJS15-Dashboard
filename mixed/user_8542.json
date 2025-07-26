@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a2d32d26-1559-4398-ba2a-db7f0623e894",
+    "name": "Tyler Allen",
+    "email": "petershelton@example.org",
+    "instagram_handle": "@elizabethking",
+    "tiktok_handle": "@emilygarcia",
+    "joined_at": "2024-06-06T01:14:28.519151",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "b8675068-45b1-4094-bab1-1f0fac3937e2",
+            "brand": "Nguyen-Sullivan",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "5d5f4076-925e-494f-985e-a2f2b1c703d1",
+                    "platform": "Twitter",
+                    "post_url": "https://harrison-malone.com/",
+                    "likes": 1972,
+                    "comments": 418,
                     "shares": 33,
                     "reach": 3040
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6210.87
         }
     ]
 }

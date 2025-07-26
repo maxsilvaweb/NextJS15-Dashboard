@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c59de33f-b53e-4460-9c13-7b7fb6822721",
+    "name": "Michael Holmes",
+    "email": "ryan76@example.org",
+    "instagram_handle": "@tdavis",
+    "tiktok_handle": "@lrodriguez",
+    "joined_at": "2024-01-19T04:00:47.804850",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0aa57b7c-21d8-4356-886e-66dd41a9585f",
+            "brand": "Benitez, Melendez and Parker",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "a2f8c2aa-3252-4ca9-8c3b-742668de084e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://jackson-sanders.org/",
+                    "likes": 1704,
+                    "comments": 316,
                     "shares": 30,
                     "reach": 1110
                 }
@@ -23,3 +23,4 @@
             "total_sales_attributed": 3424.424637755727
         }
     ]
+}

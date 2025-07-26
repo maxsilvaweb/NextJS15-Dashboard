@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "f871dae5-61b8-404c-96c0-7a9f47f9b8e1",
+    "name": "Jennifer Torres",
+    "email": "ronald90@example.com",
     "instagram_handle": "@Lillie_Vandervort28",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@rachelmorrison",
+    "joined_at": "2024-07-25T15:10:50.357219",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "832bff31-e39e-4ec6-b749-c1c7701fa755",
+            "brand": "Jones, Skinner and Sanchez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "e85ad1b2-d890-4ff8-9308-222a9495db47",
+                    "platform": "YouTube",
                     "post_url": "https://wavy-adaptation.org/",
-                    "likes": "NaN",
+                    "likes": 5907,
                     "comments": 3,
                     "shares": 57,
                     "reach": 7025
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 5813.34
         }
     ]
 }

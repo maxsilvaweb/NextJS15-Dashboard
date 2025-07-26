@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "49142c7e-e98e-4df9-acb3-46084d027f8f",
+    "name": "Allison Harrison",
     "email": "Edyth.Champlin@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@karabarton",
+    "tiktok_handle": "@zthornton",
+    "joined_at": "2023-08-30T09:35:12.539140",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "44090051-84b7-4cc9-8865-671f8a19d46d",
+            "brand": "Jennings PLC",
             "tasks_completed": [
                 {
                     "task_id": "6d08ae68-9baa-4daf-a6f3-dc88eecece77",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.tucker.info/",
+                    "likes": 8693,
                     "comments": 14,
                     "shares": 82,
                     "reach": 9118
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6607.01
         }
     ]
 }

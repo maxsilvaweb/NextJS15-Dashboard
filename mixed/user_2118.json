@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "3f381337-a285-4cab-8f44-3819c1bf3b41",
+    "name": "Kenneth Stark",
+    "email": "christopher12@example.net",
+    "instagram_handle": "@brian83",
+    "tiktok_handle": "@judith71",
+    "joined_at": "2025-01-29T00:32:31.506334",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4b91446c-93ab-4f85-9df6-730b448f561c",
+            "brand": "Craig and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b27926c7-9625-405b-bc92-345d293b5cad",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://holloway.org/",
                     "likes": 211,
-                    "comments": null,
+                    "comments": 189,
                     "shares": 72,
                     "reach": 6045
                 }

@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "8f3e14e4-0db0-4ef5-916f-1afacac06ab6",
+    "name": "Michael Aguilar",
+    "email": "normawarren@example.com",
+    "instagram_handle": "@medinalisa",
+    "tiktok_handle": "@kevin57",
+    "joined_at": "2025-06-12T04:01:47.861316",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "ef7570d9-0027-45ad-8ffe-1bf2ec269f04",
+            "brand": "Anderson Ltd",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "7d2f35de-f5b6-4cdf-9ff0-e1f5fccb136e",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://pacheco.com/",
+                    "likes": 3907,
+                    "comments": 330,
                     "shares": 54,
                     "reach": 1018
                 }

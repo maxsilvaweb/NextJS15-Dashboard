@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "c91d9235-5f3b-4f3c-b35b-19be6bfdbdd0",
+    "name": "Carrie Berger",
+    "email": "chase73@example.org",
+    "instagram_handle": "@jennifer78",
+    "tiktok_handle": "@wwilliamson",
     "joined_at": "2024-10-26T17:55:42.928Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3642f079-2ea1-48f8-985c-196decf83143",
+            "brand": "Sims Inc",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9381165b-72e1-4f93-b281-d0175a668c41",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://barton-thomas.com/",
+                    "likes": 5339,
+                    "comments": 202,
                     "shares": 42,
                     "reach": 8766
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8391.59
         }
     ]
 }

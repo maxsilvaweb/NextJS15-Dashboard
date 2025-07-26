@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "82004f71-0946-40f1-a4f0-e960ab885cb2",
+    "name": "Robert Valentine",
+    "email": "jennifer10@example.net",
+    "instagram_handle": "@stephanie95",
+    "tiktok_handle": "@amy25",
+    "joined_at": "2023-10-02T18:48:46.215992",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "8d51700e-c1d6-4d92-a31e-168217a64730",
+            "brand": "Maldonado PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "1cffcf43-ecc4-4316-9143-8cb3bd3d5ab5",
+                    "platform": "Instagram",
+                    "post_url": "http://alvarez.org/",
+                    "likes": 5066,
+                    "comments": 59,
                     "shares": 73,
                     "reach": 2599
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3892.59
         }
     ]
 }

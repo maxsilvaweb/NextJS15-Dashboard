@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "e134229d-671f-430a-a2f9-4e2d62db72ce",
+    "name": "Joseph Diaz",
+    "email": "ashley73@example.com",
+    "instagram_handle": "@robertbridges",
+    "tiktok_handle": "@larry58",
     "joined_at": "2024-08-28T17:42:45.452Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "21756313-64d3-40cf-b60f-7dc0d5ac9603",
+            "brand": "Black, Myers and Rivera",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "5f1bc738-6f6e-4fc8-bf70-3b7d4918be0a",
+                    "platform": "TikTok",
+                    "post_url": "http://poole.com/",
+                    "likes": 2913,
+                    "comments": 334,
                     "shares": 63,
                     "reach": 4978
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6250.39
         }
     ]
 }

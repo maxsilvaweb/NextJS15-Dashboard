@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "aaaf6172-3df2-4a70-bbf6-e81ce15d5aa1",
+    "name": "Steven Richardson PhD",
+    "email": "andreanorton@example.net",
+    "instagram_handle": "@jcook",
+    "tiktok_handle": "@tking",
+    "joined_at": "2024-02-13T01:56:01.294169",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "2ca7ef14-6432-4228-b380-fe097f7067a4",
             "brand": "Schmidt - Upton",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "3ab03363-f3ef-407b-b265-ba2f98f59838",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://simmons-wilkerson.biz/",
+                    "likes": 7532,
+                    "comments": 80,
                     "shares": 74,
                     "reach": 886
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6373.24
         }
     ]
 }

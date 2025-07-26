@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5fbdec9c-70e2-4766-b53e-a660e298ae6b",
+    "name": "Mr. Taylor Perry",
+    "email": "mariejohnson@example.net",
+    "instagram_handle": "@woodsdavid",
+    "tiktok_handle": "@turnerdawn",
+    "joined_at": "2023-08-19T22:51:34.922975",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "34e84084-57d5-48a3-869b-555f5b0927cb",
+            "brand": "Long-James",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "0e50ace7-dc5a-402a-b801-e8c9c05ccf8e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://walton.com/",
+                    "likes": 8292,
+                    "comments": 407,
                     "shares": 42,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 478.6
         }
     ]
 }

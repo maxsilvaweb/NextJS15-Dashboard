@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "92701a48-0580-4c3a-8863-c1cd834b1a14",
+    "name": "Dorothy Hall",
     "email": "Agnes_Jast@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@kelseymoore",
+    "tiktok_handle": "@greendaniel",
+    "joined_at": "2024-11-01T21:18:23.231684",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0040c4df-b71e-4f63-8840-62fa37a4738c",
+            "brand": "Paul and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "62fc5b56-dd3a-41a5-90b3-ed620df6ee51",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.hess.com/",
+                    "likes": 2004,
+                    "comments": 243,
                     "shares": 30,
                     "reach": 8542
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1088.57
         }
     ]
 }

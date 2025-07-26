@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1eac8ab6-b682-4bb9-9ef1-c9c0d347fcb7",
+    "name": "Christopher Mcgee",
+    "email": "nicolelopez@example.org",
+    "instagram_handle": "@kristy85",
+    "tiktok_handle": "@ashley97",
+    "joined_at": "2024-12-05T15:14:55.085614",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9c6988e1-4475-47a9-bd01-4b3acee2e5b8",
+            "brand": "Marquez PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "01f48780-7768-4c56-aa29-56469e0e0ade",
+                    "platform": "Twitter",
                     "post_url": "https://far-nerve.info/",
-                    "likes": "NaN",
+                    "likes": 9989,
                     "comments": 24,
                     "shares": 72,
                     "reach": 3790
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6949.17
         }
     ]
 }

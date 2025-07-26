@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "b22d12ac-4134-4f86-8dcb-23e382a53d86",
+    "name": "Brenda Mcdaniel",
+    "email": "james10@example.org",
+    "instagram_handle": "@joy44",
+    "tiktok_handle": "@wpowell",
+    "joined_at": "2024-03-11T18:44:30.291684",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "14eaccfb-9108-4e22-8881-8145a53db510",
+            "brand": "Martinez-Washington",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "18827d12-5aa2-4143-aa9f-d9863401d724",
+                    "platform": "Twitter",
+                    "post_url": "https://www.wilson.com/",
+                    "likes": 4334,
+                    "comments": 365,
                     "shares": 37,
                     "reach": 5481
                 }

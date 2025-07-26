@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "43fdba83-44ef-44e9-882c-5668951c5527",
+    "name": "Christopher Mcintyre",
+    "email": "robertstrong@example.com",
+    "instagram_handle": "@brianbauer",
+    "tiktok_handle": "@andrea25",
+    "joined_at": "2024-03-28T07:17:12.711263",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "ba362f2e-d463-48a3-b160-6db7d2bf8324",
             "brand": "Hayes, Medhurst and Reinger",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "9fd64a93-f169-4644-8a50-4f92180081a0",
+                    "platform": "TikTok",
+                    "post_url": "https://www.gonzalez-collins.net/",
                     "likes": 30,
-                    "comments": null,
+                    "comments": 479,
                     "shares": 77,
                     "reach": 1244
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3677.63
         }
     ]
 }

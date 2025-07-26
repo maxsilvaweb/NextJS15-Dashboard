@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "93c1e788-ac95-46d4-bf50-017a05181d75",
     "name": "Ernestine Lynch",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "qcannon@example.com",
+    "instagram_handle": "@christinevazquez",
+    "tiktok_handle": "@orowe",
+    "joined_at": "2025-06-13T00:35:40.618098",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "09f6d6ef-b8fc-4554-aef8-b12e328d862b",
+            "brand": "Holmes, Adkins and Brown",
             "tasks_completed": [
                 {
                     "task_id": "8b40ea92-6972-4473-8b16-1e88379d8d20",
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "platform": "Instagram",
+                    "post_url": "https://howard.org/",
+                    "likes": 7391,
                     "comments": 30,
                     "shares": 60,
                     "reach": 8124
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 199.11
         }
     ]
 }

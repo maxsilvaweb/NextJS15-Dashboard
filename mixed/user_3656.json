@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a8b47c3d-0c81-4887-80f2-6e2366bef97f",
+    "name": "Kevin Doyle",
     "email": "Jarvis94@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@bfields",
+    "tiktok_handle": "@flopez",
+    "joined_at": "2025-04-27T23:23:10.426880",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fe92df5e-98fe-4818-afec-e3bf5211a56e",
+            "brand": "Archer LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "d03ca3e0-8aae-451d-9a46-12e5da76cd8c",
+                    "platform": "Twitter",
+                    "post_url": "https://odom-harrington.com/",
+                    "likes": 5413,
+                    "comments": 259,
                     "shares": 5,
                     "reach": 2795
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6171.64
         }
     ]
 }

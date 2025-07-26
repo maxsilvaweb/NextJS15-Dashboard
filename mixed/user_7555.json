@@ -1,26 +1,26 @@
 {
     "user_id": "ca07b89a-bf89-47e9-955e-32de7eb4676a",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Susan Ochoa",
+    "email": "melindatran@example.com",
+    "instagram_handle": "@justin54",
+    "tiktok_handle": "@johnadams",
+    "joined_at": "2024-02-27T07:42:15.314348",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "e0b8cc38-70a4-4260-b390-85f8535dfc6d",
+            "brand": "Robinson-Lee",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "27bec4bc-401b-4c92-938b-fd54b4d9de9d",
+                    "platform": "Instagram",
+                    "post_url": "http://pruitt.com/",
                     "likes": 209,
                     "comments": 34,
                     "shares": 76,
                     "reach": 3444
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4281.53
         }
     ]
 }

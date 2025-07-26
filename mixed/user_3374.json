@@ -1,26 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "af7ded95-9dc4-4cdb-b15b-069c8c50ec14",
     "name": "Lena Torphy IV",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "robert28@example.org",
+    "instagram_handle": "@yclayton",
+    "tiktok_handle": "@wanderson",
+    "joined_at": "2023-12-09T21:46:50.207462",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "55d3c7f4-7b1b-44fc-b98f-db8d4d3aabdc",
+            "brand": "Collins-Mitchell",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "aec591d7-cef5-45b8-bc15-decd85e4cfbc",
+                    "platform": "Twitter",
+                    "post_url": "https://caldwell-shaw.info/",
+                    "likes": 9050,
+                    "comments": 69,
                     "shares": 5,
                     "reach": 1277
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9282.12
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
+    "user_id": "bbe29507-aa17-4a37-a4f3-b73bbeafe983",
+    "name": "Mary Allen",
+    "email": "peterdunn@example.com",
+    "instagram_handle": "@aharris",
     "tiktok_handle": "@Vernon36",
-    "joined_at": "not-a-date",
+    "joined_at": "2024-01-19T01:53:16.233700",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4475249c-b559-4e95-b4f3-8711e527e948",
+            "brand": "Rangel LLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "89561215-0681-4075-8f8d-5be86be039c1",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://parker-pennington.com/",
+                    "likes": 9572,
                     "comments": 31,
                     "shares": 21,
                     "reach": 6131
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9579.27
         }
     ]
 }

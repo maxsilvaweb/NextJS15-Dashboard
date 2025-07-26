@@ -1,26 +1,26 @@
 {
     "user_id": "4bd092c1-0ee5-4e08-a060-c0e8d06c2099",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Ashley Caldwell",
+    "email": "jamesdaugherty@example.org",
+    "instagram_handle": "@oeaton",
+    "tiktok_handle": "@rodriguezbrett",
+    "joined_at": "2024-02-28T12:49:31.536953",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "5a5b8fd1-6d26-4c92-8f4d-409f7d00fa0e",
+            "brand": "Jackson-Hall",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "9814f260-3a5d-452e-b637-42d1116c84c4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://clark.info/",
+                    "likes": 1743,
+                    "comments": 259,
                     "shares": 78,
                     "reach": 7663
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 368.14
         }
     ]
 }

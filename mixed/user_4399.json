@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
+    "user_id": "d6aa86b0-ec87-4161-a5e1-5c1419cd9f69",
+    "name": "Lindsay Fisher",
+    "email": "teresa33@example.net",
+    "instagram_handle": "@tyler92",
+    "tiktok_handle": "@annagordon",
     "joined_at": "2025-01-22T14:52:20.244Z",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a2c5f14e-b5cc-4982-9537-6d8bb75341d2",
+            "brand": "Hickman and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "934ca3db-31c1-44c8-825a-bdf6fe7b4013",
+                    "platform": "YouTube",
+                    "post_url": "https://strickland.com/",
                     "likes": 362,
-                    "comments": null,
+                    "comments": 420,
                     "shares": 23,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2496.23
         }
     ]
 }

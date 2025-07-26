@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "37cca105-cde0-40d4-a11b-df6cda30e7d0",
+    "name": "Christopher Taylor",
+    "email": "wendyterry@example.net",
+    "instagram_handle": "@matthew30",
+    "tiktok_handle": "@pphillips",
+    "joined_at": "2023-09-08T13:57:59.298541",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "6b767d2f-70ea-4951-9c3d-2f5d8432ba30",
+            "brand": "Taylor, Green and Williams",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "1c60f2d3-c303-4725-af4c-24ffeeb529f0",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://www.vasquez-patterson.com/",
                     "likes": 382,
-                    "comments": null,
+                    "comments": 389,
                     "shares": 1,
                     "reach": 3151
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4277.34
         }
     ]
 }

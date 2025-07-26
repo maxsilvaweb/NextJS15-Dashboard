@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "04600ec8-63b7-4a6d-ba00-a26db26eb6ce",
+    "name": "Robert Stein",
+    "email": "egarcia@example.net",
+    "instagram_handle": "@scottheather",
+    "tiktok_handle": "@johnsonwilliam",
+    "joined_at": "2025-02-16T09:42:02.913457",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "a2e95bf5-3f78-415a-8a47-356606b3adbb",
             "brand": "Kihn - Hoeger",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "276c917a-8be7-4be9-ab98-d48526e8a018",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.russell.com/",
+                    "likes": 897,
+                    "comments": 287,
                     "shares": 45,
                     "reach": 7297
                 }

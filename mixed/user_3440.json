@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1b8ff6be-b265-418a-a70d-f9e9dd2967fc",
+    "name": "Jonathan Snyder",
+    "email": "wwood@example.net",
+    "instagram_handle": "@lewiskathleen",
+    "tiktok_handle": "@alvarezvalerie",
+    "joined_at": "2025-03-25T13:04:43.190877",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "916d1de7-e747-48d3-9873-217e997c881f",
+            "brand": "Petersen PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b7b9227c-2014-4527-8e86-396e6d25abef",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.warren-thomas.org/",
+                    "likes": 9314,
+                    "comments": 175,
                     "shares": 83,
                     "reach": 1084
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9577.08
         }
     ]
 }

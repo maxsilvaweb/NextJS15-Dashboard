@@ -1,25 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "be75425f-cfd1-41df-bc84-02cd7622dfcb",
+    "name": "Kara Harvey",
     "email": "Haskell77@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@fernandezzachary",
+    "tiktok_handle": "@kathryn68",
+    "joined_at": "2023-08-06T16:05:26.561470",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "4bc14c74-50d3-4c0e-a839-aba4b682e39f",
             "brand": "Miller Inc",
             "tasks_completed": [
                 {
                     "task_id": "78c18b01-7adb-4c77-a516-b869ecf627ff",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
+                    "post_url": "https://smith.info/",
                     "likes": 120,
                     "comments": 23,
                     "shares": 50,
                     "reach": 7163
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1073.0
         }
     ]
+}

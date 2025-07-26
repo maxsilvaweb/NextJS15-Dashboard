@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "50341c59-c2d2-4678-bb55-cc86e3531c87",
+    "name": "Kayla Kelly",
+    "email": "rodriguezjoe@example.com",
+    "instagram_handle": "@ayalashawn",
+    "tiktok_handle": "@perezrhonda",
+    "joined_at": "2023-11-19T04:17:12.176898",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "0c9b0d6c-508c-48a9-bea7-1e371617f3c5",
+            "brand": "Turner, Terrell and Ward",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d06a0577-a922-415e-8194-2a56fcaef535",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.henderson.com/",
+                    "likes": 8078,
+                    "comments": 325,
                     "shares": 36,
                     "reach": 8831
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2015.35
         }
     ]
 }

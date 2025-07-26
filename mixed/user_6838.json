@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "51b16423-769f-4d4c-bf3b-43ee8e70a78e",
+    "name": "Steven Watson",
     "email": "Branson77@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@pcrawford",
+    "tiktok_handle": "@pattersonryan",
+    "joined_at": "2023-12-26T12:22:23.069319",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "fc781426-fb61-4315-a9bf-1afaf061b338",
+            "brand": "Hamilton and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "d2cbe521-29d7-4152-b470-4bb724bb492c",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://evans-jackson.biz/",
+                    "likes": 2472,
+                    "comments": 337,
                     "shares": 8,
                     "reach": -1000
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4717.91
         }
     ]
 }

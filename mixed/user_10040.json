@@ -1,26 +1,26 @@
 {
-  "user_id": "1d02748e-22d0-422d-173b-13d722e2ae39",
-  "name": "Max Silva390000",
-  "email": "maxsilvvauk@39wwilwweeewd.com",
-  "instagram_handle": null,
-  "tiktok_handle": "#error_handle",
-  "joined_at": "not-a-date",
-  "advocacy_programs": [
-    {
-      "program_id": "",
-      "brand": 12345,
-      "tasks_completed": [
+    "user_id": "1d02748e-22d0-422d-173b-13d722e2ae39",
+    "name": "Max Silva390000",
+    "email": "maxsilvvauk@39wwilwweeewd.com",
+    "instagram_handle": "@brittany42",
+    "tiktok_handle": "@patrick00",
+    "joined_at": "2024-08-22T17:01:09.029444",
+    "advocacy_programs": [
         {
-          "task_id": null,
-          "platform": "TikTok",
-          "post_url": "broken_link",
-          "likes": 455,
-          "comments": 0,
-          "shares": 68,
-          "reach": 2220
+            "program_id": "3aa6df3f-6e1d-418b-9949-54fb27b105a2",
+            "brand": "Cole Group",
+            "tasks_completed": [
+                {
+                    "task_id": "af138d66-78b2-484e-bb11-70c0615c5f98",
+                    "platform": "TikTok",
+                    "post_url": "http://diaz-thomas.biz/",
+                    "likes": 455,
+                    "comments": 0,
+                    "shares": 68,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 4304.22
         }
-      ],
-      "total_sales_attributed": "no-data"
-    }
-  ]
+    ]
 }

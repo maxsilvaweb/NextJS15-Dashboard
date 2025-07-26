@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e1934fef-cbd0-49f1-8d3b-7810fdadc211",
+    "name": "Stacy Medina",
+    "email": "fgonzales@example.org",
+    "instagram_handle": "@beardheidi",
+    "tiktok_handle": "@gomezpamela",
+    "joined_at": "2023-12-29T20:52:23.620876",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "82b9e4d5-c9c6-4d85-831e-d19801aae402",
+            "brand": "Martinez-Terry",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "10ae4df3-d197-4297-8949-27d3fcf4865d",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.morrison.com/",
+                    "likes": 5069,
+                    "comments": 265,
                     "shares": 66,
                     "reach": 3988
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7294.89
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "503e93f8-feee-4426-a613-967a3359df2b",
+    "name": "Alicia Benjamin",
+    "email": "fleminglori@example.org",
+    "instagram_handle": "@jessicafisher",
+    "tiktok_handle": "@ashleywilkinson",
+    "joined_at": "2023-09-12T17:29:39.293916",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "a36a93c2-a1c5-40df-9abd-90422472848d",
+            "brand": "Tran, Rice and Ramirez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "a3e3f610-f46b-4bd7-9204-c329fb66c189",
+                    "platform": "TikTok",
                     "post_url": "https://fine-perp.net/",
-                    "likes": "NaN",
+                    "likes": 4947,
                     "comments": 32,
                     "shares": 19,
                     "reach": 6414
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1835.3
         }
     ]
 }

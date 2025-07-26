@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5f2ee9e7-849a-4397-9052-07f649cc548d",
+    "name": "Michael Thompson",
+    "email": "nicole90@example.com",
+    "instagram_handle": "@bryanwells",
+    "tiktok_handle": "@vlamb",
+    "joined_at": "2024-06-13T03:34:33.856379",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "57be814b-e73d-4e64-b0dc-3c9fe585ac59",
+            "brand": "Riggs, Stephens and Murphy",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b9548939-edf4-4c93-b273-8432619a6ca8",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://www.webb.com/",
+                    "likes": 7237,
+                    "comments": 125,
                     "shares": 9,
                     "reach": 7172
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 7466.02
         }
     ]
 }

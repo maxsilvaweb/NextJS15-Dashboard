@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c063b9d5-9782-4cd6-98cf-b6637f40fa4d",
+    "name": "David Spencer",
+    "email": "kathleenbailey@example.com",
+    "instagram_handle": "@danielhopkins",
+    "tiktok_handle": "@vangjason",
+    "joined_at": "2024-05-04T17:16:04.521724",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "dc7f87a0-2ac8-4630-9fe2-f5350f2b9b17",
+            "brand": "Brown-Calhoun",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "ee10ecb8-1674-4f07-91be-6c8fcc8a4bf0",
+                    "platform": "Twitter",
+                    "post_url": "http://lynch-duffy.com/",
                     "likes": 450,
-                    "comments": null,
+                    "comments": 36,
                     "shares": 67,
                     "reach": 7975
                 }

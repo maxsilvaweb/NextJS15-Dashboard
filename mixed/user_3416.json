@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "c14d205a-97c4-419c-8e5e-6d295636a6a8",
+    "name": "Tammy Blankenship",
     "email": "Estefania_Olson@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@jonsalazar",
+    "tiktok_handle": "@rachel58",
+    "joined_at": "2025-02-16T22:32:03.551227",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "564c0ba5-e196-4abc-b122-479676ce016f",
+            "brand": "Miller, Johnson and Ruiz",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "9324b782-4ba2-45d5-a196-c0ad31d6d12d",
+                    "platform": "Twitter",
+                    "post_url": "https://www.huff.info/",
+                    "likes": 4403,
                     "comments": 37,
                     "shares": 62,
                     "reach": 4070

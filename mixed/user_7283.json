@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "c1b32114-2f52-49c3-a40d-18d203e4277e",
+    "name": "Christine Smith",
+    "email": "dramos@example.net",
+    "instagram_handle": "@reyeskevin",
+    "tiktok_handle": "@bking",
+    "joined_at": "2025-01-10T02:46:50.199219",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "56e97322-084d-4e51-a3af-8d5e0538e364",
+            "brand": "Gutierrez PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "5853bc96-3b95-4cb5-bfef-fc97c90720b4",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "https://www.morrow.org/",
+                    "likes": 1495,
                     "comments": 7,
                     "shares": 62,
                     "reach": 1007
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 391.02
         }
     ]
 }

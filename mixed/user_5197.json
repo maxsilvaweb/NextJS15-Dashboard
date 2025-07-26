@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "9c2c09af-3a31-4bea-b0f0-6af4fc6b283a",
+    "name": "Erica Young",
     "email": "Melba74@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@daniel11",
+    "tiktok_handle": "@ublackburn",
+    "joined_at": "2024-11-21T11:44:15.367146",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3a527867-8bcf-4572-8824-c862c7d1ad6e",
+            "brand": "Davis, Miller and Ray",
             "tasks_completed": [
                 {
                     "task_id": "0fb0aded-8edf-4623-9904-0551e4cf469e",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://www.burns-carter.com/",
+                    "likes": 804,
                     "comments": 27,
                     "shares": 77,
                     "reach": 1457

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "e36a5706-5692-44af-a31b-151eadf424d4",
+    "name": "Colleen Garza",
     "email": "Cleveland_Feil@yahoo.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@holly11",
+    "tiktok_handle": "@debra86",
+    "joined_at": "2024-11-28T04:18:15.853417",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "4bb1223a-b31c-41c4-b225-b0ea06428237",
+            "brand": "Atkinson-Taylor",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "99f3cb34-7e26-45b7-9d60-b5ffa6ccff97",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://phillips.net/",
+                    "likes": 8563,
                     "comments": 42,
                     "shares": 64,
                     "reach": 1567
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9966.25
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "386f2d24-8ee1-4b63-8ff2-3bfc4b04a5a6",
+    "name": "Nicole Perez",
+    "email": "dwatson@example.com",
+    "instagram_handle": "@abriggs",
+    "tiktok_handle": "@jennifermartin",
+    "joined_at": "2024-05-24T18:47:24.896732",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "07e318fa-6a3b-4f58-a781-d80f9908a291",
+            "brand": "Bailey, Martinez and Bailey",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "6f109690-4d51-4047-b511-05143f201d35",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://rasmussen.com/",
+                    "likes": 1178,
+                    "comments": 414,
                     "shares": 85,
                     "reach": 3052
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 9607.78
         }
     ]
 }

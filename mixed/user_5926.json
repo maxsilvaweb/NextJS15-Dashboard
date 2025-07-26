@@ -1,19 +1,19 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "6be2daec-599f-4831-bcc4-3a8130860312",
+    "name": "Anthony Obrien",
+    "email": "johnny20@example.com",
+    "instagram_handle": "@perezbrian",
+    "tiktok_handle": "@vpena",
+    "joined_at": "2024-10-02T02:22:11.164663",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3aac57f1-ce1e-4c8a-b51c-3223434fc0bb",
+            "brand": "Jimenez and Sons",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "eb0b59ea-f340-4d01-ae49-95c74b7bac03",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
+                    "post_url": "http://leonard.net/",
                     "likes": 367,
                     "comments": 31,
                     "shares": 63,

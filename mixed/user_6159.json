@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "a841d881-4493-4adc-b5f7-52441fd00b15",
+    "name": "Bill Norris",
+    "email": "wyattscott@example.com",
+    "instagram_handle": "@lydiasimmons",
+    "tiktok_handle": "@timothywise",
+    "joined_at": "2025-03-06T06:50:25.890583",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "012a3fa9-269a-4d89-aa14-3b32310dd028",
+            "brand": "Haas-Robinson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c07444bb-7f26-4414-84fa-a60e590a0e87",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "https://larson.com/",
+                    "likes": 4175,
+                    "comments": 401,
                     "shares": 7,
                     "reach": 9650
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2237.2
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0e62fb85-1bb1-4b68-a4b2-5d703eac42da",
+    "name": "William Lynch",
+    "email": "williamstammy@example.org",
+    "instagram_handle": "@perrylaura",
+    "tiktok_handle": "@patrick19",
+    "joined_at": "2024-11-03T05:58:00.848402",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "dc989725-7b9e-4e85-8d5d-a7ec9d05b085",
             "brand": "Wilderman Group",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "b198156f-335e-40f3-8798-adb3178882c4",
                     "platform": "TikTok",
                     "post_url": "https://homely-accompanist.info",
-                    "likes": "NaN",
+                    "likes": 3308,
                     "comments": 42,
                     "shares": 80,
                     "reach": 3913

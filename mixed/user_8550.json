@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "7a84e617-e7ef-4929-b594-c350f3a42f3f",
+    "name": "James Steele",
+    "email": "taylorjoseph@example.net",
     "instagram_handle": "@Freida.Schinner96",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@george30",
+    "joined_at": "2024-01-21T05:19:21.669602",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3b701a92-aa35-4448-b133-34ed845fcfe1",
+            "brand": "Jones-Atkinson",
             "tasks_completed": [
                 {
                     "task_id": "587410b0-b760-4f82-b33c-f896f9899c92",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "post_url": "http://hunt.com/",
+                    "likes": 1734,
                     "comments": 16,
                     "shares": 72,
                     "reach": 5535
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6985.93
         }
     ]
 }

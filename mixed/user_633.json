@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "9859d2c1-8a79-4815-9505-e30f21204a97",
+    "name": "Amanda Thomas",
+    "email": "angelacooper@example.com",
+    "instagram_handle": "@davidknox",
+    "tiktok_handle": "@rrivera",
+    "joined_at": "2024-02-03T20:39:16.056875",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2e5ced5e-63ca-4838-8e21-9433cc87800c",
+            "brand": "Lee-Pace",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "df73e34c-c781-483e-8e66-c477a695b0ed",
+                    "platform": "TikTok",
+                    "post_url": "http://house-hall.info/",
+                    "likes": 6035,
+                    "comments": 225,
                     "shares": 4,
                     "reach": 7771
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8418.29
         }
     ]
 }

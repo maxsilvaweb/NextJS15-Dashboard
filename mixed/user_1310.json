@@ -1,26 +1,26 @@
 {
     "user_id": "5840122f-3fc2-488c-b416-468102136ee0",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Rhonda Garrett",
+    "email": "whughes@example.com",
+    "instagram_handle": "@dhernandez",
+    "tiktok_handle": "@jessicamendez",
+    "joined_at": "2024-12-16T11:32:36.520635",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "da0aa936-2a74-452b-9508-0b59ede7c645",
+            "brand": "Jones, Harris and Newton",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "aefdf42e-e149-4387-98c8-6336e7d6fd61",
+                    "platform": "Instagram",
+                    "post_url": "http://www.wilson.com/",
+                    "likes": 8040,
+                    "comments": 97,
                     "shares": 15,
                     "reach": 7647
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 4996.19
         }
     ]
 }

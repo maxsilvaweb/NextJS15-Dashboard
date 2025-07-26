@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "baede2a1-0c89-4dd7-a902-12e0e25f1650",
+    "name": "Theresa Wheeler",
+    "email": "sarah52@example.com",
+    "instagram_handle": "@timothy53",
+    "tiktok_handle": "@lisanavarro",
+    "joined_at": "2023-09-03T12:30:44.647784",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "7f868010-f081-4662-b8de-852626b4b51c",
+            "brand": "Dominguez, Austin and Robles",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
+                    "task_id": "e3b919c8-b44d-4c13-8cad-287f6d5aedf7",
+                    "platform": "Instagram",
+                    "post_url": "https://schneider-davis.org/",
                     "likes": 368,
-                    "comments": null,
+                    "comments": 410,
                     "shares": 71,
                     "reach": 6636
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 6775.78
         }
     ]
 }

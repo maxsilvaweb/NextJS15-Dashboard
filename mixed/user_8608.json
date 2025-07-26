@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "0a5dd874-1ed8-4d17-acb8-5afbdc262fc0",
+    "name": "Daniel Henderson",
+    "email": "margaretharvey@example.org",
+    "instagram_handle": "@evansjocelyn",
+    "tiktok_handle": "@felicia26",
+    "joined_at": "2023-12-06T23:52:49.098393",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "3f811e54-5cb7-41fc-9209-539826df0d03",
+            "brand": "Shah, Dyer and Gilbert",
             "tasks_completed": [
                 {
                     "task_id": "663cc292-8321-45b9-9061-521dcb2d34e1",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://gallegos.biz/",
+                    "likes": 1777,
+                    "comments": 287,
                     "shares": 63,
                     "reach": 2255
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8924.77
         }
     ]
 }

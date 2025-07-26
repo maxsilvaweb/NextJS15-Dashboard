@@ -1,25 +1,26 @@
 {
-    "user_id": null,
+    "user_id": "4f9082b7-2c45-4350-8957-b4f9854639ff",
     "name": "Marilyn Goldner",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "email": "garygreene@example.org",
+    "instagram_handle": "@jessica44",
+    "tiktok_handle": "@gibbslisa",
+    "joined_at": "2024-12-15T17:00:32.365825",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "929813e1-de39-47cc-a64d-364d0eab98bd",
+            "brand": "Lewis, May and Lewis",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
+                    "task_id": "05f99c0d-b3bb-4753-9d5c-cbd29668e6bb",
+                    "platform": "Twitter",
                     "post_url": "https://first-suitcase.info",
                     "likes": 247,
-                    "comments": null,
+                    "comments": 49,
                     "shares": 23,
                     "reach": 2216
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 8492.47
         }
     ]
+}

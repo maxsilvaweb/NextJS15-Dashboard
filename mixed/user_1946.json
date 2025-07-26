@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "5ee73e06-ab27-4cd6-beb9-4d5f0258b860",
+    "name": "Peter Ramos",
+    "email": "lori15@example.org",
+    "instagram_handle": "@hopkinsrandall",
+    "tiktok_handle": "@eduffy",
+    "joined_at": "2024-11-02T14:21:19.215846",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "744d6902-83ec-4ea4-ae3e-b5953185717d",
+            "brand": "Gill, Moody and Stevenson",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "dfc27138-6ae6-4536-81b8-22105fde38b3",
                     "platform": "TikTok",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://hall.com/",
+                    "likes": 9069,
+                    "comments": 405,
                     "shares": 20,
                     "reach": 2100
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2084.15
         }
     ]
 }

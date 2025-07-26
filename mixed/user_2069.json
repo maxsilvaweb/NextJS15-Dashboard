@@ -1,20 +1,20 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "e0969278-2586-447f-afdd-39981cdf5d1f",
+    "name": "Alexandria Campbell",
+    "email": "floresnicholas@example.org",
+    "instagram_handle": "@chungyolanda",
+    "tiktok_handle": "@gsloan",
+    "joined_at": "2025-04-22T10:59:26.324841",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "26fcdbe6-cd4a-4cb1-a65b-858aa16c0f04",
+            "brand": "Cooper-Rose",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
+                    "task_id": "cb29f10e-a627-4fb6-b55f-5acbb152b1a7",
+                    "platform": "TikTok",
+                    "post_url": "https://www.wagner.com/",
+                    "likes": 5581,
                     "comments": 23,
                     "shares": 20,
                     "reach": 7546

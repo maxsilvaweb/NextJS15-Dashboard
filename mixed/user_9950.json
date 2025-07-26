@@ -1,21 +1,21 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "1df781b1-62e3-4e03-9e44-c8321f264989",
+    "name": "Kristin Glenn",
+    "email": "burgesssarah@example.com",
+    "instagram_handle": "@adamwright",
+    "tiktok_handle": "@richard42",
+    "joined_at": "2024-01-03T23:37:58.065209",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "84bc0521-7a53-4a6d-958e-2d6c7fa3664b",
+            "brand": "Little-Owen",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "8cea30c2-3e55-443a-aca6-89cb7cbcf3d2",
+                    "platform": "TikTok",
+                    "post_url": "https://drake.info/",
+                    "likes": 33,
+                    "comments": 280,
                     "shares": 47,
                     "reach": 7644
                 }

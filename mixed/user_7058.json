@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "29ed60f7-31cb-4e3c-86fc-db5ce49b919f",
+    "name": "Lori Charles",
+    "email": "brandonbrown@example.org",
+    "instagram_handle": "@johnnygreene",
+    "tiktok_handle": "@hilldouglas",
+    "joined_at": "2024-10-15T16:32:32.917468",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "19e2a62e-de2c-4101-9de3-4ca4f2425a2c",
+            "brand": "Brown-Vega",
             "tasks_completed": [
                 {
                     "task_id": "8b460af1-28fb-47bf-a045-2fca9f4b1b02",
                     "platform": "Facebook",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://munoz-kramer.com/",
+                    "likes": 4935,
+                    "comments": 274,
                     "shares": 24,
                     "reach": 4706
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 3348.54
         }
     ]
 }

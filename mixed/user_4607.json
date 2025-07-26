@@ -1,17 +1,17 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "user_id": "321e9275-aaa6-4fae-bb4d-d5250710a84d",
+    "name": "Cathy Ellis",
+    "email": "johnsonkevin@example.org",
+    "instagram_handle": "@brandimerritt",
+    "tiktok_handle": "@snydertammy",
+    "joined_at": "2024-03-08T11:40:16.098090",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "9415ba94-ecf4-451b-8b5e-51c6b8e43f77",
+            "brand": "White PLC",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "c841f638-c62c-4370-95c3-2a2e79b80f49",
                     "platform": "TikTok",
                     "post_url": "https://quick-witted-puritan.org",
                     "likes": 196,
@@ -20,7 +20,7 @@
                     "reach": 1960
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1774.04
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
-    "email": "invalid-email",
+    "user_id": "902d9a9e-48e8-40bc-b559-bcfe14c4aed1",
+    "name": "Jeffrey Olson",
+    "email": "kristicruz@example.net",
     "instagram_handle": "@Chelsie_Grant76",
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "tiktok_handle": "@jenniferscott",
+    "joined_at": "2025-05-28T04:18:48.487972",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "16d5e0c3-70ef-4a25-a456-31bd793b9ade",
+            "brand": "Smith-Hernandez",
             "tasks_completed": [
                 {
-                    "task_id": null,
-                    "platform": 123,
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "task_id": "79c86698-79ac-4143-9d18-aed4de9f2fcb",
+                    "platform": "Twitter",
+                    "post_url": "http://www.curtis-pacheco.info/",
+                    "likes": 8254,
+                    "comments": 11,
                     "shares": 46,
                     "reach": 9831
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 2517.78
         }
     ]
 }

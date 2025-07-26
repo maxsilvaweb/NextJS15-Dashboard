@@ -1,26 +1,26 @@
 {
-    "user_id": null,
-    "name": "???",
+    "user_id": "a9507100-df34-4564-967b-be61ac5a432a",
+    "name": "Kelly Pearson",
     "email": "Nichole_Gorczany20@gmail.com",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "instagram_handle": "@vbaker",
+    "tiktok_handle": "@ghall",
+    "joined_at": "2024-06-12T06:08:57.129491",
     "advocacy_programs": [
         {
-            "program_id": "",
+            "program_id": "46f937ca-b574-45d7-865b-14003003eda0",
             "brand": "Herzog, Welch and Gottlieb",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "34bf2c50-7bbe-4a8d-b81b-353a5ab0961f",
                     "platform": "Instagram",
-                    "post_url": "broken_link",
-                    "likes": "NaN",
-                    "comments": null,
+                    "post_url": "http://gutierrez.org/",
+                    "likes": 1113,
+                    "comments": 410,
                     "shares": 3,
                     "reach": 3152
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1089.87
         }
     ]
 }

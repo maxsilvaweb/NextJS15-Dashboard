@@ -1,26 +1,26 @@
 {
     "user_id": "8e8084aa-29db-4569-8fa3-75e0c425a055",
-    "name": "???",
-    "email": "invalid-email",
-    "instagram_handle": null,
-    "tiktok_handle": "#error_handle",
-    "joined_at": "not-a-date",
+    "name": "Kristopher Steele",
+    "email": "vcole@example.org",
+    "instagram_handle": "@buchananjoshua",
+    "tiktok_handle": "@stantoncynthia",
+    "joined_at": "2025-01-14T00:39:23.726619",
     "advocacy_programs": [
         {
-            "program_id": "",
-            "brand": 12345,
+            "program_id": "2f0450aa-a553-4c90-ab4c-3cf39c674a7b",
+            "brand": "Mullen-Grant",
             "tasks_completed": [
                 {
-                    "task_id": null,
+                    "task_id": "4fe23352-ff2e-4f61-a17e-28b538dbd222",
                     "platform": "Facebook",
                     "post_url": "https://mushy-space.com/",
-                    "likes": "NaN",
-                    "comments": null,
+                    "likes": 3976,
+                    "comments": 436,
                     "shares": 94,
                     "reach": 7784
                 }
             ],
-            "total_sales_attributed": "no-data"
+            "total_sales_attributed": 1240.05
         }
     ]
 }
