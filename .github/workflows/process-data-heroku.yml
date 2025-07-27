@@ -54,5 +54,5 @@ jobs:
         env:
           HEROKU_DATABASE_URL: ${{ secrets.HEROKU_DATABASE_URL }}
         run: |
-          python upload_to_postgres_heroku.py
+          python uploader.py
           echo "Data uploaded to Heroku PostgreSQL"
