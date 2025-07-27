@@ -1,0 +1,26 @@
+{
+    "user_id": "2e53dc7b-2b05-4898-a0aa-032e23ea32fc",
+    "name": "Sharon Romero",
+    "email": "xjordan@example.com",
+    "instagram_handle": "@yhawkins",
+    "tiktok_handle": "@susan40",
+    "joined_at": "2024-08-13T06:33:07.391520",
+    "advocacy_programs": [
+        {
+            "program_id": "ba9d5165-ea41-48d7-9ed3-a5155436eb70",
+            "brand": "Barron Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "2cbc2821-7c69-4152-86ef-0ed080a2e923",
+                    "platform": "YouTube",
+                    "post_url": "https://www.adkins-avila.com/",
+                    "likes": 1118,
+                    "comments": 486,
+                    "shares": 3,
+                    "reach": 3217
+                }
+            ],
+            "total_sales_attributed": 3420.8015955204755
+        }
+    ]
+}

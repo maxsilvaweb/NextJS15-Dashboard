@@ -1,0 +1,26 @@
+{
+    "user_id": "64bc56e4-5126-4982-9be2-33f08e6933fd",
+    "name": "Heather Moon",
+    "email": "jerry80@example.net",
+    "instagram_handle": "@theresa53",
+    "tiktok_handle": "@carolyn78",
+    "joined_at": "2024-04-04T08:27:04.304205",
+    "advocacy_programs": [
+        {
+            "program_id": "e3e81777-b2ff-4fa1-a7f6-4d405d8a0c4c",
+            "brand": "Blair Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "c23bd29f-28d4-4cd2-94b7-da15425e9fe9",
+                    "platform": "Facebook",
+                    "post_url": "https://sour-printer.com",
+                    "likes": 4881,
+                    "comments": 365,
+                    "shares": 20,
+                    "reach": 703
+                }
+            ],
+            "total_sales_attributed": 2002.72
+        }
+    ]
+}

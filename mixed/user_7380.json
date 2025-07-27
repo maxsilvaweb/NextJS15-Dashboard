@@ -1,0 +1,26 @@
+{
+    "user_id": "c1c6ee9e-052a-4a1c-9b6d-ad344a4d3f17",
+    "name": "Tanner Mendez",
+    "email": "luis53@example.net",
+    "instagram_handle": "@margaretcopeland",
+    "tiktok_handle": "@ashleystafford",
+    "joined_at": "2024-08-10T15:45:44.359Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4d6efc6d-32e3-411a-adfc-410658bc2443",
+            "brand": "Barrera Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "6b5bd31c-811a-4ea4-90f6-84a1b469495c",
+                    "platform": "TikTok",
+                    "post_url": "http://www.williams.net/",
+                    "likes": 4313,
+                    "comments": 374,
+                    "shares": 93,
+                    "reach": 6802
+                }
+            ],
+            "total_sales_attributed": 1504.04
+        }
+    ]
+}

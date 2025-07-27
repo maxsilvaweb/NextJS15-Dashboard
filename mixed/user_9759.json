@@ -1,0 +1,26 @@
+{
+    "user_id": "f71dbd54-0461-4462-b348-424a9436237a",
+    "name": "Brian Payne",
+    "email": "guzmanxavier@example.com",
+    "instagram_handle": "@andrea62",
+    "tiktok_handle": "@dreyes",
+    "joined_at": "2024-04-23T19:39:55.946779",
+    "advocacy_programs": [
+        {
+            "program_id": "34617ba8-1686-4c81-af07-b010d1672bd4",
+            "brand": "Gonzalez-Levine",
+            "tasks_completed": [
+                {
+                    "task_id": "415bba67-f0c4-4eaf-a5b9-b5edef229aec",
+                    "platform": "TikTok",
+                    "post_url": "http://www.rivera.info/",
+                    "likes": 9991,
+                    "comments": 50,
+                    "shares": 66,
+                    "reach": 9665
+                }
+            ],
+            "total_sales_attributed": 4873.41
+        }
+    ]
+}

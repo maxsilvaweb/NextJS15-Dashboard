@@ -1,0 +1,26 @@
+{
+    "user_id": "cb4fef5b-2668-4a16-9b8a-cf94e0bac24d",
+    "name": "Amy Oberbrunner",
+    "email": "Liam.Kozey62@yahoo.com",
+    "instagram_handle": "@Rocky63",
+    "tiktok_handle": "@Alvina_Mueller47",
+    "joined_at": "2025-01-08T08:49:14.645Z",
+    "advocacy_programs": [
+        {
+            "program_id": "56c006b7-dca7-4acb-9949-b3e977ef2552",
+            "brand": "Gorczany - Bosco",
+            "tasks_completed": [
+                {
+                    "task_id": "22545186-6b5a-4f1d-b9f5-365f94950aff",
+                    "platform": "Instagram",
+                    "post_url": "https://petty-tapioca.org/",
+                    "likes": 184,
+                    "comments": 47,
+                    "shares": 35,
+                    "reach": 996
+                }
+            ],
+            "total_sales_attributed": 2750.962269208776
+        }
+    ]
+}

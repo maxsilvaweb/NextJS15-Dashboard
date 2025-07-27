@@ -1,0 +1,26 @@
+{
+    "user_id": "68f4f9f4-4b85-4b26-8e1c-22f1c3d9f8e2",
+    "name": "Hannah Edwards",
+    "email": "edawson@example.net",
+    "instagram_handle": "@foxvincent",
+    "tiktok_handle": "@rscott",
+    "joined_at": "2024-01-02T19:59:27.287435",
+    "advocacy_programs": [
+        {
+            "program_id": "a5a2bb7c-60ec-4541-9677-ce84167c5ae0",
+            "brand": "Cordova Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "e5c78912-4ca8-4b7d-bde1-6f3e09158fa9",
+                    "platform": "Instagram",
+                    "post_url": "https://www.wagner-coleman.com/",
+                    "likes": 2725,
+                    "comments": 76,
+                    "shares": 60,
+                    "reach": 7941
+                }
+            ],
+            "total_sales_attributed": 4281.85
+        }
+    ]
+}

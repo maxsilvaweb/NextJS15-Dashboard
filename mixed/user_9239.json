@@ -1,0 +1,26 @@
+{
+    "user_id": "f706896f-a976-48a4-a47d-a105ff43526b",
+    "name": "Karl Rice II",
+    "email": "Herminio74@yahoo.com",
+    "instagram_handle": "@Irwin88",
+    "tiktok_handle": "@Leta13",
+    "joined_at": "2024-08-24T21:52:45.750Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a12ebcef-ed43-4c00-bca2-a12072e4795b",
+            "brand": "Rippin, Kertzmann and Boehm",
+            "tasks_completed": [
+                {
+                    "task_id": "23e40b92-23f8-4dc7-912c-acee34567d83",
+                    "platform": "TikTok",
+                    "post_url": "https://upright-punctuation.org",
+                    "likes": 499,
+                    "comments": 16,
+                    "shares": 98,
+                    "reach": 5187
+                }
+            ],
+            "total_sales_attributed": 1767.4266759551697
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4749c320-e458-4081-8c62-5c43e63a1eb1",
+    "name": "Christopher Williams",
+    "email": "Fidel.Goyette68@yahoo.com",
+    "instagram_handle": "@benjaminedwards",
+    "tiktok_handle": "@lreyes",
+    "joined_at": "2025-04-25T14:08:12.992178",
+    "advocacy_programs": [
+        {
+            "program_id": "6aa5ce86-3fdf-4e42-a3d2-54de167f6c40",
+            "brand": "Faulkner, Hurley and Bailey",
+            "tasks_completed": [
+                {
+                    "task_id": "0d478218-8644-4003-b541-ab58573d7f91",
+                    "platform": "Instagram",
+                    "post_url": "http://morris.org/",
+                    "likes": 3774,
+                    "comments": 463,
+                    "shares": 54,
+                    "reach": 5294
+                }
+            ],
+            "total_sales_attributed": 3153.41
+        }
+    ]
+}

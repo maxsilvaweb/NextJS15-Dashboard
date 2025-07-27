@@ -1,0 +1,26 @@
+{
+    "user_id": "9ca0d4f9-5f88-4efd-a3c4-47c12d84ed62",
+    "name": "Mable Auer",
+    "email": "Brennon.Bosco71@hotmail.com",
+    "instagram_handle": "@Greta.Wiza",
+    "tiktok_handle": "@Meda_Ebert",
+    "joined_at": "2024-11-03T17:29:20.781Z",
+    "advocacy_programs": [
+        {
+            "program_id": "65906f07-9693-47b8-b7b0-efe221c2fdc7",
+            "brand": "Schimmel Group",
+            "tasks_completed": [
+                {
+                    "task_id": "e18728cb-e9ba-4d6c-8859-996f3ee6877f",
+                    "platform": "TikTok",
+                    "post_url": "https://nautical-adult.info",
+                    "likes": 326,
+                    "comments": 24,
+                    "shares": 72,
+                    "reach": 9730
+                }
+            ],
+            "total_sales_attributed": 1416.2314368926454
+        }
+    ]
+}

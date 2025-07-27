@@ -1,0 +1,26 @@
+{
+    "user_id": "2d57212b-0b76-4014-abb7-c2d23907ff80",
+    "name": "Gail Haley",
+    "email": "Noelia.Muller19@hotmail.com",
+    "instagram_handle": "@Savanna92",
+    "tiktok_handle": "@Tiffany89",
+    "joined_at": "2024-11-25T17:02:21.238Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c7cb14bc-3e62-4cd4-bd4b-d50b73a36e53",
+            "brand": "Ankunding, Nikolaus and White",
+            "tasks_completed": [
+                {
+                    "task_id": "08361a32-1708-464c-8e6c-e86b0e79f6e1",
+                    "platform": "Instagram",
+                    "post_url": "https://exhausted-fund.info/",
+                    "likes": 71,
+                    "comments": 2,
+                    "shares": 47,
+                    "reach": 7795
+                }
+            ],
+            "total_sales_attributed": 2677.9387257443404
+        }
+    ]
+}

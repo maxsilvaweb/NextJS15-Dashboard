@@ -1,0 +1,26 @@
+{
+    "user_id": "9d07d740-338d-42be-b580-ffefd6fb6c65",
+    "name": "Ronald Page",
+    "email": "adam75@example.org",
+    "instagram_handle": "@leslie89",
+    "tiktok_handle": "@owhite",
+    "joined_at": "2024-11-26T22:20:08.834579",
+    "advocacy_programs": [
+        {
+            "program_id": "cf8dc29f-90ce-46e4-a347-c9830a4afa19",
+            "brand": "Sims PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1fff1cbf-eac1-4ddc-bdf9-780d121e50c8",
+                    "platform": "TikTok",
+                    "post_url": "http://miller.biz/",
+                    "likes": 2864,
+                    "comments": 67,
+                    "shares": 56,
+                    "reach": 9754
+                }
+            ],
+            "total_sales_attributed": 6414.93
+        }
+    ]
+}

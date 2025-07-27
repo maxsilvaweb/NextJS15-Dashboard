@@ -1,0 +1,26 @@
+{
+    "user_id": "678646ab-1ef8-42bb-8363-17b732093233",
+    "name": "Heather Moss",
+    "email": "hebertmatthew@example.net",
+    "instagram_handle": "@petersrichard",
+    "tiktok_handle": "@wthomas",
+    "joined_at": "2025-07-09T19:12:13.942020",
+    "advocacy_programs": [
+        {
+            "program_id": "6d84baa1-1a00-4ec0-83de-e523ea2931b1",
+            "brand": "Barton-Small",
+            "tasks_completed": [
+                {
+                    "task_id": "c0867b18-c011-4a14-854a-c22b39ea614d",
+                    "platform": "Facebook",
+                    "post_url": "http://mendez-edwards.com/",
+                    "likes": 1979,
+                    "comments": 165,
+                    "shares": 72,
+                    "reach": 4445
+                }
+            ],
+            "total_sales_attributed": 3229.441791203237
+        }
+    ]
+}

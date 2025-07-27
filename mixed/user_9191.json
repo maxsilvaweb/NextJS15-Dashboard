@@ -1,0 +1,26 @@
+{
+    "user_id": "52fa4a1a-b099-488a-98fb-72842b4792e6",
+    "name": "James Smith",
+    "email": "qharris@example.net",
+    "instagram_handle": "@kyleclark",
+    "tiktok_handle": "@john81",
+    "joined_at": "2023-11-10T10:40:03.891719",
+    "advocacy_programs": [
+        {
+            "program_id": "7c716741-f23e-4ed9-a919-158ec20dc118",
+            "brand": "Ochoa, Casey and Phillips",
+            "tasks_completed": [
+                {
+                    "task_id": "a5483f9a-2854-4c77-8fa8-9b4b7a190a3e",
+                    "platform": "TikTok",
+                    "post_url": "http://www.gonzalez.info/",
+                    "likes": 68,
+                    "comments": 249,
+                    "shares": 34,
+                    "reach": 3706
+                }
+            ],
+            "total_sales_attributed": 2717.43
+        }
+    ]
+}

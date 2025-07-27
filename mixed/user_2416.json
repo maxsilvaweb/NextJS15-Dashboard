@@ -1,0 +1,26 @@
+{
+    "user_id": "26ecfa59-eece-4887-9446-6dd5ed5d2a1a",
+    "name": "Jackie Stoltenberg",
+    "email": "Jillian.Nader@gmail.com",
+    "instagram_handle": "@Selina88",
+    "tiktok_handle": "@Pearline24",
+    "joined_at": "2024-10-26T18:31:21.478Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2015aaee-3a9f-4ed4-96b2-f4296e398ef5",
+            "brand": "Hodkiewicz - Franecki",
+            "tasks_completed": [
+                {
+                    "task_id": "3a300a4a-21ae-4dab-a531-dcca221856e1",
+                    "platform": "Instagram",
+                    "post_url": "https://well-lit-equal.net",
+                    "likes": 355,
+                    "comments": 29,
+                    "shares": 75,
+                    "reach": 4658
+                }
+            ],
+            "total_sales_attributed": 2978.281282912973
+        }
+    ]
+}

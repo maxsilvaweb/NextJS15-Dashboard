@@ -1,0 +1,26 @@
+{
+    "user_id": "0d8b7d89-0b51-4e23-b173-8cd3d26eb66f",
+    "name": "Lydia Heaney V",
+    "email": "Alvera93@hotmail.com",
+    "instagram_handle": "@Claire_Breitenberg58",
+    "tiktok_handle": "@Jaydon.Cole11",
+    "joined_at": "2024-05-05T04:34:14.157Z",
+    "advocacy_programs": [
+        {
+            "program_id": "81e1fc3e-e647-4b27-86dc-ed0686ea6cae",
+            "brand": "Wuckert Group",
+            "tasks_completed": [
+                {
+                    "task_id": "4315298e-6c63-4b83-8100-c47083c30b59",
+                    "platform": "TikTok",
+                    "post_url": "https://parched-developing.com",
+                    "likes": 120,
+                    "comments": 32,
+                    "shares": 56,
+                    "reach": 6417
+                }
+            ],
+            "total_sales_attributed": 3227.929752680736
+        }
+    ]
+}

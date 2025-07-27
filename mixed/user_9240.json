@@ -1,0 +1,26 @@
+{
+    "user_id": "165588c3-1338-40a5-8aaa-6281383a198c",
+    "name": "Oscar Holland",
+    "email": "jholland@example.org",
+    "instagram_handle": "@umartin",
+    "tiktok_handle": "@dylanramirez",
+    "joined_at": "2024-11-16T00:21:10.637901",
+    "advocacy_programs": [
+        {
+            "program_id": "22b90f6f-02cc-445a-8745-008c3ecdf85e",
+            "brand": "Day Group",
+            "tasks_completed": [
+                {
+                    "task_id": "d19d9673-e412-4999-af1e-a36141cc660e",
+                    "platform": "TikTok",
+                    "post_url": "http://www.berry.biz/",
+                    "likes": 431,
+                    "comments": 415,
+                    "shares": 85,
+                    "reach": 1622
+                }
+            ],
+            "total_sales_attributed": 1015.95
+        }
+    ]
+}

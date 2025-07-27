@@ -1,0 +1,26 @@
+{
+    "user_id": "fe829396-18f1-44a6-99f5-4219f50452a6",
+    "name": "Ryan Sanders",
+    "email": "kimcalvin@example.net",
+    "instagram_handle": "@troybean",
+    "tiktok_handle": "@edward03",
+    "joined_at": "2024-05-14T14:30:58.814Z",
+    "advocacy_programs": [
+        {
+            "program_id": "007c3802-c64f-4f8c-9088-80d645819d54",
+            "brand": "Barnett, Carroll and Wright",
+            "tasks_completed": [
+                {
+                    "task_id": "790b9e3a-e609-4b10-b964-f927d2ccfb81",
+                    "platform": "Instagram",
+                    "post_url": "https://anthony-moses.net/",
+                    "likes": 4964,
+                    "comments": 433,
+                    "shares": 91,
+                    "reach": 4784
+                }
+            ],
+            "total_sales_attributed": 9424.09
+        }
+    ]
+}

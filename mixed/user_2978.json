@@ -1,0 +1,26 @@
+{
+    "user_id": "9a804c62-f8c0-4f6d-b2c8-f9e25e7279a6",
+    "name": "Woodrow Flatley",
+    "email": "Paige_Rempel-Green@gmail.com",
+    "instagram_handle": "@Arno98",
+    "tiktok_handle": "@Rebekah.Harris55",
+    "joined_at": "2024-11-17T19:37:05.460Z",
+    "advocacy_programs": [
+        {
+            "program_id": "66db8ff6-d61d-4938-85e9-7958700295a6",
+            "brand": "Graham, Morar and Rowe",
+            "tasks_completed": [
+                {
+                    "task_id": "7190ed1e-8187-4e30-9f1e-9e204d65d00a",
+                    "platform": "Instagram",
+                    "post_url": "https://vague-recovery.net/",
+                    "likes": 256,
+                    "comments": 48,
+                    "shares": 9,
+                    "reach": 9091
+                }
+            ],
+            "total_sales_attributed": 2401.2991720472705
+        }
+    ]
+}

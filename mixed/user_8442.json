@@ -1,0 +1,26 @@
+{
+    "user_id": "7023b00a-08e2-4ee6-b832-f706e1a39037",
+    "name": "Dustin Green",
+    "email": "chandlercody@example.net",
+    "instagram_handle": "@ryan88",
+    "tiktok_handle": "@danielle20",
+    "joined_at": "2024-10-21T13:49:26.289414",
+    "advocacy_programs": [
+        {
+            "program_id": "9d30a5b5-cdd4-4714-915d-97c05351d772",
+            "brand": "Serrano, Ford and Rivas",
+            "tasks_completed": [
+                {
+                    "task_id": "21d8e31a-5d3d-4348-8830-5eceeeacc5ef",
+                    "platform": "TikTok",
+                    "post_url": "https://www.oliver.com/",
+                    "likes": 1119,
+                    "comments": 244,
+                    "shares": 3,
+                    "reach": 5426
+                }
+            ],
+            "total_sales_attributed": 1333.66
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1e4d2bdb-7ef5-4eb5-a33d-c9a686823394",
+    "name": "Jacob Nguyen",
+    "email": "matthew45@example.org",
+    "instagram_handle": "@jessehawkins",
+    "tiktok_handle": "@ycook",
+    "joined_at": "2025-05-11T21:54:37.297076",
+    "advocacy_programs": [
+        {
+            "program_id": "b0bb220a-43e7-4eed-ba3a-725866ad2400",
+            "brand": "Rodriguez, Gonzalez and Allen",
+            "tasks_completed": [
+                {
+                    "task_id": "4a95cf30-1df7-430d-a838-bbc8b5bb94e5",
+                    "platform": "TikTok",
+                    "post_url": "https://www.ramos-farmer.com/",
+                    "likes": 619,
+                    "comments": 368,
+                    "shares": 59,
+                    "reach": 8692
+                }
+            ],
+            "total_sales_attributed": 7705.23
+        }
+    ]
+}

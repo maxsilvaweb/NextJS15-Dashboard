@@ -1,0 +1,26 @@
+{
+    "user_id": "26364944-3771-412d-8257-72510da35563",
+    "name": "Christina Shepard",
+    "email": "shawn50@example.org",
+    "instagram_handle": "@Christina.Thompson95",
+    "tiktok_handle": "@aalexander",
+    "joined_at": "2024-09-23T11:02:53.108Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ba3a0c24-bf40-4369-84f7-1aee472852d8",
+            "brand": "Gilmore, Davis and Morales",
+            "tasks_completed": [
+                {
+                    "task_id": "8b302fac-a221-4d05-ba42-eb51d38b0531",
+                    "platform": "Instagram",
+                    "post_url": "https://hardy.com/",
+                    "likes": 16,
+                    "comments": 2,
+                    "shares": 13,
+                    "reach": 5025
+                }
+            ],
+            "total_sales_attributed": 812.72
+        }
+    ]
+}

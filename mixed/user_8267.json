@@ -1,0 +1,26 @@
+{
+    "user_id": "8a4a4256-ca94-4dd0-8ba1-48558d3f234a",
+    "name": "James Rodriguez",
+    "email": "courtney27@example.com",
+    "instagram_handle": "@Cassie.McDermott81",
+    "tiktok_handle": "@brownashley",
+    "joined_at": "2023-11-15T23:21:58.073538",
+    "advocacy_programs": [
+        {
+            "program_id": "9c20bd60-3e02-4fc0-961b-9dd04c97ee84",
+            "brand": "Lowery Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "fc1df7ed-1fa0-4d73-8587-40bd8cb4b368",
+                    "platform": "TikTok",
+                    "post_url": "https://far-off-whack.info",
+                    "likes": 268,
+                    "comments": 435,
+                    "shares": 30,
+                    "reach": 2726
+                }
+            ],
+            "total_sales_attributed": 6019.27
+        }
+    ]
+}

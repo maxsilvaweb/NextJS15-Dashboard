@@ -1,0 +1,26 @@
+{
+    "user_id": "e174126d-fe84-4ba8-83de-000585b00862",
+    "name": "Charles Burton",
+    "email": "swilliams@example.org",
+    "instagram_handle": "@janetreilly",
+    "tiktok_handle": "@jordanmary",
+    "joined_at": "2024-10-03T06:02:39.690683",
+    "advocacy_programs": [
+        {
+            "program_id": "566f4e3f-2bb7-4d16-9838-8ea4e521d5da",
+            "brand": "Aguilar Group",
+            "tasks_completed": [
+                {
+                    "task_id": "0d7d5f0e-1995-4851-ac6b-a585d06bdb85",
+                    "platform": "Twitter",
+                    "post_url": "http://hicks-martinez.biz/",
+                    "likes": 430,
+                    "comments": 36,
+                    "shares": 19,
+                    "reach": 4311
+                }
+            ],
+            "total_sales_attributed": 6875.22
+        }
+    ]
+}

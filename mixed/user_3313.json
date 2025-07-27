@@ -1,0 +1,26 @@
+{
+    "user_id": "18be1efc-d7de-4aae-a215-ae97b0e967a9",
+    "name": "Christopher Henderson",
+    "email": "christineclark@example.net",
+    "instagram_handle": "@fernando51",
+    "tiktok_handle": "@Rahsaan.Conroy76",
+    "joined_at": "2025-05-25T20:42:44.215546",
+    "advocacy_programs": [
+        {
+            "program_id": "e242bad7-b13a-445e-a981-9880f8532db6",
+            "brand": "Grant-Harvey",
+            "tasks_completed": [
+                {
+                    "task_id": "6c32d91d-37b9-4402-9bba-ebd72c0965e2",
+                    "platform": "TikTok",
+                    "post_url": "https://grimes.com/",
+                    "likes": 8516,
+                    "comments": 195,
+                    "shares": 13,
+                    "reach": 1228
+                }
+            ],
+            "total_sales_attributed": 9170.44
+        }
+    ]
+}

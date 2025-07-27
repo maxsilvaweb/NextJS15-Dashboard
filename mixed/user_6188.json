@@ -1,0 +1,26 @@
+{
+    "user_id": "b183b926-425d-4c9e-b08c-743368f6dc9b",
+    "name": "Renee Hernandez",
+    "email": "montoyajose@example.net",
+    "instagram_handle": "@roberthatfield",
+    "tiktok_handle": "@krystal57",
+    "joined_at": "2024-08-31T05:34:53.359048",
+    "advocacy_programs": [
+        {
+            "program_id": "d8294848-0de7-4d40-9e40-fffb4949d7db",
+            "brand": "Hebert-Luna",
+            "tasks_completed": [
+                {
+                    "task_id": "24487199-8eb5-414e-9d47-5f712f6cd485",
+                    "platform": "Facebook",
+                    "post_url": "http://ballard-garcia.com/",
+                    "likes": 5793,
+                    "comments": 122,
+                    "shares": 95,
+                    "reach": 5325
+                }
+            ],
+            "total_sales_attributed": 4723.23
+        }
+    ]
+}

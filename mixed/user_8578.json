@@ -1,0 +1,26 @@
+{
+    "user_id": "a95364ae-4999-4b51-b373-a18162ba6a08",
+    "name": "Robert Treutel",
+    "email": "Alfredo87@hotmail.com",
+    "instagram_handle": "@Johnpaul.Murphy",
+    "tiktok_handle": "@Kathryn42",
+    "joined_at": "2024-08-02T04:23:21.134Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7032df43-7b9c-4cac-9b98-901fead78075",
+            "brand": "Nicolas Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "7dd7608c-1994-4981-bf01-ad9a100a0b4f",
+                    "platform": "Instagram",
+                    "post_url": "https://informal-gradient.com/",
+                    "likes": 77,
+                    "comments": 30,
+                    "shares": 94,
+                    "reach": 7403
+                }
+            ],
+            "total_sales_attributed": 864.2322887136374
+        }
+    ]
+}

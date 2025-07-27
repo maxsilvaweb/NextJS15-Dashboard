@@ -1,0 +1,26 @@
+{
+    "user_id": "fcf16016-5e2d-4713-989b-2437370258ac",
+    "name": "Norman Harber Sr.",
+    "email": "Autumn.Kovacek57@yahoo.com",
+    "instagram_handle": "@Darian.Homenick",
+    "tiktok_handle": "@Juwan63",
+    "joined_at": "2024-04-18T05:26:38.636Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b6956450-2541-48dd-b174-d6b68eb1c32e",
+            "brand": "Reilly, Jerde and Hamill",
+            "tasks_completed": [
+                {
+                    "task_id": "96a0a4d7-0b22-4cb2-a63e-41a3538fa00b",
+                    "platform": "Instagram",
+                    "post_url": "https://scary-release.net/",
+                    "likes": 362,
+                    "comments": 5,
+                    "shares": 38,
+                    "reach": 3652
+                }
+            ],
+            "total_sales_attributed": 4450.041294208029
+        }
+    ]
+}

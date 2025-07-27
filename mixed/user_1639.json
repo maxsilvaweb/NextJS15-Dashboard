@@ -1,0 +1,26 @@
+{
+    "user_id": "322eb566-d045-4f2e-98e5-37d1e9768995",
+    "name": "Elizabeth Johnson",
+    "email": "scottkaren@example.org",
+    "instagram_handle": "@amandamcgee",
+    "tiktok_handle": "@bryaneric",
+    "joined_at": "2025-01-17T03:23:39.319091",
+    "advocacy_programs": [
+        {
+            "program_id": "f22ec280-9edb-40a9-a81d-d8fd68899ec4",
+            "brand": "Jones-Jefferson",
+            "tasks_completed": [
+                {
+                    "task_id": "494c0d89-27e5-44be-843b-b27e9071bba2",
+                    "platform": "Instagram",
+                    "post_url": "https://infinite-pear.com",
+                    "likes": 4846,
+                    "comments": 116,
+                    "shares": 33,
+                    "reach": 9044
+                }
+            ],
+            "total_sales_attributed": 3605.65
+        }
+    ]
+}

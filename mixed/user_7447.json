@@ -1,0 +1,26 @@
+{
+    "user_id": "3753bba4-9b71-4088-afbf-5ebc9e4e7215",
+    "name": "Saul Mertz",
+    "email": "Madonna_Macejkovic99@hotmail.com",
+    "instagram_handle": "@Diego_Welch-Zulauf",
+    "tiktok_handle": "@Amanda.Balistreri85",
+    "joined_at": "2024-06-03T10:35:54.979Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7cc550bd-f106-4d03-b1e9-93b550aac9b0",
+            "brand": "Boehm LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2eb2b693-3937-4c4a-ae56-4fb716f9c798",
+                    "platform": "Instagram",
+                    "post_url": "https://earnest-fundraising.name",
+                    "likes": 310,
+                    "comments": 7,
+                    "shares": 83,
+                    "reach": 6602
+                }
+            ],
+            "total_sales_attributed": 1378.3335031577387
+        }
+    ]
+}

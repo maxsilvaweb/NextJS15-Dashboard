@@ -1,0 +1,26 @@
+{
+    "user_id": "f1852eb8-730c-4f2d-b31f-f54e5509ea7e",
+    "name": "Jacqueline Mendoza",
+    "email": "simpsonkevin@example.com",
+    "instagram_handle": "@olivermelanie",
+    "tiktok_handle": "@stephanieweaver",
+    "joined_at": "2024-05-22T16:08:20.579337",
+    "advocacy_programs": [
+        {
+            "program_id": "5bd527da-53fa-4f7f-b3c9-16f2419dd015",
+            "brand": "Atkins-Robles",
+            "tasks_completed": [
+                {
+                    "task_id": "5f5bdf10-9953-4a50-9d62-ff82bae30f91",
+                    "platform": "Instagram",
+                    "post_url": "https://www.smith.com/",
+                    "likes": 9884,
+                    "comments": 59,
+                    "shares": 2,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 8431.14
+        }
+    ]
+}

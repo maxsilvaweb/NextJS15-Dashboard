@@ -1,0 +1,26 @@
+{
+    "user_id": "940f3195-2d6e-482c-bd05-12f187b5342b",
+    "name": "Molly Short",
+    "email": "Sophia_Schinner@gmail.com",
+    "instagram_handle": "@wturner",
+    "tiktok_handle": "@karabeck",
+    "joined_at": "2024-11-17T22:12:14.802575",
+    "advocacy_programs": [
+        {
+            "program_id": "a4323a41-847e-4bba-aa2c-a83cbb908c21",
+            "brand": "Dickson-Walker",
+            "tasks_completed": [
+                {
+                    "task_id": "2d8967e9-acef-4fe8-94fc-e03146f100e9",
+                    "platform": "Instagram",
+                    "post_url": "http://www.valenzuela-nelson.com/",
+                    "likes": 7906,
+                    "comments": 336,
+                    "shares": 11,
+                    "reach": 1948
+                }
+            ],
+            "total_sales_attributed": 2640.13
+        }
+    ]
+}

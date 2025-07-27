@@ -1,0 +1,26 @@
+{
+    "user_id": "d9980b51-1663-4020-a05d-aa68e446bbb7",
+    "name": "Tiffany Fernandez",
+    "email": "reeseanne@example.org",
+    "instagram_handle": "@keith00",
+    "tiktok_handle": "@connor34",
+    "joined_at": "2024-04-19T17:07:02.096307",
+    "advocacy_programs": [
+        {
+            "program_id": "3931ef9b-f244-48a6-a77e-6382935932d9",
+            "brand": "Alvarez-Webb",
+            "tasks_completed": [
+                {
+                    "task_id": "c5375b8f-1112-4e9b-b2f0-941f9903425a",
+                    "platform": "Facebook",
+                    "post_url": "https://dismal-dividend.biz/",
+                    "likes": 6169,
+                    "comments": 474,
+                    "shares": 52,
+                    "reach": 7063
+                }
+            ],
+            "total_sales_attributed": 5725.57
+        }
+    ]
+}

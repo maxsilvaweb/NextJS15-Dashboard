@@ -1,0 +1,26 @@
+{
+    "user_id": "37f246d8-ca7a-4c27-9afe-b107909446c4",
+    "name": "Nicole Ritchie",
+    "email": "Ricardo_Parker18@hotmail.com",
+    "instagram_handle": "@Meggie82",
+    "tiktok_handle": "@Isaiah.Flatley",
+    "joined_at": "2025-03-04T12:19:40.256Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4c016832-fc66-4e1f-98e7-5ef6cbcd1096",
+            "brand": "Kihn, Kohler and Bernier",
+            "tasks_completed": [
+                {
+                    "task_id": "87f38dad-5d2d-4000-a388-3ffe2a1315d9",
+                    "platform": "Instagram",
+                    "post_url": "https://steep-pressure.com",
+                    "likes": 422,
+                    "comments": 49,
+                    "shares": 65,
+                    "reach": 5961
+                }
+            ],
+            "total_sales_attributed": 1163.5217763547237
+        }
+    ]
+}

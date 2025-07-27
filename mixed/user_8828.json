@@ -1,0 +1,26 @@
+{
+    "user_id": "d867b07e-af67-49ab-a156-4908f7fbbe47",
+    "name": "Sonya Weimann",
+    "email": "Dawson_Carroll@gmail.com",
+    "instagram_handle": "@Chaya.Kerluke23",
+    "tiktok_handle": "@Desiree.Collier",
+    "joined_at": "2024-08-15T09:12:37.027Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0bdab42c-1d05-426c-aa9a-e774b16892b7",
+            "brand": "Satterfield, Hettinger and Wiza",
+            "tasks_completed": [
+                {
+                    "task_id": "22eabbbe-a5cc-4347-8bba-9e82ee97a994",
+                    "platform": "TikTok",
+                    "post_url": "https://ajar-encouragement.info",
+                    "likes": 79,
+                    "comments": 18,
+                    "shares": 64,
+                    "reach": 1261
+                }
+            ],
+            "total_sales_attributed": 4117.435201757829
+        }
+    ]
+}

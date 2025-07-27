@@ -1,0 +1,26 @@
+{
+    "user_id": "2cb7ff1d-b789-49f9-bd9c-e6025bd8377c",
+    "name": "Jacob Carey",
+    "email": "griffinanthony@example.org",
+    "instagram_handle": "@Carlee19",
+    "tiktok_handle": "@mariah57",
+    "joined_at": "2025-03-04T11:03:47.985591",
+    "advocacy_programs": [
+        {
+            "program_id": "ca4c396f-015a-4624-baf1-4ca01b406b61",
+            "brand": "Smith-Peters",
+            "tasks_completed": [
+                {
+                    "task_id": "c9b2dc60-3b37-407e-9216-ab073e459b7c",
+                    "platform": "TikTok",
+                    "post_url": "http://www.perry-mercado.com/",
+                    "likes": 8241,
+                    "comments": 123,
+                    "shares": 93,
+                    "reach": 993
+                }
+            ],
+            "total_sales_attributed": 7321.79
+        }
+    ]
+}

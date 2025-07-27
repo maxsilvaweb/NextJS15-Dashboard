@@ -1,0 +1,26 @@
+{
+    "user_id": "ad4c783f-03fb-491a-92eb-3e4f15ca7729",
+    "name": "Terry Brown",
+    "email": "jennifer83@example.com",
+    "instagram_handle": "@angelapearson",
+    "tiktok_handle": "@hstephens",
+    "joined_at": "2023-11-12T08:41:59.642478",
+    "advocacy_programs": [
+        {
+            "program_id": "9da6d727-2a21-4c2a-9ff3-c63b6a0c3c57",
+            "brand": "Turner Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "9fbc5f10-2bbc-47ff-9888-07284fa21a20",
+                    "platform": "TikTok",
+                    "post_url": "http://wood-thomas.com/",
+                    "likes": 3181,
+                    "comments": 17,
+                    "shares": 50,
+                    "reach": 2477
+                }
+            ],
+            "total_sales_attributed": 5665.66
+        }
+    ]
+}

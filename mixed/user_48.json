@@ -1,0 +1,26 @@
+{
+    "user_id": "7f596743-1829-4587-a255-555031872a71",
+    "name": "Kristine Luettgen",
+    "email": "Rosanna97@gmail.com",
+    "instagram_handle": "@Madisen.Ziemann52",
+    "tiktok_handle": "@Astrid5",
+    "joined_at": "2024-04-26T06:13:34.057Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5175e845-0a21-41e9-a0e2-d66e97f9f5ef",
+            "brand": "Mitchell Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d9408834-2dda-4a4e-85de-440d8493cc1d",
+                    "platform": "Instagram",
+                    "post_url": "https://old-fashioned-numeracy.name/",
+                    "likes": 414,
+                    "comments": 28,
+                    "shares": 88,
+                    "reach": 5058
+                }
+            ],
+            "total_sales_attributed": 4791.530791394074
+        }
+    ]
+}

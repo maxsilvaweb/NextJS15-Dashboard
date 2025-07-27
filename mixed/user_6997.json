@@ -1,0 +1,26 @@
+{
+    "user_id": "077f568a-1094-436a-8292-e5cb6f6460c0",
+    "name": "Mark Hernandez",
+    "email": "rebecca84@example.com",
+    "instagram_handle": "@simssamantha",
+    "tiktok_handle": "@catherinelang",
+    "joined_at": "2024-05-29T16:45:42.699910",
+    "advocacy_programs": [
+        {
+            "program_id": "b03181e6-bf1b-4141-ad3d-6bd3713552ea",
+            "brand": "Walter-Rose",
+            "tasks_completed": [
+                {
+                    "task_id": "38a7f0d1-63db-4a7f-b8fa-b40938ea39cf",
+                    "platform": "Instagram",
+                    "post_url": "https://burns.info/",
+                    "likes": 7538,
+                    "comments": 300,
+                    "shares": 40,
+                    "reach": 5784
+                }
+            ],
+            "total_sales_attributed": 4662.13
+        }
+    ]
+}

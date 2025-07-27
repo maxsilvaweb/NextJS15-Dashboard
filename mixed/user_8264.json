@@ -1,0 +1,26 @@
+{
+    "user_id": "e9de8ae1-ea49-421a-affb-5bbebf7237fc",
+    "name": "Jason Griffith",
+    "email": "jrice@example.net",
+    "instagram_handle": "@stonedeanna",
+    "tiktok_handle": "@wgreen",
+    "joined_at": "2024-08-26T08:34:44.271Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3696725f-2b4b-4173-91d8-b7d9db54d1e9",
+            "brand": "Christensen, Stewart and Fox",
+            "tasks_completed": [
+                {
+                    "task_id": "24f247dc-b970-4e16-86c4-58e3b21d6320",
+                    "platform": "Facebook",
+                    "post_url": "https://branch.com/",
+                    "likes": 276,
+                    "comments": 38,
+                    "shares": 31,
+                    "reach": 2432
+                }
+            ],
+            "total_sales_attributed": 9784.27
+        }
+    ]
+}

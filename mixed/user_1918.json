@@ -1,0 +1,26 @@
+{
+    "user_id": "ab9cc4b6-932d-49a7-a68c-4f51d5a7a719",
+    "name": "Jesus Vandervort",
+    "email": "Merritt_Gutmann0@yahoo.com",
+    "instagram_handle": "@Hilton_Towne",
+    "tiktok_handle": "@Gabriella.Christiansen19",
+    "joined_at": "2024-04-04T23:04:14.213Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0a9b542a-8030-47f4-b15e-e350b9dd330b",
+            "brand": "Nolan LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "eed2c3d5-d047-4182-ba47-ef6c5724ea83",
+                    "platform": "Instagram",
+                    "post_url": "https://emotional-doorpost.org/",
+                    "likes": 226,
+                    "comments": 45,
+                    "shares": 43,
+                    "reach": 8276
+                }
+            ],
+            "total_sales_attributed": 2567.5615204463215
+        }
+    ]
+}

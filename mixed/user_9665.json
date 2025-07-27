@@ -1,0 +1,26 @@
+{
+    "user_id": "190f1096-453f-4931-983f-c87bac7ca6a9",
+    "name": "Miss Henrietta Yost",
+    "email": "Jarvis.Hilpert@hotmail.com",
+    "instagram_handle": "@Rashawn.Turcotte",
+    "tiktok_handle": "@Evelyn_Luettgen",
+    "joined_at": "2024-05-02T07:28:30.712Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f8e927ef-0331-463d-84e8-9a44cbddc829",
+            "brand": "Runte Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "3bf76de8-a18c-4217-aca4-31e464640e25",
+                    "platform": "Instagram",
+                    "post_url": "https://rotating-fold.biz",
+                    "likes": 247,
+                    "comments": 36,
+                    "shares": 20,
+                    "reach": 9400
+                }
+            ],
+            "total_sales_attributed": 583.9188581683134
+        }
+    ]
+}

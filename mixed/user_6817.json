@@ -1,0 +1,26 @@
+{
+    "user_id": "784e786a-9442-4e7d-ae31-eeb7f0cb33f6",
+    "name": "Ralph Sporer",
+    "email": "Adriana_Koss64@hotmail.com",
+    "instagram_handle": "@Jadon.Mohr",
+    "tiktok_handle": "@Jensen5",
+    "joined_at": "2024-08-28T19:16:07.305Z",
+    "advocacy_programs": [
+        {
+            "program_id": "450aac8d-cb2d-47fa-907b-add6259efc5a",
+            "brand": "Kirlin - Rosenbaum",
+            "tasks_completed": [
+                {
+                    "task_id": "4ce8ceb0-f9f4-4600-be95-da201289eaa7",
+                    "platform": "Instagram",
+                    "post_url": "https://steep-understanding.org",
+                    "likes": 459,
+                    "comments": 0,
+                    "shares": 80,
+                    "reach": 3742
+                }
+            ],
+            "total_sales_attributed": 1026.0614706896713
+        }
+    ]
+}

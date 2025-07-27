@@ -1,0 +1,26 @@
+{
+    "user_id": "dcdc076f-d016-41ae-aed4-e287e78af18f",
+    "name": "Alex Lloyd",
+    "email": "anna60@example.net",
+    "instagram_handle": "@hillcharles",
+    "tiktok_handle": "@steven63",
+    "joined_at": "2023-08-29T09:59:34.397222",
+    "advocacy_programs": [
+        {
+            "program_id": "f4aa723c-16e1-40ef-a069-29476566ee89",
+            "brand": "Benton-Lin",
+            "tasks_completed": [
+                {
+                    "task_id": "8722d192-8efd-4c23-8af0-5960c9fbebe7",
+                    "platform": "TikTok",
+                    "post_url": "https://www.livingston.com/",
+                    "likes": 197,
+                    "comments": 259,
+                    "shares": 52,
+                    "reach": 7310
+                }
+            ],
+            "total_sales_attributed": 7708.48
+        }
+    ]
+}

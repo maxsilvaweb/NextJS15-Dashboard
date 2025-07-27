@@ -1,0 +1,26 @@
+{
+    "user_id": "b806afc0-cc6e-4f24-845a-ad361168d1cb",
+    "name": "Stacey Riggs",
+    "email": "Krista.White@gmail.com",
+    "instagram_handle": "@robert98",
+    "tiktok_handle": "@scarlson",
+    "joined_at": "2025-01-24T10:34:41.566489",
+    "advocacy_programs": [
+        {
+            "program_id": "2ae6fe7b-e450-4972-bea7-a5d10b1313cc",
+            "brand": "Hughes and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "c6c1a8b3-0967-4637-908e-1547ecd25b18",
+                    "platform": "Facebook",
+                    "post_url": "http://davis.info/",
+                    "likes": 4765,
+                    "comments": 270,
+                    "shares": 8,
+                    "reach": 7250
+                }
+            ],
+            "total_sales_attributed": 3988.474306169244
+        }
+    ]
+}

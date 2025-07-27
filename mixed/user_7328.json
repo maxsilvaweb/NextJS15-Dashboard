@@ -1,0 +1,26 @@
+{
+    "user_id": "b2597c71-7a2c-464e-85d1-5d68957945ee",
+    "name": "Ruth Adams",
+    "email": "Helmer.Steuber@gmail.com",
+    "instagram_handle": "@Giovanni_Fadel-Heidenreich",
+    "tiktok_handle": "@Brandy.Simonis36",
+    "joined_at": "2024-08-28T16:51:34.913Z",
+    "advocacy_programs": [
+        {
+            "program_id": "93ce95f2-e8a2-4bbf-a18c-9b9c76ea5378",
+            "brand": "Fadel Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "1d0a1af8-3244-48b0-b5e4-6aef19b730fe",
+                    "platform": "Instagram",
+                    "post_url": "https://young-bracelet.com/",
+                    "likes": 396,
+                    "comments": 30,
+                    "shares": 9,
+                    "reach": 9972
+                }
+            ],
+            "total_sales_attributed": 679.1567224230578
+        }
+    ]
+}

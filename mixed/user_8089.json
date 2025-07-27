@@ -1,0 +1,26 @@
+{
+    "user_id": "45c5fdf4-c684-4026-99e0-493d0b98ae16",
+    "name": "Brian Williams Jr.",
+    "email": "rrobertson@example.com",
+    "instagram_handle": "@chernandez",
+    "tiktok_handle": "@cummingschristine",
+    "joined_at": "2024-08-11T01:18:30.472222",
+    "advocacy_programs": [
+        {
+            "program_id": "43950218-4311-4b00-a354-e02ae56340bd",
+            "brand": "Savage-Keller",
+            "tasks_completed": [
+                {
+                    "task_id": "74d1f379-8ae1-4c8d-bcc1-2fbd8544cf90",
+                    "platform": "Instagram",
+                    "post_url": "http://rodriguez.com/",
+                    "likes": 4822,
+                    "comments": 233,
+                    "shares": 81,
+                    "reach": 5198
+                }
+            ],
+            "total_sales_attributed": 1594.09
+        }
+    ]
+}

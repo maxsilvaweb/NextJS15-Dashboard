@@ -1,0 +1,26 @@
+{
+    "user_id": "9efc5acb-c45a-41f0-8bcf-bb625dcaa018",
+    "name": "Lillie O'Hara",
+    "email": "Vicky_Bernhard-Feeney30@hotmail.com",
+    "instagram_handle": "@Grant84",
+    "tiktok_handle": "@Genoveva.McCullough90",
+    "joined_at": "2024-12-15T00:31:02.824Z",
+    "advocacy_programs": [
+        {
+            "program_id": "609cef9c-e4a7-42fe-8692-c8c81f6b0d96",
+            "brand": "Anderson, Schaefer and Mayert",
+            "tasks_completed": [
+                {
+                    "task_id": "c0b53ec2-aafa-48a9-99d7-b68f6ef1e0a2",
+                    "platform": "TikTok",
+                    "post_url": "https://glorious-hello.net/",
+                    "likes": 297,
+                    "comments": 0,
+                    "shares": 34,
+                    "reach": 7141
+                }
+            ],
+            "total_sales_attributed": 837.8840593154797
+        }
+    ]
+}

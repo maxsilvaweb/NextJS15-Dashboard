@@ -1,0 +1,26 @@
+{
+    "user_id": "ccf04a30-7bf5-4faa-ad66-c1100de3c6a7",
+    "name": "Mary Cole",
+    "email": "ericbrown@example.org",
+    "instagram_handle": "@alexandra66",
+    "tiktok_handle": "@veronicadiaz",
+    "joined_at": "2024-12-12T21:28:43.170077",
+    "advocacy_programs": [
+        {
+            "program_id": "25859f02-745d-47dd-b7e5-935f8f785412",
+            "brand": "Cook-Gomez",
+            "tasks_completed": [
+                {
+                    "task_id": "70fd4459-6ad5-4f7b-9684-139005ec0e01",
+                    "platform": "Facebook",
+                    "post_url": "http://davis.biz/",
+                    "likes": 4518,
+                    "comments": 5,
+                    "shares": 86,
+                    "reach": 1864
+                }
+            ],
+            "total_sales_attributed": 1280.08
+        }
+    ]
+}

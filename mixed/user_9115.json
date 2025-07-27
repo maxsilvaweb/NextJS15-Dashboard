@@ -1,0 +1,26 @@
+{
+    "user_id": "384ef66d-8368-487d-ae13-02e65c03e390",
+    "name": "Laura King",
+    "email": "amybrooks@example.com",
+    "instagram_handle": "@elizabethmclaughlin",
+    "tiktok_handle": "@james08",
+    "joined_at": "2024-03-21T20:25:15.491Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3e2958b2-cd5c-4758-8ad4-82cd58843295",
+            "brand": "Green, Rios and Ware",
+            "tasks_completed": [
+                {
+                    "task_id": "17feb920-ac52-45af-8ef9-dde07d60b357",
+                    "platform": "TikTok",
+                    "post_url": "https://plump-import.info/",
+                    "likes": 8468,
+                    "comments": 268,
+                    "shares": 99,
+                    "reach": 2306
+                }
+            ],
+            "total_sales_attributed": 6298.94
+        }
+    ]
+}

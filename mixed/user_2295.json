@@ -1,0 +1,26 @@
+{
+    "user_id": "394a35e7-8ca2-4de3-9425-7c7e34ea87e6",
+    "name": "Nichole Arias",
+    "email": "goodwinmichelle@example.com",
+    "instagram_handle": "@hallsheila",
+    "tiktok_handle": "@robertshannah",
+    "joined_at": "2025-06-11T23:08:16.242855",
+    "advocacy_programs": [
+        {
+            "program_id": "ba744952-a080-47e9-9a2e-4822a6f5a494",
+            "brand": "Smith, Graham and Mcgee",
+            "tasks_completed": [
+                {
+                    "task_id": "a1b3aba9-7a48-46d8-806c-9a250bbe94ca",
+                    "platform": "TikTok",
+                    "post_url": "https://www.thomas-morrison.net/",
+                    "likes": 4596,
+                    "comments": 348,
+                    "shares": 74,
+                    "reach": 7273
+                }
+            ],
+            "total_sales_attributed": 992.1519232571964
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "dba43d0e-8aab-4b68-a512-53c8504f1b94",
+    "name": "Dan Morar",
+    "email": "Emilia.Murazik@hotmail.com",
+    "instagram_handle": "@Elisabeth59",
+    "tiktok_handle": "@Travis94",
+    "joined_at": "2025-02-16T19:58:19.902Z",
+    "advocacy_programs": [
+        {
+            "program_id": "01a36b7e-e835-4ec7-8d53-3de5220b6fcf",
+            "brand": "Reichel - Runte",
+            "tasks_completed": [
+                {
+                    "task_id": "33b8b19f-446f-4de9-977d-0df5eb3bd293",
+                    "platform": "Instagram",
+                    "post_url": "https://irresponsible-sesame.org",
+                    "likes": 127,
+                    "comments": 10,
+                    "shares": 65,
+                    "reach": 2408
+                }
+            ],
+            "total_sales_attributed": 647.7984872376577
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "efc340c7-6cca-407b-a952-7a8c7085bdd2",
+    "name": "William Miller",
+    "email": "laurie04@example.net",
+    "instagram_handle": "@shawn97",
+    "tiktok_handle": "@gloria03",
+    "joined_at": "2024-07-01T21:28:51.667530",
+    "advocacy_programs": [
+        {
+            "program_id": "656d1490-c167-431f-9bd0-68f8cc80b213",
+            "brand": "Meyer Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "7f610fb3-c8cb-4dd7-8e0f-809c0ac195f7",
+                    "platform": "TikTok",
+                    "post_url": "https://rivas.com/",
+                    "likes": 1048,
+                    "comments": 312,
+                    "shares": 44,
+                    "reach": 1878
+                }
+            ],
+            "total_sales_attributed": 3122.030142639901
+        }
+    ]
+}

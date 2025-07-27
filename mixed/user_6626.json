@@ -1,0 +1,26 @@
+{
+    "user_id": "10e45879-f870-465d-815f-67faebcf2876",
+    "name": "Rose Douglas",
+    "email": "Rowland36@yahoo.com",
+    "instagram_handle": "@Dave.Rath",
+    "tiktok_handle": "@Laverne_Jaskolski57",
+    "joined_at": "2024-05-16T23:35:07.934Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9d3631df-c7a7-4cc3-b37e-d69af1148a8e",
+            "brand": "Donnelly - Keeling",
+            "tasks_completed": [
+                {
+                    "task_id": "10902892-f9f8-4d8b-a523-b99698a44a9f",
+                    "platform": "Instagram",
+                    "post_url": "https://coarse-understanding.name",
+                    "likes": 20,
+                    "comments": 46,
+                    "shares": 32,
+                    "reach": 7326
+                }
+            ],
+            "total_sales_attributed": 1347.104241096087
+        }
+    ]
+}

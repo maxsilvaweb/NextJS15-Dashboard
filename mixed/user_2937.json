@@ -1,0 +1,26 @@
+{
+    "user_id": "ecd677d1-4357-4df3-8cb8-6cebc513762c",
+    "name": "Steven Tran",
+    "email": "michaeldodson@example.org",
+    "instagram_handle": "@Karlee_Swift63",
+    "tiktok_handle": "@gpeterson",
+    "joined_at": "2023-08-10T19:50:06.166300",
+    "advocacy_programs": [
+        {
+            "program_id": "118200d5-326d-44f5-b635-8b878818d501",
+            "brand": "Odonnell-Burns",
+            "tasks_completed": [
+                {
+                    "task_id": "866c74fb-f43f-4dfb-a370-5b9c9ef797b0",
+                    "platform": "Twitter",
+                    "post_url": "http://maxwell.net/",
+                    "likes": 2980,
+                    "comments": 279,
+                    "shares": 60,
+                    "reach": 1459
+                }
+            ],
+            "total_sales_attributed": 3623.82
+        }
+    ]
+}

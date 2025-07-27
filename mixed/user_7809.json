@@ -1,0 +1,26 @@
+{
+    "user_id": "1483a472-0eb1-452c-b817-290fcb855700",
+    "name": "Mary Best",
+    "email": "qroberts@example.org",
+    "instagram_handle": "@elizabethsmith",
+    "tiktok_handle": "@sbishop",
+    "joined_at": "2024-04-12T14:04:25.370647",
+    "advocacy_programs": [
+        {
+            "program_id": "4d4dae76-8421-4d08-9440-cf5e41a275d1",
+            "brand": "Villarreal LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "b8367e32-f785-4e22-be6c-9b384b09ab11",
+                    "platform": "Instagram",
+                    "post_url": "http://www.payne-skinner.com/",
+                    "likes": 135,
+                    "comments": 49,
+                    "shares": 22,
+                    "reach": 6679
+                }
+            ],
+            "total_sales_attributed": 2349.71
+        }
+    ]
+}

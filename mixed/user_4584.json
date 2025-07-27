@@ -1,0 +1,26 @@
+{
+    "user_id": "ffbf10d5-c56b-4bdd-8dbe-0f9418a0640b",
+    "name": "Joshua Lee",
+    "email": "ronald29@example.com",
+    "instagram_handle": "@hdavis",
+    "tiktok_handle": "@sarah53",
+    "joined_at": "2025-05-25T04:53:10.819532",
+    "advocacy_programs": [
+        {
+            "program_id": "4f0033fe-ad67-4b96-995c-4ba67c833445",
+            "brand": "Stewart-Ware",
+            "tasks_completed": [
+                {
+                    "task_id": "a1b1a858-93c3-4ff2-9865-dce39a86bbf9",
+                    "platform": "TikTok",
+                    "post_url": "https://romero.com/",
+                    "likes": 2626,
+                    "comments": 483,
+                    "shares": 23,
+                    "reach": 1074
+                }
+            ],
+            "total_sales_attributed": 7015.99
+        }
+    ]
+}

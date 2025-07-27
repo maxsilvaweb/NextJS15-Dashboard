@@ -1,0 +1,26 @@
+{
+    "user_id": "ce71a4dd-bc6d-46f0-ab2b-8007aa7aafac",
+    "name": "Jessica Peterson",
+    "email": "youngsusan@example.org",
+    "instagram_handle": "@maxwelljamie",
+    "tiktok_handle": "@micheletucker",
+    "joined_at": "2023-12-28T09:29:22.396175",
+    "advocacy_programs": [
+        {
+            "program_id": "747ea220-83fd-4b65-84bc-a71f59657450",
+            "brand": "Moore PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "71592d60-7bb9-4089-86d8-b367736bd9c7",
+                    "platform": "Instagram",
+                    "post_url": "https://fortunate-widow.com/",
+                    "likes": 2592,
+                    "comments": 191,
+                    "shares": 84,
+                    "reach": 1956
+                }
+            ],
+            "total_sales_attributed": 5394.88
+        }
+    ]
+}

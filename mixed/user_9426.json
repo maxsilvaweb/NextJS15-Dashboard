@@ -1,0 +1,26 @@
+{
+    "user_id": "6b2f688d-5154-4e25-a49d-f564014b73d2",
+    "name": "Lois Howe",
+    "email": "Neil_Paucek@hotmail.com",
+    "instagram_handle": "@Enola94",
+    "tiktok_handle": "@Mathew21",
+    "joined_at": "2025-02-04T02:09:54.258Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b04da7c8-d713-4c20-8d8e-048d4d0b2ef3",
+            "brand": "Wilkinson, Labadie and Franey",
+            "tasks_completed": [
+                {
+                    "task_id": "f4a0860b-a8a3-4d95-96b5-5e40d9cddc61",
+                    "platform": "Instagram",
+                    "post_url": "https://lucky-minority.info",
+                    "likes": 198,
+                    "comments": 43,
+                    "shares": 70,
+                    "reach": 4825
+                }
+            ],
+            "total_sales_attributed": 4221.690252038004
+        }
+    ]
+}

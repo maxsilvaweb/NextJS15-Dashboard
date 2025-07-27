@@ -1,0 +1,26 @@
+{
+    "user_id": "a423b6b0-42d3-49f8-bf4a-aa287939cab4",
+    "name": "Doyle Senger",
+    "email": "Kane.Braun-Bashirian@yahoo.com",
+    "instagram_handle": "@Marianna98",
+    "tiktok_handle": "@Corine.Kessler",
+    "joined_at": "2024-04-12T17:10:28.701Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fe450373-2ede-4acb-8b31-58b99cb34a50",
+            "brand": "Gutkowski - Wolff",
+            "tasks_completed": [
+                {
+                    "task_id": "a9edaabc-d592-4c4e-b0fe-5949fd9668f2",
+                    "platform": "TikTok",
+                    "post_url": "https://neighboring-gerbil.name/",
+                    "likes": 238,
+                    "comments": 15,
+                    "shares": 100,
+                    "reach": 3528
+                }
+            ],
+            "total_sales_attributed": 4831.872230572941
+        }
+    ]
+}

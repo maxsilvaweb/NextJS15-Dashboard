@@ -1,0 +1,26 @@
+{
+    "user_id": "e5ec8ad1-3130-45f9-b9c7-caf11bafb4d6",
+    "name": "Mary Bryant",
+    "email": "mbrown@example.net",
+    "instagram_handle": "@ortegaanita",
+    "tiktok_handle": "@rkrause",
+    "joined_at": "2025-07-10T20:22:05.601382",
+    "advocacy_programs": [
+        {
+            "program_id": "a44f1253-682a-4162-932b-3894426a7503",
+            "brand": "Woods Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "62b4c2a7-dff8-4ae4-bc83-ea7ec8b138f9",
+                    "platform": "Facebook",
+                    "post_url": "https://www.white.com/",
+                    "likes": 1031,
+                    "comments": 37,
+                    "shares": 82,
+                    "reach": 2968
+                }
+            ],
+            "total_sales_attributed": 5832.21
+        }
+    ]
+}

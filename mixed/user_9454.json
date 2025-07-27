@@ -1,0 +1,26 @@
+{
+    "user_id": "ec9b82ce-c9c0-4b3c-aa7c-f63d229e18b4",
+    "name": "Omar Auer",
+    "email": "Domenic_Ullrich50@yahoo.com",
+    "instagram_handle": "@Zakary.Leffler",
+    "tiktok_handle": "@Vada.Ortiz98",
+    "joined_at": "2024-11-14T16:47:38.676Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6c26ccee-7433-42b6-93a3-63762e23a701",
+            "brand": "Treutel - Fay",
+            "tasks_completed": [
+                {
+                    "task_id": "86f8c9ff-6a13-4307-8ccd-5350596ec27b",
+                    "platform": "TikTok",
+                    "post_url": "https://suburban-diagram.biz",
+                    "likes": 111,
+                    "comments": 15,
+                    "shares": 72,
+                    "reach": 7579
+                }
+            ],
+            "total_sales_attributed": 3030.4553568684864
+        }
+    ]
+}

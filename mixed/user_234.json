@@ -1,0 +1,26 @@
+{
+    "user_id": "c09a2222-bd16-47f8-9ef7-8c1b53a57c1f",
+    "name": "Mark Cole",
+    "email": "Craig94@yahoo.com",
+    "instagram_handle": "@garciapaul",
+    "tiktok_handle": "@kaitlyndavis",
+    "joined_at": "2025-07-11T13:59:56.896123",
+    "advocacy_programs": [
+        {
+            "program_id": "ffdfebe5-df5a-4b68-815a-351ed2d158e0",
+            "brand": "Brady, Lee and Jenkins",
+            "tasks_completed": [
+                {
+                    "task_id": "02165859-7de3-4e21-aa0f-717e23028635",
+                    "platform": "Instagram",
+                    "post_url": "https://insecure-pupil.org",
+                    "likes": 243,
+                    "comments": 41,
+                    "shares": 83,
+                    "reach": 7892
+                }
+            ],
+            "total_sales_attributed": 7418.58
+        }
+    ]
+}

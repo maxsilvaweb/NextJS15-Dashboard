@@ -1,0 +1,26 @@
+{
+    "user_id": "ddebc23d-2d9b-4027-a2fd-2b84cb9a17d0",
+    "name": "Ryan Calderon",
+    "email": "ndalton@example.net",
+    "instagram_handle": "@Jordan11",
+    "tiktok_handle": "@jamesthomas",
+    "joined_at": "2024-11-14T23:34:08.110409",
+    "advocacy_programs": [
+        {
+            "program_id": "c0f69748-ee03-455a-99be-17600876e7b2",
+            "brand": "Cook Group",
+            "tasks_completed": [
+                {
+                    "task_id": "8ea6efbf-cdeb-4288-a73c-70cc08e06d48",
+                    "platform": "TikTok",
+                    "post_url": "http://www.ferguson.com/",
+                    "likes": 6360,
+                    "comments": 63,
+                    "shares": 95,
+                    "reach": 4746
+                }
+            ],
+            "total_sales_attributed": 8202.26
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "275c0c28-ff2b-40b3-99b7-fd7af0346a03",
+    "name": "Donald Henderson",
+    "email": "melissa76@example.net",
+    "instagram_handle": "@catherine22",
+    "tiktok_handle": "@fitzgeraldwendy",
+    "joined_at": "2025-03-12T14:17:57.227807",
+    "advocacy_programs": [
+        {
+            "program_id": "6250cf55-1b2f-480e-9206-9c359433672a",
+            "brand": "Gibson-Gates",
+            "tasks_completed": [
+                {
+                    "task_id": "2785a118-5345-47f1-9067-22922bd4807c",
+                    "platform": "TikTok",
+                    "post_url": "http://mahoney.biz/",
+                    "likes": 1208,
+                    "comments": 148,
+                    "shares": 74,
+                    "reach": 6223
+                }
+            ],
+            "total_sales_attributed": 8541.44
+        }
+    ]
+}

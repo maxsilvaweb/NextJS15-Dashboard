@@ -1,0 +1,26 @@
+{
+    "user_id": "34b2dc7e-eb11-4c47-956f-2f1bbde0ec78",
+    "name": "Dr. Nicole Monahan",
+    "email": "alec26@example.net",
+    "instagram_handle": "@smithbethany",
+    "tiktok_handle": "@iglover",
+    "joined_at": "2024-03-28T09:37:07.996403",
+    "advocacy_programs": [
+        {
+            "program_id": "4e3aed38-0f7e-427a-99c0-52e930ac26a1",
+            "brand": "Hale-Cunningham",
+            "tasks_completed": [
+                {
+                    "task_id": "7edd4034-680f-4dad-8be1-04ab87d5f4da",
+                    "platform": "Facebook",
+                    "post_url": "https://mejia-whitehead.com/",
+                    "likes": 933,
+                    "comments": 473,
+                    "shares": 83,
+                    "reach": 7911
+                }
+            ],
+            "total_sales_attributed": 7039.27
+        }
+    ]
+}

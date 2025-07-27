@@ -1,0 +1,26 @@
+{
+    "user_id": "13f8048b-fedf-48ab-b4b3-c3c0c166a185",
+    "name": "Jacob Elliott",
+    "email": "ksolomon@example.com",
+    "instagram_handle": "@ericfrancis",
+    "tiktok_handle": "@edwardsamanda",
+    "joined_at": "2025-03-07T08:17:56.995Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1b959dd4-96b8-4b80-ac27-2fa52fe1e13d",
+            "brand": "Perez-Garcia",
+            "tasks_completed": [
+                {
+                    "task_id": "b7b9a482-6abf-4eb2-a6aa-3cc70755cd50",
+                    "platform": "Instagram",
+                    "post_url": "http://baldwin.com/",
+                    "likes": 390,
+                    "comments": 39,
+                    "shares": 56,
+                    "reach": 9315
+                }
+            ],
+            "total_sales_attributed": 1373.9339847905105
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8eb3b401-0592-4c28-8043-2967308a60be",
+    "name": "Michael Jones",
+    "email": "sandrayates@example.com",
+    "instagram_handle": "@danielbrown",
+    "tiktok_handle": "@caselogan",
+    "joined_at": "2025-07-24T13:31:22.713458",
+    "advocacy_programs": [
+        {
+            "program_id": "fc4b8be3-36e4-4b61-b433-2b650333932f",
+            "brand": "Peck-Mcgrath",
+            "tasks_completed": [
+                {
+                    "task_id": "268acf41-c5eb-4516-a766-28bc4d58670c",
+                    "platform": "TikTok",
+                    "post_url": "http://www.riggs-grimes.net/",
+                    "likes": 5201,
+                    "comments": 226,
+                    "shares": 54,
+                    "reach": 5195
+                }
+            ],
+            "total_sales_attributed": 3857.5499728248865
+        }
+    ]
+}

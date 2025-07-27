@@ -1,0 +1,26 @@
+{
+    "user_id": "5c669d17-42c3-4369-9666-988c3b86ff4c",
+    "name": "Miss Charlene Dickinson",
+    "email": "Narciso_Turner95@yahoo.com",
+    "instagram_handle": "@Fabian.Altenwerth",
+    "tiktok_handle": "@Boyd90",
+    "joined_at": "2025-01-29T02:57:01.774Z",
+    "advocacy_programs": [
+        {
+            "program_id": "68ae63f0-d403-4851-8879-2ab193858ccd",
+            "brand": "Upton, Reynolds and Dooley",
+            "tasks_completed": [
+                {
+                    "task_id": "35eafa22-538d-4114-9ee4-63bfc11a6d0b",
+                    "platform": "Instagram",
+                    "post_url": "https://merry-clavicle.org/",
+                    "likes": 261,
+                    "comments": 41,
+                    "shares": 43,
+                    "reach": 3304
+                }
+            ],
+            "total_sales_attributed": 4050.187768835814
+        }
+    ]
+}

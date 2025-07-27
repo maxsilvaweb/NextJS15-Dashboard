@@ -1,0 +1,26 @@
+{
+    "user_id": "aed71852-e88f-4cad-b9a8-7cbb5f806343",
+    "name": "Shelley Koelpin",
+    "email": "Audrey18@gmail.com",
+    "instagram_handle": "@Peggie.Windler",
+    "tiktok_handle": "@Jaleel.Lebsack",
+    "joined_at": "2024-08-24T07:17:08.028Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2458aa48-2c08-4316-8d9f-3efce91fc01e",
+            "brand": "Goldner - Oberbrunner",
+            "tasks_completed": [
+                {
+                    "task_id": "c16b65b9-cf78-4274-b250-2336ae7c137f",
+                    "platform": "Instagram",
+                    "post_url": "https://thick-director.org",
+                    "likes": 363,
+                    "comments": 4,
+                    "shares": 86,
+                    "reach": 6079
+                }
+            ],
+            "total_sales_attributed": 4586.286020529077
+        }
+    ]
+}

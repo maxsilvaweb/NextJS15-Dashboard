@@ -1,0 +1,26 @@
+{
+    "user_id": "3808ff08-3a99-4e86-9b5a-c3e8650f944e",
+    "name": "Sylvester Murphy",
+    "email": "Kayleigh63@hotmail.com",
+    "instagram_handle": "@Madaline79",
+    "tiktok_handle": "@Hildegard.Walter",
+    "joined_at": "2024-11-23T19:29:09.688Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a1ee4a7e-228e-42e6-b88a-1aa168ed4055",
+            "brand": "Homenick, Dooley and Schumm",
+            "tasks_completed": [
+                {
+                    "task_id": "b1cf9fbd-e41d-47d8-8808-27d80b01e0ab",
+                    "platform": "Instagram",
+                    "post_url": "https://teeming-character.com",
+                    "likes": 30,
+                    "comments": 47,
+                    "shares": 10,
+                    "reach": 9451
+                }
+            ],
+            "total_sales_attributed": 2481.2342863470076
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "222d474c-3a8a-4a03-9cbe-b0ea8a52b53a",
+    "name": "Mrs. Arlene Hand",
+    "email": "Colt.Price@yahoo.com",
+    "instagram_handle": "@Giovani.Stroman36",
+    "tiktok_handle": "@Lauriane.Stokes-Fritsch41",
+    "joined_at": "2024-05-02T07:34:14.354Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8466060c-79da-42a8-94b7-62d880109e44",
+            "brand": "Mills - Bogan",
+            "tasks_completed": [
+                {
+                    "task_id": "275f79e3-c41a-425c-97c4-9c260aaaf0ea",
+                    "platform": "Instagram",
+                    "post_url": "https://both-trash.info/",
+                    "likes": 246,
+                    "comments": 46,
+                    "shares": 76,
+                    "reach": 9217
+                }
+            ],
+            "total_sales_attributed": 3093.5639037677424
+        }
+    ]
+}

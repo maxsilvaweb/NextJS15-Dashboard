@@ -1,0 +1,26 @@
+{
+    "user_id": "1de9bea2-9bc8-4f90-a4d7-159bcd93ae1e",
+    "name": "Sean Mayer",
+    "email": "thomasmack@example.org",
+    "instagram_handle": "@jonesrodney",
+    "tiktok_handle": "@sparrish",
+    "joined_at": "2024-05-17T03:09:07.477339",
+    "advocacy_programs": [
+        {
+            "program_id": "a4823fd9-ef42-4309-83f1-b360a8dbfd5b",
+            "brand": "Diaz-Perry",
+            "tasks_completed": [
+                {
+                    "task_id": "4613e35c-a516-4a30-b98d-bbe6b9521c64",
+                    "platform": "TikTok",
+                    "post_url": "https://www.owens.com/",
+                    "likes": 8929,
+                    "comments": 454,
+                    "shares": 49,
+                    "reach": 1796
+                }
+            ],
+            "total_sales_attributed": 7290.51
+        }
+    ]
+}

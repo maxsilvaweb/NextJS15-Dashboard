@@ -1,0 +1,26 @@
+{
+    "user_id": "fc62efd7-39d7-4800-9302-7ef4767171fb",
+    "name": "Lynne Conroy",
+    "email": "Nyah.Becker@hotmail.com",
+    "instagram_handle": "@Jaquelin_Nikolaus",
+    "tiktok_handle": "@Terrill.Beier18",
+    "joined_at": "2024-07-19T16:18:17.993Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ac44c030-0540-42b5-a0cc-75ecc252dc97",
+            "brand": "Wisozk - Gusikowski",
+            "tasks_completed": [
+                {
+                    "task_id": "23212a24-1e2f-4136-b0cb-2d1a078829ca",
+                    "platform": "Instagram",
+                    "post_url": "https://descriptive-t-shirt.com/",
+                    "likes": 277,
+                    "comments": 26,
+                    "shares": 33,
+                    "reach": 8380
+                }
+            ],
+            "total_sales_attributed": 2818.5927035890404
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "65a5d9ee-9fa8-4913-9be6-59b62981ba86",
+    "name": "Chester Leuschke",
+    "email": "Dustin.Hodkiewicz@hotmail.com",
+    "instagram_handle": "@Freida.Renner42",
+    "tiktok_handle": "@Shad69",
+    "joined_at": "2024-10-20T20:44:41.218Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fb4bd9e1-c070-4d3e-ac2e-40cc13fcd563",
+            "brand": "Ratke Group",
+            "tasks_completed": [
+                {
+                    "task_id": "deff5add-7e57-49bb-9953-ab54df1855e4",
+                    "platform": "Instagram",
+                    "post_url": "https://polished-verve.biz/",
+                    "likes": 351,
+                    "comments": 18,
+                    "shares": 2,
+                    "reach": 8872
+                }
+            ],
+            "total_sales_attributed": 4619.911107662689
+        }
+    ]
+}

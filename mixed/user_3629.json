@@ -1,0 +1,26 @@
+{
+    "user_id": "56379f1c-b258-4af6-8427-2c33da364053",
+    "name": "Dr. Kristy Maggio",
+    "email": "Muriel68@gmail.com",
+    "instagram_handle": "@Maxwell43",
+    "tiktok_handle": "@Jason.Maggio1",
+    "joined_at": "2024-05-30T02:26:33.142Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4fdfcd33-4231-44dc-aa5b-38187d2510e7",
+            "brand": "Stehr, Marks and Lindgren",
+            "tasks_completed": [
+                {
+                    "task_id": "a1a775dd-14c0-4bd1-b424-e8c2052a99ba",
+                    "platform": "Instagram",
+                    "post_url": "https://incomparable-adrenalin.com",
+                    "likes": 491,
+                    "comments": 12,
+                    "shares": 90,
+                    "reach": 3718
+                }
+            ],
+            "total_sales_attributed": 3390.76958583087
+        }
+    ]
+}

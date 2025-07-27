@@ -1,0 +1,26 @@
+{
+    "user_id": "30c2a643-6f3c-4436-ba0a-8942cb9dae4f",
+    "name": "Kirk Zulauf",
+    "email": "Murray_Stracke27@gmail.com",
+    "instagram_handle": "@Herman_Altenwerth",
+    "tiktok_handle": "@Ariane97",
+    "joined_at": "2024-07-15T08:43:55.905Z",
+    "advocacy_programs": [
+        {
+            "program_id": "87c6ef65-4143-40e4-a525-19271c4a4c02",
+            "brand": "Hintz, Lynch and Friesen",
+            "tasks_completed": [
+                {
+                    "task_id": "10695845-fb55-47ac-9868-8420350bdaa0",
+                    "platform": "TikTok",
+                    "post_url": "https://same-pop.biz",
+                    "likes": 332,
+                    "comments": 11,
+                    "shares": 29,
+                    "reach": 2159
+                }
+            ],
+            "total_sales_attributed": 4403.103330210689
+        }
+    ]
+}

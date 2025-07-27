@@ -1,0 +1,26 @@
+{
+    "user_id": "e063c980-8023-49ed-9dd3-d5c258252269",
+    "name": "Joanne Butler",
+    "email": "richardelliott@example.org",
+    "instagram_handle": "@fosterdaniel",
+    "tiktok_handle": "@brian13",
+    "joined_at": "2024-09-09T05:13:39.622029",
+    "advocacy_programs": [
+        {
+            "program_id": "2b7bee84-4073-44d5-8c64-cc03217e4ffa",
+            "brand": "Willis Group",
+            "tasks_completed": [
+                {
+                    "task_id": "97ab6bd6-1e6b-4db3-afc0-e937e4fa6f09",
+                    "platform": "Instagram",
+                    "post_url": "https://www.lindsey.com/",
+                    "likes": 25,
+                    "comments": 309,
+                    "shares": 33,
+                    "reach": 2884
+                }
+            ],
+            "total_sales_attributed": 1379.02
+        }
+    ]
+}

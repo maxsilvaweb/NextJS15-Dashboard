@@ -1,0 +1,26 @@
+{
+    "user_id": "84a5fd58-6ed3-4700-b40a-bf7191acea85",
+    "name": "Kevin Harrison",
+    "email": "poolekyle@example.org",
+    "instagram_handle": "@Abbie.VonRueden",
+    "tiktok_handle": "@williamalexander",
+    "joined_at": "2023-11-16T14:06:39.592217",
+    "advocacy_programs": [
+        {
+            "program_id": "ad0d4ea4-6098-44b5-9dcf-3fe5f4407d96",
+            "brand": "Phillips Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "e6141182-0654-429c-8544-3cdbe7790c47",
+                    "platform": "Facebook",
+                    "post_url": "http://www.sullivan-ferguson.net/",
+                    "likes": 3759,
+                    "comments": 146,
+                    "shares": 7,
+                    "reach": 4279
+                }
+            ],
+            "total_sales_attributed": 4880.5
+        }
+    ]
+}

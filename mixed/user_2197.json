@@ -1,0 +1,26 @@
+{
+    "user_id": "85710dcb-0e3a-4d5a-89ae-27be540dadda",
+    "name": "Wesley Stoltenberg Jr.",
+    "email": "steven32@example.org",
+    "instagram_handle": "@michaelrobinson",
+    "tiktok_handle": "@heidi95",
+    "joined_at": "2023-08-28T15:02:10.086781",
+    "advocacy_programs": [
+        {
+            "program_id": "c7b32d52-0c93-4811-a652-78815bf17934",
+            "brand": "Thomas, Thompson and Martinez",
+            "tasks_completed": [
+                {
+                    "task_id": "6ecb0c5e-804a-4170-9ea6-53d530ad043b",
+                    "platform": "Instagram",
+                    "post_url": "http://jones.com/",
+                    "likes": 9366,
+                    "comments": 71,
+                    "shares": 37,
+                    "reach": 8134
+                }
+            ],
+            "total_sales_attributed": 5418.34
+        }
+    ]
+}

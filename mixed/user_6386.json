@@ -1,0 +1,26 @@
+{
+    "user_id": "abf91c08-c7a5-401a-b7bd-68fb28549a83",
+    "name": "Shannon Kilback",
+    "email": "Alvena38@hotmail.com",
+    "instagram_handle": "@Moises.Nienow60",
+    "tiktok_handle": "@Geovanny43",
+    "joined_at": "2025-03-14T22:34:16.641Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4c7ba7ba-5d45-4164-9720-41f6b107a8c9",
+            "brand": "Tremblay - Roberts",
+            "tasks_completed": [
+                {
+                    "task_id": "183ace28-ce19-4083-9447-1e5ca9e49107",
+                    "platform": "Instagram",
+                    "post_url": "https://unfinished-sonar.org",
+                    "likes": 197,
+                    "comments": 20,
+                    "shares": 71,
+                    "reach": 5509
+                }
+            ],
+            "total_sales_attributed": 2518.5630656308754
+        }
+    ]
+}

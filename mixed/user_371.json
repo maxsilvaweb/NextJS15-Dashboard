@@ -1,0 +1,26 @@
+{
+    "user_id": "9751c9c6-e649-4be6-8a84-10ffcc67947e",
+    "name": "Carrie Johns",
+    "email": "Ressie.Grady53@hotmail.com",
+    "instagram_handle": "@Everardo_Mertz53",
+    "tiktok_handle": "@Tessie.Batz",
+    "joined_at": "2024-06-14T01:11:52.407Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4e6d4aea-8ca0-42bc-84ca-a88ab3c4e474",
+            "brand": "Green - Beer",
+            "tasks_completed": [
+                {
+                    "task_id": "107870a0-245f-437c-98d5-f7601b95fd55",
+                    "platform": "TikTok",
+                    "post_url": "https://monstrous-silk.name/",
+                    "likes": 292,
+                    "comments": 29,
+                    "shares": 13,
+                    "reach": 8042
+                }
+            ],
+            "total_sales_attributed": 4341.2476529906235
+        }
+    ]
+}

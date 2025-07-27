@@ -1,0 +1,26 @@
+{
+    "user_id": "6272f670-362f-4a60-896c-4d4406ff1ffb",
+    "name": "Anthony Bennett",
+    "email": "karenhenry@example.org",
+    "instagram_handle": "@lisaturner",
+    "tiktok_handle": "@schneiderrussell",
+    "joined_at": "2024-09-19T21:49:47.890836",
+    "advocacy_programs": [
+        {
+            "program_id": "f2a3f9f1-0f88-4802-8838-50feb8daa3d7",
+            "brand": "Martin PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7351f30c-4a5e-4842-825b-22ee0e97e50d",
+                    "platform": "Instagram",
+                    "post_url": "https://www.ramirez.com/",
+                    "likes": 7946,
+                    "comments": 49,
+                    "shares": 25,
+                    "reach": 5803
+                }
+            ],
+            "total_sales_attributed": 4637.650299116521
+        }
+    ]
+}

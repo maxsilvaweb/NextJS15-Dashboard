@@ -1,0 +1,26 @@
+{
+    "user_id": "5f6bc30e-22e5-49ba-9301-50ec8a119a51",
+    "name": "Robert Shepard",
+    "email": "smithdavid@example.com",
+    "instagram_handle": "@elliscolin",
+    "tiktok_handle": "@kelly47",
+    "joined_at": "2024-03-19T20:54:45.259254",
+    "advocacy_programs": [
+        {
+            "program_id": "558965a6-24fb-4aa2-af7b-2644186ccbe6",
+            "brand": "Powers-Elliott",
+            "tasks_completed": [
+                {
+                    "task_id": "dcca1c75-512b-4aae-bb0c-38e993fd3486",
+                    "platform": "Facebook",
+                    "post_url": "http://peterson.biz/",
+                    "likes": 4277,
+                    "comments": 15,
+                    "shares": 68,
+                    "reach": 7488
+                }
+            ],
+            "total_sales_attributed": 8554.6
+        }
+    ]
+}

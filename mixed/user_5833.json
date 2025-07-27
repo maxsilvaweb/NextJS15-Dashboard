@@ -1,0 +1,26 @@
+{
+    "user_id": "a7c99141-1259-4a10-ba7e-ff0e063b8170",
+    "name": "Randy Villanueva",
+    "email": "charles97@example.com",
+    "instagram_handle": "@rdavis",
+    "tiktok_handle": "@william06",
+    "joined_at": "2025-03-28T19:54:21.668017",
+    "advocacy_programs": [
+        {
+            "program_id": "dfa59cce-892a-492e-80cb-4bba5035e93f",
+            "brand": "Ferguson, Pham and Hernandez",
+            "tasks_completed": [
+                {
+                    "task_id": "be833f81-cadb-4fdc-aef9-5612907b573f",
+                    "platform": "Facebook",
+                    "post_url": "http://www.gallagher.com/",
+                    "likes": 213,
+                    "comments": 28,
+                    "shares": 100,
+                    "reach": 6826
+                }
+            ],
+            "total_sales_attributed": 3780.524985289252
+        }
+    ]
+}

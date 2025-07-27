@@ -1,0 +1,26 @@
+{
+    "user_id": "6e33decb-957c-436a-b4e2-b4d581e3b085",
+    "name": "Amber Gill",
+    "email": "kaylabender@example.net",
+    "instagram_handle": "@Allan_Blanda",
+    "tiktok_handle": "@harrismatthew",
+    "joined_at": "2023-08-22T07:10:18.725140",
+    "advocacy_programs": [
+        {
+            "program_id": "225c4980-abcb-4840-ab7d-6c43e6e3d31e",
+            "brand": "Mitchell Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "653acfa3-391e-4263-b591-686cf3743ebe",
+                    "platform": "Facebook",
+                    "post_url": "https://williams-jennings.com/",
+                    "likes": 3464,
+                    "comments": 33,
+                    "shares": 18,
+                    "reach": 1804
+                }
+            ],
+            "total_sales_attributed": 293.17261010185734
+        }
+    ]
+}

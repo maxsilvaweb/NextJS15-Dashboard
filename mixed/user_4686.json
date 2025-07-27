@@ -1,0 +1,26 @@
+{
+    "user_id": "e561e3b5-0fa1-4071-a4d0-fb291ee8d4e0",
+    "name": "Melinda Hunter",
+    "email": "wrussell@example.org",
+    "instagram_handle": "@mackenzie58",
+    "tiktok_handle": "@randall80",
+    "joined_at": "2023-12-21T03:33:20.424519",
+    "advocacy_programs": [
+        {
+            "program_id": "f6cbb921-e9da-4f6e-851c-c4a8be5557dc",
+            "brand": "Porter LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c974a5a3-c793-4ce2-b9b1-cece864894a3",
+                    "platform": "Facebook",
+                    "post_url": "https://trained-confusion.biz",
+                    "likes": 3846,
+                    "comments": 248,
+                    "shares": 94,
+                    "reach": 5625
+                }
+            ],
+            "total_sales_attributed": 1586.7821807637868
+        }
+    ]
+}

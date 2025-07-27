@@ -1,0 +1,26 @@
+{
+    "user_id": "80f3e0aa-2413-4cf2-adb9-30385b45dadc",
+    "name": "Daisy Moore",
+    "email": "Elvis.Tromp@gmail.com",
+    "instagram_handle": "@Lesly.Gerlach55",
+    "tiktok_handle": "@Jaida72",
+    "joined_at": "2024-05-12T19:30:22.446Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9bf185a4-b5a3-4a09-b8e1-56643a4c3f9e",
+            "brand": "Borer - VonRueden",
+            "tasks_completed": [
+                {
+                    "task_id": "9605d73d-304d-4f28-ad98-bb30fa992c34",
+                    "platform": "Instagram",
+                    "post_url": "https://smug-tool.net/",
+                    "likes": 171,
+                    "comments": 2,
+                    "shares": 60,
+                    "reach": 1383
+                }
+            ],
+            "total_sales_attributed": 3898.499816450253
+        }
+    ]
+}

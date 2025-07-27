@@ -1,0 +1,26 @@
+{
+    "user_id": "f933d42e-13fd-4837-a32e-86776f06d341",
+    "name": "Natalie Harris",
+    "email": "perezbonnie@example.org",
+    "instagram_handle": "@monroeshawn",
+    "tiktok_handle": "@stephanie82",
+    "joined_at": "2024-12-31T16:10:37.561187",
+    "advocacy_programs": [
+        {
+            "program_id": "455624bd-28c3-470b-a2b5-3265056813aa",
+            "brand": "Stout Group",
+            "tasks_completed": [
+                {
+                    "task_id": "033206b5-1260-462a-a792-762d0273250e",
+                    "platform": "TikTok",
+                    "post_url": "http://www.ortega.com/",
+                    "likes": 57,
+                    "comments": 86,
+                    "shares": 16,
+                    "reach": 7536
+                }
+            ],
+            "total_sales_attributed": 4170.298678267745
+        }
+    ]
+}

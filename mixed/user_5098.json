@@ -1,0 +1,26 @@
+{
+    "user_id": "02d02f17-1393-4870-9f8a-8710af3b0cab",
+    "name": "Warren Koch",
+    "email": "Zander35@yahoo.com",
+    "instagram_handle": "@Emmalee.Daniel",
+    "tiktok_handle": "@Hosea49",
+    "joined_at": "2024-10-13T19:27:01.858Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9b687a90-38dd-4bf4-9582-19ab7924a009",
+            "brand": "Armstrong - Thiel",
+            "tasks_completed": [
+                {
+                    "task_id": "167bf6b0-c019-4e5f-88d7-a773aca9e6d4",
+                    "platform": "TikTok",
+                    "post_url": "https://husky-going.org/",
+                    "likes": 344,
+                    "comments": 31,
+                    "shares": 77,
+                    "reach": 2345
+                }
+            ],
+            "total_sales_attributed": 177.82077360015876
+        }
+    ]
+}

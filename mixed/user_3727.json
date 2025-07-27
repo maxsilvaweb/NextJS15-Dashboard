@@ -1,0 +1,26 @@
+{
+    "user_id": "3ef749e4-455f-414e-b231-4ec9ef4d905b",
+    "name": "Erin Satterfield",
+    "email": "Frederick_Lubowitz16@yahoo.com",
+    "instagram_handle": "@Jayme95",
+    "tiktok_handle": "@Violette4",
+    "joined_at": "2025-03-13T22:46:30.479Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e325d3d7-f615-442d-9007-1413b04f5d24",
+            "brand": "Hauck Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "cdff4e9a-4100-41e8-b904-98437b45822d",
+                    "platform": "TikTok",
+                    "post_url": "https://insidious-management.biz/",
+                    "likes": 160,
+                    "comments": 37,
+                    "shares": 46,
+                    "reach": 6497
+                }
+            ],
+            "total_sales_attributed": 4046.562518581306
+        }
+    ]
+}

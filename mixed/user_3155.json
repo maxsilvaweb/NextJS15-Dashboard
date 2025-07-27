@@ -1,0 +1,26 @@
+{
+    "user_id": "ec04b6e0-e8f1-4931-be81-1038f275886f",
+    "name": "Vanessa Champlin",
+    "email": "Jonathan.Schinner55@gmail.com",
+    "instagram_handle": "@Lavada_Hoeger",
+    "tiktok_handle": "@Jerry94",
+    "joined_at": "2024-08-18T22:34:35.940Z",
+    "advocacy_programs": [
+        {
+            "program_id": "56dd500b-86bd-4f8b-8c22-d45981042005",
+            "brand": "Greenfelder - Torp",
+            "tasks_completed": [
+                {
+                    "task_id": "bd070868-00af-4887-9083-dcec9175359d",
+                    "platform": "TikTok",
+                    "post_url": "https://inconsequential-shark.com",
+                    "likes": 432,
+                    "comments": 15,
+                    "shares": 31,
+                    "reach": 6892
+                }
+            ],
+            "total_sales_attributed": 2748.735590698584
+        }
+    ]
+}

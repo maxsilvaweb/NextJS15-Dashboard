@@ -1,0 +1,26 @@
+{
+    "user_id": "202ef863-9489-4e92-8159-e0056bb03016",
+    "name": "Jeffrey Mueller",
+    "email": "leonardpamela@example.com",
+    "instagram_handle": "@lopezjohn",
+    "tiktok_handle": "@kenneth15",
+    "joined_at": "2025-07-14T13:00:59.252127",
+    "advocacy_programs": [
+        {
+            "program_id": "4e7e656c-2f49-42ab-8cf7-0177b3591eb7",
+            "brand": "Brown and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "3507f40b-aca7-4a6e-b9fc-046997523af1",
+                    "platform": "Instagram",
+                    "post_url": "https://inexperienced-brief.net/",
+                    "likes": 744,
+                    "comments": 161,
+                    "shares": 32,
+                    "reach": 3746
+                }
+            ],
+            "total_sales_attributed": 7915.4
+        }
+    ]
+}

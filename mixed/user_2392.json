@@ -1,0 +1,26 @@
+{
+    "user_id": "f04ce225-4b0c-4c38-b499-c41bd09be641",
+    "name": "Kelly Murphy",
+    "email": "thawkins@example.org",
+    "instagram_handle": "@jcampbell",
+    "tiktok_handle": "@josephmorgan",
+    "joined_at": "2024-11-11T12:28:52.518350",
+    "advocacy_programs": [
+        {
+            "program_id": "6651f7c4-a3de-412c-96cd-dd5de1e4de46",
+            "brand": "Mason Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "e939df6f-5080-401f-a031-a33e564eaa26",
+                    "platform": "TikTok",
+                    "post_url": "https://ecstatic-rule.com/",
+                    "likes": 4142,
+                    "comments": 84,
+                    "shares": 75,
+                    "reach": 9748
+                }
+            ],
+            "total_sales_attributed": 6978.91
+        }
+    ]
+}

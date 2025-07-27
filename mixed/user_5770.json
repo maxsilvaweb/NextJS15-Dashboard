@@ -1,0 +1,26 @@
+{
+    "user_id": "0c384722-500d-4a4a-bfd0-f683bb667e58",
+    "name": "Agnes Hagenes",
+    "email": "Maegan_Kling@hotmail.com",
+    "instagram_handle": "@michelleroach",
+    "tiktok_handle": "@catherine92",
+    "joined_at": "2025-04-10T03:25:42.070771",
+    "advocacy_programs": [
+        {
+            "program_id": "08ccd79e-c26d-48ae-956c-e7c54a7c71f2",
+            "brand": "Allen, Wagner and Martinez",
+            "tasks_completed": [
+                {
+                    "task_id": "d720bc81-b360-4fa0-a88b-474e7ca5ef0d",
+                    "platform": "Facebook",
+                    "post_url": "https://glittering-aftermath.com",
+                    "likes": 110,
+                    "comments": 43,
+                    "shares": 7,
+                    "reach": 7268
+                }
+            ],
+            "total_sales_attributed": 5603.04
+        }
+    ]
+}

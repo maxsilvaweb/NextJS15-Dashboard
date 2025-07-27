@@ -1,0 +1,26 @@
+{
+    "user_id": "15c78c98-3df6-4e95-9a59-870471d50abd",
+    "name": "Bridget Treutel",
+    "email": "Marques.Quitzon-Sipes63@gmail.com",
+    "instagram_handle": "@Hosea_Dickens37",
+    "tiktok_handle": "@Reed_Metz33",
+    "joined_at": "2025-03-07T15:04:43.119Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ed06a9b3-a7cb-44d3-9d97-1cfdf041fcd5",
+            "brand": "Rath - Swift",
+            "tasks_completed": [
+                {
+                    "task_id": "5b1caf1d-b961-499d-b8d5-685dcf0901c9",
+                    "platform": "TikTok",
+                    "post_url": "https://unfinished-sediment.org",
+                    "likes": 207,
+                    "comments": 31,
+                    "shares": 9,
+                    "reach": 3430
+                }
+            ],
+            "total_sales_attributed": 2195.8780234626856
+        }
+    ]
+}

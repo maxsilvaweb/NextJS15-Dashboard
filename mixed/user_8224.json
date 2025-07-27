@@ -1,0 +1,26 @@
+{
+    "user_id": "92546f35-5e83-4f92-abc5-4eada899dc42",
+    "name": "Jeremiah Bishop",
+    "email": "Michale5@yahoo.com",
+    "instagram_handle": "@billysanchez",
+    "tiktok_handle": "@rogersdouglas",
+    "joined_at": "2024-03-23T04:51:22.677830",
+    "advocacy_programs": [
+        {
+            "program_id": "70baf5a4-6407-42db-8898-a64cff11ea40",
+            "brand": "Rivera PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "04fd9c84-2b09-4662-9852-90d8dba10407",
+                    "platform": "Instagram",
+                    "post_url": "http://www.rodriguez.info/",
+                    "likes": 2394,
+                    "comments": 34,
+                    "shares": 93,
+                    "reach": 1904
+                }
+            ],
+            "total_sales_attributed": 1963.29
+        }
+    ]
+}

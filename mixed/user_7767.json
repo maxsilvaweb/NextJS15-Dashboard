@@ -1,0 +1,26 @@
+{
+    "user_id": "118fad36-0058-401d-828a-fda3f8902d76",
+    "name": "Andre Kohler",
+    "email": "Evangeline30@hotmail.com",
+    "instagram_handle": "@Ally.Lang",
+    "tiktok_handle": "@Clovis89",
+    "joined_at": "2024-10-22T07:19:45.598Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dd66e4e1-d905-4cdb-b1d7-f9f0d8afba6c",
+            "brand": "Langosh, Daniel and Mayert",
+            "tasks_completed": [
+                {
+                    "task_id": "c5b6d7bb-9583-4f0d-9107-29f243524abf",
+                    "platform": "Instagram",
+                    "post_url": "https://jubilant-marimba.net",
+                    "likes": 324,
+                    "comments": 12,
+                    "shares": 1,
+                    "reach": 8990
+                }
+            ],
+            "total_sales_attributed": 4638.463673889903
+        }
+    ]
+}

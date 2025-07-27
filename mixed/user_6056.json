@@ -1,0 +1,26 @@
+{
+    "user_id": "f18a010e-354d-407d-b25c-ae74e1244ab3",
+    "name": "Brandon Estes",
+    "email": "davidharris@example.com",
+    "instagram_handle": "@deborahpollard",
+    "tiktok_handle": "@jeffreywilliams",
+    "joined_at": "2025-05-18T18:01:34.958799",
+    "advocacy_programs": [
+        {
+            "program_id": "85507ed5-216f-4398-97e5-0493e5e9b285",
+            "brand": "Pfannerstill, Lynch and Dach",
+            "tasks_completed": [
+                {
+                    "task_id": "835eba06-2ecb-40b0-8787-5cb5ba23c62d",
+                    "platform": "Twitter",
+                    "post_url": "http://case-norton.com/",
+                    "likes": 9084,
+                    "comments": 254,
+                    "shares": 31,
+                    "reach": 3200
+                }
+            ],
+            "total_sales_attributed": 1950.72
+        }
+    ]
+}

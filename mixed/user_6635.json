@@ -1,0 +1,26 @@
+{
+    "user_id": "ead2701a-8766-4cc2-8d2e-4d78db6c0029",
+    "name": "Wesley Mills",
+    "email": "sstanley@example.net",
+    "instagram_handle": "@gbrock",
+    "tiktok_handle": "@Sylvan.Ebert",
+    "joined_at": "2024-10-07T13:36:55.949525",
+    "advocacy_programs": [
+        {
+            "program_id": "b95f12d8-1f97-4d03-b70c-fb8dd3ca460f",
+            "brand": "Gonzales Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "f32cfedb-d322-4f77-b2fd-7d0dfb80ca8f",
+                    "platform": "Instagram",
+                    "post_url": "http://johnson.org/",
+                    "likes": 4216,
+                    "comments": 105,
+                    "shares": 81,
+                    "reach": 9890
+                }
+            ],
+            "total_sales_attributed": 5712.74
+        }
+    ]
+}

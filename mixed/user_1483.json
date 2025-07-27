@@ -1,0 +1,26 @@
+{
+    "user_id": "73aa3257-f40b-4ebf-b75d-cd23311a4603",
+    "name": "Cameron Barton MD",
+    "email": "lukemurphy@example.org",
+    "instagram_handle": "@laura19",
+    "tiktok_handle": "@phillipsstephen",
+    "joined_at": "2025-02-11T07:27:23.833Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6a5c0930-438f-4a31-8976-53862ad8393d",
+            "brand": "Petersen, Sullivan and Robbins",
+            "tasks_completed": [
+                {
+                    "task_id": "11ea64e6-ef3d-4826-a0b3-c6160b9b949c",
+                    "platform": "Twitter",
+                    "post_url": "https://heath.com/",
+                    "likes": 7889,
+                    "comments": 404,
+                    "shares": 45,
+                    "reach": 590
+                }
+            ],
+            "total_sales_attributed": 8214.0
+        }
+    ]
+}

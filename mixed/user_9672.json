@@ -1,0 +1,26 @@
+{
+    "user_id": "26f2cdcc-7edb-4a2e-b86d-96b83136d784",
+    "name": "Joshua Garcia",
+    "email": "emurphy@example.org",
+    "instagram_handle": "@murphytheresa",
+    "tiktok_handle": "@willismary",
+    "joined_at": "2024-08-19T15:49:53.174362",
+    "advocacy_programs": [
+        {
+            "program_id": "54cf0d43-fc1e-4cdc-9965-3a9faa622382",
+            "brand": "Barton and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "6fafdcb6-0dde-49aa-93ae-5c88431fcba9",
+                    "platform": "Facebook",
+                    "post_url": "http://kent-smith.com/",
+                    "likes": 4213,
+                    "comments": 361,
+                    "shares": 51,
+                    "reach": 1797
+                }
+            ],
+            "total_sales_attributed": 1533.67
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "380d9def-9a48-4dd4-a563-b58c24456e00",
+    "name": "Michael Hardy",
+    "email": "munozisaiah@example.org",
+    "instagram_handle": "@ericmoore",
+    "tiktok_handle": "@logan95",
+    "joined_at": "2023-10-29T01:42:09.366438",
+    "advocacy_programs": [
+        {
+            "program_id": "487b8675-6519-4778-b769-742fd0ec9abe",
+            "brand": "Gilbert-Wilson",
+            "tasks_completed": [
+                {
+                    "task_id": "89b6428b-e171-4ea2-9704-16e4cc07fa26",
+                    "platform": "TikTok",
+                    "post_url": "https://optimal-possession.info/",
+                    "likes": 5482,
+                    "comments": 468,
+                    "shares": 65,
+                    "reach": 7091
+                }
+            ],
+            "total_sales_attributed": 5496.81
+        }
+    ]
+}

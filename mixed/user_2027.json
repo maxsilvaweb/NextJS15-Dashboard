@@ -1,0 +1,26 @@
+{
+    "user_id": "9956ff28-c5cf-4319-9561-64ea601a4184",
+    "name": "Abraham Walsh",
+    "email": "Flossie_Dare@hotmail.com",
+    "instagram_handle": "@Alexane.Altenwerth-Willms6",
+    "tiktok_handle": "@Christian_Lehner63",
+    "joined_at": "2024-09-23T19:26:15.888Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ab7d91fb-36c9-4caf-acfd-8583eeaab561",
+            "brand": "Watsica - Fay",
+            "tasks_completed": [
+                {
+                    "task_id": "671e0f30-c4eb-4f90-a49e-e021baafd971",
+                    "platform": "Instagram",
+                    "post_url": "https://hurtful-wasabi.net",
+                    "likes": 359,
+                    "comments": 0,
+                    "shares": 76,
+                    "reach": 4051
+                }
+            ],
+            "total_sales_attributed": 4801.5561560312
+        }
+    ]
+}

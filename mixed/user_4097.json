@@ -1,0 +1,26 @@
+{
+    "user_id": "3f40be86-bb0e-4c5b-9079-5dc494f69fe0",
+    "name": "Devin Hall",
+    "email": "Kelsie_Gottlieb@gmail.com",
+    "instagram_handle": "@sclayton",
+    "tiktok_handle": "@jonathanroberts",
+    "joined_at": "2025-04-03T09:00:07.912328",
+    "advocacy_programs": [
+        {
+            "program_id": "988ce919-de38-44ae-a97a-09703c1d4b5c",
+            "brand": "Lee Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "b033166a-67f4-47c9-86ee-c977598f7ac8",
+                    "platform": "TikTok",
+                    "post_url": "http://jones-martin.com/",
+                    "likes": 662,
+                    "comments": 378,
+                    "shares": 31,
+                    "reach": 7296
+                }
+            ],
+            "total_sales_attributed": 4947.038161588663
+        }
+    ]
+}

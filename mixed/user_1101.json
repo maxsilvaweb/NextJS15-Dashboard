@@ -1,0 +1,26 @@
+{
+    "user_id": "1aa52cfc-3088-42e4-9e81-053853046ff1",
+    "name": "Jacob Martin",
+    "email": "qwebb@example.org",
+    "instagram_handle": "@nreid",
+    "tiktok_handle": "@heather70",
+    "joined_at": "2023-09-21T23:37:51.991643",
+    "advocacy_programs": [
+        {
+            "program_id": "8faf91f1-cfb9-4943-9f78-248d7f403659",
+            "brand": "Arellano-Frazier",
+            "tasks_completed": [
+                {
+                    "task_id": "872d7bdd-1270-4590-a189-2037e750b950",
+                    "platform": "Instagram",
+                    "post_url": "https://easy-phrase.org/",
+                    "likes": 1450,
+                    "comments": 44,
+                    "shares": 79,
+                    "reach": 5516
+                }
+            ],
+            "total_sales_attributed": 6160.58
+        }
+    ]
+}

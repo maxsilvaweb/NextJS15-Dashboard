@@ -1,0 +1,26 @@
+{
+    "user_id": "a2efe6ee-71c8-41d9-a979-5df4990a2e6d",
+    "name": "Michael Davis",
+    "email": "brett11@example.com",
+    "instagram_handle": "@kenneth79",
+    "tiktok_handle": "@john85",
+    "joined_at": "2024-11-18T18:16:28.898393",
+    "advocacy_programs": [
+        {
+            "program_id": "8a6dc04c-b09f-4166-9355-8a67eccdfd2d",
+            "brand": "Smith Group",
+            "tasks_completed": [
+                {
+                    "task_id": "1746a4ac-04c3-41c0-b9a2-e875e2fad394",
+                    "platform": "Instagram",
+                    "post_url": "https://rivas.com/",
+                    "likes": 3718,
+                    "comments": 36,
+                    "shares": 72,
+                    "reach": 2076
+                }
+            ],
+            "total_sales_attributed": 4980.56
+        }
+    ]
+}

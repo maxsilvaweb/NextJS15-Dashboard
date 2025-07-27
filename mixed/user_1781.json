@@ -1,0 +1,26 @@
+{
+    "user_id": "a3e7c19a-1302-4ac9-934c-9c81864c7dce",
+    "name": "Sharon Lee",
+    "email": "david53@example.net",
+    "instagram_handle": "@sherrygarza",
+    "tiktok_handle": "@perezelizabeth",
+    "joined_at": "2024-05-21T05:27:03.516Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b6ad5128-389f-4dd6-93b6-44b142abd3a0",
+            "brand": "Williamson - Aufderhar",
+            "tasks_completed": [
+                {
+                    "task_id": "e8c9827e-9713-42a9-b224-01f0e9e971f3",
+                    "platform": "Facebook",
+                    "post_url": "http://alexander-young.com/",
+                    "likes": 462,
+                    "comments": 95,
+                    "shares": 4,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 399.8773777021253
+        }
+    ]
+}

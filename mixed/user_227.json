@@ -1,0 +1,26 @@
+{
+    "user_id": "5cbf53c1-ffd2-4b42-b92f-603bdde235b1",
+    "name": "Dr. Ross Stracke",
+    "email": "Ike_Schoen@gmail.com",
+    "instagram_handle": "@Bret.Daniel",
+    "tiktok_handle": "@Roscoe.Anderson",
+    "joined_at": "2024-09-27T06:08:41.666Z",
+    "advocacy_programs": [
+        {
+            "program_id": "377cc392-3f14-4161-9a32-e351f145890b",
+            "brand": "Moen, Kemmer and Mraz",
+            "tasks_completed": [
+                {
+                    "task_id": "d4dc950d-4156-4dce-a18e-709fb7a0554d",
+                    "platform": "Instagram",
+                    "post_url": "https://oily-signature.biz",
+                    "likes": 195,
+                    "comments": 29,
+                    "shares": 85,
+                    "reach": 603
+                }
+            ],
+            "total_sales_attributed": 2588.335526216916
+        }
+    ]
+}

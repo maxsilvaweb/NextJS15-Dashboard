@@ -1,0 +1,26 @@
+{
+    "user_id": "770dc47a-4b5b-4cab-a2bc-91d96afe5e13",
+    "name": "Tami Watkins",
+    "email": "hramos@example.org",
+    "instagram_handle": "@steven25",
+    "tiktok_handle": "@molly37",
+    "joined_at": "2024-11-19T02:06:48.917832",
+    "advocacy_programs": [
+        {
+            "program_id": "a73534f6-1f00-49b5-bae4-91cf0916f6b3",
+            "brand": "Russell-Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "07ac027e-064d-459d-a251-03c6cb4f85c1",
+                    "platform": "TikTok",
+                    "post_url": "https://www.chavez.org/",
+                    "likes": 4230,
+                    "comments": 264,
+                    "shares": 37,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 9343.41
+        }
+    ]
+}

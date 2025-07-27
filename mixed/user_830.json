@@ -1,0 +1,26 @@
+{
+    "user_id": "7d5c1d7d-0cc1-41b5-856c-3945d090a850",
+    "name": "Linda McKenzie",
+    "email": "Conner92@gmail.com",
+    "instagram_handle": "@Jerrell.Hand",
+    "tiktok_handle": "@Abelardo.Effertz85",
+    "joined_at": "2024-06-20T08:24:05.458Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4e442a9e-f86b-47db-b2b9-e210cfb62d17",
+            "brand": "Mayert Group",
+            "tasks_completed": [
+                {
+                    "task_id": "fe69311a-c216-4bf6-97e2-6f21aafe1eb7",
+                    "platform": "TikTok",
+                    "post_url": "https://buzzing-eggplant.org",
+                    "likes": 108,
+                    "comments": 39,
+                    "shares": 21,
+                    "reach": 4247
+                }
+            ],
+            "total_sales_attributed": 2842.583352544463
+        }
+    ]
+}

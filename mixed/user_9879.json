@@ -1,0 +1,26 @@
+{
+    "user_id": "c2a6bf86-4c4b-48b3-aa24-2e1261f3484e",
+    "name": "Jason Hunt",
+    "email": "matthewchapman@example.com",
+    "instagram_handle": "@fosterjustin",
+    "tiktok_handle": "@caindevin",
+    "joined_at": "2023-12-02T01:47:16.688588",
+    "advocacy_programs": [
+        {
+            "program_id": "5f2324ef-ff4d-4c69-a45f-de09d5ab79f3",
+            "brand": "Davidson-Moreno",
+            "tasks_completed": [
+                {
+                    "task_id": "9f8d9b14-89cb-48b1-83ec-63737f721ab0",
+                    "platform": "YouTube",
+                    "post_url": "https://ortega.com/",
+                    "likes": 6439,
+                    "comments": 15,
+                    "shares": 91,
+                    "reach": 8551
+                }
+            ],
+            "total_sales_attributed": 6320.92
+        }
+    ]
+}

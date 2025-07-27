@@ -1,0 +1,26 @@
+{
+    "user_id": "3a056663-0a26-4583-9c34-b1cf4f47afb5",
+    "name": "Owen McLaughlin",
+    "email": "Onie_Schulist@gmail.com",
+    "instagram_handle": "@Susie_Heathcote",
+    "tiktok_handle": "@Johann.Hudson",
+    "joined_at": "2024-10-29T12:28:18.408Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d109f2bf-d75b-446a-a921-aea9f848d395",
+            "brand": "Stark - Legros",
+            "tasks_completed": [
+                {
+                    "task_id": "755ec343-797e-4b36-b14a-ba5fc55a3269",
+                    "platform": "TikTok",
+                    "post_url": "https://tight-boyfriend.name/",
+                    "likes": 11,
+                    "comments": 38,
+                    "shares": 32,
+                    "reach": 6574
+                }
+            ],
+            "total_sales_attributed": 2330.7667786730394
+        }
+    ]
+}

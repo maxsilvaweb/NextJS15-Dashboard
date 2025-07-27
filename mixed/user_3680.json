@@ -1,0 +1,26 @@
+{
+    "user_id": "5b24a6cb-9673-4e03-a218-132ffdc16bc8",
+    "name": "Daniel Wolf",
+    "email": "Jaeden38@hotmail.com",
+    "instagram_handle": "@Gabrielle.Crooks",
+    "tiktok_handle": "@Karlie.Deckow",
+    "joined_at": "2024-12-02T15:13:41.503Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0de31626-1aa6-463f-8523-6c55ce0fd9ab",
+            "brand": "Parisian, Crona and Pagac",
+            "tasks_completed": [
+                {
+                    "task_id": "595d959f-eb75-41c2-8a46-55980951600c",
+                    "platform": "Instagram",
+                    "post_url": "https://awful-bracelet.biz/",
+                    "likes": 119,
+                    "comments": 13,
+                    "shares": 73,
+                    "reach": 5630
+                }
+            ],
+            "total_sales_attributed": 4516.960299906325
+        }
+    ]
+}

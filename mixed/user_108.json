@@ -1,0 +1,26 @@
+{
+    "user_id": "2b2505f5-a08e-4587-9b29-1c2d2b1baa54",
+    "name": "Dr. Sidney Hansen",
+    "email": "Joy.Pfeffer@hotmail.com",
+    "instagram_handle": "@Elton_Anderson",
+    "tiktok_handle": "@Aliya.Dickinson",
+    "joined_at": "2024-05-18T11:18:59.870Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9bcec38f-783f-4012-8447-1e5c99d50cd6",
+            "brand": "Miller - Smitham",
+            "tasks_completed": [
+                {
+                    "task_id": "1c6d88ad-1d90-42a0-bb98-04e390dd42fa",
+                    "platform": "TikTok",
+                    "post_url": "https://idolized-trench.info/",
+                    "likes": 412,
+                    "comments": 49,
+                    "shares": 3,
+                    "reach": 5892
+                }
+            ],
+            "total_sales_attributed": 4356.5113565618385
+        }
+    ]
+}

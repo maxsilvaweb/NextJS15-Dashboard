@@ -1,0 +1,26 @@
+{
+    "user_id": "ba56d049-8947-4c89-b354-28617d67c041",
+    "name": "Harriet Larson",
+    "email": "Josh.Cummings11@gmail.com",
+    "instagram_handle": "@Anjali.Kutch-Murazik",
+    "tiktok_handle": "@Jovany_Prohaska60",
+    "joined_at": "2024-05-06T14:20:49.159Z",
+    "advocacy_programs": [
+        {
+            "program_id": "047f994d-472a-4c47-97c0-d2599c6de4f2",
+            "brand": "Tremblay - Boyer",
+            "tasks_completed": [
+                {
+                    "task_id": "7c4aa0e9-0c0a-491b-8b8a-ad656a9f88cb",
+                    "platform": "Instagram",
+                    "post_url": "https://cooperative-disadvantage.info",
+                    "likes": 399,
+                    "comments": 18,
+                    "shares": 77,
+                    "reach": 8794
+                }
+            ],
+            "total_sales_attributed": 1485.584682890499
+        }
+    ]
+}

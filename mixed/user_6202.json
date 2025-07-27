@@ -1,0 +1,26 @@
+{
+    "user_id": "820586f1-d10c-4377-a157-19fe6de7414f",
+    "name": "Valerie Thomas",
+    "email": "sherrihardy@example.com",
+    "instagram_handle": "@carpentersheila",
+    "tiktok_handle": "@bakercarolyn",
+    "joined_at": "2024-02-06T18:03:33.116509",
+    "advocacy_programs": [
+        {
+            "program_id": "91e050a1-d799-4fc6-bcc8-bf1031d7bdca",
+            "brand": "Robinson-Briggs",
+            "tasks_completed": [
+                {
+                    "task_id": "6bae48e3-7de2-4cdd-9b2e-dd1f5750ad5e",
+                    "platform": "TikTok",
+                    "post_url": "https://polite-eyebrow.com",
+                    "likes": 9812,
+                    "comments": 142,
+                    "shares": 87,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 8147.72
+        }
+    ]
+}

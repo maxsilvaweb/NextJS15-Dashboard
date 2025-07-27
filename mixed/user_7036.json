@@ -1,0 +1,26 @@
+{
+    "user_id": "36134a22-10c2-4971-84d1-6e4f351f454e",
+    "name": "Lola Schulist",
+    "email": "Gustave60@yahoo.com",
+    "instagram_handle": "@Marcella_Morissette63",
+    "tiktok_handle": "@Jamar11",
+    "joined_at": "2024-12-31T05:45:07.643Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8da8ef46-4ee3-4d2a-a4f6-a438f98ef98f",
+            "brand": "Becker, Dibbert and Von",
+            "tasks_completed": [
+                {
+                    "task_id": "e64c8431-bcd4-456a-9537-bfbe820c0550",
+                    "platform": "Instagram",
+                    "post_url": "https://tragic-overcoat.com",
+                    "likes": 263,
+                    "comments": 24,
+                    "shares": 23,
+                    "reach": 6423
+                }
+            ],
+            "total_sales_attributed": 4286.5522664354985
+        }
+    ]
+}

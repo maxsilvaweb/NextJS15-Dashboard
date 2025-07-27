@@ -1,0 +1,26 @@
+{
+    "user_id": "0e0dfcc2-e03f-4818-ad44-80a1b0c5b38c",
+    "name": "Daryl Bergstrom",
+    "email": "Scotty_Feest61@hotmail.com",
+    "instagram_handle": "@Norbert34",
+    "tiktok_handle": "@Adolfo.Ratke-Waelchi",
+    "joined_at": "2024-12-28T21:27:10.937Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c4fd647f-f385-4efd-8a13-3dfcc47a518f",
+            "brand": "Willms, Haag and Aufderhar",
+            "tasks_completed": [
+                {
+                    "task_id": "9648277b-2bd4-45eb-9997-a61287f178c7",
+                    "platform": "TikTok",
+                    "post_url": "https://wrong-noon.biz/",
+                    "likes": 34,
+                    "comments": 16,
+                    "shares": 70,
+                    "reach": 3896
+                }
+            ],
+            "total_sales_attributed": 2928.171650899402
+        }
+    ]
+}

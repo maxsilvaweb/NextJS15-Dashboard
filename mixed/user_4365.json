@@ -1,0 +1,26 @@
+{
+    "user_id": "3e419ef1-048b-474d-b2cd-25b21aab964d",
+    "name": "Nathan Wisoky",
+    "email": "Jace_Quitzon-Hoeger@hotmail.com",
+    "instagram_handle": "@Kayleigh_Kemmer",
+    "tiktok_handle": "@Telly_Kreiger72",
+    "joined_at": "2024-06-14T07:49:57.929Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c8240b1b-fde8-4cb0-8fff-0c0103e9ba03",
+            "brand": "Bosco - Little",
+            "tasks_completed": [
+                {
+                    "task_id": "33f69420-c97b-4713-ac27-e3471cc86258",
+                    "platform": "TikTok",
+                    "post_url": "https://instructive-dime.biz",
+                    "likes": 342,
+                    "comments": 27,
+                    "shares": 92,
+                    "reach": 6076
+                }
+            ],
+            "total_sales_attributed": 2830.858620234643
+        }
+    ]
+}

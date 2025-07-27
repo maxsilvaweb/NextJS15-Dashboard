@@ -1,0 +1,26 @@
+{
+    "user_id": "aa0c78da-e2dc-4edc-8d91-c91860b036d3",
+    "name": "Ross Kuhn",
+    "email": "Jacey.Rice@gmail.com",
+    "instagram_handle": "@Hilma.Macejkovic",
+    "tiktok_handle": "@Roscoe73",
+    "joined_at": "2025-01-18T11:51:45.857Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ec8c0c2e-3b64-4e33-999c-284a8ef79d78",
+            "brand": "Schumm, Hudson and Crist",
+            "tasks_completed": [
+                {
+                    "task_id": "5e031230-daa8-481d-8016-7f5da590f0f9",
+                    "platform": "TikTok",
+                    "post_url": "https://ill-soliloquy.name/",
+                    "likes": 263,
+                    "comments": 3,
+                    "shares": 27,
+                    "reach": 8868
+                }
+            ],
+            "total_sales_attributed": 4864.1392343298685
+        }
+    ]
+}

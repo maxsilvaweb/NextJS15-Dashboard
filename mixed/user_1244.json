@@ -1,0 +1,26 @@
+{
+    "user_id": "c7ad137c-cf42-4fd4-b1d9-58d1e82bc955",
+    "name": "Clarence Lockman",
+    "email": "mikemartin@example.org",
+    "instagram_handle": "@erinjohnson",
+    "tiktok_handle": "@brandonmccormick",
+    "joined_at": "2025-01-13T00:59:41.266793",
+    "advocacy_programs": [
+        {
+            "program_id": "87c9b27d-24c1-4c2e-b53b-238b89a6ec8a",
+            "brand": "Jones Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "34fd0195-cecb-4e2c-89f3-fcb0a4b3c00d",
+                    "platform": "TikTok",
+                    "post_url": "https://equatorial-circumference.net/",
+                    "likes": 4733,
+                    "comments": 97,
+                    "shares": 46,
+                    "reach": 3224
+                }
+            ],
+            "total_sales_attributed": 1926.3800030060638
+        }
+    ]
+}

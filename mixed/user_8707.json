@@ -1,0 +1,26 @@
+{
+    "user_id": "b283a11c-ae16-453c-b6eb-d723b2bc6881",
+    "name": "Edward Miranda",
+    "email": "Bernita_Cronin@yahoo.com",
+    "instagram_handle": "@lray",
+    "tiktok_handle": "@manuel31",
+    "joined_at": "2025-02-23T19:28:19.678253",
+    "advocacy_programs": [
+        {
+            "program_id": "ad8afea4-e2ab-4d2e-88e8-14ac10e4a208",
+            "brand": "Watson, Carlson and George",
+            "tasks_completed": [
+                {
+                    "task_id": "bf9de940-5b5d-4730-a303-8dee66f097ec",
+                    "platform": "TikTok",
+                    "post_url": "https://understated-nectarine.org/",
+                    "likes": 402,
+                    "comments": 209,
+                    "shares": 23,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2432.69
+        }
+    ]
+}

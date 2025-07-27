@@ -1,0 +1,26 @@
+{
+    "user_id": "c0a827c9-0dda-4809-aabf-7eb20eec27bd",
+    "name": "Dr. Andres Lueilwitz",
+    "email": "Rahul_Kling@yahoo.com",
+    "instagram_handle": "@Catalina.Labadie-Legros24",
+    "tiktok_handle": "@Eloisa_Mayert",
+    "joined_at": "2024-07-25T09:36:39.191Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1553d5d0-e989-4d5b-bc9e-2a8af098f9c9",
+            "brand": "Harber - Haag",
+            "tasks_completed": [
+                {
+                    "task_id": "6c1dcbfc-5fd2-46b2-8e9c-a5dbf1c30d73",
+                    "platform": "TikTok",
+                    "post_url": "https://gray-trick.biz/",
+                    "likes": 105,
+                    "comments": 34,
+                    "shares": 76,
+                    "reach": 938
+                }
+            ],
+            "total_sales_attributed": 3735.6358320219865
+        }
+    ]
+}

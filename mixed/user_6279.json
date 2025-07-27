@@ -1,0 +1,26 @@
+{
+    "user_id": "d0e41825-36c3-4065-a760-fc740a83e102",
+    "name": "Joshua Mccormick",
+    "email": "umartinez@example.net",
+    "instagram_handle": "@tina62",
+    "tiktok_handle": "@ritakennedy",
+    "joined_at": "2025-06-24T00:47:21.237421",
+    "advocacy_programs": [
+        {
+            "program_id": "71756cd4-8963-415f-8846-7023d2a659e2",
+            "brand": "Ibarra Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "d4211fcd-b99b-4e54-9a53-07d6257cb13b",
+                    "platform": "Twitter",
+                    "post_url": "http://moody.net/",
+                    "likes": 948,
+                    "comments": 403,
+                    "shares": 78,
+                    "reach": 8670
+                }
+            ],
+            "total_sales_attributed": 757.5010232558922
+        }
+    ]
+}

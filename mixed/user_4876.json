@@ -1,0 +1,26 @@
+{
+    "user_id": "6b304a79-0820-43a6-9f02-4bb940ec5d27",
+    "name": "Preston Larkin IV",
+    "email": "Gilberto99@hotmail.com",
+    "instagram_handle": "@Jose54",
+    "tiktok_handle": "@Annabel55",
+    "joined_at": "2024-07-16T20:37:07.608Z",
+    "advocacy_programs": [
+        {
+            "program_id": "44e1bb7a-cac4-4d85-a01b-638246750699",
+            "brand": "Grant - Schuppe",
+            "tasks_completed": [
+                {
+                    "task_id": "5dd085da-7d3a-4983-a1b3-30696bc78d52",
+                    "platform": "TikTok",
+                    "post_url": "https://far-deployment.com",
+                    "likes": 471,
+                    "comments": 49,
+                    "shares": 39,
+                    "reach": 8664
+                }
+            ],
+            "total_sales_attributed": 1583.3373686323275
+        }
+    ]
+}

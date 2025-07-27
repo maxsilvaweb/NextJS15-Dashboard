@@ -1,0 +1,26 @@
+{
+    "user_id": "049be4a8-1e0c-49dd-ace9-f5a8bec69790",
+    "name": "Lionel Hayes",
+    "email": "Watson48@hotmail.com",
+    "instagram_handle": "@Wendy_Mertz73",
+    "tiktok_handle": "@Juanita_Sawayn",
+    "joined_at": "2024-06-26T01:25:42.502Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4d489ff4-b9e5-418e-928c-bf638f5547fe",
+            "brand": "Osinski and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "841198de-2f94-4832-b5c5-f56eb5cad2dd",
+                    "platform": "TikTok",
+                    "post_url": "https://celebrated-chasuble.net/",
+                    "likes": 22,
+                    "comments": 31,
+                    "shares": 54,
+                    "reach": 4288
+                }
+            ],
+            "total_sales_attributed": 3467.578989248758
+        }
+    ]
+}

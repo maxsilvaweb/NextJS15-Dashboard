@@ -1,0 +1,26 @@
+{
+    "user_id": "4f5e5091-5017-4933-83d0-08769b7a6d71",
+    "name": "Michael Villa",
+    "email": "jason93@example.net",
+    "instagram_handle": "@xbeck",
+    "tiktok_handle": "@William27",
+    "joined_at": "2024-08-03T16:16:54.135909",
+    "advocacy_programs": [
+        {
+            "program_id": "9a156007-c223-4fc2-a7b5-b1929e5365dc",
+            "brand": "Oconnor Group",
+            "tasks_completed": [
+                {
+                    "task_id": "1cf8ec01-262f-46e2-ac3b-6988fa8f7410",
+                    "platform": "Facebook",
+                    "post_url": "https://www.weiss.biz/",
+                    "likes": 5893,
+                    "comments": 36,
+                    "shares": 37,
+                    "reach": 1813
+                }
+            ],
+            "total_sales_attributed": 6844.85
+        }
+    ]
+}

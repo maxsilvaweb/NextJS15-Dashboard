@@ -1,0 +1,26 @@
+{
+    "user_id": "1781c5d1-ab89-4b76-8a78-7a9662558fbe",
+    "name": "Lela Heathcote",
+    "email": "Moses.Cormier17@gmail.com",
+    "instagram_handle": "@Louvenia76",
+    "tiktok_handle": "@Sister_West0",
+    "joined_at": "2024-06-09T14:44:19.824Z",
+    "advocacy_programs": [
+        {
+            "program_id": "72ce8c15-33cc-4633-9bef-b7a8416901de",
+            "brand": "Hermann - Abshire",
+            "tasks_completed": [
+                {
+                    "task_id": "3d44ddd5-f1c3-49ba-8f5d-d9e731499b67",
+                    "platform": "Instagram",
+                    "post_url": "https://shrill-goodwill.info/",
+                    "likes": 232,
+                    "comments": 14,
+                    "shares": 89,
+                    "reach": 9772
+                }
+            ],
+            "total_sales_attributed": 245.90695511359414
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "f353dddb-b104-4a2f-9f33-52bf9efa74cb",
+    "name": "David Harvey",
+    "email": "Zula_Abbott@gmail.com",
+    "instagram_handle": "@rachelrodgers",
+    "tiktok_handle": "@jamesmoore",
+    "joined_at": "2024-10-15T05:09:47.960Z",
+    "advocacy_programs": [
+        {
+            "program_id": "87de9e08-957d-4f7e-88e6-345cf9dc2d35",
+            "brand": "Paul, Boyer and Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "167487f1-7a1e-4634-8128-a6ff5f8701a3",
+                    "platform": "TikTok",
+                    "post_url": "https://www.miller.com/",
+                    "likes": 4188,
+                    "comments": 216,
+                    "shares": 68,
+                    "reach": 8408
+                }
+            ],
+            "total_sales_attributed": 7561.64
+        }
+    ]
+}

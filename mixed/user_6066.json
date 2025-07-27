@@ -1,0 +1,26 @@
+{
+    "user_id": "4dd9605a-0441-4425-92d4-f7b9f1732ddb",
+    "name": "Lauren Hunter",
+    "email": "ryantorres@example.org",
+    "instagram_handle": "@uyork",
+    "tiktok_handle": "@Carleton72",
+    "joined_at": "2024-12-15T11:51:24.040351",
+    "advocacy_programs": [
+        {
+            "program_id": "73509ca7-10ee-4695-8fc6-839385e597d9",
+            "brand": "Weeks Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d441c610-abbd-49b8-80ee-7e40bb7d3b8f",
+                    "platform": "TikTok",
+                    "post_url": "http://www.martinez-barr.com/",
+                    "likes": 7665,
+                    "comments": 197,
+                    "shares": 67,
+                    "reach": 7526
+                }
+            ],
+            "total_sales_attributed": 6093.31
+        }
+    ]
+}

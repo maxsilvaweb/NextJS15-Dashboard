@@ -1,0 +1,26 @@
+{
+    "user_id": "1bdb4119-06fe-479d-b158-25b27f426da8",
+    "name": "Anthony Dach",
+    "email": "Zackary_Hansen@yahoo.com",
+    "instagram_handle": "@Benedict.Botsford",
+    "tiktok_handle": "@Laurence.Emard",
+    "joined_at": "2024-06-07T22:33:55.127Z",
+    "advocacy_programs": [
+        {
+            "program_id": "365be8c6-c960-48a7-9faf-ffa3c14aef85",
+            "brand": "Cormier, Lowe and Hessel",
+            "tasks_completed": [
+                {
+                    "task_id": "b7f0abfe-2dbd-46fe-aa43-2fe033ee0ed8",
+                    "platform": "TikTok",
+                    "post_url": "https://wry-injunction.biz/",
+                    "likes": 282,
+                    "comments": 32,
+                    "shares": 22,
+                    "reach": 8277
+                }
+            ],
+            "total_sales_attributed": 2155.887079826481
+        }
+    ]
+}

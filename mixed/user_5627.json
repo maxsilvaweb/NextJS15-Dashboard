@@ -1,0 +1,26 @@
+{
+    "user_id": "a07c6576-3baf-41c3-a868-1300175d23e2",
+    "name": "Erika Sosa",
+    "email": "joneskristin@example.net",
+    "instagram_handle": "@aeaton",
+    "tiktok_handle": "@mooreernest",
+    "joined_at": "2023-12-21T11:36:36.104553",
+    "advocacy_programs": [
+        {
+            "program_id": "e21bffb9-db21-4a69-a221-9561576ee70d",
+            "brand": "Hamilton-Mueller",
+            "tasks_completed": [
+                {
+                    "task_id": "3bd9b596-bdd9-45a6-8ca0-35e73970f131",
+                    "platform": "TikTok",
+                    "post_url": "https://cooper-holloway.com/",
+                    "likes": 4669,
+                    "comments": 497,
+                    "shares": 11,
+                    "reach": 5709
+                }
+            ],
+            "total_sales_attributed": 2913.32
+        }
+    ]
+}

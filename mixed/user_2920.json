@@ -1,0 +1,26 @@
+{
+    "user_id": "80e0c39b-529e-4e13-aa0f-dab04abc7d9f",
+    "name": "Rosa Nienow",
+    "email": "Amya.Hegmann80@gmail.com",
+    "instagram_handle": "@Nedra.Kemmer53",
+    "tiktok_handle": "@Nelda.Lockman",
+    "joined_at": "2024-03-30T15:13:12.600Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0987849c-bad6-46eb-87cf-183ef3f5bc52",
+            "brand": "Sanford and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "10503ca1-2f17-4368-9f66-c73e9a1cd9ac",
+                    "platform": "TikTok",
+                    "post_url": "https://sore-ravioli.info/",
+                    "likes": 12,
+                    "comments": 39,
+                    "shares": 22,
+                    "reach": 1840
+                }
+            ],
+            "total_sales_attributed": 4202.878248773585
+        }
+    ]
+}

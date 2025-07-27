@@ -1,0 +1,26 @@
+{
+    "user_id": "2d074ce0-cb8e-468d-b413-a8eb4ace47f5",
+    "name": "Tyler Allen",
+    "email": "yroy@example.net",
+    "instagram_handle": "@caitlinfitzpatrick",
+    "tiktok_handle": "@cindymartinez",
+    "joined_at": "2024-06-05T21:55:14.935609",
+    "advocacy_programs": [
+        {
+            "program_id": "19addf4a-338f-4599-bda0-dd3d61ab4cd1",
+            "brand": "Rivera-Chan",
+            "tasks_completed": [
+                {
+                    "task_id": "c9fe342f-0925-437d-878b-7ab981fa06cd",
+                    "platform": "Instagram",
+                    "post_url": "http://www.hamilton.com/",
+                    "likes": 6962,
+                    "comments": 284,
+                    "shares": 98,
+                    "reach": 7392
+                }
+            ],
+            "total_sales_attributed": 1253.74
+        }
+    ]
+}

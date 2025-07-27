@@ -1,0 +1,26 @@
+{
+    "user_id": "73ee0c9f-3818-46e3-92b7-921efdd32188",
+    "name": "Hugh Paucek",
+    "email": "Tremaine_Bernier@hotmail.com",
+    "instagram_handle": "@Wilton_Schmeler15",
+    "tiktok_handle": "@Deshaun.Wisozk",
+    "joined_at": "2024-04-12T10:06:48.886Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5688fdf2-d0ae-4c3b-921b-8f7fecfca4ce",
+            "brand": "Ward - Feest",
+            "tasks_completed": [
+                {
+                    "task_id": "e17d3ecf-4598-4c73-ab2f-beae9bf09344",
+                    "platform": "Instagram",
+                    "post_url": "https://forceful-hamburger.info/",
+                    "likes": 456,
+                    "comments": 50,
+                    "shares": 39,
+                    "reach": 9566
+                }
+            ],
+            "total_sales_attributed": 4998.365221910898
+        }
+    ]
+}

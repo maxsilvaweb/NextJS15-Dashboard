@@ -1,0 +1,26 @@
+{
+    "user_id": "f1781f2b-f1bc-4405-b119-a59ebe51db1b",
+    "name": "William Garner",
+    "email": "gibsonregina@example.org",
+    "instagram_handle": "@bennettruben",
+    "tiktok_handle": "@kayla33",
+    "joined_at": "2023-08-08T11:05:38.998463",
+    "advocacy_programs": [
+        {
+            "program_id": "a2eee5db-925b-4101-8cce-02b128bd05db",
+            "brand": "Wells-Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "e7916f3d-70f4-4b6a-8f61-3a2a907a3bb0",
+                    "platform": "Instagram",
+                    "post_url": "https://accurate-juggernaut.org/",
+                    "likes": 8641,
+                    "comments": 46,
+                    "shares": 43,
+                    "reach": 4737
+                }
+            ],
+            "total_sales_attributed": 5227.41
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e8343e52-39af-4a35-80f3-80327ed5bd05",
+    "name": "Bryan Gray",
+    "email": "mbowman@example.org",
+    "instagram_handle": "@phillipsrhonda",
+    "tiktok_handle": "@andrea06",
+    "joined_at": "2024-12-01T17:17:16.275745",
+    "advocacy_programs": [
+        {
+            "program_id": "8ffbf27f-9989-4af4-a3c3-2aceabbc76f3",
+            "brand": "Smith, Lee and Kelley",
+            "tasks_completed": [
+                {
+                    "task_id": "43c9d952-f77f-4989-ab88-b46397983d2c",
+                    "platform": "TikTok",
+                    "post_url": "https://slimy-pantyhose.name/",
+                    "likes": 4521,
+                    "comments": 469,
+                    "shares": 59,
+                    "reach": 5199
+                }
+            ],
+            "total_sales_attributed": 4910.42
+        }
+    ]
+}

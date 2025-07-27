@@ -1,0 +1,26 @@
+{
+    "user_id": "333ee30b-9bad-431f-914d-e6284fe8d28e",
+    "name": "Tyler Huynh",
+    "email": "cortezdonald@example.com",
+    "instagram_handle": "@qvelez",
+    "tiktok_handle": "@joseph14",
+    "joined_at": "2025-02-07T20:42:38.160300",
+    "advocacy_programs": [
+        {
+            "program_id": "4a4ddf7a-5720-4a82-936e-0f804f942a26",
+            "brand": "Vincent-Kidd",
+            "tasks_completed": [
+                {
+                    "task_id": "e245ef6c-1934-4140-8d31-24e036330ec4",
+                    "platform": "TikTok",
+                    "post_url": "http://www.gregory-boyle.net/",
+                    "likes": 420,
+                    "comments": 300,
+                    "shares": 44,
+                    "reach": 9700
+                }
+            ],
+            "total_sales_attributed": 3707.810581441804
+        }
+    ]
+}

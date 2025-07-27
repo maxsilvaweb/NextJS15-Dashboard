@@ -1,0 +1,26 @@
+{
+    "user_id": "aab00644-fba7-4715-bd39-d01669e10c65",
+    "name": "Cody Fay Sr.",
+    "email": "Antonio.Keebler@gmail.com",
+    "instagram_handle": "@Gail.Kirlin2",
+    "tiktok_handle": "@Kevin.Gulgowski55",
+    "joined_at": "2024-08-04T06:42:24.633Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0150a1bd-6adf-41ca-ad4b-522a617f63a5",
+            "brand": "Collins, Bode and Runte",
+            "tasks_completed": [
+                {
+                    "task_id": "a90e20e0-c0a9-4efd-845a-a481842290d2",
+                    "platform": "Instagram",
+                    "post_url": "https://silver-stall.info",
+                    "likes": 212,
+                    "comments": 15,
+                    "shares": 18,
+                    "reach": 2034
+                }
+            ],
+            "total_sales_attributed": 4880.323085317905
+        }
+    ]
+}

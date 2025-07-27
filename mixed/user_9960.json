@@ -1,0 +1,26 @@
+{
+    "user_id": "4557e2d9-9579-45d2-adec-30b3c16ea65f",
+    "name": "Robyn Renner",
+    "email": "Avis.Hayes@hotmail.com",
+    "instagram_handle": "@Herminio_Jakubowski20",
+    "tiktok_handle": "@Darien_Moen30",
+    "joined_at": "2024-12-24T10:34:10.830Z",
+    "advocacy_programs": [
+        {
+            "program_id": "04665893-9157-4b4c-8fd7-f8f9f9369cc4",
+            "brand": "Weber - Veum",
+            "tasks_completed": [
+                {
+                    "task_id": "d73eb147-d022-4676-96dc-f626ceccd3b0",
+                    "platform": "Instagram",
+                    "post_url": "https://apprehensive-gym.name",
+                    "likes": 224,
+                    "comments": 38,
+                    "shares": 43,
+                    "reach": 599
+                }
+            ],
+            "total_sales_attributed": 476.9621965447043
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "07308928-28af-4cb6-afad-8cd511e5bd35",
+    "name": "Richard Cross",
+    "email": "ramirezamy@example.net",
+    "instagram_handle": "@kellylogan",
+    "tiktok_handle": "@bhill",
+    "joined_at": "2024-03-19T11:13:09.290564",
+    "advocacy_programs": [
+        {
+            "program_id": "945c1302-5f6d-4452-bc87-b6242859cb2d",
+            "brand": "Rhodes, Alvarez and Young",
+            "tasks_completed": [
+                {
+                    "task_id": "2a0d3e8a-c95c-430f-850c-2f1267f47482",
+                    "platform": "Facebook",
+                    "post_url": "http://baker-johnson.com/",
+                    "likes": 9524,
+                    "comments": 215,
+                    "shares": 87,
+                    "reach": 4785
+                }
+            ],
+            "total_sales_attributed": 943.84
+        }
+    ]
+}

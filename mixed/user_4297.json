@@ -1,0 +1,26 @@
+{
+    "user_id": "f5c58256-1beb-4a02-a9f5-783899565aac",
+    "name": "Jeff Streich",
+    "email": "Sandy87@gmail.com",
+    "instagram_handle": "@Pearlie_Lowe",
+    "tiktok_handle": "@Blake_Cremin7",
+    "joined_at": "2024-08-24T23:45:01.766Z",
+    "advocacy_programs": [
+        {
+            "program_id": "762bbc85-fbe2-4df1-ae73-95733d956aef",
+            "brand": "Fadel, Skiles and Von",
+            "tasks_completed": [
+                {
+                    "task_id": "e9f69368-5f98-43e0-8fb5-355d61295f28",
+                    "platform": "TikTok",
+                    "post_url": "https://tasty-siege.name",
+                    "likes": 230,
+                    "comments": 0,
+                    "shares": 33,
+                    "reach": 1273
+                }
+            ],
+            "total_sales_attributed": 232.76413486122956
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "085a0f67-b4c7-4a6a-b71b-c3654a89a4aa",
+    "name": "Hailey Lopez",
+    "email": "Katelyn_Lesch@gmail.com",
+    "instagram_handle": "@Jaunita60",
+    "tiktok_handle": "@justin97",
+    "joined_at": "2024-12-07T01:24:22.579913",
+    "advocacy_programs": [
+        {
+            "program_id": "a93af702-802a-484a-8f04-b7d0375a4803",
+            "brand": "Butler, Mooney and Brewer",
+            "tasks_completed": [
+                {
+                    "task_id": "83327b30-7922-4941-961a-ef03d142d024",
+                    "platform": "Instagram",
+                    "post_url": "http://walters-fields.net/",
+                    "likes": 1319,
+                    "comments": 237,
+                    "shares": 78,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2819.53
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0823726a-5c73-4e4d-8526-7ae86f06b8d4",
+    "name": "Wilma Cremin",
+    "email": "Arvid_Kuhic@gmail.com",
+    "instagram_handle": "@Dorris44",
+    "tiktok_handle": "@Winnifred80",
+    "joined_at": "2024-07-20T02:17:17.099Z",
+    "advocacy_programs": [
+        {
+            "program_id": "963a122b-949c-45c3-8829-b7f364afa630",
+            "brand": "Dickinson, Conroy and Heidenreich",
+            "tasks_completed": [
+                {
+                    "task_id": "bc956309-94cb-4874-aaed-ec6723aa6a74",
+                    "platform": "TikTok",
+                    "post_url": "https://winding-packaging.com/",
+                    "likes": 215,
+                    "comments": 47,
+                    "shares": 41,
+                    "reach": 8251
+                }
+            ],
+            "total_sales_attributed": 4476.45196079018
+        }
+    ]
+}

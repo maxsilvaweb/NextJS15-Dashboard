@@ -1,0 +1,26 @@
+{
+    "user_id": "f7fa574b-8d30-4f5f-8df8-cbf78a2b656e",
+    "name": "Bridget Smith",
+    "email": "briangreen@example.net",
+    "instagram_handle": "@qpadilla",
+    "tiktok_handle": "@foleytanya",
+    "joined_at": "2025-01-10T15:36:51.511894",
+    "advocacy_programs": [
+        {
+            "program_id": "1e4a79b9-bbb9-4475-863c-ead33d87ac84",
+            "brand": "Powers Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f5ad4ea2-af7a-437e-9977-3fc35683c6b1",
+                    "platform": "YouTube",
+                    "post_url": "https://determined-ecliptic.info/",
+                    "likes": 330,
+                    "comments": 215,
+                    "shares": 45,
+                    "reach": 1090
+                }
+            ],
+            "total_sales_attributed": 2291.77
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4d8d9853-ffb2-4ead-9ca0-19e726feae70",
+    "name": "Miss Christine Schumm",
+    "email": "jacksonsummer@example.org",
+    "instagram_handle": "@phyllissheppard",
+    "tiktok_handle": "@phillipsdavid",
+    "joined_at": "2023-11-28T05:05:19.041842",
+    "advocacy_programs": [
+        {
+            "program_id": "17cc34fb-1606-4b22-ae22-8e061498a898",
+            "brand": "Christian, Ball and Schaefer",
+            "tasks_completed": [
+                {
+                    "task_id": "1e4ea4a1-44c0-429b-95fc-09781d9abafa",
+                    "platform": "Instagram",
+                    "post_url": "http://ruiz.com/",
+                    "likes": 1325,
+                    "comments": 239,
+                    "shares": 16,
+                    "reach": 7437
+                }
+            ],
+            "total_sales_attributed": 7286.42
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cb059918-fbb0-483d-8c0a-445554fba2eb",
+    "name": "Lindsay Hudson",
+    "email": "Brigitte65@yahoo.com",
+    "instagram_handle": "@Dario.Goyette",
+    "tiktok_handle": "@Reynold_Bogan",
+    "joined_at": "2024-04-03T13:51:16.380Z",
+    "advocacy_programs": [
+        {
+            "program_id": "086e1462-37a7-4ad8-8cc5-5323967bb303",
+            "brand": "Prohaska - Wilkinson",
+            "tasks_completed": [
+                {
+                    "task_id": "c0012b47-d1fb-4c34-9125-8e45a3adc56f",
+                    "platform": "TikTok",
+                    "post_url": "https://ignorant-ownership.com/",
+                    "likes": 430,
+                    "comments": 25,
+                    "shares": 36,
+                    "reach": 2237
+                }
+            ],
+            "total_sales_attributed": 1931.9568489786775
+        }
+    ]
+}

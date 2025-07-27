@@ -1,0 +1,26 @@
+{
+    "user_id": "90779dcf-aaf8-40b2-8d49-1b71694fb7ce",
+    "name": "Carrie Brown",
+    "email": "xadams@example.net",
+    "instagram_handle": "@lewismark",
+    "tiktok_handle": "@zwilson",
+    "joined_at": "2025-03-04T17:36:55.786588",
+    "advocacy_programs": [
+        {
+            "program_id": "fd3b68ff-f2bd-4644-be88-7bd8771ebd1f",
+            "brand": "Ross Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "322f32b7-22ec-4a79-bf61-aaf6e575732e",
+                    "platform": "Instagram",
+                    "post_url": "https://parker.com/",
+                    "likes": 4286,
+                    "comments": 75,
+                    "shares": 39,
+                    "reach": 1095
+                }
+            ],
+            "total_sales_attributed": 6320.25
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7348fcf8-2e21-4f15-b926-2112bd2cde7f",
+    "name": "Julie Smith",
+    "email": "Mackenzie68@yahoo.com",
+    "instagram_handle": "@ysmith",
+    "tiktok_handle": "@patrickedwards",
+    "joined_at": "2025-06-24T18:22:33.182656",
+    "advocacy_programs": [
+        {
+            "program_id": "eaaed1d4-0b22-4748-a6cc-361596115dcb",
+            "brand": "Diaz, Anderson and Norris",
+            "tasks_completed": [
+                {
+                    "task_id": "96195007-c5d1-4571-8c53-452c918cca8b",
+                    "platform": "Facebook",
+                    "post_url": "http://www.harper-parker.net/",
+                    "likes": 320,
+                    "comments": 47,
+                    "shares": 39,
+                    "reach": 6312
+                }
+            ],
+            "total_sales_attributed": 9669.22
+        }
+    ]
+}

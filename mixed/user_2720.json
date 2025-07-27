@@ -1,0 +1,26 @@
+{
+    "user_id": "d809d6de-6877-49a2-9feb-7d4b4a6f1069",
+    "name": "James Brown MD",
+    "email": "Nicolas25@yahoo.com",
+    "instagram_handle": "@drew90",
+    "tiktok_handle": "@rburke",
+    "joined_at": "2024-09-10T13:40:39.246198",
+    "advocacy_programs": [
+        {
+            "program_id": "7ad7613a-b943-4f1d-acb6-89e5ddedabf4",
+            "brand": "Schmeler - Nader",
+            "tasks_completed": [
+                {
+                    "task_id": "95817eba-4eac-46ff-9242-1d4893a306d6",
+                    "platform": "Instagram",
+                    "post_url": "https://sloan.org/",
+                    "likes": 604,
+                    "comments": 27,
+                    "shares": 25,
+                    "reach": 1228
+                }
+            ],
+            "total_sales_attributed": 1709.73
+        }
+    ]
+}

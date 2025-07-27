@@ -1,0 +1,26 @@
+{
+    "user_id": "1e49e16b-cda8-435e-82fb-9742cc7b3246",
+    "name": "Nadine Padberg PhD",
+    "email": "Athena45@hotmail.com",
+    "instagram_handle": "@Timmy_Dickinson95",
+    "tiktok_handle": "@Ignatius.Prosacco4",
+    "joined_at": "2024-04-17T01:57:42.739Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0a7e34a4-63b3-49a6-9c38-6ef060aefc97",
+            "brand": "Stracke LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7c818453-5c68-4493-ae6c-84e1cae3ec0e",
+                    "platform": "Instagram",
+                    "post_url": "https://decisive-straw.net",
+                    "likes": 366,
+                    "comments": 21,
+                    "shares": 89,
+                    "reach": 6348
+                }
+            ],
+            "total_sales_attributed": 2634.8080883586676
+        }
+    ]
+}

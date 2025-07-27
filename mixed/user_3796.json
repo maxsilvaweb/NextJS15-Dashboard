@@ -1,0 +1,26 @@
+{
+    "user_id": "cbc84a98-0593-49d8-b79d-127de7917632",
+    "name": "Robin Holland",
+    "email": "hmann@example.com",
+    "instagram_handle": "@christopherobrien",
+    "tiktok_handle": "@graykaitlin",
+    "joined_at": "2023-10-02T23:09:18.932124",
+    "advocacy_programs": [
+        {
+            "program_id": "6c7a1f7a-9288-4e52-bc3a-5b43d919d035",
+            "brand": "Baker, Gonzalez and Benjamin",
+            "tasks_completed": [
+                {
+                    "task_id": "edede430-d08b-43d6-88a2-193ce7ce1972",
+                    "platform": "Facebook",
+                    "post_url": "https://worst-silk.biz/",
+                    "likes": 4313,
+                    "comments": 259,
+                    "shares": 53,
+                    "reach": 8797
+                }
+            ],
+            "total_sales_attributed": 849.7685381447687
+        }
+    ]
+}

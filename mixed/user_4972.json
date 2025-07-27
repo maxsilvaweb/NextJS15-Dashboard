@@ -1,0 +1,26 @@
+{
+    "user_id": "b4ca8519-f84e-4c6c-811d-f588adcdc3c4",
+    "name": "Keith Gonzalez",
+    "email": "kerrimiller@example.org",
+    "instagram_handle": "@katherine28",
+    "tiktok_handle": "@randy96",
+    "joined_at": "2024-03-26T17:43:54.348321",
+    "advocacy_programs": [
+        {
+            "program_id": "caeacd0c-3c24-48a8-a20a-4c92536d08e0",
+            "brand": "Coleman-Torres",
+            "tasks_completed": [
+                {
+                    "task_id": "643a8cd4-d827-47ac-b0bf-e300b57b3005",
+                    "platform": "Instagram",
+                    "post_url": "http://ruiz.net/",
+                    "likes": 8910,
+                    "comments": 446,
+                    "shares": 48,
+                    "reach": 1912
+                }
+            ],
+            "total_sales_attributed": 616.24
+        }
+    ]
+}

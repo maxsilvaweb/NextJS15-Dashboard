@@ -1,0 +1,26 @@
+{
+    "user_id": "f573626c-9f5b-473b-aeb8-56a96c48b1f5",
+    "name": "Angelica Hoeger",
+    "email": "Elvis12@yahoo.com",
+    "instagram_handle": "@Nash.Maggio89",
+    "tiktok_handle": "@Elouise_Gulgowski22",
+    "joined_at": "2024-12-31T21:47:38.695Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d7bf9f7d-b8d4-4170-81f9-28b5d7f58889",
+            "brand": "Zulauf Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "43e8dee7-dd8b-467d-8ca5-a8857d414375",
+                    "platform": "TikTok",
+                    "post_url": "https://grizzled-tail.biz",
+                    "likes": 64,
+                    "comments": 27,
+                    "shares": 23,
+                    "reach": 7256
+                }
+            ],
+            "total_sales_attributed": 278.77897154256874
+        }
+    ]
+}

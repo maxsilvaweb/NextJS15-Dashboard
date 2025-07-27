@@ -1,0 +1,26 @@
+{
+    "user_id": "25374f43-a7eb-4ece-ac5e-ff409275e1b0",
+    "name": "Bonnie Ryan",
+    "email": "Cornell.Emard25@gmail.com",
+    "instagram_handle": "@Maritza_Durgan59",
+    "tiktok_handle": "@Dean26",
+    "joined_at": "2024-08-07T00:55:29.960Z",
+    "advocacy_programs": [
+        {
+            "program_id": "011a6317-5205-4b1d-b5fd-599a0b3eba80",
+            "brand": "Willms - Johns",
+            "tasks_completed": [
+                {
+                    "task_id": "21ad1047-2281-41de-8743-fcccd5f5c05e",
+                    "platform": "Instagram",
+                    "post_url": "https://yearly-velocity.info/",
+                    "likes": 495,
+                    "comments": 23,
+                    "shares": 0,
+                    "reach": 6222
+                }
+            ],
+            "total_sales_attributed": 3366.4928537478468
+        }
+    ]
+}

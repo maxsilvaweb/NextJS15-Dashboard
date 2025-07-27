@@ -1,0 +1,26 @@
+{
+    "user_id": "c2d148bb-d2ba-4916-a94c-e36304c66779",
+    "name": "Douglas Clark",
+    "email": "wmurphy@example.net",
+    "instagram_handle": "@vlucas",
+    "tiktok_handle": "@cdixon",
+    "joined_at": "2025-04-21T11:13:58.042247",
+    "advocacy_programs": [
+        {
+            "program_id": "baa1e1cc-b434-40e3-9398-0eb80168beea",
+            "brand": "Vaughan Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "e89947ba-bce5-43db-bf49-b79a331b5d93",
+                    "platform": "TikTok",
+                    "post_url": "https://vasquez-marshall.com/",
+                    "likes": 4053,
+                    "comments": 13,
+                    "shares": 75,
+                    "reach": 9303
+                }
+            ],
+            "total_sales_attributed": 3404.59
+        }
+    ]
+}

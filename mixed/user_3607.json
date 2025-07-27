@@ -1,0 +1,26 @@
+{
+    "user_id": "2a11888e-cfd0-47cf-a926-9c5deb716870",
+    "name": "Jesse Lucas",
+    "email": "blake26@example.net",
+    "instagram_handle": "@rsmith",
+    "tiktok_handle": "@vjones",
+    "joined_at": "2024-12-15T22:23:10.889192",
+    "advocacy_programs": [
+        {
+            "program_id": "9b8758db-91ba-4274-aa02-58849e85bb6a",
+            "brand": "Moran, Brewer and Newton",
+            "tasks_completed": [
+                {
+                    "task_id": "285ef63b-7f6a-490a-aba3-2a14877543fc",
+                    "platform": "Facebook",
+                    "post_url": "http://www.torres.com/",
+                    "likes": 322,
+                    "comments": 335,
+                    "shares": 86,
+                    "reach": 5448
+                }
+            ],
+            "total_sales_attributed": 1875.81
+        }
+    ]
+}

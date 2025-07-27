@@ -1,0 +1,26 @@
+{
+    "user_id": "c5b9b2ac-19ce-4c9f-b9bb-3162d79b92a8",
+    "name": "Josephine Conn",
+    "email": "Julian1@gmail.com",
+    "instagram_handle": "@Felton29",
+    "tiktok_handle": "@Andy99",
+    "joined_at": "2024-08-19T16:33:16.224Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c5a62cde-985d-4856-ad55-b53e3cbd428a",
+            "brand": "Johnson, Mante and Haag",
+            "tasks_completed": [
+                {
+                    "task_id": "42bffd9b-e179-48c3-a5e3-03d4f57c73ce",
+                    "platform": "TikTok",
+                    "post_url": "https://husky-junior.info/",
+                    "likes": 204,
+                    "comments": 31,
+                    "shares": 31,
+                    "reach": 5413
+                }
+            ],
+            "total_sales_attributed": 3945.9469393787117
+        }
+    ]
+}

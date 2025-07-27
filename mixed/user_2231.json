@@ -1,0 +1,26 @@
+{
+    "user_id": "3b0f6fde-a955-4979-962d-debdac383186",
+    "name": "Ora Fritsch Jr.",
+    "email": "Jaydon_Okuneva@gmail.com",
+    "instagram_handle": "@Reinhold_Rempel30",
+    "tiktok_handle": "@Verna_Johns2",
+    "joined_at": "2024-05-28T16:32:49.091Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a3f45224-1cf6-49ea-8006-ba6c47ad4de4",
+            "brand": "Doyle - Bruen",
+            "tasks_completed": [
+                {
+                    "task_id": "c8e0557c-3638-4343-92b7-13f5e695c4e6",
+                    "platform": "TikTok",
+                    "post_url": "https://left-devil.biz",
+                    "likes": 302,
+                    "comments": 8,
+                    "shares": 7,
+                    "reach": 5199
+                }
+            ],
+            "total_sales_attributed": 3484.5122973478556
+        }
+    ]
+}

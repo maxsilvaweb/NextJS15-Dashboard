@@ -1,0 +1,26 @@
+{
+    "user_id": "2e1073e0-79fc-4e20-a840-8629a61eeb46",
+    "name": "David Chang",
+    "email": "jane64@example.net",
+    "instagram_handle": "@Holly85",
+    "tiktok_handle": "@alan58",
+    "joined_at": "2024-03-28T13:19:09.383443",
+    "advocacy_programs": [
+        {
+            "program_id": "4c091b57-a8aa-4d71-a9a7-bf8b783c1a23",
+            "brand": "Mason, Robinson and Ramos",
+            "tasks_completed": [
+                {
+                    "task_id": "9906355c-0560-407c-9d34-19ad340b2e8d",
+                    "platform": "Facebook",
+                    "post_url": "http://www.kane.org/",
+                    "likes": 199,
+                    "comments": 34,
+                    "shares": 33,
+                    "reach": 8125
+                }
+            ],
+            "total_sales_attributed": 1398.04
+        }
+    ]
+}

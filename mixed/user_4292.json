@@ -1,0 +1,26 @@
+{
+    "user_id": "c313e660-93da-4f1f-9014-cebce34e1c0b",
+    "name": "Tyler Fox",
+    "email": "annastewart@example.org",
+    "instagram_handle": "@vjensen",
+    "tiktok_handle": "@ronald12",
+    "joined_at": "2024-03-12T03:27:04.502626",
+    "advocacy_programs": [
+        {
+            "program_id": "b0a8d5d1-3473-4118-859e-eeb9a4c8717d",
+            "brand": "Holt-Wang",
+            "tasks_completed": [
+                {
+                    "task_id": "b96b6427-9a3d-4335-9b5f-a3f2d7adf540",
+                    "platform": "TikTok",
+                    "post_url": "http://bautista.info/",
+                    "likes": 7916,
+                    "comments": 27,
+                    "shares": 99,
+                    "reach": 9942
+                }
+            ],
+            "total_sales_attributed": 1276.2130765329237
+        }
+    ]
+}

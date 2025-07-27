@@ -1,0 +1,26 @@
+{
+    "user_id": "d5b92c9f-776d-4244-9fbd-54410fe6a22d",
+    "name": "Angela Powers",
+    "email": "unichols@example.org",
+    "instagram_handle": "@megantaylor",
+    "tiktok_handle": "@steventhomas",
+    "joined_at": "2024-12-16T22:58:37.375314",
+    "advocacy_programs": [
+        {
+            "program_id": "5b59ca95-8803-412a-a4f2-eda6954e548a",
+            "brand": "Prince LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e26f3b9f-9e29-4563-a645-556cc9de68e4",
+                    "platform": "TikTok",
+                    "post_url": "https://www.scott.com/",
+                    "likes": 9172,
+                    "comments": 467,
+                    "shares": 40,
+                    "reach": 6970
+                }
+            ],
+            "total_sales_attributed": 9087.33
+        }
+    ]
+}

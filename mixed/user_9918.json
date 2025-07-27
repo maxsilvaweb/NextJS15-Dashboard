@@ -1,0 +1,26 @@
+{
+    "user_id": "7d96b51d-75da-417d-ae1e-28e5d6092129",
+    "name": "Shelley Veum",
+    "email": "Robin.Purdy@gmail.com",
+    "instagram_handle": "@Cassandre_McKenzie",
+    "tiktok_handle": "@Estrella10",
+    "joined_at": "2024-07-06T18:06:34.498Z",
+    "advocacy_programs": [
+        {
+            "program_id": "597c94fb-630c-40f5-a59a-2fa51a66f393",
+            "brand": "Walker and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a50ec219-bd36-4872-b09c-44b898c5dca0",
+                    "platform": "Instagram",
+                    "post_url": "https://pale-amendment.biz",
+                    "likes": 58,
+                    "comments": 46,
+                    "shares": 100,
+                    "reach": 9927
+                }
+            ],
+            "total_sales_attributed": 4832.698977689302
+        }
+    ]
+}

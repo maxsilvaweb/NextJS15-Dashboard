@@ -1,0 +1,26 @@
+{
+    "user_id": "c54cda94-5d4d-488b-81fa-8797c964e9ae",
+    "name": "Wesley Fritsch",
+    "email": "Alda14@gmail.com",
+    "instagram_handle": "@Bradly71",
+    "tiktok_handle": "@Garrett74",
+    "joined_at": "2024-12-17T23:40:46.158Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bea8d01f-747f-47d8-b9d1-eb71db663f63",
+            "brand": "Walsh - Leffler",
+            "tasks_completed": [
+                {
+                    "task_id": "935e0e54-9365-4f02-8c30-b1f3078c6164",
+                    "platform": "TikTok",
+                    "post_url": "https://partial-stay.net",
+                    "likes": 495,
+                    "comments": 31,
+                    "shares": 63,
+                    "reach": 755
+                }
+            ],
+            "total_sales_attributed": 2346.9554515091822
+        }
+    ]
+}

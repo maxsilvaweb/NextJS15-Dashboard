@@ -1,0 +1,26 @@
+{
+    "user_id": "db1f6582-37dc-4ce2-b4dc-b9cc939b1c65",
+    "name": "Darrell Garcia",
+    "email": "stephanie88@example.com",
+    "instagram_handle": "@edward91",
+    "tiktok_handle": "@bwilson",
+    "joined_at": "2024-06-14T20:51:16.840260",
+    "advocacy_programs": [
+        {
+            "program_id": "7e413091-53e9-4f62-914f-5cdecc510af0",
+            "brand": "Harris, Muller and Larson",
+            "tasks_completed": [
+                {
+                    "task_id": "dc20da63-5494-40f0-973d-47f55ec79569",
+                    "platform": "Instagram",
+                    "post_url": "https://livid-programme.net",
+                    "likes": 9260,
+                    "comments": 500,
+                    "shares": 88,
+                    "reach": 2732
+                }
+            ],
+            "total_sales_attributed": 6376.43
+        }
+    ]
+}

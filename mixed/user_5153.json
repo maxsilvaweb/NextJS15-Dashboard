@@ -1,0 +1,26 @@
+{
+    "user_id": "99c3835e-fd1a-4edf-80cb-10cbc8226df6",
+    "name": "Aaron Morrow",
+    "email": "nwilson@example.net",
+    "instagram_handle": "@rickydavis",
+    "tiktok_handle": "@balljonathon",
+    "joined_at": "2023-10-21T08:41:53.653084",
+    "advocacy_programs": [
+        {
+            "program_id": "9e84c53f-fb2c-4c6d-a76e-21f7a85b0de7",
+            "brand": "Wilson Group",
+            "tasks_completed": [
+                {
+                    "task_id": "7f7bbfcc-4404-4a8a-8aee-416ed6e42703",
+                    "platform": "Instagram",
+                    "post_url": "http://www.johnston.com/",
+                    "likes": 271,
+                    "comments": 10,
+                    "shares": 99,
+                    "reach": 1401
+                }
+            ],
+            "total_sales_attributed": 208.17300533506102
+        }
+    ]
+}

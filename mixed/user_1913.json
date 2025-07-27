@@ -1,0 +1,26 @@
+{
+    "user_id": "165218e3-2bb4-442b-93c5-933d3359b4ba",
+    "name": "Cody Wilkerson",
+    "email": "Norris_OKon20@hotmail.com",
+    "instagram_handle": "@sandrakelly",
+    "tiktok_handle": "@david42",
+    "joined_at": "2023-10-04T02:54:28.615357",
+    "advocacy_programs": [
+        {
+            "program_id": "ff2aad90-0c28-415c-95b2-a2936231ebf1",
+            "brand": "Baxter Group",
+            "tasks_completed": [
+                {
+                    "task_id": "75abf957-abf9-4bbe-a56e-79407669a611",
+                    "platform": "Instagram",
+                    "post_url": "https://cautious-shadowbox.org",
+                    "likes": 7438,
+                    "comments": 268,
+                    "shares": 75,
+                    "reach": 2195
+                }
+            ],
+            "total_sales_attributed": 893.38
+        }
+    ]
+}

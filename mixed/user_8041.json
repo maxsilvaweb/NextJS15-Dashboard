@@ -1,0 +1,26 @@
+{
+    "user_id": "283da2d7-d872-43ae-b0a6-ec7220763582",
+    "name": "Glenn Ernser",
+    "email": "Newton79@yahoo.com",
+    "instagram_handle": "@Vernice1",
+    "tiktok_handle": "@Thomas.Runte58",
+    "joined_at": "2024-03-24T17:38:49.245Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7a7d1dd8-c5f9-41ad-9cf8-85a3c69fe083",
+            "brand": "Hilpert, Goyette and Rau",
+            "tasks_completed": [
+                {
+                    "task_id": "ed3a95eb-6997-4fa1-870a-0c5a45b86a8c",
+                    "platform": "Instagram",
+                    "post_url": "https://reasonable-event.biz",
+                    "likes": 11,
+                    "comments": 4,
+                    "shares": 32,
+                    "reach": 8614
+                }
+            ],
+            "total_sales_attributed": 772.5495276710496
+        }
+    ]
+}

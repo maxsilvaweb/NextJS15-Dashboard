@@ -1,0 +1,26 @@
+{
+    "user_id": "9e0424ec-bb49-4ed7-b1ea-7fc94f2c83f9",
+    "name": "Kenneth Haynes",
+    "email": "elizabeth14@example.com",
+    "instagram_handle": "@osbornebradley",
+    "tiktok_handle": "@ygonzalez",
+    "joined_at": "2024-01-19T13:32:01.807228",
+    "advocacy_programs": [
+        {
+            "program_id": "45f0b461-0eb3-45fe-b313-dea74068e2e2",
+            "brand": "Jones and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "8ab3c612-b434-44da-9660-3aae23e2b086",
+                    "platform": "Twitter",
+                    "post_url": "https://black-and-white-baritone.info",
+                    "likes": 5725,
+                    "comments": 12,
+                    "shares": 82,
+                    "reach": 9085
+                }
+            ],
+            "total_sales_attributed": 3386.34
+        }
+    ]
+}

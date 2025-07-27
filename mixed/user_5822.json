@@ -1,0 +1,26 @@
+{
+    "user_id": "1c42270d-6cb5-4dff-8176-92df04152e85",
+    "name": "Mr. Devin Ward",
+    "email": "kfitzgerald@example.net",
+    "instagram_handle": "@erin79",
+    "tiktok_handle": "@taylorandre",
+    "joined_at": "2024-01-20T17:43:08.306884",
+    "advocacy_programs": [
+        {
+            "program_id": "d2fdd771-1677-4b1a-b841-86116cf33b62",
+            "brand": "Corwin, Cronin and Morissette",
+            "tasks_completed": [
+                {
+                    "task_id": "8294059d-377a-45d5-bc87-e545fd9d5029",
+                    "platform": "Twitter",
+                    "post_url": "https://exalted-sticker.biz",
+                    "likes": 5545,
+                    "comments": 120,
+                    "shares": 89,
+                    "reach": 8936
+                }
+            ],
+            "total_sales_attributed": 2860.75
+        }
+    ]
+}

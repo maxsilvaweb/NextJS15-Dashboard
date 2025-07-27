@@ -1,0 +1,26 @@
+{
+    "user_id": "ed8e74f9-f85e-4585-8aa4-849ec0c12ef9",
+    "name": "Mrs. Mildred Rogahn",
+    "email": "Jazmyne91@gmail.com",
+    "instagram_handle": "@Hilma44",
+    "tiktok_handle": "@Luciano_Kovacek1",
+    "joined_at": "2024-08-25T23:18:04.603Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b3bfdcb5-4a01-40ff-a2a2-9519ff830841",
+            "brand": "Robel LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f25c9366-f245-404b-8479-9c7e51c6fc8e",
+                    "platform": "Instagram",
+                    "post_url": "https://weary-farm.name",
+                    "likes": 348,
+                    "comments": 35,
+                    "shares": 48,
+                    "reach": 4980
+                }
+            ],
+            "total_sales_attributed": 3820.4831335129247
+        }
+    ]
+}

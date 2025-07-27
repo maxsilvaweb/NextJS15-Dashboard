@@ -1,0 +1,26 @@
+{
+    "user_id": "f0ff1b89-5b81-4ea0-9202-89a68b488c52",
+    "name": "Justin Carson",
+    "email": "jenniferrobinson@example.com",
+    "instagram_handle": "@cindystone",
+    "tiktok_handle": "@timothy92",
+    "joined_at": "2024-09-01T18:57:02.247529",
+    "advocacy_programs": [
+        {
+            "program_id": "527e63e2-3f62-4514-8388-e22bc180303f",
+            "brand": "Turner-Robbins",
+            "tasks_completed": [
+                {
+                    "task_id": "520b8608-650c-4461-8bb9-cedb07d1f04c",
+                    "platform": "TikTok",
+                    "post_url": "http://www.smith.net/",
+                    "likes": 3210,
+                    "comments": 53,
+                    "shares": 95,
+                    "reach": 2364
+                }
+            ],
+            "total_sales_attributed": 2425.27
+        }
+    ]
+}

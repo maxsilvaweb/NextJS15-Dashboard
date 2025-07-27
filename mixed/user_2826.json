@@ -1,0 +1,26 @@
+{
+    "user_id": "0ac3239f-13bb-4635-8bb4-1055f6fbe9f6",
+    "name": "Christopher Garcia",
+    "email": "glenn10@example.org",
+    "instagram_handle": "@daniellejensen",
+    "tiktok_handle": "@troyjohnson",
+    "joined_at": "2023-10-16T22:31:10.318061",
+    "advocacy_programs": [
+        {
+            "program_id": "a745f3e0-ddd8-46ef-a9fa-437080a40323",
+            "brand": "Smith-Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "4b4d1dfd-00c1-4b28-b606-5a2c4c90e083",
+                    "platform": "TikTok",
+                    "post_url": "https://proud-ruin.info",
+                    "likes": 293,
+                    "comments": 40,
+                    "shares": 16,
+                    "reach": 6205
+                }
+            ],
+            "total_sales_attributed": 6170.61
+        }
+    ]
+}

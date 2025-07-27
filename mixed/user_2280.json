@@ -1,0 +1,26 @@
+{
+    "user_id": "a17df08f-6ecc-4566-80b8-d7070d80ee53",
+    "name": "Wilma Morar",
+    "email": "Fausto31@hotmail.com",
+    "instagram_handle": "@Anibal_Cummings",
+    "tiktok_handle": "@Dangelo_Predovic",
+    "joined_at": "2025-03-04T01:11:54.706Z",
+    "advocacy_programs": [
+        {
+            "program_id": "204d8c2a-c305-4bd1-9b27-6b89928bca5d",
+            "brand": "Haley Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "e0a580ab-6b60-499b-8b78-f9780a032b88",
+                    "platform": "TikTok",
+                    "post_url": "https://kosher-dwell.info/",
+                    "likes": 89,
+                    "comments": 16,
+                    "shares": 77,
+                    "reach": 2933
+                }
+            ],
+            "total_sales_attributed": 3069.8358239240556
+        }
+    ]
+}

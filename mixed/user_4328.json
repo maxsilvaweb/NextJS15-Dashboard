@@ -1,0 +1,26 @@
+{
+    "user_id": "23cfec45-f332-4891-8931-ad2b95966e6a",
+    "name": "Carolyn Blanda",
+    "email": "Felicita_Gislason@yahoo.com",
+    "instagram_handle": "@Trent87",
+    "tiktok_handle": "@Joe.Kutch34",
+    "joined_at": "2024-06-09T17:21:30.614Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f6bfc913-49ef-46de-90db-bce770d10698",
+            "brand": "Fisher, Daugherty and Grimes",
+            "tasks_completed": [
+                {
+                    "task_id": "c05a1e14-fef2-4e26-8e9e-9c5b512909ed",
+                    "platform": "Instagram",
+                    "post_url": "https://pleasing-mainstream.org/",
+                    "likes": 445,
+                    "comments": 18,
+                    "shares": 8,
+                    "reach": 2360
+                }
+            ],
+            "total_sales_attributed": 4851.239093031094
+        }
+    ]
+}

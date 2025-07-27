@@ -1,0 +1,26 @@
+{
+    "user_id": "47136ad6-7720-4caa-9a0c-abb791ed6321",
+    "name": "Tyler Smith",
+    "email": "Johathan_Nolan@yahoo.com",
+    "instagram_handle": "@danielwright",
+    "tiktok_handle": "@normaowens",
+    "joined_at": "2024-05-18T15:50:00.604868",
+    "advocacy_programs": [
+        {
+            "program_id": "4001142c-e8bc-47d6-8786-43e00c7c434b",
+            "brand": "Baker-Friedman",
+            "tasks_completed": [
+                {
+                    "task_id": "8f118e4d-690b-4d16-a15d-fff79aad0a8c",
+                    "platform": "TikTok",
+                    "post_url": "http://www.briggs-ward.com/",
+                    "likes": 9089,
+                    "comments": 316,
+                    "shares": 94,
+                    "reach": 6489
+                }
+            ],
+            "total_sales_attributed": 3755.15
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "32eca803-65ab-4848-a6b4-4a615c081ded",
+    "name": "Katie Pouros",
+    "email": "Aniyah28@gmail.com",
+    "instagram_handle": "@Glen62",
+    "tiktok_handle": "@Gordon.Harvey-Schroeder49",
+    "joined_at": "2025-02-05T18:43:07.643Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f31483b8-8201-4cd8-a994-dfc04e7d4ff8",
+            "brand": "Gibson, Ziemann and Christiansen",
+            "tasks_completed": [
+                {
+                    "task_id": "63829427-e6c0-41e7-a150-16cb2ad09d8b",
+                    "platform": "TikTok",
+                    "post_url": "https://babyish-lady.net/",
+                    "likes": 67,
+                    "comments": 0,
+                    "shares": 87,
+                    "reach": 8066
+                }
+            ],
+            "total_sales_attributed": 4531.496748862608
+        }
+    ]
+}

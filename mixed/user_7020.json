@@ -1,0 +1,26 @@
+{
+    "user_id": "9ceb238b-e77c-4cad-9bf8-2756bf4d9a7f",
+    "name": "Dewey Erdman",
+    "email": "Thea67@hotmail.com",
+    "instagram_handle": "@Llewellyn_Hilll86",
+    "tiktok_handle": "@Vaughn10",
+    "joined_at": "2025-03-13T18:01:01.815Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2eae8c6d-61c7-4778-97a2-ea48fc431311",
+            "brand": "Erdman and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "6645e443-e161-46f5-b89a-7e5c740fb219",
+                    "platform": "Instagram",
+                    "post_url": "https://quick-wasabi.name",
+                    "likes": 264,
+                    "comments": 29,
+                    "shares": 92,
+                    "reach": 4806
+                }
+            ],
+            "total_sales_attributed": 1792.9665940856296
+        }
+    ]
+}

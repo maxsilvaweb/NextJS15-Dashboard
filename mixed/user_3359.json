@@ -1,0 +1,26 @@
+{
+    "user_id": "da5242d4-91f9-43af-9c1c-0f218bbb0051",
+    "name": "Orville VonRueden",
+    "email": "Reinhold0@gmail.com",
+    "instagram_handle": "@Janessa24",
+    "tiktok_handle": "@Rebecca.Hilll84",
+    "joined_at": "2025-01-01T09:51:31.886Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d561dea8-00ef-46e4-8c01-78235f00f671",
+            "brand": "Kilback - Turcotte",
+            "tasks_completed": [
+                {
+                    "task_id": "63f8b2cd-f25f-4c63-b9b3-29e53da258b1",
+                    "platform": "Instagram",
+                    "post_url": "https://every-stool.net/",
+                    "likes": 53,
+                    "comments": 21,
+                    "shares": 57,
+                    "reach": 1013
+                }
+            ],
+            "total_sales_attributed": 4198.479183921208
+        }
+    ]
+}

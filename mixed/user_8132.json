@@ -1,0 +1,26 @@
+{
+    "user_id": "038587d8-3cd5-47f8-8ab4-7c51f7a21b7a",
+    "name": "Jason Vazquez",
+    "email": "Virgil_Flatley@hotmail.com",
+    "instagram_handle": "@pclark",
+    "tiktok_handle": "@brownvanessa",
+    "joined_at": "2024-09-03T05:13:47.132346",
+    "advocacy_programs": [
+        {
+            "program_id": "801d3d44-3689-4a08-b043-035d601deb6f",
+            "brand": "Bush-Rogers",
+            "tasks_completed": [
+                {
+                    "task_id": "749168a0-8487-4ef0-9814-59c908394dfe",
+                    "platform": "Twitter",
+                    "post_url": "https://miller.biz/",
+                    "likes": 450,
+                    "comments": 33,
+                    "shares": 65,
+                    "reach": 8890
+                }
+            ],
+            "total_sales_attributed": 6432.3
+        }
+    ]
+}

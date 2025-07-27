@@ -1,0 +1,26 @@
+{
+    "user_id": "6820d699-0b40-49db-a3f1-3a299ae8ec52",
+    "name": "Taylor Johns",
+    "email": "Monserrat_Kulas26@yahoo.com",
+    "instagram_handle": "@hubbardpatrick",
+    "tiktok_handle": "@keith78",
+    "joined_at": "2023-08-17T10:10:46.758193",
+    "advocacy_programs": [
+        {
+            "program_id": "2cf1295d-fa38-4630-996a-8a5003058b4c",
+            "brand": "Lewis and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "b3e70fc0-ffb0-4ccb-9a81-cea769e2533a",
+                    "platform": "Instagram",
+                    "post_url": "https://morrison.com/",
+                    "likes": 9548,
+                    "comments": 382,
+                    "shares": 36,
+                    "reach": 9068
+                }
+            ],
+            "total_sales_attributed": 6922.85
+        }
+    ]
+}

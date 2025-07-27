@@ -1,0 +1,26 @@
+{
+    "user_id": "52ba7553-2a27-472d-bf9c-d8342c33f35a",
+    "name": "Susan Parks",
+    "email": "tyler58@example.org",
+    "instagram_handle": "@marissa24",
+    "tiktok_handle": "@fjohnson",
+    "joined_at": "2024-07-08T17:34:59.631296",
+    "advocacy_programs": [
+        {
+            "program_id": "d9cab43f-5f25-4134-bc96-64246c610870",
+            "brand": "Russell-Fitzpatrick",
+            "tasks_completed": [
+                {
+                    "task_id": "70e00673-9c00-4195-a67e-ec3e3c61c5cb",
+                    "platform": "Instagram",
+                    "post_url": "https://evans-smith.com/",
+                    "likes": 63,
+                    "comments": 28,
+                    "shares": 79,
+                    "reach": 5570
+                }
+            ],
+            "total_sales_attributed": 4484.197248313611
+        }
+    ]
+}

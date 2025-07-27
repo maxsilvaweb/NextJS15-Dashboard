@@ -1,0 +1,26 @@
+{
+    "user_id": "cb55f0b8-bc54-46b8-8739-590ffca79db9",
+    "name": "Alan Erdman",
+    "email": "Alysa_Quitzon27@gmail.com",
+    "instagram_handle": "@Clifton.Buckridge2",
+    "tiktok_handle": "@Andreanne_Douglas",
+    "joined_at": "2024-06-08T19:43:00.740Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6766ba6a-5b26-4bee-b956-4b3f7a246c9c",
+            "brand": "Wisozk - Stanton",
+            "tasks_completed": [
+                {
+                    "task_id": "268c5d89-7b56-4814-851e-7fa0312cf49c",
+                    "platform": "Instagram",
+                    "post_url": "https://splendid-wasabi.net",
+                    "likes": 169,
+                    "comments": 37,
+                    "shares": 35,
+                    "reach": 933
+                }
+            ],
+            "total_sales_attributed": 3787.10801474112
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "88aa789e-e42d-4ffc-8d14-4df71b09be43",
+    "name": "Bradley Brown",
+    "email": "mwilson@example.org",
+    "instagram_handle": "@Jett25",
+    "tiktok_handle": "@michellesmith",
+    "joined_at": "2025-05-24T09:38:31.709816",
+    "advocacy_programs": [
+        {
+            "program_id": "66dc54c1-74fd-41e3-8e2e-96527e16a421",
+            "brand": "Smith LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "dff1babf-2a6e-4815-9206-813b981bd26b",
+                    "platform": "TikTok",
+                    "post_url": "https://enraged-coin.com",
+                    "likes": 8952,
+                    "comments": 375,
+                    "shares": 65,
+                    "reach": 1543
+                }
+            ],
+            "total_sales_attributed": 4351.9
+        }
+    ]
+}

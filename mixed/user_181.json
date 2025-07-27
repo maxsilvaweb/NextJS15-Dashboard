@@ -1,0 +1,26 @@
+{
+    "user_id": "db39334e-ddf1-4123-98e6-5b554e43ec3f",
+    "name": "Elizabeth Thomas",
+    "email": "kennethdiaz@example.net",
+    "instagram_handle": "@Marlen54",
+    "tiktok_handle": "@Marlen14",
+    "joined_at": "2024-07-02T13:51:08.352952",
+    "advocacy_programs": [
+        {
+            "program_id": "d9003fba-26ac-4cfb-8fe0-9c91add4508e",
+            "brand": "Gardner, Allen and Young",
+            "tasks_completed": [
+                {
+                    "task_id": "1810274a-5b47-46bc-8e67-4cc580744144",
+                    "platform": "YouTube",
+                    "post_url": "http://jones.com/",
+                    "likes": 2139,
+                    "comments": 22,
+                    "shares": 37,
+                    "reach": 2835
+                }
+            ],
+            "total_sales_attributed": 1203.19
+        }
+    ]
+}

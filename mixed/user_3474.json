@@ -1,0 +1,26 @@
+{
+    "user_id": "9301972d-e423-4bd0-b9a4-bc48b8b262d3",
+    "name": "Dr. Clifford Nitzsche",
+    "email": "Alize.Schuppe50@yahoo.com",
+    "instagram_handle": "@Jonatan9",
+    "tiktok_handle": "@Wilbert.Schiller",
+    "joined_at": "2024-08-19T10:48:53.679Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5d727a09-53fd-4cbe-9d14-d9bbae9e9bb8",
+            "brand": "Wyman, Marvin and Hills",
+            "tasks_completed": [
+                {
+                    "task_id": "b737019d-dd59-47eb-b007-2d0597c94fc3",
+                    "platform": "Instagram",
+                    "post_url": "https://stable-derby.name",
+                    "likes": 397,
+                    "comments": 24,
+                    "shares": 29,
+                    "reach": 9421
+                }
+            ],
+            "total_sales_attributed": 685.5966077126056
+        }
+    ]
+}

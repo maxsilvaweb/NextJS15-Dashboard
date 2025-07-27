@@ -1,0 +1,26 @@
+{
+    "user_id": "e62fd750-f043-4511-9c3a-d29cf7b18a5e",
+    "name": "Rita Runolfsson",
+    "email": "Celestino.Wolf@hotmail.com",
+    "instagram_handle": "@Jarod_Kuhic-Abshire",
+    "tiktok_handle": "@Ryder_Rice",
+    "joined_at": "2025-01-13T16:09:11.354Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8df5513d-1fca-4539-bf88-ea0744d5cc7f",
+            "brand": "Gusikowski Group",
+            "tasks_completed": [
+                {
+                    "task_id": "4e2da75f-1cbb-413d-b47a-7756a3479b8f",
+                    "platform": "Instagram",
+                    "post_url": "https://trustworthy-formation.com/",
+                    "likes": 397,
+                    "comments": 6,
+                    "shares": 60,
+                    "reach": 4857
+                }
+            ],
+            "total_sales_attributed": 1863.6897003914096
+        }
+    ]
+}

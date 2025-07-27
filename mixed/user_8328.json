@@ -1,0 +1,26 @@
+{
+    "user_id": "5cc014f1-b8df-4f7b-a5d3-a0fd988e0ef7",
+    "name": "Carmen Herzog",
+    "email": "Kareem_Roob@yahoo.com",
+    "instagram_handle": "@Taylor_Kilback71",
+    "tiktok_handle": "@Daniella81",
+    "joined_at": "2024-11-07T22:05:26.095Z",
+    "advocacy_programs": [
+        {
+            "program_id": "37a8ad63-353f-4cf6-8a82-c0d95e4ab1b4",
+            "brand": "Bartell - Vandervort",
+            "tasks_completed": [
+                {
+                    "task_id": "80966e12-d1f2-4e89-a50f-566cae26aa16",
+                    "platform": "Instagram",
+                    "post_url": "https://tricky-order.net",
+                    "likes": 109,
+                    "comments": 33,
+                    "shares": 65,
+                    "reach": 1853
+                }
+            ],
+            "total_sales_attributed": 1011.2455375445124
+        }
+    ]
+}

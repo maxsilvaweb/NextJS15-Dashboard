@@ -1,0 +1,26 @@
+{
+    "user_id": "697f5a9f-09db-4c02-8b9f-1e3c18c6dcc6",
+    "name": "Stephanie King",
+    "email": "ugreen@example.net",
+    "instagram_handle": "@yellis",
+    "tiktok_handle": "@william55",
+    "joined_at": "2024-06-05T15:32:03.482124",
+    "advocacy_programs": [
+        {
+            "program_id": "bb8d4eef-4dfb-41d8-89c0-d528298b7408",
+            "brand": "Wagner, Morrow and Gonzalez",
+            "tasks_completed": [
+                {
+                    "task_id": "2b9849c0-1d3d-4790-a93b-21aabb77fbaa",
+                    "platform": "Instagram",
+                    "post_url": "https://mcbride-robinson.com/",
+                    "likes": 106,
+                    "comments": 133,
+                    "shares": 28,
+                    "reach": 3960
+                }
+            ],
+            "total_sales_attributed": 2555.02
+        }
+    ]
+}

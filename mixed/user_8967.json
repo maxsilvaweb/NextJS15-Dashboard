@@ -1,0 +1,26 @@
+{
+    "user_id": "6b75d5de-6287-441e-abb3-483f659322f5",
+    "name": "Dr. Kristopher O'Keefe",
+    "email": "Avery_Pagac48@gmail.com",
+    "instagram_handle": "@Jarred_Runolfsson",
+    "tiktok_handle": "@Hassan_Lebsack62",
+    "joined_at": "2024-09-06T10:27:37.370Z",
+    "advocacy_programs": [
+        {
+            "program_id": "41d9e7b8-c294-4787-9756-5261fb5e894b",
+            "brand": "Stiedemann and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a96830e7-4b7c-4c3c-b133-6b772c19a410",
+                    "platform": "TikTok",
+                    "post_url": "https://aged-depot.com",
+                    "likes": 203,
+                    "comments": 18,
+                    "shares": 84,
+                    "reach": 4491
+                }
+            ],
+            "total_sales_attributed": 1847.9365136042306
+        }
+    ]
+}

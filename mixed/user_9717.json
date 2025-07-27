@@ -1,0 +1,26 @@
+{
+    "user_id": "03a7ac84-6038-4dd2-a60c-59e8ea387519",
+    "name": "Michael Duran",
+    "email": "juarezvanessa@example.net",
+    "instagram_handle": "@nelsonchristopher",
+    "tiktok_handle": "@elizabethcarrillo",
+    "joined_at": "2023-10-11T01:50:35.636588",
+    "advocacy_programs": [
+        {
+            "program_id": "61a017ed-d1aa-4f25-b90c-dff3c4c9d1b8",
+            "brand": "Bode, Kuvalis and Mayert",
+            "tasks_completed": [
+                {
+                    "task_id": "13291f6b-936c-4a20-a272-11500d2d1f28",
+                    "platform": "Facebook",
+                    "post_url": "https://esteemed-tenement.org/",
+                    "likes": 1239,
+                    "comments": 105,
+                    "shares": 86,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 6021.16
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bdd65405-c5da-4644-b809-d1f4ec47740b",
+    "name": "Mr. Nathaniel Hagenes",
+    "email": "Lauryn49@yahoo.com",
+    "instagram_handle": "@Isobel.Schoen",
+    "tiktok_handle": "@Penelope46",
+    "joined_at": "2024-09-22T02:21:39.214Z",
+    "advocacy_programs": [
+        {
+            "program_id": "181cba66-1dff-4a14-9c6b-ce9e12854422",
+            "brand": "Collier - Collier",
+            "tasks_completed": [
+                {
+                    "task_id": "78f24082-72c3-4154-af28-cc2139ea2c6a",
+                    "platform": "TikTok",
+                    "post_url": "https://cloudy-boyfriend.info/",
+                    "likes": 458,
+                    "comments": 15,
+                    "shares": 15,
+                    "reach": 3029
+                }
+            ],
+            "total_sales_attributed": 4256.1237497922775
+        }
+    ]
+}

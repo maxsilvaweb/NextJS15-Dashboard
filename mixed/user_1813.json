@@ -1,0 +1,26 @@
+{
+    "user_id": "10f9abd4-6670-4379-a660-ff179173ff72",
+    "name": "Rebecca Moore MD",
+    "email": "pspears@example.net",
+    "instagram_handle": "@tkline",
+    "tiktok_handle": "@sbyrd",
+    "joined_at": "2025-07-17T21:48:34.260073",
+    "advocacy_programs": [
+        {
+            "program_id": "283da449-c489-419a-a727-8f3f53144165",
+            "brand": "Frey-Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "93672084-f40e-4f4f-9666-df9bc103bead",
+                    "platform": "Facebook",
+                    "post_url": "http://edwards.com/",
+                    "likes": 2301,
+                    "comments": 318,
+                    "shares": 0,
+                    "reach": 5485
+                }
+            ],
+            "total_sales_attributed": 756.98
+        }
+    ]
+}

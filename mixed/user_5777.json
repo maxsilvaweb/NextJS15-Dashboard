@@ -1,0 +1,26 @@
+{
+    "user_id": "ad3dec0a-fd72-435d-97d6-4c3a40679e96",
+    "name": "Elizabeth Anderson",
+    "email": "Zelma34@hotmail.com",
+    "instagram_handle": "@rubenjones",
+    "tiktok_handle": "@cynthia93",
+    "joined_at": "2024-01-29T23:42:02.111010",
+    "advocacy_programs": [
+        {
+            "program_id": "f4d00e3f-8bf4-4cda-99cd-8c99df51f814",
+            "brand": "Anderson, Walker and Carrillo",
+            "tasks_completed": [
+                {
+                    "task_id": "ab71edc6-2ca1-4e2a-9cc5-881468209439",
+                    "platform": "TikTok",
+                    "post_url": "https://lee.com/",
+                    "likes": 4197,
+                    "comments": 126,
+                    "shares": 8,
+                    "reach": 3736
+                }
+            ],
+            "total_sales_attributed": 5357.41
+        }
+    ]
+}

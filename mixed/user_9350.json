@@ -1,0 +1,26 @@
+{
+    "user_id": "a35fcd1c-67a7-4be2-9940-ec4decbe7901",
+    "name": "Tamara Jones",
+    "email": "walshrobert@example.net",
+    "instagram_handle": "@amandarangel",
+    "tiktok_handle": "@allison33",
+    "joined_at": "2025-04-19T05:12:16.596129",
+    "advocacy_programs": [
+        {
+            "program_id": "2e4fe953-0654-4fd9-bc47-7f8121e07dea",
+            "brand": "Mays-Simmons",
+            "tasks_completed": [
+                {
+                    "task_id": "e6444a0d-8c0a-42f4-b099-00fc6e2ee376",
+                    "platform": "TikTok",
+                    "post_url": "https://www.atkins.com/",
+                    "likes": 2734,
+                    "comments": 75,
+                    "shares": 67,
+                    "reach": 8149
+                }
+            ],
+            "total_sales_attributed": 2017.55
+        }
+    ]
+}

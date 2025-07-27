@@ -1,0 +1,26 @@
+{
+    "user_id": "bc47c643-3f39-4682-beba-2f3acfa7db55",
+    "name": "Rosalie Dietrich",
+    "email": "Erna82@yahoo.com",
+    "instagram_handle": "@Dave20",
+    "tiktok_handle": "@Efrain58",
+    "joined_at": "2024-08-01T03:30:04.531Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d7cfe1bc-6fe3-49ee-bd7e-11c5399b75c5",
+            "brand": "Walter - Ratke",
+            "tasks_completed": [
+                {
+                    "task_id": "7b02fb24-d3cf-4727-bd88-6342a3134bc2",
+                    "platform": "TikTok",
+                    "post_url": "https://fantastic-dream.org",
+                    "likes": 244,
+                    "comments": 46,
+                    "shares": 17,
+                    "reach": 5807
+                }
+            ],
+            "total_sales_attributed": 2185.2146041735336
+        }
+    ]
+}

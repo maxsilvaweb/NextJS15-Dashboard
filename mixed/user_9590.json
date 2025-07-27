@@ -1,0 +1,26 @@
+{
+    "user_id": "ec55b67e-2cc9-40c2-9cf5-8fdd35aafbe5",
+    "name": "Paula Paucek",
+    "email": "Luisa54@yahoo.com",
+    "instagram_handle": "@Joannie_Glover25",
+    "tiktok_handle": "@Jordi16",
+    "joined_at": "2024-07-29T04:12:04.137Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4c626bd0-39e1-4dbf-b596-099dffa70fa4",
+            "brand": "Schaden - Murazik",
+            "tasks_completed": [
+                {
+                    "task_id": "53215aea-7b40-4584-b668-f883a393d0bd",
+                    "platform": "TikTok",
+                    "post_url": "https://snoopy-noon.info",
+                    "likes": 495,
+                    "comments": 41,
+                    "shares": 52,
+                    "reach": 3361
+                }
+            ],
+            "total_sales_attributed": 2057.3021769015368
+        }
+    ]
+}

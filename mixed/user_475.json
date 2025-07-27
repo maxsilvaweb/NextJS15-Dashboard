@@ -1,0 +1,26 @@
+{
+    "user_id": "452974f1-0eff-4180-ab5e-4c019b6f44a1",
+    "name": "Stanley Lopez",
+    "email": "mason81@example.org",
+    "instagram_handle": "@sloanrobert",
+    "tiktok_handle": "@kaitlynherrera",
+    "joined_at": "2024-06-15T00:21:32.588540",
+    "advocacy_programs": [
+        {
+            "program_id": "3c3335ad-6441-4034-93ae-c0fa18e130db",
+            "brand": "Smith-Green",
+            "tasks_completed": [
+                {
+                    "task_id": "f1c37b32-e3ed-4d06-964e-c3107edc4cb0",
+                    "platform": "Facebook",
+                    "post_url": "http://roberson.info/",
+                    "likes": 4843,
+                    "comments": 25,
+                    "shares": 2,
+                    "reach": 8332
+                }
+            ],
+            "total_sales_attributed": 318.7
+        }
+    ]
+}

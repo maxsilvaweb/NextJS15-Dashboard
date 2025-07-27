@@ -1,0 +1,26 @@
+{
+    "user_id": "998b4862-5d65-401d-ad69-343d417238a6",
+    "name": "Lisa Marshall",
+    "email": "greenjeremy@example.org",
+    "instagram_handle": "@sabrina64",
+    "tiktok_handle": "@bcooke",
+    "joined_at": "2024-06-20T20:48:31.099958",
+    "advocacy_programs": [
+        {
+            "program_id": "ff91f804-c35b-41a0-9c07-19a87af22eb4",
+            "brand": "Greer and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "78c1b2f4-2370-4e26-88d6-a52f83435810",
+                    "platform": "TikTok",
+                    "post_url": "http://www.white.biz/",
+                    "likes": 956,
+                    "comments": 244,
+                    "shares": 94,
+                    "reach": 2920
+                }
+            ],
+            "total_sales_attributed": 3484.644806987094
+        }
+    ]
+}

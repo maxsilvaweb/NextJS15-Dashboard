@@ -1,0 +1,26 @@
+{
+    "user_id": "7345c092-a34d-4874-aeae-b587b4ad0f29",
+    "name": "Ira Mohr",
+    "email": "Santiago_Muller@yahoo.com",
+    "instagram_handle": "@Delphia_Auer",
+    "tiktok_handle": "@Annabell_Wehner",
+    "joined_at": "2025-01-02T06:46:32.573Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ee6d8e6c-93ad-4cb7-b915-e173768d831c",
+            "brand": "Predovic - Heller",
+            "tasks_completed": [
+                {
+                    "task_id": "955cead0-5f66-42b2-91b2-4a5e849592bd",
+                    "platform": "Instagram",
+                    "post_url": "https://blushing-independence.org/",
+                    "likes": 225,
+                    "comments": 38,
+                    "shares": 15,
+                    "reach": 2434
+                }
+            ],
+            "total_sales_attributed": 3872.216419644024
+        }
+    ]
+}

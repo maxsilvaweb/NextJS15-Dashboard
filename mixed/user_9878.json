@@ -1,0 +1,26 @@
+{
+    "user_id": "dfc827a9-6fed-4b40-944b-3eef24e19eb6",
+    "name": "Bryant Nolan",
+    "email": "Brice_Cormier@gmail.com",
+    "instagram_handle": "@Sophie_Kreiger",
+    "tiktok_handle": "@Lonnie.Fadel",
+    "joined_at": "2024-05-14T12:26:28.234Z",
+    "advocacy_programs": [
+        {
+            "program_id": "183228a6-da52-4d43-945f-96556613f9fa",
+            "brand": "Skiles Group",
+            "tasks_completed": [
+                {
+                    "task_id": "a106a4ed-0ced-48c8-89b4-a2a68faaa19f",
+                    "platform": "Instagram",
+                    "post_url": "https://mediocre-chasuble.net/",
+                    "likes": 10,
+                    "comments": 46,
+                    "shares": 17,
+                    "reach": 7024
+                }
+            ],
+            "total_sales_attributed": 554.5757267556241
+        }
+    ]
+}

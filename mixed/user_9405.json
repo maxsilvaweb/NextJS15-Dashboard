@@ -1,0 +1,26 @@
+{
+    "user_id": "74f27576-b576-4a63-92b1-2f4a709e97ba",
+    "name": "Renee Marquez",
+    "email": "emorales@example.org",
+    "instagram_handle": "@christiangraham",
+    "tiktok_handle": "@rodriguezsamantha",
+    "joined_at": "2023-08-28T01:56:10.639977",
+    "advocacy_programs": [
+        {
+            "program_id": "b8454c3b-51dc-4575-9345-df0c1a13c290",
+            "brand": "Robertson-Collier",
+            "tasks_completed": [
+                {
+                    "task_id": "a891ead3-1896-4478-b98b-744e52a5ab21",
+                    "platform": "Twitter",
+                    "post_url": "http://hawkins-anderson.com/",
+                    "likes": 9070,
+                    "comments": 307,
+                    "shares": 46,
+                    "reach": 7312
+                }
+            ],
+            "total_sales_attributed": 2442.4
+        }
+    ]
+}

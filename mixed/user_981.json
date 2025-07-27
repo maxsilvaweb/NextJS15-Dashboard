@@ -1,0 +1,26 @@
+{
+    "user_id": "05bfe11a-789f-4bfa-968a-c1a911868c17",
+    "name": "Jordan Farmer",
+    "email": "thomasvasquez@example.com",
+    "instagram_handle": "@Anne.Bahringer79",
+    "tiktok_handle": "@chendouglas",
+    "joined_at": "2024-01-03T17:26:06.958876",
+    "advocacy_programs": [
+        {
+            "program_id": "1fecbe27-bbdb-438c-8f97-5a48bb52edc2",
+            "brand": "Goodwin - Cassin",
+            "tasks_completed": [
+                {
+                    "task_id": "e9e3d78d-67f8-4c29-a551-519921c4da6e",
+                    "platform": "Facebook",
+                    "post_url": "http://nguyen.com/",
+                    "likes": 9516,
+                    "comments": 17,
+                    "shares": 3,
+                    "reach": 3705
+                }
+            ],
+            "total_sales_attributed": 2026.4446424984965
+        }
+    ]
+}

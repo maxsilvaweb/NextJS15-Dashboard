@@ -1,0 +1,26 @@
+{
+    "user_id": "86752265-e0f1-4132-a985-c6cefbdf2f3a",
+    "name": "Christine Jones",
+    "email": "Arnold.Reilly50@gmail.com",
+    "instagram_handle": "@sjenkins",
+    "tiktok_handle": "@espinozalindsey",
+    "joined_at": "2023-08-11T19:23:25.878127",
+    "advocacy_programs": [
+        {
+            "program_id": "ce1d00fe-7264-4a0a-b36e-7faa477f77e6",
+            "brand": "Zavala-Frederick",
+            "tasks_completed": [
+                {
+                    "task_id": "fa1d7dfe-4115-4938-814b-700eac12ba01",
+                    "platform": "Facebook",
+                    "post_url": "http://www.mcguire.net/",
+                    "likes": 4338,
+                    "comments": 377,
+                    "shares": 92,
+                    "reach": 8263
+                }
+            ],
+            "total_sales_attributed": 6418.5
+        }
+    ]
+}

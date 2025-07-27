@@ -1,0 +1,26 @@
+{
+    "user_id": "13ba3d6a-60f2-4ee9-8513-3dbc728f867e",
+    "name": "Joel McLaughlin",
+    "email": "Brandt.Marvin@gmail.com",
+    "instagram_handle": "@Deion_Murazik92",
+    "tiktok_handle": "@Darrion.Schultz",
+    "joined_at": "2025-02-10T19:30:01.200Z",
+    "advocacy_programs": [
+        {
+            "program_id": "245982ce-7104-46d5-91b3-94b66abd0359",
+            "brand": "Kshlerin, Harris and Kemmer",
+            "tasks_completed": [
+                {
+                    "task_id": "cc6098e8-95d0-4374-89d6-d95b131c3891",
+                    "platform": "TikTok",
+                    "post_url": "https://sneaky-piglet.com/",
+                    "likes": 495,
+                    "comments": 9,
+                    "shares": 99,
+                    "reach": 2675
+                }
+            ],
+            "total_sales_attributed": 1797.946940181928
+        }
+    ]
+}

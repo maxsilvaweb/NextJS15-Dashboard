@@ -1,0 +1,26 @@
+{
+    "user_id": "d03706a7-5533-4e33-995b-f4e426dca19b",
+    "name": "Lisa Williams",
+    "email": "sara69@example.net",
+    "instagram_handle": "@urobertson",
+    "tiktok_handle": "@samanthaortega",
+    "joined_at": "2024-04-16T13:59:47.903713",
+    "advocacy_programs": [
+        {
+            "program_id": "f9228084-bf2f-4bf0-881e-3d8abd703d29",
+            "brand": "Austin, Benson and Roberts",
+            "tasks_completed": [
+                {
+                    "task_id": "8728a200-9f6a-4c8b-8a84-84525bf5c5f0",
+                    "platform": "YouTube",
+                    "post_url": "https://posh-summary.com",
+                    "likes": 594,
+                    "comments": 395,
+                    "shares": 21,
+                    "reach": 7322
+                }
+            ],
+            "total_sales_attributed": 4282.091299236878
+        }
+    ]
+}

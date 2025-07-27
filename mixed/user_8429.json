@@ -1,0 +1,26 @@
+{
+    "user_id": "870a4509-3ecc-468f-bb62-64900aefd3a4",
+    "name": "Jacob Howard",
+    "email": "Kirstin_Simonis55@yahoo.com",
+    "instagram_handle": "@tristan39",
+    "tiktok_handle": "@Bradly_Grimes68",
+    "joined_at": "2025-01-22T15:36:30.473262",
+    "advocacy_programs": [
+        {
+            "program_id": "601dbc92-ee3f-4463-a821-263b2e7248c3",
+            "brand": "Thomas Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "671aed34-75ed-4af9-8e12-adc0f0e2f459",
+                    "platform": "Facebook",
+                    "post_url": "https://dalton.biz/",
+                    "likes": 322,
+                    "comments": 12,
+                    "shares": 78,
+                    "reach": 8778
+                }
+            ],
+            "total_sales_attributed": 2060.65
+        }
+    ]
+}

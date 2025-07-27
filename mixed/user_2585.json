@@ -1,0 +1,26 @@
+{
+    "user_id": "9eb1be73-77c5-4f4b-ae03-95671953a806",
+    "name": "Cristina Lemke",
+    "email": "Izaiah96@hotmail.com",
+    "instagram_handle": "@Addison_Waters",
+    "tiktok_handle": "@Josephine.Witting11",
+    "joined_at": "2024-09-05T04:37:34.847Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d5dac7dc-2b17-4ceb-9d17-c47a222e626e",
+            "brand": "Kertzmann, Bins and Roberts",
+            "tasks_completed": [
+                {
+                    "task_id": "64b85b9c-9593-4e67-b438-e8d6525d616e",
+                    "platform": "TikTok",
+                    "post_url": "https://rotating-handover.info/",
+                    "likes": 451,
+                    "comments": 47,
+                    "shares": 20,
+                    "reach": 4980
+                }
+            ],
+            "total_sales_attributed": 2672.5709765865404
+        }
+    ]
+}

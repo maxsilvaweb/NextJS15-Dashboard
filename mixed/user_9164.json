@@ -1,0 +1,26 @@
+{
+    "user_id": "fc8ec89c-cabd-4a1a-a316-9e8521f80798",
+    "name": "Aubrey Lindgren",
+    "email": "Laurence.Upton@hotmail.com",
+    "instagram_handle": "@Romaine96",
+    "tiktok_handle": "@Janessa26",
+    "joined_at": "2024-12-04T02:16:03.962Z",
+    "advocacy_programs": [
+        {
+            "program_id": "192eb296-f88a-40ed-b215-39058a8d322c",
+            "brand": "Glover - Carter",
+            "tasks_completed": [
+                {
+                    "task_id": "4256eff8-3eb7-4c81-84f3-93f451fd3bba",
+                    "platform": "TikTok",
+                    "post_url": "https://animated-extension.info/",
+                    "likes": 102,
+                    "comments": 44,
+                    "shares": 7,
+                    "reach": 6190
+                }
+            ],
+            "total_sales_attributed": 185.32705919257808
+        }
+    ]
+}

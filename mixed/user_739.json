@@ -1,0 +1,26 @@
+{
+    "user_id": "415586ed-daef-4b24-bdc1-3afe58ea60bb",
+    "name": "David Smith",
+    "email": "jenna35@example.org",
+    "instagram_handle": "@mary64",
+    "tiktok_handle": "@driley",
+    "joined_at": "2023-09-20T11:32:01.232701",
+    "advocacy_programs": [
+        {
+            "program_id": "05f155bb-7b65-4936-936e-7a1ab39a28b1",
+            "brand": "Barber Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "17298d2d-8946-4e5e-a762-b8756003916e",
+                    "platform": "TikTok",
+                    "post_url": "https://www.holland-price.com/",
+                    "likes": 3463,
+                    "comments": 438,
+                    "shares": 69,
+                    "reach": 8778
+                }
+            ],
+            "total_sales_attributed": 3904.39
+        }
+    ]
+}

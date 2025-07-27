@@ -1,0 +1,26 @@
+{
+    "user_id": "b0e44328-9966-4e1c-9d8e-2812dbb27529",
+    "name": "Johnathan Leuschke",
+    "email": "Megane_Cummings@yahoo.com",
+    "instagram_handle": "@Ali_Kling",
+    "tiktok_handle": "@George79",
+    "joined_at": "2024-12-08T02:50:20.669Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a600864e-dfd4-4cf6-bb37-71e1a6a3751a",
+            "brand": "Upton and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "5820865d-43df-4a93-ba55-d5b08ef50922",
+                    "platform": "TikTok",
+                    "post_url": "https://confused-goat.name/",
+                    "likes": 316,
+                    "comments": 3,
+                    "shares": 64,
+                    "reach": 2273
+                }
+            ],
+            "total_sales_attributed": 2437.151722542861
+        }
+    ]
+}

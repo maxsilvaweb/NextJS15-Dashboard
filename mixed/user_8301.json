@@ -1,0 +1,26 @@
+{
+    "user_id": "4eb1d04e-8ebb-45ae-a4bf-d89493809872",
+    "name": "Lynne Williamson",
+    "email": "Camila61@hotmail.com",
+    "instagram_handle": "@Hank.Koch",
+    "tiktok_handle": "@Estell_Simonis",
+    "joined_at": "2024-06-25T15:33:59.437Z",
+    "advocacy_programs": [
+        {
+            "program_id": "164742b4-e4e2-4f23-b669-b8ba8125e6ff",
+            "brand": "Goyette, Gislason and Wilkinson",
+            "tasks_completed": [
+                {
+                    "task_id": "3aeb46e5-17c7-48ba-b128-6e0cf9c9aab2",
+                    "platform": "Instagram",
+                    "post_url": "https://helpful-scorn.com/",
+                    "likes": 364,
+                    "comments": 39,
+                    "shares": 87,
+                    "reach": 6388
+                }
+            ],
+            "total_sales_attributed": 539.4366980790461
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "82c07144-f2e1-441b-a873-2817852480fd",
+    "name": "Karl Bahringer",
+    "email": "Edythe30@yahoo.com",
+    "instagram_handle": "@burtonnathan",
+    "tiktok_handle": "@whiteraymond",
+    "joined_at": "2025-04-25T10:40:43.182133",
+    "advocacy_programs": [
+        {
+            "program_id": "b9462ede-b301-4979-a198-79d3e9d1ad6b",
+            "brand": "James LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ce4bf80d-b69f-4196-9659-87111c61e2e4",
+                    "platform": "TikTok",
+                    "post_url": "https://www.thompson.com/",
+                    "likes": 5874,
+                    "comments": 74,
+                    "shares": 19,
+                    "reach": 3450
+                }
+            ],
+            "total_sales_attributed": 3797.93
+        }
+    ]
+}

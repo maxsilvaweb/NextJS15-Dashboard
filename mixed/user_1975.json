@@ -1,0 +1,26 @@
+{
+    "user_id": "3b9ceb19-6b4c-4acd-b139-5e8985495764",
+    "name": "Andre Boyle",
+    "email": "Charlene74@yahoo.com",
+    "instagram_handle": "@Braxton74",
+    "tiktok_handle": "@Bart27",
+    "joined_at": "2024-11-11T23:35:34.634Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8ef6c827-06b9-480a-b642-3a147218b6be",
+            "brand": "Weimann - Baumbach",
+            "tasks_completed": [
+                {
+                    "task_id": "145384b2-781f-432a-bb03-a2d35386bedd",
+                    "platform": "TikTok",
+                    "post_url": "https://bruised-popularity.org",
+                    "likes": 294,
+                    "comments": 16,
+                    "shares": 63,
+                    "reach": 7279
+                }
+            ],
+            "total_sales_attributed": 870.7399884863281
+        }
+    ]
+}

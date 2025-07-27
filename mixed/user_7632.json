@@ -1,0 +1,26 @@
+{
+    "user_id": "19342129-16d2-4347-92b8-96faeadc7854",
+    "name": "Christopher Smith",
+    "email": "nunezjoshua@example.org",
+    "instagram_handle": "@steveperkins",
+    "tiktok_handle": "@lisasantos",
+    "joined_at": "2023-09-17T22:05:30.399264",
+    "advocacy_programs": [
+        {
+            "program_id": "273e513b-7f7f-41b1-acbc-cb088440a499",
+            "brand": "Peck LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "cdac03b5-96b2-4396-926b-f720b08bb62a",
+                    "platform": "Instagram",
+                    "post_url": "http://www.hurley-hall.com/",
+                    "likes": 499,
+                    "comments": 29,
+                    "shares": 62,
+                    "reach": 5744
+                }
+            ],
+            "total_sales_attributed": 3152.39
+        }
+    ]
+}

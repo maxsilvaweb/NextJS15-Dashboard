@@ -1,0 +1,26 @@
+{
+    "user_id": "871e2efc-c573-4a15-8066-6251592a8058",
+    "name": "Steven Brady",
+    "email": "david40@example.com",
+    "instagram_handle": "@carrie12",
+    "tiktok_handle": "@thompsonethan",
+    "joined_at": "2025-02-25T14:11:40.051403",
+    "advocacy_programs": [
+        {
+            "program_id": "2cedeab6-1636-4c4e-abde-1095ee987410",
+            "brand": "Arellano-Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "46a19e3d-27d2-4461-9bbd-ac234321b8d6",
+                    "platform": "Facebook",
+                    "post_url": "https://www.ray.com/",
+                    "likes": 291,
+                    "comments": 159,
+                    "shares": 15,
+                    "reach": 9147
+                }
+            ],
+            "total_sales_attributed": 9578.03
+        }
+    ]
+}

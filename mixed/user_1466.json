@@ -1,0 +1,26 @@
+{
+    "user_id": "77d5e285-9871-493d-a981-4ebe773dafab",
+    "name": "Shawn Robinson",
+    "email": "ronaldjackson@example.net",
+    "instagram_handle": "@hhenry",
+    "tiktok_handle": "@james65",
+    "joined_at": "2023-08-03T22:48:24.835538",
+    "advocacy_programs": [
+        {
+            "program_id": "95fd1500-5d4e-4e6a-add4-62ac4a5db4b9",
+            "brand": "Clayton, Peterson and Barajas",
+            "tasks_completed": [
+                {
+                    "task_id": "64e0cc2d-f461-46c7-a631-b07ef1df7687",
+                    "platform": "TikTok",
+                    "post_url": "https://www.mullins-morris.com/",
+                    "likes": 5620,
+                    "comments": 280,
+                    "shares": 5,
+                    "reach": 2343
+                }
+            ],
+            "total_sales_attributed": 9162.84
+        }
+    ]
+}

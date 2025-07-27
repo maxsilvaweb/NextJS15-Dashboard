@@ -1,0 +1,26 @@
+{
+    "user_id": "9e767d3a-9378-4a84-8a65-b88eb03292c3",
+    "name": "Robert Gamble",
+    "email": "zho@example.com",
+    "instagram_handle": "@ybrown",
+    "tiktok_handle": "@francoderek",
+    "joined_at": "2025-03-28T06:10:29.010875",
+    "advocacy_programs": [
+        {
+            "program_id": "fa7e8e38-4d40-473a-b064-4230bec6dc47",
+            "brand": "Romero LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1120b967-5c26-4a77-9e41-86ec7d32ba40",
+                    "platform": "Facebook",
+                    "post_url": "http://www.pace.info/",
+                    "likes": 5003,
+                    "comments": 218,
+                    "shares": 27,
+                    "reach": 716
+                }
+            ],
+            "total_sales_attributed": 3491.6754638406105
+        }
+    ]
+}

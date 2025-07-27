@@ -1,0 +1,26 @@
+{
+    "user_id": "172537c8-7a03-4081-ba33-11d5ab7c702d",
+    "name": "Raymond Munoz",
+    "email": "Craig70@yahoo.com",
+    "instagram_handle": "@navarronathaniel",
+    "tiktok_handle": "@mathewscody",
+    "joined_at": "2025-05-28T19:08:09.457124",
+    "advocacy_programs": [
+        {
+            "program_id": "24130e26-ea6e-4bca-ab3a-86c5fe89eefd",
+            "brand": "Howard, Miller and Hart",
+            "tasks_completed": [
+                {
+                    "task_id": "805428dd-7f4e-4c00-a96e-5cced76c8814",
+                    "platform": "Facebook",
+                    "post_url": "https://pleased-corporation.com/",
+                    "likes": 6723,
+                    "comments": 168,
+                    "shares": 100,
+                    "reach": 9587
+                }
+            ],
+            "total_sales_attributed": 1822.653232683903
+        }
+    ]
+}

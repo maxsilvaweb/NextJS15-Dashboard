@@ -1,0 +1,26 @@
+{
+    "user_id": "155d6889-6660-41fe-8e9b-f578f35d7d7a",
+    "name": "Gregory Jones",
+    "email": "levans@example.com",
+    "instagram_handle": "@juliealvarez",
+    "tiktok_handle": "@johnsonashley",
+    "joined_at": "2023-12-03T09:30:57.269896",
+    "advocacy_programs": [
+        {
+            "program_id": "f1d14f75-4e80-4359-8651-afb0cadcd614",
+            "brand": "Smith-Cummings",
+            "tasks_completed": [
+                {
+                    "task_id": "6f62dae5-dd7f-41a9-823b-bff6dd3d3a2c",
+                    "platform": "Facebook",
+                    "post_url": "https://nunez.biz/",
+                    "likes": 4219,
+                    "comments": 327,
+                    "shares": 84,
+                    "reach": 715
+                }
+            ],
+            "total_sales_attributed": 2592.71
+        }
+    ]
+}

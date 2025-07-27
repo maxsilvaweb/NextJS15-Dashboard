@@ -1,0 +1,26 @@
+{
+    "user_id": "a5adecf1-009f-4df3-8687-c61540734049",
+    "name": "Mrs. Beth Quitzon",
+    "email": "Nicholaus86@hotmail.com",
+    "instagram_handle": "@Anais.Sanford52",
+    "tiktok_handle": "@Kamryn.Swift",
+    "joined_at": "2025-01-14T20:56:44.279Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fbe79d77-4506-4b4b-b879-edca4ef16600",
+            "brand": "Beatty and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "f34e1ea8-1435-4b86-9dc8-7fc917779d00",
+                    "platform": "Instagram",
+                    "post_url": "https://sure-footed-outlaw.com",
+                    "likes": 411,
+                    "comments": 33,
+                    "shares": 79,
+                    "reach": 5265
+                }
+            ],
+            "total_sales_attributed": 1654.961103839462
+        }
+    ]
+}

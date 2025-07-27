@@ -1,0 +1,26 @@
+{
+    "user_id": "a94d4d76-faec-426e-bb86-e43060a61c81",
+    "name": "Mrs. Samantha Klocko",
+    "email": "Clay56@hotmail.com",
+    "instagram_handle": "@Vanessa.Bradtke",
+    "tiktok_handle": "@Rae_Moen71",
+    "joined_at": "2024-08-10T17:32:15.317Z",
+    "advocacy_programs": [
+        {
+            "program_id": "420257a0-df17-4db7-97cd-0956ba4f6809",
+            "brand": "Dach, Roberts and Murazik",
+            "tasks_completed": [
+                {
+                    "task_id": "1cd68281-60b1-41e6-b2c9-8dfff86ed4f8",
+                    "platform": "Instagram",
+                    "post_url": "https://knowledgeable-excess.org/",
+                    "likes": 166,
+                    "comments": 17,
+                    "shares": 39,
+                    "reach": 5520
+                }
+            ],
+            "total_sales_attributed": 440.6071172501309
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2e6592a2-ac2e-49d3-bb23-7eb1fc91820e",
+    "name": "Pamela Burton",
+    "email": "deborah16@example.org",
+    "instagram_handle": "@greennicole",
+    "tiktok_handle": "@cervantesjennifer",
+    "joined_at": "2025-02-12T10:12:24.965194",
+    "advocacy_programs": [
+        {
+            "program_id": "ccd726b7-fe02-4b7a-8dfa-0ea90727db3e",
+            "brand": "Tapia Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "784e2e58-58b3-445f-8d33-990122add9e2",
+                    "platform": "Facebook",
+                    "post_url": "http://www.johnson.com/",
+                    "likes": 626,
+                    "comments": 12,
+                    "shares": 88,
+                    "reach": 5287
+                }
+            ],
+            "total_sales_attributed": 6449.42
+        }
+    ]
+}

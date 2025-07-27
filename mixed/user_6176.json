@@ -1,0 +1,26 @@
+{
+    "user_id": "4bb00991-daed-4503-9c2c-725fb32430ab",
+    "name": "Mathew Jenkins",
+    "email": "armstrongemily@example.org",
+    "instagram_handle": "@lreed",
+    "tiktok_handle": "@scrawford",
+    "joined_at": "2024-12-13T06:55:15.821Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a1b31ace-0c6e-47fe-b5e1-4fd5495f8ace",
+            "brand": "Williams, Gates and Jimenez",
+            "tasks_completed": [
+                {
+                    "task_id": "ca6ba549-bf1e-41e5-8ba7-328bffdc8948",
+                    "platform": "YouTube",
+                    "post_url": "https://www.joyce.biz/",
+                    "likes": 4222,
+                    "comments": 7,
+                    "shares": 28,
+                    "reach": 2034
+                }
+            ],
+            "total_sales_attributed": 2854.89
+        }
+    ]
+}

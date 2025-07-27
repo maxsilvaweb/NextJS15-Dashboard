@@ -1,0 +1,26 @@
+{
+    "user_id": "f99b64af-5521-4a4b-bd6f-c143ef211ca7",
+    "name": "Edwin Roberts III",
+    "email": "Chesley.Ebert32@yahoo.com",
+    "instagram_handle": "@Lorena_Kuvalis82",
+    "tiktok_handle": "@Bennie.Rippin",
+    "joined_at": "2024-11-29T20:52:31.427Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5fac1364-e079-46da-b0dd-8a751f6815d1",
+            "brand": "Schoen, Hauck and Walter",
+            "tasks_completed": [
+                {
+                    "task_id": "79767709-5cec-4003-aaf5-80a65880892e",
+                    "platform": "Instagram",
+                    "post_url": "https://pricey-flat.info",
+                    "likes": 198,
+                    "comments": 32,
+                    "shares": 71,
+                    "reach": 9320
+                }
+            ],
+            "total_sales_attributed": 976.3943272966782
+        }
+    ]
+}

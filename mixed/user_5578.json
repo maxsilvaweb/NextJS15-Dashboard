@@ -1,0 +1,26 @@
+{
+    "user_id": "f2f8b418-b892-43c6-9b34-bf25a0b655fa",
+    "name": "Brandon Bosco",
+    "email": "Rashad_Hagenes73@yahoo.com",
+    "instagram_handle": "@Lambert.Bradtke",
+    "tiktok_handle": "@Mohammed99",
+    "joined_at": "2024-05-22T15:38:00.653Z",
+    "advocacy_programs": [
+        {
+            "program_id": "057681e5-1e32-43d3-80e9-36209fdfab56",
+            "brand": "Mueller LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "bd0a0dea-717b-45ec-a0f6-14df1add149a",
+                    "platform": "TikTok",
+                    "post_url": "https://well-to-do-airbus.biz",
+                    "likes": 385,
+                    "comments": 0,
+                    "shares": 45,
+                    "reach": 8311
+                }
+            ],
+            "total_sales_attributed": 2481.5517788540246
+        }
+    ]
+}

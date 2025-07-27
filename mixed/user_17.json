@@ -1,0 +1,26 @@
+{
+    "user_id": "ded5a45e-68a6-42cb-82d1-ff91120438bd",
+    "name": "Dr. Marian Morissette",
+    "email": "Frances_Blanda44@yahoo.com",
+    "instagram_handle": "@Edgar57",
+    "tiktok_handle": "@Christop.Mosciski40",
+    "joined_at": "2024-11-08T05:27:25.947Z",
+    "advocacy_programs": [
+        {
+            "program_id": "81ce781e-f99a-4b3a-be53-f0a9dafbb1c2",
+            "brand": "Kiehn, Howe and Collier",
+            "tasks_completed": [
+                {
+                    "task_id": "b82403f5-1e08-41ae-8168-c0773d33261d",
+                    "platform": "Instagram",
+                    "post_url": "https://square-reboot.com/",
+                    "likes": 376,
+                    "comments": 43,
+                    "shares": 17,
+                    "reach": 7149
+                }
+            ],
+            "total_sales_attributed": 3568.7506066004694
+        }
+    ]
+}

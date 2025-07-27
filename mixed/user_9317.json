@@ -1,0 +1,26 @@
+{
+    "user_id": "7f8f2555-11bb-47c3-9957-45d53a130356",
+    "name": "Michelle Erickson",
+    "email": "michelegordon@example.org",
+    "instagram_handle": "@howarddaniel",
+    "tiktok_handle": "@cprice",
+    "joined_at": "2023-11-23T12:47:35.908465",
+    "advocacy_programs": [
+        {
+            "program_id": "f4e8e0d9-00c7-44ad-abc7-63f7641dbf38",
+            "brand": "Sullivan and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "8a7dbaa8-7667-4c17-96d2-537ab10fbd87",
+                    "platform": "Twitter",
+                    "post_url": "http://rodriguez-valenzuela.com/",
+                    "likes": 3557,
+                    "comments": 419,
+                    "shares": 68,
+                    "reach": 3394
+                }
+            ],
+            "total_sales_attributed": 4614.55
+        }
+    ]
+}

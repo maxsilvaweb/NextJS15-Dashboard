@@ -1,0 +1,26 @@
+{
+    "user_id": "b6347b44-a967-4885-876c-164832345a39",
+    "name": "Jennifer Wright",
+    "email": "halesamantha@example.org",
+    "instagram_handle": "@gabrielle69",
+    "tiktok_handle": "@amy82",
+    "joined_at": "2024-06-29T15:21:23.962850",
+    "advocacy_programs": [
+        {
+            "program_id": "47ad594a-e2b5-4391-acf6-de82a0eb723a",
+            "brand": "Cohen PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5b3fbd99-3958-4b05-9c26-a42069d5abce",
+                    "platform": "Instagram",
+                    "post_url": "https://granular-horde.com",
+                    "likes": 1595,
+                    "comments": 114,
+                    "shares": 62,
+                    "reach": 5345
+                }
+            ],
+            "total_sales_attributed": 8035.26
+        }
+    ]
+}

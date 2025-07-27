@@ -1,0 +1,26 @@
+{
+    "user_id": "3515ff1a-b65a-4427-a64d-656d14437f56",
+    "name": "Samuel Frye",
+    "email": "parkerryan@example.net",
+    "instagram_handle": "@campbellcaitlin",
+    "tiktok_handle": "@smithjose",
+    "joined_at": "2025-04-01T12:23:38.428317",
+    "advocacy_programs": [
+        {
+            "program_id": "3a335d71-591a-4594-95cb-14807c638190",
+            "brand": "Garcia LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "cc4fd9b4-91f0-41e8-92e8-8f37829efcf9",
+                    "platform": "TikTok",
+                    "post_url": "http://alexander.biz/",
+                    "likes": 7076,
+                    "comments": 426,
+                    "shares": 12,
+                    "reach": 7614
+                }
+            ],
+            "total_sales_attributed": 7722.61
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3e993cab-08e3-4f5d-a06e-08161f50ec9a",
+    "name": "Daniel Hall",
+    "email": "garrettlogan@example.org",
+    "instagram_handle": "@hallellen",
+    "tiktok_handle": "@ericmason",
+    "joined_at": "2025-01-08T15:55:02.438178",
+    "advocacy_programs": [
+        {
+            "program_id": "9ccba43f-97e1-4472-92b3-464b86b18a59",
+            "brand": "Cordova, Allison and Sherman",
+            "tasks_completed": [
+                {
+                    "task_id": "689f7040-2e08-4e4f-b7a3-d22389c325a1",
+                    "platform": "Instagram",
+                    "post_url": "https://harris.com/",
+                    "likes": 7430,
+                    "comments": 41,
+                    "shares": 91,
+                    "reach": 8569
+                }
+            ],
+            "total_sales_attributed": 2429.1518661878326
+        }
+    ]
+}

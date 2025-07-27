@@ -1,0 +1,26 @@
+{
+    "user_id": "2454c7e2-3da8-424d-ac44-1a50fa076f91",
+    "name": "Robert Boyd",
+    "email": "isaacgonzales@example.org",
+    "instagram_handle": "@henrycole",
+    "tiktok_handle": "@lking",
+    "joined_at": "2024-05-26T17:51:57.583Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1bcd1e27-5511-413f-b43b-f1ef4283e689",
+            "brand": "Kemp and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "0e0634bd-559b-48e6-b4d4-922d5cdf5fc3",
+                    "platform": "Facebook",
+                    "post_url": "http://knapp-williams.biz/",
+                    "likes": 3916,
+                    "comments": 449,
+                    "shares": 38,
+                    "reach": 5232
+                }
+            ],
+            "total_sales_attributed": 7266.34
+        }
+    ]
+}

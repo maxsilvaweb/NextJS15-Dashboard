@@ -1,0 +1,26 @@
+{
+    "user_id": "55d3b8f6-907f-4e85-a474-b927dc981aeb",
+    "name": "Laura Hayes",
+    "email": "bcrosby@example.net",
+    "instagram_handle": "@stephen35",
+    "tiktok_handle": "@amartinez",
+    "joined_at": "2023-12-15T20:10:51.242844",
+    "advocacy_programs": [
+        {
+            "program_id": "447b7483-f263-4a37-b6c8-685e3c6007b9",
+            "brand": "Santana, Sparks and Henson",
+            "tasks_completed": [
+                {
+                    "task_id": "007b2d42-9d54-4b21-9e9d-868b71c61e0e",
+                    "platform": "Instagram",
+                    "post_url": "http://fernandez.com/",
+                    "likes": 255,
+                    "comments": 372,
+                    "shares": 71,
+                    "reach": 1708
+                }
+            ],
+            "total_sales_attributed": 6627.71
+        }
+    ]
+}

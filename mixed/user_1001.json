@@ -1,0 +1,26 @@
+{
+    "user_id": "5a724174-d6e7-4c06-a268-065f380605dc",
+    "name": "Zachary Serrano",
+    "email": "scross@example.net",
+    "instagram_handle": "@coreyclayton",
+    "tiktok_handle": "@barnesamanda",
+    "joined_at": "2023-12-02T09:30:16.910765",
+    "advocacy_programs": [
+        {
+            "program_id": "d18abc1b-e606-4450-89f1-58c8f6071941",
+            "brand": "Jensen-Lee",
+            "tasks_completed": [
+                {
+                    "task_id": "5dde6e42-6c88-4f87-bb29-5df6abe9e198",
+                    "platform": "Facebook",
+                    "post_url": "https://roberts-chan.com/",
+                    "likes": 8616,
+                    "comments": 101,
+                    "shares": 82,
+                    "reach": 2182
+                }
+            ],
+            "total_sales_attributed": 1861.3
+        }
+    ]
+}

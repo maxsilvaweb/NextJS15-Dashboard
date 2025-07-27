@@ -1,0 +1,26 @@
+{
+    "user_id": "a53b478c-1646-425d-896d-dc77eb7be523",
+    "name": "Miss Natalie Tillman-Flatley",
+    "email": "Vida.Koch29@yahoo.com",
+    "instagram_handle": "@Ettie71",
+    "tiktok_handle": "@Albertha91",
+    "joined_at": "2024-07-09T04:00:39.527Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2f80c288-f427-485f-b48b-be2b05275bc9",
+            "brand": "Bosco, Jast and Deckow",
+            "tasks_completed": [
+                {
+                    "task_id": "5fab384b-db3b-42da-8107-4df22667472d",
+                    "platform": "Instagram",
+                    "post_url": "https://advanced-lox.biz",
+                    "likes": 398,
+                    "comments": 26,
+                    "shares": 65,
+                    "reach": 952
+                }
+            ],
+            "total_sales_attributed": 4955.853000957092
+        }
+    ]
+}

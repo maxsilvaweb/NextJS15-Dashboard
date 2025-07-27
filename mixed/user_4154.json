@@ -1,0 +1,26 @@
+{
+    "user_id": "6e3b3e32-3a47-4ed5-a557-19b2dd5c6015",
+    "name": "Mary Cooper",
+    "email": "mark72@example.com",
+    "instagram_handle": "@danielwiley",
+    "tiktok_handle": "@mandybrowning",
+    "joined_at": "2024-12-27T05:17:03.047Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fb005e2a-b39a-4bb4-a9f1-4529e127191f",
+            "brand": "George-Chen",
+            "tasks_completed": [
+                {
+                    "task_id": "8880f6d7-8775-476b-bd88-c22415b3de56",
+                    "platform": "TikTok",
+                    "post_url": "http://sanchez.biz/",
+                    "likes": 632,
+                    "comments": 213,
+                    "shares": 88,
+                    "reach": 7281
+                }
+            ],
+            "total_sales_attributed": 8827.72
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c42e8a29-2161-41ed-b52c-49c4444b7f2f",
+    "name": "Andrea Ortega",
+    "email": "kingtimothy@example.com",
+    "instagram_handle": "@Karina.Hettinger54",
+    "tiktok_handle": "@kelly34",
+    "joined_at": "2025-04-15T08:17:10.588266",
+    "advocacy_programs": [
+        {
+            "program_id": "49a3ba2a-5ce4-422f-a6fd-ab277f2ea45b",
+            "brand": "Olson, Harmon and Holland",
+            "tasks_completed": [
+                {
+                    "task_id": "aec8d331-566b-42f3-800b-d74320a9a028",
+                    "platform": "Facebook",
+                    "post_url": "https://www.payne.org/",
+                    "likes": 8540,
+                    "comments": 289,
+                    "shares": 30,
+                    "reach": 7816
+                }
+            ],
+            "total_sales_attributed": 6388.82
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "362b2c2e-cc4f-47f8-be02-42523a5f90a5",
+    "name": "Andrea Boyd",
+    "email": "yanderson@example.net",
+    "instagram_handle": "@kennethmichael",
+    "tiktok_handle": "@maxlogan",
+    "joined_at": "2025-02-05T16:08:09.537646",
+    "advocacy_programs": [
+        {
+            "program_id": "3765a2e7-0176-4480-94cb-5cf1b41d3e26",
+            "brand": "Webb, Valdez and Clark",
+            "tasks_completed": [
+                {
+                    "task_id": "51cc0a28-737e-43d7-9f28-a8fea676089d",
+                    "platform": "TikTok",
+                    "post_url": "https://severe-nun.name/",
+                    "likes": 3534,
+                    "comments": 48,
+                    "shares": 30,
+                    "reach": 8136
+                }
+            ],
+            "total_sales_attributed": 2722.86
+        }
+    ]
+}

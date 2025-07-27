@@ -1,0 +1,26 @@
+{
+    "user_id": "4e842025-f131-4470-bfc1-bfa977b7f6b9",
+    "name": "James Baker",
+    "email": "jamesrowland@example.com",
+    "instagram_handle": "@Randy33",
+    "tiktok_handle": "@millerlisa",
+    "joined_at": "2024-06-03T07:46:24.871989",
+    "advocacy_programs": [
+        {
+            "program_id": "42883039-54b9-45be-8adc-3bc412413f87",
+            "brand": "Conner Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9bbf4f43-6eb9-4d29-a3b6-6483111ba423",
+                    "platform": "Instagram",
+                    "post_url": "https://www.jennings.net/",
+                    "likes": 8628,
+                    "comments": 416,
+                    "shares": 48,
+                    "reach": 6750
+                }
+            ],
+            "total_sales_attributed": 5109.66
+        }
+    ]
+}

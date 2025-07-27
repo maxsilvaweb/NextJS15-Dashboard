@@ -1,0 +1,26 @@
+{
+    "user_id": "30fdba43-da97-410c-a9d4-4cecd580453c",
+    "name": "Lora Windler",
+    "email": "Freddy.Hudson87@hotmail.com",
+    "instagram_handle": "@Evie87",
+    "tiktok_handle": "@Yoshiko_Fritsch",
+    "joined_at": "2024-07-07T01:22:39.636Z",
+    "advocacy_programs": [
+        {
+            "program_id": "07bf8276-e93e-4fdb-8407-cc304888b3fe",
+            "brand": "Nienow, Wintheiser and Herzog",
+            "tasks_completed": [
+                {
+                    "task_id": "baf406d2-47ba-4168-93bd-9b7abf237ff5",
+                    "platform": "TikTok",
+                    "post_url": "https://basic-aftermath.info/",
+                    "likes": 32,
+                    "comments": 0,
+                    "shares": 77,
+                    "reach": 6439
+                }
+            ],
+            "total_sales_attributed": 2645.600632912615
+        }
+    ]
+}

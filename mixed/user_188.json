@@ -1,0 +1,26 @@
+{
+    "user_id": "26a583bc-9651-4885-902f-bf3db5bfa9be",
+    "name": "Derrick Underwood",
+    "email": "georgefuller@example.net",
+    "instagram_handle": "@rodriguezbrian",
+    "tiktok_handle": "@thomas22",
+    "joined_at": "2025-01-18T08:06:27.393522",
+    "advocacy_programs": [
+        {
+            "program_id": "31541a64-5df8-4848-81a8-3ac83621d56c",
+            "brand": "Jordan, Holt and Rosales",
+            "tasks_completed": [
+                {
+                    "task_id": "7113c2fc-cc09-4737-9922-3e0a34b18dde",
+                    "platform": "Instagram",
+                    "post_url": "http://www.lewis-thompson.com/",
+                    "likes": 8897,
+                    "comments": 142,
+                    "shares": 52,
+                    "reach": 5073
+                }
+            ],
+            "total_sales_attributed": 2878.5841712762176
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ec88a181-1522-4ef0-995e-26b33b96b935",
+    "name": "Dr. Kelsey Archer",
+    "email": "sarahjarvis@example.com",
+    "instagram_handle": "@fjones",
+    "tiktok_handle": "@kathleensnyder",
+    "joined_at": "2024-06-12T10:27:40.335898",
+    "advocacy_programs": [
+        {
+            "program_id": "599d167e-f25c-4786-aa17-f0f0a5a257f8",
+            "brand": "Mckay-Lee",
+            "tasks_completed": [
+                {
+                    "task_id": "fcec8b61-adbe-4b37-aefe-91ba8464bdc0",
+                    "platform": "Instagram",
+                    "post_url": "https://higgins-davis.com/",
+                    "likes": 3104,
+                    "comments": 491,
+                    "shares": 32,
+                    "reach": 7841
+                }
+            ],
+            "total_sales_attributed": 578.5517250947075
+        }
+    ]
+}

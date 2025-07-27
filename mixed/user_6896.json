@@ -1,0 +1,26 @@
+{
+    "user_id": "447e1bfc-c50d-46f4-b32d-3f0a3a4460ad",
+    "name": "Jamie Fernandez",
+    "email": "cescobar@example.org",
+    "instagram_handle": "@pittmankimberly",
+    "tiktok_handle": "@sandrabyrd",
+    "joined_at": "2024-08-09T21:22:10.073365",
+    "advocacy_programs": [
+        {
+            "program_id": "c382c5ec-fda0-403d-9053-5a89e8db9fcd",
+            "brand": "Carter-Hudson",
+            "tasks_completed": [
+                {
+                    "task_id": "8667ba51-3d59-4fb2-9b24-e547e4cefb82",
+                    "platform": "Instagram",
+                    "post_url": "https://www.pruitt-taylor.com/",
+                    "likes": 334,
+                    "comments": 370,
+                    "shares": 30,
+                    "reach": 9739
+                }
+            ],
+            "total_sales_attributed": 2909.72
+        }
+    ]
+}

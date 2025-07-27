@@ -1,0 +1,26 @@
+{
+    "user_id": "e6f2feea-b69c-4d26-8c55-559eb10cb3d1",
+    "name": "Elsie Pagac IV",
+    "email": "Izabella_Aufderhar@gmail.com",
+    "instagram_handle": "@Marion40",
+    "tiktok_handle": "@Dovie.White",
+    "joined_at": "2024-11-30T02:09:06.278Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7c7ab320-ddfe-45e6-b17c-0eeff0059c5d",
+            "brand": "Ledner, Goodwin and Jaskolski",
+            "tasks_completed": [
+                {
+                    "task_id": "c1f40d41-560d-4799-87ab-b020785bf45a",
+                    "platform": "TikTok",
+                    "post_url": "https://unrealistic-nephew.name",
+                    "likes": 221,
+                    "comments": 40,
+                    "shares": 81,
+                    "reach": 1666
+                }
+            ],
+            "total_sales_attributed": 2455.61909386051
+        }
+    ]
+}

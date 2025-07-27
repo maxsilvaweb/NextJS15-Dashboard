@@ -1,0 +1,26 @@
+{
+    "user_id": "1e001451-0c7f-42c9-bcc6-c8c049620f53",
+    "name": "Peggy Lesch",
+    "email": "Holden.Collier@yahoo.com",
+    "instagram_handle": "@Florine.Okuneva-Emmerich",
+    "tiktok_handle": "@Vada.Cremin60",
+    "joined_at": "2024-11-08T03:30:56.862Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d4730f91-3978-40b4-a754-5012b36f9273",
+            "brand": "Fadel - Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "45bfc24c-3a74-48f6-966e-0d4facc9fd34",
+                    "platform": "Instagram",
+                    "post_url": "https://ordinary-bump.com/",
+                    "likes": 287,
+                    "comments": 7,
+                    "shares": 79,
+                    "reach": 1792
+                }
+            ],
+            "total_sales_attributed": 1976.389976767166
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "266bd7fa-27ff-42f8-8e54-1be4db5e3d86",
+    "name": "Lisa Munoz",
+    "email": "rhensley@example.net",
+    "instagram_handle": "@vjackson",
+    "tiktok_handle": "@bradley60",
+    "joined_at": "2023-08-20T12:56:22.526766",
+    "advocacy_programs": [
+        {
+            "program_id": "5f2edcab-84cf-4fad-83ed-fb6125810810",
+            "brand": "Case-Howard",
+            "tasks_completed": [
+                {
+                    "task_id": "3d2ce946-dbcb-461b-93d0-9ae0785d136d",
+                    "platform": "TikTok",
+                    "post_url": "https://www.cruz.com/",
+                    "likes": 9150,
+                    "comments": 7,
+                    "shares": 16,
+                    "reach": 9926
+                }
+            ],
+            "total_sales_attributed": 8507.75
+        }
+    ]
+}

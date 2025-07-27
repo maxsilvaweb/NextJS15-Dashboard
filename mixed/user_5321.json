@@ -1,0 +1,26 @@
+{
+    "user_id": "0f7e41e8-67e4-4a2f-9a01-ecd9a5c8f9eb",
+    "name": "Phillip Treutel",
+    "email": "Marian.Bradtke64@yahoo.com",
+    "instagram_handle": "@Derek18",
+    "tiktok_handle": "@Maude66",
+    "joined_at": "2024-04-26T09:36:32.344Z",
+    "advocacy_programs": [
+        {
+            "program_id": "edb7ed85-1b46-40b7-9273-dee365e982ec",
+            "brand": "Farrell, Stiedemann and Monahan",
+            "tasks_completed": [
+                {
+                    "task_id": "ce76eb65-cfde-47d9-9a84-406b21e577c4",
+                    "platform": "TikTok",
+                    "post_url": "https://well-worn-cappelletti.com/",
+                    "likes": 443,
+                    "comments": 39,
+                    "shares": 53,
+                    "reach": 2025
+                }
+            ],
+            "total_sales_attributed": 700.0422421540926
+        }
+    ]
+}

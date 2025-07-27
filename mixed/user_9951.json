@@ -1,0 +1,26 @@
+{
+    "user_id": "6c090031-b587-40c4-bc08-6f43b13d02f1",
+    "name": "Jenny Huel PhD",
+    "email": "Clifton_Hammes48@hotmail.com",
+    "instagram_handle": "@Dahlia_Homenick65",
+    "tiktok_handle": "@Lavada_McCullough-Bogan",
+    "joined_at": "2024-06-20T19:09:24.091Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5210a3e8-e306-4457-bb1f-dcf9628c9bfc",
+            "brand": "Morar - Streich",
+            "tasks_completed": [
+                {
+                    "task_id": "4c0b6ff8-0670-43c0-b03b-514318d8049f",
+                    "platform": "TikTok",
+                    "post_url": "https://abandoned-receptor.com",
+                    "likes": 36,
+                    "comments": 17,
+                    "shares": 41,
+                    "reach": 9490
+                }
+            ],
+            "total_sales_attributed": 811.353304504166
+        }
+    ]
+}

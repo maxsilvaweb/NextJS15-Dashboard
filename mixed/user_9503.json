@@ -1,0 +1,26 @@
+{
+    "user_id": "ac0ebe50-14a9-4a5e-a4c3-f5f6b1afa391",
+    "name": "Dr. Domingo Parker Jr.",
+    "email": "Lambert68@yahoo.com",
+    "instagram_handle": "@Meghan.Beahan1",
+    "tiktok_handle": "@Zita12",
+    "joined_at": "2025-02-15T01:45:43.577Z",
+    "advocacy_programs": [
+        {
+            "program_id": "51064e82-9132-4408-a479-eac4a7a33a55",
+            "brand": "Smith - Hahn",
+            "tasks_completed": [
+                {
+                    "task_id": "795fe2cd-6f37-4159-a296-bf293e71fb25",
+                    "platform": "Instagram",
+                    "post_url": "https://sorrowful-yarmulke.info",
+                    "likes": 27,
+                    "comments": 26,
+                    "shares": 16,
+                    "reach": 8395
+                }
+            ],
+            "total_sales_attributed": 2290.396081104832
+        }
+    ]
+}

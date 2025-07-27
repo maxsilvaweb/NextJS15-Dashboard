@@ -1,0 +1,26 @@
+{
+    "user_id": "6a48d6b4-39a4-4286-a8d5-e90ff5036371",
+    "name": "Amy Jones",
+    "email": "bhenson@example.com",
+    "instagram_handle": "@brianwilliams",
+    "tiktok_handle": "@heathersmith",
+    "joined_at": "2024-08-01T05:05:20.853934",
+    "advocacy_programs": [
+        {
+            "program_id": "d85f3caa-fb23-44b6-b26f-66a6ab56da84",
+            "brand": "Clark, Leblanc and Dudley",
+            "tasks_completed": [
+                {
+                    "task_id": "ea938eee-e7f1-4494-b0ac-549e47d6af4d",
+                    "platform": "Instagram",
+                    "post_url": "https://williams.com/",
+                    "likes": 9012,
+                    "comments": 465,
+                    "shares": 56,
+                    "reach": 6163
+                }
+            ],
+            "total_sales_attributed": 5203.77
+        }
+    ]
+}

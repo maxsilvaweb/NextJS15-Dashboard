@@ -1,0 +1,26 @@
+{
+    "user_id": "696fde87-f9db-429a-b61f-4225fd75bd7c",
+    "name": "Mrs. Andrea Schaefer",
+    "email": "Marietta26@yahoo.com",
+    "instagram_handle": "@Amy.Franecki96",
+    "tiktok_handle": "@Ismael_Schowalter79",
+    "joined_at": "2024-10-08T12:37:55.792Z",
+    "advocacy_programs": [
+        {
+            "program_id": "25eb16a7-9c16-4c5b-8b63-d27a087cb7ea",
+            "brand": "Hodkiewicz, Cummings and Dickens",
+            "tasks_completed": [
+                {
+                    "task_id": "7759973b-2665-44bc-a271-08eadb2d095f",
+                    "platform": "TikTok",
+                    "post_url": "https://brisk-plugin.name/",
+                    "likes": 258,
+                    "comments": 43,
+                    "shares": 87,
+                    "reach": 6802
+                }
+            ],
+            "total_sales_attributed": 3649.8710437770105
+        }
+    ]
+}

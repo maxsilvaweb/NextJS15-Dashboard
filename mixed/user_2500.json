@@ -1,0 +1,26 @@
+{
+    "user_id": "69d2ed62-5496-450e-b17a-ad59f07d0979",
+    "name": "Brian Daugherty",
+    "email": "dustinhunter@example.org",
+    "instagram_handle": "@ronaldperez",
+    "tiktok_handle": "@paynethomas",
+    "joined_at": "2024-11-11T04:57:36.649428",
+    "advocacy_programs": [
+        {
+            "program_id": "572330ff-3bed-4da8-b62b-f9d4b9299e5b",
+            "brand": "Molina-Thomas",
+            "tasks_completed": [
+                {
+                    "task_id": "d9a58987-5801-466f-b3dc-5833fc62aa4d",
+                    "platform": "TikTok",
+                    "post_url": "http://www.clark.org/",
+                    "likes": 341,
+                    "comments": 285,
+                    "shares": 55,
+                    "reach": 6477
+                }
+            ],
+            "total_sales_attributed": 131.61
+        }
+    ]
+}

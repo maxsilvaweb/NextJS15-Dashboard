@@ -1,0 +1,26 @@
+{
+    "user_id": "7f4aa365-79f8-4f2d-a665-496a5f03e408",
+    "name": "Yvonne Hayes",
+    "email": "Hailie_Kessler@hotmail.com",
+    "instagram_handle": "@Adonis_Rempel",
+    "tiktok_handle": "@Karley.Willms",
+    "joined_at": "2025-01-13T17:06:39.149Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cdfbd2ac-21cc-450a-90a9-8602bb4c0229",
+            "brand": "Dare - Zboncak",
+            "tasks_completed": [
+                {
+                    "task_id": "358fe261-6ecf-42de-8303-ae9b75362730",
+                    "platform": "TikTok",
+                    "post_url": "https://energetic-integer.biz/",
+                    "likes": 189,
+                    "comments": 21,
+                    "shares": 91,
+                    "reach": 8298
+                }
+            ],
+            "total_sales_attributed": 4193.792746033247
+        }
+    ]
+}

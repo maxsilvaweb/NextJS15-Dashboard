@@ -1,0 +1,26 @@
+{
+    "user_id": "5309f30e-a886-48b4-987f-a96778f8391b",
+    "name": "Gail Braun",
+    "email": "Al_Durgan@yahoo.com",
+    "instagram_handle": "@Kathryne87",
+    "tiktok_handle": "@Trevion_Pollich8",
+    "joined_at": "2024-08-06T14:24:41.891Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c15f87ac-89a4-4302-8e75-47ee72758668",
+            "brand": "Halvorson - Altenwerth",
+            "tasks_completed": [
+                {
+                    "task_id": "ee37c735-3099-4e7b-ac09-b83ef6161678",
+                    "platform": "Instagram",
+                    "post_url": "https://both-scaffold.org",
+                    "likes": 153,
+                    "comments": 12,
+                    "shares": 73,
+                    "reach": 5173
+                }
+            ],
+            "total_sales_attributed": 1182.9011494542688
+        }
+    ]
+}

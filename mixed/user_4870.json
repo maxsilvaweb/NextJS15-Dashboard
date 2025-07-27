@@ -1,0 +1,26 @@
+{
+    "user_id": "37c2c005-83a0-4665-9088-f403ce21a5f7",
+    "name": "Brent Jones",
+    "email": "Hillary4@gmail.com",
+    "instagram_handle": "@nicole89",
+    "tiktok_handle": "@wagnerderrick",
+    "joined_at": "2024-03-07T11:00:09.915699",
+    "advocacy_programs": [
+        {
+            "program_id": "a7f2adb7-b00c-494f-bee3-a34ee33bfde7",
+            "brand": "Lindsey, Reid and Ross",
+            "tasks_completed": [
+                {
+                    "task_id": "3bd3136e-0f5b-4ee1-99ac-e7c58f37155a",
+                    "platform": "Facebook",
+                    "post_url": "http://douglas.biz/",
+                    "likes": 4273,
+                    "comments": 37,
+                    "shares": 46,
+                    "reach": 8420
+                }
+            ],
+            "total_sales_attributed": 7452.5
+        }
+    ]
+}

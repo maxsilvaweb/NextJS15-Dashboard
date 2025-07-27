@@ -1,0 +1,26 @@
+{
+    "user_id": "7f877c05-6228-4717-b712-a3afbf7381da",
+    "name": "Theresa Rivers",
+    "email": "bautistakatie@example.com",
+    "instagram_handle": "@sonyaharris",
+    "tiktok_handle": "@wendy66",
+    "joined_at": "2023-11-21T16:11:53.959892",
+    "advocacy_programs": [
+        {
+            "program_id": "fb8c666b-3e92-42ea-87e8-e982f6866613",
+            "brand": "Reilly, Spears and Chapman",
+            "tasks_completed": [
+                {
+                    "task_id": "913faa10-1422-4d9e-ba23-e582331bc5ca",
+                    "platform": "TikTok",
+                    "post_url": "http://www.johnson.com/",
+                    "likes": 392,
+                    "comments": 1,
+                    "shares": 15,
+                    "reach": 5068
+                }
+            ],
+            "total_sales_attributed": 1325.09
+        }
+    ]
+}

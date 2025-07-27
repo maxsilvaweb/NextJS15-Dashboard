@@ -1,0 +1,26 @@
+{
+    "user_id": "3ab12b4c-1f0a-4fe2-82fb-0c18b9ee9cdb",
+    "name": "Laurie Fleming",
+    "email": "gprice@example.org",
+    "instagram_handle": "@bennettjared",
+    "tiktok_handle": "@Fletcher62",
+    "joined_at": "2024-06-25T10:11:21.621542",
+    "advocacy_programs": [
+        {
+            "program_id": "8971da16-2ef5-4ce7-b4c8-902cb012cc74",
+            "brand": "Taylor and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "c34a8dd9-d963-4289-8005-5093d165c941",
+                    "platform": "TikTok",
+                    "post_url": "https://wilson.com/",
+                    "likes": 171,
+                    "comments": 22,
+                    "shares": 36,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 4831.41
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6a6ea207-da2d-4bae-9da9-1e44e3804c47",
+    "name": "Andrea Bishop",
+    "email": "christopher22@example.com",
+    "instagram_handle": "@melissawilliams",
+    "tiktok_handle": "@davidvaughan",
+    "joined_at": "2024-03-27T07:35:00.671174",
+    "advocacy_programs": [
+        {
+            "program_id": "c94ad543-9a24-4c33-a9dd-c4c52b7e9a0d",
+            "brand": "Knight LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f93c5bd5-0216-4a1c-94d6-2e0862885b31",
+                    "platform": "TikTok",
+                    "post_url": "http://www.barrett.com/",
+                    "likes": 8708,
+                    "comments": 363,
+                    "shares": 95,
+                    "reach": 9310
+                }
+            ],
+            "total_sales_attributed": 7433.28
+        }
+    ]
+}

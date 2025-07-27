@@ -1,0 +1,26 @@
+{
+    "user_id": "5a29051b-701b-48b2-8a2f-31493091f656",
+    "name": "Harriet Goyette",
+    "email": "Herbert.Hahn-Konopelski@yahoo.com",
+    "instagram_handle": "@Ellie23",
+    "tiktok_handle": "@Dessie.Kunde",
+    "joined_at": "2024-09-17T10:35:30.584Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9fc34b45-0467-4d7f-a2c3-8be84fa357bc",
+            "brand": "Kihn, Braun and Nicolas",
+            "tasks_completed": [
+                {
+                    "task_id": "048718c0-d295-4dd5-a740-2508d10acc8f",
+                    "platform": "TikTok",
+                    "post_url": "https://urban-edge.name",
+                    "likes": 264,
+                    "comments": 44,
+                    "shares": 55,
+                    "reach": 4031
+                }
+            ],
+            "total_sales_attributed": 3724.257714253898
+        }
+    ]
+}

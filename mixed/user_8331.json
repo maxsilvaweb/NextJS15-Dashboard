@@ -1,0 +1,26 @@
+{
+    "user_id": "96f6970a-a3ba-40dd-9886-411c1ce72a4e",
+    "name": "Ruby McKenzie",
+    "email": "Cathryn.Dibbert@yahoo.com",
+    "instagram_handle": "@Blair.Howe83",
+    "tiktok_handle": "@Glenda.Ondricka48",
+    "joined_at": "2024-06-23T05:03:10.215Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0fb769a9-cfb1-4881-983e-064a0b515c56",
+            "brand": "Reichert, Feest and Pagac",
+            "tasks_completed": [
+                {
+                    "task_id": "51cd561d-8ec4-4d8b-aaec-56ab0a815825",
+                    "platform": "Instagram",
+                    "post_url": "https://impressive-graffiti.org",
+                    "likes": 377,
+                    "comments": 45,
+                    "shares": 94,
+                    "reach": 9940
+                }
+            ],
+            "total_sales_attributed": 573.4390697410433
+        }
+    ]
+}

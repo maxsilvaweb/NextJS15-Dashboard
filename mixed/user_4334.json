@@ -1,0 +1,26 @@
+{
+    "user_id": "97c6a7a8-359a-4409-9193-2ddc6b6ea46d",
+    "name": "Stewart Stiedemann II",
+    "email": "Oren_Spencer@yahoo.com",
+    "instagram_handle": "@Kariane88",
+    "tiktok_handle": "@Isabella.Trantow",
+    "joined_at": "2024-08-17T16:05:20.056Z",
+    "advocacy_programs": [
+        {
+            "program_id": "233bf52e-af6e-47cc-8e25-1bcc60e948e7",
+            "brand": "Kshlerin Group",
+            "tasks_completed": [
+                {
+                    "task_id": "d0ea51f1-9c86-4dbe-bcc4-94b794ddf0e7",
+                    "platform": "TikTok",
+                    "post_url": "https://shimmering-elevator.org",
+                    "likes": 298,
+                    "comments": 23,
+                    "shares": 55,
+                    "reach": 8045
+                }
+            ],
+            "total_sales_attributed": 4096.039209318964
+        }
+    ]
+}

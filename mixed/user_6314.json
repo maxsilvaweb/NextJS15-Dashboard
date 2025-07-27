@@ -1,0 +1,26 @@
+{
+    "user_id": "c615a29a-1d66-46be-b1bd-1493240bd495",
+    "name": "Carole Dach",
+    "email": "Constance93@yahoo.com",
+    "instagram_handle": "@Jean93",
+    "tiktok_handle": "@Lauryn_Gleason79",
+    "joined_at": "2024-06-13T10:49:17.799Z",
+    "advocacy_programs": [
+        {
+            "program_id": "06e9eec1-8577-4f68-b4fd-94d8148c5037",
+            "brand": "Goodwin - Haley",
+            "tasks_completed": [
+                {
+                    "task_id": "17aaa743-d17d-4e8b-85eb-6beb33f2e1f6",
+                    "platform": "Instagram",
+                    "post_url": "https://bossy-procurement.net/",
+                    "likes": 379,
+                    "comments": 35,
+                    "shares": 36,
+                    "reach": 7869
+                }
+            ],
+            "total_sales_attributed": 2190.7925641243764
+        }
+    ]
+}

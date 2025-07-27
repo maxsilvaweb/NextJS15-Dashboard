@@ -1,0 +1,26 @@
+{
+    "user_id": "56998c84-7a8e-4d34-bcf5-11bfa51daa04",
+    "name": "Timothy Barnett",
+    "email": "etran@example.net",
+    "instagram_handle": "@chelsearogers",
+    "tiktok_handle": "@yrobertson",
+    "joined_at": "2023-08-13T00:47:16.819644",
+    "advocacy_programs": [
+        {
+            "program_id": "3e9ab9b6-c6ce-49ae-8e2c-8c33b1d079a2",
+            "brand": "Wong Group",
+            "tasks_completed": [
+                {
+                    "task_id": "364d73ee-969a-4f24-b63b-16074a659041",
+                    "platform": "Facebook",
+                    "post_url": "https://www.martinez-smith.com/",
+                    "likes": 9896,
+                    "comments": 320,
+                    "shares": 10,
+                    "reach": 4658
+                }
+            ],
+            "total_sales_attributed": 1938.61
+        }
+    ]
+}

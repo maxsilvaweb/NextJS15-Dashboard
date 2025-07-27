@@ -1,0 +1,26 @@
+{
+    "user_id": "ad576a14-2f1b-4703-b8ce-98dc670c91b6",
+    "name": "Ashley Baker",
+    "email": "jacksontimothy@example.org",
+    "instagram_handle": "@renee24",
+    "tiktok_handle": "@paul16",
+    "joined_at": "2025-06-29T16:28:16.201036",
+    "advocacy_programs": [
+        {
+            "program_id": "f3874537-aafe-4a29-88e8-74a3097827f0",
+            "brand": "Young LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f0da0d7f-351a-435a-993f-ff42891772b5",
+                    "platform": "Twitter",
+                    "post_url": "http://brown-haas.com/",
+                    "likes": 8379,
+                    "comments": 287,
+                    "shares": 45,
+                    "reach": 3426
+                }
+            ],
+            "total_sales_attributed": 5138.44
+        }
+    ]
+}

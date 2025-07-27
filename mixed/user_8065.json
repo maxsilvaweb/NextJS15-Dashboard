@@ -1,0 +1,26 @@
+{
+    "user_id": "d50a47c9-6171-4e3e-9f69-d553bc0b90b6",
+    "name": "Randolph Stoltenberg",
+    "email": "Allen82@yahoo.com",
+    "instagram_handle": "@Elaina4",
+    "tiktok_handle": "@Floy_Hackett",
+    "joined_at": "2024-04-03T14:50:40.733Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3a8d1c45-54c6-4ea1-ac4a-52f8cb0179b8",
+            "brand": "Murray - Vandervort",
+            "tasks_completed": [
+                {
+                    "task_id": "eaef4e2a-7090-4275-ac43-b95ec1af487d",
+                    "platform": "TikTok",
+                    "post_url": "https://spherical-couch.biz",
+                    "likes": 252,
+                    "comments": 40,
+                    "shares": 78,
+                    "reach": 8030
+                }
+            ],
+            "total_sales_attributed": 4637.960724035707
+        }
+    ]
+}

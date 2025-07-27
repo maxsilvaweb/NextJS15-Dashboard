@@ -1,0 +1,26 @@
+{
+    "user_id": "e435ebdf-c15b-4a0e-b7c8-3503347105a4",
+    "name": "Lauren Haynes",
+    "email": "khoover@example.com",
+    "instagram_handle": "@laura82",
+    "tiktok_handle": "@olewis",
+    "joined_at": "2024-03-03T17:57:28.569054",
+    "advocacy_programs": [
+        {
+            "program_id": "6971a9e4-62fb-4ed2-b319-07e5673ff4a3",
+            "brand": "Brewer and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "08938144-a6b7-41bf-81aa-6cb02c8e23ca",
+                    "platform": "Instagram",
+                    "post_url": "http://lane-davis.com/",
+                    "likes": 1749,
+                    "comments": 49,
+                    "shares": 18,
+                    "reach": 1046
+                }
+            ],
+            "total_sales_attributed": 1782.98
+        }
+    ]
+}

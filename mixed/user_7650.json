@@ -1,0 +1,26 @@
+{
+    "user_id": "ea38769f-925a-409b-8bd0-8392c647f817",
+    "name": "Larry Horn",
+    "email": "Moshe.Conroy@gmail.com",
+    "instagram_handle": "@brownjessica",
+    "tiktok_handle": "@mtorres",
+    "joined_at": "2025-07-13T20:32:38.390142",
+    "advocacy_programs": [
+        {
+            "program_id": "820dcd49-0994-41c4-91ad-c878d3c27a49",
+            "brand": "Thomas, Brown and Green",
+            "tasks_completed": [
+                {
+                    "task_id": "45cbba8d-2263-424e-861c-d336ccbe1ec2",
+                    "platform": "TikTok",
+                    "post_url": "http://scott.info/",
+                    "likes": 6030,
+                    "comments": 374,
+                    "shares": 44,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 693.29
+        }
+    ]
+}

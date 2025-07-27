@@ -1,0 +1,26 @@
+{
+    "user_id": "930fd613-9b6c-48b8-a2dd-236f52eaa6cf",
+    "name": "Margarita Herzog",
+    "email": "Kirsten_West27@hotmail.com",
+    "instagram_handle": "@Jake_Bernhard",
+    "tiktok_handle": "@Annamarie_Fadel",
+    "joined_at": "2024-07-21T17:36:39.017Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2a358034-3692-4403-a660-dfbe0c61ba29",
+            "brand": "Welch, Feest and Gibson",
+            "tasks_completed": [
+                {
+                    "task_id": "f280fd16-feb5-4f96-9c42-0b47261c6742",
+                    "platform": "TikTok",
+                    "post_url": "https://scornful-release.name",
+                    "likes": 194,
+                    "comments": 2,
+                    "shares": 61,
+                    "reach": 9682
+                }
+            ],
+            "total_sales_attributed": 4722.576227714987
+        }
+    ]
+}

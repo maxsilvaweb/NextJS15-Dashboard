@@ -1,0 +1,26 @@
+{
+    "user_id": "44715afc-2b63-4316-9eba-ef9b93505f20",
+    "name": "Connie Knight",
+    "email": "sarah55@example.net",
+    "instagram_handle": "@crystalsantiago",
+    "tiktok_handle": "@iwest",
+    "joined_at": "2025-06-25T14:55:30.767393",
+    "advocacy_programs": [
+        {
+            "program_id": "ee00d77c-2b4a-418d-b857-4e18d20a9e6c",
+            "brand": "Ruiz-Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "7039225e-57cc-4156-af0d-5e22fcc1d5b1",
+                    "platform": "Facebook",
+                    "post_url": "https://square-massage.net",
+                    "likes": 7712,
+                    "comments": 461,
+                    "shares": 1,
+                    "reach": 6284
+                }
+            ],
+            "total_sales_attributed": 9012.56
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "14d90368-dda5-420b-a0d9-56033b3c7a73",
+    "name": "Christopher Franey",
+    "email": "christine83@example.com",
+    "instagram_handle": "@staylor",
+    "tiktok_handle": "@nicolebrown",
+    "joined_at": "2024-12-24T12:55:59.273926",
+    "advocacy_programs": [
+        {
+            "program_id": "6af86190-f8b1-40ce-98bf-c15cc788d170",
+            "brand": "Kim Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "ad912d73-c6f9-469c-8b95-b3e6dd1360c5",
+                    "platform": "Facebook",
+                    "post_url": "https://chavez-rodriguez.com/",
+                    "likes": 5721,
+                    "comments": 45,
+                    "shares": 75,
+                    "reach": 8092
+                }
+            ],
+            "total_sales_attributed": 2032.66
+        }
+    ]
+}

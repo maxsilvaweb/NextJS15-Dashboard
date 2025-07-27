@@ -1,0 +1,26 @@
+{
+    "user_id": "f3438ea6-3cee-495e-8725-295428bcf04e",
+    "name": "Hector Thompson",
+    "email": "Benny.Runolfsdottir@hotmail.com",
+    "instagram_handle": "@Davon.Kassulke34",
+    "tiktok_handle": "@Sandra.Stark80",
+    "joined_at": "2024-09-11T06:11:24.124Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8fc4b434-f120-47d3-95ca-9551763757d9",
+            "brand": "Moen and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "2f9a77f5-8301-4060-a32e-97aea6499f43",
+                    "platform": "TikTok",
+                    "post_url": "https://well-to-do-disconnection.biz",
+                    "likes": 320,
+                    "comments": 3,
+                    "shares": 83,
+                    "reach": 8756
+                }
+            ],
+            "total_sales_attributed": 4480.521938064198
+        }
+    ]
+}

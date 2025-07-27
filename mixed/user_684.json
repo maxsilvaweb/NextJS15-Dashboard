@@ -1,0 +1,26 @@
+{
+    "user_id": "7a1dad69-d607-4efa-b147-b096826ef4ff",
+    "name": "Wendy Guerrero",
+    "email": "whitebradley@example.com",
+    "instagram_handle": "@parsonscynthia",
+    "tiktok_handle": "@jon94",
+    "joined_at": "2024-11-04T12:26:13.042163",
+    "advocacy_programs": [
+        {
+            "program_id": "593927da-0494-48d0-ae29-2e9eb3b1a565",
+            "brand": "Smith Group",
+            "tasks_completed": [
+                {
+                    "task_id": "42564779-751c-45e0-8818-e602efbffcb0",
+                    "platform": "YouTube",
+                    "post_url": "http://curtis.com/",
+                    "likes": 150,
+                    "comments": 256,
+                    "shares": 36,
+                    "reach": 7780
+                }
+            ],
+            "total_sales_attributed": 4094.44
+        }
+    ]
+}

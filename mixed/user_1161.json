@@ -1,0 +1,26 @@
+{
+    "user_id": "e0ad3bab-a6f2-4476-b6fb-19c7cf2e431b",
+    "name": "Scott Wilkinson",
+    "email": "Ludwig_Mohr@hotmail.com",
+    "instagram_handle": "@Toby_Greenfelder",
+    "tiktok_handle": "@Christa.Steuber12",
+    "joined_at": "2025-01-22T06:19:38.270Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fd25d489-7a74-4471-9040-8c3af8dc7a72",
+            "brand": "Fay - Huel",
+            "tasks_completed": [
+                {
+                    "task_id": "a107cbaa-3da9-489e-9be7-958c87871bcf",
+                    "platform": "TikTok",
+                    "post_url": "https://considerate-saw.net/",
+                    "likes": 28,
+                    "comments": 18,
+                    "shares": 7,
+                    "reach": 736
+                }
+            ],
+            "total_sales_attributed": 2714.313143732484
+        }
+    ]
+}

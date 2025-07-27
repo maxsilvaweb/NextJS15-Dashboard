@@ -1,0 +1,26 @@
+{
+    "user_id": "efe8a4ba-e769-48ab-b80b-855afe709617",
+    "name": "Vanessa Green Sr.",
+    "email": "Guiseppe43@yahoo.com",
+    "instagram_handle": "@Bella_Langosh",
+    "tiktok_handle": "@Danny_Feil",
+    "joined_at": "2024-07-04T14:46:08.323Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3cf02345-668c-45c3-ad6c-58e3f03f9774",
+            "brand": "Cartwright Group",
+            "tasks_completed": [
+                {
+                    "task_id": "0d81d97d-b92d-4128-8da0-8d48dd83fb8a",
+                    "platform": "Instagram",
+                    "post_url": "https://reasonable-secrecy.com",
+                    "likes": 240,
+                    "comments": 29,
+                    "shares": 78,
+                    "reach": 7026
+                }
+            ],
+            "total_sales_attributed": 3645.0397586019085
+        }
+    ]
+}

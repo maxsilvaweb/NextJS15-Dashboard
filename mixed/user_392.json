@@ -1,0 +1,26 @@
+{
+    "user_id": "3f249829-72dc-480c-bb74-f974e88e0565",
+    "name": "Crystal Hanson",
+    "email": "Burnice_Gibson46@hotmail.com",
+    "instagram_handle": "@victoria38",
+    "tiktok_handle": "@vfrench",
+    "joined_at": "2024-04-24T07:39:11.108750",
+    "advocacy_programs": [
+        {
+            "program_id": "5724707c-5e5e-4739-a3e5-392d5f883406",
+            "brand": "Gregory, Estes and Russell",
+            "tasks_completed": [
+                {
+                    "task_id": "d9a8690c-9c69-4167-b0f7-b67000302971",
+                    "platform": "Instagram",
+                    "post_url": "https://www.baker.com/",
+                    "likes": 397,
+                    "comments": 200,
+                    "shares": 12,
+                    "reach": 4444
+                }
+            ],
+            "total_sales_attributed": 1082.68
+        }
+    ]
+}

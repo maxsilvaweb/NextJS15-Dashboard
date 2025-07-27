@@ -1,0 +1,26 @@
+{
+    "user_id": "1e338270-6ffb-4c3b-85af-526083acaaeb",
+    "name": "Oscar Witting",
+    "email": "Vada_Mosciski@hotmail.com",
+    "instagram_handle": "@Jabari99",
+    "tiktok_handle": "@Marty19",
+    "joined_at": "2024-10-13T23:56:41.130Z",
+    "advocacy_programs": [
+        {
+            "program_id": "34ec08a9-5750-4796-b8aa-a3505267dfe3",
+            "brand": "Waelchi, Homenick and Ferry",
+            "tasks_completed": [
+                {
+                    "task_id": "4b5b5285-36f5-4486-b51b-95c3055f81ae",
+                    "platform": "Instagram",
+                    "post_url": "https://criminal-resource.info/",
+                    "likes": 78,
+                    "comments": 33,
+                    "shares": 64,
+                    "reach": 6030
+                }
+            ],
+            "total_sales_attributed": 3820.2985576961305
+        }
+    ]
+}

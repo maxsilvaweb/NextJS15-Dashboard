@@ -1,0 +1,26 @@
+{
+    "user_id": "2832be43-3369-4375-8e22-59e24aef3f73",
+    "name": "Peter Schmidt",
+    "email": "icollins@example.net",
+    "instagram_handle": "@walkermark",
+    "tiktok_handle": "@uadams",
+    "joined_at": "2025-07-19T06:12:28.821408",
+    "advocacy_programs": [
+        {
+            "program_id": "d81ba2a9-0ee5-4df5-a9ae-b1d379daeaf4",
+            "brand": "Downs, Ford and Rose",
+            "tasks_completed": [
+                {
+                    "task_id": "53d4985b-83e3-4fce-a5fc-580b1cb5cc53",
+                    "platform": "Facebook",
+                    "post_url": "https://sunny-mountain.biz/",
+                    "likes": 1633,
+                    "comments": 42,
+                    "shares": 28,
+                    "reach": 713
+                }
+            ],
+            "total_sales_attributed": 3135.62
+        }
+    ]
+}

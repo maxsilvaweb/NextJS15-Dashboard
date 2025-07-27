@@ -1,0 +1,26 @@
+{
+    "user_id": "f3dc3b58-d698-4f09-816f-38b6a514e2d7",
+    "name": "Sean Diaz",
+    "email": "schaeferrachel@example.net",
+    "instagram_handle": "@Dino_Vandervort",
+    "tiktok_handle": "@jonesjason",
+    "joined_at": "2025-07-05T11:11:30.859008",
+    "advocacy_programs": [
+        {
+            "program_id": "33cf1f73-f2e8-4dee-98da-02ce911407fd",
+            "brand": "Garcia, Lee and Sullivan",
+            "tasks_completed": [
+                {
+                    "task_id": "6eacd494-58ea-45e9-b085-543e03a1800e",
+                    "platform": "Facebook",
+                    "post_url": "https://old-fashioned-brace.com",
+                    "likes": 2411,
+                    "comments": 263,
+                    "shares": 26,
+                    "reach": 1096
+                }
+            ],
+            "total_sales_attributed": 8811.81
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "af575ea4-03c3-47c7-b164-864c6eb0e0a0",
+    "name": "Bryce Weiss",
+    "email": "cummingsdanielle@example.net",
+    "instagram_handle": "@lbrown",
+    "tiktok_handle": "@brittanylawson",
+    "joined_at": "2024-08-18T15:51:56.683412",
+    "advocacy_programs": [
+        {
+            "program_id": "c11ec673-6e5a-48fa-b281-98e2b4e3929e",
+            "brand": "Fuller, Tucker and French",
+            "tasks_completed": [
+                {
+                    "task_id": "789b20c5-55fe-4afa-a58d-3c5b71725532",
+                    "platform": "Instagram",
+                    "post_url": "http://www.gill.com/",
+                    "likes": 2331,
+                    "comments": 406,
+                    "shares": 87,
+                    "reach": 3988
+                }
+            ],
+            "total_sales_attributed": 5944.27
+        }
+    ]
+}

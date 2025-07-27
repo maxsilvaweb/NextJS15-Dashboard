@@ -1,0 +1,26 @@
+{
+    "user_id": "109123f0-2f1e-4775-a933-d150e858e9c2",
+    "name": "Luther Abernathy",
+    "email": "Kaylee21@yahoo.com",
+    "instagram_handle": "@Camilla.Franey95",
+    "tiktok_handle": "@Clay85",
+    "joined_at": "2025-02-13T13:32:22.854Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4b4283ae-9df6-4e95-ba3b-cac2d6479378",
+            "brand": "Larkin, Schulist and Windler",
+            "tasks_completed": [
+                {
+                    "task_id": "354864b1-d79d-4b0e-a951-ceb348a0b01c",
+                    "platform": "TikTok",
+                    "post_url": "https://unused-bid.net",
+                    "likes": 68,
+                    "comments": 32,
+                    "shares": 29,
+                    "reach": 4447
+                }
+            ],
+            "total_sales_attributed": 1568.3220439738657
+        }
+    ]
+}

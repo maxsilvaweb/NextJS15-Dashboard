@@ -1,0 +1,26 @@
+{
+    "user_id": "2209561a-4b72-467a-a674-ec82b98ba1b6",
+    "name": "Alma Hessel-Olson",
+    "email": "Moriah.Larson98@hotmail.com",
+    "instagram_handle": "@Oren11",
+    "tiktok_handle": "@Grady.Hodkiewicz",
+    "joined_at": "2024-04-04T01:22:33.602Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6859f775-bdc4-4519-b54d-a7c1e06b8b00",
+            "brand": "Beer Group",
+            "tasks_completed": [
+                {
+                    "task_id": "bc2d3c92-9a76-4762-9e33-cd820c187029",
+                    "platform": "TikTok",
+                    "post_url": "https://devoted-colon.com/",
+                    "likes": 423,
+                    "comments": 22,
+                    "shares": 16,
+                    "reach": 2082
+                }
+            ],
+            "total_sales_attributed": 1327.1601646165363
+        }
+    ]
+}

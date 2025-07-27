@@ -1,0 +1,26 @@
+{
+    "user_id": "95929ec8-2caf-4f39-9268-f097d8986e64",
+    "name": "Victoria Stewart",
+    "email": "jcarpenter@example.com",
+    "instagram_handle": "@mercertracy",
+    "tiktok_handle": "@wwatson",
+    "joined_at": "2025-06-19T23:22:41.246601",
+    "advocacy_programs": [
+        {
+            "program_id": "92737b78-dd8b-41f0-8d7c-c2a8d0014bcf",
+            "brand": "Cox Group",
+            "tasks_completed": [
+                {
+                    "task_id": "645e7867-58fe-40c1-9424-024cdddd20c0",
+                    "platform": "TikTok",
+                    "post_url": "https://www.turner.com/",
+                    "likes": 2483,
+                    "comments": 381,
+                    "shares": 42,
+                    "reach": 1168
+                }
+            ],
+            "total_sales_attributed": 282.23079353183977
+        }
+    ]
+}

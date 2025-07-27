@@ -1,0 +1,26 @@
+{
+    "user_id": "09cb19c2-749e-4800-9f19-09089c959708",
+    "name": "Eddie Vandervort",
+    "email": "Gisselle.Buckridge77@yahoo.com",
+    "instagram_handle": "@Anabel_Nicolas34",
+    "tiktok_handle": "@Guido12",
+    "joined_at": "2025-01-25T22:03:46.427Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5ef2db5b-15ee-4278-83f9-2ec39f1f10aa",
+            "brand": "Mills, Gutkowski and Bashirian",
+            "tasks_completed": [
+                {
+                    "task_id": "42b45594-616c-462f-89e4-a4b730a7cba1",
+                    "platform": "Instagram",
+                    "post_url": "https://gigantic-rawhide.org",
+                    "likes": 60,
+                    "comments": 46,
+                    "shares": 65,
+                    "reach": 749
+                }
+            ],
+            "total_sales_attributed": 438.9453873447971
+        }
+    ]
+}

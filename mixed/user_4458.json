@@ -1,0 +1,26 @@
+{
+    "user_id": "ce2e68e2-c156-426a-99c4-b47f6268e47e",
+    "name": "Michael Watson",
+    "email": "michael79@example.com",
+    "instagram_handle": "@jasonbarrera",
+    "tiktok_handle": "@alisonmosley",
+    "joined_at": "2025-06-08T19:40:05.938027",
+    "advocacy_programs": [
+        {
+            "program_id": "b801ef34-635e-4d76-b16a-781cc0e91550",
+            "brand": "Lopez Group",
+            "tasks_completed": [
+                {
+                    "task_id": "844f686a-4dc1-4467-acc5-cca5e0d0fcd8",
+                    "platform": "Facebook",
+                    "post_url": "https://clueless-pear.name",
+                    "likes": 2941,
+                    "comments": 353,
+                    "shares": 35,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 7853.28
+        }
+    ]
+}

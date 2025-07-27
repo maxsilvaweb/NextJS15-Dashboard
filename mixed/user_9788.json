@@ -1,0 +1,26 @@
+{
+    "user_id": "02ca139a-209d-4639-a570-1a90786bb7da",
+    "name": "Sarah McDermott",
+    "email": "Tierra_Jast@yahoo.com",
+    "instagram_handle": "@Theodora_Stroman6",
+    "tiktok_handle": "@Vince3",
+    "joined_at": "2024-09-25T21:34:49.474Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c4f50479-2ef6-4cbe-9117-29ff1cbe8e67",
+            "brand": "Ratke LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2000d7df-eb0a-4b77-87bb-68e6cff5e06e",
+                    "platform": "TikTok",
+                    "post_url": "https://evil-basket.net",
+                    "likes": 450,
+                    "comments": 40,
+                    "shares": 17,
+                    "reach": 2453
+                }
+            ],
+            "total_sales_attributed": 953.8826973874959
+        }
+    ]
+}

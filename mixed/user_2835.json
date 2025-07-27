@@ -1,0 +1,26 @@
+{
+    "user_id": "c0bff338-ee1a-4986-b550-f07b140d99f3",
+    "name": "Stacy Wyatt",
+    "email": "martineznathan@example.org",
+    "instagram_handle": "@katrinabonilla",
+    "tiktok_handle": "@Frederik_Kuphal49",
+    "joined_at": "2025-04-01T00:07:09.332065",
+    "advocacy_programs": [
+        {
+            "program_id": "4904b5f0-9595-4e2c-8c68-456fee274c4b",
+            "brand": "Cook, Davis and Shaw",
+            "tasks_completed": [
+                {
+                    "task_id": "02f22f9f-4244-4bd9-9c1b-91ed342e7c4f",
+                    "platform": "Instagram",
+                    "post_url": "http://www.evans-davis.biz/",
+                    "likes": 8687,
+                    "comments": 133,
+                    "shares": 73,
+                    "reach": 2122
+                }
+            ],
+            "total_sales_attributed": 7332.2
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1b3053f9-4af7-4813-9aed-197ed90ecdee",
+    "name": "Rita Austin",
+    "email": "william19@example.net",
+    "instagram_handle": "@goodwinrobert",
+    "tiktok_handle": "@jamespacheco",
+    "joined_at": "2024-07-22T07:15:04.121964",
+    "advocacy_programs": [
+        {
+            "program_id": "488803aa-c239-46b0-83f5-b88d47ea69e7",
+            "brand": "Smith-Andersen",
+            "tasks_completed": [
+                {
+                    "task_id": "869f82a2-a73d-4112-a8f8-788281652b0f",
+                    "platform": "TikTok",
+                    "post_url": "http://www.kirk.com/",
+                    "likes": 6659,
+                    "comments": 171,
+                    "shares": 91,
+                    "reach": 3756
+                }
+            ],
+            "total_sales_attributed": 8163.84
+        }
+    ]
+}

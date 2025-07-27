@@ -1,0 +1,26 @@
+{
+    "user_id": "357dafed-4c00-4d4b-99e0-00f84be1fc7e",
+    "name": "Craig Parsons",
+    "email": "robert51@example.com",
+    "instagram_handle": "@samanthasaunders",
+    "tiktok_handle": "@rachael34",
+    "joined_at": "2024-02-21T10:19:33.920692",
+    "advocacy_programs": [
+        {
+            "program_id": "a00286a6-cd08-4531-a62d-dcb1088675a7",
+            "brand": "Sutton-Ferguson",
+            "tasks_completed": [
+                {
+                    "task_id": "8c2aca4d-2fb3-47d4-8962-14db44980da5",
+                    "platform": "TikTok",
+                    "post_url": "https://www.le.com/",
+                    "likes": 4398,
+                    "comments": 27,
+                    "shares": 8,
+                    "reach": 6270
+                }
+            ],
+            "total_sales_attributed": 3359.38
+        }
+    ]
+}

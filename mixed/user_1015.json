@@ -1,0 +1,26 @@
+{
+    "user_id": "a5b7bb18-338e-4498-ad35-7ac6ee451156",
+    "name": "Andrew Ray",
+    "email": "jacob73@example.com",
+    "instagram_handle": "@millertracy",
+    "tiktok_handle": "@dana66",
+    "joined_at": "2024-06-25T19:16:49.704893",
+    "advocacy_programs": [
+        {
+            "program_id": "1b371841-102c-4db1-9376-7ca99b53df26",
+            "brand": "Holland-Savage",
+            "tasks_completed": [
+                {
+                    "task_id": "48408460-9e90-4302-bcf1-4d54c6cf1b2b",
+                    "platform": "Instagram",
+                    "post_url": "https://www.neal.biz/",
+                    "likes": 6655,
+                    "comments": 32,
+                    "shares": 99,
+                    "reach": 1956
+                }
+            ],
+            "total_sales_attributed": 4316.43
+        }
+    ]
+}

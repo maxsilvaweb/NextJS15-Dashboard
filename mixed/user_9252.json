@@ -1,0 +1,26 @@
+{
+    "user_id": "f62f161f-ee81-491f-a1a6-0ced0259dd67",
+    "name": "Juan Wright",
+    "email": "monicadominguez@example.net",
+    "instagram_handle": "@thomasburns",
+    "tiktok_handle": "@gwilliams",
+    "joined_at": "2025-06-28T07:07:37.158582",
+    "advocacy_programs": [
+        {
+            "program_id": "073f945e-66f9-4a9b-b6f5-84ff4b88fe33",
+            "brand": "Olson - Predovic",
+            "tasks_completed": [
+                {
+                    "task_id": "34571f27-7352-4c04-85b8-550bd8b51118",
+                    "platform": "Facebook",
+                    "post_url": "https://pierce.info/",
+                    "likes": 282,
+                    "comments": 15,
+                    "shares": 46,
+                    "reach": 2463
+                }
+            ],
+            "total_sales_attributed": 3072.46
+        }
+    ]
+}

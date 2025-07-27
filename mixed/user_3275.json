@@ -1,0 +1,26 @@
+{
+    "user_id": "69d8633e-cc6e-490e-b769-8d443bab13ed",
+    "name": "Jasmine Meadows",
+    "email": "amanda35@example.net",
+    "instagram_handle": "@ihernandez",
+    "tiktok_handle": "@pmckenzie",
+    "joined_at": "2024-02-14T06:23:36.607450",
+    "advocacy_programs": [
+        {
+            "program_id": "bdcb9be6-dc5c-4e75-836b-9f3019da952c",
+            "brand": "Park-Pierce",
+            "tasks_completed": [
+                {
+                    "task_id": "8d90d2c9-6c86-4050-b8af-85e34524e93e",
+                    "platform": "Instagram",
+                    "post_url": "https://martinez.net/",
+                    "likes": 9588,
+                    "comments": 59,
+                    "shares": 4,
+                    "reach": 4358
+                }
+            ],
+            "total_sales_attributed": 108.43031363433086
+        }
+    ]
+}

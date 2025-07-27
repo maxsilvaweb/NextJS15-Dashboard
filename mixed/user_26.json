@@ -1,0 +1,26 @@
+{
+    "user_id": "28c3f054-38c3-4881-9546-b85616f2fa58",
+    "name": "Melanie Adams",
+    "email": "brittany99@example.org",
+    "instagram_handle": "@eric49",
+    "tiktok_handle": "@plopez",
+    "joined_at": "2025-06-14T21:46:49.657430",
+    "advocacy_programs": [
+        {
+            "program_id": "dfb828d6-60c5-4e99-b175-085103d47565",
+            "brand": "Mitchell-Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "813538d0-9578-4e73-b0f0-8c831bb59a22",
+                    "platform": "Instagram",
+                    "post_url": "http://kane-walker.com/",
+                    "likes": 3233,
+                    "comments": 103,
+                    "shares": 8,
+                    "reach": 2761
+                }
+            ],
+            "total_sales_attributed": 3883.84
+        }
+    ]
+}

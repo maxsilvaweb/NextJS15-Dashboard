@@ -1,0 +1,26 @@
+{
+    "user_id": "35fa7e17-88c9-467b-88bd-5dcb7996574b",
+    "name": "Mark Nelson",
+    "email": "kirbylinda@example.net",
+    "instagram_handle": "@emills",
+    "tiktok_handle": "@tammy06",
+    "joined_at": "2024-05-19T23:20:12.495379",
+    "advocacy_programs": [
+        {
+            "program_id": "dc3cac66-e175-4660-9749-283c01d74440",
+            "brand": "Winters Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "02e7b4e9-3440-4573-98d3-ee2dc9334501",
+                    "platform": "YouTube",
+                    "post_url": "http://www.jones-gonzalez.biz/",
+                    "likes": 195,
+                    "comments": 355,
+                    "shares": 62,
+                    "reach": 915
+                }
+            ],
+            "total_sales_attributed": 4119.81
+        }
+    ]
+}

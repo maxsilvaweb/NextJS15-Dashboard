@@ -1,0 +1,26 @@
+{
+    "user_id": "81c8bf67-4d35-456d-a1dc-f447de59378e",
+    "name": "Karen Stewart",
+    "email": "kwilliams@example.com",
+    "instagram_handle": "@kschwartz",
+    "tiktok_handle": "@oduncan",
+    "joined_at": "2024-09-24T19:23:58.818911",
+    "advocacy_programs": [
+        {
+            "program_id": "34f1d074-53c0-4e38-b926-f290e174721f",
+            "brand": "Bradley-Williamson",
+            "tasks_completed": [
+                {
+                    "task_id": "891e99c8-fde4-43d1-8a94-e8960d6b3f0b",
+                    "platform": "TikTok",
+                    "post_url": "http://www.johnson.biz/",
+                    "likes": 277,
+                    "comments": 28,
+                    "shares": 55,
+                    "reach": 5702
+                }
+            ],
+            "total_sales_attributed": 7580.08
+        }
+    ]
+}

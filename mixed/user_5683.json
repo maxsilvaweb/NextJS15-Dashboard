@@ -1,0 +1,26 @@
+{
+    "user_id": "41e9cf62-519f-482a-884b-ae4990eb7ef8",
+    "name": "David Kline",
+    "email": "robertnixon@example.com",
+    "instagram_handle": "@josephperry",
+    "tiktok_handle": "@sancheztimothy",
+    "joined_at": "2024-07-04T19:38:56.475455",
+    "advocacy_programs": [
+        {
+            "program_id": "148d7521-0597-4c55-9db8-19b2aac02f43",
+            "brand": "Bauer, Clark and Wade",
+            "tasks_completed": [
+                {
+                    "task_id": "1ed92567-b7ae-4f2c-89ef-2e829cd23ed9",
+                    "platform": "Instagram",
+                    "post_url": "https://specific-babushka.info",
+                    "likes": 3769,
+                    "comments": 9,
+                    "shares": 48,
+                    "reach": 7454
+                }
+            ],
+            "total_sales_attributed": 6675.27
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0d01feb5-2c5c-404f-b62c-f7b73d44f328",
+    "name": "Mr. Gustavo Toy V",
+    "email": "Saige97@gmail.com",
+    "instagram_handle": "@Misty_Schroeder28",
+    "tiktok_handle": "@Melvin_Rempel38",
+    "joined_at": "2024-05-15T07:55:23.583Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6ba5b05b-1533-4810-a29e-0f7fa124e1db",
+            "brand": "Krajcik, Denesik and Hermiston",
+            "tasks_completed": [
+                {
+                    "task_id": "91459b3e-9563-47c1-a514-8e30f3000452",
+                    "platform": "Instagram",
+                    "post_url": "https://glum-masterpiece.biz/",
+                    "likes": 317,
+                    "comments": 44,
+                    "shares": 2,
+                    "reach": 1627
+                }
+            ],
+            "total_sales_attributed": 2239.898490013148
+        }
+    ]
+}

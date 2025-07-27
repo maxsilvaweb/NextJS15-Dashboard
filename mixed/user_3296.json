@@ -1,0 +1,26 @@
+{
+    "user_id": "0f4307f9-38c2-48a3-8b9e-756a151ebbf4",
+    "name": "Tiffany Lueilwitz",
+    "email": "Amara_Sporer@gmail.com",
+    "instagram_handle": "@Stella.Kub",
+    "tiktok_handle": "@Karl.Casper",
+    "joined_at": "2024-10-12T15:19:08.086Z",
+    "advocacy_programs": [
+        {
+            "program_id": "18382d50-acd8-434d-99cf-759cd321c872",
+            "brand": "Schaden, Zulauf and Doyle",
+            "tasks_completed": [
+                {
+                    "task_id": "e2746db1-cedb-4b26-b18d-0bd0d4324968",
+                    "platform": "Instagram",
+                    "post_url": "https://winged-submitter.info",
+                    "likes": 82,
+                    "comments": 29,
+                    "shares": 93,
+                    "reach": 6932
+                }
+            ],
+            "total_sales_attributed": 1412.9236900142994
+        }
+    ]
+}

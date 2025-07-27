@@ -1,0 +1,26 @@
+{
+    "user_id": "04730849-1c3c-40c9-8a6c-54c787b3923d",
+    "name": "Daniel Dawson",
+    "email": "juliebush@example.org",
+    "instagram_handle": "@tinaspencer",
+    "tiktok_handle": "@richard86",
+    "joined_at": "2025-02-07T06:26:08.570741",
+    "advocacy_programs": [
+        {
+            "program_id": "ca0ce41b-fa32-4edc-92a1-010ee3754c0c",
+            "brand": "Singh LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f35e545d-9c26-40b3-91ab-177a27162b8a",
+                    "platform": "TikTok",
+                    "post_url": "https://chaney-hernandez.biz/",
+                    "likes": 4591,
+                    "comments": 356,
+                    "shares": 86,
+                    "reach": 3363
+                }
+            ],
+            "total_sales_attributed": 9074.17
+        }
+    ]
+}

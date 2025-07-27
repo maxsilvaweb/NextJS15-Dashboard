@@ -1,0 +1,26 @@
+{
+    "user_id": "b6a68fa5-7788-4635-88cf-0c9b0dc8de0a",
+    "name": "Sandy Kshlerin",
+    "email": "Hyman.Grimes32@yahoo.com",
+    "instagram_handle": "@Rosie_Hermiston13",
+    "tiktok_handle": "@Eleanora85",
+    "joined_at": "2024-10-20T14:06:44.552Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cbab9f3a-9941-4aa8-a055-eac77375139c",
+            "brand": "Sipes LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7e90cd88-9133-4176-96b4-f3be85c50459",
+                    "platform": "Instagram",
+                    "post_url": "https://unfortunate-cinema.name",
+                    "likes": 427,
+                    "comments": 39,
+                    "shares": 5,
+                    "reach": 4403
+                }
+            ],
+            "total_sales_attributed": 2141.275284320989
+        }
+    ]
+}

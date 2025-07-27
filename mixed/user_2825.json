@@ -1,0 +1,26 @@
+{
+    "user_id": "5d76ab82-d9aa-45d1-a3c6-732c82fc6df0",
+    "name": "David Wagner",
+    "email": "Allie_Spinka20@yahoo.com",
+    "instagram_handle": "@jmartinez",
+    "tiktok_handle": "@kaylagray",
+    "joined_at": "2023-11-01T08:48:19.705139",
+    "advocacy_programs": [
+        {
+            "program_id": "344a7ac6-7c1a-42bf-b19a-cac388fddf39",
+            "brand": "Oliver, Gray and Lawson",
+            "tasks_completed": [
+                {
+                    "task_id": "61b8556f-0dc1-4dbf-a17d-b22769a9c27b",
+                    "platform": "YouTube",
+                    "post_url": "https://lamb.net/",
+                    "likes": 4308,
+                    "comments": 38,
+                    "shares": 31,
+                    "reach": 5652
+                }
+            ],
+            "total_sales_attributed": 2230.37
+        }
+    ]
+}

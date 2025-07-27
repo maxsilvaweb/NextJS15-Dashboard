@@ -1,0 +1,26 @@
+{
+    "user_id": "78a006ef-7468-4f83-944d-56a18ea758a7",
+    "name": "Maria Hill",
+    "email": "elizabethbutler@example.com",
+    "instagram_handle": "@hernandezvirginia",
+    "tiktok_handle": "@Bette_Schmeler",
+    "joined_at": "2024-03-19T17:17:21.780276",
+    "advocacy_programs": [
+        {
+            "program_id": "e7b89fb3-13ac-4f35-9b8c-dfcdfdbdaf4d",
+            "brand": "Mcconnell-Leblanc",
+            "tasks_completed": [
+                {
+                    "task_id": "2fd59310-8beb-4e33-8340-d22eb1be9d49",
+                    "platform": "Facebook",
+                    "post_url": "https://www.blackwell-harris.com/",
+                    "likes": 7504,
+                    "comments": 432,
+                    "shares": 13,
+                    "reach": 4244
+                }
+            ],
+            "total_sales_attributed": 1584.898348347986
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b937837c-a50b-46f0-a4d7-36c390454f44",
+    "name": "Deanna Herman",
+    "email": "lucasthompson@example.org",
+    "instagram_handle": "@kimberly52",
+    "tiktok_handle": "@cody50",
+    "joined_at": "2025-04-04T20:00:30.741383",
+    "advocacy_programs": [
+        {
+            "program_id": "3ac4e01d-39e7-456b-8aef-60150c3de0e1",
+            "brand": "White-King",
+            "tasks_completed": [
+                {
+                    "task_id": "94a79b06-2b26-4258-909f-1363e5f9fd31",
+                    "platform": "Facebook",
+                    "post_url": "https://cheap-smog.org",
+                    "likes": 8581,
+                    "comments": 350,
+                    "shares": 90,
+                    "reach": 6924
+                }
+            ],
+            "total_sales_attributed": 7273.54
+        }
+    ]
+}

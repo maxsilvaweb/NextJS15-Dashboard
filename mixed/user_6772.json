@@ -1,0 +1,26 @@
+{
+    "user_id": "125466d5-2176-4b38-a6b9-7d84348a34da",
+    "name": "Daryl Lueilwitz",
+    "email": "Clarissa36@hotmail.com",
+    "instagram_handle": "@Breanne42",
+    "tiktok_handle": "@Kody.Spencer65",
+    "joined_at": "2024-06-07T16:17:10.259Z",
+    "advocacy_programs": [
+        {
+            "program_id": "80d3a035-3837-469a-a835-4a4b660a700d",
+            "brand": "Metz, Durgan and Wehner",
+            "tasks_completed": [
+                {
+                    "task_id": "3b76a152-2eac-4e6e-a1fa-5d3c7a57f456",
+                    "platform": "TikTok",
+                    "post_url": "https://flustered-bungalow.net",
+                    "likes": 444,
+                    "comments": 45,
+                    "shares": 66,
+                    "reach": 3847
+                }
+            ],
+            "total_sales_attributed": 3148.529187962101
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4da43574-9308-4926-9cd1-bbcd8592a344",
+    "name": "Christian Pouros",
+    "email": "samuelcross@example.com",
+    "instagram_handle": "@nhull",
+    "tiktok_handle": "@jonesseth",
+    "joined_at": "2025-02-19T16:57:45.608611",
+    "advocacy_programs": [
+        {
+            "program_id": "084e1aae-6384-466a-8bcd-9e3682188b05",
+            "brand": "Mckenzie Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "0ed2a266-130d-47ea-a0ca-538d63df2eea",
+                    "platform": "Facebook",
+                    "post_url": "https://outstanding-cassava.org",
+                    "likes": 8727,
+                    "comments": 184,
+                    "shares": 8,
+                    "reach": 8564
+                }
+            ],
+            "total_sales_attributed": 9725.66
+        }
+    ]
+}

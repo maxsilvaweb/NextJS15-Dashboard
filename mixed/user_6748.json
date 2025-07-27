@@ -1,0 +1,26 @@
+{
+    "user_id": "8633ee1a-8236-4f36-872c-ad889919fbb4",
+    "name": "Justin Rich",
+    "email": "sowens@example.com",
+    "instagram_handle": "@opierce",
+    "tiktok_handle": "@johnsonjason",
+    "joined_at": "2024-05-11T12:10:56.104826",
+    "advocacy_programs": [
+        {
+            "program_id": "5f238f9a-542e-45a4-9609-2f074e76c6ef",
+            "brand": "Cruz Group",
+            "tasks_completed": [
+                {
+                    "task_id": "17a534d9-e213-408c-9b50-6c2aa1899224",
+                    "platform": "TikTok",
+                    "post_url": "http://hudson.org/",
+                    "likes": 9562,
+                    "comments": 6,
+                    "shares": 70,
+                    "reach": 4226
+                }
+            ],
+            "total_sales_attributed": 2817.9
+        }
+    ]
+}

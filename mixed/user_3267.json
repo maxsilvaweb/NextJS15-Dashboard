@@ -1,0 +1,26 @@
+{
+    "user_id": "14b0b154-3397-403e-8024-966e78e772c4",
+    "name": "Natalie Kerluke",
+    "email": "patrickmartinez@example.net",
+    "instagram_handle": "@sblack",
+    "tiktok_handle": "@jessica62",
+    "joined_at": "2025-06-11T23:33:19.397745",
+    "advocacy_programs": [
+        {
+            "program_id": "7c4bb5d8-8cd7-4b19-a25a-1498a859b1e2",
+            "brand": "Garza-Jenkins",
+            "tasks_completed": [
+                {
+                    "task_id": "c32ef831-b672-4800-8e49-8ca2bece2af4",
+                    "platform": "TikTok",
+                    "post_url": "http://www.hahn.info/",
+                    "likes": 5579,
+                    "comments": 125,
+                    "shares": 81,
+                    "reach": 6421
+                }
+            ],
+            "total_sales_attributed": 6503.8
+        }
+    ]
+}

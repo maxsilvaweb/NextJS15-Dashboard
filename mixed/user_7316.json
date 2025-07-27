@@ -1,0 +1,26 @@
+{
+    "user_id": "123bf7e7-0992-4606-8432-baa2ce50d93a",
+    "name": "Jordan Carter",
+    "email": "rbrandt@example.org",
+    "instagram_handle": "@scottfuller",
+    "tiktok_handle": "@tyler06",
+    "joined_at": "2024-08-27T17:23:03.919477",
+    "advocacy_programs": [
+        {
+            "program_id": "0b05e9e0-e4d5-493c-9e19-d0f4b903ceed",
+            "brand": "Perez, Boyle and Crawford",
+            "tasks_completed": [
+                {
+                    "task_id": "42a3c1d9-8609-4e20-bd64-7ae96ddfac87",
+                    "platform": "TikTok",
+                    "post_url": "https://soulful-pupil.info/",
+                    "likes": 3498,
+                    "comments": 106,
+                    "shares": 33,
+                    "reach": 3553
+                }
+            ],
+            "total_sales_attributed": 8636.49
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "681675a1-b5a6-44ca-8229-4bb7b4845f65",
+    "name": "Dawn Thomas",
+    "email": "brandon82@example.org",
+    "instagram_handle": "@kenneth93",
+    "tiktok_handle": "@david34",
+    "joined_at": "2023-11-23T06:40:05.603984",
+    "advocacy_programs": [
+        {
+            "program_id": "399aa79e-d870-47cb-aa4b-0099cbfff754",
+            "brand": "Beard Group",
+            "tasks_completed": [
+                {
+                    "task_id": "0aafe9d2-4ec1-4b78-a762-5d920948da03",
+                    "platform": "TikTok",
+                    "post_url": "https://www.ward.com/",
+                    "likes": 299,
+                    "comments": 401,
+                    "shares": 44,
+                    "reach": 4616
+                }
+            ],
+            "total_sales_attributed": 1585.826696590072
+        }
+    ]
+}

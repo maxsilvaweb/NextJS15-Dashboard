@@ -1,0 +1,26 @@
+{
+    "user_id": "aee164e1-678f-4722-906d-3d03f764f14f",
+    "name": "Alejandra Navarro",
+    "email": "justincolon@example.com",
+    "instagram_handle": "@marissa14",
+    "tiktok_handle": "@adunn",
+    "joined_at": "2023-12-27T18:02:37.789539",
+    "advocacy_programs": [
+        {
+            "program_id": "b6eb610a-2a08-4f1c-93b2-ceba909e511b",
+            "brand": "Kelly-Walker",
+            "tasks_completed": [
+                {
+                    "task_id": "eb964504-71d4-41dd-a432-13e41a23d688",
+                    "platform": "Instagram",
+                    "post_url": "http://www.sexton.com/",
+                    "likes": 135,
+                    "comments": 304,
+                    "shares": 97,
+                    "reach": 1408
+                }
+            ],
+            "total_sales_attributed": 3096.64
+        }
+    ]
+}

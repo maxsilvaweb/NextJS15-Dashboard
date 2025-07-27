@@ -1,0 +1,26 @@
+{
+    "user_id": "2b670df1-8d05-4789-aec4-e763febdeaba",
+    "name": "Randall Bauch",
+    "email": "Jaren37@hotmail.com",
+    "instagram_handle": "@Junior_Fritsch92",
+    "tiktok_handle": "@Berta51",
+    "joined_at": "2024-10-28T17:01:56.169Z",
+    "advocacy_programs": [
+        {
+            "program_id": "99e21b90-fa11-4f34-87d2-4fa0bb31078b",
+            "brand": "O'Keefe Group",
+            "tasks_completed": [
+                {
+                    "task_id": "f5714547-0fd0-47f8-bb97-0fa6b29e207d",
+                    "platform": "TikTok",
+                    "post_url": "https://thorny-availability.org",
+                    "likes": 499,
+                    "comments": 40,
+                    "shares": 18,
+                    "reach": 9962
+                }
+            ],
+            "total_sales_attributed": 4168.296023782579
+        }
+    ]
+}

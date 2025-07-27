@@ -1,0 +1,26 @@
+{
+    "user_id": "8889d903-cdc1-4205-be9f-e1ed5536cf78",
+    "name": "Patricia Jones",
+    "email": "owilliams@example.org",
+    "instagram_handle": "@kristy78",
+    "tiktok_handle": "@hgiles",
+    "joined_at": "2025-03-17T12:42:31.380545",
+    "advocacy_programs": [
+        {
+            "program_id": "3f633dc2-1910-4569-844d-85c004122100",
+            "brand": "Walker, Bradshaw and Trevino",
+            "tasks_completed": [
+                {
+                    "task_id": "0ebd0896-8d77-42b6-99c5-da7a51c5c73e",
+                    "platform": "Facebook",
+                    "post_url": "https://www.bishop.net/",
+                    "likes": 9570,
+                    "comments": 7,
+                    "shares": 8,
+                    "reach": 826
+                }
+            ],
+            "total_sales_attributed": 3437.27
+        }
+    ]
+}

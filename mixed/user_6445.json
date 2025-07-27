@@ -1,0 +1,26 @@
+{
+    "user_id": "edbf408c-8bc4-4c07-99cf-eddb956e7492",
+    "name": "Beth Hilll",
+    "email": "Marcos.Runolfsson@yahoo.com",
+    "instagram_handle": "@Woodrow93",
+    "tiktok_handle": "@Consuelo.Howe",
+    "joined_at": "2024-07-18T23:49:36.529Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9cbd383e-e8a9-4814-9c73-49bce3277a0f",
+            "brand": "McClure - Kassulke",
+            "tasks_completed": [
+                {
+                    "task_id": "c3c94392-cf98-4dbf-80e5-5a42204b7694",
+                    "platform": "TikTok",
+                    "post_url": "https://deficient-opera.biz",
+                    "likes": 60,
+                    "comments": 18,
+                    "shares": 91,
+                    "reach": 521
+                }
+            ],
+            "total_sales_attributed": 1510.5374742176207
+        }
+    ]
+}

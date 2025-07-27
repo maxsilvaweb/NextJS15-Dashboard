@@ -1,0 +1,26 @@
+{
+    "user_id": "1aa73330-d94a-4e05-bbee-fb2ed7d0532f",
+    "name": "Alyssa Upton",
+    "email": "theresa28@example.net",
+    "instagram_handle": "@steven27",
+    "tiktok_handle": "@oneillkatelyn",
+    "joined_at": "2024-02-27T23:37:57.840585",
+    "advocacy_programs": [
+        {
+            "program_id": "77760f49-c3f2-47a8-80e1-a142c92a976d",
+            "brand": "Contreras, Flowers and Roberts",
+            "tasks_completed": [
+                {
+                    "task_id": "9262dae7-f96d-4c31-a51a-80962c371304",
+                    "platform": "Twitter",
+                    "post_url": "http://smith.com/",
+                    "likes": 7350,
+                    "comments": 224,
+                    "shares": 53,
+                    "reach": 9049
+                }
+            ],
+            "total_sales_attributed": 4316.75
+        }
+    ]
+}

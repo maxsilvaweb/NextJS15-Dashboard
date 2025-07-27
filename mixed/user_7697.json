@@ -1,0 +1,26 @@
+{
+    "user_id": "0bb3b85e-c065-4a73-9d3f-ce1e5bf6fdde",
+    "name": "Angel Runte",
+    "email": "Matt62@gmail.com",
+    "instagram_handle": "@Gunner87",
+    "tiktok_handle": "@Fabiola_Crona",
+    "joined_at": "2024-12-10T07:36:27.195Z",
+    "advocacy_programs": [
+        {
+            "program_id": "84e44edc-4122-4ea4-a831-4ace50044088",
+            "brand": "McCullough Group",
+            "tasks_completed": [
+                {
+                    "task_id": "7e1a37fa-d32b-4388-8fcc-0f38c48afefe",
+                    "platform": "Instagram",
+                    "post_url": "https://good-synergy.biz",
+                    "likes": 255,
+                    "comments": 28,
+                    "shares": 55,
+                    "reach": 987
+                }
+            ],
+            "total_sales_attributed": 4566.403212958683
+        }
+    ]
+}

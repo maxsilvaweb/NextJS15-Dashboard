@@ -1,0 +1,26 @@
+{
+    "user_id": "00362883-a620-486d-8af0-6953fa4d6061",
+    "name": "Mr. Bradford Wolff Jr.",
+    "email": "Jada48@hotmail.com",
+    "instagram_handle": "@Uriah7",
+    "tiktok_handle": "@Dannie_Abernathy",
+    "joined_at": "2024-08-14T05:45:52.179Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2e6106ba-8f3a-4fd6-bac2-cf777a4bb221",
+            "brand": "Leuschke Group",
+            "tasks_completed": [
+                {
+                    "task_id": "b56108cb-e60a-4c27-93e7-73270ab462db",
+                    "platform": "TikTok",
+                    "post_url": "https://reasonable-footrest.org",
+                    "likes": 147,
+                    "comments": 10,
+                    "shares": 19,
+                    "reach": 9527
+                }
+            ],
+            "total_sales_attributed": 4752.965996031685
+        }
+    ]
+}

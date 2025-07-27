@@ -1,0 +1,26 @@
+{
+    "user_id": "ff489c14-5899-4216-a57a-4244a4a85ed5",
+    "name": "Aimee Smith",
+    "email": "johnjackson@example.net",
+    "instagram_handle": "@bradfordrebekah",
+    "tiktok_handle": "@christinaevans",
+    "joined_at": "2023-08-22T06:39:02.993569",
+    "advocacy_programs": [
+        {
+            "program_id": "d0d8a529-0f13-4d4d-8fdd-691b0964ca09",
+            "brand": "Wright and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "0672f7d1-9702-4e75-ae5e-b0d9eacd1137",
+                    "platform": "Instagram",
+                    "post_url": "https://www.hart-brown.com/",
+                    "likes": 94,
+                    "comments": 277,
+                    "shares": 75,
+                    "reach": 9540
+                }
+            ],
+            "total_sales_attributed": 4467.381171224221
+        }
+    ]
+}

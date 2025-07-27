@@ -1,0 +1,26 @@
+{
+    "user_id": "914764bf-a7a4-4ef2-a8b4-5d7cf6893b8f",
+    "name": "Joshua Cooper",
+    "email": "katherine19@example.com",
+    "instagram_handle": "@michele54",
+    "tiktok_handle": "@ihancock",
+    "joined_at": "2024-06-28T04:56:27.172Z",
+    "advocacy_programs": [
+        {
+            "program_id": "69fd3913-2034-40e9-b093-0dfafbdfa1e3",
+            "brand": "Miller Group",
+            "tasks_completed": [
+                {
+                    "task_id": "6f557117-2a34-4b8b-8251-bd162f589771",
+                    "platform": "Instagram",
+                    "post_url": "http://stone-rodriguez.org/",
+                    "likes": 7958,
+                    "comments": 101,
+                    "shares": 93,
+                    "reach": 9756
+                }
+            ],
+            "total_sales_attributed": 4691.060123944946
+        }
+    ]
+}

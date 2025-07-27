@@ -1,0 +1,26 @@
+{
+    "user_id": "b2bce5ed-5478-4edc-8b5d-edcd79b69c60",
+    "name": "Victoria Wilkerson PhD",
+    "email": "bradleylaura@example.org",
+    "instagram_handle": "@kristinawyatt",
+    "tiktok_handle": "@cranebrittany",
+    "joined_at": "2024-12-17T04:58:16.219068",
+    "advocacy_programs": [
+        {
+            "program_id": "a8aed653-e878-4bc9-a2d5-e2cea0b85b67",
+            "brand": "Wheeler, Yates and Wallace",
+            "tasks_completed": [
+                {
+                    "task_id": "6b235d3e-cb5f-4fe7-ab4f-8d9ecca52e68",
+                    "platform": "Twitter",
+                    "post_url": "https://www.lewis.info/",
+                    "likes": 9994,
+                    "comments": 6,
+                    "shares": 28,
+                    "reach": 7122
+                }
+            ],
+            "total_sales_attributed": 289.6
+        }
+    ]
+}

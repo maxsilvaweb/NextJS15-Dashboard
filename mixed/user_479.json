@@ -1,0 +1,26 @@
+{
+    "user_id": "849f619a-f3c9-4c4d-92a9-9c8ebd43d7df",
+    "name": "Mrs. Paulette McCullough",
+    "email": "Stephania98@yahoo.com",
+    "instagram_handle": "@Elmira80",
+    "tiktok_handle": "@Orval_Hilll",
+    "joined_at": "2025-01-02T10:46:42.094Z",
+    "advocacy_programs": [
+        {
+            "program_id": "227be1e5-a1b0-40c9-a0b8-f1303a6036cd",
+            "brand": "D'Amore - Rempel",
+            "tasks_completed": [
+                {
+                    "task_id": "d9787b7b-a9e2-49ef-af64-443cdb49b47a",
+                    "platform": "TikTok",
+                    "post_url": "https://upset-brush.com",
+                    "likes": 87,
+                    "comments": 2,
+                    "shares": 93,
+                    "reach": 5254
+                }
+            ],
+            "total_sales_attributed": 1345.3202599884253
+        }
+    ]
+}

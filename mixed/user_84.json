@@ -1,0 +1,26 @@
+{
+    "user_id": "1b7c61b2-5737-48da-bd14-5d45836a4485",
+    "name": "Todd Morris",
+    "email": "Brandyn_Koelpin@hotmail.com",
+    "instagram_handle": "@odorsey",
+    "tiktok_handle": "@maxortiz",
+    "joined_at": "2025-02-24T01:44:23.106284",
+    "advocacy_programs": [
+        {
+            "program_id": "3e31677d-ff7d-48a9-9dfc-5258bc362e97",
+            "brand": "Waller, Knight and Tate",
+            "tasks_completed": [
+                {
+                    "task_id": "5b02e0be-8b9f-47bb-9cf4-e5d3b1f6ae26",
+                    "platform": "TikTok",
+                    "post_url": "https://old-transparency.info/",
+                    "likes": 9087,
+                    "comments": 31,
+                    "shares": 6,
+                    "reach": 5674
+                }
+            ],
+            "total_sales_attributed": 4852.563832896263
+        }
+    ]
+}

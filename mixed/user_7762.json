@@ -1,0 +1,26 @@
+{
+    "user_id": "f66f35e3-c2a6-4dad-b8c7-798f2e6819ca",
+    "name": "Nicholas King",
+    "email": "hernandeztonya@example.net",
+    "instagram_handle": "@carol75",
+    "tiktok_handle": "@Percival_Bednar",
+    "joined_at": "2025-03-09T06:32:00.217455",
+    "advocacy_programs": [
+        {
+            "program_id": "bcaac1f4-00ce-4cb3-8c9e-ccadff71d765",
+            "brand": "Blanchard-Armstrong",
+            "tasks_completed": [
+                {
+                    "task_id": "97afa5a4-fcc0-4237-b78e-14b338bdbf66",
+                    "platform": "Facebook",
+                    "post_url": "https://whimsical-milestone.com/",
+                    "likes": 5461,
+                    "comments": 12,
+                    "shares": 25,
+                    "reach": 753
+                }
+            ],
+            "total_sales_attributed": 7536.79
+        }
+    ]
+}

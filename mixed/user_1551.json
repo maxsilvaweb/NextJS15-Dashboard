@@ -1,0 +1,26 @@
+{
+    "user_id": "05187b7c-9152-425f-8b14-d67c97951a32",
+    "name": "Pamela Campbell",
+    "email": "smithjennifer@example.net",
+    "instagram_handle": "@rachel22",
+    "tiktok_handle": "@arthurgrimes",
+    "joined_at": "2024-04-22T10:39:00.609654",
+    "advocacy_programs": [
+        {
+            "program_id": "fd896668-35ce-4192-b5c4-b3998fd0b825",
+            "brand": "Johns - Von",
+            "tasks_completed": [
+                {
+                    "task_id": "38a57980-1014-47c5-b607-6016a13acfc6",
+                    "platform": "Twitter",
+                    "post_url": "http://www.rodriguez.com/",
+                    "likes": 2780,
+                    "comments": 247,
+                    "shares": 46,
+                    "reach": 5563
+                }
+            ],
+            "total_sales_attributed": 2046.18
+        }
+    ]
+}

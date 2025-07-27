@@ -1,0 +1,26 @@
+{
+    "user_id": "f15d8215-2a4f-44ec-8460-a59d31488762",
+    "name": "Diane Wiggins",
+    "email": "smorris@example.net",
+    "instagram_handle": "@colleen22",
+    "tiktok_handle": "@robinsonsteven",
+    "joined_at": "2024-04-09T20:54:41.127796",
+    "advocacy_programs": [
+        {
+            "program_id": "82c8b8d1-0485-4a1c-ac7f-a029cbbbe068",
+            "brand": "Burke-Sutton",
+            "tasks_completed": [
+                {
+                    "task_id": "d6da5a8c-6100-480f-a71c-0f7211456864",
+                    "platform": "Instagram",
+                    "post_url": "http://www.hobbs-diaz.com/",
+                    "likes": 139,
+                    "comments": 140,
+                    "shares": 4,
+                    "reach": 2734
+                }
+            ],
+            "total_sales_attributed": 9602.61
+        }
+    ]
+}

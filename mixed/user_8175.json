@@ -1,0 +1,26 @@
+{
+    "user_id": "bf7a7ad0-a54e-4eed-a5d5-9491d6828952",
+    "name": "Philip Lang",
+    "email": "williamserin@example.com",
+    "instagram_handle": "@marshallpaula",
+    "tiktok_handle": "@melissa87",
+    "joined_at": "2025-06-01T05:31:03.542399",
+    "advocacy_programs": [
+        {
+            "program_id": "74fece0c-4704-46b5-981b-7dfa61a0f081",
+            "brand": "Carter-Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "064109f6-a0d9-41ed-8f49-b4a2d7b70bca",
+                    "platform": "Instagram",
+                    "post_url": "https://hernandez.com/",
+                    "likes": 39,
+                    "comments": 141,
+                    "shares": 11,
+                    "reach": 3286
+                }
+            ],
+            "total_sales_attributed": 2987.67
+        }
+    ]
+}

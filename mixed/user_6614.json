@@ -1,0 +1,26 @@
+{
+    "user_id": "119067c6-7f4b-44e6-b4c3-a7a6c9447616",
+    "name": "John Myers",
+    "email": "tammywhite@example.com",
+    "instagram_handle": "@georgeperez",
+    "tiktok_handle": "@Elmer.Balistreri28",
+    "joined_at": "2025-01-27T20:10:35.203842",
+    "advocacy_programs": [
+        {
+            "program_id": "31653a2b-214f-4577-9960-cf899e860668",
+            "brand": "Baldwin, Cruz and Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "d71a5467-005d-4c53-80d2-cec4be714b00",
+                    "platform": "YouTube",
+                    "post_url": "https://www.clark.com/",
+                    "likes": 5855,
+                    "comments": 343,
+                    "shares": 1,
+                    "reach": 678
+                }
+            ],
+            "total_sales_attributed": 1540.79
+        }
+    ]
+}

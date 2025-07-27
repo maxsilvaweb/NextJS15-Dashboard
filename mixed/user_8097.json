@@ -1,0 +1,26 @@
+{
+    "user_id": "4e9c434a-121e-4ee7-9ed1-4c4e9cf2cecc",
+    "name": "Edna Kozey",
+    "email": "Kyle.Kohler@hotmail.com",
+    "instagram_handle": "@Genesis85",
+    "tiktok_handle": "@Beau.Ernser",
+    "joined_at": "2024-12-02T23:22:25.140Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5e4754d1-8b07-4a9a-8a3f-a19bf6ce36df",
+            "brand": "Kutch Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ced8f134-021b-4210-90d2-31840f7cb733",
+                    "platform": "TikTok",
+                    "post_url": "https://babyish-brief.name",
+                    "likes": 10,
+                    "comments": 14,
+                    "shares": 93,
+                    "reach": 2670
+                }
+            ],
+            "total_sales_attributed": 2791.0802324158817
+        }
+    ]
+}

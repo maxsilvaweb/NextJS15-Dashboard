@@ -1,0 +1,26 @@
+{
+    "user_id": "eaff381c-dfb2-461c-91c8-2c9406885c0f",
+    "name": "Dr. Amelia Flatley",
+    "email": "Dorthy_Abernathy42@hotmail.com",
+    "instagram_handle": "@Christina98",
+    "tiktok_handle": "@Rosemary7",
+    "joined_at": "2024-03-19T14:15:33.897Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bc480b8f-44a0-447f-8341-706bc26ad938",
+            "brand": "Schneider, Crooks and Hansen",
+            "tasks_completed": [
+                {
+                    "task_id": "0197da2c-cc04-4724-9b73-00dff00c2a97",
+                    "platform": "TikTok",
+                    "post_url": "https://ragged-reward.net/",
+                    "likes": 142,
+                    "comments": 38,
+                    "shares": 91,
+                    "reach": 6470
+                }
+            ],
+            "total_sales_attributed": 2368.220519854583
+        }
+    ]
+}

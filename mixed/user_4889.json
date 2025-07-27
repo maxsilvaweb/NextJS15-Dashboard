@@ -1,0 +1,26 @@
+{
+    "user_id": "f7398415-a2db-482b-a71b-da346949d46e",
+    "name": "Louis Schultz",
+    "email": "Arlo48@hotmail.com",
+    "instagram_handle": "@qbailey",
+    "tiktok_handle": "@ksmith",
+    "joined_at": "2024-12-12T21:26:16.780490",
+    "advocacy_programs": [
+        {
+            "program_id": "960c2fae-bb94-4181-9922-fe63690e50c0",
+            "brand": "Rodgers, Campbell and Moore",
+            "tasks_completed": [
+                {
+                    "task_id": "824c148c-6261-4b9b-a054-7d684246a2de",
+                    "platform": "Facebook",
+                    "post_url": "https://mack.com/",
+                    "likes": 5891,
+                    "comments": 367,
+                    "shares": 65,
+                    "reach": 7191
+                }
+            ],
+            "total_sales_attributed": 1312.0575540465602
+        }
+    ]
+}

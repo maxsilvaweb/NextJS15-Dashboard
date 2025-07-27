@@ -1,0 +1,26 @@
+{
+    "user_id": "c5213b94-7855-4d94-8ab8-b2577c836d92",
+    "name": "Raymond Roberts",
+    "email": "michael62@example.net",
+    "instagram_handle": "@victor24",
+    "tiktok_handle": "@wayne54",
+    "joined_at": "2024-01-10T23:02:57.373666",
+    "advocacy_programs": [
+        {
+            "program_id": "253a8b2d-3dd7-474e-90d0-849000871380",
+            "brand": "Reid, Patterson and Lopez",
+            "tasks_completed": [
+                {
+                    "task_id": "57ddfca4-1b7e-4854-a3e0-64eb815885e1",
+                    "platform": "TikTok",
+                    "post_url": "http://www.flores-hall.com/",
+                    "likes": 3438,
+                    "comments": 393,
+                    "shares": 4,
+                    "reach": 3692
+                }
+            ],
+            "total_sales_attributed": 4964.310353353884
+        }
+    ]
+}

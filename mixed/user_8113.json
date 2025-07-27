@@ -1,0 +1,26 @@
+{
+    "user_id": "98e5c64c-b9fa-4ab4-a437-87c85cb28e8f",
+    "name": "Kayla Hernandez",
+    "email": "brownsamantha@example.com",
+    "instagram_handle": "@fpowers",
+    "tiktok_handle": "@jennifer68",
+    "joined_at": "2025-02-01T01:01:08.860564",
+    "advocacy_programs": [
+        {
+            "program_id": "336715e3-ff7f-4a71-aa1a-537bdf795e7b",
+            "brand": "Franklin LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f630b8b7-98b7-461f-bad5-f23045dad2d4",
+                    "platform": "Facebook",
+                    "post_url": "http://edwards.info/",
+                    "likes": 2199,
+                    "comments": 180,
+                    "shares": 40,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 7887.42
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2123a31a-7fa6-4af8-bf59-74752caeeb8c",
+    "name": "Sophie Sawayn DDS",
+    "email": "Renee_Kertzmann@gmail.com",
+    "instagram_handle": "@Earl.Metz78",
+    "tiktok_handle": "@Waylon.Upton",
+    "joined_at": "2024-07-10T16:03:46.051Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cb7ba9d0-f81b-4f8c-838f-df12e6ba0050",
+            "brand": "Kohler, Mosciski and Tillman",
+            "tasks_completed": [
+                {
+                    "task_id": "a05d4e57-94bc-4528-ab46-82cd20970aa3",
+                    "platform": "Instagram",
+                    "post_url": "https://grubby-dead.org",
+                    "likes": 37,
+                    "comments": 50,
+                    "shares": 5,
+                    "reach": 9907
+                }
+            ],
+            "total_sales_attributed": 4962.445746335745
+        }
+    ]
+}

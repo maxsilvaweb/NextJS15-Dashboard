@@ -1,0 +1,26 @@
+{
+    "user_id": "8bd554a5-c0e7-447f-8b6d-2b7cc211d8c7",
+    "name": "Reginald Welch",
+    "email": "Sophie_Waelchi58@hotmail.com",
+    "instagram_handle": "@Julio32",
+    "tiktok_handle": "@Royce4",
+    "joined_at": "2024-11-05T20:07:48.974Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7746d30e-0153-4a80-b19e-1dd9fc69b383",
+            "brand": "Stamm - Beahan",
+            "tasks_completed": [
+                {
+                    "task_id": "b6f4feb6-a5ab-4f03-bbbb-4791b2e977e8",
+                    "platform": "TikTok",
+                    "post_url": "https://heavy-doorpost.biz/",
+                    "likes": 38,
+                    "comments": 42,
+                    "shares": 100,
+                    "reach": 6005
+                }
+            ],
+            "total_sales_attributed": 745.9421257433872
+        }
+    ]
+}

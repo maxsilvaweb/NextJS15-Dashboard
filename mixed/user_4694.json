@@ -1,0 +1,26 @@
+{
+    "user_id": "666750b1-ea45-4a00-bf13-890aca24eef6",
+    "name": "Steven Brock",
+    "email": "davischristopher@example.com",
+    "instagram_handle": "@villegasmichael",
+    "tiktok_handle": "@Kailee73",
+    "joined_at": "2025-01-16T17:42:57.654Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fa57f6ae-823f-44b6-bf7e-ace742e30c3a",
+            "brand": "Johnson Group",
+            "tasks_completed": [
+                {
+                    "task_id": "d92a5686-0994-44e3-963e-0315d5542367",
+                    "platform": "Facebook",
+                    "post_url": "https://washington.biz/",
+                    "likes": 9046,
+                    "comments": 28,
+                    "shares": 2,
+                    "reach": 8316
+                }
+            ],
+            "total_sales_attributed": 472.03
+        }
+    ]
+}

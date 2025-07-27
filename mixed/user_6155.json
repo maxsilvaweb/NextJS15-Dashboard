@@ -1,0 +1,26 @@
+{
+    "user_id": "70177b2e-9122-4276-82e3-b85d16fba09b",
+    "name": "Miguel Bryant",
+    "email": "ghamilton@example.net",
+    "instagram_handle": "@pmartinez",
+    "tiktok_handle": "@rachelescobar",
+    "joined_at": "2024-05-02T05:43:51.000754",
+    "advocacy_programs": [
+        {
+            "program_id": "2d85ff72-7866-4103-a4a3-d68fa43896c8",
+            "brand": "Hunt, Gutierrez and Jimenez",
+            "tasks_completed": [
+                {
+                    "task_id": "082f0f96-d087-45d6-b3d5-556ebd7aa520",
+                    "platform": "Twitter",
+                    "post_url": "http://west.com/",
+                    "likes": 1853,
+                    "comments": 24,
+                    "shares": 28,
+                    "reach": 2744
+                }
+            ],
+            "total_sales_attributed": 894.6162567311928
+        }
+    ]
+}

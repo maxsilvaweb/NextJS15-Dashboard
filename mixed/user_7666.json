@@ -1,0 +1,26 @@
+{
+    "user_id": "040e503d-81c9-40fd-abec-9a2ea71cb04e",
+    "name": "Kristie Mayer",
+    "email": "Alysha17@gmail.com",
+    "instagram_handle": "@Yvonne.Gorczany-Emmerich",
+    "tiktok_handle": "@Santos9",
+    "joined_at": "2024-04-27T13:07:50.033Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c4e47648-f67e-44fc-b149-1d74c41c0995",
+            "brand": "Boehm, Rath and Glover",
+            "tasks_completed": [
+                {
+                    "task_id": "7e2b4564-1feb-47c3-980d-62108e9ffa66",
+                    "platform": "Instagram",
+                    "post_url": "https://metallic-scorn.name/",
+                    "likes": 206,
+                    "comments": 13,
+                    "shares": 98,
+                    "reach": 2656
+                }
+            ],
+            "total_sales_attributed": 3542.8468979052714
+        }
+    ]
+}

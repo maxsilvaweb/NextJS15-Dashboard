@@ -1,0 +1,26 @@
+{
+    "user_id": "5eac9605-4f60-48e6-90e9-d4f2cf892e6f",
+    "name": "Darren Cooper",
+    "email": "bsilva@example.com",
+    "instagram_handle": "@younglouis",
+    "tiktok_handle": "@ellisjames",
+    "joined_at": "2025-07-17T05:03:55.541682",
+    "advocacy_programs": [
+        {
+            "program_id": "7675d303-efad-46c2-80a7-bbee5312957f",
+            "brand": "Juarez-Norton",
+            "tasks_completed": [
+                {
+                    "task_id": "d5f41c52-e250-4962-91f3-550a973e18c1",
+                    "platform": "Instagram",
+                    "post_url": "http://lynn.com/",
+                    "likes": 1078,
+                    "comments": 428,
+                    "shares": 54,
+                    "reach": 614
+                }
+            ],
+            "total_sales_attributed": 7920.9
+        }
+    ]
+}

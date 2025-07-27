@@ -1,0 +1,26 @@
+{
+    "user_id": "d9c78516-d1ec-4281-8ba1-ffe3bac221a2",
+    "name": "Robert Green",
+    "email": "jenkinsjeffrey@example.org",
+    "instagram_handle": "@thomasrebecca",
+    "tiktok_handle": "@clarkjoe",
+    "joined_at": "2023-10-14T11:32:20.203861",
+    "advocacy_programs": [
+        {
+            "program_id": "a3aa55c9-8181-473d-b2cb-1fde111d26ce",
+            "brand": "Bautista Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "1f9eb6ea-7182-40ef-8663-997316f91667",
+                    "platform": "TikTok",
+                    "post_url": "http://www.fowler.com/",
+                    "likes": 9465,
+                    "comments": 7,
+                    "shares": 79,
+                    "reach": 9192
+                }
+            ],
+            "total_sales_attributed": 4277.02
+        }
+    ]
+}

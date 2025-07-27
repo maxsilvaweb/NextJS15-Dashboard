@@ -1,0 +1,26 @@
+{
+    "user_id": "d5ecbb8a-36ea-4eeb-8d97-1c77f91f0de1",
+    "name": "Josefina Crist I",
+    "email": "Kira.OKon55@gmail.com",
+    "instagram_handle": "@Hillary71",
+    "tiktok_handle": "@Shanon_Daniel",
+    "joined_at": "2024-11-08T23:22:24.147Z",
+    "advocacy_programs": [
+        {
+            "program_id": "96595f04-25d5-4971-93cd-a88994c70505",
+            "brand": "Zemlak and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "92fde3a3-f359-4246-941b-38830322cf2f",
+                    "platform": "Instagram",
+                    "post_url": "https://back-conversation.net",
+                    "likes": 295,
+                    "comments": 47,
+                    "shares": 97,
+                    "reach": 9362
+                }
+            ],
+            "total_sales_attributed": 2811.0339128174496
+        }
+    ]
+}

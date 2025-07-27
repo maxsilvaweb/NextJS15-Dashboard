@@ -1,0 +1,26 @@
+{
+    "user_id": "3138139e-31c7-407e-9256-a6bdc9baa7aa",
+    "name": "Dr. Rosemary Hayes",
+    "email": "Kitty_Rutherford@gmail.com",
+    "instagram_handle": "@Braxton76",
+    "tiktok_handle": "@Lucienne_Pacocha",
+    "joined_at": "2024-10-03T07:46:58.471Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e4dfc6a0-ccfa-485e-9abb-4707d4334bd6",
+            "brand": "Gorczany Group",
+            "tasks_completed": [
+                {
+                    "task_id": "cdb7f92d-1040-40f5-b5f1-f770f25349ec",
+                    "platform": "Instagram",
+                    "post_url": "https://corny-toaster.com/",
+                    "likes": 98,
+                    "comments": 21,
+                    "shares": 63,
+                    "reach": 8077
+                }
+            ],
+            "total_sales_attributed": 1096.3644984749935
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "10400c1e-73fa-4666-96ef-27bd255ccd2e",
+    "name": "Dr. Victor Schuster",
+    "email": "Laila98@hotmail.com",
+    "instagram_handle": "@Shayne52",
+    "tiktok_handle": "@Garret.Harber45",
+    "joined_at": "2024-04-23T01:13:39.511Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d421e54b-3bf3-4dcd-bcda-2492e2ef206c",
+            "brand": "Kozey LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "844cabbd-471f-499b-856c-befc1097639c",
+                    "platform": "TikTok",
+                    "post_url": "https://coordinated-redesign.com",
+                    "likes": 29,
+                    "comments": 45,
+                    "shares": 65,
+                    "reach": 7912
+                }
+            ],
+            "total_sales_attributed": 1634.2349582877973
+        }
+    ]
+}

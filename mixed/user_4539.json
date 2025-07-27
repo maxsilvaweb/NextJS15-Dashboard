@@ -1,0 +1,26 @@
+{
+    "user_id": "3d65aa64-0811-4f4d-8eb1-9812f3106e2a",
+    "name": "Danielle Kelly",
+    "email": "jessicagray@example.net",
+    "instagram_handle": "@frederickgarcia",
+    "tiktok_handle": "@michael98",
+    "joined_at": "2024-05-29T10:22:09.057733",
+    "advocacy_programs": [
+        {
+            "program_id": "c0a0c9c5-52be-4e9d-ac2b-987d166e943e",
+            "brand": "Smith, Reid and Stout",
+            "tasks_completed": [
+                {
+                    "task_id": "b6bffca7-2bad-4adf-ae3c-0c9a38299181",
+                    "platform": "Instagram",
+                    "post_url": "https://shoddy-poetry.org",
+                    "likes": 1284,
+                    "comments": 350,
+                    "shares": 60,
+                    "reach": 5535
+                }
+            ],
+            "total_sales_attributed": 6272.57
+        }
+    ]
+}

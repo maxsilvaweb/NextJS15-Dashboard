@@ -1,0 +1,26 @@
+{
+    "user_id": "0fdfd075-4f5d-45ee-a99c-7387019242a5",
+    "name": "Theresa Stevens",
+    "email": "richard78@example.org",
+    "instagram_handle": "@ucampbell",
+    "tiktok_handle": "@johnathanmontgomery",
+    "joined_at": "2025-04-28T10:52:59.394314",
+    "advocacy_programs": [
+        {
+            "program_id": "5ba42a22-0e34-4717-89d4-eed29c383eaf",
+            "brand": "Rose, Carrillo and Wood",
+            "tasks_completed": [
+                {
+                    "task_id": "02175b18-2bd3-40ba-ba08-ddcaed6834d2",
+                    "platform": "Instagram",
+                    "post_url": "http://reynolds.com/",
+                    "likes": 9007,
+                    "comments": 302,
+                    "shares": 86,
+                    "reach": 5274
+                }
+            ],
+            "total_sales_attributed": 3713.1
+        }
+    ]
+}

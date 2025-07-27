@@ -1,0 +1,26 @@
+{
+    "user_id": "d6827984-c0c8-41fa-af53-18744e70f1d5",
+    "name": "Mr. Neal Satterfield",
+    "email": "Alize.Block@hotmail.com",
+    "instagram_handle": "@Kory89",
+    "tiktok_handle": "@Geovany_Wyman",
+    "joined_at": "2025-03-13T07:15:48.298Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8e38d750-5e3b-4787-b8c7-3644ce448d76",
+            "brand": "Dach - Kozey",
+            "tasks_completed": [
+                {
+                    "task_id": "c503ad51-e8c0-4097-81ae-c7f94d1e0259",
+                    "platform": "Instagram",
+                    "post_url": "https://vain-marketplace.com",
+                    "likes": 94,
+                    "comments": 39,
+                    "shares": 24,
+                    "reach": 5116
+                }
+            ],
+            "total_sales_attributed": 4328.214579580323
+        }
+    ]
+}

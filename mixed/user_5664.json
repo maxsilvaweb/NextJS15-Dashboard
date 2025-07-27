@@ -1,0 +1,26 @@
+{
+    "user_id": "2277aa54-ce14-4fa2-88c0-cc5ee0906b01",
+    "name": "Kristi Warren",
+    "email": "tthomas@example.net",
+    "instagram_handle": "@Jazlyn.Stiedemann80",
+    "tiktok_handle": "@april95",
+    "joined_at": "2025-05-30T06:56:56.284741",
+    "advocacy_programs": [
+        {
+            "program_id": "163209b0-610e-42c9-92bf-6c1e6fe9ef7a",
+            "brand": "Hansen, Martin and Ortiz",
+            "tasks_completed": [
+                {
+                    "task_id": "0c083fa1-e9d6-4cca-aeb5-174539e10811",
+                    "platform": "Twitter",
+                    "post_url": "http://allen-marks.com/",
+                    "likes": 7443,
+                    "comments": 235,
+                    "shares": 76,
+                    "reach": 1868
+                }
+            ],
+            "total_sales_attributed": 1848.16
+        }
+    ]
+}

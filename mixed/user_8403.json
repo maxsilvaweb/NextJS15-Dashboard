@@ -1,0 +1,26 @@
+{
+    "user_id": "a0f2f339-947e-4ecb-8ec1-173477cd5d08",
+    "name": "Brittany Smith",
+    "email": "brandon01@example.net",
+    "instagram_handle": "@nicholas75",
+    "tiktok_handle": "@jamiewalter",
+    "joined_at": "2023-09-04T00:54:37.579965",
+    "advocacy_programs": [
+        {
+            "program_id": "b07929c7-4bb4-45df-8daf-ffda893a5dbf",
+            "brand": "Myers, Young and Shaffer",
+            "tasks_completed": [
+                {
+                    "task_id": "af9374ae-5c72-4ecf-860d-74f73baa765a",
+                    "platform": "TikTok",
+                    "post_url": "http://www.shea.info/",
+                    "likes": 1966,
+                    "comments": 456,
+                    "shares": 73,
+                    "reach": 6271
+                }
+            ],
+            "total_sales_attributed": 2177.71
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "67b41ae7-c915-4f3f-b53f-313799a874a6",
+    "name": "Susan Villa",
+    "email": "tiffanysimmons@example.net",
+    "instagram_handle": "@valexander",
+    "tiktok_handle": "@annasims",
+    "joined_at": "2025-07-14T01:01:12.162004",
+    "advocacy_programs": [
+        {
+            "program_id": "9e066fd1-fd1f-44b9-98ba-b182889c3cf5",
+            "brand": "Young-Hunter",
+            "tasks_completed": [
+                {
+                    "task_id": "1e1be5d4-b57f-4c3c-bdf9-a99318981b9a",
+                    "platform": "Instagram",
+                    "post_url": "https://ordinary-kinase.name",
+                    "likes": 5458,
+                    "comments": 224,
+                    "shares": 86,
+                    "reach": 5885
+                }
+            ],
+            "total_sales_attributed": 1558.79
+        }
+    ]
+}

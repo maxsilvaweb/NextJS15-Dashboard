@@ -1,0 +1,26 @@
+{
+    "user_id": "26817c46-0191-449d-b692-cfc28be676b2",
+    "name": "Brandon Jackson",
+    "email": "nsanford@example.org",
+    "instagram_handle": "@hardyrussell",
+    "tiktok_handle": "@morrisisaac",
+    "joined_at": "2024-09-28T04:39:02.462806",
+    "advocacy_programs": [
+        {
+            "program_id": "60f439ad-1935-4ad2-8484-a48fba9d6cf2",
+            "brand": "Doyle-Costa",
+            "tasks_completed": [
+                {
+                    "task_id": "8b2ab9c4-4caf-42b1-b02e-ba8711049cc5",
+                    "platform": "YouTube",
+                    "post_url": "https://cunningham.com/",
+                    "likes": 125,
+                    "comments": 89,
+                    "shares": 36,
+                    "reach": 7077
+                }
+            ],
+            "total_sales_attributed": 1887.3837223147034
+        }
+    ]
+}

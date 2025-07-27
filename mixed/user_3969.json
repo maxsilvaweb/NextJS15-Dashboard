@@ -1,0 +1,26 @@
+{
+    "user_id": "d40f88b3-32f1-4ba4-93e0-693cfa5662af",
+    "name": "Jacqueline Watkins",
+    "email": "Bert0@yahoo.com",
+    "instagram_handle": "@markcohen",
+    "tiktok_handle": "@kochnicole",
+    "joined_at": "2024-06-13T23:23:01.877792",
+    "advocacy_programs": [
+        {
+            "program_id": "319a1f29-b667-4fce-86c0-45399e3ae3da",
+            "brand": "Callahan-Lopez",
+            "tasks_completed": [
+                {
+                    "task_id": "1fa0e455-29cd-4d25-a61e-bf3b8ee3884f",
+                    "platform": "Instagram",
+                    "post_url": "https://owen.com/",
+                    "likes": 155,
+                    "comments": 3,
+                    "shares": 59,
+                    "reach": 2523
+                }
+            ],
+            "total_sales_attributed": 8507.49
+        }
+    ]
+}

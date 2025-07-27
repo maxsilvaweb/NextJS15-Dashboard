@@ -1,0 +1,26 @@
+{
+    "user_id": "c09b7237-e89a-4c23-9ec3-a9fbce837978",
+    "name": "Isabella Lane",
+    "email": "hillallison@example.org",
+    "instagram_handle": "@rojaspaul",
+    "tiktok_handle": "@joshuawebb",
+    "joined_at": "2024-05-17T08:11:46.220004",
+    "advocacy_programs": [
+        {
+            "program_id": "2a5f5fc4-6a9b-42c1-9009-761d430db277",
+            "brand": "Ellison LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "392de10a-0e1e-4a32-bcd1-a79ddce74e08",
+                    "platform": "Instagram",
+                    "post_url": "https://www.wallace-martin.com/",
+                    "likes": 2549,
+                    "comments": 301,
+                    "shares": 94,
+                    "reach": 2789
+                }
+            ],
+            "total_sales_attributed": 4558.77
+        }
+    ]
+}

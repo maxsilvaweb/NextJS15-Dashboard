@@ -1,0 +1,26 @@
+{
+    "user_id": "678ca940-3cb4-42ac-b1c5-6d04632fe12f",
+    "name": "Dr. Antonio Maggio",
+    "email": "Aida_Rice48@gmail.com",
+    "instagram_handle": "@Delphine.Ernser",
+    "tiktok_handle": "@Clement48",
+    "joined_at": "2025-02-24T11:18:25.858Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c2e279e7-4705-466e-9ec5-c2cc36542d66",
+            "brand": "Boehm LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "b9e68d9b-1309-4703-8693-f26f567f0087",
+                    "platform": "Instagram",
+                    "post_url": "https://our-sandbar.net",
+                    "likes": 177,
+                    "comments": 11,
+                    "shares": 50,
+                    "reach": 8340
+                }
+            ],
+            "total_sales_attributed": 395.85687340991404
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d0dc7b99-599d-4c74-971e-312d0574188c",
+    "name": "Charles Munoz",
+    "email": "danielfisher@example.net",
+    "instagram_handle": "@kristopheryoung",
+    "tiktok_handle": "@ywilliams",
+    "joined_at": "2024-05-01T06:04:16.352Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8469f3a5-2e12-4989-9ab8-e808de6af841",
+            "brand": "Mckee and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "177eed8c-82b1-45c6-8162-629b01326a53",
+                    "platform": "TikTok",
+                    "post_url": "http://www.ramirez-sanchez.com/",
+                    "likes": 3183,
+                    "comments": 310,
+                    "shares": 27,
+                    "reach": 6883
+                }
+            ],
+            "total_sales_attributed": 3260.1898796922287
+        }
+    ]
+}

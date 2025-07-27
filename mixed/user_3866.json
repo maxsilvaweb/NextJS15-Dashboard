@@ -1,0 +1,26 @@
+{
+    "user_id": "c074f600-78c6-4dae-ab68-fc20c09cf2fd",
+    "name": "Matthew Burke",
+    "email": "masseyjulie@example.org",
+    "instagram_handle": "@alberthaley",
+    "tiktok_handle": "@michellesmith",
+    "joined_at": "2025-02-17T21:11:07.100632",
+    "advocacy_programs": [
+        {
+            "program_id": "f2484518-20f5-4894-910b-27c58f772928",
+            "brand": "Kaiser, Henderson and Warner",
+            "tasks_completed": [
+                {
+                    "task_id": "f6a68646-d335-4667-bf8d-b33c03d0348e",
+                    "platform": "YouTube",
+                    "post_url": "http://www.johnson.info/",
+                    "likes": 8932,
+                    "comments": 422,
+                    "shares": 41,
+                    "reach": 2722
+                }
+            ],
+            "total_sales_attributed": 8600.34
+        }
+    ]
+}

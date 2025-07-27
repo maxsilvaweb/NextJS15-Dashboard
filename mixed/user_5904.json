@@ -1,0 +1,26 @@
+{
+    "user_id": "b52bd790-3a7e-4611-a27e-9b4db0504b0d",
+    "name": "Robin Stamm",
+    "email": "Anastacio_Crooks@yahoo.com",
+    "instagram_handle": "@Marjory_Larkin",
+    "tiktok_handle": "@Nya.Sanford42",
+    "joined_at": "2024-04-18T18:06:10.448Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7434e1e8-54b7-44c7-a62e-206fa73540a2",
+            "brand": "Kihn and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "1337c11f-a2f5-407c-881d-b5c5d52dc159",
+                    "platform": "Instagram",
+                    "post_url": "https://basic-t-shirt.name",
+                    "likes": 336,
+                    "comments": 7,
+                    "shares": 56,
+                    "reach": 2906
+                }
+            ],
+            "total_sales_attributed": 406.30709418591294
+        }
+    ]
+}

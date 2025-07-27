@@ -1,0 +1,26 @@
+{
+    "user_id": "4659a068-b179-4773-a664-e944050b81aa",
+    "name": "Tyler Hegmann",
+    "email": "Hazel21@hotmail.com",
+    "instagram_handle": "@Albina24",
+    "tiktok_handle": "@Antonietta.Considine",
+    "joined_at": "2024-10-03T17:27:59.003Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c328e1f3-2d43-498e-95e1-7bc6e3edf56c",
+            "brand": "Mraz, Kuvalis and Nienow",
+            "tasks_completed": [
+                {
+                    "task_id": "9c87de5b-21bb-416a-8e91-e2baaa94bca5",
+                    "platform": "Instagram",
+                    "post_url": "https://enchanted-digestive.info/",
+                    "likes": 28,
+                    "comments": 36,
+                    "shares": 76,
+                    "reach": 2180
+                }
+            ],
+            "total_sales_attributed": 1460.3055864195894
+        }
+    ]
+}

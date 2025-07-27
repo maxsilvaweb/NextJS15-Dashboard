@@ -1,0 +1,26 @@
+{
+    "user_id": "a9783f4f-a637-447e-98bd-2048440b7420",
+    "name": "Cameron Cartwright",
+    "email": "Reuben11@yahoo.com",
+    "instagram_handle": "@Kane74",
+    "tiktok_handle": "@Eldon.Kunde4",
+    "joined_at": "2024-05-01T07:34:45.420Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f62071a0-3fe6-40ef-be2b-9db3851728f5",
+            "brand": "Konopelski, Hudson and Kassulke",
+            "tasks_completed": [
+                {
+                    "task_id": "8ca537e3-f61a-44d2-bea6-6d7d349d8fd9",
+                    "platform": "Instagram",
+                    "post_url": "https://tall-wear.com/",
+                    "likes": 287,
+                    "comments": 46,
+                    "shares": 59,
+                    "reach": 6555
+                }
+            ],
+            "total_sales_attributed": 263.5228711394484
+        }
+    ]
+}

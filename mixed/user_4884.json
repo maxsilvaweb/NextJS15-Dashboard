@@ -1,0 +1,26 @@
+{
+    "user_id": "9269bb30-7288-40de-88e5-aa395c2fec2f",
+    "name": "Fannie Crist",
+    "email": "Dalton13@hotmail.com",
+    "instagram_handle": "@Freda84",
+    "tiktok_handle": "@Eleonore83",
+    "joined_at": "2024-07-16T11:18:00.412Z",
+    "advocacy_programs": [
+        {
+            "program_id": "42bc5261-99e1-464e-80b3-7173aec62a30",
+            "brand": "Collier - Reilly",
+            "tasks_completed": [
+                {
+                    "task_id": "255c50da-c84d-4fb5-ab35-099f37c647ac",
+                    "platform": "Instagram",
+                    "post_url": "https://amused-zen.com",
+                    "likes": 462,
+                    "comments": 23,
+                    "shares": 6,
+                    "reach": 9841
+                }
+            ],
+            "total_sales_attributed": 4411.809205139175
+        }
+    ]
+}

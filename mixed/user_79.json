@@ -1,0 +1,26 @@
+{
+    "user_id": "a0ae3686-88ac-417d-ab82-62c88b1d27fd",
+    "name": "Mrs. Jasmin Ortiz",
+    "email": "calvin30@example.com",
+    "instagram_handle": "@terrymichelle",
+    "tiktok_handle": "@robinsonjennifer",
+    "joined_at": "2025-02-21T11:23:23.612Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fdf3705b-0b89-4049-9ac1-901ef25012fd",
+            "brand": "Gilbert-Graham",
+            "tasks_completed": [
+                {
+                    "task_id": "be5c22ac-3413-4ac5-96fc-d6b99330fc84",
+                    "platform": "TikTok",
+                    "post_url": "https://www.lyons.net/",
+                    "likes": 67,
+                    "comments": 320,
+                    "shares": 66,
+                    "reach": 5104
+                }
+            ],
+            "total_sales_attributed": 5567.96
+        }
+    ]
+}

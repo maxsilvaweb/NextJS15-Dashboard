@@ -1,0 +1,26 @@
+{
+    "user_id": "b5d5ede8-b204-482d-a070-fc1d30e0d2d1",
+    "name": "Lance Williams",
+    "email": "wkennedy@example.org",
+    "instagram_handle": "@kelly06",
+    "tiktok_handle": "@yanderson",
+    "joined_at": "2025-01-09T07:00:22.011447",
+    "advocacy_programs": [
+        {
+            "program_id": "dd1a8097-515f-4739-8016-daa149972ed7",
+            "brand": "Willms, Conn and Towne",
+            "tasks_completed": [
+                {
+                    "task_id": "a495a1e3-5e31-4d71-994d-35fc9f82b17e",
+                    "platform": "Instagram",
+                    "post_url": "https://www.moore-diaz.biz/",
+                    "likes": 369,
+                    "comments": 80,
+                    "shares": 18,
+                    "reach": 7559
+                }
+            ],
+            "total_sales_attributed": 8676.42
+        }
+    ]
+}

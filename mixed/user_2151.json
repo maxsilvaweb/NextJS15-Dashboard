@@ -1,0 +1,26 @@
+{
+    "user_id": "8695e739-5bac-4eff-b5b5-5a6efaac1bb7",
+    "name": "Joey Fisher",
+    "email": "Ayla92@gmail.com",
+    "instagram_handle": "@Alf_Heller",
+    "tiktok_handle": "@Sydnee72",
+    "joined_at": "2024-11-29T00:11:57.571Z",
+    "advocacy_programs": [
+        {
+            "program_id": "80123e0a-cb45-4469-bc45-51677ce4499f",
+            "brand": "Jacobi and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "d69948be-442c-4f3e-8b1a-c9aa2bfcbc68",
+                    "platform": "TikTok",
+                    "post_url": "https://misguided-league.info",
+                    "likes": 45,
+                    "comments": 6,
+                    "shares": 98,
+                    "reach": 4570
+                }
+            ],
+            "total_sales_attributed": 969.5895392848839
+        }
+    ]
+}

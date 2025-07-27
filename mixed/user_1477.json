@@ -1,0 +1,26 @@
+{
+    "user_id": "a2ff4f72-1d72-4a2f-bfb8-3250e0eeab38",
+    "name": "David Parrish",
+    "email": "lthornton@example.org",
+    "instagram_handle": "@kristina32",
+    "tiktok_handle": "@edwardhartman",
+    "joined_at": "2024-08-09T20:29:48.030622",
+    "advocacy_programs": [
+        {
+            "program_id": "46b81e21-43f6-4e7a-a03f-f6c9379b3812",
+            "brand": "Hall, Waller and Turner",
+            "tasks_completed": [
+                {
+                    "task_id": "d1fdb5e5-0b2f-4318-a2f2-80fc95a621d2",
+                    "platform": "Instagram",
+                    "post_url": "http://www.bryan-larsen.info/",
+                    "likes": 314,
+                    "comments": 269,
+                    "shares": 95,
+                    "reach": 8077
+                }
+            ],
+            "total_sales_attributed": 1087.59
+        }
+    ]
+}

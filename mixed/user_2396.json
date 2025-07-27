@@ -1,0 +1,26 @@
+{
+    "user_id": "aaf4f346-41c8-4898-8565-75fd4400ea72",
+    "name": "Sara Wells",
+    "email": "Sheila_Hane@yahoo.com",
+    "instagram_handle": "@ryanibarra",
+    "tiktok_handle": "@xhunt",
+    "joined_at": "2024-10-16T08:05:43.786617",
+    "advocacy_programs": [
+        {
+            "program_id": "146cd0aa-cf08-432b-803b-388fe721efc2",
+            "brand": "Matthews Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "5b71685b-91e0-4f3d-8f96-c08d9d53052d",
+                    "platform": "YouTube",
+                    "post_url": "https://unsung-version.biz/",
+                    "likes": 3798,
+                    "comments": 155,
+                    "shares": 4,
+                    "reach": 2073
+                }
+            ],
+            "total_sales_attributed": 3583.8
+        }
+    ]
+}

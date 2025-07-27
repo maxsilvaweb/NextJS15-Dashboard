@@ -1,0 +1,26 @@
+{
+    "user_id": "deaaa9f9-71e0-4c0a-877f-fdc5558e8f74",
+    "name": "Yesenia Hurley",
+    "email": "jmartin@example.com",
+    "instagram_handle": "@jennifer08",
+    "tiktok_handle": "@wbrown",
+    "joined_at": "2023-08-28T02:38:26.105342",
+    "advocacy_programs": [
+        {
+            "program_id": "acea3a8f-e785-47e9-bf93-34d414890035",
+            "brand": "Santos, Griffin and Wheeler",
+            "tasks_completed": [
+                {
+                    "task_id": "9887200d-9437-4186-8ab5-4c86c8b835d7",
+                    "platform": "YouTube",
+                    "post_url": "https://willis.net/",
+                    "likes": 7389,
+                    "comments": 209,
+                    "shares": 36,
+                    "reach": 6387
+                }
+            ],
+            "total_sales_attributed": 2648.285915380554
+        }
+    ]
+}

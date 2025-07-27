@@ -1,0 +1,26 @@
+{
+    "user_id": "f7c23666-6bc7-434c-8da7-b9e9cf63fbd4",
+    "name": "Dr. Willis Kuhlman",
+    "email": "Raymundo48@gmail.com",
+    "instagram_handle": "@London.Kunze50",
+    "tiktok_handle": "@Jettie_Collier62",
+    "joined_at": "2024-07-14T08:39:53.986Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2b9b1492-33d0-4a43-880e-8114e3655697",
+            "brand": "Quigley, Pagac and Parisian",
+            "tasks_completed": [
+                {
+                    "task_id": "139f7906-5288-41cd-9014-d038f78eae89",
+                    "platform": "Instagram",
+                    "post_url": "https://sticky-flight.com",
+                    "likes": 402,
+                    "comments": 1,
+                    "shares": 16,
+                    "reach": 7231
+                }
+            ],
+            "total_sales_attributed": 3425.597509436215
+        }
+    ]
+}

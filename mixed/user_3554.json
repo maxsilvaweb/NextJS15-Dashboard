@@ -1,0 +1,26 @@
+{
+    "user_id": "9c18cae9-2fa4-4f7c-9cb6-15d01e79a42c",
+    "name": "Shawn Bennett",
+    "email": "zcollier@example.com",
+    "instagram_handle": "@jonescalvin",
+    "tiktok_handle": "@michellewebster",
+    "joined_at": "2025-05-07T17:37:17.064621",
+    "advocacy_programs": [
+        {
+            "program_id": "1fba515b-beb4-4120-86d6-90e9442f3022",
+            "brand": "Thomas-Garza",
+            "tasks_completed": [
+                {
+                    "task_id": "c5e08932-f7c9-43fc-b1ea-49601436a52f",
+                    "platform": "Twitter",
+                    "post_url": "https://www.pearson.com/",
+                    "likes": 1741,
+                    "comments": 297,
+                    "shares": 20,
+                    "reach": 5236
+                }
+            ],
+            "total_sales_attributed": 2594.6024325026533
+        }
+    ]
+}

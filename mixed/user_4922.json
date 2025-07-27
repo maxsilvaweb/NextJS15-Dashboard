@@ -1,0 +1,26 @@
+{
+    "user_id": "1fc03216-3f4e-4f4d-b40d-d5f2b36487c7",
+    "name": "Lewis Klocko",
+    "email": "Olin_Douglas54@gmail.com",
+    "instagram_handle": "@Greta_Lakin1",
+    "tiktok_handle": "@Herta.Gibson",
+    "joined_at": "2025-01-26T02:23:14.485Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d3b525b8-524c-4665-82cf-f1b081bd7670",
+            "brand": "Rutherford and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "fd4fbfe9-2f7c-4bcc-94cb-a5fb468fd855",
+                    "platform": "TikTok",
+                    "post_url": "https://mild-humor.org",
+                    "likes": 125,
+                    "comments": 45,
+                    "shares": 80,
+                    "reach": 9819
+                }
+            ],
+            "total_sales_attributed": 2289.5331192455496
+        }
+    ]
+}

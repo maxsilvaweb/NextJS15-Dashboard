@@ -1,0 +1,26 @@
+{
+    "user_id": "fcff7a8a-328e-4e8f-910a-4073f7212683",
+    "name": "Betty Schmeler",
+    "email": "Lukas.Stroman@hotmail.com",
+    "instagram_handle": "@Cleve_Waters",
+    "tiktok_handle": "@Rusty_Russel",
+    "joined_at": "2024-05-19T23:21:23.890Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e7cb8ce4-7f5a-43fd-910b-e2472db2566f",
+            "brand": "Heidenreich and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "cfe5c9f0-bf0a-4391-a9c9-422db84087ae",
+                    "platform": "TikTok",
+                    "post_url": "https://rural-interviewer.info",
+                    "likes": 190,
+                    "comments": 36,
+                    "shares": 90,
+                    "reach": 8241
+                }
+            ],
+            "total_sales_attributed": 480.62193033066256
+        }
+    ]
+}

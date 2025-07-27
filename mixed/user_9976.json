@@ -1,0 +1,26 @@
+{
+    "user_id": "ad83008b-b734-40aa-ae47-96bd83a4c7e4",
+    "name": "James Hickman",
+    "email": "williamsjohnny@example.com",
+    "instagram_handle": "@edwardscynthia",
+    "tiktok_handle": "@thompsondwayne",
+    "joined_at": "2024-05-03T07:00:07.604067",
+    "advocacy_programs": [
+        {
+            "program_id": "116cd2d4-290e-4b7e-80bc-828708034615",
+            "brand": "Washington-Price",
+            "tasks_completed": [
+                {
+                    "task_id": "cf0d688f-b7cf-4487-8ae4-5d7b69a5bd40",
+                    "platform": "Twitter",
+                    "post_url": "http://massey-alvarez.com/",
+                    "likes": 8714,
+                    "comments": 122,
+                    "shares": 5,
+                    "reach": 2597
+                }
+            ],
+            "total_sales_attributed": 1836.83
+        }
+    ]
+}

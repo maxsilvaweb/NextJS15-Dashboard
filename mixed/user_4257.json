@@ -1,0 +1,26 @@
+{
+    "user_id": "1a9dd436-a85e-414b-9fc2-e14aaf4876da",
+    "name": "Olivia Smith",
+    "email": "nvega@example.org",
+    "instagram_handle": "@jenniferfrank",
+    "tiktok_handle": "@stewartjulie",
+    "joined_at": "2023-11-25T00:17:02.601719",
+    "advocacy_programs": [
+        {
+            "program_id": "d6db99aa-2965-43cd-8abc-3806e5ceeb7f",
+            "brand": "Williams PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "87c6003e-d6ea-42af-8464-bea30c1ef274",
+                    "platform": "Instagram",
+                    "post_url": "https://vega.com/",
+                    "likes": 2435,
+                    "comments": 45,
+                    "shares": 39,
+                    "reach": 7848
+                }
+            ],
+            "total_sales_attributed": 9679.04
+        }
+    ]
+}

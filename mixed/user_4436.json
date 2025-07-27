@@ -1,0 +1,26 @@
+{
+    "user_id": "73ade5f4-7ef8-4f50-ac1b-38e3755ef9b3",
+    "name": "Bonnie Cremin",
+    "email": "Vincenza19@gmail.com",
+    "instagram_handle": "@Samanta96",
+    "tiktok_handle": "@Zora65",
+    "joined_at": "2025-02-23T13:23:36.366Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d5d23b68-c2b0-4490-84f5-aec1a3b1b3c2",
+            "brand": "Muller - Keebler",
+            "tasks_completed": [
+                {
+                    "task_id": "8444cf55-0801-4a37-8220-96804de51950",
+                    "platform": "Instagram",
+                    "post_url": "https://sleepy-minister.name/",
+                    "likes": 466,
+                    "comments": 38,
+                    "shares": 19,
+                    "reach": 8796
+                }
+            ],
+            "total_sales_attributed": 2608.568555030938
+        }
+    ]
+}

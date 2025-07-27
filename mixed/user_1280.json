@@ -1,0 +1,26 @@
+{
+    "user_id": "d4bfc17f-7ea6-49b9-9653-ed3412d2fefa",
+    "name": "Martha Reynolds-Schiller",
+    "email": "Pierce.Bayer@hotmail.com",
+    "instagram_handle": "@Ashleigh.Ankunding22",
+    "tiktok_handle": "@Jazmyne_Bernier28",
+    "joined_at": "2024-07-26T04:53:07.202Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b6b52f0b-dd6b-4068-8a9d-7fc50ceb8cad",
+            "brand": "Lueilwitz LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "3d07a85c-17d6-418d-8607-9bf6524d6335",
+                    "platform": "Instagram",
+                    "post_url": "https://querulous-crest.org",
+                    "likes": 369,
+                    "comments": 48,
+                    "shares": 35,
+                    "reach": 4150
+                }
+            ],
+            "total_sales_attributed": 2374.662363559887
+        }
+    ]
+}

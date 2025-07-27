@@ -1,0 +1,26 @@
+{
+    "user_id": "8202b989-29a9-439e-ad9f-966af0d33d5e",
+    "name": "Ashley Figueroa",
+    "email": "jack60@example.net",
+    "instagram_handle": "@Bettye91",
+    "tiktok_handle": "@escobarloretta",
+    "joined_at": "2024-06-03T05:05:32.581345",
+    "advocacy_programs": [
+        {
+            "program_id": "da9999e1-badb-47b5-a8d4-da2c8b62534e",
+            "brand": "Lawrence Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "52d957fd-e0da-49e1-adea-abb00a51b81e",
+                    "platform": "Instagram",
+                    "post_url": "http://www.foster.com/",
+                    "likes": 1718,
+                    "comments": 150,
+                    "shares": 67,
+                    "reach": 5975
+                }
+            ],
+            "total_sales_attributed": 2857.4660422129273
+        }
+    ]
+}

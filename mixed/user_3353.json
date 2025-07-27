@@ -1,0 +1,26 @@
+{
+    "user_id": "2655d694-b720-4dcb-bb2d-b92996f6686b",
+    "name": "James Patton",
+    "email": "Marjorie_Kertzmann@hotmail.com",
+    "instagram_handle": "@kellypace",
+    "tiktok_handle": "@Terrance_Littel",
+    "joined_at": "2024-04-07T14:52:14.531552",
+    "advocacy_programs": [
+        {
+            "program_id": "1e4e72e7-4625-4b49-b242-790c75d646c5",
+            "brand": "Nguyen Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "899d93bf-8b1c-485c-a414-9ef6a80d9c75",
+                    "platform": "Instagram",
+                    "post_url": "http://www.payne.com/",
+                    "likes": 6114,
+                    "comments": 30,
+                    "shares": 69,
+                    "reach": 8693
+                }
+            ],
+            "total_sales_attributed": 8870.79
+        }
+    ]
+}

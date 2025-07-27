@@ -1,0 +1,26 @@
+{
+    "user_id": "d00c8bfd-54e2-43a1-8f91-1c8ba08b8c6e",
+    "name": "Cindy Young",
+    "email": "ashleygreg@example.com",
+    "instagram_handle": "@brenda39",
+    "tiktok_handle": "@hlong",
+    "joined_at": "2024-07-12T16:48:40.934431",
+    "advocacy_programs": [
+        {
+            "program_id": "236484ad-44f1-4abd-b2c9-7e49d690fd6e",
+            "brand": "Collins Group",
+            "tasks_completed": [
+                {
+                    "task_id": "075ba863-1186-485a-ae52-f3d98f6f6b3b",
+                    "platform": "Instagram",
+                    "post_url": "https://www.marks-rose.com/",
+                    "likes": 6032,
+                    "comments": 191,
+                    "shares": 68,
+                    "reach": 8853
+                }
+            ],
+            "total_sales_attributed": 9683.85
+        }
+    ]
+}

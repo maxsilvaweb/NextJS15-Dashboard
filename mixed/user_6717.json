@@ -1,0 +1,26 @@
+{
+    "user_id": "02018a85-7826-4d17-ab5b-ad6c726f4a2f",
+    "name": "Sheri Young",
+    "email": "cjones@example.com",
+    "instagram_handle": "@deborah55",
+    "tiktok_handle": "@gregoryking",
+    "joined_at": "2024-11-15T09:09:31.955866",
+    "advocacy_programs": [
+        {
+            "program_id": "0dcb92fe-a3d9-45d4-bd46-44f17fb017d8",
+            "brand": "King Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b4830528-4f97-4149-b58b-7e5de3e0536c",
+                    "platform": "TikTok",
+                    "post_url": "https://www.nichols.com/",
+                    "likes": 8305,
+                    "comments": 40,
+                    "shares": 51,
+                    "reach": 9403
+                }
+            ],
+            "total_sales_attributed": 4938.29
+        }
+    ]
+}

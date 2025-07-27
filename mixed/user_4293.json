@@ -1,0 +1,26 @@
+{
+    "user_id": "f53bc8d4-f572-40f0-ac6a-761a858c2a97",
+    "name": "Jeff Trevino",
+    "email": "regina80@example.org",
+    "instagram_handle": "@wilcoxdiana",
+    "tiktok_handle": "@michaelfarmer",
+    "joined_at": "2023-09-22T22:20:15.456575",
+    "advocacy_programs": [
+        {
+            "program_id": "aec1c2c2-7836-4b82-aaa3-f015775c7203",
+            "brand": "Holden, Cross and Day",
+            "tasks_completed": [
+                {
+                    "task_id": "6e5f3629-7750-48d3-8ee7-089cd164e727",
+                    "platform": "Instagram",
+                    "post_url": "https://www.johnson-bowen.biz/",
+                    "likes": 9161,
+                    "comments": 9,
+                    "shares": 100,
+                    "reach": 4346
+                }
+            ],
+            "total_sales_attributed": 1833.57
+        }
+    ]
+}

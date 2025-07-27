@@ -1,0 +1,26 @@
+{
+    "user_id": "bd385d42-fd80-4d0f-92a0-e2e67f17ccd8",
+    "name": "Craig Wilkerson",
+    "email": "carol21@example.com",
+    "instagram_handle": "@drakehannah",
+    "tiktok_handle": "@orobinson",
+    "joined_at": "2025-02-22T05:33:40.247418",
+    "advocacy_programs": [
+        {
+            "program_id": "cba8e537-7e7e-41c7-ac04-68e936fc933e",
+            "brand": "Hancock-Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "1d6e2c4d-8072-45b8-b9d4-77170a2b7403",
+                    "platform": "Instagram",
+                    "post_url": "https://collins.com/",
+                    "likes": 9844,
+                    "comments": 56,
+                    "shares": 8,
+                    "reach": 6902
+                }
+            ],
+            "total_sales_attributed": 6464.21
+        }
+    ]
+}

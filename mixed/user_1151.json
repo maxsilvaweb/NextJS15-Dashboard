@@ -1,0 +1,26 @@
+{
+    "user_id": "702fc952-2327-46c2-a2f3-c37326fb9ef8",
+    "name": "Gerald Mills",
+    "email": "Delpha18@hotmail.com",
+    "instagram_handle": "@Ezekiel48",
+    "tiktok_handle": "@Hubert54",
+    "joined_at": "2024-11-25T07:44:52.217Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c2fe3e7b-01b0-4d83-9060-021abd7b6782",
+            "brand": "Wintheiser - Kreiger",
+            "tasks_completed": [
+                {
+                    "task_id": "d40f920d-09bb-4e56-aae2-009940ed39ae",
+                    "platform": "Instagram",
+                    "post_url": "https://optimistic-onset.com",
+                    "likes": 163,
+                    "comments": 18,
+                    "shares": 67,
+                    "reach": 7457
+                }
+            ],
+            "total_sales_attributed": 4376.8732070148735
+        }
+    ]
+}

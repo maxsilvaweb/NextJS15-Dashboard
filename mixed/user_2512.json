@@ -1,0 +1,26 @@
+{
+    "user_id": "5a78b566-3366-49a0-9b18-72faa707402c",
+    "name": "David Bell",
+    "email": "patricia20@example.org",
+    "instagram_handle": "@emilystrickland",
+    "tiktok_handle": "@griffithbenjamin",
+    "joined_at": "2024-12-27T16:44:18.464443",
+    "advocacy_programs": [
+        {
+            "program_id": "449560cd-5099-4524-8df0-2489a88fcd1b",
+            "brand": "Reeves-Hood",
+            "tasks_completed": [
+                {
+                    "task_id": "f3afdcab-b9fd-4b6c-82de-e138e2b3c484",
+                    "platform": "TikTok",
+                    "post_url": "http://hess.com/",
+                    "likes": 1025,
+                    "comments": 15,
+                    "shares": 90,
+                    "reach": 1861
+                }
+            ],
+            "total_sales_attributed": 5128.58
+        }
+    ]
+}

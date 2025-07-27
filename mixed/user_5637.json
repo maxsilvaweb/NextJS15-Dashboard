@@ -1,0 +1,26 @@
+{
+    "user_id": "c3889e0b-a387-4499-805f-db63e713a8de",
+    "name": "Percy Reichel",
+    "email": "Cassandra_Ernser41@gmail.com",
+    "instagram_handle": "@Orie78",
+    "tiktok_handle": "@Dewitt_Bechtelar94",
+    "joined_at": "2024-12-12T20:30:14.201Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fa12f0b4-57a5-408f-8ef0-9a109c7eb1a4",
+            "brand": "Abbott LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "06431f8a-0bfd-446f-9a93-c7c54dfec42d",
+                    "platform": "Instagram",
+                    "post_url": "https://afraid-begonia.org/",
+                    "likes": 104,
+                    "comments": 2,
+                    "shares": 79,
+                    "reach": 6359
+                }
+            ],
+            "total_sales_attributed": 4390.951875798021
+        }
+    ]
+}

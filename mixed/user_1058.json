@@ -1,0 +1,26 @@
+{
+    "user_id": "717ae3dc-814c-4e55-b0a2-ae2e57e6afdf",
+    "name": "Michele Renner",
+    "email": "Rachel.Koch12@yahoo.com",
+    "instagram_handle": "@Ethelyn20",
+    "tiktok_handle": "@Devon.Legros46",
+    "joined_at": "2024-03-28T23:06:38.551Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0606e5d2-384f-4ebe-9d81-b9dcca192368",
+            "brand": "Rosenbaum - Yost",
+            "tasks_completed": [
+                {
+                    "task_id": "44e41d90-a45e-45e1-bd2c-d55588456d57",
+                    "platform": "TikTok",
+                    "post_url": "https://next-bob.org/",
+                    "likes": 479,
+                    "comments": 39,
+                    "shares": 64,
+                    "reach": 1046
+                }
+            ],
+            "total_sales_attributed": 3221.0670642724585
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bb2a64ba-16e3-417b-a376-a6d236f65a62",
+    "name": "Jay Foster",
+    "email": "Kyra_Konopelski39@hotmail.com",
+    "instagram_handle": "@asimmons",
+    "tiktok_handle": "@adam36",
+    "joined_at": "2024-12-27T19:27:05.880138",
+    "advocacy_programs": [
+        {
+            "program_id": "15681975-6d31-4cfe-8d45-136db8940f8b",
+            "brand": "Carrillo-Ford",
+            "tasks_completed": [
+                {
+                    "task_id": "128c2eac-dbdc-4a85-b6dc-0f684397ac01",
+                    "platform": "Facebook",
+                    "post_url": "https://walker.com/",
+                    "likes": 85,
+                    "comments": 65,
+                    "shares": 20,
+                    "reach": 3738
+                }
+            ],
+            "total_sales_attributed": 9204.64
+        }
+    ]
+}

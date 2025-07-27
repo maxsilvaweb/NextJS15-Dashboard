@@ -1,0 +1,26 @@
+{
+    "user_id": "95d334b4-b96f-4aa0-bf1d-b5f8b51b5ad9",
+    "name": "Mr. Malcolm Bernhard",
+    "email": "Jaydon_Hilpert@hotmail.com",
+    "instagram_handle": "@Jannie5",
+    "tiktok_handle": "@Nelda55",
+    "joined_at": "2024-11-26T15:09:37.621Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ff9e4b9a-6503-4fe9-93a0-c12c48b7d7d5",
+            "brand": "Rodriguez, Botsford and Glover",
+            "tasks_completed": [
+                {
+                    "task_id": "a47f9f40-6ca6-4a6c-b05b-273fc2d2d55c",
+                    "platform": "TikTok",
+                    "post_url": "https://shadowy-wilderness.info/",
+                    "likes": 159,
+                    "comments": 4,
+                    "shares": 64,
+                    "reach": 3229
+                }
+            ],
+            "total_sales_attributed": 3334.44039797101
+        }
+    ]
+}

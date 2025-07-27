@@ -1,0 +1,26 @@
+{
+    "user_id": "298095d5-9fa0-48e8-b609-ca67fe475657",
+    "name": "Patrick Ashley",
+    "email": "London_Howe34@yahoo.com",
+    "instagram_handle": "@amandalee",
+    "tiktok_handle": "@ljames",
+    "joined_at": "2024-06-30T12:36:32.844213",
+    "advocacy_programs": [
+        {
+            "program_id": "2fc9450f-7c12-4c6d-b19e-fe8382a21782",
+            "brand": "Mitchell, Davidson and Hubbard",
+            "tasks_completed": [
+                {
+                    "task_id": "25fdf27c-7e94-4c04-86ff-bd5092f5c8e0",
+                    "platform": "TikTok",
+                    "post_url": "http://mendoza-green.com/",
+                    "likes": 1367,
+                    "comments": 38,
+                    "shares": 39,
+                    "reach": 8555
+                }
+            ],
+            "total_sales_attributed": 3930.89
+        }
+    ]
+}

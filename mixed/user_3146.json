@@ -1,0 +1,26 @@
+{
+    "user_id": "36e3692c-d5ed-4e22-9a6c-57d70b75d10d",
+    "name": "Troy Smith",
+    "email": "timothy17@example.net",
+    "instagram_handle": "@kkent",
+    "tiktok_handle": "@kennethcruz",
+    "joined_at": "2025-07-11T06:37:17.678701",
+    "advocacy_programs": [
+        {
+            "program_id": "99e9040e-16f4-4b1e-acee-4a9ee0386915",
+            "brand": "Guzman, Jones and Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "dae57236-4733-4601-a674-5d3e90293f48",
+                    "platform": "TikTok",
+                    "post_url": "http://www.stevens.com/",
+                    "likes": 6054,
+                    "comments": 13,
+                    "shares": 42,
+                    "reach": 3524
+                }
+            ],
+            "total_sales_attributed": 9671.87
+        }
+    ]
+}

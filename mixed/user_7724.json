@@ -1,0 +1,26 @@
+{
+    "user_id": "7f012046-efdf-4fc2-9d19-929083c9a830",
+    "name": "Gerard Bahringer",
+    "email": "Irma.Barrows62@gmail.com",
+    "instagram_handle": "@Dave.Sipes18",
+    "tiktok_handle": "@Daija93",
+    "joined_at": "2024-05-04T04:05:03.974Z",
+    "advocacy_programs": [
+        {
+            "program_id": "932f1d71-ddb5-4d12-b88f-e43f2701a399",
+            "brand": "Crist, Deckow and Wintheiser",
+            "tasks_completed": [
+                {
+                    "task_id": "764a6b36-9f40-414e-bfd1-140973aed93e",
+                    "platform": "Instagram",
+                    "post_url": "https://good-monster.biz",
+                    "likes": 382,
+                    "comments": 46,
+                    "shares": 13,
+                    "reach": 1969
+                }
+            ],
+            "total_sales_attributed": 1620.5911577738364
+        }
+    ]
+}

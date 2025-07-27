@@ -1,0 +1,26 @@
+{
+    "user_id": "84dbabf1-dcea-4b8b-8647-37b310204679",
+    "name": "David Martinez",
+    "email": "Rafaela.Aufderhar@gmail.com",
+    "instagram_handle": "@ghill",
+    "tiktok_handle": "@sandra82",
+    "joined_at": "2024-07-08T08:09:32.068635",
+    "advocacy_programs": [
+        {
+            "program_id": "b1f5ce58-d3ec-49e4-9a0b-1f7468b63af1",
+            "brand": "Henderson-Fuller",
+            "tasks_completed": [
+                {
+                    "task_id": "4160f233-addb-423f-8b02-eeb804ac9edd",
+                    "platform": "TikTok",
+                    "post_url": "https://www.hood.com/",
+                    "likes": 5208,
+                    "comments": 408,
+                    "shares": 61,
+                    "reach": 8028
+                }
+            ],
+            "total_sales_attributed": 9852.21
+        }
+    ]
+}

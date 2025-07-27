@@ -1,0 +1,26 @@
+{
+    "user_id": "64b3fa21-f3de-4bd3-8c07-807c2de09d5b",
+    "name": "Julie Drake",
+    "email": "karen33@example.com",
+    "instagram_handle": "@xgarcia",
+    "tiktok_handle": "@rali",
+    "joined_at": "2024-07-26T14:04:15.394071",
+    "advocacy_programs": [
+        {
+            "program_id": "6003fbcb-24bd-44ff-b1ee-f81010cb713e",
+            "brand": "Moran-Randolph",
+            "tasks_completed": [
+                {
+                    "task_id": "83adeaa4-bbe8-41d3-a4f3-c6d90401897e",
+                    "platform": "Facebook",
+                    "post_url": "https://lucas.com/",
+                    "likes": 5723,
+                    "comments": 27,
+                    "shares": 28,
+                    "reach": 2962
+                }
+            ],
+            "total_sales_attributed": 6567.09
+        }
+    ]
+}

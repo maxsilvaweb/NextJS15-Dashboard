@@ -1,0 +1,26 @@
+{
+    "user_id": "e6410d5b-4df2-4652-b080-146e7fc27338",
+    "name": "Jocelyn Williams",
+    "email": "robertsemma@example.net",
+    "instagram_handle": "@debbie08",
+    "tiktok_handle": "@carolyn61",
+    "joined_at": "2024-08-24T16:50:56.767044",
+    "advocacy_programs": [
+        {
+            "program_id": "add92020-3bfd-431a-809f-88039814ab06",
+            "brand": "Richards, Simon and Molina",
+            "tasks_completed": [
+                {
+                    "task_id": "a484f71c-a910-4a73-9200-a7a58dbac9e9",
+                    "platform": "Instagram",
+                    "post_url": "https://www.thompson-meyers.com/",
+                    "likes": 9514,
+                    "comments": 47,
+                    "shares": 85,
+                    "reach": 4516
+                }
+            ],
+            "total_sales_attributed": 3071.2728697191533
+        }
+    ]
+}

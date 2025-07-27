@@ -1,0 +1,26 @@
+{
+    "user_id": "3bb61766-8f73-4a25-b627-a068782df259",
+    "name": "Jenny Willis",
+    "email": "gillespiesamuel@example.net",
+    "instagram_handle": "@keithbrown",
+    "tiktok_handle": "@patrickcox",
+    "joined_at": "2024-09-18T05:57:29.438929",
+    "advocacy_programs": [
+        {
+            "program_id": "26aa03f4-bc08-4cb8-8dea-41f96b6dd73f",
+            "brand": "Davis, Jackson and Parks",
+            "tasks_completed": [
+                {
+                    "task_id": "fa496ad7-9fac-4668-85c4-046c44e9a28d",
+                    "platform": "TikTok",
+                    "post_url": "http://www.johnson.com/",
+                    "likes": 4620,
+                    "comments": 394,
+                    "shares": 52,
+                    "reach": 3892
+                }
+            ],
+            "total_sales_attributed": 418.72
+        }
+    ]
+}

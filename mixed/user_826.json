@@ -1,0 +1,26 @@
+{
+    "user_id": "940eb419-9df1-412e-afd3-a12a64ef6a21",
+    "name": "Juan Scott",
+    "email": "xgarcia@example.com",
+    "instagram_handle": "@rburns",
+    "tiktok_handle": "@heidistevens",
+    "joined_at": "2023-09-07T00:48:11.148504",
+    "advocacy_programs": [
+        {
+            "program_id": "bfbe815a-6f9d-41de-bec0-c1e7a88eefea",
+            "brand": "Ali Group",
+            "tasks_completed": [
+                {
+                    "task_id": "e4e75f75-9014-4897-bc0b-fac61ad6eb00",
+                    "platform": "Instagram",
+                    "post_url": "http://little-nielsen.net/",
+                    "likes": 4191,
+                    "comments": 484,
+                    "shares": 94,
+                    "reach": 6928
+                }
+            ],
+            "total_sales_attributed": 3958.74
+        }
+    ]
+}

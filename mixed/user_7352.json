@@ -1,0 +1,26 @@
+{
+    "user_id": "de504712-4dc6-45d5-94e6-20fdb3e75666",
+    "name": "Michelle Harding",
+    "email": "Alena.Lebsack38@yahoo.com",
+    "instagram_handle": "@josephwoods",
+    "tiktok_handle": "@cruzchelsey",
+    "joined_at": "2025-05-09T22:43:49.501278",
+    "advocacy_programs": [
+        {
+            "program_id": "73944a30-f100-4667-9ac2-19ea8b26844a",
+            "brand": "Coleman, Young and Ruiz",
+            "tasks_completed": [
+                {
+                    "task_id": "f948feb6-e3ed-491d-b091-dfa2c1cc1dae",
+                    "platform": "Instagram",
+                    "post_url": "http://shea-peters.biz/",
+                    "likes": 468,
+                    "comments": 336,
+                    "shares": 96,
+                    "reach": 5843
+                }
+            ],
+            "total_sales_attributed": 4121.6
+        }
+    ]
+}

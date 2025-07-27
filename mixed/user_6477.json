@@ -1,0 +1,26 @@
+{
+    "user_id": "3569c6ca-dfde-4e44-a8c3-bbf26074fbb5",
+    "name": "Lisa Frey",
+    "email": "rachelhiggins@example.com",
+    "instagram_handle": "@jessica53",
+    "tiktok_handle": "@jarvistara",
+    "joined_at": "2025-06-24T11:49:44.832119",
+    "advocacy_programs": [
+        {
+            "program_id": "e14174bc-b6c8-4683-9e29-409e8952db27",
+            "brand": "Evans Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f047272b-9e57-4a22-9d74-8a9d90e34245",
+                    "platform": "YouTube",
+                    "post_url": "http://walker.com/",
+                    "likes": 858,
+                    "comments": 397,
+                    "shares": 97,
+                    "reach": 1460
+                }
+            ],
+            "total_sales_attributed": 1232.26
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "69f22e32-5593-4af9-a89f-eda3ee4a1692",
+    "name": "David Reeves",
+    "email": "gonzaleselizabeth@example.org",
+    "instagram_handle": "@otaylor",
+    "tiktok_handle": "@fowens",
+    "joined_at": "2023-12-14T19:51:30.520089",
+    "advocacy_programs": [
+        {
+            "program_id": "f08eed45-efe9-4337-ba98-d979e7461e7e",
+            "brand": "Oliver-Benson",
+            "tasks_completed": [
+                {
+                    "task_id": "d862b6a2-b6e5-4205-8a13-bc5fcab000ae",
+                    "platform": "Instagram",
+                    "post_url": "https://www.myers-gonzalez.com/",
+                    "likes": 1203,
+                    "comments": 88,
+                    "shares": 16,
+                    "reach": 1049
+                }
+            ],
+            "total_sales_attributed": 2803.17
+        }
+    ]
+}

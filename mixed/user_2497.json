@@ -1,0 +1,26 @@
+{
+    "user_id": "60fcc06e-9efb-43f8-b13e-ad66959e1a50",
+    "name": "Leah Valdez",
+    "email": "bcooper@example.com",
+    "instagram_handle": "@robertleonard",
+    "tiktok_handle": "@wesley20",
+    "joined_at": "2024-06-30T10:00:59.302Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0137480a-ef5a-49bf-a55a-bbc73816ece2",
+            "brand": "Ballard, Williams and Bryant",
+            "tasks_completed": [
+                {
+                    "task_id": "07e55091-7993-4eb7-9ceb-381dbbb69edf",
+                    "platform": "TikTok",
+                    "post_url": "https://www.morgan.com/",
+                    "likes": 9362,
+                    "comments": 43,
+                    "shares": 25,
+                    "reach": 5689
+                }
+            ],
+            "total_sales_attributed": 4412.67
+        }
+    ]
+}

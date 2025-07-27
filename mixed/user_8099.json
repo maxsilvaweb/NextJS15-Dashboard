@@ -1,0 +1,26 @@
+{
+    "user_id": "88976701-b0e9-447c-af40-97caf54049f1",
+    "name": "Irving Prosacco",
+    "email": "Carolyn.Reilly@gmail.com",
+    "instagram_handle": "@Murl_Carroll",
+    "tiktok_handle": "@Jacquelyn.Stehr",
+    "joined_at": "2024-08-17T21:32:31.569Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cc0b465e-bdcb-48f7-a5e5-7a327b72a2d9",
+            "brand": "Kilback Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "ad81495e-79f4-4889-ab5d-7ac1f08310d8",
+                    "platform": "TikTok",
+                    "post_url": "https://handy-volleyball.net",
+                    "likes": 246,
+                    "comments": 24,
+                    "shares": 84,
+                    "reach": 3991
+                }
+            ],
+            "total_sales_attributed": 665.597139869523
+        }
+    ]
+}

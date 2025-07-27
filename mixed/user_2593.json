@@ -1,0 +1,26 @@
+{
+    "user_id": "e234ad37-4985-41a6-9b96-f6e909cd9b16",
+    "name": "Paul Stephens",
+    "email": "lisarobinson@example.com",
+    "instagram_handle": "@jessica62",
+    "tiktok_handle": "@emclaughlin",
+    "joined_at": "2024-12-20T07:22:30.377755",
+    "advocacy_programs": [
+        {
+            "program_id": "0cfb15ae-c99c-4112-8f73-bed39a885eef",
+            "brand": "Rose-Garcia",
+            "tasks_completed": [
+                {
+                    "task_id": "88dae3c8-97fc-456a-a8e0-4bcdaaa201b2",
+                    "platform": "Instagram",
+                    "post_url": "https://low-disk.net/",
+                    "likes": 10,
+                    "comments": 63,
+                    "shares": 66,
+                    "reach": 3197
+                }
+            ],
+            "total_sales_attributed": 3270.920078701195
+        }
+    ]
+}

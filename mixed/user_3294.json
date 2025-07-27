@@ -1,0 +1,26 @@
+{
+    "user_id": "450d5d5e-eeb0-4f30-8a86-c22cbac1c740",
+    "name": "Jesus Quinn",
+    "email": "uramos@example.net",
+    "instagram_handle": "@zreyes",
+    "tiktok_handle": "@vwilliams",
+    "joined_at": "2024-02-29T18:14:00.619430",
+    "advocacy_programs": [
+        {
+            "program_id": "c7c9999f-37ca-4c15-84ea-2819d531bed6",
+            "brand": "Ramsey, Ross and Wallace",
+            "tasks_completed": [
+                {
+                    "task_id": "b3d169b3-d4f5-4d10-ad85-e8130ad02867",
+                    "platform": "TikTok",
+                    "post_url": "http://levine.com/",
+                    "likes": 432,
+                    "comments": 4,
+                    "shares": 8,
+                    "reach": 4903
+                }
+            ],
+            "total_sales_attributed": 4898.6
+        }
+    ]
+}

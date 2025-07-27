@@ -1,0 +1,26 @@
+{
+    "user_id": "9534d980-46d9-4402-a58f-bbfeab4c6c11",
+    "name": "Patricia Rocha",
+    "email": "Cristina.Stehr8@hotmail.com",
+    "instagram_handle": "@nancyconrad",
+    "tiktok_handle": "@barry30",
+    "joined_at": "2024-02-29T08:23:23.861687",
+    "advocacy_programs": [
+        {
+            "program_id": "bc2650f3-f3e7-491c-a925-85e6fb133f33",
+            "brand": "Davis-Mason",
+            "tasks_completed": [
+                {
+                    "task_id": "030a488a-a64d-4a4c-8100-d35bb03223d3",
+                    "platform": "Instagram",
+                    "post_url": "http://www.smith.com/",
+                    "likes": 7011,
+                    "comments": 402,
+                    "shares": 12,
+                    "reach": 9308
+                }
+            ],
+            "total_sales_attributed": 3569.02
+        }
+    ]
+}

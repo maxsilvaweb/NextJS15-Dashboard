@@ -1,0 +1,26 @@
+{
+    "user_id": "2e9336de-f3cf-400e-8c24-038bb69028a1",
+    "name": "Jeffrey Wood",
+    "email": "lindacastro@example.net",
+    "instagram_handle": "@cherrydavid",
+    "tiktok_handle": "@dustinthompson",
+    "joined_at": "2023-12-26T20:10:01.805844",
+    "advocacy_programs": [
+        {
+            "program_id": "cbbd18db-92ca-45fc-8b9d-6ec00d4cd0c6",
+            "brand": "Lopez-Bryant",
+            "tasks_completed": [
+                {
+                    "task_id": "7b8b4ebf-2370-40cd-8d40-2034af89d6d6",
+                    "platform": "Twitter",
+                    "post_url": "http://schroeder.com/",
+                    "likes": 1191,
+                    "comments": 39,
+                    "shares": 37,
+                    "reach": 6537
+                }
+            ],
+            "total_sales_attributed": 7179.77
+        }
+    ]
+}

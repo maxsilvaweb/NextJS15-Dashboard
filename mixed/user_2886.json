@@ -1,0 +1,26 @@
+{
+    "user_id": "49527a83-c1fb-47dd-98eb-710e751ba971",
+    "name": "David Reed",
+    "email": "Adonis_Turner@gmail.com",
+    "instagram_handle": "@kcervantes",
+    "tiktok_handle": "@jerryrubio",
+    "joined_at": "2024-09-30T02:41:13.083458",
+    "advocacy_programs": [
+        {
+            "program_id": "d42528cc-cb3b-46ce-a279-dd08fe831b67",
+            "brand": "Andrews, Eaton and George",
+            "tasks_completed": [
+                {
+                    "task_id": "bc150307-593b-41dd-ad88-b2a4fdf1fdbb",
+                    "platform": "YouTube",
+                    "post_url": "https://www.hill.com/",
+                    "likes": 3598,
+                    "comments": 332,
+                    "shares": 42,
+                    "reach": 7079
+                }
+            ],
+            "total_sales_attributed": 3569.54
+        }
+    ]
+}

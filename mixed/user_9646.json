@@ -1,0 +1,26 @@
+{
+    "user_id": "4de6e178-44d5-4e61-b991-870552cb62a8",
+    "name": "Susie O'Hara",
+    "email": "Rubye.Medhurst@yahoo.com",
+    "instagram_handle": "@Brandi.OReilly",
+    "tiktok_handle": "@Marcus.Koss73",
+    "joined_at": "2025-01-19T20:39:36.133Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d9074d08-8ddd-4acc-b45f-218989b2b9f3",
+            "brand": "Dooley, Bartell and Jaskolski",
+            "tasks_completed": [
+                {
+                    "task_id": "6fc2c35d-852b-49e6-a8ff-86edf96ec96d",
+                    "platform": "TikTok",
+                    "post_url": "https://gleaming-viability.biz",
+                    "likes": 461,
+                    "comments": 34,
+                    "shares": 21,
+                    "reach": 2889
+                }
+            ],
+            "total_sales_attributed": 4247.156040515159
+        }
+    ]
+}

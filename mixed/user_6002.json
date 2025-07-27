@@ -1,0 +1,26 @@
+{
+    "user_id": "8ebcf58b-8ce6-40c2-91c2-02bf77c39d45",
+    "name": "Linda Olsen",
+    "email": "alexandria25@example.net",
+    "instagram_handle": "@frankpaula",
+    "tiktok_handle": "@elizabethdavid",
+    "joined_at": "2023-10-04T03:15:49.685267",
+    "advocacy_programs": [
+        {
+            "program_id": "8e36d881-0422-41b5-ac82-c6f5e424d76d",
+            "brand": "Dietrich - Considine",
+            "tasks_completed": [
+                {
+                    "task_id": "b58ebb86-3916-4dba-92d1-9fe0e8d6a818",
+                    "platform": "TikTok",
+                    "post_url": "https://annual-wedding.net/",
+                    "likes": 6180,
+                    "comments": 329,
+                    "shares": 80,
+                    "reach": 994
+                }
+            ],
+            "total_sales_attributed": 4207.18
+        }
+    ]
+}

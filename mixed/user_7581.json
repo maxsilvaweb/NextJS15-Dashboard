@@ -1,0 +1,26 @@
+{
+    "user_id": "6fe4ebcc-744f-4f50-999a-b9baa1f9a0f1",
+    "name": "Veronica Rodriguez",
+    "email": "davisyvette@example.com",
+    "instagram_handle": "@martinmatthew",
+    "tiktok_handle": "@bethany52",
+    "joined_at": "2024-02-08T14:03:37.361349",
+    "advocacy_programs": [
+        {
+            "program_id": "ec810714-3059-447b-b21b-89efac6d03be",
+            "brand": "Harris, Foley and Fields",
+            "tasks_completed": [
+                {
+                    "task_id": "a972a4fe-377c-40ba-a62c-6e79b8f21dc5",
+                    "platform": "Instagram",
+                    "post_url": "http://www.owens.com/",
+                    "likes": 1944,
+                    "comments": 135,
+                    "shares": 47,
+                    "reach": 9509
+                }
+            ],
+            "total_sales_attributed": 4416.65
+        }
+    ]
+}

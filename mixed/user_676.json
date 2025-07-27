@@ -1,0 +1,26 @@
+{
+    "user_id": "bdce7bb0-cc38-419e-900e-0fe08ed32877",
+    "name": "Christopher Hammond",
+    "email": "richardsonreginald@example.com",
+    "instagram_handle": "@christinataylor",
+    "tiktok_handle": "@daniel32",
+    "joined_at": "2024-10-13T20:27:37.541825",
+    "advocacy_programs": [
+        {
+            "program_id": "eafb33e5-5233-494d-afb5-48f15b2af401",
+            "brand": "Murray-Haney",
+            "tasks_completed": [
+                {
+                    "task_id": "f6733a37-ca2b-4d06-b0f9-222e628356a4",
+                    "platform": "Instagram",
+                    "post_url": "http://www.cooper.info/",
+                    "likes": 9408,
+                    "comments": 26,
+                    "shares": 33,
+                    "reach": 4852
+                }
+            ],
+            "total_sales_attributed": 9286.97
+        }
+    ]
+}

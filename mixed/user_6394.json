@@ -1,0 +1,26 @@
+{
+    "user_id": "e0364e7d-cb03-47f5-bfbd-6df203ae2a11",
+    "name": "Brian Thomas",
+    "email": "ryan21@example.com",
+    "instagram_handle": "@crystalwhite",
+    "tiktok_handle": "@Michale_OReilly",
+    "joined_at": "2024-01-05T13:23:08.282240",
+    "advocacy_programs": [
+        {
+            "program_id": "83b4ef79-2a40-44c4-ab31-122ceba9577e",
+            "brand": "Denesik Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "5048db78-f3ff-415c-9ba9-07b17d664250",
+                    "platform": "Facebook",
+                    "post_url": "https://miserable-commercial.info",
+                    "likes": 1899,
+                    "comments": 498,
+                    "shares": 39,
+                    "reach": 5224
+                }
+            ],
+            "total_sales_attributed": 6323.27
+        }
+    ]
+}

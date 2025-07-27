@@ -1,0 +1,26 @@
+{
+    "user_id": "202cb749-392c-4f1b-92ba-ac0525ce1e2d",
+    "name": "Theresa Lee",
+    "email": "zwashington@example.net",
+    "instagram_handle": "@bryangarcia",
+    "tiktok_handle": "@erindavis",
+    "joined_at": "2024-12-22T20:33:35.605709",
+    "advocacy_programs": [
+        {
+            "program_id": "cb7b6db0-96a1-4cdd-8781-fbdc635885b7",
+            "brand": "Pearson, Stewart and Copeland",
+            "tasks_completed": [
+                {
+                    "task_id": "5ad46c3d-5559-408d-8837-4e0f17b8ccd5",
+                    "platform": "Instagram",
+                    "post_url": "https://allen.com/",
+                    "likes": 5276,
+                    "comments": 49,
+                    "shares": 42,
+                    "reach": 4135
+                }
+            ],
+            "total_sales_attributed": 8044.98
+        }
+    ]
+}

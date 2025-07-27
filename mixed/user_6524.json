@@ -1,0 +1,26 @@
+{
+    "user_id": "ca04ac46-d2e7-4055-816c-053b97741fcc",
+    "name": "Logan Edwards",
+    "email": "thomasnicholas@example.com",
+    "instagram_handle": "@richardfranco",
+    "tiktok_handle": "@Amanda_Schmitt",
+    "joined_at": "2024-07-02T16:55:43.567985",
+    "advocacy_programs": [
+        {
+            "program_id": "d146976b-8cb1-4502-902f-f7ce2116b52e",
+            "brand": "Pena-Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "233437de-e3c0-4760-ba69-45d4b2df8f0a",
+                    "platform": "TikTok",
+                    "post_url": "https://advanced-armoire.info",
+                    "likes": 9002,
+                    "comments": 22,
+                    "shares": 26,
+                    "reach": 9222
+                }
+            ],
+            "total_sales_attributed": 4245.3
+        }
+    ]
+}

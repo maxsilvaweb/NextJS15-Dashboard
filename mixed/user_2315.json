@@ -1,0 +1,26 @@
+{
+    "user_id": "5193c9c5-06fc-4857-97cd-a1ea6037e122",
+    "name": "Taylor Ramirez",
+    "email": "alicia88@example.net",
+    "instagram_handle": "@christinacortez",
+    "tiktok_handle": "@wayneharris",
+    "joined_at": "2025-01-03T18:40:28.408432",
+    "advocacy_programs": [
+        {
+            "program_id": "02f71be6-a79b-48d2-b7a9-e18ed6693849",
+            "brand": "Williams Group",
+            "tasks_completed": [
+                {
+                    "task_id": "6af4186a-ea46-4058-986d-7f2684a20cd9",
+                    "platform": "Facebook",
+                    "post_url": "https://www.booth.com/",
+                    "likes": 7900,
+                    "comments": 280,
+                    "shares": 57,
+                    "reach": 7418
+                }
+            ],
+            "total_sales_attributed": 8165.65
+        }
+    ]
+}

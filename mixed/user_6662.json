@@ -1,0 +1,26 @@
+{
+    "user_id": "ea9c9a45-0435-474c-b568-c7ebe01a745f",
+    "name": "Dr. Lila Crooks",
+    "email": "Reilly_Luettgen92@gmail.com",
+    "instagram_handle": "@Valentina.Kub",
+    "tiktok_handle": "@Okey71",
+    "joined_at": "2024-04-12T04:32:38.831Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dadfab8a-c00d-4862-9c09-a098090ff25a",
+            "brand": "Johns Group",
+            "tasks_completed": [
+                {
+                    "task_id": "bd75fe23-4211-4c40-a9e4-b00115b8c48a",
+                    "platform": "Instagram",
+                    "post_url": "https://sore-duffel.org/",
+                    "likes": 410,
+                    "comments": 9,
+                    "shares": 12,
+                    "reach": 3321
+                }
+            ],
+            "total_sales_attributed": 3458.0764927388154
+        }
+    ]
+}

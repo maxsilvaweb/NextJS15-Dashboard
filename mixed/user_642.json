@@ -1,0 +1,26 @@
+{
+    "user_id": "4466d639-0c30-4951-9cb5-5d319aeb4ed5",
+    "name": "Amber Woodward",
+    "email": "jameslawrence@example.net",
+    "instagram_handle": "@debrahernandez",
+    "tiktok_handle": "@clarkpatricia",
+    "joined_at": "2024-07-08T06:37:25.805190",
+    "advocacy_programs": [
+        {
+            "program_id": "f300ae44-1b59-4c2f-ad5a-c514239d1f29",
+            "brand": "Pena, Gallegos and White",
+            "tasks_completed": [
+                {
+                    "task_id": "a08cb284-6244-4778-b272-393e0de85344",
+                    "platform": "Instagram",
+                    "post_url": "http://woods-mora.com/",
+                    "likes": 7068,
+                    "comments": 38,
+                    "shares": 95,
+                    "reach": 867
+                }
+            ],
+            "total_sales_attributed": 5156.64
+        }
+    ]
+}

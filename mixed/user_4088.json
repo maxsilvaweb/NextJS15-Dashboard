@@ -1,0 +1,26 @@
+{
+    "user_id": "5a1f3a8d-4af6-48ee-b3e5-4fcc80e239c5",
+    "name": "Zachary Macias",
+    "email": "evanspaul@example.org",
+    "instagram_handle": "@Herbert70",
+    "tiktok_handle": "@gutierrezjustin",
+    "joined_at": "2024-07-16T22:45:25.248869",
+    "advocacy_programs": [
+        {
+            "program_id": "26e89712-f531-40db-8880-ff804e5084f8",
+            "brand": "Serrano, Wells and Morales",
+            "tasks_completed": [
+                {
+                    "task_id": "60f5694f-87c0-46b0-96fa-ebaf3f525f9c",
+                    "platform": "Twitter",
+                    "post_url": "http://www.sawyer.com/",
+                    "likes": 5503,
+                    "comments": 256,
+                    "shares": 47,
+                    "reach": 814
+                }
+            ],
+            "total_sales_attributed": 1919.5057288504797
+        }
+    ]
+}

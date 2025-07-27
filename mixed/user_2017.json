@@ -1,0 +1,26 @@
+{
+    "user_id": "75a5495f-181d-40f8-84d3-0d39fd68b25b",
+    "name": "Sherman Koss",
+    "email": "Amos_Zulauf@gmail.com",
+    "instagram_handle": "@Adalberto41",
+    "tiktok_handle": "@Asa96",
+    "joined_at": "2025-03-17T17:25:51.350Z",
+    "advocacy_programs": [
+        {
+            "program_id": "64c505f0-263e-4e3a-805c-651d0b59aff1",
+            "brand": "Quitzon LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5bf8585c-ddaa-4c87-b604-9a6a94dddf19",
+                    "platform": "Instagram",
+                    "post_url": "https://sinful-casket.info/",
+                    "likes": 70,
+                    "comments": 12,
+                    "shares": 1,
+                    "reach": 4794
+                }
+            ],
+            "total_sales_attributed": 1608.0567906388103
+        }
+    ]
+}

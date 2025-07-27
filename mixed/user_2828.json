@@ -1,0 +1,26 @@
+{
+    "user_id": "368f10b8-5135-4fc9-8c53-44e0d0a6a0bb",
+    "name": "Dawn Rohan",
+    "email": "London.Johnson@hotmail.com",
+    "instagram_handle": "@Claude31",
+    "tiktok_handle": "@Deonte.Koelpin73",
+    "joined_at": "2024-05-03T18:19:07.345Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7a9bb361-8f44-484b-b979-bbd49610f97d",
+            "brand": "Johns Group",
+            "tasks_completed": [
+                {
+                    "task_id": "3e670bb8-c495-4ffd-bc59-3f3ff9b54531",
+                    "platform": "TikTok",
+                    "post_url": "https://worthwhile-technician.info/",
+                    "likes": 295,
+                    "comments": 26,
+                    "shares": 61,
+                    "reach": 5314
+                }
+            ],
+            "total_sales_attributed": 2783.8391738101022
+        }
+    ]
+}

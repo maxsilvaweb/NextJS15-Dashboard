@@ -1,0 +1,26 @@
+{
+    "user_id": "818eaf8c-83cf-46d3-b538-4aa8ef1688bb",
+    "name": "Lori Thompson",
+    "email": "Chelsie_Dooley70@hotmail.com",
+    "instagram_handle": "@woodardjaclyn",
+    "tiktok_handle": "@cartercarol",
+    "joined_at": "2023-10-12T00:57:32.943657",
+    "advocacy_programs": [
+        {
+            "program_id": "e5e63f7a-b424-44a2-9a33-c888b5ad4271",
+            "brand": "Hill-Rubio",
+            "tasks_completed": [
+                {
+                    "task_id": "d083ae84-58ab-4623-a890-ec4ba02d47b4",
+                    "platform": "Instagram",
+                    "post_url": "https://www.garrett.info/",
+                    "likes": 2287,
+                    "comments": 297,
+                    "shares": 18,
+                    "reach": 3573
+                }
+            ],
+            "total_sales_attributed": 8476.09
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a46e423e-98e1-4f8b-b27e-de713603bcbf",
+    "name": "Kyle Coleman",
+    "email": "oturner@example.net",
+    "instagram_handle": "@elizabeth05",
+    "tiktok_handle": "@laurieduffy",
+    "joined_at": "2024-10-05T15:20:25.560650",
+    "advocacy_programs": [
+        {
+            "program_id": "157ffe03-24ce-465a-852d-d03031808210",
+            "brand": "Ruiz-Jimenez",
+            "tasks_completed": [
+                {
+                    "task_id": "e7e255fb-320f-48d1-b19b-7d8a915fad5e",
+                    "platform": "Instagram",
+                    "post_url": "http://dalton-peterson.com/",
+                    "likes": 265,
+                    "comments": 21,
+                    "shares": 2,
+                    "reach": 1561
+                }
+            ],
+            "total_sales_attributed": 4110.1
+        }
+    ]
+}

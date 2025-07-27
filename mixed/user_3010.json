@@ -1,0 +1,26 @@
+{
+    "user_id": "0a59d7db-6bfb-4834-92ec-ba8eb6f7df2e",
+    "name": "Gayle Daugherty",
+    "email": "Porter50@hotmail.com",
+    "instagram_handle": "@Sherman_Ruecker17",
+    "tiktok_handle": "@Brandi45",
+    "joined_at": "2024-03-22T08:29:43.334Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1e5aae23-f75f-4e8f-a081-e8c7dcac5bb7",
+            "brand": "Dibbert and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "8163b861-9b5a-42ad-b3a4-78e545c6ce75",
+                    "platform": "Instagram",
+                    "post_url": "https://aggressive-birdcage.info",
+                    "likes": 60,
+                    "comments": 18,
+                    "shares": 9,
+                    "reach": 2305
+                }
+            ],
+            "total_sales_attributed": 224.77952590936422
+        }
+    ]
+}

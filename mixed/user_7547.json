@@ -1,0 +1,26 @@
+{
+    "user_id": "e0d498e7-c860-406e-b6bf-f0eba2428645",
+    "name": "Maria Cook",
+    "email": "dixonhelen@example.org",
+    "instagram_handle": "@alexander45",
+    "tiktok_handle": "@elizabethjones",
+    "joined_at": "2024-08-03T18:11:33.901630",
+    "advocacy_programs": [
+        {
+            "program_id": "6f5b7bc1-10dd-4985-9ca4-eed97394defe",
+            "brand": "Davis-Rodgers",
+            "tasks_completed": [
+                {
+                    "task_id": "c3238273-c17c-47db-971c-3e33eef3cec8",
+                    "platform": "TikTok",
+                    "post_url": "https://patterson.info/",
+                    "likes": 6243,
+                    "comments": 175,
+                    "shares": 49,
+                    "reach": 9639
+                }
+            ],
+            "total_sales_attributed": 6037.14
+        }
+    ]
+}

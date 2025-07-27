@@ -1,0 +1,26 @@
+{
+    "user_id": "b9abd875-6f89-4317-8c9a-c050ddf77149",
+    "name": "Clifton Johns",
+    "email": "Lizzie_OConnell-Dooley3@gmail.com",
+    "instagram_handle": "@Simone_Cummerata",
+    "tiktok_handle": "@Lyda.Rau-Fritsch45",
+    "joined_at": "2024-06-25T06:51:40.368Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0eb5485b-5437-43f7-9b20-5b29fb3259d6",
+            "brand": "Walker Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "e22b1e54-0ea8-40d8-b26b-9215ad4b38ff",
+                    "platform": "TikTok",
+                    "post_url": "https://ignorant-merit.name",
+                    "likes": 18,
+                    "comments": 45,
+                    "shares": 8,
+                    "reach": 629
+                }
+            ],
+            "total_sales_attributed": 4090.44422572894
+        }
+    ]
+}

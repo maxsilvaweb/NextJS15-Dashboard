@@ -1,0 +1,26 @@
+{
+    "user_id": "0071eb7b-2dbe-4679-92ae-963ea1e0d7cd",
+    "name": "Thomas Johnson",
+    "email": "whamilton@example.com",
+    "instagram_handle": "@ruizdanielle",
+    "tiktok_handle": "@tmahoney",
+    "joined_at": "2024-11-18T07:36:27.059007",
+    "advocacy_programs": [
+        {
+            "program_id": "bdf350b3-ad14-4545-b4b2-b000082da74e",
+            "brand": "Crona Group",
+            "tasks_completed": [
+                {
+                    "task_id": "1ac0c092-1e92-4bb2-85b1-85e26701f78f",
+                    "platform": "Instagram",
+                    "post_url": "https://charming-collaboration.net",
+                    "likes": 8398,
+                    "comments": 478,
+                    "shares": 25,
+                    "reach": 4808
+                }
+            ],
+            "total_sales_attributed": 3755.083876312713
+        }
+    ]
+}

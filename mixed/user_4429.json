@@ -1,0 +1,26 @@
+{
+    "user_id": "79c88685-65ab-45ff-970b-f0e620f34277",
+    "name": "Douglas Lara",
+    "email": "kbaldwin@example.net",
+    "instagram_handle": "@Shanelle62",
+    "tiktok_handle": "@nicholas84",
+    "joined_at": "2024-06-29T15:26:51.588945",
+    "advocacy_programs": [
+        {
+            "program_id": "a24e6ae7-f882-4db0-a422-4523bd93eb25",
+            "brand": "Griffin-Foster",
+            "tasks_completed": [
+                {
+                    "task_id": "507cd653-6e0b-45b6-8bcf-584ee629e1b0",
+                    "platform": "TikTok",
+                    "post_url": "https://edible-tuxedo.net/",
+                    "likes": 311,
+                    "comments": 37,
+                    "shares": 38,
+                    "reach": 3333
+                }
+            ],
+            "total_sales_attributed": 144.12
+        }
+    ]
+}

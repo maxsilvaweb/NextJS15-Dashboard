@@ -1,0 +1,26 @@
+{
+    "user_id": "202d7b43-6645-4fab-bf1a-5e1b141deeed",
+    "name": "Dennis Kim",
+    "email": "Carole83@gmail.com",
+    "instagram_handle": "@edwardbrown",
+    "tiktok_handle": "@benjaminrose",
+    "joined_at": "2025-05-07T17:22:49.275182",
+    "advocacy_programs": [
+        {
+            "program_id": "e8d3c3bf-2a5d-40cc-a320-5dc7fe52ce74",
+            "brand": "Martin, Austin and Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "546d72b4-77cf-4fc9-923d-c04d0f7b41aa",
+                    "platform": "TikTok",
+                    "post_url": "https://www.boyd.com/",
+                    "likes": 4687,
+                    "comments": 303,
+                    "shares": 37,
+                    "reach": 8341
+                }
+            ],
+            "total_sales_attributed": 4267.91
+        }
+    ]
+}

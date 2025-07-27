@@ -1,0 +1,26 @@
+{
+    "user_id": "d353cf74-6759-493c-a025-62dbfa4c346b",
+    "name": "Roberto Kautzer",
+    "email": "Lewis_Ruecker@yahoo.com",
+    "instagram_handle": "@Frederic_Langosh",
+    "tiktok_handle": "@Jacklyn_Nienow10",
+    "joined_at": "2024-08-08T09:16:06.851Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c8319dab-130f-47e6-8d8d-937a5115d0e4",
+            "brand": "Treutel - Fisher",
+            "tasks_completed": [
+                {
+                    "task_id": "3a2c15fe-0b81-4584-ad64-a732ba5af79a",
+                    "platform": "Instagram",
+                    "post_url": "https://easy-brief.com",
+                    "likes": 408,
+                    "comments": 6,
+                    "shares": 56,
+                    "reach": 5050
+                }
+            ],
+            "total_sales_attributed": 4523.716484098482
+        }
+    ]
+}

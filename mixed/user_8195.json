@@ -1,0 +1,26 @@
+{
+    "user_id": "296efb39-a6ed-41a1-bf4e-aa3179787b79",
+    "name": "Jeffrey Burton",
+    "email": "carlos25@example.com",
+    "instagram_handle": "@reedalyssa",
+    "tiktok_handle": "@donald71",
+    "joined_at": "2023-11-07T16:09:56.637253",
+    "advocacy_programs": [
+        {
+            "program_id": "5d965ac9-65d2-4f9c-975d-b6f7c9281460",
+            "brand": "Fox Group",
+            "tasks_completed": [
+                {
+                    "task_id": "484c7b2a-c229-4fe0-adac-9912d42df0a2",
+                    "platform": "TikTok",
+                    "post_url": "http://vega.com/",
+                    "likes": 202,
+                    "comments": 430,
+                    "shares": 9,
+                    "reach": 3313
+                }
+            ],
+            "total_sales_attributed": 8994.96
+        }
+    ]
+}

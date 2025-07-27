@@ -1,0 +1,26 @@
+{
+    "user_id": "53bae43d-9569-4953-8994-cf274fb3da30",
+    "name": "Crystal Kulas",
+    "email": "Orville_Conroy66@hotmail.com",
+    "instagram_handle": "@Liana_Rath",
+    "tiktok_handle": "@Garfield_Wolf",
+    "joined_at": "2024-12-20T18:42:50.416Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7f05f6b6-264d-4b86-a2de-cb15bb6606c2",
+            "brand": "Hartmann - Olson",
+            "tasks_completed": [
+                {
+                    "task_id": "c72652ef-d8b0-4ad2-87f7-b56ac3d3f59b",
+                    "platform": "TikTok",
+                    "post_url": "https://intent-privilege.biz/",
+                    "likes": 458,
+                    "comments": 40,
+                    "shares": 48,
+                    "reach": 7297
+                }
+            ],
+            "total_sales_attributed": 3772.439339267799
+        }
+    ]
+}

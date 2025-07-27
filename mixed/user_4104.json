@@ -1,0 +1,26 @@
+{
+    "user_id": "c1653091-875a-45be-bcfe-5007d38a35ca",
+    "name": "Joanna Considine",
+    "email": "Jacinto98@gmail.com",
+    "instagram_handle": "@Hellen.Thiel",
+    "tiktok_handle": "@Marcel_Thiel",
+    "joined_at": "2025-01-22T12:56:22.245Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a772eb75-f112-434e-a910-bd0bed4f443e",
+            "brand": "Emard - Schoen",
+            "tasks_completed": [
+                {
+                    "task_id": "5c80dfbe-90b7-4297-bc01-5d9924ad2aad",
+                    "platform": "TikTok",
+                    "post_url": "https://content-tune-up.biz/",
+                    "likes": 176,
+                    "comments": 25,
+                    "shares": 9,
+                    "reach": 908
+                }
+            ],
+            "total_sales_attributed": 3957.743952877882
+        }
+    ]
+}

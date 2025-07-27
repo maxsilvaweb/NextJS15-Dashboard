@@ -1,0 +1,26 @@
+{
+    "user_id": "8a770ae8-493a-4bc3-8a6b-2028a471612f",
+    "name": "Gregory Clayton",
+    "email": "yorkkristy@example.com",
+    "instagram_handle": "@denise62",
+    "tiktok_handle": "@wayne97",
+    "joined_at": "2024-01-17T12:52:19.015639",
+    "advocacy_programs": [
+        {
+            "program_id": "aa901830-01d2-4d4d-8e28-0f1c097edae3",
+            "brand": "Quitzon, Walter and Christiansen",
+            "tasks_completed": [
+                {
+                    "task_id": "6fa6eab6-dcb9-4baf-bcf6-ed738dee99ec",
+                    "platform": "TikTok",
+                    "post_url": "https://wright.biz/",
+                    "likes": 601,
+                    "comments": 432,
+                    "shares": 53,
+                    "reach": 2327
+                }
+            ],
+            "total_sales_attributed": 9903.85
+        }
+    ]
+}

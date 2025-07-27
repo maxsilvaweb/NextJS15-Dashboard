@@ -1,0 +1,26 @@
+{
+    "user_id": "bbd7d6bb-379d-4f4d-aa8f-e03d75c01fc4",
+    "name": "Sammy Cassin PhD",
+    "email": "Mafalda.Padberg32@yahoo.com",
+    "instagram_handle": "@Johan95",
+    "tiktok_handle": "@Monty_Rutherford",
+    "joined_at": "2025-01-23T02:27:04.886Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6139d880-15e8-4ca8-aea8-5f3ee4c33013",
+            "brand": "Mills - Bartoletti",
+            "tasks_completed": [
+                {
+                    "task_id": "4d1131e1-a5f8-4a51-87b0-f699c685f4cd",
+                    "platform": "Instagram",
+                    "post_url": "https://alert-thorn.name/",
+                    "likes": 69,
+                    "comments": 25,
+                    "shares": 50,
+                    "reach": 8505
+                }
+            ],
+            "total_sales_attributed": 3933.8551303289432
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2027ae5d-e8ad-4ad3-bfac-acea90429b83",
+    "name": "Dr. Brian Jacobs V",
+    "email": "Tyree21@yahoo.com",
+    "instagram_handle": "@Karley_Runolfsson",
+    "tiktok_handle": "@Krystal_Reynolds7",
+    "joined_at": "2024-05-17T09:25:08.223Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6194c5dd-d5e3-4514-9031-74402a84df42",
+            "brand": "Weimann LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "16e17f31-5cd4-4bcb-955a-b9c1acb3515f",
+                    "platform": "Instagram",
+                    "post_url": "https://plain-spirit.net/",
+                    "likes": 325,
+                    "comments": 46,
+                    "shares": 6,
+                    "reach": 3537
+                }
+            ],
+            "total_sales_attributed": 554.1309068388252
+        }
+    ]
+}

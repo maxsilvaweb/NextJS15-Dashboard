@@ -1,0 +1,26 @@
+{
+    "user_id": "3ab98bcb-9bb3-4cd4-b641-1b15c6c935c1",
+    "name": "Eduardo Pfeffer",
+    "email": "Pauline_VonRueden36@gmail.com",
+    "instagram_handle": "@Lura.Cremin",
+    "tiktok_handle": "@Hubert4",
+    "joined_at": "2024-08-11T09:17:11.489Z",
+    "advocacy_programs": [
+        {
+            "program_id": "02eb7855-e6ab-403d-9f8d-829d088aeabb",
+            "brand": "Prosacco - Luettgen",
+            "tasks_completed": [
+                {
+                    "task_id": "52c73ba9-171e-4de6-8ca8-903e8cd7021d",
+                    "platform": "Instagram",
+                    "post_url": "https://voluminous-riser.com/",
+                    "likes": 115,
+                    "comments": 27,
+                    "shares": 7,
+                    "reach": 8691
+                }
+            ],
+            "total_sales_attributed": 3798.322517160594
+        }
+    ]
+}

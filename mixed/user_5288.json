@@ -1,0 +1,26 @@
+{
+    "user_id": "aee382ae-815e-4ff6-a434-298c73bc2c52",
+    "name": "Antoinette Kemmer PhD",
+    "email": "garrisonstephanie@example.com",
+    "instagram_handle": "@cameronmakayla",
+    "tiktok_handle": "@simpsonamber",
+    "joined_at": "2024-08-19T11:09:51.916478",
+    "advocacy_programs": [
+        {
+            "program_id": "f87b3de0-c6fe-4fe9-80fc-b31ed535eb7f",
+            "brand": "Sanders-Wheeler",
+            "tasks_completed": [
+                {
+                    "task_id": "05b18092-6b33-4243-afd0-ed0183df7f73",
+                    "platform": "Facebook",
+                    "post_url": "http://www.proctor.com/",
+                    "likes": 1837,
+                    "comments": 429,
+                    "shares": 24,
+                    "reach": 1732
+                }
+            ],
+            "total_sales_attributed": 534.6974992125199
+        }
+    ]
+}

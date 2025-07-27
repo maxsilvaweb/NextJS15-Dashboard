@@ -1,0 +1,26 @@
+{
+    "user_id": "fd6f2ba9-4a80-4ef0-a4d5-9a0cd55719cd",
+    "name": "Ramona Fay",
+    "email": "Uriel28@hotmail.com",
+    "instagram_handle": "@Maryjane13",
+    "tiktok_handle": "@Bailey.Huels23",
+    "joined_at": "2024-10-21T21:53:28.631Z",
+    "advocacy_programs": [
+        {
+            "program_id": "968b2b27-4968-4059-8c4a-2a590eb97c2c",
+            "brand": "Sanford Group",
+            "tasks_completed": [
+                {
+                    "task_id": "c3ffdac4-0795-45f8-8d5b-08953c1a6b59",
+                    "platform": "TikTok",
+                    "post_url": "https://practical-hospitalization.net/",
+                    "likes": 342,
+                    "comments": 40,
+                    "shares": 98,
+                    "reach": 5771
+                }
+            ],
+            "total_sales_attributed": 112.57336938942166
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8e7dae9e-24f4-4fc0-b0aa-9e5ccead199d",
+    "name": "Joseph Bowen",
+    "email": "Kristian73@yahoo.com",
+    "instagram_handle": "@parkersarah",
+    "tiktok_handle": "@leah63",
+    "joined_at": "2025-04-21T21:02:37.446622",
+    "advocacy_programs": [
+        {
+            "program_id": "8725de15-4ee3-47af-97a9-d148b88d8dab",
+            "brand": "Gonzales-Sloan",
+            "tasks_completed": [
+                {
+                    "task_id": "e0f41bc9-2eba-4108-928c-437de4ab822c",
+                    "platform": "TikTok",
+                    "post_url": "http://www.meadows-hart.biz/",
+                    "likes": 360,
+                    "comments": 41,
+                    "shares": 14,
+                    "reach": 7499
+                }
+            ],
+            "total_sales_attributed": 2048.74
+        }
+    ]
+}

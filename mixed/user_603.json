@@ -1,0 +1,26 @@
+{
+    "user_id": "8deb4dc8-d383-4dd2-9582-3ee1e53934db",
+    "name": "Ronald Monahan",
+    "email": "Sadie_Hamill28@gmail.com",
+    "instagram_handle": "@Kenya47",
+    "tiktok_handle": "@Jarvis.Ziemann22",
+    "joined_at": "2025-03-05T11:01:07.141Z",
+    "advocacy_programs": [
+        {
+            "program_id": "53b67afa-db0e-4bc6-b76d-c6c4eb483e05",
+            "brand": "Gusikowski - DuBuque",
+            "tasks_completed": [
+                {
+                    "task_id": "403adf25-b56d-4738-b68b-da76436992be",
+                    "platform": "Instagram",
+                    "post_url": "https://tired-cleaner.name/",
+                    "likes": 45,
+                    "comments": 23,
+                    "shares": 33,
+                    "reach": 1460
+                }
+            ],
+            "total_sales_attributed": 2438.4337726941835
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "78b4d3d9-089b-4aa0-b064-4d8d04ebce00",
+    "name": "Scott Toy",
+    "email": "Amina_Volkman-Schaden84@hotmail.com",
+    "instagram_handle": "@Rodrigo.Fay50",
+    "tiktok_handle": "@Joesph_Cronin88",
+    "joined_at": "2024-07-03T04:20:13.168Z",
+    "advocacy_programs": [
+        {
+            "program_id": "34349731-03f7-41bf-a301-75800216f839",
+            "brand": "Torphy - Aufderhar",
+            "tasks_completed": [
+                {
+                    "task_id": "eb77a9cc-31e8-4d49-91f2-856f07f45abe",
+                    "platform": "Instagram",
+                    "post_url": "https://unsteady-farmer.org/",
+                    "likes": 43,
+                    "comments": 42,
+                    "shares": 79,
+                    "reach": 6284
+                }
+            ],
+            "total_sales_attributed": 2358.4077775460914
+        }
+    ]
+}

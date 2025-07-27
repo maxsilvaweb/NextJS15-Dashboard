@@ -1,0 +1,26 @@
+{
+    "user_id": "4ee2d4d5-68e9-46c1-b1af-1bd0190e0044",
+    "name": "Kathy Will",
+    "email": "Thea_Corwin16@yahoo.com",
+    "instagram_handle": "@Mona_Abernathy",
+    "tiktok_handle": "@Guillermo56",
+    "joined_at": "2025-02-02T16:12:49.249Z",
+    "advocacy_programs": [
+        {
+            "program_id": "48d91eea-e729-4f69-83bc-3fc6761af104",
+            "brand": "Hermiston - Sipes",
+            "tasks_completed": [
+                {
+                    "task_id": "bc8066fc-4db9-4c70-b685-61a6010fc257",
+                    "platform": "TikTok",
+                    "post_url": "https://lazy-other.name",
+                    "likes": 326,
+                    "comments": 25,
+                    "shares": 22,
+                    "reach": 5805
+                }
+            ],
+            "total_sales_attributed": 3565.503696257312
+        }
+    ]
+}

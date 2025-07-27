@@ -1,0 +1,26 @@
+{
+    "user_id": "e1755695-0471-4409-98b6-771ca59b97d0",
+    "name": "Barbara Compton",
+    "email": "andrew43@example.com",
+    "instagram_handle": "@dunncindy",
+    "tiktok_handle": "@diana27",
+    "joined_at": "2024-10-22T22:54:52.014989",
+    "advocacy_programs": [
+        {
+            "program_id": "dc6ae4b6-f2f4-4cc2-adfd-35b486336f9a",
+            "brand": "Cannon Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ca11b58d-5310-42ba-a9c7-e74f0b22f188",
+                    "platform": "Instagram",
+                    "post_url": "https://intelligent-begonia.biz",
+                    "likes": 367,
+                    "comments": 24,
+                    "shares": 29,
+                    "reach": 4232
+                }
+            ],
+            "total_sales_attributed": 9204.27
+        }
+    ]
+}

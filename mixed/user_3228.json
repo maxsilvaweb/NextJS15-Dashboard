@@ -1,0 +1,26 @@
+{
+    "user_id": "57e7177c-f0cb-4b13-bee3-dbddf08f0d95",
+    "name": "Susan Campos",
+    "email": "jeanette36@example.org",
+    "instagram_handle": "@margaretlewis",
+    "tiktok_handle": "@kristina98",
+    "joined_at": "2023-12-15T04:26:16.335501",
+    "advocacy_programs": [
+        {
+            "program_id": "1f9726e0-c054-44e5-b331-9c0bf8ec0f92",
+            "brand": "Johnson, Upton and Howe",
+            "tasks_completed": [
+                {
+                    "task_id": "403d6000-2241-4744-af34-eb9ce9f0991e",
+                    "platform": "Instagram",
+                    "post_url": "https://pleasant-elevator.com/",
+                    "likes": 7097,
+                    "comments": 136,
+                    "shares": 65,
+                    "reach": 6597
+                }
+            ],
+            "total_sales_attributed": 4650.854647400348
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "5e8833b9-db9b-4a40-b3e3-107db4cc3a16",
+    "name": "Laura Hunter",
+    "email": "marksmith@example.org",
+    "instagram_handle": "@gonzalezjerry",
+    "tiktok_handle": "@zlynch",
+    "joined_at": "2025-05-02T18:17:54.341327",
+    "advocacy_programs": [
+        {
+            "program_id": "897acfa6-211f-44b6-aea0-8420cbbb9afb",
+            "brand": "Mendez-Pham",
+            "tasks_completed": [
+                {
+                    "task_id": "c47f8f4e-ef0c-4494-b3ff-62832696f343",
+                    "platform": "Instagram",
+                    "post_url": "https://imaginative-freckle.com",
+                    "likes": 2457,
+                    "comments": 375,
+                    "shares": 52,
+                    "reach": 813
+                }
+            ],
+            "total_sales_attributed": 381.0825526540993
+        }
+    ]
+}

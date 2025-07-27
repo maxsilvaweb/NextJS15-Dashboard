@@ -1,0 +1,26 @@
+{
+    "user_id": "c660d1bb-7722-40dd-a1da-e6503ebeff3b",
+    "name": "Donna Robinson",
+    "email": "Sarah_Hauck65@gmail.com",
+    "instagram_handle": "@garyanderson",
+    "tiktok_handle": "@sgarcia",
+    "joined_at": "2024-08-11T01:35:23.914Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7b206537-3ae5-4198-8600-83ab94fd9684",
+            "brand": "Johnson Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "1dffed6b-07f9-4f11-bfd8-0919e09d87ae",
+                    "platform": "Instagram",
+                    "post_url": "http://perez-gardner.com/",
+                    "likes": 3272,
+                    "comments": 197,
+                    "shares": 75,
+                    "reach": 4480
+                }
+            ],
+            "total_sales_attributed": 321.89
+        }
+    ]
+}

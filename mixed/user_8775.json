@@ -1,0 +1,26 @@
+{
+    "user_id": "5d064f76-8953-4561-88ee-eeb20f910d73",
+    "name": "Ronald Greenholt",
+    "email": "Chaya.Hodkiewicz@yahoo.com",
+    "instagram_handle": "@Shanna.Vandervort23",
+    "tiktok_handle": "@Norval.Wiza91",
+    "joined_at": "2024-07-29T18:17:32.021Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5c717344-fd59-4af9-b562-e78121a67f1d",
+            "brand": "Murphy, Spencer and Brakus",
+            "tasks_completed": [
+                {
+                    "task_id": "b6ea7511-13f9-4388-8fdb-383a979ad7ba",
+                    "platform": "Instagram",
+                    "post_url": "https://criminal-disconnection.name/",
+                    "likes": 123,
+                    "comments": 12,
+                    "shares": 68,
+                    "reach": 5864
+                }
+            ],
+            "total_sales_attributed": 1218.5249627493909
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "15b0e181-cd1c-45bc-a3d1-fe57f887784a",
+    "name": "Roy Rush",
+    "email": "sabrinakline@example.net",
+    "instagram_handle": "@flynnevelyn",
+    "tiktok_handle": "@zjennings",
+    "joined_at": "2024-12-13T02:31:13.268113",
+    "advocacy_programs": [
+        {
+            "program_id": "0eee91db-48a0-4fe1-9067-541ee80bf7a1",
+            "brand": "Greene Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "781002d8-37ca-4124-84e0-9d2384b2de32",
+                    "platform": "Instagram",
+                    "post_url": "https://www.carroll.com/",
+                    "likes": 4080,
+                    "comments": 231,
+                    "shares": 32,
+                    "reach": 8655
+                }
+            ],
+            "total_sales_attributed": 8025.82
+        }
+    ]
+}

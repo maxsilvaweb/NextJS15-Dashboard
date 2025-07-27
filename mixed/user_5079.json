@@ -1,0 +1,26 @@
+{
+    "user_id": "5b99822b-d881-4ba2-b30c-1bcbc1fd124c",
+    "name": "Travis Taylor",
+    "email": "zunigalawrence@example.com",
+    "instagram_handle": "@barnesanthony",
+    "tiktok_handle": "@vincentrice",
+    "joined_at": "2024-05-01T22:21:58.814568",
+    "advocacy_programs": [
+        {
+            "program_id": "33821ea2-65be-41b2-a672-3c5145ba04df",
+            "brand": "Estrada, Nguyen and Mann",
+            "tasks_completed": [
+                {
+                    "task_id": "64b9a36b-0caa-4978-bbcf-348369f2d742",
+                    "platform": "TikTok",
+                    "post_url": "http://www.parker.com/",
+                    "likes": 8087,
+                    "comments": 460,
+                    "shares": 58,
+                    "reach": 1903
+                }
+            ],
+            "total_sales_attributed": 475.1
+        }
+    ]
+}

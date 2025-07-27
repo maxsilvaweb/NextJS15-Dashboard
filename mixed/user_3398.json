@@ -1,0 +1,26 @@
+{
+    "user_id": "93ba7b70-0a1c-4ad7-a576-3eeeaa9b4cb7",
+    "name": "Mattie Pagac PhD",
+    "email": "timothybrown@example.org",
+    "instagram_handle": "@sandovalmary",
+    "tiktok_handle": "@uvega",
+    "joined_at": "2025-06-23T22:05:04.374743",
+    "advocacy_programs": [
+        {
+            "program_id": "5e4d7460-c32e-4668-9f24-1d18d78c3e3c",
+            "brand": "Tyler, White and Dawson",
+            "tasks_completed": [
+                {
+                    "task_id": "0129734f-7e60-4422-9093-0cd8f42a481f",
+                    "platform": "Instagram",
+                    "post_url": "https://glass-hutch.biz/",
+                    "likes": 7655,
+                    "comments": 500,
+                    "shares": 25,
+                    "reach": 1454
+                }
+            ],
+            "total_sales_attributed": 4161.014221875332
+        }
+    ]
+}

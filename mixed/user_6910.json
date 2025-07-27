@@ -1,0 +1,26 @@
+{
+    "user_id": "555bd198-37d5-4107-8d9a-bf4d293fafba",
+    "name": "Kim Towne",
+    "email": "Stefan.Rempel@yahoo.com",
+    "instagram_handle": "@Garth75",
+    "tiktok_handle": "@Rebeka_Farrell49",
+    "joined_at": "2024-08-08T08:08:41.715Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0b19ce8c-57e6-428c-87e4-a792dfd464b1",
+            "brand": "Schulist, Goldner and Raynor",
+            "tasks_completed": [
+                {
+                    "task_id": "14ed3c48-43ce-4940-b82c-3e26e48ad405",
+                    "platform": "Instagram",
+                    "post_url": "https://squeaky-lawmaker.net",
+                    "likes": 46,
+                    "comments": 25,
+                    "shares": 22,
+                    "reach": 6108
+                }
+            ],
+            "total_sales_attributed": 1320.0123465236577
+        }
+    ]
+}

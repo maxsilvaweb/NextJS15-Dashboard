@@ -1,0 +1,26 @@
+{
+    "user_id": "978886bc-26f4-4632-bfde-43f53376e882",
+    "name": "Ginger Torphy",
+    "email": "Ron67@yahoo.com",
+    "instagram_handle": "@Cindy_Fahey",
+    "tiktok_handle": "@Vernon.Ortiz71",
+    "joined_at": "2024-08-04T08:19:12.319Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c55bf248-e1ec-4885-ad0c-75085562851b",
+            "brand": "McGlynn, Beahan and Berge",
+            "tasks_completed": [
+                {
+                    "task_id": "939a0b43-fd6e-4d18-8dcf-dec5a0b68537",
+                    "platform": "Instagram",
+                    "post_url": "https://rural-flood.name/",
+                    "likes": 183,
+                    "comments": 0,
+                    "shares": 42,
+                    "reach": 8299
+                }
+            ],
+            "total_sales_attributed": 1276.2765704577812
+        }
+    ]
+}

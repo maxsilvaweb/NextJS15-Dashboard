@@ -1,0 +1,26 @@
+{
+    "user_id": "f29fc57b-2e02-4c7a-a7a4-ca4bc557b97b",
+    "name": "Jacqueline Mosciski",
+    "email": "Cristopher_Botsford@yahoo.com",
+    "instagram_handle": "@Dan.Braun",
+    "tiktok_handle": "@Jerad.Stamm",
+    "joined_at": "2024-06-29T12:38:51.568Z",
+    "advocacy_programs": [
+        {
+            "program_id": "007e7f9f-f188-4188-aa9b-f4f8a4606f32",
+            "brand": "Hills - Halvorson",
+            "tasks_completed": [
+                {
+                    "task_id": "c76e5ad3-6fe3-4c5b-be2e-bd2fe93660e2",
+                    "platform": "Instagram",
+                    "post_url": "https://minty-other.biz/",
+                    "likes": 327,
+                    "comments": 43,
+                    "shares": 86,
+                    "reach": 6977
+                }
+            ],
+            "total_sales_attributed": 3156.4438621209115
+        }
+    ]
+}

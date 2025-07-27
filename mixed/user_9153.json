@@ -1,0 +1,26 @@
+{
+    "user_id": "51dbb865-4b72-4510-a995-0d0b0c68421b",
+    "name": "Angela Carter",
+    "email": "michaela27@example.org",
+    "instagram_handle": "@james01",
+    "tiktok_handle": "@kvillanueva",
+    "joined_at": "2024-03-04T11:17:57.321135",
+    "advocacy_programs": [
+        {
+            "program_id": "85ec586d-2c43-4aed-a489-5e426f59af00",
+            "brand": "Mendoza-Casey",
+            "tasks_completed": [
+                {
+                    "task_id": "ebd3a678-a2b5-4855-a314-87660d50a44b",
+                    "platform": "TikTok",
+                    "post_url": "https://www.smith.com/",
+                    "likes": 220,
+                    "comments": 328,
+                    "shares": 7,
+                    "reach": 7067
+                }
+            ],
+            "total_sales_attributed": 2622.85
+        }
+    ]
+}

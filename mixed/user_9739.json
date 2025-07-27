@@ -1,0 +1,26 @@
+{
+    "user_id": "5900ce52-49d5-458a-98c1-655a047d9236",
+    "name": "Jerald Kozey",
+    "email": "Mollie_Roberts@gmail.com",
+    "instagram_handle": "@Willie_Walsh",
+    "tiktok_handle": "@Moshe.Wolff43",
+    "joined_at": "2025-02-12T20:09:05.814Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d934a49a-f4f2-42c5-8336-0b75711c167f",
+            "brand": "Fadel - Barton",
+            "tasks_completed": [
+                {
+                    "task_id": "f69ee19c-81e1-46dd-a160-47560e6e3f0c",
+                    "platform": "TikTok",
+                    "post_url": "https://perky-chap.info",
+                    "likes": 161,
+                    "comments": 9,
+                    "shares": 37,
+                    "reach": 5703
+                }
+            ],
+            "total_sales_attributed": 2353.3400514298673
+        }
+    ]
+}

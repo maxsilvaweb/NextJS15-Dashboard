@@ -1,0 +1,26 @@
+{
+    "user_id": "f643a4b5-d239-4c1b-b5bb-c53dc717f761",
+    "name": "Carlos Turner",
+    "email": "Kenton_Gibson34@hotmail.com",
+    "instagram_handle": "@Leonora_Greenholt-Rogahn",
+    "tiktok_handle": "@Damon59",
+    "joined_at": "2024-10-09T21:54:45.622Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1d9589a4-1c45-46ff-85f6-aea43df30fbf",
+            "brand": "McGlynn LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "6dbe6653-82f8-4ce3-a4b7-86a2ae68a023",
+                    "platform": "TikTok",
+                    "post_url": "https://wry-cauliflower.com",
+                    "likes": 273,
+                    "comments": 30,
+                    "shares": 42,
+                    "reach": 3444
+                }
+            ],
+            "total_sales_attributed": 914.9062148736847
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0e7600f6-cd48-464d-ba2a-6760a363ebdc",
+    "name": "Mandy Kautzer",
+    "email": "Judah.Adams@hotmail.com",
+    "instagram_handle": "@Christine_Casper22",
+    "tiktok_handle": "@Hank.Schuster-OHara",
+    "joined_at": "2024-05-28T23:57:43.367Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7b2715f1-b377-492b-9d7c-6a5b25834aca",
+            "brand": "Yost, Dickinson and Osinski",
+            "tasks_completed": [
+                {
+                    "task_id": "8b2020c1-b900-4157-8864-18e54ec8776f",
+                    "platform": "TikTok",
+                    "post_url": "https://honorable-developing.biz",
+                    "likes": 442,
+                    "comments": 42,
+                    "shares": 64,
+                    "reach": 7087
+                }
+            ],
+            "total_sales_attributed": 1567.1658497379176
+        }
+    ]
+}

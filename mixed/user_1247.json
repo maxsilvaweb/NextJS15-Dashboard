@@ -1,0 +1,26 @@
+{
+    "user_id": "f683f8d2-f257-43e8-9cd3-50d7a17bc72f",
+    "name": "Karen Johnson",
+    "email": "Carlos3@hotmail.com",
+    "instagram_handle": "@tiffany35",
+    "tiktok_handle": "@katie93",
+    "joined_at": "2025-05-29T15:54:20.098022",
+    "advocacy_programs": [
+        {
+            "program_id": "19328db2-0fb1-413c-8181-d689a6b3a9c5",
+            "brand": "Cook-Lewis",
+            "tasks_completed": [
+                {
+                    "task_id": "ff55ea2d-03d4-49a8-87e9-1ffc38854c42",
+                    "platform": "Instagram",
+                    "post_url": "http://www.moore-hayes.net/",
+                    "likes": 195,
+                    "comments": 270,
+                    "shares": 9,
+                    "reach": 1647
+                }
+            ],
+            "total_sales_attributed": 7850.83
+        }
+    ]
+}

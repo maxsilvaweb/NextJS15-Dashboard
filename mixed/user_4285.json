@@ -1,0 +1,26 @@
+{
+    "user_id": "af000864-9758-4b06-bb5f-d1731d5b44b7",
+    "name": "Max Walter",
+    "email": "Maci.Kulas66@gmail.com",
+    "instagram_handle": "@Jazmin21",
+    "tiktok_handle": "@Julian_Stanton36",
+    "joined_at": "2024-05-08T19:08:42.891Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b49e3950-dfb2-403b-8799-a757f2a0aac3",
+            "brand": "Langworth LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "93cfd047-d67d-4d23-9eb5-b1191ba51d47",
+                    "platform": "Instagram",
+                    "post_url": "https://flickering-cauliflower.net/",
+                    "likes": 383,
+                    "comments": 12,
+                    "shares": 71,
+                    "reach": 2960
+                }
+            ],
+            "total_sales_attributed": 180.63228558796862
+        }
+    ]
+}

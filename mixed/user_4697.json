@@ -1,0 +1,26 @@
+{
+    "user_id": "4a465a23-fa3b-4cc6-a006-03ec8a6e20e1",
+    "name": "Alex Shields",
+    "email": "cwhitaker@example.net",
+    "instagram_handle": "@rgeorge",
+    "tiktok_handle": "@sarah75",
+    "joined_at": "2024-08-28T23:31:16.839003",
+    "advocacy_programs": [
+        {
+            "program_id": "334b37fd-f75d-415d-bdee-ca8ca984ce58",
+            "brand": "Mccall, Salinas and Chapman",
+            "tasks_completed": [
+                {
+                    "task_id": "680cf609-fc00-4e24-a7ac-06c5b2531bef",
+                    "platform": "TikTok",
+                    "post_url": "https://informal-chainstay.net",
+                    "likes": 3909,
+                    "comments": 113,
+                    "shares": 41,
+                    "reach": 5132
+                }
+            ],
+            "total_sales_attributed": 6330.63
+        }
+    ]
+}

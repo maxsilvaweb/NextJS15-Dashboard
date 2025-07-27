@@ -1,0 +1,26 @@
+{
+    "user_id": "c21b3ec4-0176-4f95-ab23-bd662b666f7b",
+    "name": "Melody Grant",
+    "email": "ddavis@example.org",
+    "instagram_handle": "@carolyn20",
+    "tiktok_handle": "@emilynelson",
+    "joined_at": "2025-04-26T15:44:39.888867",
+    "advocacy_programs": [
+        {
+            "program_id": "46045879-3c2f-4d23-b144-8edda91d750b",
+            "brand": "Kim Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "8cae5281-7cb4-47d4-8b77-a6813dcba1e5",
+                    "platform": "TikTok",
+                    "post_url": "https://buzzing-freckle.biz/",
+                    "likes": 232,
+                    "comments": 396,
+                    "shares": 21,
+                    "reach": 1214
+                }
+            ],
+            "total_sales_attributed": 8831.31
+        }
+    ]
+}

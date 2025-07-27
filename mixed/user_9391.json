@@ -1,0 +1,26 @@
+{
+    "user_id": "19319144-acbe-4c89-af55-873770429938",
+    "name": "Jasmine Lewis",
+    "email": "amberallen@example.com",
+    "instagram_handle": "@alejandrohodge",
+    "tiktok_handle": "@alicearnold",
+    "joined_at": "2025-02-22T03:23:43.056673",
+    "advocacy_programs": [
+        {
+            "program_id": "f1849353-28d1-4d01-848e-f2fe69eecc61",
+            "brand": "Summers, Cooper and Miles",
+            "tasks_completed": [
+                {
+                    "task_id": "e1246445-d8ac-4b81-a575-503f9dd86e1b",
+                    "platform": "Instagram",
+                    "post_url": "https://medina.info/",
+                    "likes": 385,
+                    "comments": 20,
+                    "shares": 29,
+                    "reach": 4215
+                }
+            ],
+            "total_sales_attributed": 1071.7343612011855
+        }
+    ]
+}

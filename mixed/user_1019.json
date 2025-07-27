@@ -1,0 +1,26 @@
+{
+    "user_id": "753cf362-8ce7-4ffa-ab8e-f1d238d4d787",
+    "name": "Janice Franklin",
+    "email": "cmartin@example.org",
+    "instagram_handle": "@katie20",
+    "tiktok_handle": "@hernandezrobert",
+    "joined_at": "2024-10-14T22:03:02.614880",
+    "advocacy_programs": [
+        {
+            "program_id": "b33c0003-1c7a-4a38-b54d-20fae863e67a",
+            "brand": "Green-Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "21cc470d-1ddc-4ad7-bd23-5ef75508bb5d",
+                    "platform": "Facebook",
+                    "post_url": "https://sandoval.com/",
+                    "likes": 6912,
+                    "comments": 75,
+                    "shares": 41,
+                    "reach": 3077
+                }
+            ],
+            "total_sales_attributed": 550.79
+        }
+    ]
+}

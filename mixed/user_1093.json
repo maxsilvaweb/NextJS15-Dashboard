@@ -1,0 +1,26 @@
+{
+    "user_id": "4c7ab969-f5fc-4f64-af1d-f51345ecb073",
+    "name": "Jake Howell",
+    "email": "Georgianna90@yahoo.com",
+    "instagram_handle": "@Jeromy99",
+    "tiktok_handle": "@Shakira29",
+    "joined_at": "2024-04-24T01:59:18.052Z",
+    "advocacy_programs": [
+        {
+            "program_id": "da7a2b63-71e7-4891-822d-4c86045b8794",
+            "brand": "Stehr, Simonis and O'Conner",
+            "tasks_completed": [
+                {
+                    "task_id": "2f134d01-afff-43aa-94db-2ff6bca67066",
+                    "platform": "Instagram",
+                    "post_url": "https://lazy-bin.org",
+                    "likes": 133,
+                    "comments": 16,
+                    "shares": 98,
+                    "reach": 933
+                }
+            ],
+            "total_sales_attributed": 2313.733233806196
+        }
+    ]
+}

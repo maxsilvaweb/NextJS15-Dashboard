@@ -1,0 +1,26 @@
+{
+    "user_id": "72ea7507-948b-4a8a-854a-d0eabd085073",
+    "name": "Eileen Larson II",
+    "email": "Augustus.Rowe5@yahoo.com",
+    "instagram_handle": "@Lempi_Runte86",
+    "tiktok_handle": "@Euna.Bailey",
+    "joined_at": "2024-05-22T17:16:35.915Z",
+    "advocacy_programs": [
+        {
+            "program_id": "88b2a013-edcf-418a-806c-3ef1d779480d",
+            "brand": "Fahey and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "874fbb98-9298-400c-8ec5-590b69c0a3be",
+                    "platform": "TikTok",
+                    "post_url": "https://small-bourgeoisie.name/",
+                    "likes": 119,
+                    "comments": 6,
+                    "shares": 100,
+                    "reach": 5516
+                }
+            ],
+            "total_sales_attributed": 4076.4779117742864
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9ecc2f07-c2e4-4a94-97bb-b23f314ba1a5",
+    "name": "John Mann",
+    "email": "Marcella.Volkman73@yahoo.com",
+    "instagram_handle": "@Nicole.Stiedemann",
+    "tiktok_handle": "@Granville.Christiansen15",
+    "joined_at": "2024-08-11T03:37:27.332Z",
+    "advocacy_programs": [
+        {
+            "program_id": "483b250e-b9cc-4537-b90e-7099f0b30e51",
+            "brand": "Goldner - Ledner",
+            "tasks_completed": [
+                {
+                    "task_id": "d8863b11-871d-41fa-8b64-c43108368203",
+                    "platform": "Instagram",
+                    "post_url": "https://instructive-coin.net/",
+                    "likes": 104,
+                    "comments": 14,
+                    "shares": 9,
+                    "reach": 3263
+                }
+            ],
+            "total_sales_attributed": 4593.65052927908
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8bd71f91-5035-4faf-bb11-6936d2b1c331",
+    "name": "Gregg Wintheiser",
+    "email": "Dewitt70@gmail.com",
+    "instagram_handle": "@Camila_Pollich",
+    "tiktok_handle": "@Mariam23",
+    "joined_at": "2024-05-09T07:47:16.329Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f18c265c-ea65-4f20-9319-2fb8aec0d2d4",
+            "brand": "Goldner - Abbott",
+            "tasks_completed": [
+                {
+                    "task_id": "c7339747-7afa-4c23-a52e-3dca1ec42b51",
+                    "platform": "TikTok",
+                    "post_url": "https://brilliant-masterpiece.net",
+                    "likes": 316,
+                    "comments": 19,
+                    "shares": 33,
+                    "reach": 5507
+                }
+            ],
+            "total_sales_attributed": 1147.936475163897
+        }
+    ]
+}

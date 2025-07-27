@@ -1,0 +1,26 @@
+{
+    "user_id": "02621b18-6a87-4018-a89e-44cef279ce99",
+    "name": "Keith Salazar",
+    "email": "Amy.Gerlach24@yahoo.com",
+    "instagram_handle": "@stephaniemays",
+    "tiktok_handle": "@christian52",
+    "joined_at": "2023-11-02T06:09:15.158710",
+    "advocacy_programs": [
+        {
+            "program_id": "436c19a5-fe32-414b-84f7-40120a355b1f",
+            "brand": "Bond PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "932d448c-1af9-4c49-82e6-98fb55b77392",
+                    "platform": "TikTok",
+                    "post_url": "http://www.ortiz.com/",
+                    "likes": 8484,
+                    "comments": 293,
+                    "shares": 12,
+                    "reach": 4360
+                }
+            ],
+            "total_sales_attributed": 7891.82
+        }
+    ]
+}

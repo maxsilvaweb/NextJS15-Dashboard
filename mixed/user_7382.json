@@ -1,0 +1,26 @@
+{
+    "user_id": "6d0451c3-1e7e-45e4-b51b-9e5a428cec6c",
+    "name": "Joseph Montoya",
+    "email": "lloydpatrick@example.org",
+    "instagram_handle": "@vargasjavier",
+    "tiktok_handle": "@ryan04",
+    "joined_at": "2023-10-09T07:53:34.290674",
+    "advocacy_programs": [
+        {
+            "program_id": "7cf496c9-e027-4579-bbba-8738f07b28f1",
+            "brand": "Dillon-Ortiz",
+            "tasks_completed": [
+                {
+                    "task_id": "a451145f-5b7d-4efd-a903-5daa8b4abc11",
+                    "platform": "Facebook",
+                    "post_url": "https://far-density.name",
+                    "likes": 2380,
+                    "comments": 59,
+                    "shares": 69,
+                    "reach": 5788
+                }
+            ],
+            "total_sales_attributed": 1239.92
+        }
+    ]
+}

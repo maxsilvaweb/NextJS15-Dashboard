@@ -1,0 +1,26 @@
+{
+    "user_id": "ce7af6aa-a9fc-47d2-bb54-cb8c13830494",
+    "name": "Nellie Gutmann",
+    "email": "Logan.Wintheiser62@yahoo.com",
+    "instagram_handle": "@Drake75",
+    "tiktok_handle": "@Eunice.Howe",
+    "joined_at": "2024-11-24T23:12:33.923Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a919cfbc-3ab4-4c39-9cba-2022ded97fdb",
+            "brand": "Goldner, Kshlerin and Mann",
+            "tasks_completed": [
+                {
+                    "task_id": "ede06ab4-77e8-45c0-8b03-5f5e13ff2f32",
+                    "platform": "Instagram",
+                    "post_url": "https://disloyal-piglet.info",
+                    "likes": 428,
+                    "comments": 47,
+                    "shares": 26,
+                    "reach": 3989
+                }
+            ],
+            "total_sales_attributed": 1453.2548066229112
+        }
+    ]
+}

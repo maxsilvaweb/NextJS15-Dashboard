@@ -1,0 +1,26 @@
+{
+    "user_id": "e9028c6f-d33f-4a3e-8a2a-2ed7fa6f4e43",
+    "name": "Dr. Wilbur Heller",
+    "email": "Odie48@yahoo.com",
+    "instagram_handle": "@Tevin_Ruecker",
+    "tiktok_handle": "@Lela_Huels38",
+    "joined_at": "2024-07-12T17:54:29.405Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ead0875f-dab8-47df-8d18-140e55627b86",
+            "brand": "Sipes Group",
+            "tasks_completed": [
+                {
+                    "task_id": "49a6bd6f-e469-41de-be5a-0d2a72dd288b",
+                    "platform": "TikTok",
+                    "post_url": "https://vain-sustenance.name",
+                    "likes": 158,
+                    "comments": 14,
+                    "shares": 51,
+                    "reach": 8298
+                }
+            ],
+            "total_sales_attributed": 500.56722432029363
+        }
+    ]
+}

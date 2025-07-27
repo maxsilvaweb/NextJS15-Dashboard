@@ -1,0 +1,26 @@
+{
+    "user_id": "11bfa5be-4d63-4efa-9871-43b06b8e8448",
+    "name": "Tina Langworth III",
+    "email": "Declan_Collier31@gmail.com",
+    "instagram_handle": "@Sienna47",
+    "tiktok_handle": "@Orville_Gislason-Metz",
+    "joined_at": "2025-03-18T20:29:18.077Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a86ccf30-2bfe-465b-94eb-492a6bd9b1ce",
+            "brand": "Ortiz, Hackett and Schmitt",
+            "tasks_completed": [
+                {
+                    "task_id": "420529b2-fda7-4685-98e3-d76a11628601",
+                    "platform": "TikTok",
+                    "post_url": "https://musty-chow.name",
+                    "likes": 16,
+                    "comments": 34,
+                    "shares": 81,
+                    "reach": 4057
+                }
+            ],
+            "total_sales_attributed": 4625.057093594513
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "002e8e2b-a97c-408c-bcca-b9a442db685d",
+    "name": "Winston Howell IV",
+    "email": "Jevon59@gmail.com",
+    "instagram_handle": "@Rogelio81",
+    "tiktok_handle": "@Marlon55",
+    "joined_at": "2024-05-10T20:12:35.881Z",
+    "advocacy_programs": [
+        {
+            "program_id": "987891eb-208e-42f7-9e75-005b98757dfa",
+            "brand": "Grant, Farrell and Daugherty",
+            "tasks_completed": [
+                {
+                    "task_id": "1a40c152-6e89-4b16-8775-3101b394b44f",
+                    "platform": "Instagram",
+                    "post_url": "https://dreary-publication.info/",
+                    "likes": 41,
+                    "comments": 36,
+                    "shares": 44,
+                    "reach": 6454
+                }
+            ],
+            "total_sales_attributed": 1670.5612228085429
+        }
+    ]
+}

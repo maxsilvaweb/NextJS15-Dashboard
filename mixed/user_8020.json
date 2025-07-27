@@ -1,0 +1,26 @@
+{
+    "user_id": "62f25854-f76b-4918-888c-7c1bdc2d1836",
+    "name": "David Gallegos",
+    "email": "nedwards@example.com",
+    "instagram_handle": "@catherineclements",
+    "tiktok_handle": "@samuelreid",
+    "joined_at": "2025-03-11T00:03:46.399970",
+    "advocacy_programs": [
+        {
+            "program_id": "8c090056-3238-4e41-8c23-481c0e7a5ef0",
+            "brand": "Baumbach, Jacobi and Donnelly",
+            "tasks_completed": [
+                {
+                    "task_id": "f9f41c01-8c7e-4467-a4a9-2c75e67372e9",
+                    "platform": "TikTok",
+                    "post_url": "http://myers.com/",
+                    "likes": 9738,
+                    "comments": 195,
+                    "shares": 5,
+                    "reach": 3357
+                }
+            ],
+            "total_sales_attributed": 887.62
+        }
+    ]
+}

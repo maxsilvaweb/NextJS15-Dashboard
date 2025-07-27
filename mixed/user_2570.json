@@ -1,0 +1,26 @@
+{
+    "user_id": "2262654d-9b03-4a0d-827e-9d805ba68639",
+    "name": "Monica Rodriguez",
+    "email": "dpatterson@example.org",
+    "instagram_handle": "@huynhgregory",
+    "tiktok_handle": "@woodmatthew",
+    "joined_at": "2024-10-15T06:10:15.924Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f98191b8-c94a-4b65-b105-59a0e0f76bd2",
+            "brand": "Hardin-Roach",
+            "tasks_completed": [
+                {
+                    "task_id": "3087fff0-46c8-4cdf-9e63-a49b1d0acd84",
+                    "platform": "Instagram",
+                    "post_url": "https://www.swanson-sanchez.com/",
+                    "likes": 3151,
+                    "comments": 303,
+                    "shares": 3,
+                    "reach": 5247
+                }
+            ],
+            "total_sales_attributed": 8276.85
+        }
+    ]
+}

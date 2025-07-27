@@ -1,0 +1,26 @@
+{
+    "user_id": "6b8d68b0-a652-4d53-b9d1-ee0a677c2b0f",
+    "name": "Laura Clark",
+    "email": "lauren23@example.net",
+    "instagram_handle": "@robinsonkevin",
+    "tiktok_handle": "@joshuakline",
+    "joined_at": "2023-11-26T10:57:30.197205",
+    "advocacy_programs": [
+        {
+            "program_id": "3a25b509-d0c9-42fe-9c75-c74d3c75566b",
+            "brand": "Harmon-Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "b6ead34d-c7a6-4832-8257-a69025efd8ab",
+                    "platform": "Facebook",
+                    "post_url": "https://polite-starboard.org",
+                    "likes": 358,
+                    "comments": 55,
+                    "shares": 40,
+                    "reach": 3995
+                }
+            ],
+            "total_sales_attributed": 407.96
+        }
+    ]
+}

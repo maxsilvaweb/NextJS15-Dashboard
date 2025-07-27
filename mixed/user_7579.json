@@ -1,0 +1,26 @@
+{
+    "user_id": "9344937f-9ce2-401c-aecc-5a1b6b1872ae",
+    "name": "Andrew Volkman",
+    "email": "Melyna0@yahoo.com",
+    "instagram_handle": "@Vida.Ondricka",
+    "tiktok_handle": "@Ulices43",
+    "joined_at": "2024-09-19T06:54:20.898Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c06bf368-d04b-448c-839d-a1adcade2fc3",
+            "brand": "Steuber, Marvin and Roob",
+            "tasks_completed": [
+                {
+                    "task_id": "456afdc2-d9fa-4947-96c3-098b7c5d9b2a",
+                    "platform": "TikTok",
+                    "post_url": "https://unwieldy-commercial.name",
+                    "likes": 335,
+                    "comments": 27,
+                    "shares": 68,
+                    "reach": 8126
+                }
+            ],
+            "total_sales_attributed": 3651.504722695106
+        }
+    ]
+}

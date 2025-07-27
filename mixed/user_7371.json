@@ -1,0 +1,26 @@
+{
+    "user_id": "dafa3890-feb2-46ec-ac85-4f8e3a259f52",
+    "name": "Theresa Smith",
+    "email": "amber42@example.net",
+    "instagram_handle": "@Burdette_Littel",
+    "tiktok_handle": "@poncecarolyn",
+    "joined_at": "2024-03-28T03:25:57.914792",
+    "advocacy_programs": [
+        {
+            "program_id": "f901b532-fd4e-47dc-beca-47867861ce9b",
+            "brand": "Kreiger - Moen",
+            "tasks_completed": [
+                {
+                    "task_id": "f1c1011f-db75-44cc-9838-4c0590d04f0c",
+                    "platform": "Facebook",
+                    "post_url": "https://www.ritter.com/",
+                    "likes": 4103,
+                    "comments": 9,
+                    "shares": 39,
+                    "reach": 8222
+                }
+            ],
+            "total_sales_attributed": 8360.56
+        }
+    ]
+}

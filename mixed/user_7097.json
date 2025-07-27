@@ -1,0 +1,26 @@
+{
+    "user_id": "122b4e09-6bd4-415d-aa58-175171f761f9",
+    "name": "Anthony Roberts",
+    "email": "jriddle@example.com",
+    "instagram_handle": "@hsanders",
+    "tiktok_handle": "@jennifermcfarland",
+    "joined_at": "2024-06-30T19:16:35.012Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dd463452-cd7c-4a77-9e5d-5e5467ff83b8",
+            "brand": "Chase, Gregory and Boyle",
+            "tasks_completed": [
+                {
+                    "task_id": "80ce5fe9-9941-47c6-bdf9-100856b2ea30",
+                    "platform": "TikTok",
+                    "post_url": "https://www.young.info/",
+                    "likes": 9849,
+                    "comments": 3,
+                    "shares": 61,
+                    "reach": 8692
+                }
+            ],
+            "total_sales_attributed": 6603.79
+        }
+    ]
+}

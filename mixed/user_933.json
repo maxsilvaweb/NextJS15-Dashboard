@@ -1,0 +1,26 @@
+{
+    "user_id": "56bee396-c1ae-4ace-a5a2-e6c89f2ae63f",
+    "name": "Michael Morales",
+    "email": "kellyjoseph@example.net",
+    "instagram_handle": "@nicolebernard",
+    "tiktok_handle": "@wellis",
+    "joined_at": "2025-03-11T21:36:03.931676",
+    "advocacy_programs": [
+        {
+            "program_id": "99783675-0cda-40a5-af33-502aa2d5f04c",
+            "brand": "Baxter-Robinson",
+            "tasks_completed": [
+                {
+                    "task_id": "151907b6-f7c4-49c5-80f0-8401f0f7881c",
+                    "platform": "Facebook",
+                    "post_url": "https://bitter-hierarchy.biz",
+                    "likes": 8216,
+                    "comments": 120,
+                    "shares": 82,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 3283.18
+        }
+    ]
+}

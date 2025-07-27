@@ -1,0 +1,26 @@
+{
+    "user_id": "8326ca20-debe-40d2-928d-0aeb01997762",
+    "name": "Heather Crooks",
+    "email": "Ahmed_Steuber94@hotmail.com",
+    "instagram_handle": "@Maxie21",
+    "tiktok_handle": "@Alexie_Prohaska",
+    "joined_at": "2024-06-10T13:11:20.832Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7621aeff-1a79-4a72-a898-7ec416d547a4",
+            "brand": "Durgan Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ccdc155f-2b9c-4008-8bc7-d670c2fa1ff2",
+                    "platform": "Instagram",
+                    "post_url": "https://putrid-language.org/",
+                    "likes": 146,
+                    "comments": 42,
+                    "shares": 74,
+                    "reach": 4590
+                }
+            ],
+            "total_sales_attributed": 3147.827359080503
+        }
+    ]
+}

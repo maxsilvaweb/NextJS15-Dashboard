@@ -1,0 +1,26 @@
+{
+    "user_id": "89026d3b-98cb-4ede-8fef-b55d96034df7",
+    "name": "Claudia Waelchi",
+    "email": "Maryam7@yahoo.com",
+    "instagram_handle": "@Jayden_Gusikowski",
+    "tiktok_handle": "@Crystel.Hodkiewicz",
+    "joined_at": "2024-04-03T22:43:16.973Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d71d1a6f-2329-4199-9d0b-2856f2291c08",
+            "brand": "Russel Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d6cb8922-44cf-46d6-8b64-ab753ed2d9da",
+                    "platform": "TikTok",
+                    "post_url": "https://foolhardy-drive.name",
+                    "likes": 49,
+                    "comments": 0,
+                    "shares": 45,
+                    "reach": 6963
+                }
+            ],
+            "total_sales_attributed": 3700.4910146357797
+        }
+    ]
+}

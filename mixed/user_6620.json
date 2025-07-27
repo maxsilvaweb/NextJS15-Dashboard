@@ -1,0 +1,26 @@
+{
+    "user_id": "27167d67-361f-4dd0-ab57-59c4de0e925b",
+    "name": "Oscar Smith",
+    "email": "haasdavid@example.org",
+    "instagram_handle": "@dianestewart",
+    "tiktok_handle": "@darryl82",
+    "joined_at": "2024-04-20T15:23:16.437148",
+    "advocacy_programs": [
+        {
+            "program_id": "6a514e26-08b2-4f23-84f6-23144efd1ce6",
+            "brand": "Salazar, Holt and Ramirez",
+            "tasks_completed": [
+                {
+                    "task_id": "7260a45c-5e2d-419d-bc86-0b2ad9fa285f",
+                    "platform": "TikTok",
+                    "post_url": "https://www.case.com/",
+                    "likes": 5125,
+                    "comments": 295,
+                    "shares": 78,
+                    "reach": 7588
+                }
+            ],
+            "total_sales_attributed": 6286.08
+        }
+    ]
+}

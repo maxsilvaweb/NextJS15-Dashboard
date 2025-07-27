@@ -1,0 +1,26 @@
+{
+    "user_id": "4cee64b4-d303-4e9c-8f58-eedbd49389ea",
+    "name": "Sheila Collier",
+    "email": "Bria_Graham35@gmail.com",
+    "instagram_handle": "@Rylan3",
+    "tiktok_handle": "@Sebastian_Doyle",
+    "joined_at": "2024-03-27T19:05:04.887Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a5b975a2-2acc-4091-a627-a2b03b7c4f75",
+            "brand": "Little - White",
+            "tasks_completed": [
+                {
+                    "task_id": "29f4ee87-3eb0-48bf-bf99-2f1680eefb05",
+                    "platform": "Instagram",
+                    "post_url": "https://quick-celsius.info",
+                    "likes": 247,
+                    "comments": 14,
+                    "shares": 43,
+                    "reach": 3542
+                }
+            ],
+            "total_sales_attributed": 3002.5497439495302
+        }
+    ]
+}

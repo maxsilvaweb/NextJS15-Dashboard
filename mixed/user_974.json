@@ -1,0 +1,26 @@
+{
+    "user_id": "421cceec-39bc-42a9-8e41-75cba80e9291",
+    "name": "Kimberly Ellison",
+    "email": "keith40@example.com",
+    "instagram_handle": "@kevintaylor",
+    "tiktok_handle": "@wyoung",
+    "joined_at": "2023-09-23T01:44:01.951774",
+    "advocacy_programs": [
+        {
+            "program_id": "28969382-67e4-4745-ace1-9b334bb04319",
+            "brand": "Conn LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2a2e1554-f05c-4e19-8811-3976a0412a01",
+                    "platform": "YouTube",
+                    "post_url": "http://www.collins-alexander.com/",
+                    "likes": 9126,
+                    "comments": 44,
+                    "shares": 95,
+                    "reach": 941
+                }
+            ],
+            "total_sales_attributed": 9282.58
+        }
+    ]
+}

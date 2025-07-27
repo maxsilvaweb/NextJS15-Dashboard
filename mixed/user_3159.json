@@ -1,0 +1,26 @@
+{
+    "user_id": "4f5f3472-88ed-473c-b544-d5466f51e923",
+    "name": "Willis Ruecker",
+    "email": "Else12@hotmail.com",
+    "instagram_handle": "@Fred.Hilll",
+    "tiktok_handle": "@Justina.Kuphal",
+    "joined_at": "2024-07-31T23:15:24.270Z",
+    "advocacy_programs": [
+        {
+            "program_id": "555f353f-b3c6-4c73-a5e5-e6707f8e19f8",
+            "brand": "Rath - Boyer",
+            "tasks_completed": [
+                {
+                    "task_id": "058c8b00-72e1-47d7-b4a7-26f91d7b53db",
+                    "platform": "Instagram",
+                    "post_url": "https://graceful-chap.biz",
+                    "likes": 30,
+                    "comments": 10,
+                    "shares": 43,
+                    "reach": 7230
+                }
+            ],
+            "total_sales_attributed": 3367.680154437868
+        }
+    ]
+}

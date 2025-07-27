@@ -1,0 +1,26 @@
+{
+    "user_id": "13437df5-03c0-4bed-9ebe-b797727a3d5d",
+    "name": "Lena Kunze",
+    "email": "Franco_Kerluke75@gmail.com",
+    "instagram_handle": "@Dan_Kohler12",
+    "tiktok_handle": "@Fletcher_Hahn",
+    "joined_at": "2024-09-04T00:35:35.626Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c13eeebe-634d-4f90-8b06-8ff7bf689a6d",
+            "brand": "Boehm, Bosco and Mohr",
+            "tasks_completed": [
+                {
+                    "task_id": "8a238c33-0fe3-445d-95ad-cc41c92a71a0",
+                    "platform": "Instagram",
+                    "post_url": "https://intent-instance.name/",
+                    "likes": 250,
+                    "comments": 42,
+                    "shares": 68,
+                    "reach": 9642
+                }
+            ],
+            "total_sales_attributed": 4639.820751432444
+        }
+    ]
+}

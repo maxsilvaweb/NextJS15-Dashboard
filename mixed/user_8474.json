@@ -1,0 +1,26 @@
+{
+    "user_id": "ec9c5227-20b2-40ff-b809-79a1403f4d93",
+    "name": "Nicole Marshall",
+    "email": "gsweeney@example.org",
+    "instagram_handle": "@ywright",
+    "tiktok_handle": "@vmoore",
+    "joined_at": "2023-09-01T17:07:30.924787",
+    "advocacy_programs": [
+        {
+            "program_id": "b024c46d-fadf-4fbf-8ba4-f6501834ce6d",
+            "brand": "Martinez, Meadows and Tucker",
+            "tasks_completed": [
+                {
+                    "task_id": "02455287-0b25-4e51-b797-cac856f615fa",
+                    "platform": "Facebook",
+                    "post_url": "https://wilson.com/",
+                    "likes": 2878,
+                    "comments": 422,
+                    "shares": 81,
+                    "reach": 6339
+                }
+            ],
+            "total_sales_attributed": 9028.73
+        }
+    ]
+}

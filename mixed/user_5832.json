@@ -1,0 +1,26 @@
+{
+    "user_id": "5e01e9ab-c476-4ba6-8341-29a3aa5ff50c",
+    "name": "Marcus Volkman",
+    "email": "Beaulah92@gmail.com",
+    "instagram_handle": "@Bryce.Gerhold59",
+    "tiktok_handle": "@Cora_Baumbach4",
+    "joined_at": "2024-10-25T19:30:35.819Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d98eea81-c0e8-4f7a-a5dd-8bf94403e567",
+            "brand": "Wiegand LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "8ce17d04-a395-4fce-8696-2a7a6bbcd755",
+                    "platform": "TikTok",
+                    "post_url": "https://royal-space.biz/",
+                    "likes": 457,
+                    "comments": 45,
+                    "shares": 70,
+                    "reach": 9270
+                }
+            ],
+            "total_sales_attributed": 3161.675445269776
+        }
+    ]
+}

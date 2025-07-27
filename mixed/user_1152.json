@@ -1,0 +1,26 @@
+{
+    "user_id": "423fb3b0-ebd3-4f40-99aa-06a8fe0611dc",
+    "name": "David Hawkins",
+    "email": "rogersjames@example.com",
+    "instagram_handle": "@pattersonrachel",
+    "tiktok_handle": "@vanessa11",
+    "joined_at": "2024-08-29T20:57:35.833887",
+    "advocacy_programs": [
+        {
+            "program_id": "29986a50-40fd-4a3d-adaf-7911e546cf1d",
+            "brand": "Hunter Group",
+            "tasks_completed": [
+                {
+                    "task_id": "cfb5dfc6-d07c-47da-831c-a1335c25a3d1",
+                    "platform": "TikTok",
+                    "post_url": "http://baldwin.com/",
+                    "likes": 100,
+                    "comments": 4,
+                    "shares": 96,
+                    "reach": 5190
+                }
+            ],
+            "total_sales_attributed": 1129.1041892946523
+        }
+    ]
+}

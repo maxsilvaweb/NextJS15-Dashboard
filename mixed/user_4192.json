@@ -1,0 +1,26 @@
+{
+    "user_id": "21d6c79d-e622-493f-82d9-e8e81bc243aa",
+    "name": "Genevieve West",
+    "email": "Arlo_Wiza65@yahoo.com",
+    "instagram_handle": "@Macie2",
+    "tiktok_handle": "@Gregory_MacGyver85",
+    "joined_at": "2024-06-09T08:27:12.953Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7ff0c30f-7427-40f1-a49c-12cd0728a7dd",
+            "brand": "Gusikowski Group",
+            "tasks_completed": [
+                {
+                    "task_id": "c287f160-3dc2-4571-8e19-c84da846140e",
+                    "platform": "Instagram",
+                    "post_url": "https://sick-pillow.biz/",
+                    "likes": 498,
+                    "comments": 5,
+                    "shares": 62,
+                    "reach": 3669
+                }
+            ],
+            "total_sales_attributed": 3140.4037733554014
+        }
+    ]
+}

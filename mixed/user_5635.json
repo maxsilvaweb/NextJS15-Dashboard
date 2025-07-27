@@ -1,0 +1,26 @@
+{
+    "user_id": "cfe2de82-8d33-43f0-8447-8978431e9818",
+    "name": "Bertha Bernhard",
+    "email": "Noemie_Hegmann@yahoo.com",
+    "instagram_handle": "@Cordia_Keeling40",
+    "tiktok_handle": "@Zachary90",
+    "joined_at": "2024-11-14T21:44:20.250Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0125e7db-1d1a-4e36-b97f-67684c7128b4",
+            "brand": "Cartwright LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d01534ec-9e77-48e4-8af8-ce3e8661d8dc",
+                    "platform": "Instagram",
+                    "post_url": "https://beneficial-markup.biz",
+                    "likes": 451,
+                    "comments": 9,
+                    "shares": 71,
+                    "reach": 4696
+                }
+            ],
+            "total_sales_attributed": 2205.0822296333536
+        }
+    ]
+}

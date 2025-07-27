@@ -1,0 +1,26 @@
+{
+    "user_id": "2d5aa779-2941-49c8-95ea-67d3992998de",
+    "name": "Delia Grimes",
+    "email": "Vesta_Aufderhar89@gmail.com",
+    "instagram_handle": "@Nelda_Friesen",
+    "tiktok_handle": "@Albin.Wuckert24",
+    "joined_at": "2024-09-28T08:11:06.193Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8d1dbd40-6517-44e7-931c-4498637c3d04",
+            "brand": "Gutmann - Kemmer",
+            "tasks_completed": [
+                {
+                    "task_id": "9e63d829-f7d0-4f94-8346-e2731e53bc6e",
+                    "platform": "Instagram",
+                    "post_url": "https://fuzzy-trash.name/",
+                    "likes": 476,
+                    "comments": 27,
+                    "shares": 4,
+                    "reach": 5650
+                }
+            ],
+            "total_sales_attributed": 925.1004124334385
+        }
+    ]
+}

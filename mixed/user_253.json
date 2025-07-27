@@ -1,0 +1,26 @@
+{
+    "user_id": "10423e27-b95e-4185-9ab2-1a5143f791ac",
+    "name": "Steven Schamberger",
+    "email": "Roslyn.Emard@hotmail.com",
+    "instagram_handle": "@Zachery_Swift72",
+    "tiktok_handle": "@Oral37",
+    "joined_at": "2024-04-19T05:07:56.315Z",
+    "advocacy_programs": [
+        {
+            "program_id": "98e8b4e5-2746-407f-ad90-3e918e82e10d",
+            "brand": "Schneider LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "dd20b678-e009-4bf3-952b-1a6d5fe56991",
+                    "platform": "TikTok",
+                    "post_url": "https://assured-legging.net/",
+                    "likes": 68,
+                    "comments": 33,
+                    "shares": 82,
+                    "reach": 4090
+                }
+            ],
+            "total_sales_attributed": 3292.296349489553
+        }
+    ]
+}

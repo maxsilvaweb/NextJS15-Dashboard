@@ -1,0 +1,26 @@
+{
+    "user_id": "afb6d704-d1e3-4bbf-ae0e-5092db4d681f",
+    "name": "Ms. Ora Kunde-Wehner",
+    "email": "Hulda_Kerluke50@hotmail.com",
+    "instagram_handle": "@Elouise_Mayert25",
+    "tiktok_handle": "@Woodrow7",
+    "joined_at": "2024-05-02T11:41:46.341Z",
+    "advocacy_programs": [
+        {
+            "program_id": "390f620d-2532-4a1f-b9e9-da44a3048f4a",
+            "brand": "Stiedemann Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d78c3426-1ff9-44a2-b7b6-08c5fea67ab3",
+                    "platform": "TikTok",
+                    "post_url": "https://lumbering-wriggler.com/",
+                    "likes": 225,
+                    "comments": 19,
+                    "shares": 65,
+                    "reach": 3791
+                }
+            ],
+            "total_sales_attributed": 2008.0913187305143
+        }
+    ]
+}

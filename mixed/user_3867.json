@@ -1,0 +1,26 @@
+{
+    "user_id": "80d33895-b402-44b1-b283-5dd2758a0be0",
+    "name": "Mr. Rudy Kshlerin",
+    "email": "Arianna20@hotmail.com",
+    "instagram_handle": "@Ashleigh.Little",
+    "tiktok_handle": "@Jettie.Hessel",
+    "joined_at": "2025-01-08T16:50:14.969Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7912bbf3-afa4-4080-a0c3-8a0649e1308e",
+            "brand": "Ward, Schroeder and Schaefer",
+            "tasks_completed": [
+                {
+                    "task_id": "0920e547-04a6-4e89-84a5-95ef19134755",
+                    "platform": "Instagram",
+                    "post_url": "https://sudden-beret.name",
+                    "likes": 320,
+                    "comments": 18,
+                    "shares": 68,
+                    "reach": 9110
+                }
+            ],
+            "total_sales_attributed": 4856.155472973692
+        }
+    ]
+}

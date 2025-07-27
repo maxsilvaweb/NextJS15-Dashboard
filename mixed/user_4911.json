@@ -1,0 +1,26 @@
+{
+    "user_id": "ae82a115-478d-468d-bf5c-8093bcac3cfd",
+    "name": "Erica Hill",
+    "email": "williamswhitney@example.com",
+    "instagram_handle": "@malonekayla",
+    "tiktok_handle": "@jonathanlee",
+    "joined_at": "2025-07-10T21:34:11.231792",
+    "advocacy_programs": [
+        {
+            "program_id": "acae5d0d-1acd-4eae-99a0-115320c7c838",
+            "brand": "Moore Group",
+            "tasks_completed": [
+                {
+                    "task_id": "f1f79ce8-7ce3-49bf-803d-f4d33f0e1e56",
+                    "platform": "Instagram",
+                    "post_url": "https://www.marks-smith.info/",
+                    "likes": 8808,
+                    "comments": 30,
+                    "shares": 8,
+                    "reach": 3715
+                }
+            ],
+            "total_sales_attributed": 2353.72
+        }
+    ]
+}

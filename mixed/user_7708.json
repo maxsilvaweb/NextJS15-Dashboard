@@ -1,0 +1,26 @@
+{
+    "user_id": "e3d1cc5b-4eae-4aa0-9cef-990c6a1b83f8",
+    "name": "Ms. Lois Gottlieb",
+    "email": "Jaqueline_Trantow80@yahoo.com",
+    "instagram_handle": "@Cydney91",
+    "tiktok_handle": "@Verlie_Wolf",
+    "joined_at": "2024-06-12T19:09:31.549Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d662e3dc-2e76-4cb5-bf0f-fb04625fe691",
+            "brand": "Sporer Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "43877a87-8cde-4de5-9ecc-805ae1be0d76",
+                    "platform": "Instagram",
+                    "post_url": "https://pale-poetry.net/",
+                    "likes": 305,
+                    "comments": 17,
+                    "shares": 78,
+                    "reach": 3937
+                }
+            ],
+            "total_sales_attributed": 2423.9133799208867
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ef2244c9-5da8-44ac-a6a1-0e32baec8185",
+    "name": "Denise MacGyver",
+    "email": "Felicita28@yahoo.com",
+    "instagram_handle": "@Armando48",
+    "tiktok_handle": "@Yvette29",
+    "joined_at": "2024-09-27T08:40:05.737Z",
+    "advocacy_programs": [
+        {
+            "program_id": "840f4a5b-4e05-4541-ba85-77a0630becb1",
+            "brand": "Purdy, Howe and Sanford",
+            "tasks_completed": [
+                {
+                    "task_id": "32313946-5170-4410-8285-0957e6b4ed74",
+                    "platform": "Instagram",
+                    "post_url": "https://afraid-arcade.org",
+                    "likes": 69,
+                    "comments": 50,
+                    "shares": 64,
+                    "reach": 7169
+                }
+            ],
+            "total_sales_attributed": 4749.327567690775
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "fc313e29-d06e-42eb-8c06-9d6bdbe97d62",
+    "name": "Amanda Greene",
+    "email": "franklinamanda@example.net",
+    "instagram_handle": "@crystal67",
+    "tiktok_handle": "@hectorjohnson",
+    "joined_at": "2024-03-20T15:44:08.834021",
+    "advocacy_programs": [
+        {
+            "program_id": "46ed79c7-fe6c-48b3-b4f0-b748278edc32",
+            "brand": "Brakus, Larson and Herzog",
+            "tasks_completed": [
+                {
+                    "task_id": "4ff5ba67-45c3-4e2a-8ab8-e3055c1f3bea",
+                    "platform": "Instagram",
+                    "post_url": "http://huang.com/",
+                    "likes": 9803,
+                    "comments": 15,
+                    "shares": 27,
+                    "reach": 9610
+                }
+            ],
+            "total_sales_attributed": 3552.3
+        }
+    ]
+}

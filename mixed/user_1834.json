@@ -1,0 +1,26 @@
+{
+    "user_id": "90870b0d-2502-4dbe-9936-4469b74bc54c",
+    "name": "Christopher Singh",
+    "email": "mrodriguez@example.net",
+    "instagram_handle": "@chasecandace",
+    "tiktok_handle": "@Laura25",
+    "joined_at": "2025-07-18T19:14:36.782064",
+    "advocacy_programs": [
+        {
+            "program_id": "8016e0f7-45b4-4502-b462-92111077255d",
+            "brand": "Funk, Carroll and McClure",
+            "tasks_completed": [
+                {
+                    "task_id": "cfa3c0c8-4d3e-4798-8b68-ab689088ea02",
+                    "platform": "TikTok",
+                    "post_url": "https://unconscious-fencing.biz",
+                    "likes": 2710,
+                    "comments": 113,
+                    "shares": 27,
+                    "reach": 839
+                }
+            ],
+            "total_sales_attributed": 6889.31
+        }
+    ]
+}

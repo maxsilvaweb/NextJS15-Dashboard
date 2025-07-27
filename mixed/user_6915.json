@@ -1,0 +1,26 @@
+{
+    "user_id": "89a48393-2e17-471f-acf8-94fdf790a6d2",
+    "name": "Amanda Hughes",
+    "email": "phamstephanie@example.com",
+    "instagram_handle": "@catherinemaldonado",
+    "tiktok_handle": "@david33",
+    "joined_at": "2025-01-27T06:23:27.461778",
+    "advocacy_programs": [
+        {
+            "program_id": "3314dbee-6366-444c-b44a-8eea9046860d",
+            "brand": "Fowler, Murray and Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "ad6ae1ac-1284-41a6-87a5-592bc4aa252a",
+                    "platform": "TikTok",
+                    "post_url": "http://gross.biz/",
+                    "likes": 9433,
+                    "comments": 236,
+                    "shares": 78,
+                    "reach": 5035
+                }
+            ],
+            "total_sales_attributed": 2413.8766621509644
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1b9a76d2-f775-4151-8962-5297c538e8ad",
+    "name": "Donna Gilmore",
+    "email": "hendersonjason@example.org",
+    "instagram_handle": "@michaelolson",
+    "tiktok_handle": "@bowersraymond",
+    "joined_at": "2024-08-28T12:22:38.081180",
+    "advocacy_programs": [
+        {
+            "program_id": "e98ffd4a-9d92-49c4-a0ea-c0296f239a9d",
+            "brand": "Veum LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e5c868e8-e993-473c-94fc-767727fe21ad",
+                    "platform": "Facebook",
+                    "post_url": "https://recent-cop-out.com/",
+                    "likes": 1399,
+                    "comments": 22,
+                    "shares": 82,
+                    "reach": 7070
+                }
+            ],
+            "total_sales_attributed": 2598.541019095517
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9b41997f-65cf-43e3-a0db-a4532739dba1",
+    "name": "Benny Kris",
+    "email": "Leonel.Franecki51@gmail.com",
+    "instagram_handle": "@Hassie19",
+    "tiktok_handle": "@Cole_Franey",
+    "joined_at": "2024-11-17T00:52:15.984Z",
+    "advocacy_programs": [
+        {
+            "program_id": "25edd52f-6301-4666-ac9b-44b02410f993",
+            "brand": "Terry Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b02748c8-fddc-490e-8d82-0c888a9fcd20",
+                    "platform": "Instagram",
+                    "post_url": "https://zany-manner.net",
+                    "likes": 88,
+                    "comments": 28,
+                    "shares": 97,
+                    "reach": 9270
+                }
+            ],
+            "total_sales_attributed": 3769.646724681741
+        }
+    ]
+}

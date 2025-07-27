@@ -1,0 +1,26 @@
+{
+    "user_id": "c286a279-c24d-40cd-9b43-e7d750a69a6c",
+    "name": "Miss Laurie Yundt",
+    "email": "Estelle_Carroll@gmail.com",
+    "instagram_handle": "@Vergie_Abshire",
+    "tiktok_handle": "@Favian_Johnston",
+    "joined_at": "2024-06-11T15:15:45.490Z",
+    "advocacy_programs": [
+        {
+            "program_id": "216c66f3-edaa-4cb5-996b-030a70c9c342",
+            "brand": "Nolan, Lang and Shields",
+            "tasks_completed": [
+                {
+                    "task_id": "f975d575-ebd3-483e-8056-c5360bea1f22",
+                    "platform": "Instagram",
+                    "post_url": "https://dismal-strategy.info/",
+                    "likes": 296,
+                    "comments": 12,
+                    "shares": 99,
+                    "reach": 2389
+                }
+            ],
+            "total_sales_attributed": 2846.919000059572
+        }
+    ]
+}

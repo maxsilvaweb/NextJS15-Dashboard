@@ -1,0 +1,26 @@
+{
+    "user_id": "610e0f7a-ba83-4467-a66d-e08772c8a075",
+    "name": "Walter Baumbach",
+    "email": "Maybelle.Berge@hotmail.com",
+    "instagram_handle": "@Lee83",
+    "tiktok_handle": "@Eleanora.Bergnaum60",
+    "joined_at": "2025-01-03T17:35:35.281Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0824197d-9aa9-4240-90dd-eede39628931",
+            "brand": "Robel - Kuphal",
+            "tasks_completed": [
+                {
+                    "task_id": "01e4562a-3d78-4506-89e2-2e5727d2b7ce",
+                    "platform": "Instagram",
+                    "post_url": "https://proud-peninsula.org",
+                    "likes": 138,
+                    "comments": 6,
+                    "shares": 54,
+                    "reach": 5526
+                }
+            ],
+            "total_sales_attributed": 308.31585347671694
+        }
+    ]
+}

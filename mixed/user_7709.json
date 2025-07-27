@@ -1,0 +1,26 @@
+{
+    "user_id": "05b4e0f2-8e7c-4858-9a4d-5365edf68c11",
+    "name": "Anne Hyatt",
+    "email": "Dana_Bartoletti66@hotmail.com",
+    "instagram_handle": "@Rosa_Boyle15",
+    "tiktok_handle": "@Ubaldo.OHara",
+    "joined_at": "2024-08-24T04:06:05.302Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a8eb56c7-b288-4d3f-b2ea-bbc7994b7b3d",
+            "brand": "Haley - Cole",
+            "tasks_completed": [
+                {
+                    "task_id": "c6bfcb65-0a20-44a7-a9ec-dad36b5fc060",
+                    "platform": "Instagram",
+                    "post_url": "https://unsung-fedora.net/",
+                    "likes": 178,
+                    "comments": 29,
+                    "shares": 21,
+                    "reach": 5545
+                }
+            ],
+            "total_sales_attributed": 969.4853509263708
+        }
+    ]
+}

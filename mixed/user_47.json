@@ -1,0 +1,26 @@
+{
+    "user_id": "f3fdcee3-0324-4f47-a53a-4c2515933bdd",
+    "name": "Jared Buckridge",
+    "email": "Cortney.Olson67@yahoo.com",
+    "instagram_handle": "@Jazmyne.Jerde90",
+    "tiktok_handle": "@Jaylen29",
+    "joined_at": "2024-06-15T18:06:37.208Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b0c15fcf-563d-434d-86a5-5320f476bd97",
+            "brand": "Keebler - Leuschke",
+            "tasks_completed": [
+                {
+                    "task_id": "10bb9d4d-8b90-48e5-8ab1-11925e245340",
+                    "platform": "Instagram",
+                    "post_url": "https://those-surface.name/",
+                    "likes": 369,
+                    "comments": 1,
+                    "shares": 15,
+                    "reach": 1255
+                }
+            ],
+            "total_sales_attributed": 2225.6245378630374
+        }
+    ]
+}

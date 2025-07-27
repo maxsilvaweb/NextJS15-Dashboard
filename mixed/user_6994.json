@@ -1,0 +1,26 @@
+{
+    "user_id": "7e8f7fb3-3bf1-4f97-9968-436bf51b1738",
+    "name": "Stacy Garcia",
+    "email": "Eino12@hotmail.com",
+    "instagram_handle": "@adamshepherd",
+    "tiktok_handle": "@rschmidt",
+    "joined_at": "2024-07-18T19:21:52.028452",
+    "advocacy_programs": [
+        {
+            "program_id": "b20a0253-0a1b-440e-ab30-22213d27b07a",
+            "brand": "Morales-Freeman",
+            "tasks_completed": [
+                {
+                    "task_id": "9904df4c-52df-4b67-9ca3-cffcc602d02d",
+                    "platform": "TikTok",
+                    "post_url": "https://www.haynes.com/",
+                    "likes": 59,
+                    "comments": 36,
+                    "shares": 61,
+                    "reach": 7607
+                }
+            ],
+            "total_sales_attributed": 631.893205012832
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "469a4e58-aefc-4390-b42d-daacffd19bde",
+    "name": "Matthew Kent",
+    "email": "anthonygordon@example.com",
+    "instagram_handle": "@btaylor",
+    "tiktok_handle": "@bensoncindy",
+    "joined_at": "2024-07-24T14:42:53.619535",
+    "advocacy_programs": [
+        {
+            "program_id": "8d501c04-b348-4bda-a78c-0acf82c4fc0e",
+            "brand": "Davis, Kaufman and Byrd",
+            "tasks_completed": [
+                {
+                    "task_id": "91d39ae2-14af-4629-a3de-a1d4e5f129bc",
+                    "platform": "TikTok",
+                    "post_url": "https://unselfish-coast.name",
+                    "likes": 6529,
+                    "comments": 352,
+                    "shares": 10,
+                    "reach": 1716
+                }
+            ],
+            "total_sales_attributed": 4951.25
+        }
+    ]
+}

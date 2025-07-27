@@ -1,0 +1,26 @@
+{
+    "user_id": "ad5e2863-7343-48b1-bd21-db27be35a1d4",
+    "name": "Rhonda Smith",
+    "email": "qthompson@example.org",
+    "instagram_handle": "@david93",
+    "tiktok_handle": "@daniellewolf",
+    "joined_at": "2024-09-28T12:18:08.679100",
+    "advocacy_programs": [
+        {
+            "program_id": "d94f2808-011f-4d59-b074-1280aa5c79ac",
+            "brand": "Jenkins-Brandt",
+            "tasks_completed": [
+                {
+                    "task_id": "ab64efdf-80cb-41a8-8686-49cde62daf2b",
+                    "platform": "TikTok",
+                    "post_url": "https://www.wilson.biz/",
+                    "likes": 397,
+                    "comments": 448,
+                    "shares": 91,
+                    "reach": 5804
+                }
+            ],
+            "total_sales_attributed": 4198.62
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7d0140ed-3ad3-4ad9-8ddf-405273b23844",
+    "name": "Vicky O'Conner",
+    "email": "blackburnjacqueline@example.org",
+    "instagram_handle": "@johnsonjustin",
+    "tiktok_handle": "@Gerry_Miller11",
+    "joined_at": "2024-12-10T21:52:02.691011",
+    "advocacy_programs": [
+        {
+            "program_id": "a06ceea1-59c5-4d7e-8562-b81a4dea177e",
+            "brand": "Brady Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "dc1107c4-0260-41d9-8674-f6418ae5bd20",
+                    "platform": "TikTok",
+                    "post_url": "https://scott.com/",
+                    "likes": 1799,
+                    "comments": 187,
+                    "shares": 59,
+                    "reach": 2587
+                }
+            ],
+            "total_sales_attributed": 8455.04
+        }
+    ]
+}

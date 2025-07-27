@@ -1,0 +1,26 @@
+{
+    "user_id": "e2ac61d3-55b4-4a0a-b4b1-f82388926dd4",
+    "name": "Amanda Huffman",
+    "email": "tamaraorozco@example.net",
+    "instagram_handle": "@cheryl51",
+    "tiktok_handle": "@mcintyresheila",
+    "joined_at": "2025-04-26T10:23:27.847883",
+    "advocacy_programs": [
+        {
+            "program_id": "04c8c325-e22c-46dc-b1f9-d6fc8b4b25b1",
+            "brand": "Mitchell, Morris and Lowery",
+            "tasks_completed": [
+                {
+                    "task_id": "dd861e80-0e96-4c83-88c5-f1bcbd26fa9d",
+                    "platform": "Instagram",
+                    "post_url": "https://www.mccoy.com/",
+                    "likes": 7222,
+                    "comments": 50,
+                    "shares": 21,
+                    "reach": 7581
+                }
+            ],
+            "total_sales_attributed": 8667.07
+        }
+    ]
+}

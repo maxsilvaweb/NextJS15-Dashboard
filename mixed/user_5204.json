@@ -1,0 +1,26 @@
+{
+    "user_id": "5307054c-d2df-40e4-a179-4cf411d1e1b1",
+    "name": "Leslie Smith",
+    "email": "Cleveland_Nienow@hotmail.com",
+    "instagram_handle": "@Jacques_Mitchell",
+    "tiktok_handle": "@Ashlee67",
+    "joined_at": "2024-03-22T16:12:24.636Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6c5f6c36-026a-46e7-bf3c-d635206df6c7",
+            "brand": "Ullrich - Rolfson",
+            "tasks_completed": [
+                {
+                    "task_id": "cf855cbf-d2e2-4b20-9c76-2c8456b9b3f8",
+                    "platform": "TikTok",
+                    "post_url": "https://frizzy-meatloaf.info/",
+                    "likes": 37,
+                    "comments": 49,
+                    "shares": 63,
+                    "reach": 7402
+                }
+            ],
+            "total_sales_attributed": 4202.765067437252
+        }
+    ]
+}

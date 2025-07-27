@@ -1,0 +1,26 @@
+{
+    "user_id": "b40b6f25-ee9b-41b7-b67f-f9add389d4c4",
+    "name": "Leonard Robinson",
+    "email": "marcus29@example.com",
+    "instagram_handle": "@wattsryan",
+    "tiktok_handle": "@bbarrett",
+    "joined_at": "2025-06-23T18:17:57.510452",
+    "advocacy_programs": [
+        {
+            "program_id": "e0e41d5f-c500-4946-ae55-2a82434d9d6a",
+            "brand": "Kennedy-Hill",
+            "tasks_completed": [
+                {
+                    "task_id": "3f3af167-581e-4be6-829b-61872ef55103",
+                    "platform": "TikTok",
+                    "post_url": "http://grant.com/",
+                    "likes": 187,
+                    "comments": 25,
+                    "shares": 4,
+                    "reach": 2658
+                }
+            ],
+            "total_sales_attributed": 9899.18
+        }
+    ]
+}

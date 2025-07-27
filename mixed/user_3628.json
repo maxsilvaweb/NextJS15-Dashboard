@@ -1,0 +1,26 @@
+{
+    "user_id": "be08cea6-2d43-4f92-9478-517e177c3569",
+    "name": "Ellis Fisher",
+    "email": "Laury_Bednar97@yahoo.com",
+    "instagram_handle": "@Audra13",
+    "tiktok_handle": "@Willy_Fisher",
+    "joined_at": "2024-06-09T01:24:59.923Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dc6dcd51-1c14-4270-a033-9ac238f9ce23",
+            "brand": "Kertzmann Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "4e3cc0a8-f6a2-4f80-b1b5-f7408c56244c",
+                    "platform": "TikTok",
+                    "post_url": "https://quick-witted-resolve.net",
+                    "likes": 425,
+                    "comments": 24,
+                    "shares": 46,
+                    "reach": 4031
+                }
+            ],
+            "total_sales_attributed": 2040.5353717993235
+        }
+    ]
+}

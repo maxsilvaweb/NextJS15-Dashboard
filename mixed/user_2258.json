@@ -1,0 +1,26 @@
+{
+    "user_id": "8f7984b3-2df2-4bb7-bbb2-7b60b71f6f29",
+    "name": "Danny Gerlach",
+    "email": "Robb_Mann@gmail.com",
+    "instagram_handle": "@Margot.Cronin",
+    "tiktok_handle": "@Clay.Jaskolski-Hickle88",
+    "joined_at": "2024-05-23T00:32:45.548Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4a7913aa-1770-4e9d-bb44-1e65a466c86b",
+            "brand": "Marquardt - Considine",
+            "tasks_completed": [
+                {
+                    "task_id": "2e3f086b-54b4-4f15-8c19-d4e1833f6062",
+                    "platform": "TikTok",
+                    "post_url": "https://negligible-outrun.org/",
+                    "likes": 494,
+                    "comments": 10,
+                    "shares": 42,
+                    "reach": 1144
+                }
+            ],
+            "total_sales_attributed": 1524.8614800649552
+        }
+    ]
+}

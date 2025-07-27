@@ -1,0 +1,26 @@
+{
+    "user_id": "fb98ff23-24f8-4feb-8482-8976e1de1e8d",
+    "name": "Mariah Baker",
+    "email": "whall@example.net",
+    "instagram_handle": "@ianpierce",
+    "tiktok_handle": "@irodriguez",
+    "joined_at": "2024-10-22T08:01:22.586Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f7cf49d8-9b0e-414f-9752-28df5c8b0b0c",
+            "brand": "Ruiz, Vasquez and Allen",
+            "tasks_completed": [
+                {
+                    "task_id": "944b087c-ddfc-4411-b8c4-47cdb53493fa",
+                    "platform": "Facebook",
+                    "post_url": "https://miserable-boulevard.com",
+                    "likes": 1014,
+                    "comments": 30,
+                    "shares": 74,
+                    "reach": 6561
+                }
+            ],
+            "total_sales_attributed": 1354.74
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "f16cd8c3-e72f-41f5-af01-cd8fb1aa6c76",
+    "name": "Lee Dietrich",
+    "email": "david74@example.com",
+    "instagram_handle": "@shaunschaefer",
+    "tiktok_handle": "@rhondawalsh",
+    "joined_at": "2023-08-29T01:50:21.120697",
+    "advocacy_programs": [
+        {
+            "program_id": "f3b1d967-b4c5-473e-8250-2501808328f2",
+            "brand": "Hoover-Griffin",
+            "tasks_completed": [
+                {
+                    "task_id": "580f701f-f145-4097-9008-aacdaa7cbd62",
+                    "platform": "Instagram",
+                    "post_url": "https://www.jackson.com/",
+                    "likes": 5003,
+                    "comments": 15,
+                    "shares": 88,
+                    "reach": 3809
+                }
+            ],
+            "total_sales_attributed": 7882.28
+        }
+    ]
+}

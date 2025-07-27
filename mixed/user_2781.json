@@ -1,0 +1,26 @@
+{
+    "user_id": "5f9e8e5a-c48b-4a04-8f39-22f5ab1d25a4",
+    "name": "Robin Williamson",
+    "email": "jennifermorris@example.net",
+    "instagram_handle": "@albert29",
+    "tiktok_handle": "@robert54",
+    "joined_at": "2025-03-31T22:25:14.384080",
+    "advocacy_programs": [
+        {
+            "program_id": "3d2e13dc-2e65-4bd5-8974-3e3d907e5be9",
+            "brand": "Washington Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "56cea650-e7d2-467f-9b5d-c9d6857f29ff",
+                    "platform": "Instagram",
+                    "post_url": "https://lopez.com/",
+                    "likes": 8658,
+                    "comments": 30,
+                    "shares": 61,
+                    "reach": 1805
+                }
+            ],
+            "total_sales_attributed": 3013.56
+        }
+    ]
+}

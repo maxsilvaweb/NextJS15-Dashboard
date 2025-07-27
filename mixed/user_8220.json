@@ -1,0 +1,26 @@
+{
+    "user_id": "2eb5de6f-b182-4aed-865e-4d5da6c8576a",
+    "name": "Cynthia Baxter",
+    "email": "kathymoreno@example.com",
+    "instagram_handle": "@howellrachel",
+    "tiktok_handle": "@ramosadriana",
+    "joined_at": "2023-11-10T14:48:58.713396",
+    "advocacy_programs": [
+        {
+            "program_id": "6f2d3c58-d8ad-4116-abe0-60f79e6d18c5",
+            "brand": "Stevens, Vaughn and Hernandez",
+            "tasks_completed": [
+                {
+                    "task_id": "e4f94591-6e36-4e42-b815-32868237cf58",
+                    "platform": "TikTok",
+                    "post_url": "http://www.howard.biz/",
+                    "likes": 8678,
+                    "comments": 18,
+                    "shares": 75,
+                    "reach": 9529
+                }
+            ],
+            "total_sales_attributed": 4273.37
+        }
+    ]
+}

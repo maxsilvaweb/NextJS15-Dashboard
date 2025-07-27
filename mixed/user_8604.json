@@ -1,0 +1,26 @@
+{
+    "user_id": "68a7c456-6fc8-4a54-bad7-a3e40a6e9358",
+    "name": "Brian Charles",
+    "email": "rebecca67@example.com",
+    "instagram_handle": "@jeffrey59",
+    "tiktok_handle": "@ygomez",
+    "joined_at": "2024-04-11T10:33:35.709754",
+    "advocacy_programs": [
+        {
+            "program_id": "709f330c-2cd0-4333-95b9-5e7aa5b72292",
+            "brand": "Cochran Group",
+            "tasks_completed": [
+                {
+                    "task_id": "21e9fdb8-d5c1-4e61-88a3-7c0b95342380",
+                    "platform": "TikTok",
+                    "post_url": "https://distorted-precedent.name/",
+                    "likes": 354,
+                    "comments": 28,
+                    "shares": 93,
+                    "reach": 1802
+                }
+            ],
+            "total_sales_attributed": 4711.31
+        }
+    ]
+}

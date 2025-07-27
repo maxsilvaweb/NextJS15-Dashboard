@@ -1,0 +1,26 @@
+{
+    "user_id": "8da4c1ff-7820-408e-ac96-ba83314fb9b4",
+    "name": "Karla Grimes",
+    "email": "Lowell49@yahoo.com",
+    "instagram_handle": "@Elza.Weimann12",
+    "tiktok_handle": "@Emely.OReilly",
+    "joined_at": "2024-09-03T05:38:02.938Z",
+    "advocacy_programs": [
+        {
+            "program_id": "95f47cd0-f79f-4dc2-bc0e-9ba3ae356612",
+            "brand": "Hartmann, Wisozk and Yost",
+            "tasks_completed": [
+                {
+                    "task_id": "8c3df323-9c53-41e7-8e40-0554b869b732",
+                    "platform": "Instagram",
+                    "post_url": "https://marvelous-going.biz",
+                    "likes": 419,
+                    "comments": 40,
+                    "shares": 12,
+                    "reach": 9446
+                }
+            ],
+            "total_sales_attributed": 4190.8586332243285
+        }
+    ]
+}

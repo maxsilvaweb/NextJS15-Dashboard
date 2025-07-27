@@ -1,0 +1,26 @@
+{
+    "user_id": "d078c170-c26f-451f-ace7-1ee4f17a8e80",
+    "name": "Ed Luettgen I",
+    "email": "Melisa_Botsford@hotmail.com",
+    "instagram_handle": "@Hassie73",
+    "tiktok_handle": "@Dallas.Langosh88",
+    "joined_at": "2024-06-10T05:17:32.671Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1b3f851d-733a-4d3e-a370-bd5068ca36c5",
+            "brand": "Pacocha, Orn and Jast",
+            "tasks_completed": [
+                {
+                    "task_id": "ce6f5e28-5de4-4255-9cc2-80446aa98a39",
+                    "platform": "Instagram",
+                    "post_url": "https://stable-backbone.com/",
+                    "likes": 14,
+                    "comments": 31,
+                    "shares": 2,
+                    "reach": 4021
+                }
+            ],
+            "total_sales_attributed": 1527.733875533344
+        }
+    ]
+}

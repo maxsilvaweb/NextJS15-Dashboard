@@ -1,0 +1,26 @@
+{
+    "user_id": "c0616ddc-0d3c-4084-b83d-8d0916c493fe",
+    "name": "Renee May",
+    "email": "wilsonryan@example.com",
+    "instagram_handle": "@nhernandez",
+    "tiktok_handle": "@gbennett",
+    "joined_at": "2024-02-24T21:45:29.007466",
+    "advocacy_programs": [
+        {
+            "program_id": "9c8683ee-d298-47a5-b9a8-f31fc559729b",
+            "brand": "Wong, Reynolds and Matthews",
+            "tasks_completed": [
+                {
+                    "task_id": "839a65bd-f51c-428a-867c-7696a700e361",
+                    "platform": "Instagram",
+                    "post_url": "http://nichols.com/",
+                    "likes": 4280,
+                    "comments": 246,
+                    "shares": 8,
+                    "reach": 6257
+                }
+            ],
+            "total_sales_attributed": 2677.76
+        }
+    ]
+}

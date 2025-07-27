@@ -1,0 +1,26 @@
+{
+    "user_id": "6d32a3b0-30af-4c67-8eec-2da8ec8f99d1",
+    "name": "Randall Kling",
+    "email": "Liam.Schinner43@yahoo.com",
+    "instagram_handle": "@Madie20",
+    "tiktok_handle": "@Alex_Paucek-Dicki",
+    "joined_at": "2024-04-26T11:55:37.909Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6de63689-9317-4bd8-8d35-9bceec4da319",
+            "brand": "Reichert, Bernhard and Kuvalis",
+            "tasks_completed": [
+                {
+                    "task_id": "df8d16d2-32b1-456f-8739-82a55eb8cbf9",
+                    "platform": "TikTok",
+                    "post_url": "https://diligent-intervention.com/",
+                    "likes": 50,
+                    "comments": 35,
+                    "shares": 48,
+                    "reach": 1523
+                }
+            ],
+            "total_sales_attributed": 3550.989689745433
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "edda1180-d567-40ae-87cd-5d13b4e8afe3",
+    "name": "Renee Langosh",
+    "email": "cmorgan@example.com",
+    "instagram_handle": "@davidgrant",
+    "tiktok_handle": "@debralewis",
+    "joined_at": "2025-03-31T20:59:09.076251",
+    "advocacy_programs": [
+        {
+            "program_id": "72203f37-1698-491b-b23b-2a8971c853f4",
+            "brand": "Moran Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "86720876-54b5-48c4-954b-c44e3eb0af62",
+                    "platform": "Instagram",
+                    "post_url": "https://www.frye.com/",
+                    "likes": 9701,
+                    "comments": 167,
+                    "shares": 65,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 8804.89
+        }
+    ]
+}

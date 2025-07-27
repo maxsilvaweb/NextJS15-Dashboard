@@ -1,0 +1,26 @@
+{
+    "user_id": "e01f32f2-cea1-4585-96cb-bf8e56ee0afe",
+    "name": "Emily Clark",
+    "email": "amysalazar@example.net",
+    "instagram_handle": "@mvargas",
+    "tiktok_handle": "@trevor34",
+    "joined_at": "2024-04-23T16:01:15.654319",
+    "advocacy_programs": [
+        {
+            "program_id": "f578217c-0c8d-4472-ba3a-b22e2287547a",
+            "brand": "Meyer, Stevenson and Kramer",
+            "tasks_completed": [
+                {
+                    "task_id": "b41071cc-72ed-40e7-981d-263ab4f0d0ab",
+                    "platform": "Facebook",
+                    "post_url": "https://www.ferguson.com/",
+                    "likes": 322,
+                    "comments": 169,
+                    "shares": 22,
+                    "reach": 614
+                }
+            ],
+            "total_sales_attributed": 6890.69
+        }
+    ]
+}

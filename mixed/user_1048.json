@@ -1,0 +1,26 @@
+{
+    "user_id": "8ca1969a-cd0a-4e04-a3c5-8f51880e8f2d",
+    "name": "Tami Johns",
+    "email": "Dejuan12@gmail.com",
+    "instagram_handle": "@Kaleigh_Kautzer13",
+    "tiktok_handle": "@Pasquale90",
+    "joined_at": "2025-03-01T05:15:52.022Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bb12cacf-de3d-4e8b-9cfc-86eb4385f487",
+            "brand": "Nader, Feest and Gerlach",
+            "tasks_completed": [
+                {
+                    "task_id": "184fefaa-e106-4447-9f99-e9ed700cde2b",
+                    "platform": "TikTok",
+                    "post_url": "https://handy-jet.name",
+                    "likes": 254,
+                    "comments": 1,
+                    "shares": 51,
+                    "reach": 8485
+                }
+            ],
+            "total_sales_attributed": 4642.691747458507
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "02006eb3-70e4-4e80-aca3-8d53818000f9",
+    "name": "Mr. Robert Carr",
+    "email": "dennis30@example.net",
+    "instagram_handle": "@ubrown",
+    "tiktok_handle": "@knightkevin",
+    "joined_at": "2025-01-14T11:30:31.179773",
+    "advocacy_programs": [
+        {
+            "program_id": "a755a6d7-a8be-4c37-800d-c976f33893ea",
+            "brand": "Brown, Gilmore and Mendoza",
+            "tasks_completed": [
+                {
+                    "task_id": "abdd03aa-5c75-460f-977f-e3231a5b6a30",
+                    "platform": "Instagram",
+                    "post_url": "https://www.peterson-little.com/",
+                    "likes": 304,
+                    "comments": 23,
+                    "shares": 53,
+                    "reach": 3538
+                }
+            ],
+            "total_sales_attributed": 1951.22
+        }
+    ]
+}

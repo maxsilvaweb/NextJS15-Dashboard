@@ -1,0 +1,26 @@
+{
+    "user_id": "5217e2c8-f9cd-47d0-980f-775a887703f2",
+    "name": "Dominique Armstrong",
+    "email": "jessicanorton@example.org",
+    "instagram_handle": "@jacobsonmike",
+    "tiktok_handle": "@clee",
+    "joined_at": "2025-03-26T10:34:03.048435",
+    "advocacy_programs": [
+        {
+            "program_id": "cd89848c-3606-4780-bb4a-90bdc889f72c",
+            "brand": "Velasquez-Franco",
+            "tasks_completed": [
+                {
+                    "task_id": "793c3c6b-3136-492e-8c8d-37f6f1c12d55",
+                    "platform": "Instagram",
+                    "post_url": "http://www.jensen-williams.net/",
+                    "likes": 3084,
+                    "comments": 286,
+                    "shares": 13,
+                    "reach": 4939
+                }
+            ],
+            "total_sales_attributed": 5907.38
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2503556f-12b6-4a89-891e-a05d7d0fb0ae",
+    "name": "Debra Wright",
+    "email": "cynthia93@example.com",
+    "instagram_handle": "@mhodges",
+    "tiktok_handle": "@jamesjohnson",
+    "joined_at": "2025-03-06T20:42:42.328932",
+    "advocacy_programs": [
+        {
+            "program_id": "dc620f6a-ce40-46dd-9f41-05e69a331110",
+            "brand": "Kris, Pollich and Schamberger",
+            "tasks_completed": [
+                {
+                    "task_id": "7a12a1e0-9ad2-4a07-9298-527326f5fcc2",
+                    "platform": "Instagram",
+                    "post_url": "https://www.nelson.info/",
+                    "likes": 419,
+                    "comments": 47,
+                    "shares": 36,
+                    "reach": 5166
+                }
+            ],
+            "total_sales_attributed": 6473.79
+        }
+    ]
+}

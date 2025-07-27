@@ -1,0 +1,26 @@
+{
+    "user_id": "21e256d6-d489-4ebc-87fb-d848ee67602e",
+    "name": "Denise Young",
+    "email": "kelly62@example.org",
+    "instagram_handle": "@marie49",
+    "tiktok_handle": "@eobrien",
+    "joined_at": "2024-12-09T05:05:30.856788",
+    "advocacy_programs": [
+        {
+            "program_id": "70cc1cee-65b1-4f7f-8b65-9702be2bad98",
+            "brand": "Diaz-Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "7d4e37fa-df41-44b6-b1c7-735200d6df06",
+                    "platform": "TikTok",
+                    "post_url": "https://hopkins.com/",
+                    "likes": 8444,
+                    "comments": 105,
+                    "shares": 84,
+                    "reach": 5249
+                }
+            ],
+            "total_sales_attributed": 3226.8318694091067
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4a402e78-5936-4433-8c8e-88124d67f450",
+    "name": "Hugo Rath",
+    "email": "Abe_Haag38@gmail.com",
+    "instagram_handle": "@Derick18",
+    "tiktok_handle": "@Jarrell73",
+    "joined_at": "2024-09-11T19:01:20.220Z",
+    "advocacy_programs": [
+        {
+            "program_id": "67c71852-9a21-409c-9ffc-9e627bdbe7cc",
+            "brand": "Gulgowski - Windler",
+            "tasks_completed": [
+                {
+                    "task_id": "29320114-2bb4-406f-86c6-77b564735d88",
+                    "platform": "TikTok",
+                    "post_url": "https://hurtful-unibody.net",
+                    "likes": 185,
+                    "comments": 29,
+                    "shares": 45,
+                    "reach": 5915
+                }
+            ],
+            "total_sales_attributed": 770.4179612839748
+        }
+    ]
+}

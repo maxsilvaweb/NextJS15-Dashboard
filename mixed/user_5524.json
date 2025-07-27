@@ -1,0 +1,26 @@
+{
+    "user_id": "faab1e08-763c-4276-9c1c-7fa28f887fde",
+    "name": "Chelsey Cobb MD",
+    "email": "jennifer71@example.com",
+    "instagram_handle": "@sarajones",
+    "tiktok_handle": "@suarezleslie",
+    "joined_at": "2025-05-11T23:05:01.348485",
+    "advocacy_programs": [
+        {
+            "program_id": "febbb635-d304-48d9-9f79-51dbad0b8f12",
+            "brand": "Kovacek Group",
+            "tasks_completed": [
+                {
+                    "task_id": "55145000-8bbb-4a08-8267-ee5329d41dca",
+                    "platform": "YouTube",
+                    "post_url": "https://bradley-freeman.com/",
+                    "likes": 1716,
+                    "comments": 3,
+                    "shares": 26,
+                    "reach": 5131
+                }
+            ],
+            "total_sales_attributed": 8196.61
+        }
+    ]
+}

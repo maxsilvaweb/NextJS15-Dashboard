@@ -1,0 +1,26 @@
+{
+    "user_id": "e68377b7-447d-4d46-b4ad-b0778ae91f37",
+    "name": "Lauren Konopelski",
+    "email": "Patrick73@gmail.com",
+    "instagram_handle": "@Minnie69",
+    "tiktok_handle": "@Marilyne23",
+    "joined_at": "2024-12-15T11:56:24.705Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c1c45ef2-9c38-4c44-8a43-0005f8b4ddc1",
+            "brand": "Monahan Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "0794b731-6032-453c-9571-79c5829cdd7b",
+                    "platform": "Instagram",
+                    "post_url": "https://simplistic-character.com",
+                    "likes": 486,
+                    "comments": 9,
+                    "shares": 19,
+                    "reach": 3639
+                }
+            ],
+            "total_sales_attributed": 1404.9740072150057
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4b92f5bf-5baa-48b0-9384-08ffca35833e",
+    "name": "Ms. Erma Gerhold-Greenfelder",
+    "email": "Marisa74@yahoo.com",
+    "instagram_handle": "@Mariana.Frami32",
+    "tiktok_handle": "@Marisol48",
+    "joined_at": "2024-08-17T14:09:18.900Z",
+    "advocacy_programs": [
+        {
+            "program_id": "89d934ff-b022-438d-982d-47585f1bc5f4",
+            "brand": "Greenfelder - Jenkins",
+            "tasks_completed": [
+                {
+                    "task_id": "2a125b0a-12b5-458e-ac7c-efd30502345f",
+                    "platform": "Instagram",
+                    "post_url": "https://unhappy-pecan.org/",
+                    "likes": 230,
+                    "comments": 12,
+                    "shares": 96,
+                    "reach": 3621
+                }
+            ],
+            "total_sales_attributed": 310.8929047313816
+        }
+    ]
+}

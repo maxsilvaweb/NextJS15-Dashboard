@@ -1,0 +1,26 @@
+{
+    "user_id": "b724f7d3-f701-4597-9b25-9575bee40cd1",
+    "name": "Jose Bryant",
+    "email": "john90@example.org",
+    "instagram_handle": "@jamesjohnston",
+    "tiktok_handle": "@gshaw",
+    "joined_at": "2024-11-15T06:57:35.655820",
+    "advocacy_programs": [
+        {
+            "program_id": "6b5811d4-bf6e-40e2-9781-86b88f42237c",
+            "brand": "Sanchez PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1886cc5c-da30-4377-be2c-6f05875a45af",
+                    "platform": "Instagram",
+                    "post_url": "https://innocent-icebreaker.net",
+                    "likes": 364,
+                    "comments": 331,
+                    "shares": 59,
+                    "reach": 1616
+                }
+            ],
+            "total_sales_attributed": 9492.71
+        }
+    ]
+}

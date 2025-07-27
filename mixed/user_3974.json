@@ -1,0 +1,26 @@
+{
+    "user_id": "637f47e4-3439-4ed0-b563-4665e091046a",
+    "name": "Eddie Myers",
+    "email": "hgalloway@example.net",
+    "instagram_handle": "@katie26",
+    "tiktok_handle": "@hartmanphilip",
+    "joined_at": "2024-12-05T04:05:05.666668",
+    "advocacy_programs": [
+        {
+            "program_id": "afcb43b6-5f63-44e4-ac2a-14e80aeb4266",
+            "brand": "Harris PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e13ee659-2742-4e90-ab0f-0a45fdcd9f41",
+                    "platform": "Instagram",
+                    "post_url": "http://www.fritz.org/",
+                    "likes": 8185,
+                    "comments": 359,
+                    "shares": 58,
+                    "reach": 4587
+                }
+            ],
+            "total_sales_attributed": 2073.28
+        }
+    ]
+}

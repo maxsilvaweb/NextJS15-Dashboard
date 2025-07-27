@@ -1,0 +1,26 @@
+{
+    "user_id": "e0dd2dc5-f253-42aa-9b44-a0fe5d6c234b",
+    "name": "Stacey Powlowski",
+    "email": "Scotty97@yahoo.com",
+    "instagram_handle": "@Ibrahim_Pollich86",
+    "tiktok_handle": "@Bud.Rohan52",
+    "joined_at": "2024-04-15T06:35:01.774Z",
+    "advocacy_programs": [
+        {
+            "program_id": "43d7d2c9-6c7e-47eb-8ee9-c507ef3b1414",
+            "brand": "McKenzie - Bechtelar",
+            "tasks_completed": [
+                {
+                    "task_id": "35d79330-22cc-4c25-8d1c-85fe66ddcc11",
+                    "platform": "Instagram",
+                    "post_url": "https://burly-perp.info",
+                    "likes": 384,
+                    "comments": 33,
+                    "shares": 49,
+                    "reach": 8645
+                }
+            ],
+            "total_sales_attributed": 3821.0674221459285
+        }
+    ]
+}

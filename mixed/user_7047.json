@@ -1,0 +1,26 @@
+{
+    "user_id": "ee89fe51-192c-4ea2-8c0b-c4b48576948c",
+    "name": "Salvatore Leannon",
+    "email": "Rudolph5@yahoo.com",
+    "instagram_handle": "@Aditya_King",
+    "tiktok_handle": "@Christiana17",
+    "joined_at": "2024-05-25T15:02:33.480Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b95fcff4-8c24-40d5-8114-97ed796f4cfc",
+            "brand": "Gutkowski - Padberg",
+            "tasks_completed": [
+                {
+                    "task_id": "d06659cf-c9c0-4507-a5d9-727696ee16a9",
+                    "platform": "Instagram",
+                    "post_url": "https://unwilling-illusion.org/",
+                    "likes": 16,
+                    "comments": 42,
+                    "shares": 88,
+                    "reach": 667
+                }
+            ],
+            "total_sales_attributed": 292.4719454257139
+        }
+    ]
+}

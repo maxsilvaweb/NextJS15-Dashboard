@@ -1,0 +1,26 @@
+{
+    "user_id": "2f814061-6213-4c3c-bae7-7a424ce33617",
+    "name": "Cheryl Watkins",
+    "email": "mcbridemonica@example.com",
+    "instagram_handle": "@richardstark",
+    "tiktok_handle": "@coopermark",
+    "joined_at": "2024-03-15T20:53:35.043748",
+    "advocacy_programs": [
+        {
+            "program_id": "20c25dcf-75e1-4daf-bfdd-73373587eb76",
+            "brand": "Suarez, Sharp and Carpenter",
+            "tasks_completed": [
+                {
+                    "task_id": "1ebc016b-1aa3-408d-a0a3-0966b8466b79",
+                    "platform": "TikTok",
+                    "post_url": "https://light-coliseum.org/",
+                    "likes": 7831,
+                    "comments": 45,
+                    "shares": 14,
+                    "reach": 6651
+                }
+            ],
+            "total_sales_attributed": 1708.78
+        }
+    ]
+}

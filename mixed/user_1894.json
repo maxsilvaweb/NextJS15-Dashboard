@@ -1,0 +1,26 @@
+{
+    "user_id": "0c52f959-8389-4302-b5d0-db881126d50b",
+    "name": "Christina Collins",
+    "email": "harrisstephen@example.org",
+    "instagram_handle": "@xwilson",
+    "tiktok_handle": "@michelle11",
+    "joined_at": "2025-07-08T09:03:09.662918",
+    "advocacy_programs": [
+        {
+            "program_id": "356009a9-f74e-4a67-9730-c9f2d380006a",
+            "brand": "Satterfield LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "6383fa29-b73b-4378-8f9c-14e438562cbc",
+                    "platform": "Facebook",
+                    "post_url": "http://hernandez.com/",
+                    "likes": 3891,
+                    "comments": 39,
+                    "shares": 28,
+                    "reach": 9894
+                }
+            ],
+            "total_sales_attributed": 7068.0
+        }
+    ]
+}

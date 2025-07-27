@@ -1,0 +1,26 @@
+{
+    "user_id": "9aa4c5a5-2f80-4ac6-9f8c-945c0350f75c",
+    "name": "Dr. Marco Hickle",
+    "email": "Delilah_Bradtke-Stark62@gmail.com",
+    "instagram_handle": "@Helen_Bosco",
+    "tiktok_handle": "@Zita84",
+    "joined_at": "2024-03-30T01:21:20.875Z",
+    "advocacy_programs": [
+        {
+            "program_id": "731c1845-e970-4eaf-af5f-90aef86f0f1e",
+            "brand": "Crist Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "43483b4d-b9a7-4455-8880-f6a5f18448dd",
+                    "platform": "TikTok",
+                    "post_url": "https://motionless-venom.org/",
+                    "likes": 318,
+                    "comments": 13,
+                    "shares": 7,
+                    "reach": 9253
+                }
+            ],
+            "total_sales_attributed": 512.6314074099341
+        }
+    ]
+}

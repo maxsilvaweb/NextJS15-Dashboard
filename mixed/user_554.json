@@ -1,0 +1,26 @@
+{
+    "user_id": "b19f0066-1efe-43b7-a167-0cbcd908aff7",
+    "name": "Rene Leannon",
+    "email": "Colleen68@gmail.com",
+    "instagram_handle": "@Alexis65",
+    "tiktok_handle": "@Jakob.Fahey",
+    "joined_at": "2025-02-20T07:16:52.230Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a4026637-f136-4b48-b4e4-ab6e3b5a9088",
+            "brand": "Rice, Prohaska and Bartell",
+            "tasks_completed": [
+                {
+                    "task_id": "3ebbc96d-fe3a-40c0-9ef8-fb594d34f758",
+                    "platform": "Instagram",
+                    "post_url": "https://blaring-championship.name",
+                    "likes": 118,
+                    "comments": 22,
+                    "shares": 55,
+                    "reach": 1806
+                }
+            ],
+            "total_sales_attributed": 4431.95322477308
+        }
+    ]
+}

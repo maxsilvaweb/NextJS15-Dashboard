@@ -1,0 +1,26 @@
+{
+    "user_id": "3d4bf867-7067-4afd-bfbe-0a6b43060ca3",
+    "name": "Michaela Nelson",
+    "email": "Oswaldo24@hotmail.com",
+    "instagram_handle": "@angel10",
+    "tiktok_handle": "@smithkaren",
+    "joined_at": "2025-07-09T17:01:39.785479",
+    "advocacy_programs": [
+        {
+            "program_id": "92b1633a-1e21-4819-82f1-a82a32c8f713",
+            "brand": "Robertson PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e334bd0c-2941-4128-97e1-9f95f15bc85b",
+                    "platform": "TikTok",
+                    "post_url": "https://bates.biz/",
+                    "likes": 9704,
+                    "comments": 18,
+                    "shares": 28,
+                    "reach": 8569
+                }
+            ],
+            "total_sales_attributed": 2126.832887361091
+        }
+    ]
+}

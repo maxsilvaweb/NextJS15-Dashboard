@@ -1,0 +1,26 @@
+{
+    "user_id": "e5cef8a9-e85f-4f8f-b0f1-f77a47a57939",
+    "name": "Phillip Zuniga",
+    "email": "christophermcdonald@example.com",
+    "instagram_handle": "@leedavid",
+    "tiktok_handle": "@pageangela",
+    "joined_at": "2024-08-04T12:21:05.895Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4e64a924-8389-4baa-a65e-c19f8a232863",
+            "brand": "Mccall Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "1d62ef8d-3cc1-4b31-9f34-5282e6e2646b",
+                    "platform": "TikTok",
+                    "post_url": "https://www.myers.com/",
+                    "likes": 517,
+                    "comments": 49,
+                    "shares": 68,
+                    "reach": 6245
+                }
+            ],
+            "total_sales_attributed": 6986.92
+        }
+    ]
+}

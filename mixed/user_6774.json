@@ -1,0 +1,26 @@
+{
+    "user_id": "83090071-0cee-41b3-a5d5-2d3d19121c4c",
+    "name": "Paul Lee",
+    "email": "Emerald88@yahoo.com",
+    "instagram_handle": "@melaniejones",
+    "tiktok_handle": "@natalieflowers",
+    "joined_at": "2024-10-23T05:44:49.093Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bffb7218-9d58-4d44-af65-a2d76a9116d0",
+            "brand": "Campbell-Davenport",
+            "tasks_completed": [
+                {
+                    "task_id": "4cfa8fae-d057-41ee-b35b-385a933041bb",
+                    "platform": "Twitter",
+                    "post_url": "https://esteemed-fork.biz/",
+                    "likes": 7516,
+                    "comments": 94,
+                    "shares": 39,
+                    "reach": 1452
+                }
+            ],
+            "total_sales_attributed": 4197.3
+        }
+    ]
+}

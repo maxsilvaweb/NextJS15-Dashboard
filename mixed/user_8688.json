@@ -1,0 +1,26 @@
+{
+    "user_id": "069ccb0b-5832-4cc3-a153-0070ffeacec4",
+    "name": "Sarah Lynch",
+    "email": "Cole.Hagenes59@gmail.com",
+    "instagram_handle": "@Abraham_Hayes",
+    "tiktok_handle": "@Julien35",
+    "joined_at": "2024-03-30T22:50:05.671Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e85cb542-1063-4dfb-bbf2-829cbacf1e95",
+            "brand": "Hyatt Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f8939ce3-5d86-4a5e-8d87-33f24a479a77",
+                    "platform": "Instagram",
+                    "post_url": "https://supportive-glider.org",
+                    "likes": 218,
+                    "comments": 2,
+                    "shares": 37,
+                    "reach": 3288
+                }
+            ],
+            "total_sales_attributed": 2489.630149611787
+        }
+    ]
+}

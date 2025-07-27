@@ -1,0 +1,26 @@
+{
+    "user_id": "02dcddf5-f1d8-4165-a2d9-e0b49c2d3ce3",
+    "name": "Joseph Mosley",
+    "email": "Danika.Lesch64@hotmail.com",
+    "instagram_handle": "@vparker",
+    "tiktok_handle": "@avilajoshua",
+    "joined_at": "2024-02-25T12:26:53.714304",
+    "advocacy_programs": [
+        {
+            "program_id": "2f9d1675-6f20-4fde-b0ac-ae2b64cdd50c",
+            "brand": "Love, Proctor and Hayes",
+            "tasks_completed": [
+                {
+                    "task_id": "0634a373-cfc9-4959-ab20-9177e53daf46",
+                    "platform": "TikTok",
+                    "post_url": "https://www.curry.org/",
+                    "likes": 2123,
+                    "comments": 21,
+                    "shares": 79,
+                    "reach": 9227
+                }
+            ],
+            "total_sales_attributed": 7615.0
+        }
+    ]
+}

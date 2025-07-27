@@ -1,0 +1,26 @@
+{
+    "user_id": "1af2d8aa-e7f1-4271-82eb-abb5cf514aa5",
+    "name": "Trevor Sauer",
+    "email": "Jennyfer_Willms@gmail.com",
+    "instagram_handle": "@Sharon_Pfeffer94",
+    "tiktok_handle": "@Juanita.Jones",
+    "joined_at": "2024-10-29T19:08:23.210Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dcbe6e22-809f-49a3-ae30-1dfa8825b4bc",
+            "brand": "Heller, Koepp and Orn",
+            "tasks_completed": [
+                {
+                    "task_id": "d6c3e624-906b-4b64-bf32-debab7a74f7a",
+                    "platform": "Instagram",
+                    "post_url": "https://known-fork.net",
+                    "likes": 380,
+                    "comments": 40,
+                    "shares": 97,
+                    "reach": 5393
+                }
+            ],
+            "total_sales_attributed": 3203.3606716904656
+        }
+    ]
+}

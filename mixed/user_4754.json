@@ -1,0 +1,26 @@
+{
+    "user_id": "d4102704-f21c-47c6-9648-25fe7caf1de6",
+    "name": "Kristen Gill",
+    "email": "crystal94@example.com",
+    "instagram_handle": "@victoriawillis",
+    "tiktok_handle": "@matthew16",
+    "joined_at": "2023-08-10T02:26:49.370952",
+    "advocacy_programs": [
+        {
+            "program_id": "351ec534-75f9-447f-9304-e975ef0943ed",
+            "brand": "Nader, O'Connell and Larson",
+            "tasks_completed": [
+                {
+                    "task_id": "45df0654-9767-426b-9f2b-132da2aed1b2",
+                    "platform": "Facebook",
+                    "post_url": "http://www.lucero.info/",
+                    "likes": 2587,
+                    "comments": 451,
+                    "shares": 31,
+                    "reach": 1018
+                }
+            ],
+            "total_sales_attributed": 2330.32
+        }
+    ]
+}

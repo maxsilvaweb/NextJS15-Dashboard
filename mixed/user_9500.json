@@ -1,0 +1,26 @@
+{
+    "user_id": "07c58600-e470-476c-a41e-c4c4fcef5d8e",
+    "name": "Carlton Langosh DVM",
+    "email": "Raven.Franecki@hotmail.com",
+    "instagram_handle": "@Magnus.Jones",
+    "tiktok_handle": "@Casey.Parisian",
+    "joined_at": "2025-02-07T13:12:21.616Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1fbef25d-709a-4ebc-b004-7cd1854695a1",
+            "brand": "Mitchell - Towne",
+            "tasks_completed": [
+                {
+                    "task_id": "1c1f841b-7b0f-4424-b870-39a2ee817470",
+                    "platform": "TikTok",
+                    "post_url": "https://unhappy-creator.name/",
+                    "likes": 472,
+                    "comments": 30,
+                    "shares": 59,
+                    "reach": 842
+                }
+            ],
+            "total_sales_attributed": 4981.191301011719
+        }
+    ]
+}

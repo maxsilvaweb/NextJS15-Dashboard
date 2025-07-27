@@ -1,0 +1,26 @@
+{
+    "user_id": "340fa3fc-a0dc-4ad7-a2f7-23fe9f17d577",
+    "name": "Craig Santiago",
+    "email": "Silas28@gmail.com",
+    "instagram_handle": "@davidshea",
+    "tiktok_handle": "@xlozano",
+    "joined_at": "2023-07-29T14:26:23.984173",
+    "advocacy_programs": [
+        {
+            "program_id": "59dd4ce9-9bfd-4878-813b-29d0d6105177",
+            "brand": "Herrera, Lewis and Haynes",
+            "tasks_completed": [
+                {
+                    "task_id": "ec513663-b317-478e-9066-3af92a2dd605",
+                    "platform": "TikTok",
+                    "post_url": "https://hungry-mallard.com",
+                    "likes": 4714,
+                    "comments": 44,
+                    "shares": 30,
+                    "reach": 8181
+                }
+            ],
+            "total_sales_attributed": 9831.08
+        }
+    ]
+}

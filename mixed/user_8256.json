@@ -1,0 +1,26 @@
+{
+    "user_id": "5867b620-88ba-44b1-9e12-f18098d5ba1d",
+    "name": "Ora Weimann",
+    "email": "dwilliams@example.net",
+    "instagram_handle": "@rebecca48",
+    "tiktok_handle": "@heather57",
+    "joined_at": "2024-07-15T10:27:56.360090",
+    "advocacy_programs": [
+        {
+            "program_id": "58dea372-5d5d-4ff3-a726-04025f04c98a",
+            "brand": "Harris, Schmidt and Thomas",
+            "tasks_completed": [
+                {
+                    "task_id": "0c310490-150c-49a6-81da-8cc75f72b3a9",
+                    "platform": "TikTok",
+                    "post_url": "http://smith.com/",
+                    "likes": 8021,
+                    "comments": 321,
+                    "shares": 96,
+                    "reach": 1628
+                }
+            ],
+            "total_sales_attributed": 9345.85
+        }
+    ]
+}

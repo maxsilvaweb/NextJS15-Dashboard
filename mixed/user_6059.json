@@ -1,0 +1,26 @@
+{
+    "user_id": "f24d525e-bf5f-46bf-a3e1-c3d00d1e51a3",
+    "name": "Tomas Marvin",
+    "email": "Yadira13@yahoo.com",
+    "instagram_handle": "@Holden92",
+    "tiktok_handle": "@August68",
+    "joined_at": "2024-11-05T10:15:12.956Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8009eeba-0437-42ee-b3ec-0f63ad411f9d",
+            "brand": "Collins, Heidenreich and Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "930b1a8f-6cd0-4586-95d7-3727f48d719d",
+                    "platform": "TikTok",
+                    "post_url": "https://phony-drive.org",
+                    "likes": 352,
+                    "comments": 1,
+                    "shares": 9,
+                    "reach": 5019
+                }
+            ],
+            "total_sales_attributed": 4476.701280195808
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8cf16441-7f19-44e3-a2dc-59a09674d2d9",
+    "name": "Mario Zieme",
+    "email": "Arlene.Kreiger@hotmail.com",
+    "instagram_handle": "@Audra_Christiansen",
+    "tiktok_handle": "@Jose81",
+    "joined_at": "2024-04-21T04:08:04.201Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2eb160bb-b2fe-4492-abb4-df6f015c1901",
+            "brand": "Lakin and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "5a6395a6-3f4e-4336-b625-09785c734162",
+                    "platform": "TikTok",
+                    "post_url": "https://unwelcome-gastropod.name/",
+                    "likes": 496,
+                    "comments": 30,
+                    "shares": 51,
+                    "reach": 1490
+                }
+            ],
+            "total_sales_attributed": 2217.5536174145946
+        }
+    ]
+}

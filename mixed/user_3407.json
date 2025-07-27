@@ -1,0 +1,26 @@
+{
+    "user_id": "78c6d20a-6dfb-4c43-9282-765bc3015052",
+    "name": "Donna Bode",
+    "email": "Meredith.Monahan57@yahoo.com",
+    "instagram_handle": "@Stevie.VonRueden72",
+    "tiktok_handle": "@Thomas15",
+    "joined_at": "2025-01-31T18:55:43.042Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a6cdc5f2-c4d6-4725-bbf6-a57d0466eb1a",
+            "brand": "Breitenberg - Zieme",
+            "tasks_completed": [
+                {
+                    "task_id": "2ac055a8-ce5a-450a-98f1-0044acfc54e3",
+                    "platform": "TikTok",
+                    "post_url": "https://misguided-consistency.com",
+                    "likes": 115,
+                    "comments": 38,
+                    "shares": 21,
+                    "reach": 9456
+                }
+            ],
+            "total_sales_attributed": 1273.725325555254
+        }
+    ]
+}

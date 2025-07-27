@@ -1,0 +1,26 @@
+{
+    "user_id": "442e5950-f39d-4b71-a128-60a59cf93313",
+    "name": "Jennifer Perez",
+    "email": "tgomez@example.net",
+    "instagram_handle": "@qkline",
+    "tiktok_handle": "@roweharry",
+    "joined_at": "2024-04-03T07:46:00.652217",
+    "advocacy_programs": [
+        {
+            "program_id": "cedfbcb8-08a6-4033-87fc-34ce99bfcb52",
+            "brand": "Harvey-Robbins",
+            "tasks_completed": [
+                {
+                    "task_id": "996b176a-7503-4e64-987c-491d801dc6ec",
+                    "platform": "TikTok",
+                    "post_url": "https://enchanted-daddy.net/",
+                    "likes": 3582,
+                    "comments": 283,
+                    "shares": 14,
+                    "reach": 3532
+                }
+            ],
+            "total_sales_attributed": 2146.91
+        }
+    ]
+}

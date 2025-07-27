@@ -1,0 +1,26 @@
+{
+    "user_id": "ecd41019-8b81-4327-ae9d-0154bdde6375",
+    "name": "Brett Ratke",
+    "email": "Murray64@hotmail.com",
+    "instagram_handle": "@Jena40",
+    "tiktok_handle": "@Macy.Hayes-Mohr",
+    "joined_at": "2025-02-04T10:31:06.010Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f4010ad7-c201-4a50-8e9d-808dc3609563",
+            "brand": "Jacobs Group",
+            "tasks_completed": [
+                {
+                    "task_id": "8a9a0059-99da-427b-9efe-5b859be8d050",
+                    "platform": "TikTok",
+                    "post_url": "https://these-duster.name",
+                    "likes": 369,
+                    "comments": 21,
+                    "shares": 83,
+                    "reach": 9707
+                }
+            ],
+            "total_sales_attributed": 2607.5682944931978
+        }
+    ]
+}

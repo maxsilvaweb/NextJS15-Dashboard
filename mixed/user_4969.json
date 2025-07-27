@@ -1,0 +1,26 @@
+{
+    "user_id": "b565db02-2e78-4370-8406-036521056cca",
+    "name": "Clinton Nitzsche",
+    "email": "Jules.Welch28@hotmail.com",
+    "instagram_handle": "@Bernhard_Hyatt",
+    "tiktok_handle": "@Joshua_OConnell",
+    "joined_at": "2024-11-04T03:22:58.410Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1fe67a05-3534-48e2-a3df-31035eb25d0f",
+            "brand": "Roob Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9448d79a-a8d8-477c-92bc-e0c849eef75b",
+                    "platform": "Instagram",
+                    "post_url": "https://kooky-mixture.name",
+                    "likes": 71,
+                    "comments": 14,
+                    "shares": 3,
+                    "reach": 7188
+                }
+            ],
+            "total_sales_attributed": 4898.300845963399
+        }
+    ]
+}

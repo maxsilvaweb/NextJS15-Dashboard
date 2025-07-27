@@ -1,0 +1,26 @@
+{
+    "user_id": "5a1b4d70-f489-40af-b697-03112ca60137",
+    "name": "Sheri Garner",
+    "email": "hallmitchell@example.net",
+    "instagram_handle": "@oliviamoore",
+    "tiktok_handle": "@bushwilliam",
+    "joined_at": "2024-02-20T12:20:17.617059",
+    "advocacy_programs": [
+        {
+            "program_id": "bd1210a5-82a7-40bd-b668-e1d7325ac271",
+            "brand": "Hurst, Koch and Ortega",
+            "tasks_completed": [
+                {
+                    "task_id": "cc116197-953d-4149-8569-aa23802fb9d0",
+                    "platform": "Twitter",
+                    "post_url": "http://www.cox.biz/",
+                    "likes": 8301,
+                    "comments": 249,
+                    "shares": 87,
+                    "reach": 1289
+                }
+            ],
+            "total_sales_attributed": 4483.5303066661045
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e361a299-f544-4eec-a304-d2056f84954d",
+    "name": "Kevin Rubio",
+    "email": "williamdavis@example.net",
+    "instagram_handle": "@cassandrakemp",
+    "tiktok_handle": "@bobbydavis",
+    "joined_at": "2025-02-27T05:50:48.804673",
+    "advocacy_programs": [
+        {
+            "program_id": "5e9027ae-7ad8-40ea-a37f-f7e064c4b5f8",
+            "brand": "Carter Group",
+            "tasks_completed": [
+                {
+                    "task_id": "0075ad46-14cf-4428-9499-1808d7aa99fc",
+                    "platform": "Facebook",
+                    "post_url": "http://gibson.info/",
+                    "likes": 7845,
+                    "comments": 62,
+                    "shares": 12,
+                    "reach": 2612
+                }
+            ],
+            "total_sales_attributed": 7740.59
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "24fae6c5-dee3-422e-91a1-2365a8642395",
+    "name": "Margie Bailey-Haley",
+    "email": "Jadyn0@yahoo.com",
+    "instagram_handle": "@Torrey26",
+    "tiktok_handle": "@Claudine19",
+    "joined_at": "2024-04-17T12:34:10.772Z",
+    "advocacy_programs": [
+        {
+            "program_id": "483f3553-8832-4bf9-b272-6982b006adb0",
+            "brand": "Rolfson - Glover",
+            "tasks_completed": [
+                {
+                    "task_id": "e1d63375-0457-4b6f-8163-7689901cca02",
+                    "platform": "TikTok",
+                    "post_url": "https://another-masterpiece.com",
+                    "likes": 160,
+                    "comments": 40,
+                    "shares": 25,
+                    "reach": 3728
+                }
+            ],
+            "total_sales_attributed": 2412.993867804011
+        }
+    ]
+}

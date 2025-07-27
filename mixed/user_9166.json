@@ -1,0 +1,26 @@
+{
+    "user_id": "6eb4fbd9-2535-400a-aefe-1bbffcbca2a8",
+    "name": "Kara Dickinson-Rohan",
+    "email": "Raina53@gmail.com",
+    "instagram_handle": "@Lottie12",
+    "tiktok_handle": "@Isac_Denesik27",
+    "joined_at": "2025-02-23T11:21:40.123Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c6b6a5ef-9e2f-430b-91f5-324265002fc1",
+            "brand": "Blick, O'Reilly and Reinger",
+            "tasks_completed": [
+                {
+                    "task_id": "b459fb8f-671e-4041-b9ae-9cd6069686ee",
+                    "platform": "TikTok",
+                    "post_url": "https://kaleidoscopic-rationale.biz",
+                    "likes": 180,
+                    "comments": 33,
+                    "shares": 92,
+                    "reach": 4217
+                }
+            ],
+            "total_sales_attributed": 254.13819719883642
+        }
+    ]
+}

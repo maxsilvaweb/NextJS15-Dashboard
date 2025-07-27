@@ -1,0 +1,26 @@
+{
+    "user_id": "97c482c0-3495-4a5c-a719-440dd58f01ec",
+    "name": "Sara Shaffer",
+    "email": "mosleylauren@example.com",
+    "instagram_handle": "@cynthia40",
+    "tiktok_handle": "@anthony90",
+    "joined_at": "2024-08-09T07:23:26.099252",
+    "advocacy_programs": [
+        {
+            "program_id": "aa10bebf-ccf3-450b-b87d-915e23096be6",
+            "brand": "Stewart-Walter",
+            "tasks_completed": [
+                {
+                    "task_id": "2a1dedbc-f611-4180-8c8e-3b6425b45af7",
+                    "platform": "TikTok",
+                    "post_url": "http://www.acosta.com/",
+                    "likes": 7710,
+                    "comments": 41,
+                    "shares": 11,
+                    "reach": 5720
+                }
+            ],
+            "total_sales_attributed": 202.27429546365443
+        }
+    ]
+}

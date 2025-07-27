@@ -1,0 +1,26 @@
+{
+    "user_id": "0f6f7af9-0c16-461a-be7c-cf89bd050149",
+    "name": "Denise Williams",
+    "email": "phillipsdaniel@example.org",
+    "instagram_handle": "@timothy12",
+    "tiktok_handle": "@elamb",
+    "joined_at": "2025-05-04T21:13:11.674734",
+    "advocacy_programs": [
+        {
+            "program_id": "db4fce95-6734-48de-acb4-6f35c8e013cc",
+            "brand": "Vaughn-Pittman",
+            "tasks_completed": [
+                {
+                    "task_id": "f3d85ee9-947b-4286-8c67-955658da4d0e",
+                    "platform": "Instagram",
+                    "post_url": "https://wilson.com/",
+                    "likes": 3497,
+                    "comments": 130,
+                    "shares": 63,
+                    "reach": 2643
+                }
+            ],
+            "total_sales_attributed": 4692.87
+        }
+    ]
+}

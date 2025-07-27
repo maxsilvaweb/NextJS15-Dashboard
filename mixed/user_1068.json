@@ -1,0 +1,26 @@
+{
+    "user_id": "64a11a61-943c-40e3-a7ef-5cc99866ec36",
+    "name": "Joseph Young",
+    "email": "leah27@example.net",
+    "instagram_handle": "@jason28",
+    "tiktok_handle": "@damonacevedo",
+    "joined_at": "2024-05-22T06:56:59.021055",
+    "advocacy_programs": [
+        {
+            "program_id": "d082373f-1d25-48ea-971e-ec04b181af70",
+            "brand": "Hodkiewicz, Pfannerstill and O'Hara",
+            "tasks_completed": [
+                {
+                    "task_id": "c6c73dcb-cfa0-4307-b5f3-b0e68b2a5abc",
+                    "platform": "Facebook",
+                    "post_url": "https://www.warren.com/",
+                    "likes": 114,
+                    "comments": 52,
+                    "shares": 49,
+                    "reach": 8470
+                }
+            ],
+            "total_sales_attributed": 1504.9122983983907
+        }
+    ]
+}

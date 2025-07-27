@@ -1,0 +1,26 @@
+{
+    "user_id": "d3028bc6-668a-4768-848e-b1fe390a10ce",
+    "name": "Hugo Marvin V",
+    "email": "Miguel50@gmail.com",
+    "instagram_handle": "@Camden_Friesen",
+    "tiktok_handle": "@Berta_Gerlach35",
+    "joined_at": "2025-02-20T03:48:14.335Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eb454fa3-3177-41d7-b983-d67e6b6b010d",
+            "brand": "Schamberger - Jenkins",
+            "tasks_completed": [
+                {
+                    "task_id": "aec32f47-3f6b-4779-b1c9-22c05f5b4232",
+                    "platform": "Instagram",
+                    "post_url": "https://other-swine.biz",
+                    "likes": 377,
+                    "comments": 23,
+                    "shares": 68,
+                    "reach": 5333
+                }
+            ],
+            "total_sales_attributed": 2554.9217519133385
+        }
+    ]
+}

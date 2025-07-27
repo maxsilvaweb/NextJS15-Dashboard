@@ -1,0 +1,26 @@
+{
+    "user_id": "9ec2301b-d3ec-4d05-8cad-485ae22c47a6",
+    "name": "Brandon Knight",
+    "email": "nicholas28@example.org",
+    "instagram_handle": "@barry59",
+    "tiktok_handle": "@sjohnston",
+    "joined_at": "2025-02-13T08:22:05.070917",
+    "advocacy_programs": [
+        {
+            "program_id": "646a80cc-6368-4104-818f-1fd6e849c91d",
+            "brand": "Taylor-Jackson",
+            "tasks_completed": [
+                {
+                    "task_id": "5cc7ed59-4d4e-4a1d-9eca-f67d7584ae52",
+                    "platform": "Instagram",
+                    "post_url": "https://smith.com/",
+                    "likes": 385,
+                    "comments": 16,
+                    "shares": 52,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 5214.96
+        }
+    ]
+}

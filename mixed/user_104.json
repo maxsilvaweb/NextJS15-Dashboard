@@ -1,0 +1,26 @@
+{
+    "user_id": "da5be659-8adb-4484-8243-d63fc2d14b23",
+    "name": "Mrs. Tara Wilkinson",
+    "email": "Gardner90@gmail.com",
+    "instagram_handle": "@Hildegard3",
+    "tiktok_handle": "@Yasmeen50",
+    "joined_at": "2025-01-27T17:11:42.566Z",
+    "advocacy_programs": [
+        {
+            "program_id": "59497527-2052-4448-8f99-5daf19bd9ebc",
+            "brand": "Schiller - Wyman",
+            "tasks_completed": [
+                {
+                    "task_id": "d13f5cfe-9af1-4376-a454-4c912c5ddb07",
+                    "platform": "Instagram",
+                    "post_url": "https://tempting-nerve.info/",
+                    "likes": 78,
+                    "comments": 40,
+                    "shares": 69,
+                    "reach": 2239
+                }
+            ],
+            "total_sales_attributed": 1243.447562357833
+        }
+    ]
+}

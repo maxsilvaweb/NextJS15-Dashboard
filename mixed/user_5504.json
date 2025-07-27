@@ -1,0 +1,26 @@
+{
+    "user_id": "8775872d-d252-408e-a88b-75dae951e369",
+    "name": "Daniel Henderson",
+    "email": "kimberlyvalenzuela@example.com",
+    "instagram_handle": "@johnsonjoshua",
+    "tiktok_handle": "@imays",
+    "joined_at": "2024-04-14T10:37:09.719Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8b5cfb58-71ab-4493-b55b-f699b9eb4a73",
+            "brand": "Peterson, Smith and Lyons",
+            "tasks_completed": [
+                {
+                    "task_id": "537a8c8c-c44e-45d6-9fd8-89c413cd7ea8",
+                    "platform": "TikTok",
+                    "post_url": "https://davidson.info/",
+                    "likes": 120,
+                    "comments": 211,
+                    "shares": 60,
+                    "reach": 7922
+                }
+            ],
+            "total_sales_attributed": 8525.25
+        }
+    ]
+}

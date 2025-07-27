@@ -1,0 +1,26 @@
+{
+    "user_id": "0f187a52-2baa-4b66-97bb-99fed448937b",
+    "name": "Christina Fitzgerald",
+    "email": "christine28@example.org",
+    "instagram_handle": "@tara26",
+    "tiktok_handle": "@martinkevin",
+    "joined_at": "2025-03-29T00:16:37.746513",
+    "advocacy_programs": [
+        {
+            "program_id": "f4491a07-3acb-41ee-87b8-d62eff685aaa",
+            "brand": "Herrera, Larsen and Cordova",
+            "tasks_completed": [
+                {
+                    "task_id": "d673e985-91b8-4475-a50e-c68fc9ffac3d",
+                    "platform": "TikTok",
+                    "post_url": "http://www.barker.org/",
+                    "likes": 9129,
+                    "comments": 433,
+                    "shares": 81,
+                    "reach": 2615
+                }
+            ],
+            "total_sales_attributed": 3557.2191522973576
+        }
+    ]
+}

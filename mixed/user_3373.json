@@ -1,0 +1,26 @@
+{
+    "user_id": "df7b320f-420b-4524-8a30-3e9d901940d5",
+    "name": "Victor Collier",
+    "email": "Deborah_Koch@hotmail.com",
+    "instagram_handle": "@Kristofer_Ankunding",
+    "tiktok_handle": "@Vincenzo.Abernathy",
+    "joined_at": "2024-05-28T01:52:34.755Z",
+    "advocacy_programs": [
+        {
+            "program_id": "685a2bb5-04f3-4e85-bedd-faaff930a1fa",
+            "brand": "O'Hara LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e739f629-8aad-4832-a1ef-c6cb37fecf1f",
+                    "platform": "Instagram",
+                    "post_url": "https://illiterate-packaging.info/",
+                    "likes": 291,
+                    "comments": 29,
+                    "shares": 68,
+                    "reach": 6865
+                }
+            ],
+            "total_sales_attributed": 1104.9623838095927
+        }
+    ]
+}

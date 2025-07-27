@@ -1,0 +1,26 @@
+{
+    "user_id": "32d18485-cbc0-4134-bc19-9424ab2bcf1e",
+    "name": "Joseph Barrett",
+    "email": "eugene19@example.com",
+    "instagram_handle": "@elizabethcastillo",
+    "tiktok_handle": "@Rigoberto32",
+    "joined_at": "2023-08-08T15:08:26.737414",
+    "advocacy_programs": [
+        {
+            "program_id": "b280869d-6fff-40f4-a4d1-3f016089d46d",
+            "brand": "Bailey - Schuppe",
+            "tasks_completed": [
+                {
+                    "task_id": "78c08f0b-c824-452b-8b68-f9bda6bf6a5c",
+                    "platform": "TikTok",
+                    "post_url": "http://martin.info/",
+                    "likes": 8767,
+                    "comments": 7,
+                    "shares": 87,
+                    "reach": 8413
+                }
+            ],
+            "total_sales_attributed": 9046.39
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7a76d2ee-f65a-4e0f-b67b-d3c0ce8071f0",
+    "name": "Dr. Victor Bruen-Little IV",
+    "email": "hendersondouglas@example.org",
+    "instagram_handle": "@david42",
+    "tiktok_handle": "@xbradford",
+    "joined_at": "2024-01-07T19:40:40.444144",
+    "advocacy_programs": [
+        {
+            "program_id": "771b21b0-21b9-4ef9-b7aa-0753ac7ca090",
+            "brand": "Anderson PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "acfd363d-ff40-4384-b6d5-0563ba4ab157",
+                    "platform": "Facebook",
+                    "post_url": "http://white.net/",
+                    "likes": 53,
+                    "comments": 11,
+                    "shares": 83,
+                    "reach": 1668
+                }
+            ],
+            "total_sales_attributed": 2390.5104127760806
+        }
+    ]
+}

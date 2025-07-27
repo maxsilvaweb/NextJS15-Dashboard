@@ -1,0 +1,26 @@
+{
+    "user_id": "6e7c726f-4210-46ed-9d8a-80d3a2101c3a",
+    "name": "Alex Nikolaus",
+    "email": "Jany_Kuhlman1@hotmail.com",
+    "instagram_handle": "@Jamal_Padberg",
+    "tiktok_handle": "@Donato_Gibson",
+    "joined_at": "2025-02-25T23:48:50.752Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3aab5feb-836a-4d1e-9341-fa3a986ae899",
+            "brand": "McLaughlin, Gutkowski and Blanda",
+            "tasks_completed": [
+                {
+                    "task_id": "ef5578eb-0c2c-4954-b221-eab424e6253b",
+                    "platform": "TikTok",
+                    "post_url": "https://velvety-mathematics.net/",
+                    "likes": 377,
+                    "comments": 28,
+                    "shares": 83,
+                    "reach": 945
+                }
+            ],
+            "total_sales_attributed": 3422.219956339732
+        }
+    ]
+}

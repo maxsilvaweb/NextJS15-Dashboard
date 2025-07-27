@@ -1,0 +1,26 @@
+{
+    "user_id": "7791f86c-3f8e-48fa-aeb8-a75d7353ded0",
+    "name": "Lauren Aguilar",
+    "email": "jamesmichael@example.net",
+    "instagram_handle": "@bondjames",
+    "tiktok_handle": "@carlsanchez",
+    "joined_at": "2024-09-20T17:54:02.272528",
+    "advocacy_programs": [
+        {
+            "program_id": "bb6c98ad-1c5e-4f20-91cd-91b4ca7a508f",
+            "brand": "Ortiz LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a17e3a1c-0b93-4e7c-a9f9-992eb9c154a6",
+                    "platform": "Instagram",
+                    "post_url": "http://nash.com/",
+                    "likes": 320,
+                    "comments": 141,
+                    "shares": 40,
+                    "reach": 6818
+                }
+            ],
+            "total_sales_attributed": 3399.4247694500564
+        }
+    ]
+}

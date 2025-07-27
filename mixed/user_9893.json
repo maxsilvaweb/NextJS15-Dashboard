@@ -1,0 +1,26 @@
+{
+    "user_id": "13a79a3d-ada5-473d-9475-7e7b6175ea17",
+    "name": "Andrea Taylor",
+    "email": "diane79@example.net",
+    "instagram_handle": "@franktravis",
+    "tiktok_handle": "@Vesta.Fadel11",
+    "joined_at": "2024-03-14T00:40:01.251267",
+    "advocacy_programs": [
+        {
+            "program_id": "af63ac71-5c19-4946-9147-82a38b76476c",
+            "brand": "Mante, Bergstrom and Fritsch",
+            "tasks_completed": [
+                {
+                    "task_id": "60dab543-3cb8-47cc-9267-3fa483e89ec3",
+                    "platform": "Facebook",
+                    "post_url": "https://frilly-designation.info",
+                    "likes": 415,
+                    "comments": 41,
+                    "shares": 84,
+                    "reach": 4780
+                }
+            ],
+            "total_sales_attributed": 1480.72
+        }
+    ]
+}

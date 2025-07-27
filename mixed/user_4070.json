@@ -1,0 +1,26 @@
+{
+    "user_id": "eaf80ab0-3b7a-4f22-8481-511338101c87",
+    "name": "Matthew Schwartz",
+    "email": "Keira.Toy4@yahoo.com",
+    "instagram_handle": "@john95",
+    "tiktok_handle": "@adouglas",
+    "joined_at": "2025-04-10T09:32:27.997581",
+    "advocacy_programs": [
+        {
+            "program_id": "c7c81b0b-ce22-4767-a252-cb64dd26493a",
+            "brand": "Ford, Smith and Taylor",
+            "tasks_completed": [
+                {
+                    "task_id": "5dccdc3e-863f-4493-819c-2595ecb354ad",
+                    "platform": "TikTok",
+                    "post_url": "http://king-smith.biz/",
+                    "likes": 4395,
+                    "comments": 160,
+                    "shares": 45,
+                    "reach": 8883
+                }
+            ],
+            "total_sales_attributed": 1025.61
+        }
+    ]
+}

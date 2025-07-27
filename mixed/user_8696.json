@@ -1,0 +1,26 @@
+{
+    "user_id": "aff604ef-2522-4c36-b2f7-f72aac3086cc",
+    "name": "Joanna Webster",
+    "email": "robertcoleman@example.com",
+    "instagram_handle": "@yatesjennifer",
+    "tiktok_handle": "@youngmaria",
+    "joined_at": "2025-04-05T21:51:07.162793",
+    "advocacy_programs": [
+        {
+            "program_id": "d51b7595-d64a-4f64-a9c8-43dfb98a61f1",
+            "brand": "Vasquez, Johnson and Robinson",
+            "tasks_completed": [
+                {
+                    "task_id": "58b6f000-c321-404c-8015-a963eec18feb",
+                    "platform": "Twitter",
+                    "post_url": "http://landry-hunter.com/",
+                    "likes": 9853,
+                    "comments": 468,
+                    "shares": 62,
+                    "reach": 3943
+                }
+            ],
+            "total_sales_attributed": 4045.84
+        }
+    ]
+}

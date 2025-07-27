@@ -1,0 +1,26 @@
+{
+    "user_id": "05ee5337-5345-4ecd-a428-6348d8e78168",
+    "name": "Denise Munoz",
+    "email": "wilkersonjoseph@example.org",
+    "instagram_handle": "@angelathompson",
+    "tiktok_handle": "@lauriesparks",
+    "joined_at": "2023-08-01T06:58:18.248490",
+    "advocacy_programs": [
+        {
+            "program_id": "fa95aac0-83f5-4fe6-8320-e0f928080058",
+            "brand": "Trevino-Sparks",
+            "tasks_completed": [
+                {
+                    "task_id": "15a41d7e-5120-4618-82ec-09c08aaeca0f",
+                    "platform": "Facebook",
+                    "post_url": "https://pearson.com/",
+                    "likes": 9858,
+                    "comments": 0,
+                    "shares": 76,
+                    "reach": 9720
+                }
+            ],
+            "total_sales_attributed": 4744.759575011684
+        }
+    ]
+}

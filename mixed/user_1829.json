@@ -1,0 +1,26 @@
+{
+    "user_id": "7f40cb44-1853-4489-8177-bbb549c6823e",
+    "name": "Matthew Johnson",
+    "email": "Kyleigh36@gmail.com",
+    "instagram_handle": "@Vallie13",
+    "tiktok_handle": "@yfowler",
+    "joined_at": "2024-09-13T12:32:55.929107",
+    "advocacy_programs": [
+        {
+            "program_id": "f992fda2-6b32-4965-b84d-cb5ce813c17d",
+            "brand": "Wilcox, Pace and Pittman",
+            "tasks_completed": [
+                {
+                    "task_id": "840ded70-bf01-46da-81bb-a775d143c51b",
+                    "platform": "Instagram",
+                    "post_url": "http://kane.com/",
+                    "likes": 1672,
+                    "comments": 2,
+                    "shares": 13,
+                    "reach": 9361
+                }
+            ],
+            "total_sales_attributed": 6793.55
+        }
+    ]
+}

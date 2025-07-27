@@ -1,0 +1,26 @@
+{
+    "user_id": "20d310f6-5470-4aaf-a8e5-e60df94b6527",
+    "name": "Theresa Odonnell",
+    "email": "carolyn96@example.org",
+    "instagram_handle": "@lopezelizabeth",
+    "tiktok_handle": "@susan28",
+    "joined_at": "2023-12-05T13:45:14.494764",
+    "advocacy_programs": [
+        {
+            "program_id": "0801a0ee-f0ab-493e-9189-5fc6c7ceaecc",
+            "brand": "Parrish-Sanders",
+            "tasks_completed": [
+                {
+                    "task_id": "ad1d00c9-e9b1-4cd3-90fc-652a4ce421d1",
+                    "platform": "Facebook",
+                    "post_url": "https://cook-morgan.net/",
+                    "likes": 5464,
+                    "comments": 17,
+                    "shares": 27,
+                    "reach": 4330
+                }
+            ],
+            "total_sales_attributed": 9666.39
+        }
+    ]
+}

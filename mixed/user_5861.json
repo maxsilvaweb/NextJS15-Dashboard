@@ -1,0 +1,26 @@
+{
+    "user_id": "7332ec39-2ea7-4f27-95f2-d0e864bf873b",
+    "name": "Randy Heaney",
+    "email": "stephen15@example.org",
+    "instagram_handle": "@hmassey",
+    "tiktok_handle": "@sharpjeffrey",
+    "joined_at": "2024-01-11T13:49:49.008024",
+    "advocacy_programs": [
+        {
+            "program_id": "24b73f1b-e552-4413-aab9-d661915e4085",
+            "brand": "Harris-Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "c737daf4-2f17-49e8-a0e4-87c99ef14eda",
+                    "platform": "TikTok",
+                    "post_url": "http://baker.biz/",
+                    "likes": 9331,
+                    "comments": 275,
+                    "shares": 58,
+                    "reach": 1594
+                }
+            ],
+            "total_sales_attributed": 8805.38
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "07a5c8d6-9f97-479f-b27f-dd477ef7ea18",
+    "name": "Jerry Harris",
+    "email": "Rosario40@gmail.com",
+    "instagram_handle": "@Cristina_Bayer",
+    "tiktok_handle": "@Oleta0",
+    "joined_at": "2024-06-01T21:59:21.210Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9f2d45f8-2677-4998-b22f-b6a171326ef9",
+            "brand": "Lebsack - Fadel",
+            "tasks_completed": [
+                {
+                    "task_id": "e60b8538-3ebc-4a5a-8988-66d3aca032de",
+                    "platform": "TikTok",
+                    "post_url": "https://oval-management.com",
+                    "likes": 267,
+                    "comments": 17,
+                    "shares": 1,
+                    "reach": 2209
+                }
+            ],
+            "total_sales_attributed": 1262.202920574869
+        }
+    ]
+}

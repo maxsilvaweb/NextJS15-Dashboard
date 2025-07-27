@@ -1,0 +1,26 @@
+{
+    "user_id": "5a8cb5ae-a64b-4990-a5bf-8acedbe1f243",
+    "name": "Edwin Schultz",
+    "email": "Larissa25@hotmail.com",
+    "instagram_handle": "@Leon.Schuppe",
+    "tiktok_handle": "@Earnest59",
+    "joined_at": "2024-05-02T08:23:01.672Z",
+    "advocacy_programs": [
+        {
+            "program_id": "40da6edc-e960-4dd7-bf26-41677a7813a2",
+            "brand": "Schroeder, Schmitt and Beer",
+            "tasks_completed": [
+                {
+                    "task_id": "457e37a2-7483-4ba6-b2e6-cb5bfa1deb0a",
+                    "platform": "Instagram",
+                    "post_url": "https://spirited-shark.biz",
+                    "likes": 124,
+                    "comments": 44,
+                    "shares": 6,
+                    "reach": 8105
+                }
+            ],
+            "total_sales_attributed": 2461.3247578847836
+        }
+    ]
+}

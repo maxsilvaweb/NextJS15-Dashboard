@@ -1,0 +1,26 @@
+{
+    "user_id": "8af833aa-7cf5-432c-889f-a7516bf980d5",
+    "name": "Jo Diaz",
+    "email": "hogankimberly@example.com",
+    "instagram_handle": "@ybarr",
+    "tiktok_handle": "@millerchristine",
+    "joined_at": "2024-05-29T19:37:28.440832",
+    "advocacy_programs": [
+        {
+            "program_id": "76578239-ff21-4e8e-abdd-64af16baa2d8",
+            "brand": "Wilson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "5fc67086-df2c-4c10-82c2-63286b8f4218",
+                    "platform": "TikTok",
+                    "post_url": "https://wretched-step.name/",
+                    "likes": 246,
+                    "comments": 34,
+                    "shares": 67,
+                    "reach": 9687
+                }
+            ],
+            "total_sales_attributed": 1541.03
+        }
+    ]
+}

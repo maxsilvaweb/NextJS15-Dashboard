@@ -1,0 +1,26 @@
+{
+    "user_id": "f9d5fcd7-c93f-49cf-ad2a-2f008eb8d7cf",
+    "name": "Erin Bryant",
+    "email": "Jordane.Murphy-Hoeger@yahoo.com",
+    "instagram_handle": "@Claudia_Bednar28",
+    "tiktok_handle": "@richardemma",
+    "joined_at": "2024-07-28T00:46:55.973372",
+    "advocacy_programs": [
+        {
+            "program_id": "83e7f24f-19d7-4f30-8cfe-3f2f7dfa88e6",
+            "brand": "Collins Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "aa579f26-cc58-4c2b-9ac7-a277b0d7b99c",
+                    "platform": "TikTok",
+                    "post_url": "https://diaz.com/",
+                    "likes": 298,
+                    "comments": 320,
+                    "shares": 49,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2469.84147193666
+        }
+    ]
+}

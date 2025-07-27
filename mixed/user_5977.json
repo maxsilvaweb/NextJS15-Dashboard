@@ -1,0 +1,26 @@
+{
+    "user_id": "3ee8c633-cb32-4fb3-b1a1-a012ebac84e7",
+    "name": "Courtney Johnston",
+    "email": "Mac_OKon@gmail.com",
+    "instagram_handle": "@Katlynn21",
+    "tiktok_handle": "@Lou.Jakubowski",
+    "joined_at": "2024-04-20T21:48:56.120Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e212ba03-6dd1-4fed-b036-6babd0da2f0f",
+            "brand": "Terry and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "db5cdf12-bdfe-414e-a391-bcea1ec5b938",
+                    "platform": "Instagram",
+                    "post_url": "https://extra-large-riser.com/",
+                    "likes": 142,
+                    "comments": 40,
+                    "shares": 26,
+                    "reach": 9122
+                }
+            ],
+            "total_sales_attributed": 101.77582954617102
+        }
+    ]
+}

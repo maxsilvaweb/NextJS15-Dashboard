@@ -1,0 +1,26 @@
+{
+    "user_id": "5c225b28-a820-4d0c-af9e-18cd9b88ff44",
+    "name": "Mark Wright",
+    "email": "xmills@example.org",
+    "instagram_handle": "@tamara76",
+    "tiktok_handle": "@wilcoxlouis",
+    "joined_at": "2024-05-29T17:19:22.792123",
+    "advocacy_programs": [
+        {
+            "program_id": "b0c3c041-0f57-4c91-beaf-2b558eef3dcc",
+            "brand": "Garcia-Willis",
+            "tasks_completed": [
+                {
+                    "task_id": "402bc791-a83b-4fc0-a73f-761a26d2bd98",
+                    "platform": "Facebook",
+                    "post_url": "https://www.stevens.info/",
+                    "likes": 2224,
+                    "comments": 315,
+                    "shares": 36,
+                    "reach": 8874
+                }
+            ],
+            "total_sales_attributed": 3493.719869534028
+        }
+    ]
+}

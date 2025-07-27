@@ -1,0 +1,26 @@
+{
+    "user_id": "56deaba8-8bdf-4293-8a09-3f27f3e98149",
+    "name": "Jennifer Roth",
+    "email": "amy90@example.net",
+    "instagram_handle": "@Maude_Runolfsdottir",
+    "tiktok_handle": "@jlyons",
+    "joined_at": "2025-02-13T14:05:48.630086",
+    "advocacy_programs": [
+        {
+            "program_id": "ff60fb20-3711-48ca-a318-1b49b0eacd7d",
+            "brand": "Williams, Meyers and Berry",
+            "tasks_completed": [
+                {
+                    "task_id": "ecaf7da2-442a-452d-8e46-7fd04b5cd1f3",
+                    "platform": "Facebook",
+                    "post_url": "http://lawrence-curtis.com/",
+                    "likes": 6842,
+                    "comments": 116,
+                    "shares": 85,
+                    "reach": 3423
+                }
+            ],
+            "total_sales_attributed": 5816.02
+        }
+    ]
+}

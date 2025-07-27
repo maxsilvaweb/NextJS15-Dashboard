@@ -1,0 +1,26 @@
+{
+    "user_id": "d555e01d-a8dd-453e-9223-1dc4ac8ad0ec",
+    "name": "Matthew Suarez",
+    "email": "Toni90@hotmail.com",
+    "instagram_handle": "@matthewstammy",
+    "tiktok_handle": "@robertwilson",
+    "joined_at": "2025-02-12T12:41:47.963842",
+    "advocacy_programs": [
+        {
+            "program_id": "34d6b720-85c1-4cd9-819e-e2d25ca119a9",
+            "brand": "Smith-Dunn",
+            "tasks_completed": [
+                {
+                    "task_id": "069508d4-bfe9-4870-9e34-a26060234883",
+                    "platform": "TikTok",
+                    "post_url": "http://www.bryan.com/",
+                    "likes": 159,
+                    "comments": 15,
+                    "shares": 75,
+                    "reach": 1354
+                }
+            ],
+            "total_sales_attributed": 9353.31
+        }
+    ]
+}

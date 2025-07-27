@@ -1,0 +1,26 @@
+{
+    "user_id": "295907d6-2bcf-4bac-8daa-569da0525052",
+    "name": "Nicholas Huang",
+    "email": "grantjohnson@example.net",
+    "instagram_handle": "@hillphilip",
+    "tiktok_handle": "@rgeorge",
+    "joined_at": "2024-05-14T12:28:58.324312",
+    "advocacy_programs": [
+        {
+            "program_id": "a37079a9-b5a2-43b4-b6a7-1be2364b9a62",
+            "brand": "Hessel - Kovacek",
+            "tasks_completed": [
+                {
+                    "task_id": "e739f7a5-6c87-4318-8b6c-4868343ad53d",
+                    "platform": "TikTok",
+                    "post_url": "http://robinson-coleman.biz/",
+                    "likes": 8364,
+                    "comments": 160,
+                    "shares": 88,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 8572.11
+        }
+    ]
+}

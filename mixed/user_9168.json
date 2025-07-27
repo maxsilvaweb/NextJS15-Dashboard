@@ -1,0 +1,26 @@
+{
+    "user_id": "fed00b1c-94d4-405e-9b91-35c03a2bd318",
+    "name": "Sandra Myers",
+    "email": "phillipgardner@example.com",
+    "instagram_handle": "@stevenssamuel",
+    "tiktok_handle": "@millernancy",
+    "joined_at": "2025-05-06T18:35:20.154786",
+    "advocacy_programs": [
+        {
+            "program_id": "e4b60ab1-6da3-48c1-8961-19e8e6d6aabe",
+            "brand": "Rodriguez Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d674c308-336e-4a30-9cd1-3a5caf3ba810",
+                    "platform": "Instagram",
+                    "post_url": "http://macias-gomez.org/",
+                    "likes": 6719,
+                    "comments": 420,
+                    "shares": 57,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 8764.72
+        }
+    ]
+}

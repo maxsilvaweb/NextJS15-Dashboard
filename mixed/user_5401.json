@@ -1,0 +1,26 @@
+{
+    "user_id": "c3297507-4f00-439e-a729-15b119e7fb8a",
+    "name": "Bruce Murphy",
+    "email": "Urban87@hotmail.com",
+    "instagram_handle": "@Jonatan_Ratke95",
+    "tiktok_handle": "@Prudence.Hegmann45",
+    "joined_at": "2024-05-11T08:25:55.282Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e1042f77-72a0-45aa-a457-fe91e703c934",
+            "brand": "Steuber, Mayert and Shields",
+            "tasks_completed": [
+                {
+                    "task_id": "e016bee8-c3d1-4df8-9226-928f30a99a43",
+                    "platform": "Instagram",
+                    "post_url": "https://sore-bookend.net/",
+                    "likes": 105,
+                    "comments": 39,
+                    "shares": 96,
+                    "reach": 9252
+                }
+            ],
+            "total_sales_attributed": 1042.2206508028337
+        }
+    ]
+}

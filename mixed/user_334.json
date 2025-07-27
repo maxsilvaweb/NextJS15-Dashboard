@@ -1,0 +1,26 @@
+{
+    "user_id": "d4b57e35-a75b-49d7-8f89-4d790e4b16f7",
+    "name": "Steven Gallagher",
+    "email": "allensandra@example.com",
+    "instagram_handle": "@upowell",
+    "tiktok_handle": "@sharon24",
+    "joined_at": "2024-08-20T23:52:21.050Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e01fc1d8-812c-4adc-9f7a-9752215b31cf",
+            "brand": "Blackwell Group",
+            "tasks_completed": [
+                {
+                    "task_id": "7b6029ef-2d2b-4ba9-88cb-75dd78af2ab3",
+                    "platform": "Facebook",
+                    "post_url": "http://jones.biz/",
+                    "likes": 24,
+                    "comments": 450,
+                    "shares": 69,
+                    "reach": 6470
+                }
+            ],
+            "total_sales_attributed": 4227.89
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e1783d0b-a25c-4bf3-9d8d-32b3d6a075ca",
+    "name": "Amanda Thompson",
+    "email": "riggsamanda@example.com",
+    "instagram_handle": "@deanna97",
+    "tiktok_handle": "@jesse30",
+    "joined_at": "2025-02-18T03:28:27.718989",
+    "advocacy_programs": [
+        {
+            "program_id": "cce0dc76-9172-4041-84af-1c1e43fba7ed",
+            "brand": "Smith, Moon and Barnett",
+            "tasks_completed": [
+                {
+                    "task_id": "a0e180c6-e80f-4d15-b72e-44876e1c31af",
+                    "platform": "TikTok",
+                    "post_url": "https://www.moreno.com/",
+                    "likes": 214,
+                    "comments": 204,
+                    "shares": 1,
+                    "reach": 9063
+                }
+            ],
+            "total_sales_attributed": 157.6570543293579
+        }
+    ]
+}

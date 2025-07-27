@@ -1,0 +1,26 @@
+{
+    "user_id": "6fff50d8-3f7b-430d-87c3-0e71fbfe70d2",
+    "name": "Natalie Brewer",
+    "email": "kholt@example.com",
+    "instagram_handle": "@clarkmichelle",
+    "tiktok_handle": "@amandaharris",
+    "joined_at": "2024-12-14T10:41:39.006387",
+    "advocacy_programs": [
+        {
+            "program_id": "fc9f3c9e-f27c-41b0-9e94-126fb09d5382",
+            "brand": "Harris-Wilson",
+            "tasks_completed": [
+                {
+                    "task_id": "1e2e0d33-ec3a-4d6a-a4c7-ff97566be357",
+                    "platform": "Instagram",
+                    "post_url": "https://www.barrett-olson.com/",
+                    "likes": 477,
+                    "comments": 99,
+                    "shares": 41,
+                    "reach": 5722
+                }
+            ],
+            "total_sales_attributed": 3655.2385133446514
+        }
+    ]
+}

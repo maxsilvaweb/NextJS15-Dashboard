@@ -1,0 +1,26 @@
+{
+    "user_id": "483da9ed-250b-46ab-916a-fd7261987be8",
+    "name": "Alexis Hayes",
+    "email": "calebstewart@example.org",
+    "instagram_handle": "@rmullins",
+    "tiktok_handle": "@pearsonrebecca",
+    "joined_at": "2023-10-20T02:49:24.560226",
+    "advocacy_programs": [
+        {
+            "program_id": "10511170-6266-4539-987e-b49de1f7624c",
+            "brand": "Clark PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e285298f-d9f0-45b8-83b4-5fbea8403783",
+                    "platform": "TikTok",
+                    "post_url": "http://hall.biz/",
+                    "likes": 1660,
+                    "comments": 14,
+                    "shares": 77,
+                    "reach": 8577
+                }
+            ],
+            "total_sales_attributed": 129.69
+        }
+    ]
+}

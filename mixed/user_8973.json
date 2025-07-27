@@ -1,0 +1,26 @@
+{
+    "user_id": "77f70cb8-bd94-4a6c-8daf-d6807fd88740",
+    "name": "Mrs. Marjorie Zboncak",
+    "email": "gallowayjohn@example.net",
+    "instagram_handle": "@hendersoncynthia",
+    "tiktok_handle": "@christophermartinez",
+    "joined_at": "2025-07-22T23:37:50.471308",
+    "advocacy_programs": [
+        {
+            "program_id": "0eb8e547-8e85-4338-a096-527019fff38d",
+            "brand": "Williams Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "61459ab1-9d8f-4494-a351-8d51d07e667a",
+                    "platform": "TikTok",
+                    "post_url": "http://berger-sexton.net/",
+                    "likes": 8463,
+                    "comments": 184,
+                    "shares": 48,
+                    "reach": 2864
+                }
+            ],
+            "total_sales_attributed": 6352.7
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d572be2d-67ac-4a4a-a15d-9ffc98d4f010",
+    "name": "Brett Alexander",
+    "email": "adriantaylor@example.net",
+    "instagram_handle": "@idavis",
+    "tiktok_handle": "@april68",
+    "joined_at": "2024-05-05T18:50:05.131061",
+    "advocacy_programs": [
+        {
+            "program_id": "401ce7a0-31bc-4e2e-b760-240c09345d62",
+            "brand": "Hanson, Chandler and Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "b262a068-fbc7-4c45-b570-e9150a226b8e",
+                    "platform": "Facebook",
+                    "post_url": "https://www.callahan-flores.net/",
+                    "likes": 5895,
+                    "comments": 45,
+                    "shares": 65,
+                    "reach": 6579
+                }
+            ],
+            "total_sales_attributed": 2523.995384949487
+        }
+    ]
+}

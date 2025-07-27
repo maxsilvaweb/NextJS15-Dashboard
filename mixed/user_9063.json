@@ -1,0 +1,26 @@
+{
+    "user_id": "38bdc32a-b0d8-49ed-8ff6-87adbe7aeefd",
+    "name": "Ignacio Keebler",
+    "email": "Mallory.Barton@yahoo.com",
+    "instagram_handle": "@Jesse_Littel",
+    "tiktok_handle": "@Myrtle_Moore-Ebert21",
+    "joined_at": "2024-06-14T00:23:59.500Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c4fbf1f0-77d5-4634-82e1-d5fb14e678ff",
+            "brand": "Koss, Connelly and Schmeler",
+            "tasks_completed": [
+                {
+                    "task_id": "d95ceacc-6a45-4c2d-9c99-7593eb78504c",
+                    "platform": "TikTok",
+                    "post_url": "https://important-substitution.info/",
+                    "likes": 200,
+                    "comments": 34,
+                    "shares": 46,
+                    "reach": 9628
+                }
+            ],
+            "total_sales_attributed": 2130.363322852387
+        }
+    ]
+}

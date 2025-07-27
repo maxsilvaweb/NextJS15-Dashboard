@@ -1,0 +1,26 @@
+{
+    "user_id": "b3833dd0-01d1-4283-b766-213c62b35363",
+    "name": "Kayla Maynard",
+    "email": "charles99@example.org",
+    "instagram_handle": "@elliskatherine",
+    "tiktok_handle": "@Andreanne.Watsica",
+    "joined_at": "2024-08-08T19:23:37.334Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e3158166-7cab-401f-a58a-88b18b92edfe",
+            "brand": "Johnson and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "677bc834-7433-43b3-ba5c-3076668d3641",
+                    "platform": "Instagram",
+                    "post_url": "https://sandoval.com/",
+                    "likes": 6404,
+                    "comments": 136,
+                    "shares": 52,
+                    "reach": 6317
+                }
+            ],
+            "total_sales_attributed": 562.48
+        }
+    ]
+}

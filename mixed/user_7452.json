@@ -1,0 +1,26 @@
+{
+    "user_id": "06913ae3-96d2-457f-ac6e-301c951e9ab0",
+    "name": "Edward Matthews",
+    "email": "emily80@example.org",
+    "instagram_handle": "@thomaserin",
+    "tiktok_handle": "@masseytyler",
+    "joined_at": "2024-09-16T23:24:27.695772",
+    "advocacy_programs": [
+        {
+            "program_id": "351d28db-e496-431e-97dd-c14cda8dd2b7",
+            "brand": "Garcia, Price and Moore",
+            "tasks_completed": [
+                {
+                    "task_id": "15839cf9-dce7-4cd8-891c-7e92add0fc00",
+                    "platform": "TikTok",
+                    "post_url": "http://price.com/",
+                    "likes": 3585,
+                    "comments": 50,
+                    "shares": 77,
+                    "reach": 8304
+                }
+            ],
+            "total_sales_attributed": 2712.59
+        }
+    ]
+}

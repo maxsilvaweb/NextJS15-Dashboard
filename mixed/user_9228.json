@@ -1,0 +1,26 @@
+{
+    "user_id": "8c26c0fd-5bdc-49bf-92cf-913ded91e37a",
+    "name": "John Singh Jr.",
+    "email": "Taylor37@yahoo.com",
+    "instagram_handle": "@usmith",
+    "tiktok_handle": "@uhenderson",
+    "joined_at": "2025-05-01T02:31:17.748477",
+    "advocacy_programs": [
+        {
+            "program_id": "2335e5b7-b436-4797-a55d-815537896f11",
+            "brand": "Andrews-Hill",
+            "tasks_completed": [
+                {
+                    "task_id": "83b5ede5-ce94-4bdb-814e-48b8fa0d84e9",
+                    "platform": "TikTok",
+                    "post_url": "http://bradshaw.com/",
+                    "likes": 8963,
+                    "comments": 46,
+                    "shares": 96,
+                    "reach": 3502
+                }
+            ],
+            "total_sales_attributed": 3640.87
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "83baa880-fe82-4191-b9aa-cebbd6556778",
+    "name": "Gilbert Predovic",
+    "email": "smithkyle@example.net",
+    "instagram_handle": "@williamstraci",
+    "tiktok_handle": "@jose91",
+    "joined_at": "2024-06-30T05:41:55.002190",
+    "advocacy_programs": [
+        {
+            "program_id": "4cea2ddb-7bcf-49d1-9380-3ccc73234491",
+            "brand": "Wood-Hahn",
+            "tasks_completed": [
+                {
+                    "task_id": "69913f44-3340-432b-90f5-c14db7fd2541",
+                    "platform": "Instagram",
+                    "post_url": "https://gruesome-sushi.net/",
+                    "likes": 2709,
+                    "comments": 318,
+                    "shares": 95,
+                    "reach": 1085
+                }
+            ],
+            "total_sales_attributed": 1888.16
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e112bc88-6a6e-4fe6-a8ed-1edd2cec5913",
+    "name": "John Jones",
+    "email": "lauren33@example.org",
+    "instagram_handle": "@markbailey",
+    "tiktok_handle": "@ulee",
+    "joined_at": "2024-07-18T13:02:58.526266",
+    "advocacy_programs": [
+        {
+            "program_id": "0d7aecfb-e639-42c0-9191-07b61acce8f3",
+            "brand": "Oconnor, Dominguez and Olson",
+            "tasks_completed": [
+                {
+                    "task_id": "37c7c069-c967-41a2-a9dd-1a56895a94fe",
+                    "platform": "TikTok",
+                    "post_url": "https://simmons.com/",
+                    "likes": 2051,
+                    "comments": 278,
+                    "shares": 0,
+                    "reach": 7098
+                }
+            ],
+            "total_sales_attributed": 539.54
+        }
+    ]
+}

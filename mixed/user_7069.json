@@ -1,0 +1,26 @@
+{
+    "user_id": "ff75a9e9-528c-4f3a-a2fd-1b13fe81ebf6",
+    "name": "Cassandra Mason",
+    "email": "williamthornton@example.net",
+    "instagram_handle": "@lindseymichael",
+    "tiktok_handle": "@youngdaniel",
+    "joined_at": "2024-05-16T04:13:46.344810",
+    "advocacy_programs": [
+        {
+            "program_id": "cc01814f-8592-4976-bfa0-3edb242c2fec",
+            "brand": "Brooks, Thomas and Walsh",
+            "tasks_completed": [
+                {
+                    "task_id": "0c21fa97-1851-4eb6-83f9-ea3636ec3201",
+                    "platform": "TikTok",
+                    "post_url": "https://www.rodriguez.com/",
+                    "likes": 125,
+                    "comments": 40,
+                    "shares": 66,
+                    "reach": 4553
+                }
+            ],
+            "total_sales_attributed": 4492.71
+        }
+    ]
+}

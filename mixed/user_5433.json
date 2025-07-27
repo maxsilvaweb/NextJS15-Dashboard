@@ -1,0 +1,26 @@
+{
+    "user_id": "930f0d86-46df-4693-86a4-d3ab609e890c",
+    "name": "Delores McGlynn",
+    "email": "Adell10@gmail.com",
+    "instagram_handle": "@Nick_Bergnaum44",
+    "tiktok_handle": "@Dario.Homenick",
+    "joined_at": "2024-05-28T21:06:49.625Z",
+    "advocacy_programs": [
+        {
+            "program_id": "93a2c4af-42ba-4af2-a175-1aa8a88ae824",
+            "brand": "Funk, Flatley and Tromp",
+            "tasks_completed": [
+                {
+                    "task_id": "0eb3c52d-0f6d-42d5-a34a-8a93f963ac33",
+                    "platform": "TikTok",
+                    "post_url": "https://svelte-term.com/",
+                    "likes": 166,
+                    "comments": 26,
+                    "shares": 47,
+                    "reach": 2621
+                }
+            ],
+            "total_sales_attributed": 792.0102920231234
+        }
+    ]
+}

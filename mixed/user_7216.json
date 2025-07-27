@@ -1,0 +1,26 @@
+{
+    "user_id": "4f9cd94f-41b5-4d91-869f-4103393b744c",
+    "name": "Robert Lopez",
+    "email": "joshuabarton@example.org",
+    "instagram_handle": "@michaelramirez",
+    "tiktok_handle": "@dvelazquez",
+    "joined_at": "2025-02-27T05:04:21.294793",
+    "advocacy_programs": [
+        {
+            "program_id": "5ccd8246-e457-4410-b987-da4472501d5b",
+            "brand": "Weaver-Mcbride",
+            "tasks_completed": [
+                {
+                    "task_id": "eb6f1688-9b16-4174-aaf7-dba472ce5bc7",
+                    "platform": "Facebook",
+                    "post_url": "http://www.reed-haynes.com/",
+                    "likes": 38,
+                    "comments": 169,
+                    "shares": 27,
+                    "reach": 8661
+                }
+            ],
+            "total_sales_attributed": 6733.58
+        }
+    ]
+}

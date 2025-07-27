@@ -1,0 +1,26 @@
+{
+    "user_id": "d24723b1-d71f-40b3-a1ea-896c3c630c5b",
+    "name": "Johnny Runolfsdottir",
+    "email": "Virgil60@yahoo.com",
+    "instagram_handle": "@Odell97",
+    "tiktok_handle": "@Flo.Wintheiser",
+    "joined_at": "2024-12-12T06:21:59.303Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1e10be3f-f832-40e2-b02e-ef1c7263a8a7",
+            "brand": "Schinner Group",
+            "tasks_completed": [
+                {
+                    "task_id": "0129fc2c-29ca-4d4a-b80b-f20399671dec",
+                    "platform": "Instagram",
+                    "post_url": "https://aggravating-metal.name",
+                    "likes": 177,
+                    "comments": 3,
+                    "shares": 18,
+                    "reach": 3526
+                }
+            ],
+            "total_sales_attributed": 583.4489041035843
+        }
+    ]
+}

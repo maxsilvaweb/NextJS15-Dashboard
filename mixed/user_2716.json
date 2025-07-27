@@ -1,0 +1,26 @@
+{
+    "user_id": "198b69f2-cad0-4946-918f-60734cb40876",
+    "name": "Courtney Torp",
+    "email": "Jayce98@hotmail.com",
+    "instagram_handle": "@Benny7",
+    "tiktok_handle": "@Madyson68",
+    "joined_at": "2024-05-15T01:22:33.412Z",
+    "advocacy_programs": [
+        {
+            "program_id": "64a323db-ca92-4fdf-89a6-3b05b408aaa7",
+            "brand": "Klocko, Kuhlman and Jacobi",
+            "tasks_completed": [
+                {
+                    "task_id": "8535243d-ddbf-4bbd-a2d4-9f4befa283d6",
+                    "platform": "TikTok",
+                    "post_url": "https://silver-fit.org/",
+                    "likes": 80,
+                    "comments": 33,
+                    "shares": 44,
+                    "reach": 5217
+                }
+            ],
+            "total_sales_attributed": 2621.1364903425665
+        }
+    ]
+}

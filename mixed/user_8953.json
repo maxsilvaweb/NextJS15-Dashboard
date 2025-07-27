@@ -1,0 +1,26 @@
+{
+    "user_id": "27fb8d73-cad6-4d80-aa7d-9b7e02257a6a",
+    "name": "Eva Emard",
+    "email": "Frederique.OConnell@gmail.com",
+    "instagram_handle": "@Brandyn.Pouros78",
+    "tiktok_handle": "@Kenyon_Zulauf",
+    "joined_at": "2024-09-30T19:31:17.233Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d18d7580-2e62-4fd0-9c29-a9b9b1309d8d",
+            "brand": "Kub, Considine and Douglas",
+            "tasks_completed": [
+                {
+                    "task_id": "12e98780-45c6-4dcc-8c1b-65189dae58c9",
+                    "platform": "TikTok",
+                    "post_url": "https://sticky-dime.info/",
+                    "likes": 314,
+                    "comments": 19,
+                    "shares": 30,
+                    "reach": 6345
+                }
+            ],
+            "total_sales_attributed": 4354.931235511157
+        }
+    ]
+}

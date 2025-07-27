@@ -1,0 +1,26 @@
+{
+    "user_id": "fed73e81-5420-4811-86b6-0371305cf92f",
+    "name": "Jasmine Greene",
+    "email": "wramirez@example.com",
+    "instagram_handle": "@zacharyward",
+    "tiktok_handle": "@dbarron",
+    "joined_at": "2023-08-19T23:48:14.866346",
+    "advocacy_programs": [
+        {
+            "program_id": "d16099d7-78c9-4066-b3c0-f6b13db5d9c8",
+            "brand": "Mccullough-Horton",
+            "tasks_completed": [
+                {
+                    "task_id": "9d349602-c5d7-4b59-9349-c442018c1aaa",
+                    "platform": "Facebook",
+                    "post_url": "https://downright-planula.biz",
+                    "likes": 4763,
+                    "comments": 366,
+                    "shares": 22,
+                    "reach": 4897
+                }
+            ],
+            "total_sales_attributed": 2310.5320406084347
+        }
+    ]
+}

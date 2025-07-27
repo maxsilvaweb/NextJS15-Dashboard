@@ -1,0 +1,26 @@
+{
+    "user_id": "77fa7d33-8f6f-4273-a1c8-318effebc19d",
+    "name": "Justin Lee",
+    "email": "qellis@example.net",
+    "instagram_handle": "@heatherhutchinson",
+    "tiktok_handle": "@everettdavid",
+    "joined_at": "2025-06-19T10:36:47.624307",
+    "advocacy_programs": [
+        {
+            "program_id": "70fb0c24-13c6-44c5-abe9-019f0dd76559",
+            "brand": "Hall, Ramirez and Parker",
+            "tasks_completed": [
+                {
+                    "task_id": "f7d98624-3feb-44f8-931c-eaa5168a5d6c",
+                    "platform": "Facebook",
+                    "post_url": "http://wright.net/",
+                    "likes": 143,
+                    "comments": 30,
+                    "shares": 39,
+                    "reach": 4953
+                }
+            ],
+            "total_sales_attributed": 3868.16
+        }
+    ]
+}

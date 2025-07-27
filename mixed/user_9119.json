@@ -1,0 +1,26 @@
+{
+    "user_id": "f9057bad-6c28-4037-91c4-8d7138cbe120",
+    "name": "Diana Brown",
+    "email": "hpearson@example.org",
+    "instagram_handle": "@hernandezryan",
+    "tiktok_handle": "@kingdanny",
+    "joined_at": "2023-11-29T02:39:33.103577",
+    "advocacy_programs": [
+        {
+            "program_id": "2b98cce2-c3df-4711-9c4f-c84b4ad2dfc6",
+            "brand": "Clayton-Chung",
+            "tasks_completed": [
+                {
+                    "task_id": "167142bb-e01a-4516-8236-ed13c96ff512",
+                    "platform": "Facebook",
+                    "post_url": "https://intent-fog.net/",
+                    "likes": 4715,
+                    "comments": 358,
+                    "shares": 2,
+                    "reach": 3319
+                }
+            ],
+            "total_sales_attributed": 4246.75
+        }
+    ]
+}

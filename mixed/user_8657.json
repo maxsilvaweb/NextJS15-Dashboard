@@ -1,0 +1,26 @@
+{
+    "user_id": "7fce6bfd-2514-4ce1-b7b9-5f210f414dc1",
+    "name": "James Francis",
+    "email": "traciortiz@example.com",
+    "instagram_handle": "@april19",
+    "tiktok_handle": "@walsherica",
+    "joined_at": "2023-12-01T00:23:49.895013",
+    "advocacy_programs": [
+        {
+            "program_id": "98bb2719-00bb-4a06-af77-4a20c7939d4e",
+            "brand": "Perez, Ashley and Hampton",
+            "tasks_completed": [
+                {
+                    "task_id": "2bffcdb1-59a7-42db-87a8-3eb35873a3d5",
+                    "platform": "Facebook",
+                    "post_url": "https://immense-settler.name/",
+                    "likes": 2345,
+                    "comments": 102,
+                    "shares": 58,
+                    "reach": 7285
+                }
+            ],
+            "total_sales_attributed": 1465.96
+        }
+    ]
+}

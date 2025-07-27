@@ -1,0 +1,26 @@
+{
+    "user_id": "d50194c5-f290-4386-bd8d-f762627efe5c",
+    "name": "James Rice",
+    "email": "Kian52@yahoo.com",
+    "instagram_handle": "@bjones",
+    "tiktok_handle": "@kyleluna",
+    "joined_at": "2024-11-19T19:02:14.271Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6b1fb3af-dc76-4a43-a927-4f5aca0135bd",
+            "brand": "Clark-Murphy",
+            "tasks_completed": [
+                {
+                    "task_id": "24e3e1b7-cc90-4aca-8dae-941ad8f3c03a",
+                    "platform": "Facebook",
+                    "post_url": "http://www.murray.org/",
+                    "likes": 4451,
+                    "comments": 458,
+                    "shares": 42,
+                    "reach": 4543
+                }
+            ],
+            "total_sales_attributed": 5115.49
+        }
+    ]
+}

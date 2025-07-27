@@ -1,0 +1,26 @@
+{
+    "user_id": "6085f9bb-4c63-416a-89ac-b12852ccea77",
+    "name": "Charles Smith MD",
+    "email": "Kaitlyn.Monahan@yahoo.com",
+    "instagram_handle": "@Veda.Dibbert",
+    "tiktok_handle": "@Jadyn.Hand",
+    "joined_at": "2024-09-08T23:09:27.033Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2eff3914-be72-4698-b8af-1000ae9ea15e",
+            "brand": "Will, Towne and Cole",
+            "tasks_completed": [
+                {
+                    "task_id": "272cb1e4-d575-4fe6-aba6-2a31b2c834ac",
+                    "platform": "Instagram",
+                    "post_url": "https://utilized-bonnet.biz",
+                    "likes": 499,
+                    "comments": 13,
+                    "shares": 41,
+                    "reach": 5955
+                }
+            ],
+            "total_sales_attributed": 4949.478037123778
+        }
+    ]
+}

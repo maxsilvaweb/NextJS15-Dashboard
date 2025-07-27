@@ -1,0 +1,26 @@
+{
+    "user_id": "1b9b6b14-925b-4bca-8b8c-6f44db142451",
+    "name": "Angela Bowman",
+    "email": "sonya15@example.com",
+    "instagram_handle": "@lopezandrea",
+    "tiktok_handle": "@aanderson",
+    "joined_at": "2024-03-09T21:20:13.488194",
+    "advocacy_programs": [
+        {
+            "program_id": "1ba17a2d-7906-4647-9a31-f2872bec71b5",
+            "brand": "Barton Group",
+            "tasks_completed": [
+                {
+                    "task_id": "d813f4c1-a3a2-406d-91d0-5b3cdf9577ae",
+                    "platform": "TikTok",
+                    "post_url": "https://soft-expense.biz/",
+                    "likes": 6200,
+                    "comments": 93,
+                    "shares": 21,
+                    "reach": 1874
+                }
+            ],
+            "total_sales_attributed": 1588.3725870500116
+        }
+    ]
+}

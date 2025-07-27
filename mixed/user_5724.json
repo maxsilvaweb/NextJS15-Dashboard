@@ -1,0 +1,26 @@
+{
+    "user_id": "579d265e-8fcd-453c-9bc0-eb00da590047",
+    "name": "Dr. Franklin Abshire",
+    "email": "Edgar81@hotmail.com",
+    "instagram_handle": "@Royal_Schiller65",
+    "tiktok_handle": "@Kyleigh44",
+    "joined_at": "2024-06-02T04:44:51.151Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fbb86cff-fa2c-4f0f-8b3e-bfa39bfb6f8d",
+            "brand": "Beatty - Macejkovic",
+            "tasks_completed": [
+                {
+                    "task_id": "1c385b0c-0211-428f-b6cc-552b1c69602d",
+                    "platform": "TikTok",
+                    "post_url": "https://shocked-tackle.org",
+                    "likes": 402,
+                    "comments": 30,
+                    "shares": 14,
+                    "reach": 6051
+                }
+            ],
+            "total_sales_attributed": 2325.318958095317
+        }
+    ]
+}

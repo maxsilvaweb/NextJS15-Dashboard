@@ -1,0 +1,26 @@
+{
+    "user_id": "49de8610-09f7-44c9-9130-9ad807d95376",
+    "name": "Richard Delacruz",
+    "email": "xvelez@example.com",
+    "instagram_handle": "@barbarahines",
+    "tiktok_handle": "@raven66",
+    "joined_at": "2025-04-08T09:57:57.644214",
+    "advocacy_programs": [
+        {
+            "program_id": "0d722fb9-70ee-4aa1-af00-dad2f58b04b7",
+            "brand": "Rogers, Sloan and Robinson",
+            "tasks_completed": [
+                {
+                    "task_id": "5d64c6cf-62df-4376-b7e6-51db8ff00468",
+                    "platform": "Instagram",
+                    "post_url": "https://www.price.com/",
+                    "likes": 855,
+                    "comments": 7,
+                    "shares": 11,
+                    "reach": 8928
+                }
+            ],
+            "total_sales_attributed": 567.88
+        }
+    ]
+}

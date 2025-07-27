@@ -1,0 +1,26 @@
+{
+    "user_id": "a1355a39-d9a7-4e56-9a26-f2c925c39c92",
+    "name": "Amanda Bernhard",
+    "email": "Dawn96@yahoo.com",
+    "instagram_handle": "@Norberto_Gislason",
+    "tiktok_handle": "@Jalen90",
+    "joined_at": "2024-05-01T23:00:34.899Z",
+    "advocacy_programs": [
+        {
+            "program_id": "85a79685-752e-4d4d-ace1-a0373e511f17",
+            "brand": "Koch - Bartell",
+            "tasks_completed": [
+                {
+                    "task_id": "c9b6ebf0-7e46-4f4c-b1d0-bb6cb9ab9481",
+                    "platform": "Instagram",
+                    "post_url": "https://these-amendment.name/",
+                    "likes": 210,
+                    "comments": 34,
+                    "shares": 15,
+                    "reach": 5996
+                }
+            ],
+            "total_sales_attributed": 918.303956886473
+        }
+    ]
+}

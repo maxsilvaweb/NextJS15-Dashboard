@@ -1,0 +1,26 @@
+{
+    "user_id": "c66978f5-837e-44af-bcbb-76f547c83c87",
+    "name": "Catherine Dodson",
+    "email": "stefanie32@example.com",
+    "instagram_handle": "@blairjoseph",
+    "tiktok_handle": "@mturner",
+    "joined_at": "2025-02-01T00:38:55.550Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dbf27c21-da4f-4c57-8fc7-71ba80e62010",
+            "brand": "Thomas Group",
+            "tasks_completed": [
+                {
+                    "task_id": "c4d64cd2-5d88-44b7-b797-a13f0b80192e",
+                    "platform": "Instagram",
+                    "post_url": "http://www.bartlett.net/",
+                    "likes": 775,
+                    "comments": 196,
+                    "shares": 6,
+                    "reach": 9501
+                }
+            ],
+            "total_sales_attributed": 3763.7
+        }
+    ]
+}

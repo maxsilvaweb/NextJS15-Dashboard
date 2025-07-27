@@ -1,0 +1,26 @@
+{
+    "user_id": "04681d18-4e04-4eb4-ad9d-3f265986dd5e",
+    "name": "Shelby Good",
+    "email": "josephgonzalez@example.org",
+    "instagram_handle": "@haleyedward",
+    "tiktok_handle": "@fieldsdrew",
+    "joined_at": "2024-11-23T02:51:52.120553",
+    "advocacy_programs": [
+        {
+            "program_id": "a84a0f0c-6aff-4de8-a990-7e61ad5f0ff3",
+            "brand": "Brown-Larsen",
+            "tasks_completed": [
+                {
+                    "task_id": "10e47dc8-46d4-4ac8-8b36-1fa1cbdafb44",
+                    "platform": "Instagram",
+                    "post_url": "http://www.dickerson-simpson.com/",
+                    "likes": 3704,
+                    "comments": 35,
+                    "shares": 100,
+                    "reach": 5686
+                }
+            ],
+            "total_sales_attributed": 3030.63
+        }
+    ]
+}

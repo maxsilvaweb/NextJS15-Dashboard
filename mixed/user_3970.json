@@ -1,0 +1,26 @@
+{
+    "user_id": "cbba6e0a-6369-4f11-b320-0996dea297a0",
+    "name": "Penny Bell",
+    "email": "susan26@example.com",
+    "instagram_handle": "@lisapoole",
+    "tiktok_handle": "@james82",
+    "joined_at": "2024-08-01T07:34:02.736355",
+    "advocacy_programs": [
+        {
+            "program_id": "bd0b7935-eaca-4351-a9f1-cce32c1a3f5c",
+            "brand": "Bennett, Moody and Byrd",
+            "tasks_completed": [
+                {
+                    "task_id": "2afd4a64-ba4d-46e0-b32e-b7d3b150b636",
+                    "platform": "Twitter",
+                    "post_url": "https://close-vibraphone.com",
+                    "likes": 7467,
+                    "comments": 173,
+                    "shares": 76,
+                    "reach": 8003
+                }
+            ],
+            "total_sales_attributed": 5933.41
+        }
+    ]
+}

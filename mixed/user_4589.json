@@ -1,0 +1,26 @@
+{
+    "user_id": "054d92e2-d147-4bba-ab2d-abfd346c4e9f",
+    "name": "Tracy Peterson",
+    "email": "Gaston_King16@yahoo.com",
+    "instagram_handle": "@joseph77",
+    "tiktok_handle": "@chenkristen",
+    "joined_at": "2024-10-20T20:06:30.732007",
+    "advocacy_programs": [
+        {
+            "program_id": "b0445b3e-908e-4fdc-8035-fc04917ec9b9",
+            "brand": "Bell Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "037bbd4d-976e-4780-9948-aff655a875ef",
+                    "platform": "Twitter",
+                    "post_url": "http://www.fox-hernandez.com/",
+                    "likes": 4156,
+                    "comments": 116,
+                    "shares": 97,
+                    "reach": 2006
+                }
+            ],
+            "total_sales_attributed": 2132.43
+        }
+    ]
+}

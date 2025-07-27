@@ -1,0 +1,26 @@
+{
+    "user_id": "3cfd0e49-d063-4242-a9ac-bec262c4b9dc",
+    "name": "Bryant Purdy",
+    "email": "Heather.Sanford46@yahoo.com",
+    "instagram_handle": "@Marlin_Yundt",
+    "tiktok_handle": "@Frankie.Hoeger-Hamill",
+    "joined_at": "2024-11-25T14:01:36.214Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1dfd1e52-7bde-46de-b3aa-5c942f2f7722",
+            "brand": "Greenfelder Group",
+            "tasks_completed": [
+                {
+                    "task_id": "831bf8fd-9220-46f2-8fcf-6f51e084e97d",
+                    "platform": "Instagram",
+                    "post_url": "https://grave-populist.org",
+                    "likes": 421,
+                    "comments": 10,
+                    "shares": 0,
+                    "reach": 6353
+                }
+            ],
+            "total_sales_attributed": 753.7405173252729
+        }
+    ]
+}

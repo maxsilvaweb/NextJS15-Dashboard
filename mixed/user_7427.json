@@ -1,0 +1,26 @@
+{
+    "user_id": "e8c97dea-ce3a-427d-ac79-d32b84bde90a",
+    "name": "Jonathan Henry",
+    "email": "zyoung@example.org",
+    "instagram_handle": "@donald18",
+    "tiktok_handle": "@lisa64",
+    "joined_at": "2025-05-01T19:09:34.616078",
+    "advocacy_programs": [
+        {
+            "program_id": "f454130e-77d1-47dd-b9e3-76995801ffbe",
+            "brand": "Brooks, Brown and Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "f60e1c8b-2dd6-43a8-b6f9-1a6ed0531bdf",
+                    "platform": "Instagram",
+                    "post_url": "https://mcfarland.com/",
+                    "likes": 159,
+                    "comments": 292,
+                    "shares": 75,
+                    "reach": 3289
+                }
+            ],
+            "total_sales_attributed": 3987.84
+        }
+    ]
+}

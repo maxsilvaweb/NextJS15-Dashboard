@@ -1,0 +1,26 @@
+{
+    "user_id": "565616b9-dc08-483a-90b1-e283a0b3dc3a",
+    "name": "Jillian Aguilar",
+    "email": "lindagreene@example.org",
+    "instagram_handle": "@cochranmegan",
+    "tiktok_handle": "@juliewilliams",
+    "joined_at": "2025-03-16T20:41:05.336270",
+    "advocacy_programs": [
+        {
+            "program_id": "8de4b037-4b5d-40cc-8a6c-0233903dd04b",
+            "brand": "Durham and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "04408a44-58b9-4895-a431-2916144ee494",
+                    "platform": "Instagram",
+                    "post_url": "https://kennedy-coleman.biz/",
+                    "likes": 7267,
+                    "comments": 113,
+                    "shares": 57,
+                    "reach": 1177
+                }
+            ],
+            "total_sales_attributed": 3610.97
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "efa45925-dc6b-43c2-9d82-dc08ac263a5c",
+    "name": "Andrew Cox",
+    "email": "cindy05@example.org",
+    "instagram_handle": "@sanchezjessica",
+    "tiktok_handle": "@patricia30",
+    "joined_at": "2024-02-20T05:46:03.578274",
+    "advocacy_programs": [
+        {
+            "program_id": "f4297f2f-e582-4828-b2dc-6dccb4ea5239",
+            "brand": "Carr Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "2742f36e-43f6-4838-93ce-f7297de8ebf6",
+                    "platform": "Facebook",
+                    "post_url": "https://www.tucker-benitez.com/",
+                    "likes": 4326,
+                    "comments": 342,
+                    "shares": 16,
+                    "reach": 1333
+                }
+            ],
+            "total_sales_attributed": 2768.78
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1c48c516-aae3-410f-a2d8-ac7925c66504",
+    "name": "Dr. Marco Rosenbaum",
+    "email": "Zachariah81@gmail.com",
+    "instagram_handle": "@Madaline.Jerde",
+    "tiktok_handle": "@Ulices_Schumm",
+    "joined_at": "2024-08-19T12:57:15.272Z",
+    "advocacy_programs": [
+        {
+            "program_id": "04c0cd49-b2fb-4b6d-9942-d2bdaf3db95b",
+            "brand": "Aufderhar Group",
+            "tasks_completed": [
+                {
+                    "task_id": "564760d0-7776-4a92-9461-5d84458112de",
+                    "platform": "TikTok",
+                    "post_url": "https://shameful-ad.biz",
+                    "likes": 216,
+                    "comments": 42,
+                    "shares": 15,
+                    "reach": 3936
+                }
+            ],
+            "total_sales_attributed": 3556.709062257277
+        }
+    ]
+}

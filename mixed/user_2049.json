@@ -1,0 +1,26 @@
+{
+    "user_id": "5e5c96d4-453a-4409-8e24-b332bbbc0751",
+    "name": "Lacey Hudson",
+    "email": "mccannwilliam@example.net",
+    "instagram_handle": "@mark69",
+    "tiktok_handle": "@coxcynthia",
+    "joined_at": "2024-08-06T20:38:07.754550",
+    "advocacy_programs": [
+        {
+            "program_id": "9402e425-43e2-4ac3-9c82-4d9516ab12bb",
+            "brand": "Ruiz-Levine",
+            "tasks_completed": [
+                {
+                    "task_id": "6dda75e6-d8cf-41e4-90c1-f457670eea19",
+                    "platform": "Facebook",
+                    "post_url": "http://www.thompson.com/",
+                    "likes": 6760,
+                    "comments": 75,
+                    "shares": 64,
+                    "reach": 5755
+                }
+            ],
+            "total_sales_attributed": 8128.51
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "acfbf638-23bd-4416-9e50-d84a51724cc2",
+    "name": "Lori Castro",
+    "email": "pray@example.org",
+    "instagram_handle": "@natalie27",
+    "tiktok_handle": "@natalie79",
+    "joined_at": "2023-11-22T14:02:23.271224",
+    "advocacy_programs": [
+        {
+            "program_id": "5c206131-84d8-44a3-a404-838b38ce315c",
+            "brand": "Jones, Nguyen and Cortez",
+            "tasks_completed": [
+                {
+                    "task_id": "3743dc33-2d65-491e-87ed-63c66860d969",
+                    "platform": "Instagram",
+                    "post_url": "https://carter.com/",
+                    "likes": 8401,
+                    "comments": 60,
+                    "shares": 79,
+                    "reach": 554
+                }
+            ],
+            "total_sales_attributed": 3788.62
+        }
+    ]
+}

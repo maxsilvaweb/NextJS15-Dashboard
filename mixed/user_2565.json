@@ -1,0 +1,26 @@
+{
+    "user_id": "1452d3cd-0132-4864-b49d-f6a08fb62b45",
+    "name": "William Shah",
+    "email": "ywilliamson@example.org",
+    "instagram_handle": "@grahamkatherine",
+    "tiktok_handle": "@qclayton",
+    "joined_at": "2024-06-02T10:59:53.082437",
+    "advocacy_programs": [
+        {
+            "program_id": "a92e71e7-3f14-41e5-bbca-efd897a78461",
+            "brand": "Rojas, Harris and Allen",
+            "tasks_completed": [
+                {
+                    "task_id": "7013ced6-998e-4fd6-bb19-b5b4b7959609",
+                    "platform": "TikTok",
+                    "post_url": "http://www.jones.com/",
+                    "likes": 77,
+                    "comments": 259,
+                    "shares": 16,
+                    "reach": 8066
+                }
+            ],
+            "total_sales_attributed": 8454.85
+        }
+    ]
+}

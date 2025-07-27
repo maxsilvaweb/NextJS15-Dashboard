@@ -1,0 +1,26 @@
+{
+    "user_id": "5fceacca-9921-497a-bc06-3848cae4d13c",
+    "name": "Mr. Marcus Connelly",
+    "email": "Camila.Durgan0@gmail.com",
+    "instagram_handle": "@Jairo_Stracke94",
+    "tiktok_handle": "@Gianni43",
+    "joined_at": "2024-05-14T06:13:17.282Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b4cb5582-2f0b-4aa5-8caf-82372820aeb5",
+            "brand": "Mayer Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "45c2fd92-3323-42fd-b366-0801f10f655b",
+                    "platform": "Instagram",
+                    "post_url": "https://illustrious-invite.org/",
+                    "likes": 53,
+                    "comments": 14,
+                    "shares": 62,
+                    "reach": 8490
+                }
+            ],
+            "total_sales_attributed": 4258.343701313348
+        }
+    ]
+}

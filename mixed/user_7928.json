@@ -1,0 +1,26 @@
+{
+    "user_id": "ad2f07bd-b740-4562-9c60-a825b466b006",
+    "name": "Sylvia Turcotte Sr.",
+    "email": "Rylan23@hotmail.com",
+    "instagram_handle": "@Lindsay_Batz20",
+    "tiktok_handle": "@Amina.Conn",
+    "joined_at": "2024-12-20T04:22:03.571Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d0dd109d-0d1f-4f2a-b9d0-36b64c21de5d",
+            "brand": "Langworth, Marquardt and Cruickshank",
+            "tasks_completed": [
+                {
+                    "task_id": "7bd3d52c-3e22-4adb-ac7b-4dfba46a5346",
+                    "platform": "Instagram",
+                    "post_url": "https://abandoned-husband.name/",
+                    "likes": 252,
+                    "comments": 0,
+                    "shares": 85,
+                    "reach": 5053
+                }
+            ],
+            "total_sales_attributed": 1625.7402720454986
+        }
+    ]
+}

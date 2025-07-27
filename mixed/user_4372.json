@@ -1,0 +1,26 @@
+{
+    "user_id": "51571399-fb95-4271-bc11-2367fbaa8f1c",
+    "name": "Austin Steele",
+    "email": "Clinton52@gmail.com",
+    "instagram_handle": "@noneal",
+    "tiktok_handle": "@browningstephanie",
+    "joined_at": "2024-12-06T17:25:58.953289",
+    "advocacy_programs": [
+        {
+            "program_id": "009155e4-4956-47d7-bb8e-10ca56be58db",
+            "brand": "Thomas and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "4de31841-4a64-4566-afbb-f0c116c20f1b",
+                    "platform": "TikTok",
+                    "post_url": "https://cuddly-ocelot.name/",
+                    "likes": 1353,
+                    "comments": 370,
+                    "shares": 84,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 9308.71
+        }
+    ]
+}

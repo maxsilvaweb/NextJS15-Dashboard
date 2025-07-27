@@ -1,0 +1,26 @@
+{
+    "user_id": "c5ed1c4a-c9cb-4c17-a802-aa2672e7028c",
+    "name": "Emily West",
+    "email": "lisa91@example.net",
+    "instagram_handle": "@edward42",
+    "tiktok_handle": "@xcarroll",
+    "joined_at": "2023-08-25T09:27:38.781906",
+    "advocacy_programs": [
+        {
+            "program_id": "4c06532e-2314-4f48-b63c-cf74bb1bda6e",
+            "brand": "Hernandez-Rodriguez",
+            "tasks_completed": [
+                {
+                    "task_id": "7c75bc1c-6489-4390-a8d3-ec02b943f3d2",
+                    "platform": "TikTok",
+                    "post_url": "http://freeman-moore.info/",
+                    "likes": 9509,
+                    "comments": 97,
+                    "shares": 40,
+                    "reach": 9660
+                }
+            ],
+            "total_sales_attributed": 2451.19
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b548477a-b212-4415-9c1c-8420f4d2ddbc",
+    "name": "Bonnie Marquez",
+    "email": "tamara04@example.net",
+    "instagram_handle": "@chelseaspencer",
+    "tiktok_handle": "@collinspatrick",
+    "joined_at": "2024-05-02T11:12:42.928462",
+    "advocacy_programs": [
+        {
+            "program_id": "2c1f0dc0-5551-4a35-9a4b-4050b09e9789",
+            "brand": "Cuevas Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b9a2fb94-7150-489d-8f3d-5877b4a15246",
+                    "platform": "Twitter",
+                    "post_url": "http://weiss.biz/",
+                    "likes": 7606,
+                    "comments": 128,
+                    "shares": 69,
+                    "reach": 2880
+                }
+            ],
+            "total_sales_attributed": 255.19
+        }
+    ]
+}

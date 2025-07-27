@@ -1,0 +1,26 @@
+{
+    "user_id": "3fb25b4c-a04c-4df2-a85c-3c1ba9be6d8c",
+    "name": "Sharon Turner",
+    "email": "natashamartin@example.com",
+    "instagram_handle": "@autumncampbell",
+    "tiktok_handle": "@brian59",
+    "joined_at": "2025-02-12T18:48:20.627536",
+    "advocacy_programs": [
+        {
+            "program_id": "fd7e70cb-f17b-4bef-ac65-e83829b86071",
+            "brand": "Martinez-Larson",
+            "tasks_completed": [
+                {
+                    "task_id": "4541b90d-493a-4949-a91d-ea83d9b97f9c",
+                    "platform": "Facebook",
+                    "post_url": "https://optimal-taxicab.name/",
+                    "likes": 989,
+                    "comments": 20,
+                    "shares": 57,
+                    "reach": 7297
+                }
+            ],
+            "total_sales_attributed": 5401.05
+        }
+    ]
+}

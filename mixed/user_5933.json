@@ -1,0 +1,26 @@
+{
+    "user_id": "88cc197b-f397-446a-a39a-283759158e37",
+    "name": "Daniel Kelly",
+    "email": "sandracastro@example.net",
+    "instagram_handle": "@ilucas",
+    "tiktok_handle": "@egreen",
+    "joined_at": "2023-08-06T18:09:31.553178",
+    "advocacy_programs": [
+        {
+            "program_id": "40eaf88f-7534-4f8b-9bf0-ab9408efcb5a",
+            "brand": "Watkins, Johnson and Green",
+            "tasks_completed": [
+                {
+                    "task_id": "8a15e891-a1ab-41e6-9692-48cf4f649c83",
+                    "platform": "Instagram",
+                    "post_url": "https://richard.com/",
+                    "likes": 9024,
+                    "comments": 47,
+                    "shares": 68,
+                    "reach": 1395
+                }
+            ],
+            "total_sales_attributed": 7451.55
+        }
+    ]
+}

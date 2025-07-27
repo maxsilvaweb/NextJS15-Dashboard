@@ -1,0 +1,26 @@
+{
+    "user_id": "85f912ed-6bed-440c-aef9-a652d6e6ce07",
+    "name": "Philip Paucek",
+    "email": "Hugh84@yahoo.com",
+    "instagram_handle": "@Rylan86",
+    "tiktok_handle": "@Magnus_Paucek95",
+    "joined_at": "2024-04-04T10:14:19.483Z",
+    "advocacy_programs": [
+        {
+            "program_id": "45ad107c-f469-4a0c-be42-137c9ebfda04",
+            "brand": "Bosco - Casper",
+            "tasks_completed": [
+                {
+                    "task_id": "36e768df-eac3-444c-8f3e-4924d6cb1c5c",
+                    "platform": "TikTok",
+                    "post_url": "https://untrue-nun.com",
+                    "likes": 459,
+                    "comments": 26,
+                    "shares": 58,
+                    "reach": 5735
+                }
+            ],
+            "total_sales_attributed": 2455.03507754239
+        }
+    ]
+}

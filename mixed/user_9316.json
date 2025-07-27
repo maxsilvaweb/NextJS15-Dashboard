@@ -1,0 +1,26 @@
+{
+    "user_id": "05365af7-a3a3-461e-ae32-54fec5ba47e0",
+    "name": "Jana Jenkins",
+    "email": "Alfredo_Bergnaum@yahoo.com",
+    "instagram_handle": "@Nikki_Ullrich",
+    "tiktok_handle": "@Emilio_Koch",
+    "joined_at": "2024-09-09T18:55:48.522Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e2698176-3e78-4828-b2dc-db9d76d8d91a",
+            "brand": "Swaniawski Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "35527872-6d67-4df9-96d3-12004f9398e2",
+                    "platform": "TikTok",
+                    "post_url": "https://unwritten-lid.org/",
+                    "likes": 146,
+                    "comments": 34,
+                    "shares": 16,
+                    "reach": 5790
+                }
+            ],
+            "total_sales_attributed": 3163.3006517232984
+        }
+    ]
+}

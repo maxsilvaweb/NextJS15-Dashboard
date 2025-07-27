@@ -1,0 +1,26 @@
+{
+    "user_id": "768e45c1-c5a5-495a-bb30-9c16fe468af7",
+    "name": "Ollie Paucek",
+    "email": "Destany.Feil@gmail.com",
+    "instagram_handle": "@Savion71",
+    "tiktok_handle": "@Wendell93",
+    "joined_at": "2025-02-06T23:31:23.094Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c2dc6185-6c0a-4ec2-85a6-575875ed8012",
+            "brand": "Erdman - Streich",
+            "tasks_completed": [
+                {
+                    "task_id": "46a60110-c1f1-4b3e-a590-0f6536c08b61",
+                    "platform": "Instagram",
+                    "post_url": "https://showy-birdcage.info/",
+                    "likes": 243,
+                    "comments": 34,
+                    "shares": 11,
+                    "reach": 6078
+                }
+            ],
+            "total_sales_attributed": 3043.064650954769
+        }
+    ]
+}

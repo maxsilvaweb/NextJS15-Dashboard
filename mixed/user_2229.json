@@ -1,0 +1,26 @@
+{
+    "user_id": "a2ca4323-2106-4afc-823e-f5c4a104c644",
+    "name": "Krista Terry",
+    "email": "Merlin.Hilll66@gmail.com",
+    "instagram_handle": "@Maurine9",
+    "tiktok_handle": "@Tyrel91",
+    "joined_at": "2024-12-25T13:20:44.465Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ec4b27c0-2563-4fe2-a4c9-74b757d235f2",
+            "brand": "Hahn LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2cb576db-e6ff-4306-ab3e-6afeed449868",
+                    "platform": "TikTok",
+                    "post_url": "https://graceful-godparent.name",
+                    "likes": 242,
+                    "comments": 6,
+                    "shares": 57,
+                    "reach": 5725
+                }
+            ],
+            "total_sales_attributed": 3776.7460887976217
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9c009192-4465-4490-9c90-2479002042c0",
+    "name": "Malik Golden",
+    "email": "robertrangel@example.net",
+    "instagram_handle": "@owalker",
+    "tiktok_handle": "@timothyanderson",
+    "joined_at": "2025-04-27T07:05:09.954158",
+    "advocacy_programs": [
+        {
+            "program_id": "e82665b5-27db-4ad7-84a5-ee46168c0605",
+            "brand": "Roberts, Wang and Dunn",
+            "tasks_completed": [
+                {
+                    "task_id": "29a47d3d-985c-4126-94d2-0a939ed0fbe9",
+                    "platform": "TikTok",
+                    "post_url": "https://dependent-lid.biz",
+                    "likes": 362,
+                    "comments": 174,
+                    "shares": 23,
+                    "reach": 6707
+                }
+            ],
+            "total_sales_attributed": 4842.07
+        }
+    ]
+}

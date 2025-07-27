@@ -1,0 +1,26 @@
+{
+    "user_id": "d34d5be3-8226-4ab6-a017-b22b3c55b97a",
+    "name": "Aaron Acosta",
+    "email": "juan33@example.org",
+    "instagram_handle": "@hcompton",
+    "tiktok_handle": "@jasoncooper",
+    "joined_at": "2025-05-11T02:36:29.030807",
+    "advocacy_programs": [
+        {
+            "program_id": "b2bc6be1-8a76-4bf1-a500-83319b9dfd5e",
+            "brand": "Harrison Group",
+            "tasks_completed": [
+                {
+                    "task_id": "317b0b03-09b9-46c1-b169-d728c2662bd7",
+                    "platform": "Instagram",
+                    "post_url": "http://www.obrien-preston.com/",
+                    "likes": 3927,
+                    "comments": 38,
+                    "shares": 95,
+                    "reach": 8111
+                }
+            ],
+            "total_sales_attributed": 6996.32
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "908bf6f7-ff89-45f8-9401-292764618cab",
+    "name": "Ginger Rohan",
+    "email": "Kathleen_Gleichner@yahoo.com",
+    "instagram_handle": "@Amya.Herman",
+    "tiktok_handle": "@Foster.Jenkins",
+    "joined_at": "2024-06-04T21:55:13.596Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3e25582b-1c22-4446-929a-d4f34dd14be9",
+            "brand": "Schamberger and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "656ea59f-36ed-440c-90ef-e0230b23c73d",
+                    "platform": "Instagram",
+                    "post_url": "https://ample-tennis.net/",
+                    "likes": 262,
+                    "comments": 45,
+                    "shares": 10,
+                    "reach": 995
+                }
+            ],
+            "total_sales_attributed": 3165.854860169862
+        }
+    ]
+}

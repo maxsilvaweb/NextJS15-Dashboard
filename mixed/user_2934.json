@@ -1,0 +1,26 @@
+{
+    "user_id": "df45ebcf-e788-423e-828c-c7713fa1ea19",
+    "name": "David Terry",
+    "email": "jmedina@example.org",
+    "instagram_handle": "@ysalazar",
+    "tiktok_handle": "@annramsey",
+    "joined_at": "2024-04-08T08:04:16.767769",
+    "advocacy_programs": [
+        {
+            "program_id": "74760ee1-7c05-4a89-8194-79f8b4773a49",
+            "brand": "Perry Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "9452128f-8f4c-4fdc-a048-fa13babf3f5b",
+                    "platform": "Instagram",
+                    "post_url": "http://www.lopez.com/",
+                    "likes": 227,
+                    "comments": 165,
+                    "shares": 100,
+                    "reach": 7790
+                }
+            ],
+            "total_sales_attributed": 407.75
+        }
+    ]
+}

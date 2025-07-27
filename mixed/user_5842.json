@@ -1,0 +1,26 @@
+{
+    "user_id": "444c8405-cd6f-46f9-939a-bf3cdafc50d3",
+    "name": "Casey Moore",
+    "email": "boltonmonique@example.com",
+    "instagram_handle": "@ksmith",
+    "tiktok_handle": "@yhamilton",
+    "joined_at": "2024-12-14T15:06:12.043828",
+    "advocacy_programs": [
+        {
+            "program_id": "8c21f479-238e-4b5d-86d1-01a668bc0796",
+            "brand": "Herrera PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "b65c74f7-7060-4d37-a2b5-d9497b3a159a",
+                    "platform": "YouTube",
+                    "post_url": "https://www.norman.org/",
+                    "likes": 216,
+                    "comments": 494,
+                    "shares": 10,
+                    "reach": 6194
+                }
+            ],
+            "total_sales_attributed": 3551.28
+        }
+    ]
+}

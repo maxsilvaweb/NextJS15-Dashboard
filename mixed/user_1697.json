@@ -1,0 +1,26 @@
+{
+    "user_id": "b1d4c9d6-d1a6-4502-8b3b-f824629769e9",
+    "name": "Deborah Campbell",
+    "email": "lcooper@example.com",
+    "instagram_handle": "@ttaylor",
+    "tiktok_handle": "@vrodriguez",
+    "joined_at": "2023-12-09T16:51:55.009164",
+    "advocacy_programs": [
+        {
+            "program_id": "582e4fe8-673b-413b-a794-d824757e98d6",
+            "brand": "Windler and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "fa866a99-7046-4fa2-b025-27c76f3198db",
+                    "platform": "Instagram",
+                    "post_url": "https://henry.com/",
+                    "likes": 2037,
+                    "comments": 374,
+                    "shares": 82,
+                    "reach": 2555
+                }
+            ],
+            "total_sales_attributed": 4395.59
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b1372c11-161b-4645-b300-c633ce0c1116",
+    "name": "Jennifer Golden",
+    "email": "vsimpson@example.org",
+    "instagram_handle": "@nnguyen",
+    "tiktok_handle": "@marissamccormick",
+    "joined_at": "2024-09-12T00:28:18.994973",
+    "advocacy_programs": [
+        {
+            "program_id": "33ad483f-e09e-46a7-a920-6f905b42c535",
+            "brand": "Garcia LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "bb1d0eb6-eebb-4c09-b9c4-657681a55d27",
+                    "platform": "Facebook",
+                    "post_url": "http://banks-johnson.com/",
+                    "likes": 6568,
+                    "comments": 277,
+                    "shares": 13,
+                    "reach": 2510
+                }
+            ],
+            "total_sales_attributed": 8718.73
+        }
+    ]
+}

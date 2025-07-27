@@ -1,0 +1,26 @@
+{
+    "user_id": "5517bbc4-ae89-44b0-a120-7094be35c5a3",
+    "name": "Heather Wallace",
+    "email": "gfranklin@example.net",
+    "instagram_handle": "@kaitlinjohnson",
+    "tiktok_handle": "@garrett29",
+    "joined_at": "2023-11-15T01:49:07.821521",
+    "advocacy_programs": [
+        {
+            "program_id": "6e6c425c-4db1-4b69-9fe9-60ab43142063",
+            "brand": "Hendricks-Merritt",
+            "tasks_completed": [
+                {
+                    "task_id": "c272ebbf-c6c9-4193-92d7-993c0bf0cbbf",
+                    "platform": "Facebook",
+                    "post_url": "https://defensive-jacket.info/",
+                    "likes": 490,
+                    "comments": 269,
+                    "shares": 79,
+                    "reach": 2958
+                }
+            ],
+            "total_sales_attributed": 360.93
+        }
+    ]
+}

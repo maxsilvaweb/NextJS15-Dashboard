@@ -1,0 +1,26 @@
+{
+    "user_id": "1d96ab12-cd47-4d98-b8d5-445de8d5a092",
+    "name": "Natalie Simpson",
+    "email": "thomasbrown@example.net",
+    "instagram_handle": "@williamkim",
+    "tiktok_handle": "@lwells",
+    "joined_at": "2025-06-12T00:29:53.508026",
+    "advocacy_programs": [
+        {
+            "program_id": "f0b4e4b2-0c88-46df-8049-a8dd381f8a10",
+            "brand": "Peterson, Johnson and Meyer",
+            "tasks_completed": [
+                {
+                    "task_id": "3d959722-2511-491d-9d4c-0566840efae2",
+                    "platform": "TikTok",
+                    "post_url": "https://www.fleming.com/",
+                    "likes": 891,
+                    "comments": 14,
+                    "shares": 45,
+                    "reach": 4062
+                }
+            ],
+            "total_sales_attributed": 3110.33
+        }
+    ]
+}

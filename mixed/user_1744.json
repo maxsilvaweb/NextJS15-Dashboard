@@ -1,0 +1,26 @@
+{
+    "user_id": "d3e89f47-4883-443c-8ef1-bd7723dda067",
+    "name": "Terry Sawayn",
+    "email": "Magdalena30@gmail.com",
+    "instagram_handle": "@Madyson.Fadel29",
+    "tiktok_handle": "@Abdullah50",
+    "joined_at": "2024-04-04T21:17:52.641Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3993a71e-5353-477d-88f1-005bedf0b0a7",
+            "brand": "Boyer, Sporer and Wilderman",
+            "tasks_completed": [
+                {
+                    "task_id": "b3ea708f-37a0-4106-a282-8e6922f1097a",
+                    "platform": "TikTok",
+                    "post_url": "https://content-dandelion.com/",
+                    "likes": 282,
+                    "comments": 16,
+                    "shares": 75,
+                    "reach": 6411
+                }
+            ],
+            "total_sales_attributed": 2689.64535508048
+        }
+    ]
+}

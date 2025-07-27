@@ -1,0 +1,26 @@
+{
+    "user_id": "419af68a-0fbe-4b03-9624-524a7484fb05",
+    "name": "Marco Hackett",
+    "email": "Kelton8@hotmail.com",
+    "instagram_handle": "@Liza_Crooks13",
+    "tiktok_handle": "@Ethyl_Braun42",
+    "joined_at": "2025-02-08T10:41:53.659Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6a803aed-0c23-41f1-bda8-bc4535fbf3d2",
+            "brand": "Runte, Bode and Abbott",
+            "tasks_completed": [
+                {
+                    "task_id": "4919d5a6-e069-4fd5-882e-ea78b5c788c8",
+                    "platform": "TikTok",
+                    "post_url": "https://hefty-swordfish.name/",
+                    "likes": 475,
+                    "comments": 8,
+                    "shares": 18,
+                    "reach": 6257
+                }
+            ],
+            "total_sales_attributed": 2375.146733326771
+        }
+    ]
+}

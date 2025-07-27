@@ -1,0 +1,26 @@
+{
+    "user_id": "c7b3e7e5-741b-45e2-918b-872a50bbdca9",
+    "name": "Robyn Williams MD",
+    "email": "nicholas79@example.net",
+    "instagram_handle": "@jessekeller",
+    "tiktok_handle": "@melissathomas",
+    "joined_at": "2024-06-11T21:35:47.886009",
+    "advocacy_programs": [
+        {
+            "program_id": "c1f0bd6e-ea0b-4a95-8659-b0312661f84b",
+            "brand": "Tran and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "1bb3e2e3-53e6-419b-9e60-dd77845b0369",
+                    "platform": "Facebook",
+                    "post_url": "https://hughes.com/",
+                    "likes": 1462,
+                    "comments": 150,
+                    "shares": 3,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2652.79
+        }
+    ]
+}

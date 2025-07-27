@@ -1,0 +1,26 @@
+{
+    "user_id": "14ad0703-aa6a-4bb6-905c-3f04b93b83a4",
+    "name": "Bryan Porter",
+    "email": "tchandler@example.net",
+    "instagram_handle": "@tammy34",
+    "tiktok_handle": "@levineanthony",
+    "joined_at": "2024-05-26T09:51:48.457458",
+    "advocacy_programs": [
+        {
+            "program_id": "d3654cb0-77e1-4fee-87a5-8a238e66e182",
+            "brand": "Gulgowski, Schamberger and Cronin",
+            "tasks_completed": [
+                {
+                    "task_id": "0bc3cf6e-4272-479a-9ebe-e52222993448",
+                    "platform": "Instagram",
+                    "post_url": "http://weber.com/",
+                    "likes": 8849,
+                    "comments": 456,
+                    "shares": 57,
+                    "reach": 7501
+                }
+            ],
+            "total_sales_attributed": 7894.78
+        }
+    ]
+}

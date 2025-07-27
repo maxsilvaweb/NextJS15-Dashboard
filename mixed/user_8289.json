@@ -1,0 +1,26 @@
+{
+    "user_id": "7ffacccd-caa9-4afd-bd50-28784ec294a9",
+    "name": "Roberto Sullivan",
+    "email": "pperez@example.net",
+    "instagram_handle": "@mboyd",
+    "tiktok_handle": "@jennifermckay",
+    "joined_at": "2024-09-26T00:04:32.421851",
+    "advocacy_programs": [
+        {
+            "program_id": "56c134f6-3206-460f-a217-1bb0e86ade97",
+            "brand": "Diaz-Barajas",
+            "tasks_completed": [
+                {
+                    "task_id": "256ca9cb-5e7a-40fd-9257-378dc0324bc6",
+                    "platform": "Facebook",
+                    "post_url": "https://strong-place.net",
+                    "likes": 5281,
+                    "comments": 23,
+                    "shares": 98,
+                    "reach": 1840
+                }
+            ],
+            "total_sales_attributed": 9208.89
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "26e9dbe0-3919-4a61-b495-480c3c7c5cd4",
+    "name": "Chad Smith",
+    "email": "Mallory_Goyette@yahoo.com",
+    "instagram_handle": "@imyers",
+    "tiktok_handle": "@dustingonzalez",
+    "joined_at": "2024-04-10T23:25:10.579263",
+    "advocacy_programs": [
+        {
+            "program_id": "dddd321c-71ac-4bc4-89df-a7c3b4540cca",
+            "brand": "Smith Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "48c5d13e-fce1-4945-af5d-86c57301e3d0",
+                    "platform": "Instagram",
+                    "post_url": "https://www.sharp.org/",
+                    "likes": 289,
+                    "comments": 76,
+                    "shares": 23,
+                    "reach": 4908
+                }
+            ],
+            "total_sales_attributed": 1557.7
+        }
+    ]
+}

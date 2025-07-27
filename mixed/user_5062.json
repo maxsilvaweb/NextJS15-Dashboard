@@ -1,0 +1,26 @@
+{
+    "user_id": "3ff0159f-3c32-4fcd-9f12-a760a57b5f19",
+    "name": "Marlene Wyman",
+    "email": "Yasmine_Larson0@gmail.com",
+    "instagram_handle": "@Matteo.Jacobson54",
+    "tiktok_handle": "@Laurence_Grady",
+    "joined_at": "2024-11-26T08:34:08.694Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7f625b7e-23ce-40a8-b11c-5fdc920d3376",
+            "brand": "Zulauf Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f0a25609-b913-40bd-94b3-49992b1d33ed",
+                    "platform": "Instagram",
+                    "post_url": "https://imaginary-premium.org/",
+                    "likes": 481,
+                    "comments": 42,
+                    "shares": 60,
+                    "reach": 4004
+                }
+            ],
+            "total_sales_attributed": 643.6154364624771
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3ec5b443-3d63-4510-8989-694b0e01cd3e",
+    "name": "Wesley Thompson",
+    "email": "johnmay@example.com",
+    "instagram_handle": "@Tamara.Bartell-Nikolaus38",
+    "tiktok_handle": "@heidi51",
+    "joined_at": "2024-05-03T03:51:12.485Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3c5a9e6b-5428-4f36-9e2d-dc481a0018e1",
+            "brand": "Martinez, Morgan and Maynard",
+            "tasks_completed": [
+                {
+                    "task_id": "566afcaf-f2d7-45fd-b382-ea6bf03df856",
+                    "platform": "Instagram",
+                    "post_url": "https://www.terry-norman.org/",
+                    "likes": 9501,
+                    "comments": 10,
+                    "shares": 21,
+                    "reach": 3065
+                }
+            ],
+            "total_sales_attributed": 8079.72
+        }
+    ]
+}

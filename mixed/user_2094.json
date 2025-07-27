@@ -1,0 +1,26 @@
+{
+    "user_id": "788aa366-22bc-485f-a6a7-7db5c84eb2a4",
+    "name": "Amanda Smith",
+    "email": "woodalbert@example.net",
+    "instagram_handle": "@kathleenhendrix",
+    "tiktok_handle": "@alexanderantonio",
+    "joined_at": "2024-01-09T01:15:40.357208",
+    "advocacy_programs": [
+        {
+            "program_id": "008f923e-04ac-42dc-b9d6-f58a1e7039fc",
+            "brand": "Larson, O'Keefe and Maggio",
+            "tasks_completed": [
+                {
+                    "task_id": "65660dbc-335f-42d9-9dd6-08b05393069c",
+                    "platform": "TikTok",
+                    "post_url": "https://www.bradley.com/",
+                    "likes": 6728,
+                    "comments": 488,
+                    "shares": 81,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 1801.35
+        }
+    ]
+}

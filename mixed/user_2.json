@@ -1,0 +1,26 @@
+{
+    "user_id": "1c32c6b8-f387-445f-9afa-5673f1f58bd3",
+    "name": "Brian Pham",
+    "email": "keithsims@example.net",
+    "instagram_handle": "@xevans",
+    "tiktok_handle": "@hleonard",
+    "joined_at": "2025-06-26T17:00:01.062832",
+    "advocacy_programs": [
+        {
+            "program_id": "9fb242a8-c9fa-4a29-9878-503c01af5147",
+            "brand": "Green-Edwards",
+            "tasks_completed": [
+                {
+                    "task_id": "ae3e9c07-d320-46b4-accd-7fe1cf25132e",
+                    "platform": "Facebook",
+                    "post_url": "http://cantu.com/",
+                    "likes": 5586,
+                    "comments": 374,
+                    "shares": 37,
+                    "reach": 2963
+                }
+            ],
+            "total_sales_attributed": 8331.59
+        }
+    ]
+}

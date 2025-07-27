@@ -1,0 +1,26 @@
+{
+    "user_id": "6b3c02af-2e0c-4759-a34b-b5a9391e10b1",
+    "name": "Erin Chavez",
+    "email": "melanie63@example.org",
+    "instagram_handle": "@emma22",
+    "tiktok_handle": "@saramartin",
+    "joined_at": "2024-11-04T21:41:48.536607",
+    "advocacy_programs": [
+        {
+            "program_id": "e4433d38-7572-46bd-b3bc-013174fb60fd",
+            "brand": "Tyler LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "4515d166-dd46-46f9-971d-3b138c178a63",
+                    "platform": "Facebook",
+                    "post_url": "http://www.mcclain-powers.com/",
+                    "likes": 8370,
+                    "comments": 14,
+                    "shares": 62,
+                    "reach": 4963
+                }
+            ],
+            "total_sales_attributed": 3087.52
+        }
+    ]
+}

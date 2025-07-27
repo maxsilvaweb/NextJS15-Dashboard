@@ -1,0 +1,26 @@
+{
+    "user_id": "16e960b8-7c47-435d-8e1c-1ffd592fea41",
+    "name": "George Heaney",
+    "email": "Reyes.Kuhn@hotmail.com",
+    "instagram_handle": "@Rupert_Monahan3",
+    "tiktok_handle": "@Lance93",
+    "joined_at": "2025-03-01T21:09:25.549Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8e53c7fb-4711-4edb-a390-7d935d174009",
+            "brand": "Bernhard - O'Connell",
+            "tasks_completed": [
+                {
+                    "task_id": "4d126d6b-6456-49ca-804f-a02fdaf979f2",
+                    "platform": "Instagram",
+                    "post_url": "https://vast-rawhide.info",
+                    "likes": 17,
+                    "comments": 29,
+                    "shares": 50,
+                    "reach": 5376
+                }
+            ],
+            "total_sales_attributed": 1702.2736464712718
+        }
+    ]
+}

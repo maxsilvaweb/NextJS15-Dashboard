@@ -1,0 +1,26 @@
+{
+    "user_id": "bed52bf8-f09b-4122-970c-044f745504d5",
+    "name": "Austin Burke",
+    "email": "robertwilliams@example.net",
+    "instagram_handle": "@rogersnatasha",
+    "tiktok_handle": "@jeffery72",
+    "joined_at": "2024-02-15T01:54:11.573176",
+    "advocacy_programs": [
+        {
+            "program_id": "9ca415f4-2437-4387-931e-d5c03e2c930f",
+            "brand": "Daniel Group",
+            "tasks_completed": [
+                {
+                    "task_id": "3391fb22-abb0-4f2c-9c30-6084d3b635e2",
+                    "platform": "TikTok",
+                    "post_url": "https://morrison-brown.com/",
+                    "likes": 3807,
+                    "comments": 164,
+                    "shares": 40,
+                    "reach": 3432
+                }
+            ],
+            "total_sales_attributed": 8296.55
+        }
+    ]
+}

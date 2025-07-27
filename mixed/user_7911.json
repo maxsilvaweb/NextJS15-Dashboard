@@ -1,0 +1,26 @@
+{
+    "user_id": "064c2b5c-4c8a-4171-9634-a7363c625e9e",
+    "name": "Christina Rodriguez",
+    "email": "sparksantonio@example.org",
+    "instagram_handle": "@robert09",
+    "tiktok_handle": "@christopher35",
+    "joined_at": "2025-03-20T12:09:23.671387",
+    "advocacy_programs": [
+        {
+            "program_id": "e81fe0ca-fa8f-45ec-a2bb-b2fdb3154668",
+            "brand": "Collier LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "3b1a842e-b907-4b9b-85e2-c819d6a06f51",
+                    "platform": "Instagram",
+                    "post_url": "https://www.chen.net/",
+                    "likes": 3780,
+                    "comments": 259,
+                    "shares": 24,
+                    "reach": 8177
+                }
+            ],
+            "total_sales_attributed": 6937.47
+        }
+    ]
+}

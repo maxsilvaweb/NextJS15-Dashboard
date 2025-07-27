@@ -1,0 +1,26 @@
+{
+    "user_id": "b315f3c1-820b-4e38-9e03-1036af70931f",
+    "name": "David Hale",
+    "email": "melissa17@example.org",
+    "instagram_handle": "@rwerner",
+    "tiktok_handle": "@lpace",
+    "joined_at": "2025-07-06T03:03:46.293611",
+    "advocacy_programs": [
+        {
+            "program_id": "4023cb6f-88bb-48bd-98b2-b3d4a194fdd0",
+            "brand": "Mckay, Burgess and Cruz",
+            "tasks_completed": [
+                {
+                    "task_id": "4aefabe7-8344-408a-97fa-50e54d5fec2d",
+                    "platform": "Instagram",
+                    "post_url": "http://www.potts.com/",
+                    "likes": 7188,
+                    "comments": 470,
+                    "shares": 90,
+                    "reach": 4381
+                }
+            ],
+            "total_sales_attributed": 7237.68
+        }
+    ]
+}

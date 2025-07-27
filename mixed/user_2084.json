@@ -1,0 +1,26 @@
+{
+    "user_id": "6fe81899-091f-4acf-a2ed-28c5e6de9413",
+    "name": "Patricia Barker",
+    "email": "james73@example.com",
+    "instagram_handle": "@deborah83",
+    "tiktok_handle": "@gwhite",
+    "joined_at": "2025-01-31T12:09:16.182Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ed8689b4-0d2e-4744-943b-9a576c01f178",
+            "brand": "Boyd, Jones and Drake",
+            "tasks_completed": [
+                {
+                    "task_id": "3bcd5ba7-40c9-404d-bffc-1209407abe6d",
+                    "platform": "TikTok",
+                    "post_url": "https://www.carney-hammond.com/",
+                    "likes": 3824,
+                    "comments": 41,
+                    "shares": 22,
+                    "reach": 6737
+                }
+            ],
+            "total_sales_attributed": 4846.27
+        }
+    ]
+}

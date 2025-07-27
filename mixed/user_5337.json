@@ -1,0 +1,26 @@
+{
+    "user_id": "2ce202d2-f7e4-46c5-b53d-4660e0d0e023",
+    "name": "Ana Williams",
+    "email": "bryansimpson@example.net",
+    "instagram_handle": "@aespinoza",
+    "tiktok_handle": "@turnergregory",
+    "joined_at": "2024-12-15T03:31:35.627132",
+    "advocacy_programs": [
+        {
+            "program_id": "a889f67c-c12f-4364-998a-0e9e2b24f5f6",
+            "brand": "Will, Bergnaum and Gleichner",
+            "tasks_completed": [
+                {
+                    "task_id": "05420ff2-471c-49c4-8a46-ee89301671c9",
+                    "platform": "YouTube",
+                    "post_url": "https://www.meyer.com/",
+                    "likes": 8092,
+                    "comments": 104,
+                    "shares": 41,
+                    "reach": 929
+                }
+            ],
+            "total_sales_attributed": 6049.91
+        }
+    ]
+}

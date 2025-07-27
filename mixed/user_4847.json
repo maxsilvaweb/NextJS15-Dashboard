@@ -1,0 +1,26 @@
+{
+    "user_id": "fd00801e-6f83-4a61-9f19-46a4fba1ddcf",
+    "name": "Jennifer Carter",
+    "email": "ramirezanna@example.net",
+    "instagram_handle": "@pmaldonado",
+    "tiktok_handle": "@jasonoconnor",
+    "joined_at": "2024-10-03T15:03:42.393088",
+    "advocacy_programs": [
+        {
+            "program_id": "63249dcb-ee93-43a4-b85b-03c130f27b72",
+            "brand": "Thompson, Collins and Griffin",
+            "tasks_completed": [
+                {
+                    "task_id": "b2fdec79-65cc-4d56-a12d-3410cd690a90",
+                    "platform": "Facebook",
+                    "post_url": "https://normal-advertisement.name",
+                    "likes": 9572,
+                    "comments": 3,
+                    "shares": 69,
+                    "reach": 1924
+                }
+            ],
+            "total_sales_attributed": 7206.36
+        }
+    ]
+}

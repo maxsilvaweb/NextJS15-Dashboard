@@ -1,0 +1,26 @@
+{
+    "user_id": "60897489-6808-4928-bbf2-0b7ae087aeef",
+    "name": "Ashley Lang",
+    "email": "pmcfarland@example.org",
+    "instagram_handle": "@eobrien",
+    "tiktok_handle": "@jasminereynolds",
+    "joined_at": "2023-12-28T00:59:58.407988",
+    "advocacy_programs": [
+        {
+            "program_id": "f32541ca-ab44-444c-8000-a17dbc93c736",
+            "brand": "Flores PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "753cb73c-ee63-42a6-998c-641068a85dd3",
+                    "platform": "TikTok",
+                    "post_url": "https://www.berg.net/",
+                    "likes": 8817,
+                    "comments": 238,
+                    "shares": 76,
+                    "reach": 2674
+                }
+            ],
+            "total_sales_attributed": 7336.99
+        }
+    ]
+}

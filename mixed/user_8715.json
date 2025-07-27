@@ -1,0 +1,26 @@
+{
+    "user_id": "dc03cd26-f54c-4775-b9b8-4a5e9aa462bc",
+    "name": "Jason Kim",
+    "email": "pparker@example.org",
+    "instagram_handle": "@berryjoseph",
+    "tiktok_handle": "@rebeccadavis",
+    "joined_at": "2024-05-14T02:10:30.470Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9e60d202-9fca-4b34-81e2-757f31675ab5",
+            "brand": "Williams-Lyons",
+            "tasks_completed": [
+                {
+                    "task_id": "74a4a3f3-116b-4e19-9c86-a6a98a1cea82",
+                    "platform": "TikTok",
+                    "post_url": "http://www.snyder.com/",
+                    "likes": 6033,
+                    "comments": 272,
+                    "shares": 27,
+                    "reach": 6263
+                }
+            ],
+            "total_sales_attributed": 4874.734281255559
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e34ff9e0-2d05-4f45-8008-71912d01c7d5",
+    "name": "Sheila Jones",
+    "email": "Laura_Halvorson84@gmail.com",
+    "instagram_handle": "@Isai13",
+    "tiktok_handle": "@Lorenzo_Bahringer",
+    "joined_at": "2024-10-31T02:09:13.922Z",
+    "advocacy_programs": [
+        {
+            "program_id": "68f5f7d0-24a5-4fce-a625-c95b8afa9183",
+            "brand": "Mills LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c5a74463-b74e-4824-828d-a0ba457215b8",
+                    "platform": "TikTok",
+                    "post_url": "https://proper-premeditation.biz/",
+                    "likes": 167,
+                    "comments": 44,
+                    "shares": 7,
+                    "reach": 7860
+                }
+            ],
+            "total_sales_attributed": 4149.69609624914
+        }
+    ]
+}

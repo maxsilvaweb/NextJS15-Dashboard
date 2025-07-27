@@ -1,0 +1,26 @@
+{
+    "user_id": "44089c32-151e-4bf5-98cf-5971ad3a0ac6",
+    "name": "Joshua Gonzalez",
+    "email": "Waldo46@yahoo.com",
+    "instagram_handle": "@joshua89",
+    "tiktok_handle": "@brittanyhill",
+    "joined_at": "2025-02-12T18:51:59.705283",
+    "advocacy_programs": [
+        {
+            "program_id": "64f6427c-5221-4107-93e1-212c3b93f710",
+            "brand": "Martin-Edwards",
+            "tasks_completed": [
+                {
+                    "task_id": "9bb88e15-1058-4280-96f3-ee40bed6fd1f",
+                    "platform": "Instagram",
+                    "post_url": "http://www.colon-bailey.com/",
+                    "likes": 3252,
+                    "comments": 84,
+                    "shares": 89,
+                    "reach": 3698
+                }
+            ],
+            "total_sales_attributed": 9468.05
+        }
+    ]
+}

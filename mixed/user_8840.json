@@ -1,0 +1,26 @@
+{
+    "user_id": "97ceefb7-2c7a-4ddb-b58b-f62daccdc172",
+    "name": "Mrs. Penny Hettinger",
+    "email": "Boris.Batz@gmail.com",
+    "instagram_handle": "@Kim61",
+    "tiktok_handle": "@Braeden96",
+    "joined_at": "2024-12-01T13:12:51.465Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6aaab068-cd98-4f86-86eb-6476726a700d",
+            "brand": "Hills LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "514e06b2-fc14-452d-8b8d-ba48279bd93c",
+                    "platform": "Instagram",
+                    "post_url": "https://usable-stir-fry.biz/",
+                    "likes": 106,
+                    "comments": 50,
+                    "shares": 62,
+                    "reach": 8599
+                }
+            ],
+            "total_sales_attributed": 3457.1492788117102
+        }
+    ]
+}

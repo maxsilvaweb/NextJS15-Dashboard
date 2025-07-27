@@ -1,0 +1,26 @@
+{
+    "user_id": "57f0f5a1-bd24-4cd2-b5da-7e5f3ed86e6e",
+    "name": "Arthur Kaiser",
+    "email": "Ashlee91@yahoo.com",
+    "instagram_handle": "@peterramirez",
+    "tiktok_handle": "@stephensonnathan",
+    "joined_at": "2023-10-14T02:47:54.202999",
+    "advocacy_programs": [
+        {
+            "program_id": "b667a8a5-5b56-4af8-9ecd-056918dc3f9e",
+            "brand": "Johns, Mayer and Lubowitz",
+            "tasks_completed": [
+                {
+                    "task_id": "bf0938b5-8726-4afc-a603-45250bce9541",
+                    "platform": "Instagram",
+                    "post_url": "https://gilmore-wagner.net/",
+                    "likes": 5628,
+                    "comments": 10,
+                    "shares": 24,
+                    "reach": 3742
+                }
+            ],
+            "total_sales_attributed": 3616.65
+        }
+    ]
+}

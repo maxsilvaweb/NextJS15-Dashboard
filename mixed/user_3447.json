@@ -1,0 +1,26 @@
+{
+    "user_id": "f0e079e5-fb17-4127-a641-fc755dc7f49a",
+    "name": "Steven West",
+    "email": "Elinor.Kunde23@gmail.com",
+    "instagram_handle": "@xbarnett",
+    "tiktok_handle": "@brandtjimmy",
+    "joined_at": "2024-10-04T04:02:08.354584",
+    "advocacy_programs": [
+        {
+            "program_id": "84550450-a4b3-4ad0-a531-3e4a6e5a800b",
+            "brand": "Turner Group",
+            "tasks_completed": [
+                {
+                    "task_id": "45efcbca-c8ec-4bcf-a131-4f981f8001bd",
+                    "platform": "Facebook",
+                    "post_url": "https://www.conrad-fritz.info/",
+                    "likes": 256,
+                    "comments": 265,
+                    "shares": 87,
+                    "reach": 5859
+                }
+            ],
+            "total_sales_attributed": 4724.79
+        }
+    ]
+}

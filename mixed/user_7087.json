@@ -1,0 +1,26 @@
+{
+    "user_id": "f0fa5300-ec4c-47b3-9ecc-5a7daf6fe1ee",
+    "name": "Bryan Sheppard",
+    "email": "kathryndiaz@example.com",
+    "instagram_handle": "@lawrencekathy",
+    "tiktok_handle": "@uramos",
+    "joined_at": "2023-10-27T11:48:31.369542",
+    "advocacy_programs": [
+        {
+            "program_id": "86bc80e8-087b-4c97-8059-3ce8d1b4a96e",
+            "brand": "Davis LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f9d91f98-31c0-4534-9f96-d4aa113be0c4",
+                    "platform": "Instagram",
+                    "post_url": "https://irresponsible-mainstream.info",
+                    "likes": 9463,
+                    "comments": 405,
+                    "shares": 4,
+                    "reach": 6298
+                }
+            ],
+            "total_sales_attributed": 4204.302403319387
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "58500746-bfe3-4dba-9c13-3d6182c19345",
+    "name": "Jennifer Sheppard",
+    "email": "scole@example.net",
+    "instagram_handle": "@davisrobert",
+    "tiktok_handle": "@ismith",
+    "joined_at": "2024-01-13T21:07:37.436231",
+    "advocacy_programs": [
+        {
+            "program_id": "b05ceea7-10a9-45a2-8761-06a8ec7bd167",
+            "brand": "Coleman, Hebert and Webb",
+            "tasks_completed": [
+                {
+                    "task_id": "6005ded4-915d-45aa-b338-87b72925187d",
+                    "platform": "Instagram",
+                    "post_url": "http://www.cooper.com/",
+                    "likes": 107,
+                    "comments": 383,
+                    "shares": 8,
+                    "reach": 5396
+                }
+            ],
+            "total_sales_attributed": 1015.1288188851117
+        }
+    ]
+}

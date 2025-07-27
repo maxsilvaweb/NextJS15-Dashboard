@@ -1,0 +1,26 @@
+{
+    "user_id": "35ef0c87-612a-4eb5-9e5a-e4b4e9db7c3b",
+    "name": "Kelli Barrett",
+    "email": "jpeterson@example.com",
+    "instagram_handle": "@timothy67",
+    "tiktok_handle": "@Maymie.Nolan56",
+    "joined_at": "2025-03-07T14:02:15.671612",
+    "advocacy_programs": [
+        {
+            "program_id": "34222ec8-8a4f-417a-8fb8-15c343cc454a",
+            "brand": "Hettinger - Boehm",
+            "tasks_completed": [
+                {
+                    "task_id": "5cf9832e-bc19-4f47-aab0-f86ce89a64dc",
+                    "platform": "Facebook",
+                    "post_url": "https://www.silva.com/",
+                    "likes": 1474,
+                    "comments": 374,
+                    "shares": 95,
+                    "reach": 2566
+                }
+            ],
+            "total_sales_attributed": 1828.838182684953
+        }
+    ]
+}

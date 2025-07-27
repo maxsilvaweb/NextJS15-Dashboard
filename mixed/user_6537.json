@@ -1,0 +1,26 @@
+{
+    "user_id": "c072d4da-d560-40c2-9271-94ef1ebbccbe",
+    "name": "Francisco Treutel",
+    "email": "Madie42@yahoo.com",
+    "instagram_handle": "@Cale90",
+    "tiktok_handle": "@Otto17",
+    "joined_at": "2025-02-14T08:24:49.384Z",
+    "advocacy_programs": [
+        {
+            "program_id": "85cc86ad-0eb9-4860-91e0-bd1521d93c70",
+            "brand": "Quitzon - Hills",
+            "tasks_completed": [
+                {
+                    "task_id": "55e279a3-662e-4bc2-982a-2fbe349e4880",
+                    "platform": "Instagram",
+                    "post_url": "https://unfortunate-prohibition.net",
+                    "likes": 495,
+                    "comments": 37,
+                    "shares": 98,
+                    "reach": 9984
+                }
+            ],
+            "total_sales_attributed": 1751.1992374145354
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "adf5180e-b23e-4173-91b6-6d821c735c44",
+    "name": "Donald Lynn",
+    "email": "william58@example.org",
+    "instagram_handle": "@jlucero",
+    "tiktok_handle": "@douglas89",
+    "joined_at": "2025-03-11T18:49:52.996122",
+    "advocacy_programs": [
+        {
+            "program_id": "6c0fb059-6581-434a-a586-e828eca4db53",
+            "brand": "Brewer Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "280251db-26a2-49cb-b526-0e7927de3ea8",
+                    "platform": "Instagram",
+                    "post_url": "https://deserted-lyre.org/",
+                    "likes": 9011,
+                    "comments": 352,
+                    "shares": 60,
+                    "reach": 6202
+                }
+            ],
+            "total_sales_attributed": 6323.08
+        }
+    ]
+}

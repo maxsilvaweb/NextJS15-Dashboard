@@ -1,0 +1,26 @@
+{
+    "user_id": "d6050794-6cb1-43a3-9a96-4d67a4fa6e4d",
+    "name": "Sam Kemmer",
+    "email": "Antonia.Hudson@gmail.com",
+    "instagram_handle": "@Kitty_Erdman68",
+    "tiktok_handle": "@Ashleigh_Kovacek43",
+    "joined_at": "2024-08-04T18:29:51.304Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f991800e-7b2a-4ad5-b730-91f90d066449",
+            "brand": "Moore - Nitzsche",
+            "tasks_completed": [
+                {
+                    "task_id": "e64f674b-8f0d-4858-b413-e3bc379d6b08",
+                    "platform": "Instagram",
+                    "post_url": "https://weighty-jet.name",
+                    "likes": 334,
+                    "comments": 25,
+                    "shares": 77,
+                    "reach": 8124
+                }
+            ],
+            "total_sales_attributed": 2050.0665613385604
+        }
+    ]
+}

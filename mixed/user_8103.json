@@ -1,0 +1,26 @@
+{
+    "user_id": "7aff689e-c62a-413b-b863-ae5305b46809",
+    "name": "Shannon Bartlett",
+    "email": "marksjeremiah@example.net",
+    "instagram_handle": "@martincurtis",
+    "tiktok_handle": "@jessica34",
+    "joined_at": "2024-10-14T17:35:07.548078",
+    "advocacy_programs": [
+        {
+            "program_id": "9a55e3ce-2f93-41ee-9af1-8e8a93d1c3f1",
+            "brand": "Jackson, Moore and Scott",
+            "tasks_completed": [
+                {
+                    "task_id": "3ead7d01-1c2e-4fb9-a7e4-694516846a90",
+                    "platform": "TikTok",
+                    "post_url": "https://alvarado-sullivan.com/",
+                    "likes": 8920,
+                    "comments": 341,
+                    "shares": 26,
+                    "reach": 8901
+                }
+            ],
+            "total_sales_attributed": 2226.7
+        }
+    ]
+}

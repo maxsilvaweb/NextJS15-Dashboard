@@ -1,0 +1,26 @@
+{
+    "user_id": "4b324913-5355-4bb8-8172-785e3fc6cc07",
+    "name": "Alexandria Dunn",
+    "email": "kristina06@example.org",
+    "instagram_handle": "@kevinpineda",
+    "tiktok_handle": "@qhunter",
+    "joined_at": "2024-05-11T19:24:45.683611",
+    "advocacy_programs": [
+        {
+            "program_id": "bd4c0ef3-ace8-4ee0-84ca-76b10565a04f",
+            "brand": "Rangel Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "8567f893-300f-47a2-95a9-858603bf1412",
+                    "platform": "YouTube",
+                    "post_url": "http://www.moss.com/",
+                    "likes": 1589,
+                    "comments": 35,
+                    "shares": 19,
+                    "reach": 7580
+                }
+            ],
+            "total_sales_attributed": 2870.35
+        }
+    ]
+}

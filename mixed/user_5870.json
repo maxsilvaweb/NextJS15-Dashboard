@@ -1,0 +1,26 @@
+{
+    "user_id": "98bcb7b4-3ce4-4322-a98e-675969fdbc2f",
+    "name": "Leroy Welch III",
+    "email": "Maeve48@yahoo.com",
+    "instagram_handle": "@Emmie.Littel",
+    "tiktok_handle": "@Arno.Waters",
+    "joined_at": "2025-01-24T11:52:05.090Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7fb0c5b3-cc43-4f9c-9d8f-f12664265a7d",
+            "brand": "Monahan and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "d2cdd04c-d469-4a0c-bfb8-e4c1e028575a",
+                    "platform": "Instagram",
+                    "post_url": "https://menacing-duffel.info",
+                    "likes": 357,
+                    "comments": 17,
+                    "shares": 72,
+                    "reach": 9234
+                }
+            ],
+            "total_sales_attributed": 913.3248395200578
+        }
+    ]
+}

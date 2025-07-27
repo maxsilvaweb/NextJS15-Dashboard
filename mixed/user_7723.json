@@ -1,0 +1,26 @@
+{
+    "user_id": "6cf991bb-d040-4a0e-ab32-37b762d753f2",
+    "name": "Ruth Valdez",
+    "email": "ihood@example.net",
+    "instagram_handle": "@carolyn70",
+    "tiktok_handle": "@ygrant",
+    "joined_at": "2023-08-04T12:59:49.433741",
+    "advocacy_programs": [
+        {
+            "program_id": "e6718109-82a3-45a8-b323-a324517ba123",
+            "brand": "Ramirez, Torres and Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "04bdb7ca-f7b9-4510-807d-894bd9b7e226",
+                    "platform": "Instagram",
+                    "post_url": "https://hurst-white.net/",
+                    "likes": 664,
+                    "comments": 15,
+                    "shares": 91,
+                    "reach": 1992
+                }
+            ],
+            "total_sales_attributed": 8892.1
+        }
+    ]
+}

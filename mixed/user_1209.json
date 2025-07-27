@@ -1,0 +1,26 @@
+{
+    "user_id": "95748b7a-85cc-4499-a2df-3d4058e61ff4",
+    "name": "Kelsey Bartlett",
+    "email": "whitakerdenise@example.com",
+    "instagram_handle": "@davidjohnson",
+    "tiktok_handle": "@stephanie57",
+    "joined_at": "2024-08-16T04:37:35.022579",
+    "advocacy_programs": [
+        {
+            "program_id": "600b2884-0748-46df-a382-806145bd10ec",
+            "brand": "Williams, Mejia and Curry",
+            "tasks_completed": [
+                {
+                    "task_id": "e6d1a5db-bb27-47c5-a316-cdd1ec7abcfe",
+                    "platform": "Instagram",
+                    "post_url": "https://james.com/",
+                    "likes": 7733,
+                    "comments": 2,
+                    "shares": 7,
+                    "reach": 9177
+                }
+            ],
+            "total_sales_attributed": 2783.055085514251
+        }
+    ]
+}

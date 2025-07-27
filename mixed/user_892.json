@@ -1,0 +1,26 @@
+{
+    "user_id": "5646ed59-bdbc-4ac0-9f68-b7e06253b203",
+    "name": "Faye Welch",
+    "email": "Kristofer.Halvorson60@yahoo.com",
+    "instagram_handle": "@Luella25",
+    "tiktok_handle": "@Christ.Wiegand",
+    "joined_at": "2024-04-11T09:59:42.260Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b494fd31-3d92-4e44-9f7f-8295206e07c8",
+            "brand": "Klocko and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "1a295338-5bb6-434c-944a-a3c2bf3a9514",
+                    "platform": "TikTok",
+                    "post_url": "https://vain-blight.org/",
+                    "likes": 295,
+                    "comments": 49,
+                    "shares": 14,
+                    "reach": 1998
+                }
+            ],
+            "total_sales_attributed": 4337.310030812605
+        }
+    ]
+}

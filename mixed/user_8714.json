@@ -1,0 +1,26 @@
+{
+    "user_id": "f971c32e-e7e4-44eb-90e9-6cd7d9f014cd",
+    "name": "Michael Graham",
+    "email": "williamaguilar@example.org",
+    "instagram_handle": "@freid",
+    "tiktok_handle": "@shaunfernandez",
+    "joined_at": "2024-02-27T15:22:07.953852",
+    "advocacy_programs": [
+        {
+            "program_id": "e764c1cb-9418-4101-b9c7-36653f47f95b",
+            "brand": "Macias-Thomas",
+            "tasks_completed": [
+                {
+                    "task_id": "f2f7889a-021e-4862-bdfb-2a3edbbe31f2",
+                    "platform": "TikTok",
+                    "post_url": "http://www.smith-moore.com/",
+                    "likes": 8170,
+                    "comments": 111,
+                    "shares": 7,
+                    "reach": 2625
+                }
+            ],
+            "total_sales_attributed": 7945.08
+        }
+    ]
+}

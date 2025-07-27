@@ -1,0 +1,26 @@
+{
+    "user_id": "0bdb9425-e680-4e65-8e42-eb942fe5afd6",
+    "name": "Joanna Delacruz",
+    "email": "eringray@example.com",
+    "instagram_handle": "@matthew43",
+    "tiktok_handle": "@emorris",
+    "joined_at": "2023-09-07T10:48:56.762466",
+    "advocacy_programs": [
+        {
+            "program_id": "e12675e4-16b7-4a83-9963-6749b8f914cd",
+            "brand": "Adams-Ross",
+            "tasks_completed": [
+                {
+                    "task_id": "7cd238c1-20be-4ca0-bd85-b444df89c31b",
+                    "platform": "Facebook",
+                    "post_url": "https://www.rogers-pacheco.info/",
+                    "likes": 6667,
+                    "comments": 124,
+                    "shares": 25,
+                    "reach": 2493
+                }
+            ],
+            "total_sales_attributed": 7360.65
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3885ea74-6e3c-46a0-b4ed-ac714c582059",
+    "name": "Kathryn Rice",
+    "email": "Deshaun69@gmail.com",
+    "instagram_handle": "@alicia86",
+    "tiktok_handle": "@tbass",
+    "joined_at": "2024-01-14T21:08:00.772832",
+    "advocacy_programs": [
+        {
+            "program_id": "1a1650cb-5c2e-4112-88a4-1674270422fa",
+            "brand": "Wang-Rios",
+            "tasks_completed": [
+                {
+                    "task_id": "d8e087f3-445c-4b0d-82fb-4718195b7ef9",
+                    "platform": "TikTok",
+                    "post_url": "http://www.sawyer.biz/",
+                    "likes": 68,
+                    "comments": 306,
+                    "shares": 5,
+                    "reach": 6172
+                }
+            ],
+            "total_sales_attributed": 4296.84
+        }
+    ]
+}

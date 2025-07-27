@@ -1,0 +1,26 @@
+{
+    "user_id": "db6c8e5d-0f73-4244-a8d8-0f0d79226e4d",
+    "name": "Mr. Frank Schoen DVM",
+    "email": "Emelie.Swaniawski@gmail.com",
+    "instagram_handle": "@Dena.Huels7",
+    "tiktok_handle": "@Dewitt_OKeefe",
+    "joined_at": "2024-04-17T05:38:27.486Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3e0ff498-6479-4f34-86fc-c4259df12939",
+            "brand": "Kessler Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ed58d716-dc03-49ee-bdf9-25aeccd591c2",
+                    "platform": "Instagram",
+                    "post_url": "https://determined-labourer.name/",
+                    "likes": 303,
+                    "comments": 27,
+                    "shares": 68,
+                    "reach": 6763
+                }
+            ],
+            "total_sales_attributed": 1786.1848603697347
+        }
+    ]
+}

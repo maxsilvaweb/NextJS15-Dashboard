@@ -1,0 +1,26 @@
+{
+    "user_id": "23fe0684-9146-4d66-ad03-07e3e19359b7",
+    "name": "Ken Stamm",
+    "email": "Shaylee.Monahan-Bernier@hotmail.com",
+    "instagram_handle": "@Nikko_Cartwright4",
+    "tiktok_handle": "@Laney76",
+    "joined_at": "2024-05-24T16:18:12.631Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9aa4d744-2457-4fab-90fc-643be3ca9527",
+            "brand": "Murazik LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7ef48f86-61ad-45ca-b15e-17074d1d9685",
+                    "platform": "Instagram",
+                    "post_url": "https://greedy-hundred.com",
+                    "likes": 151,
+                    "comments": 49,
+                    "shares": 90,
+                    "reach": 1941
+                }
+            ],
+            "total_sales_attributed": 2534.5430305417235
+        }
+    ]
+}

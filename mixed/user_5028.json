@@ -1,0 +1,26 @@
+{
+    "user_id": "d9b38fd2-4f15-428d-aa04-233701c746a3",
+    "name": "Olive Littel",
+    "email": "Eveline40@hotmail.com",
+    "instagram_handle": "@Dovie_Stroman2",
+    "tiktok_handle": "@Myrtle66",
+    "joined_at": "2024-09-14T13:14:57.835Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1ff80e42-0f5b-4a0d-8a6f-dd96c50683d2",
+            "brand": "Haag, McLaughlin and Skiles",
+            "tasks_completed": [
+                {
+                    "task_id": "60053853-f601-4b8c-ac67-40fda73f7e4d",
+                    "platform": "Instagram",
+                    "post_url": "https://every-duster.com",
+                    "likes": 399,
+                    "comments": 47,
+                    "shares": 91,
+                    "reach": 7304
+                }
+            ],
+            "total_sales_attributed": 4529.7613653242925
+        }
+    ]
+}

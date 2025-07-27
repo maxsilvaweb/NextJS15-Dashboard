@@ -1,0 +1,26 @@
+{
+    "user_id": "85b50300-bea4-4b97-8f15-bc5ce3fc0805",
+    "name": "Samantha Merritt",
+    "email": "ilopez@example.com",
+    "instagram_handle": "@reyessherri",
+    "tiktok_handle": "@xbrown",
+    "joined_at": "2025-05-28T17:15:41.328592",
+    "advocacy_programs": [
+        {
+            "program_id": "9529e3b3-ba55-42bf-8e34-0001867f8497",
+            "brand": "Doyle, Yost and Huel",
+            "tasks_completed": [
+                {
+                    "task_id": "8a82106b-5cf2-41fc-b7d0-06de12acf0cc",
+                    "platform": "Twitter",
+                    "post_url": "https://johnson-sloan.biz/",
+                    "likes": 4529,
+                    "comments": 3,
+                    "shares": 80,
+                    "reach": 6746
+                }
+            ],
+            "total_sales_attributed": 2897.26
+        }
+    ]
+}

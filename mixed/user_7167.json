@@ -1,0 +1,26 @@
+{
+    "user_id": "8aea2331-23b6-4ff1-86ed-1e109fb0df67",
+    "name": "Rita Olson",
+    "email": "donaldvillegas@example.net",
+    "instagram_handle": "@darius39",
+    "tiktok_handle": "@vargaspatrick",
+    "joined_at": "2024-06-08T14:21:48.333127",
+    "advocacy_programs": [
+        {
+            "program_id": "4ea141a9-9b44-4570-863a-b2f7a801f9fa",
+            "brand": "Cook-Coleman",
+            "tasks_completed": [
+                {
+                    "task_id": "9e2e5dfd-95ef-4dd0-b51b-eefacf854e9b",
+                    "platform": "YouTube",
+                    "post_url": "http://carroll.com/",
+                    "likes": 923,
+                    "comments": 309,
+                    "shares": 75,
+                    "reach": 7417
+                }
+            ],
+            "total_sales_attributed": 5918.07
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3bf574a9-9437-4440-acb3-e83a5b6e4907",
+    "name": "Regina Thompson",
+    "email": "todd18@example.org",
+    "instagram_handle": "@rogerscurtis",
+    "tiktok_handle": "@dawnrobertson",
+    "joined_at": "2024-02-22T03:13:20.636835",
+    "advocacy_programs": [
+        {
+            "program_id": "a49b58b1-de5b-4488-9e0b-cd15d584f372",
+            "brand": "Page, Allen and Goodman",
+            "tasks_completed": [
+                {
+                    "task_id": "d39102cb-61b4-4f49-9479-3637e9056783",
+                    "platform": "TikTok",
+                    "post_url": "http://ramos.info/",
+                    "likes": 97,
+                    "comments": 273,
+                    "shares": 30,
+                    "reach": 2459
+                }
+            ],
+            "total_sales_attributed": 3125.12
+        }
+    ]
+}

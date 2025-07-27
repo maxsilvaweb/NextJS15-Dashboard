@@ -1,0 +1,26 @@
+{
+    "user_id": "364f38a1-a469-4a84-a6b7-1ce35e22ff3e",
+    "name": "Malcolm Vandervort",
+    "email": "Kirk_Brekke21@yahoo.com",
+    "instagram_handle": "@Jessy_McCullough66",
+    "tiktok_handle": "@Emmanuel28",
+    "joined_at": "2024-08-25T02:31:58.531Z",
+    "advocacy_programs": [
+        {
+            "program_id": "00db443d-78f5-4aa6-b0ab-32531327cc51",
+            "brand": "Kassulke, Windler and Hilll",
+            "tasks_completed": [
+                {
+                    "task_id": "0fda309a-b051-4fb7-9ff2-48fec01b8a4c",
+                    "platform": "Instagram",
+                    "post_url": "https://quick-cow.org",
+                    "likes": 110,
+                    "comments": 43,
+                    "shares": 28,
+                    "reach": 3565
+                }
+            ],
+            "total_sales_attributed": 2879.4667355340634
+        }
+    ]
+}

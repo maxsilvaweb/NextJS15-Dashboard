@@ -1,0 +1,26 @@
+{
+    "user_id": "a2351b08-1b64-43ee-9480-19b20da0d50e",
+    "name": "Deanna Hickle",
+    "email": "Roosevelt.Johnson@gmail.com",
+    "instagram_handle": "@Vena.Franey28",
+    "tiktok_handle": "@Orlo56",
+    "joined_at": "2025-01-01T17:30:14.685Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8e624b48-1d60-42a8-99b3-5bf1471d735e",
+            "brand": "Green Group",
+            "tasks_completed": [
+                {
+                    "task_id": "daaa9041-774d-43c8-8383-6bb5c4b7d877",
+                    "platform": "TikTok",
+                    "post_url": "https://royal-alb.org",
+                    "likes": 422,
+                    "comments": 50,
+                    "shares": 32,
+                    "reach": 4539
+                }
+            ],
+            "total_sales_attributed": 1822.2228355707214
+        }
+    ]
+}

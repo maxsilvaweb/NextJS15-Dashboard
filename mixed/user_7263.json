@@ -1,0 +1,26 @@
+{
+    "user_id": "807ac8ed-6db6-4d0d-9d73-799158ceb5b9",
+    "name": "Jennifer Norton",
+    "email": "amorales@example.org",
+    "instagram_handle": "@jennifer05",
+    "tiktok_handle": "@Gregorio48",
+    "joined_at": "2023-11-29T00:10:48.324508",
+    "advocacy_programs": [
+        {
+            "program_id": "065f0759-bc97-4826-ae71-e6e7cb01f0d3",
+            "brand": "Lopez-Morrison",
+            "tasks_completed": [
+                {
+                    "task_id": "c999e6cc-1d86-4458-bcfe-91e2b04ccef0",
+                    "platform": "TikTok",
+                    "post_url": "https://long-term-metal.info/",
+                    "likes": 4711,
+                    "comments": 284,
+                    "shares": 62,
+                    "reach": 5920
+                }
+            ],
+            "total_sales_attributed": 2418.8318574062223
+        }
+    ]
+}

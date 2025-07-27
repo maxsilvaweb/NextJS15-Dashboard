@@ -1,0 +1,26 @@
+{
+    "user_id": "0c76f929-5b9b-4c7a-a4d2-1625f2ee2b16",
+    "name": "Krystal Massey",
+    "email": "valdezrobert@example.org",
+    "instagram_handle": "@becky22",
+    "tiktok_handle": "@amyhall",
+    "joined_at": "2024-12-26T04:25:20.246991",
+    "advocacy_programs": [
+        {
+            "program_id": "d75b3537-fb7f-4b92-8b35-1850699c85ab",
+            "brand": "Henry-Hill",
+            "tasks_completed": [
+                {
+                    "task_id": "0e1d3225-41e7-4490-939b-9b8cbe49303d",
+                    "platform": "Facebook",
+                    "post_url": "https://evans.info/",
+                    "likes": 117,
+                    "comments": 18,
+                    "shares": 3,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 6771.2
+        }
+    ]
+}

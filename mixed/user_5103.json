@@ -1,0 +1,26 @@
+{
+    "user_id": "d9d349ca-a1d0-4022-9ddf-581fb1a8ead6",
+    "name": "Brian Guerra",
+    "email": "connieparker@example.net",
+    "instagram_handle": "@michael04",
+    "tiktok_handle": "@jonathangutierrez",
+    "joined_at": "2025-07-02T12:46:27.208504",
+    "advocacy_programs": [
+        {
+            "program_id": "1f78e68f-1f28-4070-97cc-32964f4289c0",
+            "brand": "Johnston, Houston and Carter",
+            "tasks_completed": [
+                {
+                    "task_id": "ed472b04-a818-47b1-869f-c26616bf5e0d",
+                    "platform": "Instagram",
+                    "post_url": "https://extra-large-puritan.name",
+                    "likes": 8449,
+                    "comments": 9,
+                    "shares": 98,
+                    "reach": 1754
+                }
+            ],
+            "total_sales_attributed": 8982.67
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6e337b81-2214-40a3-ae14-6294abca7a38",
+    "name": "Edward Underwood",
+    "email": "browngina@example.org",
+    "instagram_handle": "@sdavis",
+    "tiktok_handle": "@matthewhenry",
+    "joined_at": "2023-09-18T03:55:55.248609",
+    "advocacy_programs": [
+        {
+            "program_id": "8127c2a8-263b-46fe-82d4-375fdda5a47a",
+            "brand": "Poole-Stewart",
+            "tasks_completed": [
+                {
+                    "task_id": "b7f92e7a-baed-4529-b86f-0bfcbe8e770e",
+                    "platform": "Facebook",
+                    "post_url": "http://ramirez.info/",
+                    "likes": 6480,
+                    "comments": 223,
+                    "shares": 79,
+                    "reach": 6424
+                }
+            ],
+            "total_sales_attributed": 2829.901510521598
+        }
+    ]
+}

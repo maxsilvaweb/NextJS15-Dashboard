@@ -1,0 +1,26 @@
+{
+    "user_id": "bf5a3396-3de9-489d-acbc-2c32a2cf1739",
+    "name": "Ignacio Dooley",
+    "email": "Margie.Bruen@gmail.com",
+    "instagram_handle": "@Victor3",
+    "tiktok_handle": "@Lamar.Senger92",
+    "joined_at": "2025-03-04T05:00:13.454Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b579216d-b83b-43d8-abc5-208b0c31a2bd",
+            "brand": "Reinger, Yundt and Daniel",
+            "tasks_completed": [
+                {
+                    "task_id": "e6ab125d-9ba0-4b8a-87eb-938c6ed17410",
+                    "platform": "Instagram",
+                    "post_url": "https://valuable-godparent.name/",
+                    "likes": 386,
+                    "comments": 38,
+                    "shares": 48,
+                    "reach": 6227
+                }
+            ],
+            "total_sales_attributed": 508.53123024290505
+        }
+    ]
+}

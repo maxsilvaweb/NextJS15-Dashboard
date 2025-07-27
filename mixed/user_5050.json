@@ -1,0 +1,26 @@
+{
+    "user_id": "1cc058a8-a5cb-4e00-95e8-05bfb44101b8",
+    "name": "Kevin Nguyen",
+    "email": "nwallace@example.org",
+    "instagram_handle": "@haneydavid",
+    "tiktok_handle": "@julierobinson",
+    "joined_at": "2024-03-22T14:53:46.166686",
+    "advocacy_programs": [
+        {
+            "program_id": "8d8c26b3-b696-41da-9c0c-d60e3afc0cbb",
+            "brand": "Long-Cuevas",
+            "tasks_completed": [
+                {
+                    "task_id": "6dd56bd0-d524-4903-bef6-59b6f66bcda3",
+                    "platform": "Facebook",
+                    "post_url": "http://www.soto.com/",
+                    "likes": 9198,
+                    "comments": 481,
+                    "shares": 20,
+                    "reach": 6073
+                }
+            ],
+            "total_sales_attributed": 9739.73
+        }
+    ]
+}

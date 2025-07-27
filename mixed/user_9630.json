@@ -1,0 +1,26 @@
+{
+    "user_id": "042f6192-8ea4-46d8-bbcc-a52240bc4b58",
+    "name": "Steven Barnett",
+    "email": "Gilbert.Pacocha@gmail.com",
+    "instagram_handle": "@carrollbethany",
+    "tiktok_handle": "@jennifermeyer",
+    "joined_at": "2025-03-06T16:41:13.024Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3812819f-441d-417c-8941-8628b6350aab",
+            "brand": "Freeman-Moore",
+            "tasks_completed": [
+                {
+                    "task_id": "a817feff-38a1-46a2-8de1-b8fccb4846be",
+                    "platform": "Instagram",
+                    "post_url": "http://www.allen-perez.net/",
+                    "likes": 1193,
+                    "comments": 60,
+                    "shares": 59,
+                    "reach": 4835
+                }
+            ],
+            "total_sales_attributed": 3206.39
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cf64f8f7-9cd8-456d-bfc8-e5d08b66aa9a",
+    "name": "Maria Torphy",
+    "email": "Russ91@gmail.com",
+    "instagram_handle": "@Erin.Cummings29",
+    "tiktok_handle": "@Dianna.Aufderhar66",
+    "joined_at": "2024-04-28T04:12:40.925Z",
+    "advocacy_programs": [
+        {
+            "program_id": "587a0de9-1083-404e-b9da-a4a3f091b3ce",
+            "brand": "Rogahn - Berge",
+            "tasks_completed": [
+                {
+                    "task_id": "5cd36751-b2f9-4ca6-8322-eec0026c5568",
+                    "platform": "TikTok",
+                    "post_url": "https://brave-halt.org/",
+                    "likes": 31,
+                    "comments": 36,
+                    "shares": 27,
+                    "reach": 2011
+                }
+            ],
+            "total_sales_attributed": 1041.666376812225
+        }
+    ]
+}

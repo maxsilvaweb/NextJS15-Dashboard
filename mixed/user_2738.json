@@ -1,0 +1,26 @@
+{
+    "user_id": "f01f8f17-76bd-4edc-81cd-47bce4f48d8d",
+    "name": "Michael Nichols",
+    "email": "khawkins@example.org",
+    "instagram_handle": "@fishertammy",
+    "tiktok_handle": "@emily85",
+    "joined_at": "2025-02-08T10:06:25.503836",
+    "advocacy_programs": [
+        {
+            "program_id": "df0f0478-7bfd-4c3f-9f0b-a63f0408f8a9",
+            "brand": "Black-Floyd",
+            "tasks_completed": [
+                {
+                    "task_id": "7014ed04-90f3-4df4-bcf0-29edd9a25803",
+                    "platform": "TikTok",
+                    "post_url": "https://determined-fax.org/",
+                    "likes": 9339,
+                    "comments": 340,
+                    "shares": 62,
+                    "reach": 1878
+                }
+            ],
+            "total_sales_attributed": 3003.35
+        }
+    ]
+}

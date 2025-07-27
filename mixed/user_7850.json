@@ -1,0 +1,26 @@
+{
+    "user_id": "ea33577c-3cc4-4314-bc1d-9928eeab3c1c",
+    "name": "Violet Schoen",
+    "email": "Chelsea.Kautzer48@gmail.com",
+    "instagram_handle": "@Myron.Hayes",
+    "tiktok_handle": "@Talia.Veum20",
+    "joined_at": "2024-10-11T12:01:32.958Z",
+    "advocacy_programs": [
+        {
+            "program_id": "df652d2e-4b57-4864-88e0-c4e1fbece1ce",
+            "brand": "Hauck, Wilderman and Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "57227a19-6736-4ee6-ab60-fe489062467f",
+                    "platform": "Instagram",
+                    "post_url": "https://uncomfortable-zen.net/",
+                    "likes": 159,
+                    "comments": 28,
+                    "shares": 28,
+                    "reach": 2218
+                }
+            ],
+            "total_sales_attributed": 3111.8796144081257
+        }
+    ]
+}

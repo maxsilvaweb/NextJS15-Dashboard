@@ -1,0 +1,26 @@
+{
+    "user_id": "2a38b480-99d8-4238-9e2a-f55c32e3cc6a",
+    "name": "Derek Gutkowski",
+    "email": "Brielle_Blick29@yahoo.com",
+    "instagram_handle": "@Bianka_Greenholt7",
+    "tiktok_handle": "@Reece12",
+    "joined_at": "2024-10-05T10:56:28.483Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2f96faed-cb23-43c3-bb3e-9c953ce95c9d",
+            "brand": "Nitzsche - Douglas",
+            "tasks_completed": [
+                {
+                    "task_id": "729b44b7-62cf-4c83-a796-ab7387e87577",
+                    "platform": "TikTok",
+                    "post_url": "https://empty-markup.org",
+                    "likes": 497,
+                    "comments": 40,
+                    "shares": 3,
+                    "reach": 964
+                }
+            ],
+            "total_sales_attributed": 3465.060689229512
+        }
+    ]
+}

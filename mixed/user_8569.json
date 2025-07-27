@@ -1,0 +1,26 @@
+{
+    "user_id": "9b29561f-ff8d-45a8-baaa-f7edec6d7457",
+    "name": "Gabriela Archer",
+    "email": "kevin73@example.org",
+    "instagram_handle": "@ilang",
+    "tiktok_handle": "@brittanyweaver",
+    "joined_at": "2024-12-10T02:37:26.656809",
+    "advocacy_programs": [
+        {
+            "program_id": "e44dee19-d17f-4637-9f3f-308a93bfc5f3",
+            "brand": "Phillips-Cole",
+            "tasks_completed": [
+                {
+                    "task_id": "e719344f-3c17-4a3c-912d-1eac68207d56",
+                    "platform": "TikTok",
+                    "post_url": "https://www.zimmerman.com/",
+                    "likes": 587,
+                    "comments": 40,
+                    "shares": 54,
+                    "reach": 6974
+                }
+            ],
+            "total_sales_attributed": 6683.9
+        }
+    ]
+}

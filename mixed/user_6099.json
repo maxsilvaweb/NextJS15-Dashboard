@@ -1,0 +1,26 @@
+{
+    "user_id": "75e97a3b-0b17-4e29-ac01-244bdb5de981",
+    "name": "Tracy Owen",
+    "email": "andrewmonroe@example.org",
+    "instagram_handle": "@moorecourtney",
+    "tiktok_handle": "@imerritt",
+    "joined_at": "2024-09-09T21:40:00.320Z",
+    "advocacy_programs": [
+        {
+            "program_id": "13678bf0-8f83-4dd4-b507-83deb53b7dda",
+            "brand": "Miller PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "70e70d24-7520-4925-8c47-ac1e0d6ca311",
+                    "platform": "Facebook",
+                    "post_url": "https://gordon-marquez.com/",
+                    "likes": 1531,
+                    "comments": 43,
+                    "shares": 57,
+                    "reach": 5327
+                }
+            ],
+            "total_sales_attributed": 3556.836593839474
+        }
+    ]
+}

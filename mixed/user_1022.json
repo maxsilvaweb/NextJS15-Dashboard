@@ -1,0 +1,26 @@
+{
+    "user_id": "0da5c792-a048-4eb3-ba56-5d87b2023163",
+    "name": "Ms. Teresa Shanahan DDS",
+    "email": "Kacey_Lubowitz8@gmail.com",
+    "instagram_handle": "@Zella90",
+    "tiktok_handle": "@Uriah_Rempel12",
+    "joined_at": "2024-11-15T20:57:56.157Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5ce0a7c6-39d2-415a-ae82-e70e8c2bed34",
+            "brand": "Hermann - Mueller",
+            "tasks_completed": [
+                {
+                    "task_id": "dbbe1392-e9e1-41fd-91a8-7d2a977b9d18",
+                    "platform": "TikTok",
+                    "post_url": "https://infamous-fledgling.name/",
+                    "likes": 115,
+                    "comments": 45,
+                    "shares": 3,
+                    "reach": 5396
+                }
+            ],
+            "total_sales_attributed": 755.9879340914481
+        }
+    ]
+}

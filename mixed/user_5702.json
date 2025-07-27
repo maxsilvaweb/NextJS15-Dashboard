@@ -1,0 +1,26 @@
+{
+    "user_id": "d17de473-5190-434b-972f-8ceaf71c72be",
+    "name": "Miranda Mckinney",
+    "email": "Lukas18@gmail.com",
+    "instagram_handle": "@Delpha_Smitham7",
+    "tiktok_handle": "@elizabethcervantes",
+    "joined_at": "2023-08-07T11:55:08.766850",
+    "advocacy_programs": [
+        {
+            "program_id": "4644efd5-a9f1-4e79-aa67-07560782184f",
+            "brand": "Stark-Patterson",
+            "tasks_completed": [
+                {
+                    "task_id": "25a18302-0069-4b5e-ac2d-f356d863c31c",
+                    "platform": "TikTok",
+                    "post_url": "http://wise-sparks.info/",
+                    "likes": 1548,
+                    "comments": 423,
+                    "shares": 88,
+                    "reach": 4686
+                }
+            ],
+            "total_sales_attributed": 5309.6
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e1dd1e38-f601-4c45-b813-1bd61a92d62b",
+    "name": "Mitchell Homenick",
+    "email": "Maia.Wiegand@gmail.com",
+    "instagram_handle": "@Lorenz.Okuneva",
+    "tiktok_handle": "@Annetta25",
+    "joined_at": "2024-08-01T16:35:44.274Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c817253e-2514-4cee-ac14-f6de77b67f34",
+            "brand": "Spencer and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "e8dbb70d-3086-465d-8b71-957f1b160871",
+                    "platform": "TikTok",
+                    "post_url": "https://pointed-coast.name",
+                    "likes": 35,
+                    "comments": 33,
+                    "shares": 26,
+                    "reach": 3387
+                }
+            ],
+            "total_sales_attributed": 4203.209807757763
+        }
+    ]
+}

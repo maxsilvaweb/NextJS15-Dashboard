@@ -1,0 +1,26 @@
+{
+    "user_id": "9c4e391f-fd37-48fd-b487-d67e9a19ead6",
+    "name": "Sandra Hunt",
+    "email": "rodriguezstephanie@example.net",
+    "instagram_handle": "@lewislaura",
+    "tiktok_handle": "@troy03",
+    "joined_at": "2024-04-25T15:35:16.204456",
+    "advocacy_programs": [
+        {
+            "program_id": "cced8855-03a1-4ec1-9db9-a2190b134df2",
+            "brand": "Houston Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ba72f8d7-86bc-45ac-b159-6dfae1686db6",
+                    "platform": "Instagram",
+                    "post_url": "http://clark.com/",
+                    "likes": 9646,
+                    "comments": 16,
+                    "shares": 88,
+                    "reach": 2372
+                }
+            ],
+            "total_sales_attributed": 8599.74
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d662f4f1-c802-4f26-8776-1740aab5a107",
+    "name": "Jason Medina",
+    "email": "jonesphillip@example.org",
+    "instagram_handle": "@jperez",
+    "tiktok_handle": "@qholmes",
+    "joined_at": "2023-09-22T22:24:26.985209",
+    "advocacy_programs": [
+        {
+            "program_id": "4a2c3d0a-fbe6-45da-b4b5-272691323f36",
+            "brand": "Tran-Kelly",
+            "tasks_completed": [
+                {
+                    "task_id": "7d341407-4c8e-49bc-a494-515de6855952",
+                    "platform": "TikTok",
+                    "post_url": "https://martinez.com/",
+                    "likes": 1784,
+                    "comments": 448,
+                    "shares": 79,
+                    "reach": 4553
+                }
+            ],
+            "total_sales_attributed": 3214.0933657680052
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a2b85ad6-9f20-4a00-b0a5-4f2ab826738a",
+    "name": "Patti Nolan",
+    "email": "Candice31@gmail.com",
+    "instagram_handle": "@Gina_Goldner50",
+    "tiktok_handle": "@Tiffany8",
+    "joined_at": "2024-04-22T01:59:39.907Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c15b077d-8bca-4897-80c6-5d5b5c897210",
+            "brand": "Kris, Muller and McClure",
+            "tasks_completed": [
+                {
+                    "task_id": "47edbc0f-d5d6-4f31-8f11-9f6b63936d2b",
+                    "platform": "Instagram",
+                    "post_url": "https://decisive-couch.name/",
+                    "likes": 217,
+                    "comments": 30,
+                    "shares": 35,
+                    "reach": 1472
+                }
+            ],
+            "total_sales_attributed": 2536.1308328288887
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bdaba077-a833-4356-9101-3de87b94cef1",
+    "name": "Kelly Eaton",
+    "email": "xmcbride@example.com",
+    "instagram_handle": "@tcarlson",
+    "tiktok_handle": "@jlove",
+    "joined_at": "2024-11-23T09:39:58.114052",
+    "advocacy_programs": [
+        {
+            "program_id": "df142903-97ce-42a5-a791-422ab4c7be73",
+            "brand": "Mills, Fisher and Contreras",
+            "tasks_completed": [
+                {
+                    "task_id": "50b4c759-e438-4858-8e14-cdf971b6126f",
+                    "platform": "TikTok",
+                    "post_url": "https://www.baldwin.com/",
+                    "likes": 156,
+                    "comments": 14,
+                    "shares": 42,
+                    "reach": 1441
+                }
+            ],
+            "total_sales_attributed": 9269.49
+        }
+    ]
+}

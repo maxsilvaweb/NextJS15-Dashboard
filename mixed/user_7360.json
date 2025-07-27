@@ -1,0 +1,26 @@
+{
+    "user_id": "e7d64ce2-90c6-40c6-9b47-4a42cabf9782",
+    "name": "Cynthia Oneill",
+    "email": "joelhaynes@example.org",
+    "instagram_handle": "@Katlynn.Gleichner",
+    "tiktok_handle": "@michael74",
+    "joined_at": "2024-11-19T17:01:25.008848",
+    "advocacy_programs": [
+        {
+            "program_id": "f2c24bd3-1597-4fde-9f54-3d007b2228c4",
+            "brand": "Lang and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "2b8ef6bc-b96a-4f3b-9be8-d06307006266",
+                    "platform": "Facebook",
+                    "post_url": "http://www.rojas.net/",
+                    "likes": 9366,
+                    "comments": 84,
+                    "shares": 53,
+                    "reach": 544
+                }
+            ],
+            "total_sales_attributed": 2380.434617545941
+        }
+    ]
+}

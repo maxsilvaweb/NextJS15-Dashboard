@@ -1,0 +1,26 @@
+{
+    "user_id": "79119a43-3487-4fe7-b2d5-59e08908232f",
+    "name": "Alfonso Emard",
+    "email": "Gennaro.Rosenbaum@yahoo.com",
+    "instagram_handle": "@Wiley.Rolfson29",
+    "tiktok_handle": "@Yasmeen.West",
+    "joined_at": "2024-07-30T20:52:15.283Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e67aa35e-7ff6-4d58-8035-300a71b458c1",
+            "brand": "Kuhlman Group",
+            "tasks_completed": [
+                {
+                    "task_id": "a7a14ed2-52b6-4523-9004-651000e4642c",
+                    "platform": "Instagram",
+                    "post_url": "https://rosy-resolve.net",
+                    "likes": 429,
+                    "comments": 5,
+                    "shares": 100,
+                    "reach": 3102
+                }
+            ],
+            "total_sales_attributed": 1084.670789647686
+        }
+    ]
+}

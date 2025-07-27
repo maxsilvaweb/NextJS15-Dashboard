@@ -1,0 +1,26 @@
+{
+    "user_id": "69e17717-381c-4bf4-b943-f6f9e022682d",
+    "name": "Joshua Wilkins",
+    "email": "Buck_Schulist41@yahoo.com",
+    "instagram_handle": "@jeffrey32",
+    "tiktok_handle": "@christopherlong",
+    "joined_at": "2025-03-16T00:32:07.442852",
+    "advocacy_programs": [
+        {
+            "program_id": "cd1c3275-34fb-4728-ac62-122616fd8dcb",
+            "brand": "Wilson Group",
+            "tasks_completed": [
+                {
+                    "task_id": "7fab2c4e-e4f0-4c23-afac-fe9154dd11a7",
+                    "platform": "Facebook",
+                    "post_url": "https://potable-safe.info/",
+                    "likes": 76,
+                    "comments": 10,
+                    "shares": 3,
+                    "reach": 5883
+                }
+            ],
+            "total_sales_attributed": 3360.31
+        }
+    ]
+}

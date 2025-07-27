@@ -1,0 +1,26 @@
+{
+    "user_id": "feb9031d-0fa0-400b-9d1d-e8c37df5c305",
+    "name": "Amber Ayers",
+    "email": "Raleigh_Reichert@gmail.com",
+    "instagram_handle": "@brownbrittany",
+    "tiktok_handle": "@howellkayla",
+    "joined_at": "2025-03-28T03:39:46.100506",
+    "advocacy_programs": [
+        {
+            "program_id": "c83c4c5c-46c5-4595-b3e3-72161c49f432",
+            "brand": "Garza-Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "ed4d90f7-f891-435d-b368-13e61763a853",
+                    "platform": "TikTok",
+                    "post_url": "https://matthews.com/",
+                    "likes": 1685,
+                    "comments": 157,
+                    "shares": 52,
+                    "reach": 562
+                }
+            ],
+            "total_sales_attributed": 3509.8060449200125
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ba2a5a81-2d1c-4ab2-84aa-cb6d4c8f2825",
+    "name": "Omar Marquardt Jr.",
+    "email": "Jaclyn_Casper@gmail.com",
+    "instagram_handle": "@Jillian83",
+    "tiktok_handle": "@Vaughn.Lebsack18",
+    "joined_at": "2024-05-27T19:12:15.777Z",
+    "advocacy_programs": [
+        {
+            "program_id": "de0ceabc-1c66-4468-9ca5-6af106c2e0ce",
+            "brand": "Botsford, Bergstrom and Daniel",
+            "tasks_completed": [
+                {
+                    "task_id": "b4e48cad-4f0b-486a-905f-bbdc335595b0",
+                    "platform": "TikTok",
+                    "post_url": "https://motionless-technologist.net",
+                    "likes": 105,
+                    "comments": 30,
+                    "shares": 98,
+                    "reach": 4149
+                }
+            ],
+            "total_sales_attributed": 527.9712245945509
+        }
+    ]
+}

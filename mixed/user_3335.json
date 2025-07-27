@@ -1,0 +1,26 @@
+{
+    "user_id": "0bdc7d78-6590-4293-bcee-6a8d587acae8",
+    "name": "Jose Fox",
+    "email": "sharonpeters@example.com",
+    "instagram_handle": "@mark02",
+    "tiktok_handle": "@rebeccastewart",
+    "joined_at": "2024-06-04T07:44:21.852106",
+    "advocacy_programs": [
+        {
+            "program_id": "fcd70c90-17ee-4f6f-a5fc-addc8ccae94f",
+            "brand": "Schneider LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "55ccdead-0ed3-4cbd-b311-a26600d3ef67",
+                    "platform": "TikTok",
+                    "post_url": "http://delgado.com/",
+                    "likes": 3799,
+                    "comments": 456,
+                    "shares": 0,
+                    "reach": 6308
+                }
+            ],
+            "total_sales_attributed": 1328.5395281469548
+        }
+    ]
+}

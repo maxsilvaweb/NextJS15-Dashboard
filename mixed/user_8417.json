@@ -1,0 +1,26 @@
+{
+    "user_id": "9ae56c92-d484-4f7c-bb87-8006014673a6",
+    "name": "Heather Tillman",
+    "email": "Elias.Gleichner@hotmail.com",
+    "instagram_handle": "@Delores_Dare",
+    "tiktok_handle": "@Yolanda.Harris",
+    "joined_at": "2024-09-03T16:03:39.340Z",
+    "advocacy_programs": [
+        {
+            "program_id": "21152482-7155-4337-9a3e-36bdbd9b2cc9",
+            "brand": "Klein Group",
+            "tasks_completed": [
+                {
+                    "task_id": "612e1611-0f8c-4735-b125-169f5ac5061d",
+                    "platform": "Instagram",
+                    "post_url": "https://cumbersome-airline.org/",
+                    "likes": 128,
+                    "comments": 22,
+                    "shares": 86,
+                    "reach": 930
+                }
+            ],
+            "total_sales_attributed": 4694.728136909865
+        }
+    ]
+}

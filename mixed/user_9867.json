@@ -1,0 +1,26 @@
+{
+    "user_id": "35030866-2fa1-41e0-9789-5d0aeafe78cc",
+    "name": "Lauren Miller",
+    "email": "dburton@example.net",
+    "instagram_handle": "@maurice34",
+    "tiktok_handle": "@gilbertjohn",
+    "joined_at": "2025-01-02T22:51:29.664Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f65dc2d9-f23f-411b-84be-ba5f48731996",
+            "brand": "Barber Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "44eaecc5-c2f1-49da-a340-18ac5d58ce66",
+                    "platform": "YouTube",
+                    "post_url": "https://www.olson.net/",
+                    "likes": 4127,
+                    "comments": 373,
+                    "shares": 4,
+                    "reach": 592
+                }
+            ],
+            "total_sales_attributed": 3421.6539588213286
+        }
+    ]
+}

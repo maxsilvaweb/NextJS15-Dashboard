@@ -1,0 +1,26 @@
+{
+    "user_id": "5b24bffb-26a5-4731-a46a-6b93542236a6",
+    "name": "Collin Mathews",
+    "email": "maria04@example.org",
+    "instagram_handle": "@brockmichelle",
+    "tiktok_handle": "@vincentmccoy",
+    "joined_at": "2024-07-24T22:29:40.529644",
+    "advocacy_programs": [
+        {
+            "program_id": "fc1548c6-90ac-443f-8516-9033791d9a74",
+            "brand": "Davis-Mejia",
+            "tasks_completed": [
+                {
+                    "task_id": "d5186f0f-5275-4417-a85a-2f53157b1e6f",
+                    "platform": "TikTok",
+                    "post_url": "https://pittman.biz/",
+                    "likes": 1162,
+                    "comments": 295,
+                    "shares": 5,
+                    "reach": 8087
+                }
+            ],
+            "total_sales_attributed": 2385.94
+        }
+    ]
+}

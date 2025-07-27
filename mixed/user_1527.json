@@ -1,0 +1,26 @@
+{
+    "user_id": "8cf19fc9-ebf5-4758-a1c9-8ac2668483f0",
+    "name": "Jessica Price",
+    "email": "lori21@example.com",
+    "instagram_handle": "@patricia10",
+    "tiktok_handle": "@nflowers",
+    "joined_at": "2024-04-21T00:25:50.449Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e85512b8-646f-4b76-ba18-1c98c799e92f",
+            "brand": "Williams Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "38a76452-cafb-4f46-b4fc-b904f45db54e",
+                    "platform": "Twitter",
+                    "post_url": "https://immaculate-co-producer.org/",
+                    "likes": 1908,
+                    "comments": 98,
+                    "shares": 32,
+                    "reach": 891
+                }
+            ],
+            "total_sales_attributed": 8380.51
+        }
+    ]
+}

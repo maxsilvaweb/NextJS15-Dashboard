@@ -1,0 +1,26 @@
+{
+    "user_id": "903eeaee-dfd5-4dc7-97b7-524350628225",
+    "name": "Sadie Lakin III",
+    "email": "Nikolas.Corwin@hotmail.com",
+    "instagram_handle": "@Cyril.Bogan96",
+    "tiktok_handle": "@Maegan_Swaniawski68",
+    "joined_at": "2024-11-27T10:20:43.097Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ac3a8bfe-9d5d-4529-80d1-b79b39b1ac20",
+            "brand": "Mayer Group",
+            "tasks_completed": [
+                {
+                    "task_id": "2651bb7e-82d6-450f-a8f4-c3a2bbce14b8",
+                    "platform": "Instagram",
+                    "post_url": "https://trustworthy-pomelo.biz/",
+                    "likes": 370,
+                    "comments": 3,
+                    "shares": 4,
+                    "reach": 3301
+                }
+            ],
+            "total_sales_attributed": 4007.2704307740946
+        }
+    ]
+}

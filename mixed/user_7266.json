@@ -1,0 +1,26 @@
+{
+    "user_id": "6fb93d08-c06a-4bfc-b58e-392fe66e4e0c",
+    "name": "Laura Rodriguez",
+    "email": "nicole10@example.net",
+    "instagram_handle": "@traceychandler",
+    "tiktok_handle": "@Lawson_Johns99",
+    "joined_at": "2025-05-20T02:38:23.288029",
+    "advocacy_programs": [
+        {
+            "program_id": "ca3ac533-120b-4e3b-a0cd-6ac0f10882c5",
+            "brand": "Miller-Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "59aec65b-82c3-431f-8934-16869bc7fb00",
+                    "platform": "Instagram",
+                    "post_url": "https://www.chavez-robinson.com/",
+                    "likes": 2821,
+                    "comments": 7,
+                    "shares": 74,
+                    "reach": 5551
+                }
+            ],
+            "total_sales_attributed": 4910.57
+        }
+    ]
+}

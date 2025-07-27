@@ -1,0 +1,26 @@
+{
+    "user_id": "9daf8980-103a-48c9-8ab1-bb650c4f6980",
+    "name": "Patrick Patel",
+    "email": "lmckinney@example.com",
+    "instagram_handle": "@mcculloughjulie",
+    "tiktok_handle": "@stephenbell",
+    "joined_at": "2023-12-06T09:22:36.623608",
+    "advocacy_programs": [
+        {
+            "program_id": "eabb10a8-c50e-439f-8d91-6145682ae5fc",
+            "brand": "Hernandez-Jordan",
+            "tasks_completed": [
+                {
+                    "task_id": "4156a4e8-4ce6-4200-abcd-b29856cabf30",
+                    "platform": "TikTok",
+                    "post_url": "https://www.stewart.net/",
+                    "likes": 3321,
+                    "comments": 18,
+                    "shares": 34,
+                    "reach": 5072
+                }
+            ],
+            "total_sales_attributed": 4930.85925679447
+        }
+    ]
+}

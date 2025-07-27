@@ -1,0 +1,26 @@
+{
+    "user_id": "7dc35d15-eed9-49b8-b02c-962528d2617b",
+    "name": "Kim Dibbert",
+    "email": "Jettie44@gmail.com",
+    "instagram_handle": "@Dawn_Dicki94",
+    "tiktok_handle": "@Makayla83",
+    "joined_at": "2024-08-30T01:34:51.424Z",
+    "advocacy_programs": [
+        {
+            "program_id": "68ed84b4-75cc-41f2-bfcd-846f54c0c3d1",
+            "brand": "McDermott LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f56f83e3-cac3-4fd1-8f46-36c397f7f9a6",
+                    "platform": "Instagram",
+                    "post_url": "https://indolent-presume.org",
+                    "likes": 489,
+                    "comments": 6,
+                    "shares": 53,
+                    "reach": 4436
+                }
+            ],
+            "total_sales_attributed": 1586.0552243782126
+        }
+    ]
+}

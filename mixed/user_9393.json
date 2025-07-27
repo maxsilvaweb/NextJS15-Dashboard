@@ -1,0 +1,26 @@
+{
+    "user_id": "5a4a8dad-eb18-4c76-bd8e-e11d0d6b1305",
+    "name": "Felix McGlynn Sr.",
+    "email": "Zoe.Lakin@hotmail.com",
+    "instagram_handle": "@Neil_Farrell72",
+    "tiktok_handle": "@Elvie_Brown",
+    "joined_at": "2024-05-15T01:10:21.964Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3f6c4f2c-ab31-4526-aa35-404a6cb1b4ee",
+            "brand": "Weissnat, Shields and Gerlach",
+            "tasks_completed": [
+                {
+                    "task_id": "487ab5d0-6534-4b19-9444-660d78cf25ee",
+                    "platform": "TikTok",
+                    "post_url": "https://deep-climb.name",
+                    "likes": 455,
+                    "comments": 8,
+                    "shares": 22,
+                    "reach": 1062
+                }
+            ],
+            "total_sales_attributed": 4757.426406099214
+        }
+    ]
+}

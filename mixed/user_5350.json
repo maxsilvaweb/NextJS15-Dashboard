@@ -1,0 +1,26 @@
+{
+    "user_id": "45a23a06-04ef-4612-9a8a-1c6dbca96e16",
+    "name": "Frank Francis",
+    "email": "cbenton@example.org",
+    "instagram_handle": "@wagnerpatricia",
+    "tiktok_handle": "@ogomez",
+    "joined_at": "2024-02-13T01:41:47.325368",
+    "advocacy_programs": [
+        {
+            "program_id": "7c5397c8-ab15-423d-82cc-bb54f935050d",
+            "brand": "Zimmerman Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "e6ee523e-323c-4a45-9fec-214b07d57cdd",
+                    "platform": "Facebook",
+                    "post_url": "https://johnson.info/",
+                    "likes": 3287,
+                    "comments": 91,
+                    "shares": 15,
+                    "reach": 9115
+                }
+            ],
+            "total_sales_attributed": 5629.75
+        }
+    ]
+}

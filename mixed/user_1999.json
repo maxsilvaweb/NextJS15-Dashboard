@@ -1,0 +1,26 @@
+{
+    "user_id": "0c63cbc2-0a9d-4cc6-ad5b-6966ad0a7fc0",
+    "name": "Emmett Jast",
+    "email": "Kaden_Ziemann@hotmail.com",
+    "instagram_handle": "@Annabelle75",
+    "tiktok_handle": "@Ashlynn_Hirthe",
+    "joined_at": "2025-02-15T02:18:21.791Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d615d321-3d21-4f6a-9d27-c9a37be5ac15",
+            "brand": "Roob, Lehner and Bogisich",
+            "tasks_completed": [
+                {
+                    "task_id": "e98c8649-ffd5-43a0-a668-f31cae9517a0",
+                    "platform": "TikTok",
+                    "post_url": "https://official-wear.info",
+                    "likes": 187,
+                    "comments": 5,
+                    "shares": 93,
+                    "reach": 3193
+                }
+            ],
+            "total_sales_attributed": 157.08508096513725
+        }
+    ]
+}

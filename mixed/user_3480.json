@@ -1,0 +1,26 @@
+{
+    "user_id": "bf376f12-93bd-416b-9475-41bc203cfd16",
+    "name": "Margaret Arnold",
+    "email": "michael88@example.net",
+    "instagram_handle": "@nmitchell",
+    "tiktok_handle": "@Cheyenne_Zulauf87",
+    "joined_at": "2024-04-06T12:38:15.078510",
+    "advocacy_programs": [
+        {
+            "program_id": "45a5a739-79f1-4030-9867-e3e4f087eb92",
+            "brand": "Nichols Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "25826fc2-ca9c-43d2-babd-42c1ed9decd1",
+                    "platform": "YouTube",
+                    "post_url": "http://www.ward.com/",
+                    "likes": 3007,
+                    "comments": 7,
+                    "shares": 52,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 8751.32
+        }
+    ]
+}

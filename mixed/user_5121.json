@@ -1,0 +1,26 @@
+{
+    "user_id": "f2a5e66f-378e-4b12-a5c4-6022b64b4e03",
+    "name": "Roy Breitenberg",
+    "email": "Coleman82@gmail.com",
+    "instagram_handle": "@Morton.Altenwerth",
+    "tiktok_handle": "@Providenci_Frami17",
+    "joined_at": "2024-12-09T00:01:30.477Z",
+    "advocacy_programs": [
+        {
+            "program_id": "199b8a9f-f1ab-456b-a957-91ee6ddd2825",
+            "brand": "Abshire, Hirthe and Homenick",
+            "tasks_completed": [
+                {
+                    "task_id": "139b1a80-17a8-413a-808d-c768ee58eb07",
+                    "platform": "Instagram",
+                    "post_url": "https://sudden-tennis.net",
+                    "likes": 449,
+                    "comments": 33,
+                    "shares": 53,
+                    "reach": 6903
+                }
+            ],
+            "total_sales_attributed": 1066.8834097299114
+        }
+    ]
+}

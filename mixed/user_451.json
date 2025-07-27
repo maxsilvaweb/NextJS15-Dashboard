@@ -1,0 +1,26 @@
+{
+    "user_id": "6afb396d-8f19-4e51-863d-e8ef05ff7b94",
+    "name": "Mrs. Lora Dibbert",
+    "email": "Kellen88@hotmail.com",
+    "instagram_handle": "@Jeff_Hodkiewicz",
+    "tiktok_handle": "@Manuel.Hagenes4",
+    "joined_at": "2024-04-19T07:17:47.592Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b4efde2d-fc21-44ef-b404-fe1191c268a5",
+            "brand": "Yost - Friesen",
+            "tasks_completed": [
+                {
+                    "task_id": "1cb7ce50-4c58-4ce9-9c1a-2d1e1e74223b",
+                    "platform": "TikTok",
+                    "post_url": "https://medium-independence.com/",
+                    "likes": 100,
+                    "comments": 18,
+                    "shares": 45,
+                    "reach": 7983
+                }
+            ],
+            "total_sales_attributed": 3941.897294428455
+        }
+    ]
+}

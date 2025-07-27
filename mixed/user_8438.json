@@ -1,0 +1,26 @@
+{
+    "user_id": "da57d994-b004-4c3f-9632-5b55ec7572b7",
+    "name": "Elvira O'Keefe",
+    "email": "Wilhelm36@yahoo.com",
+    "instagram_handle": "@Dustin_Miller-Hamill87",
+    "tiktok_handle": "@Christine82",
+    "joined_at": "2024-12-04T01:50:49.867Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dc965afc-a5f0-48e5-8bc5-661dd68edd98",
+            "brand": "Upton LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "39a233ea-5525-4c33-b005-89056f6ced8b",
+                    "platform": "Instagram",
+                    "post_url": "https://slushy-slipper.com/",
+                    "likes": 421,
+                    "comments": 50,
+                    "shares": 6,
+                    "reach": 9331
+                }
+            ],
+            "total_sales_attributed": 3437.089962549861
+        }
+    ]
+}

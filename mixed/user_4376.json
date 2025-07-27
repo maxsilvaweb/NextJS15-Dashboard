@@ -1,0 +1,26 @@
+{
+    "user_id": "97f425cb-769e-42ee-9b98-141cd6b937ed",
+    "name": "Joshua Peterson",
+    "email": "torresbrian@example.org",
+    "instagram_handle": "@ann52",
+    "tiktok_handle": "@daniellemorgan",
+    "joined_at": "2024-02-05T09:21:24.235885",
+    "advocacy_programs": [
+        {
+            "program_id": "2709903a-e7bf-4290-a32f-cd42e6d84ce2",
+            "brand": "Thomas Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "eb596108-e5d0-4694-a958-f25f0226eb58",
+                    "platform": "Facebook",
+                    "post_url": "https://www.doyle-henderson.com/",
+                    "likes": 1004,
+                    "comments": 22,
+                    "shares": 42,
+                    "reach": 8990
+                }
+            ],
+            "total_sales_attributed": 3773.39
+        }
+    ]
+}

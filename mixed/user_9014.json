@@ -1,0 +1,26 @@
+{
+    "user_id": "d3cc6a9f-92c4-472a-9d37-7b7510ac2b6f",
+    "name": "Bethany James",
+    "email": "tmiller@example.net",
+    "instagram_handle": "@fernando75",
+    "tiktok_handle": "@josephsellers",
+    "joined_at": "2024-09-09T09:17:40.016662",
+    "advocacy_programs": [
+        {
+            "program_id": "4fc88b63-a655-498a-85b6-e99632976697",
+            "brand": "Baird-Martinez",
+            "tasks_completed": [
+                {
+                    "task_id": "7845d60d-f300-4c7b-8898-d89b5a3a8f17",
+                    "platform": "Instagram",
+                    "post_url": "http://green-walker.com/",
+                    "likes": 5365,
+                    "comments": 347,
+                    "shares": 71,
+                    "reach": 2099
+                }
+            ],
+            "total_sales_attributed": 2346.63
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2a00cf82-cc1c-4437-8b07-2e4c60fabad9",
+    "name": "Todd Koss",
+    "email": "Etha.Farrell20@gmail.com",
+    "instagram_handle": "@Karolann52",
+    "tiktok_handle": "@Annamarie.Marvin",
+    "joined_at": "2024-08-01T01:55:38.980Z",
+    "advocacy_programs": [
+        {
+            "program_id": "43f39d63-65cf-4293-a26e-6bdb31f4cb37",
+            "brand": "Torphy - Howe",
+            "tasks_completed": [
+                {
+                    "task_id": "f54761ba-aa5f-4fed-88b6-ba6bce82ae06",
+                    "platform": "TikTok",
+                    "post_url": "https://sudden-humor.net/",
+                    "likes": 141,
+                    "comments": 18,
+                    "shares": 1,
+                    "reach": 813
+                }
+            ],
+            "total_sales_attributed": 2406.7720359995433
+        }
+    ]
+}

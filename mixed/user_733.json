@@ -1,0 +1,26 @@
+{
+    "user_id": "d29a2e91-1818-4c27-98dd-085c318fe44f",
+    "name": "Mr. George Hammes",
+    "email": "Brandi63@hotmail.com",
+    "instagram_handle": "@Raphael.Kessler18",
+    "tiktok_handle": "@Merritt.Murray29",
+    "joined_at": "2024-12-01T07:32:35.181Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dc1d1f97-768c-422a-aae8-28e12433a0e0",
+            "brand": "Hilpert - Hermann",
+            "tasks_completed": [
+                {
+                    "task_id": "4c47ec2d-a50d-4aea-a6f9-831306121011",
+                    "platform": "TikTok",
+                    "post_url": "https://bitter-saw.name/",
+                    "likes": 333,
+                    "comments": 38,
+                    "shares": 83,
+                    "reach": 5254
+                }
+            ],
+            "total_sales_attributed": 4825.208914945708
+        }
+    ]
+}

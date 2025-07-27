@@ -1,0 +1,26 @@
+{
+    "user_id": "6720c269-d10a-4b6e-88b5-ca79f3f48a1a",
+    "name": "Stacey Holden",
+    "email": "johnfrench@example.com",
+    "instagram_handle": "@juan61",
+    "tiktok_handle": "@richardmaddox",
+    "joined_at": "2025-06-16T11:52:52.665681",
+    "advocacy_programs": [
+        {
+            "program_id": "276beb43-92ee-4f6e-bebe-922a09b83869",
+            "brand": "Byrd-Gonzalez",
+            "tasks_completed": [
+                {
+                    "task_id": "60ce5746-e27e-468d-9548-c373bd703deb",
+                    "platform": "Twitter",
+                    "post_url": "https://randolph-smith.info/",
+                    "likes": 9952,
+                    "comments": 299,
+                    "shares": 96,
+                    "reach": 4489
+                }
+            ],
+            "total_sales_attributed": 3101.86
+        }
+    ]
+}

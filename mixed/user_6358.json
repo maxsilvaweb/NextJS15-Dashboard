@@ -1,0 +1,26 @@
+{
+    "user_id": "2d005b54-5bfa-4db0-b5ed-edf0c62e4304",
+    "name": "Darren Kuvalis",
+    "email": "Levi_Rohan@hotmail.com",
+    "instagram_handle": "@Jairo_Wolff6",
+    "tiktok_handle": "@Destini81",
+    "joined_at": "2024-03-22T02:56:08.230Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fdff2a02-a0a6-4ee3-97c4-fa1b2f910340",
+            "brand": "Stanton, Bechtelar and Hane",
+            "tasks_completed": [
+                {
+                    "task_id": "069e7c4a-3152-4583-9a21-481a5adc4356",
+                    "platform": "TikTok",
+                    "post_url": "https://ill-legend.biz",
+                    "likes": 333,
+                    "comments": 23,
+                    "shares": 28,
+                    "reach": 736
+                }
+            ],
+            "total_sales_attributed": 1177.7004976169121
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8196b73b-1ddf-46d3-aa90-c6ff1a931abc",
+    "name": "Michael White",
+    "email": "olong@example.com",
+    "instagram_handle": "@james38",
+    "tiktok_handle": "@scottashley",
+    "joined_at": "2024-02-10T19:17:23.913190",
+    "advocacy_programs": [
+        {
+            "program_id": "9bc27bbe-0ad2-4a93-9cd7-d2890ab6a491",
+            "brand": "Davis, Murray and Silva",
+            "tasks_completed": [
+                {
+                    "task_id": "8dab7f9c-ae1c-4c29-9315-c6476599c572",
+                    "platform": "TikTok",
+                    "post_url": "https://mckenzie.com/",
+                    "likes": 4518,
+                    "comments": 391,
+                    "shares": 56,
+                    "reach": 9243
+                }
+            ],
+            "total_sales_attributed": 8030.08
+        }
+    ]
+}

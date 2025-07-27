@@ -1,0 +1,26 @@
+{
+    "user_id": "f4a7ab63-d505-45d6-9b01-4787624c1646",
+    "name": "Brenda Moore",
+    "email": "mooremichael@example.org",
+    "instagram_handle": "@Jodie.Boyle",
+    "tiktok_handle": "@brookskimberly",
+    "joined_at": "2024-04-03T18:56:04.308Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e22c6f32-797d-448f-acb6-50588b32a5c8",
+            "brand": "Branch, Martinez and Harper",
+            "tasks_completed": [
+                {
+                    "task_id": "c9c84f47-10c9-4d6c-ae4a-79bb04c72147",
+                    "platform": "Instagram",
+                    "post_url": "https://joyful-innovation.org",
+                    "likes": 453,
+                    "comments": 139,
+                    "shares": 90,
+                    "reach": 6393
+                }
+            ],
+            "total_sales_attributed": 9742.89
+        }
+    ]
+}

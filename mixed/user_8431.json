@@ -1,0 +1,26 @@
+{
+    "user_id": "dde6e60f-5c57-4751-9772-0ae0778fbf8f",
+    "name": "Suzanne Reilly",
+    "email": "Adriana_Strosin@gmail.com",
+    "instagram_handle": "@Kole50",
+    "tiktok_handle": "@Jadon.Kozey",
+    "joined_at": "2024-07-12T22:16:21.487Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9347053e-9a40-4fd4-a64a-3f36cb6a8ac4",
+            "brand": "Zulauf - Beatty",
+            "tasks_completed": [
+                {
+                    "task_id": "ea9aa476-9e20-4b41-8034-887ad93827f5",
+                    "platform": "TikTok",
+                    "post_url": "https://front-amendment.com",
+                    "likes": 198,
+                    "comments": 47,
+                    "shares": 91,
+                    "reach": 3902
+                }
+            ],
+            "total_sales_attributed": 762.7617697731191
+        }
+    ]
+}

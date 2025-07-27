@@ -1,0 +1,26 @@
+{
+    "user_id": "e602e771-4acc-4beb-8a0c-a5d861866b3b",
+    "name": "Nina Runolfsdottir",
+    "email": "edwardsmatthew@example.net",
+    "instagram_handle": "@oscarross",
+    "tiktok_handle": "@wwoods",
+    "joined_at": "2025-04-28T01:36:15.591530",
+    "advocacy_programs": [
+        {
+            "program_id": "afcfb73c-f71a-44f2-962c-ebdf036c08b7",
+            "brand": "Atkinson-Houston",
+            "tasks_completed": [
+                {
+                    "task_id": "afba5864-a30d-4d59-8134-0876e0a8d87e",
+                    "platform": "Facebook",
+                    "post_url": "https://unsung-collectivization.info",
+                    "likes": 1946,
+                    "comments": 312,
+                    "shares": 12,
+                    "reach": 850
+                }
+            ],
+            "total_sales_attributed": 5390.57
+        }
+    ]
+}

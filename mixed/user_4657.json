@@ -1,0 +1,26 @@
+{
+    "user_id": "49375802-7c33-41ff-8f07-58c978d71ca4",
+    "name": "Jenna Wolf DVM",
+    "email": "Jenifer.Zieme45@hotmail.com",
+    "instagram_handle": "@Russ80",
+    "tiktok_handle": "@Ada_Erdman",
+    "joined_at": "2025-02-03T14:35:31.138Z",
+    "advocacy_programs": [
+        {
+            "program_id": "961b8e6e-168d-4941-949e-6d33b5bedcdf",
+            "brand": "Corwin - Lakin",
+            "tasks_completed": [
+                {
+                    "task_id": "312b039f-88d2-4883-9602-9f1c167344ad",
+                    "platform": "TikTok",
+                    "post_url": "https://insecure-willow.org/",
+                    "likes": 353,
+                    "comments": 14,
+                    "shares": 14,
+                    "reach": 4078
+                }
+            ],
+            "total_sales_attributed": 3584.9314354232015
+        }
+    ]
+}

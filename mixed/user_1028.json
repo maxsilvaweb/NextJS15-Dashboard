@@ -1,0 +1,26 @@
+{
+    "user_id": "b103b146-b86d-409c-b854-6f96596fa210",
+    "name": "Joan Jerde",
+    "email": "Wilbert19@gmail.com",
+    "instagram_handle": "@Ruben.Schuster",
+    "tiktok_handle": "@Abel.Feest",
+    "joined_at": "2024-10-17T22:00:02.797Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ee972251-0e98-40ed-955a-6caeb8935bb2",
+            "brand": "Jaskolski Group",
+            "tasks_completed": [
+                {
+                    "task_id": "1c960ba2-dd92-4175-acb3-5dfe050cc491",
+                    "platform": "TikTok",
+                    "post_url": "https://grown-vibraphone.info",
+                    "likes": 143,
+                    "comments": 46,
+                    "shares": 90,
+                    "reach": 4729
+                }
+            ],
+            "total_sales_attributed": 2289.65276947754
+        }
+    ]
+}

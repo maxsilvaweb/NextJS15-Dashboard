@@ -1,0 +1,26 @@
+{
+    "user_id": "2cdde212-301b-4dbd-bcc4-c0487be1f187",
+    "name": "Mr. Sam Quigley",
+    "email": "Cathryn73@hotmail.com",
+    "instagram_handle": "@Dimitri_Gorczany77",
+    "tiktok_handle": "@Loraine2",
+    "joined_at": "2024-09-19T15:02:35.210Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bdb40fa8-0b32-4ee3-8526-5f1b1b518f2a",
+            "brand": "Stehr, Pacocha and Pfeffer",
+            "tasks_completed": [
+                {
+                    "task_id": "240597a9-2cc9-4a13-9269-38e2c6c905aa",
+                    "platform": "TikTok",
+                    "post_url": "https://accurate-institute.info",
+                    "likes": 241,
+                    "comments": 34,
+                    "shares": 46,
+                    "reach": 5071
+                }
+            ],
+            "total_sales_attributed": 1206.9696476439149
+        }
+    ]
+}

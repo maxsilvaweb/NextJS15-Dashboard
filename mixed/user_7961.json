@@ -1,0 +1,26 @@
+{
+    "user_id": "b569deab-b9f0-40bb-9fb8-e71c51ad0e89",
+    "name": "Celia Mueller V",
+    "email": "Aidan53@gmail.com",
+    "instagram_handle": "@Aliyah_Luettgen",
+    "tiktok_handle": "@Heath.Hickle",
+    "joined_at": "2024-03-27T07:08:14.995Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d3c90243-54d9-49de-9077-845408ab92c0",
+            "brand": "Corkery, Baumbach and Wiza",
+            "tasks_completed": [
+                {
+                    "task_id": "be438825-6029-4d5e-88c0-68a5cde3a210",
+                    "platform": "Instagram",
+                    "post_url": "https://joyous-government.biz/",
+                    "likes": 261,
+                    "comments": 20,
+                    "shares": 78,
+                    "reach": 1080
+                }
+            ],
+            "total_sales_attributed": 1278.376594219521
+        }
+    ]
+}

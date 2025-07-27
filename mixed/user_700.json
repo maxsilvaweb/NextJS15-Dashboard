@@ -1,0 +1,26 @@
+{
+    "user_id": "1894497b-bec7-435c-81a2-37db0aae5a7d",
+    "name": "Cameron Heller",
+    "email": "Damian.Marks-Cronin28@yahoo.com",
+    "instagram_handle": "@Shane17",
+    "tiktok_handle": "@Constance_Nader76",
+    "joined_at": "2025-02-01T13:19:55.872Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2c6a83df-a134-48fa-981b-8a84073af0d8",
+            "brand": "Kiehn - Daniel",
+            "tasks_completed": [
+                {
+                    "task_id": "c1719ec5-75e8-4bad-9086-58ad5136ff5f",
+                    "platform": "TikTok",
+                    "post_url": "https://possible-section.biz/",
+                    "likes": 22,
+                    "comments": 35,
+                    "shares": 68,
+                    "reach": 3433
+                }
+            ],
+            "total_sales_attributed": 445.34026104246306
+        }
+    ]
+}

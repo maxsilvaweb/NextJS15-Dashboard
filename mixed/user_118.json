@@ -1,0 +1,26 @@
+{
+    "user_id": "57280790-34c8-4874-bcd8-270a5bdd4c5e",
+    "name": "Kristen Price",
+    "email": "angela01@example.org",
+    "instagram_handle": "@jenniferdeleon",
+    "tiktok_handle": "@brandon92",
+    "joined_at": "2025-03-31T17:07:22.647650",
+    "advocacy_programs": [
+        {
+            "program_id": "97f892f2-ca66-4690-bf8b-5c8dad1189ed",
+            "brand": "White, Haley and Hogan",
+            "tasks_completed": [
+                {
+                    "task_id": "2bff1e3c-5f74-4f07-90b5-6794359b00ba",
+                    "platform": "TikTok",
+                    "post_url": "https://www.moore.biz/",
+                    "likes": 5575,
+                    "comments": 13,
+                    "shares": 63,
+                    "reach": 4537
+                }
+            ],
+            "total_sales_attributed": 8939.34
+        }
+    ]
+}

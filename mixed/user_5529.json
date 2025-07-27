@@ -1,0 +1,26 @@
+{
+    "user_id": "8445708c-7fa5-42de-bdc4-0bb804ef159d",
+    "name": "Neal Jacobson",
+    "email": "Priscilla9@yahoo.com",
+    "instagram_handle": "@Krystel_Bechtelar21",
+    "tiktok_handle": "@Makenzie_Tremblay72",
+    "joined_at": "2024-06-03T03:38:20.002Z",
+    "advocacy_programs": [
+        {
+            "program_id": "355419ae-9e7f-4923-905f-7e4221379bb8",
+            "brand": "Renner, Halvorson and Schmeler",
+            "tasks_completed": [
+                {
+                    "task_id": "a2f7b6a3-0126-49a2-ba5d-a71977e442f3",
+                    "platform": "TikTok",
+                    "post_url": "https://inborn-tomatillo.name",
+                    "likes": 396,
+                    "comments": 36,
+                    "shares": 62,
+                    "reach": 2059
+                }
+            ],
+            "total_sales_attributed": 2248.7736780257737
+        }
+    ]
+}

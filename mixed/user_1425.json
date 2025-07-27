@@ -1,0 +1,26 @@
+{
+    "user_id": "06a212e8-1eab-4e12-b94d-7a2a0ede13b6",
+    "name": "Shelly Lane",
+    "email": "matthew30@example.net",
+    "instagram_handle": "@cnelson",
+    "tiktok_handle": "@oliviacox",
+    "joined_at": "2024-02-12T20:31:22.526926",
+    "advocacy_programs": [
+        {
+            "program_id": "e37bddf4-faad-47f4-bd1b-cf6fdedb23d4",
+            "brand": "Moore, Snow and Baker",
+            "tasks_completed": [
+                {
+                    "task_id": "87bedcb6-2cd0-47d9-9fb5-e6077fd1bf0f",
+                    "platform": "TikTok",
+                    "post_url": "http://www.parker.com/",
+                    "likes": 430,
+                    "comments": 375,
+                    "shares": 28,
+                    "reach": 8836
+                }
+            ],
+            "total_sales_attributed": 735.58
+        }
+    ]
+}

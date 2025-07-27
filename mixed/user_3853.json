@@ -1,0 +1,26 @@
+{
+    "user_id": "fdfd6ede-cd5d-4808-a6ce-176e96c39e44",
+    "name": "Jesse Kennedy",
+    "email": "jameswheeler@example.com",
+    "instagram_handle": "@knightbrandi",
+    "tiktok_handle": "@valerieconner",
+    "joined_at": "2023-11-21T11:15:50.906631",
+    "advocacy_programs": [
+        {
+            "program_id": "6bd314ad-36d1-451b-b250-5cbfcb6239f7",
+            "brand": "Davis-Petersen",
+            "tasks_completed": [
+                {
+                    "task_id": "83a86550-798d-4693-ae85-3b274c179214",
+                    "platform": "TikTok",
+                    "post_url": "https://unhealthy-provision.info",
+                    "likes": 8316,
+                    "comments": 286,
+                    "shares": 22,
+                    "reach": 9711
+                }
+            ],
+            "total_sales_attributed": 7237.7
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "5ba13c45-79b0-4989-a893-0ef9a229145c",
+    "name": "Lorenzo Schowalter Jr.",
+    "email": "Kyle_Jacobs@gmail.com",
+    "instagram_handle": "@Davin.Heaney",
+    "tiktok_handle": "@Eva84",
+    "joined_at": "2024-04-11T12:53:32.088Z",
+    "advocacy_programs": [
+        {
+            "program_id": "815bda3b-51f6-45a8-bbd1-03631680aba8",
+            "brand": "Hane, Gislason and Reichel",
+            "tasks_completed": [
+                {
+                    "task_id": "b646d978-9354-4f27-a448-68c132b31be4",
+                    "platform": "TikTok",
+                    "post_url": "https://merry-exhaust.org/",
+                    "likes": 178,
+                    "comments": 16,
+                    "shares": 65,
+                    "reach": 6349
+                }
+            ],
+            "total_sales_attributed": 4256.512777401141
+        }
+    ]
+}

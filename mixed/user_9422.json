@@ -1,0 +1,26 @@
+{
+    "user_id": "b5d4804f-7715-44b7-84bf-b30838cd9d43",
+    "name": "David Sanders",
+    "email": "mccartybrittany@example.com",
+    "instagram_handle": "@nortonleslie",
+    "tiktok_handle": "@michaelharvey",
+    "joined_at": "2025-03-10T23:08:17.426868",
+    "advocacy_programs": [
+        {
+            "program_id": "ef573b5d-44e5-471c-b4a7-43ddf3e9705e",
+            "brand": "Hernandez-Mcknight",
+            "tasks_completed": [
+                {
+                    "task_id": "47607440-6480-424d-9c33-d65f9a702e9e",
+                    "platform": "Instagram",
+                    "post_url": "http://www.moran.com/",
+                    "likes": 214,
+                    "comments": 449,
+                    "shares": 89,
+                    "reach": 9633
+                }
+            ],
+            "total_sales_attributed": 8577.71
+        }
+    ]
+}

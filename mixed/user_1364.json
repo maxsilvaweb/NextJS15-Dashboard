@@ -1,0 +1,26 @@
+{
+    "user_id": "8c98b241-e8f1-44a5-a80f-80cf4aae5007",
+    "name": "Allan Tremblay",
+    "email": "Buster_Rodriguez@hotmail.com",
+    "instagram_handle": "@Darrick.Bernhard",
+    "tiktok_handle": "@Sincere_Rodriguez",
+    "joined_at": "2025-01-02T09:16:04.591Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e4249883-f501-4e31-8d58-a53cd9dcd764",
+            "brand": "Fisher - Lubowitz",
+            "tasks_completed": [
+                {
+                    "task_id": "0475b1e6-35e5-4b96-8962-482a2f24fa24",
+                    "platform": "Instagram",
+                    "post_url": "https://wry-pacemaker.info/",
+                    "likes": 80,
+                    "comments": 31,
+                    "shares": 60,
+                    "reach": 5294
+                }
+            ],
+            "total_sales_attributed": 1643.1886926727977
+        }
+    ]
+}

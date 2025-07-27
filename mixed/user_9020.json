@@ -1,0 +1,26 @@
+{
+    "user_id": "007e08dd-7624-4892-91e9-eb5108aad9ca",
+    "name": "Johnathan Lowe Sr.",
+    "email": "Zane28@hotmail.com",
+    "instagram_handle": "@Emma_Champlin14",
+    "tiktok_handle": "@Helene70",
+    "joined_at": "2024-04-07T04:16:45.491Z",
+    "advocacy_programs": [
+        {
+            "program_id": "191a04f8-64fe-4bf8-b51b-9b7f3aa1b07b",
+            "brand": "Gerlach Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "3f826123-af5e-4c5a-a412-313bac1655fa",
+                    "platform": "Instagram",
+                    "post_url": "https://whopping-solution.biz/",
+                    "likes": 73,
+                    "comments": 29,
+                    "shares": 54,
+                    "reach": 3366
+                }
+            ],
+            "total_sales_attributed": 1387.3866839669952
+        }
+    ]
+}

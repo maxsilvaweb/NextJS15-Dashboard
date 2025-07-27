@@ -1,0 +1,26 @@
+{
+    "user_id": "9ce2efb5-fc99-4685-938d-add2c10e2a22",
+    "name": "Jackie Fritsch",
+    "email": "Lavina86@hotmail.com",
+    "instagram_handle": "@Alexander_Treutel",
+    "tiktok_handle": "@Emmanuelle_Welch",
+    "joined_at": "2024-10-05T15:53:37.772Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7d5cfe3e-80ed-47d3-86ae-958da25c4294",
+            "brand": "Schiller - Zulauf",
+            "tasks_completed": [
+                {
+                    "task_id": "81f83de8-0276-4580-9ec6-a45b3970ebb0",
+                    "platform": "TikTok",
+                    "post_url": "https://tricky-someplace.info",
+                    "likes": 481,
+                    "comments": 28,
+                    "shares": 0,
+                    "reach": 2877
+                }
+            ],
+            "total_sales_attributed": 1666.6784185518618
+        }
+    ]
+}

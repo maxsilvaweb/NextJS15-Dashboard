@@ -1,0 +1,26 @@
+{
+    "user_id": "685190af-8624-428d-a21f-a469d7947b56",
+    "name": "Mr. Courtney Marks",
+    "email": "hhouse@example.com",
+    "instagram_handle": "@msmith",
+    "tiktok_handle": "@erinsexton",
+    "joined_at": "2024-05-09T12:06:15.752Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a21c0643-77e3-428a-bec8-d1f8dd990ddf",
+            "brand": "Joseph LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "52d50fdb-b7bb-4d06-b6c1-44301819f541",
+                    "platform": "Facebook",
+                    "post_url": "http://www.kent.com/",
+                    "likes": 8599,
+                    "comments": 143,
+                    "shares": 34,
+                    "reach": 4498
+                }
+            ],
+            "total_sales_attributed": 3260.3093676751623
+        }
+    ]
+}

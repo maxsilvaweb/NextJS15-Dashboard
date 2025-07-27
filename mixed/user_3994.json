@@ -1,0 +1,26 @@
+{
+    "user_id": "f8e8b955-628d-4e1b-b404-cda11cdb0173",
+    "name": "Ashley Dietrich",
+    "email": "Bennie20@hotmail.com",
+    "instagram_handle": "@Yessenia_Rippin92",
+    "tiktok_handle": "@Stanton76",
+    "joined_at": "2025-01-22T18:46:19.452Z",
+    "advocacy_programs": [
+        {
+            "program_id": "679cf72d-f969-4e9e-a3ac-76a3a9b1525b",
+            "brand": "Durgan Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "a454cda8-ef03-4e9a-a186-b959e7ba09e3",
+                    "platform": "Instagram",
+                    "post_url": "https://bouncy-procurement.biz/",
+                    "likes": 458,
+                    "comments": 34,
+                    "shares": 30,
+                    "reach": 4365
+                }
+            ],
+            "total_sales_attributed": 3684.747490765988
+        }
+    ]
+}

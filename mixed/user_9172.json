@@ -1,0 +1,26 @@
+{
+    "user_id": "2a0c7d38-2213-4b16-985b-4e72b3a3aa04",
+    "name": "David Willis",
+    "email": "valencianicole@example.com",
+    "instagram_handle": "@hoffmananthony",
+    "tiktok_handle": "@lstevens",
+    "joined_at": "2024-07-29T03:12:02.475459",
+    "advocacy_programs": [
+        {
+            "program_id": "8ec37e2c-6a2a-4082-963e-5254ec3c968b",
+            "brand": "Armstrong Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "38500a00-d552-4b15-b828-38c6cad43ba5",
+                    "platform": "TikTok",
+                    "post_url": "http://www.pollard.com/",
+                    "likes": 4959,
+                    "comments": 29,
+                    "shares": 33,
+                    "reach": 7920
+                }
+            ],
+            "total_sales_attributed": 8403.74
+        }
+    ]
+}

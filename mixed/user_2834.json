@@ -1,0 +1,26 @@
+{
+    "user_id": "9e194be3-f888-4626-851b-a8f0da196e0c",
+    "name": "William Tran",
+    "email": "sarah82@example.org",
+    "instagram_handle": "@tammythompson",
+    "tiktok_handle": "@yrobles",
+    "joined_at": "2025-01-30T21:30:47.853116",
+    "advocacy_programs": [
+        {
+            "program_id": "d4f941ca-b692-4aaf-8c79-dec2654fbb33",
+            "brand": "Holt-Foster",
+            "tasks_completed": [
+                {
+                    "task_id": "42ebe1e4-76fa-4e34-9774-69795e487eaf",
+                    "platform": "Instagram",
+                    "post_url": "https://martin.org/",
+                    "likes": 8062,
+                    "comments": 5,
+                    "shares": 99,
+                    "reach": 8614
+                }
+            ],
+            "total_sales_attributed": 8972.61
+        }
+    ]
+}

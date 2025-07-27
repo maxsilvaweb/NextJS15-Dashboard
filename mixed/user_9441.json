@@ -1,0 +1,26 @@
+{
+    "user_id": "399614b5-fdf7-4072-ad9b-91a0e32d8c87",
+    "name": "Mrs. Irene Gorczany",
+    "email": "Mikayla.Luettgen26@yahoo.com",
+    "instagram_handle": "@Jettie71",
+    "tiktok_handle": "@Kristoffer.Labadie",
+    "joined_at": "2024-12-31T20:23:25.813Z",
+    "advocacy_programs": [
+        {
+            "program_id": "01ef124a-55a8-4f88-8f4a-533d6ec271b9",
+            "brand": "Funk LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "acf3c238-48fe-4022-bc03-c68a39cf3265",
+                    "platform": "TikTok",
+                    "post_url": "https://complicated-midwife.net/",
+                    "likes": 463,
+                    "comments": 10,
+                    "shares": 0,
+                    "reach": 8728
+                }
+            ],
+            "total_sales_attributed": 1066.2507555090178
+        }
+    ]
+}

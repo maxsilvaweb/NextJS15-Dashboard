@@ -1,0 +1,26 @@
+{
+    "user_id": "c5366cae-aca9-49fb-a607-37b891b116f9",
+    "name": "Michaela Gonzalez",
+    "email": "Callie.DuBuque84@hotmail.com",
+    "instagram_handle": "@shawn29",
+    "tiktok_handle": "@rbrooks",
+    "joined_at": "2024-06-22T00:56:03.594885",
+    "advocacy_programs": [
+        {
+            "program_id": "ad89d5df-537c-4db2-8543-ae2ca7d2f90f",
+            "brand": "Jacobs LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e9101dfd-80ec-4193-bd89-eadbd04a820a",
+                    "platform": "TikTok",
+                    "post_url": "https://www.love.com/",
+                    "likes": 7871,
+                    "comments": 15,
+                    "shares": 57,
+                    "reach": 7772
+                }
+            ],
+            "total_sales_attributed": 4753.734589380119
+        }
+    ]
+}

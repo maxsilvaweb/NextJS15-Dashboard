@@ -1,0 +1,26 @@
+{
+    "user_id": "f520ce97-487b-471a-bbb8-077377989844",
+    "name": "John Watson",
+    "email": "Leanna38@hotmail.com",
+    "instagram_handle": "@taylormurray",
+    "tiktok_handle": "@maxwelltammy",
+    "joined_at": "2024-08-11T18:19:57.242869",
+    "advocacy_programs": [
+        {
+            "program_id": "6a9d12d0-b8ca-4ad0-84d5-c78de87a7e47",
+            "brand": "Wilson-Wagner",
+            "tasks_completed": [
+                {
+                    "task_id": "df6129a3-0f3b-4ae4-99a0-689e3450362b",
+                    "platform": "Instagram",
+                    "post_url": "https://mcdonald.com/",
+                    "likes": 7042,
+                    "comments": 48,
+                    "shares": 77,
+                    "reach": 4142
+                }
+            ],
+            "total_sales_attributed": 9355.66
+        }
+    ]
+}

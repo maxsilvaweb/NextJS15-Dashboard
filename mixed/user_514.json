@@ -1,0 +1,26 @@
+{
+    "user_id": "915ebd3b-bd9a-4b22-bfdd-38542228fee9",
+    "name": "Saul Dickinson",
+    "email": "Prudence49@hotmail.com",
+    "instagram_handle": "@Gerhard.Langosh81",
+    "tiktok_handle": "@Warren_Reinger76",
+    "joined_at": "2024-08-20T15:30:10.312Z",
+    "advocacy_programs": [
+        {
+            "program_id": "43c76488-ba92-4266-8459-63b081595634",
+            "brand": "Fadel Group",
+            "tasks_completed": [
+                {
+                    "task_id": "07e5cfd5-a7b9-4a64-b475-d72727f3e7d2",
+                    "platform": "Instagram",
+                    "post_url": "https://content-surface.com",
+                    "likes": 461,
+                    "comments": 22,
+                    "shares": 40,
+                    "reach": 1716
+                }
+            ],
+            "total_sales_attributed": 2357.3488932571004
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3681f77f-2353-4c5e-ade7-5fc08e2b708c",
+    "name": "Jamie Jones",
+    "email": "dfowler@example.org",
+    "instagram_handle": "@andrew14",
+    "tiktok_handle": "@glynch",
+    "joined_at": "2024-10-25T00:57:47.393466",
+    "advocacy_programs": [
+        {
+            "program_id": "f2e61459-58b4-42b8-b54a-b5daa5e14b9d",
+            "brand": "Emard Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "aa2d9bf6-76d5-4acb-9532-e3328e191943",
+                    "platform": "Facebook",
+                    "post_url": "https://delicious-plastic.name/",
+                    "likes": 1556,
+                    "comments": 121,
+                    "shares": 64,
+                    "reach": 3722
+                }
+            ],
+            "total_sales_attributed": 1360.7476763379373
+        }
+    ]
+}

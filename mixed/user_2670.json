@@ -1,0 +1,26 @@
+{
+    "user_id": "67e82d1a-4ca4-4bf1-8087-12707edffe7e",
+    "name": "Bertha Ryan",
+    "email": "enguyen@example.net",
+    "instagram_handle": "@marshjamie",
+    "tiktok_handle": "@riverajason",
+    "joined_at": "2024-07-25T23:51:23.962431",
+    "advocacy_programs": [
+        {
+            "program_id": "d47b41f8-cf37-42cd-ab85-c964ee180915",
+            "brand": "Maxwell-West",
+            "tasks_completed": [
+                {
+                    "task_id": "bfbbfe29-2d54-4e12-ad31-b7d9ad4cd7ee",
+                    "platform": "TikTok",
+                    "post_url": "https://foster-tran.com/",
+                    "likes": 3111,
+                    "comments": 36,
+                    "shares": 94,
+                    "reach": 6925
+                }
+            ],
+            "total_sales_attributed": 2623.37
+        }
+    ]
+}

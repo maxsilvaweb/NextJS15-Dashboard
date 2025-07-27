@@ -1,0 +1,26 @@
+{
+    "user_id": "c7ac2bb3-0018-4da6-bf2c-cd429ff7db6e",
+    "name": "Anthony Parker",
+    "email": "joanhaley@example.org",
+    "instagram_handle": "@williamsmaureen",
+    "tiktok_handle": "@kayla55",
+    "joined_at": "2024-12-30T01:31:48.021217",
+    "advocacy_programs": [
+        {
+            "program_id": "a8b32aa6-368f-4735-9655-1ed1b19fdb14",
+            "brand": "Patel-Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "51004b72-b491-45a0-a91d-85d44381a12b",
+                    "platform": "TikTok",
+                    "post_url": "https://oblong-rule.org",
+                    "likes": 7726,
+                    "comments": 28,
+                    "shares": 74,
+                    "reach": 9026
+                }
+            ],
+            "total_sales_attributed": 2564.3300358350716
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "20f9149f-ff1b-426f-9375-0ec65f705de4",
+    "name": "James Barnes",
+    "email": "sparsons@example.org",
+    "instagram_handle": "@curtisedwin",
+    "tiktok_handle": "@lawrencefox",
+    "joined_at": "2025-04-13T06:08:33.503941",
+    "advocacy_programs": [
+        {
+            "program_id": "a553a3e3-050f-4432-b11c-62a32661cc37",
+            "brand": "Price Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "323304c3-b720-4c9f-8f4d-cd5c01dde7aa",
+                    "platform": "Facebook",
+                    "post_url": "https://whopping-godparent.name",
+                    "likes": 4047,
+                    "comments": 444,
+                    "shares": 67,
+                    "reach": 9816
+                }
+            ],
+            "total_sales_attributed": 8605.8
+        }
+    ]
+}

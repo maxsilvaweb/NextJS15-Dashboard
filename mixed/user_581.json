@@ -1,0 +1,26 @@
+{
+    "user_id": "b4e4f1af-9e98-440c-839f-fbc0f69b92e8",
+    "name": "Jorge Mohr",
+    "email": "Violet69@yahoo.com",
+    "instagram_handle": "@Mireille49",
+    "tiktok_handle": "@Leonel.Metz97",
+    "joined_at": "2024-09-15T01:18:15.210Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bf5f19bb-4449-4c85-a296-03b6d959bbd1",
+            "brand": "Bernier Group",
+            "tasks_completed": [
+                {
+                    "task_id": "84204e23-3ec9-45cc-ae62-9da020b5c20f",
+                    "platform": "TikTok",
+                    "post_url": "https://pastel-pendant.name",
+                    "likes": 34,
+                    "comments": 25,
+                    "shares": 47,
+                    "reach": 1969
+                }
+            ],
+            "total_sales_attributed": 3914.4533133927043
+        }
+    ]
+}

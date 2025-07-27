@@ -1,0 +1,26 @@
+{
+    "user_id": "a5f22f14-7cba-4776-a64d-ed521db38e08",
+    "name": "Donna Yoder",
+    "email": "jessicahammond@example.net",
+    "instagram_handle": "@richard46",
+    "tiktok_handle": "@betty25",
+    "joined_at": "2025-01-17T05:03:08.484416",
+    "advocacy_programs": [
+        {
+            "program_id": "a94ca7e4-c0fa-4014-aab6-9b00009ae9c4",
+            "brand": "Bell, Blair and Mcdonald",
+            "tasks_completed": [
+                {
+                    "task_id": "c29ebca6-c96a-4631-95c6-04319d6a441b",
+                    "platform": "TikTok",
+                    "post_url": "https://winged-self-confidence.com/",
+                    "likes": 351,
+                    "comments": 9,
+                    "shares": 19,
+                    "reach": 4955
+                }
+            ],
+            "total_sales_attributed": 2178.9351844721405
+        }
+    ]
+}

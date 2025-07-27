@@ -1,0 +1,26 @@
+{
+    "user_id": "426b4b03-2084-483a-a99a-8a66b85007dc",
+    "name": "Dolores Corwin",
+    "email": "Nestor23@yahoo.com",
+    "instagram_handle": "@Moshe.Gulgowski",
+    "tiktok_handle": "@Jane_Carter",
+    "joined_at": "2024-10-12T01:09:17.790Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8c0c9041-e027-4a4e-b719-4fb2d7d34d01",
+            "brand": "Pagac - McDermott",
+            "tasks_completed": [
+                {
+                    "task_id": "5c5635bb-0ba3-4672-a19a-0bbc5636676b",
+                    "platform": "TikTok",
+                    "post_url": "https://serene-sediment.biz/",
+                    "likes": 470,
+                    "comments": 9,
+                    "shares": 65,
+                    "reach": 9426
+                }
+            ],
+            "total_sales_attributed": 3316.6096666732506
+        }
+    ]
+}

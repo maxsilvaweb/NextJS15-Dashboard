@@ -1,0 +1,26 @@
+{
+    "user_id": "3984f81f-0373-4963-96fe-bd29c04dc09b",
+    "name": "Henrietta Beatty",
+    "email": "Horace.Baumbach@gmail.com",
+    "instagram_handle": "@Martine.Hessel91",
+    "tiktok_handle": "@Zane.Green2",
+    "joined_at": "2024-05-08T17:02:23.018Z",
+    "advocacy_programs": [
+        {
+            "program_id": "73e38601-bc0e-4d7b-b395-05dc67e50b44",
+            "brand": "Franey, Mayert and Bergstrom",
+            "tasks_completed": [
+                {
+                    "task_id": "2a428000-562f-4e0d-baa3-bb45dedcef66",
+                    "platform": "Instagram",
+                    "post_url": "https://posh-solution.org/",
+                    "likes": 57,
+                    "comments": 37,
+                    "shares": 29,
+                    "reach": 8934
+                }
+            ],
+            "total_sales_attributed": 4069.2814719465705
+        }
+    ]
+}

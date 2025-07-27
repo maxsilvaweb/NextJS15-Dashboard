@@ -1,0 +1,26 @@
+{
+    "user_id": "ce18b94a-8d15-4f08-a0b3-5c7c02771124",
+    "name": "Jeffery Adams",
+    "email": "Selmer_Hauck@hotmail.com",
+    "instagram_handle": "@Glen49",
+    "tiktok_handle": "@Marilou98",
+    "joined_at": "2025-02-21T04:56:01.190Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b4637a69-0825-4133-8914-b3fda285705a",
+            "brand": "Rempel Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "307b83a7-f732-462f-8974-f7e585b03401",
+                    "platform": "Instagram",
+                    "post_url": "https://measly-curl.org",
+                    "likes": 266,
+                    "comments": 33,
+                    "shares": 60,
+                    "reach": 6392
+                }
+            ],
+            "total_sales_attributed": 4422.260599223322
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a6c78385-319f-4348-9c2e-4059a1849fc4",
+    "name": "Dennis Snow",
+    "email": "paulcampbell@example.org",
+    "instagram_handle": "@omeyers",
+    "tiktok_handle": "@Lucile_Mraz",
+    "joined_at": "2025-07-13T12:45:51.710999",
+    "advocacy_programs": [
+        {
+            "program_id": "71315348-bc89-455d-94c4-775af50c0e88",
+            "brand": "Kim-Torres",
+            "tasks_completed": [
+                {
+                    "task_id": "679ee08a-495f-4e9c-b844-c6a46e4e153e",
+                    "platform": "Facebook",
+                    "post_url": "http://peters-waters.com/",
+                    "likes": 6393,
+                    "comments": 13,
+                    "shares": 65,
+                    "reach": 780
+                }
+            ],
+            "total_sales_attributed": 8212.08
+        }
+    ]
+}

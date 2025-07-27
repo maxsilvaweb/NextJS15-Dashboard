@@ -1,0 +1,26 @@
+{
+    "user_id": "5c1b0036-5335-4930-9166-ff0ab07c2de3",
+    "name": "Michelle Riley",
+    "email": "ashleywebb@example.org",
+    "instagram_handle": "@stacey00",
+    "tiktok_handle": "@bryantjustin",
+    "joined_at": "2025-03-17T08:33:59.466491",
+    "advocacy_programs": [
+        {
+            "program_id": "3db472dc-24a3-4364-945f-6867a17910bf",
+            "brand": "Lawrence-Gentry",
+            "tasks_completed": [
+                {
+                    "task_id": "ee2d2535-7d85-4fa0-a2db-ce9327ab40b2",
+                    "platform": "Facebook",
+                    "post_url": "http://howard.org/",
+                    "likes": 2586,
+                    "comments": 4,
+                    "shares": 70,
+                    "reach": 3772
+                }
+            ],
+            "total_sales_attributed": 6651.05
+        }
+    ]
+}

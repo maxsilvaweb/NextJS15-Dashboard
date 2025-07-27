@@ -1,0 +1,26 @@
+{
+    "user_id": "55d6b438-2662-48d2-a5ad-786310982b2a",
+    "name": "Jeremy Senger",
+    "email": "eric15@example.org",
+    "instagram_handle": "@erin81",
+    "tiktok_handle": "@jason70",
+    "joined_at": "2024-03-29T09:38:03.778281",
+    "advocacy_programs": [
+        {
+            "program_id": "b04d894f-d5ed-444e-9588-49e000522162",
+            "brand": "Maxwell LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "735e8f46-323b-4254-99e6-927b3231dfc6",
+                    "platform": "TikTok",
+                    "post_url": "http://hunt.com/",
+                    "likes": 1964,
+                    "comments": 359,
+                    "shares": 55,
+                    "reach": 4096
+                }
+            ],
+            "total_sales_attributed": 3101.156881865671
+        }
+    ]
+}

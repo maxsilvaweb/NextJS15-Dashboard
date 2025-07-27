@@ -1,0 +1,26 @@
+{
+    "user_id": "317a47f0-3cf2-4a63-8aba-66ff29a399f1",
+    "name": "Mike Howe",
+    "email": "Jessy.Waelchi40@hotmail.com",
+    "instagram_handle": "@bdaniels",
+    "tiktok_handle": "@patricksalazar",
+    "joined_at": "2024-04-03T17:49:04.027567",
+    "advocacy_programs": [
+        {
+            "program_id": "ad7ceaa7-c15f-4f2f-8ea8-de74dd1a8fec",
+            "brand": "Dean, Hill and Calderon",
+            "tasks_completed": [
+                {
+                    "task_id": "22f5ed96-4621-4e1b-8827-fa96bcb12c31",
+                    "platform": "Twitter",
+                    "post_url": "http://scott.net/",
+                    "likes": 1904,
+                    "comments": 32,
+                    "shares": 36,
+                    "reach": 2671
+                }
+            ],
+            "total_sales_attributed": 1092.33
+        }
+    ]
+}

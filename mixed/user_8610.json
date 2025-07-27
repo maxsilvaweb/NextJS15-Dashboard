@@ -1,0 +1,26 @@
+{
+    "user_id": "f2d275e1-a79a-430e-bba9-d5b2ac038238",
+    "name": "Sandra Brown",
+    "email": "john11@example.com",
+    "instagram_handle": "@kimberlyleon",
+    "tiktok_handle": "@Perry.Swift",
+    "joined_at": "2024-07-28T23:23:54.430028",
+    "advocacy_programs": [
+        {
+            "program_id": "57960edb-99ee-4272-bed5-94eb43586e3f",
+            "brand": "Collier Group",
+            "tasks_completed": [
+                {
+                    "task_id": "fffb5a28-917d-414e-afca-4f0873446a5c",
+                    "platform": "Instagram",
+                    "post_url": "https://sanchez.com/",
+                    "likes": 446,
+                    "comments": 46,
+                    "shares": 8,
+                    "reach": 9333
+                }
+            ],
+            "total_sales_attributed": 9133.14
+        }
+    ]
+}

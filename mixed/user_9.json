@@ -1,0 +1,26 @@
+{
+    "user_id": "66a9064f-3983-490e-a3d5-7a4cccdf1a19",
+    "name": "Patrick Smith",
+    "email": "castillojoseph@example.org",
+    "instagram_handle": "@bonnie87",
+    "tiktok_handle": "@catherine68",
+    "joined_at": "2025-06-04T20:25:12.083656",
+    "advocacy_programs": [
+        {
+            "program_id": "cc12ed3d-2f41-49b1-a428-9e5e09bba259",
+            "brand": "Armstrong, Hammond and Dean",
+            "tasks_completed": [
+                {
+                    "task_id": "53928086-4047-4bbb-a128-ec61f71b2294",
+                    "platform": "Instagram",
+                    "post_url": "https://www.garza-mueller.net/",
+                    "likes": 2148,
+                    "comments": 153,
+                    "shares": 73,
+                    "reach": 8476
+                }
+            ],
+            "total_sales_attributed": 1126.71
+        }
+    ]
+}

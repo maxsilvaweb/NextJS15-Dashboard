@@ -1,0 +1,26 @@
+{
+    "user_id": "201884bd-93b0-4551-af12-2bd174692af0",
+    "name": "Samantha Nicholson",
+    "email": "brandicollins@example.com",
+    "instagram_handle": "@kwong",
+    "tiktok_handle": "@pryan",
+    "joined_at": "2024-11-04T00:11:54.123906",
+    "advocacy_programs": [
+        {
+            "program_id": "604ed06e-8cf5-4ab2-9775-63ab6e47efc3",
+            "brand": "Farley, Charles and Alexander",
+            "tasks_completed": [
+                {
+                    "task_id": "7ca00e64-a863-4daf-9263-b5384c78e66a",
+                    "platform": "Instagram",
+                    "post_url": "http://jones.com/",
+                    "likes": 1878,
+                    "comments": 330,
+                    "shares": 27,
+                    "reach": 1583
+                }
+            ],
+            "total_sales_attributed": 4296.973485348258
+        }
+    ]
+}

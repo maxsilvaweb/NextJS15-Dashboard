@@ -1,0 +1,26 @@
+{
+    "user_id": "c49a6da0-2557-4a9f-a64a-7a94d64f876e",
+    "name": "Raquel Armstrong",
+    "email": "Shanny_Robel@gmail.com",
+    "instagram_handle": "@Maryam_Streich55",
+    "tiktok_handle": "@Cleora76",
+    "joined_at": "2024-12-24T13:18:26.476Z",
+    "advocacy_programs": [
+        {
+            "program_id": "74d40d48-b253-4f58-9170-96fbdf2a7b65",
+            "brand": "Waters - Barton",
+            "tasks_completed": [
+                {
+                    "task_id": "38e0a206-561c-4e86-b4c1-7d890ffcf3d7",
+                    "platform": "TikTok",
+                    "post_url": "https://wise-instructor.com",
+                    "likes": 336,
+                    "comments": 24,
+                    "shares": 95,
+                    "reach": 3122
+                }
+            ],
+            "total_sales_attributed": 2720.861548695836
+        }
+    ]
+}

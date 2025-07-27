@@ -1,0 +1,26 @@
+{
+    "user_id": "1fba0271-3230-4b0b-a592-06cd7bbcac07",
+    "name": "Christopher Browning",
+    "email": "tiffany35@example.com",
+    "instagram_handle": "@ssanchez",
+    "tiktok_handle": "@combsjimmy",
+    "joined_at": "2023-12-05T13:43:36.946540",
+    "advocacy_programs": [
+        {
+            "program_id": "04f0f9b8-5520-49b7-ba0c-3add61afccd0",
+            "brand": "Thompson, Moss and Mayo",
+            "tasks_completed": [
+                {
+                    "task_id": "5fe5de6c-0626-4836-93b5-591818a1e9b6",
+                    "platform": "Instagram",
+                    "post_url": "http://lopez-salas.com/",
+                    "likes": 6730,
+                    "comments": 395,
+                    "shares": 14,
+                    "reach": 5155
+                }
+            ],
+            "total_sales_attributed": 7327.34
+        }
+    ]
+}

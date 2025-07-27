@@ -1,0 +1,26 @@
+{
+    "user_id": "757e05f4-b532-46ac-8559-fb9b1bfa6f0a",
+    "name": "Billy Douglas",
+    "email": "Valentina75@gmail.com",
+    "instagram_handle": "@Buford.Hyatt",
+    "tiktok_handle": "@Audrey_Kertzmann39",
+    "joined_at": "2024-05-13T18:48:08.367Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1bddb2f1-a0b0-462d-ac46-42c3899c0d75",
+            "brand": "Koepp - Raynor",
+            "tasks_completed": [
+                {
+                    "task_id": "2957f5b5-b040-4162-952c-f5ce07800995",
+                    "platform": "Instagram",
+                    "post_url": "https://monumental-summary.org",
+                    "likes": 440,
+                    "comments": 27,
+                    "shares": 56,
+                    "reach": 755
+                }
+            ],
+            "total_sales_attributed": 3671.7981460603773
+        }
+    ]
+}

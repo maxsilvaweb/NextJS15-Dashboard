@@ -1,0 +1,26 @@
+{
+    "user_id": "060bf9ac-ce3c-4c67-b033-e8904d46d204",
+    "name": "Ira Murazik",
+    "email": "Danial16@hotmail.com",
+    "instagram_handle": "@Jannie89",
+    "tiktok_handle": "@Evelyn.Tromp",
+    "joined_at": "2024-08-20T09:02:24.626Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2704649f-c466-40f9-9a4a-398846f18aa2",
+            "brand": "Pouros - Kozey",
+            "tasks_completed": [
+                {
+                    "task_id": "a14e794c-33c2-4b24-8354-5c89ed37afd6",
+                    "platform": "TikTok",
+                    "post_url": "https://impressionable-armchair.name/",
+                    "likes": 263,
+                    "comments": 7,
+                    "shares": 95,
+                    "reach": 4985
+                }
+            ],
+            "total_sales_attributed": 1430.8505117817513
+        }
+    ]
+}

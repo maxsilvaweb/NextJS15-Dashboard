@@ -1,0 +1,26 @@
+{
+    "user_id": "d180ea3e-823b-4c0d-a411-a5650d36a576",
+    "name": "Daniel Powell",
+    "email": "johnsoncharles@example.net",
+    "instagram_handle": "@burkejennifer",
+    "tiktok_handle": "@rose04",
+    "joined_at": "2024-12-11T21:19:36.476443",
+    "advocacy_programs": [
+        {
+            "program_id": "543abb8b-485a-4a0e-aff2-f613894aeadf",
+            "brand": "Dixon-Larsen",
+            "tasks_completed": [
+                {
+                    "task_id": "177f192a-233a-4e27-8663-b1631146826d",
+                    "platform": "TikTok",
+                    "post_url": "http://www.hall.net/",
+                    "likes": 5182,
+                    "comments": 307,
+                    "shares": 90,
+                    "reach": 6807
+                }
+            ],
+            "total_sales_attributed": 3638.32
+        }
+    ]
+}

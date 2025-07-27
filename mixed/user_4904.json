@@ -1,0 +1,26 @@
+{
+    "user_id": "2a560f7d-6051-4e5c-85a1-1ed048e04a71",
+    "name": "Thomas Towne Sr.",
+    "email": "Bettye.Gottlieb46@hotmail.com",
+    "instagram_handle": "@Edgardo69",
+    "tiktok_handle": "@Ryder.Heaney79",
+    "joined_at": "2024-12-27T09:35:06.033Z",
+    "advocacy_programs": [
+        {
+            "program_id": "af528a5a-1067-47c0-b5c9-7e2cf9c1b458",
+            "brand": "Lockman - Kerluke",
+            "tasks_completed": [
+                {
+                    "task_id": "ba973d12-9be5-4016-ac22-381d414619a5",
+                    "platform": "Instagram",
+                    "post_url": "https://brown-catalyst.biz/",
+                    "likes": 40,
+                    "comments": 22,
+                    "shares": 74,
+                    "reach": 3697
+                }
+            ],
+            "total_sales_attributed": 638.4540248286522
+        }
+    ]
+}

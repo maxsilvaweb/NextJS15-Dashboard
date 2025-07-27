@@ -1,0 +1,26 @@
+{
+    "user_id": "68120021-7e12-4db0-a4cd-0eaeff08d5c4",
+    "name": "James Young",
+    "email": "ariel44@example.com",
+    "instagram_handle": "@vaughnricky",
+    "tiktok_handle": "@conradkevin",
+    "joined_at": "2024-08-17T11:22:04.621022",
+    "advocacy_programs": [
+        {
+            "program_id": "7af80200-6eb0-41dd-95d8-230adc40eccd",
+            "brand": "Sosa-Peters",
+            "tasks_completed": [
+                {
+                    "task_id": "8b06bde2-af90-4823-ac51-04580ea02e30",
+                    "platform": "Instagram",
+                    "post_url": "http://www.hebert.biz/",
+                    "likes": 8192,
+                    "comments": 170,
+                    "shares": 68,
+                    "reach": 6773
+                }
+            ],
+            "total_sales_attributed": 3439.453286935033
+        }
+    ]
+}

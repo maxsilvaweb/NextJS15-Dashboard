@@ -1,0 +1,26 @@
+{
+    "user_id": "c1ae370d-ea15-4980-ad2a-34a0460e3a4a",
+    "name": "Karla O'Conner",
+    "email": "Kellie_Lebsack35@hotmail.com",
+    "instagram_handle": "@Golden.Schinner41",
+    "tiktok_handle": "@Reuben_Morar48",
+    "joined_at": "2024-07-10T22:42:58.569Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4d816a8c-3bbf-4c61-8188-36fd3218a422",
+            "brand": "O'Conner - Cartwright",
+            "tasks_completed": [
+                {
+                    "task_id": "5ce4b9bf-f45f-44a4-9eaf-b0c0b289d429",
+                    "platform": "Instagram",
+                    "post_url": "https://monstrous-premeditation.net",
+                    "likes": 440,
+                    "comments": 28,
+                    "shares": 98,
+                    "reach": 3955
+                }
+            ],
+            "total_sales_attributed": 4776.858252624257
+        }
+    ]
+}

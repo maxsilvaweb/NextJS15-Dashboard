@@ -1,0 +1,26 @@
+{
+    "user_id": "92983a79-4704-46c6-b54d-f50506fe1b90",
+    "name": "Mrs. Nina Brakus II",
+    "email": "Ludwig.Ankunding@yahoo.com",
+    "instagram_handle": "@Margarita.Hettinger35",
+    "tiktok_handle": "@Brody.Quigley",
+    "joined_at": "2025-01-14T05:23:56.759Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f6635e9d-f5ee-4d58-b580-7766a5e2c6ec",
+            "brand": "Kshlerin - Stamm",
+            "tasks_completed": [
+                {
+                    "task_id": "3dbf9440-c414-4573-acbf-682e02b2f891",
+                    "platform": "TikTok",
+                    "post_url": "https://creative-safe.biz",
+                    "likes": 281,
+                    "comments": 37,
+                    "shares": 82,
+                    "reach": 669
+                }
+            ],
+            "total_sales_attributed": 4265.086686610231
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ea882d15-68c0-4111-951d-21e386bbb323",
+    "name": "John Weaver",
+    "email": "marc96@example.com",
+    "instagram_handle": "@timothyellis",
+    "tiktok_handle": "@frankhale",
+    "joined_at": "2024-03-14T03:14:15.125422",
+    "advocacy_programs": [
+        {
+            "program_id": "f0f595c2-d687-4c56-af4a-162c3673afc6",
+            "brand": "Gomez, Smith and Barnes",
+            "tasks_completed": [
+                {
+                    "task_id": "69d1821d-5535-4440-b7df-504905706e8c",
+                    "platform": "YouTube",
+                    "post_url": "https://junior-pine.net",
+                    "likes": 154,
+                    "comments": 164,
+                    "shares": 72,
+                    "reach": 9712
+                }
+            ],
+            "total_sales_attributed": 8088.85
+        }
+    ]
+}

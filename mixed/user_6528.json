@@ -1,0 +1,26 @@
+{
+    "user_id": "4aae9e0e-92eb-4ebc-9ce2-df4cf3a4111c",
+    "name": "Amber Beck",
+    "email": "katherinewalker@example.net",
+    "instagram_handle": "@timothy78",
+    "tiktok_handle": "@kimberlysmith",
+    "joined_at": "2025-04-20T15:41:30.427562",
+    "advocacy_programs": [
+        {
+            "program_id": "bef13c3c-674e-4fea-826d-e222c768f8e6",
+            "brand": "Price, Bergstrom and Conn",
+            "tasks_completed": [
+                {
+                    "task_id": "7a2fb44a-560f-4ad6-8b71-b979520bd282",
+                    "platform": "Instagram",
+                    "post_url": "https://miller.com/",
+                    "likes": 9442,
+                    "comments": 389,
+                    "shares": 84,
+                    "reach": 9320
+                }
+            ],
+            "total_sales_attributed": 5780.52
+        }
+    ]
+}

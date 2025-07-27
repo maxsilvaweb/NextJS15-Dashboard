@@ -1,0 +1,26 @@
+{
+    "user_id": "cfc8b3ee-59ce-4506-8c2c-687be152b3ee",
+    "name": "Dr. Irving Predovic",
+    "email": "Dexter37@hotmail.com",
+    "instagram_handle": "@Samanta_Orn31",
+    "tiktok_handle": "@Lera_Will",
+    "joined_at": "2025-02-12T04:20:41.897Z",
+    "advocacy_programs": [
+        {
+            "program_id": "350c7bbd-0e43-4394-b8da-1f316ca28a66",
+            "brand": "Conn LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "abf25e33-ae81-467b-8ded-c2cc5273f7cd",
+                    "platform": "Instagram",
+                    "post_url": "https://wide-cricket.net/",
+                    "likes": 209,
+                    "comments": 29,
+                    "shares": 26,
+                    "reach": 6386
+                }
+            ],
+            "total_sales_attributed": 208.93843224381203
+        }
+    ]
+}

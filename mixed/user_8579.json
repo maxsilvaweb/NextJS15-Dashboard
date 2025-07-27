@@ -1,0 +1,26 @@
+{
+    "user_id": "7d1853e6-0612-44be-a401-aa5af3a20f3c",
+    "name": "Shannon Kuvalis",
+    "email": "Katrina.Mayer99@hotmail.com",
+    "instagram_handle": "@Wilfred39",
+    "tiktok_handle": "@Alysha81",
+    "joined_at": "2024-05-19T20:35:27.852Z",
+    "advocacy_programs": [
+        {
+            "program_id": "873d0df1-ce6b-42ac-8b96-a7677a9a3a33",
+            "brand": "Barton, Weimann and Pouros",
+            "tasks_completed": [
+                {
+                    "task_id": "935299b2-da36-4102-9798-6ffad1d12d6c",
+                    "platform": "Instagram",
+                    "post_url": "https://bogus-character.info",
+                    "likes": 139,
+                    "comments": 5,
+                    "shares": 70,
+                    "reach": 1170
+                }
+            ],
+            "total_sales_attributed": 4205.467096252039
+        }
+    ]
+}

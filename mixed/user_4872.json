@@ -1,0 +1,26 @@
+{
+    "user_id": "32912241-18b8-4799-9650-02a35a4b80b2",
+    "name": "Theresa White",
+    "email": "Hilario_Kautzer@hotmail.com",
+    "instagram_handle": "@stacymartinez",
+    "tiktok_handle": "@davisjoseph",
+    "joined_at": "2023-09-02T16:15:44.578947",
+    "advocacy_programs": [
+        {
+            "program_id": "4e3f35ef-876d-40ed-a4f5-885c45b4d9ed",
+            "brand": "Bergnaum Group",
+            "tasks_completed": [
+                {
+                    "task_id": "27ba6478-dd0f-40bb-a13c-6846e1a0000b",
+                    "platform": "TikTok",
+                    "post_url": "https://faraway-bowling.biz/",
+                    "likes": 3453,
+                    "comments": 24,
+                    "shares": 44,
+                    "reach": 3865
+                }
+            ],
+            "total_sales_attributed": 5151.27
+        }
+    ]
+}

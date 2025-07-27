@@ -1,0 +1,26 @@
+{
+    "user_id": "e4579e16-98c1-4906-8d92-9f058fb55ace",
+    "name": "Denise Warner",
+    "email": "andrew60@example.org",
+    "instagram_handle": "@aaron83",
+    "tiktok_handle": "@nunezjames",
+    "joined_at": "2025-07-15T21:51:05.498859",
+    "advocacy_programs": [
+        {
+            "program_id": "92ac2946-7f50-4a65-8df0-3b9cddd131f8",
+            "brand": "Gray LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "54359d4d-1d93-4faa-9fe2-f2932b978726",
+                    "platform": "TikTok",
+                    "post_url": "https://allen.biz/",
+                    "likes": 404,
+                    "comments": 390,
+                    "shares": 46,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2342.39
+        }
+    ]
+}

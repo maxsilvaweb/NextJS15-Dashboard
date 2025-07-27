@@ -1,0 +1,26 @@
+{
+    "user_id": "5af277f9-68b5-40a6-bbf9-2df55a5fa3af",
+    "name": "Kim Hauck",
+    "email": "Janick.Huels44@hotmail.com",
+    "instagram_handle": "@Octavia84",
+    "tiktok_handle": "@Jaqueline91",
+    "joined_at": "2024-03-28T06:46:25.519Z",
+    "advocacy_programs": [
+        {
+            "program_id": "abc1f76e-b000-420b-bae9-99508f69d739",
+            "brand": "King - Pfannerstill",
+            "tasks_completed": [
+                {
+                    "task_id": "9ea3b38f-5ed6-4cbc-8d14-9274ffb781ff",
+                    "platform": "Instagram",
+                    "post_url": "https://rotating-custom.biz/",
+                    "likes": 78,
+                    "comments": 48,
+                    "shares": 82,
+                    "reach": 5956
+                }
+            ],
+            "total_sales_attributed": 2625.9818048620095
+        }
+    ]
+}

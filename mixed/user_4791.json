@@ -1,0 +1,26 @@
+{
+    "user_id": "c452ed86-ca54-4da5-8a4f-5254c6fd4721",
+    "name": "Johanna Nienow",
+    "email": "Ana91@hotmail.com",
+    "instagram_handle": "@Johnnie38",
+    "tiktok_handle": "@Shayna.Harvey76",
+    "joined_at": "2024-07-12T23:12:38.960Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1be52d71-8ab1-4642-983a-f60efe60c9d1",
+            "brand": "Schumm LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "9fbd1602-94d5-4758-88ca-0ccd75d6e7cc",
+                    "platform": "TikTok",
+                    "post_url": "https://infatuated-alligator.info",
+                    "likes": 424,
+                    "comments": 13,
+                    "shares": 25,
+                    "reach": 1158
+                }
+            ],
+            "total_sales_attributed": 2295.728855660429
+        }
+    ]
+}

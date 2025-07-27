@@ -1,0 +1,26 @@
+{
+    "user_id": "2df25d22-51a3-4607-ae15-76b6f47d9215",
+    "name": "Stacy Botsford",
+    "email": "Americo98@gmail.com",
+    "instagram_handle": "@Alexander31",
+    "tiktok_handle": "@Reynold.Macejkovic1",
+    "joined_at": "2024-04-14T10:57:13.339Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ddac642a-f8d2-4bca-a4d4-13fae55beab0",
+            "brand": "Okuneva - McGlynn",
+            "tasks_completed": [
+                {
+                    "task_id": "3e3ddd77-6f56-4ece-a6db-9cf74aba2be5",
+                    "platform": "TikTok",
+                    "post_url": "https://profuse-linseed.net/",
+                    "likes": 120,
+                    "comments": 20,
+                    "shares": 87,
+                    "reach": 4575
+                }
+            ],
+            "total_sales_attributed": 2242.3620768954743
+        }
+    ]
+}

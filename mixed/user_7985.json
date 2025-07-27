@@ -1,0 +1,26 @@
+{
+    "user_id": "7b51dfe9-aaca-46e1-ac02-7e0ab99cd614",
+    "name": "Adam Alvarado",
+    "email": "Jensen_Pagac@hotmail.com",
+    "instagram_handle": "@rdaugherty",
+    "tiktok_handle": "@suzanne16",
+    "joined_at": "2023-12-24T19:02:46.111733",
+    "advocacy_programs": [
+        {
+            "program_id": "05ea1096-42e2-4c60-9a38-89e9ab0eeced",
+            "brand": "Kelly, Aguilar and Barker",
+            "tasks_completed": [
+                {
+                    "task_id": "12e9446e-a35a-4a8a-a4e9-f65588f12ed3",
+                    "platform": "TikTok",
+                    "post_url": "https://overdue-chairperson.name",
+                    "likes": 5873,
+                    "comments": 477,
+                    "shares": 21,
+                    "reach": 5443
+                }
+            ],
+            "total_sales_attributed": 6813.71
+        }
+    ]
+}

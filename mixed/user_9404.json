@@ -1,0 +1,26 @@
+{
+    "user_id": "6ca2cdff-dd5c-4013-a052-c4aecb692342",
+    "name": "Ashley Runte",
+    "email": "Demario.Ankunding87@hotmail.com",
+    "instagram_handle": "@Finn.Marks34",
+    "tiktok_handle": "@Suzanne_Friesen36",
+    "joined_at": "2025-01-16T00:10:33.313Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b31e649d-3f70-46a8-bc68-8526d2e1e4d3",
+            "brand": "Graham, Cassin and Shields",
+            "tasks_completed": [
+                {
+                    "task_id": "bbb019d3-5e27-4463-b82b-d3e5d808693c",
+                    "platform": "TikTok",
+                    "post_url": "https://wiggly-baritone.net",
+                    "likes": 115,
+                    "comments": 43,
+                    "shares": 43,
+                    "reach": 4031
+                }
+            ],
+            "total_sales_attributed": 1688.1876286450706
+        }
+    ]
+}

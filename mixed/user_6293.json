@@ -1,0 +1,26 @@
+{
+    "user_id": "5f68d75e-99a4-40dd-81e7-ee275de72fe0",
+    "name": "Tonya Ryan",
+    "email": "pamela88@example.org",
+    "instagram_handle": "@shawn66",
+    "tiktok_handle": "@marvinpratt",
+    "joined_at": "2024-09-10T02:23:17.230Z",
+    "advocacy_programs": [
+        {
+            "program_id": "37189e7b-82d5-4edb-bc98-59a873a627c8",
+            "brand": "Carter-Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "aa1915ec-af8f-4f95-8c84-9e60257daa97",
+                    "platform": "TikTok",
+                    "post_url": "https://foster-smith.com/",
+                    "likes": 7370,
+                    "comments": 491,
+                    "shares": 78,
+                    "reach": 4339
+                }
+            ],
+            "total_sales_attributed": 2505.77
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cabf4a97-ee79-48fd-9a58-0e3d8f14d0c2",
+    "name": "Wesley Gillespie",
+    "email": "scottbrandon@example.com",
+    "instagram_handle": "@rachellopez",
+    "tiktok_handle": "@nicholasballard",
+    "joined_at": "2024-11-13T06:44:34.204215",
+    "advocacy_programs": [
+        {
+            "program_id": "4eed87e0-df36-4edb-adc4-cafc21db5a2c",
+            "brand": "Evans-Holland",
+            "tasks_completed": [
+                {
+                    "task_id": "d139c22a-08d8-4d31-b87b-608dc5a5d01a",
+                    "platform": "Instagram",
+                    "post_url": "http://hardy.com/",
+                    "likes": 6794,
+                    "comments": 402,
+                    "shares": 10,
+                    "reach": 5059
+                }
+            ],
+            "total_sales_attributed": 4478.024469051906
+        }
+    ]
+}

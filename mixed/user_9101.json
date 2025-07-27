@@ -1,0 +1,26 @@
+{
+    "user_id": "808f567d-021c-4e21-bf73-bd9a3568b5c2",
+    "name": "Beth Medina",
+    "email": "nathanmedina@example.org",
+    "instagram_handle": "@john63",
+    "tiktok_handle": "@bondsabrina",
+    "joined_at": "2023-11-02T14:38:38.854108",
+    "advocacy_programs": [
+        {
+            "program_id": "31752cc2-238b-4b61-87f4-e7a855edd6a1",
+            "brand": "Hahn, Fleming and Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "59f8184e-a2d0-422c-a369-0ff5088e09f4",
+                    "platform": "Facebook",
+                    "post_url": "https://www.cole.net/",
+                    "likes": 21,
+                    "comments": 461,
+                    "shares": 99,
+                    "reach": 1550
+                }
+            ],
+            "total_sales_attributed": 1164.29
+        }
+    ]
+}

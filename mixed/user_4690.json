@@ -1,0 +1,26 @@
+{
+    "user_id": "17a6b161-6695-4311-ac68-eb1ddeeb4b2a",
+    "name": "Harold Keebler",
+    "email": "Jessica84@hotmail.com",
+    "instagram_handle": "@Raleigh_Krajcik91",
+    "tiktok_handle": "@Chad.Hahn69",
+    "joined_at": "2025-02-04T17:47:43.530Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5929e3b0-093e-482a-9e87-82d3767468f5",
+            "brand": "Fisher - Spinka",
+            "tasks_completed": [
+                {
+                    "task_id": "c70be028-ff16-4409-b3ff-9b8ae10b1295",
+                    "platform": "Instagram",
+                    "post_url": "https://moist-language.name/",
+                    "likes": 220,
+                    "comments": 9,
+                    "shares": 0,
+                    "reach": 3912
+                }
+            ],
+            "total_sales_attributed": 1278.251120978742
+        }
+    ]
+}

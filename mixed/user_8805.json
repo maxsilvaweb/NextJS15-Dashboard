@@ -1,0 +1,26 @@
+{
+    "user_id": "e19565ea-730e-4adb-ba0d-f143bfec11bb",
+    "name": "Christine Gonzalez",
+    "email": "stephenrodriguez@example.net",
+    "instagram_handle": "@gina58",
+    "tiktok_handle": "@christine63",
+    "joined_at": "2023-10-24T18:10:50.288779",
+    "advocacy_programs": [
+        {
+            "program_id": "42139684-03e1-4b0d-ba67-0f04bdaedb1d",
+            "brand": "Casey Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b634e035-c965-4b45-9099-55c179f20047",
+                    "platform": "Instagram",
+                    "post_url": "https://miller-steele.com/",
+                    "likes": 1360,
+                    "comments": 24,
+                    "shares": 45,
+                    "reach": 8135
+                }
+            ],
+            "total_sales_attributed": 4251.04
+        }
+    ]
+}

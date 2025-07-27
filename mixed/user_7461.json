@@ -1,0 +1,26 @@
+{
+    "user_id": "6ffc1526-d712-44cc-8518-3941636cca01",
+    "name": "Debbie Hill",
+    "email": "Rosella_Ankunding34@gmail.com",
+    "instagram_handle": "@kerrrichard",
+    "tiktok_handle": "@dsutton",
+    "joined_at": "2023-08-11T15:39:28.167689",
+    "advocacy_programs": [
+        {
+            "program_id": "c23d78f3-d168-4067-a6d1-a51d01925504",
+            "brand": "Logan Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "f92ec2c3-88a7-4f51-8218-c4d956b5bf4e",
+                    "platform": "TikTok",
+                    "post_url": "https://andrews.com/",
+                    "likes": 1820,
+                    "comments": 219,
+                    "shares": 44,
+                    "reach": 1947
+                }
+            ],
+            "total_sales_attributed": 3359.46
+        }
+    ]
+}

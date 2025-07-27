@@ -1,0 +1,26 @@
+{
+    "user_id": "eadae187-e70c-44d0-b0a3-856c331c4c8c",
+    "name": "Angel Stehr",
+    "email": "Lisa.Schuster73@gmail.com",
+    "instagram_handle": "@Nina16",
+    "tiktok_handle": "@Golden88",
+    "joined_at": "2025-01-15T23:16:48.710Z",
+    "advocacy_programs": [
+        {
+            "program_id": "03c7416a-ccdf-4994-9e24-9779a6cf12fe",
+            "brand": "Watsica - Bahringer",
+            "tasks_completed": [
+                {
+                    "task_id": "a2e18940-21b1-4962-b46f-f706c248b0e8",
+                    "platform": "Instagram",
+                    "post_url": "https://our-deer.com",
+                    "likes": 254,
+                    "comments": 11,
+                    "shares": 63,
+                    "reach": 813
+                }
+            ],
+            "total_sales_attributed": 1149.3830504494574
+        }
+    ]
+}

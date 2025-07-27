@@ -1,0 +1,26 @@
+{
+    "user_id": "6ead72c8-9af6-4e14-bd85-b7e8082a0975",
+    "name": "Keith Burke",
+    "email": "charlenesmith@example.org",
+    "instagram_handle": "@catherinecowan",
+    "tiktok_handle": "@melissabradley",
+    "joined_at": "2024-11-29T05:21:52.071670",
+    "advocacy_programs": [
+        {
+            "program_id": "494e8049-0788-4699-a1a3-20c0869b1b24",
+            "brand": "Osborn-Thompson",
+            "tasks_completed": [
+                {
+                    "task_id": "d23e882f-341c-44dd-bd29-839d6690bf4b",
+                    "platform": "Instagram",
+                    "post_url": "https://harrington.com/",
+                    "likes": 7363,
+                    "comments": 3,
+                    "shares": 0,
+                    "reach": 4733
+                }
+            ],
+            "total_sales_attributed": 1048.44
+        }
+    ]
+}

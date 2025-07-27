@@ -1,0 +1,26 @@
+{
+    "user_id": "4221634b-2581-438f-8cbd-9ea96f82da7a",
+    "name": "Valerie Taylor",
+    "email": "Donnell8@yahoo.com",
+    "instagram_handle": "@ssherman",
+    "tiktok_handle": "@smartinez",
+    "joined_at": "2024-06-01T13:46:26.361Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1497b279-b492-4507-ac8d-00ab99d33c5b",
+            "brand": "Ramsey-Blankenship",
+            "tasks_completed": [
+                {
+                    "task_id": "570fe856-97c8-449d-ba1f-69642cfe7f63",
+                    "platform": "Instagram",
+                    "post_url": "https://foolish-boyfriend.name/",
+                    "likes": 5120,
+                    "comments": 440,
+                    "shares": 55,
+                    "reach": 6777
+                }
+            ],
+            "total_sales_attributed": 2948.5880903993975
+        }
+    ]
+}

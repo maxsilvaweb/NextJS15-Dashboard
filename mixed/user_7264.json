@@ -1,0 +1,26 @@
+{
+    "user_id": "65a9d216-d8f6-4bf0-9cf2-241bfef526cf",
+    "name": "Nicholas Moen Jr.",
+    "email": "Santa.Reichert-Corwin@gmail.com",
+    "instagram_handle": "@Jannie_Wehner",
+    "tiktok_handle": "@Estevan_Littel23",
+    "joined_at": "2024-10-29T15:11:33.951Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f9e4f746-7f8f-4e0f-b465-bc7c8c13c27d",
+            "brand": "Ledner, Weber and Hettinger",
+            "tasks_completed": [
+                {
+                    "task_id": "f6ecdfd6-0427-4041-b666-5bb71c879035",
+                    "platform": "TikTok",
+                    "post_url": "https://soft-barracks.biz",
+                    "likes": 252,
+                    "comments": 10,
+                    "shares": 95,
+                    "reach": 4225
+                }
+            ],
+            "total_sales_attributed": 2798.478316597961
+        }
+    ]
+}

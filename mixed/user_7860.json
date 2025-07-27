@@ -1,0 +1,26 @@
+{
+    "user_id": "0ce31c31-3d86-4e96-bd05-7f757eb91107",
+    "name": "Cornelius Turcotte-Bailey",
+    "email": "Baylee.Schamberger@gmail.com",
+    "instagram_handle": "@Broderick_Swift77",
+    "tiktok_handle": "@Victor.Hansen80",
+    "joined_at": "2024-10-13T01:43:38.645Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b1af4f8a-30a5-4f82-919e-4fa2f57853ea",
+            "brand": "Legros - Reinger",
+            "tasks_completed": [
+                {
+                    "task_id": "25655563-8b43-41cf-906c-5a0080a0dd70",
+                    "platform": "Instagram",
+                    "post_url": "https://dismal-seafood.org",
+                    "likes": 29,
+                    "comments": 36,
+                    "shares": 93,
+                    "reach": 510
+                }
+            ],
+            "total_sales_attributed": 2224.3409020717463
+        }
+    ]
+}

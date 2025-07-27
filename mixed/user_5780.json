@@ -1,0 +1,26 @@
+{
+    "user_id": "a6c46517-a534-4b82-820e-3cb95973ae92",
+    "name": "Allison Rice",
+    "email": "tiffany09@example.org",
+    "instagram_handle": "@warrenstephanie",
+    "tiktok_handle": "@ronaldwallace",
+    "joined_at": "2025-03-25T06:31:35.819320",
+    "advocacy_programs": [
+        {
+            "program_id": "a958a5bd-b274-401a-a241-c65edfe24e2e",
+            "brand": "King Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "306c5dbc-f04d-4383-8648-c53883064b05",
+                    "platform": "YouTube",
+                    "post_url": "https://bowers.net/",
+                    "likes": 7262,
+                    "comments": 237,
+                    "shares": 97,
+                    "reach": 3433
+                }
+            ],
+            "total_sales_attributed": 3889.833098443482
+        }
+    ]
+}

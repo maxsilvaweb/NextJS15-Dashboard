@@ -1,0 +1,26 @@
+{
+    "user_id": "98b3ab02-8cf1-481c-a38a-4d298877fffe",
+    "name": "Christopher Bashirian",
+    "email": "Bernardo_Bogisich@gmail.com",
+    "instagram_handle": "@Nikki.Prohaska-Kohler84",
+    "tiktok_handle": "@Reanna.Keeling-Sanford89",
+    "joined_at": "2024-10-14T06:18:14.106Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a6080cc1-e3cc-4c1f-aa36-b6b63101ea2a",
+            "brand": "Von - Rolfson",
+            "tasks_completed": [
+                {
+                    "task_id": "f37203ce-200e-4d97-9868-f9ae9c4b6ce1",
+                    "platform": "TikTok",
+                    "post_url": "https://self-assured-diagram.biz",
+                    "likes": 200,
+                    "comments": 30,
+                    "shares": 16,
+                    "reach": 4550
+                }
+            ],
+            "total_sales_attributed": 2432.4183748593946
+        }
+    ]
+}

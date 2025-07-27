@@ -1,0 +1,26 @@
+{
+    "user_id": "d0ef6b1c-1ea3-473e-acd9-5aee6e83f95e",
+    "name": "Lori Hernandez",
+    "email": "jcarr@example.org",
+    "instagram_handle": "@ucoleman",
+    "tiktok_handle": "@claytonwright",
+    "joined_at": "2024-09-01T18:49:03.361480",
+    "advocacy_programs": [
+        {
+            "program_id": "26302594-e6fe-4c78-a878-865526f60512",
+            "brand": "Huerta, Green and Gutierrez",
+            "tasks_completed": [
+                {
+                    "task_id": "cbd15eac-e592-4262-ac74-127f09e84417",
+                    "platform": "Instagram",
+                    "post_url": "http://www.garner-briggs.com/",
+                    "likes": 2976,
+                    "comments": 137,
+                    "shares": 92,
+                    "reach": 9167
+                }
+            ],
+            "total_sales_attributed": 1474.8
+        }
+    ]
+}

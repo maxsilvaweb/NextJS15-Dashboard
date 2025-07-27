@@ -1,0 +1,26 @@
+{
+    "user_id": "40498747-43e1-46d0-8297-983deb5f6a31",
+    "name": "Louise Stanton",
+    "email": "Roberta85@yahoo.com",
+    "instagram_handle": "@Winnifred44",
+    "tiktok_handle": "@Dagmar.Wehner",
+    "joined_at": "2025-01-26T03:45:41.248Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cf5536b4-e922-4bad-a8c0-400ca37bbe0e",
+            "brand": "Jacobson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "01d21395-0c5f-401d-985a-731c169bff5b",
+                    "platform": "TikTok",
+                    "post_url": "https://fortunate-fit.info",
+                    "likes": 31,
+                    "comments": 42,
+                    "shares": 45,
+                    "reach": 4101
+                }
+            ],
+            "total_sales_attributed": 4417.725708790792
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "946ef920-acd2-4fa5-98a3-043a5c0e797d",
+    "name": "Christopher Harvey",
+    "email": "sarah11@example.net",
+    "instagram_handle": "@michelleterrell",
+    "tiktok_handle": "@melissa80",
+    "joined_at": "2023-09-23T04:22:45.757869",
+    "advocacy_programs": [
+        {
+            "program_id": "6eeca2b0-b9db-4fb8-8dab-dc442d8af72e",
+            "brand": "Nguyen-Peters",
+            "tasks_completed": [
+                {
+                    "task_id": "5109bc80-ab02-4d30-96c7-866ff323328c",
+                    "platform": "TikTok",
+                    "post_url": "https://specific-elver.net",
+                    "likes": 9838,
+                    "comments": 115,
+                    "shares": 12,
+                    "reach": 9256
+                }
+            ],
+            "total_sales_attributed": 8041.06
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c6254343-92b7-4c89-9de5-069aeb95afb4",
+    "name": "Emanuel Pagac",
+    "email": "Tyree_Lang78@gmail.com",
+    "instagram_handle": "@Osvaldo.Kertzmann",
+    "tiktok_handle": "@Nelda.Wolf6",
+    "joined_at": "2025-03-13T11:23:34.839Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a60c4a20-6de3-40e3-bdc2-c1dd69a24c96",
+            "brand": "Bradtke - Koepp",
+            "tasks_completed": [
+                {
+                    "task_id": "8cae9fc8-bcb5-4daf-962c-cae25842afdf",
+                    "platform": "Instagram",
+                    "post_url": "https://rusty-igloo.org",
+                    "likes": 474,
+                    "comments": 9,
+                    "shares": 43,
+                    "reach": 3208
+                }
+            ],
+            "total_sales_attributed": 2025.8870004123162
+        }
+    ]
+}

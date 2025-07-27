@@ -1,0 +1,26 @@
+{
+    "user_id": "8bf43d39-04ae-4c5e-a3c3-8cb8a0b19ec1",
+    "name": "Marvin Ferry",
+    "email": "Camron.Maggio@yahoo.com",
+    "instagram_handle": "@Eda63",
+    "tiktok_handle": "@Breana_Ward",
+    "joined_at": "2025-02-08T05:01:16.590Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f88b26cd-bcf3-475f-9f1f-cc9121e3af94",
+            "brand": "Feest, Borer and Kozey",
+            "tasks_completed": [
+                {
+                    "task_id": "370d0e96-4dfa-4838-a29a-7067401efc0b",
+                    "platform": "Instagram",
+                    "post_url": "https://failing-window.net/",
+                    "likes": 447,
+                    "comments": 6,
+                    "shares": 57,
+                    "reach": 2921
+                }
+            ],
+            "total_sales_attributed": 4564.1152992976295
+        }
+    ]
+}

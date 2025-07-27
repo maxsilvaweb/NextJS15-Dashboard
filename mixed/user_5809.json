@@ -1,0 +1,26 @@
+{
+    "user_id": "d5f0a797-5418-4f04-b5f3-928a5bcd08dc",
+    "name": "Lisa Smith",
+    "email": "brandon60@example.net",
+    "instagram_handle": "@kristinshea",
+    "tiktok_handle": "@brittanyhoward",
+    "joined_at": "2025-04-17T19:12:21.183655",
+    "advocacy_programs": [
+        {
+            "program_id": "15c407b4-4bda-411c-a8f4-b4ada5465e7b",
+            "brand": "Washington, Clark and Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "255ad29b-a014-49bc-936b-a641ba0d8837",
+                    "platform": "TikTok",
+                    "post_url": "http://austin-garza.com/",
+                    "likes": 8187,
+                    "comments": 136,
+                    "shares": 48,
+                    "reach": 2540
+                }
+            ],
+            "total_sales_attributed": 5769.44
+        }
+    ]
+}

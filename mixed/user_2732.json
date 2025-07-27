@@ -1,0 +1,26 @@
+{
+    "user_id": "07518bb6-c329-4a84-978b-00bc8c901d1a",
+    "name": "Raymond Hintz",
+    "email": "Grace31@yahoo.com",
+    "instagram_handle": "@Jane_Rosenbaum52",
+    "tiktok_handle": "@Alysa_Waters",
+    "joined_at": "2024-03-27T14:36:29.571Z",
+    "advocacy_programs": [
+        {
+            "program_id": "07093c4e-33e3-436f-8af3-1111bece31c3",
+            "brand": "Carroll - Cronin",
+            "tasks_completed": [
+                {
+                    "task_id": "c7e5a301-5ab9-432a-b641-2b8b9fced4cd",
+                    "platform": "Instagram",
+                    "post_url": "https://rundown-provider.biz/",
+                    "likes": 128,
+                    "comments": 46,
+                    "shares": 100,
+                    "reach": 3691
+                }
+            ],
+            "total_sales_attributed": 879.9273432218811
+        }
+    ]
+}

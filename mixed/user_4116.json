@@ -1,0 +1,26 @@
+{
+    "user_id": "43891554-1058-4396-a971-9addc7b6d2e5",
+    "name": "Erick Barton",
+    "email": "Adrien0@yahoo.com",
+    "instagram_handle": "@Frederique_Paucek",
+    "tiktok_handle": "@Betty93",
+    "joined_at": "2024-08-24T18:18:12.955Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8c72ded2-c476-4c01-9ef1-4aa72d9d991d",
+            "brand": "Emard - Lubowitz",
+            "tasks_completed": [
+                {
+                    "task_id": "c989a7a4-06d4-410b-befb-1232f6990dd5",
+                    "platform": "TikTok",
+                    "post_url": "https://uncomfortable-membership.com",
+                    "likes": 262,
+                    "comments": 17,
+                    "shares": 35,
+                    "reach": 813
+                }
+            ],
+            "total_sales_attributed": 1711.561714790516
+        }
+    ]
+}

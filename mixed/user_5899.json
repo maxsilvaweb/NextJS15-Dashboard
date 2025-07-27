@@ -1,0 +1,26 @@
+{
+    "user_id": "a509b684-5cb2-4a7e-83b8-1a9671230fba",
+    "name": "Steven Perez",
+    "email": "david92@example.com",
+    "instagram_handle": "@vsmith",
+    "tiktok_handle": "@tjohnson",
+    "joined_at": "2023-10-26T19:21:08.691347",
+    "advocacy_programs": [
+        {
+            "program_id": "55c0e149-84db-4f2b-b3fe-f9c22b456f9d",
+            "brand": "White-Ashley",
+            "tasks_completed": [
+                {
+                    "task_id": "24f884bd-6893-44ac-b187-db46e6624b81",
+                    "platform": "TikTok",
+                    "post_url": "https://rodriguez-solomon.net/",
+                    "likes": 5784,
+                    "comments": 9,
+                    "shares": 25,
+                    "reach": 3589
+                }
+            ],
+            "total_sales_attributed": 2588.35
+        }
+    ]
+}

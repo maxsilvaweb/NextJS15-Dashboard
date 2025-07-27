@@ -1,0 +1,26 @@
+{
+    "user_id": "fef859e3-e286-4f59-b410-bf2034af4cf2",
+    "name": "Rebecca Bishop",
+    "email": "cgomez@example.org",
+    "instagram_handle": "@hannahjohnson",
+    "tiktok_handle": "@mason82",
+    "joined_at": "2023-11-21T19:08:29.769227",
+    "advocacy_programs": [
+        {
+            "program_id": "f903dc55-c940-4eb2-aa4a-72b399ce5816",
+            "brand": "Anderson, Holmes and Bird",
+            "tasks_completed": [
+                {
+                    "task_id": "6482784b-e321-43f6-b9d5-ec19c7593e02",
+                    "platform": "YouTube",
+                    "post_url": "https://curly-seafood.info/",
+                    "likes": 226,
+                    "comments": 471,
+                    "shares": 86,
+                    "reach": 9266
+                }
+            ],
+            "total_sales_attributed": 3014.13
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d99fb09f-58ce-478f-adb0-6ea9384342fc",
+    "name": "John Beasley",
+    "email": "stonenathan@example.org",
+    "instagram_handle": "@gregory81",
+    "tiktok_handle": "@wwalton",
+    "joined_at": "2023-10-11T07:16:51.853497",
+    "advocacy_programs": [
+        {
+            "program_id": "da0a3de8-4ea4-41ea-857a-db3f4448aa29",
+            "brand": "Flores and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "f613f948-47a7-4c91-aa30-c878ff680f79",
+                    "platform": "Instagram",
+                    "post_url": "https://www.page.com/",
+                    "likes": 4978,
+                    "comments": 121,
+                    "shares": 79,
+                    "reach": 9801
+                }
+            ],
+            "total_sales_attributed": 1503.56
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a7023db1-4f4c-40f6-9e74-bdc16aef5acf",
+    "name": "David Lozano",
+    "email": "erika58@example.org",
+    "instagram_handle": "@bethanythomas",
+    "tiktok_handle": "@ellisbrenda",
+    "joined_at": "2024-10-10T23:53:17.811516",
+    "advocacy_programs": [
+        {
+            "program_id": "5e4febb5-e8fb-4a95-b7ec-53678cf3be67",
+            "brand": "Horton and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "57c7f4ac-d55b-405b-a1e7-e3eba7bfae9c",
+                    "platform": "Instagram",
+                    "post_url": "http://www.delgado.biz/",
+                    "likes": 9705,
+                    "comments": 296,
+                    "shares": 42,
+                    "reach": 534
+                }
+            ],
+            "total_sales_attributed": 9824.0
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b35f4821-01ab-42f2-b8c8-ebfb36472120",
+    "name": "Stephanie Simpson",
+    "email": "gabriellereese@example.net",
+    "instagram_handle": "@robert98",
+    "tiktok_handle": "@martinfrank",
+    "joined_at": "2024-04-13T05:09:48.771430",
+    "advocacy_programs": [
+        {
+            "program_id": "9c09d1c9-8a15-497e-8fd9-766ae662e5fa",
+            "brand": "Webb-Woods",
+            "tasks_completed": [
+                {
+                    "task_id": "8067b670-4a1c-4667-a25b-f830bac57425",
+                    "platform": "Instagram",
+                    "post_url": "http://swanson.org/",
+                    "likes": 7489,
+                    "comments": 269,
+                    "shares": 75,
+                    "reach": 3637
+                }
+            ],
+            "total_sales_attributed": 694.26
+        }
+    ]
+}

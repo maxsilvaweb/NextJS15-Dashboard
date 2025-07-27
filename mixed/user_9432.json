@@ -1,0 +1,26 @@
+{
+    "user_id": "d74ce2f3-2535-4d44-8d98-50fa4a344181",
+    "name": "Lucille Cole",
+    "email": "scottgarcia@example.net",
+    "instagram_handle": "@ypatterson",
+    "tiktok_handle": "@ibaxter",
+    "joined_at": "2025-03-04T20:12:40.736Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8eb628fd-f65b-4621-93ab-334c20afed60",
+            "brand": "Anderson, Morgan and Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "8d4f8d00-d196-46cb-b113-4ff6ec7c2ac0",
+                    "platform": "YouTube",
+                    "post_url": "https://yellow-formamide.com/",
+                    "likes": 3404,
+                    "comments": 277,
+                    "shares": 53,
+                    "reach": 3619
+                }
+            ],
+            "total_sales_attributed": 2056.38
+        }
+    ]
+}

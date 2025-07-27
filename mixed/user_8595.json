@@ -1,0 +1,26 @@
+{
+    "user_id": "31a55559-fb61-413d-8653-c880ce1ddd2e",
+    "name": "Amanda Rowe",
+    "email": "Elroy25@hotmail.com",
+    "instagram_handle": "@vturner",
+    "tiktok_handle": "@stacysmith",
+    "joined_at": "2024-10-31T12:08:09.679053",
+    "advocacy_programs": [
+        {
+            "program_id": "15a34757-f653-4fea-81fe-bfb1e4e86b51",
+            "brand": "Smith, Harper and Perez",
+            "tasks_completed": [
+                {
+                    "task_id": "8052144b-a926-48ca-8530-59d7343a47f9",
+                    "platform": "TikTok",
+                    "post_url": "https://quick-witted-term.name/",
+                    "likes": 2368,
+                    "comments": 412,
+                    "shares": 85,
+                    "reach": 4457
+                }
+            ],
+            "total_sales_attributed": 609.43
+        }
+    ]
+}

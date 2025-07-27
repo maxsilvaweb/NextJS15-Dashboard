@@ -1,0 +1,26 @@
+{
+    "user_id": "0109fe92-d391-4025-bb3a-b4a4d07ad535",
+    "name": "Glen Borer",
+    "email": "Wilford.Blanda81@gmail.com",
+    "instagram_handle": "@Audreanne.Upton",
+    "tiktok_handle": "@Adalberto2",
+    "joined_at": "2024-07-10T23:29:15.119Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2be2131a-9546-4bd3-99d3-30282fb89ed2",
+            "brand": "Price Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "144a4ebb-d4d3-4b51-908b-01a9922b2e17",
+                    "platform": "TikTok",
+                    "post_url": "https://honored-premise.biz/",
+                    "likes": 253,
+                    "comments": 42,
+                    "shares": 99,
+                    "reach": 6503
+                }
+            ],
+            "total_sales_attributed": 4945.199280465534
+        }
+    ]
+}

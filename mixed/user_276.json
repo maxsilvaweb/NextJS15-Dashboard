@@ -1,0 +1,26 @@
+{
+    "user_id": "17eab16f-95ee-45d7-9624-75a4414b83c7",
+    "name": "Mrs. Yvonne Carroll",
+    "email": "Fatima64@gmail.com",
+    "instagram_handle": "@Emil_Legros89",
+    "tiktok_handle": "@Tevin_Larkin",
+    "joined_at": "2024-04-15T11:28:04.411Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6f0bb684-90f7-44f2-9f3e-d6a1bf75b6b3",
+            "brand": "Murazik - Rolfson",
+            "tasks_completed": [
+                {
+                    "task_id": "46eb7061-a194-409e-8dd2-9530d665d2d4",
+                    "platform": "Instagram",
+                    "post_url": "https://frightened-thigh.info/",
+                    "likes": 230,
+                    "comments": 6,
+                    "shares": 8,
+                    "reach": 642
+                }
+            ],
+            "total_sales_attributed": 1047.958872924066
+        }
+    ]
+}

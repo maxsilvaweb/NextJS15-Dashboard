@@ -1,0 +1,26 @@
+{
+    "user_id": "96906bdc-dd37-40d8-8328-4a20f4075eb7",
+    "name": "Mr. Dallas Kemmer",
+    "email": "Josue41@hotmail.com",
+    "instagram_handle": "@Oma.Jones",
+    "tiktok_handle": "@Thomas48",
+    "joined_at": "2024-09-06T02:05:11.567Z",
+    "advocacy_programs": [
+        {
+            "program_id": "23cd9fd4-9941-4b0b-9ee4-49a825810b24",
+            "brand": "Jacobi, McCullough and Herman",
+            "tasks_completed": [
+                {
+                    "task_id": "2a882d7c-cac2-48f3-96fc-d14842984b6a",
+                    "platform": "Instagram",
+                    "post_url": "https://entire-pigpen.biz/",
+                    "likes": 412,
+                    "comments": 41,
+                    "shares": 58,
+                    "reach": 9747
+                }
+            ],
+            "total_sales_attributed": 2013.7268099509565
+        }
+    ]
+}

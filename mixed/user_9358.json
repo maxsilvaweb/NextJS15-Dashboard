@@ -1,0 +1,26 @@
+{
+    "user_id": "ebded754-953a-456c-8224-6da9aa3489ec",
+    "name": "Mr. Hector Brown",
+    "email": "Linwood44@gmail.com",
+    "instagram_handle": "@arroyosara",
+    "tiktok_handle": "@Wyatt_Lynch",
+    "joined_at": "2024-11-10T15:56:09.854717",
+    "advocacy_programs": [
+        {
+            "program_id": "57619e37-d1ae-4b7b-81a4-1d662c68f5af",
+            "brand": "Bell Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "ef181ef8-8915-488e-a6e6-45b745e471b0",
+                    "platform": "TikTok",
+                    "post_url": "http://evans.com/",
+                    "likes": 7196,
+                    "comments": 99,
+                    "shares": 37,
+                    "reach": 8530
+                }
+            ],
+            "total_sales_attributed": 9648.47
+        }
+    ]
+}

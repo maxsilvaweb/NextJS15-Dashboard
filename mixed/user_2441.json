@@ -1,0 +1,26 @@
+{
+    "user_id": "b9e7b213-f86a-4487-921f-9ce485d1a126",
+    "name": "Jennifer Brock",
+    "email": "gguerrero@example.net",
+    "instagram_handle": "@brownbrandi",
+    "tiktok_handle": "@marciabooker",
+    "joined_at": "2025-03-16T05:44:05.011701",
+    "advocacy_programs": [
+        {
+            "program_id": "3d26641b-b095-4eae-b447-413a6493ea3e",
+            "brand": "Jackson, Robinson and Nelson",
+            "tasks_completed": [
+                {
+                    "task_id": "f17668ec-ce2e-4365-afce-0166694dd467",
+                    "platform": "TikTok",
+                    "post_url": "http://www.myers-white.biz/",
+                    "likes": 3891,
+                    "comments": 491,
+                    "shares": 40,
+                    "reach": 8708
+                }
+            ],
+            "total_sales_attributed": 8717.38
+        }
+    ]
+}

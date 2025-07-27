@@ -1,0 +1,26 @@
+{
+    "user_id": "8a9aa001-083a-4adb-9cd0-33f115ddc254",
+    "name": "Olga Simonis",
+    "email": "Dallin.Feil@yahoo.com",
+    "instagram_handle": "@Cesar_Lang69",
+    "tiktok_handle": "@Rachelle26",
+    "joined_at": "2025-01-15T01:03:21.853Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6ba16124-09c3-47b0-b6e0-6d1fd4d08a99",
+            "brand": "Pfannerstill - Marks",
+            "tasks_completed": [
+                {
+                    "task_id": "fd08a639-3c9f-4165-bb17-95ad4ddd445d",
+                    "platform": "Instagram",
+                    "post_url": "https://mindless-deck.net/",
+                    "likes": 111,
+                    "comments": 37,
+                    "shares": 32,
+                    "reach": 1552
+                }
+            ],
+            "total_sales_attributed": 188.3413725592831
+        }
+    ]
+}

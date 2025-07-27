@@ -1,0 +1,26 @@
+{
+    "user_id": "d49e68fc-ff61-420e-8212-38cf3fa1ea69",
+    "name": "Miss Shelly Kassulke",
+    "email": "Toni.Willms76@hotmail.com",
+    "instagram_handle": "@Nellie_Hegmann15",
+    "tiktok_handle": "@Karianne.Dietrich3",
+    "joined_at": "2024-08-20T09:39:11.914Z",
+    "advocacy_programs": [
+        {
+            "program_id": "aba00728-9565-43a1-a275-2da69c13033f",
+            "brand": "Johnson Group",
+            "tasks_completed": [
+                {
+                    "task_id": "1b06b927-64d4-4fe6-b921-14b342b42fac",
+                    "platform": "Instagram",
+                    "post_url": "https://straight-aftermath.net/",
+                    "likes": 62,
+                    "comments": 2,
+                    "shares": 88,
+                    "reach": 5459
+                }
+            ],
+            "total_sales_attributed": 4513.428903090359
+        }
+    ]
+}

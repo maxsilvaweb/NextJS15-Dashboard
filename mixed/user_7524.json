@@ -1,0 +1,26 @@
+{
+    "user_id": "37a3eaa1-c439-444b-b002-7d2e7fa34c70",
+    "name": "Adam Chan",
+    "email": "vmonroe@example.com",
+    "instagram_handle": "@ramirezrodney",
+    "tiktok_handle": "@sabrinastevenson",
+    "joined_at": "2024-05-12T19:13:58.500678",
+    "advocacy_programs": [
+        {
+            "program_id": "3992b114-34a5-45cb-b6a9-da1d836a7fc1",
+            "brand": "Boyle Group",
+            "tasks_completed": [
+                {
+                    "task_id": "f5920606-655c-4f29-8888-90cbc4040c15",
+                    "platform": "Twitter",
+                    "post_url": "https://www.diaz.com/",
+                    "likes": 3732,
+                    "comments": 71,
+                    "shares": 14,
+                    "reach": 4239
+                }
+            ],
+            "total_sales_attributed": 1056.22
+        }
+    ]
+}

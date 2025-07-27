@@ -1,0 +1,26 @@
+{
+    "user_id": "a7867776-cd64-414a-83b2-e37c78307d7d",
+    "name": "Sylvester Brakus",
+    "email": "Rowena.Marquardt77@gmail.com",
+    "instagram_handle": "@Austyn52",
+    "tiktok_handle": "@Bulah.Schuppe93",
+    "joined_at": "2024-05-09T07:55:07.590Z",
+    "advocacy_programs": [
+        {
+            "program_id": "38b24274-4ee4-41f6-b68b-531e7a96725e",
+            "brand": "Pouros Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "82677d91-f0b0-4c9e-a99a-4e08f73e5fd9",
+                    "platform": "TikTok",
+                    "post_url": "https://clueless-numeracy.com",
+                    "likes": 471,
+                    "comments": 20,
+                    "shares": 65,
+                    "reach": 2060
+                }
+            ],
+            "total_sales_attributed": 1624.909983526466
+        }
+    ]
+}

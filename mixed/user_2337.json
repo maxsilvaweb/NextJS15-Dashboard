@@ -1,0 +1,26 @@
+{
+    "user_id": "f376634c-f9b8-43e9-a556-692d7299ee35",
+    "name": "Mrs. Eva Durgan",
+    "email": "Abdiel.Bahringer1@yahoo.com",
+    "instagram_handle": "@Madisyn.Beahan85",
+    "tiktok_handle": "@Mathilde.Ruecker52",
+    "joined_at": "2024-06-05T20:41:17.238Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7f9931e3-917f-4eff-8d30-305955bdb478",
+            "brand": "Zemlak, Beier and Weimann",
+            "tasks_completed": [
+                {
+                    "task_id": "abd05e86-953f-42c6-982d-914e5a1b85cd",
+                    "platform": "Instagram",
+                    "post_url": "https://early-crocodile.info/",
+                    "likes": 69,
+                    "comments": 13,
+                    "shares": 56,
+                    "reach": 4754
+                }
+            ],
+            "total_sales_attributed": 3987.70658510911
+        }
+    ]
+}

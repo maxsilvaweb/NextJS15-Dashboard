@@ -1,0 +1,26 @@
+{
+    "user_id": "d5e43b36-ca9d-470c-9cc1-4b73f072f1df",
+    "name": "Abraham Greenholt",
+    "email": "Kade_Little@gmail.com",
+    "instagram_handle": "@Jordyn3",
+    "tiktok_handle": "@Ewell_Schimmel",
+    "joined_at": "2025-02-15T05:15:37.424Z",
+    "advocacy_programs": [
+        {
+            "program_id": "554154a7-7a36-4526-95d8-937692cdabf5",
+            "brand": "Blanda - Feil",
+            "tasks_completed": [
+                {
+                    "task_id": "1226cfaa-445a-4137-97bb-bd2de9fddb90",
+                    "platform": "TikTok",
+                    "post_url": "https://woeful-equal.com/",
+                    "likes": 272,
+                    "comments": 7,
+                    "shares": 84,
+                    "reach": 9512
+                }
+            ],
+            "total_sales_attributed": 4512.872104842922
+        }
+    ]
+}

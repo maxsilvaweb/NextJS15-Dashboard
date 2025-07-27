@@ -1,0 +1,26 @@
+{
+    "user_id": "402323bc-798c-482a-9952-666d0c8984c1",
+    "name": "Mikayla Miller",
+    "email": "saranguyen@example.com",
+    "instagram_handle": "@nelsonnancy",
+    "tiktok_handle": "@evansjennifer",
+    "joined_at": "2024-08-14T18:23:48.726452",
+    "advocacy_programs": [
+        {
+            "program_id": "a9d86b97-633f-4cc6-9e48-743aece39366",
+            "brand": "Campbell-Phillips",
+            "tasks_completed": [
+                {
+                    "task_id": "36a12ceb-6b97-476c-9cd6-f12c9516d12a",
+                    "platform": "Facebook",
+                    "post_url": "https://www.hernandez.com/",
+                    "likes": 9189,
+                    "comments": 419,
+                    "shares": 33,
+                    "reach": 1638
+                }
+            ],
+            "total_sales_attributed": 8004.03
+        }
+    ]
+}

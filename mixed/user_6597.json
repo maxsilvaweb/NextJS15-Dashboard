@@ -1,0 +1,26 @@
+{
+    "user_id": "c911b957-a118-4498-bf62-93ba4768174a",
+    "name": "Janet Ziemann",
+    "email": "Titus.Dickinson@gmail.com",
+    "instagram_handle": "@Mya53",
+    "tiktok_handle": "@Eleanore80",
+    "joined_at": "2024-10-16T21:25:42.941Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a0cf634b-ec4c-49dd-b73c-dc11fb0e6b06",
+            "brand": "Streich - Dietrich",
+            "tasks_completed": [
+                {
+                    "task_id": "0b34200d-3116-474b-9d1d-e5797f3de52e",
+                    "platform": "Instagram",
+                    "post_url": "https://usable-dash.net/",
+                    "likes": 419,
+                    "comments": 20,
+                    "shares": 96,
+                    "reach": 657
+                }
+            ],
+            "total_sales_attributed": 2596.389227589981
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3821de9e-81b0-4db0-80e5-4f96480b01fb",
+    "name": "Steven Schiller",
+    "email": "Henriette_Ledner21@hotmail.com",
+    "instagram_handle": "@Lamar_Fritsch10",
+    "tiktok_handle": "@Krista.King29",
+    "joined_at": "2024-03-22T17:55:38.242Z",
+    "advocacy_programs": [
+        {
+            "program_id": "51ed694b-67c3-4968-b04c-a0fe08f99b6a",
+            "brand": "Christiansen, Cronin and Sawayn",
+            "tasks_completed": [
+                {
+                    "task_id": "4ffc4321-b92c-4330-8eb3-733007d948e7",
+                    "platform": "Instagram",
+                    "post_url": "https://dental-corporation.name/",
+                    "likes": 494,
+                    "comments": 19,
+                    "shares": 13,
+                    "reach": 7193
+                }
+            ],
+            "total_sales_attributed": 2883.6070687131755
+        }
+    ]
+}

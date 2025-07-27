@@ -1,0 +1,26 @@
+{
+    "user_id": "1b712d79-3085-4ca3-a88a-8e19261c7c5e",
+    "name": "Joan Lewis",
+    "email": "thomasherring@example.net",
+    "instagram_handle": "@mark70",
+    "tiktok_handle": "@jessicamartinez",
+    "joined_at": "2024-10-06T13:22:54.517Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ef0e1b35-204a-437e-83f9-10dcd89cd844",
+            "brand": "Mills, Martin and Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "dd3d214c-d7dc-4289-8837-ca9773cf22b3",
+                    "platform": "TikTok",
+                    "post_url": "http://www.pruitt-barry.org/",
+                    "likes": 6947,
+                    "comments": 37,
+                    "shares": 22,
+                    "reach": 3832
+                }
+            ],
+            "total_sales_attributed": 2847.99
+        }
+    ]
+}

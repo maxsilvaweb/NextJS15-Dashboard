@@ -1,0 +1,26 @@
+{
+    "user_id": "d72d5460-7985-49f4-b8e2-36916b0cec50",
+    "name": "Jessica Lewis",
+    "email": "Theodora77@gmail.com",
+    "instagram_handle": "@jacqueline67",
+    "tiktok_handle": "@victoriaatkinson",
+    "joined_at": "2025-02-24T21:46:29.754080",
+    "advocacy_programs": [
+        {
+            "program_id": "1f940b6b-0c2a-4d39-83f9-24683118d1d9",
+            "brand": "Johnson, Peterson and Reynolds",
+            "tasks_completed": [
+                {
+                    "task_id": "3d4897c3-f80a-4eb0-825a-4c81b591a645",
+                    "platform": "TikTok",
+                    "post_url": "http://hanna.org/",
+                    "likes": 7953,
+                    "comments": 44,
+                    "shares": 65,
+                    "reach": 6343
+                }
+            ],
+            "total_sales_attributed": 7514.92
+        }
+    ]
+}

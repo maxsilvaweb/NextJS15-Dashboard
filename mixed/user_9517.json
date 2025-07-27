@@ -1,0 +1,26 @@
+{
+    "user_id": "d1abaf69-c5a3-4268-9ab2-587a6e7a6aff",
+    "name": "Angel Greenfelder",
+    "email": "Alice13@yahoo.com",
+    "instagram_handle": "@Lilliana91",
+    "tiktok_handle": "@Rubie.Rau",
+    "joined_at": "2025-02-12T20:09:11.306Z",
+    "advocacy_programs": [
+        {
+            "program_id": "28195ec3-6088-4473-810c-213f4ae859fc",
+            "brand": "Donnelly - Swaniawski",
+            "tasks_completed": [
+                {
+                    "task_id": "dcdb1019-06bc-4e47-b553-e42eddee4863",
+                    "platform": "TikTok",
+                    "post_url": "https://enlightened-backbone.biz",
+                    "likes": 327,
+                    "comments": 5,
+                    "shares": 13,
+                    "reach": 742
+                }
+            ],
+            "total_sales_attributed": 4773.72211889553
+        }
+    ]
+}

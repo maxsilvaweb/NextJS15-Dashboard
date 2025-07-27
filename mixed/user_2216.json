@@ -1,0 +1,26 @@
+{
+    "user_id": "7b1b5f38-fc3a-4af5-8a46-bf621b085e51",
+    "name": "Jeffrey Pena",
+    "email": "williamcunningham@example.com",
+    "instagram_handle": "@sandramontgomery",
+    "tiktok_handle": "@nward",
+    "joined_at": "2023-11-24T19:21:44.824908",
+    "advocacy_programs": [
+        {
+            "program_id": "7b119339-1ec3-46cd-9bca-b8f27ec1973b",
+            "brand": "Brown, Freeman and George",
+            "tasks_completed": [
+                {
+                    "task_id": "d33759b6-3904-49b2-951d-423b5ae45baf",
+                    "platform": "TikTok",
+                    "post_url": "http://www.davis.org/",
+                    "likes": 2818,
+                    "comments": 378,
+                    "shares": 39,
+                    "reach": 1634
+                }
+            ],
+            "total_sales_attributed": 7220.1
+        }
+    ]
+}

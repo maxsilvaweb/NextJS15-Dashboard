@@ -1,0 +1,26 @@
+{
+    "user_id": "0a6a0838-8f33-4526-9b41-8875ae6af351",
+    "name": "Wendy Cruz",
+    "email": "Mathilde_Champlin@yahoo.com",
+    "instagram_handle": "@sergio57",
+    "tiktok_handle": "@longsusan",
+    "joined_at": "2025-06-05T14:27:47.606771",
+    "advocacy_programs": [
+        {
+            "program_id": "3cef8bcc-8ae8-457c-af2e-df22d4129510",
+            "brand": "Barnes and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "ab68d05f-7966-4c86-b9e5-c439934afc0e",
+                    "platform": "YouTube",
+                    "post_url": "https://cook.com/",
+                    "likes": 6743,
+                    "comments": 52,
+                    "shares": 94,
+                    "reach": 1625
+                }
+            ],
+            "total_sales_attributed": 3903.031862263298
+        }
+    ]
+}

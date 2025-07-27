@@ -1,0 +1,26 @@
+{
+    "user_id": "afde8fe2-f6c9-470e-bb5a-cc0f1f980da1",
+    "name": "Marissa Wu",
+    "email": "tgaines@example.org",
+    "instagram_handle": "@julie28",
+    "tiktok_handle": "@deborah22",
+    "joined_at": "2025-01-28T20:44:46.156741",
+    "advocacy_programs": [
+        {
+            "program_id": "968d4fd0-d5c0-453a-9526-fa8d14afb572",
+            "brand": "Murphy and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "1ef9d87e-ce7d-4ce2-8743-2bf2cdddb074",
+                    "platform": "TikTok",
+                    "post_url": "https://www.cline.com/",
+                    "likes": 361,
+                    "comments": 86,
+                    "shares": 24,
+                    "reach": 3942
+                }
+            ],
+            "total_sales_attributed": 6440.6
+        }
+    ]
+}

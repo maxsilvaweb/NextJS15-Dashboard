@@ -1,0 +1,26 @@
+{
+    "user_id": "42213caa-09a2-40b1-bc84-ebe38c4a9d93",
+    "name": "John Reyes",
+    "email": "alexandralopez@example.org",
+    "instagram_handle": "@tanyaadams",
+    "tiktok_handle": "@taylorcarol",
+    "joined_at": "2024-08-02T19:13:39.006318",
+    "advocacy_programs": [
+        {
+            "program_id": "a600ff86-1576-4fd5-9f04-b0a5b2b1c290",
+            "brand": "Botsford, Price and Collier",
+            "tasks_completed": [
+                {
+                    "task_id": "057dd242-09ae-479d-abc9-5d1c748b23f5",
+                    "platform": "Facebook",
+                    "post_url": "https://martinez-daniels.biz/",
+                    "likes": 498,
+                    "comments": 404,
+                    "shares": 27,
+                    "reach": 8487
+                }
+            ],
+            "total_sales_attributed": 9468.26
+        }
+    ]
+}

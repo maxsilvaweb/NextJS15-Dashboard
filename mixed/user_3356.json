@@ -1,0 +1,26 @@
+{
+    "user_id": "cdbcce96-e344-4b96-a514-6224db2fd0bb",
+    "name": "Rebecca Romero",
+    "email": "owenswhitney@example.org",
+    "instagram_handle": "@tina63",
+    "tiktok_handle": "@Haylie56",
+    "joined_at": "2023-08-02T02:28:46.620683",
+    "advocacy_programs": [
+        {
+            "program_id": "033532bf-2e96-4c8a-b490-9c0205f9103f",
+            "brand": "Wilson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "145640be-7c64-42aa-8284-4a2314894f1d",
+                    "platform": "TikTok",
+                    "post_url": "https://craig-fowler.com/",
+                    "likes": 8309,
+                    "comments": 489,
+                    "shares": 90,
+                    "reach": 8816
+                }
+            ],
+            "total_sales_attributed": 9693.22
+        }
+    ]
+}

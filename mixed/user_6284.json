@@ -1,0 +1,26 @@
+{
+    "user_id": "8c77980f-e4e9-4e42-b30c-99c792808b3b",
+    "name": "Kelly Wuckert",
+    "email": "Daryl_Kerluke99@gmail.com",
+    "instagram_handle": "@Lucy.Connelly",
+    "tiktok_handle": "@Brant_West91",
+    "joined_at": "2024-09-15T07:19:44.282Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6432cd16-7dd0-4f5c-8d23-5fbcc5914c8b",
+            "brand": "Christiansen - Rodriguez",
+            "tasks_completed": [
+                {
+                    "task_id": "2bb5aa34-b0dc-42dc-9f04-3607fd4fec46",
+                    "platform": "Instagram",
+                    "post_url": "https://unhealthy-monasticism.biz",
+                    "likes": 269,
+                    "comments": 17,
+                    "shares": 98,
+                    "reach": 2010
+                }
+            ],
+            "total_sales_attributed": 3781.9874216967655
+        }
+    ]
+}

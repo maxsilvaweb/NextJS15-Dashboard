@@ -1,0 +1,26 @@
+{
+    "user_id": "69dc8b83-643f-48a1-9d1d-8617c146cb33",
+    "name": "Zachary Kris",
+    "email": "Shanel.Jakubowski74@yahoo.com",
+    "instagram_handle": "@Concepcion4",
+    "tiktok_handle": "@Parker3",
+    "joined_at": "2024-05-09T17:21:38.695Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d5c071a2-f295-40e6-b586-a1e3639a4380",
+            "brand": "Kiehn and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "20827c15-2c5c-4b2e-9c62-189b9d1d5469",
+                    "platform": "Instagram",
+                    "post_url": "https://quarterly-blight.net/",
+                    "likes": 89,
+                    "comments": 44,
+                    "shares": 41,
+                    "reach": 803
+                }
+            ],
+            "total_sales_attributed": 4672.567544189457
+        }
+    ]
+}

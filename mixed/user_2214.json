@@ -1,0 +1,26 @@
+{
+    "user_id": "6270ad8c-3cb9-4225-8115-51215c12e662",
+    "name": "Doris Brady",
+    "email": "rodriguezmichael@example.net",
+    "instagram_handle": "@nancydominguez",
+    "tiktok_handle": "@juliejohnson",
+    "joined_at": "2025-05-08T19:21:33.383384",
+    "advocacy_programs": [
+        {
+            "program_id": "0e00a0ba-1740-48bd-9066-c4f74005efcf",
+            "brand": "Raymond Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "8f350e8d-06c0-40b8-8dba-46a27ffcb90b",
+                    "platform": "Facebook",
+                    "post_url": "http://www.patel.info/",
+                    "likes": 6475,
+                    "comments": 441,
+                    "shares": 0,
+                    "reach": 9389
+                }
+            ],
+            "total_sales_attributed": 3745.9015764395026
+        }
+    ]
+}

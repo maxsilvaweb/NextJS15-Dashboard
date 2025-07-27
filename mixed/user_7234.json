@@ -1,0 +1,26 @@
+{
+    "user_id": "1438e801-91fe-4b72-80cc-36559bf4eef9",
+    "name": "Sherman Schamberger",
+    "email": "Jude66@hotmail.com",
+    "instagram_handle": "@Zander.Bednar",
+    "tiktok_handle": "@Maurice24",
+    "joined_at": "2024-08-18T14:19:01.698Z",
+    "advocacy_programs": [
+        {
+            "program_id": "87b4eed7-5610-42da-bec6-8a2702a5d36d",
+            "brand": "Waters LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "048ebdd5-61cd-4479-a9d9-4e69fd2d65a4",
+                    "platform": "TikTok",
+                    "post_url": "https://silent-wedding.biz/",
+                    "likes": 242,
+                    "comments": 14,
+                    "shares": 52,
+                    "reach": 5177
+                }
+            ],
+            "total_sales_attributed": 3044.588272390551
+        }
+    ]
+}

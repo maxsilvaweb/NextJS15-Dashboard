@@ -1,0 +1,26 @@
+{
+    "user_id": "d3ef65f0-0a6b-4a6c-a401-6d024c3404c1",
+    "name": "Genevieve Rolfson",
+    "email": "Ben.Mitchell@hotmail.com",
+    "instagram_handle": "@Lorenza_Gibson",
+    "tiktok_handle": "@Nathanial66",
+    "joined_at": "2024-11-26T10:39:57.728Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e7695ecf-2817-4053-8de5-54f8cd1d6d06",
+            "brand": "Waters - Daniel",
+            "tasks_completed": [
+                {
+                    "task_id": "6df2e3ca-7a24-4eef-9cd6-24e42c9d7134",
+                    "platform": "Instagram",
+                    "post_url": "https://agile-supplier.name/",
+                    "likes": 433,
+                    "comments": 5,
+                    "shares": 34,
+                    "reach": 7777
+                }
+            ],
+            "total_sales_attributed": 3652.2141934696497
+        }
+    ]
+}

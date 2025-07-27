@@ -1,0 +1,26 @@
+{
+    "user_id": "e4aa66c8-7a14-4464-aa03-0bf86e32aeb2",
+    "name": "John Kline",
+    "email": "sanchezbrenda@example.net",
+    "instagram_handle": "@guerrerojacqueline",
+    "tiktok_handle": "@michaelwoods",
+    "joined_at": "2023-10-28T22:34:06.126334",
+    "advocacy_programs": [
+        {
+            "program_id": "edf39b79-6da4-4c67-9c5e-5a7cc6870f0d",
+            "brand": "Anderson-Harrington",
+            "tasks_completed": [
+                {
+                    "task_id": "f9ab8542-eb71-4204-97cb-400c808471e9",
+                    "platform": "Instagram",
+                    "post_url": "https://carr.net/",
+                    "likes": 6635,
+                    "comments": 18,
+                    "shares": 81,
+                    "reach": 6106
+                }
+            ],
+            "total_sales_attributed": 3882.07
+        }
+    ]
+}

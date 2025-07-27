@@ -1,0 +1,26 @@
+{
+    "user_id": "8e7718bf-ca7b-4a52-9d93-349df89afb1d",
+    "name": "Brett Rosario",
+    "email": "nelsonpaul@example.com",
+    "instagram_handle": "@lmartinez",
+    "tiktok_handle": "@aguilarmark",
+    "joined_at": "2025-06-17T23:46:26.080345",
+    "advocacy_programs": [
+        {
+            "program_id": "e68bdb9c-b20c-4229-bf9a-c07397417555",
+            "brand": "Hernandez-Ray",
+            "tasks_completed": [
+                {
+                    "task_id": "f7204257-0a9e-4afb-83c1-d48fa3f66409",
+                    "platform": "TikTok",
+                    "post_url": "https://www.hill.com/",
+                    "likes": 7777,
+                    "comments": 256,
+                    "shares": 98,
+                    "reach": 7725
+                }
+            ],
+            "total_sales_attributed": 5831.84
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bb9cb373-6df2-4751-8780-5b5aa7ec65d7",
+    "name": "Wendy Walker",
+    "email": "taylorarmstrong@example.net",
+    "instagram_handle": "@princeandrea",
+    "tiktok_handle": "@michael22",
+    "joined_at": "2024-12-22T19:46:27.043621",
+    "advocacy_programs": [
+        {
+            "program_id": "75a4e932-570c-4ea3-9048-763590ef7094",
+            "brand": "Morrison, Browning and Waters",
+            "tasks_completed": [
+                {
+                    "task_id": "c42c6afe-15ac-47af-87f0-86d76b62ef74",
+                    "platform": "Instagram",
+                    "post_url": "http://cooke.org/",
+                    "likes": 2816,
+                    "comments": 211,
+                    "shares": 60,
+                    "reach": 2362
+                }
+            ],
+            "total_sales_attributed": 8826.41
+        }
+    ]
+}

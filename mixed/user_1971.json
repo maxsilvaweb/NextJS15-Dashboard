@@ -1,0 +1,26 @@
+{
+    "user_id": "538e05b8-3bc7-4da4-b72f-ae09267c0961",
+    "name": "Latoya Juarez",
+    "email": "kbrooks@example.net",
+    "instagram_handle": "@guerreroamy",
+    "tiktok_handle": "@pauladuncan",
+    "joined_at": "2023-11-27T06:07:34.117414",
+    "advocacy_programs": [
+        {
+            "program_id": "29e427a3-dff1-4864-b53b-ad2bf3aa5db0",
+            "brand": "Conway, Garner and Ochoa",
+            "tasks_completed": [
+                {
+                    "task_id": "7eccb148-dfb4-4341-938d-beb088279f77",
+                    "platform": "Facebook",
+                    "post_url": "http://webb.com/",
+                    "likes": 4395,
+                    "comments": 438,
+                    "shares": 82,
+                    "reach": 2223
+                }
+            ],
+            "total_sales_attributed": 9681.61
+        }
+    ]
+}

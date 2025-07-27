@@ -1,0 +1,26 @@
+{
+    "user_id": "494bcb54-6797-4d8f-a435-11720059988b",
+    "name": "David Clark",
+    "email": "susanreynolds@example.org",
+    "instagram_handle": "@hcurtis",
+    "tiktok_handle": "@kendra59",
+    "joined_at": "2024-10-08T09:56:14.280853",
+    "advocacy_programs": [
+        {
+            "program_id": "0318fd99-fb0f-4003-80d9-2fe667a1b498",
+            "brand": "Morales-Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "28bab11b-d946-43e5-997e-9d45b7596fb6",
+                    "platform": "YouTube",
+                    "post_url": "http://www.white-harrell.com/",
+                    "likes": 827,
+                    "comments": 317,
+                    "shares": 87,
+                    "reach": 1602
+                }
+            ],
+            "total_sales_attributed": 6367.71
+        }
+    ]
+}

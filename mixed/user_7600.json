@@ -1,0 +1,26 @@
+{
+    "user_id": "27c51b9d-67c6-4bc7-9216-08af16618931",
+    "name": "Bertha Koss-Wilkinson",
+    "email": "Marion.Larson@hotmail.com",
+    "instagram_handle": "@Alexanne13",
+    "tiktok_handle": "@Robin.Sporer",
+    "joined_at": "2024-11-13T02:04:27.181Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4a2a05c0-b862-438b-ae5d-6ba8314fe347",
+            "brand": "Gutkowski, Greenfelder and Ernser",
+            "tasks_completed": [
+                {
+                    "task_id": "f2b83b29-3d60-42ef-8067-6720897658e7",
+                    "platform": "TikTok",
+                    "post_url": "https://tempting-meal.info/",
+                    "likes": 118,
+                    "comments": 40,
+                    "shares": 29,
+                    "reach": 6541
+                }
+            ],
+            "total_sales_attributed": 2023.765503720256
+        }
+    ]
+}

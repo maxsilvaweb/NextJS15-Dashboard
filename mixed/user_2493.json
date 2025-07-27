@@ -1,0 +1,26 @@
+{
+    "user_id": "2ad2f0a7-1402-4569-b7f6-8df6d771cd6d",
+    "name": "Rosalie Stracke",
+    "email": "Valerie_Waters@gmail.com",
+    "instagram_handle": "@Sophia30",
+    "tiktok_handle": "@Darby_Stroman",
+    "joined_at": "2025-02-06T12:29:52.578Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4705160c-9fbe-4d67-9e0b-afd30346f179",
+            "brand": "Stanton Group",
+            "tasks_completed": [
+                {
+                    "task_id": "c926d79e-ab25-4c76-bb83-a04147eabbe6",
+                    "platform": "TikTok",
+                    "post_url": "https://musty-longboat.net/",
+                    "likes": 325,
+                    "comments": 48,
+                    "shares": 34,
+                    "reach": 1994
+                }
+            ],
+            "total_sales_attributed": 4992.3182003867405
+        }
+    ]
+}

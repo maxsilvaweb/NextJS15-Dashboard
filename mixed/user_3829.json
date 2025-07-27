@@ -1,0 +1,26 @@
+{
+    "user_id": "f6be31d9-c106-4b6a-b211-e567f809f130",
+    "name": "Rebecca Jones",
+    "email": "christina07@example.com",
+    "instagram_handle": "@haysjacqueline",
+    "tiktok_handle": "@chavezjulie",
+    "joined_at": "2025-04-22T18:42:47.036114",
+    "advocacy_programs": [
+        {
+            "program_id": "20cc6cfc-737c-4713-b7de-2f9494f0e555",
+            "brand": "Scott Group",
+            "tasks_completed": [
+                {
+                    "task_id": "1de65cfc-43d2-45dd-b771-a3092ba46c7e",
+                    "platform": "Facebook",
+                    "post_url": "https://www.hall-brown.net/",
+                    "likes": 9329,
+                    "comments": 12,
+                    "shares": 92,
+                    "reach": 1054
+                }
+            ],
+            "total_sales_attributed": 1244.0240224495392
+        }
+    ]
+}

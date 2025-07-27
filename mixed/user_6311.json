@@ -1,0 +1,26 @@
+{
+    "user_id": "6def057a-0ed8-484c-9bdf-fe9185a8654b",
+    "name": "Van Bayer",
+    "email": "kellynicholas@example.org",
+    "instagram_handle": "@nathaniel35",
+    "tiktok_handle": "@samanthaschmidt",
+    "joined_at": "2023-12-29T07:33:31.253126",
+    "advocacy_programs": [
+        {
+            "program_id": "166e3e57-7c5a-430e-adc5-4ba93849ce4e",
+            "brand": "Gomez, Brown and Anderson",
+            "tasks_completed": [
+                {
+                    "task_id": "f7f7dd4a-6079-4608-b32a-43d68e1259ca",
+                    "platform": "TikTok",
+                    "post_url": "https://www.lee.info/",
+                    "likes": 4415,
+                    "comments": 315,
+                    "shares": 85,
+                    "reach": 5383
+                }
+            ],
+            "total_sales_attributed": 1622.958655130485
+        }
+    ]
+}

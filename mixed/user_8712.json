@@ -1,0 +1,26 @@
+{
+    "user_id": "e1b1dbc4-f24d-4965-b38e-10086d2b6f26",
+    "name": "Dr. Ira Lockman",
+    "email": "Roosevelt65@hotmail.com",
+    "instagram_handle": "@Alex_Hettinger",
+    "tiktok_handle": "@Armani.Runte13",
+    "joined_at": "2025-03-06T08:38:41.774Z",
+    "advocacy_programs": [
+        {
+            "program_id": "45a06ea8-9a5d-46fb-b31d-4826a4a43b98",
+            "brand": "Champlin, Welch and McLaughlin",
+            "tasks_completed": [
+                {
+                    "task_id": "b6a82fc0-03aa-477c-a197-5d281ebdf9d2",
+                    "platform": "TikTok",
+                    "post_url": "https://intrepid-unique.net",
+                    "likes": 32,
+                    "comments": 13,
+                    "shares": 93,
+                    "reach": 9136
+                }
+            ],
+            "total_sales_attributed": 4240.220786128613
+        }
+    ]
+}

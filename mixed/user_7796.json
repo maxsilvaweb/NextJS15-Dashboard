@@ -1,0 +1,26 @@
+{
+    "user_id": "dbb5885a-c252-4a5d-9cf2-cbaeb38d84b5",
+    "name": "Jeffrey Farley",
+    "email": "williammartinez@example.net",
+    "instagram_handle": "@upham",
+    "tiktok_handle": "@allen35",
+    "joined_at": "2024-10-14T02:24:30.255663",
+    "advocacy_programs": [
+        {
+            "program_id": "c047cb8f-70f8-4ba9-bb29-02deed5524d4",
+            "brand": "Lee LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "6898bac2-6dd1-43b4-94f3-f3531cb41c76",
+                    "platform": "Facebook",
+                    "post_url": "http://www.smith.com/",
+                    "likes": 4321,
+                    "comments": 239,
+                    "shares": 28,
+                    "reach": 8056
+                }
+            ],
+            "total_sales_attributed": 7701.89
+        }
+    ]
+}

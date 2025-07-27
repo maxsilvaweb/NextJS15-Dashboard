@@ -1,0 +1,26 @@
+{
+    "user_id": "227edcf1-b8c5-4ec1-9e70-b114417b14f5",
+    "name": "Carlos Tran",
+    "email": "krussell@example.com",
+    "instagram_handle": "@riveradouglas",
+    "tiktok_handle": "@penalee",
+    "joined_at": "2023-11-16T11:28:45.535129",
+    "advocacy_programs": [
+        {
+            "program_id": "ca2b598d-1fc9-4266-ac69-069615105c3d",
+            "brand": "Kramer-Townsend",
+            "tasks_completed": [
+                {
+                    "task_id": "dac633e3-9e78-4dc6-9814-9043c9c690cc",
+                    "platform": "TikTok",
+                    "post_url": "https://small.com/",
+                    "likes": 6234,
+                    "comments": 7,
+                    "shares": 88,
+                    "reach": 6435
+                }
+            ],
+            "total_sales_attributed": 4415.129788860149
+        }
+    ]
+}

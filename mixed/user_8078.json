@@ -1,0 +1,26 @@
+{
+    "user_id": "c7003d18-c419-4a26-a9a0-4da0633e8a13",
+    "name": "Jaime Goyette",
+    "email": "Keely.White56@hotmail.com",
+    "instagram_handle": "@Taurean.Hahn",
+    "tiktok_handle": "@Chyna_Wilkinson",
+    "joined_at": "2024-10-13T23:49:34.153Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a68a1c59-a6fd-45d9-832b-9a9dc9d3e22f",
+            "brand": "Mosciski, Greenholt and Rowe",
+            "tasks_completed": [
+                {
+                    "task_id": "e0e76408-9acb-42ef-bd8e-c4bb4c0219a7",
+                    "platform": "TikTok",
+                    "post_url": "https://enraged-rubric.info",
+                    "likes": 159,
+                    "comments": 18,
+                    "shares": 78,
+                    "reach": 9695
+                }
+            ],
+            "total_sales_attributed": 4380.221981573048
+        }
+    ]
+}

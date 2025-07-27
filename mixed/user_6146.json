@@ -1,0 +1,26 @@
+{
+    "user_id": "f45b6ca4-052c-46f9-ac77-207ed812d010",
+    "name": "Carlos Thomas",
+    "email": "Adolf7@gmail.com",
+    "instagram_handle": "@hhayden",
+    "tiktok_handle": "@vwalker",
+    "joined_at": "2024-11-06T16:24:49.385980",
+    "advocacy_programs": [
+        {
+            "program_id": "4956e728-4106-43d2-ae49-66bfe4a4a5f5",
+            "brand": "Atkins Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "46bfb1ec-1bc8-4c95-bcd4-a6d6114fbbb3",
+                    "platform": "Instagram",
+                    "post_url": "http://www.davis.com/",
+                    "likes": 70,
+                    "comments": 178,
+                    "shares": 81,
+                    "reach": 3957
+                }
+            ],
+            "total_sales_attributed": 5991.55
+        }
+    ]
+}

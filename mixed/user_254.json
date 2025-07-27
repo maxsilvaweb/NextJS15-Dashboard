@@ -1,0 +1,26 @@
+{
+    "user_id": "48cd4381-114f-4ddc-8dc7-e93a671e4485",
+    "name": "Theresa Howe",
+    "email": "jpearson@example.com",
+    "instagram_handle": "@robert60",
+    "tiktok_handle": "@amywarner",
+    "joined_at": "2024-01-22T03:39:06.634066",
+    "advocacy_programs": [
+        {
+            "program_id": "a685d48d-3e91-4dd7-9d8d-0d3351f9feb1",
+            "brand": "Tate and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "7a13dff8-5d9a-498b-992e-dcec186c1311",
+                    "platform": "TikTok",
+                    "post_url": "http://evans.info/",
+                    "likes": 9847,
+                    "comments": 169,
+                    "shares": 0,
+                    "reach": 1856
+                }
+            ],
+            "total_sales_attributed": 1110.89
+        }
+    ]
+}

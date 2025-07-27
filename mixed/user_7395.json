@@ -1,0 +1,26 @@
+{
+    "user_id": "2b0e0dc5-b689-41be-813e-3e598bb0dc10",
+    "name": "Carol Alvarado",
+    "email": "brownmichael@example.com",
+    "instagram_handle": "@carol85",
+    "tiktok_handle": "@harrismichael",
+    "joined_at": "2024-11-21T03:35:17.160327",
+    "advocacy_programs": [
+        {
+            "program_id": "a50bae30-b7a5-4646-86f5-2de9bf5dd3fb",
+            "brand": "Brown LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "164141ef-7fc4-4fb0-856a-2d85759d8326",
+                    "platform": "Instagram",
+                    "post_url": "https://thomas-clark.com/",
+                    "likes": 8026,
+                    "comments": 22,
+                    "shares": 96,
+                    "reach": 7855
+                }
+            ],
+            "total_sales_attributed": 332.25
+        }
+    ]
+}

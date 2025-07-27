@@ -1,0 +1,26 @@
+{
+    "user_id": "62708595-4552-48a5-94f0-0f4c5bdd960a",
+    "name": "Melissa Wright",
+    "email": "douglas00@example.net",
+    "instagram_handle": "@deborah06",
+    "tiktok_handle": "@lawsonheather",
+    "joined_at": "2024-01-31T17:44:44.781046",
+    "advocacy_programs": [
+        {
+            "program_id": "8fbde137-3498-4829-95f3-a16b5f433851",
+            "brand": "Anthony Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9b5c3142-e0d1-4c27-895e-7a8c0f19b1cc",
+                    "platform": "Instagram",
+                    "post_url": "https://www.richards.com/",
+                    "likes": 8140,
+                    "comments": 8,
+                    "shares": 99,
+                    "reach": 6066
+                }
+            ],
+            "total_sales_attributed": 3874.3407816353756
+        }
+    ]
+}

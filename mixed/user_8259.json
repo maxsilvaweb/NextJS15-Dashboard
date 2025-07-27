@@ -1,0 +1,26 @@
+{
+    "user_id": "598ea8b0-2f99-4e3d-8760-ec9f3aa75138",
+    "name": "Homer Hagenes",
+    "email": "Althea93@hotmail.com",
+    "instagram_handle": "@Martine13",
+    "tiktok_handle": "@Shaylee.Stamm",
+    "joined_at": "2024-11-05T10:26:51.758Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bea538ba-1e2b-4b93-aae7-134e9e6f78ab",
+            "brand": "Howe - Nienow",
+            "tasks_completed": [
+                {
+                    "task_id": "8e131f1c-1dc0-4e1e-8293-a9e6c9ff8d24",
+                    "platform": "Instagram",
+                    "post_url": "https://nutritious-thunderbolt.net",
+                    "likes": 187,
+                    "comments": 18,
+                    "shares": 51,
+                    "reach": 3929
+                }
+            ],
+            "total_sales_attributed": 1975.444848205501
+        }
+    ]
+}

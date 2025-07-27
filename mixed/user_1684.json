@@ -1,0 +1,26 @@
+{
+    "user_id": "06a1c34c-17f1-4387-a34c-47d612ec2e00",
+    "name": "Nelson Greenfelder",
+    "email": "Alvera.Bahringer-Weber@hotmail.com",
+    "instagram_handle": "@Claire_Vandervort",
+    "tiktok_handle": "@Tod.Hackett27",
+    "joined_at": "2024-03-31T16:50:08.838Z",
+    "advocacy_programs": [
+        {
+            "program_id": "97d6ad29-458d-48a7-a694-fe3114e059b7",
+            "brand": "Sawayn - Mante",
+            "tasks_completed": [
+                {
+                    "task_id": "782ca45f-38a6-4888-9e59-4598c3bcec0e",
+                    "platform": "Instagram",
+                    "post_url": "https://helpful-instructor.org",
+                    "likes": 324,
+                    "comments": 8,
+                    "shares": 53,
+                    "reach": 1725
+                }
+            ],
+            "total_sales_attributed": 4846.604429931795
+        }
+    ]
+}

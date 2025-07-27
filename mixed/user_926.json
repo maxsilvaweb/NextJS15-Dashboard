@@ -1,0 +1,26 @@
+{
+    "user_id": "98921f86-8b09-4793-87d0-9f0b0c29d702",
+    "name": "Lisa Harris",
+    "email": "bpotts@example.org",
+    "instagram_handle": "@michaelmyers",
+    "tiktok_handle": "@shane73",
+    "joined_at": "2025-05-22T13:36:51.616548",
+    "advocacy_programs": [
+        {
+            "program_id": "266ddb2a-f66a-4715-a06d-6e8db3c0247a",
+            "brand": "Perez and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "f3ebf48c-baa8-4e32-84d5-67e297b41820",
+                    "platform": "Facebook",
+                    "post_url": "https://www.welch.org/",
+                    "likes": 8133,
+                    "comments": 129,
+                    "shares": 32,
+                    "reach": 8988
+                }
+            ],
+            "total_sales_attributed": 1108.44
+        }
+    ]
+}

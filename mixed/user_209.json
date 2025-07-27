@@ -1,0 +1,26 @@
+{
+    "user_id": "dc02c262-6c72-48ff-91b1-2457f48c2415",
+    "name": "Yolanda Garcia",
+    "email": "linda34@example.org",
+    "instagram_handle": "@lauraray",
+    "tiktok_handle": "@glenshelton",
+    "joined_at": "2025-01-25T23:01:32.408160",
+    "advocacy_programs": [
+        {
+            "program_id": "f55ce6e8-2e54-43ff-9dc3-a72cd486366a",
+            "brand": "Dunlap-Turner",
+            "tasks_completed": [
+                {
+                    "task_id": "ad3245a5-3bab-4b2e-9712-dd5923ecc9a5",
+                    "platform": "Instagram",
+                    "post_url": "http://allen.com/",
+                    "likes": 8853,
+                    "comments": 100,
+                    "shares": 23,
+                    "reach": 6497
+                }
+            ],
+            "total_sales_attributed": 2377.8589214966273
+        }
+    ]
+}

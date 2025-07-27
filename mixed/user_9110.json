@@ -1,0 +1,26 @@
+{
+    "user_id": "b1786b74-75e6-47fa-92db-e4cb5dd5eb32",
+    "name": "Brenda Carter",
+    "email": "lisawallace@example.com",
+    "instagram_handle": "@urussell",
+    "tiktok_handle": "@reednicholas",
+    "joined_at": "2024-05-27T07:49:19.933130",
+    "advocacy_programs": [
+        {
+            "program_id": "a345806b-db1b-40dc-874a-d0d19e84f64c",
+            "brand": "Johnson, Mueller and Phillips",
+            "tasks_completed": [
+                {
+                    "task_id": "aa3d2b9a-8e4c-4b97-b0fe-72966f3820c9",
+                    "platform": "Facebook",
+                    "post_url": "http://rowe.com/",
+                    "likes": 9967,
+                    "comments": 235,
+                    "shares": 1,
+                    "reach": 7174
+                }
+            ],
+            "total_sales_attributed": 8848.33
+        }
+    ]
+}

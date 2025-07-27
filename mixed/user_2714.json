@@ -1,0 +1,26 @@
+{
+    "user_id": "5476e66a-770c-497f-aeaf-47d8e27efa8d",
+    "name": "Elizabeth Hill",
+    "email": "kelli84@example.org",
+    "instagram_handle": "@sandersvictoria",
+    "tiktok_handle": "@wendymurphy",
+    "joined_at": "2024-07-05T13:19:55.403409",
+    "advocacy_programs": [
+        {
+            "program_id": "fe103297-07a8-4eed-a3b7-2e28f21ae35c",
+            "brand": "Daniels, Diaz and Harmon",
+            "tasks_completed": [
+                {
+                    "task_id": "0be90f60-122f-4a18-81af-35f2180e13db",
+                    "platform": "YouTube",
+                    "post_url": "http://www.logan.info/",
+                    "likes": 320,
+                    "comments": 33,
+                    "shares": 52,
+                    "reach": 5928
+                }
+            ],
+            "total_sales_attributed": 370.47
+        }
+    ]
+}

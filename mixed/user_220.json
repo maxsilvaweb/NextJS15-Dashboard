@@ -1,0 +1,26 @@
+{
+    "user_id": "28e5a3cf-702d-4ef4-a72b-bfff62600a5e",
+    "name": "Tiffany Mcfarland",
+    "email": "pittmankimberly@example.com",
+    "instagram_handle": "@udoyle",
+    "tiktok_handle": "@michelleroberts",
+    "joined_at": "2025-01-08T00:55:54.457575",
+    "advocacy_programs": [
+        {
+            "program_id": "d9dbe1a7-3362-457a-9b72-989527a68810",
+            "brand": "Williams Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "dd3024ed-cf95-4619-b46d-9ee2a8a5765c",
+                    "platform": "TikTok",
+                    "post_url": "https://mccoy.com/",
+                    "likes": 9298,
+                    "comments": 261,
+                    "shares": 20,
+                    "reach": 2272
+                }
+            ],
+            "total_sales_attributed": 4736.07
+        }
+    ]
+}

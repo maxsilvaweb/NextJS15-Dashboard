@@ -1,0 +1,26 @@
+{
+    "user_id": "bd4ed324-09d4-4d75-abb4-9b46643d9502",
+    "name": "Rachel Cannon",
+    "email": "jennifer32@example.org",
+    "instagram_handle": "@bonillajeremy",
+    "tiktok_handle": "@fwilliams",
+    "joined_at": "2024-05-30T17:21:05.431139",
+    "advocacy_programs": [
+        {
+            "program_id": "19451b37-fcb9-4ae5-8c9f-fe12b770a249",
+            "brand": "Krajcik Group",
+            "tasks_completed": [
+                {
+                    "task_id": "5aee9034-3cec-402c-a2a6-b064db1653fc",
+                    "platform": "TikTok",
+                    "post_url": "https://www.bush.biz/",
+                    "likes": 2162,
+                    "comments": 461,
+                    "shares": 64,
+                    "reach": 4371
+                }
+            ],
+            "total_sales_attributed": 5145.12
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3b7738f9-7231-4a4b-a571-050e7ed04939",
+    "name": "Victor Windler",
+    "email": "Marcus_Hauck41@gmail.com",
+    "instagram_handle": "@Chadrick_Hoppe68",
+    "tiktok_handle": "@Jack22",
+    "joined_at": "2024-03-23T09:53:43.728Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d042890c-673a-42df-bac0-cde2b0a402ea",
+            "brand": "Bartell and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "97bfca18-aa30-4abb-bcf7-c11348fe3b7e",
+                    "platform": "TikTok",
+                    "post_url": "https://major-taro.org/",
+                    "likes": 295,
+                    "comments": 14,
+                    "shares": 23,
+                    "reach": 7541
+                }
+            ],
+            "total_sales_attributed": 2298.8360450278587
+        }
+    ]
+}

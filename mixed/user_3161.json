@@ -1,0 +1,26 @@
+{
+    "user_id": "f615d236-206c-4c63-b394-23fd2bc444fe",
+    "name": "Joshua Reid",
+    "email": "Meghan.Gerhold@gmail.com",
+    "instagram_handle": "@jacksoncristian",
+    "tiktok_handle": "@watkinsjasmine",
+    "joined_at": "2024-01-18T08:01:29.338135",
+    "advocacy_programs": [
+        {
+            "program_id": "e85cedbe-f1da-4360-8507-39027b5f20dc",
+            "brand": "Avila, Kelly and Avila",
+            "tasks_completed": [
+                {
+                    "task_id": "77c77218-7822-4227-a7ec-e8febde9c34b",
+                    "platform": "Instagram",
+                    "post_url": "http://www.king-stevens.com/",
+                    "likes": 226,
+                    "comments": 7,
+                    "shares": 98,
+                    "reach": 8077
+                }
+            ],
+            "total_sales_attributed": 1709.9614701519884
+        }
+    ]
+}

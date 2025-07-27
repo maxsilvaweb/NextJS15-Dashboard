@@ -1,0 +1,26 @@
+{
+    "user_id": "71a7428a-a752-494a-9a26-8fb299471f12",
+    "name": "Arthur Lesch",
+    "email": "Sienna11@yahoo.com",
+    "instagram_handle": "@Toney21",
+    "tiktok_handle": "@Jamir.Wisoky",
+    "joined_at": "2025-03-16T04:49:55.022Z",
+    "advocacy_programs": [
+        {
+            "program_id": "586b49f2-bd3a-4335-ac65-e12034bca4da",
+            "brand": "Ernser - Stiedemann",
+            "tasks_completed": [
+                {
+                    "task_id": "9024c321-5600-4c61-ba47-e0d672696c47",
+                    "platform": "TikTok",
+                    "post_url": "https://miserable-awareness.com/",
+                    "likes": 167,
+                    "comments": 33,
+                    "shares": 26,
+                    "reach": 6634
+                }
+            ],
+            "total_sales_attributed": 4858.698696175294
+        }
+    ]
+}

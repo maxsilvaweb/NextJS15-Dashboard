@@ -1,0 +1,26 @@
+{
+    "user_id": "e3894709-74d2-4b2a-b05a-31d7c890a781",
+    "name": "Kimberly Yang",
+    "email": "Selmer19@gmail.com",
+    "instagram_handle": "@bpadilla",
+    "tiktok_handle": "@luisdavila",
+    "joined_at": "2025-01-13T14:14:39.089444",
+    "advocacy_programs": [
+        {
+            "program_id": "bc2ebb09-e1bf-49d7-bc05-48bcb9f69512",
+            "brand": "Peterson, Ingram and Bauer",
+            "tasks_completed": [
+                {
+                    "task_id": "0fd01773-1217-4d51-afb4-a630dc91f6c0",
+                    "platform": "TikTok",
+                    "post_url": "https://rogers-torres.com/",
+                    "likes": 113,
+                    "comments": 217,
+                    "shares": 19,
+                    "reach": 9136
+                }
+            ],
+            "total_sales_attributed": 394.96420609392993
+        }
+    ]
+}

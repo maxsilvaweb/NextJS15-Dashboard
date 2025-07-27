@@ -1,0 +1,26 @@
+{
+    "user_id": "a6d04a66-4478-475a-99a2-b016d53c59b6",
+    "name": "Gregory Lind",
+    "email": "Nelson49@hotmail.com",
+    "instagram_handle": "@Richie31",
+    "tiktok_handle": "@Laura62",
+    "joined_at": "2024-09-17T14:49:04.218Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bf694f7e-b26d-402b-a1ee-d2b65f240e95",
+            "brand": "Wiza - Schmitt",
+            "tasks_completed": [
+                {
+                    "task_id": "021bce79-0430-4b02-8e00-8a2789e0387c",
+                    "platform": "Instagram",
+                    "post_url": "https://productive-hawk.org/",
+                    "likes": 378,
+                    "comments": 34,
+                    "shares": 13,
+                    "reach": 8312
+                }
+            ],
+            "total_sales_attributed": 651.2317150359346
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b5a2f6a8-4140-418b-964b-5b1df33237ba",
+    "name": "Thomas Young",
+    "email": "brownfrank@example.com",
+    "instagram_handle": "@victoria68",
+    "tiktok_handle": "@nathanlee",
+    "joined_at": "2023-12-31T07:24:32.962320",
+    "advocacy_programs": [
+        {
+            "program_id": "20ee121c-f9dc-4576-938e-a06ff9189566",
+            "brand": "Smith, Phillips and Schwartz",
+            "tasks_completed": [
+                {
+                    "task_id": "620f1877-d1a3-42e0-819d-a84281bd5bac",
+                    "platform": "TikTok",
+                    "post_url": "https://beck.net/",
+                    "likes": 4170,
+                    "comments": 39,
+                    "shares": 88,
+                    "reach": 6896
+                }
+            ],
+            "total_sales_attributed": 7030.45
+        }
+    ]
+}

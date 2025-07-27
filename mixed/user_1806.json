@@ -1,0 +1,26 @@
+{
+    "user_id": "90a69751-fb70-4681-b787-ed96aa70ac18",
+    "name": "Nathan Dean",
+    "email": "stevensbailey@example.net",
+    "instagram_handle": "@heidithomas",
+    "tiktok_handle": "@reidrachael",
+    "joined_at": "2024-02-01T19:59:27.477603",
+    "advocacy_programs": [
+        {
+            "program_id": "f2ea54c6-d63c-4bd9-84de-7fa92ed7e760",
+            "brand": "Jackson-Wall",
+            "tasks_completed": [
+                {
+                    "task_id": "3d865a00-b610-48a9-8367-7cea0f665f9d",
+                    "platform": "YouTube",
+                    "post_url": "http://www.white-jones.com/",
+                    "likes": 4707,
+                    "comments": 498,
+                    "shares": 82,
+                    "reach": 2075
+                }
+            ],
+            "total_sales_attributed": 7230.18
+        }
+    ]
+}

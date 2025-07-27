@@ -1,0 +1,26 @@
+{
+    "user_id": "a8e2d392-4fd1-4634-a1cc-6aee948093a6",
+    "name": "Brenda Haley",
+    "email": "Jameson.Metz@gmail.com",
+    "instagram_handle": "@Alexzander_Kerluke",
+    "tiktok_handle": "@Marjory_Weissnat",
+    "joined_at": "2024-11-13T08:26:42.762Z",
+    "advocacy_programs": [
+        {
+            "program_id": "191f7d6f-2b5b-432a-abe8-3b258c748973",
+            "brand": "Yundt LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ef5e278f-d1b5-4806-9b5f-a92e0d889f8d",
+                    "platform": "Instagram",
+                    "post_url": "https://forceful-devil.info",
+                    "likes": 12,
+                    "comments": 18,
+                    "shares": 97,
+                    "reach": 4598
+                }
+            ],
+            "total_sales_attributed": 4411.712732485849
+        }
+    ]
+}

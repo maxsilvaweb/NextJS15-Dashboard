@@ -1,0 +1,26 @@
+{
+    "user_id": "28c5f5d2-ff69-49bf-8feb-da19ff48a4ed",
+    "name": "Mrs. Jennifer Joyce",
+    "email": "david67@example.net",
+    "instagram_handle": "@luis46",
+    "tiktok_handle": "@katelynwalters",
+    "joined_at": "2025-01-19T12:24:22.296388",
+    "advocacy_programs": [
+        {
+            "program_id": "214bbfd0-794b-43a5-8b24-51d68732305a",
+            "brand": "Gislason LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "62da3bfc-29b9-4508-82ec-81699dc7e3c2",
+                    "platform": "Facebook",
+                    "post_url": "http://maynard-knight.com/",
+                    "likes": 1524,
+                    "comments": 19,
+                    "shares": 33,
+                    "reach": 5617
+                }
+            ],
+            "total_sales_attributed": 4509.4
+        }
+    ]
+}

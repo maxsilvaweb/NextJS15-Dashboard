@@ -1,0 +1,26 @@
+{
+    "user_id": "75b32883-f9ff-4f7e-b9f1-2bd45682aeaf",
+    "name": "Charlotte Nicolas-Witting",
+    "email": "Delores_Kihn@gmail.com",
+    "instagram_handle": "@Gordon_Feeney",
+    "tiktok_handle": "@Kyra.Johns",
+    "joined_at": "2024-12-18T19:17:26.871Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5ce2fe9b-5323-4b22-bcd4-7842682607ad",
+            "brand": "Wilkinson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "101bba26-e83c-4b13-8a88-3223b77fc88d",
+                    "platform": "TikTok",
+                    "post_url": "https://whole-hexagon.name/",
+                    "likes": 51,
+                    "comments": 2,
+                    "shares": 25,
+                    "reach": 674
+                }
+            ],
+            "total_sales_attributed": 2864.0033373390256
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "882b3c25-a8f3-44b3-bbe3-052e21987b64",
+    "name": "Melinda Cook",
+    "email": "garciadavid@example.org",
+    "instagram_handle": "@vanessa21",
+    "tiktok_handle": "@stacymercer",
+    "joined_at": "2025-01-03T04:02:02.622543",
+    "advocacy_programs": [
+        {
+            "program_id": "7a582f00-87c6-49c4-801b-668288726810",
+            "brand": "Stanton PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "b0cf553e-6bdb-4a3b-8807-8cf36685e443",
+                    "platform": "Instagram",
+                    "post_url": "https://www.jones.net/",
+                    "likes": 2192,
+                    "comments": 211,
+                    "shares": 88,
+                    "reach": 4963
+                }
+            ],
+            "total_sales_attributed": 6819.62
+        }
+    ]
+}

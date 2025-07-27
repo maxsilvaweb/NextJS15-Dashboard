@@ -1,0 +1,26 @@
+{
+    "user_id": "0c7f082a-7bf5-4c26-a7e1-db374b9f827a",
+    "name": "Kate Schaefer",
+    "email": "Braulio.Mohr9@hotmail.com",
+    "instagram_handle": "@Giovanny_Bechtelar",
+    "tiktok_handle": "@Clement70",
+    "joined_at": "2024-06-22T02:22:49.155Z",
+    "advocacy_programs": [
+        {
+            "program_id": "87d357e7-ff3e-4f26-89a5-5779d43977bb",
+            "brand": "Gislason LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "6e2ad132-2da9-4ebf-9e4c-a0780c3fe128",
+                    "platform": "Instagram",
+                    "post_url": "https://productive-tuxedo.name",
+                    "likes": 131,
+                    "comments": 34,
+                    "shares": 59,
+                    "reach": 533
+                }
+            ],
+            "total_sales_attributed": 4237.271395058111
+        }
+    ]
+}

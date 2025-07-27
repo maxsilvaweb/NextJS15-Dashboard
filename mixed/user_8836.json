@@ -1,0 +1,26 @@
+{
+    "user_id": "35519622-ecd0-4302-ba63-eba8fc170d95",
+    "name": "Amy Jimenez",
+    "email": "nancywhite@example.net",
+    "instagram_handle": "@Trinity_Ferry",
+    "tiktok_handle": "@cynthia36",
+    "joined_at": "2025-04-14T21:53:12.183894",
+    "advocacy_programs": [
+        {
+            "program_id": "e22669ea-2097-4bfe-9c54-90d95e5ca1f2",
+            "brand": "Blair-Moore",
+            "tasks_completed": [
+                {
+                    "task_id": "b95240d0-4cbf-4d7b-8961-44fd0cbb8c27",
+                    "platform": "YouTube",
+                    "post_url": "https://www.taylor-brown.biz/",
+                    "likes": 6529,
+                    "comments": 418,
+                    "shares": 64,
+                    "reach": 1958
+                }
+            ],
+            "total_sales_attributed": 7149.35
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cbbbcd7e-5d94-4c19-9165-a3d7976a9ec6",
+    "name": "Dawn Adams",
+    "email": "wagnerrobert@example.net",
+    "instagram_handle": "@wbright",
+    "tiktok_handle": "@haleshelly",
+    "joined_at": "2024-02-15T01:36:14.719911",
+    "advocacy_programs": [
+        {
+            "program_id": "87b0db0c-ddbb-47ff-baee-22a470bfcec8",
+            "brand": "Johnson, Jones and Williamson",
+            "tasks_completed": [
+                {
+                    "task_id": "bdbf5e80-2814-4762-8303-7913641dab8d",
+                    "platform": "TikTok",
+                    "post_url": "https://www.huynh.biz/",
+                    "likes": 4064,
+                    "comments": 480,
+                    "shares": 79,
+                    "reach": 2756
+                }
+            ],
+            "total_sales_attributed": 1284.57
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3376adbf-d7b8-42db-bdda-cda3b8d51bd3",
+    "name": "Megan Zimmerman",
+    "email": "darrensimon@example.net",
+    "instagram_handle": "@Tianna.Feest",
+    "tiktok_handle": "@ganderson",
+    "joined_at": "2023-11-08T04:05:44.032234",
+    "advocacy_programs": [
+        {
+            "program_id": "fe63868e-f88e-4415-9cdb-02454a77bb05",
+            "brand": "Hessel - Koch",
+            "tasks_completed": [
+                {
+                    "task_id": "2192bc04-f76c-45f0-b383-afa6be7a4aef",
+                    "platform": "TikTok",
+                    "post_url": "http://www.stewart.net/",
+                    "likes": 5256,
+                    "comments": 32,
+                    "shares": 3,
+                    "reach": 9966
+                }
+            ],
+            "total_sales_attributed": 3414.63
+        }
+    ]
+}

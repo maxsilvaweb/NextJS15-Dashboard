@@ -1,0 +1,26 @@
+{
+    "user_id": "e0068ba7-f42f-49b2-beff-4b1e9564c90a",
+    "name": "Valerie Webb",
+    "email": "sandrafinley@example.org",
+    "instagram_handle": "@torresjames",
+    "tiktok_handle": "@tthomas",
+    "joined_at": "2024-03-14T21:33:34.047761",
+    "advocacy_programs": [
+        {
+            "program_id": "49c93add-2bc2-40c0-b0eb-4a4767785032",
+            "brand": "Schwartz-Burton",
+            "tasks_completed": [
+                {
+                    "task_id": "c8613cbc-860f-4103-87b5-678c2e32d0f7",
+                    "platform": "Instagram",
+                    "post_url": "http://www.brown-may.com/",
+                    "likes": 15,
+                    "comments": 30,
+                    "shares": 49,
+                    "reach": 6636
+                }
+            ],
+            "total_sales_attributed": 6700.86
+        }
+    ]
+}

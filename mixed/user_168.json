@@ -1,0 +1,26 @@
+{
+    "user_id": "b1b1fe9e-79c6-41f0-96b4-532e82f2a7f2",
+    "name": "Clay King",
+    "email": "Mittie48@yahoo.com",
+    "instagram_handle": "@Eliane_Wiegand",
+    "tiktok_handle": "@Cielo56",
+    "joined_at": "2024-12-06T08:30:22.233Z",
+    "advocacy_programs": [
+        {
+            "program_id": "26cdeb6f-ecbe-4d51-82b6-cf38192d7cbe",
+            "brand": "Mante LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f8cfbaa7-9d39-499d-af0b-3d6401542b63",
+                    "platform": "TikTok",
+                    "post_url": "https://drab-sailor.info/",
+                    "likes": 202,
+                    "comments": 10,
+                    "shares": 78,
+                    "reach": 9283
+                }
+            ],
+            "total_sales_attributed": 4741.260271741729
+        }
+    ]
+}

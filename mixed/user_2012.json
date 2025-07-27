@@ -1,0 +1,26 @@
+{
+    "user_id": "0ee05792-6892-42d1-9954-80ad88d31758",
+    "name": "Paul Reyes",
+    "email": "Helga.Pacocha89@hotmail.com",
+    "instagram_handle": "@joshua99",
+    "tiktok_handle": "@hallnicholas",
+    "joined_at": "2024-01-02T01:01:57.486616",
+    "advocacy_programs": [
+        {
+            "program_id": "519570d8-8d2d-4b88-8a08-11d3ed278333",
+            "brand": "Landry, Weber and Horn",
+            "tasks_completed": [
+                {
+                    "task_id": "4449a78b-c1ba-4b26-a9cb-f93cd1e9e741",
+                    "platform": "Instagram",
+                    "post_url": "https://alarmed-marksman.biz",
+                    "likes": 9721,
+                    "comments": 267,
+                    "shares": 62,
+                    "reach": 2798
+                }
+            ],
+            "total_sales_attributed": 2771.9
+        }
+    ]
+}

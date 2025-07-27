@@ -1,0 +1,26 @@
+{
+    "user_id": "030bfe7c-4610-4eca-9410-aaea08fa6152",
+    "name": "Taylor Brown",
+    "email": "joseph26@example.org",
+    "instagram_handle": "@danielsantana",
+    "tiktok_handle": "@morenopatrick",
+    "joined_at": "2024-04-25T14:33:53.628914",
+    "advocacy_programs": [
+        {
+            "program_id": "8fa41e01-71bc-4ed1-8bf0-761884cefcb6",
+            "brand": "Wolff, Harber and Homenick",
+            "tasks_completed": [
+                {
+                    "task_id": "7abb5425-7ae0-47d0-af45-9e6c3e7bda2c",
+                    "platform": "Facebook",
+                    "post_url": "http://flores.com/",
+                    "likes": 392,
+                    "comments": 373,
+                    "shares": 1,
+                    "reach": 6933
+                }
+            ],
+            "total_sales_attributed": 3251.75
+        }
+    ]
+}

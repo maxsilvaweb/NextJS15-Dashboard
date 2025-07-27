@@ -1,0 +1,26 @@
+{
+    "user_id": "0d8afbec-a1d7-401f-812a-7f9dfb11957b",
+    "name": "Jennifer Anthony",
+    "email": "nnelson@example.com",
+    "instagram_handle": "@ejohnson",
+    "tiktok_handle": "@mcgeejessica",
+    "joined_at": "2024-10-07T04:17:37.113186",
+    "advocacy_programs": [
+        {
+            "program_id": "1aa5fb58-41d3-4be2-b6d9-09b7ae5c38cc",
+            "brand": "Martinez-Padilla",
+            "tasks_completed": [
+                {
+                    "task_id": "a2df1aa0-ad24-4fc2-840f-d3165b52e300",
+                    "platform": "Instagram",
+                    "post_url": "http://gonzales.com/",
+                    "likes": 8772,
+                    "comments": 261,
+                    "shares": 76,
+                    "reach": 5391
+                }
+            ],
+            "total_sales_attributed": 2180.36
+        }
+    ]
+}

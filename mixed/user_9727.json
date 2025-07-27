@@ -1,0 +1,26 @@
+{
+    "user_id": "ae18e664-0048-4b44-9675-258fd14e406e",
+    "name": "Lillian Buckridge",
+    "email": "Monte.Ernser90@hotmail.com",
+    "instagram_handle": "@hwarren",
+    "tiktok_handle": "@misty46",
+    "joined_at": "2024-05-15T23:19:51.918995",
+    "advocacy_programs": [
+        {
+            "program_id": "ad613f46-8344-499b-8e98-c949f611cfef",
+            "brand": "Jordan, Schneider and Norman",
+            "tasks_completed": [
+                {
+                    "task_id": "5c09006d-e1e0-4650-92f0-5d8e57746ebb",
+                    "platform": "Facebook",
+                    "post_url": "https://mad-cellar.name/",
+                    "likes": 9132,
+                    "comments": 43,
+                    "shares": 66,
+                    "reach": 8248
+                }
+            ],
+            "total_sales_attributed": 1742.93
+        }
+    ]
+}

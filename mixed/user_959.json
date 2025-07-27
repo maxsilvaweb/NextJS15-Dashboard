@@ -1,0 +1,26 @@
+{
+    "user_id": "1c4b8901-d0d6-4bdb-b912-af739dd50554",
+    "name": "Raymond Gutierrez",
+    "email": "zwilkerson@example.org",
+    "instagram_handle": "@crystal26",
+    "tiktok_handle": "@geraldspence",
+    "joined_at": "2023-08-30T01:07:31.571228",
+    "advocacy_programs": [
+        {
+            "program_id": "2f324ee7-a623-4227-8d43-d97815e5ee30",
+            "brand": "Gallagher-Harvey",
+            "tasks_completed": [
+                {
+                    "task_id": "a463a85d-4622-435c-9061-98df71521c35",
+                    "platform": "TikTok",
+                    "post_url": "https://cross.com/",
+                    "likes": 422,
+                    "comments": 250,
+                    "shares": 35,
+                    "reach": 6660
+                }
+            ],
+            "total_sales_attributed": 1376.94
+        }
+    ]
+}

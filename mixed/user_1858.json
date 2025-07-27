@@ -1,0 +1,26 @@
+{
+    "user_id": "60ad06e4-33e5-4a5f-a17f-a4560dc308b7",
+    "name": "Linda Murazik-Stamm",
+    "email": "Raymundo.Trantow@gmail.com",
+    "instagram_handle": "@Lilly_Hoeger",
+    "tiktok_handle": "@Gina39",
+    "joined_at": "2024-07-15T22:06:38.683Z",
+    "advocacy_programs": [
+        {
+            "program_id": "33c034d8-383a-45f8-8b4c-8b45729a9216",
+            "brand": "Cassin - Lockman",
+            "tasks_completed": [
+                {
+                    "task_id": "ed8c2d5e-4bef-4890-a8ed-6af0b3eef554",
+                    "platform": "Instagram",
+                    "post_url": "https://drab-slipper.com/",
+                    "likes": 228,
+                    "comments": 18,
+                    "shares": 49,
+                    "reach": 6329
+                }
+            ],
+            "total_sales_attributed": 2981.2313505522334
+        }
+    ]
+}

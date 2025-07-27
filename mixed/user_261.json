@@ -1,0 +1,26 @@
+{
+    "user_id": "29210911-160d-4fcb-b7ce-17a0ad4846a9",
+    "name": "Hugh Goldner",
+    "email": "Jewel82@yahoo.com",
+    "instagram_handle": "@Zula91",
+    "tiktok_handle": "@Antone_Daugherty12",
+    "joined_at": "2025-01-29T16:27:05.931Z",
+    "advocacy_programs": [
+        {
+            "program_id": "266f94ac-621f-4e45-8ac2-5ffa2a1fdeb1",
+            "brand": "Rippin Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "55dc455a-f543-4c2b-8e1e-003104ab63ac",
+                    "platform": "TikTok",
+                    "post_url": "https://grimy-sonar.info",
+                    "likes": 15,
+                    "comments": 3,
+                    "shares": 94,
+                    "reach": 502
+                }
+            ],
+            "total_sales_attributed": 2340.1343401518884
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "622ec160-04f6-4ea8-827e-641069ddacaf",
+    "name": "Benjamin Pacocha",
+    "email": "Eliane.Runte42@gmail.com",
+    "instagram_handle": "@Millie81",
+    "tiktok_handle": "@Edmund_Jast86",
+    "joined_at": "2024-09-11T11:16:32.226Z",
+    "advocacy_programs": [
+        {
+            "program_id": "940ba090-3829-4e47-9861-0b92c4dc0398",
+            "brand": "Grant, Fahey and Bogan",
+            "tasks_completed": [
+                {
+                    "task_id": "901977c8-ee70-432b-ace3-cf74ff81cd49",
+                    "platform": "Instagram",
+                    "post_url": "https://closed-remark.com",
+                    "likes": 418,
+                    "comments": 49,
+                    "shares": 57,
+                    "reach": 7698
+                }
+            ],
+            "total_sales_attributed": 1425.1946105933855
+        }
+    ]
+}

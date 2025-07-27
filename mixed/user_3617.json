@@ -1,0 +1,26 @@
+{
+    "user_id": "eba865d8-ce42-4ae8-a05c-c6c04e3ca182",
+    "name": "Naomi Lehner",
+    "email": "Colton_OHara48@hotmail.com",
+    "instagram_handle": "@Joyce_Rowe43",
+    "tiktok_handle": "@Bertha17",
+    "joined_at": "2025-01-13T19:36:39.025Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c830be3b-b2a0-4e5d-99da-0c3c89f61d7a",
+            "brand": "Donnelly - Stark",
+            "tasks_completed": [
+                {
+                    "task_id": "5ca64a0d-7a35-4c12-9b48-873ad73f70a2",
+                    "platform": "Instagram",
+                    "post_url": "https://nautical-eyebrow.name/",
+                    "likes": 105,
+                    "comments": 7,
+                    "shares": 40,
+                    "reach": 935
+                }
+            ],
+            "total_sales_attributed": 606.0696935929249
+        }
+    ]
+}

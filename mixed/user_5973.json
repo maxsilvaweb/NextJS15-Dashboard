@@ -1,0 +1,26 @@
+{
+    "user_id": "da938701-e933-4ef4-b16c-5924d6be4712",
+    "name": "Derek Jones",
+    "email": "rogerscody@example.org",
+    "instagram_handle": "@Perry.Lehner",
+    "tiktok_handle": "@andreaschneider",
+    "joined_at": "2024-12-09T17:57:51.235519",
+    "advocacy_programs": [
+        {
+            "program_id": "64ebc3ad-5307-405c-b594-ed0d4e2b7455",
+            "brand": "Wheeler-Arnold",
+            "tasks_completed": [
+                {
+                    "task_id": "069d3c38-997c-4c2e-b776-4ee8425c7b45",
+                    "platform": "Instagram",
+                    "post_url": "http://www.white.net/",
+                    "likes": 5789,
+                    "comments": 190,
+                    "shares": 78,
+                    "reach": 2991
+                }
+            ],
+            "total_sales_attributed": 4542.21
+        }
+    ]
+}

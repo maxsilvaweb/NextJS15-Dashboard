@@ -1,0 +1,26 @@
+{
+    "user_id": "6a06bb77-c9ab-4980-9d24-3dd6e6a6e1cb",
+    "name": "Kimberly Coleman",
+    "email": "kimberly81@example.net",
+    "instagram_handle": "@pbrown",
+    "tiktok_handle": "@joyce88",
+    "joined_at": "2023-12-07T16:42:52.285098",
+    "advocacy_programs": [
+        {
+            "program_id": "8033db3d-801c-423b-a2a7-d8739109d537",
+            "brand": "Pena, Vasquez and Burke",
+            "tasks_completed": [
+                {
+                    "task_id": "d1828a00-0263-4dd6-86e1-3cc25a555c2e",
+                    "platform": "Facebook",
+                    "post_url": "http://briggs.com/",
+                    "likes": 2791,
+                    "comments": 380,
+                    "shares": 84,
+                    "reach": 8825
+                }
+            ],
+            "total_sales_attributed": 1319.11
+        }
+    ]
+}

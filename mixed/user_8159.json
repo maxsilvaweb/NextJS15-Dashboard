@@ -1,0 +1,26 @@
+{
+    "user_id": "c77e9d0b-437e-4799-bdb3-40fa542dde93",
+    "name": "Miss Virginia Richards",
+    "email": "barrtroy@example.com",
+    "instagram_handle": "@neil07",
+    "tiktok_handle": "@kaylagomez",
+    "joined_at": "2024-04-18T10:11:06.163363",
+    "advocacy_programs": [
+        {
+            "program_id": "2e721c6d-502f-44ae-b579-a5ea0e0d6da1",
+            "brand": "Dixon Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b14c9439-c117-4a23-94b7-21c0abb68a5a",
+                    "platform": "Twitter",
+                    "post_url": "https://miller.org/",
+                    "likes": 4497,
+                    "comments": 50,
+                    "shares": 1,
+                    "reach": 8839
+                }
+            ],
+            "total_sales_attributed": 7160.34
+        }
+    ]
+}

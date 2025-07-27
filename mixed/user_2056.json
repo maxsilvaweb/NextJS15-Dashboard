@@ -1,0 +1,26 @@
+{
+    "user_id": "9f126172-4463-453c-82f9-ca953b913627",
+    "name": "Mitchell Beck",
+    "email": "debra33@example.com",
+    "instagram_handle": "@greenjohn",
+    "tiktok_handle": "@sandra00",
+    "joined_at": "2024-12-24T05:32:39.896472",
+    "advocacy_programs": [
+        {
+            "program_id": "2845bd66-f5f6-4a06-9a41-c40daf86a9e4",
+            "brand": "Powell-Edwards",
+            "tasks_completed": [
+                {
+                    "task_id": "63349ef9-fef8-455d-96e4-1a99f9ad6838",
+                    "platform": "Instagram",
+                    "post_url": "https://tricky-joy.com",
+                    "likes": 284,
+                    "comments": 117,
+                    "shares": 38,
+                    "reach": 5071
+                }
+            ],
+            "total_sales_attributed": 593.861622038328
+        }
+    ]
+}

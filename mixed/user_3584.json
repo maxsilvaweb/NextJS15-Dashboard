@@ -1,0 +1,26 @@
+{
+    "user_id": "8e7c9215-bfc1-4480-8abc-5cf83d9c1ed9",
+    "name": "Joe Kertzmann",
+    "email": "Josiane.Kerluke55@yahoo.com",
+    "instagram_handle": "@Suzanne78",
+    "tiktok_handle": "@Burley67",
+    "joined_at": "2025-01-21T18:42:53.232Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d9d6765c-c98c-4e20-8c2f-efb04d8b3ad4",
+            "brand": "Crona, Osinski and Lesch",
+            "tasks_completed": [
+                {
+                    "task_id": "97a34eb9-16d0-4f60-b987-23981dec732a",
+                    "platform": "Instagram",
+                    "post_url": "https://blushing-sand.org/",
+                    "likes": 112,
+                    "comments": 12,
+                    "shares": 85,
+                    "reach": 683
+                }
+            ],
+            "total_sales_attributed": 681.9639579897935
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3f1374f3-74da-46db-b9a0-5d6c4869e7c4",
+    "name": "Joshua Maldonado",
+    "email": "mmurphy@example.net",
+    "instagram_handle": "@hmora",
+    "tiktok_handle": "@ksoto",
+    "joined_at": "2024-06-25T15:36:25.499810",
+    "advocacy_programs": [
+        {
+            "program_id": "4879e540-5b5a-4eac-995f-98eed7c99e36",
+            "brand": "Bennett-Tran",
+            "tasks_completed": [
+                {
+                    "task_id": "1fc38cfb-4366-4866-91ed-a964496891dd",
+                    "platform": "TikTok",
+                    "post_url": "http://wilson.com/",
+                    "likes": 9368,
+                    "comments": 325,
+                    "shares": 65,
+                    "reach": 1030
+                }
+            ],
+            "total_sales_attributed": 2352.2234670769735
+        }
+    ]
+}

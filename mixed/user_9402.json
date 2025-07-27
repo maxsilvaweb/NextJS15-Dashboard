@@ -1,0 +1,26 @@
+{
+    "user_id": "617b7cd4-a035-42b6-baa0-26bbdcd4eeb7",
+    "name": "Kimberly Walters",
+    "email": "Florencio.Runolfsdottir43@gmail.com",
+    "instagram_handle": "@flane",
+    "tiktok_handle": "@daltonjoshua",
+    "joined_at": "2025-01-06T07:04:31.645621",
+    "advocacy_programs": [
+        {
+            "program_id": "3151f051-fcf6-4966-a2a5-0c597af5ad93",
+            "brand": "Bridges and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "808ea315-4a2a-410f-a32b-126d53b42a6d",
+                    "platform": "Facebook",
+                    "post_url": "https://taylor.info/",
+                    "likes": 208,
+                    "comments": 29,
+                    "shares": 78,
+                    "reach": 8266
+                }
+            ],
+            "total_sales_attributed": 9107.1
+        }
+    ]
+}

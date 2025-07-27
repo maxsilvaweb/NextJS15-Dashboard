@@ -1,0 +1,26 @@
+{
+    "user_id": "dc80c8d7-77c0-48e9-b6cc-9f07da0d1b01",
+    "name": "Dr. Regina Roth",
+    "email": "leejessica@example.com",
+    "instagram_handle": "@mercedes75",
+    "tiktok_handle": "@cameron90",
+    "joined_at": "2025-01-15T18:07:26.467976",
+    "advocacy_programs": [
+        {
+            "program_id": "502adcdd-64c1-4020-bc73-7443c0bf7fed",
+            "brand": "Gonzalez and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "8d3a04f6-840a-4d81-b325-4c3c8ad44fea",
+                    "platform": "Instagram",
+                    "post_url": "http://www.ramirez.org/",
+                    "likes": 3711,
+                    "comments": 488,
+                    "shares": 68,
+                    "reach": 8452
+                }
+            ],
+            "total_sales_attributed": 2261.79
+        }
+    ]
+}

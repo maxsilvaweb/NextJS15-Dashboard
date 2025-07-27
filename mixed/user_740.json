@@ -1,0 +1,26 @@
+{
+    "user_id": "3e40b19b-89fd-41ea-b955-9b5842a4a325",
+    "name": "Gerald Klein II",
+    "email": "Lorenza.Rutherford@hotmail.com",
+    "instagram_handle": "@Francesco.Hagenes",
+    "tiktok_handle": "@Marcellus.OKeefe",
+    "joined_at": "2024-04-13T17:56:56.993Z",
+    "advocacy_programs": [
+        {
+            "program_id": "256d741c-3eca-48b3-8e2c-059931f3524f",
+            "brand": "Lueilwitz - Crona",
+            "tasks_completed": [
+                {
+                    "task_id": "dba6dcce-74ee-457b-a28b-7d513ed15252",
+                    "platform": "TikTok",
+                    "post_url": "https://critical-icebreaker.org",
+                    "likes": 465,
+                    "comments": 12,
+                    "shares": 25,
+                    "reach": 7129
+                }
+            ],
+            "total_sales_attributed": 3928.0018555205133
+        }
+    ]
+}

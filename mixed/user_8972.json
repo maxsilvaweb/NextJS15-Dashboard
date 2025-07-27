@@ -1,0 +1,26 @@
+{
+    "user_id": "54ca2bc2-7372-4387-888b-30c173cd8e85",
+    "name": "Mack Auer",
+    "email": "Bethany_Kuhn49@gmail.com",
+    "instagram_handle": "@Riley_Wilderman24",
+    "tiktok_handle": "@Alessandro_Kozey63",
+    "joined_at": "2025-01-30T11:29:42.399Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f6d11064-a451-4558-93ea-0b6e7706182e",
+            "brand": "Nicolas and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "3b8610f2-08f4-4959-82fa-1267242cae45",
+                    "platform": "TikTok",
+                    "post_url": "https://magnificent-heating.com/",
+                    "likes": 369,
+                    "comments": 44,
+                    "shares": 49,
+                    "reach": 4254
+                }
+            ],
+            "total_sales_attributed": 4898.530551954557
+        }
+    ]
+}

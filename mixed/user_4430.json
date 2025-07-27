@@ -1,0 +1,26 @@
+{
+    "user_id": "553ec288-f1d7-49c3-a8c9-f546b36ae91e",
+    "name": "Rhonda Breitenberg",
+    "email": "Alysha34@hotmail.com",
+    "instagram_handle": "@Erika.Gerhold",
+    "tiktok_handle": "@Conner.Koepp19",
+    "joined_at": "2024-04-17T13:21:04.441Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9951fab9-6100-43b3-8f1a-839a4db68325",
+            "brand": "Kutch Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "50d35f4e-2953-45db-ac54-c1683c845525",
+                    "platform": "TikTok",
+                    "post_url": "https://spotless-giggle.com",
+                    "likes": 262,
+                    "comments": 24,
+                    "shares": 72,
+                    "reach": 2122
+                }
+            ],
+            "total_sales_attributed": 4929.468168170022
+        }
+    ]
+}

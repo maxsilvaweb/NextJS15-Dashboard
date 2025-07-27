@@ -1,0 +1,26 @@
+{
+    "user_id": "dafa529f-080e-4b28-b49e-a2f056bbbdfa",
+    "name": "Mr. Bradley Collins Sr.",
+    "email": "Demarcus.Schultz@gmail.com",
+    "instagram_handle": "@jennybarnes",
+    "tiktok_handle": "@sdoyle",
+    "joined_at": "2024-07-27T10:02:58.623070",
+    "advocacy_programs": [
+        {
+            "program_id": "ef6d27e0-2174-4a46-8dfe-637066ab11cb",
+            "brand": "Nichols, Brown and Salas",
+            "tasks_completed": [
+                {
+                    "task_id": "9f2ab90f-57a6-4612-9677-22861c75576e",
+                    "platform": "TikTok",
+                    "post_url": "https://benjamin.com/",
+                    "likes": 479,
+                    "comments": 304,
+                    "shares": 43,
+                    "reach": 5174
+                }
+            ],
+            "total_sales_attributed": 7673.84
+        }
+    ]
+}

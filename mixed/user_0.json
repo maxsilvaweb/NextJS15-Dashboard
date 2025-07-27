@@ -1,0 +1,26 @@
+{
+    "user_id": "e0136989-93fa-4bb1-a417-e9b02caf02ba",
+    "name": "Toni Grady",
+    "email": "brittney84@example.net",
+    "instagram_handle": "@Ocie.Schiller-Gerhold48",
+    "tiktok_handle": "@doughertymark",
+    "joined_at": "2024-08-26T21:40:40.593872",
+    "advocacy_programs": [
+        {
+            "program_id": "1ffb1731-8350-4a29-85fd-f85b89dd8bf4",
+            "brand": "Douglas-Vasquez",
+            "tasks_completed": [
+                {
+                    "task_id": "cbef90a8-ec80-4df6-807e-19e96be7874f",
+                    "platform": "TikTok",
+                    "post_url": "https://www.martin-carroll.org/",
+                    "likes": 4944,
+                    "comments": 1,
+                    "shares": 32,
+                    "reach": 7087
+                }
+            ],
+            "total_sales_attributed": 3381.03
+        }
+    ]
+}

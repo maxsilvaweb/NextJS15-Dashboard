@@ -1,0 +1,26 @@
+{
+    "user_id": "9f08ffa8-b273-4c38-9a90-fbd08f07837d",
+    "name": "Megan Long",
+    "email": "jennifermiller@example.net",
+    "instagram_handle": "@heidismith",
+    "tiktok_handle": "@xpitts",
+    "joined_at": "2025-06-27T07:32:51.472179",
+    "advocacy_programs": [
+        {
+            "program_id": "9fff0563-9f2c-433e-ba73-eb0b9e032cfa",
+            "brand": "Estrada-Guzman",
+            "tasks_completed": [
+                {
+                    "task_id": "cde766c7-6a09-4674-94d2-d1d267407352",
+                    "platform": "Facebook",
+                    "post_url": "https://norton.org/",
+                    "likes": 9920,
+                    "comments": 357,
+                    "shares": 18,
+                    "reach": 5216
+                }
+            ],
+            "total_sales_attributed": 6379.37
+        }
+    ]
+}

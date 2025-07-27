@@ -1,0 +1,26 @@
+{
+    "user_id": "7254be39-6beb-40c8-aa7c-0fe9399dd875",
+    "name": "Shawn Page",
+    "email": "Karlee_Abernathy43@hotmail.com",
+    "instagram_handle": "@Veronica_Bernhard83",
+    "tiktok_handle": "@renee09",
+    "joined_at": "2023-12-18T08:49:42.328356",
+    "advocacy_programs": [
+        {
+            "program_id": "23c69add-8d6e-474b-af0b-3fa37ed9c7e3",
+            "brand": "Moore and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "fa97c683-1cc8-44a8-8049-dd212438fb30",
+                    "platform": "Facebook",
+                    "post_url": "http://johnson.com/",
+                    "likes": 765,
+                    "comments": 285,
+                    "shares": 22,
+                    "reach": 7092
+                }
+            ],
+            "total_sales_attributed": 6570.77
+        }
+    ]
+}

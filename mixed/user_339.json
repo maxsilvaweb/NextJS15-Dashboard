@@ -1,0 +1,26 @@
+{
+    "user_id": "df96de0d-64c2-4143-acb1-a6d08ce938e1",
+    "name": "Jessica Villanueva",
+    "email": "moorekenneth@example.org",
+    "instagram_handle": "@kevinwarren",
+    "tiktok_handle": "@ftucker",
+    "joined_at": "2024-10-05T13:09:27.603213",
+    "advocacy_programs": [
+        {
+            "program_id": "de1568e5-1c38-422e-93c3-af26e07fbb51",
+            "brand": "Frazier-Lee",
+            "tasks_completed": [
+                {
+                    "task_id": "a9d52a7f-72ac-4578-81d8-f9c7c8c1a326",
+                    "platform": "Instagram",
+                    "post_url": "https://www.thomas.com/",
+                    "likes": 2333,
+                    "comments": 27,
+                    "shares": 52,
+                    "reach": 4314
+                }
+            ],
+            "total_sales_attributed": 7290.99
+        }
+    ]
+}

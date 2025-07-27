@@ -1,0 +1,26 @@
+{
+    "user_id": "780b77f7-cb5d-4af6-b9b5-04a0e19534f8",
+    "name": "Kate Koelpin",
+    "email": "Esta47@hotmail.com",
+    "instagram_handle": "@Ulices.Ziemann35",
+    "tiktok_handle": "@Ernestine.Hintz94",
+    "joined_at": "2024-12-23T05:52:05.766Z",
+    "advocacy_programs": [
+        {
+            "program_id": "98e7e3f0-75eb-4548-aec6-dd873576108d",
+            "brand": "Lockman, Von and Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "a7561f9e-b4df-49e4-bee3-e0fe97e5bb06",
+                    "platform": "Instagram",
+                    "post_url": "https://excitable-complication.net/",
+                    "likes": 371,
+                    "comments": 26,
+                    "shares": 73,
+                    "reach": 3877
+                }
+            ],
+            "total_sales_attributed": 4879.280810776866
+        }
+    ]
+}

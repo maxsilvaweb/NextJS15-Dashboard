@@ -1,0 +1,26 @@
+{
+    "user_id": "ae6e9965-fc90-4b91-b277-d0e5a795b565",
+    "name": "Andrea Garcia",
+    "email": "mooredaniel@example.com",
+    "instagram_handle": "@robert54",
+    "tiktok_handle": "@samantha60",
+    "joined_at": "2023-11-14T03:59:41.734939",
+    "advocacy_programs": [
+        {
+            "program_id": "91e26eef-e9db-41d9-8ab3-ebebede60b66",
+            "brand": "Peterson-Morgan",
+            "tasks_completed": [
+                {
+                    "task_id": "8258f984-0fbf-4de8-9645-b8b803dec13a",
+                    "platform": "Instagram",
+                    "post_url": "https://dual-resolve.com/",
+                    "likes": 232,
+                    "comments": 443,
+                    "shares": 93,
+                    "reach": 9509
+                }
+            ],
+            "total_sales_attributed": 6937.35
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "405cba74-5753-4656-a64a-25b0cd7666b8",
+    "name": "Michael Walsh",
+    "email": "haleymendoza@example.org",
+    "instagram_handle": "@dsmith",
+    "tiktok_handle": "@Clementine.Senger-Roob54",
+    "joined_at": "2025-04-28T13:09:25.043300",
+    "advocacy_programs": [
+        {
+            "program_id": "2f38d1eb-3e38-47e3-8e0a-d261c8614159",
+            "brand": "Jackson-Hernandez",
+            "tasks_completed": [
+                {
+                    "task_id": "26cc93bc-bf75-4af8-9570-55ed58c97454",
+                    "platform": "TikTok",
+                    "post_url": "http://www.bender.biz/",
+                    "likes": 1471,
+                    "comments": 4,
+                    "shares": 25,
+                    "reach": 8437
+                }
+            ],
+            "total_sales_attributed": 2120.59
+        }
+    ]
+}

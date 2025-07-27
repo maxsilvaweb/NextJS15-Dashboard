@@ -1,0 +1,26 @@
+{
+    "user_id": "dae6f8d1-3a21-4e63-8425-cdb8bd03d23f",
+    "name": "Dr. Ralph Kulas",
+    "email": "Alta_Schuster93@yahoo.com",
+    "instagram_handle": "@Kallie.Fisher78",
+    "tiktok_handle": "@Amely_Towne",
+    "joined_at": "2024-08-27T12:51:21.985Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2cc3b2dd-f1ad-415e-a8b9-ff7ad40e699a",
+            "brand": "Lang - Leffler",
+            "tasks_completed": [
+                {
+                    "task_id": "84b409a3-bf97-41ff-b1a9-a6bce29b1db1",
+                    "platform": "TikTok",
+                    "post_url": "https://triangular-dwell.name",
+                    "likes": 93,
+                    "comments": 10,
+                    "shares": 71,
+                    "reach": 6795
+                }
+            ],
+            "total_sales_attributed": 4462.0985019601085
+        }
+    ]
+}

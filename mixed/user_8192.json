@@ -1,0 +1,26 @@
+{
+    "user_id": "b2f83fe2-b90d-45f9-83a2-7ff435c49600",
+    "name": "John Collins",
+    "email": "patrickamber@example.com",
+    "instagram_handle": "@hudsonpaula",
+    "tiktok_handle": "@alejandranash",
+    "joined_at": "2024-08-16T02:06:25.965281",
+    "advocacy_programs": [
+        {
+            "program_id": "eaa82d65-cca0-4449-9cff-4b6abdaac504",
+            "brand": "White PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d00e1d8f-4ffc-4c53-b049-1bb662e5c964",
+                    "platform": "Instagram",
+                    "post_url": "https://mammoth-secret.biz",
+                    "likes": 1780,
+                    "comments": 24,
+                    "shares": 53,
+                    "reach": 7612
+                }
+            ],
+            "total_sales_attributed": 6982.28
+        }
+    ]
+}

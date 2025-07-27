@@ -1,0 +1,26 @@
+{
+    "user_id": "1f1445ef-c95b-4c2d-95b1-eba2b30ea071",
+    "name": "Ashley Cardenas",
+    "email": "woodwardkevin@example.net",
+    "instagram_handle": "@david85",
+    "tiktok_handle": "@abauer",
+    "joined_at": "2024-07-13T00:04:07.085074",
+    "advocacy_programs": [
+        {
+            "program_id": "501c2745-8b1c-4cae-88cd-f1be3acba306",
+            "brand": "Hernandez, Wagner and Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "7146dc30-47cc-42a0-8ca8-807135ffbda9",
+                    "platform": "TikTok",
+                    "post_url": "https://www.ford.com/",
+                    "likes": 489,
+                    "comments": 270,
+                    "shares": 8,
+                    "reach": 8621
+                }
+            ],
+            "total_sales_attributed": 4540.12
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0f82cf33-8117-46d8-b399-b8294719864c",
+    "name": "Richard Frye",
+    "email": "Tierra5@hotmail.com",
+    "instagram_handle": "@dcook",
+    "tiktok_handle": "@emily15",
+    "joined_at": "2024-05-25T21:02:53.199Z",
+    "advocacy_programs": [
+        {
+            "program_id": "55cc6e50-604b-4cff-9a58-deb30e2fe871",
+            "brand": "Brown-Park",
+            "tasks_completed": [
+                {
+                    "task_id": "04b604f3-2055-4967-9a05-5e4dddc28afa",
+                    "platform": "TikTok",
+                    "post_url": "https://esparza.com/",
+                    "likes": 4882,
+                    "comments": 386,
+                    "shares": 12,
+                    "reach": 6697
+                }
+            ],
+            "total_sales_attributed": 8956.6
+        }
+    ]
+}

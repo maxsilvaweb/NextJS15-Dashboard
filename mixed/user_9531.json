@@ -1,0 +1,26 @@
+{
+    "user_id": "79779c21-b3ab-4591-af31-bd58730c119a",
+    "name": "Sabrina Nienow",
+    "email": "robertchavez@example.org",
+    "instagram_handle": "@jamesgomez",
+    "tiktok_handle": "@joshuareynolds",
+    "joined_at": "2024-05-13T01:56:11.435935",
+    "advocacy_programs": [
+        {
+            "program_id": "a5a9dc96-da0d-4a82-b9eb-4f9e687f3ccf",
+            "brand": "Snow, Peters and Fisher",
+            "tasks_completed": [
+                {
+                    "task_id": "513e6a3a-d6fb-41ec-8ef0-1829e468698d",
+                    "platform": "Facebook",
+                    "post_url": "https://kelley.com/",
+                    "likes": 13,
+                    "comments": 242,
+                    "shares": 31,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 5520.28
+        }
+    ]
+}

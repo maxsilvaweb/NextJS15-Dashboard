@@ -1,0 +1,26 @@
+{
+    "user_id": "9b54bb1c-c199-4cfe-9241-24af36dcfb14",
+    "name": "Jessica Sanchez",
+    "email": "marywells@example.net",
+    "instagram_handle": "@benjaminmckenzie",
+    "tiktok_handle": "@wernertammy",
+    "joined_at": "2025-05-04T16:27:51.218649",
+    "advocacy_programs": [
+        {
+            "program_id": "393de48c-0247-4da6-8758-afbd0d2716c9",
+            "brand": "Suarez-Olsen",
+            "tasks_completed": [
+                {
+                    "task_id": "66a35ab8-5e1b-4d7c-9db1-44fcba4ee369",
+                    "platform": "TikTok",
+                    "post_url": "http://www.tran.org/",
+                    "likes": 6948,
+                    "comments": 180,
+                    "shares": 29,
+                    "reach": 3029
+                }
+            ],
+            "total_sales_attributed": 3763.26
+        }
+    ]
+}

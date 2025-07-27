@@ -1,0 +1,26 @@
+{
+    "user_id": "67086e2b-bc04-4fbd-a111-e66549c6ecf5",
+    "name": "Ms. Bernice Lowe",
+    "email": "Federico_Hyatt@hotmail.com",
+    "instagram_handle": "@Angus_Paucek",
+    "tiktok_handle": "@Retta_Smitham",
+    "joined_at": "2024-05-21T14:37:55.296Z",
+    "advocacy_programs": [
+        {
+            "program_id": "47c20c81-153e-41e7-aec8-d646df3726d5",
+            "brand": "Olson, Klein and Bechtelar",
+            "tasks_completed": [
+                {
+                    "task_id": "ecc7c89c-0d9e-4ab5-ae45-0d9ee2761d3b",
+                    "platform": "TikTok",
+                    "post_url": "https://boiling-backbone.name",
+                    "likes": 193,
+                    "comments": 36,
+                    "shares": 34,
+                    "reach": 7721
+                }
+            ],
+            "total_sales_attributed": 3781.860958638742
+        }
+    ]
+}

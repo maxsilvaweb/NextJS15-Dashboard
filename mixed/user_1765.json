@@ -1,0 +1,26 @@
+{
+    "user_id": "6e269092-e13e-4bec-b5a4-1eb7d8ef511f",
+    "name": "Anna Grant",
+    "email": "Macey.Tromp81@yahoo.com",
+    "instagram_handle": "@kellyhuffman",
+    "tiktok_handle": "@sanchezcharles",
+    "joined_at": "2024-08-13T09:33:02.156966",
+    "advocacy_programs": [
+        {
+            "program_id": "1cbd7ca8-ea67-4fe8-b29f-d5e5e64a4ee3",
+            "brand": "Doyle, Graham and Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "1dab4564-8bb6-40e9-b5f7-32b10053c11f",
+                    "platform": "Facebook",
+                    "post_url": "https://valdez-munoz.com/",
+                    "likes": 4076,
+                    "comments": 11,
+                    "shares": 50,
+                    "reach": 526
+                }
+            ],
+            "total_sales_attributed": 1292.01
+        }
+    ]
+}

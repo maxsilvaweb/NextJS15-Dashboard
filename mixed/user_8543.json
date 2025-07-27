@@ -1,0 +1,26 @@
+{
+    "user_id": "6db426a6-8c2c-4fe7-8b1b-b1cb21412361",
+    "name": "Orville Schoen",
+    "email": "Hillary_Feest29@gmail.com",
+    "instagram_handle": "@Sophie16",
+    "tiktok_handle": "@Devon_Smith40",
+    "joined_at": "2024-05-27T04:24:49.141Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9033a00e-512e-4813-86c0-76973cfc9ec8",
+            "brand": "Abshire and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "96593477-285e-487a-839d-4af8f7556afd",
+                    "platform": "Instagram",
+                    "post_url": "https://silver-strait.net/",
+                    "likes": 265,
+                    "comments": 7,
+                    "shares": 36,
+                    "reach": 2976
+                }
+            ],
+            "total_sales_attributed": 4588.135787693604
+        }
+    ]
+}

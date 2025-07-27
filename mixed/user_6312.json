@@ -1,0 +1,26 @@
+{
+    "user_id": "00e0e60a-0b47-4f65-9d10-9ba26febae8f",
+    "name": "Tammy Lester",
+    "email": "matthewreyes@example.com",
+    "instagram_handle": "@petersonisaac",
+    "tiktok_handle": "@aray",
+    "joined_at": "2023-11-28T17:39:35.842171",
+    "advocacy_programs": [
+        {
+            "program_id": "1e952051-bb78-4c0a-9033-11af1c397247",
+            "brand": "Gorczany Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "7d398f66-e1e0-4b54-8781-9a397f1313cd",
+                    "platform": "Instagram",
+                    "post_url": "https://serene-resource.biz",
+                    "likes": 24,
+                    "comments": 394,
+                    "shares": 75,
+                    "reach": 7138
+                }
+            ],
+            "total_sales_attributed": 752.2
+        }
+    ]
+}

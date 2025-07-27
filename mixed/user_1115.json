@@ -1,0 +1,26 @@
+{
+    "user_id": "d1f03bfb-29a3-4ad2-9209-439304870d83",
+    "name": "Daniel Forbes",
+    "email": "baldwinlisa@example.net",
+    "instagram_handle": "@Sadie_Boyle62",
+    "tiktok_handle": "@hansonemily",
+    "joined_at": "2025-07-07T22:30:01.637981",
+    "advocacy_programs": [
+        {
+            "program_id": "ef269c99-2ace-4dc8-b272-f5b46192ef7e",
+            "brand": "Bell, Taylor and Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "6d2d6a15-7210-4c0f-bcdd-6d94c4f189dd",
+                    "platform": "TikTok",
+                    "post_url": "https://happy-thorn.com/",
+                    "likes": 64,
+                    "comments": 370,
+                    "shares": 41,
+                    "reach": 7237
+                }
+            ],
+            "total_sales_attributed": 5624.02
+        }
+    ]
+}

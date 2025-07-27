@@ -1,0 +1,26 @@
+{
+    "user_id": "d407c961-72e4-499c-9ac4-6b5dcea475f7",
+    "name": "Robin Williams",
+    "email": "mullinsdaniel@example.net",
+    "instagram_handle": "@xprice",
+    "tiktok_handle": "@davidflores",
+    "joined_at": "2024-11-14T14:21:11.915910",
+    "advocacy_programs": [
+        {
+            "program_id": "23041640-2002-4ad5-90bc-f77211cf35b7",
+            "brand": "Gardner PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "745a8cb8-b904-4c54-ba41-2a96a87dff3b",
+                    "platform": "TikTok",
+                    "post_url": "https://martin.com/",
+                    "likes": 324,
+                    "comments": 0,
+                    "shares": 20,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 771.29
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ba0176cb-b054-495d-988d-8ccd1e26e8ec",
+    "name": "Regina Hermann",
+    "email": "Ara20@hotmail.com",
+    "instagram_handle": "@Saul1",
+    "tiktok_handle": "@Isabelle_Harris",
+    "joined_at": "2024-10-06T18:17:34.604Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9a84a4ad-e858-42e9-b505-fa4be9b06b20",
+            "brand": "Cruickshank - Lakin",
+            "tasks_completed": [
+                {
+                    "task_id": "0fad35e2-43cd-4195-880e-15ece53dd535",
+                    "platform": "TikTok",
+                    "post_url": "https://jam-packed-finer.info",
+                    "likes": 132,
+                    "comments": 24,
+                    "shares": 59,
+                    "reach": 8968
+                }
+            ],
+            "total_sales_attributed": 1798.618532660436
+        }
+    ]
+}

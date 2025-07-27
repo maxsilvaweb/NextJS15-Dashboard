@@ -1,0 +1,26 @@
+{
+    "user_id": "c7e264c5-beff-461f-854c-2d4e651f5e64",
+    "name": "Sheryl Cremin",
+    "email": "james63@example.org",
+    "instagram_handle": "@david26",
+    "tiktok_handle": "@adriana89",
+    "joined_at": "2025-06-10T11:18:29.465569",
+    "advocacy_programs": [
+        {
+            "program_id": "9b0d0545-89ca-4a81-a0ad-98e1d2e01255",
+            "brand": "Lopez, Cox and Medina",
+            "tasks_completed": [
+                {
+                    "task_id": "e0d0f186-5cfe-4794-bd60-516dea37cd91",
+                    "platform": "YouTube",
+                    "post_url": "https://hayes.com/",
+                    "likes": 552,
+                    "comments": 265,
+                    "shares": 10,
+                    "reach": 3578
+                }
+            ],
+            "total_sales_attributed": 5350.5
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "01ce4d16-265a-4517-92b8-eafba5cb0645",
+    "name": "Mark Hernandez",
+    "email": "everettshannon@example.org",
+    "instagram_handle": "@hannah02",
+    "tiktok_handle": "@ariel87",
+    "joined_at": "2025-01-21T00:11:39.358Z",
+    "advocacy_programs": [
+        {
+            "program_id": "94501ec9-07c0-4b80-b00d-2400953354ed",
+            "brand": "Rogers, Gray and Maldonado",
+            "tasks_completed": [
+                {
+                    "task_id": "30846d7a-f99b-4ecf-baae-ccba9dd1150c",
+                    "platform": "TikTok",
+                    "post_url": "https://stephens.com/",
+                    "likes": 6397,
+                    "comments": 71,
+                    "shares": 73,
+                    "reach": 9542
+                }
+            ],
+            "total_sales_attributed": 2757.0535613762545
+        }
+    ]
+}

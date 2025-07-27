@@ -1,0 +1,26 @@
+{
+    "user_id": "1138fa7a-36bb-49da-a894-556a311485c7",
+    "name": "Brandon King",
+    "email": "gfranklin@example.com",
+    "instagram_handle": "@carlasantos",
+    "tiktok_handle": "@lvalenzuela",
+    "joined_at": "2025-02-15T14:01:36.111410",
+    "advocacy_programs": [
+        {
+            "program_id": "a10a5c51-2d6a-46cf-9562-5b3f70dc45f4",
+            "brand": "Bradley-Everett",
+            "tasks_completed": [
+                {
+                    "task_id": "b6031d05-b9dd-449f-909f-450d393dfeea",
+                    "platform": "Instagram",
+                    "post_url": "https://www.gray.com/",
+                    "likes": 3312,
+                    "comments": 261,
+                    "shares": 2,
+                    "reach": 2959
+                }
+            ],
+            "total_sales_attributed": 836.7079271915356
+        }
+    ]
+}

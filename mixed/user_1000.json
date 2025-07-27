@@ -1,0 +1,26 @@
+{
+    "user_id": "b1b8ac03-5c41-4992-bda5-be2a3f35f36e",
+    "name": "Timothy House",
+    "email": "stephanie97@example.net",
+    "instagram_handle": "@jamessnyder",
+    "tiktok_handle": "@markreid",
+    "joined_at": "2025-01-28T12:53:41.890016",
+    "advocacy_programs": [
+        {
+            "program_id": "cfd6bc19-1db0-466f-8fbb-e5d39c0eace2",
+            "brand": "Martin, Cox and Norman",
+            "tasks_completed": [
+                {
+                    "task_id": "005a9786-fcf8-4ae3-bfde-6a89ae113a64",
+                    "platform": "Instagram",
+                    "post_url": "http://www.taylor-chandler.com/",
+                    "likes": 7832,
+                    "comments": 147,
+                    "shares": 86,
+                    "reach": 7673
+                }
+            ],
+            "total_sales_attributed": 1263.9114469890421
+        }
+    ]
+}

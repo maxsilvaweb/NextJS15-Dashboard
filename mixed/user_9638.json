@@ -1,0 +1,26 @@
+{
+    "user_id": "dce35e31-71c2-432f-8e80-bcddc172a1a0",
+    "name": "Nathan Barrett",
+    "email": "pmiles@example.org",
+    "instagram_handle": "@monroejeff",
+    "tiktok_handle": "@snowallison",
+    "joined_at": "2024-11-06T16:08:44.099089",
+    "advocacy_programs": [
+        {
+            "program_id": "b3af4327-3ef3-4cbd-9e65-5e79b783765c",
+            "brand": "Larson, Blanda and Parisian",
+            "tasks_completed": [
+                {
+                    "task_id": "583c8441-703e-42a5-bdd9-632204b555ea",
+                    "platform": "Facebook",
+                    "post_url": "https://www.williams-jones.info/",
+                    "likes": 5573,
+                    "comments": 310,
+                    "shares": 3,
+                    "reach": 5597
+                }
+            ],
+            "total_sales_attributed": 851.8089042099358
+        }
+    ]
+}

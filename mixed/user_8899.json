@@ -1,0 +1,26 @@
+{
+    "user_id": "d1d4e6e8-e3ea-4ffb-8f1d-32bd83d9a0f8",
+    "name": "Matthew Farmer",
+    "email": "amandawilson@example.com",
+    "instagram_handle": "@anthony63",
+    "tiktok_handle": "@cruzdavid",
+    "joined_at": "2025-07-18T04:39:12.907179",
+    "advocacy_programs": [
+        {
+            "program_id": "0a635c15-4e6e-47cf-83d1-966511085b3b",
+            "brand": "Evans LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "07b49080-4d05-4ecd-ba54-8cbad970f9a6",
+                    "platform": "Facebook",
+                    "post_url": "https://lopez-kane.com/",
+                    "likes": 3936,
+                    "comments": 18,
+                    "shares": 1,
+                    "reach": 5211
+                }
+            ],
+            "total_sales_attributed": 9450.08
+        }
+    ]
+}

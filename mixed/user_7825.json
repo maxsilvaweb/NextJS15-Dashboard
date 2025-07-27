@@ -1,0 +1,26 @@
+{
+    "user_id": "6800d700-983a-410e-921c-54b5d161a0f7",
+    "name": "Kara Hermiston",
+    "email": "Oma_Huel@hotmail.com",
+    "instagram_handle": "@Rick.OConnell",
+    "tiktok_handle": "@Ashleigh81",
+    "joined_at": "2024-05-08T05:51:28.887Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6718770b-93ea-46f5-99ff-5b5c216829c5",
+            "brand": "Konopelski, Pagac and Shields",
+            "tasks_completed": [
+                {
+                    "task_id": "6c9f46a9-db6e-40bb-8f0b-76ac1d38118a",
+                    "platform": "Instagram",
+                    "post_url": "https://strict-traditionalism.info",
+                    "likes": 175,
+                    "comments": 14,
+                    "shares": 16,
+                    "reach": 8730
+                }
+            ],
+            "total_sales_attributed": 4355.72209188026
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "af585ad6-5052-4cfb-b137-8c32fd0c6f92",
+    "name": "Melinda Ibarra",
+    "email": "sarahblack@example.com",
+    "instagram_handle": "@cclements",
+    "tiktok_handle": "@stacy61",
+    "joined_at": "2023-09-28T02:05:01.335632",
+    "advocacy_programs": [
+        {
+            "program_id": "109bd084-a485-42ed-b45a-68a0a43e430a",
+            "brand": "Myers-Carter",
+            "tasks_completed": [
+                {
+                    "task_id": "dadd4d21-38ae-43a2-85de-47de0b0c5be9",
+                    "platform": "TikTok",
+                    "post_url": "http://www.phillips.biz/",
+                    "likes": 4521,
+                    "comments": 432,
+                    "shares": 43,
+                    "reach": 5935
+                }
+            ],
+            "total_sales_attributed": 3806.97
+        }
+    ]
+}

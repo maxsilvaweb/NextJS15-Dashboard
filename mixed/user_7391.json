@@ -1,0 +1,26 @@
+{
+    "user_id": "9405a91a-ac3b-4806-9915-76b189bd535c",
+    "name": "Renee Massey",
+    "email": "michaelmcdonald@example.org",
+    "instagram_handle": "@waltercarr",
+    "tiktok_handle": "@davidcombs",
+    "joined_at": "2024-09-15T16:15:17.501790",
+    "advocacy_programs": [
+        {
+            "program_id": "f5c0c7fe-0de1-401a-817a-2d0999011669",
+            "brand": "Mccormick-Walker",
+            "tasks_completed": [
+                {
+                    "task_id": "7c360edb-4929-42b9-94da-7ee82d463437",
+                    "platform": "TikTok",
+                    "post_url": "https://chen.com/",
+                    "likes": 44,
+                    "comments": 50,
+                    "shares": 80,
+                    "reach": 2821
+                }
+            ],
+            "total_sales_attributed": 446.05
+        }
+    ]
+}

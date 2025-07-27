@@ -1,0 +1,26 @@
+{
+    "user_id": "57f39f5e-4212-4dd3-b209-ffd1a4fc627f",
+    "name": "Paula Boyle",
+    "email": "zwilson@example.org",
+    "instagram_handle": "@terri76",
+    "tiktok_handle": "@lgarza",
+    "joined_at": "2023-11-13T14:44:02.391589",
+    "advocacy_programs": [
+        {
+            "program_id": "ff4ac9eb-7b71-4245-894a-20cbb05aa1da",
+            "brand": "Brown and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "22aef547-231d-45df-b0c9-23456a6fb13f",
+                    "platform": "Facebook",
+                    "post_url": "http://www.wilkins-jones.info/",
+                    "likes": 7831,
+                    "comments": 328,
+                    "shares": 75,
+                    "reach": 2915
+                }
+            ],
+            "total_sales_attributed": 570.82
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "496857a6-6d7d-4122-938b-f7aaae14690a",
+    "name": "Hailey Herring",
+    "email": "martinsarah@example.com",
+    "instagram_handle": "@koliver",
+    "tiktok_handle": "@mitchelltaylor",
+    "joined_at": "2024-03-04T12:41:25.431651",
+    "advocacy_programs": [
+        {
+            "program_id": "91324002-738c-4831-a2ac-3bb17c0defca",
+            "brand": "Smith Group",
+            "tasks_completed": [
+                {
+                    "task_id": "14178b89-4e34-4bf1-bf0c-2e52e70ea331",
+                    "platform": "Instagram",
+                    "post_url": "https://reynolds-roth.info/",
+                    "likes": 951,
+                    "comments": 243,
+                    "shares": 19,
+                    "reach": 3871
+                }
+            ],
+            "total_sales_attributed": 6839.99
+        }
+    ]
+}

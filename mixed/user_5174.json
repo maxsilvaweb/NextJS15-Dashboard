@@ -1,0 +1,26 @@
+{
+    "user_id": "74cfe98b-3dfd-473e-b889-8e34d14e100a",
+    "name": "Gustavo Luettgen",
+    "email": "Cristal24@gmail.com",
+    "instagram_handle": "@Kevin.Hackett-Mraz",
+    "tiktok_handle": "@Odell_Powlowski",
+    "joined_at": "2024-09-08T03:24:21.947Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0ce13ef5-a4ed-4211-9a52-5020caa0c844",
+            "brand": "Turcotte, Champlin and Crist",
+            "tasks_completed": [
+                {
+                    "task_id": "bf3f672a-dc4a-4da3-b74b-645a6be62ae1",
+                    "platform": "TikTok",
+                    "post_url": "https://moist-airmail.com/",
+                    "likes": 163,
+                    "comments": 31,
+                    "shares": 59,
+                    "reach": 8680
+                }
+            ],
+            "total_sales_attributed": 416.2839053248449
+        }
+    ]
+}

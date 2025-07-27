@@ -1,0 +1,26 @@
+{
+    "user_id": "9d59df12-afc1-4c38-af9b-df6e8f9ab535",
+    "name": "Mrs. Lindsay Casper II",
+    "email": "Emmy24@gmail.com",
+    "instagram_handle": "@Marquis.Ullrich",
+    "tiktok_handle": "@Wilber_Volkman77",
+    "joined_at": "2024-04-14T16:37:41.610Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9e6b767c-b0f8-4c08-ba42-b4f1f953035b",
+            "brand": "Rice - Hand",
+            "tasks_completed": [
+                {
+                    "task_id": "429baaba-5a76-4ccb-a8c8-abd8eb937611",
+                    "platform": "TikTok",
+                    "post_url": "https://pricey-ribbon.net",
+                    "likes": 257,
+                    "comments": 47,
+                    "shares": 7,
+                    "reach": 739
+                }
+            ],
+            "total_sales_attributed": 249.81600410312933
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "08d344af-efec-4a14-a327-1037ac274171",
+    "name": "Diana Calhoun",
+    "email": "garciapamela@example.net",
+    "instagram_handle": "@zlee",
+    "tiktok_handle": "@lesliesanchez",
+    "joined_at": "2024-08-05T13:47:26.400Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5a86e56f-211d-4251-87e5-7dc71dd4029e",
+            "brand": "Morales, Mccullough and Green",
+            "tasks_completed": [
+                {
+                    "task_id": "f3b63615-5fce-4386-85eb-b7de33a7ee25",
+                    "platform": "TikTok",
+                    "post_url": "https://miserable-replacement.net/",
+                    "likes": 8349,
+                    "comments": 470,
+                    "shares": 13,
+                    "reach": 2449
+                }
+            ],
+            "total_sales_attributed": 2417.87
+        }
+    ]
+}

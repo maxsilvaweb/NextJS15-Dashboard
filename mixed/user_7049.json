@@ -1,0 +1,26 @@
+{
+    "user_id": "f92f4ee5-e32a-4f07-b0db-3e6087f31762",
+    "name": "Jackie Bernier PhD",
+    "email": "Ray.Streich87@gmail.com",
+    "instagram_handle": "@Justen82",
+    "tiktok_handle": "@Ariane.Rempel63",
+    "joined_at": "2024-07-07T04:43:13.469Z",
+    "advocacy_programs": [
+        {
+            "program_id": "de066379-6572-461c-9d79-f5ec9f1f153f",
+            "brand": "Murray, Denesik and Howe",
+            "tasks_completed": [
+                {
+                    "task_id": "ca8999e7-2b95-4f87-93bf-3c2d709832f8",
+                    "platform": "Instagram",
+                    "post_url": "https://guilty-hammock.org",
+                    "likes": 190,
+                    "comments": 27,
+                    "shares": 15,
+                    "reach": 3673
+                }
+            ],
+            "total_sales_attributed": 576.8145123774243
+        }
+    ]
+}

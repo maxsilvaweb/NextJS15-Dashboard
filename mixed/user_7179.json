@@ -1,0 +1,26 @@
+{
+    "user_id": "30ebd764-4416-41b2-b0c5-a2626a8e994d",
+    "name": "Larry Sellers",
+    "email": "wongclarence@example.net",
+    "instagram_handle": "@michaelharvey",
+    "tiktok_handle": "@michael86",
+    "joined_at": "2024-04-18T10:48:45.184320",
+    "advocacy_programs": [
+        {
+            "program_id": "dcc6046a-b677-4ef9-bc96-489b7a0b271a",
+            "brand": "Martinez PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d459098a-7ad2-4a79-bdf5-b773a7be970b",
+                    "platform": "Facebook",
+                    "post_url": "https://www.gibbs.com/",
+                    "likes": 3801,
+                    "comments": 40,
+                    "shares": 52,
+                    "reach": 2403
+                }
+            ],
+            "total_sales_attributed": 6328.5
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9eb41b7d-8d20-4b7f-a636-f0a106e1e38f",
+    "name": "Michael Simmons",
+    "email": "lynchkevin@example.com",
+    "instagram_handle": "@david29",
+    "tiktok_handle": "@grose",
+    "joined_at": "2025-07-17T17:06:00.846567",
+    "advocacy_programs": [
+        {
+            "program_id": "83b007f4-bbd7-42e6-82c3-cbd857ee94a7",
+            "brand": "Brown, Mitchell and Hernandez",
+            "tasks_completed": [
+                {
+                    "task_id": "15fe3f05-4e22-410d-99e0-1fb67a9fc644",
+                    "platform": "Facebook",
+                    "post_url": "http://myers.com/",
+                    "likes": 7361,
+                    "comments": 41,
+                    "shares": 98,
+                    "reach": 2616
+                }
+            ],
+            "total_sales_attributed": 494.47
+        }
+    ]
+}

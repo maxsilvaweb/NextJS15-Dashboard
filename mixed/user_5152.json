@@ -1,0 +1,26 @@
+{
+    "user_id": "49e1025e-c310-4fbd-9c7f-42de3c4a6361",
+    "name": "Christopher Johnson",
+    "email": "Burnice.Shanahan38@hotmail.com",
+    "instagram_handle": "@Etha_Padberg11",
+    "tiktok_handle": "@Haylie_Johnston66",
+    "joined_at": "2024-05-10T13:36:57.133Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cd181b04-4d0d-4eb8-9eaa-feb879a34440",
+            "brand": "Dibbert LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "b2a3c2fb-90d2-42a8-b79b-f86a43ea08bb",
+                    "platform": "TikTok",
+                    "post_url": "https://tepid-bowling.info/",
+                    "likes": 384,
+                    "comments": 50,
+                    "shares": 3,
+                    "reach": 3755
+                }
+            ],
+            "total_sales_attributed": 3929.6756764334887
+        }
+    ]
+}

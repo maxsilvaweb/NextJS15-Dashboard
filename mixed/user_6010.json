@@ -1,0 +1,26 @@
+{
+    "user_id": "b73410e0-1877-4787-9da2-385150c1e626",
+    "name": "Kenneth Church",
+    "email": "Jacinto13@gmail.com",
+    "instagram_handle": "@jacob06",
+    "tiktok_handle": "@stephaniegonzalez",
+    "joined_at": "2024-06-09T12:27:54.272Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a5aae709-bc40-4602-b408-6b9512ed19ac",
+            "brand": "Gonzales-Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "02aa6245-2eae-43e9-b86d-7344649e5638",
+                    "platform": "Facebook",
+                    "post_url": "https://unlucky-skyscraper.info/",
+                    "likes": 7316,
+                    "comments": 443,
+                    "shares": 93,
+                    "reach": 9152
+                }
+            ],
+            "total_sales_attributed": 8702.67
+        }
+    ]
+}

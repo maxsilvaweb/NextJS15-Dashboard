@@ -1,0 +1,26 @@
+{
+    "user_id": "18fcaa93-d5b7-46de-83f2-101abe515dde",
+    "name": "Cornelius Runolfsdottir",
+    "email": "Sienna34@hotmail.com",
+    "instagram_handle": "@Elyssa.King88",
+    "tiktok_handle": "@Tiara62",
+    "joined_at": "2024-04-25T18:27:22.881Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2dddce0d-5391-457d-b1a9-d0de44f413b0",
+            "brand": "Kilback, Tremblay and Reichert",
+            "tasks_completed": [
+                {
+                    "task_id": "94e8d1bc-71bd-41b4-9a1c-d0b3c31a033f",
+                    "platform": "Instagram",
+                    "post_url": "https://firsthand-charm.info/",
+                    "likes": 431,
+                    "comments": 40,
+                    "shares": 39,
+                    "reach": 1820
+                }
+            ],
+            "total_sales_attributed": 1933.8386911441046
+        }
+    ]
+}

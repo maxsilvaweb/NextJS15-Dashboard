@@ -1,0 +1,26 @@
+{
+    "user_id": "cf308487-f585-453a-be5d-dde947b5c0d0",
+    "name": "Derek Newton",
+    "email": "graymichelle@example.org",
+    "instagram_handle": "@npaul",
+    "tiktok_handle": "@tylerwoods",
+    "joined_at": "2024-03-09T06:46:21.088435",
+    "advocacy_programs": [
+        {
+            "program_id": "39592861-7cf5-45ca-a79f-2015f5bfacc3",
+            "brand": "Ferguson, Waller and Rodriguez",
+            "tasks_completed": [
+                {
+                    "task_id": "95fff9cb-d05a-400a-88a7-ce936a996355",
+                    "platform": "Twitter",
+                    "post_url": "https://quarterly-noon.biz/",
+                    "likes": 8928,
+                    "comments": 221,
+                    "shares": 83,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 1050.08150143275
+        }
+    ]
+}

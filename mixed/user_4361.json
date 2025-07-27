@@ -1,0 +1,26 @@
+{
+    "user_id": "d1283c5e-42c8-4cb9-864c-cf3ffcf3e1fd",
+    "name": "Samantha Welch",
+    "email": "Angus45@gmail.com",
+    "instagram_handle": "@allenjoseph",
+    "tiktok_handle": "@jonathan11",
+    "joined_at": "2025-06-22T03:16:39.977227",
+    "advocacy_programs": [
+        {
+            "program_id": "aebd979d-1f86-4761-9f23-3144076086cf",
+            "brand": "Lynn, Rodriguez and Mora",
+            "tasks_completed": [
+                {
+                    "task_id": "31cf0433-6b9c-4ccc-b907-e510f5272423",
+                    "platform": "Facebook",
+                    "post_url": "https://untidy-armoire.info",
+                    "likes": 1505,
+                    "comments": 149,
+                    "shares": 68,
+                    "reach": 5705
+                }
+            ],
+            "total_sales_attributed": 8985.87
+        }
+    ]
+}

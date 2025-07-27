@@ -1,0 +1,26 @@
+{
+    "user_id": "d55fdd82-02f3-432a-9a77-13ef36e51a27",
+    "name": "Melissa Robinson",
+    "email": "robertlam@example.net",
+    "instagram_handle": "@plynn",
+    "tiktok_handle": "@hamiltonkathleen",
+    "joined_at": "2024-09-08T22:54:38.842103",
+    "advocacy_programs": [
+        {
+            "program_id": "e56faef6-815a-4b6b-888e-46ca08a9d9d7",
+            "brand": "Hampton Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "e67d42bb-4233-4d3d-bdb1-55ce5887742e",
+                    "platform": "Instagram",
+                    "post_url": "https://www.glover-chen.com/",
+                    "likes": 9803,
+                    "comments": 44,
+                    "shares": 35,
+                    "reach": 5787
+                }
+            ],
+            "total_sales_attributed": 3465.06
+        }
+    ]
+}

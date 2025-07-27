@@ -1,0 +1,26 @@
+{
+    "user_id": "98a2d185-9d30-4701-aaf8-f3c0891b425b",
+    "name": "Maria Mullins",
+    "email": "eric27@example.org",
+    "instagram_handle": "@astewart",
+    "tiktok_handle": "@russellmolina",
+    "joined_at": "2023-12-14T00:41:30.955504",
+    "advocacy_programs": [
+        {
+            "program_id": "efd9f74f-25e8-4d16-af03-396238a2c7fa",
+            "brand": "Watts-Suarez",
+            "tasks_completed": [
+                {
+                    "task_id": "bb698810-4f11-4df9-9f10-13469cc737d7",
+                    "platform": "Facebook",
+                    "post_url": "http://martin.com/",
+                    "likes": 469,
+                    "comments": 332,
+                    "shares": 32,
+                    "reach": 6577
+                }
+            ],
+            "total_sales_attributed": 2338.3008736770944
+        }
+    ]
+}

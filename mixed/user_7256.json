@@ -1,0 +1,26 @@
+{
+    "user_id": "402d0fd4-6b6a-4dc4-90b8-49c339d7fd35",
+    "name": "Trevor O'Conner",
+    "email": "Milan_Goldner55@yahoo.com",
+    "instagram_handle": "@Callie81",
+    "tiktok_handle": "@Nathan31",
+    "joined_at": "2024-12-15T07:42:35.104Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ce488741-54d6-4d72-9b91-3d246dbf0e12",
+            "brand": "Moore Group",
+            "tasks_completed": [
+                {
+                    "task_id": "6846b0ea-3870-46e5-b06d-facc3307e0f1",
+                    "platform": "TikTok",
+                    "post_url": "https://damaged-singing.biz",
+                    "likes": 26,
+                    "comments": 6,
+                    "shares": 70,
+                    "reach": 8397
+                }
+            ],
+            "total_sales_attributed": 2397.252115377507
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0d69d809-10de-4b56-94b0-3f3a1628313c",
+    "name": "Jeffrey Brown",
+    "email": "lopezisaac@example.net",
+    "instagram_handle": "@Sister.Kilback",
+    "tiktok_handle": "@lbernard",
+    "joined_at": "2024-08-16T02:49:47.089895",
+    "advocacy_programs": [
+        {
+            "program_id": "379c270d-6371-40a9-939b-b638b13f7b3f",
+            "brand": "Coleman-Bond",
+            "tasks_completed": [
+                {
+                    "task_id": "543b9e47-26ac-4bf1-8a7e-35d44c7b1b5f",
+                    "platform": "Facebook",
+                    "post_url": "http://www.wright-carney.com/",
+                    "likes": 8412,
+                    "comments": 335,
+                    "shares": 22,
+                    "reach": 9350
+                }
+            ],
+            "total_sales_attributed": 6006.6
+        }
+    ]
+}

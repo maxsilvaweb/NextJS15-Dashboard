@@ -1,0 +1,26 @@
+{
+    "user_id": "d8922002-c8d9-48a0-864e-e7d4ec08251b",
+    "name": "Doug Anderson",
+    "email": "Dejuan_Murazik19@hotmail.com",
+    "instagram_handle": "@Julianne.Krajcik",
+    "tiktok_handle": "@Rosalind.Kris36",
+    "joined_at": "2025-01-10T06:27:01.161Z",
+    "advocacy_programs": [
+        {
+            "program_id": "58ddb11e-8023-4bd8-8e16-c0c4d6eb8dd6",
+            "brand": "Waters, Harber and Kerluke",
+            "tasks_completed": [
+                {
+                    "task_id": "23d69506-f01c-41b9-a3db-40da97184b57",
+                    "platform": "TikTok",
+                    "post_url": "https://avaricious-citizen.com",
+                    "likes": 167,
+                    "comments": 18,
+                    "shares": 86,
+                    "reach": 6329
+                }
+            ],
+            "total_sales_attributed": 4752.332924959251
+        }
+    ]
+}

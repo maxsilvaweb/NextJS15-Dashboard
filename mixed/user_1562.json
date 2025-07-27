@@ -1,0 +1,26 @@
+{
+    "user_id": "3172563e-2f85-49b0-9a03-f58df72a6692",
+    "name": "Brett Lewis",
+    "email": "wendytaylor@example.org",
+    "instagram_handle": "@iaguilar",
+    "tiktok_handle": "@mlara",
+    "joined_at": "2025-05-19T17:03:53.100204",
+    "advocacy_programs": [
+        {
+            "program_id": "4577a33e-f6ba-4e53-bfc1-10ca0b702773",
+            "brand": "Rodriguez-Brooks",
+            "tasks_completed": [
+                {
+                    "task_id": "a6006068-25a5-43b6-bba8-679a312f3f9d",
+                    "platform": "Instagram",
+                    "post_url": "https://schneider.com/",
+                    "likes": 4714,
+                    "comments": 28,
+                    "shares": 89,
+                    "reach": 1087
+                }
+            ],
+            "total_sales_attributed": 2349.1974917807192
+        }
+    ]
+}

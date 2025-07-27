@@ -1,0 +1,26 @@
+{
+    "user_id": "cb5add9d-1e61-49f4-b7d4-0586e8838988",
+    "name": "Wilma Lemke",
+    "email": "Ezekiel.Beier47@yahoo.com",
+    "instagram_handle": "@Maxime_Waelchi-Beahan76",
+    "tiktok_handle": "@Emmanuelle7",
+    "joined_at": "2025-03-09T19:22:04.218Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8f9a8afa-8900-4c5a-af08-50bc8d505aaa",
+            "brand": "Thiel, Hahn and Fahey",
+            "tasks_completed": [
+                {
+                    "task_id": "35bf69a9-0c98-47b8-8616-f0ed0c5035cd",
+                    "platform": "TikTok",
+                    "post_url": "https://silent-relative.info/",
+                    "likes": 474,
+                    "comments": 31,
+                    "shares": 14,
+                    "reach": 6368
+                }
+            ],
+            "total_sales_attributed": 269.57239146420363
+        }
+    ]
+}

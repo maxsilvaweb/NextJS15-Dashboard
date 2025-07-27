@@ -1,0 +1,26 @@
+{
+    "user_id": "b108f207-6375-47f3-b9e8-7eb803a9b0f9",
+    "name": "Freda Heathcote Sr.",
+    "email": "chelseastout@example.net",
+    "instagram_handle": "@johnsonjeremy",
+    "tiktok_handle": "@bateslawrence",
+    "joined_at": "2025-03-19T01:50:00.261439",
+    "advocacy_programs": [
+        {
+            "program_id": "bc16b7d1-a197-4d3b-ab0c-69b9abf39f2a",
+            "brand": "Powell Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "8c79af78-d583-41d9-94cc-09ea0161ca24",
+                    "platform": "TikTok",
+                    "post_url": "http://www.franco.com/",
+                    "likes": 6913,
+                    "comments": 46,
+                    "shares": 58,
+                    "reach": 5546
+                }
+            ],
+            "total_sales_attributed": 7032.29
+        }
+    ]
+}

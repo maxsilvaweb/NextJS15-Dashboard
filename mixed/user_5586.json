@@ -1,0 +1,26 @@
+{
+    "user_id": "b1ac82c4-aef1-463d-8564-5a848026a6bb",
+    "name": "Ricardo Gusikowski",
+    "email": "Ephraim.Murazik89@hotmail.com",
+    "instagram_handle": "@Richmond_Kohler",
+    "tiktok_handle": "@Cleve.Corkery-Dietrich89",
+    "joined_at": "2024-08-10T12:50:17.705Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f80a5773-ebf3-4255-82dd-b70183967102",
+            "brand": "Grady - Lynch",
+            "tasks_completed": [
+                {
+                    "task_id": "c7a3aaaa-ba14-45e5-8f01-c18b2178e889",
+                    "platform": "TikTok",
+                    "post_url": "https://wavy-behest.com/",
+                    "likes": 324,
+                    "comments": 25,
+                    "shares": 62,
+                    "reach": 4590
+                }
+            ],
+            "total_sales_attributed": 3714.3892705419653
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0df40c65-491d-43fa-bb1f-9aa71fc06e9b",
+    "name": "Michael Smith",
+    "email": "oparker@example.org",
+    "instagram_handle": "@angela96",
+    "tiktok_handle": "@brianunderwood",
+    "joined_at": "2024-06-29T00:41:49.462248",
+    "advocacy_programs": [
+        {
+            "program_id": "aff3bea9-d991-4b94-9aeb-267b59323d72",
+            "brand": "Barber LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "b492df55-abf8-428b-a151-bfe7d9edcb57",
+                    "platform": "Twitter",
+                    "post_url": "https://jittery-bourgeoisie.org/",
+                    "likes": 1421,
+                    "comments": 428,
+                    "shares": 44,
+                    "reach": 7001
+                }
+            ],
+            "total_sales_attributed": 2860.225536541022
+        }
+    ]
+}

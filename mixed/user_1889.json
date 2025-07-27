@@ -1,0 +1,26 @@
+{
+    "user_id": "ffdeab8f-8f43-4bd3-8666-cdc1d51bc45e",
+    "name": "Henry Miller",
+    "email": "williamsdustin@example.net",
+    "instagram_handle": "@hbaxter",
+    "tiktok_handle": "@ptyler",
+    "joined_at": "2025-07-19T17:38:28.212489",
+    "advocacy_programs": [
+        {
+            "program_id": "d998c156-c81e-4916-9dfc-2b1236053f82",
+            "brand": "Brown Group",
+            "tasks_completed": [
+                {
+                    "task_id": "aaccd6be-a965-4173-be6e-836270a63a92",
+                    "platform": "Facebook",
+                    "post_url": "https://www.sanchez.com/",
+                    "likes": 6866,
+                    "comments": 127,
+                    "shares": 61,
+                    "reach": 9208
+                }
+            ],
+            "total_sales_attributed": 8146.2
+        }
+    ]
+}

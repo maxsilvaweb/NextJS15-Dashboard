@@ -1,0 +1,26 @@
+{
+    "user_id": "c2a013e6-5acb-40e7-9e1c-976f740243da",
+    "name": "Joe Simonis",
+    "email": "Marian_Williamson@hotmail.com",
+    "instagram_handle": "@Kasey7",
+    "tiktok_handle": "@Hortense42",
+    "joined_at": "2024-11-13T07:32:14.749Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1fafebf1-5a27-4c7b-9232-7f7b48eba4de",
+            "brand": "Parker and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "bc8ba047-966c-4f1b-a43f-f03324cb970e",
+                    "platform": "TikTok",
+                    "post_url": "https://moist-conservative.biz/",
+                    "likes": 270,
+                    "comments": 49,
+                    "shares": 80,
+                    "reach": 5997
+                }
+            ],
+            "total_sales_attributed": 2296.8695010204588
+        }
+    ]
+}

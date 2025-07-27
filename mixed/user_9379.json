@@ -1,0 +1,26 @@
+{
+    "user_id": "2763c738-2dcd-40b6-a322-0c5deb5fce45",
+    "name": "Jacob Flores",
+    "email": "loverobert@example.net",
+    "instagram_handle": "@gonzaleskelsey",
+    "tiktok_handle": "@mooremark",
+    "joined_at": "2024-04-22T00:18:34.331872",
+    "advocacy_programs": [
+        {
+            "program_id": "096eb282-fc9a-4a88-a033-6ad6cff41698",
+            "brand": "Russell, Stevens and Pacheco",
+            "tasks_completed": [
+                {
+                    "task_id": "686a9fe6-2209-4e21-b17b-d518a6c9c412",
+                    "platform": "Instagram",
+                    "post_url": "https://joseph.biz/",
+                    "likes": 105,
+                    "comments": 185,
+                    "shares": 58,
+                    "reach": 3819
+                }
+            ],
+            "total_sales_attributed": 1580.59
+        }
+    ]
+}

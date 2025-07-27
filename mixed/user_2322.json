@@ -1,0 +1,26 @@
+{
+    "user_id": "5d3a4222-fd81-4204-bb69-5475769fbf5e",
+    "name": "Corey Brown",
+    "email": "lmayer@example.com",
+    "instagram_handle": "@kellychristina",
+    "tiktok_handle": "@Karley.Altenwerth-Huel",
+    "joined_at": "2024-11-22T17:19:26.319507",
+    "advocacy_programs": [
+        {
+            "program_id": "ffcdcacd-bbbd-4f9a-91f9-bb5b1dd593cc",
+            "brand": "Mata-Warren",
+            "tasks_completed": [
+                {
+                    "task_id": "081e34ec-7921-4a2f-a9c3-aeceb5469703",
+                    "platform": "YouTube",
+                    "post_url": "https://www.trujillo.info/",
+                    "likes": 176,
+                    "comments": 421,
+                    "shares": 45,
+                    "reach": 3863
+                }
+            ],
+            "total_sales_attributed": 1556.3
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "112ed37f-bfe2-455d-94c4-eab6386d3f2c",
+    "name": "Aaron Williams",
+    "email": "juliaperez@example.com",
+    "instagram_handle": "@michelledunlap",
+    "tiktok_handle": "@fischerbenjamin",
+    "joined_at": "2024-08-08T23:32:15.184Z",
+    "advocacy_programs": [
+        {
+            "program_id": "647e7595-125a-48ca-8153-ff64e84d27a0",
+            "brand": "Dixon, Mejia and Terry",
+            "tasks_completed": [
+                {
+                    "task_id": "d3b13ea8-d8aa-4fa8-83cb-dced5fb675e1",
+                    "platform": "TikTok",
+                    "post_url": "http://gibson-williamson.com/",
+                    "likes": 1005,
+                    "comments": 20,
+                    "shares": 56,
+                    "reach": 7470
+                }
+            ],
+            "total_sales_attributed": 7272.86
+        }
+    ]
+}

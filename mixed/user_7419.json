@@ -1,0 +1,26 @@
+{
+    "user_id": "b1f09c49-03aa-4784-a959-c9f75372d713",
+    "name": "Ms. Courtney Terry",
+    "email": "Karson.Kohler@yahoo.com",
+    "instagram_handle": "@Kadin28",
+    "tiktok_handle": "@Keenan.Dicki",
+    "joined_at": "2024-12-26T12:08:52.623Z",
+    "advocacy_programs": [
+        {
+            "program_id": "daeffc8c-7791-4a72-8c48-36a1d3b7d092",
+            "brand": "Langosh - Streich",
+            "tasks_completed": [
+                {
+                    "task_id": "37273346-137a-4533-8f2a-d946cf58c6fa",
+                    "platform": "TikTok",
+                    "post_url": "https://honorable-meadow.org",
+                    "likes": 20,
+                    "comments": 17,
+                    "shares": 47,
+                    "reach": 5102
+                }
+            ],
+            "total_sales_attributed": 4572.589938739695
+        }
+    ]
+}

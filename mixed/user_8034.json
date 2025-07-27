@@ -1,0 +1,26 @@
+{
+    "user_id": "fa583007-bdc0-481d-8b0f-70ef8d80830b",
+    "name": "Karen Reynolds",
+    "email": "Alexzander_Rice@gmail.com",
+    "instagram_handle": "@hickmanmichael",
+    "tiktok_handle": "@markbullock",
+    "joined_at": "2024-05-26T23:51:37.678096",
+    "advocacy_programs": [
+        {
+            "program_id": "cc43aed8-cd2d-4708-95e7-ce143b74d333",
+            "brand": "Williams-Middleton",
+            "tasks_completed": [
+                {
+                    "task_id": "fcfc6274-78a8-451a-b419-3d2db905eba4",
+                    "platform": "YouTube",
+                    "post_url": "http://www.harmon.com/",
+                    "likes": 18,
+                    "comments": 489,
+                    "shares": 54,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 5238.15
+        }
+    ]
+}

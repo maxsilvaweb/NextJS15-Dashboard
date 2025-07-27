@@ -1,0 +1,26 @@
+{
+    "user_id": "6bf8c98d-020a-4110-abab-c73b58eee9fa",
+    "name": "Julia Fisher",
+    "email": "Greg.Schimmel-Botsford26@gmail.com",
+    "instagram_handle": "@deborahburke",
+    "tiktok_handle": "@ricky55",
+    "joined_at": "2025-02-05T12:16:41.012079",
+    "advocacy_programs": [
+        {
+            "program_id": "64f3e165-0259-446c-9f81-7112d167e786",
+            "brand": "Rodriguez, White and Maldonado",
+            "tasks_completed": [
+                {
+                    "task_id": "32f1308b-00f5-4c0e-88dd-4957c1cbaa64",
+                    "platform": "Instagram",
+                    "post_url": "https://frugal-lift.com",
+                    "likes": 488,
+                    "comments": 40,
+                    "shares": 56,
+                    "reach": 574
+                }
+            ],
+            "total_sales_attributed": 5601.52
+        }
+    ]
+}

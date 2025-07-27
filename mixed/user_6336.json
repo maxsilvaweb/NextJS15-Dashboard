@@ -1,0 +1,26 @@
+{
+    "user_id": "ac8e2331-8cf6-4802-9172-c84a48ff83d8",
+    "name": "James Payne",
+    "email": "zachary89@example.com",
+    "instagram_handle": "@robertevans",
+    "tiktok_handle": "@zharmon",
+    "joined_at": "2025-04-16T23:06:26.046440",
+    "advocacy_programs": [
+        {
+            "program_id": "c90a0d21-5d27-40fa-8b2c-f812f9fdf89f",
+            "brand": "Johnson, Carpenter and Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "f97c37ab-d814-4fcf-9874-cee156252515",
+                    "platform": "YouTube",
+                    "post_url": "https://davis.com/",
+                    "likes": 1732,
+                    "comments": 404,
+                    "shares": 75,
+                    "reach": 7662
+                }
+            ],
+            "total_sales_attributed": 4200.0
+        }
+    ]
+}

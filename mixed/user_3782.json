@@ -1,0 +1,26 @@
+{
+    "user_id": "032a923a-40c2-4a30-8f90-936c98c1ebc2",
+    "name": "Nina Bergstrom",
+    "email": "Queen.Kutch@hotmail.com",
+    "instagram_handle": "@Alanis64",
+    "tiktok_handle": "@Tressa.Gleason4",
+    "joined_at": "2024-03-21T15:58:19.243Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f6becd03-e9b1-4c54-a807-e44318475b89",
+            "brand": "Hermiston LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "22fb9306-14d4-48fd-83c1-186cc666fe34",
+                    "platform": "TikTok",
+                    "post_url": "https://vengeful-abacus.net/",
+                    "likes": 472,
+                    "comments": 42,
+                    "shares": 3,
+                    "reach": 5392
+                }
+            ],
+            "total_sales_attributed": 1358.055196184136
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "66ef50a2-922a-4f17-bff4-c598202ba380",
+    "name": "Matthew Kline",
+    "email": "kaylaperez@example.org",
+    "instagram_handle": "@james93",
+    "tiktok_handle": "@christophergallegos",
+    "joined_at": "2024-02-08T16:41:45.522827",
+    "advocacy_programs": [
+        {
+            "program_id": "a3090262-e5de-430a-88e5-89f0f97c91db",
+            "brand": "Hopkins PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e5139ba1-6ba5-4499-abd0-95b388651639",
+                    "platform": "TikTok",
+                    "post_url": "http://www.miller-lynch.com/",
+                    "likes": 1373,
+                    "comments": 22,
+                    "shares": 84,
+                    "reach": 7116
+                }
+            ],
+            "total_sales_attributed": 6270.19
+        }
+    ]
+}

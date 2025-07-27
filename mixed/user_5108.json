@@ -1,0 +1,26 @@
+{
+    "user_id": "2cdc5d1c-32d1-43a5-a915-a66ff83c2c6c",
+    "name": "Sabrina Conn DDS",
+    "email": "Tracy42@yahoo.com",
+    "instagram_handle": "@Mireille_Ortiz52",
+    "tiktok_handle": "@Winnifred.Bins99",
+    "joined_at": "2024-03-19T21:19:23.480Z",
+    "advocacy_programs": [
+        {
+            "program_id": "90d9c235-6263-462a-bd8f-9a9878486a7e",
+            "brand": "Dooley, Bogisich and Lebsack",
+            "tasks_completed": [
+                {
+                    "task_id": "c8c8b704-e92f-40ea-82d7-aa74a6b419a9",
+                    "platform": "TikTok",
+                    "post_url": "https://trained-insolence.biz",
+                    "likes": 437,
+                    "comments": 18,
+                    "shares": 82,
+                    "reach": 8392
+                }
+            ],
+            "total_sales_attributed": 2281.826257833689
+        }
+    ]
+}

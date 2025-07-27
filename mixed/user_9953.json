@@ -1,0 +1,26 @@
+{
+    "user_id": "407c9ce6-d265-422e-9804-879d696142e7",
+    "name": "Anthony Roberts",
+    "email": "jasonnoble@example.net",
+    "instagram_handle": "@Dayton_Wiza67",
+    "tiktok_handle": "@ztorres",
+    "joined_at": "2025-02-17T18:06:49.322Z",
+    "advocacy_programs": [
+        {
+            "program_id": "944813ab-cb89-4798-ac7d-c5c4ef24d28a",
+            "brand": "Mcclure-Mcdaniel",
+            "tasks_completed": [
+                {
+                    "task_id": "4fae480e-7022-4d48-b970-b75104ae0063",
+                    "platform": "Instagram",
+                    "post_url": "https://brilliant-wedding.org",
+                    "likes": 8127,
+                    "comments": 108,
+                    "shares": 22,
+                    "reach": 3038
+                }
+            ],
+            "total_sales_attributed": 4286.750451918544
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7378a7f8-1130-4594-b1ab-a5b8f566ab95",
+    "name": "Cindy Brown",
+    "email": "katiepena@example.net",
+    "instagram_handle": "@stephaniepowell",
+    "tiktok_handle": "@xsalazar",
+    "joined_at": "2025-07-05T11:11:16.842812",
+    "advocacy_programs": [
+        {
+            "program_id": "50f3e473-763e-4bbf-b1b9-286b460f314f",
+            "brand": "Rosario Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "e7f22519-a15b-4006-8e5e-2c2236bf66e5",
+                    "platform": "Instagram",
+                    "post_url": "http://hunt.com/",
+                    "likes": 5977,
+                    "comments": 225,
+                    "shares": 35,
+                    "reach": 2515
+                }
+            ],
+            "total_sales_attributed": 3289.89
+        }
+    ]
+}

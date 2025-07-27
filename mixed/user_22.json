@@ -1,0 +1,26 @@
+{
+    "user_id": "e02e4f1c-bea2-4f61-ae1f-a83371c88ab4",
+    "name": "Alicia Lee",
+    "email": "Abner.Stracke@hotmail.com",
+    "instagram_handle": "@qshaw",
+    "tiktok_handle": "@joyce20",
+    "joined_at": "2024-04-12T06:53:21.649806",
+    "advocacy_programs": [
+        {
+            "program_id": "15c6d8ed-7f31-430e-a5f7-e53bc8d13872",
+            "brand": "Foster-Garrison",
+            "tasks_completed": [
+                {
+                    "task_id": "7449f87f-31fc-4e3c-a2f7-07487b7d00db",
+                    "platform": "TikTok",
+                    "post_url": "https://jealous-kiss.name/",
+                    "likes": 4429,
+                    "comments": 346,
+                    "shares": 3,
+                    "reach": 6042
+                }
+            ],
+            "total_sales_attributed": 8521.06
+        }
+    ]
+}

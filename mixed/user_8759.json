@@ -1,0 +1,26 @@
+{
+    "user_id": "75bff709-b24e-46ce-a7df-d18e7b25c5f7",
+    "name": "Casey McDermott",
+    "email": "Vladimir_Jacobi@yahoo.com",
+    "instagram_handle": "@Leonor_Satterfield23",
+    "tiktok_handle": "@Maye49",
+    "joined_at": "2024-09-19T10:20:36.024Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b9d932f5-0af3-467b-9236-c1095092b1b4",
+            "brand": "Murphy, Windler and Stark",
+            "tasks_completed": [
+                {
+                    "task_id": "ca0b83b9-528e-46bf-a033-cd20a6b1e289",
+                    "platform": "TikTok",
+                    "post_url": "https://earnest-exploration.biz/",
+                    "likes": 64,
+                    "comments": 19,
+                    "shares": 66,
+                    "reach": 8223
+                }
+            ],
+            "total_sales_attributed": 851.0457530639915
+        }
+    ]
+}

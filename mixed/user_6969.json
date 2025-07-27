@@ -1,0 +1,26 @@
+{
+    "user_id": "8b1277d6-48e8-4981-9bfa-2fb15c4f399c",
+    "name": "Jessica Price",
+    "email": "terryvictor@example.com",
+    "instagram_handle": "@kari63",
+    "tiktok_handle": "@johnsonlawrence",
+    "joined_at": "2024-05-03T13:28:59.450405",
+    "advocacy_programs": [
+        {
+            "program_id": "476f8c32-ef10-487c-bb60-2ac112ae883f",
+            "brand": "Terry, Nelson and Baker",
+            "tasks_completed": [
+                {
+                    "task_id": "69446658-538b-4e04-b2cc-07e2e6e3d6c5",
+                    "platform": "TikTok",
+                    "post_url": "https://www.fisher.biz/",
+                    "likes": 115,
+                    "comments": 32,
+                    "shares": 81,
+                    "reach": 5549
+                }
+            ],
+            "total_sales_attributed": 1101.8715749954679
+        }
+    ]
+}

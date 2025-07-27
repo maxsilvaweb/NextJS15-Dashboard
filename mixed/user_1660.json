@@ -1,0 +1,26 @@
+{
+    "user_id": "977c947a-0de4-4268-8a6b-bdf0c262efdc",
+    "name": "James Vance",
+    "email": "vjones@example.com",
+    "instagram_handle": "@amy00",
+    "tiktok_handle": "@rwright",
+    "joined_at": "2024-09-13T08:59:12.174818",
+    "advocacy_programs": [
+        {
+            "program_id": "2d86f06d-0714-42e8-aa2b-8c9e207d94fe",
+            "brand": "Smith-Gomez",
+            "tasks_completed": [
+                {
+                    "task_id": "997ebdf5-0263-4522-b369-487781dca844",
+                    "platform": "TikTok",
+                    "post_url": "https://carefree-adult.info/",
+                    "likes": 2501,
+                    "comments": 435,
+                    "shares": 38,
+                    "reach": 1189
+                }
+            ],
+            "total_sales_attributed": 8762.09
+        }
+    ]
+}

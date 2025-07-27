@@ -1,0 +1,26 @@
+{
+    "user_id": "4ae9eb13-a113-4b56-9977-4c4ea1ab2d91",
+    "name": "Iris Hagenes",
+    "email": "Leon_Weimann@yahoo.com",
+    "instagram_handle": "@Bradford_Mosciski",
+    "tiktok_handle": "@Cordie.Kohler",
+    "joined_at": "2024-09-18T19:17:29.584Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e5ccf512-0a47-4e25-a998-2e39a94b5b90",
+            "brand": "Labadie and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "80547f78-29ef-4933-aaab-004c1fd17ad9",
+                    "platform": "TikTok",
+                    "post_url": "https://imaginative-lava.info/",
+                    "likes": 118,
+                    "comments": 6,
+                    "shares": 78,
+                    "reach": 3693
+                }
+            ],
+            "total_sales_attributed": 275.1422744086873
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3d15bb10-4416-48e3-96f5-7e646d4dbca7",
+    "name": "Stephen Carroll",
+    "email": "Jennyfer_Torphy-Volkman@yahoo.com",
+    "instagram_handle": "@Mireille_Ortiz79",
+    "tiktok_handle": "@Rex26",
+    "joined_at": "2024-08-21T10:47:09.545Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b138357b-6502-4f85-80f7-955aa4376b9e",
+            "brand": "Leuschke, Baumbach and Feil",
+            "tasks_completed": [
+                {
+                    "task_id": "5f5fad2b-2626-486b-8464-782412d7487e",
+                    "platform": "TikTok",
+                    "post_url": "https://scary-best-seller.org",
+                    "likes": 118,
+                    "comments": 38,
+                    "shares": 14,
+                    "reach": 1982
+                }
+            ],
+            "total_sales_attributed": 3413.9240123900545
+        }
+    ]
+}

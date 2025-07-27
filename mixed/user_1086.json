@@ -1,0 +1,26 @@
+{
+    "user_id": "c428aded-645e-45db-9c58-5fcf492a7991",
+    "name": "Brandon Hansen",
+    "email": "umoore@example.net",
+    "instagram_handle": "@hgonzalez",
+    "tiktok_handle": "@fernandocollins",
+    "joined_at": "2024-05-25T02:25:31.780780",
+    "advocacy_programs": [
+        {
+            "program_id": "9cde277b-d5a2-4f9b-909e-9aecc1ed4c8f",
+            "brand": "Cross-Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "eded21d9-be75-43fe-9ef6-20f7e0b17c78",
+                    "platform": "YouTube",
+                    "post_url": "http://wagner.com/",
+                    "likes": 2744,
+                    "comments": 49,
+                    "shares": 98,
+                    "reach": 554
+                }
+            ],
+            "total_sales_attributed": 2511.9544373841513
+        }
+    ]
+}

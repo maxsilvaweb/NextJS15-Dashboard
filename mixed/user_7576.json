@@ -1,0 +1,26 @@
+{
+    "user_id": "d6c5705d-5c4f-47ab-bb13-e25b5f7e3a06",
+    "name": "Mr. Randolph Pagac",
+    "email": "Elna90@gmail.com",
+    "instagram_handle": "@Kristofer_Cummerata",
+    "tiktok_handle": "@Emie_Jones74",
+    "joined_at": "2024-04-10T07:56:55.170Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e7d7fc98-99ba-4e42-8183-52ac351c50b0",
+            "brand": "Gutkowski and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "f70e481d-9004-43cb-9456-c0f6a0de6a88",
+                    "platform": "Instagram",
+                    "post_url": "https://determined-tribe.biz",
+                    "likes": 334,
+                    "comments": 38,
+                    "shares": 90,
+                    "reach": 6882
+                }
+            ],
+            "total_sales_attributed": 3990.331732017301
+        }
+    ]
+}

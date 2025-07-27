@@ -1,0 +1,26 @@
+{
+    "user_id": "6018874f-acd5-42bd-a536-1107e976be03",
+    "name": "Amber Thompson",
+    "email": "bpearson@example.com",
+    "instagram_handle": "@donald67",
+    "tiktok_handle": "@nolanerica",
+    "joined_at": "2025-05-02T15:21:11.388558",
+    "advocacy_programs": [
+        {
+            "program_id": "796be40a-45c5-40d1-96cb-a413b251969f",
+            "brand": "Cardenas, Nunez and Aguirre",
+            "tasks_completed": [
+                {
+                    "task_id": "f972a52b-957c-40e7-afe7-e43c800094f0",
+                    "platform": "TikTok",
+                    "post_url": "https://mean-zen.net",
+                    "likes": 553,
+                    "comments": 220,
+                    "shares": 90,
+                    "reach": 1398
+                }
+            ],
+            "total_sales_attributed": 151.23
+        }
+    ]
+}

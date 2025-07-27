@@ -1,0 +1,26 @@
+{
+    "user_id": "aee2b69d-df69-47f2-90aa-a6230227c797",
+    "name": "Nicole Chapman",
+    "email": "sheliagrant@example.com",
+    "instagram_handle": "@kendra75",
+    "tiktok_handle": "@eugene61",
+    "joined_at": "2024-01-16T23:57:40.297865",
+    "advocacy_programs": [
+        {
+            "program_id": "68f55212-b0c7-4b1b-aa82-2db730222af0",
+            "brand": "Shepard-Moss",
+            "tasks_completed": [
+                {
+                    "task_id": "03cdad47-8b1d-4884-a804-691622b9b971",
+                    "platform": "Facebook",
+                    "post_url": "http://www.smith.com/",
+                    "likes": 6882,
+                    "comments": 205,
+                    "shares": 62,
+                    "reach": 2675
+                }
+            ],
+            "total_sales_attributed": 1921.922048412168
+        }
+    ]
+}

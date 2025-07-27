@@ -1,0 +1,26 @@
+{
+    "user_id": "2a282be3-61ce-4793-9876-fa1c53561249",
+    "name": "Steven Whitehead",
+    "email": "qball@example.net",
+    "instagram_handle": "@beckyweber",
+    "tiktok_handle": "@weaverkyle",
+    "joined_at": "2025-05-25T08:15:40.217077",
+    "advocacy_programs": [
+        {
+            "program_id": "44c403c4-48d1-4394-9df1-7a1c1596b484",
+            "brand": "Castillo PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "55975773-8940-403b-9fb4-6ef904a41dbe",
+                    "platform": "TikTok",
+                    "post_url": "https://www.marquez.com/",
+                    "likes": 4220,
+                    "comments": 33,
+                    "shares": 45,
+                    "reach": 1886
+                }
+            ],
+            "total_sales_attributed": 6202.29
+        }
+    ]
+}

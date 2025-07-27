@@ -1,0 +1,26 @@
+{
+    "user_id": "88619b47-f0b3-4fa8-b539-4bf2d9655c6d",
+    "name": "Amanda Brown",
+    "email": "bianca02@example.net",
+    "instagram_handle": "@dustinvazquez",
+    "tiktok_handle": "@upetty",
+    "joined_at": "2024-05-20T21:00:53.760Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e90c6c47-7afd-4d45-aa2d-7d8f80850a43",
+            "brand": "Miller LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "327a24aa-9ff7-498f-b3bf-c250416ea7f2",
+                    "platform": "Facebook",
+                    "post_url": "https://www.allen.info/",
+                    "likes": 435,
+                    "comments": 48,
+                    "shares": 39,
+                    "reach": 8848
+                }
+            ],
+            "total_sales_attributed": 3820.619677297215
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9d937fb1-1371-42b4-8817-d41c1129164c",
+    "name": "Joe Newton",
+    "email": "danielhartman@example.net",
+    "instagram_handle": "@ismith",
+    "tiktok_handle": "@frank30",
+    "joined_at": "2023-08-09T07:58:46.190522",
+    "advocacy_programs": [
+        {
+            "program_id": "36c2ca8c-c196-4487-b1f2-3cff3403f40d",
+            "brand": "Atkinson Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "2330b011-1509-463e-87e5-31d38a259bd2",
+                    "platform": "TikTok",
+                    "post_url": "http://reed-rodriguez.net/",
+                    "likes": 2519,
+                    "comments": 258,
+                    "shares": 76,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 3437.16
+        }
+    ]
+}

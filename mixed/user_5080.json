@@ -1,0 +1,26 @@
+{
+    "user_id": "4c942491-48ad-4ecc-a76f-13563d70fe23",
+    "name": "Otis Schumm",
+    "email": "Brenda_Ernser@hotmail.com",
+    "instagram_handle": "@Gordon.Spinka4",
+    "tiktok_handle": "@Sidney_Hansen",
+    "joined_at": "2024-07-16T01:16:07.733Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8efd2fe5-7982-4124-9cb5-b684620b6493",
+            "brand": "Adams Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b7f41381-59f8-42df-b47e-85acaa15e87f",
+                    "platform": "TikTok",
+                    "post_url": "https://nifty-overcoat.name",
+                    "likes": 486,
+                    "comments": 21,
+                    "shares": 47,
+                    "reach": 7037
+                }
+            ],
+            "total_sales_attributed": 1997.5664413399982
+        }
+    ]
+}

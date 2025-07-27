@@ -1,0 +1,26 @@
+{
+    "user_id": "1e765fa4-2134-40b0-a60d-93e4ad2a742c",
+    "name": "Walter O'Keefe",
+    "email": "Kailee40@hotmail.com",
+    "instagram_handle": "@Keaton95",
+    "tiktok_handle": "@Rogers.Christiansen",
+    "joined_at": "2025-02-03T22:11:01.074Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3414f384-466f-45e8-96ab-5098d486dc13",
+            "brand": "Johnson, Grady and Schiller",
+            "tasks_completed": [
+                {
+                    "task_id": "5da5bfd0-e69c-48e5-991c-bb4365a5be7c",
+                    "platform": "TikTok",
+                    "post_url": "https://big-lounge.biz",
+                    "likes": 349,
+                    "comments": 48,
+                    "shares": 94,
+                    "reach": 9152
+                }
+            ],
+            "total_sales_attributed": 707.12703154516
+        }
+    ]
+}

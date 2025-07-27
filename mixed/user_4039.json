@@ -1,0 +1,26 @@
+{
+    "user_id": "a9f09553-de04-4fd9-a110-a1794bc61b75",
+    "name": "Edgar McClure",
+    "email": "Emely.Feest83@gmail.com",
+    "instagram_handle": "@Randal_Ziemann8",
+    "tiktok_handle": "@Cynthia.Klein",
+    "joined_at": "2024-05-01T14:14:09.836Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ca09ddb5-6909-4b6b-896c-3895939d5e8c",
+            "brand": "MacGyver, Borer and Thompson",
+            "tasks_completed": [
+                {
+                    "task_id": "03f1ae0d-4d5c-4981-bcbf-a95b7776141f",
+                    "platform": "TikTok",
+                    "post_url": "https://orange-nerve.name/",
+                    "likes": 328,
+                    "comments": 44,
+                    "shares": 38,
+                    "reach": 5393
+                }
+            ],
+            "total_sales_attributed": 3911.0986925892976
+        }
+    ]
+}

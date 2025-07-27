@@ -1,0 +1,26 @@
+{
+    "user_id": "6c9f2215-001a-4b9f-9fd2-5adc9e00ac90",
+    "name": "Alonzo Barton",
+    "email": "Brant44@hotmail.com",
+    "instagram_handle": "@Amanda78",
+    "tiktok_handle": "@Zachariah.Hartmann11",
+    "joined_at": "2024-04-15T08:05:48.446Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fb42fed6-2ce5-4107-ac06-86733c21d722",
+            "brand": "Ullrich Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "3da64489-17e8-4520-ac4c-216466c2b200",
+                    "platform": "Instagram",
+                    "post_url": "https://late-platter.name",
+                    "likes": 138,
+                    "comments": 49,
+                    "shares": 81,
+                    "reach": 1301
+                }
+            ],
+            "total_sales_attributed": 4107.81778905887
+        }
+    ]
+}

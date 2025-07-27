@@ -1,0 +1,26 @@
+{
+    "user_id": "172d9d40-e76f-4222-9f7e-9ffb0cf8d041",
+    "name": "Sean Morris",
+    "email": "monicajones@example.org",
+    "instagram_handle": "@jessicagarcia",
+    "tiktok_handle": "@lanejessica",
+    "joined_at": "2025-05-05T03:29:14.162616",
+    "advocacy_programs": [
+        {
+            "program_id": "607d45d3-a41b-4e5b-9ac0-3cb6b8e7fddb",
+            "brand": "Reed, Willis and Fowler",
+            "tasks_completed": [
+                {
+                    "task_id": "19638b67-e7be-46b0-b66a-638254b7e870",
+                    "platform": "YouTube",
+                    "post_url": "http://gonzales.net/",
+                    "likes": 7005,
+                    "comments": 448,
+                    "shares": 79,
+                    "reach": 4461
+                }
+            ],
+            "total_sales_attributed": 8546.49
+        }
+    ]
+}

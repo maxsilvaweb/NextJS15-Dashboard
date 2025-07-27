@@ -1,0 +1,26 @@
+{
+    "user_id": "08c39176-54c9-4ab3-a0f1-dcfb115abffd",
+    "name": "John Wright",
+    "email": "Jonathon.Stehr81@gmail.com",
+    "instagram_handle": "@marksnow",
+    "tiktok_handle": "@bochoa",
+    "joined_at": "2024-10-31T23:06:18.398109",
+    "advocacy_programs": [
+        {
+            "program_id": "577a4c9c-24a3-40ed-8609-99c09e144ae5",
+            "brand": "Campbell Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "d4e86ab7-0a4e-4cba-aca9-e348b3cc2d01",
+                    "platform": "Facebook",
+                    "post_url": "http://www.turner.com/",
+                    "likes": 193,
+                    "comments": 48,
+                    "shares": 65,
+                    "reach": 8798
+                }
+            ],
+            "total_sales_attributed": 7544.51
+        }
+    ]
+}

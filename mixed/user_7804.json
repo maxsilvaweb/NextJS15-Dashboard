@@ -1,0 +1,26 @@
+{
+    "user_id": "012ccc05-95e7-4fdf-8300-126fbd76116d",
+    "name": "Antonio Kerr",
+    "email": "jacqueline89@example.net",
+    "instagram_handle": "@andersonsarah",
+    "tiktok_handle": "@cindyperez",
+    "joined_at": "2025-01-31T16:14:19.393080",
+    "advocacy_programs": [
+        {
+            "program_id": "9827e3f3-4531-41dd-ad9a-dec1e85550dc",
+            "brand": "Nash-Atkins",
+            "tasks_completed": [
+                {
+                    "task_id": "7d953528-0cf7-4fac-8dd7-8d08179d3e33",
+                    "platform": "Instagram",
+                    "post_url": "https://chavez.com/",
+                    "likes": 4811,
+                    "comments": 470,
+                    "shares": 50,
+                    "reach": 2806
+                }
+            ],
+            "total_sales_attributed": 7301.93
+        }
+    ]
+}

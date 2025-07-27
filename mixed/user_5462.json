@@ -1,0 +1,26 @@
+{
+    "user_id": "f9e51c91-7e98-4671-a12e-7a373c952a35",
+    "name": "Jacob Wolfe",
+    "email": "vprince@example.org",
+    "instagram_handle": "@teresa44",
+    "tiktok_handle": "@henrymayo",
+    "joined_at": "2024-07-07T16:36:11.966888",
+    "advocacy_programs": [
+        {
+            "program_id": "5fe42404-20c7-4adf-9872-968f1a2fe490",
+            "brand": "Goodman, Morris and Wallace",
+            "tasks_completed": [
+                {
+                    "task_id": "802a588a-ca97-49da-b30c-a7ab8ed8da3b",
+                    "platform": "Instagram",
+                    "post_url": "https://www.chang-andrews.info/",
+                    "likes": 8806,
+                    "comments": 72,
+                    "shares": 31,
+                    "reach": 9730
+                }
+            ],
+            "total_sales_attributed": 4382.936084466904
+        }
+    ]
+}

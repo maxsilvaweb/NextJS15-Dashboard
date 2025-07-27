@@ -1,0 +1,26 @@
+{
+    "user_id": "30f16d38-be43-4be1-945e-e2396ecc6976",
+    "name": "David Roberts",
+    "email": "kathy77@example.org",
+    "instagram_handle": "@stevenjohnson",
+    "tiktok_handle": "@rwright",
+    "joined_at": "2025-07-09T01:54:19.592566",
+    "advocacy_programs": [
+        {
+            "program_id": "0afb34c4-df54-4338-bebf-3f56f07b3bae",
+            "brand": "Mills-Reilly",
+            "tasks_completed": [
+                {
+                    "task_id": "e3379f53-48c3-451f-ad50-a7480ed3062e",
+                    "platform": "Instagram",
+                    "post_url": "http://jackson.org/",
+                    "likes": 7704,
+                    "comments": 451,
+                    "shares": 76,
+                    "reach": 5971
+                }
+            ],
+            "total_sales_attributed": 1799.58
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9c83f8e1-36e6-4eec-9a3c-26e2842d9c23",
+    "name": "Veronica Garrison",
+    "email": "ericamorse@example.org",
+    "instagram_handle": "@stephenhansen",
+    "tiktok_handle": "@erichall",
+    "joined_at": "2025-01-02T12:21:56.560749",
+    "advocacy_programs": [
+        {
+            "program_id": "93547208-9337-4a11-917b-f6ff0ff1c800",
+            "brand": "Gibson, Castillo and Perry",
+            "tasks_completed": [
+                {
+                    "task_id": "f2fdfa73-7354-478d-91a9-01283561ab87",
+                    "platform": "Instagram",
+                    "post_url": "https://hamilton-baker.com/",
+                    "likes": 333,
+                    "comments": 429,
+                    "shares": 84,
+                    "reach": 6459
+                }
+            ],
+            "total_sales_attributed": 9683.8
+        }
+    ]
+}

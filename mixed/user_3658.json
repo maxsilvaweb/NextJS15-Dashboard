@@ -1,0 +1,26 @@
+{
+    "user_id": "c22b2f3b-085a-499c-98d2-56ac4e971b5a",
+    "name": "Jerome Denesik",
+    "email": "Trace_Gibson@hotmail.com",
+    "instagram_handle": "@Ima_Bernier91",
+    "tiktok_handle": "@Beverly.Howe",
+    "joined_at": "2025-02-20T09:20:19.169Z",
+    "advocacy_programs": [
+        {
+            "program_id": "db60ee14-9b26-4253-afb1-b023ecc41e9c",
+            "brand": "Schneider and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "dc54d59b-ad81-4c33-a120-01ffc4ac5d11",
+                    "platform": "TikTok",
+                    "post_url": "https://linear-boyfriend.net/",
+                    "likes": 330,
+                    "comments": 42,
+                    "shares": 35,
+                    "reach": 677
+                }
+            ],
+            "total_sales_attributed": 2332.118319681657
+        }
+    ]
+}

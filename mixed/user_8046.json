@@ -1,0 +1,26 @@
+{
+    "user_id": "689b397c-f2cb-4c30-865d-df247f0fc524",
+    "name": "Cesar Reyes",
+    "email": "uclay@example.net",
+    "instagram_handle": "@lyonsrichard",
+    "tiktok_handle": "@angela85",
+    "joined_at": "2025-05-27T21:47:44.902640",
+    "advocacy_programs": [
+        {
+            "program_id": "15a8447f-468f-4862-a6c1-7b15b32ea70c",
+            "brand": "Mcintyre Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "87e41f73-5411-456b-b0c1-e6ec76c14ded",
+                    "platform": "TikTok",
+                    "post_url": "https://www.hernandez.com/",
+                    "likes": 9359,
+                    "comments": 403,
+                    "shares": 48,
+                    "reach": 6534
+                }
+            ],
+            "total_sales_attributed": 6351.95
+        }
+    ]
+}

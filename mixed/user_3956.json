@@ -1,0 +1,26 @@
+{
+    "user_id": "641ca454-7e72-49e7-8cc9-61814aa24b5c",
+    "name": "Brian Coleman",
+    "email": "torresmegan@example.com",
+    "instagram_handle": "@fhubbard",
+    "tiktok_handle": "@Daphne50",
+    "joined_at": "2024-01-29T07:08:30.355147",
+    "advocacy_programs": [
+        {
+            "program_id": "c582ac1e-b335-440d-9cc9-b67dfd8bd98e",
+            "brand": "Torres LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "3e2c0b05-3f77-42c8-a5d6-45fc4080e650",
+                    "platform": "Facebook",
+                    "post_url": "https://www.fisher.org/",
+                    "likes": 6136,
+                    "comments": 27,
+                    "shares": 0,
+                    "reach": 3160
+                }
+            ],
+            "total_sales_attributed": 2305.162675796762
+        }
+    ]
+}

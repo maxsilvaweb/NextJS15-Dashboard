@@ -1,0 +1,26 @@
+{
+    "user_id": "f1b2dc00-90f4-4988-ad66-6000cb68fe60",
+    "name": "Cody Gislason",
+    "email": "Elizabeth_Davis@hotmail.com",
+    "instagram_handle": "@Giles.Feeney92",
+    "tiktok_handle": "@Reese55",
+    "joined_at": "2024-05-06T10:00:20.609Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b8baaa0b-b78e-411f-8b25-4726555b171f",
+            "brand": "Purdy, Leuschke and Luettgen",
+            "tasks_completed": [
+                {
+                    "task_id": "cc19e1e9-0cb9-4a9c-a505-12731f3551e3",
+                    "platform": "Instagram",
+                    "post_url": "https://gray-maestro.name",
+                    "likes": 300,
+                    "comments": 41,
+                    "shares": 28,
+                    "reach": 775
+                }
+            ],
+            "total_sales_attributed": 4736.940827568984
+        }
+    ]
+}

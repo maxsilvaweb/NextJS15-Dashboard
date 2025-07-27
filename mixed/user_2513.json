@@ -1,0 +1,26 @@
+{
+    "user_id": "a6d41cf9-093b-450d-8531-d366b85d1669",
+    "name": "Winifred Daniel",
+    "email": "Misty97@hotmail.com",
+    "instagram_handle": "@Aaron46",
+    "tiktok_handle": "@Myrl_Gerlach40",
+    "joined_at": "2025-01-12T13:38:16.698Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6795f840-87d3-4778-b4b5-eadf56aaf3db",
+            "brand": "Torphy - Funk",
+            "tasks_completed": [
+                {
+                    "task_id": "453a63d3-b025-44bc-93f1-16aa27190eb7",
+                    "platform": "TikTok",
+                    "post_url": "https://partial-impact.info",
+                    "likes": 353,
+                    "comments": 38,
+                    "shares": 6,
+                    "reach": 1197
+                }
+            ],
+            "total_sales_attributed": 1942.390940231516
+        }
+    ]
+}

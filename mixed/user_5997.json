@@ -1,0 +1,26 @@
+{
+    "user_id": "2ed65d5d-9a6f-49a9-b898-e2f7c0473388",
+    "name": "Todd Floyd",
+    "email": "denise23@example.net",
+    "instagram_handle": "@michelle19",
+    "tiktok_handle": "@mrobertson",
+    "joined_at": "2024-10-20T13:26:05.355979",
+    "advocacy_programs": [
+        {
+            "program_id": "3ca31788-8f3b-4475-ac7c-5e7f6d80df24",
+            "brand": "Long PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "4a1faa17-515c-44b0-8468-7f38980cd00f",
+                    "platform": "Twitter",
+                    "post_url": "https://secret-ownership.org",
+                    "likes": 395,
+                    "comments": 478,
+                    "shares": 74,
+                    "reach": 9895
+                }
+            ],
+            "total_sales_attributed": 3915.51
+        }
+    ]
+}

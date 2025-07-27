@@ -1,0 +1,26 @@
+{
+    "user_id": "a97c1078-9c05-487e-b188-6f81799c91f4",
+    "name": "Janet Wood",
+    "email": "Doris34@gmail.com",
+    "instagram_handle": "@Luther81",
+    "tiktok_handle": "@allison87",
+    "joined_at": "2024-04-28T02:38:43.443585",
+    "advocacy_programs": [
+        {
+            "program_id": "22352ad7-79e8-4a51-8280-e47336c3d56d",
+            "brand": "Williams-Guzman",
+            "tasks_completed": [
+                {
+                    "task_id": "fcf6d22e-c244-4ea4-842c-2a9f42cdee73",
+                    "platform": "TikTok",
+                    "post_url": "http://lucas-gibson.org/",
+                    "likes": 1315,
+                    "comments": 300,
+                    "shares": 87,
+                    "reach": 3379
+                }
+            ],
+            "total_sales_attributed": 157.39
+        }
+    ]
+}

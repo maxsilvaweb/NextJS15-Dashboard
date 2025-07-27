@@ -1,0 +1,26 @@
+{
+    "user_id": "38012196-6ea3-4a08-bd7d-e6baa631aacd",
+    "name": "Ana Wiza",
+    "email": "Scotty.Zemlak@hotmail.com",
+    "instagram_handle": "@Nya.Daniel1",
+    "tiktok_handle": "@Lelia_Hyatt",
+    "joined_at": "2024-05-21T19:11:29.991Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ef6d859f-b299-4062-a082-a33835d9d746",
+            "brand": "Homenick - Schmidt",
+            "tasks_completed": [
+                {
+                    "task_id": "26f1d7c0-ec60-4069-a582-5ccec90ee5a3",
+                    "platform": "Instagram",
+                    "post_url": "https://austere-formation.org",
+                    "likes": 139,
+                    "comments": 36,
+                    "shares": 66,
+                    "reach": 6115
+                }
+            ],
+            "total_sales_attributed": 2919.5792506584917
+        }
+    ]
+}

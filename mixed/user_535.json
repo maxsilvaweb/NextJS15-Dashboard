@@ -1,0 +1,26 @@
+{
+    "user_id": "05db0cac-683d-491a-911a-b91953d5778d",
+    "name": "Stephanie Anderson",
+    "email": "penny24@example.net",
+    "instagram_handle": "@mturner",
+    "tiktok_handle": "@mike19",
+    "joined_at": "2023-12-03T15:00:36.420992",
+    "advocacy_programs": [
+        {
+            "program_id": "cc4e2a54-71fd-48c6-bfc5-4a4bb3657ff6",
+            "brand": "Frye, Hicks and Weber",
+            "tasks_completed": [
+                {
+                    "task_id": "b404186f-a5c8-43a8-adb4-b5f110809448",
+                    "platform": "Facebook",
+                    "post_url": "http://www.flores.com/",
+                    "likes": 6196,
+                    "comments": 23,
+                    "shares": 99,
+                    "reach": 8570
+                }
+            ],
+            "total_sales_attributed": 7572.03
+        }
+    ]
+}

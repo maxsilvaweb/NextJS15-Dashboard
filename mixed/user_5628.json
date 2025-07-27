@@ -1,0 +1,26 @@
+{
+    "user_id": "e0d90b04-b719-44f6-bf85-a7f820a1d0dd",
+    "name": "Sherman Stiedemann",
+    "email": "Randall.Sipes@hotmail.com",
+    "instagram_handle": "@Agustina48",
+    "tiktok_handle": "@Caroline.Feest83",
+    "joined_at": "2024-05-20T10:51:46.585Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0f988881-00c1-4ac7-bc4d-0fef0cc07c2c",
+            "brand": "Nienow, Wyman and Kulas",
+            "tasks_completed": [
+                {
+                    "task_id": "0f995346-7ce1-4028-80a8-b42b2053cef6",
+                    "platform": "TikTok",
+                    "post_url": "https://trusty-finding.net",
+                    "likes": 493,
+                    "comments": 43,
+                    "shares": 34,
+                    "reach": 1448
+                }
+            ],
+            "total_sales_attributed": 4235.312490540495
+        }
+    ]
+}

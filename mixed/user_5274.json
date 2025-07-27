@@ -1,0 +1,26 @@
+{
+    "user_id": "ce2ec224-5f5e-4429-9eb3-b8942de5ae8e",
+    "name": "Jennifer Adams",
+    "email": "Antonina.Douglas-Morissette@yahoo.com",
+    "instagram_handle": "@mwilkins",
+    "tiktok_handle": "@badams",
+    "joined_at": "2024-02-05T00:40:33.645582",
+    "advocacy_programs": [
+        {
+            "program_id": "64c4053a-fc16-4eea-804d-89e75ba7af3d",
+            "brand": "Wood Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "16dae103-c732-40f2-98c3-017940d8ece6",
+                    "platform": "Instagram",
+                    "post_url": "http://www.martinez.com/",
+                    "likes": 823,
+                    "comments": 360,
+                    "shares": 96,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 9400.53
+        }
+    ]
+}

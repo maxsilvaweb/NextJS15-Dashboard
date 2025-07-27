@@ -1,0 +1,26 @@
+{
+    "user_id": "9030743c-5860-45a4-a285-e91bd60456a6",
+    "name": "Julia Chen",
+    "email": "Emmanuelle_Padberg@gmail.com",
+    "instagram_handle": "@anthony39",
+    "tiktok_handle": "@brian73",
+    "joined_at": "2024-10-02T13:45:00.780173",
+    "advocacy_programs": [
+        {
+            "program_id": "1577cec3-ba18-480a-be7c-04aa44dd1bbe",
+            "brand": "Cisneros Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "1b0b8862-e566-4d9c-8c2c-18625bb96af1",
+                    "platform": "Facebook",
+                    "post_url": "http://pineda-long.info/",
+                    "likes": 4760,
+                    "comments": 107,
+                    "shares": 72,
+                    "reach": 5866
+                }
+            ],
+            "total_sales_attributed": 1093.16
+        }
+    ]
+}

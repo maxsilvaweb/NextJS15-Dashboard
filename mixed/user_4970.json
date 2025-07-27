@@ -1,0 +1,26 @@
+{
+    "user_id": "ef97e711-d7e6-41e5-ba92-ba82495a5613",
+    "name": "Kara Leuschke",
+    "email": "Ally.Schoen@hotmail.com",
+    "instagram_handle": "@Noble51",
+    "tiktok_handle": "@Reyna.Herman73",
+    "joined_at": "2024-04-03T23:04:37.014Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2dddae65-4c86-4106-be62-68ffebe39ab5",
+            "brand": "Powlowski - Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "fc598676-2201-4206-bb9e-534761680474",
+                    "platform": "TikTok",
+                    "post_url": "https://known-mobility.org",
+                    "likes": 221,
+                    "comments": 22,
+                    "shares": 71,
+                    "reach": 7868
+                }
+            ],
+            "total_sales_attributed": 4250.763652584175
+        }
+    ]
+}

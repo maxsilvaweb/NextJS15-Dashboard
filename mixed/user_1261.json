@@ -1,0 +1,26 @@
+{
+    "user_id": "95dddb96-1ae5-4a19-8560-8c8850f3f92f",
+    "name": "Ginger Padberg",
+    "email": "Oscar_Lesch53@hotmail.com",
+    "instagram_handle": "@Marcelino.Mertz",
+    "tiktok_handle": "@Carlie17",
+    "joined_at": "2025-02-12T19:22:52.017Z",
+    "advocacy_programs": [
+        {
+            "program_id": "15f07462-308f-4e1e-8b0d-d710baa02f38",
+            "brand": "Orn, Ebert and Windler",
+            "tasks_completed": [
+                {
+                    "task_id": "a76606ba-b358-49d3-89fb-977bd24c3ee1",
+                    "platform": "Instagram",
+                    "post_url": "https://trained-casket.biz/",
+                    "likes": 373,
+                    "comments": 7,
+                    "shares": 56,
+                    "reach": 9234
+                }
+            ],
+            "total_sales_attributed": 3909.0057929841187
+        }
+    ]
+}

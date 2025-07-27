@@ -1,0 +1,26 @@
+{
+    "user_id": "4ba88cff-41c3-453a-9bdf-38186ef25001",
+    "name": "Bennie Reilly",
+    "email": "Clotilde_Gulgowski65@yahoo.com",
+    "instagram_handle": "@Kassandra.Klein55",
+    "tiktok_handle": "@Nichole.Heidenreich",
+    "joined_at": "2025-01-15T17:39:30.318Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a1e6a66e-71d8-46af-9db4-7211ceb780e1",
+            "brand": "Hartmann, Schmeler and Corkery",
+            "tasks_completed": [
+                {
+                    "task_id": "04edd9ce-05ac-43db-8445-b14d15dc12de",
+                    "platform": "Instagram",
+                    "post_url": "https://near-hammock.biz/",
+                    "likes": 65,
+                    "comments": 7,
+                    "shares": 9,
+                    "reach": 988
+                }
+            ],
+            "total_sales_attributed": 1121.4416527854182
+        }
+    ]
+}

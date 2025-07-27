@@ -1,0 +1,26 @@
+{
+    "user_id": "99aff197-acc1-470c-9035-08f20bb384e0",
+    "name": "Dr. Sierra Moore",
+    "email": "tim35@example.net",
+    "instagram_handle": "@smithmatthew",
+    "tiktok_handle": "@fpatel",
+    "joined_at": "2024-04-06T16:56:04.906077",
+    "advocacy_programs": [
+        {
+            "program_id": "c83da7f0-ecb1-4ea2-868b-52ea2cc87412",
+            "brand": "Kunze, Larkin and Dibbert",
+            "tasks_completed": [
+                {
+                    "task_id": "3421cf2a-7942-4dfc-adbf-5fd2e3333528",
+                    "platform": "Twitter",
+                    "post_url": "https://gullible-bug.biz/",
+                    "likes": 2892,
+                    "comments": 25,
+                    "shares": 53,
+                    "reach": 7917
+                }
+            ],
+            "total_sales_attributed": 9987.46
+        }
+    ]
+}

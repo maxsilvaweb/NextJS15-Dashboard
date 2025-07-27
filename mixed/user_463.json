@@ -1,0 +1,26 @@
+{
+    "user_id": "6c897406-2c0f-4894-b8a8-8bae7f1c1468",
+    "name": "John Lee",
+    "email": "jraymond@example.net",
+    "instagram_handle": "@jane66",
+    "tiktok_handle": "@tylermcneil",
+    "joined_at": "2025-07-17T02:35:14.545916",
+    "advocacy_programs": [
+        {
+            "program_id": "1ba91592-3b30-479f-bf2a-ca70fade3ccb",
+            "brand": "Khan-Kelly",
+            "tasks_completed": [
+                {
+                    "task_id": "4141f52b-71c1-4b57-a865-0c9f0bfc88e5",
+                    "platform": "Twitter",
+                    "post_url": "https://www.duarte.org/",
+                    "likes": 87,
+                    "comments": 156,
+                    "shares": 33,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 6082.19
+        }
+    ]
+}

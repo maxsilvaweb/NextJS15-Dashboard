@@ -1,0 +1,26 @@
+{
+    "user_id": "fd5e9d8c-f7af-4573-8d89-c487b891d134",
+    "name": "Kim Moore",
+    "email": "Jody.Kunde@hotmail.com",
+    "instagram_handle": "@Lauretta_Farrell71",
+    "tiktok_handle": "@Sam_Beer34",
+    "joined_at": "2024-07-28T17:41:40.344Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ad4f22a8-aa57-4601-93f8-cf1e70713294",
+            "brand": "Rempel LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e8aaf772-cf5a-4923-97df-94fe62e3acd1",
+                    "platform": "Instagram",
+                    "post_url": "https://helpful-appliance.info",
+                    "likes": 96,
+                    "comments": 34,
+                    "shares": 86,
+                    "reach": 4013
+                }
+            ],
+            "total_sales_attributed": 849.4245807810705
+        }
+    ]
+}

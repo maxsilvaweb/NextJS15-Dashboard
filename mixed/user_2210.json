@@ -1,0 +1,26 @@
+{
+    "user_id": "6ac30e0f-bda1-42a2-aba2-dcfcc488324b",
+    "name": "Elizabeth Hamilton",
+    "email": "shermanryan@example.net",
+    "instagram_handle": "@patriciajackson",
+    "tiktok_handle": "@pwarner",
+    "joined_at": "2025-04-16T22:16:06.787050",
+    "advocacy_programs": [
+        {
+            "program_id": "2b939c3b-9823-4ec4-84d4-35e10940fc10",
+            "brand": "Boehm, DuBuque and Prosacco",
+            "tasks_completed": [
+                {
+                    "task_id": "03ac3f6f-be8f-4e03-9ebc-e3a15aa81ead",
+                    "platform": "TikTok",
+                    "post_url": "http://sellers-stokes.info/",
+                    "likes": 3710,
+                    "comments": 432,
+                    "shares": 39,
+                    "reach": 5445
+                }
+            ],
+            "total_sales_attributed": 2322.024735186124
+        }
+    ]
+}

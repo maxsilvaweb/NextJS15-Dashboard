@@ -1,0 +1,26 @@
+{
+    "user_id": "8560097a-0691-4739-b6b7-fffd80879ee4",
+    "name": "Brian Clark",
+    "email": "snyderkaren@example.net",
+    "instagram_handle": "@Felicita.Kshlerin",
+    "tiktok_handle": "@Raquel11",
+    "joined_at": "2024-12-26T17:30:24.376934",
+    "advocacy_programs": [
+        {
+            "program_id": "7b6da864-3ddc-4e85-af51-834f2e2401db",
+            "brand": "Jones, Huber and Hogan",
+            "tasks_completed": [
+                {
+                    "task_id": "eb5b3619-d2ad-4fd7-af7c-722b9d8d568e",
+                    "platform": "Facebook",
+                    "post_url": "http://www.holmes.com/",
+                    "likes": 570,
+                    "comments": 34,
+                    "shares": 75,
+                    "reach": 9907
+                }
+            ],
+            "total_sales_attributed": 2062.6011427002004
+        }
+    ]
+}

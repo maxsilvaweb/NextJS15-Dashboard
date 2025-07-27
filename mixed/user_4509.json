@@ -1,0 +1,26 @@
+{
+    "user_id": "59dcece6-8648-4a9d-8692-1ad4a065b3f6",
+    "name": "Frederick Bell",
+    "email": "umason@example.net",
+    "instagram_handle": "@rita22",
+    "tiktok_handle": "@karenjones",
+    "joined_at": "2023-11-08T10:04:33.900971",
+    "advocacy_programs": [
+        {
+            "program_id": "69459d68-8220-4e3d-b3d7-7c8c58abf0e4",
+            "brand": "Strong, Knight and Meyer",
+            "tasks_completed": [
+                {
+                    "task_id": "7d116e7d-7343-4935-9e33-edaa9b4d7800",
+                    "platform": "Instagram",
+                    "post_url": "https://exalted-tributary.name/",
+                    "likes": 4950,
+                    "comments": 6,
+                    "shares": 75,
+                    "reach": 3870
+                }
+            ],
+            "total_sales_attributed": 3236.95
+        }
+    ]
+}

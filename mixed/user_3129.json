@@ -1,0 +1,26 @@
+{
+    "user_id": "92dd5916-fdc5-4f77-ae1b-8a4eddccc34e",
+    "name": "Frederick Goodman",
+    "email": "mirandajames@example.com",
+    "instagram_handle": "@nathan16",
+    "tiktok_handle": "@mark17",
+    "joined_at": "2024-11-20T14:42:46.146774",
+    "advocacy_programs": [
+        {
+            "program_id": "87b308c5-0c9b-449a-82db-27d98c2a843b",
+            "brand": "Ortega-Anderson",
+            "tasks_completed": [
+                {
+                    "task_id": "7d955b19-0192-47aa-8243-2604eb4031cf",
+                    "platform": "Facebook",
+                    "post_url": "http://mosley.net/",
+                    "likes": 6560,
+                    "comments": 212,
+                    "shares": 77,
+                    "reach": 1447
+                }
+            ],
+            "total_sales_attributed": 6242.3
+        }
+    ]
+}

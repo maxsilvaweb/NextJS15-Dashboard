@@ -1,0 +1,26 @@
+{
+    "user_id": "c7313b1a-1f7c-4c00-994c-6731209cada2",
+    "name": "Tina Gibson",
+    "email": "Ayden.Pfeffer72@yahoo.com",
+    "instagram_handle": "@Bulah_Ritchie28",
+    "tiktok_handle": "@Margarett.Windler-Franey8",
+    "joined_at": "2025-02-01T06:00:27.213Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bcdd3bc2-ca7c-4332-a3cd-66175e1f8ba7",
+            "brand": "Dooley, Wolf and Wunsch",
+            "tasks_completed": [
+                {
+                    "task_id": "87cb7988-de10-41bf-8193-da98ae1fde62",
+                    "platform": "TikTok",
+                    "post_url": "https://that-dream.name/",
+                    "likes": 85,
+                    "comments": 2,
+                    "shares": 26,
+                    "reach": 4685
+                }
+            ],
+            "total_sales_attributed": 2750.004081191656
+        }
+    ]
+}

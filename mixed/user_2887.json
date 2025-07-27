@@ -1,0 +1,26 @@
+{
+    "user_id": "6029263b-8495-4a34-ac01-add289fe3b03",
+    "name": "Helen Trantow",
+    "email": "Brycen.Tremblay76@gmail.com",
+    "instagram_handle": "@Dorothy32",
+    "tiktok_handle": "@Layne_Mueller56",
+    "joined_at": "2025-02-01T18:45:27.294Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0e3353a4-86c6-400b-a02d-ead08bd33fee",
+            "brand": "Crooks, Wiza and Fay",
+            "tasks_completed": [
+                {
+                    "task_id": "f9b801f5-6a94-4933-b9e1-39406e3232af",
+                    "platform": "TikTok",
+                    "post_url": "https://unconscious-metal.com",
+                    "likes": 265,
+                    "comments": 6,
+                    "shares": 22,
+                    "reach": 8169
+                }
+            ],
+            "total_sales_attributed": 704.6031529692717
+        }
+    ]
+}

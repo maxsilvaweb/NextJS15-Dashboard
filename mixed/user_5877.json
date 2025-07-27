@@ -1,0 +1,26 @@
+{
+    "user_id": "543bc71c-9652-4f95-adf3-9e773fc3a35c",
+    "name": "Ms. Kelly Homenick",
+    "email": "Freddy_Goyette31@hotmail.com",
+    "instagram_handle": "@Bessie87",
+    "tiktok_handle": "@Dillon83",
+    "joined_at": "2024-11-09T15:49:48.826Z",
+    "advocacy_programs": [
+        {
+            "program_id": "20be575b-bab7-4479-b289-7c9ef3c3e412",
+            "brand": "Medhurst - MacGyver",
+            "tasks_completed": [
+                {
+                    "task_id": "d2e31445-52f9-4232-8707-39bb98419b55",
+                    "platform": "Instagram",
+                    "post_url": "https://slow-cutlet.name/",
+                    "likes": 178,
+                    "comments": 22,
+                    "shares": 19,
+                    "reach": 5613
+                }
+            ],
+            "total_sales_attributed": 2112.4396918608973
+        }
+    ]
+}

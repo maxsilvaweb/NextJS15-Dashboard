@@ -1,0 +1,26 @@
+{
+    "user_id": "1c7bbb30-784d-4bd4-b6c2-def50f88212e",
+    "name": "Melinda Crona DDS",
+    "email": "Gretchen_West@yahoo.com",
+    "instagram_handle": "@Karolann.Stiedemann90",
+    "tiktok_handle": "@Magdalen6",
+    "joined_at": "2025-02-26T04:21:39.110Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6e22e281-16e0-4a85-bcee-6a1178c784eb",
+            "brand": "Parker, Rau and Little",
+            "tasks_completed": [
+                {
+                    "task_id": "f73f4893-cbab-4b11-b401-94b54ceba880",
+                    "platform": "Instagram",
+                    "post_url": "https://elliptical-tomatillo.org/",
+                    "likes": 276,
+                    "comments": 48,
+                    "shares": 93,
+                    "reach": 9321
+                }
+            ],
+            "total_sales_attributed": 1628.3287238900264
+        }
+    ]
+}

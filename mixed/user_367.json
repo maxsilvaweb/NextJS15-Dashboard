@@ -1,0 +1,26 @@
+{
+    "user_id": "6e990114-1ec5-4f34-94d9-d1989ca715b3",
+    "name": "Julie Fletcher",
+    "email": "Camylle_Stokes@gmail.com",
+    "instagram_handle": "@clarkmichael",
+    "tiktok_handle": "@ronaldvasquez",
+    "joined_at": "2024-05-17T17:25:31.695415",
+    "advocacy_programs": [
+        {
+            "program_id": "0ca90cc1-48e9-4941-b20b-7b200149f1fd",
+            "brand": "Schmidt, Contreras and Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "d2b51c55-e72b-4725-9ff8-c0d10f73447c",
+                    "platform": "Instagram",
+                    "post_url": "https://ray.com/",
+                    "likes": 108,
+                    "comments": 3,
+                    "shares": 14,
+                    "reach": 7542
+                }
+            ],
+            "total_sales_attributed": 3413.21
+        }
+    ]
+}

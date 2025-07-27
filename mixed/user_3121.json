@@ -1,0 +1,26 @@
+{
+    "user_id": "1f1633ae-7039-45dc-95c8-4e2b69560fab",
+    "name": "Linda Guerrero",
+    "email": "michellerussell@example.org",
+    "instagram_handle": "@jennifer92",
+    "tiktok_handle": "@susanrodriguez",
+    "joined_at": "2025-02-11T22:22:39.773062",
+    "advocacy_programs": [
+        {
+            "program_id": "2af6fcd6-d21a-430d-acde-b9bce57fc66f",
+            "brand": "Howard-Nguyen",
+            "tasks_completed": [
+                {
+                    "task_id": "fde9957c-767e-4cc0-a803-7732ae961b1a",
+                    "platform": "Facebook",
+                    "post_url": "http://www.martin.net/",
+                    "likes": 1541,
+                    "comments": 63,
+                    "shares": 27,
+                    "reach": 4782
+                }
+            ],
+            "total_sales_attributed": 4756.529481718758
+        }
+    ]
+}

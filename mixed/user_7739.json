@@ -1,0 +1,26 @@
+{
+    "user_id": "e7bf435a-90f2-4288-8c9f-57242d8e6edb",
+    "name": "Norman Greenfelder",
+    "email": "Nayeli47@yahoo.com",
+    "instagram_handle": "@Edwina56",
+    "tiktok_handle": "@Eulalia.Rutherford",
+    "joined_at": "2025-01-30T11:38:08.932Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b23e62b2-051b-4782-b9c4-d92fe27d89d7",
+            "brand": "Hegmann, Steuber and Armstrong",
+            "tasks_completed": [
+                {
+                    "task_id": "6e19f6b4-2be5-4023-84b8-b1b9a40f8c81",
+                    "platform": "TikTok",
+                    "post_url": "https://outstanding-issue.com/",
+                    "likes": 437,
+                    "comments": 19,
+                    "shares": 5,
+                    "reach": 510
+                }
+            ],
+            "total_sales_attributed": 4265.737382341606
+        }
+    ]
+}

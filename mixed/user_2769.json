@@ -1,0 +1,26 @@
+{
+    "user_id": "7c068610-2744-4082-9aa6-f52eef5e9ed2",
+    "name": "James White",
+    "email": "ashley52@example.com",
+    "instagram_handle": "@connor64",
+    "tiktok_handle": "@charris",
+    "joined_at": "2024-10-28T16:58:42.798799",
+    "advocacy_programs": [
+        {
+            "program_id": "3aa53abc-971b-467c-84cd-88d4032b41c9",
+            "brand": "Gilbert, Sandoval and Cook",
+            "tasks_completed": [
+                {
+                    "task_id": "936c4c4b-2d02-4d89-8a5b-29cf52fbb14e",
+                    "platform": "Twitter",
+                    "post_url": "http://www.higgins-ward.info/",
+                    "likes": 5976,
+                    "comments": 124,
+                    "shares": 59,
+                    "reach": 8653
+                }
+            ],
+            "total_sales_attributed": 8353.51
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1cb1c6be-6e0a-45ee-9885-bc41aafcb51f",
+    "name": "Joshua Davis",
+    "email": "hollandwendy@example.net",
+    "instagram_handle": "@paul58",
+    "tiktok_handle": "@ashley69",
+    "joined_at": "2024-02-28T02:09:37.633317",
+    "advocacy_programs": [
+        {
+            "program_id": "4a56da7b-4b84-478b-9e1f-bc9ce2b737c0",
+            "brand": "Carpenter Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "2fa1b2a5-7628-4f55-8137-ffac430f1a0f",
+                    "platform": "YouTube",
+                    "post_url": "http://www.quinn.biz/",
+                    "likes": 1254,
+                    "comments": 370,
+                    "shares": 91,
+                    "reach": 7230
+                }
+            ],
+            "total_sales_attributed": 2485.5487575539682
+        }
+    ]
+}

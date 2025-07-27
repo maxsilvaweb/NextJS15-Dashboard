@@ -1,0 +1,26 @@
+{
+    "user_id": "7163e79d-5078-41d0-8237-4493370c93fa",
+    "name": "Donna Summers",
+    "email": "hillpamela@example.org",
+    "instagram_handle": "@cduncan",
+    "tiktok_handle": "@chad42",
+    "joined_at": "2024-10-19T02:47:47.276017",
+    "advocacy_programs": [
+        {
+            "program_id": "214f9006-52ae-4f47-80d0-3f052f21d898",
+            "brand": "Bates Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "35433475-f277-47b1-b7a7-df22f89d5495",
+                    "platform": "Instagram",
+                    "post_url": "https://educated-stump.biz/",
+                    "likes": 4311,
+                    "comments": 460,
+                    "shares": 16,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 8388.57
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c0820da2-8e98-42e9-a196-42e14a30084d",
+    "name": "Denise Haag",
+    "email": "Bryon_Koelpin12@yahoo.com",
+    "instagram_handle": "@Jessy_Tillman",
+    "tiktok_handle": "@Belle_Reynolds",
+    "joined_at": "2024-09-29T22:24:44.449Z",
+    "advocacy_programs": [
+        {
+            "program_id": "879a13b6-57bb-4feb-9c2a-d9ac6cebcdee",
+            "brand": "Ratke - Gulgowski",
+            "tasks_completed": [
+                {
+                    "task_id": "73290087-c638-421a-9b4b-586f99ea49f3",
+                    "platform": "Instagram",
+                    "post_url": "https://deep-trash.com",
+                    "likes": 155,
+                    "comments": 11,
+                    "shares": 12,
+                    "reach": 8975
+                }
+            ],
+            "total_sales_attributed": 2334.472274211319
+        }
+    ]
+}

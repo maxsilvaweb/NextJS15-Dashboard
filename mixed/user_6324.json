@@ -1,0 +1,26 @@
+{
+    "user_id": "2a6be6ab-5742-4aa5-aff3-8cff3a067f49",
+    "name": "Sheryl Hahn",
+    "email": "Soledad_Jacobson@gmail.com",
+    "instagram_handle": "@Matt_Brekke40",
+    "tiktok_handle": "@Russel.Labadie25",
+    "joined_at": "2025-01-10T09:19:42.595Z",
+    "advocacy_programs": [
+        {
+            "program_id": "48702359-79a3-489d-aab0-fcbf68369c30",
+            "brand": "Jacobson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f46b39d3-b7c7-467b-9231-1db09f6d64a0",
+                    "platform": "TikTok",
+                    "post_url": "https://lovable-cd.name/",
+                    "likes": 354,
+                    "comments": 43,
+                    "shares": 84,
+                    "reach": 1778
+                }
+            ],
+            "total_sales_attributed": 3585.265635470227
+        }
+    ]
+}

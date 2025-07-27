@@ -1,0 +1,26 @@
+{
+    "user_id": "2b563511-20b9-4eb1-9b54-88561d59c0de",
+    "name": "Mr. Warren Moen Sr.",
+    "email": "Jayden_Lesch@hotmail.com",
+    "instagram_handle": "@Keshaun_Mann35",
+    "tiktok_handle": "@Danika_Durgan20",
+    "joined_at": "2024-11-09T00:47:59.423Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c018d824-c076-4ff3-8c60-8893c9d4c66f",
+            "brand": "Schamberger Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "c2f0a81c-cdf3-46db-af29-c325d17a5685",
+                    "platform": "Instagram",
+                    "post_url": "https://windy-eggplant.name/",
+                    "likes": 135,
+                    "comments": 46,
+                    "shares": 47,
+                    "reach": 9179
+                }
+            ],
+            "total_sales_attributed": 921.8313540497589
+        }
+    ]
+}

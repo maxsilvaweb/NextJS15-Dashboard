@@ -1,0 +1,26 @@
+{
+    "user_id": "0a09778b-c4d9-4717-86bf-715673295fb7",
+    "name": "Alan Feil",
+    "email": "Jayde.Fahey40@hotmail.com",
+    "instagram_handle": "@Pamela.Kihn11",
+    "tiktok_handle": "@Mercedes.Zemlak",
+    "joined_at": "2024-12-28T13:04:47.596Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2e3db012-e3b4-4e5e-b388-3d2d11a6b529",
+            "brand": "Botsford Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "8752c1df-b152-4d52-a14a-57bca42abae6",
+                    "platform": "TikTok",
+                    "post_url": "https://frank-validity.org",
+                    "likes": 481,
+                    "comments": 42,
+                    "shares": 43,
+                    "reach": 6207
+                }
+            ],
+            "total_sales_attributed": 3082.7043458942467
+        }
+    ]
+}

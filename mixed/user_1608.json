@@ -1,0 +1,26 @@
+{
+    "user_id": "7f2447f2-bc86-48a9-aa88-5dd3ea9b4b8a",
+    "name": "Jared Sanders",
+    "email": "Elbert.Orn@gmail.com",
+    "instagram_handle": "@michael83",
+    "tiktok_handle": "@geraldmartin",
+    "joined_at": "2025-03-12T03:47:26.902Z",
+    "advocacy_programs": [
+        {
+            "program_id": "34b2659c-d774-4964-b8d3-f03071b1b688",
+            "brand": "Perry Group",
+            "tasks_completed": [
+                {
+                    "task_id": "8532f873-bad7-495f-b7ef-ffc07867df3d",
+                    "platform": "YouTube",
+                    "post_url": "https://quixotic-fort.name/",
+                    "likes": 2021,
+                    "comments": 276,
+                    "shares": 11,
+                    "reach": 5628
+                }
+            ],
+            "total_sales_attributed": 2477.33
+        }
+    ]
+}

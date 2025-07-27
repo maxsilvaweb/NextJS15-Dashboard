@@ -1,0 +1,26 @@
+{
+    "user_id": "d6eceedb-ad3b-402c-aea0-14e39fa26918",
+    "name": "Kim Wiley",
+    "email": "Frida_Smith54@yahoo.com",
+    "instagram_handle": "@davidvang",
+    "tiktok_handle": "@murphykara",
+    "joined_at": "2023-12-13T09:42:55.091299",
+    "advocacy_programs": [
+        {
+            "program_id": "3b0cdfda-4774-43bd-ab2c-9d5917a105bc",
+            "brand": "Baldwin, Miranda and Rangel",
+            "tasks_completed": [
+                {
+                    "task_id": "57c0a431-279b-4318-830c-e08e9593c33d",
+                    "platform": "TikTok",
+                    "post_url": "https://martinez.com/",
+                    "likes": 4175,
+                    "comments": 289,
+                    "shares": 85,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 7098.37
+        }
+    ]
+}

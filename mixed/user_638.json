@@ -1,0 +1,26 @@
+{
+    "user_id": "a8242092-19a0-4f29-b7e4-05f78d63287e",
+    "name": "Vicky McGlynn",
+    "email": "Bettye47@hotmail.com",
+    "instagram_handle": "@Bruce_Zulauf45",
+    "tiktok_handle": "@Anderson.Kris61",
+    "joined_at": "2024-06-06T22:33:13.414Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8fb7ec9f-83b0-4039-aea4-d3bb6706146d",
+            "brand": "Mante LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a12eb530-bcd1-4071-8376-df163de301c2",
+                    "platform": "TikTok",
+                    "post_url": "https://dearest-developing.name/",
+                    "likes": 408,
+                    "comments": 45,
+                    "shares": 15,
+                    "reach": 4901
+                }
+            ],
+            "total_sales_attributed": 1558.8791294568407
+        }
+    ]
+}

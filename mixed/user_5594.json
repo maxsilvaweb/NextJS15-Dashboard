@@ -1,0 +1,26 @@
+{
+    "user_id": "a5e0d4b1-2db2-468c-a76b-46671fa5fa41",
+    "name": "Jennifer Brown",
+    "email": "cooperandrea@example.com",
+    "instagram_handle": "@vaughnemily",
+    "tiktok_handle": "@haleytracy",
+    "joined_at": "2025-07-14T06:00:56.269097",
+    "advocacy_programs": [
+        {
+            "program_id": "3f7c73e7-c359-481a-8cbc-407be97038f4",
+            "brand": "Chung, Chambers and King",
+            "tasks_completed": [
+                {
+                    "task_id": "99f10a22-617b-444d-a249-15a504d3aed3",
+                    "platform": "Twitter",
+                    "post_url": "https://www.walker.biz/",
+                    "likes": 4336,
+                    "comments": 14,
+                    "shares": 97,
+                    "reach": 4817
+                }
+            ],
+            "total_sales_attributed": 4290.53
+        }
+    ]
+}

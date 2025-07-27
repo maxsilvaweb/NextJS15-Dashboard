@@ -1,0 +1,26 @@
+{
+    "user_id": "32d1b26d-c614-46c6-b614-3f15f58e9ad3",
+    "name": "Michelle Holloway",
+    "email": "deborah41@example.net",
+    "instagram_handle": "@vsanchez",
+    "tiktok_handle": "@Ayana.Beahan",
+    "joined_at": "2025-03-07T13:59:26.479572",
+    "advocacy_programs": [
+        {
+            "program_id": "98805885-e361-48b0-b50a-df25f69e1c23",
+            "brand": "Williams, Adams and Campbell",
+            "tasks_completed": [
+                {
+                    "task_id": "22fad5f0-1079-4423-8fb4-d697b628a428",
+                    "platform": "TikTok",
+                    "post_url": "http://zavala.org/",
+                    "likes": 9212,
+                    "comments": 22,
+                    "shares": 47,
+                    "reach": 2233
+                }
+            ],
+            "total_sales_attributed": 1840.22
+        }
+    ]
+}

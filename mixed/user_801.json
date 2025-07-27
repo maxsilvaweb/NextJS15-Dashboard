@@ -1,0 +1,26 @@
+{
+    "user_id": "04e2d99b-d010-47b3-a4a0-18e447bf6a00",
+    "name": "Caroline Emmerich",
+    "email": "Lucienne_Simonis@hotmail.com",
+    "instagram_handle": "@Antonietta_Hane32",
+    "tiktok_handle": "@Octavia62",
+    "joined_at": "2024-03-28T05:39:25.501Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f72162a3-accf-439c-b3c7-9497e0c709a5",
+            "brand": "Dibbert, Stiedemann and Kuhlman",
+            "tasks_completed": [
+                {
+                    "task_id": "754c885e-d982-44f9-83b7-590ff2583ef2",
+                    "platform": "TikTok",
+                    "post_url": "https://ashamed-bracelet.net/",
+                    "likes": 288,
+                    "comments": 47,
+                    "shares": 66,
+                    "reach": 9773
+                }
+            ],
+            "total_sales_attributed": 477.1452977297308
+        }
+    ]
+}

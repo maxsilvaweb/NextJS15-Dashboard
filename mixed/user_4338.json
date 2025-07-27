@@ -1,0 +1,26 @@
+{
+    "user_id": "c7f37086-6ee9-4445-84fd-84d2e9ac6a8b",
+    "name": "Brian Lewis",
+    "email": "Dereck6@hotmail.com",
+    "instagram_handle": "@michele58",
+    "tiktok_handle": "@jacob92",
+    "joined_at": "2023-10-20T15:57:52.351103",
+    "advocacy_programs": [
+        {
+            "program_id": "6d808b8d-a657-4dfd-a621-7277df689f70",
+            "brand": "Prohaska, Kohler and Jerde",
+            "tasks_completed": [
+                {
+                    "task_id": "c50d8c54-af8a-46d1-b4ee-424325e38cf1",
+                    "platform": "Instagram",
+                    "post_url": "https://kramer.com/",
+                    "likes": 2767,
+                    "comments": 211,
+                    "shares": 2,
+                    "reach": 4711
+                }
+            ],
+            "total_sales_attributed": 1678.25
+        }
+    ]
+}

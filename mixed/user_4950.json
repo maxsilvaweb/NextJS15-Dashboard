@@ -1,0 +1,26 @@
+{
+    "user_id": "7da93e85-7910-4131-aee9-dc7043d9df99",
+    "name": "Janice Hayes",
+    "email": "kelly59@example.net",
+    "instagram_handle": "@sue36",
+    "tiktok_handle": "@cbutler",
+    "joined_at": "2023-10-21T10:28:39.316793",
+    "advocacy_programs": [
+        {
+            "program_id": "c97aeac7-27ad-488b-ad40-3c1576b60665",
+            "brand": "Jones, Ayala and Butler",
+            "tasks_completed": [
+                {
+                    "task_id": "b0115962-05dc-496c-a459-63a85de4dc97",
+                    "platform": "Facebook",
+                    "post_url": "http://www.thompson-taylor.net/",
+                    "likes": 6214,
+                    "comments": 122,
+                    "shares": 82,
+                    "reach": 5224
+                }
+            ],
+            "total_sales_attributed": 5547.58
+        }
+    ]
+}

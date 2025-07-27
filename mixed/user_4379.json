@@ -1,0 +1,26 @@
+{
+    "user_id": "f49bc4d9-4c75-47df-a7e9-7e2ef5c9ee0f",
+    "name": "Denise Ondricka",
+    "email": "Brendan.Bergnaum@hotmail.com",
+    "instagram_handle": "@Janelle.Hills66",
+    "tiktok_handle": "@Rosetta_Spencer",
+    "joined_at": "2024-08-10T09:24:46.947Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4201356c-6f60-4fb7-8d82-86f8a0770606",
+            "brand": "Bechtelar, Wolff and Wilderman",
+            "tasks_completed": [
+                {
+                    "task_id": "5445f095-d9a8-44f3-b263-e5bb864f5cf8",
+                    "platform": "Instagram",
+                    "post_url": "https://regular-elevator.name/",
+                    "likes": 189,
+                    "comments": 23,
+                    "shares": 43,
+                    "reach": 4091
+                }
+            ],
+            "total_sales_attributed": 726.236988009721
+        }
+    ]
+}

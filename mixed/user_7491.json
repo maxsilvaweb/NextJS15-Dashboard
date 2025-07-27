@@ -1,0 +1,26 @@
+{
+    "user_id": "43fc2a7f-fb90-4b15-8f0d-1899d558ddc2",
+    "name": "Bertha Larkin",
+    "email": "Lyla29@gmail.com",
+    "instagram_handle": "@Maribel93",
+    "tiktok_handle": "@Ottilie.Feeney-Hayes44",
+    "joined_at": "2024-06-06T19:16:40.538Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ace34145-bbe9-4353-9fa7-2e6b70008517",
+            "brand": "Harvey Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "24542ee9-b81c-44c2-b560-dc6c95d04285",
+                    "platform": "TikTok",
+                    "post_url": "https://hollow-petal.biz/",
+                    "likes": 332,
+                    "comments": 46,
+                    "shares": 15,
+                    "reach": 6797
+                }
+            ],
+            "total_sales_attributed": 4903.820452658667
+        }
+    ]
+}

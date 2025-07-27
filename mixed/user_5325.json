@@ -1,0 +1,26 @@
+{
+    "user_id": "49799e49-e48b-400b-82f3-c2ef89df077b",
+    "name": "Raul Hansen",
+    "email": "Jaylan18@hotmail.com",
+    "instagram_handle": "@Hailie.Jenkins66",
+    "tiktok_handle": "@Sophie16",
+    "joined_at": "2025-01-11T02:07:36.753Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a05fc4a9-89d6-45de-a1ff-fbb0ad192282",
+            "brand": "Beer, Bayer and Quitzon",
+            "tasks_completed": [
+                {
+                    "task_id": "67829c94-fc1f-492d-97fa-cb405122f15d",
+                    "platform": "TikTok",
+                    "post_url": "https://physical-impostor.name/",
+                    "likes": 237,
+                    "comments": 11,
+                    "shares": 98,
+                    "reach": 3206
+                }
+            ],
+            "total_sales_attributed": 1151.9658917410852
+        }
+    ]
+}

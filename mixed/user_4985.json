@@ -1,0 +1,26 @@
+{
+    "user_id": "dbf1fb41-95e6-4dff-bcb8-ae2cf08a8df2",
+    "name": "Susan Horton",
+    "email": "mikaylamartin@example.com",
+    "instagram_handle": "@jonessarah",
+    "tiktok_handle": "@jbowman",
+    "joined_at": "2023-11-14T02:16:04.439315",
+    "advocacy_programs": [
+        {
+            "program_id": "493398be-eacb-4007-9ccc-bfcac20a53e8",
+            "brand": "Simpson-Richardson",
+            "tasks_completed": [
+                {
+                    "task_id": "f78ad0b0-34d0-4b44-89a0-467a2553af35",
+                    "platform": "YouTube",
+                    "post_url": "http://www.phillips.org/",
+                    "likes": 1984,
+                    "comments": 159,
+                    "shares": 14,
+                    "reach": 7623
+                }
+            ],
+            "total_sales_attributed": 1918.7418547836394
+        }
+    ]
+}

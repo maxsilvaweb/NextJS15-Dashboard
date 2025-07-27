@@ -1,0 +1,26 @@
+{
+    "user_id": "ba4b0477-cd3a-4e73-a6dc-5470323111ea",
+    "name": "Christina Sullivan",
+    "email": "edward92@example.com",
+    "instagram_handle": "@gonzalezgeorge",
+    "tiktok_handle": "@hannahgarrett",
+    "joined_at": "2024-12-21T10:52:35.210977",
+    "advocacy_programs": [
+        {
+            "program_id": "a5e922d6-a985-4814-aca3-35ec01b77004",
+            "brand": "Hodge-Newman",
+            "tasks_completed": [
+                {
+                    "task_id": "46fe0d44-2d49-4eba-9cc0-9e87cc8e8ddc",
+                    "platform": "Instagram",
+                    "post_url": "http://lin.com/",
+                    "likes": 4377,
+                    "comments": 238,
+                    "shares": 13,
+                    "reach": 4590
+                }
+            ],
+            "total_sales_attributed": 7946.24
+        }
+    ]
+}

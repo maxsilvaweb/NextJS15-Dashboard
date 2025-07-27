@@ -1,0 +1,26 @@
+{
+    "user_id": "da2c48c1-3ef8-47e5-a06f-856bf1edc7cd",
+    "name": "Thomas Harris",
+    "email": "ashleymason@example.org",
+    "instagram_handle": "@byrdsheri",
+    "tiktok_handle": "@stephen12",
+    "joined_at": "2024-03-27T13:23:21.342276",
+    "advocacy_programs": [
+        {
+            "program_id": "fc51a760-c319-4536-8bf6-c5235a8f1d20",
+            "brand": "Scott Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "c36b12d4-1536-4024-8cd7-aa7f22c24e22",
+                    "platform": "Instagram",
+                    "post_url": "https://www.abbott.com/",
+                    "likes": 1081,
+                    "comments": 12,
+                    "shares": 94,
+                    "reach": 1575
+                }
+            ],
+            "total_sales_attributed": 3131.59
+        }
+    ]
+}

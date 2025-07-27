@@ -1,0 +1,26 @@
+{
+    "user_id": "9ec31f8f-d5fd-46a6-ba5b-f939f3a21ed5",
+    "name": "Amber Garza",
+    "email": "lisa14@example.org",
+    "instagram_handle": "@christinaobrien",
+    "tiktok_handle": "@sandersjennifer",
+    "joined_at": "2025-06-07T19:17:31.235908",
+    "advocacy_programs": [
+        {
+            "program_id": "ee208df7-c56b-49ad-a94a-e5a633de4188",
+            "brand": "Kennedy, Gomez and Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "07920141-6ebd-4e2d-90f5-711384633d2c",
+                    "platform": "YouTube",
+                    "post_url": "https://brown-daniels.info/",
+                    "likes": 410,
+                    "comments": 48,
+                    "shares": 21,
+                    "reach": 6222
+                }
+            ],
+            "total_sales_attributed": 3792.8927030747136
+        }
+    ]
+}

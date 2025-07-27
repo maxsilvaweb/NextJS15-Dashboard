@@ -1,0 +1,26 @@
+{
+    "user_id": "d105baff-750d-4564-b2c0-a260b306ca1b",
+    "name": "Crystal Bradford",
+    "email": "dnguyen@example.net",
+    "instagram_handle": "@Leonardo_Hyatt",
+    "tiktok_handle": "@smiller",
+    "joined_at": "2023-10-29T22:17:12.287558",
+    "advocacy_programs": [
+        {
+            "program_id": "f3216067-a745-42af-b362-13a92f960e45",
+            "brand": "Salinas Group",
+            "tasks_completed": [
+                {
+                    "task_id": "6dc0d631-08d3-42b8-8223-7b1c37dd6352",
+                    "platform": "TikTok",
+                    "post_url": "https://devoted-desk.com",
+                    "likes": 7805,
+                    "comments": 14,
+                    "shares": 48,
+                    "reach": 3151
+                }
+            ],
+            "total_sales_attributed": 9543.27
+        }
+    ]
+}

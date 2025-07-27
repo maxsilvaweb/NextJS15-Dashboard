@@ -1,0 +1,26 @@
+{
+    "user_id": "700ecdc7-77d1-41fd-9bd4-e942e3f87799",
+    "name": "Nick Rohan",
+    "email": "Rene.Kerluke6@yahoo.com",
+    "instagram_handle": "@Dangelo67",
+    "tiktok_handle": "@Dewitt.Legros66",
+    "joined_at": "2025-01-18T20:35:04.981Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fbaf8b78-ae6a-4886-aef0-53bdcd702fe8",
+            "brand": "Douglas, Feil and Cole",
+            "tasks_completed": [
+                {
+                    "task_id": "cdea799b-1a19-48a2-9f94-6fe11177a55c",
+                    "platform": "Instagram",
+                    "post_url": "https://skeletal-atrium.org/",
+                    "likes": 336,
+                    "comments": 25,
+                    "shares": 96,
+                    "reach": 5740
+                }
+            ],
+            "total_sales_attributed": 715.4113165812882
+        }
+    ]
+}

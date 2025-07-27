@@ -1,0 +1,26 @@
+{
+    "user_id": "fa96d736-5766-4dfe-9889-5557047910af",
+    "name": "Clinton Kohler IV",
+    "email": "Nasir.Borer4@gmail.com",
+    "instagram_handle": "@Mackenzie_Roob30",
+    "tiktok_handle": "@Hilton0",
+    "joined_at": "2025-03-09T08:33:44.034Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ab47a3d1-10b1-4b87-88aa-f9f4bedfeeb4",
+            "brand": "Kozey, Simonis and Moen",
+            "tasks_completed": [
+                {
+                    "task_id": "edbed9b8-32ac-4e15-b2f7-851f8752785a",
+                    "platform": "Instagram",
+                    "post_url": "https://sleepy-assist.info",
+                    "likes": 228,
+                    "comments": 19,
+                    "shares": 100,
+                    "reach": 861
+                }
+            ],
+            "total_sales_attributed": 1383.4728491404653
+        }
+    ]
+}

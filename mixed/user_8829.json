@@ -1,0 +1,26 @@
+{
+    "user_id": "882ff2a1-88da-413f-9afd-f370a763f2ab",
+    "name": "Stephen Cook",
+    "email": "joanna26@example.net",
+    "instagram_handle": "@jeffreylawrence",
+    "tiktok_handle": "@cweaver",
+    "joined_at": "2024-07-29T19:15:19.526Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6be55229-99c1-4e3d-ab80-1f89ef288a7f",
+            "brand": "Johnson and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a3bac390-bf70-4895-8daa-b76df43e0968",
+                    "platform": "TikTok",
+                    "post_url": "http://www.livingston-valdez.org/",
+                    "likes": 1116,
+                    "comments": 0,
+                    "shares": 79,
+                    "reach": 4934
+                }
+            ],
+            "total_sales_attributed": 6525.42
+        }
+    ]
+}

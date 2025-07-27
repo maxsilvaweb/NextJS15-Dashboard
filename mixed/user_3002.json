@@ -1,0 +1,26 @@
+{
+    "user_id": "0de3e8fc-5d1f-41d7-882a-d7e5899b4fc9",
+    "name": "Edward Franey II",
+    "email": "Ansley87@hotmail.com",
+    "instagram_handle": "@Dee.Langworth36",
+    "tiktok_handle": "@Hester30",
+    "joined_at": "2024-12-28T19:05:03.460Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6f17a690-4f28-4e5c-82e2-549022e29085",
+            "brand": "Smith, Koch and Kuphal",
+            "tasks_completed": [
+                {
+                    "task_id": "9dbbc8e9-0cba-4247-ab71-6426ecbcd073",
+                    "platform": "Instagram",
+                    "post_url": "https://those-effector.com",
+                    "likes": 377,
+                    "comments": 46,
+                    "shares": 73,
+                    "reach": 4484
+                }
+            ],
+            "total_sales_attributed": 1831.9749049319396
+        }
+    ]
+}

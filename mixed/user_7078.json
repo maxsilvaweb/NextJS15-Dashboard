@@ -1,0 +1,26 @@
+{
+    "user_id": "56e1b4e8-e3c8-42fa-b063-32b7284aaa2e",
+    "name": "Tamara Stroman",
+    "email": "Otilia37@yahoo.com",
+    "instagram_handle": "@Dee.Fisher14",
+    "tiktok_handle": "@Jade42",
+    "joined_at": "2024-07-31T13:33:45.951Z",
+    "advocacy_programs": [
+        {
+            "program_id": "30ba8fea-79eb-4f58-b398-b975052c6769",
+            "brand": "King - Schiller",
+            "tasks_completed": [
+                {
+                    "task_id": "3b25f8ea-989c-475f-8956-1cc8620a0145",
+                    "platform": "Instagram",
+                    "post_url": "https://troubled-paintwork.org",
+                    "likes": 425,
+                    "comments": 40,
+                    "shares": 38,
+                    "reach": 8520
+                }
+            ],
+            "total_sales_attributed": 715.9600075889769
+        }
+    ]
+}

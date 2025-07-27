@@ -1,0 +1,26 @@
+{
+    "user_id": "fd2d973f-9143-4618-8725-96565c9f8910",
+    "name": "Vanessa Brooks",
+    "email": "pmassey@example.net",
+    "instagram_handle": "@cunninghammary",
+    "tiktok_handle": "@Ardella.Smitham",
+    "joined_at": "2024-04-09T07:06:05.102136",
+    "advocacy_programs": [
+        {
+            "program_id": "bc266d0b-4b1d-4690-8eab-3f15e63c2962",
+            "brand": "Thomas, Lopez and Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "a5b614b9-d4cb-4a09-b5be-5f131b7ef20f",
+                    "platform": "Instagram",
+                    "post_url": "https://peters.com/",
+                    "likes": 3248,
+                    "comments": 341,
+                    "shares": 52,
+                    "reach": 4124
+                }
+            ],
+            "total_sales_attributed": 3545.177418037482
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0c7f64b3-5d10-4263-acc3-ec1183797640",
+    "name": "Derek Lindsey",
+    "email": "cheryl90@example.net",
+    "instagram_handle": "@wmata",
+    "tiktok_handle": "@megan91",
+    "joined_at": "2024-10-04T00:06:29.945Z",
+    "advocacy_programs": [
+        {
+            "program_id": "91c1dbe4-da4d-42df-9b40-661a2903a006",
+            "brand": "Morris PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f651f7e1-a6f1-442b-8212-fe52e82b365c",
+                    "platform": "TikTok",
+                    "post_url": "https://www.weaver-todd.net/",
+                    "likes": 744,
+                    "comments": 40,
+                    "shares": 96,
+                    "reach": 6687
+                }
+            ],
+            "total_sales_attributed": 457.03
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "36a09573-d6c5-4c53-a228-19b7ae4c0d8b",
+    "name": "Carl Weber",
+    "email": "Daija86@hotmail.com",
+    "instagram_handle": "@hensonerica",
+    "tiktok_handle": "@mbrown",
+    "joined_at": "2025-04-01T20:44:09.275635",
+    "advocacy_programs": [
+        {
+            "program_id": "d00c5320-e89a-4a7c-a6fc-78e107cb3dba",
+            "brand": "Buchanan, Pierce and King",
+            "tasks_completed": [
+                {
+                    "task_id": "c1ea4a7b-5685-48a5-821b-7e40be38d4f3",
+                    "platform": "Instagram",
+                    "post_url": "https://granular-nectarine.com",
+                    "likes": 4968,
+                    "comments": 481,
+                    "shares": 24,
+                    "reach": 4501
+                }
+            ],
+            "total_sales_attributed": 2513.52
+        }
+    ]
+}

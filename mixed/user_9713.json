@@ -1,0 +1,26 @@
+{
+    "user_id": "aa193d10-272e-4f4d-ad83-6d8f472f4e12",
+    "name": "Melinda Johns",
+    "email": "Dave.Lynch-Anderson@gmail.com",
+    "instagram_handle": "@Rosendo_VonRueden68",
+    "tiktok_handle": "@Domenick_Fritsch60",
+    "joined_at": "2025-01-25T22:55:47.181Z",
+    "advocacy_programs": [
+        {
+            "program_id": "061b7497-51f4-465e-b690-ce47c7f7b4b6",
+            "brand": "Gottlieb, Kunze and Abernathy",
+            "tasks_completed": [
+                {
+                    "task_id": "e0c3f8ca-bada-44b0-a5c8-80a4e585f996",
+                    "platform": "Instagram",
+                    "post_url": "https://fine-synergy.org",
+                    "likes": 396,
+                    "comments": 49,
+                    "shares": 3,
+                    "reach": 8287
+                }
+            ],
+            "total_sales_attributed": 152.47812260069946
+        }
+    ]
+}

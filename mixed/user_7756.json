@@ -1,0 +1,26 @@
+{
+    "user_id": "9a6b877c-5f3a-4f6f-b4a4-cd19b76d4727",
+    "name": "Amanda Roy",
+    "email": "Delores.Balistreri-Nitzsche@gmail.com",
+    "instagram_handle": "@susan85",
+    "tiktok_handle": "@jessicasmith",
+    "joined_at": "2023-10-14T07:31:32.390825",
+    "advocacy_programs": [
+        {
+            "program_id": "3c2af77e-fad5-4274-a274-2bb61d2c8b35",
+            "brand": "Adams-Arias",
+            "tasks_completed": [
+                {
+                    "task_id": "782b1084-5bc1-4d82-9e05-344fb5056953",
+                    "platform": "TikTok",
+                    "post_url": "http://turner-jones.info/",
+                    "likes": 4550,
+                    "comments": 45,
+                    "shares": 89,
+                    "reach": 2134
+                }
+            ],
+            "total_sales_attributed": 5730.83
+        }
+    ]
+}

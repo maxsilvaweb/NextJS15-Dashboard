@@ -1,0 +1,26 @@
+{
+    "user_id": "18c2e9a9-517f-421b-9daf-3f840799d8bc",
+    "name": "Robert Thornton",
+    "email": "emily88@example.com",
+    "instagram_handle": "@jeffrey86",
+    "tiktok_handle": "@jenniferbanks",
+    "joined_at": "2024-10-19T16:50:51.474903",
+    "advocacy_programs": [
+        {
+            "program_id": "e053667a-a365-4a71-a14f-a8fe5ff9f840",
+            "brand": "Evans, Esparza and Frazier",
+            "tasks_completed": [
+                {
+                    "task_id": "85b59e13-1ab2-4b44-b7f6-66902a8c2314",
+                    "platform": "TikTok",
+                    "post_url": "https://www.miller.com/",
+                    "likes": 9017,
+                    "comments": 345,
+                    "shares": 72,
+                    "reach": 7528
+                }
+            ],
+            "total_sales_attributed": 1683.4830869639648
+        }
+    ]
+}

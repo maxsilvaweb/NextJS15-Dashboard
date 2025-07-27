@@ -1,0 +1,26 @@
+{
+    "user_id": "a2c7e6ee-1c72-4901-a671-de0cf447e0ee",
+    "name": "Ora Walter",
+    "email": "Bessie.Reynolds@yahoo.com",
+    "instagram_handle": "@Rhiannon35",
+    "tiktok_handle": "@Fatima99",
+    "joined_at": "2024-07-09T05:33:17.751Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e89d1645-deb1-4a0f-808e-0de631ab356d",
+            "brand": "O'Keefe, Fahey and Carroll",
+            "tasks_completed": [
+                {
+                    "task_id": "4f191d59-6b1b-4a4c-b810-4a327b4e8a7d",
+                    "platform": "TikTok",
+                    "post_url": "https://annual-best-seller.biz/",
+                    "likes": 67,
+                    "comments": 18,
+                    "shares": 32,
+                    "reach": 9253
+                }
+            ],
+            "total_sales_attributed": 3349.081786705692
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "47bf13b0-9995-4344-93b9-ff938c6ab3fd",
+    "name": "Sylvester Mueller",
+    "email": "rhart@example.net",
+    "instagram_handle": "@matthew87",
+    "tiktok_handle": "@joel60",
+    "joined_at": "2024-05-01T03:57:51.617986",
+    "advocacy_programs": [
+        {
+            "program_id": "7ce4afeb-14dc-489d-944c-cdf36df0e0cf",
+            "brand": "Evans-Harrison",
+            "tasks_completed": [
+                {
+                    "task_id": "5ca2ab19-3356-4b67-af4b-cc17d79c9909",
+                    "platform": "TikTok",
+                    "post_url": "https://married-godfather.name",
+                    "likes": 1000,
+                    "comments": 16,
+                    "shares": 88,
+                    "reach": 1747
+                }
+            ],
+            "total_sales_attributed": 2207.14
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "fe1db866-dca2-4ba7-ac60-b36f92cc694d",
+    "name": "Terry Koss",
+    "email": "Davon.Bruen85@gmail.com",
+    "instagram_handle": "@Marlon.Rau",
+    "tiktok_handle": "@Ashly_Will-Feest10",
+    "joined_at": "2024-05-21T06:21:35.179Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0e8ea8d5-f355-4b98-b220-2c9fa2e9e95e",
+            "brand": "O'Keefe - Purdy",
+            "tasks_completed": [
+                {
+                    "task_id": "ad97ee33-52bb-4453-9bfb-2893ece8263d",
+                    "platform": "Instagram",
+                    "post_url": "https://black-and-white-riser.com/",
+                    "likes": 471,
+                    "comments": 10,
+                    "shares": 60,
+                    "reach": 9159
+                }
+            ],
+            "total_sales_attributed": 1593.2374406224235
+        }
+    ]
+}

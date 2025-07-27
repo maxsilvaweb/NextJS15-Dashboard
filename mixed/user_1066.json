@@ -1,0 +1,26 @@
+{
+    "user_id": "f51b7374-6aeb-435e-a554-ddfc8aecf3f6",
+    "name": "Jack Newman",
+    "email": "katie08@example.com",
+    "instagram_handle": "@ptaylor",
+    "tiktok_handle": "@kenneth25",
+    "joined_at": "2024-07-16T10:33:40.788144",
+    "advocacy_programs": [
+        {
+            "program_id": "4d8307b9-f2eb-4fa1-b744-84883f32f489",
+            "brand": "Eaton, Perry and Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "c74b5bd4-1319-4d75-8f78-f8c5627f1b4f",
+                    "platform": "Instagram",
+                    "post_url": "https://chen.com/",
+                    "likes": 6862,
+                    "comments": 9,
+                    "shares": 38,
+                    "reach": 7024
+                }
+            ],
+            "total_sales_attributed": 4967.05
+        }
+    ]
+}

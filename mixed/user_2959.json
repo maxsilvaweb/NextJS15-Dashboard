@@ -1,0 +1,26 @@
+{
+    "user_id": "d099bfad-8a8e-4eae-b202-65874884e6ad",
+    "name": "Charles Thompson",
+    "email": "aandrews@example.net",
+    "instagram_handle": "@jenkinsmichele",
+    "tiktok_handle": "@alicia00",
+    "joined_at": "2023-08-11T15:27:10.317437",
+    "advocacy_programs": [
+        {
+            "program_id": "b6e607da-6087-4039-bc1d-fc443d669ffd",
+            "brand": "Harper Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "883196a7-e903-447e-84ed-ac7cb416fe49",
+                    "platform": "TikTok",
+                    "post_url": "http://estes.com/",
+                    "likes": 490,
+                    "comments": 481,
+                    "shares": 92,
+                    "reach": 5544
+                }
+            ],
+            "total_sales_attributed": 4632.43
+        }
+    ]
+}

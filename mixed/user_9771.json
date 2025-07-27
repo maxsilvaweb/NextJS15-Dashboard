@@ -1,0 +1,26 @@
+{
+    "user_id": "afd822c4-380b-4dc7-9ba9-6e47858fae5a",
+    "name": "William Ford",
+    "email": "kday@example.org",
+    "instagram_handle": "@markhuff",
+    "tiktok_handle": "@dwaynewhite",
+    "joined_at": "2024-10-15T13:42:15.098190",
+    "advocacy_programs": [
+        {
+            "program_id": "fa5b2486-01b6-4a2a-a9fb-6fd03fbb5fe7",
+            "brand": "Clark PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "6293f6c5-8d65-4197-ab82-d6c095a239a9",
+                    "platform": "TikTok",
+                    "post_url": "https://each-reservation.info",
+                    "likes": 6144,
+                    "comments": 248,
+                    "shares": 35,
+                    "reach": 1851
+                }
+            ],
+            "total_sales_attributed": 1635.59
+        }
+    ]
+}

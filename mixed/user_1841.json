@@ -1,0 +1,26 @@
+{
+    "user_id": "5cd54b73-c4c2-484d-9c87-be808bff96c1",
+    "name": "Megan Hart",
+    "email": "solomontimothy@example.org",
+    "instagram_handle": "@jonesjulie",
+    "tiktok_handle": "@pjohns",
+    "joined_at": "2024-02-04T05:09:20.296248",
+    "advocacy_programs": [
+        {
+            "program_id": "fe7e3182-053d-4067-8c95-d700d5f1cda4",
+            "brand": "Barnes and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "d9ff47a4-13f8-4e6b-a929-3c57a7072d9c",
+                    "platform": "Twitter",
+                    "post_url": "https://www.dunn.com/",
+                    "likes": 5194,
+                    "comments": 406,
+                    "shares": 5,
+                    "reach": 3645
+                }
+            ],
+            "total_sales_attributed": 3171.136188326299
+        }
+    ]
+}

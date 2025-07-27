@@ -1,0 +1,26 @@
+{
+    "user_id": "69908466-6b23-4650-8251-879d9ace4575",
+    "name": "Jimmy Johns I",
+    "email": "Cleta.Bergnaum@gmail.com",
+    "instagram_handle": "@Abner12",
+    "tiktok_handle": "@Marianna_Batz53",
+    "joined_at": "2025-02-20T13:53:29.226Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cdbecb74-3325-4a09-b44a-da8b88ac6714",
+            "brand": "Bergstrom - Grady",
+            "tasks_completed": [
+                {
+                    "task_id": "d4a7fdd4-dc93-43a2-adce-9ae88536a77f",
+                    "platform": "TikTok",
+                    "post_url": "https://shrill-adaptation.org/",
+                    "likes": 309,
+                    "comments": 40,
+                    "shares": 81,
+                    "reach": 9624
+                }
+            ],
+            "total_sales_attributed": 798.1198778363832
+        }
+    ]
+}

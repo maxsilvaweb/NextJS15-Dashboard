@@ -1,0 +1,26 @@
+{
+    "user_id": "c288f8db-d2db-47d6-ab7e-55d4ebf4898d",
+    "name": "Yvonne Weber Jr.",
+    "email": "Marques73@hotmail.com",
+    "instagram_handle": "@Roman.Rosenbaum",
+    "tiktok_handle": "@Adam.Murphy58",
+    "joined_at": "2024-06-08T11:57:18.415Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ebbb1319-929a-4b77-b0a1-b5bcaaf9f01f",
+            "brand": "Murray Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "4b69c70f-461b-4e50-a048-7f1ff2451a09",
+                    "platform": "TikTok",
+                    "post_url": "https://uniform-stool.info",
+                    "likes": 87,
+                    "comments": 47,
+                    "shares": 49,
+                    "reach": 2356
+                }
+            ],
+            "total_sales_attributed": 3960.269217200465
+        }
+    ]
+}

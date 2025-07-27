@@ -1,0 +1,26 @@
+{
+    "user_id": "9832c98f-fbf2-4e51-9e24-f56e898e7ccb",
+    "name": "Susan Anderson",
+    "email": "vshannon@example.net",
+    "instagram_handle": "@marissakey",
+    "tiktok_handle": "@nicholasbishop",
+    "joined_at": "2024-06-30T01:46:23.968882",
+    "advocacy_programs": [
+        {
+            "program_id": "6c73c4a2-bbd2-4e49-8f49-d9db0bb4cbb3",
+            "brand": "Ruecker LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2cfd83d9-04dc-4aef-a886-d584c9c0bb30",
+                    "platform": "Facebook",
+                    "post_url": "http://www.thompson.com/",
+                    "likes": 9849,
+                    "comments": 366,
+                    "shares": 8,
+                    "reach": 5238
+                }
+            ],
+            "total_sales_attributed": 8247.76
+        }
+    ]
+}

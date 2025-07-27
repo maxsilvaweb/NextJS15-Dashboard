@@ -1,0 +1,26 @@
+{
+    "user_id": "b12025ae-3b46-496c-a948-55a0b1bdd307",
+    "name": "Irving Larkin",
+    "email": "Tyree_Turner29@yahoo.com",
+    "instagram_handle": "@Edd_Feil-Ortiz",
+    "tiktok_handle": "@Elisa43",
+    "joined_at": "2024-04-24T16:18:30.461Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d25789e3-e496-449d-a976-1f862be2a8e4",
+            "brand": "Lueilwitz and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "ad4dd514-6d17-40fe-9c82-0b71d939b7b5",
+                    "platform": "Instagram",
+                    "post_url": "https://frivolous-pinstripe.com",
+                    "likes": 352,
+                    "comments": 36,
+                    "shares": 67,
+                    "reach": 6305
+                }
+            ],
+            "total_sales_attributed": 2616.841042305806
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ee6e9a1f-47e9-49aa-ae36-39473fc3c1eb",
+    "name": "Sidney Ziemann",
+    "email": "Domenick.Collins97@hotmail.com",
+    "instagram_handle": "@Rhoda.Kozey44",
+    "tiktok_handle": "@Deja.Beer",
+    "joined_at": "2024-06-20T19:13:46.950Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ac47b235-dcf1-4130-be25-e3ed8ee1908c",
+            "brand": "Mueller - Olson",
+            "tasks_completed": [
+                {
+                    "task_id": "4c62fa52-4f5b-4d70-92c4-268bc4fc5ec0",
+                    "platform": "Instagram",
+                    "post_url": "https://regular-schedule.info/",
+                    "likes": 74,
+                    "comments": 6,
+                    "shares": 75,
+                    "reach": 4004
+                }
+            ],
+            "total_sales_attributed": 2994.652429440301
+        }
+    ]
+}

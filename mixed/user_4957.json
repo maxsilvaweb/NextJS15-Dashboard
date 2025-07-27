@@ -1,0 +1,26 @@
+{
+    "user_id": "170acc67-09ad-41e9-a70c-05ed43999a55",
+    "name": "Lynn Auer",
+    "email": "Pierce.Lakin@hotmail.com",
+    "instagram_handle": "@Ashleigh_Pacocha",
+    "tiktok_handle": "@Boris71",
+    "joined_at": "2024-04-27T16:41:11.921Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e24733a0-622a-4e36-93f7-1a9eee496c48",
+            "brand": "McDermott LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "792d241b-3a05-4d72-a8b4-475626a1f6d7",
+                    "platform": "TikTok",
+                    "post_url": "https://guilty-knickers.name",
+                    "likes": 437,
+                    "comments": 9,
+                    "shares": 29,
+                    "reach": 6854
+                }
+            ],
+            "total_sales_attributed": 815.6556761071091
+        }
+    ]
+}

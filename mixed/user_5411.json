@@ -1,0 +1,26 @@
+{
+    "user_id": "e13f4a12-335e-4799-b3f5-ffa83045c271",
+    "name": "Mr. Nathan Sauer Sr.",
+    "email": "Ardella_Gutmann@gmail.com",
+    "instagram_handle": "@Genoveva68",
+    "tiktok_handle": "@Keenan.Hoeger97",
+    "joined_at": "2024-06-28T03:07:33.383Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7a54ab60-2c43-4727-9a5f-46c372026fb1",
+            "brand": "Gutkowski Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "63969c6e-9631-4c0a-ab5e-67a008414f28",
+                    "platform": "Instagram",
+                    "post_url": "https://mealy-cricket.com/",
+                    "likes": 313,
+                    "comments": 48,
+                    "shares": 31,
+                    "reach": 8745
+                }
+            ],
+            "total_sales_attributed": 224.63974698990097
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d006795b-c7c9-4053-8494-3489e3d251b2",
+    "name": "Jared Feeney",
+    "email": "Shirley52@yahoo.com",
+    "instagram_handle": "@Dustin_Heller",
+    "tiktok_handle": "@Carolyn2",
+    "joined_at": "2025-01-20T06:17:48.817Z",
+    "advocacy_programs": [
+        {
+            "program_id": "15dca6ec-64d0-4d12-bf08-99802164a87c",
+            "brand": "Hoppe, Jacobson and Wolff",
+            "tasks_completed": [
+                {
+                    "task_id": "28fd5b00-8eac-45a2-a470-34d5f389e0b9",
+                    "platform": "TikTok",
+                    "post_url": "https://amazing-cutlet.name",
+                    "likes": 173,
+                    "comments": 3,
+                    "shares": 37,
+                    "reach": 3743
+                }
+            ],
+            "total_sales_attributed": 3898.107598063007
+        }
+    ]
+}

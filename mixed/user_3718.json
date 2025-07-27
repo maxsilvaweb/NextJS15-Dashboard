@@ -1,0 +1,26 @@
+{
+    "user_id": "502260da-b3db-4c7f-bb5d-816ba97884e6",
+    "name": "Matthew David",
+    "email": "Tatum_Kub95@yahoo.com",
+    "instagram_handle": "@phillipball",
+    "tiktok_handle": "@amanda17",
+    "joined_at": "2023-12-06T03:21:01.880706",
+    "advocacy_programs": [
+        {
+            "program_id": "a252759e-e9a8-49d6-bf9a-47d31a33da48",
+            "brand": "Diaz-Short",
+            "tasks_completed": [
+                {
+                    "task_id": "fce27f2f-13d5-4162-bfbf-482a4fef642d",
+                    "platform": "TikTok",
+                    "post_url": "https://reed.org/",
+                    "likes": 229,
+                    "comments": 29,
+                    "shares": 98,
+                    "reach": 5337
+                }
+            ],
+            "total_sales_attributed": 903.82
+        }
+    ]
+}

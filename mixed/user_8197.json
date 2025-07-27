@@ -1,0 +1,26 @@
+{
+    "user_id": "5da8886d-3126-4b4e-b06c-19f2c32f4468",
+    "name": "Marie DuBuque",
+    "email": "Wilber_Harvey2@hotmail.com",
+    "instagram_handle": "@Jayden.Keebler32",
+    "tiktok_handle": "@Christelle89",
+    "joined_at": "2024-04-29T05:24:04.074Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3d03a904-85d9-4c3e-9001-057fbbe0b670",
+            "brand": "Blanda Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "3dafee31-1050-4400-b925-de9bc690e4f0",
+                    "platform": "Instagram",
+                    "post_url": "https://key-license.info/",
+                    "likes": 88,
+                    "comments": 29,
+                    "shares": 73,
+                    "reach": 6328
+                }
+            ],
+            "total_sales_attributed": 3581.435186949574
+        }
+    ]
+}

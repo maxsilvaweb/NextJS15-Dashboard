@@ -1,0 +1,26 @@
+{
+    "user_id": "60a9d7fa-df0e-42eb-ad56-82343cf504eb",
+    "name": "Michael Garza",
+    "email": "Augusta.Ortiz93@hotmail.com",
+    "instagram_handle": "@ryanjennifer",
+    "tiktok_handle": "@ruizmichael",
+    "joined_at": "2023-12-02T23:28:33.186779",
+    "advocacy_programs": [
+        {
+            "program_id": "a28ca889-9b8c-4c5d-9cce-c27bb6f338b1",
+            "brand": "Walter - Mayert",
+            "tasks_completed": [
+                {
+                    "task_id": "59055e6c-9c38-4225-8aa4-033523fdd10e",
+                    "platform": "YouTube",
+                    "post_url": "https://www.lindsey-turner.org/",
+                    "likes": 3745,
+                    "comments": 20,
+                    "shares": 64,
+                    "reach": 8893
+                }
+            ],
+            "total_sales_attributed": 6437.24
+        }
+    ]
+}

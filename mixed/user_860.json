@@ -1,0 +1,26 @@
+{
+    "user_id": "423aea67-57fb-4184-bf28-5d605c856f19",
+    "name": "Jon Watts",
+    "email": "grantbarry@example.net",
+    "instagram_handle": "@richardsonjason",
+    "tiktok_handle": "@beckermargaret",
+    "joined_at": "2024-07-13T18:30:30.479907",
+    "advocacy_programs": [
+        {
+            "program_id": "3b867f9a-55bb-42be-bf50-4be3c12d1675",
+            "brand": "Johnson-Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "11a1887b-6e84-4ec7-8af4-571b0d3c729e",
+                    "platform": "TikTok",
+                    "post_url": "https://www.wise-skinner.org/",
+                    "likes": 386,
+                    "comments": 188,
+                    "shares": 52,
+                    "reach": 2198
+                }
+            ],
+            "total_sales_attributed": 7190.51
+        }
+    ]
+}

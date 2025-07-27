@@ -1,0 +1,26 @@
+{
+    "user_id": "6648220a-3809-4cfc-b65d-47aff7de3cf0",
+    "name": "Christine Jast",
+    "email": "Carmela98@gmail.com",
+    "instagram_handle": "@Shaina.DuBuque98",
+    "tiktok_handle": "@Fabiola_MacGyver",
+    "joined_at": "2024-05-21T13:42:53.986Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5e84852b-981a-48e9-8d2a-4525ef3316b4",
+            "brand": "Klocko, Ernser and Denesik",
+            "tasks_completed": [
+                {
+                    "task_id": "474d7c40-4f08-4611-94b8-93323908cf4e",
+                    "platform": "Instagram",
+                    "post_url": "https://jumbo-octave.name/",
+                    "likes": 207,
+                    "comments": 9,
+                    "shares": 16,
+                    "reach": 4051
+                }
+            ],
+            "total_sales_attributed": 133.78194812245135
+        }
+    ]
+}

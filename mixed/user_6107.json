@@ -1,0 +1,26 @@
+{
+    "user_id": "6367bf48-b527-406e-9345-f7cc038b958d",
+    "name": "Geraldine Langosh",
+    "email": "Wyatt_Goodwin-Schroeder@hotmail.com",
+    "instagram_handle": "@Richmond_Von",
+    "tiktok_handle": "@Lois17",
+    "joined_at": "2024-07-24T02:22:54.950Z",
+    "advocacy_programs": [
+        {
+            "program_id": "45511cb0-f901-4df2-9804-3e63161b80a9",
+            "brand": "Bogisich - Baumbach",
+            "tasks_completed": [
+                {
+                    "task_id": "aaf4f7b6-0350-4d02-a78e-501d4b1347b1",
+                    "platform": "TikTok",
+                    "post_url": "https://miserly-laughter.org",
+                    "likes": 487,
+                    "comments": 37,
+                    "shares": 39,
+                    "reach": 3580
+                }
+            ],
+            "total_sales_attributed": 3030.4014580910143
+        }
+    ]
+}

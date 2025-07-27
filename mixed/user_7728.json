@@ -1,0 +1,26 @@
+{
+    "user_id": "983c92c2-4954-4533-b66b-d13311e1ad89",
+    "name": "Mrs. Clara Jacobson",
+    "email": "Joshuah.Abbott46@hotmail.com",
+    "instagram_handle": "@Alvah.OHara",
+    "tiktok_handle": "@Frederick_Turcotte",
+    "joined_at": "2024-04-01T15:32:48.782Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2e6b87ac-cc0f-4ab3-86ac-2e85607ae9a5",
+            "brand": "Muller, Herzog and Konopelski",
+            "tasks_completed": [
+                {
+                    "task_id": "efec395f-1f34-493c-b911-468ecfd78664",
+                    "platform": "TikTok",
+                    "post_url": "https://waterlogged-forage.name/",
+                    "likes": 345,
+                    "comments": 32,
+                    "shares": 44,
+                    "reach": 989
+                }
+            ],
+            "total_sales_attributed": 3339.3267994685443
+        }
+    ]
+}

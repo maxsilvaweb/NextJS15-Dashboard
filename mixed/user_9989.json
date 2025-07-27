@@ -1,0 +1,26 @@
+{
+    "user_id": "4dfbb826-ea13-4bf9-8955-f92c03d4a745",
+    "name": "Mr. Wilbert Harris",
+    "email": "Fiona.Hansen@gmail.com",
+    "instagram_handle": "@Kianna_Koch84",
+    "tiktok_handle": "@Claudie35",
+    "joined_at": "2025-03-11T08:12:27.290Z",
+    "advocacy_programs": [
+        {
+            "program_id": "90c09454-2f9a-4de1-b2d6-de1d8e490e20",
+            "brand": "Kuhic, Conn and Connelly",
+            "tasks_completed": [
+                {
+                    "task_id": "5f56d063-6744-41eb-9828-72b8c65f0ce8",
+                    "platform": "TikTok",
+                    "post_url": "https://multicolored-cuckoo.biz/",
+                    "likes": 162,
+                    "comments": 15,
+                    "shares": 92,
+                    "reach": 6080
+                }
+            ],
+            "total_sales_attributed": 4035.646817101547
+        }
+    ]
+}

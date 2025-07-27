@@ -1,0 +1,26 @@
+{
+    "user_id": "e61db1ca-c6cb-4237-800c-43c74dab62d3",
+    "name": "James Morales",
+    "email": "travisjohnson@example.com",
+    "instagram_handle": "@hutchinsonbrandon",
+    "tiktok_handle": "@gpotts",
+    "joined_at": "2024-01-14T18:48:47.747770",
+    "advocacy_programs": [
+        {
+            "program_id": "554e2337-f78a-4616-a545-353fc4d3a032",
+            "brand": "Rogers Group",
+            "tasks_completed": [
+                {
+                    "task_id": "c761388c-21c3-4b85-bbca-475442197723",
+                    "platform": "TikTok",
+                    "post_url": "https://www.lawrence.com/",
+                    "likes": 2927,
+                    "comments": 101,
+                    "shares": 31,
+                    "reach": 5208
+                }
+            ],
+            "total_sales_attributed": 2790.31
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4670edab-652f-49cd-910b-67754d25aebc",
+    "name": "Josefina McLaughlin",
+    "email": "Althea_Baumbach@yahoo.com",
+    "instagram_handle": "@Tina7",
+    "tiktok_handle": "@Lucio_Toy",
+    "joined_at": "2025-03-02T22:34:29.667Z",
+    "advocacy_programs": [
+        {
+            "program_id": "28585fdd-6c98-4cb5-bf1d-985471c219ba",
+            "brand": "Quigley LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "72102e0c-69f5-4e55-afc8-3c5f9fc43eb6",
+                    "platform": "Instagram",
+                    "post_url": "https://alert-graffiti.name/",
+                    "likes": 101,
+                    "comments": 49,
+                    "shares": 100,
+                    "reach": 1502
+                }
+            ],
+            "total_sales_attributed": 2451.575662782876
+        }
+    ]
+}

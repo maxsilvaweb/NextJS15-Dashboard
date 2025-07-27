@@ -1,0 +1,26 @@
+{
+    "user_id": "da87b174-e112-4a66-b007-cb624d642435",
+    "name": "Jimmy White",
+    "email": "pdavis@example.org",
+    "instagram_handle": "@glenda63",
+    "tiktok_handle": "@ncompton",
+    "joined_at": "2024-01-02T19:30:13.636660",
+    "advocacy_programs": [
+        {
+            "program_id": "b63b3544-9560-4c9b-a180-9a8ab80f8206",
+            "brand": "Bullock-Edwards",
+            "tasks_completed": [
+                {
+                    "task_id": "0a149458-55e6-46f1-ad51-dce85dbbfd6b",
+                    "platform": "Twitter",
+                    "post_url": "https://wong.net/",
+                    "likes": 2185,
+                    "comments": 5,
+                    "shares": 12,
+                    "reach": 7031
+                }
+            ],
+            "total_sales_attributed": 1716.77
+        }
+    ]
+}

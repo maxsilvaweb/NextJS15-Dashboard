@@ -1,0 +1,26 @@
+{
+    "user_id": "e6e82c22-d73a-4047-9bb8-2005b917fe48",
+    "name": "Sharon Dudley",
+    "email": "martinkaitlyn@example.org",
+    "instagram_handle": "@christopherpratt",
+    "tiktok_handle": "@eric16",
+    "joined_at": "2024-02-05T00:52:11.572986",
+    "advocacy_programs": [
+        {
+            "program_id": "b03a4c46-81cc-4664-a40a-bae61d775cad",
+            "brand": "Coleman, Griffin and Turner",
+            "tasks_completed": [
+                {
+                    "task_id": "bb99a963-ace7-4c6c-a990-b66ed6a13662",
+                    "platform": "Facebook",
+                    "post_url": "https://www.jackson.com/",
+                    "likes": 2889,
+                    "comments": 348,
+                    "shares": 17,
+                    "reach": 5645
+                }
+            ],
+            "total_sales_attributed": 8101.16
+        }
+    ]
+}

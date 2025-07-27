@@ -1,0 +1,26 @@
+{
+    "user_id": "4c4c3a69-845b-4281-a0d9-02b284aa0902",
+    "name": "Ana Kemmer",
+    "email": "Sonya26@hotmail.com",
+    "instagram_handle": "@Marjorie.Raynor2",
+    "tiktok_handle": "@Barrett57",
+    "joined_at": "2024-08-04T17:48:33.283Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e301fcb1-59aa-4656-9fb6-eae97557546a",
+            "brand": "Marvin Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9def2f05-4eca-4d39-9f44-bbff14c13152",
+                    "platform": "Instagram",
+                    "post_url": "https://mad-napkin.biz",
+                    "likes": 314,
+                    "comments": 5,
+                    "shares": 92,
+                    "reach": 8430
+                }
+            ],
+            "total_sales_attributed": 4090.4872504427844
+        }
+    ]
+}

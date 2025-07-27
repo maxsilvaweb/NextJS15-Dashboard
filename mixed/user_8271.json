@@ -1,0 +1,26 @@
+{
+    "user_id": "50edac83-f3fc-4498-9afc-cd61d427b4a9",
+    "name": "Dr. Erick Konopelski",
+    "email": "Brenden_Grant@hotmail.com",
+    "instagram_handle": "@Precious.Green57",
+    "tiktok_handle": "@Jaren.Welch",
+    "joined_at": "2024-09-29T23:58:30.559Z",
+    "advocacy_programs": [
+        {
+            "program_id": "51e8a367-bc13-4a47-9072-5c2353b0d395",
+            "brand": "Hagenes, Lynch and Larkin",
+            "tasks_completed": [
+                {
+                    "task_id": "08c60574-0495-4e2a-b39b-4112d1976905",
+                    "platform": "Instagram",
+                    "post_url": "https://windy-almighty.com/",
+                    "likes": 126,
+                    "comments": 32,
+                    "shares": 59,
+                    "reach": 8159
+                }
+            ],
+            "total_sales_attributed": 4924.854641047389
+        }
+    ]
+}

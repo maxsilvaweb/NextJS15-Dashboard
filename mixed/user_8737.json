@@ -1,0 +1,26 @@
+{
+    "user_id": "32f64c7a-5013-4ecc-9903-3ab6b294e6d7",
+    "name": "Ryan Duran",
+    "email": "victordorsey@example.net",
+    "instagram_handle": "@elynch",
+    "tiktok_handle": "@Stefan_Daniel82",
+    "joined_at": "2024-03-15T00:38:03.025546",
+    "advocacy_programs": [
+        {
+            "program_id": "9ff3078d-726d-4a21-9e1f-de40585431a4",
+            "brand": "Smith-Delacruz",
+            "tasks_completed": [
+                {
+                    "task_id": "aa4d9243-1347-4c12-b31b-f1d132297833",
+                    "platform": "Facebook",
+                    "post_url": "https://monumental-mallard.biz/",
+                    "likes": 4851,
+                    "comments": 3,
+                    "shares": 22,
+                    "reach": 1646
+                }
+            ],
+            "total_sales_attributed": 9207.2
+        }
+    ]
+}

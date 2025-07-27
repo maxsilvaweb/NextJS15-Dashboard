@@ -1,0 +1,26 @@
+{
+    "user_id": "d8493b4b-2cad-41c4-a72a-b3d0d4c8c4c4",
+    "name": "Jenny Kovacek-Klein",
+    "email": "Jonathon.Hackett64@yahoo.com",
+    "instagram_handle": "@Ian81",
+    "tiktok_handle": "@Antwon69",
+    "joined_at": "2024-11-26T09:33:11.547Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4ce3b598-831e-4db7-a6f9-704beacde7a0",
+            "brand": "Bergnaum - Wintheiser",
+            "tasks_completed": [
+                {
+                    "task_id": "a85731b0-fb03-46b6-a234-d47a57b9d95c",
+                    "platform": "TikTok",
+                    "post_url": "https://bad-lifestyle.info/",
+                    "likes": 461,
+                    "comments": 23,
+                    "shares": 50,
+                    "reach": 4527
+                }
+            ],
+            "total_sales_attributed": 3393.055341255557
+        }
+    ]
+}

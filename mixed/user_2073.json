@@ -1,0 +1,26 @@
+{
+    "user_id": "c749987b-bf91-4e6e-879b-688aa7702f6d",
+    "name": "Chad Labadie",
+    "email": "Lue73@yahoo.com",
+    "instagram_handle": "@Taurean.Nienow33",
+    "tiktok_handle": "@Melissa71",
+    "joined_at": "2024-10-17T12:26:36.549Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4e7d26cf-5425-4002-80f4-4c162844dfa5",
+            "brand": "Senger, Stracke and Prosacco",
+            "tasks_completed": [
+                {
+                    "task_id": "e458a481-03bb-4032-9694-c806a286cc0f",
+                    "platform": "TikTok",
+                    "post_url": "https://hard-to-find-place.name/",
+                    "likes": 297,
+                    "comments": 15,
+                    "shares": 12,
+                    "reach": 4975
+                }
+            ],
+            "total_sales_attributed": 1063.0527229434097
+        }
+    ]
+}

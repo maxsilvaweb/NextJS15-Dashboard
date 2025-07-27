@@ -1,0 +1,26 @@
+{
+    "user_id": "12cff847-97cd-4cc3-a6c2-7e72689b0a94",
+    "name": "Gabriel Hansen",
+    "email": "Cyril.Jenkins55@hotmail.com",
+    "instagram_handle": "@Ebba.Gleichner",
+    "tiktok_handle": "@Ervin.Schmitt64",
+    "joined_at": "2024-04-25T12:55:09.485Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2cd6c9fb-b33e-4614-bd81-c15a9969958d",
+            "brand": "Friesen - Rempel",
+            "tasks_completed": [
+                {
+                    "task_id": "71db84ce-e8d3-4067-8506-5bcf0a6df71a",
+                    "platform": "Instagram",
+                    "post_url": "https://muted-seagull.com",
+                    "likes": 277,
+                    "comments": 11,
+                    "shares": 28,
+                    "reach": 6686
+                }
+            ],
+            "total_sales_attributed": 2489.626779946374
+        }
+    ]
+}

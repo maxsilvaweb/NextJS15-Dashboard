@@ -1,0 +1,26 @@
+{
+    "user_id": "ee1f48f7-e931-4705-a640-cce4fd1a2992",
+    "name": "David Bell",
+    "email": "joshuamccullough@example.org",
+    "instagram_handle": "@oneilltyler",
+    "tiktok_handle": "@jfigueroa",
+    "joined_at": "2024-01-02T07:26:03.938210",
+    "advocacy_programs": [
+        {
+            "program_id": "c0035ae6-5060-4cfa-845b-ed174893a7f3",
+            "brand": "Hansen, Barton and Dicki",
+            "tasks_completed": [
+                {
+                    "task_id": "95b90d15-6eba-4fc4-934a-cacda3722ab5",
+                    "platform": "Twitter",
+                    "post_url": "https://favorite-t-shirt.biz/",
+                    "likes": 7142,
+                    "comments": 352,
+                    "shares": 35,
+                    "reach": 8648
+                }
+            ],
+            "total_sales_attributed": 6658.75
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4b557245-5f8e-4119-bddf-b08a8d4e7146",
+    "name": "Marty Osinski-Gibson",
+    "email": "Keanu_Bernhard@hotmail.com",
+    "instagram_handle": "@Frederik.Feil3",
+    "tiktok_handle": "@Mireya.OHara",
+    "joined_at": "2024-07-12T21:43:33.296Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c903cf10-36f2-46dd-a50b-061e8618c7be",
+            "brand": "Lang, Hickle and Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "254be65d-8168-4cd5-ae0d-5fca65aef734",
+                    "platform": "TikTok",
+                    "post_url": "https://ethical-accelerator.biz",
+                    "likes": 71,
+                    "comments": 1,
+                    "shares": 14,
+                    "reach": 2854
+                }
+            ],
+            "total_sales_attributed": 3236.7413041407667
+        }
+    ]
+}

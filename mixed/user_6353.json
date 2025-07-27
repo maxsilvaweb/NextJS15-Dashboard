@@ -1,0 +1,26 @@
+{
+    "user_id": "20bef4fc-a63b-4c67-a05d-164cfbb96552",
+    "name": "John Mitchell",
+    "email": "shawn22@example.com",
+    "instagram_handle": "@jonesjennifer",
+    "tiktok_handle": "@Kristoffer_Harris",
+    "joined_at": "2024-04-29T18:24:56.414Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2e990ba8-11f1-4e0c-8a22-6fd029311b5f",
+            "brand": "Flores, Guzman and Freeman",
+            "tasks_completed": [
+                {
+                    "task_id": "0e18b172-0077-4368-8f99-9314d968f055",
+                    "platform": "TikTok",
+                    "post_url": "http://mitchell.com/",
+                    "likes": 456,
+                    "comments": 243,
+                    "shares": 42,
+                    "reach": 7745
+                }
+            ],
+            "total_sales_attributed": 9730.6
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "044910b1-4252-4f95-a669-805667223905",
+    "name": "Judith Dickens",
+    "email": "Emilie_Bernier@yahoo.com",
+    "instagram_handle": "@Vicenta_Gerhold",
+    "tiktok_handle": "@Sophie_Grant32",
+    "joined_at": "2024-10-20T16:41:45.295Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1dcc3687-0452-42c9-be36-ff5c1d7e618b",
+            "brand": "Dietrich Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f475c977-2b09-4ff3-b237-28bda4130d30",
+                    "platform": "TikTok",
+                    "post_url": "https://portly-daughter.biz",
+                    "likes": 191,
+                    "comments": 7,
+                    "shares": 33,
+                    "reach": 4948
+                }
+            ],
+            "total_sales_attributed": 3804.4486702628933
+        }
+    ]
+}

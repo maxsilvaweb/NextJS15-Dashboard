@@ -1,0 +1,26 @@
+{
+    "user_id": "38016f2d-02ee-4362-9ee0-d2ce88cd5680",
+    "name": "Teresa Smith",
+    "email": "Vella_Willms22@hotmail.com",
+    "instagram_handle": "@tracey11",
+    "tiktok_handle": "@matthew92",
+    "joined_at": "2024-12-30T19:42:32.665048",
+    "advocacy_programs": [
+        {
+            "program_id": "7a56f5e4-9acf-41e4-b4f7-a823430c57ce",
+            "brand": "Mann, Edwards and Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "735f2fca-aa5c-4789-844b-5cc76ebe8edb",
+                    "platform": "Instagram",
+                    "post_url": "http://edwards.biz/",
+                    "likes": 7435,
+                    "comments": 8,
+                    "shares": 53,
+                    "reach": 1475
+                }
+            ],
+            "total_sales_attributed": 2329.05
+        }
+    ]
+}

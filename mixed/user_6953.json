@@ -1,0 +1,26 @@
+{
+    "user_id": "6fc86a96-0bfc-45a2-a64c-03c10a697e95",
+    "name": "Robert Lopez",
+    "email": "Lexi_Carter@gmail.com",
+    "instagram_handle": "@juliajohnson",
+    "tiktok_handle": "@lkennedy",
+    "joined_at": "2025-01-17T01:43:57.423494",
+    "advocacy_programs": [
+        {
+            "program_id": "55a4cf6e-c4a2-429d-b5cd-5be02bc8529a",
+            "brand": "Noble PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a1b762dd-c021-4c21-9174-58a06640484f",
+                    "platform": "Facebook",
+                    "post_url": "http://www.ayala.com/",
+                    "likes": 8240,
+                    "comments": 92,
+                    "shares": 66,
+                    "reach": 1468
+                }
+            ],
+            "total_sales_attributed": 6542.57
+        }
+    ]
+}

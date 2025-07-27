@@ -1,0 +1,26 @@
+{
+    "user_id": "cf6b9d31-d8e3-4852-b957-f242313486c1",
+    "name": "Jonathan Johnson",
+    "email": "brianspence@example.com",
+    "instagram_handle": "@ryan02",
+    "tiktok_handle": "@hmercer",
+    "joined_at": "2024-06-03T21:36:18.394087",
+    "advocacy_programs": [
+        {
+            "program_id": "da0f8a33-8ad6-42b0-8f8a-77ee0f80abd7",
+            "brand": "Gross, Fields and Kent",
+            "tasks_completed": [
+                {
+                    "task_id": "93e383d8-c117-4d8e-b31c-a2bb34f0965a",
+                    "platform": "Facebook",
+                    "post_url": "https://www.cummings.info/",
+                    "likes": 9020,
+                    "comments": 49,
+                    "shares": 95,
+                    "reach": 2676
+                }
+            ],
+            "total_sales_attributed": 2961.11
+        }
+    ]
+}

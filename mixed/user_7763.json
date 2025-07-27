@@ -1,0 +1,26 @@
+{
+    "user_id": "c9ddf4fc-37f7-4bfd-a511-43b6282bc0f5",
+    "name": "Kelly Fry",
+    "email": "Ebba98@hotmail.com",
+    "instagram_handle": "@michellehodges",
+    "tiktok_handle": "@daviddavis",
+    "joined_at": "2025-07-08T20:36:52.480990",
+    "advocacy_programs": [
+        {
+            "program_id": "84bbe54f-4cf6-47c5-ad5c-6bd6521694b7",
+            "brand": "Altenwerth - Hessel",
+            "tasks_completed": [
+                {
+                    "task_id": "a96b6d5c-f9a8-44c2-b1e7-7e1e40f67df7",
+                    "platform": "TikTok",
+                    "post_url": "http://www.johnson.com/",
+                    "likes": 397,
+                    "comments": 344,
+                    "shares": 7,
+                    "reach": 7163
+                }
+            ],
+            "total_sales_attributed": 2932.13
+        }
+    ]
+}

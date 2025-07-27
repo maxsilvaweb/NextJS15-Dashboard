@@ -1,0 +1,26 @@
+{
+    "user_id": "313c0f81-7112-44b3-a1ef-8654eb96da45",
+    "name": "Katherine Kling DDS",
+    "email": "Kaleigh.Murazik3@hotmail.com",
+    "instagram_handle": "@Leo.Bernhard",
+    "tiktok_handle": "@Kraig_Crooks33",
+    "joined_at": "2025-01-13T07:22:33.844Z",
+    "advocacy_programs": [
+        {
+            "program_id": "55cf91f3-6871-4617-9d79-25a9a5da5f7f",
+            "brand": "Keebler - Schuster",
+            "tasks_completed": [
+                {
+                    "task_id": "63396ffe-43df-47c6-b6cc-264b80bde1e9",
+                    "platform": "TikTok",
+                    "post_url": "https://wise-challenge.com/",
+                    "likes": 95,
+                    "comments": 30,
+                    "shares": 4,
+                    "reach": 9847
+                }
+            ],
+            "total_sales_attributed": 3467.540950913338
+        }
+    ]
+}

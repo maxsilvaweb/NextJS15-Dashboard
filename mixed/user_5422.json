@@ -1,0 +1,26 @@
+{
+    "user_id": "ef065fad-d9ac-4d09-bca7-7dc3b7097880",
+    "name": "Vicki Anderson",
+    "email": "Annie.Hammes@gmail.com",
+    "instagram_handle": "@johnstonrobert",
+    "tiktok_handle": "@katrina05",
+    "joined_at": "2024-01-24T00:09:27.221708",
+    "advocacy_programs": [
+        {
+            "program_id": "687b3df3-45d3-4644-b151-5355a750c6e9",
+            "brand": "Cabrera, Watson and Bradley",
+            "tasks_completed": [
+                {
+                    "task_id": "a993f286-1d6c-45b4-8380-b7c3cb443aa5",
+                    "platform": "YouTube",
+                    "post_url": "https://hernandez.biz/",
+                    "likes": 9303,
+                    "comments": 33,
+                    "shares": 92,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 5553.08
+        }
+    ]
+}

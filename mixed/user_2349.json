@@ -1,0 +1,26 @@
+{
+    "user_id": "842d46f3-f353-4fb7-a190-b6eeda6cd7b6",
+    "name": "Michele Kreiger II",
+    "email": "petersenbarry@example.org",
+    "instagram_handle": "@barkermary",
+    "tiktok_handle": "@christophersanchez",
+    "joined_at": "2023-11-06T10:43:25.737936",
+    "advocacy_programs": [
+        {
+            "program_id": "3545a023-a1d4-487f-b4ee-1bd32f1b3465",
+            "brand": "Neal-Bishop",
+            "tasks_completed": [
+                {
+                    "task_id": "01df2557-9af4-4b6b-91ae-b7045f138be7",
+                    "platform": "Instagram",
+                    "post_url": "https://www.stephens.com/",
+                    "likes": 1344,
+                    "comments": 293,
+                    "shares": 83,
+                    "reach": 5988
+                }
+            ],
+            "total_sales_attributed": 4769.67
+        }
+    ]
+}

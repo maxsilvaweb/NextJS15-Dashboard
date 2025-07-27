@@ -1,0 +1,26 @@
+{
+    "user_id": "5a73d195-3cd9-4996-bdbe-a6ffc98be181",
+    "name": "Clara Watsica",
+    "email": "Dakota98@yahoo.com",
+    "instagram_handle": "@Abagail.Hauck-Kuhlman14",
+    "tiktok_handle": "@Orie86",
+    "joined_at": "2025-02-12T23:19:39.080Z",
+    "advocacy_programs": [
+        {
+            "program_id": "00ff3ed9-c45f-48f4-aaf5-0ac9e3cc563c",
+            "brand": "Mills LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a4ed7b93-93cd-4c76-af12-a2344979cf91",
+                    "platform": "TikTok",
+                    "post_url": "https://practical-suspension.biz/",
+                    "likes": 487,
+                    "comments": 5,
+                    "shares": 77,
+                    "reach": 6828
+                }
+            ],
+            "total_sales_attributed": 1023.1756775281594
+        }
+    ]
+}

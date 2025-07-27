@@ -1,0 +1,26 @@
+{
+    "user_id": "673d84af-cf77-4673-ab8e-d8bf86b2eebf",
+    "name": "Juan Dickens",
+    "email": "Aron_Sauer21@hotmail.com",
+    "instagram_handle": "@Kristofer78",
+    "tiktok_handle": "@Edwardo66",
+    "joined_at": "2024-11-09T03:30:36.646Z",
+    "advocacy_programs": [
+        {
+            "program_id": "09a75a8e-9819-4599-b339-0c9c2c7d7432",
+            "brand": "Runolfsson - Kuphal",
+            "tasks_completed": [
+                {
+                    "task_id": "38876db8-3a46-44c7-9f98-952173c020e4",
+                    "platform": "TikTok",
+                    "post_url": "https://miserable-sunbeam.name",
+                    "likes": 227,
+                    "comments": 46,
+                    "shares": 58,
+                    "reach": 7983
+                }
+            ],
+            "total_sales_attributed": 1110.9749160247816
+        }
+    ]
+}

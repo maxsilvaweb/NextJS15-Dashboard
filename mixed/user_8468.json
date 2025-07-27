@@ -1,0 +1,26 @@
+{
+    "user_id": "6c2e8ed3-f818-4fcb-a939-085363e4222d",
+    "name": "Christina Kelly",
+    "email": "jonmarshall@example.org",
+    "instagram_handle": "@richardsonjanice",
+    "tiktok_handle": "@Alvah.McDermott96",
+    "joined_at": "2024-05-29T11:01:57.789027",
+    "advocacy_programs": [
+        {
+            "program_id": "013977ea-6fee-485d-b98c-fcb436b6767a",
+            "brand": "Rodriguez Group",
+            "tasks_completed": [
+                {
+                    "task_id": "caed5375-08b9-4ecc-a889-264d27305ea5",
+                    "platform": "TikTok",
+                    "post_url": "http://mckinney.com/",
+                    "likes": 1823,
+                    "comments": 300,
+                    "shares": 32,
+                    "reach": 1476
+                }
+            ],
+            "total_sales_attributed": 2362.41
+        }
+    ]
+}

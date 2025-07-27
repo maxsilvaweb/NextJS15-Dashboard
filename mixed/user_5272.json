@@ -1,0 +1,26 @@
+{
+    "user_id": "9d8a4bd8-2704-4253-9b14-d66df485c060",
+    "name": "Ashley Washington",
+    "email": "garyroberts@example.net",
+    "instagram_handle": "@oscar19",
+    "tiktok_handle": "@zjones",
+    "joined_at": "2025-05-05T11:18:06.215556",
+    "advocacy_programs": [
+        {
+            "program_id": "8fa213a6-0fb5-4f43-863f-8112ab766c3a",
+            "brand": "Benson-Knight",
+            "tasks_completed": [
+                {
+                    "task_id": "b7d66b28-6eb5-492d-a86c-7b43ca1127a7",
+                    "platform": "Facebook",
+                    "post_url": "http://harris.com/",
+                    "likes": 6971,
+                    "comments": 418,
+                    "shares": 91,
+                    "reach": 5453
+                }
+            ],
+            "total_sales_attributed": 4846.670688800117
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "68545d16-eca7-4e3b-8e90-d23248b378f0",
+    "name": "Brittany Castillo",
+    "email": "greenejoshua@example.com",
+    "instagram_handle": "@bryanlewis",
+    "tiktok_handle": "@tiffanyshannon",
+    "joined_at": "2024-01-15T10:00:06.272922",
+    "advocacy_programs": [
+        {
+            "program_id": "2e7aa821-b970-41dd-afd3-9628781c276f",
+            "brand": "Barton - Sauer",
+            "tasks_completed": [
+                {
+                    "task_id": "42542539-81a1-4299-8978-5754a34c7f47",
+                    "platform": "TikTok",
+                    "post_url": "https://taylor-goodman.biz/",
+                    "likes": 6125,
+                    "comments": 191,
+                    "shares": 91,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 1537.78
+        }
+    ]
+}

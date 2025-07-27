@@ -1,0 +1,26 @@
+{
+    "user_id": "65c3229e-6809-47a3-8b93-14f370f3f7f4",
+    "name": "Tanya Ratke",
+    "email": "Sheldon.Fisher@gmail.com",
+    "instagram_handle": "@Cole.Watsica5",
+    "tiktok_handle": "@Kelli.Schimmel",
+    "joined_at": "2024-10-07T08:12:05.636Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7e823148-3beb-442f-a12c-e9b70b4fff14",
+            "brand": "King Group",
+            "tasks_completed": [
+                {
+                    "task_id": "890a03f4-becc-43a7-ae8d-d09b9759c948",
+                    "platform": "TikTok",
+                    "post_url": "https://quiet-cod.org/",
+                    "likes": 112,
+                    "comments": 16,
+                    "shares": 23,
+                    "reach": 6216
+                }
+            ],
+            "total_sales_attributed": 4867.788454173894
+        }
+    ]
+}

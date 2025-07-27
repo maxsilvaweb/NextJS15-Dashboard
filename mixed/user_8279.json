@@ -1,0 +1,26 @@
+{
+    "user_id": "6ff04c22-da76-4a09-b89a-8645c6eacc42",
+    "name": "Elizabeth Benson",
+    "email": "brianedwards@example.com",
+    "instagram_handle": "@wsanders",
+    "tiktok_handle": "@michaelbrown",
+    "joined_at": "2023-08-16T20:00:48.091697",
+    "advocacy_programs": [
+        {
+            "program_id": "f05b747d-7432-4604-b58a-954ef4a57d61",
+            "brand": "Bond, Chandler and Ramirez",
+            "tasks_completed": [
+                {
+                    "task_id": "ccf2ffcd-68d9-4bcf-95f2-673a1660c3bf",
+                    "platform": "TikTok",
+                    "post_url": "https://www.campbell.com/",
+                    "likes": 4959,
+                    "comments": 12,
+                    "shares": 95,
+                    "reach": 3630
+                }
+            ],
+            "total_sales_attributed": 636.95
+        }
+    ]
+}

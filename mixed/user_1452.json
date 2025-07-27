@@ -1,0 +1,26 @@
+{
+    "user_id": "7ae53361-c116-46c3-a117-1e0672a623a1",
+    "name": "Belinda Wilkins",
+    "email": "john89@example.org",
+    "instagram_handle": "@sonya12",
+    "tiktok_handle": "@moorejason",
+    "joined_at": "2025-06-03T19:48:08.496047",
+    "advocacy_programs": [
+        {
+            "program_id": "b2d13dd5-126a-4dbb-965c-75047621eda0",
+            "brand": "Jensen, Miranda and Bridges",
+            "tasks_completed": [
+                {
+                    "task_id": "629df987-4e0a-4180-b9ee-247a6a5070ce",
+                    "platform": "Instagram",
+                    "post_url": "https://www.green-griffith.com/",
+                    "likes": 23,
+                    "comments": 4,
+                    "shares": 18,
+                    "reach": 4516
+                }
+            ],
+            "total_sales_attributed": 108.25
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ad03b128-7e95-4007-9851-0e0fa210b419",
+    "name": "Sarah Brewer",
+    "email": "noblejeffrey@example.net",
+    "instagram_handle": "@wkennedy",
+    "tiktok_handle": "@lori67",
+    "joined_at": "2024-07-09T20:29:26.080248",
+    "advocacy_programs": [
+        {
+            "program_id": "0d1f9b12-8b30-4e9b-b623-caec56d42178",
+            "brand": "Morar, Mertz and Mills",
+            "tasks_completed": [
+                {
+                    "task_id": "c4d83b5d-877d-4942-9b16-25d0451cdca2",
+                    "platform": "Instagram",
+                    "post_url": "https://ross.com/",
+                    "likes": 164,
+                    "comments": 15,
+                    "shares": 57,
+                    "reach": 8063
+                }
+            ],
+            "total_sales_attributed": 3681.5995738138213
+        }
+    ]
+}

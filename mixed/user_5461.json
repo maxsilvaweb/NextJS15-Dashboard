@@ -1,0 +1,26 @@
+{
+    "user_id": "8d7a915d-f455-4ef7-ac55-708b5cb62a7d",
+    "name": "Steven Miller",
+    "email": "stanley30@example.com",
+    "instagram_handle": "@waynefoster",
+    "tiktok_handle": "@travis17",
+    "joined_at": "2024-09-22T13:55:56.286688",
+    "advocacy_programs": [
+        {
+            "program_id": "c1e3c65b-9c14-455d-a093-37d9a8db6918",
+            "brand": "Roberts, Watts and Yoder",
+            "tasks_completed": [
+                {
+                    "task_id": "17a8ac1f-30e1-4b18-9205-49d3858fad96",
+                    "platform": "Facebook",
+                    "post_url": "http://lang.com/",
+                    "likes": 2069,
+                    "comments": 2,
+                    "shares": 88,
+                    "reach": 2041
+                }
+            ],
+            "total_sales_attributed": 4542.460156574961
+        }
+    ]
+}

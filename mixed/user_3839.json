@@ -1,0 +1,26 @@
+{
+    "user_id": "93c40b73-4167-48cd-bc91-a5c2fdff24ec",
+    "name": "Greg Pena",
+    "email": "coxjessica@example.com",
+    "instagram_handle": "@samantha69",
+    "tiktok_handle": "@danboyle",
+    "joined_at": "2025-07-12T03:41:32.425503",
+    "advocacy_programs": [
+        {
+            "program_id": "e00af5aa-a361-42b5-bc24-bb8aa166e620",
+            "brand": "Smith, Parker and Young",
+            "tasks_completed": [
+                {
+                    "task_id": "51c5526c-7647-400d-a29d-261400ab5c14",
+                    "platform": "Instagram",
+                    "post_url": "https://booker-bray.net/",
+                    "likes": 6779,
+                    "comments": 88,
+                    "shares": 16,
+                    "reach": 8706
+                }
+            ],
+            "total_sales_attributed": 2006.2878173067743
+        }
+    ]
+}

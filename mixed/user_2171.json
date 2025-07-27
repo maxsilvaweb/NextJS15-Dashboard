@@ -1,0 +1,26 @@
+{
+    "user_id": "f5b77f1d-dc12-407b-81e5-8e02ec7c1a5c",
+    "name": "Ryan Roberts",
+    "email": "kathryn86@example.com",
+    "instagram_handle": "@sextoncaitlin",
+    "tiktok_handle": "@michael78",
+    "joined_at": "2025-01-25T00:11:14.227300",
+    "advocacy_programs": [
+        {
+            "program_id": "eae52632-5061-4db8-91e3-ed258be4f995",
+            "brand": "Schneider LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "01b46092-327a-4b7c-8fe8-6a61f1d5af22",
+                    "platform": "TikTok",
+                    "post_url": "https://present-numeric.org/",
+                    "likes": 3871,
+                    "comments": 80,
+                    "shares": 14,
+                    "reach": 5969
+                }
+            ],
+            "total_sales_attributed": 516.94
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d27ea2cc-256b-46ac-a40b-71365e9cdf97",
+    "name": "Gloria Mercado",
+    "email": "justin05@example.org",
+    "instagram_handle": "@mberry",
+    "tiktok_handle": "@davejenkins",
+    "joined_at": "2024-08-14T15:56:35.734997",
+    "advocacy_programs": [
+        {
+            "program_id": "f24d116d-82ac-4982-a042-c76b8d0ab34e",
+            "brand": "King, Dickson and Avila",
+            "tasks_completed": [
+                {
+                    "task_id": "6f2f65fc-6fe2-42b9-a4bb-d96832a758fd",
+                    "platform": "Instagram",
+                    "post_url": "https://lone-thongs.com",
+                    "likes": 7713,
+                    "comments": 27,
+                    "shares": 24,
+                    "reach": 6889
+                }
+            ],
+            "total_sales_attributed": 1660.8
+        }
+    ]
+}

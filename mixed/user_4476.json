@@ -1,0 +1,26 @@
+{
+    "user_id": "1bacacee-3137-4c08-bfa5-99872f63beed",
+    "name": "Olga Howe",
+    "email": "Dock.Rice97@hotmail.com",
+    "instagram_handle": "@Rowena.Emmerich52",
+    "tiktok_handle": "@Sonya54",
+    "joined_at": "2024-11-21T20:41:46.106Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bc5e11eb-850d-47c0-ada2-f37bb12da153",
+            "brand": "Jenkins and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "9fda30b0-87a9-4353-8d68-cf9e9208f9cf",
+                    "platform": "Instagram",
+                    "post_url": "https://educated-issue.info",
+                    "likes": 444,
+                    "comments": 2,
+                    "shares": 86,
+                    "reach": 7265
+                }
+            ],
+            "total_sales_attributed": 4725.897967020999
+        }
+    ]
+}

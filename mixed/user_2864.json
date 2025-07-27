@@ -1,0 +1,26 @@
+{
+    "user_id": "99cab277-21b4-48e6-82de-32f25afe4d10",
+    "name": "Jeremy Kunze",
+    "email": "Dessie.Yost89@gmail.com",
+    "instagram_handle": "@Amari.Bosco77",
+    "tiktok_handle": "@Nina.Pouros6",
+    "joined_at": "2024-12-20T19:42:02.511Z",
+    "advocacy_programs": [
+        {
+            "program_id": "702b16a1-d5f9-4aa4-8230-6bc788ca86d1",
+            "brand": "Conroy, Stokes and Mertz",
+            "tasks_completed": [
+                {
+                    "task_id": "53160a2a-9b06-4405-9bf5-de690f43f779",
+                    "platform": "Instagram",
+                    "post_url": "https://delectable-gray.org/",
+                    "likes": 290,
+                    "comments": 9,
+                    "shares": 81,
+                    "reach": 5979
+                }
+            ],
+            "total_sales_attributed": 3522.2355525796547
+        }
+    ]
+}

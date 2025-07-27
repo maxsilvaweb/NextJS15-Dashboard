@@ -1,0 +1,26 @@
+{
+    "user_id": "73bf1e98-5bc7-4b47-87f2-8e33ff2af6bc",
+    "name": "Carlos Bartoletti",
+    "email": "Marie_Grady16@hotmail.com",
+    "instagram_handle": "@Carmel_Balistreri35",
+    "tiktok_handle": "@Gail.Padberg27",
+    "joined_at": "2024-09-13T23:10:14.599Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c7d03051-eb7b-45d8-93ac-b3707fd724a8",
+            "brand": "Graham, Smith and Reinger",
+            "tasks_completed": [
+                {
+                    "task_id": "2b4e470c-9114-483a-a7ff-a7e2595dc627",
+                    "platform": "Instagram",
+                    "post_url": "https://smug-ruin.net",
+                    "likes": 93,
+                    "comments": 49,
+                    "shares": 60,
+                    "reach": 9220
+                }
+            ],
+            "total_sales_attributed": 255.03446623172343
+        }
+    ]
+}

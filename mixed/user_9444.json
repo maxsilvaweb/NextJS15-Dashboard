@@ -1,0 +1,26 @@
+{
+    "user_id": "020a36a3-ee23-45f1-8ecd-eed4277f2e82",
+    "name": "Gregory Kozey",
+    "email": "Dakota_Trantow-Marks@hotmail.com",
+    "instagram_handle": "@Omari.Turcotte20",
+    "tiktok_handle": "@Arjun_Koelpin",
+    "joined_at": "2024-05-19T05:55:30.339Z",
+    "advocacy_programs": [
+        {
+            "program_id": "341e3588-6741-44cc-97bf-9d007b77b8e4",
+            "brand": "Will, Sawayn and Muller",
+            "tasks_completed": [
+                {
+                    "task_id": "8ae9bea0-c675-4257-b4ce-4595f77e87de",
+                    "platform": "TikTok",
+                    "post_url": "https://familiar-stock.com",
+                    "likes": 240,
+                    "comments": 10,
+                    "shares": 7,
+                    "reach": 9041
+                }
+            ],
+            "total_sales_attributed": 622.8275716601139
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "476f398a-66e1-443d-8c48-33ac1d7b9775",
+    "name": "Mona Bins",
+    "email": "Moriah.Dibbert19@gmail.com",
+    "instagram_handle": "@Bart.Kutch",
+    "tiktok_handle": "@Cathy56",
+    "joined_at": "2024-12-16T15:09:06.755Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2d6fd3f1-46ef-4182-96d8-426131fdea57",
+            "brand": "Klocko, Reinger and McLaughlin",
+            "tasks_completed": [
+                {
+                    "task_id": "b8080ea1-5430-4557-ad01-2c93cbe476b7",
+                    "platform": "Instagram",
+                    "post_url": "https://wilted-availability.com/",
+                    "likes": 323,
+                    "comments": 8,
+                    "shares": 4,
+                    "reach": 4551
+                }
+            ],
+            "total_sales_attributed": 2905.4218125984953
+        }
+    ]
+}

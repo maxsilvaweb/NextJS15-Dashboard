@@ -1,0 +1,26 @@
+{
+    "user_id": "0ef486dd-d9aa-4a4d-89c6-0f78b002f05c",
+    "name": "Tamara Martin",
+    "email": "adamellis@example.com",
+    "instagram_handle": "@dunnchristina",
+    "tiktok_handle": "@austinronald",
+    "joined_at": "2024-06-17T02:19:16.863740",
+    "advocacy_programs": [
+        {
+            "program_id": "52db3893-351c-4a4c-953a-62ae292f1f81",
+            "brand": "Warren, Riggs and Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "ec41bebf-c35b-495b-a3d2-4fb5608ae849",
+                    "platform": "Facebook",
+                    "post_url": "https://www.west-jones.com/",
+                    "likes": 281,
+                    "comments": 19,
+                    "shares": 94,
+                    "reach": 2053
+                }
+            ],
+            "total_sales_attributed": 4959.33
+        }
+    ]
+}

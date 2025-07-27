@@ -1,0 +1,26 @@
+{
+    "user_id": "303fb0ee-c3ab-40ee-873c-a4347223d3a5",
+    "name": "Johanna Beer",
+    "email": "Aglae50@gmail.com",
+    "instagram_handle": "@Layne4",
+    "tiktok_handle": "@Roslyn_Shields",
+    "joined_at": "2024-06-21T22:54:07.221Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d80038c4-93bb-43f3-81e7-fec1c3dc7cc6",
+            "brand": "Mraz, Tromp and Shanahan",
+            "tasks_completed": [
+                {
+                    "task_id": "fb82b901-bd6a-42cf-b3ad-15b6a26fd125",
+                    "platform": "Instagram",
+                    "post_url": "https://shabby-repeat.com",
+                    "likes": 324,
+                    "comments": 16,
+                    "shares": 92,
+                    "reach": 9674
+                }
+            ],
+            "total_sales_attributed": 1405.9134127745613
+        }
+    ]
+}

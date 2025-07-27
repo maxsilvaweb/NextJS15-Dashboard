@@ -1,0 +1,26 @@
+{
+    "user_id": "31cab0d3-dc54-4697-b3f0-774e336c5b9a",
+    "name": "Lionel Rosenbaum",
+    "email": "Alvera51@hotmail.com",
+    "instagram_handle": "@Joannie.Barton",
+    "tiktok_handle": "@Albina57",
+    "joined_at": "2024-12-04T11:26:31.400Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1f154f5b-8ef8-47bd-af2b-931abf983f39",
+            "brand": "Franecki, Heathcote and Brekke",
+            "tasks_completed": [
+                {
+                    "task_id": "1bca4488-06ac-412a-b290-27e0d97770da",
+                    "platform": "Instagram",
+                    "post_url": "https://lawful-bar.net/",
+                    "likes": 454,
+                    "comments": 43,
+                    "shares": 84,
+                    "reach": 4119
+                }
+            ],
+            "total_sales_attributed": 1145.7941621788466
+        }
+    ]
+}

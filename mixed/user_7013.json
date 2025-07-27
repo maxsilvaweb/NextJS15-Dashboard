@@ -1,0 +1,26 @@
+{
+    "user_id": "3fe52c2d-7829-4310-bebc-9fe63ab17cb2",
+    "name": "Corey Cummings",
+    "email": "heaton@example.net",
+    "instagram_handle": "@walkerelizabeth",
+    "tiktok_handle": "@charlene84",
+    "joined_at": "2023-08-09T00:17:48.491915",
+    "advocacy_programs": [
+        {
+            "program_id": "998fa2ea-a82b-4ba6-af78-c2c23cdff630",
+            "brand": "Mendoza-Hammond",
+            "tasks_completed": [
+                {
+                    "task_id": "962d44f8-9d3e-4131-b60b-4e6544b10f71",
+                    "platform": "Facebook",
+                    "post_url": "http://ray.net/",
+                    "likes": 277,
+                    "comments": 36,
+                    "shares": 99,
+                    "reach": 2021
+                }
+            ],
+            "total_sales_attributed": 694.67
+        }
+    ]
+}

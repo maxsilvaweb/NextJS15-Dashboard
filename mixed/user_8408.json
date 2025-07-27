@@ -1,0 +1,26 @@
+{
+    "user_id": "f586b369-8bb4-47d2-a7f7-4ccff6cd9b6b",
+    "name": "Jesse McGlynn",
+    "email": "Christy0@hotmail.com",
+    "instagram_handle": "@Kathryne91",
+    "tiktok_handle": "@Robbie55",
+    "joined_at": "2025-03-02T15:04:21.942Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0836ed14-7558-4fba-bf4a-a6070fc585d2",
+            "brand": "Veum, Kunze and O'Reilly",
+            "tasks_completed": [
+                {
+                    "task_id": "f12bce2c-de47-45e0-aea4-29e11ba74c22",
+                    "platform": "TikTok",
+                    "post_url": "https://blue-pepper.name",
+                    "likes": 57,
+                    "comments": 24,
+                    "shares": 77,
+                    "reach": 1874
+                }
+            ],
+            "total_sales_attributed": 144.88061964690226
+        }
+    ]
+}

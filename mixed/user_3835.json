@@ -1,0 +1,26 @@
+{
+    "user_id": "30882598-4ac7-4eda-9254-0214b6fecedc",
+    "name": "Sean Williamson",
+    "email": "fjohnson@example.org",
+    "instagram_handle": "@briannabrown",
+    "tiktok_handle": "@johnroy",
+    "joined_at": "2025-04-25T09:21:41.161407",
+    "advocacy_programs": [
+        {
+            "program_id": "60f055cf-cbe9-426a-9945-c7393ce713e8",
+            "brand": "Jones, Bright and Henderson",
+            "tasks_completed": [
+                {
+                    "task_id": "328a06e2-88b6-415f-9496-2b6a0333a3c5",
+                    "platform": "Instagram",
+                    "post_url": "https://rare-lawmaker.info/",
+                    "likes": 9153,
+                    "comments": 77,
+                    "shares": 28,
+                    "reach": 4674
+                }
+            ],
+            "total_sales_attributed": 8584.84
+        }
+    ]
+}

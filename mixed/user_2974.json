@@ -1,0 +1,26 @@
+{
+    "user_id": "4ed2ee1b-4710-480d-9b16-40976119f4d3",
+    "name": "Yolanda Gray",
+    "email": "bradleymargaret@example.net",
+    "instagram_handle": "@wheelerashley",
+    "tiktok_handle": "@omarlong",
+    "joined_at": "2023-11-15T19:26:55.180117",
+    "advocacy_programs": [
+        {
+            "program_id": "009d368a-fa44-4767-8c99-1fd432f65788",
+            "brand": "Weaver Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "44610cef-ee7e-44ee-ae8f-66714136186c",
+                    "platform": "Facebook",
+                    "post_url": "http://jackson-sanchez.net/",
+                    "likes": 6616,
+                    "comments": 479,
+                    "shares": 1,
+                    "reach": 5884
+                }
+            ],
+            "total_sales_attributed": 3494.27
+        }
+    ]
+}

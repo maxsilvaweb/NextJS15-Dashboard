@@ -1,0 +1,26 @@
+{
+    "user_id": "c76209f5-6809-448d-babe-7c741d439c78",
+    "name": "Melanie Coleman",
+    "email": "rosssilva@example.net",
+    "instagram_handle": "@irobinson",
+    "tiktok_handle": "@jeremiahmoore",
+    "joined_at": "2023-10-10T20:13:58.065247",
+    "advocacy_programs": [
+        {
+            "program_id": "f090e677-2bd7-4d4f-80aa-d15d1826a69f",
+            "brand": "Smith LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "37d0fe51-bbb8-4802-8083-f8e6e2510bd8",
+                    "platform": "Facebook",
+                    "post_url": "https://right-waist.biz",
+                    "likes": 254,
+                    "comments": 211,
+                    "shares": 73,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 4265.78
+        }
+    ]
+}

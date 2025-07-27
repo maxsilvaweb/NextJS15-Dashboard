@@ -1,0 +1,26 @@
+{
+    "user_id": "0685b592-8eba-4fde-b422-d1c8bb4544c8",
+    "name": "April Rogers",
+    "email": "katherine33@example.com",
+    "instagram_handle": "@arnoldcatherine",
+    "tiktok_handle": "@mcguiresandra",
+    "joined_at": "2023-09-10T17:22:36.810547",
+    "advocacy_programs": [
+        {
+            "program_id": "e2d2026f-8bdd-404c-ad57-9a89ceb482b6",
+            "brand": "Jones Group",
+            "tasks_completed": [
+                {
+                    "task_id": "8cdf6c46-ec39-4cb3-aa29-0bf2709d0ddd",
+                    "platform": "Facebook",
+                    "post_url": "http://jackson.info/",
+                    "likes": 489,
+                    "comments": 485,
+                    "shares": 71,
+                    "reach": 1767
+                }
+            ],
+            "total_sales_attributed": 8969.42
+        }
+    ]
+}

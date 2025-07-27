@@ -1,0 +1,26 @@
+{
+    "user_id": "9c73a800-8a83-40c0-a4b3-34511edfc555",
+    "name": "Mr. Rudy Tromp",
+    "email": "xlong@example.net",
+    "instagram_handle": "@vstokes",
+    "tiktok_handle": "@alisonwilliams",
+    "joined_at": "2023-11-01T11:39:18.076507",
+    "advocacy_programs": [
+        {
+            "program_id": "3acdc246-b241-429a-b146-23232ea25100",
+            "brand": "Solis and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "7bb3c431-95a6-4f05-b8b7-99d779a2d6ed",
+                    "platform": "Facebook",
+                    "post_url": "https://lazy-pearl.com",
+                    "likes": 2858,
+                    "comments": 475,
+                    "shares": 56,
+                    "reach": 8881
+                }
+            ],
+            "total_sales_attributed": 7386.15
+        }
+    ]
+}

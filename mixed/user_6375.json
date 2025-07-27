@@ -1,0 +1,26 @@
+{
+    "user_id": "7387999b-de08-46c6-b382-5bc343d7fc2e",
+    "name": "Bianca Fitzgerald",
+    "email": "joshua80@example.com",
+    "instagram_handle": "@lryan",
+    "tiktok_handle": "@foxnatasha",
+    "joined_at": "2024-04-11T07:50:19.230945",
+    "advocacy_programs": [
+        {
+            "program_id": "c5ad7fc1-21ec-4f96-861f-d094c1401e6c",
+            "brand": "Meyers-Freeman",
+            "tasks_completed": [
+                {
+                    "task_id": "15f5ddbb-13dc-41b1-a6a2-0dbf310dd3ec",
+                    "platform": "Instagram",
+                    "post_url": "https://francis-king.info/",
+                    "likes": 9346,
+                    "comments": 11,
+                    "shares": 57,
+                    "reach": 5095
+                }
+            ],
+            "total_sales_attributed": 1541.08
+        }
+    ]
+}

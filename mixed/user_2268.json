@@ -1,0 +1,26 @@
+{
+    "user_id": "0abb991e-af35-4f1f-bcf9-9128250d8275",
+    "name": "Rachel Brown",
+    "email": "bruce83@example.net",
+    "instagram_handle": "@parkerandrew",
+    "tiktok_handle": "@hayleymann",
+    "joined_at": "2025-07-01T23:29:04.678023",
+    "advocacy_programs": [
+        {
+            "program_id": "bb6e953d-b059-417e-b313-fb109111f2cc",
+            "brand": "Williams Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b4afdea7-f91f-4915-9e26-a5139fb32b60",
+                    "platform": "YouTube",
+                    "post_url": "https://unripe-cash.info/",
+                    "likes": 467,
+                    "comments": 1,
+                    "shares": 5,
+                    "reach": 4300
+                }
+            ],
+            "total_sales_attributed": 4034.8016578279194
+        }
+    ]
+}

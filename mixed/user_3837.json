@@ -1,0 +1,26 @@
+{
+    "user_id": "5f4c8fa5-cdbe-4f67-a46d-a18032e1d4f9",
+    "name": "Jamie Schinner",
+    "email": "Giovani_Klocko34@gmail.com",
+    "instagram_handle": "@Rahul.Torp",
+    "tiktok_handle": "@Mckenzie.Sawayn",
+    "joined_at": "2024-09-08T10:29:29.785Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f1c16204-db32-44f8-9e00-6fd8fefce612",
+            "brand": "Cartwright LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e5615753-6d5c-4915-ad5d-15318f75f7c3",
+                    "platform": "Instagram",
+                    "post_url": "https://wrong-bid.name",
+                    "likes": 45,
+                    "comments": 36,
+                    "shares": 27,
+                    "reach": 6489
+                }
+            ],
+            "total_sales_attributed": 1077.1621570913208
+        }
+    ]
+}

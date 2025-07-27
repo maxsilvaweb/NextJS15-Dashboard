@@ -1,0 +1,26 @@
+{
+    "user_id": "df2e15d6-5c40-4311-bc2c-b007a894d59e",
+    "name": "Tony Clayton",
+    "email": "vgarza@example.net",
+    "instagram_handle": "@heatherjackson",
+    "tiktok_handle": "@tamara30",
+    "joined_at": "2023-08-21T23:57:01.545239",
+    "advocacy_programs": [
+        {
+            "program_id": "37900a2a-87e3-4ec8-a8f2-95aa8b122294",
+            "brand": "Cooper-Chen",
+            "tasks_completed": [
+                {
+                    "task_id": "5b7bfa20-512b-4d70-a36b-8ad022eb8a97",
+                    "platform": "Instagram",
+                    "post_url": "https://clumsy-confusion.org",
+                    "likes": 3483,
+                    "comments": 9,
+                    "shares": 34,
+                    "reach": 6654
+                }
+            ],
+            "total_sales_attributed": 5936.57
+        }
+    ]
+}

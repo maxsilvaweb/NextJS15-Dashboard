@@ -1,0 +1,26 @@
+{
+    "user_id": "f37b2725-84f0-4e6c-8894-97e682616f28",
+    "name": "Otis Smith",
+    "email": "Teresa_Bogisich-Shields9@yahoo.com",
+    "instagram_handle": "@Jane.Feeney",
+    "tiktok_handle": "@David_Stanton71",
+    "joined_at": "2024-12-07T04:35:46.243Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d90f6d56-dfb3-4280-ae62-5d5a1dd26ba1",
+            "brand": "Murray, Feil and Weimann",
+            "tasks_completed": [
+                {
+                    "task_id": "1b1b7fed-065b-4147-a042-3bddd86aa21e",
+                    "platform": "Instagram",
+                    "post_url": "https://friendly-drug.name",
+                    "likes": 347,
+                    "comments": 1,
+                    "shares": 19,
+                    "reach": 7269
+                }
+            ],
+            "total_sales_attributed": 3883.8165670008048
+        }
+    ]
+}

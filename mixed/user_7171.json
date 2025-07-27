@@ -1,0 +1,26 @@
+{
+    "user_id": "2361ed55-74ee-4ab8-982f-182db3610a98",
+    "name": "Sylvia Fowler",
+    "email": "wolfdanielle@example.org",
+    "instagram_handle": "@amyhoward",
+    "tiktok_handle": "@ricky14",
+    "joined_at": "2025-05-24T23:55:28.797549",
+    "advocacy_programs": [
+        {
+            "program_id": "5eff3545-b881-4f10-b2ff-2b5d38b90011",
+            "brand": "Gallagher, West and Jacobson",
+            "tasks_completed": [
+                {
+                    "task_id": "7cbb38da-0c5e-4433-a9c0-18dde9d44723",
+                    "platform": "TikTok",
+                    "post_url": "http://robinson.com/",
+                    "likes": 5228,
+                    "comments": 27,
+                    "shares": 59,
+                    "reach": 2399
+                }
+            ],
+            "total_sales_attributed": 1058.534765193514
+        }
+    ]
+}

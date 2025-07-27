@@ -1,0 +1,26 @@
+{
+    "user_id": "c1944cf5-db1d-480e-91c5-8dbcacb9bdb0",
+    "name": "Jesse Reeves",
+    "email": "karla42@example.net",
+    "instagram_handle": "@cynthia19",
+    "tiktok_handle": "@rogersjoseph",
+    "joined_at": "2025-06-20T08:37:58.722560",
+    "advocacy_programs": [
+        {
+            "program_id": "8916c8b7-bc1c-4219-aafd-fc36c514c73d",
+            "brand": "Baker Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d605ab53-8b2e-41a8-ba45-c6478dbe24fe",
+                    "platform": "TikTok",
+                    "post_url": "https://parker.info/",
+                    "likes": 3592,
+                    "comments": 233,
+                    "shares": 53,
+                    "reach": 5396
+                }
+            ],
+            "total_sales_attributed": 2005.4
+        }
+    ]
+}

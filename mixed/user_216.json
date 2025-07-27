@@ -1,0 +1,26 @@
+{
+    "user_id": "d1c3df79-6a9f-4e20-911b-2aefe0952e38",
+    "name": "Freddie Jast PhD",
+    "email": "Maximilian_Schaefer39@hotmail.com",
+    "instagram_handle": "@Lonzo62",
+    "tiktok_handle": "@Gust.Marks1",
+    "joined_at": "2024-06-08T06:49:19.656Z",
+    "advocacy_programs": [
+        {
+            "program_id": "01f9b6e4-6775-4ee0-a5dc-551eb7966dbb",
+            "brand": "Wyman Group",
+            "tasks_completed": [
+                {
+                    "task_id": "f35630f4-014d-4c9f-9100-75f5df7283a1",
+                    "platform": "Instagram",
+                    "post_url": "https://violent-grouper.com",
+                    "likes": 237,
+                    "comments": 13,
+                    "shares": 22,
+                    "reach": 7803
+                }
+            ],
+            "total_sales_attributed": 4468.070166468172
+        }
+    ]
+}

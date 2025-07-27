@@ -1,0 +1,26 @@
+{
+    "user_id": "30a7f56b-207e-4cd0-a012-dfdacf22b6f8",
+    "name": "Keith Abshire",
+    "email": "Maribel_Gottlieb@hotmail.com",
+    "instagram_handle": "@Bennett_Leffler",
+    "tiktok_handle": "@Alberta2",
+    "joined_at": "2024-05-02T18:38:27.654Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5aeeacf3-c769-47ac-97d0-b7fa06a139a9",
+            "brand": "Goldner Group",
+            "tasks_completed": [
+                {
+                    "task_id": "86387da2-f405-431b-8aee-f76d5a6d712d",
+                    "platform": "TikTok",
+                    "post_url": "https://second-hand-shadowbox.com",
+                    "likes": 374,
+                    "comments": 38,
+                    "shares": 52,
+                    "reach": 7092
+                }
+            ],
+            "total_sales_attributed": 2068.9874330988696
+        }
+    ]
+}

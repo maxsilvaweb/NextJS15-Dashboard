@@ -1,0 +1,26 @@
+{
+    "user_id": "1addeae0-63ac-45d4-8f9c-1016be9b2bf9",
+    "name": "Jeremy Taylor",
+    "email": "frankgray@example.com",
+    "instagram_handle": "@clementssteven",
+    "tiktok_handle": "@michael86",
+    "joined_at": "2023-11-03T02:29:11.492126",
+    "advocacy_programs": [
+        {
+            "program_id": "4c159395-9c42-483d-bd90-578be4447254",
+            "brand": "Yost - Lesch",
+            "tasks_completed": [
+                {
+                    "task_id": "47f174e1-34a4-4165-b6f0-959a12024888",
+                    "platform": "Facebook",
+                    "post_url": "http://www.zhang.net/",
+                    "likes": 2847,
+                    "comments": 7,
+                    "shares": 57,
+                    "reach": 835
+                }
+            ],
+            "total_sales_attributed": 1404.9
+        }
+    ]
+}

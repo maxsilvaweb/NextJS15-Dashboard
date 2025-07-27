@@ -1,0 +1,26 @@
+{
+    "user_id": "804f9e72-b957-4205-acce-6120ab948235",
+    "name": "William White",
+    "email": "Marian_Littel@yahoo.com",
+    "instagram_handle": "@amywilliams",
+    "tiktok_handle": "@ubrady",
+    "joined_at": "2025-03-15T11:15:37.796964",
+    "advocacy_programs": [
+        {
+            "program_id": "7990e034-c857-46bc-9588-ca8c7ec2ff0d",
+            "brand": "Huber-Velasquez",
+            "tasks_completed": [
+                {
+                    "task_id": "d25757d7-a620-454a-9076-2de8c2c5ae02",
+                    "platform": "Instagram",
+                    "post_url": "http://www.johnson-allen.com/",
+                    "likes": 5661,
+                    "comments": 368,
+                    "shares": 18,
+                    "reach": 4862
+                }
+            ],
+            "total_sales_attributed": 2554.0173266058446
+        }
+    ]
+}

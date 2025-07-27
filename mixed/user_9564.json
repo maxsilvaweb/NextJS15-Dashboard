@@ -1,0 +1,26 @@
+{
+    "user_id": "703527bc-5268-4846-b713-7d07592b8845",
+    "name": "Lela Harvey",
+    "email": "Chester.OConner@gmail.com",
+    "instagram_handle": "@Asa12",
+    "tiktok_handle": "@Rick.DAmore",
+    "joined_at": "2024-11-26T22:19:13.350Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fe44ce00-cb61-4f0d-8cf0-bb55850e919c",
+            "brand": "Lowe - Flatley",
+            "tasks_completed": [
+                {
+                    "task_id": "d9cc1f39-64e6-4830-b3fd-8f66cb0cc207",
+                    "platform": "TikTok",
+                    "post_url": "https://sophisticated-cash.com",
+                    "likes": 375,
+                    "comments": 8,
+                    "shares": 85,
+                    "reach": 5125
+                }
+            ],
+            "total_sales_attributed": 1864.4840155404097
+        }
+    ]
+}

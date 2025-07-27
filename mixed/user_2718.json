@@ -1,0 +1,26 @@
+{
+    "user_id": "fccc7f14-55cd-40a6-a4a9-9600a97a25b8",
+    "name": "David Brown",
+    "email": "alexrodriguez@example.org",
+    "instagram_handle": "@hannah42",
+    "tiktok_handle": "@michael47",
+    "joined_at": "2024-05-08T00:50:13.454699",
+    "advocacy_programs": [
+        {
+            "program_id": "a2adcc0a-ae22-433d-b610-c667523d2d1e",
+            "brand": "Friedman Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "1cdbc610-917a-4690-994a-537d2b4aff45",
+                    "platform": "Facebook",
+                    "post_url": "http://www.webb.com/",
+                    "likes": 190,
+                    "comments": 15,
+                    "shares": 37,
+                    "reach": 957
+                }
+            ],
+            "total_sales_attributed": 3179.66
+        }
+    ]
+}

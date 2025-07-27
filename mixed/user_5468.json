@@ -1,0 +1,26 @@
+{
+    "user_id": "a01b5676-7b40-4876-8771-b98e5ae62cff",
+    "name": "Alexandra Bush",
+    "email": "xmeyer@example.com",
+    "instagram_handle": "@youngryan",
+    "tiktok_handle": "@tracicontreras",
+    "joined_at": "2025-06-10T03:50:05.201964",
+    "advocacy_programs": [
+        {
+            "program_id": "16dc8fd8-1c54-49ea-8639-1110041c99d6",
+            "brand": "Newton LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "6fae0fe7-03e5-464b-a45b-d2b8450e12aa",
+                    "platform": "Facebook",
+                    "post_url": "https://honorable-cassava.com",
+                    "likes": 4025,
+                    "comments": 365,
+                    "shares": 4,
+                    "reach": 1373
+                }
+            ],
+            "total_sales_attributed": 1927.84
+        }
+    ]
+}

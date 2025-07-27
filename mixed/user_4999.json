@@ -1,0 +1,26 @@
+{
+    "user_id": "792e628d-ef41-4b8d-a045-0ccd017941b9",
+    "name": "Miss Sheri Bruen",
+    "email": "Novella_Gusikowski@gmail.com",
+    "instagram_handle": "@Bridget.Zemlak",
+    "tiktok_handle": "@Daniella.Considine",
+    "joined_at": "2024-06-24T19:11:28.866Z",
+    "advocacy_programs": [
+        {
+            "program_id": "77f11377-9ffa-46ae-bebc-2b98ab8b5353",
+            "brand": "Cartwright, Mertz and Langworth",
+            "tasks_completed": [
+                {
+                    "task_id": "ac22edef-17eb-4b06-b5c3-95082369e115",
+                    "platform": "Instagram",
+                    "post_url": "https://unhealthy-anticodon.net",
+                    "likes": 306,
+                    "comments": 28,
+                    "shares": 52,
+                    "reach": 5363
+                }
+            ],
+            "total_sales_attributed": 2343.0200169375094
+        }
+    ]
+}

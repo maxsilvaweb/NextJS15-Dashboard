@@ -1,0 +1,26 @@
+{
+    "user_id": "497cc9d9-c4cd-494e-8634-32034bbd02f9",
+    "name": "Jesus Price",
+    "email": "ayersjeffrey@example.com",
+    "instagram_handle": "@hriley",
+    "tiktok_handle": "@fitzgeraldwilliam",
+    "joined_at": "2024-04-21T12:38:47.698260",
+    "advocacy_programs": [
+        {
+            "program_id": "5c33fc81-a535-41ed-89e5-1b20914b26fe",
+            "brand": "Walker, Wilson and Wells",
+            "tasks_completed": [
+                {
+                    "task_id": "3dc78246-12f0-4224-bbcd-7034e563b70b",
+                    "platform": "Twitter",
+                    "post_url": "https://coarse-haircut.org/",
+                    "likes": 127,
+                    "comments": 74,
+                    "shares": 27,
+                    "reach": 9256
+                }
+            ],
+            "total_sales_attributed": 2215.78
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4ef0a64e-484a-4f39-b527-4110a6043b0f",
+    "name": "Ricky Lewis",
+    "email": "castronicholas@example.com",
+    "instagram_handle": "@watkinsgina",
+    "tiktok_handle": "@ricky28",
+    "joined_at": "2025-07-19T15:46:32.838178",
+    "advocacy_programs": [
+        {
+            "program_id": "6ab6786c-b8c0-4536-b55b-4a6e6fd3e6b6",
+            "brand": "Rodriguez-Soto",
+            "tasks_completed": [
+                {
+                    "task_id": "55517e85-44a1-4c0d-affa-c2d0323909f9",
+                    "platform": "Facebook",
+                    "post_url": "https://www.macias.com/",
+                    "likes": 960,
+                    "comments": 235,
+                    "shares": 9,
+                    "reach": 6853
+                }
+            ],
+            "total_sales_attributed": 3437.41
+        }
+    ]
+}

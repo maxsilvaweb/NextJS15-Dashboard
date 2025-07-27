@@ -1,0 +1,26 @@
+{
+    "user_id": "82e4cc35-e6d9-4034-9bb4-21fc51f591f7",
+    "name": "Sara Carroll",
+    "email": "michael67@example.org",
+    "instagram_handle": "@sarah78",
+    "tiktok_handle": "@edwinwright",
+    "joined_at": "2024-06-09T01:54:44.323266",
+    "advocacy_programs": [
+        {
+            "program_id": "a45d21a4-da0b-4a36-892b-0a2043e61ad8",
+            "brand": "Smith and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "69e7424c-95d2-44ea-a84c-f5293328db23",
+                    "platform": "Facebook",
+                    "post_url": "https://rogers.com/",
+                    "likes": 39,
+                    "comments": 93,
+                    "shares": 13,
+                    "reach": 4321
+                }
+            ],
+            "total_sales_attributed": 6991.97
+        }
+    ]
+}

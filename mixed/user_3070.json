@@ -1,0 +1,26 @@
+{
+    "user_id": "86124ebb-42d8-423d-9c29-6a3d2b3e5304",
+    "name": "Jorge Kunde",
+    "email": "Una_Bosco80@gmail.com",
+    "instagram_handle": "@Dion.Schneider54",
+    "tiktok_handle": "@Mabel95",
+    "joined_at": "2025-01-22T19:55:16.017Z",
+    "advocacy_programs": [
+        {
+            "program_id": "69f69c4c-764e-4c93-815a-79cc377d1c0d",
+            "brand": "Waters, Brekke and Gleichner",
+            "tasks_completed": [
+                {
+                    "task_id": "9ceb855d-e5be-48dd-819f-efe401926979",
+                    "platform": "Instagram",
+                    "post_url": "https://juicy-meadow.info",
+                    "likes": 174,
+                    "comments": 29,
+                    "shares": 86,
+                    "reach": 3627
+                }
+            ],
+            "total_sales_attributed": 899.0541067678006
+        }
+    ]
+}

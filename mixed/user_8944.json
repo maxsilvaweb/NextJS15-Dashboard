@@ -1,0 +1,26 @@
+{
+    "user_id": "435b0fee-9220-42f0-a7b1-c8f4ca03b5b9",
+    "name": "Andrea Brown",
+    "email": "lisa24@example.net",
+    "instagram_handle": "@eboone",
+    "tiktok_handle": "@christophercrawford",
+    "joined_at": "2025-03-08T18:04:38.860096",
+    "advocacy_programs": [
+        {
+            "program_id": "b3035d1e-c0aa-42c8-8781-f927a061ea7b",
+            "brand": "Stoltenberg, Brekke and Hyatt",
+            "tasks_completed": [
+                {
+                    "task_id": "b92a7a57-1318-4764-91b2-e992c21abd8d",
+                    "platform": "TikTok",
+                    "post_url": "https://flowery-instructor.biz/",
+                    "likes": 1178,
+                    "comments": 104,
+                    "shares": 44,
+                    "reach": 6254
+                }
+            ],
+            "total_sales_attributed": 1912.31
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "fc606127-2591-47ab-93e4-3b20f61d5e1e",
+    "name": "Marlene Harvey",
+    "email": "Hollie99@gmail.com",
+    "instagram_handle": "@Taylor_Hahn55",
+    "tiktok_handle": "@Unique_Dickens",
+    "joined_at": "2024-08-20T10:26:01.399Z",
+    "advocacy_programs": [
+        {
+            "program_id": "43fbe8ef-ead7-4738-96e4-7501b992481c",
+            "brand": "Brekke, Brekke and Walker",
+            "tasks_completed": [
+                {
+                    "task_id": "36db0e50-f3a1-461c-8f2e-d3b1d49bb5ad",
+                    "platform": "TikTok",
+                    "post_url": "https://optimistic-consistency.name/",
+                    "likes": 378,
+                    "comments": 30,
+                    "shares": 66,
+                    "reach": 3493
+                }
+            ],
+            "total_sales_attributed": 4383.7568431163845
+        }
+    ]
+}

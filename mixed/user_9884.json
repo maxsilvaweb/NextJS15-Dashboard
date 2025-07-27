@@ -1,0 +1,26 @@
+{
+    "user_id": "21c68c2d-e8ae-4117-a858-b1f94e204506",
+    "name": "Marvin Bosco",
+    "email": "Columbus_Stanton@yahoo.com",
+    "instagram_handle": "@Leland_Kemmer",
+    "tiktok_handle": "@Dayana3",
+    "joined_at": "2024-11-15T14:19:10.020Z",
+    "advocacy_programs": [
+        {
+            "program_id": "68270e01-66dc-4578-b4ee-f9ef428f1b2a",
+            "brand": "Hudson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "002954a3-6c57-4be8-9362-1e2d4d8fcc81",
+                    "platform": "Instagram",
+                    "post_url": "https://medium-swing.info",
+                    "likes": 128,
+                    "comments": 15,
+                    "shares": 79,
+                    "reach": 5233
+                }
+            ],
+            "total_sales_attributed": 1566.2345100122527
+        }
+    ]
+}

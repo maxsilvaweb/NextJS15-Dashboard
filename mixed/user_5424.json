@@ -1,0 +1,26 @@
+{
+    "user_id": "ced624b5-ec50-460a-aca8-84ccf957df2b",
+    "name": "Kelly Koepp",
+    "email": "Syble.Langworth-Krajcik83@gmail.com",
+    "instagram_handle": "@Tess24",
+    "tiktok_handle": "@Mariana9",
+    "joined_at": "2024-09-02T21:58:32.702Z",
+    "advocacy_programs": [
+        {
+            "program_id": "455c478c-b8e9-4c68-a6df-6b43d2c8f6b1",
+            "brand": "Bashirian and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "bddf8141-86b7-40bb-93c5-b6e9a72c2ec3",
+                    "platform": "Instagram",
+                    "post_url": "https://irresponsible-pine.name",
+                    "likes": 34,
+                    "comments": 1,
+                    "shares": 36,
+                    "reach": 2630
+                }
+            ],
+            "total_sales_attributed": 2623.3551908844765
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "08d23aac-384b-436e-ae2a-0a57216f85c5",
+    "name": "Michael Davis",
+    "email": "Quincy.Bailey84@gmail.com",
+    "instagram_handle": "@xreyes",
+    "tiktok_handle": "@shaunparker",
+    "joined_at": "2024-07-20T01:43:04.324319",
+    "advocacy_programs": [
+        {
+            "program_id": "7a7b8ee5-ad3d-44cb-985b-ac88536c9885",
+            "brand": "Townsend and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "fb1e9898-353f-45b7-885e-9b86b3d0f67d",
+                    "platform": "Instagram",
+                    "post_url": "http://www.bennett.net/",
+                    "likes": 305,
+                    "comments": 82,
+                    "shares": 18,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 8137.54
+        }
+    ]
+}

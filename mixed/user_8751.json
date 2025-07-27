@@ -1,0 +1,26 @@
+{
+    "user_id": "2b123ecf-c435-444f-887e-c8943b3e4549",
+    "name": "Matthew Figueroa",
+    "email": "heather88@example.com",
+    "instagram_handle": "@karen18",
+    "tiktok_handle": "@maynardchristine",
+    "joined_at": "2024-11-25T18:02:57.340Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e1485124-0808-4743-a792-9dfcdad600d0",
+            "brand": "Rasmussen, Short and Anderson",
+            "tasks_completed": [
+                {
+                    "task_id": "4dafd982-36a9-49a0-8f8c-bcff739e3c41",
+                    "platform": "Instagram",
+                    "post_url": "https://icy-gerbil.biz/",
+                    "likes": 619,
+                    "comments": 261,
+                    "shares": 28,
+                    "reach": 4128
+                }
+            ],
+            "total_sales_attributed": 7495.11
+        }
+    ]
+}

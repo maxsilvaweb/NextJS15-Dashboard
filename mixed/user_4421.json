@@ -1,0 +1,26 @@
+{
+    "user_id": "b9ee5970-5e9d-47d6-b074-fc20d828ddae",
+    "name": "Emily Thomas",
+    "email": "cbooker@example.org",
+    "instagram_handle": "@hollowaysamuel",
+    "tiktok_handle": "@john64",
+    "joined_at": "2025-06-19T20:39:02.158378",
+    "advocacy_programs": [
+        {
+            "program_id": "6b5148dc-745a-4e20-a6e9-fe982562d639",
+            "brand": "Stewart PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "05e5a26c-1201-4710-b915-846770b327e1",
+                    "platform": "TikTok",
+                    "post_url": "https://williams-barber.com/",
+                    "likes": 8707,
+                    "comments": 16,
+                    "shares": 21,
+                    "reach": 4774
+                }
+            ],
+            "total_sales_attributed": 1668.9079034910176
+        }
+    ]
+}

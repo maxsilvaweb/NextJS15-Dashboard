@@ -1,0 +1,26 @@
+{
+    "user_id": "52d0e53c-155a-4b88-89ec-ededd07e76c1",
+    "name": "Kristen Marks",
+    "email": "Roy58@hotmail.com",
+    "instagram_handle": "@Lucinda_Mills",
+    "tiktok_handle": "@Nettie_Brakus",
+    "joined_at": "2024-11-14T09:05:05.371Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f781d13b-7648-44e8-aa72-32ba4a5d921e",
+            "brand": "Davis and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "4fdee9ea-e953-4a61-ad98-83d6af026aff",
+                    "platform": "TikTok",
+                    "post_url": "https://uneven-finger.name/",
+                    "likes": 190,
+                    "comments": 36,
+                    "shares": 46,
+                    "reach": 7119
+                }
+            ],
+            "total_sales_attributed": 3766.9996380775665
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6d58fdfa-620d-4474-9665-d36f415b9ef1",
+    "name": "Isabel Ziemann",
+    "email": "Otho_Weber@yahoo.com",
+    "instagram_handle": "@Deonte_Upton",
+    "tiktok_handle": "@Lane3",
+    "joined_at": "2024-12-07T14:33:49.686Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eb2d836d-b2c3-4aae-ad12-5a6f1cebc9ca",
+            "brand": "Yundt, Monahan and Bruen",
+            "tasks_completed": [
+                {
+                    "task_id": "d23ff377-8830-45b8-bf09-9a69878973e0",
+                    "platform": "Instagram",
+                    "post_url": "https://old-almighty.com/",
+                    "likes": 425,
+                    "comments": 43,
+                    "shares": 90,
+                    "reach": 9938
+                }
+            ],
+            "total_sales_attributed": 4796.495874728119
+        }
+    ]
+}

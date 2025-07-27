@@ -1,0 +1,26 @@
+{
+    "user_id": "06e85a77-c5b9-447f-8d68-02ca405aa0ac",
+    "name": "Jesus Mccarthy",
+    "email": "jasonmann@example.com",
+    "instagram_handle": "@qsmith",
+    "tiktok_handle": "@diazlaura",
+    "joined_at": "2024-02-25T01:09:40.001907",
+    "advocacy_programs": [
+        {
+            "program_id": "e4f4770e-637a-4fcd-a2d5-89fd803cb715",
+            "brand": "Hopkins Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "4eef537f-3310-47b0-a914-cc596f271fbf",
+                    "platform": "Instagram",
+                    "post_url": "http://www.perry-saunders.com/",
+                    "likes": 449,
+                    "comments": 210,
+                    "shares": 71,
+                    "reach": 9407
+                }
+            ],
+            "total_sales_attributed": 3834.54
+        }
+    ]
+}

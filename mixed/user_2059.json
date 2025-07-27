@@ -1,0 +1,26 @@
+{
+    "user_id": "07eceaf8-5a30-4df7-9255-16043514e566",
+    "name": "Natalie Johnson",
+    "email": "daniellecooley@example.net",
+    "instagram_handle": "@davidchung",
+    "tiktok_handle": "@brian78",
+    "joined_at": "2024-11-24T01:27:18.959431",
+    "advocacy_programs": [
+        {
+            "program_id": "54c74169-73f2-44b6-a2a1-faf0b1441c17",
+            "brand": "Ramirez, Thomas and Tyler",
+            "tasks_completed": [
+                {
+                    "task_id": "3937a460-c266-4d46-b6bc-ba640abba809",
+                    "platform": "Twitter",
+                    "post_url": "https://distorted-translation.com/",
+                    "likes": 146,
+                    "comments": 23,
+                    "shares": 12,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 6682.88
+        }
+    ]
+}

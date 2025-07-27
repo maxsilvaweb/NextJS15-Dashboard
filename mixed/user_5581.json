@@ -1,0 +1,26 @@
+{
+    "user_id": "9c467005-86e2-4fe5-865d-17c9a744550d",
+    "name": "Mr. Jose Bradtke",
+    "email": "Janet.Russel@hotmail.com",
+    "instagram_handle": "@Vidal_Howell",
+    "tiktok_handle": "@Cristina0",
+    "joined_at": "2024-09-09T06:10:56.178Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9f72fffe-0813-4805-bec5-e9a06326753a",
+            "brand": "Padberg - Hauck",
+            "tasks_completed": [
+                {
+                    "task_id": "8443df44-26cf-4ec0-ab12-fb1da07c185a",
+                    "platform": "TikTok",
+                    "post_url": "https://dead-husband.com",
+                    "likes": 356,
+                    "comments": 28,
+                    "shares": 46,
+                    "reach": 3473
+                }
+            ],
+            "total_sales_attributed": 3367.922887142139
+        }
+    ]
+}

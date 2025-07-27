@@ -1,0 +1,26 @@
+{
+    "user_id": "c95e9c0b-8a42-4188-8c7b-f7b31619ef93",
+    "name": "Lisa Wagner",
+    "email": "yboyle@example.net",
+    "instagram_handle": "@gbrooks",
+    "tiktok_handle": "@victoriawallace",
+    "joined_at": "2024-09-28T21:29:56.778743",
+    "advocacy_programs": [
+        {
+            "program_id": "30c8f354-95a1-4236-98eb-1816cb4707ac",
+            "brand": "Travis Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "9f8cc773-587a-4570-aa55-a88e4ae178e8",
+                    "platform": "Facebook",
+                    "post_url": "https://www.castaneda.com/",
+                    "likes": 2357,
+                    "comments": 33,
+                    "shares": 73,
+                    "reach": 7210
+                }
+            ],
+            "total_sales_attributed": 7255.26
+        }
+    ]
+}

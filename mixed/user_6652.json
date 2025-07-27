@@ -1,0 +1,26 @@
+{
+    "user_id": "3211c98d-c11b-41c2-93b7-4e13bb051dd9",
+    "name": "Michael Bailey DDS",
+    "email": "gchavez@example.com",
+    "instagram_handle": "@joshua15",
+    "tiktok_handle": "@hernandezcarol",
+    "joined_at": "2024-02-24T20:13:25.787207",
+    "advocacy_programs": [
+        {
+            "program_id": "28e378c2-b9eb-43a5-b849-efa5d5a85f51",
+            "brand": "Jenkins-Sandoval",
+            "tasks_completed": [
+                {
+                    "task_id": "7d291efb-5968-483c-9698-e4c8f5267988",
+                    "platform": "TikTok",
+                    "post_url": "https://www.noble.info/",
+                    "likes": 6415,
+                    "comments": 61,
+                    "shares": 13,
+                    "reach": 6814
+                }
+            ],
+            "total_sales_attributed": 145.17
+        }
+    ]
+}

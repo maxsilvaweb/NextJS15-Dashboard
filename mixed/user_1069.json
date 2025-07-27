@@ -1,0 +1,26 @@
+{
+    "user_id": "f8d9b578-425e-4d73-bb33-470808d10214",
+    "name": "Dr. Nicolas Cassin",
+    "email": "Rosemary44@yahoo.com",
+    "instagram_handle": "@Kellie_Rippin10",
+    "tiktok_handle": "@Carmel34",
+    "joined_at": "2024-11-13T09:25:57.245Z",
+    "advocacy_programs": [
+        {
+            "program_id": "332a8c4b-4bc6-4e95-9a0e-55a9d6a51460",
+            "brand": "Morissette - Gislason",
+            "tasks_completed": [
+                {
+                    "task_id": "d4071113-7feb-4a09-8592-3c3dc8448541",
+                    "platform": "Instagram",
+                    "post_url": "https://flickering-fit.net/",
+                    "likes": 475,
+                    "comments": 49,
+                    "shares": 16,
+                    "reach": 7837
+                }
+            ],
+            "total_sales_attributed": 682.6153008887412
+        }
+    ]
+}

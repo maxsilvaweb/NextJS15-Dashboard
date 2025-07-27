@@ -1,0 +1,26 @@
+{
+    "user_id": "55731ede-3354-4af3-bd72-50e13aa4e657",
+    "name": "Melissa Hurley",
+    "email": "jacob06@example.org",
+    "instagram_handle": "@cferguson",
+    "tiktok_handle": "@emily51",
+    "joined_at": "2025-06-30T04:44:52.384007",
+    "advocacy_programs": [
+        {
+            "program_id": "31d3beee-be1b-45d2-8444-8953b17b83f9",
+            "brand": "Gonzalez, Rodriguez and Mcbride",
+            "tasks_completed": [
+                {
+                    "task_id": "2714fe2e-12b8-402d-ab01-71109a0bfccf",
+                    "platform": "Instagram",
+                    "post_url": "http://wilson-walker.com/",
+                    "likes": 9259,
+                    "comments": 177,
+                    "shares": 1,
+                    "reach": 2065
+                }
+            ],
+            "total_sales_attributed": 7286.97
+        }
+    ]
+}

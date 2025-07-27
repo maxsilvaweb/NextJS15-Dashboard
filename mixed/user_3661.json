@@ -1,0 +1,26 @@
+{
+    "user_id": "26507e37-78b4-4f45-bde3-6a81f65660c4",
+    "name": "Dr. Ervin Bins",
+    "email": "Winnifred36@hotmail.com",
+    "instagram_handle": "@Barrett24",
+    "tiktok_handle": "@Kory62",
+    "joined_at": "2025-02-25T16:26:23.698Z",
+    "advocacy_programs": [
+        {
+            "program_id": "04ba2bd3-f7cd-45d7-8c29-d4d1dc2cc7bd",
+            "brand": "Haag - Parker",
+            "tasks_completed": [
+                {
+                    "task_id": "52f2935f-6152-4996-a728-9689e299ca40",
+                    "platform": "TikTok",
+                    "post_url": "https://trusting-scorn.net/",
+                    "likes": 462,
+                    "comments": 10,
+                    "shares": 91,
+                    "reach": 4394
+                }
+            ],
+            "total_sales_attributed": 3783.854740802768
+        }
+    ]
+}

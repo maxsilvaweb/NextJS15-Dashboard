@@ -1,0 +1,26 @@
+{
+    "user_id": "673cc9d2-4c52-4ef6-8cb9-924b790e8688",
+    "name": "Katherine Fleming",
+    "email": "Camryn78@hotmail.com",
+    "instagram_handle": "@rmalone",
+    "tiktok_handle": "@lawsonzachary",
+    "joined_at": "2025-03-02T14:53:45.228249",
+    "advocacy_programs": [
+        {
+            "program_id": "6c06e9e6-f266-4ab5-a46b-681c5a4ef78e",
+            "brand": "Green, Marsh and Gutierrez",
+            "tasks_completed": [
+                {
+                    "task_id": "690dc23f-d9c7-4069-8674-07c2393d04d6",
+                    "platform": "Facebook",
+                    "post_url": "http://www.woods-cook.com/",
+                    "likes": 6330,
+                    "comments": 130,
+                    "shares": 73,
+                    "reach": 2988
+                }
+            ],
+            "total_sales_attributed": 6039.87
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cdcefba2-6f63-43e8-a648-fc1a27e41bc1",
+    "name": "Mary Sandoval",
+    "email": "austin79@example.org",
+    "instagram_handle": "@guzmansean",
+    "tiktok_handle": "@ffaulkner",
+    "joined_at": "2024-03-05T03:11:08.446461",
+    "advocacy_programs": [
+        {
+            "program_id": "f1227a95-9c4a-45c3-938b-f4964fb5e03a",
+            "brand": "Ramirez, Fisher and Coleman",
+            "tasks_completed": [
+                {
+                    "task_id": "e18d2f3c-9e90-49c1-800c-b185d18e38c4",
+                    "platform": "Instagram",
+                    "post_url": "http://www.cross.com/",
+                    "likes": 363,
+                    "comments": 0,
+                    "shares": 21,
+                    "reach": 2898
+                }
+            ],
+            "total_sales_attributed": 3700.45
+        }
+    ]
+}

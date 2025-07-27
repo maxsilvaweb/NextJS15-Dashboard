@@ -1,0 +1,26 @@
+{
+    "user_id": "4acefae4-1f30-4d6a-ad54-0f19226f98c6",
+    "name": "Bradley Rivas",
+    "email": "ariasreginald@example.net",
+    "instagram_handle": "@hoffmanjulia",
+    "tiktok_handle": "@greenericky",
+    "joined_at": "2025-07-18T13:52:31.803735",
+    "advocacy_programs": [
+        {
+            "program_id": "f4ec8108-d4e8-40ae-8ded-cb4892a2122c",
+            "brand": "Swanson-Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "04295b8a-d9e5-4f39-b280-9435c8dd5e5f",
+                    "platform": "Facebook",
+                    "post_url": "https://www.james.net/",
+                    "likes": 1134,
+                    "comments": 32,
+                    "shares": 65,
+                    "reach": 8457
+                }
+            ],
+            "total_sales_attributed": 3367.96
+        }
+    ]
+}

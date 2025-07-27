@@ -1,0 +1,26 @@
+{
+    "user_id": "c7bd0f61-b3a7-4769-b706-7fb37312fce5",
+    "name": "Jeffery Silva",
+    "email": "garretthamilton@example.net",
+    "instagram_handle": "@patriciamiller",
+    "tiktok_handle": "@william64",
+    "joined_at": "2024-06-09T12:11:57.852181",
+    "advocacy_programs": [
+        {
+            "program_id": "eb4a626d-c043-4aaf-8f1d-af903daeda84",
+            "brand": "Morales and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a3b04a6d-5bc2-435b-a851-f0fc51db8d60",
+                    "platform": "TikTok",
+                    "post_url": "https://www.rodriguez.net/",
+                    "likes": 169,
+                    "comments": 222,
+                    "shares": 55,
+                    "reach": 2475
+                }
+            ],
+            "total_sales_attributed": 675.66
+        }
+    ]
+}

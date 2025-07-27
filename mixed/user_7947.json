@@ -1,0 +1,26 @@
+{
+    "user_id": "d0358adc-b2bb-414b-b1a7-c5f50d99b125",
+    "name": "Kimberly Mcgee",
+    "email": "vosborne@example.net",
+    "instagram_handle": "@chadmartinez",
+    "tiktok_handle": "@richardsilva",
+    "joined_at": "2024-05-18T17:12:01.360026",
+    "advocacy_programs": [
+        {
+            "program_id": "0cedfca0-09df-44e9-9b39-33072cb95e23",
+            "brand": "Sanford - Greenfelder",
+            "tasks_completed": [
+                {
+                    "task_id": "65ae983a-d514-4a92-9f55-5561dd19c24e",
+                    "platform": "TikTok",
+                    "post_url": "https://cheap-technologist.biz/",
+                    "likes": 1446,
+                    "comments": 0,
+                    "shares": 91,
+                    "reach": 4000
+                }
+            ],
+            "total_sales_attributed": 8826.8
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7d2d2bc0-72d7-4c0a-9339-6c4508b8cb7d",
+    "name": "Michael Johnson",
+    "email": "cannonalejandro@example.com",
+    "instagram_handle": "@brian66",
+    "tiktok_handle": "@victortaylor",
+    "joined_at": "2024-11-27T18:37:06.487013",
+    "advocacy_programs": [
+        {
+            "program_id": "71ec0098-3cd4-40b9-9e5a-0a370c6d6571",
+            "brand": "Bergstrom, Pfannerstill and Parisian",
+            "tasks_completed": [
+                {
+                    "task_id": "8313c944-88b1-492d-b95e-aac8e537ab6d",
+                    "platform": "Instagram",
+                    "post_url": "https://www.johnson.net/",
+                    "likes": 4218,
+                    "comments": 367,
+                    "shares": 14,
+                    "reach": 1135
+                }
+            ],
+            "total_sales_attributed": 1618.77
+        }
+    ]
+}

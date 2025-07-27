@@ -1,0 +1,26 @@
+{
+    "user_id": "bb9d390a-d5d8-44a2-b711-1a7893ede346",
+    "name": "Anita Rau",
+    "email": "Ayana_Monahan@gmail.com",
+    "instagram_handle": "@Monica_Johnston67",
+    "tiktok_handle": "@Bret81",
+    "joined_at": "2024-07-07T17:13:58.971Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d7ebf605-e44f-432c-935e-6b2734812244",
+            "brand": "Hirthe - Connelly",
+            "tasks_completed": [
+                {
+                    "task_id": "6753b9ed-1af2-4b1e-8c84-83659f905569",
+                    "platform": "TikTok",
+                    "post_url": "https://phony-humidity.com",
+                    "likes": 185,
+                    "comments": 30,
+                    "shares": 66,
+                    "reach": 4897
+                }
+            ],
+            "total_sales_attributed": 1781.5257808377585
+        }
+    ]
+}

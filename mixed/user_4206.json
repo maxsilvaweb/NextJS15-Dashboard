@@ -1,0 +1,26 @@
+{
+    "user_id": "ee8d8c3d-482c-475f-ae18-72d4784ddf44",
+    "name": "James Moore",
+    "email": "obooker@example.org",
+    "instagram_handle": "@phillipskelly",
+    "tiktok_handle": "@elliottlaurie",
+    "joined_at": "2024-07-26T16:08:29.757516",
+    "advocacy_programs": [
+        {
+            "program_id": "a7d77335-7329-4279-bca7-62076cfa2862",
+            "brand": "Bechtelar, Monahan and Shanahan",
+            "tasks_completed": [
+                {
+                    "task_id": "77037625-0b6f-41ec-b380-7d0b42c751c2",
+                    "platform": "Facebook",
+                    "post_url": "https://complicated-follower.info",
+                    "likes": 7910,
+                    "comments": 202,
+                    "shares": 79,
+                    "reach": 7609
+                }
+            ],
+            "total_sales_attributed": 4979.961331141588
+        }
+    ]
+}

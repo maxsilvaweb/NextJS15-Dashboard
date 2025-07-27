@@ -1,0 +1,26 @@
+{
+    "user_id": "10e4fe9d-44b8-4bff-ba81-85594ca76add",
+    "name": "Genevieve Gutkowski",
+    "email": "Esmeralda.Bernier17@hotmail.com",
+    "instagram_handle": "@Lilly34",
+    "tiktok_handle": "@Benny_Witting",
+    "joined_at": "2024-05-03T07:11:27.348Z",
+    "advocacy_programs": [
+        {
+            "program_id": "48c6814a-a226-4e37-9aa0-95fedf877614",
+            "brand": "Smitham, Conn and Beier",
+            "tasks_completed": [
+                {
+                    "task_id": "8b719b38-af03-47ee-ad7e-2c6794fe96c8",
+                    "platform": "TikTok",
+                    "post_url": "https://dazzling-premier.com",
+                    "likes": 458,
+                    "comments": 31,
+                    "shares": 79,
+                    "reach": 7343
+                }
+            ],
+            "total_sales_attributed": 3609.9516921499207
+        }
+    ]
+}

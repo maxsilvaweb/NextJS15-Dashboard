@@ -1,0 +1,26 @@
+{
+    "user_id": "8bd17b0c-c784-44ba-bf85-af15c1cd232a",
+    "name": "Alvin Parker",
+    "email": "Bernardo.Volkman@hotmail.com",
+    "instagram_handle": "@Wilfred.Grimes",
+    "tiktok_handle": "@Elyssa86",
+    "joined_at": "2024-08-17T05:18:51.365Z",
+    "advocacy_programs": [
+        {
+            "program_id": "45cf2389-67d9-4489-8193-d6950d484f15",
+            "brand": "Doyle, Parisian and Conn",
+            "tasks_completed": [
+                {
+                    "task_id": "22daa37c-3c30-413c-97db-d8b6cae4d34d",
+                    "platform": "TikTok",
+                    "post_url": "https://best-tapioca.org",
+                    "likes": 392,
+                    "comments": 6,
+                    "shares": 8,
+                    "reach": 3138
+                }
+            ],
+            "total_sales_attributed": 3153.7319154532534
+        }
+    ]
+}

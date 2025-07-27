@@ -1,0 +1,26 @@
+{
+    "user_id": "71e879a1-03aa-4c11-8a39-b6f5ef218954",
+    "name": "Sandra Fahey",
+    "email": "Kellie.Littel86@yahoo.com",
+    "instagram_handle": "@Aaron.Batz",
+    "tiktok_handle": "@Terrill.Schinner41",
+    "joined_at": "2024-09-02T12:31:21.560Z",
+    "advocacy_programs": [
+        {
+            "program_id": "aa55e224-7829-4067-a678-e9f850e69a75",
+            "brand": "Sauer, Ledner and Considine",
+            "tasks_completed": [
+                {
+                    "task_id": "b69d49f9-269c-4a66-9da2-5f897ecc9500",
+                    "platform": "Instagram",
+                    "post_url": "https://webbed-conservative.biz/",
+                    "likes": 350,
+                    "comments": 25,
+                    "shares": 67,
+                    "reach": 4778
+                }
+            ],
+            "total_sales_attributed": 4020.7978768651215
+        }
+    ]
+}

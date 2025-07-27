@@ -1,0 +1,26 @@
+{
+    "user_id": "181ecc13-bbbe-491c-909f-257a2e3a8f53",
+    "name": "Rebecca Johnson",
+    "email": "jeremiahlong@example.org",
+    "instagram_handle": "@reyeslucas",
+    "tiktok_handle": "@michaellopez",
+    "joined_at": "2024-04-13T02:38:03.462156",
+    "advocacy_programs": [
+        {
+            "program_id": "b778582a-8e3e-4db2-9054-91d9b7ab6dfa",
+            "brand": "Ochoa, Davis and Powell",
+            "tasks_completed": [
+                {
+                    "task_id": "4bcbf85b-773a-4048-b0eb-ff86bdd86073",
+                    "platform": "Instagram",
+                    "post_url": "https://www.hess.net/",
+                    "likes": 273,
+                    "comments": 7,
+                    "shares": 14,
+                    "reach": 2001
+                }
+            ],
+            "total_sales_attributed": 1477.55
+        }
+    ]
+}

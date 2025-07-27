@@ -1,0 +1,26 @@
+{
+    "user_id": "035a03ca-2083-4b4f-a0ad-ddb5e835dab3",
+    "name": "Dr. Denise Ziemann",
+    "email": "Neoma_Gislason@hotmail.com",
+    "instagram_handle": "@Anabel.Little",
+    "tiktok_handle": "@Kenny_Lockman48",
+    "joined_at": "2024-07-10T01:07:35.252Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ddb3e879-3f9f-4bd8-9b56-fbb10b3567fd",
+            "brand": "O'Conner Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "7ba6c621-2baf-4a7f-8705-27ef6a3fabd5",
+                    "platform": "Instagram",
+                    "post_url": "https://steep-jellyfish.biz",
+                    "likes": 451,
+                    "comments": 44,
+                    "shares": 59,
+                    "reach": 7652
+                }
+            ],
+            "total_sales_attributed": 2969.8697188402657
+        }
+    ]
+}

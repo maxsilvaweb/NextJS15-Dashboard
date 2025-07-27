@@ -1,0 +1,26 @@
+{
+    "user_id": "9f9ec5e0-c726-4be0-bfc5-3bfd3f40b1f3",
+    "name": "Janet Sawayn",
+    "email": "Darius_Wuckert@gmail.com",
+    "instagram_handle": "@Alexandrea_Huels8",
+    "tiktok_handle": "@Jayden.Carter",
+    "joined_at": "2024-08-19T08:38:02.486Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c0bc1285-53f9-4048-b578-614a3d679fb1",
+            "brand": "Larson - Gutkowski",
+            "tasks_completed": [
+                {
+                    "task_id": "e0df8544-535d-47b7-97e3-8644e6dc4d83",
+                    "platform": "Instagram",
+                    "post_url": "https://soggy-sport.com",
+                    "likes": 256,
+                    "comments": 45,
+                    "shares": 59,
+                    "reach": 4385
+                }
+            ],
+            "total_sales_attributed": 3108.2988007890094
+        }
+    ]
+}

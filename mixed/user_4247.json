@@ -1,0 +1,26 @@
+{
+    "user_id": "ac76cea7-9474-49cb-ba8f-d1634aaee32c",
+    "name": "Monique Smith",
+    "email": "teresamartinez@example.net",
+    "instagram_handle": "@dvaughn",
+    "tiktok_handle": "@manderson",
+    "joined_at": "2024-11-22T07:19:32.294847",
+    "advocacy_programs": [
+        {
+            "program_id": "18e02b6c-c24d-418a-8b31-e136c17d86ae",
+            "brand": "Wright-Schneider",
+            "tasks_completed": [
+                {
+                    "task_id": "60439e71-fdf9-44f1-b4d7-bd95efb1e3f6",
+                    "platform": "Instagram",
+                    "post_url": "https://staid-mobility.com",
+                    "likes": 9530,
+                    "comments": 10,
+                    "shares": 69,
+                    "reach": 5865
+                }
+            ],
+            "total_sales_attributed": 3365.32
+        }
+    ]
+}

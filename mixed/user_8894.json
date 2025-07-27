@@ -1,0 +1,26 @@
+{
+    "user_id": "e5019a4b-64a8-45d3-a077-5065c8bd7f06",
+    "name": "Donald Medina",
+    "email": "lopezkristen@example.net",
+    "instagram_handle": "@brianna19",
+    "tiktok_handle": "@porterbryan",
+    "joined_at": "2025-04-01T19:10:55.866939",
+    "advocacy_programs": [
+        {
+            "program_id": "1192c047-d89f-4d3d-8c1c-63b03d02cff7",
+            "brand": "Morgan-Barnett",
+            "tasks_completed": [
+                {
+                    "task_id": "ae105169-9a0d-4ed9-ab7a-6899ef6985d7",
+                    "platform": "TikTok",
+                    "post_url": "https://smith.com/",
+                    "likes": 236,
+                    "comments": 203,
+                    "shares": 29,
+                    "reach": 4583
+                }
+            ],
+            "total_sales_attributed": 2870.83
+        }
+    ]
+}

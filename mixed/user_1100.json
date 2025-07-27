@@ -1,0 +1,26 @@
+{
+    "user_id": "d9b5a7df-fd41-421c-9092-2865bcaa7357",
+    "name": "Salvador Fahey",
+    "email": "Jeffery.Boyer23@yahoo.com",
+    "instagram_handle": "@Luz35",
+    "tiktok_handle": "@Sadie.Gottlieb",
+    "joined_at": "2024-07-29T17:17:14.252Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e2deab18-a341-4e50-a01e-ef18c965c29f",
+            "brand": "Will - Marks",
+            "tasks_completed": [
+                {
+                    "task_id": "76786cef-f828-4707-a10d-f16c717fd30c",
+                    "platform": "TikTok",
+                    "post_url": "https://musty-pressure.biz/",
+                    "likes": 95,
+                    "comments": 20,
+                    "shares": 63,
+                    "reach": 7680
+                }
+            ],
+            "total_sales_attributed": 766.7345181093461
+        }
+    ]
+}

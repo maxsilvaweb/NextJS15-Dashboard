@@ -1,0 +1,26 @@
+{
+    "user_id": "e8e63803-e437-4c9e-bc5a-725cbd1f673c",
+    "name": "Matthew Nguyen",
+    "email": "tperez@example.com",
+    "instagram_handle": "@mullinslouis",
+    "tiktok_handle": "@michaelpatel",
+    "joined_at": "2024-08-18T13:30:16.936095",
+    "advocacy_programs": [
+        {
+            "program_id": "8d346b54-f8a8-4698-933a-e63bcf6fb4b0",
+            "brand": "Roy-Garcia",
+            "tasks_completed": [
+                {
+                    "task_id": "f7925083-5c2d-4e9d-bd62-0538bda3240b",
+                    "platform": "Facebook",
+                    "post_url": "http://williams.com/",
+                    "likes": 7671,
+                    "comments": 87,
+                    "shares": 65,
+                    "reach": 7122
+                }
+            ],
+            "total_sales_attributed": 3395.64
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3c22afc8-9832-4cf5-9a5c-11f96861d696",
+    "name": "Andrew Schmidt",
+    "email": "Allene66@gmail.com",
+    "instagram_handle": "@Paige_Waelchi41",
+    "tiktok_handle": "@Herbert67",
+    "joined_at": "2024-06-28T16:34:44.239Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8dfc711f-7c59-448d-a89a-6cb75af8ecf0",
+            "brand": "Ernser Group",
+            "tasks_completed": [
+                {
+                    "task_id": "78f4099b-16d6-4fa9-b6c8-077f466a74e4",
+                    "platform": "TikTok",
+                    "post_url": "https://acclaimed-place.biz/",
+                    "likes": 155,
+                    "comments": 47,
+                    "shares": 60,
+                    "reach": 8984
+                }
+            ],
+            "total_sales_attributed": 3376.3551546619924
+        }
+    ]
+}

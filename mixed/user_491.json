@@ -1,0 +1,26 @@
+{
+    "user_id": "852ba586-c656-43ed-b7d4-8a80eef97be4",
+    "name": "Jacob Conn",
+    "email": "Caleigh_Predovic@gmail.com",
+    "instagram_handle": "@Estelle_Nienow7",
+    "tiktok_handle": "@Kenny_Senger93",
+    "joined_at": "2024-06-17T03:43:21.043Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f7cff354-c923-4762-a3e2-4fa3606b4c96",
+            "brand": "Keebler Group",
+            "tasks_completed": [
+                {
+                    "task_id": "8fcffcdd-c967-442c-bb46-a8fb8543d5c3",
+                    "platform": "TikTok",
+                    "post_url": "https://roasted-cash.com/",
+                    "likes": 75,
+                    "comments": 9,
+                    "shares": 95,
+                    "reach": 737
+                }
+            ],
+            "total_sales_attributed": 1204.4501507461475
+        }
+    ]
+}

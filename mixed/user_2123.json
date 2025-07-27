@@ -1,0 +1,26 @@
+{
+    "user_id": "4c123d72-8b2d-4f95-8021-b94674010f41",
+    "name": "Raymond Durgan",
+    "email": "Jevon39@gmail.com",
+    "instagram_handle": "@Jacinto_Satterfield2",
+    "tiktok_handle": "@Leta.Haley",
+    "joined_at": "2024-07-28T21:46:15.786Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4f047bc5-087d-44f2-863d-1b5cf4ec0cae",
+            "brand": "Pouros, Wuckert and Hermann",
+            "tasks_completed": [
+                {
+                    "task_id": "5ce9d5d6-5d8c-4f9a-83aa-01a7f1cfa23e",
+                    "platform": "Instagram",
+                    "post_url": "https://tense-hepatitis.info/",
+                    "likes": 146,
+                    "comments": 45,
+                    "shares": 23,
+                    "reach": 2358
+                }
+            ],
+            "total_sales_attributed": 2400.9663048819743
+        }
+    ]
+}

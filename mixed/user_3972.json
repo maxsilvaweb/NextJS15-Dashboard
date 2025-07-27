@@ -1,0 +1,26 @@
+{
+    "user_id": "38a040ea-6c5a-4859-8cb4-4b77697c80ae",
+    "name": "Sean Cummerata",
+    "email": "Darrick25@hotmail.com",
+    "instagram_handle": "@Mercedes_Swift64",
+    "tiktok_handle": "@Hildegard18",
+    "joined_at": "2024-05-03T21:03:44.247Z",
+    "advocacy_programs": [
+        {
+            "program_id": "13adb83f-86f0-4575-84c6-1c99d4825586",
+            "brand": "Boyle - Schoen",
+            "tasks_completed": [
+                {
+                    "task_id": "24c0b520-d450-4020-8cc0-1ed17c8b956b",
+                    "platform": "TikTok",
+                    "post_url": "https://mushy-nudge.com",
+                    "likes": 451,
+                    "comments": 15,
+                    "shares": 81,
+                    "reach": 1059
+                }
+            ],
+            "total_sales_attributed": 4937.264237680755
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "86f0abf2-ad89-407f-9be6-3e3e7c1ee055",
+    "name": "Kevin Mccoy",
+    "email": "Garfield97@yahoo.com",
+    "instagram_handle": "@Alba.Predovic",
+    "tiktok_handle": "@alexismalone",
+    "joined_at": "2023-11-05T17:04:32.233042",
+    "advocacy_programs": [
+        {
+            "program_id": "08d7c47a-ba03-4d67-82a6-26cc00f9e0ae",
+            "brand": "Huff Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "bc639138-17fd-47c6-bffb-3217340d3090",
+                    "platform": "TikTok",
+                    "post_url": "http://ponce-schmidt.biz/",
+                    "likes": 324,
+                    "comments": 376,
+                    "shares": 29,
+                    "reach": 5363
+                }
+            ],
+            "total_sales_attributed": 1057.35
+        }
+    ]
+}

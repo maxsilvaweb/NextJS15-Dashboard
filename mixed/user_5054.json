@@ -1,0 +1,26 @@
+{
+    "user_id": "7f1c3f06-94a2-4401-83d0-83aef0b97455",
+    "name": "Ashley Patrick",
+    "email": "dudleyregina@example.net",
+    "instagram_handle": "@hpayne",
+    "tiktok_handle": "@christophersullivan",
+    "joined_at": "2025-06-20T09:51:24.880063",
+    "advocacy_programs": [
+        {
+            "program_id": "fd37e914-c516-49a0-af8b-7df4cf052a8e",
+            "brand": "Jimenez, Smith and Matthews",
+            "tasks_completed": [
+                {
+                    "task_id": "d9570ceb-bc8e-4b44-9199-3633fefdbbb9",
+                    "platform": "Instagram",
+                    "post_url": "http://www.brown.com/",
+                    "likes": 9844,
+                    "comments": 395,
+                    "shares": 88,
+                    "reach": 3237
+                }
+            ],
+            "total_sales_attributed": 4219.35
+        }
+    ]
+}

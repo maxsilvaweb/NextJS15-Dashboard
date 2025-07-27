@@ -1,0 +1,26 @@
+{
+    "user_id": "12794f16-f148-431d-a565-f31718a06e92",
+    "name": "Peter Balistreri",
+    "email": "Skyla43@hotmail.com",
+    "instagram_handle": "@Darren.Jones",
+    "tiktok_handle": "@Aurelio_Schmitt13",
+    "joined_at": "2025-03-02T12:08:20.635Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1a229206-41a5-4a7c-8694-6e4a1bc9dcd8",
+            "brand": "Schoen Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "e4399c9a-220a-4ec5-9520-642734027414",
+                    "platform": "Instagram",
+                    "post_url": "https://tragic-guacamole.com",
+                    "likes": 471,
+                    "comments": 44,
+                    "shares": 82,
+                    "reach": 870
+                }
+            ],
+            "total_sales_attributed": 3551.810059389314
+        }
+    ]
+}

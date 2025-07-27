@@ -1,0 +1,26 @@
+{
+    "user_id": "43f47727-3edb-43c4-baaf-dd85c1a382b5",
+    "name": "Cynthia Veum",
+    "email": "Kobe_Tillman24@yahoo.com",
+    "instagram_handle": "@Brendan_Pollich14",
+    "tiktok_handle": "@Cade_Schinner77",
+    "joined_at": "2024-09-17T14:53:57.099Z",
+    "advocacy_programs": [
+        {
+            "program_id": "07ff7113-11fe-4274-b3d3-1409da670002",
+            "brand": "Frami Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "63505058-9981-4c8b-b32f-ecb31bb00e9f",
+                    "platform": "Instagram",
+                    "post_url": "https://spiffy-jump.org",
+                    "likes": 126,
+                    "comments": 17,
+                    "shares": 25,
+                    "reach": 2278
+                }
+            ],
+            "total_sales_attributed": 4368.232082273337
+        }
+    ]
+}

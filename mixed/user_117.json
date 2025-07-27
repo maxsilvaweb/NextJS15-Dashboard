@@ -1,0 +1,26 @@
+{
+    "user_id": "00e455fd-94ae-41ae-ba0e-d56914cad935",
+    "name": "Amanda Merritt",
+    "email": "marilynhowe@example.com",
+    "instagram_handle": "@Joannie.Mitchell-Hauck7",
+    "tiktok_handle": "@Ahmed.Dickinson",
+    "joined_at": "2025-03-22T19:51:00.814413",
+    "advocacy_programs": [
+        {
+            "program_id": "edfdef74-6298-4e2c-a0ec-dc86effd06a9",
+            "brand": "Macias-Hendrix",
+            "tasks_completed": [
+                {
+                    "task_id": "96863377-0e56-49f2-893e-eb971b7bda3f",
+                    "platform": "Facebook",
+                    "post_url": "https://martinez.net/",
+                    "likes": 476,
+                    "comments": 472,
+                    "shares": 34,
+                    "reach": 5134
+                }
+            ],
+            "total_sales_attributed": 3722.15
+        }
+    ]
+}

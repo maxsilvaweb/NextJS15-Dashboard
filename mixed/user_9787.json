@@ -1,0 +1,26 @@
+{
+    "user_id": "e3298dc9-7aa9-4642-ad99-33f74c9394ec",
+    "name": "Francis Dickens",
+    "email": "Alfonso_Keeling@gmail.com",
+    "instagram_handle": "@Helga.Zboncak-Padberg16",
+    "tiktok_handle": "@Devon52",
+    "joined_at": "2024-07-05T13:59:34.252Z",
+    "advocacy_programs": [
+        {
+            "program_id": "882686a8-a631-4393-9e90-eb9d726e7571",
+            "brand": "Harber Group",
+            "tasks_completed": [
+                {
+                    "task_id": "b67c13f6-27ff-40dd-884a-7c0d088531da",
+                    "platform": "TikTok",
+                    "post_url": "https://shimmering-unit.net",
+                    "likes": 258,
+                    "comments": 15,
+                    "shares": 13,
+                    "reach": 2411
+                }
+            ],
+            "total_sales_attributed": 1953.978679050993
+        }
+    ]
+}

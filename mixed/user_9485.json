@@ -1,0 +1,26 @@
+{
+    "user_id": "0bc45e4c-c50d-4344-87bc-7a6193e4abe2",
+    "name": "Mable Wilderman",
+    "email": "Owen_Yundt@gmail.com",
+    "instagram_handle": "@Kraig94",
+    "tiktok_handle": "@Reagan.Ondricka17",
+    "joined_at": "2024-11-29T01:58:19.429Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c27b28e1-0fd9-4c21-9bb7-47bfd37cb05a",
+            "brand": "Jacobson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "bc57a1c0-a188-4868-a389-a5e4cc85c158",
+                    "platform": "TikTok",
+                    "post_url": "https://weary-following.com",
+                    "likes": 233,
+                    "comments": 25,
+                    "shares": 80,
+                    "reach": 7629
+                }
+            ],
+            "total_sales_attributed": 188.69944653866037
+        }
+    ]
+}

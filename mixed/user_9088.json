@@ -1,0 +1,26 @@
+{
+    "user_id": "8ec5b19d-5933-4b23-86e3-438b7245e7cb",
+    "name": "Darrell Gibson",
+    "email": "bishopanne@example.net",
+    "instagram_handle": "@jasonwilliams",
+    "tiktok_handle": "@dylangraves",
+    "joined_at": "2024-01-17T16:46:09.789673",
+    "advocacy_programs": [
+        {
+            "program_id": "dff65029-db14-4971-8f32-dbf049c86a40",
+            "brand": "Wilson-Harrison",
+            "tasks_completed": [
+                {
+                    "task_id": "d2e10db3-fcfa-4f0b-bf0a-d5b3c184def2",
+                    "platform": "Facebook",
+                    "post_url": "http://www.short.net/",
+                    "likes": 251,
+                    "comments": 131,
+                    "shares": 21,
+                    "reach": 9680
+                }
+            ],
+            "total_sales_attributed": 4564.85
+        }
+    ]
+}

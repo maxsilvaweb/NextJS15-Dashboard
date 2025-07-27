@@ -1,0 +1,26 @@
+{
+    "user_id": "c6841c0f-620b-4cc3-9b0c-86dad7eb509a",
+    "name": "Pamela Burton",
+    "email": "margaret65@example.com",
+    "instagram_handle": "@amanda19",
+    "tiktok_handle": "@mccormickcarly",
+    "joined_at": "2023-12-04T07:55:44.885056",
+    "advocacy_programs": [
+        {
+            "program_id": "14e4034a-e03e-45d8-91ae-006a922749e0",
+            "brand": "Cummings, Walton and Gonzales",
+            "tasks_completed": [
+                {
+                    "task_id": "950d123e-15e7-4cc8-878d-60ebb5675c32",
+                    "platform": "Twitter",
+                    "post_url": "http://white.info/",
+                    "likes": 89,
+                    "comments": 144,
+                    "shares": 28,
+                    "reach": 9633
+                }
+            ],
+            "total_sales_attributed": 3037.72
+        }
+    ]
+}

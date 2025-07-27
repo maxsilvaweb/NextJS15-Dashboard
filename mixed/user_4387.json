@@ -1,0 +1,26 @@
+{
+    "user_id": "f3e133ef-7af4-4b14-84ea-d646eff9850f",
+    "name": "Charles Lee",
+    "email": "bryanharris@example.net",
+    "instagram_handle": "@weaverjason",
+    "tiktok_handle": "@spencerstewart",
+    "joined_at": "2024-10-31T15:02:00.257Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8f37a748-79b8-46fe-9380-755c2a5dfdac",
+            "brand": "Sanchez, Baker and Frank",
+            "tasks_completed": [
+                {
+                    "task_id": "3828b1f7-3364-455f-a487-964e53ff3309",
+                    "platform": "TikTok",
+                    "post_url": "http://www.yang.com/",
+                    "likes": 546,
+                    "comments": 23,
+                    "shares": 27,
+                    "reach": 4933
+                }
+            ],
+            "total_sales_attributed": 3658.94
+        }
+    ]
+}

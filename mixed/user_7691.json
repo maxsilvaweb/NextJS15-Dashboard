@@ -1,0 +1,26 @@
+{
+    "user_id": "71005b28-e877-43ae-8c81-02954fa57c22",
+    "name": "Vincent Moen",
+    "email": "Coleman.Zieme18@hotmail.com",
+    "instagram_handle": "@Zora_Hand38",
+    "tiktok_handle": "@Sean77",
+    "joined_at": "2024-04-13T02:49:19.788Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b66ee280-e656-4f5a-a4f2-e5d0ff890733",
+            "brand": "Bogan and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "eb0f87ce-4d18-42ab-8f25-4afabaa3b155",
+                    "platform": "TikTok",
+                    "post_url": "https://massive-nun.com/",
+                    "likes": 465,
+                    "comments": 48,
+                    "shares": 1,
+                    "reach": 9029
+                }
+            ],
+            "total_sales_attributed": 326.5808569835648
+        }
+    ]
+}

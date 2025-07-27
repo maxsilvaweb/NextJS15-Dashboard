@@ -1,0 +1,26 @@
+{
+    "user_id": "f60c2069-b520-4aa9-8aed-b20b95ee606d",
+    "name": "Ryan Mooney",
+    "email": "joe85@example.net",
+    "instagram_handle": "@elizabeth76",
+    "tiktok_handle": "@natalieortiz",
+    "joined_at": "2025-02-07T22:38:34.695869",
+    "advocacy_programs": [
+        {
+            "program_id": "17d2294c-e5f2-4352-b041-4ca5d7645642",
+            "brand": "Turner-Moreno",
+            "tasks_completed": [
+                {
+                    "task_id": "66b2a90a-0dc8-42bf-87c0-15aefefaa389",
+                    "platform": "TikTok",
+                    "post_url": "https://www.reeves-williams.info/",
+                    "likes": 6419,
+                    "comments": 12,
+                    "shares": 23,
+                    "reach": 713
+                }
+            ],
+            "total_sales_attributed": 1609.470547354826
+        }
+    ]
+}

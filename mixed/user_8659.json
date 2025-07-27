@@ -1,0 +1,26 @@
+{
+    "user_id": "8d47a36b-c7f2-4537-994f-e183e57ed812",
+    "name": "Tomas Pouros",
+    "email": "Coby.Wilkinson@gmail.com",
+    "instagram_handle": "@Madonna.Kerluke4",
+    "tiktok_handle": "@Marquise75",
+    "joined_at": "2024-04-12T10:25:58.524Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4decfcca-55dd-430d-9012-9f62f88efc7d",
+            "brand": "Walter - Hills",
+            "tasks_completed": [
+                {
+                    "task_id": "b256c9ba-2075-4506-926e-2ef419bbac21",
+                    "platform": "Instagram",
+                    "post_url": "https://smooth-quart.net",
+                    "likes": 218,
+                    "comments": 10,
+                    "shares": 27,
+                    "reach": 1162
+                }
+            ],
+            "total_sales_attributed": 4166.99141800257
+        }
+    ]
+}

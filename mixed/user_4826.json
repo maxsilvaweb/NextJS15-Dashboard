@@ -1,0 +1,26 @@
+{
+    "user_id": "d9c78061-d69f-44c1-b1f9-bc85ccd4bf6b",
+    "name": "Brent Smith",
+    "email": "Alison85@gmail.com",
+    "instagram_handle": "@nancysampson",
+    "tiktok_handle": "@williamwilson",
+    "joined_at": "2024-09-22T06:09:31.200968",
+    "advocacy_programs": [
+        {
+            "program_id": "49240624-4990-4b1d-8763-653ff47b916a",
+            "brand": "Thompson, Johnson and Gomez",
+            "tasks_completed": [
+                {
+                    "task_id": "97edd18a-785a-4dba-a2b0-9ed5fc486aa0",
+                    "platform": "TikTok",
+                    "post_url": "https://www.hodge.com/",
+                    "likes": 8995,
+                    "comments": 492,
+                    "shares": 95,
+                    "reach": 8363
+                }
+            ],
+            "total_sales_attributed": 4820.07
+        }
+    ]
+}

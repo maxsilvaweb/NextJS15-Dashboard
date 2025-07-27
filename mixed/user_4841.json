@@ -1,0 +1,26 @@
+{
+    "user_id": "6b03187e-5461-4b31-857e-028249ce90ba",
+    "name": "Angela Gordon",
+    "email": "marybaldwin@example.com",
+    "instagram_handle": "@gilbertanderson",
+    "tiktok_handle": "@davisjudith",
+    "joined_at": "2024-03-30T14:04:24.638334",
+    "advocacy_programs": [
+        {
+            "program_id": "0ae010b1-1462-442d-821a-28717f8e4a35",
+            "brand": "Williams Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b223a485-f83a-4e67-98f9-312e590437fa",
+                    "platform": "YouTube",
+                    "post_url": "http://www.davis.com/",
+                    "likes": 22,
+                    "comments": 221,
+                    "shares": 23,
+                    "reach": 3350
+                }
+            ],
+            "total_sales_attributed": 5287.75
+        }
+    ]
+}

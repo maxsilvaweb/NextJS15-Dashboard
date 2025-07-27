@@ -1,0 +1,26 @@
+{
+    "user_id": "72f4b172-b008-448b-bf14-b5b3fc334286",
+    "name": "Joyce Adkins",
+    "email": "parkertyler@example.com",
+    "instagram_handle": "@ylee",
+    "tiktok_handle": "@ijohnson",
+    "joined_at": "2023-12-13T18:29:29.411749",
+    "advocacy_programs": [
+        {
+            "program_id": "3b894af4-d047-4c20-934c-94216dab124d",
+            "brand": "Young PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "4065d22a-1b09-49db-af92-fb68f87d4b00",
+                    "platform": "TikTok",
+                    "post_url": "https://www.saunders.com/",
+                    "likes": 9579,
+                    "comments": 21,
+                    "shares": 63,
+                    "reach": 6094
+                }
+            ],
+            "total_sales_attributed": 9300.63
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9dc9427b-dfcf-463e-a281-7b7f566d86b5",
+    "name": "Robert Acevedo",
+    "email": "gcoleman@example.com",
+    "instagram_handle": "@nielsenamanda",
+    "tiktok_handle": "@eric07",
+    "joined_at": "2024-09-03T12:58:09.766122",
+    "advocacy_programs": [
+        {
+            "program_id": "da29e231-44c9-47c1-a593-b7a93d7fc79f",
+            "brand": "Mathis, Franklin and Garza",
+            "tasks_completed": [
+                {
+                    "task_id": "ae7b11e0-d7b1-4a62-9ecd-e916dd20f07d",
+                    "platform": "TikTok",
+                    "post_url": "https://www.rich.com/",
+                    "likes": 5917,
+                    "comments": 424,
+                    "shares": 94,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2029.84684501395
+        }
+    ]
+}

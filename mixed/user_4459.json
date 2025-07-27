@@ -1,0 +1,26 @@
+{
+    "user_id": "7e20e766-87e1-4b31-af11-e257967ae96c",
+    "name": "Mary Hughes",
+    "email": "dawnmolina@example.org",
+    "instagram_handle": "@rosemichael",
+    "tiktok_handle": "@linda97",
+    "joined_at": "2024-04-26T21:50:32.848185",
+    "advocacy_programs": [
+        {
+            "program_id": "8040946a-d8f9-45cf-b37e-aa918a85bf12",
+            "brand": "Fisher Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "44b98933-748b-4bc7-8eab-ca4d4f28889a",
+                    "platform": "Facebook",
+                    "post_url": "https://phillips.com/",
+                    "likes": 473,
+                    "comments": 185,
+                    "shares": 47,
+                    "reach": 8241
+                }
+            ],
+            "total_sales_attributed": 6943.51
+        }
+    ]
+}

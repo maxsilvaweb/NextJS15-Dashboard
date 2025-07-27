@@ -1,0 +1,26 @@
+{
+    "user_id": "ded20f57-445d-4c23-a60e-53bab6de3335",
+    "name": "Theresa Reinger",
+    "email": "Martina_Lehner@hotmail.com",
+    "instagram_handle": "@Clay84",
+    "tiktok_handle": "@Kirstin_Rowe",
+    "joined_at": "2024-10-26T07:39:07.338Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e9b28216-0ed7-4de7-9373-eecc5e5a729d",
+            "brand": "Grimes, Barton and Will",
+            "tasks_completed": [
+                {
+                    "task_id": "fc63a8d3-6033-43b5-bcd5-d7e4b40c0319",
+                    "platform": "Instagram",
+                    "post_url": "https://proper-necklace.org/",
+                    "likes": 86,
+                    "comments": 19,
+                    "shares": 93,
+                    "reach": 5017
+                }
+            ],
+            "total_sales_attributed": 4988.177289710207
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1a6d67a4-476a-4bbd-9309-a24116fdc38d",
+    "name": "Doug Torphy",
+    "email": "Isaias18@gmail.com",
+    "instagram_handle": "@Rowland_Rodriguez95",
+    "tiktok_handle": "@Sylvan.Morissette",
+    "joined_at": "2024-10-31T12:07:27.856Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1a1352e3-b375-43c4-8290-02ac40858a4a",
+            "brand": "Schimmel Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ef468b37-1d32-40a3-8090-c3bb56b5fe5f",
+                    "platform": "Instagram",
+                    "post_url": "https://gigantic-battle.com",
+                    "likes": 243,
+                    "comments": 40,
+                    "shares": 2,
+                    "reach": 6628
+                }
+            ],
+            "total_sales_attributed": 4865.810834206775
+        }
+    ]
+}

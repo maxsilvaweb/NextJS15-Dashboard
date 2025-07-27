@@ -1,0 +1,26 @@
+{
+    "user_id": "e1dfc08f-d331-4843-a5b8-aadb05c3cb85",
+    "name": "Verna Mitchell",
+    "email": "Green81@gmail.com",
+    "instagram_handle": "@Janet63",
+    "tiktok_handle": "@Jennie.Hudson",
+    "joined_at": "2024-11-09T02:07:14.232Z",
+    "advocacy_programs": [
+        {
+            "program_id": "91b25edb-abf1-4b9b-95f1-c014d0a19b8b",
+            "brand": "Morar - Luettgen",
+            "tasks_completed": [
+                {
+                    "task_id": "1fddb593-cb03-406e-978a-a78179e6226f",
+                    "platform": "TikTok",
+                    "post_url": "https://amazing-bell.net",
+                    "likes": 254,
+                    "comments": 2,
+                    "shares": 27,
+                    "reach": 1754
+                }
+            ],
+            "total_sales_attributed": 4621.663144009999
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "102864b3-c25e-41e1-b937-014fe1e6c298",
+    "name": "Brenda Graves DVM",
+    "email": "fwagner@example.com",
+    "instagram_handle": "@Nichole.Reinger54",
+    "tiktok_handle": "@stonejorge",
+    "joined_at": "2025-06-18T18:12:27.419761",
+    "advocacy_programs": [
+        {
+            "program_id": "a7b37f4d-d373-4aeb-8464-b19e8e4dd60f",
+            "brand": "Martinez-Hughes",
+            "tasks_completed": [
+                {
+                    "task_id": "d28650fc-d6da-4fd8-91df-2703588b3c34",
+                    "platform": "TikTok",
+                    "post_url": "https://awful-plain.com",
+                    "likes": 6263,
+                    "comments": 320,
+                    "shares": 17,
+                    "reach": 3963
+                }
+            ],
+            "total_sales_attributed": 9337.71
+        }
+    ]
+}

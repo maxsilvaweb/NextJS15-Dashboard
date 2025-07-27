@@ -1,0 +1,26 @@
+{
+    "user_id": "4ffaa823-c3a9-4ea9-a323-5f146f6779cb",
+    "name": "Stacy Mcguire",
+    "email": "Tad_Bailey90@gmail.com",
+    "instagram_handle": "@jarvisjennifer",
+    "tiktok_handle": "@monicachavez",
+    "joined_at": "2024-10-03T22:35:27.370862",
+    "advocacy_programs": [
+        {
+            "program_id": "7c76c8c2-05ca-431d-b300-3414f248bd24",
+            "brand": "Diaz-Richardson",
+            "tasks_completed": [
+                {
+                    "task_id": "32fe4764-edd5-445c-bd53-c4d9daa93910",
+                    "platform": "Instagram",
+                    "post_url": "http://ochoa-martin.com/",
+                    "likes": 358,
+                    "comments": 471,
+                    "shares": 44,
+                    "reach": 7950
+                }
+            ],
+            "total_sales_attributed": 1318.82
+        }
+    ]
+}

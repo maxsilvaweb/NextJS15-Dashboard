@@ -1,0 +1,26 @@
+{
+    "user_id": "50db327a-2908-4abd-a639-2ec765905aa2",
+    "name": "Kathryn Lynch",
+    "email": "Elizabeth.Bednar@yahoo.com",
+    "instagram_handle": "@Clementine.Kub",
+    "tiktok_handle": "@Garret70",
+    "joined_at": "2024-09-16T01:07:55.481Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8bd29512-413b-4ba5-bf59-e208e2ac8bea",
+            "brand": "Mohr - Willms",
+            "tasks_completed": [
+                {
+                    "task_id": "53fd4a5d-9b8c-4823-b214-6cba489f1b4e",
+                    "platform": "TikTok",
+                    "post_url": "https://useless-stock.org/",
+                    "likes": 378,
+                    "comments": 5,
+                    "shares": 14,
+                    "reach": 8249
+                }
+            ],
+            "total_sales_attributed": 302.82816360948004
+        }
+    ]
+}

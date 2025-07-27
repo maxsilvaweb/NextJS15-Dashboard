@@ -1,0 +1,26 @@
+{
+    "user_id": "7a28c129-0792-441c-85ad-7eb854daaf50",
+    "name": "Miss Diana Wilson",
+    "email": "lararalph@example.org",
+    "instagram_handle": "@zmiller",
+    "tiktok_handle": "@dreyes",
+    "joined_at": "2025-07-05T19:47:23.748993",
+    "advocacy_programs": [
+        {
+            "program_id": "cdfd3a72-313b-49ff-a4f5-b81255f1cd5c",
+            "brand": "Ward PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "6dd51ab3-30a5-4495-8c9c-14eae221e0ac",
+                    "platform": "Instagram",
+                    "post_url": "https://www.rodriguez-burgess.com/",
+                    "likes": 4411,
+                    "comments": 408,
+                    "shares": 45,
+                    "reach": 3373
+                }
+            ],
+            "total_sales_attributed": 3480.45
+        }
+    ]
+}

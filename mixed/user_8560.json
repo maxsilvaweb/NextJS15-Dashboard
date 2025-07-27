@@ -1,0 +1,26 @@
+{
+    "user_id": "585e12c9-9103-4e5f-868e-578680682ed7",
+    "name": "Delbert Hermann",
+    "email": "Ian_Steuber@gmail.com",
+    "instagram_handle": "@Lew57",
+    "tiktok_handle": "@Elza.Prohaska2",
+    "joined_at": "2024-10-26T19:27:01.793Z",
+    "advocacy_programs": [
+        {
+            "program_id": "812a3b27-28aa-4a25-93a5-def40bc318a3",
+            "brand": "Friesen Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "66eaed2f-fbab-4d38-b0f9-59ac0cac524e",
+                    "platform": "TikTok",
+                    "post_url": "https://thorny-sweatshop.com/",
+                    "likes": 447,
+                    "comments": 44,
+                    "shares": 0,
+                    "reach": 5108
+                }
+            ],
+            "total_sales_attributed": 2732.3421412189928
+        }
+    ]
+}

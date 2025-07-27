@@ -1,0 +1,26 @@
+{
+    "user_id": "589ccd28-4309-4b1f-8abb-a5ad0b65e6de",
+    "name": "Paul Knapp",
+    "email": "Neil.Fay75@hotmail.com",
+    "instagram_handle": "@Damien_Walter",
+    "tiktok_handle": "@tyler46",
+    "joined_at": "2023-11-06T04:46:14.433809",
+    "advocacy_programs": [
+        {
+            "program_id": "7247f92d-bd75-495e-adae-b34ea2ef5b32",
+            "brand": "Satterfield - Gutkowski",
+            "tasks_completed": [
+                {
+                    "task_id": "bf77314c-b171-4509-8b24-1ffb05a49b74",
+                    "platform": "Facebook",
+                    "post_url": "http://gomez-bass.info/",
+                    "likes": 5758,
+                    "comments": 34,
+                    "shares": 49,
+                    "reach": 3516
+                }
+            ],
+            "total_sales_attributed": 7770.8
+        }
+    ]
+}

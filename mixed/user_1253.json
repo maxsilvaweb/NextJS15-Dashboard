@@ -1,0 +1,26 @@
+{
+    "user_id": "b8d822a3-f574-4122-ba3c-4fff11302cc3",
+    "name": "Carl Smith",
+    "email": "Margarete.Satterfield@gmail.com",
+    "instagram_handle": "@mary68",
+    "tiktok_handle": "@villanuevajonathan",
+    "joined_at": "2024-02-22T05:28:17.212812",
+    "advocacy_programs": [
+        {
+            "program_id": "942e0579-14dd-41c9-8c61-9ca7297bede9",
+            "brand": "Morgan PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ef135fc6-06da-4185-9819-3e2c3d4fea9d",
+                    "platform": "TikTok",
+                    "post_url": "http://ramirez-pace.biz/",
+                    "likes": 6734,
+                    "comments": 215,
+                    "shares": 14,
+                    "reach": 5700
+                }
+            ],
+            "total_sales_attributed": 6374.5
+        }
+    ]
+}

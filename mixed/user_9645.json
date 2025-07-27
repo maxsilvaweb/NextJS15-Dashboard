@@ -1,0 +1,26 @@
+{
+    "user_id": "3e45ddab-7a17-4765-ae53-1a55f2fd97c4",
+    "name": "Patricia Hunt",
+    "email": "lisamooney@example.org",
+    "instagram_handle": "@spencerwillie",
+    "tiktok_handle": "@pamela82",
+    "joined_at": "2024-11-01T21:33:28.712079",
+    "advocacy_programs": [
+        {
+            "program_id": "490ea3e9-b614-416d-97c0-fbabb48b091d",
+            "brand": "Cole, Barton and Schmitt",
+            "tasks_completed": [
+                {
+                    "task_id": "88a37b38-8b00-447b-abaf-235ebd1a0404",
+                    "platform": "Instagram",
+                    "post_url": "https://mejia-jones.info/",
+                    "likes": 56,
+                    "comments": 17,
+                    "shares": 56,
+                    "reach": 7038
+                }
+            ],
+            "total_sales_attributed": 212.46884618670282
+        }
+    ]
+}

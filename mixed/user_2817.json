@@ -1,0 +1,26 @@
+{
+    "user_id": "624e3427-bc9b-4c49-ae42-adc494ec3458",
+    "name": "Marisa Jennings",
+    "email": "smitheduardo@example.net",
+    "instagram_handle": "@eric21",
+    "tiktok_handle": "@estone",
+    "joined_at": "2024-11-29T01:23:11.215030",
+    "advocacy_programs": [
+        {
+            "program_id": "d06353a4-a94f-4fff-abbf-d77db0845924",
+            "brand": "Walker, Travis and Avery",
+            "tasks_completed": [
+                {
+                    "task_id": "79e6cb99-d2f3-4c33-ac56-8e8179dd4ccf",
+                    "platform": "Instagram",
+                    "post_url": "https://www.fowler.com/",
+                    "likes": 4614,
+                    "comments": 382,
+                    "shares": 92,
+                    "reach": 5148
+                }
+            ],
+            "total_sales_attributed": 9117.46
+        }
+    ]
+}

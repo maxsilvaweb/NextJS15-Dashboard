@@ -1,0 +1,26 @@
+{
+    "user_id": "f5ecf690-0b83-4e14-8ae6-44fdcace912a",
+    "name": "Carol Jones",
+    "email": "richardgilbert@example.org",
+    "instagram_handle": "@rodney87",
+    "tiktok_handle": "@anthonyaguilar",
+    "joined_at": "2023-11-25T05:05:15.884055",
+    "advocacy_programs": [
+        {
+            "program_id": "0509c361-5131-42bc-b79d-ea23f802f336",
+            "brand": "Jackson, Pitts and Barnes",
+            "tasks_completed": [
+                {
+                    "task_id": "6caaf22a-9e74-4d8f-9b78-08f2152d2c44",
+                    "platform": "Facebook",
+                    "post_url": "https://necessary-pepper.biz",
+                    "likes": 8609,
+                    "comments": 51,
+                    "shares": 78,
+                    "reach": 3769
+                }
+            ],
+            "total_sales_attributed": 4895.482152495575
+        }
+    ]
+}

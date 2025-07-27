@@ -1,0 +1,26 @@
+{
+    "user_id": "8ca61912-1952-4fde-a6eb-7a9b75fe678c",
+    "name": "Shane Campbell",
+    "email": "burgessmichelle@example.org",
+    "instagram_handle": "@rachelturner",
+    "tiktok_handle": "@roberthamilton",
+    "joined_at": "2024-10-22T22:52:40.282143",
+    "advocacy_programs": [
+        {
+            "program_id": "98403b76-8a04-4b1a-b3a3-bcea3c23bff0",
+            "brand": "Klein Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "764ad85d-6d6a-4c4b-ac79-2db99e6b65ba",
+                    "platform": "Instagram",
+                    "post_url": "http://www.beck.net/",
+                    "likes": 792,
+                    "comments": 195,
+                    "shares": 16,
+                    "reach": 8007
+                }
+            ],
+            "total_sales_attributed": 1848.75
+        }
+    ]
+}

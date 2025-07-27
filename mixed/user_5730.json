@@ -1,0 +1,26 @@
+{
+    "user_id": "94562492-9b60-49f7-bafe-a05ee50cd43a",
+    "name": "Robert Valencia",
+    "email": "tyrone86@example.org",
+    "instagram_handle": "@alex83",
+    "tiktok_handle": "@mwebster",
+    "joined_at": "2024-02-19T14:55:56.271806",
+    "advocacy_programs": [
+        {
+            "program_id": "80d27730-aa4f-4801-8e70-3350a7d91ff8",
+            "brand": "Fletcher, Williams and Evans",
+            "tasks_completed": [
+                {
+                    "task_id": "9ab05212-8af0-49e0-b2e2-9e33e3a9ee2d",
+                    "platform": "Instagram",
+                    "post_url": "https://www.luna-doyle.com/",
+                    "likes": 7691,
+                    "comments": 293,
+                    "shares": 55,
+                    "reach": 4495
+                }
+            ],
+            "total_sales_attributed": 2298.8165562988042
+        }
+    ]
+}

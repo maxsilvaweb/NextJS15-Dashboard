@@ -1,0 +1,26 @@
+{
+    "user_id": "ffb38630-db57-44f0-83c8-4204115acc0d",
+    "name": "Kurt Walter DDS",
+    "email": "Nathanial.Hansen99@hotmail.com",
+    "instagram_handle": "@Ron_Mann",
+    "tiktok_handle": "@Destini25",
+    "joined_at": "2024-05-09T04:50:35.788Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ed40dec7-9e6e-45d7-b393-63c3b7a5e45c",
+            "brand": "Cummerata, Lind and Leannon",
+            "tasks_completed": [
+                {
+                    "task_id": "2522321c-7bcf-4ed1-9d38-0c5690354dd4",
+                    "platform": "TikTok",
+                    "post_url": "https://quixotic-strategy.org",
+                    "likes": 302,
+                    "comments": 38,
+                    "shares": 50,
+                    "reach": 7582
+                }
+            ],
+            "total_sales_attributed": 2208.36632390007
+        }
+    ]
+}

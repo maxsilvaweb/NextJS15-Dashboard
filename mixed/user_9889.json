@@ -1,0 +1,26 @@
+{
+    "user_id": "70567251-9ec7-45fe-8c34-b8e8816cd04b",
+    "name": "Claudia Hobbs",
+    "email": "kiddpaul@example.org",
+    "instagram_handle": "@orrgabriel",
+    "tiktok_handle": "@zmorris",
+    "joined_at": "2024-03-12T05:00:47.426574",
+    "advocacy_programs": [
+        {
+            "program_id": "bbfc43c2-3097-422a-af10-c255716bbc70",
+            "brand": "Harrison-Cohen",
+            "tasks_completed": [
+                {
+                    "task_id": "10e1fbde-6730-45ed-8c07-3ee43eb07035",
+                    "platform": "Facebook",
+                    "post_url": "https://classic-scaffold.name",
+                    "likes": 9727,
+                    "comments": 485,
+                    "shares": 70,
+                    "reach": 6482
+                }
+            ],
+            "total_sales_attributed": 1794.95
+        }
+    ]
+}

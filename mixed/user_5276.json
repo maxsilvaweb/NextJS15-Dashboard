@@ -1,0 +1,26 @@
+{
+    "user_id": "a01bb5fc-f116-4473-9680-5476e19c3b7e",
+    "name": "Patrick Heidenreich",
+    "email": "Braeden.Hudson27@yahoo.com",
+    "instagram_handle": "@Dax85",
+    "tiktok_handle": "@Camryn_MacGyver49",
+    "joined_at": "2024-11-28T13:16:47.702Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cd75207c-93f1-43dc-ba50-23c033e4b4fb",
+            "brand": "Goldner, Cremin and Stiedemann",
+            "tasks_completed": [
+                {
+                    "task_id": "828e9b20-ce64-4bb4-8779-578501c5b189",
+                    "platform": "TikTok",
+                    "post_url": "https://scared-carboxyl.net",
+                    "likes": 455,
+                    "comments": 35,
+                    "shares": 81,
+                    "reach": 598
+                }
+            ],
+            "total_sales_attributed": 2560.2266531166238
+        }
+    ]
+}

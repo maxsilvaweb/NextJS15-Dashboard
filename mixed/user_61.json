@@ -1,0 +1,26 @@
+{
+    "user_id": "c3081618-db9d-41b9-87f2-d54d312364b4",
+    "name": "Lloyd Durgan",
+    "email": "Demarcus_Rodriguez@hotmail.com",
+    "instagram_handle": "@Aliyah_Tromp",
+    "tiktok_handle": "@Niko.Paucek14",
+    "joined_at": "2024-11-12T00:49:44.164Z",
+    "advocacy_programs": [
+        {
+            "program_id": "75ecef77-6b7b-4dca-915a-814960ed08ba",
+            "brand": "Hoppe, McKenzie and Lynch",
+            "tasks_completed": [
+                {
+                    "task_id": "a94f3936-e151-4598-bfec-61067e2aaa2b",
+                    "platform": "Instagram",
+                    "post_url": "https://shiny-plugin.info",
+                    "likes": 153,
+                    "comments": 37,
+                    "shares": 27,
+                    "reach": 2397
+                }
+            ],
+            "total_sales_attributed": 4764.529826041152
+        }
+    ]
+}

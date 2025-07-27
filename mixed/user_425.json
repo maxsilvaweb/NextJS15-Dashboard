@@ -1,0 +1,26 @@
+{
+    "user_id": "68572e4f-c3db-475a-af4f-0a01ec01139e",
+    "name": "Emmett Runolfsdottir",
+    "email": "Jaron.Huel@yahoo.com",
+    "instagram_handle": "@Gonzalo.Ryan",
+    "tiktok_handle": "@Petra39",
+    "joined_at": "2024-09-18T02:17:25.858Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3394543c-c6c3-4c28-9744-84e80d64488f",
+            "brand": "Lakin - DuBuque",
+            "tasks_completed": [
+                {
+                    "task_id": "c37f89ee-3ba5-4b64-8b33-79d75f166f97",
+                    "platform": "Instagram",
+                    "post_url": "https://flustered-summer.com/",
+                    "likes": 122,
+                    "comments": 17,
+                    "shares": 5,
+                    "reach": 1482
+                }
+            ],
+            "total_sales_attributed": 4944.602649638719
+        }
+    ]
+}

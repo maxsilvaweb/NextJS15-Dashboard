@@ -1,0 +1,26 @@
+{
+    "user_id": "6569978f-e3b9-477d-a289-8452c099971f",
+    "name": "Mr. Tommy Miller",
+    "email": "Hilton.Kozey@gmail.com",
+    "instagram_handle": "@Berniece.Rempel57",
+    "tiktok_handle": "@Chester_Gleichner97",
+    "joined_at": "2025-02-23T15:44:47.411Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4f640c02-fcca-4efc-9a7e-3dc76081eed7",
+            "brand": "Mann and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "abb3a7db-ebe3-42e7-bc31-f66cba2db841",
+                    "platform": "Instagram",
+                    "post_url": "https://total-advertisement.name",
+                    "likes": 316,
+                    "comments": 48,
+                    "shares": 81,
+                    "reach": 3846
+                }
+            ],
+            "total_sales_attributed": 3554.0046751464483
+        }
+    ]
+}

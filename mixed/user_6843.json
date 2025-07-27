@@ -1,0 +1,26 @@
+{
+    "user_id": "ff7307e5-29c8-404c-b00d-774b82e8b5e4",
+    "name": "Jacqueline Potter",
+    "email": "charleswagner@example.net",
+    "instagram_handle": "@friedmanjeremy",
+    "tiktok_handle": "@smontes",
+    "joined_at": "2025-07-14T06:27:24.598179",
+    "advocacy_programs": [
+        {
+            "program_id": "36cd7a4c-c63f-46e9-9364-4ca3c2dfd821",
+            "brand": "Ray PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "faa5a3e2-8cbb-472f-b02b-ce0d3fcc5ab7",
+                    "platform": "Instagram",
+                    "post_url": "http://frazier.com/",
+                    "likes": 1976,
+                    "comments": 14,
+                    "shares": 5,
+                    "reach": 6411
+                }
+            ],
+            "total_sales_attributed": 6440.36
+        }
+    ]
+}

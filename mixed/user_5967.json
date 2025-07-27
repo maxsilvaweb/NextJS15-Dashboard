@@ -1,0 +1,26 @@
+{
+    "user_id": "7f642759-9ac4-4e76-bb9c-a75ecce8f769",
+    "name": "Jeffrey Reichel",
+    "email": "Onie.Skiles66@gmail.com",
+    "instagram_handle": "@Emily.Cartwright88",
+    "tiktok_handle": "@Makayla21",
+    "joined_at": "2024-12-01T08:30:38.910Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c310dca0-8cd7-48a9-9cf8-d0a04ac91536",
+            "brand": "Mueller Group",
+            "tasks_completed": [
+                {
+                    "task_id": "6838c08f-f353-4da1-9ef1-ffb12f0d587f",
+                    "platform": "TikTok",
+                    "post_url": "https://pessimistic-deployment.net/",
+                    "likes": 93,
+                    "comments": 11,
+                    "shares": 98,
+                    "reach": 7507
+                }
+            ],
+            "total_sales_attributed": 2774.606286791054
+        }
+    ]
+}

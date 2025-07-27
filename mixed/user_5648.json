@@ -1,0 +1,26 @@
+{
+    "user_id": "fbdb6571-801b-4be5-990d-833552c57a34",
+    "name": "Becky Casper",
+    "email": "Christy.Towne@gmail.com",
+    "instagram_handle": "@Penelope_Veum83",
+    "tiktok_handle": "@Effie_Rippin",
+    "joined_at": "2025-02-04T06:14:04.296Z",
+    "advocacy_programs": [
+        {
+            "program_id": "59e4790a-1656-4cb9-a89d-19885a800c87",
+            "brand": "Keebler, Kulas and Jacobson",
+            "tasks_completed": [
+                {
+                    "task_id": "8092d5f3-55e8-4b48-babc-d40b89229e67",
+                    "platform": "Instagram",
+                    "post_url": "https://extroverted-provision.com",
+                    "likes": 480,
+                    "comments": 46,
+                    "shares": 46,
+                    "reach": 1894
+                }
+            ],
+            "total_sales_attributed": 4336.093314241936
+        }
+    ]
+}

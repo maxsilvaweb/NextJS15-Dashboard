@@ -1,0 +1,26 @@
+{
+    "user_id": "e10f57a4-0586-4fe9-a0e5-cd5762195ee4",
+    "name": "Jay Terry",
+    "email": "Haven73@hotmail.com",
+    "instagram_handle": "@Verner.Gerhold15",
+    "tiktok_handle": "@George_Weber41",
+    "joined_at": "2025-02-03T09:59:58.049Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f7a692f4-486a-4d88-a75c-9d7b459eb05c",
+            "brand": "Morar Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9f84252a-cb6b-4529-b0d9-a7c376491d16",
+                    "platform": "Instagram",
+                    "post_url": "https://fatherly-cap.name",
+                    "likes": 116,
+                    "comments": 15,
+                    "shares": 69,
+                    "reach": 4624
+                }
+            ],
+            "total_sales_attributed": 4311.319565844711
+        }
+    ]
+}

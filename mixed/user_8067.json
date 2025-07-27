@@ -1,0 +1,26 @@
+{
+    "user_id": "4b82dde5-9f67-4f1f-89cf-3fd95a0ecd54",
+    "name": "Diana Rodriguez",
+    "email": "Vince67@gmail.com",
+    "instagram_handle": "@Jettie_Jacobson",
+    "tiktok_handle": "@Kurtis_Willms",
+    "joined_at": "2025-03-02T06:44:22.187Z",
+    "advocacy_programs": [
+        {
+            "program_id": "19d74387-4445-4165-8017-5e30c6c63b94",
+            "brand": "Connelly - Langworth",
+            "tasks_completed": [
+                {
+                    "task_id": "1d76d2e3-b759-44fe-9942-09be666a9470",
+                    "platform": "Instagram",
+                    "post_url": "https://unfit-heartache.name",
+                    "likes": 330,
+                    "comments": 47,
+                    "shares": 28,
+                    "reach": 7051
+                }
+            ],
+            "total_sales_attributed": 1414.5362438691643
+        }
+    ]
+}

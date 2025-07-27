@@ -1,0 +1,26 @@
+{
+    "user_id": "3edb60a3-3011-45e8-bc4b-2be349185d41",
+    "name": "Lisa Parks",
+    "email": "peter06@example.com",
+    "instagram_handle": "@nathaniel40",
+    "tiktok_handle": "@mary73",
+    "joined_at": "2024-05-10T10:27:02.057853",
+    "advocacy_programs": [
+        {
+            "program_id": "b6c59a1f-78d1-4892-81ff-3f2c30b14ed2",
+            "brand": "Robel, Kertzmann and Hermann",
+            "tasks_completed": [
+                {
+                    "task_id": "532a5349-ddc0-4d4f-83a3-ea1fa86b32a6",
+                    "platform": "Instagram",
+                    "post_url": "https://misguided-cutover.com",
+                    "likes": 245,
+                    "comments": 424,
+                    "shares": 62,
+                    "reach": 7334
+                }
+            ],
+            "total_sales_attributed": 1276.41
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d243a32d-a117-4f56-b978-bfd2932e54c4",
+    "name": "Dr. Mike Schowalter",
+    "email": "Rubie95@yahoo.com",
+    "instagram_handle": "@Foster58",
+    "tiktok_handle": "@Clair.Friesen",
+    "joined_at": "2024-08-25T20:45:23.638Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3d27f9ec-49dd-48bb-a148-f66fbdbfb43f",
+            "brand": "Monahan, Price and Medhurst",
+            "tasks_completed": [
+                {
+                    "task_id": "d337a7c3-cae8-49bf-8719-a002cd1aa1e1",
+                    "platform": "Instagram",
+                    "post_url": "https://roasted-wasabi.org/",
+                    "likes": 282,
+                    "comments": 16,
+                    "shares": 39,
+                    "reach": 4041
+                }
+            ],
+            "total_sales_attributed": 611.631882953538
+        }
+    ]
+}

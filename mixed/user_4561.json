@@ -1,0 +1,26 @@
+{
+    "user_id": "c7d7ea23-e124-452d-8467-f277709b6f6b",
+    "name": "Joel Tremblay",
+    "email": "Frederique94@hotmail.com",
+    "instagram_handle": "@Wilber.Jenkins-Ruecker",
+    "tiktok_handle": "@Kaelyn14",
+    "joined_at": "2024-09-14T12:05:41.712Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1edb397e-1fb0-4728-b69b-a07064fcfcd6",
+            "brand": "Von, Schinner and Hagenes",
+            "tasks_completed": [
+                {
+                    "task_id": "6a8e6add-5235-4d50-8b39-fc8fcfe45351",
+                    "platform": "TikTok",
+                    "post_url": "https://shocked-sustenance.net/",
+                    "likes": 34,
+                    "comments": 37,
+                    "shares": 29,
+                    "reach": 9687
+                }
+            ],
+            "total_sales_attributed": 461.9653884802917
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "206d0abf-d7ea-4a92-bd08-ce6692fec10e",
+    "name": "Andrew Moore",
+    "email": "gregory39@example.net",
+    "instagram_handle": "@ymcfarland",
+    "tiktok_handle": "@Ayden.Hodkiewicz",
+    "joined_at": "2024-04-24T16:04:22.149878",
+    "advocacy_programs": [
+        {
+            "program_id": "8a08ae17-e169-4001-ba1d-0676e653334f",
+            "brand": "Melendez-Blake",
+            "tasks_completed": [
+                {
+                    "task_id": "0605f814-14f2-4721-bb7d-c7ceac342124",
+                    "platform": "TikTok",
+                    "post_url": "https://zany-decryption.net",
+                    "likes": 2557,
+                    "comments": 176,
+                    "shares": 3,
+                    "reach": 3476
+                }
+            ],
+            "total_sales_attributed": 495.87465404681944
+        }
+    ]
+}

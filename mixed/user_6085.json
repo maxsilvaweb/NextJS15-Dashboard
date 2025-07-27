@@ -1,0 +1,26 @@
+{
+    "user_id": "929dc34d-4e10-41ce-be96-d85626bafeb6",
+    "name": "Jesse Wolfe",
+    "email": "dawnbrown@example.net",
+    "instagram_handle": "@medinamatthew",
+    "tiktok_handle": "@olsonerica",
+    "joined_at": "2025-01-01T09:26:53.134441",
+    "advocacy_programs": [
+        {
+            "program_id": "9f44553d-542b-44ae-afaa-06fa4e613f38",
+            "brand": "Holmes Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "6a4e704d-6e40-4acc-bd1e-0f0146a6c1d7",
+                    "platform": "Instagram",
+                    "post_url": "http://www.gomez.com/",
+                    "likes": 1092,
+                    "comments": 0,
+                    "shares": 10,
+                    "reach": 3316
+                }
+            ],
+            "total_sales_attributed": 4715.36
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "133d3e04-7352-4820-b9f5-c7f2cb7e6a1b",
+    "name": "Lacey Harmon",
+    "email": "thomasriley@example.org",
+    "instagram_handle": "@farleysarah",
+    "tiktok_handle": "@moniquehall",
+    "joined_at": "2023-08-08T10:49:49.547949",
+    "advocacy_programs": [
+        {
+            "program_id": "187f8534-10d8-40f2-b7bd-8be7104fadaf",
+            "brand": "Cook, Hill and Foster",
+            "tasks_completed": [
+                {
+                    "task_id": "3e8f5b00-a0a8-4a60-8b75-98cc4a33eb99",
+                    "platform": "Instagram",
+                    "post_url": "https://muffled-tomb.biz",
+                    "likes": 8436,
+                    "comments": 201,
+                    "shares": 50,
+                    "reach": 4517
+                }
+            ],
+            "total_sales_attributed": 5909.08
+        }
+    ]
+}

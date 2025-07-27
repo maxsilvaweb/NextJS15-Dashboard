@@ -1,0 +1,26 @@
+{
+    "user_id": "6edd4e57-2dfe-4136-9aad-f6aa214ad7a3",
+    "name": "Kyle Montes",
+    "email": "nwilliamson@example.net",
+    "instagram_handle": "@jamesdaniels",
+    "tiktok_handle": "@denise63",
+    "joined_at": "2025-01-11T17:56:02.554272",
+    "advocacy_programs": [
+        {
+            "program_id": "56fa068c-a859-4404-aa9c-e8ebdd578377",
+            "brand": "Hayes PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "505b4c7a-2fd8-4d99-ae02-f0d6b430f02d",
+                    "platform": "Instagram",
+                    "post_url": "http://www.medina-burke.org/",
+                    "likes": 1856,
+                    "comments": 161,
+                    "shares": 10,
+                    "reach": 6500
+                }
+            ],
+            "total_sales_attributed": 2112.55
+        }
+    ]
+}

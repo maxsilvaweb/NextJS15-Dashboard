@@ -1,0 +1,26 @@
+{
+    "user_id": "d32bb388-5b21-4cf8-b5be-1b903bcde15a",
+    "name": "Tammy Stark",
+    "email": "Doug58@yahoo.com",
+    "instagram_handle": "@Elinore_Hamill21",
+    "tiktok_handle": "@Gunner.Pfannerstill40",
+    "joined_at": "2024-07-21T17:42:00.713Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d966f298-d27f-426f-a117-7ff8eb994ec6",
+            "brand": "Beier - Schroeder",
+            "tasks_completed": [
+                {
+                    "task_id": "86a81d23-b0a4-4acd-871e-49c88ab715d6",
+                    "platform": "Instagram",
+                    "post_url": "https://perky-gazebo.net",
+                    "likes": 249,
+                    "comments": 14,
+                    "shares": 13,
+                    "reach": 6913
+                }
+            ],
+            "total_sales_attributed": 1144.1034071178944
+        }
+    ]
+}

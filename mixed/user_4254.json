@@ -1,0 +1,26 @@
+{
+    "user_id": "2e1b4489-a975-4d6e-acf4-87ac72454f3b",
+    "name": "Peter O'Keefe",
+    "email": "Hilbert21@gmail.com",
+    "instagram_handle": "@Bessie_Grimes26",
+    "tiktok_handle": "@Beaulah.Skiles9",
+    "joined_at": "2024-07-17T19:34:14.329Z",
+    "advocacy_programs": [
+        {
+            "program_id": "63ad6633-3bf7-40da-890c-cab865b1f919",
+            "brand": "Gottlieb, Dare and Huels",
+            "tasks_completed": [
+                {
+                    "task_id": "f1548100-6b13-4c28-82a1-bc442289f96c",
+                    "platform": "TikTok",
+                    "post_url": "https://yearly-thorn.com",
+                    "likes": 338,
+                    "comments": 36,
+                    "shares": 47,
+                    "reach": 8145
+                }
+            ],
+            "total_sales_attributed": 532.3917103922959
+        }
+    ]
+}

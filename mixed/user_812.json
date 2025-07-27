@@ -1,0 +1,26 @@
+{
+    "user_id": "eab3d8ea-3122-4e6d-ac38-957fadfd1f20",
+    "name": "Tomas Kuhlman",
+    "email": "Camden_Buckridge3@hotmail.com",
+    "instagram_handle": "@Willa74",
+    "tiktok_handle": "@Kayley42",
+    "joined_at": "2024-10-25T08:41:31.691Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3e99baba-398b-4a4e-9f6c-c61f135892d9",
+            "brand": "Wiegand - Barrows",
+            "tasks_completed": [
+                {
+                    "task_id": "7fec1671-1e1f-44be-91ec-170415833ef2",
+                    "platform": "Instagram",
+                    "post_url": "https://shiny-lotion.org",
+                    "likes": 207,
+                    "comments": 5,
+                    "shares": 100,
+                    "reach": 4308
+                }
+            ],
+            "total_sales_attributed": 2783.7373733550553
+        }
+    ]
+}

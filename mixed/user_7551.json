@@ -1,0 +1,26 @@
+{
+    "user_id": "58e1adff-adf9-4cd9-a2f1-4f9951e72550",
+    "name": "Samantha Munoz",
+    "email": "deannabrown@example.com",
+    "instagram_handle": "@crystalcharles",
+    "tiktok_handle": "@daniel78",
+    "joined_at": "2024-11-01T18:14:09.857177",
+    "advocacy_programs": [
+        {
+            "program_id": "da5f307f-534b-433d-b16e-6e525fd1d283",
+            "brand": "Washington and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "64f2e0f7-a627-40d2-b597-747a2a8c1e25",
+                    "platform": "Instagram",
+                    "post_url": "https://oblong-glider.name",
+                    "likes": 1146,
+                    "comments": 234,
+                    "shares": 81,
+                    "reach": 7398
+                }
+            ],
+            "total_sales_attributed": 4970.91
+        }
+    ]
+}

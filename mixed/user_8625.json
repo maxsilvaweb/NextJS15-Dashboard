@@ -1,0 +1,26 @@
+{
+    "user_id": "477ed72d-163a-412e-a633-c38d7e460112",
+    "name": "Ebony Combs",
+    "email": "foleymatthew@example.com",
+    "instagram_handle": "@rossmichelle",
+    "tiktok_handle": "@freemanpaul",
+    "joined_at": "2025-07-21T05:15:03.939479",
+    "advocacy_programs": [
+        {
+            "program_id": "90bdd663-313b-4cac-9f80-c45b4f69029f",
+            "brand": "Anderson-White",
+            "tasks_completed": [
+                {
+                    "task_id": "bed93c04-e0c0-4ad9-a6f4-2b8eb0a11c84",
+                    "platform": "Facebook",
+                    "post_url": "https://www.gardner.org/",
+                    "likes": 9154,
+                    "comments": 75,
+                    "shares": 77,
+                    "reach": 6127
+                }
+            ],
+            "total_sales_attributed": 9363.04
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a72ffc14-4d6f-42fe-a6da-fa0da28174db",
+    "name": "Estelle Leannon",
+    "email": "cordovapatricia@example.org",
+    "instagram_handle": "@hancockbrandon",
+    "tiktok_handle": "@isaacwright",
+    "joined_at": "2023-08-08T09:38:02.834841",
+    "advocacy_programs": [
+        {
+            "program_id": "bc7ab8d1-fbe8-4892-b0df-b9d880fbd010",
+            "brand": "Santos Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f10eb182-8dac-431b-a2bc-b32c62cc95e9",
+                    "platform": "Instagram",
+                    "post_url": "http://www.lindsey.com/",
+                    "likes": 208,
+                    "comments": 11,
+                    "shares": 89,
+                    "reach": 1688
+                }
+            ],
+            "total_sales_attributed": 7832.29
+        }
+    ]
+}

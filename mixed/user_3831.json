@@ -1,0 +1,26 @@
+{
+    "user_id": "b69ca8b5-d9b5-4a43-8a7c-d2858407c5fd",
+    "name": "Vanessa Barr",
+    "email": "jeffrey84@example.org",
+    "instagram_handle": "@laurenphelps",
+    "tiktok_handle": "@daniellereid",
+    "joined_at": "2023-11-27T04:28:33.328701",
+    "advocacy_programs": [
+        {
+            "program_id": "3e9fac82-c1cc-4c67-84db-696d788417e8",
+            "brand": "Myers-Odonnell",
+            "tasks_completed": [
+                {
+                    "task_id": "50153df1-358e-4180-816e-55f1b5199b9b",
+                    "platform": "Instagram",
+                    "post_url": "https://anderson.biz/",
+                    "likes": 175,
+                    "comments": 47,
+                    "shares": 38,
+                    "reach": 9012
+                }
+            ],
+            "total_sales_attributed": 7399.4
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6d64a81f-f552-4669-a48f-131fecdefd8d",
+    "name": "Clifford Grady",
+    "email": "michaelwolfe@example.com",
+    "instagram_handle": "@llowery",
+    "tiktok_handle": "@wiseemma",
+    "joined_at": "2023-09-02T10:34:23.695342",
+    "advocacy_programs": [
+        {
+            "program_id": "eef0d29e-a0ec-4261-aca7-5b6190426937",
+            "brand": "Graham Group",
+            "tasks_completed": [
+                {
+                    "task_id": "75a8327a-2fc3-4828-821b-f4e901b4f311",
+                    "platform": "Instagram",
+                    "post_url": "http://miller.com/",
+                    "likes": 1239,
+                    "comments": 56,
+                    "shares": 57,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 9357.73
+        }
+    ]
+}

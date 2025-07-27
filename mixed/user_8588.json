@@ -1,0 +1,26 @@
+{
+    "user_id": "cfed3f94-bac3-4e9e-8736-d0946478c830",
+    "name": "Nicolas Walter",
+    "email": "Domenica.Terry55@yahoo.com",
+    "instagram_handle": "@Odell42",
+    "tiktok_handle": "@Kristina31",
+    "joined_at": "2024-07-17T15:55:57.818Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6f5433dd-bb51-4220-901b-13dc63df2ff9",
+            "brand": "Swift, Schroeder and Sanford",
+            "tasks_completed": [
+                {
+                    "task_id": "d64e4730-b2e6-408b-96a0-2d8aab3a8a2f",
+                    "platform": "Instagram",
+                    "post_url": "https://basic-steak.info/",
+                    "likes": 302,
+                    "comments": 44,
+                    "shares": 61,
+                    "reach": 4042
+                }
+            ],
+            "total_sales_attributed": 4533.032769903258
+        }
+    ]
+}

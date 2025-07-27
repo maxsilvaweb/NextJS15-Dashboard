@@ -1,0 +1,26 @@
+{
+    "user_id": "eb8447cf-9199-4351-b6d5-729b4a64ee0a",
+    "name": "Mary Perkins",
+    "email": "Morris_Gusikowski@gmail.com",
+    "instagram_handle": "@jennifer51",
+    "tiktok_handle": "@krista87",
+    "joined_at": "2023-11-22T09:13:39.539528",
+    "advocacy_programs": [
+        {
+            "program_id": "52cc0c49-e811-4c39-8969-4ec87535fd47",
+            "brand": "Smith-Martinez",
+            "tasks_completed": [
+                {
+                    "task_id": "fcf11d57-b33b-4a01-bb35-00c5a0476fed",
+                    "platform": "YouTube",
+                    "post_url": "https://www.wise.org/",
+                    "likes": 461,
+                    "comments": 30,
+                    "shares": 78,
+                    "reach": 6516
+                }
+            ],
+            "total_sales_attributed": 5888.5
+        }
+    ]
+}

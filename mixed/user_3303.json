@@ -1,0 +1,26 @@
+{
+    "user_id": "df035a0a-82d7-4fda-8314-13da1b88628f",
+    "name": "Meredith Baker",
+    "email": "cory49@example.org",
+    "instagram_handle": "@samanthachen",
+    "tiktok_handle": "@james94",
+    "joined_at": "2023-11-19T14:29:41.187745",
+    "advocacy_programs": [
+        {
+            "program_id": "a4aefe1d-48d0-48b7-9b4b-7bc6aaf77a8b",
+            "brand": "Brown-Walker",
+            "tasks_completed": [
+                {
+                    "task_id": "d2d7b84a-9259-4e59-b867-ff7b59e5495b",
+                    "platform": "Facebook",
+                    "post_url": "http://ball-conley.com/",
+                    "likes": 6493,
+                    "comments": 476,
+                    "shares": 26,
+                    "reach": 9558
+                }
+            ],
+            "total_sales_attributed": 1346.58
+        }
+    ]
+}

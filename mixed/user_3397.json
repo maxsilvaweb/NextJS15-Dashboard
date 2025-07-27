@@ -1,0 +1,26 @@
+{
+    "user_id": "1152b741-c341-45e3-9b6e-0becedb8fae1",
+    "name": "Esther Legros",
+    "email": "Pauline31@yahoo.com",
+    "instagram_handle": "@Jaron.Pfeffer",
+    "tiktok_handle": "@Jimmie_Farrell-Bode44",
+    "joined_at": "2025-01-22T05:58:02.509Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a8047a7c-014c-4b80-9584-1cc8d6bf1eab",
+            "brand": "Kessler - Jacobi",
+            "tasks_completed": [
+                {
+                    "task_id": "bf3e6602-0445-4108-bb21-458b7d5422f9",
+                    "platform": "Instagram",
+                    "post_url": "https://square-overload.net",
+                    "likes": 346,
+                    "comments": 16,
+                    "shares": 38,
+                    "reach": 1526
+                }
+            ],
+            "total_sales_attributed": 4367.346835770472
+        }
+    ]
+}

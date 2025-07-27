@@ -1,0 +1,26 @@
+{
+    "user_id": "53fe3e30-9cc3-4f6d-a342-52f009038182",
+    "name": "Paul Auer",
+    "email": "Lyda_Bauch25@hotmail.com",
+    "instagram_handle": "@Derick77",
+    "tiktok_handle": "@Dino11",
+    "joined_at": "2024-12-30T10:57:56.923Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1a54cfb4-3be9-4c57-997d-298abf9b78c4",
+            "brand": "Jones - Rempel",
+            "tasks_completed": [
+                {
+                    "task_id": "4612f92f-65af-4eb8-be50-83b5a2305ecf",
+                    "platform": "TikTok",
+                    "post_url": "https://free-meadow.biz",
+                    "likes": 102,
+                    "comments": 50,
+                    "shares": 55,
+                    "reach": 2078
+                }
+            ],
+            "total_sales_attributed": 192.19174766150536
+        }
+    ]
+}

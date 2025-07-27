@@ -1,0 +1,26 @@
+{
+    "user_id": "c6b23bf7-b7de-4056-9ba7-e27f0e517a9e",
+    "name": "David Dunn",
+    "email": "cortezrhonda@example.org",
+    "instagram_handle": "@coledavid",
+    "tiktok_handle": "@bonniejones",
+    "joined_at": "2023-08-01T10:18:20.229419",
+    "advocacy_programs": [
+        {
+            "program_id": "406c1ba1-f2f1-4750-9504-769d76899535",
+            "brand": "Kennedy, Shaffer and Morgan",
+            "tasks_completed": [
+                {
+                    "task_id": "0fb7c78e-d8da-4b4b-bc7e-7cfb754e19c5",
+                    "platform": "TikTok",
+                    "post_url": "https://vasquez-jones.info/",
+                    "likes": 2891,
+                    "comments": 294,
+                    "shares": 18,
+                    "reach": 9298
+                }
+            ],
+            "total_sales_attributed": 2015.34
+        }
+    ]
+}

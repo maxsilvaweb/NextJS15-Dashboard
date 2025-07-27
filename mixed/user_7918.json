@@ -1,0 +1,26 @@
+{
+    "user_id": "0b5b8fce-98e7-4f7b-8a7b-072d5ac21724",
+    "name": "Frederick Mertz",
+    "email": "Laverne.Johnson-Stracke@yahoo.com",
+    "instagram_handle": "@Crystel51",
+    "tiktok_handle": "@Deja_Luettgen",
+    "joined_at": "2024-09-10T04:01:26.033Z",
+    "advocacy_programs": [
+        {
+            "program_id": "607ceca4-d22b-4b42-a7f8-a196f4afc36c",
+            "brand": "Ullrich - Hickle",
+            "tasks_completed": [
+                {
+                    "task_id": "09968454-6877-4831-bb18-c06f44f3cedc",
+                    "platform": "Instagram",
+                    "post_url": "https://lanky-nun.net",
+                    "likes": 425,
+                    "comments": 47,
+                    "shares": 48,
+                    "reach": 8213
+                }
+            ],
+            "total_sales_attributed": 4449.054504739709
+        }
+    ]
+}

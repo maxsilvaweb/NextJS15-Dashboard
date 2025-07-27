@@ -1,0 +1,26 @@
+{
+    "user_id": "290c067e-3bc0-4928-926b-c6bbdabfc976",
+    "name": "Olga Reynolds",
+    "email": "Ottis_Rodriguez@yahoo.com",
+    "instagram_handle": "@Raul.Shields",
+    "tiktok_handle": "@Rodrick.Mohr7",
+    "joined_at": "2024-06-19T05:35:15.114Z",
+    "advocacy_programs": [
+        {
+            "program_id": "823b71a5-9b56-4929-b4b4-24e8e91974fc",
+            "brand": "Blick - Brekke",
+            "tasks_completed": [
+                {
+                    "task_id": "b1d874b4-bec1-4ffd-a5ea-a8f5aeac8ac3",
+                    "platform": "TikTok",
+                    "post_url": "https://inconsequential-fat.net",
+                    "likes": 42,
+                    "comments": 37,
+                    "shares": 57,
+                    "reach": 4825
+                }
+            ],
+            "total_sales_attributed": 284.2356729334523
+        }
+    ]
+}

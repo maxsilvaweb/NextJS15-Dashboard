@@ -1,0 +1,26 @@
+{
+    "user_id": "92c33497-c2f3-4d81-ac74-c18f0ba6e128",
+    "name": "Ted Mayer",
+    "email": "Alessandro2@hotmail.com",
+    "instagram_handle": "@Shaylee_Lesch",
+    "tiktok_handle": "@Stephan.Anderson59",
+    "joined_at": "2024-07-03T07:14:46.006Z",
+    "advocacy_programs": [
+        {
+            "program_id": "053d4cba-3257-4c50-9690-cc538fd7089c",
+            "brand": "Hackett LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "9f26ff58-3f0e-4559-8409-34e52a452634",
+                    "platform": "TikTok",
+                    "post_url": "https://alert-metabolite.info",
+                    "likes": 463,
+                    "comments": 9,
+                    "shares": 6,
+                    "reach": 8674
+                }
+            ],
+            "total_sales_attributed": 1118.814116825798
+        }
+    ]
+}

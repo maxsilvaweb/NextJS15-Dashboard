@@ -1,0 +1,26 @@
+{
+    "user_id": "9b005189-66f7-4130-953a-71c27c6c5690",
+    "name": "Mercedes VonRueden",
+    "email": "Evelyn_Aufderhar9@hotmail.com",
+    "instagram_handle": "@Jared_Baumbach56",
+    "tiktok_handle": "@Eliezer66",
+    "joined_at": "2024-10-19T17:07:54.152Z",
+    "advocacy_programs": [
+        {
+            "program_id": "96bf35b1-b6d6-41e5-814a-7208dce367bc",
+            "brand": "Schmidt, Volkman and Rice",
+            "tasks_completed": [
+                {
+                    "task_id": "e342ffb8-122e-4d8c-a4de-a284292c7e8e",
+                    "platform": "TikTok",
+                    "post_url": "https://incomplete-gastropod.net/",
+                    "likes": 256,
+                    "comments": 10,
+                    "shares": 36,
+                    "reach": 5267
+                }
+            ],
+            "total_sales_attributed": 4230.951076142397
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "792c439e-2b53-479c-b3af-7f5bc785df0c",
+    "name": "Manuel Kulas",
+    "email": "Rocio_Satterfield48@gmail.com",
+    "instagram_handle": "@Everett.Becker",
+    "tiktok_handle": "@Mollie_Wilkinson17",
+    "joined_at": "2024-07-03T18:58:35.343Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eb3e8279-b3c8-443a-a437-2be745beedd3",
+            "brand": "Casper, Walter and Mann",
+            "tasks_completed": [
+                {
+                    "task_id": "dde29ac4-b9e2-480d-8c46-13db92dee810",
+                    "platform": "Instagram",
+                    "post_url": "https://illustrious-developing.com/",
+                    "likes": 116,
+                    "comments": 0,
+                    "shares": 67,
+                    "reach": 583
+                }
+            ],
+            "total_sales_attributed": 2455.0844434629926
+        }
+    ]
+}

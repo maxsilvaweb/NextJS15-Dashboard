@@ -1,0 +1,26 @@
+{
+    "user_id": "c3c9b406-4b99-4ff2-ada4-9305dc6d7b7f",
+    "name": "Nicolas Kutch",
+    "email": "Aidan_Moore30@yahoo.com",
+    "instagram_handle": "@earl57",
+    "tiktok_handle": "@ryanhernandez",
+    "joined_at": "2025-02-27T22:15:10.116509",
+    "advocacy_programs": [
+        {
+            "program_id": "71b416e2-d0b9-4c8f-afac-59af51c48409",
+            "brand": "Lin, Mcgrath and Henderson",
+            "tasks_completed": [
+                {
+                    "task_id": "35748f97-c74f-42cd-9403-04fb605db1c4",
+                    "platform": "Twitter",
+                    "post_url": "http://morales-castillo.org/",
+                    "likes": 9270,
+                    "comments": 485,
+                    "shares": 84,
+                    "reach": 888
+                }
+            ],
+            "total_sales_attributed": 7203.81
+        }
+    ]
+}

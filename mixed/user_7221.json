@@ -1,0 +1,26 @@
+{
+    "user_id": "f2810181-dec3-43ce-a83e-21d005fba47f",
+    "name": "Cynthia Reynolds",
+    "email": "elizabeth81@example.com",
+    "instagram_handle": "@caroline87",
+    "tiktok_handle": "@lwright",
+    "joined_at": "2025-06-28T20:11:34.962890",
+    "advocacy_programs": [
+        {
+            "program_id": "e68f6409-3c41-499a-ae6d-54aba411a56e",
+            "brand": "Melton PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "50d48306-0ea1-4e8b-8766-9d27f6767650",
+                    "platform": "Facebook",
+                    "post_url": "http://www.griffin.org/",
+                    "likes": 904,
+                    "comments": 418,
+                    "shares": 45,
+                    "reach": 9159
+                }
+            ],
+            "total_sales_attributed": 6533.7
+        }
+    ]
+}

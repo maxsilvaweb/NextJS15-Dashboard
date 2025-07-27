@@ -1,0 +1,26 @@
+{
+    "user_id": "89b98b1b-63b5-4e8f-9fc7-6cf3b20a60b6",
+    "name": "Brooke Adams",
+    "email": "browntony@example.org",
+    "instagram_handle": "@cynthiajimenez",
+    "tiktok_handle": "@thomasgerald",
+    "joined_at": "2023-09-29T18:17:10.666644",
+    "advocacy_programs": [
+        {
+            "program_id": "dfe93cd1-3dda-4e49-ba5c-7e461f7af3bb",
+            "brand": "Black-Powers",
+            "tasks_completed": [
+                {
+                    "task_id": "a7b0c7d7-cca7-407b-b59a-feec82423bd7",
+                    "platform": "Instagram",
+                    "post_url": "https://www.vang.com/",
+                    "likes": 4571,
+                    "comments": 18,
+                    "shares": 39,
+                    "reach": 8592
+                }
+            ],
+            "total_sales_attributed": 9950.5
+        }
+    ]
+}

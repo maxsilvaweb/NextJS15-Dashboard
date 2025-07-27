@@ -1,0 +1,26 @@
+{
+    "user_id": "6a015f60-c7a6-430e-bdb9-afd4c0f967fc",
+    "name": "David Diaz",
+    "email": "walterwallace@example.net",
+    "instagram_handle": "@kristenking",
+    "tiktok_handle": "@dean94",
+    "joined_at": "2024-11-23T03:06:13.967691",
+    "advocacy_programs": [
+        {
+            "program_id": "3d69bbc3-b99b-49eb-aefe-38bebcf74c3e",
+            "brand": "Lemke LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "cbe2943d-a9a7-4bc7-a427-7ed01d0405eb",
+                    "platform": "TikTok",
+                    "post_url": "http://www.doyle.com/",
+                    "likes": 7750,
+                    "comments": 265,
+                    "shares": 35,
+                    "reach": 7523
+                }
+            ],
+            "total_sales_attributed": 4188.551134546542
+        }
+    ]
+}

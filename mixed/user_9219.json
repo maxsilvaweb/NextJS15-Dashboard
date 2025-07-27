@@ -1,0 +1,26 @@
+{
+    "user_id": "0dbf7bd6-8cbb-4aaa-a65a-20afc10755fa",
+    "name": "Timothy Anderson",
+    "email": "Zoe_Reichert@hotmail.com",
+    "instagram_handle": "@dennisgallagher",
+    "tiktok_handle": "@rmiller",
+    "joined_at": "2025-05-10T22:06:39.954484",
+    "advocacy_programs": [
+        {
+            "program_id": "2f4bea2f-c3f8-4dba-81d6-8006209afc30",
+            "brand": "Smith PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "694e83f0-dc80-4f64-8a35-bdec5d6bb0a5",
+                    "platform": "Instagram",
+                    "post_url": "https://rodriguez.com/",
+                    "likes": 4107,
+                    "comments": 420,
+                    "shares": 27,
+                    "reach": 2804
+                }
+            ],
+            "total_sales_attributed": 9134.76
+        }
+    ]
+}

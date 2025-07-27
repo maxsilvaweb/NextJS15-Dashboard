@@ -1,0 +1,26 @@
+{
+    "user_id": "e9b996f2-8548-4a41-ae82-f9dc6272b787",
+    "name": "Christy Martinez",
+    "email": "jacqueline45@example.net",
+    "instagram_handle": "@angela73",
+    "tiktok_handle": "@swansonmelvin",
+    "joined_at": "2024-08-18T15:39:19.321230",
+    "advocacy_programs": [
+        {
+            "program_id": "b1aac66f-5249-4b61-a790-3aa318c20155",
+            "brand": "Horne and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "d2564545-131b-417d-b931-76e4a406f0fe",
+                    "platform": "Instagram",
+                    "post_url": "https://www.murray-mcdaniel.com/",
+                    "likes": 8504,
+                    "comments": 15,
+                    "shares": 7,
+                    "reach": 9609
+                }
+            ],
+            "total_sales_attributed": 3872.84
+        }
+    ]
+}

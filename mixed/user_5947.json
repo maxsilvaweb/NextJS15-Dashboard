@@ -1,0 +1,26 @@
+{
+    "user_id": "d8e3b3de-dc05-4935-a33c-4b56b9a33c85",
+    "name": "Michelle Stanley",
+    "email": "martinaaron@example.org",
+    "instagram_handle": "@gibsonguy",
+    "tiktok_handle": "@francisco61",
+    "joined_at": "2024-10-06T18:01:50.039770",
+    "advocacy_programs": [
+        {
+            "program_id": "1a672bf7-73ad-4e94-a2d9-8168ea9dbbba",
+            "brand": "Hurst-Reyes",
+            "tasks_completed": [
+                {
+                    "task_id": "84c8ff60-0181-4ebd-b053-c643e3fef4a8",
+                    "platform": "TikTok",
+                    "post_url": "https://www.carroll.biz/",
+                    "likes": 4107,
+                    "comments": 7,
+                    "shares": 17,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 907.82
+        }
+    ]
+}

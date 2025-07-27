@@ -1,0 +1,26 @@
+{
+    "user_id": "70b20837-c681-406a-979e-114786dc4c03",
+    "name": "Tyrone Daniel",
+    "email": "garciakimberly@example.org",
+    "instagram_handle": "@betty27",
+    "tiktok_handle": "@vcummings",
+    "joined_at": "2024-11-25T15:24:50.676363",
+    "advocacy_programs": [
+        {
+            "program_id": "9d4c7a76-0bc6-4560-be9c-0ae96265939f",
+            "brand": "Myers, Wu and Gross",
+            "tasks_completed": [
+                {
+                    "task_id": "343f506b-4519-403c-b40e-2925ac53e685",
+                    "platform": "TikTok",
+                    "post_url": "https://simpson-lucero.com/",
+                    "likes": 4267,
+                    "comments": 30,
+                    "shares": 71,
+                    "reach": 5710
+                }
+            ],
+            "total_sales_attributed": 2235.45
+        }
+    ]
+}

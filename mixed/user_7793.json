@@ -1,0 +1,26 @@
+{
+    "user_id": "9b372f5e-8b06-45c8-95a4-687bb1460de9",
+    "name": "Dr. Alison Jacobson I",
+    "email": "Horacio81@yahoo.com",
+    "instagram_handle": "@Orlo.Lockman68",
+    "tiktok_handle": "@Marcelina44",
+    "joined_at": "2024-11-16T01:33:39.576Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0a5764e6-290f-4a9d-b58e-8d258f8533f6",
+            "brand": "Beier - Wiza",
+            "tasks_completed": [
+                {
+                    "task_id": "cbcb4a2f-4d3d-45d1-8a9c-40390e9e478b",
+                    "platform": "TikTok",
+                    "post_url": "https://sociable-intent.net/",
+                    "likes": 215,
+                    "comments": 10,
+                    "shares": 23,
+                    "reach": 3864
+                }
+            ],
+            "total_sales_attributed": 540.6020195674662
+        }
+    ]
+}

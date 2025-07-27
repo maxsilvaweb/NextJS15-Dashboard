@@ -1,0 +1,26 @@
+{
+    "user_id": "f1acf040-df9f-4c91-b336-41db66c1a229",
+    "name": "Emily Wilson",
+    "email": "danielsmarco@example.org",
+    "instagram_handle": "@margaret41",
+    "tiktok_handle": "@xmcdaniel",
+    "joined_at": "2024-02-25T01:17:08.373137",
+    "advocacy_programs": [
+        {
+            "program_id": "4a446d4d-5d9e-4f24-bb00-fc6ecd56048c",
+            "brand": "Evans-Turner",
+            "tasks_completed": [
+                {
+                    "task_id": "72ba7792-045d-4de7-b7c5-55d899a563ec",
+                    "platform": "YouTube",
+                    "post_url": "http://lynch-watson.com/",
+                    "likes": 6717,
+                    "comments": 181,
+                    "shares": 24,
+                    "reach": 3918
+                }
+            ],
+            "total_sales_attributed": 5023.52
+        }
+    ]
+}

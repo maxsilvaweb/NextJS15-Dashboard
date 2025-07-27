@@ -1,0 +1,26 @@
+{
+    "user_id": "93c1ebf8-0a9e-4665-aeb0-43f87684c193",
+    "name": "Bryan Mayer PhD",
+    "email": "Allie_Kiehn-Bergstrom@yahoo.com",
+    "instagram_handle": "@Corene14",
+    "tiktok_handle": "@Shane.Marquardt",
+    "joined_at": "2024-07-05T08:37:11.367Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8a45c7b0-fea7-41a7-b429-9cebec21d40b",
+            "brand": "Carter LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7c0f1ec1-85fd-4233-b4d2-3658e4613f7f",
+                    "platform": "Instagram",
+                    "post_url": "https://noxious-haversack.net",
+                    "likes": 57,
+                    "comments": 41,
+                    "shares": 21,
+                    "reach": 7079
+                }
+            ],
+            "total_sales_attributed": 3680.551215618359
+        }
+    ]
+}

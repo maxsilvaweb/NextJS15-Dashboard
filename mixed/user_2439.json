@@ -1,0 +1,26 @@
+{
+    "user_id": "a8ee0e08-cec6-4ea1-a544-163b1ddaaab6",
+    "name": "Donnie Roob",
+    "email": "Gerhard_Keebler@hotmail.com",
+    "instagram_handle": "@Bella.Sauer",
+    "tiktok_handle": "@Ronny_Wisoky-Becker93",
+    "joined_at": "2024-06-03T21:40:12.535Z",
+    "advocacy_programs": [
+        {
+            "program_id": "34b83aeb-5cd4-430a-bd1c-c00a3dc034fe",
+            "brand": "Berge and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "de55f801-e6d3-49aa-9f0e-852a27400ad5",
+                    "platform": "Instagram",
+                    "post_url": "https://wry-hundred.info/",
+                    "likes": 17,
+                    "comments": 11,
+                    "shares": 45,
+                    "reach": 3736
+                }
+            ],
+            "total_sales_attributed": 2763.0261015660376
+        }
+    ]
+}

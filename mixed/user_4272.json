@@ -1,0 +1,26 @@
+{
+    "user_id": "3bd33014-17d9-4677-884c-15895a15a957",
+    "name": "Victoria Acosta",
+    "email": "deborah12@example.com",
+    "instagram_handle": "@smithamy",
+    "tiktok_handle": "@tjackson",
+    "joined_at": "2023-12-30T22:17:09.043989",
+    "advocacy_programs": [
+        {
+            "program_id": "125d5093-4020-46eb-a8b1-aad6520c132d",
+            "brand": "Harris-Thomas",
+            "tasks_completed": [
+                {
+                    "task_id": "3c5c6680-af5f-43a7-bbed-61b29394bfa0",
+                    "platform": "TikTok",
+                    "post_url": "https://beasley.info/",
+                    "likes": 2526,
+                    "comments": 201,
+                    "shares": 100,
+                    "reach": 5599
+                }
+            ],
+            "total_sales_attributed": 5841.72
+        }
+    ]
+}

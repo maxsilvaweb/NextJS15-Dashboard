@@ -1,0 +1,26 @@
+{
+    "user_id": "0aa11bfe-a860-4733-b3d5-564671ceeb10",
+    "name": "James Campos",
+    "email": "lindahoward@example.com",
+    "instagram_handle": "@salazarjason",
+    "tiktok_handle": "@karen77",
+    "joined_at": "2024-04-28T16:28:41.657994",
+    "advocacy_programs": [
+        {
+            "program_id": "0e287e0a-ff27-4214-9e87-92d7a94bcc60",
+            "brand": "Montoya LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7a977eae-51fc-48f3-bcff-6badac1d48dc",
+                    "platform": "TikTok",
+                    "post_url": "https://heavenly-awareness.net/",
+                    "likes": 354,
+                    "comments": 354,
+                    "shares": 8,
+                    "reach": 6526
+                }
+            ],
+            "total_sales_attributed": 7951.13
+        }
+    ]
+}

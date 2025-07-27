@@ -1,0 +1,26 @@
+{
+    "user_id": "a2bf3436-57f7-495a-9048-ab8373e13d8e",
+    "name": "Heather Bass",
+    "email": "samantha59@example.net",
+    "instagram_handle": "@imoreno",
+    "tiktok_handle": "@wrighttina",
+    "joined_at": "2024-05-07T23:12:53.333222",
+    "advocacy_programs": [
+        {
+            "program_id": "67dae994-d87c-4198-bf9b-cae3116bb7a8",
+            "brand": "Martinez-Martin",
+            "tasks_completed": [
+                {
+                    "task_id": "af573893-eeff-4a3d-9c7a-9fa14fc9e38f",
+                    "platform": "TikTok",
+                    "post_url": "https://www.ramsey.net/",
+                    "likes": 2972,
+                    "comments": 210,
+                    "shares": 31,
+                    "reach": 3316
+                }
+            ],
+            "total_sales_attributed": 4755.52
+        }
+    ]
+}

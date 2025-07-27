@@ -1,0 +1,26 @@
+{
+    "user_id": "0c10aced-ab76-4f0b-bef0-10e4c5780f58",
+    "name": "Amber Lowe",
+    "email": "Willa46@yahoo.com",
+    "instagram_handle": "@kayla96",
+    "tiktok_handle": "@matthew89",
+    "joined_at": "2025-06-16T01:16:10.943965",
+    "advocacy_programs": [
+        {
+            "program_id": "b2f91229-cd35-48a2-beed-f807ab788778",
+            "brand": "Phillips-Jackson",
+            "tasks_completed": [
+                {
+                    "task_id": "ad20450b-0e21-4c86-95a8-b11d2a72d2d2",
+                    "platform": "TikTok",
+                    "post_url": "https://www.bishop-scott.info/",
+                    "likes": 669,
+                    "comments": 32,
+                    "shares": 21,
+                    "reach": 968
+                }
+            ],
+            "total_sales_attributed": 9389.79
+        }
+    ]
+}

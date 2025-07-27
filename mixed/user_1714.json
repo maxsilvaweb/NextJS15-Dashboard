@@ -1,0 +1,26 @@
+{
+    "user_id": "0c42d270-ebcf-4bdd-ba70-ce4d50e46d47",
+    "name": "Bradley Morgan",
+    "email": "stephaniejohnson@example.org",
+    "instagram_handle": "@katieadams",
+    "tiktok_handle": "@evanskevin",
+    "joined_at": "2024-08-19T04:29:06.741219",
+    "advocacy_programs": [
+        {
+            "program_id": "0d4b8061-da24-4471-9142-02f1b81d7c83",
+            "brand": "Foley, Howard and Roberts",
+            "tasks_completed": [
+                {
+                    "task_id": "f9e3432d-f33f-464a-93e8-bc6ee4413c04",
+                    "platform": "Instagram",
+                    "post_url": "https://boiling-epic.biz",
+                    "likes": 7209,
+                    "comments": 39,
+                    "shares": 96,
+                    "reach": 9309
+                }
+            ],
+            "total_sales_attributed": 3061.690959107286
+        }
+    ]
+}

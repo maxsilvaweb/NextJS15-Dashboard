@@ -1,0 +1,26 @@
+{
+    "user_id": "34a1ad1b-5625-46ff-86c6-a0e326d4631c",
+    "name": "Rufus Feil",
+    "email": "Alicia.Schroeder@gmail.com",
+    "instagram_handle": "@Franz_Pagac",
+    "tiktok_handle": "@Cletus.Yundt",
+    "joined_at": "2024-10-10T12:25:42.790Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4e2f033e-9229-4dd2-94ba-d02845c509a3",
+            "brand": "Hamill - Langosh",
+            "tasks_completed": [
+                {
+                    "task_id": "9b3a22ec-0e91-4521-96f7-787e3ddfc16b",
+                    "platform": "Instagram",
+                    "post_url": "https://austere-skean.biz",
+                    "likes": 491,
+                    "comments": 37,
+                    "shares": 95,
+                    "reach": 3869
+                }
+            ],
+            "total_sales_attributed": 4171.9954972121795
+        }
+    ]
+}

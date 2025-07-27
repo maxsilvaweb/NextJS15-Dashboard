@@ -1,0 +1,26 @@
+{
+    "user_id": "3c87ae68-0d3e-4947-ae54-9c1b8c59b8e8",
+    "name": "Ms. Megan Becker",
+    "email": "Agnes48@hotmail.com",
+    "instagram_handle": "@Marge.Kunde",
+    "tiktok_handle": "@Elinor.Bernhard",
+    "joined_at": "2024-11-05T17:22:17.916Z",
+    "advocacy_programs": [
+        {
+            "program_id": "115345b2-51fe-4251-b707-3d4244ca1ed4",
+            "brand": "Olson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "0a1a5dca-2d66-43b0-a3c1-e11cd72ce5cb",
+                    "platform": "TikTok",
+                    "post_url": "https://unselfish-dream.info/",
+                    "likes": 330,
+                    "comments": 40,
+                    "shares": 63,
+                    "reach": 6462
+                }
+            ],
+            "total_sales_attributed": 2185.1490059602525
+        }
+    ]
+}

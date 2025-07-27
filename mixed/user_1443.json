@@ -1,0 +1,26 @@
+{
+    "user_id": "c61bff2a-fee3-4dcf-9e95-34f2921ce9f4",
+    "name": "Andrea Reese",
+    "email": "gilberttheodore@example.org",
+    "instagram_handle": "@yluna",
+    "tiktok_handle": "@kellybridges",
+    "joined_at": "2025-06-26T05:41:55.947821",
+    "advocacy_programs": [
+        {
+            "program_id": "8c021844-405b-44da-b531-86080a1699d7",
+            "brand": "Morgan, Jackson and Warren",
+            "tasks_completed": [
+                {
+                    "task_id": "5f1bf753-24ea-4881-8a33-9e2ed4eafee6",
+                    "platform": "Facebook",
+                    "post_url": "https://www.brewer.com/",
+                    "likes": 1226,
+                    "comments": 366,
+                    "shares": 71,
+                    "reach": 4758
+                }
+            ],
+            "total_sales_attributed": 5502.17
+        }
+    ]
+}

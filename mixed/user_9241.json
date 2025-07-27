@@ -1,0 +1,26 @@
+{
+    "user_id": "68781f49-475d-465b-9c57-e1dac99fc82f",
+    "name": "Scott Smitham",
+    "email": "Maximilian12@yahoo.com",
+    "instagram_handle": "@Brock.Harber",
+    "tiktok_handle": "@Kayden.Wiegand93",
+    "joined_at": "2024-07-20T17:26:57.664Z",
+    "advocacy_programs": [
+        {
+            "program_id": "110b5da9-a2b2-42e0-9819-1ca3fc4c4aba",
+            "brand": "McDermott - Homenick",
+            "tasks_completed": [
+                {
+                    "task_id": "9ea5c78a-3614-4aee-852b-c78698b62222",
+                    "platform": "Instagram",
+                    "post_url": "https://baggy-vision.info",
+                    "likes": 464,
+                    "comments": 1,
+                    "shares": 15,
+                    "reach": 7874
+                }
+            ],
+            "total_sales_attributed": 4405.544838379387
+        }
+    ]
+}

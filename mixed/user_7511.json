@@ -1,0 +1,26 @@
+{
+    "user_id": "200cf3b1-286a-4103-8b1b-517b8705386c",
+    "name": "Susan Poole",
+    "email": "cmclaughlin@example.org",
+    "instagram_handle": "@ztaylor",
+    "tiktok_handle": "@harrellphilip",
+    "joined_at": "2025-06-25T01:43:36.251458",
+    "advocacy_programs": [
+        {
+            "program_id": "e0cea088-9317-4979-81d6-1e5b0914d004",
+            "brand": "Johnson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f5c359e3-b331-4b10-91ab-2d2d3c9e10d9",
+                    "platform": "Instagram",
+                    "post_url": "https://tattered-warming.name/",
+                    "likes": 6741,
+                    "comments": 314,
+                    "shares": 98,
+                    "reach": 7811
+                }
+            ],
+            "total_sales_attributed": 2443.58
+        }
+    ]
+}

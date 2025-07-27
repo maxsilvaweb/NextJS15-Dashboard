@@ -1,0 +1,26 @@
+{
+    "user_id": "740647ac-0e85-4302-ae3a-8ae6534622ea",
+    "name": "Dixie Beier",
+    "email": "Kelton47@hotmail.com",
+    "instagram_handle": "@Ole45",
+    "tiktok_handle": "@Freddy.Cremin59",
+    "joined_at": "2024-05-09T12:40:48.495Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f2b44f44-2309-4a2c-91da-7f893b395173",
+            "brand": "Jast - Sipes",
+            "tasks_completed": [
+                {
+                    "task_id": "24d48358-e232-44bd-9df8-9e19d697f866",
+                    "platform": "TikTok",
+                    "post_url": "https://slushy-yeast.info/",
+                    "likes": 361,
+                    "comments": 32,
+                    "shares": 7,
+                    "reach": 6076
+                }
+            ],
+            "total_sales_attributed": 3037.7160766576617
+        }
+    ]
+}

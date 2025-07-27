@@ -1,0 +1,26 @@
+{
+    "user_id": "5ba15140-041f-4ab0-843d-fbf5a49e6114",
+    "name": "Rosalie Halvorson",
+    "email": "Marcellus.Fisher@gmail.com",
+    "instagram_handle": "@Maiya.OKon43",
+    "tiktok_handle": "@Suzanne45",
+    "joined_at": "2025-03-01T15:42:56.951Z",
+    "advocacy_programs": [
+        {
+            "program_id": "32bceb9d-adea-47f7-9edf-6659162e720b",
+            "brand": "Powlowski, Skiles and Schultz",
+            "tasks_completed": [
+                {
+                    "task_id": "54d58ee8-7972-4004-9dec-2d2e1d0427bc",
+                    "platform": "Instagram",
+                    "post_url": "https://well-documented-event.biz/",
+                    "likes": 44,
+                    "comments": 12,
+                    "shares": 10,
+                    "reach": 1568
+                }
+            ],
+            "total_sales_attributed": 2224.1280893917155
+        }
+    ]
+}

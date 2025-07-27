@@ -1,0 +1,26 @@
+{
+    "user_id": "bb4e001e-dc85-463a-9092-dd4f3ee5f216",
+    "name": "Douglas Smith",
+    "email": "anthonymorris@example.com",
+    "instagram_handle": "@dylan75",
+    "tiktok_handle": "@erika99",
+    "joined_at": "2025-07-19T07:16:52.014013",
+    "advocacy_programs": [
+        {
+            "program_id": "339c4911-5fce-4459-96fc-557815fe6283",
+            "brand": "Hahn, Rodriguez and Young",
+            "tasks_completed": [
+                {
+                    "task_id": "cbf4d67c-6b0c-471e-a899-30a2f3d3f5b6",
+                    "platform": "Twitter",
+                    "post_url": "https://hill-james.com/",
+                    "likes": 6441,
+                    "comments": 0,
+                    "shares": 57,
+                    "reach": 8185
+                }
+            ],
+            "total_sales_attributed": 2606.3007470332964
+        }
+    ]
+}

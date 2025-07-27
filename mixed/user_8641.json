@@ -1,0 +1,26 @@
+{
+    "user_id": "4f9082b7-2c45-4350-8957-b4f9854639ff",
+    "name": "Marilyn Goldner",
+    "email": "garygreene@example.org",
+    "instagram_handle": "@jessica44",
+    "tiktok_handle": "@gibbslisa",
+    "joined_at": "2024-12-15T17:00:32.365825",
+    "advocacy_programs": [
+        {
+            "program_id": "929813e1-de39-47cc-a64d-364d0eab98bd",
+            "brand": "Lewis, May and Lewis",
+            "tasks_completed": [
+                {
+                    "task_id": "05f99c0d-b3bb-4753-9d5c-cbd29668e6bb",
+                    "platform": "Twitter",
+                    "post_url": "https://first-suitcase.info",
+                    "likes": 247,
+                    "comments": 49,
+                    "shares": 23,
+                    "reach": 2216
+                }
+            ],
+            "total_sales_attributed": 8492.47
+        }
+    ]
+}

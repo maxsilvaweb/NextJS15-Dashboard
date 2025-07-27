@@ -1,0 +1,26 @@
+{
+    "user_id": "98e493a0-64af-49c5-8b74-192308512d32",
+    "name": "Bobbie Heaney",
+    "email": "Wilmer31@yahoo.com",
+    "instagram_handle": "@Gerardo17",
+    "tiktok_handle": "@Lexus_Gleason1",
+    "joined_at": "2024-10-04T16:32:38.491Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6ac0d469-ae0d-49f9-a4e0-d4c722a57baf",
+            "brand": "Lemke - Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "9d72f8dd-44c0-42e0-bf25-85ef853f18c2",
+                    "platform": "TikTok",
+                    "post_url": "https://wrong-mozzarella.name",
+                    "likes": 232,
+                    "comments": 12,
+                    "shares": 75,
+                    "reach": 9171
+                }
+            ],
+            "total_sales_attributed": 436.44671237317743
+        }
+    ]
+}

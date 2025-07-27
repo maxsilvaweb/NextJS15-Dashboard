@@ -1,0 +1,26 @@
+{
+    "user_id": "39202600-766e-492a-bb15-44e35b57451c",
+    "name": "Rachel Baumbach",
+    "email": "Jonatan9@yahoo.com",
+    "instagram_handle": "@Davin.Labadie63",
+    "tiktok_handle": "@Frederick_Parker17",
+    "joined_at": "2025-02-28T18:25:07.404Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f73fbd31-8a1f-47bb-9f55-e498aed52dd6",
+            "brand": "Bradtke - Stoltenberg",
+            "tasks_completed": [
+                {
+                    "task_id": "97a0b0dc-a2b7-4ddc-a51f-5a12fbdc1b78",
+                    "platform": "Instagram",
+                    "post_url": "https://tender-stranger.biz/",
+                    "likes": 421,
+                    "comments": 24,
+                    "shares": 47,
+                    "reach": 7939
+                }
+            ],
+            "total_sales_attributed": 1493.0517253297253
+        }
+    ]
+}

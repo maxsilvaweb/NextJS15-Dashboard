@@ -1,0 +1,26 @@
+{
+    "user_id": "c14dfad1-a72a-4f37-ad87-d5a751c5bbaa",
+    "name": "Brenda Simpson",
+    "email": "Drake_Hand@yahoo.com",
+    "instagram_handle": "@Eleanore_Spinka39",
+    "tiktok_handle": "@andersonjames",
+    "joined_at": "2024-12-30T20:51:40.109689",
+    "advocacy_programs": [
+        {
+            "program_id": "0d337cca-279d-4871-b1ba-b9c343448209",
+            "brand": "Roman, Bray and Lara",
+            "tasks_completed": [
+                {
+                    "task_id": "bf7e42d0-b7b9-48b3-98d7-1c85da8f0906",
+                    "platform": "Instagram",
+                    "post_url": "http://villarreal.net/",
+                    "likes": 2623,
+                    "comments": 35,
+                    "shares": 78,
+                    "reach": 5886
+                }
+            ],
+            "total_sales_attributed": 5486.5
+        }
+    ]
+}

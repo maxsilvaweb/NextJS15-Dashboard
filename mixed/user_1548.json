@@ -1,0 +1,26 @@
+{
+    "user_id": "04a3b7f7-9d0a-4807-9b9c-81fd5561d61c",
+    "name": "Michele Bosco",
+    "email": "Deon62@yahoo.com",
+    "instagram_handle": "@Dena35",
+    "tiktok_handle": "@Sherwood.Armstrong58",
+    "joined_at": "2024-05-12T08:30:49.646Z",
+    "advocacy_programs": [
+        {
+            "program_id": "37c09d15-97af-46b1-9d7d-da658ad9aa83",
+            "brand": "Hessel, Nitzsche and Goldner",
+            "tasks_completed": [
+                {
+                    "task_id": "50fe6864-b9e4-45a8-85a9-2d4b18e4109d",
+                    "platform": "Instagram",
+                    "post_url": "https://celebrated-brochure.com",
+                    "likes": 496,
+                    "comments": 39,
+                    "shares": 85,
+                    "reach": 8103
+                }
+            ],
+            "total_sales_attributed": 1159.9889164710726
+        }
+    ]
+}

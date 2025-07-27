@@ -1,0 +1,26 @@
+{
+    "user_id": "b8ba89c5-7009-40d6-b5a6-d2207c77cf31",
+    "name": "Mr. Gregory Hahn",
+    "email": "Halle_Huel99@hotmail.com",
+    "instagram_handle": "@bradleydarren",
+    "tiktok_handle": "@walkerkenneth",
+    "joined_at": "2025-05-20T11:06:24.209155",
+    "advocacy_programs": [
+        {
+            "program_id": "c16f8bd1-57ec-4f2f-ab1d-fbb0e1ab50cf",
+            "brand": "Garner-Perry",
+            "tasks_completed": [
+                {
+                    "task_id": "f0b07df1-abf0-44ca-a938-25d52750e167",
+                    "platform": "TikTok",
+                    "post_url": "http://russell-allen.org/",
+                    "likes": 9889,
+                    "comments": 471,
+                    "shares": 73,
+                    "reach": 9813
+                }
+            ],
+            "total_sales_attributed": 2190.9117168711073
+        }
+    ]
+}

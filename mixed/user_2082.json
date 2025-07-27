@@ -1,0 +1,26 @@
+{
+    "user_id": "4c1666e3-c7e7-40ad-85ef-9f2b662a551b",
+    "name": "Dallas Kessler",
+    "email": "Amir69@gmail.com",
+    "instagram_handle": "@Nikolas.DAmore",
+    "tiktok_handle": "@Abdiel.Willms-OHara",
+    "joined_at": "2024-08-13T06:32:41.016Z",
+    "advocacy_programs": [
+        {
+            "program_id": "46741cb9-bb63-4a45-8a87-14b51f1944ee",
+            "brand": "Thiel, Rowe and Treutel",
+            "tasks_completed": [
+                {
+                    "task_id": "327c7755-0562-4a01-a590-525a7d5a02c9",
+                    "platform": "Instagram",
+                    "post_url": "https://glittering-backburn.net",
+                    "likes": 139,
+                    "comments": 39,
+                    "shares": 39,
+                    "reach": 1897
+                }
+            ],
+            "total_sales_attributed": 2336.8958587295897
+        }
+    ]
+}

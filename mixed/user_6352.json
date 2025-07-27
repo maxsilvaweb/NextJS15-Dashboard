@@ -1,0 +1,26 @@
+{
+    "user_id": "6ee98c86-19b3-49d3-bb3f-640e741d4b33",
+    "name": "Jamie Brock",
+    "email": "Archibald7@gmail.com",
+    "instagram_handle": "@sarah39",
+    "tiktok_handle": "@cherylhughes",
+    "joined_at": "2024-05-27T22:12:00.439653",
+    "advocacy_programs": [
+        {
+            "program_id": "c8a60513-f4ac-4b19-8846-ddd8557ba1de",
+            "brand": "Herrera PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c91f8009-4e57-4dbc-800f-60929fcbb2a2",
+                    "platform": "Instagram",
+                    "post_url": "https://bowen.com/",
+                    "likes": 8067,
+                    "comments": 352,
+                    "shares": 14,
+                    "reach": 9025
+                }
+            ],
+            "total_sales_attributed": 7327.81
+        }
+    ]
+}

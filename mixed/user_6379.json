@@ -1,0 +1,26 @@
+{
+    "user_id": "817c235a-3d45-4c1c-a129-eefa05c8e59c",
+    "name": "Julia Ponce",
+    "email": "dawnstrong@example.net",
+    "instagram_handle": "@unguyen",
+    "tiktok_handle": "@nicolefriedman",
+    "joined_at": "2025-01-08T01:26:55.646097",
+    "advocacy_programs": [
+        {
+            "program_id": "2ba70bf8-cecd-4244-9e7e-66dbbd8ec33c",
+            "brand": "Martinez-Nelson",
+            "tasks_completed": [
+                {
+                    "task_id": "fe1b5882-dc41-40a9-92f9-93c641478e73",
+                    "platform": "Facebook",
+                    "post_url": "https://unhealthy-linseed.com/",
+                    "likes": 4709,
+                    "comments": 11,
+                    "shares": 64,
+                    "reach": 8816
+                }
+            ],
+            "total_sales_attributed": 636.9300121397263
+        }
+    ]
+}

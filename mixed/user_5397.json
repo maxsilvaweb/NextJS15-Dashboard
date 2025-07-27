@@ -1,0 +1,26 @@
+{
+    "user_id": "78f168ef-11af-4ff1-b9fb-034ebf2abaaa",
+    "name": "Matthew Kirk",
+    "email": "upayne@example.com",
+    "instagram_handle": "@dconway",
+    "tiktok_handle": "@pereztimothy",
+    "joined_at": "2024-10-02T20:39:44.302224",
+    "advocacy_programs": [
+        {
+            "program_id": "7a46fc32-1250-4788-b3dd-9591c0290296",
+            "brand": "Beck-Diaz",
+            "tasks_completed": [
+                {
+                    "task_id": "c2f16940-ee98-493d-a7da-e0e32bcd5d3a",
+                    "platform": "TikTok",
+                    "post_url": "https://salas.biz/",
+                    "likes": 39,
+                    "comments": 177,
+                    "shares": 4,
+                    "reach": 6211
+                }
+            ],
+            "total_sales_attributed": 4421.86
+        }
+    ]
+}

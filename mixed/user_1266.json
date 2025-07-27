@@ -1,0 +1,26 @@
+{
+    "user_id": "231cc008-5a7c-48a0-8246-ecf45e58dce1",
+    "name": "William Perkins",
+    "email": "bmalone@example.com",
+    "instagram_handle": "@markwilson",
+    "tiktok_handle": "@kristencollins",
+    "joined_at": "2025-04-29T21:46:37.760810",
+    "advocacy_programs": [
+        {
+            "program_id": "371de8e0-d50b-424d-bed6-973d95e5c455",
+            "brand": "Zavala Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "c845049e-80ae-4682-ad4a-c83b9feb1f57",
+                    "platform": "Instagram",
+                    "post_url": "https://long-cruz.com/",
+                    "likes": 1677,
+                    "comments": 158,
+                    "shares": 30,
+                    "reach": 8426
+                }
+            ],
+            "total_sales_attributed": 1268.54
+        }
+    ]
+}

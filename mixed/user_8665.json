@@ -1,0 +1,26 @@
+{
+    "user_id": "588e2fca-fa03-4d29-8387-aea3cf41c06c",
+    "name": "David Phillips",
+    "email": "john30@example.com",
+    "instagram_handle": "@raymondray",
+    "tiktok_handle": "@bmoody",
+    "joined_at": "2025-04-08T22:13:21.521507",
+    "advocacy_programs": [
+        {
+            "program_id": "b2ecec46-4c84-4e25-8b4c-8fb07a3bffbc",
+            "brand": "White, Miller and Bowman",
+            "tasks_completed": [
+                {
+                    "task_id": "104291f4-7851-4c83-b997-dec042bd6f81",
+                    "platform": "Twitter",
+                    "post_url": "https://hawkins.com/",
+                    "likes": 9676,
+                    "comments": 9,
+                    "shares": 61,
+                    "reach": 9895
+                }
+            ],
+            "total_sales_attributed": 3826.86
+        }
+    ]
+}

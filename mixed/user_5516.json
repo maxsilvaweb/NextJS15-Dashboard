@@ -1,0 +1,26 @@
+{
+    "user_id": "29d66ae5-387d-4465-a58c-0e181f08c4f3",
+    "name": "Adam Gibson",
+    "email": "cynthiawagner@example.com",
+    "instagram_handle": "@sophiamartinez",
+    "tiktok_handle": "@tmacias",
+    "joined_at": "2024-11-17T08:29:10.806163",
+    "advocacy_programs": [
+        {
+            "program_id": "6dea652a-0fd1-4807-bf4c-700728c70510",
+            "brand": "Snyder, Jacobs and Zhang",
+            "tasks_completed": [
+                {
+                    "task_id": "8098cf6d-4411-44e7-b98d-51b5ab89eee4",
+                    "platform": "Facebook",
+                    "post_url": "https://beck.com/",
+                    "likes": 6627,
+                    "comments": 26,
+                    "shares": 85,
+                    "reach": 9703
+                }
+            ],
+            "total_sales_attributed": 4224.946684352426
+        }
+    ]
+}

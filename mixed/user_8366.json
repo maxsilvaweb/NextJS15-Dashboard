@@ -1,0 +1,26 @@
+{
+    "user_id": "83a5a50e-642e-4e28-a23e-43546f127b8b",
+    "name": "Shelby Cooper",
+    "email": "sharonfernandez@example.org",
+    "instagram_handle": "@linelizabeth",
+    "tiktok_handle": "@omartinez",
+    "joined_at": "2024-08-03T17:46:45.758495",
+    "advocacy_programs": [
+        {
+            "program_id": "0d6777fc-27a3-41da-ac17-e4590b148690",
+            "brand": "Wyatt PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "6154d9bf-2de7-436a-81fd-91f198892e6e",
+                    "platform": "Facebook",
+                    "post_url": "http://myers.com/",
+                    "likes": 8636,
+                    "comments": 268,
+                    "shares": 44,
+                    "reach": 9886
+                }
+            ],
+            "total_sales_attributed": 3965.51
+        }
+    ]
+}

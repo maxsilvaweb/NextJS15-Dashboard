@@ -1,0 +1,26 @@
+{
+    "user_id": "8c5a5e2e-4a15-4eed-9b4e-c3bce5d89120",
+    "name": "Aubrey Murray",
+    "email": "Leonardo96@gmail.com",
+    "instagram_handle": "@Celia.Schiller",
+    "tiktok_handle": "@Jacklyn.Leuschke48",
+    "joined_at": "2025-03-05T03:53:43.923Z",
+    "advocacy_programs": [
+        {
+            "program_id": "635a4716-1103-4fb5-a3d1-a875d92c1c6d",
+            "brand": "Littel - Effertz",
+            "tasks_completed": [
+                {
+                    "task_id": "7f1294dd-62d0-4a50-8a36-04888ce97820",
+                    "platform": "Instagram",
+                    "post_url": "https://deadly-gloom.net",
+                    "likes": 439,
+                    "comments": 17,
+                    "shares": 93,
+                    "reach": 3943
+                }
+            ],
+            "total_sales_attributed": 4164.892518579598
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b60e57b6-0ca5-4ad9-8807-6244a8ec9ed7",
+    "name": "Janice Mendez",
+    "email": "freemanhector@example.com",
+    "instagram_handle": "@kellybrian",
+    "tiktok_handle": "@tonyhale",
+    "joined_at": "2024-05-09T14:38:56.503552",
+    "advocacy_programs": [
+        {
+            "program_id": "5b8fff60-3faa-460b-b7e4-008545623174",
+            "brand": "Campbell LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e0181e93-8228-4d98-9ade-833a13ed9cd8",
+                    "platform": "Facebook",
+                    "post_url": "https://www.lewis-hammond.net/",
+                    "likes": 4915,
+                    "comments": 209,
+                    "shares": 58,
+                    "reach": 9348
+                }
+            ],
+            "total_sales_attributed": 9417.89
+        }
+    ]
+}

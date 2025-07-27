@@ -1,0 +1,26 @@
+{
+    "user_id": "c0fdcdb9-66a0-4556-98a8-8c4a00ad8472",
+    "name": "Nicholas Singh",
+    "email": "fostertyler@example.org",
+    "instagram_handle": "@jking",
+    "tiktok_handle": "@bjones",
+    "joined_at": "2023-10-18T07:28:08.672208",
+    "advocacy_programs": [
+        {
+            "program_id": "084d1249-3431-4903-8600-5d453c2fe978",
+            "brand": "Parsons-Campbell",
+            "tasks_completed": [
+                {
+                    "task_id": "543b350e-9f1a-41b4-b3f2-ae8083714817",
+                    "platform": "Facebook",
+                    "post_url": "https://www.navarro.com/",
+                    "likes": 7959,
+                    "comments": 10,
+                    "shares": 60,
+                    "reach": 4588
+                }
+            ],
+            "total_sales_attributed": 6500.63
+        }
+    ]
+}

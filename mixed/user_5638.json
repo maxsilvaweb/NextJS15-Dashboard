@@ -1,0 +1,26 @@
+{
+    "user_id": "ad2ef73a-01f1-414c-b069-490864738b05",
+    "name": "Tonya Hanson",
+    "email": "Daren_Luettgen33@hotmail.com",
+    "instagram_handle": "@thompsonmelissa",
+    "tiktok_handle": "@davisdavid",
+    "joined_at": "2023-09-12T10:13:10.545033",
+    "advocacy_programs": [
+        {
+            "program_id": "1792a890-04cb-4872-bb1f-83c603db80a7",
+            "brand": "Woodward Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "7602a320-d414-4d88-a284-88707dd0c600",
+                    "platform": "Facebook",
+                    "post_url": "http://blair.org/",
+                    "likes": 7508,
+                    "comments": 239,
+                    "shares": 27,
+                    "reach": 3158
+                }
+            ],
+            "total_sales_attributed": 1859.78
+        }
+    ]
+}

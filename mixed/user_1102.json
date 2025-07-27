@@ -1,0 +1,26 @@
+{
+    "user_id": "4c178465-6924-4ab3-85db-d1d569790bd1",
+    "name": "Jessica Lawson",
+    "email": "tward@example.org",
+    "instagram_handle": "@phillip85",
+    "tiktok_handle": "@katelyndonovan",
+    "joined_at": "2024-06-20T02:53:53.967Z",
+    "advocacy_programs": [
+        {
+            "program_id": "daa1a092-f288-4d67-8409-2c4713c6566d",
+            "brand": "Campbell, Olson and Dunlap",
+            "tasks_completed": [
+                {
+                    "task_id": "cfb29539-fab3-4018-a503-2f0ece3b13d9",
+                    "platform": "Facebook",
+                    "post_url": "https://coordinated-gazebo.name/",
+                    "likes": 7266,
+                    "comments": 4,
+                    "shares": 77,
+                    "reach": 3276
+                }
+            ],
+            "total_sales_attributed": 3463.09
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "00132f8f-3b81-4217-84c0-fba4cae492c3",
+    "name": "Rhonda Stewart",
+    "email": "danielmills@example.org",
+    "instagram_handle": "@gholmes",
+    "tiktok_handle": "@claudiamoreno",
+    "joined_at": "2024-10-14T15:43:42.240Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ecfe23cb-ca1c-42bb-9c68-9c734ae0f244",
+            "brand": "Zulauf - Jaskolski",
+            "tasks_completed": [
+                {
+                    "task_id": "db15047c-dff8-47b4-91f7-659b4c73dc08",
+                    "platform": "Twitter",
+                    "post_url": "https://wilson.biz/",
+                    "likes": 2441,
+                    "comments": 48,
+                    "shares": 95,
+                    "reach": 7233
+                }
+            ],
+            "total_sales_attributed": 7226.16
+        }
+    ]
+}

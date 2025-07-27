@@ -1,0 +1,26 @@
+{
+    "user_id": "ce84b2bb-9587-4361-968f-0aed70cf97e2",
+    "name": "Megan Harrell",
+    "email": "armstrongchad@example.org",
+    "instagram_handle": "@nmiller",
+    "tiktok_handle": "@cgonzalez",
+    "joined_at": "2025-01-27T23:25:48.172177",
+    "advocacy_programs": [
+        {
+            "program_id": "2921839c-bcc0-459a-998e-be3f4308cb27",
+            "brand": "Waters - Ortiz",
+            "tasks_completed": [
+                {
+                    "task_id": "31e7bf63-6f6e-4736-8c12-0c076acf35b1",
+                    "platform": "Instagram",
+                    "post_url": "http://proctor.com/",
+                    "likes": 3662,
+                    "comments": 54,
+                    "shares": 85,
+                    "reach": 5758
+                }
+            ],
+            "total_sales_attributed": 3452.86
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0f4b6293-4a3c-40a6-945e-378d9ec62397",
+    "name": "Angie Berge",
+    "email": "Kory62@hotmail.com",
+    "instagram_handle": "@Carmel3",
+    "tiktok_handle": "@Adriel_OKon",
+    "joined_at": "2024-10-26T14:48:43.994Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0b7befea-18e6-464a-8cce-6480255db196",
+            "brand": "Kris - Witting",
+            "tasks_completed": [
+                {
+                    "task_id": "8c633d28-d473-430f-88fd-982b071a133a",
+                    "platform": "TikTok",
+                    "post_url": "https://oval-bathrobe.net/",
+                    "likes": 184,
+                    "comments": 2,
+                    "shares": 10,
+                    "reach": 1704
+                }
+            ],
+            "total_sales_attributed": 869.2127147487352
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cbe4ccbd-fdfe-4f0f-bc50-ad129ac94b2c",
+    "name": "John Welch",
+    "email": "kmcpherson@example.org",
+    "instagram_handle": "@crawfordcristina",
+    "tiktok_handle": "@tiffanyfox",
+    "joined_at": "2023-11-22T09:01:15.762664",
+    "advocacy_programs": [
+        {
+            "program_id": "769fdcee-9e52-415b-8664-4446f7ab8625",
+            "brand": "Wright and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "74df74bc-0d56-42a7-b627-cb493b885ce1",
+                    "platform": "Twitter",
+                    "post_url": "https://www.fuller.com/",
+                    "likes": 249,
+                    "comments": 90,
+                    "shares": 66,
+                    "reach": 6760
+                }
+            ],
+            "total_sales_attributed": 5330.52
+        }
+    ]
+}

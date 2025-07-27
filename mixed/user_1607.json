@@ -1,0 +1,26 @@
+{
+    "user_id": "a918cc63-5a94-493b-8aae-be335d502b31",
+    "name": "Colin West",
+    "email": "Sebastian.Kilback61@yahoo.com",
+    "instagram_handle": "@Greg64",
+    "tiktok_handle": "@Vernie67",
+    "joined_at": "2024-12-06T13:08:57.746Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d2109374-d3bc-4717-8338-aa9c2ebdc54c",
+            "brand": "Kirlin, Shanahan and Stark",
+            "tasks_completed": [
+                {
+                    "task_id": "9f1c904b-b04f-44b7-ac12-123ac0fff2ef",
+                    "platform": "TikTok",
+                    "post_url": "https://happy-monasticism.name/",
+                    "likes": 459,
+                    "comments": 46,
+                    "shares": 40,
+                    "reach": 651
+                }
+            ],
+            "total_sales_attributed": 1441.985201158041
+        }
+    ]
+}

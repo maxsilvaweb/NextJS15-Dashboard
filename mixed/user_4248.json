@@ -1,0 +1,26 @@
+{
+    "user_id": "66a3c9fa-02df-4db2-b0cc-e468baedceed",
+    "name": "Lauren Brooks",
+    "email": "michellecamacho@example.net",
+    "instagram_handle": "@danaward",
+    "tiktok_handle": "@hubbardjustin",
+    "joined_at": "2024-10-21T21:22:33.256463",
+    "advocacy_programs": [
+        {
+            "program_id": "86970329-c9d3-4c71-83fe-74bad2c14e89",
+            "brand": "Bennett Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "814f3956-4d6f-4921-b15f-d1c52c21e3f6",
+                    "platform": "Twitter",
+                    "post_url": "https://outgoing-pliers.net/",
+                    "likes": 6203,
+                    "comments": 9,
+                    "shares": 86,
+                    "reach": 9203
+                }
+            ],
+            "total_sales_attributed": 1628.18
+        }
+    ]
+}

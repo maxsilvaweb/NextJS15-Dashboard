@@ -1,0 +1,26 @@
+{
+    "user_id": "b77e253e-bdcd-4322-9e65-66ca3008d63a",
+    "name": "Ethan Kim",
+    "email": "vrodriguez@example.org",
+    "instagram_handle": "@darrell83",
+    "tiktok_handle": "@rachelchang",
+    "joined_at": "2024-04-15T04:05:03.220665",
+    "advocacy_programs": [
+        {
+            "program_id": "bc7d34b8-48f0-455a-8e52-fe3ff4e65e70",
+            "brand": "Ward and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "584f48f4-aebb-4069-b996-bcec001d3354",
+                    "platform": "Facebook",
+                    "post_url": "http://www.reid.info/",
+                    "likes": 4477,
+                    "comments": 14,
+                    "shares": 38,
+                    "reach": 5380
+                }
+            ],
+            "total_sales_attributed": 4459.36
+        }
+    ]
+}

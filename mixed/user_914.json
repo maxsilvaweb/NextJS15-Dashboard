@@ -1,0 +1,26 @@
+{
+    "user_id": "7da2d13a-0a04-4da8-8981-95aa9799548b",
+    "name": "Timothy Lee",
+    "email": "Serena_Ebert@yahoo.com",
+    "instagram_handle": "@hpayne",
+    "tiktok_handle": "@zlane",
+    "joined_at": "2023-10-24T13:29:54.847087",
+    "advocacy_programs": [
+        {
+            "program_id": "c008927a-9dcb-47f5-98c3-218f50c5a479",
+            "brand": "Castillo LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "3fada3aa-3513-41c6-8b9a-e6249823855e",
+                    "platform": "Instagram",
+                    "post_url": "https://big-meander.org/",
+                    "likes": 93,
+                    "comments": 145,
+                    "shares": 31,
+                    "reach": 1863
+                }
+            ],
+            "total_sales_attributed": 8904.22
+        }
+    ]
+}

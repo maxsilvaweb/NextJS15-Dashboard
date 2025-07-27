@@ -1,0 +1,26 @@
+{
+    "user_id": "fae0d5c1-0323-4418-b3c9-4c2d887924e1",
+    "name": "Daryl Morissette",
+    "email": "Torrey10@hotmail.com",
+    "instagram_handle": "@Mireya86",
+    "tiktok_handle": "@Mabelle_Flatley29",
+    "joined_at": "2024-09-17T01:33:28.437Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f1433e0a-4265-4e0d-9f11-e3363f564e81",
+            "brand": "Blick Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "3c34b00c-37ad-41ec-b3bc-8e9e43fc2f74",
+                    "platform": "TikTok",
+                    "post_url": "https://bitter-fishery.name",
+                    "likes": 437,
+                    "comments": 34,
+                    "shares": 100,
+                    "reach": 2895
+                }
+            ],
+            "total_sales_attributed": 1095.501823863235
+        }
+    ]
+}

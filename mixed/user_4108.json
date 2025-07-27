@@ -1,0 +1,26 @@
+{
+    "user_id": "671b3851-3358-4cb2-be79-1bec18d9a3c7",
+    "name": "Darryl Smith",
+    "email": "james31@example.org",
+    "instagram_handle": "@xgraham",
+    "tiktok_handle": "@jerrysmith",
+    "joined_at": "2023-12-31T22:04:19.306841",
+    "advocacy_programs": [
+        {
+            "program_id": "b146997d-e077-4c66-a797-c8875cab80fc",
+            "brand": "Snyder PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "afb619a4-e924-4c56-ad8a-136f9b2ca5de",
+                    "platform": "YouTube",
+                    "post_url": "https://alvarado-vasquez.com/",
+                    "likes": 6023,
+                    "comments": 442,
+                    "shares": 89,
+                    "reach": 7151
+                }
+            ],
+            "total_sales_attributed": 8480.46
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cc0283f8-67d3-472e-bfc7-46382e207866",
+    "name": "Ron Effertz",
+    "email": "Aglae28@gmail.com",
+    "instagram_handle": "@Skylar29",
+    "tiktok_handle": "@Barbara.Tremblay38",
+    "joined_at": "2024-09-09T01:05:33.369Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6bdad7b1-6e7f-4db5-93b2-1f856a6f9202",
+            "brand": "Legros, Hintz and Hackett",
+            "tasks_completed": [
+                {
+                    "task_id": "b9f35066-ad74-41bb-aba4-5a2de62a9437",
+                    "platform": "Instagram",
+                    "post_url": "https://dutiful-label.com",
+                    "likes": 444,
+                    "comments": 8,
+                    "shares": 29,
+                    "reach": 1625
+                }
+            ],
+            "total_sales_attributed": 2469.71400559241
+        }
+    ]
+}

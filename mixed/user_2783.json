@@ -1,0 +1,26 @@
+{
+    "user_id": "5246d7ca-2b44-44f1-87bc-bc8db609a6f8",
+    "name": "Lyle Mosciski-Weimann",
+    "email": "Cale_Kshlerin@hotmail.com",
+    "instagram_handle": "@Kameron34",
+    "tiktok_handle": "@Della_Rath",
+    "joined_at": "2024-04-11T18:17:03.928Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a7d1162c-4409-4843-a307-1e04fb077502",
+            "brand": "Hegmann Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "be5211a4-167d-4820-82f9-74ffc54bb35e",
+                    "platform": "Instagram",
+                    "post_url": "https://well-to-do-platter.info/",
+                    "likes": 235,
+                    "comments": 10,
+                    "shares": 75,
+                    "reach": 6213
+                }
+            ],
+            "total_sales_attributed": 1991.2669669708414
+        }
+    ]
+}

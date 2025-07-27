@@ -1,0 +1,26 @@
+{
+    "user_id": "6ec11eb7-3ae4-453b-80d7-aa4285e70623",
+    "name": "Linda Waters",
+    "email": "pberger@example.net",
+    "instagram_handle": "@dbarnes",
+    "tiktok_handle": "@laurenpatrick",
+    "joined_at": "2025-03-19T12:12:54.110880",
+    "advocacy_programs": [
+        {
+            "program_id": "5a87190b-4b46-4105-afa5-0f221aafef20",
+            "brand": "Hobbs, Gonzalez and Tucker",
+            "tasks_completed": [
+                {
+                    "task_id": "39f487e0-ba24-4cfb-8796-e02b00500466",
+                    "platform": "Facebook",
+                    "post_url": "http://williams.com/",
+                    "likes": 12,
+                    "comments": 212,
+                    "shares": 13,
+                    "reach": 5109
+                }
+            ],
+            "total_sales_attributed": 2926.976212975153
+        }
+    ]
+}

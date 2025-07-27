@@ -1,0 +1,26 @@
+{
+    "user_id": "80d15215-4467-47ce-99c4-36fe4e287748",
+    "name": "Danny Nikolaus",
+    "email": "Rod85@hotmail.com",
+    "instagram_handle": "@Devin.Koch",
+    "tiktok_handle": "@Arch_Daugherty",
+    "joined_at": "2025-02-18T01:01:31.843Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f3716520-d7e7-45f0-a3e2-1b778b04a43a",
+            "brand": "Dickens Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "813dcc26-3d75-493d-b6af-164e557a4940",
+                    "platform": "TikTok",
+                    "post_url": "https://dreary-tooth.com",
+                    "likes": 191,
+                    "comments": 43,
+                    "shares": 27,
+                    "reach": 3838
+                }
+            ],
+            "total_sales_attributed": 2427.2449912379457
+        }
+    ]
+}

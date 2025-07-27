@@ -1,0 +1,26 @@
+{
+    "user_id": "4e22a1ef-b091-4c96-8266-a1332f0ee35d",
+    "name": "Clifford Batz",
+    "email": "Francis_Stoltenberg4@hotmail.com",
+    "instagram_handle": "@Amber84",
+    "tiktok_handle": "@Aida.Terry",
+    "joined_at": "2024-10-04T13:33:50.547Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ac99dc4a-3c08-4651-9cc8-d2ac6d653848",
+            "brand": "Cassin and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "103e8d48-eea6-4857-80a4-bd0d9de5e3db",
+                    "platform": "TikTok",
+                    "post_url": "https://esteemed-slipper.info",
+                    "likes": 120,
+                    "comments": 47,
+                    "shares": 88,
+                    "reach": 1679
+                }
+            ],
+            "total_sales_attributed": 1784.5786036780212
+        }
+    ]
+}

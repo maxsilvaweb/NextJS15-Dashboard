@@ -1,0 +1,26 @@
+{
+    "user_id": "8a652638-1336-42b0-87e8-8bbdaf7b4327",
+    "name": "Nicholas Harper",
+    "email": "Chaim.Mayer46@yahoo.com",
+    "instagram_handle": "@johnsonkayla",
+    "tiktok_handle": "@margaret63",
+    "joined_at": "2025-03-21T02:50:17.011045",
+    "advocacy_programs": [
+        {
+            "program_id": "e2927a46-ac81-45a2-80a1-86e4b3c973e8",
+            "brand": "Price, Tate and Sharp",
+            "tasks_completed": [
+                {
+                    "task_id": "f1218f01-3073-4723-909c-2eede29547eb",
+                    "platform": "Instagram",
+                    "post_url": "http://phillips.net/",
+                    "likes": 41,
+                    "comments": 447,
+                    "shares": 93,
+                    "reach": 1407
+                }
+            ],
+            "total_sales_attributed": 7711.19
+        }
+    ]
+}

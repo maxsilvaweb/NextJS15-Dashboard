@@ -1,0 +1,26 @@
+{
+    "user_id": "d8267cb2-86ea-4760-a14f-0556d3a27e12",
+    "name": "Gary Walker",
+    "email": "jennifer65@example.org",
+    "instagram_handle": "@braytracie",
+    "tiktok_handle": "@tcastaneda",
+    "joined_at": "2024-05-26T15:55:59.035Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e3646029-442c-4635-8314-dabc968eb0f9",
+            "brand": "Sloan, King and Humphrey",
+            "tasks_completed": [
+                {
+                    "task_id": "5d4495d0-4185-4587-893b-47c4266e9004",
+                    "platform": "Twitter",
+                    "post_url": "https://li-williams.net/",
+                    "likes": 4152,
+                    "comments": 30,
+                    "shares": 51,
+                    "reach": 6850
+                }
+            ],
+            "total_sales_attributed": 8682.84
+        }
+    ]
+}

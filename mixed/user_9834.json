@@ -1,0 +1,26 @@
+{
+    "user_id": "7710bca2-2b25-4da5-8274-ce430da92626",
+    "name": "Mrs. Rochelle Hayes",
+    "email": "Phoebe.Herzog@hotmail.com",
+    "instagram_handle": "@Lempi.Denesik",
+    "tiktok_handle": "@Gertrude_Dietrich23",
+    "joined_at": "2024-05-24T15:29:34.902Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e3f5ae5f-adec-4467-9e6e-72a0be133d06",
+            "brand": "Rice - Welch",
+            "tasks_completed": [
+                {
+                    "task_id": "9df64e2b-eea9-46fa-b92f-651b2cb01011",
+                    "platform": "TikTok",
+                    "post_url": "https://grouchy-independence.net",
+                    "likes": 129,
+                    "comments": 26,
+                    "shares": 20,
+                    "reach": 5409
+                }
+            ],
+            "total_sales_attributed": 1355.5233646946572
+        }
+    ]
+}

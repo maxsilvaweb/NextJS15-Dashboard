@@ -1,0 +1,26 @@
+{
+    "user_id": "a41b6d96-3d62-4717-9ef3-18abeda86d2d",
+    "name": "Maria Garcia",
+    "email": "michaelescobar@example.org",
+    "instagram_handle": "@timothymathews",
+    "tiktok_handle": "@sandrawilliams",
+    "joined_at": "2025-07-15T03:07:21.262708",
+    "advocacy_programs": [
+        {
+            "program_id": "560e5b63-2844-4037-9f9a-320ae9a1dbca",
+            "brand": "Bennett, Rowland and Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "89d5ed90-4937-4a3d-8023-1278c244395c",
+                    "platform": "Twitter",
+                    "post_url": "http://smith-gonzalez.com/",
+                    "likes": 6597,
+                    "comments": 16,
+                    "shares": 42,
+                    "reach": 8910
+                }
+            ],
+            "total_sales_attributed": 7861.25
+        }
+    ]
+}

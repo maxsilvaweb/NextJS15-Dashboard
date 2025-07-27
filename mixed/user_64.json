@@ -1,0 +1,26 @@
+{
+    "user_id": "5023a3b8-6067-421a-8206-fc1916c1c056",
+    "name": "Tracy Richards",
+    "email": "kruegerchad@example.org",
+    "instagram_handle": "@laura94",
+    "tiktok_handle": "@xcox",
+    "joined_at": "2024-02-02T00:37:52.629448",
+    "advocacy_programs": [
+        {
+            "program_id": "69f18202-de33-4d8b-8876-0e87cdf75a7f",
+            "brand": "Patterson-Tran",
+            "tasks_completed": [
+                {
+                    "task_id": "a28d86ca-7c2f-40c6-98c3-5b3ffa03e4ba",
+                    "platform": "TikTok",
+                    "post_url": "https://swanson-smith.biz/",
+                    "likes": 21,
+                    "comments": 310,
+                    "shares": 88,
+                    "reach": 4736
+                }
+            ],
+            "total_sales_attributed": 4003.94
+        }
+    ]
+}

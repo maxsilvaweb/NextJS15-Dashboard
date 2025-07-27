@@ -1,0 +1,26 @@
+{
+    "user_id": "9c74237a-1ba5-4be8-979c-f45a31b09c32",
+    "name": "Jessica Chambers",
+    "email": "Kyle.Ortiz36@hotmail.com",
+    "instagram_handle": "@kevin92",
+    "tiktok_handle": "@cvilla",
+    "joined_at": "2024-10-24T11:18:59.277283",
+    "advocacy_programs": [
+        {
+            "program_id": "fd557d9d-4d2a-4444-aeca-95fea317021f",
+            "brand": "Adams-Anderson",
+            "tasks_completed": [
+                {
+                    "task_id": "d643a02f-b1b9-46f3-b223-44029d141d39",
+                    "platform": "Facebook",
+                    "post_url": "https://www.fernandez-moore.com/",
+                    "likes": 3758,
+                    "comments": 212,
+                    "shares": 12,
+                    "reach": 6468
+                }
+            ],
+            "total_sales_attributed": 4179.0455620356415
+        }
+    ]
+}

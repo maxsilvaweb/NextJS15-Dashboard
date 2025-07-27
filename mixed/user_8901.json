@@ -1,0 +1,26 @@
+{
+    "user_id": "33d58f9c-79ef-4d3c-b8d3-9011cd012202",
+    "name": "Lindsey Kelley",
+    "email": "sdean@example.com",
+    "instagram_handle": "@cserrano",
+    "tiktok_handle": "@Devyn_Donnelly",
+    "joined_at": "2023-11-30T07:22:46.695615",
+    "advocacy_programs": [
+        {
+            "program_id": "672b9e41-53d1-4b29-b3a7-4d775b6c4c6a",
+            "brand": "Parker, Cooper and Sullivan",
+            "tasks_completed": [
+                {
+                    "task_id": "194e0a09-4016-47dc-83b5-db6b4281d6cc",
+                    "platform": "Instagram",
+                    "post_url": "http://www.gomez-fischer.com/",
+                    "likes": 4776,
+                    "comments": 270,
+                    "shares": 13,
+                    "reach": 2721
+                }
+            ],
+            "total_sales_attributed": 8194.2
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "443b4815-c4a0-4b1b-a5e4-e38c62af5ceb",
+    "name": "Aaron Knapp",
+    "email": "Timmy.Treutel@gmail.com",
+    "instagram_handle": "@pevans",
+    "tiktok_handle": "@fmarshall",
+    "joined_at": "2023-10-15T03:02:14.490534",
+    "advocacy_programs": [
+        {
+            "program_id": "3f377556-39e6-4a08-95c8-7b99f2e44e71",
+            "brand": "Miller PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "56116cd2-cc9d-4b6c-895c-758511445b4c",
+                    "platform": "TikTok",
+                    "post_url": "https://www.villegas.com/",
+                    "likes": 1480,
+                    "comments": 144,
+                    "shares": 7,
+                    "reach": 5513
+                }
+            ],
+            "total_sales_attributed": 9812.55
+        }
+    ]
+}

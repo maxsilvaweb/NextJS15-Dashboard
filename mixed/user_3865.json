@@ -1,0 +1,26 @@
+{
+    "user_id": "1838d6f3-9d53-4dad-9eb7-7b826ecf5140",
+    "name": "Cynthia Cohen",
+    "email": "butlerjason@example.org",
+    "instagram_handle": "@anthony60",
+    "tiktok_handle": "@braytimothy",
+    "joined_at": "2023-08-23T02:36:56.036956",
+    "advocacy_programs": [
+        {
+            "program_id": "59a66bd0-2308-4643-9925-4377828656f8",
+            "brand": "Herrera and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "1ab5d0f7-8d1f-44c9-b202-b854188955dd",
+                    "platform": "Facebook",
+                    "post_url": "https://parsons.com/",
+                    "likes": 5306,
+                    "comments": 413,
+                    "shares": 79,
+                    "reach": 898
+                }
+            ],
+            "total_sales_attributed": 1652.21
+        }
+    ]
+}

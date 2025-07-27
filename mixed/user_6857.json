@@ -1,0 +1,26 @@
+{
+    "user_id": "7ae3c756-b10e-4ced-8f76-1c1d42655774",
+    "name": "Ana Knox",
+    "email": "richard39@example.net",
+    "instagram_handle": "@dfisher",
+    "tiktok_handle": "@angelayoung",
+    "joined_at": "2024-12-05T08:34:03.780928",
+    "advocacy_programs": [
+        {
+            "program_id": "cea11b85-0b64-490f-9459-6fdfe32e54c0",
+            "brand": "Long, Woods and Hughes",
+            "tasks_completed": [
+                {
+                    "task_id": "9d568862-061d-45d9-89f1-860aa5acaa75",
+                    "platform": "Instagram",
+                    "post_url": "https://www.lewis-miller.info/",
+                    "likes": 6202,
+                    "comments": 87,
+                    "shares": 48,
+                    "reach": 2727
+                }
+            ],
+            "total_sales_attributed": 221.1568935175843
+        }
+    ]
+}

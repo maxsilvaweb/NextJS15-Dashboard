@@ -1,0 +1,26 @@
+{
+    "user_id": "131e1ca4-6d70-4280-b81e-2a1d8d83bccb",
+    "name": "Ismael Moen",
+    "email": "Amely_Wilkinson73@hotmail.com",
+    "instagram_handle": "@Kaela_Streich-Okuneva",
+    "tiktok_handle": "@Alvera6",
+    "joined_at": "2024-05-25T02:51:02.420Z",
+    "advocacy_programs": [
+        {
+            "program_id": "79ca0ce2-f07c-4b05-8bd9-2f2641fae07e",
+            "brand": "Funk, Wehner and Hackett",
+            "tasks_completed": [
+                {
+                    "task_id": "e5a52caa-5d59-429b-b451-c0c769ba2f70",
+                    "platform": "TikTok",
+                    "post_url": "https://french-confusion.info",
+                    "likes": 405,
+                    "comments": 23,
+                    "shares": 30,
+                    "reach": 4190
+                }
+            ],
+            "total_sales_attributed": 3491.889276644807
+        }
+    ]
+}

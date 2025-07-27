@@ -1,0 +1,26 @@
+{
+    "user_id": "cc549391-0a39-49e0-a8e3-25ca6bb9c909",
+    "name": "Ryan Bryant",
+    "email": "jfletcher@example.org",
+    "instagram_handle": "@ruizsandra",
+    "tiktok_handle": "@brittany53",
+    "joined_at": "2023-09-25T00:35:33.354718",
+    "advocacy_programs": [
+        {
+            "program_id": "ae9dab63-a1dd-4c1b-90f3-66ff2e0a5c1a",
+            "brand": "Hansen LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "b02582fb-bbed-4742-98dd-a6ee902b6d31",
+                    "platform": "Facebook",
+                    "post_url": "https://enraged-integer.com",
+                    "likes": 969,
+                    "comments": 222,
+                    "shares": 75,
+                    "reach": 8409
+                }
+            ],
+            "total_sales_attributed": 8916.26
+        }
+    ]
+}

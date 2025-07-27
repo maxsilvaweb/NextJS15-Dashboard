@@ -1,0 +1,26 @@
+{
+    "user_id": "c42cf0cc-0fbf-493a-81f9-5939786cb0b9",
+    "name": "Andrea Richard",
+    "email": "rtaylor@example.org",
+    "instagram_handle": "@matthewwaters",
+    "tiktok_handle": "@ccook",
+    "joined_at": "2025-04-10T15:28:24.711361",
+    "advocacy_programs": [
+        {
+            "program_id": "7e3cbb44-f326-4526-ac3e-bd68f471914e",
+            "brand": "Hancock PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "860bd434-009c-4c29-a6f3-5137a2aa1833",
+                    "platform": "Facebook",
+                    "post_url": "https://booth.com/",
+                    "likes": 203,
+                    "comments": 52,
+                    "shares": 22,
+                    "reach": 8566
+                }
+            ],
+            "total_sales_attributed": 1644.65
+        }
+    ]
+}

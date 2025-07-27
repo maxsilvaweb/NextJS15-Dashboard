@@ -1,0 +1,26 @@
+{
+    "user_id": "87abe03d-2b60-42f3-93be-1a47ef3b2a22",
+    "name": "Gary Fischer",
+    "email": "laurie81@example.net",
+    "instagram_handle": "@ganderson",
+    "tiktok_handle": "@uscott",
+    "joined_at": "2023-11-20T02:53:03.384126",
+    "advocacy_programs": [
+        {
+            "program_id": "c489eb37-786c-42b0-afb8-2722b4d5a0a5",
+            "brand": "Carpenter, Ray and Stokes",
+            "tasks_completed": [
+                {
+                    "task_id": "37ce054b-a3c0-405b-9b11-ba83e4d798cc",
+                    "platform": "Facebook",
+                    "post_url": "http://www.george.com/",
+                    "likes": 7405,
+                    "comments": 77,
+                    "shares": 23,
+                    "reach": 7349
+                }
+            ],
+            "total_sales_attributed": 570.07
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c8979878-5e0e-4e74-93ee-70ce12ea108d",
+    "name": "Lillie Douglas IV",
+    "email": "Maxine.Metz@gmail.com",
+    "instagram_handle": "@Antoinette.Luettgen22",
+    "tiktok_handle": "@Angie_Leffler",
+    "joined_at": "2024-03-28T15:49:34.541Z",
+    "advocacy_programs": [
+        {
+            "program_id": "703ac73d-db39-47db-b0e4-de32532ef828",
+            "brand": "Rogahn - Borer",
+            "tasks_completed": [
+                {
+                    "task_id": "b65d5047-60c6-461b-87a9-89f578500a4c",
+                    "platform": "Instagram",
+                    "post_url": "https://fuzzy-alliance.biz/",
+                    "likes": 418,
+                    "comments": 35,
+                    "shares": 61,
+                    "reach": 9379
+                }
+            ],
+            "total_sales_attributed": 3362.1975122856347
+        }
+    ]
+}

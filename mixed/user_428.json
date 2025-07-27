@@ -1,0 +1,26 @@
+{
+    "user_id": "6fe6fad3-e777-468f-afb0-0edfa361b156",
+    "name": "Patrick Cook",
+    "email": "reneeanderson@example.com",
+    "instagram_handle": "@lunapeter",
+    "tiktok_handle": "@jenniferhuber",
+    "joined_at": "2024-10-01T22:09:56.392616",
+    "advocacy_programs": [
+        {
+            "program_id": "787dd7b4-2d29-47d4-8ea3-4888ec34535c",
+            "brand": "Hendricks, Cordova and Walls",
+            "tasks_completed": [
+                {
+                    "task_id": "4205fcbd-cf9d-4088-99d8-bc8a416061a9",
+                    "platform": "TikTok",
+                    "post_url": "https://kane.com/",
+                    "likes": 1773,
+                    "comments": 5,
+                    "shares": 19,
+                    "reach": 923
+                }
+            ],
+            "total_sales_attributed": 1111.3363146610895
+        }
+    ]
+}

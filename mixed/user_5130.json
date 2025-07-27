@@ -1,0 +1,26 @@
+{
+    "user_id": "64bde77a-f299-482d-96cb-9f46007bafca",
+    "name": "Michael Leon",
+    "email": "Pearlie66@yahoo.com",
+    "instagram_handle": "@nathanjones",
+    "tiktok_handle": "@brownkaren",
+    "joined_at": "2024-09-08T14:52:28.992275",
+    "advocacy_programs": [
+        {
+            "program_id": "6db026d5-518c-4e3e-8d99-98b7b763912e",
+            "brand": "Keller-Hancock",
+            "tasks_completed": [
+                {
+                    "task_id": "48ae01a1-acda-4796-8601-a82ab67a8bb3",
+                    "platform": "Facebook",
+                    "post_url": "http://santiago-bush.com/",
+                    "likes": 1497,
+                    "comments": 340,
+                    "shares": 87,
+                    "reach": 620
+                }
+            ],
+            "total_sales_attributed": 3276.9
+        }
+    ]
+}

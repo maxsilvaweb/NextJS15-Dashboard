@@ -1,0 +1,26 @@
+{
+    "user_id": "10c7000f-68c6-4a45-9449-a647dbd67c5e",
+    "name": "Alan Love",
+    "email": "ramirezbrian@example.com",
+    "instagram_handle": "@chad47",
+    "tiktok_handle": "@schaeferjoshua",
+    "joined_at": "2025-06-01T08:21:51.276567",
+    "advocacy_programs": [
+        {
+            "program_id": "1784cf44-0f3d-4ad9-bd8a-1e8d0b1aabbb",
+            "brand": "Brown Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "c2649407-e238-4382-b497-15fe68067a76",
+                    "platform": "Facebook",
+                    "post_url": "https://www.wiley-smith.com/",
+                    "likes": 8770,
+                    "comments": 373,
+                    "shares": 86,
+                    "reach": 2668
+                }
+            ],
+            "total_sales_attributed": 5913.38
+        }
+    ]
+}

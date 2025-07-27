@@ -1,0 +1,26 @@
+{
+    "user_id": "a28a10da-9f60-42df-a41f-a9d678b7c3c5",
+    "name": "Carl Johnson",
+    "email": "christophermedina@example.net",
+    "instagram_handle": "@jerryhutchinson",
+    "tiktok_handle": "@obeck",
+    "joined_at": "2023-08-13T01:04:08.364330",
+    "advocacy_programs": [
+        {
+            "program_id": "be0d5928-c58e-4958-82b5-8f481ed7641a",
+            "brand": "Bauch, Rau and Gorczany",
+            "tasks_completed": [
+                {
+                    "task_id": "dbb1a1cb-2a48-4075-afac-9082beb73ed1",
+                    "platform": "Instagram",
+                    "post_url": "http://davenport.com/",
+                    "likes": 8723,
+                    "comments": 212,
+                    "shares": 1,
+                    "reach": 1780
+                }
+            ],
+            "total_sales_attributed": 3051.41
+        }
+    ]
+}

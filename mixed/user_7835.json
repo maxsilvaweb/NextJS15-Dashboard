@@ -1,0 +1,26 @@
+{
+    "user_id": "f1e0481a-5bca-4553-88e2-dcb34aba7f6d",
+    "name": "Orville Hills",
+    "email": "Laurence_Bode20@hotmail.com",
+    "instagram_handle": "@Scarlett80",
+    "tiktok_handle": "@Shaina.Green",
+    "joined_at": "2024-11-01T08:44:26.467Z",
+    "advocacy_programs": [
+        {
+            "program_id": "669209df-7ecf-4ebd-85f9-21867e6a208a",
+            "brand": "Bogan and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "3ee5f7d3-16bd-4984-8d41-4abdc0c464b6",
+                    "platform": "TikTok",
+                    "post_url": "https://sandy-ethyl.biz",
+                    "likes": 66,
+                    "comments": 36,
+                    "shares": 86,
+                    "reach": 5388
+                }
+            ],
+            "total_sales_attributed": 212.78121894471832
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2b2b1966-030f-416c-a9d3-755bf9812bca",
+    "name": "Pete Doyle",
+    "email": "Morris_Ritchie29@gmail.com",
+    "instagram_handle": "@Nelda_Bernhard85",
+    "tiktok_handle": "@Aric.Monahan",
+    "joined_at": "2024-06-06T12:10:59.766Z",
+    "advocacy_programs": [
+        {
+            "program_id": "18451b85-e8e9-4310-bfb8-65a1c4097e2b",
+            "brand": "Kiehn LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "0dd03dc2-e5e4-4b4e-aea9-5c5988988254",
+                    "platform": "TikTok",
+                    "post_url": "https://noxious-sundae.net",
+                    "likes": 423,
+                    "comments": 30,
+                    "shares": 80,
+                    "reach": 8192
+                }
+            ],
+            "total_sales_attributed": 1685.0739292216208
+        }
+    ]
+}

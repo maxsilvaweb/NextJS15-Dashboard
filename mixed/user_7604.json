@@ -1,0 +1,26 @@
+{
+    "user_id": "bce6b875-dfcb-4549-bf05-06b4b03f365b",
+    "name": "Sherri Lubowitz",
+    "email": "Adonis21@gmail.com",
+    "instagram_handle": "@Baylee_Towne44",
+    "tiktok_handle": "@Alyce.Rippin",
+    "joined_at": "2024-07-05T04:59:31.536Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cdb81dab-2f49-4f4a-b593-00077272e806",
+            "brand": "Ullrich - Douglas",
+            "tasks_completed": [
+                {
+                    "task_id": "774cadf9-5bfd-43a8-b811-1739e09f80c4",
+                    "platform": "Instagram",
+                    "post_url": "https://frail-curl.info/",
+                    "likes": 339,
+                    "comments": 13,
+                    "shares": 44,
+                    "reach": 7440
+                }
+            ],
+            "total_sales_attributed": 4923.458240455677
+        }
+    ]
+}

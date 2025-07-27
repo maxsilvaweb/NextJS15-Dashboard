@@ -1,0 +1,26 @@
+{
+    "user_id": "e41229e8-8d2b-498f-8d10-46a344d28a33",
+    "name": "Jennifer Gibson",
+    "email": "Rosemary42@gmail.com",
+    "instagram_handle": "@shieldspaul",
+    "tiktok_handle": "@ianshannon",
+    "joined_at": "2023-11-28T15:11:23.030658",
+    "advocacy_programs": [
+        {
+            "program_id": "24c506e1-e282-46cf-86da-53481513518e",
+            "brand": "Lee PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1fac1c47-6f68-467c-a41e-37021a708633",
+                    "platform": "Twitter",
+                    "post_url": "http://perez.com/",
+                    "likes": 8925,
+                    "comments": 17,
+                    "shares": 94,
+                    "reach": 6868
+                }
+            ],
+            "total_sales_attributed": 1290.18
+        }
+    ]
+}

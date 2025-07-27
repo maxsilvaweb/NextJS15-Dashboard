@@ -1,0 +1,26 @@
+{
+    "user_id": "518d150c-0cfa-4646-af3f-394f1ec36ed0",
+    "name": "David Bosco",
+    "email": "Emerson.Jakubowski-Jones@hotmail.com",
+    "instagram_handle": "@Estel.Carroll",
+    "tiktok_handle": "@Brandy0",
+    "joined_at": "2024-04-12T10:32:36.202Z",
+    "advocacy_programs": [
+        {
+            "program_id": "10155457-d698-401a-8870-3a08242cf004",
+            "brand": "Towne and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "78474afd-2cee-4ce0-8dbd-1e97c58d9798",
+                    "platform": "Instagram",
+                    "post_url": "https://fearless-yarmulke.info",
+                    "likes": 144,
+                    "comments": 11,
+                    "shares": 29,
+                    "reach": 5368
+                }
+            ],
+            "total_sales_attributed": 2650.268623714214
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "5d2baa89-676d-46ed-9219-8eb94673bc19",
+    "name": "Mr. Scott Tucker",
+    "email": "sarah54@example.net",
+    "instagram_handle": "@hannahhobbs",
+    "tiktok_handle": "@Lula54",
+    "joined_at": "2025-06-27T15:39:32.999901",
+    "advocacy_programs": [
+        {
+            "program_id": "04dcb0c5-8657-4d15-a9dd-d24de87436e8",
+            "brand": "Spears-Caldwell",
+            "tasks_completed": [
+                {
+                    "task_id": "71ad4130-ab5a-46cd-a2dc-ff2e6e4ff008",
+                    "platform": "YouTube",
+                    "post_url": "https://schultz-cox.com/",
+                    "likes": 2504,
+                    "comments": 23,
+                    "shares": 45,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 4555.47
+        }
+    ]
+}

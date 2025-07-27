@@ -1,0 +1,26 @@
+{
+    "user_id": "69d44ec9-4b87-49fd-9c4d-8fd585e39213",
+    "name": "Andrew Briggs",
+    "email": "juan80@example.net",
+    "instagram_handle": "@christinesolomon",
+    "tiktok_handle": "@wpierce",
+    "joined_at": "2024-03-29T01:59:48.289505",
+    "advocacy_programs": [
+        {
+            "program_id": "1169bfd0-69a1-466b-9d11-24a4604296c6",
+            "brand": "Brown-Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "8b9d31d0-a7aa-4262-95ae-b0994651b4f2",
+                    "platform": "Instagram",
+                    "post_url": "https://hoffman.org/",
+                    "likes": 8921,
+                    "comments": 45,
+                    "shares": 89,
+                    "reach": 9725
+                }
+            ],
+            "total_sales_attributed": 3856.1405142531403
+        }
+    ]
+}

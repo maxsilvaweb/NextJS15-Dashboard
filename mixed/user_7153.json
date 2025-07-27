@@ -1,0 +1,26 @@
+{
+    "user_id": "1748d2dd-3947-4d43-93ba-e449f1784d2e",
+    "name": "Tiffany Smith",
+    "email": "alvarezelizabeth@example.com",
+    "instagram_handle": "@sarahchoi",
+    "tiktok_handle": "@hughescynthia",
+    "joined_at": "2023-11-08T01:54:05.657007",
+    "advocacy_programs": [
+        {
+            "program_id": "e07bf60d-8182-4427-b688-89f588f8f8ed",
+            "brand": "Brown Group",
+            "tasks_completed": [
+                {
+                    "task_id": "766d9ec1-f9e0-4bf6-b69c-b80593ea521e",
+                    "platform": "Facebook",
+                    "post_url": "https://www.king.com/",
+                    "likes": 5372,
+                    "comments": 17,
+                    "shares": 50,
+                    "reach": 3606
+                }
+            ],
+            "total_sales_attributed": 2645.9621193921
+        }
+    ]
+}

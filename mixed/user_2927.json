@@ -1,0 +1,26 @@
+{
+    "user_id": "b7deed7f-8794-4091-bc5d-a3432029d96e",
+    "name": "Anthony Meyer",
+    "email": "geraldharris@example.net",
+    "instagram_handle": "@owest",
+    "tiktok_handle": "@bentonvictoria",
+    "joined_at": "2023-09-13T15:36:08.964626",
+    "advocacy_programs": [
+        {
+            "program_id": "d19280ba-22a8-45f1-ae51-30184c976e3e",
+            "brand": "Travis-Gibson",
+            "tasks_completed": [
+                {
+                    "task_id": "baf7d1f6-e0fd-4f04-91c8-912e64d3b1e0",
+                    "platform": "TikTok",
+                    "post_url": "https://gentle-feather.biz/",
+                    "likes": 8605,
+                    "comments": 278,
+                    "shares": 67,
+                    "reach": 536
+                }
+            ],
+            "total_sales_attributed": 2746.04
+        }
+    ]
+}

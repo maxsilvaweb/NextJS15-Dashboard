@@ -1,0 +1,26 @@
+{
+    "user_id": "c3d95b3b-2286-4bc5-8eab-d15802773a0d",
+    "name": "Frank Brown",
+    "email": "smithralph@example.org",
+    "instagram_handle": "@aburke",
+    "tiktok_handle": "@jessica82",
+    "joined_at": "2023-12-18T07:50:23.560351",
+    "advocacy_programs": [
+        {
+            "program_id": "6dda5416-9aef-4c42-afd0-d8d759586a42",
+            "brand": "Hudson, Houston and Gregory",
+            "tasks_completed": [
+                {
+                    "task_id": "8eea49b8-ab7e-451f-bd06-c636f214356a",
+                    "platform": "Facebook",
+                    "post_url": "https://watts.net/",
+                    "likes": 2589,
+                    "comments": 375,
+                    "shares": 15,
+                    "reach": 5381
+                }
+            ],
+            "total_sales_attributed": 6898.45
+        }
+    ]
+}

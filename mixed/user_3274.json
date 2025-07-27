@@ -1,0 +1,26 @@
+{
+    "user_id": "b057b057-a394-4212-bb1c-c5f3813cef3b",
+    "name": "Alison Mejia",
+    "email": "edwardgutierrez@example.com",
+    "instagram_handle": "@raymondgiles",
+    "tiktok_handle": "@vjohnson",
+    "joined_at": "2023-12-23T16:53:36.417462",
+    "advocacy_programs": [
+        {
+            "program_id": "786a3cdb-13aa-4054-99a4-1fd53fb87a73",
+            "brand": "Schneider, Lynch and Bishop",
+            "tasks_completed": [
+                {
+                    "task_id": "f77ee044-ec9b-4c14-a9f7-07ba19863041",
+                    "platform": "Twitter",
+                    "post_url": "http://mack.com/",
+                    "likes": 8811,
+                    "comments": 331,
+                    "shares": 16,
+                    "reach": 7327
+                }
+            ],
+            "total_sales_attributed": 146.06
+        }
+    ]
+}

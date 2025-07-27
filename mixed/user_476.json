@@ -1,0 +1,26 @@
+{
+    "user_id": "efa1191e-3b14-4659-a19f-ab88de577164",
+    "name": "Mercedes Bruen",
+    "email": "Mike_Upton@hotmail.com",
+    "instagram_handle": "@Jada90",
+    "tiktok_handle": "@Kiley81",
+    "joined_at": "2024-12-18T18:14:12.620Z",
+    "advocacy_programs": [
+        {
+            "program_id": "505fabe9-7082-4ebd-bfbc-3c570850f05f",
+            "brand": "Dicki Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "0c6afe5b-adb7-4c63-be3b-28034039bb46",
+                    "platform": "Instagram",
+                    "post_url": "https://genuine-sundae.org/",
+                    "likes": 162,
+                    "comments": 49,
+                    "shares": 90,
+                    "reach": 1199
+                }
+            ],
+            "total_sales_attributed": 1646.004948062983
+        }
+    ]
+}

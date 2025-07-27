@@ -1,0 +1,26 @@
+{
+    "user_id": "92b3661c-acf7-47ec-b287-3bf322bc955f",
+    "name": "Nicole Wilson",
+    "email": "shawnharrington@example.com",
+    "instagram_handle": "@heatherramirez",
+    "tiktok_handle": "@tylerharrington",
+    "joined_at": "2024-10-28T17:57:17.077564",
+    "advocacy_programs": [
+        {
+            "program_id": "3b78d837-75bd-4461-9445-cdb4c0bd1629",
+            "brand": "Burns-Murphy",
+            "tasks_completed": [
+                {
+                    "task_id": "95159edf-98a0-41c9-9bcb-db1856bb304e",
+                    "platform": "YouTube",
+                    "post_url": "http://parker-sparks.biz/",
+                    "likes": 2583,
+                    "comments": 296,
+                    "shares": 5,
+                    "reach": 560
+                }
+            ],
+            "total_sales_attributed": 8014.92
+        }
+    ]
+}

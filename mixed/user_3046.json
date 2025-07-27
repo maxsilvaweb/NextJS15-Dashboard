@@ -1,0 +1,26 @@
+{
+    "user_id": "6386faf6-59d7-40f1-8e6d-d76fc029da5b",
+    "name": "Dr. Jan Effertz",
+    "email": "Carolyne.Rosenbaum98@gmail.com",
+    "instagram_handle": "@Verla.Balistreri-Pacocha",
+    "tiktok_handle": "@Fae_Rohan86",
+    "joined_at": "2024-09-25T17:50:05.847Z",
+    "advocacy_programs": [
+        {
+            "program_id": "139ea790-3ddb-4287-9aca-bde3e107d509",
+            "brand": "Mertz LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2be8844d-d08c-407e-8c5f-85903274e247",
+                    "platform": "Instagram",
+                    "post_url": "https://insidious-equal.org/",
+                    "likes": 100,
+                    "comments": 18,
+                    "shares": 20,
+                    "reach": 8382
+                }
+            ],
+            "total_sales_attributed": 3325.0365321348913
+        }
+    ]
+}

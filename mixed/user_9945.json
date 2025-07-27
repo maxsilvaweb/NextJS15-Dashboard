@@ -1,0 +1,26 @@
+{
+    "user_id": "232f1f25-d0e7-46af-b910-cb718e484d3e",
+    "name": "Desiree Trantow",
+    "email": "Abby_Bergstrom@hotmail.com",
+    "instagram_handle": "@Jenifer68",
+    "tiktok_handle": "@Manuel.Kutch4",
+    "joined_at": "2024-07-20T12:03:24.211Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e4c4fea1-e14f-4e3d-bd40-07c8091898c2",
+            "brand": "Runte, Christiansen and Koss",
+            "tasks_completed": [
+                {
+                    "task_id": "17aeea62-854e-4ca1-89b4-201324a6b6f4",
+                    "platform": "TikTok",
+                    "post_url": "https://imaginary-obedience.org/",
+                    "likes": 405,
+                    "comments": 35,
+                    "shares": 83,
+                    "reach": 3508
+                }
+            ],
+            "total_sales_attributed": 3137.4368814968384
+        }
+    ]
+}

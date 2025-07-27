@@ -1,0 +1,26 @@
+{
+    "user_id": "2e0c8b28-c552-4705-872b-c07270bcdd51",
+    "name": "Timothy Knight",
+    "email": "harveyzachary@example.com",
+    "instagram_handle": "@garrettmendez",
+    "tiktok_handle": "@shieldsalvin",
+    "joined_at": "2024-10-16T11:26:10.349407",
+    "advocacy_programs": [
+        {
+            "program_id": "04c292ae-a041-4f0e-b5de-982b20118e2c",
+            "brand": "Salazar-Juarez",
+            "tasks_completed": [
+                {
+                    "task_id": "b4655bb1-38fa-48d6-aeb1-3e7b75d0eac3",
+                    "platform": "Instagram",
+                    "post_url": "https://wagner-carter.net/",
+                    "likes": 23,
+                    "comments": 382,
+                    "shares": 59,
+                    "reach": 3476
+                }
+            ],
+            "total_sales_attributed": 1469.4714698538885
+        }
+    ]
+}

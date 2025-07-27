@@ -1,0 +1,26 @@
+{
+    "user_id": "2e2bd207-3af1-400f-8ecc-400fdadc35d8",
+    "name": "Shirley Goyette",
+    "email": "Dean15@hotmail.com",
+    "instagram_handle": "@Chelsea_Russel",
+    "tiktok_handle": "@Anne_Koepp38",
+    "joined_at": "2024-09-30T10:59:39.040Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3e1149b6-5130-4850-ac5f-f56a409efabf",
+            "brand": "Smith - Reilly",
+            "tasks_completed": [
+                {
+                    "task_id": "5534dbba-a968-4ccc-a978-4b75023e2e74",
+                    "platform": "TikTok",
+                    "post_url": "https://tasty-battle.name",
+                    "likes": 423,
+                    "comments": 25,
+                    "shares": 1,
+                    "reach": 7279
+                }
+            ],
+            "total_sales_attributed": 4543.9515107386
+        }
+    ]
+}

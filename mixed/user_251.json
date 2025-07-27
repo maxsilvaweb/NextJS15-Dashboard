@@ -1,0 +1,26 @@
+{
+    "user_id": "9e3c576f-30a7-4683-b808-b8e501e1b37c",
+    "name": "Donna Frye",
+    "email": "abrock@example.net",
+    "instagram_handle": "@rodriguezgloria",
+    "tiktok_handle": "@pwilson",
+    "joined_at": "2025-05-10T22:44:17.931178",
+    "advocacy_programs": [
+        {
+            "program_id": "eb1cc0ec-5f92-40f1-9144-d61c3e265061",
+            "brand": "Hunt, Bell and Morgan",
+            "tasks_completed": [
+                {
+                    "task_id": "ffefb71a-ccd0-482d-82a0-60202b29e24b",
+                    "platform": "Instagram",
+                    "post_url": "https://www.shah.info/",
+                    "likes": 2686,
+                    "comments": 336,
+                    "shares": 15,
+                    "reach": 5533
+                }
+            ],
+            "total_sales_attributed": 6130.31
+        }
+    ]
+}

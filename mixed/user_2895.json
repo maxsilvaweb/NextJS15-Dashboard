@@ -1,0 +1,26 @@
+{
+    "user_id": "9e728853-a779-4db5-b50b-d8ccf92e7d70",
+    "name": "Harvey Fay",
+    "email": "George.Smitham10@yahoo.com",
+    "instagram_handle": "@Amelia53",
+    "tiktok_handle": "@Margret_Crona",
+    "joined_at": "2024-10-16T06:21:35.918Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0965c005-2220-4738-8bd1-dcc3e5022c1d",
+            "brand": "Wisozk - Rohan",
+            "tasks_completed": [
+                {
+                    "task_id": "6f76d725-164c-4436-8278-5fb45b30dc8f",
+                    "platform": "TikTok",
+                    "post_url": "https://sour-circumference.info",
+                    "likes": 323,
+                    "comments": 23,
+                    "shares": 23,
+                    "reach": 9720
+                }
+            ],
+            "total_sales_attributed": 1485.1619710273023
+        }
+    ]
+}

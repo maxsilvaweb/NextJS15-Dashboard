@@ -1,0 +1,26 @@
+{
+    "user_id": "7fd7d2d0-4ba2-4371-838c-e0de513251fb",
+    "name": "Tracy Vega",
+    "email": "theodore91@example.org",
+    "instagram_handle": "@hberg",
+    "tiktok_handle": "@greenemary",
+    "joined_at": "2023-08-07T07:14:32.289049",
+    "advocacy_programs": [
+        {
+            "program_id": "64e5a4c3-b8d2-48a5-aed1-b230bb4a376d",
+            "brand": "Morrison Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "87a037fd-168c-42e0-9100-5d37517cd859",
+                    "platform": "Instagram",
+                    "post_url": "http://www.martinez.net/",
+                    "likes": 9788,
+                    "comments": 474,
+                    "shares": 10,
+                    "reach": 5184
+                }
+            ],
+            "total_sales_attributed": 1699.49
+        }
+    ]
+}

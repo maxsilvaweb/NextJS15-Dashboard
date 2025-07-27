@@ -1,0 +1,26 @@
+{
+    "user_id": "c75afaae-02a4-4b43-af74-49d7b6582fbb",
+    "name": "Linda Jones",
+    "email": "garzajeffrey@example.net",
+    "instagram_handle": "@adamsmonica",
+    "tiktok_handle": "@allenjeremiah",
+    "joined_at": "2024-06-08T01:35:35.397625",
+    "advocacy_programs": [
+        {
+            "program_id": "7b373458-b98f-4285-8a2e-164af156a012",
+            "brand": "Sanchez, Wallace and Norris",
+            "tasks_completed": [
+                {
+                    "task_id": "cbf24594-be92-4ba3-ab73-3aa9500923bd",
+                    "platform": "YouTube",
+                    "post_url": "https://chan.com/",
+                    "likes": 7378,
+                    "comments": 177,
+                    "shares": 67,
+                    "reach": 4762
+                }
+            ],
+            "total_sales_attributed": 6404.35
+        }
+    ]
+}

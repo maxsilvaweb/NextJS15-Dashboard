@@ -1,0 +1,26 @@
+{
+    "user_id": "c1df5b5f-9a7f-43fa-8471-46593203a72f",
+    "name": "Ruth Serrano",
+    "email": "lharvey@example.org",
+    "instagram_handle": "@Frida78",
+    "tiktok_handle": "@trevor67",
+    "joined_at": "2024-02-04T15:24:47.765985",
+    "advocacy_programs": [
+        {
+            "program_id": "ed14f5cd-715a-4f8a-b9ed-f96bbffb1da7",
+            "brand": "Golden Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "c2c0278e-f370-481f-bb3e-914c22145b86",
+                    "platform": "Facebook",
+                    "post_url": "https://scratchy-stump.biz/",
+                    "likes": 7085,
+                    "comments": 24,
+                    "shares": 27,
+                    "reach": 5214
+                }
+            ],
+            "total_sales_attributed": 1772.6319351648874
+        }
+    ]
+}

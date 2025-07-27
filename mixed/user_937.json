@@ -1,0 +1,26 @@
+{
+    "user_id": "e1a5856a-d23d-40cd-a802-1b140b83bf67",
+    "name": "Jonathan Nunez",
+    "email": "davisjulie@example.org",
+    "instagram_handle": "@hroberson",
+    "tiktok_handle": "@josebaker",
+    "joined_at": "2023-08-25T17:44:07.670160",
+    "advocacy_programs": [
+        {
+            "program_id": "2980e944-0704-47ff-9c53-a867502b3392",
+            "brand": "Lopez-Byrd",
+            "tasks_completed": [
+                {
+                    "task_id": "d5a923e0-4077-4684-b694-30198ccf8881",
+                    "platform": "Instagram",
+                    "post_url": "https://dominguez.biz/",
+                    "likes": 1783,
+                    "comments": 245,
+                    "shares": 75,
+                    "reach": 1856
+                }
+            ],
+            "total_sales_attributed": 5721.95
+        }
+    ]
+}

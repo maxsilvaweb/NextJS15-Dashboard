@@ -1,0 +1,26 @@
+{
+    "user_id": "892d4144-3fdd-4234-b39a-93282829d875",
+    "name": "Eric Cole",
+    "email": "isanchez@example.com",
+    "instagram_handle": "@stephanie02",
+    "tiktok_handle": "@sparksjames",
+    "joined_at": "2023-07-29T18:24:00.156037",
+    "advocacy_programs": [
+        {
+            "program_id": "fac40ded-228a-47b7-869c-1942828e6d7b",
+            "brand": "Ortiz-Wilson",
+            "tasks_completed": [
+                {
+                    "task_id": "53e98b24-c6b9-49e8-89f9-191c8d11e3bc",
+                    "platform": "TikTok",
+                    "post_url": "https://strong-tennis.org",
+                    "likes": 9488,
+                    "comments": 93,
+                    "shares": 69,
+                    "reach": 2560
+                }
+            ],
+            "total_sales_attributed": 5545.65
+        }
+    ]
+}

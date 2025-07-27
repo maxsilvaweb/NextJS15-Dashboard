@@ -1,0 +1,26 @@
+{
+    "user_id": "0a3a12e3-536d-45bf-8d8a-5f65a91c6f46",
+    "name": "Harriet Klein",
+    "email": "staceypineda@example.com",
+    "instagram_handle": "@patriciabrock",
+    "tiktok_handle": "@brandon04",
+    "joined_at": "2024-05-06T10:23:46.556132",
+    "advocacy_programs": [
+        {
+            "program_id": "9bee7cf2-7d3f-468b-bed8-adf18ae2aab3",
+            "brand": "Simpson-Perez",
+            "tasks_completed": [
+                {
+                    "task_id": "f21fffec-be67-4e6c-9146-11d41ddaa509",
+                    "platform": "TikTok",
+                    "post_url": "https://www.hughes.com/",
+                    "likes": 9585,
+                    "comments": 338,
+                    "shares": 76,
+                    "reach": 4419
+                }
+            ],
+            "total_sales_attributed": 119.95
+        }
+    ]
+}

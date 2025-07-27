@@ -1,0 +1,26 @@
+{
+    "user_id": "64aa2915-4f2a-4b93-b0b4-867d198931c6",
+    "name": "Bernard Donnelly",
+    "email": "Waylon_Schulist47@gmail.com",
+    "instagram_handle": "@Landen.Renner",
+    "tiktok_handle": "@Jamie94",
+    "joined_at": "2024-11-21T15:49:19.618Z",
+    "advocacy_programs": [
+        {
+            "program_id": "318feb3a-7706-4786-92ae-42577f1d126d",
+            "brand": "Emmerich, Sipes and Bartell",
+            "tasks_completed": [
+                {
+                    "task_id": "de3dde7d-c435-4885-9ed8-d5dba8d6d461",
+                    "platform": "Instagram",
+                    "post_url": "https://noxious-skyscraper.com",
+                    "likes": 383,
+                    "comments": 8,
+                    "shares": 29,
+                    "reach": 755
+                }
+            ],
+            "total_sales_attributed": 4846.363870047269
+        }
+    ]
+}

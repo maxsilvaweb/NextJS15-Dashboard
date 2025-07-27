@@ -1,0 +1,26 @@
+{
+    "user_id": "c9c010ca-760c-47ba-8f35-ba126d96ccc5",
+    "name": "Beth Lara",
+    "email": "ohawkins@example.net",
+    "instagram_handle": "@matthewgomez",
+    "tiktok_handle": "@suttonlinda",
+    "joined_at": "2024-12-02T11:50:31.907119",
+    "advocacy_programs": [
+        {
+            "program_id": "eeff62e2-76ac-4008-80d9-ea40cdb2bdb1",
+            "brand": "Perez-Hill",
+            "tasks_completed": [
+                {
+                    "task_id": "4b9d7beb-6211-4d8b-a490-aaec2f7b29fb",
+                    "platform": "TikTok",
+                    "post_url": "https://sour-climb.biz",
+                    "likes": 4349,
+                    "comments": 411,
+                    "shares": 46,
+                    "reach": 9653
+                }
+            ],
+            "total_sales_attributed": 4513.57
+        }
+    ]
+}

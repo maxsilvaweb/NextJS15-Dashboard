@@ -1,0 +1,26 @@
+{
+    "user_id": "a55bf26f-6827-4329-ae67-f6071c466f40",
+    "name": "Mary Scott",
+    "email": "Maeve2@gmail.com",
+    "instagram_handle": "@lance15",
+    "tiktok_handle": "@ewashington",
+    "joined_at": "2024-07-23T01:58:41.384641",
+    "advocacy_programs": [
+        {
+            "program_id": "50e770f5-d4a5-4153-9e8b-7722bddac498",
+            "brand": "Corwin - Grimes",
+            "tasks_completed": [
+                {
+                    "task_id": "1e0265d5-5776-4638-a59f-c0b97a2974e1",
+                    "platform": "Twitter",
+                    "post_url": "https://unique-pine.name/",
+                    "likes": 6789,
+                    "comments": 24,
+                    "shares": 60,
+                    "reach": 3678
+                }
+            ],
+            "total_sales_attributed": 3634.5472501036566
+        }
+    ]
+}

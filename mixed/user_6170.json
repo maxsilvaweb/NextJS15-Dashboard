@@ -1,0 +1,26 @@
+{
+    "user_id": "b647f62f-1f0f-4038-a411-93d08e534ea7",
+    "name": "Evan Ryan",
+    "email": "uschwartz@example.net",
+    "instagram_handle": "@susanmiller",
+    "tiktok_handle": "@brownalyssa",
+    "joined_at": "2025-02-04T18:37:53.194248",
+    "advocacy_programs": [
+        {
+            "program_id": "9013b421-1a3f-4ef9-98c8-1b5c1ece9060",
+            "brand": "Jarvis, Stark and Hernandez",
+            "tasks_completed": [
+                {
+                    "task_id": "1ec37142-c88c-4bbc-9b0b-2fc6721498a5",
+                    "platform": "TikTok",
+                    "post_url": "http://www.adkins.com/",
+                    "likes": 206,
+                    "comments": 453,
+                    "shares": 21,
+                    "reach": 5230
+                }
+            ],
+            "total_sales_attributed": 9971.08
+        }
+    ]
+}

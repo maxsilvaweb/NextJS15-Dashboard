@@ -1,0 +1,26 @@
+{
+    "user_id": "548862c7-1df8-4656-ab1d-59910b545cd2",
+    "name": "Jody Klocko",
+    "email": "Eugene.Bins@yahoo.com",
+    "instagram_handle": "@Jared.Graham64",
+    "tiktok_handle": "@Grady.Rath65",
+    "joined_at": "2025-01-27T23:41:35.940Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1a9f7e84-90a9-4306-a3c6-1fcb66930ca1",
+            "brand": "Satterfield - Funk",
+            "tasks_completed": [
+                {
+                    "task_id": "b255cfa9-365d-4340-af00-e2e091a641af",
+                    "platform": "Instagram",
+                    "post_url": "https://known-jump.net",
+                    "likes": 142,
+                    "comments": 9,
+                    "shares": 83,
+                    "reach": 8288
+                }
+            ],
+            "total_sales_attributed": 2504.8081075411665
+        }
+    ]
+}

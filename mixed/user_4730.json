@@ -1,0 +1,26 @@
+{
+    "user_id": "46002655-6d25-4519-9bbe-2b05db364f29",
+    "name": "Lisa Shepard",
+    "email": "cristinalang@example.net",
+    "instagram_handle": "@johnsonamy",
+    "tiktok_handle": "@cooperjessica",
+    "joined_at": "2024-10-19T01:28:54.695205",
+    "advocacy_programs": [
+        {
+            "program_id": "271747a5-4c61-4c62-b8b0-e5c8416d6046",
+            "brand": "Hill, Walker and Robles",
+            "tasks_completed": [
+                {
+                    "task_id": "95403e1f-53fa-4072-8a6f-2ba923dddc17",
+                    "platform": "Facebook",
+                    "post_url": "https://baker.info/",
+                    "likes": 4706,
+                    "comments": 7,
+                    "shares": 43,
+                    "reach": 6563
+                }
+            ],
+            "total_sales_attributed": 2902.6331237433965
+        }
+    ]
+}

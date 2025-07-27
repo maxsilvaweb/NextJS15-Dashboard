@@ -1,0 +1,26 @@
+{
+    "user_id": "f9799ed9-87df-49da-9725-c8fa8a8aa753",
+    "name": "Marianne Reilly Jr.",
+    "email": "Trevor59@gmail.com",
+    "instagram_handle": "@Emmanuelle22",
+    "tiktok_handle": "@Nicole.Steuber66",
+    "joined_at": "2024-09-24T01:22:36.435Z",
+    "advocacy_programs": [
+        {
+            "program_id": "79e96513-e44a-4b9d-b6d3-50654d4bf107",
+            "brand": "Blanda and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a39345ff-d3a0-4b67-b1c7-599a9db1fac9",
+                    "platform": "Instagram",
+                    "post_url": "https://gullible-developing.net",
+                    "likes": 480,
+                    "comments": 8,
+                    "shares": 89,
+                    "reach": 7523
+                }
+            ],
+            "total_sales_attributed": 1504.5025457325182
+        }
+    ]
+}

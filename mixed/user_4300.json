@@ -1,0 +1,26 @@
+{
+    "user_id": "9d8218f4-3aa4-43eb-99f6-3aa3f51ce016",
+    "name": "Jennifer Higgins",
+    "email": "adrian82@example.org",
+    "instagram_handle": "@michelearellano",
+    "tiktok_handle": "@Haven_Brown",
+    "joined_at": "2025-05-25T19:56:39.089393",
+    "advocacy_programs": [
+        {
+            "program_id": "35127ef6-f32c-41f6-8066-3b2a141c52b4",
+            "brand": "Heidenreich - Price",
+            "tasks_completed": [
+                {
+                    "task_id": "e115c810-9b6e-42fd-924b-3541bdcd486e",
+                    "platform": "Facebook",
+                    "post_url": "http://www.ritter-michael.org/",
+                    "likes": 40,
+                    "comments": 371,
+                    "shares": 80,
+                    "reach": 4212
+                }
+            ],
+            "total_sales_attributed": 1882.33
+        }
+    ]
+}

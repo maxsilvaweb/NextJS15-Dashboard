@@ -1,0 +1,26 @@
+{
+    "user_id": "9e0a883c-a6c9-469f-a9ef-f1805b3b07d2",
+    "name": "Ashley Larson",
+    "email": "tadams@example.net",
+    "instagram_handle": "@tsteele",
+    "tiktok_handle": "@lbush",
+    "joined_at": "2024-04-12T15:51:39.961Z",
+    "advocacy_programs": [
+        {
+            "program_id": "15380d00-ea52-4215-9085-5df400e93098",
+            "brand": "Rodriguez, Cox and Raymond",
+            "tasks_completed": [
+                {
+                    "task_id": "9a0616e4-97a2-44f7-acbb-c00fa113d6e3",
+                    "platform": "Instagram",
+                    "post_url": "https://clueless-integer.name",
+                    "likes": 4073,
+                    "comments": 53,
+                    "shares": 65,
+                    "reach": 6387
+                }
+            ],
+            "total_sales_attributed": 3428.378682912017
+        }
+    ]
+}

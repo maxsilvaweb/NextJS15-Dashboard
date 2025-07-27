@@ -1,0 +1,26 @@
+{
+    "user_id": "1490c674-88b7-4471-baa0-2878120ceb6d",
+    "name": "Ryan Williams",
+    "email": "lindseyirwin@example.org",
+    "instagram_handle": "@jimenezanthony",
+    "tiktok_handle": "@dana47",
+    "joined_at": "2023-09-22T03:18:12.573519",
+    "advocacy_programs": [
+        {
+            "program_id": "dcde25ab-322c-4d19-a226-0cc242abbe20",
+            "brand": "Harvey-Holmes",
+            "tasks_completed": [
+                {
+                    "task_id": "4cd89b0d-ea06-4527-b198-1ad1ceb5a27e",
+                    "platform": "Instagram",
+                    "post_url": "http://www.orr.com/",
+                    "likes": 1648,
+                    "comments": 38,
+                    "shares": 33,
+                    "reach": 3661
+                }
+            ],
+            "total_sales_attributed": 3719.69
+        }
+    ]
+}

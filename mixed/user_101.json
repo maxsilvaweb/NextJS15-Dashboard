@@ -1,0 +1,26 @@
+{
+    "user_id": "8d73628b-5b5b-4951-97a0-ba5ddc38642f",
+    "name": "Tabitha Navarro",
+    "email": "kmann@example.org",
+    "instagram_handle": "@carrie88",
+    "tiktok_handle": "@mandy30",
+    "joined_at": "2024-03-21T21:31:17.610600",
+    "advocacy_programs": [
+        {
+            "program_id": "522c74ec-713c-42ea-a7d7-ddc33092385f",
+            "brand": "Sawyer Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "72b237cb-85d5-43ea-83cc-aea9d7c3ac94",
+                    "platform": "Instagram",
+                    "post_url": "http://long.com/",
+                    "likes": 402,
+                    "comments": 32,
+                    "shares": 0,
+                    "reach": 9889
+                }
+            ],
+            "total_sales_attributed": 6940.33
+        }
+    ]
+}

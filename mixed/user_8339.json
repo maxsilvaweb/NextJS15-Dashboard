@@ -1,0 +1,26 @@
+{
+    "user_id": "b9fda6eb-ac96-4c6a-9eca-5080c3b875ff",
+    "name": "Nichole Graham MD",
+    "email": "Eryn45@yahoo.com",
+    "instagram_handle": "@Leif_Bartell",
+    "tiktok_handle": "@Larue_Batz84",
+    "joined_at": "2025-01-08T08:26:51.399Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2feab055-0d58-4062-9b5a-33cd555fad06",
+            "brand": "Lindgren - Hartmann",
+            "tasks_completed": [
+                {
+                    "task_id": "9380e180-ea8b-479e-8a9a-8ef1b4d7fb6d",
+                    "platform": "TikTok",
+                    "post_url": "https://tinted-hovercraft.info",
+                    "likes": 40,
+                    "comments": 42,
+                    "shares": 50,
+                    "reach": 2257
+                }
+            ],
+            "total_sales_attributed": 2357.6823444313145
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "de790047-c301-4689-bef4-b1eed754f4dc",
+    "name": "Glenn Hartmann",
+    "email": "Bernadine44@hotmail.com",
+    "instagram_handle": "@Arlo_Kassulke41",
+    "tiktok_handle": "@Lenora_Wilderman",
+    "joined_at": "2024-06-03T05:35:28.816Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d32620f1-09e1-4059-a050-be10c2e1c5ad",
+            "brand": "Jaskolski, Hamill and Bergstrom",
+            "tasks_completed": [
+                {
+                    "task_id": "c6f54c1b-9f28-4ec9-8d32-8cdda330f20c",
+                    "platform": "Instagram",
+                    "post_url": "https://sandy-loyalty.net/",
+                    "likes": 465,
+                    "comments": 16,
+                    "shares": 22,
+                    "reach": 4680
+                }
+            ],
+            "total_sales_attributed": 2360.524886861657
+        }
+    ]
+}

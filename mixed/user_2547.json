@@ -1,0 +1,26 @@
+{
+    "user_id": "8bea4c84-18ec-4731-99f9-9f7e2b7691b1",
+    "name": "Laura Suarez",
+    "email": "kwallace@example.net",
+    "instagram_handle": "@mckeesteven",
+    "tiktok_handle": "@powerserica",
+    "joined_at": "2024-12-10T06:35:03.965647",
+    "advocacy_programs": [
+        {
+            "program_id": "fa048132-5855-4ec0-aec4-d9f13c6576f1",
+            "brand": "Williamson - Deckow",
+            "tasks_completed": [
+                {
+                    "task_id": "3a91cf4e-6b1d-4bcf-886c-27bc39cc6e09",
+                    "platform": "TikTok",
+                    "post_url": "http://johnson.net/",
+                    "likes": 1742,
+                    "comments": 21,
+                    "shares": 87,
+                    "reach": 8131
+                }
+            ],
+            "total_sales_attributed": 8358.17
+        }
+    ]
+}

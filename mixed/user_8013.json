@@ -1,0 +1,26 @@
+{
+    "user_id": "7ffb5b95-436b-4deb-8744-0b18b072235a",
+    "name": "Stephanie Ruiz",
+    "email": "nwilliams@example.com",
+    "instagram_handle": "@myersnicole",
+    "tiktok_handle": "@mendezstacy",
+    "joined_at": "2024-09-06T01:33:14.017092",
+    "advocacy_programs": [
+        {
+            "program_id": "bf1803a2-73a0-4892-860d-8b23d4cc1344",
+            "brand": "Gregory, Taylor and Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "e2c773b4-862e-47fa-b087-84cb5a3f71b6",
+                    "platform": "TikTok",
+                    "post_url": "https://miller-smith.org/",
+                    "likes": 728,
+                    "comments": 45,
+                    "shares": 39,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 1745.93
+        }
+    ]
+}

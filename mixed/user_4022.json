@@ -1,0 +1,26 @@
+{
+    "user_id": "dc00ef35-45b3-4106-ab73-f5dde35db567",
+    "name": "Trevor Moore",
+    "email": "robertpark@example.org",
+    "instagram_handle": "@twhite",
+    "tiktok_handle": "@zjohnson",
+    "joined_at": "2025-01-27T06:35:46.337540",
+    "advocacy_programs": [
+        {
+            "program_id": "8d59d90e-c776-4b3a-a823-c9f670fbee1e",
+            "brand": "Washington, Martin and Powell",
+            "tasks_completed": [
+                {
+                    "task_id": "e18882ff-5198-4171-96c4-044faea59a34",
+                    "platform": "YouTube",
+                    "post_url": "http://www.holland.com/",
+                    "likes": 711,
+                    "comments": 497,
+                    "shares": 0,
+                    "reach": 7258
+                }
+            ],
+            "total_sales_attributed": 1607.49
+        }
+    ]
+}

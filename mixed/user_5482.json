@@ -1,0 +1,26 @@
+{
+    "user_id": "416f3191-14bf-4055-a3c1-74584bbf53fd",
+    "name": "Tracy Estrada",
+    "email": "Maurine.Lind62@hotmail.com",
+    "instagram_handle": "@catherine68",
+    "tiktok_handle": "@reevesgregory",
+    "joined_at": "2024-01-04T22:54:58.074135",
+    "advocacy_programs": [
+        {
+            "program_id": "ce8de06d-6c76-423d-ae74-038a75211cdd",
+            "brand": "Nguyen PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5911f699-3779-43cb-b556-38832f0c2f22",
+                    "platform": "YouTube",
+                    "post_url": "http://www.watson.com/",
+                    "likes": 59,
+                    "comments": 34,
+                    "shares": 9,
+                    "reach": 6531
+                }
+            ],
+            "total_sales_attributed": 3235.61
+        }
+    ]
+}

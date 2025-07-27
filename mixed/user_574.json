@@ -1,0 +1,26 @@
+{
+    "user_id": "cba35ff6-1694-4ad5-9653-b387aa76bb22",
+    "name": "Gail Reilly",
+    "email": "Libbie43@yahoo.com",
+    "instagram_handle": "@Zack29",
+    "tiktok_handle": "@Jeromy.Cormier",
+    "joined_at": "2024-11-04T21:09:43.389Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fad60867-efed-4dd7-b0c3-21010fb436f0",
+            "brand": "Davis, Rowe and Wilderman",
+            "tasks_completed": [
+                {
+                    "task_id": "52550706-b8ff-45da-a89d-f6d780e65120",
+                    "platform": "Instagram",
+                    "post_url": "https://happy-go-lucky-labourer.name",
+                    "likes": 30,
+                    "comments": 18,
+                    "shares": 49,
+                    "reach": 7220
+                }
+            ],
+            "total_sales_attributed": 1897.842486664258
+        }
+    ]
+}

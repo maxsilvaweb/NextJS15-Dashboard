@@ -1,0 +1,26 @@
+{
+    "user_id": "1660f883-4f28-45f8-b491-12221a14f11f",
+    "name": "Megan Davis",
+    "email": "Harvey_Feest@yahoo.com",
+    "instagram_handle": "@gregoryhernandez",
+    "tiktok_handle": "@turnerdavid",
+    "joined_at": "2024-12-12T12:17:04.936488",
+    "advocacy_programs": [
+        {
+            "program_id": "b7700443-45bd-4d78-b737-08f0d484195b",
+            "brand": "Christensen-Carpenter",
+            "tasks_completed": [
+                {
+                    "task_id": "695c6c08-2248-4a4e-8495-9e360b617c1f",
+                    "platform": "YouTube",
+                    "post_url": "https://andrews.biz/",
+                    "likes": 1330,
+                    "comments": 31,
+                    "shares": 29,
+                    "reach": 3166
+                }
+            ],
+            "total_sales_attributed": 6209.35
+        }
+    ]
+}

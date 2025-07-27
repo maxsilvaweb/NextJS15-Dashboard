@@ -1,0 +1,26 @@
+{
+    "user_id": "6fe30475-8b00-43d0-b802-d1f583c755a3",
+    "name": "Gwen Gibson",
+    "email": "Janick.Tillman14@hotmail.com",
+    "instagram_handle": "@Alexis.Parisian",
+    "tiktok_handle": "@Dillan78",
+    "joined_at": "2025-02-04T08:19:18.925Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b44ebff6-5c4e-4e28-9c7b-d7a6dd9bcb66",
+            "brand": "Miller Group",
+            "tasks_completed": [
+                {
+                    "task_id": "adc5c29c-fb01-4f97-9be5-afa20eb51514",
+                    "platform": "TikTok",
+                    "post_url": "https://distinct-parsnip.net",
+                    "likes": 175,
+                    "comments": 32,
+                    "shares": 52,
+                    "reach": 6820
+                }
+            ],
+            "total_sales_attributed": 4255.224122659628
+        }
+    ]
+}

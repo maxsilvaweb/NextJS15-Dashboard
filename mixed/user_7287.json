@@ -1,0 +1,26 @@
+{
+    "user_id": "7890c21a-9aa6-4872-a2fd-6fd0332c9836",
+    "name": "Charles Volkman",
+    "email": "Keven_Nitzsche@hotmail.com",
+    "instagram_handle": "@Lilliana_Runolfsdottir",
+    "tiktok_handle": "@Libby.Shanahan84",
+    "joined_at": "2024-03-30T08:42:04.206Z",
+    "advocacy_programs": [
+        {
+            "program_id": "83f06ecb-8e63-4c6d-9058-ad97299fcb6b",
+            "brand": "Langworth Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "729cacda-00a9-49ac-bfe7-7319984151ac",
+                    "platform": "TikTok",
+                    "post_url": "https://wise-lounge.net/",
+                    "likes": 97,
+                    "comments": 50,
+                    "shares": 10,
+                    "reach": 5593
+                }
+            ],
+            "total_sales_attributed": 4642.872687630005
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0e4cca0a-ab7e-4182-bb11-e532d7599315",
+    "name": "Dwayne Kuvalis",
+    "email": "Melyssa.Russel20@yahoo.com",
+    "instagram_handle": "@Bernhard84",
+    "tiktok_handle": "@Caesar.Dach",
+    "joined_at": "2025-01-25T02:10:52.410Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ec1fe5b3-01c6-4c15-8857-477719926185",
+            "brand": "Strosin Group",
+            "tasks_completed": [
+                {
+                    "task_id": "2aff908f-a108-47ed-bc20-f3661db42cc1",
+                    "platform": "Instagram",
+                    "post_url": "https://lonely-adaptation.com",
+                    "likes": 261,
+                    "comments": 36,
+                    "shares": 62,
+                    "reach": 3710
+                }
+            ],
+            "total_sales_attributed": 3157.075934212142
+        }
+    ]
+}

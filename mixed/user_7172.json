@@ -1,0 +1,26 @@
+{
+    "user_id": "f38f7254-27a2-496e-b23e-baadf6c75e67",
+    "name": "William Gonzales MD",
+    "email": "michelle98@example.org",
+    "instagram_handle": "@michelle43",
+    "tiktok_handle": "@yherrera",
+    "joined_at": "2025-03-13T10:37:20.024936",
+    "advocacy_programs": [
+        {
+            "program_id": "80834d78-9ec0-4b8e-a6d9-1274780cc5f4",
+            "brand": "Tran Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ef451b7b-cb14-4b62-b096-39026feed483",
+                    "platform": "YouTube",
+                    "post_url": "https://www.higgins.net/",
+                    "likes": 6457,
+                    "comments": 14,
+                    "shares": 94,
+                    "reach": 9504
+                }
+            ],
+            "total_sales_attributed": 2624.26
+        }
+    ]
+}

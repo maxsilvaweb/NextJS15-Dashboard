@@ -1,0 +1,26 @@
+{
+    "user_id": "1eb5aebd-9d7a-44ea-9388-fe6c83388365",
+    "name": "Alfred Ryan",
+    "email": "Leonie90@gmail.com",
+    "instagram_handle": "@Mya.Sawayn83",
+    "tiktok_handle": "@Alberta.Wyman",
+    "joined_at": "2025-02-17T13:40:41.759Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6d11be68-f3ee-45d2-bbff-343efaf9ea5d",
+            "brand": "Bode Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ec4e69a4-cbaa-44a6-9bfb-6ce7fabb2fcd",
+                    "platform": "TikTok",
+                    "post_url": "https://immaculate-eyebrow.biz",
+                    "likes": 272,
+                    "comments": 38,
+                    "shares": 25,
+                    "reach": 5852
+                }
+            ],
+            "total_sales_attributed": 1998.5657638096916
+        }
+    ]
+}

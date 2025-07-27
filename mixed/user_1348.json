@@ -1,0 +1,26 @@
+{
+    "user_id": "c9ae4050-5bd3-406d-93f9-ddcc7f720756",
+    "name": "Laurie Williams",
+    "email": "marissalopez@example.org",
+    "instagram_handle": "@reillyyolanda",
+    "tiktok_handle": "@imartinez",
+    "joined_at": "2024-01-06T00:52:00.523218",
+    "advocacy_programs": [
+        {
+            "program_id": "ccbbc3eb-8be1-4026-9110-8e518b452cae",
+            "brand": "King, Atkinson and Russell",
+            "tasks_completed": [
+                {
+                    "task_id": "d004d6cd-1128-41f0-9099-a3467c16b9ea",
+                    "platform": "Instagram",
+                    "post_url": "https://www.powell.com/",
+                    "likes": 1440,
+                    "comments": 322,
+                    "shares": 68,
+                    "reach": 1521
+                }
+            ],
+            "total_sales_attributed": 4992.44
+        }
+    ]
+}

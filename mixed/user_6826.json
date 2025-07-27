@@ -1,0 +1,26 @@
+{
+    "user_id": "e0ad79ec-386d-4e69-a8d7-53d547fab340",
+    "name": "Angela Moreno",
+    "email": "lmurray@example.net",
+    "instagram_handle": "@gailcoleman",
+    "tiktok_handle": "@Cruz.Gibson82",
+    "joined_at": "2024-11-10T04:18:15.369067",
+    "advocacy_programs": [
+        {
+            "program_id": "8f2af812-67e0-4869-8ae6-707cbc1dc0f8",
+            "brand": "Torres, Delacruz and Marshall",
+            "tasks_completed": [
+                {
+                    "task_id": "68594316-818d-4013-ae98-0d262a6b1501",
+                    "platform": "TikTok",
+                    "post_url": "https://www.perkins-fischer.net/",
+                    "likes": 5532,
+                    "comments": 430,
+                    "shares": 85,
+                    "reach": 3236
+                }
+            ],
+            "total_sales_attributed": 3461.1598369296084
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3c3a6a3e-d580-4161-ae26-21c844a2caf5",
+    "name": "Isaac Metz",
+    "email": "Shanie.Cartwright@gmail.com",
+    "instagram_handle": "@Gilda_Cole34",
+    "tiktok_handle": "@Cecil.Hermann",
+    "joined_at": "2024-08-18T18:14:32.833Z",
+    "advocacy_programs": [
+        {
+            "program_id": "68fc2337-22dc-4a21-8a27-49c4bf9760a5",
+            "brand": "Schoen Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "db089a3b-f5db-4574-aa58-57251850e0f0",
+                    "platform": "Instagram",
+                    "post_url": "https://confused-nephew.com/",
+                    "likes": 329,
+                    "comments": 45,
+                    "shares": 0,
+                    "reach": 1331
+                }
+            ],
+            "total_sales_attributed": 4423.6664041749045
+        }
+    ]
+}

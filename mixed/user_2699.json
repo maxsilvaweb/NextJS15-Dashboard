@@ -1,0 +1,26 @@
+{
+    "user_id": "c8d5250b-950c-49e6-8106-954c67995d0e",
+    "name": "Courtney Mccarty",
+    "email": "anelson@example.org",
+    "instagram_handle": "@cking",
+    "tiktok_handle": "@brian70",
+    "joined_at": "2025-01-24T10:10:26.413296",
+    "advocacy_programs": [
+        {
+            "program_id": "7546e12a-c8af-4282-b715-e41ffc09b26b",
+            "brand": "Palmer, Jones and Salazar",
+            "tasks_completed": [
+                {
+                    "task_id": "cc83d777-9321-4633-a40d-5c79cdbd02bd",
+                    "platform": "Instagram",
+                    "post_url": "http://green.biz/",
+                    "likes": 3611,
+                    "comments": 456,
+                    "shares": 8,
+                    "reach": 8790
+                }
+            ],
+            "total_sales_attributed": 5897.86
+        }
+    ]
+}

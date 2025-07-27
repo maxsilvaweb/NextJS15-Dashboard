@@ -1,0 +1,26 @@
+{
+    "user_id": "13ef41ec-53a9-4edc-95df-f8ab4c905cec",
+    "name": "Donna Nolan",
+    "email": "David91@gmail.com",
+    "instagram_handle": "@Delbert65",
+    "tiktok_handle": "@Ethyl.Schultz",
+    "joined_at": "2024-05-10T17:53:16.770Z",
+    "advocacy_programs": [
+        {
+            "program_id": "adfe076d-0a1b-40af-819d-bc06c708f749",
+            "brand": "Cassin, Lehner and Gislason",
+            "tasks_completed": [
+                {
+                    "task_id": "7d24e5d7-f27a-4886-8a68-552b8ecc56c2",
+                    "platform": "TikTok",
+                    "post_url": "https://dearest-freight.org",
+                    "likes": 287,
+                    "comments": 27,
+                    "shares": 19,
+                    "reach": 1391
+                }
+            ],
+            "total_sales_attributed": 857.5946985454938
+        }
+    ]
+}

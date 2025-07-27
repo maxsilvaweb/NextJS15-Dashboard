@@ -1,0 +1,26 @@
+{
+    "user_id": "321a3fa7-d350-4480-9b92-9aee322f4acd",
+    "name": "Kim Duncan",
+    "email": "edwardshannah@example.net",
+    "instagram_handle": "@ghart",
+    "tiktok_handle": "@collinsjody",
+    "joined_at": "2024-10-14T00:01:50.342798",
+    "advocacy_programs": [
+        {
+            "program_id": "8ef0f216-b7a0-471a-b722-1bc5a706ba7e",
+            "brand": "Armstrong - Roob",
+            "tasks_completed": [
+                {
+                    "task_id": "0f2c98bb-cb05-4c2b-a271-d703be364ce6",
+                    "platform": "Instagram",
+                    "post_url": "http://www.thompson-valentine.com/",
+                    "likes": 9926,
+                    "comments": 1,
+                    "shares": 69,
+                    "reach": 3393
+                }
+            ],
+            "total_sales_attributed": 9734.75
+        }
+    ]
+}

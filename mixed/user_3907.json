@@ -1,0 +1,26 @@
+{
+    "user_id": "9001398a-52f7-4cf5-87be-85df1e2f94cf",
+    "name": "Lauren Jones",
+    "email": "aguirrederek@example.com",
+    "instagram_handle": "@timothy04",
+    "tiktok_handle": "@morganlori",
+    "joined_at": "2023-08-04T23:30:16.844751",
+    "advocacy_programs": [
+        {
+            "program_id": "4bf9da98-8ae0-4d11-afe9-aec52f4fff97",
+            "brand": "Guzman, Green and Hubbard",
+            "tasks_completed": [
+                {
+                    "task_id": "260539a0-029c-4031-b8d9-8820a2da39b6",
+                    "platform": "Instagram",
+                    "post_url": "http://velazquez-gallegos.com/",
+                    "likes": 353,
+                    "comments": 155,
+                    "shares": 30,
+                    "reach": 7580
+                }
+            ],
+            "total_sales_attributed": 589.03254698414
+        }
+    ]
+}

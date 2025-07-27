@@ -1,0 +1,26 @@
+{
+    "user_id": "447d998d-4fe4-4edb-9406-4830980ffd71",
+    "name": "Stephanie Kelly",
+    "email": "jasonstewart@example.net",
+    "instagram_handle": "@sean17",
+    "tiktok_handle": "@megansmith",
+    "joined_at": "2023-10-08T18:36:52.248015",
+    "advocacy_programs": [
+        {
+            "program_id": "cf0c9523-cc0b-4597-ab4f-e4bca1f7b58e",
+            "brand": "Bender PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1efd8464-5f0b-45e9-af7d-ea04ec8f9625",
+                    "platform": "Instagram",
+                    "post_url": "http://www.price.info/",
+                    "likes": 356,
+                    "comments": 118,
+                    "shares": 7,
+                    "reach": 8448
+                }
+            ],
+            "total_sales_attributed": 4222.04
+        }
+    ]
+}

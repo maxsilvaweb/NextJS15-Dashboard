@@ -1,0 +1,26 @@
+{
+    "user_id": "0eeca991-8eff-4f20-8ae8-ed9d83fb2e66",
+    "name": "Ruby Mertz",
+    "email": "Talon96@yahoo.com",
+    "instagram_handle": "@Allan.Kris",
+    "tiktok_handle": "@Rogers.Jast",
+    "joined_at": "2024-03-26T06:42:52.904Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3bfff6c6-fafd-4665-ae32-5d45416e488f",
+            "brand": "Borer and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "97f63b6b-73c8-46cc-9722-830e25e99c45",
+                    "platform": "TikTok",
+                    "post_url": "https://wiggly-importance.name",
+                    "likes": 461,
+                    "comments": 11,
+                    "shares": 95,
+                    "reach": 7033
+                }
+            ],
+            "total_sales_attributed": 790.7914447137098
+        }
+    ]
+}

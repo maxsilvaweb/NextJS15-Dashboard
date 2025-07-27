@@ -1,0 +1,26 @@
+{
+    "user_id": "6536a838-fdea-4b6c-b212-148a012fe7e4",
+    "name": "Shannon Nelson",
+    "email": "katie01@example.net",
+    "instagram_handle": "@brownjustin",
+    "tiktok_handle": "@bgrant",
+    "joined_at": "2024-08-16T18:37:30.631904",
+    "advocacy_programs": [
+        {
+            "program_id": "234b8028-8123-4b27-925d-0c1e27dc4598",
+            "brand": "Hampton-Figueroa",
+            "tasks_completed": [
+                {
+                    "task_id": "6cf0b7a3-c188-4c2d-ac8e-64687c085233",
+                    "platform": "TikTok",
+                    "post_url": "http://wood.info/",
+                    "likes": 1596,
+                    "comments": 341,
+                    "shares": 98,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 3922.38
+        }
+    ]
+}

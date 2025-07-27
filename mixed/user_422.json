@@ -1,0 +1,26 @@
+{
+    "user_id": "ee923957-e954-4e39-aa1d-37487090550c",
+    "name": "Frank Skiles",
+    "email": "Quinton9@gmail.com",
+    "instagram_handle": "@Vesta_Considine",
+    "tiktok_handle": "@Sigrid22",
+    "joined_at": "2024-05-15T01:41:06.379Z",
+    "advocacy_programs": [
+        {
+            "program_id": "00833cc0-7b66-4cd4-a17c-57c118e49223",
+            "brand": "Hansen - Yost",
+            "tasks_completed": [
+                {
+                    "task_id": "03c77e34-1a18-4f98-ac02-a338e3767987",
+                    "platform": "TikTok",
+                    "post_url": "https://rusty-majority.com/",
+                    "likes": 149,
+                    "comments": 21,
+                    "shares": 61,
+                    "reach": 1390
+                }
+            ],
+            "total_sales_attributed": 2521.1437293410804
+        }
+    ]
+}

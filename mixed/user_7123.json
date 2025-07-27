@@ -1,0 +1,26 @@
+{
+    "user_id": "c9e36393-79ef-4f34-b2f4-869b1accda77",
+    "name": "Gabriel Bosco",
+    "email": "Caroline2@gmail.com",
+    "instagram_handle": "@Chauncey.Nolan",
+    "tiktok_handle": "@Floy_Windler",
+    "joined_at": "2024-05-05T20:26:09.485Z",
+    "advocacy_programs": [
+        {
+            "program_id": "48fc6b96-4746-4706-918b-21026a39fa74",
+            "brand": "Muller Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f218ac6e-b529-4fb4-ae56-52fb454d9f40",
+                    "platform": "TikTok",
+                    "post_url": "https://chubby-bookcase.info/",
+                    "likes": 258,
+                    "comments": 31,
+                    "shares": 55,
+                    "reach": 8828
+                }
+            ],
+            "total_sales_attributed": 710.1137367115622
+        }
+    ]
+}

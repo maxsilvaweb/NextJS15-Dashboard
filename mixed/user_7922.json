@@ -1,0 +1,26 @@
+{
+    "user_id": "aae1a33b-63fe-4431-9ce4-4e0248d787dc",
+    "name": "Brianna Gilbert",
+    "email": "regina37@example.net",
+    "instagram_handle": "@ryandonna",
+    "tiktok_handle": "@zherman",
+    "joined_at": "2024-11-17T04:07:27.537356",
+    "advocacy_programs": [
+        {
+            "program_id": "163e04a9-702a-4dd2-af37-d5e64fa8f257",
+            "brand": "Reid and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "50ec8a0e-0597-4b4d-96c2-daa1a843297a",
+                    "platform": "Twitter",
+                    "post_url": "https://husky-brush.org",
+                    "likes": 1244,
+                    "comments": 19,
+                    "shares": 31,
+                    "reach": 5799
+                }
+            ],
+            "total_sales_attributed": 531.12
+        }
+    ]
+}

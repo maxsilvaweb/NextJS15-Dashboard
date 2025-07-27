@@ -1,0 +1,26 @@
+{
+    "user_id": "2f1be0b7-198c-40e1-87f5-237803a337fb",
+    "name": "Haley Coleman",
+    "email": "epowell@example.net",
+    "instagram_handle": "@ymcgee",
+    "tiktok_handle": "@steveharris",
+    "joined_at": "2023-09-19T06:31:18.212140",
+    "advocacy_programs": [
+        {
+            "program_id": "26b3143c-6935-4412-bf7c-a2535d1cb082",
+            "brand": "Keebler - Hills",
+            "tasks_completed": [
+                {
+                    "task_id": "a674344f-8a08-4726-a630-9ea197b6f7e5",
+                    "platform": "Instagram",
+                    "post_url": "http://elliott.com/",
+                    "likes": 243,
+                    "comments": 482,
+                    "shares": 81,
+                    "reach": 2903
+                }
+            ],
+            "total_sales_attributed": 5584.72
+        }
+    ]
+}

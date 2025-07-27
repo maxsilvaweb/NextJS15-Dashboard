@@ -1,0 +1,26 @@
+{
+    "user_id": "8d636db7-ff2e-4dfb-899c-9309584757a8",
+    "name": "John Simpson",
+    "email": "ugallegos@example.org",
+    "instagram_handle": "@richard84",
+    "tiktok_handle": "@williamsbrandon",
+    "joined_at": "2024-11-10T16:36:50.677363",
+    "advocacy_programs": [
+        {
+            "program_id": "67f7d443-9b2d-4358-81f3-ca22735dcf8d",
+            "brand": "Hull, Edwards and Graham",
+            "tasks_completed": [
+                {
+                    "task_id": "c9d274f9-9737-44d0-8ecd-badaf50b32b8",
+                    "platform": "TikTok",
+                    "post_url": "https://white.org/",
+                    "likes": 100,
+                    "comments": 439,
+                    "shares": 40,
+                    "reach": 1963
+                }
+            ],
+            "total_sales_attributed": 3846.908248395241
+        }
+    ]
+}

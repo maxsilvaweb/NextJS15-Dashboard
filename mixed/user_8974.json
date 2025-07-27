@@ -1,0 +1,26 @@
+{
+    "user_id": "de639404-ed97-4129-b6da-6996c136c2de",
+    "name": "Dana May",
+    "email": "Danika_Denesik@gmail.com",
+    "instagram_handle": "@schmidtsandra",
+    "tiktok_handle": "@zlong",
+    "joined_at": "2025-06-13T11:57:37.670354",
+    "advocacy_programs": [
+        {
+            "program_id": "4f89e299-6b8e-4a6c-81ee-d7ab38461a92",
+            "brand": "Dennis-Young",
+            "tasks_completed": [
+                {
+                    "task_id": "875c2e50-a86d-4603-a5da-915c753f2e4e",
+                    "platform": "TikTok",
+                    "post_url": "https://www.anderson-smith.net/",
+                    "likes": 94,
+                    "comments": 20,
+                    "shares": 79,
+                    "reach": 9732
+                }
+            ],
+            "total_sales_attributed": 7795.03
+        }
+    ]
+}

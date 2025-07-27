@@ -1,0 +1,26 @@
+{
+    "user_id": "af2c3058-fd46-4532-b7d3-6a180771176d",
+    "name": "Miss Ana Will",
+    "email": "lhorn@example.org",
+    "instagram_handle": "@kellyjohnson",
+    "tiktok_handle": "@Brent45",
+    "joined_at": "2024-05-15T17:06:21.181Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ab1f295f-0ea4-43b3-82ff-58fc5b624388",
+            "brand": "Smith, Harris and Perry",
+            "tasks_completed": [
+                {
+                    "task_id": "9f8c7f93-2ead-45e0-bc4a-9cd815c826d8",
+                    "platform": "Twitter",
+                    "post_url": "https://www.cole.biz/",
+                    "likes": 6290,
+                    "comments": 8,
+                    "shares": 71,
+                    "reach": 6061
+                }
+            ],
+            "total_sales_attributed": 6023.18
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "889b395f-f1b6-4a06-9719-7173ba23b58e",
+    "name": "Doyle Carroll",
+    "email": "Drew_Denesik@gmail.com",
+    "instagram_handle": "@Elliot.Gleichner",
+    "tiktok_handle": "@Benton.Runte4",
+    "joined_at": "2024-05-25T15:57:25.334Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b1a9c600-848e-4d36-b4ce-0061b2e82b6d",
+            "brand": "Bradtke - Cormier",
+            "tasks_completed": [
+                {
+                    "task_id": "96076278-707c-4c14-9900-7b687d63785e",
+                    "platform": "TikTok",
+                    "post_url": "https://webbed-kiss.name",
+                    "likes": 294,
+                    "comments": 24,
+                    "shares": 45,
+                    "reach": 2982
+                }
+            ],
+            "total_sales_attributed": 1480.9664092916182
+        }
+    ]
+}

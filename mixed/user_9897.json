@@ -1,0 +1,26 @@
+{
+    "user_id": "65537a05-8157-41e4-8513-0d5bd6558ce4",
+    "name": "Thelma Gleason",
+    "email": "Priscilla45@gmail.com",
+    "instagram_handle": "@Silas.OHara1",
+    "tiktok_handle": "@Lucas_Schowalter",
+    "joined_at": "2024-12-28T08:43:48.414Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e0c888e6-ba7b-4236-8ef2-3f772ed92a8c",
+            "brand": "Parisian, Romaguera and Hansen",
+            "tasks_completed": [
+                {
+                    "task_id": "caef1567-84ba-4def-8655-21e6b41f94e6",
+                    "platform": "Instagram",
+                    "post_url": "https://grumpy-newsstand.biz/",
+                    "likes": 114,
+                    "comments": 39,
+                    "shares": 61,
+                    "reach": 2695
+                }
+            ],
+            "total_sales_attributed": 1476.413637525403
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4ca7e01c-5aef-4672-9c6d-993880b61d0e",
+    "name": "Patrick Gray",
+    "email": "deleonsarah@example.com",
+    "instagram_handle": "@carloswilliams",
+    "tiktok_handle": "@thomas76",
+    "joined_at": "2025-06-22T00:10:06.484679",
+    "advocacy_programs": [
+        {
+            "program_id": "a655829f-5d2e-4287-a882-4ceeceb5f5ef",
+            "brand": "Davila and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "f4eae356-7a51-4f86-b955-ef34abc2161f",
+                    "platform": "YouTube",
+                    "post_url": "https://decisive-palate.net/",
+                    "likes": 114,
+                    "comments": 34,
+                    "shares": 26,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2629.8721403474547
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "5007f7a6-c396-454d-aee3-f138624ef110",
+    "name": "Darrell Watsica",
+    "email": "Name67@yahoo.com",
+    "instagram_handle": "@Ocie65",
+    "tiktok_handle": "@Aylin.Batz",
+    "joined_at": "2024-04-09T10:39:56.561Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0868da73-3d37-46f3-a14c-25e135e7e672",
+            "brand": "Stark, Hickle and Hessel",
+            "tasks_completed": [
+                {
+                    "task_id": "fc394a11-08d6-45a5-ae91-1e2d9bcf5a63",
+                    "platform": "TikTok",
+                    "post_url": "https://cloudy-palate.org/",
+                    "likes": 437,
+                    "comments": 14,
+                    "shares": 45,
+                    "reach": 2859
+                }
+            ],
+            "total_sales_attributed": 3226.0396959261107
+        }
+    ]
+}

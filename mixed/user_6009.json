@@ -1,0 +1,26 @@
+{
+    "user_id": "2165d988-b40b-4675-bf08-d373c9c23049",
+    "name": "Colleen Gleason",
+    "email": "Modesta55@yahoo.com",
+    "instagram_handle": "@Esther.Powlowski",
+    "tiktok_handle": "@Hassie_Bergstrom30",
+    "joined_at": "2024-03-31T09:50:25.754Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b3152987-4f2e-4f06-a0ce-8aae1150c05f",
+            "brand": "Jast - Bauch",
+            "tasks_completed": [
+                {
+                    "task_id": "ca131b09-25b2-4e08-8905-7f10c001bc86",
+                    "platform": "TikTok",
+                    "post_url": "https://careless-bend.com",
+                    "likes": 457,
+                    "comments": 23,
+                    "shares": 88,
+                    "reach": 3720
+                }
+            ],
+            "total_sales_attributed": 2028.6105557116462
+        }
+    ]
+}

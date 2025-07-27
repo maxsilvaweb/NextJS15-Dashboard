@@ -1,0 +1,26 @@
+{
+    "user_id": "542c4b22-dce0-40bc-8dee-f8ee116be365",
+    "name": "Otis Strosin",
+    "email": "Jordyn.Brown98@yahoo.com",
+    "instagram_handle": "@Connor.Keebler8",
+    "tiktok_handle": "@Dax_Bradtke93",
+    "joined_at": "2024-11-10T06:28:13.906Z",
+    "advocacy_programs": [
+        {
+            "program_id": "46ac9c7c-4850-4367-983d-b85bed342546",
+            "brand": "Murphy - Kuhic",
+            "tasks_completed": [
+                {
+                    "task_id": "480ded2b-90d0-4d3d-addd-606c27d02a9a",
+                    "platform": "TikTok",
+                    "post_url": "https://tough-operating.name/",
+                    "likes": 27,
+                    "comments": 37,
+                    "shares": 37,
+                    "reach": 3900
+                }
+            ],
+            "total_sales_attributed": 2725.520983613277
+        }
+    ]
+}

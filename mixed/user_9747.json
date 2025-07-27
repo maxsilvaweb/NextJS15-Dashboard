@@ -1,0 +1,26 @@
+{
+    "user_id": "266a434f-f6cb-419c-a739-63c47dbc4a7e",
+    "name": "David Klein",
+    "email": "sheltonpatrick@example.net",
+    "instagram_handle": "@fpayne",
+    "tiktok_handle": "@agonzalez",
+    "joined_at": "2025-06-30T13:27:31.240066",
+    "advocacy_programs": [
+        {
+            "program_id": "9940174d-b829-44d1-befd-c32cfcd4184c",
+            "brand": "Jones, Brown and Taylor",
+            "tasks_completed": [
+                {
+                    "task_id": "c7d13412-c348-4e62-90f8-c5eccc713838",
+                    "platform": "TikTok",
+                    "post_url": "http://www.golden.org/",
+                    "likes": 7083,
+                    "comments": 3,
+                    "shares": 77,
+                    "reach": 6737
+                }
+            ],
+            "total_sales_attributed": 3284.65
+        }
+    ]
+}

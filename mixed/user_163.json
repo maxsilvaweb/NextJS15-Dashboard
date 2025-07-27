@@ -1,0 +1,26 @@
+{
+    "user_id": "230290ec-6903-456b-b1c6-8ac4297f7dbd",
+    "name": "Randy Anderson",
+    "email": "joel51@example.org",
+    "instagram_handle": "@hernandezdaniel",
+    "tiktok_handle": "@james73",
+    "joined_at": "2025-07-24T20:15:54.108272",
+    "advocacy_programs": [
+        {
+            "program_id": "b15541a9-6b5b-49b8-9789-5dce5fd9f718",
+            "brand": "Leon and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "0503e1fd-9fa4-41e5-8cb9-bd32354ba079",
+                    "platform": "Instagram",
+                    "post_url": "http://hardin.info/",
+                    "likes": 8363,
+                    "comments": 11,
+                    "shares": 53,
+                    "reach": 1516
+                }
+            ],
+            "total_sales_attributed": 4814.72
+        }
+    ]
+}

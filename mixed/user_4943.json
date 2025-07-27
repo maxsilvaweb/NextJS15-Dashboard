@@ -1,0 +1,26 @@
+{
+    "user_id": "898cf93c-bd7e-4bd4-a068-900544c21e92",
+    "name": "Bobby Crona",
+    "email": "Laverna.Jakubowski76@gmail.com",
+    "instagram_handle": "@Cleo_Bode",
+    "tiktok_handle": "@Bennie.Schaden45",
+    "joined_at": "2025-03-05T15:41:55.323Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6411d457-cebb-464c-a458-bfbcbba80b78",
+            "brand": "Brakus Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "7af3a1c4-c1e3-4891-8110-f98427825e2c",
+                    "platform": "Instagram",
+                    "post_url": "https://warlike-secret.biz",
+                    "likes": 450,
+                    "comments": 43,
+                    "shares": 25,
+                    "reach": 3813
+                }
+            ],
+            "total_sales_attributed": 700.6075090364828
+        }
+    ]
+}

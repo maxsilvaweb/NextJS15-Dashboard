@@ -1,0 +1,26 @@
+{
+    "user_id": "416fa90f-fa95-4779-b228-5460166b8dba",
+    "name": "Mr. Pete Monahan",
+    "email": "Laney_Wunsch@yahoo.com",
+    "instagram_handle": "@Colby2",
+    "tiktok_handle": "@Noel.Schroeder87",
+    "joined_at": "2024-06-25T10:11:02.850Z",
+    "advocacy_programs": [
+        {
+            "program_id": "67ffef41-4a47-46a0-9b08-bcd5562e8dc3",
+            "brand": "Bernhard Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "fcb96eb9-1dd4-40a6-9e60-77033af77095",
+                    "platform": "TikTok",
+                    "post_url": "https://unfit-bid.biz/",
+                    "likes": 392,
+                    "comments": 40,
+                    "shares": 97,
+                    "reach": 2141
+                }
+            ],
+            "total_sales_attributed": 406.16751677027696
+        }
+    ]
+}

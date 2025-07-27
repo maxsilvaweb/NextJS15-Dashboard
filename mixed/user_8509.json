@@ -1,0 +1,26 @@
+{
+    "user_id": "7bcf3c28-be17-4737-a5b3-3031e0091208",
+    "name": "Terrell Toy",
+    "email": "Nicholas_Olson12@yahoo.com",
+    "instagram_handle": "@Orland.Rau",
+    "tiktok_handle": "@Trey_Auer40",
+    "joined_at": "2024-12-21T01:17:38.576Z",
+    "advocacy_programs": [
+        {
+            "program_id": "19223e89-473f-49b5-9cb0-bd809055165c",
+            "brand": "Ferry - Bergnaum",
+            "tasks_completed": [
+                {
+                    "task_id": "3a004b77-2d15-4567-ab95-23ca0b8b2ca2",
+                    "platform": "Instagram",
+                    "post_url": "https://complete-kiss.com/",
+                    "likes": 287,
+                    "comments": 49,
+                    "shares": 11,
+                    "reach": 5187
+                }
+            ],
+            "total_sales_attributed": 1554.6422386318684
+        }
+    ]
+}

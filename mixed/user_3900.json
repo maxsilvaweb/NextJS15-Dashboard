@@ -1,0 +1,26 @@
+{
+    "user_id": "d061fd62-409e-4350-a178-70a5af3c24ca",
+    "name": "Chester Harris",
+    "email": "Favian_Koepp4@gmail.com",
+    "instagram_handle": "@Nils66",
+    "tiktok_handle": "@Cindy_Veum27",
+    "joined_at": "2024-06-05T22:14:32.764Z",
+    "advocacy_programs": [
+        {
+            "program_id": "52decd45-76b2-429c-8161-cf17a0145a8b",
+            "brand": "Bahringer, Willms and Reynolds",
+            "tasks_completed": [
+                {
+                    "task_id": "0893e072-5ee8-401e-a341-a3b9a2f917f8",
+                    "platform": "TikTok",
+                    "post_url": "https://serene-step-mother.org/",
+                    "likes": 177,
+                    "comments": 50,
+                    "shares": 84,
+                    "reach": 1669
+                }
+            ],
+            "total_sales_attributed": 3053.798615200697
+        }
+    ]
+}

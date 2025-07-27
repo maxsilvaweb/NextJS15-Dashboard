@@ -1,0 +1,26 @@
+{
+    "user_id": "b346ac3c-f7aa-486a-a411-fc6796c25289",
+    "name": "Howard Graham",
+    "email": "Melba47@hotmail.com",
+    "instagram_handle": "@Halle_Haag30",
+    "tiktok_handle": "@Roderick.Ankunding97",
+    "joined_at": "2025-03-14T11:10:25.746Z",
+    "advocacy_programs": [
+        {
+            "program_id": "38b90d69-d7b7-45a4-9951-c885b6e5a6ef",
+            "brand": "Cruickshank, Goodwin and Ebert",
+            "tasks_completed": [
+                {
+                    "task_id": "6711d793-b477-44f3-85a8-fdee3ac337cf",
+                    "platform": "Instagram",
+                    "post_url": "https://numb-guacamole.net",
+                    "likes": 297,
+                    "comments": 37,
+                    "shares": 72,
+                    "reach": 3331
+                }
+            ],
+            "total_sales_attributed": 2723.591176403293
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "74ba1508-0c10-4915-8294-de669124b0b2",
+    "name": "Kathleen Johnson",
+    "email": "adam35@example.com",
+    "instagram_handle": "@pchen",
+    "tiktok_handle": "@ebennett",
+    "joined_at": "2024-12-19T11:28:06.559Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9ed37c4c-e26f-4fb0-b752-b05a39efbb56",
+            "brand": "Barry-Anderson",
+            "tasks_completed": [
+                {
+                    "task_id": "4a9323e0-7856-4038-a332-cd6ddce342fc",
+                    "platform": "Facebook",
+                    "post_url": "https://www.davis-waters.org/",
+                    "likes": 4961,
+                    "comments": 479,
+                    "shares": 91,
+                    "reach": 6364
+                }
+            ],
+            "total_sales_attributed": 7715.52
+        }
+    ]
+}

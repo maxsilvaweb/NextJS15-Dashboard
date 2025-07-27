@@ -1,0 +1,26 @@
+{
+    "user_id": "b7b7dc2c-6ed8-443b-b522-af487c11bb2b",
+    "name": "Wilma Steuber",
+    "email": "Felicia_Pollich@yahoo.com",
+    "instagram_handle": "@Alexa.Mraz95",
+    "tiktok_handle": "@Abelardo68",
+    "joined_at": "2025-01-26T11:45:30.015Z",
+    "advocacy_programs": [
+        {
+            "program_id": "74ad5d3f-9514-45bb-ae95-beb6c7b2b633",
+            "brand": "Padberg Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b0127615-f2f5-4656-a202-fa50eca90828",
+                    "platform": "Instagram",
+                    "post_url": "https://cloudy-brochure.org",
+                    "likes": 250,
+                    "comments": 37,
+                    "shares": 50,
+                    "reach": 1211
+                }
+            ],
+            "total_sales_attributed": 3692.833898705251
+        }
+    ]
+}

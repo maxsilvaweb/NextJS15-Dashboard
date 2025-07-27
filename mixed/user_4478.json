@@ -1,0 +1,26 @@
+{
+    "user_id": "5c3eaf42-67ba-46d8-9fa4-625d48ba916c",
+    "name": "Joseph Lopez",
+    "email": "fishercraig@example.com",
+    "instagram_handle": "@douglas40",
+    "tiktok_handle": "@moorejoseph",
+    "joined_at": "2025-06-26T22:26:38.202393",
+    "advocacy_programs": [
+        {
+            "program_id": "9bfe372d-cb54-48b7-8169-79628f412bb9",
+            "brand": "Wolf LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ed92f32b-b1dd-4362-94d7-205358ab194f",
+                    "platform": "Facebook",
+                    "post_url": "http://www.morales.info/",
+                    "likes": 5552,
+                    "comments": 499,
+                    "shares": 56,
+                    "reach": 4637
+                }
+            ],
+            "total_sales_attributed": 8614.33
+        }
+    ]
+}

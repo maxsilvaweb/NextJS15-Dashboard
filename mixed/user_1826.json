@@ -1,0 +1,26 @@
+{
+    "user_id": "e3ba2120-861d-43fa-b553-bfacb7a71cf1",
+    "name": "Ivan Bergstrom",
+    "email": "Reilly_Reilly@hotmail.com",
+    "instagram_handle": "@Dee_Hermiston70",
+    "tiktok_handle": "@Guillermo.Hessel-Crist",
+    "joined_at": "2024-08-11T07:07:26.809Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6cb20bf7-939a-4f4f-98d2-d31dfc2505c1",
+            "brand": "Hansen Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "2b260fd7-91f1-4e60-9504-c2ead72db32e",
+                    "platform": "TikTok",
+                    "post_url": "https://actual-reconsideration.com/",
+                    "likes": 382,
+                    "comments": 8,
+                    "shares": 60,
+                    "reach": 4941
+                }
+            ],
+            "total_sales_attributed": 2288.988466337158
+        }
+    ]
+}

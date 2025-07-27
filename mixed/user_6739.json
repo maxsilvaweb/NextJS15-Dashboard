@@ -1,0 +1,26 @@
+{
+    "user_id": "143bafe7-4631-4107-88b8-fd022029e6eb",
+    "name": "Michelle Cruz",
+    "email": "zjohnson@example.net",
+    "instagram_handle": "@reginaclarke",
+    "tiktok_handle": "@ortizerin",
+    "joined_at": "2023-12-09T12:22:56.156823",
+    "advocacy_programs": [
+        {
+            "program_id": "76f2705b-65c4-4a71-b72a-5109c7ad2bc6",
+            "brand": "Jones, Hernandez and Phillips",
+            "tasks_completed": [
+                {
+                    "task_id": "9f61e00a-77ff-4b05-915b-088ef5d685b6",
+                    "platform": "Instagram",
+                    "post_url": "https://www.lozano.biz/",
+                    "likes": 183,
+                    "comments": 35,
+                    "shares": 21,
+                    "reach": 9522
+                }
+            ],
+            "total_sales_attributed": 3729.4482323131106
+        }
+    ]
+}

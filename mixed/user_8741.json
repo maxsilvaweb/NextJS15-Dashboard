@@ -1,0 +1,26 @@
+{
+    "user_id": "002a1fd2-4e19-4f43-9a67-43ac10fa039a",
+    "name": "Brittany Haas",
+    "email": "kellypatricia@example.com",
+    "instagram_handle": "@robertlee",
+    "tiktok_handle": "@nwoods",
+    "joined_at": "2024-02-15T01:05:30.208413",
+    "advocacy_programs": [
+        {
+            "program_id": "d48cc04f-9aa5-45ca-b203-4152e3a20d69",
+            "brand": "Jones LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "0609db9c-cb30-4041-b738-075754bd89a7",
+                    "platform": "Instagram",
+                    "post_url": "http://www.figueroa.com/",
+                    "likes": 6341,
+                    "comments": 106,
+                    "shares": 14,
+                    "reach": 4557
+                }
+            ],
+            "total_sales_attributed": 3090.4051482419095
+        }
+    ]
+}

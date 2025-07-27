@@ -1,0 +1,26 @@
+{
+    "user_id": "6c3c7434-2334-44b4-b709-59e707a32e9c",
+    "name": "Justin Reyes",
+    "email": "joshuahill@example.net",
+    "instagram_handle": "@wendyadams",
+    "tiktok_handle": "@erin29",
+    "joined_at": "2024-04-18T09:53:34.601980",
+    "advocacy_programs": [
+        {
+            "program_id": "cf68f454-0b82-4f07-b387-5b27e6d3154b",
+            "brand": "Watkins and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "482caeec-8843-42e8-a2b8-bb10609dcbe1",
+                    "platform": "Facebook",
+                    "post_url": "https://khan.com/",
+                    "likes": 405,
+                    "comments": 492,
+                    "shares": 30,
+                    "reach": 3864
+                }
+            ],
+            "total_sales_attributed": 2672.8253492202753
+        }
+    ]
+}

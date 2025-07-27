@@ -1,0 +1,26 @@
+{
+    "user_id": "adf77f17-2424-4225-a141-41b1c4f15fe0",
+    "name": "Katrina Kirlin",
+    "email": "Don.Kautzer@gmail.com",
+    "instagram_handle": "@Asa_Leuschke12",
+    "tiktok_handle": "@Mozelle29",
+    "joined_at": "2024-09-25T06:26:24.574Z",
+    "advocacy_programs": [
+        {
+            "program_id": "37a39042-190b-4c1e-b426-57a448fc58b4",
+            "brand": "Howell Group",
+            "tasks_completed": [
+                {
+                    "task_id": "52bfaf98-feab-43cc-9db5-a76ee9a81d22",
+                    "platform": "TikTok",
+                    "post_url": "https://lumbering-angle.info/",
+                    "likes": 159,
+                    "comments": 6,
+                    "shares": 18,
+                    "reach": 7673
+                }
+            ],
+            "total_sales_attributed": 4671.807759506801
+        }
+    ]
+}

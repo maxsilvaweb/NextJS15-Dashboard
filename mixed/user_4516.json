@@ -1,0 +1,26 @@
+{
+    "user_id": "e6ca206e-ff09-424d-90e4-d53ae9440b43",
+    "name": "Randolph Goldner MD",
+    "email": "Johanna.Lehner@gmail.com",
+    "instagram_handle": "@Moses.Kassulke23",
+    "tiktok_handle": "@Ryley_Sawayn27",
+    "joined_at": "2024-11-03T18:36:44.154Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2f1c353f-dcff-4a75-b1a4-7017e9c7e5d0",
+            "brand": "Kub, Bergstrom and Hettinger",
+            "tasks_completed": [
+                {
+                    "task_id": "a7de7810-42d5-4976-949d-51d0c952fa53",
+                    "platform": "TikTok",
+                    "post_url": "https://mysterious-chapel.name",
+                    "likes": 302,
+                    "comments": 15,
+                    "shares": 20,
+                    "reach": 8779
+                }
+            ],
+            "total_sales_attributed": 2688.7835659974057
+        }
+    ]
+}

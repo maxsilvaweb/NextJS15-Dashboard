@@ -1,0 +1,26 @@
+{
+    "user_id": "2131eefc-448e-45c5-8407-82b0c7a2f790",
+    "name": "Juana Dicki",
+    "email": "Dewitt83@hotmail.com",
+    "instagram_handle": "@Angie_Jacobson",
+    "tiktok_handle": "@Joel.Pagac",
+    "joined_at": "2025-02-02T18:36:24.662Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5d291f5d-bd3b-402c-9576-c3953d27289f",
+            "brand": "Daniel Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "86b05219-5e7b-4f55-a379-104cec3b32b4",
+                    "platform": "Instagram",
+                    "post_url": "https://flustered-developing.net",
+                    "likes": 299,
+                    "comments": 12,
+                    "shares": 95,
+                    "reach": 6221
+                }
+            ],
+            "total_sales_attributed": 2019.5821305813586
+        }
+    ]
+}

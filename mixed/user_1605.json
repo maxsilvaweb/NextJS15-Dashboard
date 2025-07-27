@@ -1,0 +1,26 @@
+{
+    "user_id": "abb7590a-d59b-4021-a3a7-869a2ea741d7",
+    "name": "Benjamin Wagner",
+    "email": "whernandez@example.org",
+    "instagram_handle": "@edwinmurphy",
+    "tiktok_handle": "@westjoann",
+    "joined_at": "2023-11-08T11:14:32.869919",
+    "advocacy_programs": [
+        {
+            "program_id": "96614f79-919c-4653-a9b4-0c791dc7ced7",
+            "brand": "Mcconnell, Russell and Baker",
+            "tasks_completed": [
+                {
+                    "task_id": "a74603b8-d3ad-4da5-92aa-22f3d3e3f806",
+                    "platform": "Instagram",
+                    "post_url": "https://strident-carboxyl.org",
+                    "likes": 7003,
+                    "comments": 10,
+                    "shares": 52,
+                    "reach": 4001
+                }
+            ],
+            "total_sales_attributed": 4988.06
+        }
+    ]
+}

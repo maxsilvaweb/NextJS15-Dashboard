@@ -1,0 +1,26 @@
+{
+    "user_id": "6941cfe6-e2a4-452e-87f3-1875af23e973",
+    "name": "Lauren Jackson",
+    "email": "jphillips@example.org",
+    "instagram_handle": "@adamsbrenda",
+    "tiktok_handle": "@maxwell39",
+    "joined_at": "2023-09-17T01:37:20.910685",
+    "advocacy_programs": [
+        {
+            "program_id": "9c046729-012e-4bed-b626-db10df61f1fa",
+            "brand": "Reed-Sanchez",
+            "tasks_completed": [
+                {
+                    "task_id": "cce60b2e-f260-488b-b32c-e0d04634d25a",
+                    "platform": "Instagram",
+                    "post_url": "https://both-hunt.biz",
+                    "likes": 2569,
+                    "comments": 14,
+                    "shares": 60,
+                    "reach": 9489
+                }
+            ],
+            "total_sales_attributed": 1442.9347123118937
+        }
+    ]
+}

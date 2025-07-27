@@ -1,0 +1,26 @@
+{
+    "user_id": "ae48df52-3327-4713-96ad-1f80617c0710",
+    "name": "Ken Cormier",
+    "email": "Elisha_Murphy91@yahoo.com",
+    "instagram_handle": "@Levi85",
+    "tiktok_handle": "@Fermin.Murazik81",
+    "joined_at": "2024-07-22T23:46:46.162Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d985c6da-5024-4b8e-bdea-d1c39b4fca67",
+            "brand": "Rempel, Schaden and Ferry",
+            "tasks_completed": [
+                {
+                    "task_id": "4c5d122f-295c-49a8-a5d3-62c5d84d7baa",
+                    "platform": "Instagram",
+                    "post_url": "https://unripe-corporation.net/",
+                    "likes": 162,
+                    "comments": 29,
+                    "shares": 79,
+                    "reach": 7802
+                }
+            ],
+            "total_sales_attributed": 2610.638135823544
+        }
+    ]
+}

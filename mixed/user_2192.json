@@ -1,0 +1,26 @@
+{
+    "user_id": "50173f7f-182f-433b-9ba0-cd3fb8def741",
+    "name": "Tiffany Gibson",
+    "email": "Eliezer.McLaughlin@gmail.com",
+    "instagram_handle": "@Malvina.Hirthe",
+    "tiktok_handle": "@Lew_Ratke66",
+    "joined_at": "2024-09-03T07:35:38.878Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f1214b26-09a2-4dbb-aba9-7ba94b0d75b4",
+            "brand": "Langworth - Will",
+            "tasks_completed": [
+                {
+                    "task_id": "402f6725-2bfb-43d0-9189-c7cb6c4b3915",
+                    "platform": "TikTok",
+                    "post_url": "https://practical-premier.com/",
+                    "likes": 201,
+                    "comments": 47,
+                    "shares": 81,
+                    "reach": 1471
+                }
+            ],
+            "total_sales_attributed": 2713.196141956161
+        }
+    ]
+}

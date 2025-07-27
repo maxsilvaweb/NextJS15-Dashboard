@@ -1,0 +1,26 @@
+{
+    "user_id": "05b50f3a-cfca-40b0-8e58-e08f1eca085d",
+    "name": "Anthony Medina",
+    "email": "jasonwade@example.org",
+    "instagram_handle": "@rodriguezwanda",
+    "tiktok_handle": "@marie55",
+    "joined_at": "2024-02-15T17:14:03.584764",
+    "advocacy_programs": [
+        {
+            "program_id": "5cf4537c-114e-4904-87d2-058e47b6c141",
+            "brand": "Davis PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a8513a48-dd6b-4b68-af19-7a82ec1a5753",
+                    "platform": "Instagram",
+                    "post_url": "http://mccoy.info/",
+                    "likes": 212,
+                    "comments": 6,
+                    "shares": 33,
+                    "reach": 4598
+                }
+            ],
+            "total_sales_attributed": 3233.9726298435585
+        }
+    ]
+}

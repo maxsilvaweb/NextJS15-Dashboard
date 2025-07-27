@@ -1,0 +1,26 @@
+{
+    "user_id": "baf50bc0-9938-44f2-9fdb-4b6682971c9d",
+    "name": "Nicole Williams",
+    "email": "jessica94@example.org",
+    "instagram_handle": "@mcconnelljanet",
+    "tiktok_handle": "@jennifergonzalez",
+    "joined_at": "2024-08-15T13:36:32.887928",
+    "advocacy_programs": [
+        {
+            "program_id": "e20f69e5-8c23-42ad-acd2-afb1175678a4",
+            "brand": "Rose, Hood and Bautista",
+            "tasks_completed": [
+                {
+                    "task_id": "e9634ee4-2eeb-4a70-b415-d52b919739e4",
+                    "platform": "Instagram",
+                    "post_url": "https://freeman.com/",
+                    "likes": 9031,
+                    "comments": 413,
+                    "shares": 74,
+                    "reach": 2926
+                }
+            ],
+            "total_sales_attributed": 3577.42
+        }
+    ]
+}

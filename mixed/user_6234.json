@@ -1,0 +1,26 @@
+{
+    "user_id": "15eb9a9b-18a8-445a-a605-d7b7f2f5f19e",
+    "name": "Maureen Allen",
+    "email": "jack71@example.net",
+    "instagram_handle": "@natalie36",
+    "tiktok_handle": "@barrettstephanie",
+    "joined_at": "2023-11-13T18:30:36.656080",
+    "advocacy_programs": [
+        {
+            "program_id": "1256e6ea-e5b0-4a97-93a7-fa2621df647b",
+            "brand": "Wolfe-Green",
+            "tasks_completed": [
+                {
+                    "task_id": "f4bfd0e0-38ad-4640-8faf-e693a0dd283c",
+                    "platform": "Facebook",
+                    "post_url": "https://delacruz.com/",
+                    "likes": 2358,
+                    "comments": 309,
+                    "shares": 89,
+                    "reach": 6478
+                }
+            ],
+            "total_sales_attributed": 634.77
+        }
+    ]
+}

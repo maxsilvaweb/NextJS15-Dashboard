@@ -1,0 +1,26 @@
+{
+    "user_id": "79366f37-1a6e-4f43-a96b-71ed043d06a7",
+    "name": "John Williams",
+    "email": "mayoadam@example.net",
+    "instagram_handle": "@hawkinspaul",
+    "tiktok_handle": "@judyjohnson",
+    "joined_at": "2023-09-17T00:47:31.454018",
+    "advocacy_programs": [
+        {
+            "program_id": "a76e0284-a4b9-4cc4-b78b-961b620d07a0",
+            "brand": "Russell and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "b9c36271-6b03-494f-b1be-fd7d36ce38ff",
+                    "platform": "Instagram",
+                    "post_url": "https://www.harrison.biz/",
+                    "likes": 5911,
+                    "comments": 419,
+                    "shares": 12,
+                    "reach": 4847
+                }
+            ],
+            "total_sales_attributed": 3883.19
+        }
+    ]
+}

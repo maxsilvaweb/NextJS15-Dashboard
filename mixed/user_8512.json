@@ -1,0 +1,26 @@
+{
+    "user_id": "dc541155-3abf-4c4d-a9ae-a4acdcd2a7bc",
+    "name": "April Johnson",
+    "email": "kayla07@example.net",
+    "instagram_handle": "@chad59",
+    "tiktok_handle": "@richard60",
+    "joined_at": "2025-05-13T01:59:27.530216",
+    "advocacy_programs": [
+        {
+            "program_id": "626c5d8f-1a32-4bcf-8fae-a96553c197b0",
+            "brand": "Maynard, Brown and Sawyer",
+            "tasks_completed": [
+                {
+                    "task_id": "b73aacf4-9533-42d0-a96d-38449032da3b",
+                    "platform": "Facebook",
+                    "post_url": "https://www.ball-solomon.com/",
+                    "likes": 551,
+                    "comments": 10,
+                    "shares": 90,
+                    "reach": 5779
+                }
+            ],
+            "total_sales_attributed": 2194.481328488493
+        }
+    ]
+}

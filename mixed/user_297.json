@@ -1,0 +1,26 @@
+{
+    "user_id": "5ae1a839-7919-400b-9929-d801f48a4980",
+    "name": "Hannah Myers",
+    "email": "cynthia66@example.org",
+    "instagram_handle": "@michaelortiz",
+    "tiktok_handle": "@erincox",
+    "joined_at": "2025-03-23T14:26:40.958323",
+    "advocacy_programs": [
+        {
+            "program_id": "228eccda-9d61-4ebb-bb9b-a25f2a925229",
+            "brand": "Ramos LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "091f5edf-e97d-4f91-a20e-c4343bc295f5",
+                    "platform": "TikTok",
+                    "post_url": "http://thomas-collier.com/",
+                    "likes": 198,
+                    "comments": 143,
+                    "shares": 67,
+                    "reach": 9133
+                }
+            ],
+            "total_sales_attributed": 1254.91
+        }
+    ]
+}

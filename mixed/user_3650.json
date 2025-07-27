@@ -1,0 +1,26 @@
+{
+    "user_id": "84e52739-2dd3-4edf-a17a-419405226cda",
+    "name": "Sarah Kelley",
+    "email": "christopher31@example.net",
+    "instagram_handle": "@kristinmeza",
+    "tiktok_handle": "@dfinley",
+    "joined_at": "2024-08-07T12:54:33.334512",
+    "advocacy_programs": [
+        {
+            "program_id": "2a25bc37-bf3f-438f-9733-d2ebc958c362",
+            "brand": "Stehr Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "75e047ba-aa21-4f2b-98ad-7b5a8bc32c91",
+                    "platform": "Facebook",
+                    "post_url": "http://lopez.info/",
+                    "likes": 6556,
+                    "comments": 270,
+                    "shares": 15,
+                    "reach": 2061
+                }
+            ],
+            "total_sales_attributed": 2220.56
+        }
+    ]
+}

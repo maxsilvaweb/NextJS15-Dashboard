@@ -1,0 +1,26 @@
+{
+    "user_id": "14757dad-4a95-4c45-a03d-80b7babf99a5",
+    "name": "Brittany Thompson",
+    "email": "imorgan@example.com",
+    "instagram_handle": "@burkesuzanne",
+    "tiktok_handle": "@scottdavid",
+    "joined_at": "2024-07-15T14:04:04.769797",
+    "advocacy_programs": [
+        {
+            "program_id": "cf43a5c5-442f-4919-a30c-c7f4141d672d",
+            "brand": "Moore-Perez",
+            "tasks_completed": [
+                {
+                    "task_id": "ebe1c9cc-695c-48c7-817e-f53eddd858b5",
+                    "platform": "Instagram",
+                    "post_url": "http://www.dominguez.com/",
+                    "likes": 293,
+                    "comments": 361,
+                    "shares": 7,
+                    "reach": 1820
+                }
+            ],
+            "total_sales_attributed": 1204.053145977843
+        }
+    ]
+}

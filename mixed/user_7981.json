@@ -1,0 +1,26 @@
+{
+    "user_id": "4b03e376-b675-4778-8fce-35444fa34622",
+    "name": "Brian Meyers",
+    "email": "yjackson@example.net",
+    "instagram_handle": "@jessica27",
+    "tiktok_handle": "@hortontara",
+    "joined_at": "2024-02-28T23:07:21.354889",
+    "advocacy_programs": [
+        {
+            "program_id": "957bd296-97f1-456c-9009-a1c383a38371",
+            "brand": "Reed-Gray",
+            "tasks_completed": [
+                {
+                    "task_id": "bfc3f9f3-e053-466b-9a90-3f30f3369d24",
+                    "platform": "Facebook",
+                    "post_url": "https://bitter-atrium.org",
+                    "likes": 896,
+                    "comments": 182,
+                    "shares": 40,
+                    "reach": 8565
+                }
+            ],
+            "total_sales_attributed": 8007.11
+        }
+    ]
+}

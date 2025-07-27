@@ -1,0 +1,26 @@
+{
+    "user_id": "dfa245e2-62f7-4879-9b3c-6fb6b441aa78",
+    "name": "Michael Moore",
+    "email": "kelsey02@example.org",
+    "instagram_handle": "@robertallen",
+    "tiktok_handle": "@vincentyoung",
+    "joined_at": "2024-11-24T14:34:14.225Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2ef6b13e-ce37-4c5b-93c8-cf982e44bac5",
+            "brand": "Diaz-Morrow",
+            "tasks_completed": [
+                {
+                    "task_id": "c0936954-2951-4e46-9725-88911499b610",
+                    "platform": "Instagram",
+                    "post_url": "http://www.castillo.com/",
+                    "likes": 491,
+                    "comments": 185,
+                    "shares": 71,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 3993.07
+        }
+    ]
+}

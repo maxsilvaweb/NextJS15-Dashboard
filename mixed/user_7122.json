@@ -1,0 +1,26 @@
+{
+    "user_id": "8587940b-cd1e-4539-a535-de416eeabdf3",
+    "name": "Joyce Shepherd",
+    "email": "kenneth16@example.org",
+    "instagram_handle": "@davidhansen",
+    "tiktok_handle": "@deanchristopher",
+    "joined_at": "2025-03-23T12:59:35.007406",
+    "advocacy_programs": [
+        {
+            "program_id": "f2ff04c9-a039-432c-a435-4bd5a6b2aa04",
+            "brand": "Fitzpatrick, Morton and Sutton",
+            "tasks_completed": [
+                {
+                    "task_id": "a3d07546-0951-45ba-a9be-331d75437e87",
+                    "platform": "Instagram",
+                    "post_url": "https://uncomfortable-guacamole.com",
+                    "likes": 7422,
+                    "comments": 461,
+                    "shares": 43,
+                    "reach": 7793
+                }
+            ],
+            "total_sales_attributed": 3082.9
+        }
+    ]
+}

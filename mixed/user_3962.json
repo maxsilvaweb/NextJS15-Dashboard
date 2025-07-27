@@ -1,0 +1,26 @@
+{
+    "user_id": "e2b96510-d115-4aa4-925e-aa25ed9f123f",
+    "name": "Guadalupe Hermiston DVM",
+    "email": "Cristobal57@hotmail.com",
+    "instagram_handle": "@Pearlie_Monahan",
+    "tiktok_handle": "@Malika_Abshire76",
+    "joined_at": "2024-11-29T20:15:36.992Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5df02bb5-d4c2-494b-8cf2-c4e21dcac4c8",
+            "brand": "Mohr and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "505b36f6-5cbe-426c-b375-77715005a5a3",
+                    "platform": "TikTok",
+                    "post_url": "https://present-in-joke.com/",
+                    "likes": 445,
+                    "comments": 31,
+                    "shares": 32,
+                    "reach": 9141
+                }
+            ],
+            "total_sales_attributed": 2387.144548383593
+        }
+    ]
+}

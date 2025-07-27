@@ -1,0 +1,26 @@
+{
+    "user_id": "6832d2e4-c966-4a1e-b00d-0521202caa90",
+    "name": "Jesus Nicholson",
+    "email": "ericyates@example.net",
+    "instagram_handle": "@garrettthompson",
+    "tiktok_handle": "@kylefischer",
+    "joined_at": "2025-01-02T10:24:24.200Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bba35d43-59c7-434d-b7d7-96576975e3ea",
+            "brand": "Hughes PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "fde3c477-d99b-42f0-8f39-7b75568344d5",
+                    "platform": "Instagram",
+                    "post_url": "https://www.park.com/",
+                    "likes": 342,
+                    "comments": 132,
+                    "shares": 75,
+                    "reach": 1983
+                }
+            ],
+            "total_sales_attributed": 3318.02
+        }
+    ]
+}

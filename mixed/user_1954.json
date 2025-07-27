@@ -1,0 +1,26 @@
+{
+    "user_id": "017d78ff-6212-426f-a802-c1fa9ec3a34f",
+    "name": "Mrs. Roxanne Keebler",
+    "email": "Pauline40@hotmail.com",
+    "instagram_handle": "@Rahul.Ullrich",
+    "tiktok_handle": "@Eloy_Botsford53",
+    "joined_at": "2025-01-15T21:33:06.843Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5537cdea-668e-4bd3-a503-934a16710e95",
+            "brand": "Wolff - Aufderhar",
+            "tasks_completed": [
+                {
+                    "task_id": "c7ec2600-029e-4b8a-a46a-776ca344739e",
+                    "platform": "Instagram",
+                    "post_url": "https://favorite-designation.info",
+                    "likes": 223,
+                    "comments": 12,
+                    "shares": 91,
+                    "reach": 1699
+                }
+            ],
+            "total_sales_attributed": 2506.0881688062523
+        }
+    ]
+}

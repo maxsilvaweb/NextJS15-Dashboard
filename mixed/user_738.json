@@ -1,0 +1,26 @@
+{
+    "user_id": "c2863ca1-9454-44f3-93c3-c32a7cbdd6ba",
+    "name": "Rick Mraz",
+    "email": "Erick79@yahoo.com",
+    "instagram_handle": "@Erwin30",
+    "tiktok_handle": "@Vito59",
+    "joined_at": "2024-08-22T18:27:15.971Z",
+    "advocacy_programs": [
+        {
+            "program_id": "021c4bb9-c8cd-4c63-864b-3d2c531ffa55",
+            "brand": "Batz, Auer and Ullrich",
+            "tasks_completed": [
+                {
+                    "task_id": "f0373969-8e69-4320-9ed1-fc9dfeafbe55",
+                    "platform": "Instagram",
+                    "post_url": "https://elementary-submitter.org",
+                    "likes": 67,
+                    "comments": 30,
+                    "shares": 19,
+                    "reach": 5522
+                }
+            ],
+            "total_sales_attributed": 4842.28290702689
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "27855cc2-b114-422c-9a94-e0ea66834b2b",
+    "name": "Ronald Brooks",
+    "email": "rachelalvarado@example.net",
+    "instagram_handle": "@pattonwhitney",
+    "tiktok_handle": "@kporter",
+    "joined_at": "2025-05-31T03:15:19.871877",
+    "advocacy_programs": [
+        {
+            "program_id": "55f26731-e7b9-4cb5-867f-171ecf53cb5e",
+            "brand": "Lawson, Young and Collins",
+            "tasks_completed": [
+                {
+                    "task_id": "3c3b3387-63d7-4c9e-880a-ebb5777089ad",
+                    "platform": "TikTok",
+                    "post_url": "https://burke.com/",
+                    "likes": 1072,
+                    "comments": 340,
+                    "shares": 87,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 5677.97
+        }
+    ]
+}

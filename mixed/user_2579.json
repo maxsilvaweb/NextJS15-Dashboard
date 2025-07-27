@@ -1,0 +1,26 @@
+{
+    "user_id": "eac0fd20-2c0e-4f6d-969f-ca1ff6d25f33",
+    "name": "Scott Stuart",
+    "email": "Karlee.Jones67@hotmail.com",
+    "instagram_handle": "@rodneyrobinson",
+    "tiktok_handle": "@rogercooper",
+    "joined_at": "2025-02-21T00:18:37.302504",
+    "advocacy_programs": [
+        {
+            "program_id": "27a24735-0bf6-498a-84d6-3ee629d11dc5",
+            "brand": "Hall-Forbes",
+            "tasks_completed": [
+                {
+                    "task_id": "94d03ebd-6ec1-4683-b6d6-2320b26f49ea",
+                    "platform": "Facebook",
+                    "post_url": "http://sandoval.com/",
+                    "likes": 536,
+                    "comments": 31,
+                    "shares": 89,
+                    "reach": 2813
+                }
+            ],
+            "total_sales_attributed": 5119.77
+        }
+    ]
+}

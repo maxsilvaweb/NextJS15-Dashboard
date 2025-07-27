@@ -1,0 +1,26 @@
+{
+    "user_id": "384d14a3-a155-44dc-83cc-de637377d0ff",
+    "name": "Robert Dorsey",
+    "email": "stephen13@example.com",
+    "instagram_handle": "@Vallie52",
+    "tiktok_handle": "@wolson",
+    "joined_at": "2024-09-05T09:25:17.603721",
+    "advocacy_programs": [
+        {
+            "program_id": "c4c4d96f-06ae-4e32-b2b4-6e4585738545",
+            "brand": "Williams Group",
+            "tasks_completed": [
+                {
+                    "task_id": "0e8c3034-4480-435c-b010-9b8ae4a755a2",
+                    "platform": "TikTok",
+                    "post_url": "https://watson-bell.info/",
+                    "likes": 2915,
+                    "comments": 495,
+                    "shares": 16,
+                    "reach": 1275
+                }
+            ],
+            "total_sales_attributed": 103.04
+        }
+    ]
+}

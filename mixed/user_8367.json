@@ -1,0 +1,26 @@
+{
+    "user_id": "8ee42a83-e5eb-485f-81e8-cfbcb556670a",
+    "name": "Jessica Singh",
+    "email": "qwashington@example.net",
+    "instagram_handle": "@rnicholson",
+    "tiktok_handle": "@craigsmith",
+    "joined_at": "2025-02-28T14:45:33.374791",
+    "advocacy_programs": [
+        {
+            "program_id": "fe213a2e-abe2-4f19-9f82-29916c4ab240",
+            "brand": "Farmer-Hines",
+            "tasks_completed": [
+                {
+                    "task_id": "b5a2dfb8-57c6-4916-94cf-a4cbd49c92ed",
+                    "platform": "Instagram",
+                    "post_url": "https://www.robinson-vincent.org/",
+                    "likes": 5574,
+                    "comments": 345,
+                    "shares": 86,
+                    "reach": 5572
+                }
+            ],
+            "total_sales_attributed": 5651.32
+        }
+    ]
+}

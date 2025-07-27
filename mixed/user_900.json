@@ -1,0 +1,26 @@
+{
+    "user_id": "ea8d4f0b-6173-40cb-9f05-4f0b5da6963d",
+    "name": "Jason Castillo",
+    "email": "jessicafitzgerald@example.org",
+    "instagram_handle": "@jacqueline16",
+    "tiktok_handle": "@christianscott",
+    "joined_at": "2025-01-02T20:00:29.651Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e2c42d61-d3d0-46c6-bf4a-5d293be1ab76",
+            "brand": "Aguilar and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "245ae44b-70db-423f-8458-08ee607f936d",
+                    "platform": "TikTok",
+                    "post_url": "http://www.beasley.com/",
+                    "likes": 6918,
+                    "comments": 26,
+                    "shares": 43,
+                    "reach": 3884
+                }
+            ],
+            "total_sales_attributed": 7728.35
+        }
+    ]
+}

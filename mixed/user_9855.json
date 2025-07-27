@@ -1,0 +1,26 @@
+{
+    "user_id": "28fcb611-0bc5-4d15-93e4-d227cbda44d8",
+    "name": "Richard Rodriguez I",
+    "email": "Roy85@gmail.com",
+    "instagram_handle": "@Gordon.Powlowski13",
+    "tiktok_handle": "@Ryleigh_Witting70",
+    "joined_at": "2024-04-10T23:45:57.981Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2fbed7cc-9d04-47a4-833e-f592d7c92b02",
+            "brand": "Lindgren, Murray and Stamm",
+            "tasks_completed": [
+                {
+                    "task_id": "54cbf2b2-abf1-4ac2-95f7-7b97be9fbac5",
+                    "platform": "TikTok",
+                    "post_url": "https://magnificent-surface.net",
+                    "likes": 297,
+                    "comments": 25,
+                    "shares": 63,
+                    "reach": 6941
+                }
+            ],
+            "total_sales_attributed": 310.9247520697124
+        }
+    ]
+}

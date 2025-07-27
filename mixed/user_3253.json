@@ -1,0 +1,26 @@
+{
+    "user_id": "dbcd8e2d-97da-41b3-a880-139d2b2f1fea",
+    "name": "Bradford Bradtke",
+    "email": "Mittie.Hettinger@gmail.com",
+    "instagram_handle": "@Dayne.Kuvalis84",
+    "tiktok_handle": "@Isabel_Bruen",
+    "joined_at": "2024-06-13T06:30:52.041Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b4b837ca-5d70-408a-9b0b-c376b8db7a42",
+            "brand": "Hoeger - Ryan",
+            "tasks_completed": [
+                {
+                    "task_id": "721847c8-50e1-410a-9b29-84a5a8049b5c",
+                    "platform": "Instagram",
+                    "post_url": "https://numb-widow.biz/",
+                    "likes": 459,
+                    "comments": 12,
+                    "shares": 16,
+                    "reach": 2197
+                }
+            ],
+            "total_sales_attributed": 4268.873643436558
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1d14fc71-bccb-4cb6-9e58-5693a7c132d9",
+    "name": "Lindsay Harris MD",
+    "email": "shirley19@example.net",
+    "instagram_handle": "@tsoto",
+    "tiktok_handle": "@jason10",
+    "joined_at": "2024-07-28T01:45:59.096384",
+    "advocacy_programs": [
+        {
+            "program_id": "66184e8e-0a2d-445f-bf08-5824e90a5501",
+            "brand": "Robertson-Hines",
+            "tasks_completed": [
+                {
+                    "task_id": "ff245d29-b597-4a31-9ca1-65ee9125524d",
+                    "platform": "Facebook",
+                    "post_url": "https://www.friedman.com/",
+                    "likes": 296,
+                    "comments": 356,
+                    "shares": 74,
+                    "reach": 9751
+                }
+            ],
+            "total_sales_attributed": 3326.24
+        }
+    ]
+}

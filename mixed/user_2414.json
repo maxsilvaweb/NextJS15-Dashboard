@@ -1,0 +1,26 @@
+{
+    "user_id": "6e120e13-642d-4874-b076-e777cee5fd9d",
+    "name": "Robert Anderson",
+    "email": "morrisrichard@example.org",
+    "instagram_handle": "@williamsbobby",
+    "tiktok_handle": "@randy19",
+    "joined_at": "2025-03-06T20:11:14.373052",
+    "advocacy_programs": [
+        {
+            "program_id": "18463e62-6427-47aa-ac0b-4a1980f31fdc",
+            "brand": "Thomas and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "1f4f6b12-e470-49bf-a483-8e87b8b7ae0a",
+                    "platform": "Instagram",
+                    "post_url": "https://zealous-overheard.net",
+                    "likes": 5874,
+                    "comments": 11,
+                    "shares": 15,
+                    "reach": 5505
+                }
+            ],
+            "total_sales_attributed": 2875.84
+        }
+    ]
+}

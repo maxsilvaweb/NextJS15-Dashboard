@@ -1,0 +1,26 @@
+{
+    "user_id": "629bfa4b-6afb-4ea3-9d57-fe7403ca2af8",
+    "name": "Mae Hintz",
+    "email": "Beverly_Keeling@gmail.com",
+    "instagram_handle": "@Hoyt_Kerluke71",
+    "tiktok_handle": "@Marco.Torp",
+    "joined_at": "2024-04-11T00:34:25.795Z",
+    "advocacy_programs": [
+        {
+            "program_id": "91737ac7-5f77-467f-87ac-7a088c4e71d7",
+            "brand": "Wuckert, Kuhn and Schuppe",
+            "tasks_completed": [
+                {
+                    "task_id": "8ff20a1c-3638-4cc3-9f17-1925b2abc139",
+                    "platform": "Instagram",
+                    "post_url": "https://twin-mountain.info/",
+                    "likes": 187,
+                    "comments": 19,
+                    "shares": 96,
+                    "reach": 3013
+                }
+            ],
+            "total_sales_attributed": 3691.7191942882005
+        }
+    ]
+}

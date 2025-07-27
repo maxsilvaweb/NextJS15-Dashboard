@@ -1,0 +1,26 @@
+{
+    "user_id": "bd4fe145-66db-4b51-9344-27481c28b90c",
+    "name": "Nicole Burns",
+    "email": "mjohnson@example.com",
+    "instagram_handle": "@chunter",
+    "tiktok_handle": "@ruizchristopher",
+    "joined_at": "2024-04-27T01:16:36.482Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f4f5c415-fbf6-42bd-9254-631560cf6094",
+            "brand": "Gould, Reed and Barton",
+            "tasks_completed": [
+                {
+                    "task_id": "fd091e4f-89a7-4b41-804c-70b6088e4e38",
+                    "platform": "TikTok",
+                    "post_url": "https://kaleidoscopic-outrun.net",
+                    "likes": 47,
+                    "comments": 313,
+                    "shares": 46,
+                    "reach": 3339
+                }
+            ],
+            "total_sales_attributed": 7865.2
+        }
+    ]
+}

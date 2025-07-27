@@ -1,0 +1,26 @@
+{
+    "user_id": "bf1b17b1-61b0-45f2-b048-df3280fcbff0",
+    "name": "Thomas Pratt",
+    "email": "davistyrone@example.com",
+    "instagram_handle": "@bonnielucas",
+    "tiktok_handle": "@kenneth02",
+    "joined_at": "2025-02-13T07:07:13.982Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2be8c96f-9d2c-4faa-8688-4bb0c1f4a9f9",
+            "brand": "Klocko, Berge and Funk",
+            "tasks_completed": [
+                {
+                    "task_id": "d159a755-030d-433e-95c9-a2bac5f34fc5",
+                    "platform": "Facebook",
+                    "post_url": "http://williams-martinez.net/",
+                    "likes": 4102,
+                    "comments": 102,
+                    "shares": 100,
+                    "reach": 1084
+                }
+            ],
+            "total_sales_attributed": 123.27
+        }
+    ]
+}

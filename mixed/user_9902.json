@@ -1,0 +1,26 @@
+{
+    "user_id": "c483ff49-c359-4b0b-98fc-685ae7f8a1ef",
+    "name": "Yesenia Martin",
+    "email": "maryanderson@example.com",
+    "instagram_handle": "@cflowers",
+    "tiktok_handle": "@floresdesiree",
+    "joined_at": "2024-01-11T18:44:06.379830",
+    "advocacy_programs": [
+        {
+            "program_id": "9453ecfe-ed85-4700-8063-6c40a42e70ff",
+            "brand": "Powers PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "3403bffd-a19b-48bd-b06a-63f823dd9e2e",
+                    "platform": "Instagram",
+                    "post_url": "https://sardonic-pillow.com",
+                    "likes": 4844,
+                    "comments": 14,
+                    "shares": 9,
+                    "reach": 6376
+                }
+            ],
+            "total_sales_attributed": 5812.06
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6bdd5fbc-7ac4-4c5b-b401-a64c58d4e6fa",
+    "name": "Melissa Howard",
+    "email": "wilsonchelsea@example.net",
+    "instagram_handle": "@hollycruz",
+    "tiktok_handle": "@christophermay",
+    "joined_at": "2024-07-28T15:56:46.518298",
+    "advocacy_programs": [
+        {
+            "program_id": "b45d46f6-5654-4f9f-8043-664fe789dee5",
+            "brand": "Marshall PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d2ef35d8-13f6-43f2-a65a-770a0e63405e",
+                    "platform": "Facebook",
+                    "post_url": "https://lovely-lender.com",
+                    "likes": 452,
+                    "comments": 147,
+                    "shares": 76,
+                    "reach": 2076
+                }
+            ],
+            "total_sales_attributed": 5074.78
+        }
+    ]
+}

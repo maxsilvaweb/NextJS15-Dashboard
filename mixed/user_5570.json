@@ -1,0 +1,26 @@
+{
+    "user_id": "d968cd0e-9043-4572-9a07-a4b546bd095b",
+    "name": "Leroy Ullrich",
+    "email": "Carmelo18@hotmail.com",
+    "instagram_handle": "@Johan.Little-Heaney",
+    "tiktok_handle": "@Guadalupe.Bernier6",
+    "joined_at": "2024-12-01T12:53:32.517Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7b8f4f04-5ba2-463f-899a-4dca3648df60",
+            "brand": "Feil and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "da3d123a-c836-477e-b9a8-05cbf307c93b",
+                    "platform": "Instagram",
+                    "post_url": "https://lawful-pillow.com/",
+                    "likes": 366,
+                    "comments": 21,
+                    "shares": 34,
+                    "reach": 5985
+                }
+            ],
+            "total_sales_attributed": 4650.7293526788735
+        }
+    ]
+}

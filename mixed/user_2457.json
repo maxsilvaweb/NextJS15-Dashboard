@@ -1,0 +1,26 @@
+{
+    "user_id": "c1cf8e1f-67c9-408f-9941-7a1ec447a7b9",
+    "name": "Alfredo Mueller",
+    "email": "Clinton1@hotmail.com",
+    "instagram_handle": "@Roy_Beahan21",
+    "tiktok_handle": "@Chelsey.Frami6",
+    "joined_at": "2024-06-12T11:51:42.910Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b0c90158-28cb-41de-b8a4-33f26b5a5f74",
+            "brand": "Brekke Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "c67a69ad-e478-46e6-b201-c19fcbcd4869",
+                    "platform": "TikTok",
+                    "post_url": "https://sneaky-thunderbolt.net",
+                    "likes": 373,
+                    "comments": 46,
+                    "shares": 9,
+                    "reach": 8628
+                }
+            ],
+            "total_sales_attributed": 3480.8869460104893
+        }
+    ]
+}

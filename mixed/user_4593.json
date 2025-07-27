@@ -1,0 +1,26 @@
+{
+    "user_id": "bb0a561e-6920-48bb-9818-f49dfb810bce",
+    "name": "Lucas Dyer",
+    "email": "breannafry@example.org",
+    "instagram_handle": "@victoriastone",
+    "tiktok_handle": "@jennifer34",
+    "joined_at": "2025-03-19T14:57:13.819045",
+    "advocacy_programs": [
+        {
+            "program_id": "2984fd46-70e6-4ef9-a40f-f363a469e525",
+            "brand": "Reynolds, Johnson and Carpenter",
+            "tasks_completed": [
+                {
+                    "task_id": "00bc5d88-bfac-4608-bb71-fee08adf5261",
+                    "platform": "Instagram",
+                    "post_url": "https://www.tyler-sanders.com/",
+                    "likes": 8951,
+                    "comments": 324,
+                    "shares": 88,
+                    "reach": 7774
+                }
+            ],
+            "total_sales_attributed": 5657.77
+        }
+    ]
+}

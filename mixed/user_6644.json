@@ -1,0 +1,26 @@
+{
+    "user_id": "e2fa1bdf-65aa-49e4-8fda-218df3e16554",
+    "name": "Joshua Parker",
+    "email": "hernandezstacey@example.com",
+    "instagram_handle": "@veronica78",
+    "tiktok_handle": "@jesusdavis",
+    "joined_at": "2024-01-28T22:01:31.112888",
+    "advocacy_programs": [
+        {
+            "program_id": "bd5c9a87-5f55-454b-af9b-8372d30660fb",
+            "brand": "Medina, Robertson and Hensley",
+            "tasks_completed": [
+                {
+                    "task_id": "fc926cda-717c-4b72-a146-48eb43075acb",
+                    "platform": "TikTok",
+                    "post_url": "http://www.griffin.com/",
+                    "likes": 7957,
+                    "comments": 236,
+                    "shares": 52,
+                    "reach": 3053
+                }
+            ],
+            "total_sales_attributed": 7714.69
+        }
+    ]
+}

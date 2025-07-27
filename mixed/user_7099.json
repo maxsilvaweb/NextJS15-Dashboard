@@ -1,0 +1,26 @@
+{
+    "user_id": "ae225d03-65c4-41d9-a74a-14d7c622a61a",
+    "name": "Kelly Gonzalez",
+    "email": "paynemichelle@example.net",
+    "instagram_handle": "@jameslong",
+    "tiktok_handle": "@travisholmes",
+    "joined_at": "2023-08-08T06:28:06.198931",
+    "advocacy_programs": [
+        {
+            "program_id": "f87d9d81-c258-4494-bdc1-b9469a2ee9c7",
+            "brand": "Cunningham-Schultz",
+            "tasks_completed": [
+                {
+                    "task_id": "62287605-b860-4b6d-ad1d-85d1f57a3dc0",
+                    "platform": "Instagram",
+                    "post_url": "http://www.lin.info/",
+                    "likes": 6048,
+                    "comments": 16,
+                    "shares": 95,
+                    "reach": 5459
+                }
+            ],
+            "total_sales_attributed": 2759.2
+        }
+    ]
+}

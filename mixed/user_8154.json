@@ -1,0 +1,26 @@
+{
+    "user_id": "3e178651-2bde-45fc-9ba7-8981a030edfa",
+    "name": "Toni Torp",
+    "email": "Annabelle25@hotmail.com",
+    "instagram_handle": "@Alexandrine_Feest0",
+    "tiktok_handle": "@Samara38",
+    "joined_at": "2024-05-02T06:09:05.107Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3b175e41-fbcf-4067-87ec-cbb06483c8d3",
+            "brand": "White - Huel",
+            "tasks_completed": [
+                {
+                    "task_id": "65552e2b-ad07-488a-b706-b55ad9379b2a",
+                    "platform": "Instagram",
+                    "post_url": "https://charming-challenge.name",
+                    "likes": 410,
+                    "comments": 13,
+                    "shares": 86,
+                    "reach": 7606
+                }
+            ],
+            "total_sales_attributed": 572.6644703879313
+        }
+    ]
+}

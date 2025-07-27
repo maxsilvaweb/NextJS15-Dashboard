@@ -1,0 +1,26 @@
+{
+    "user_id": "157ad894-ea7c-4201-b3a3-04cced2b55f3",
+    "name": "Mona Grimes",
+    "email": "Ethelyn.Kertzmann@yahoo.com",
+    "instagram_handle": "@Amira.Russel71",
+    "tiktok_handle": "@Novella87",
+    "joined_at": "2025-03-04T01:42:42.916Z",
+    "advocacy_programs": [
+        {
+            "program_id": "da0afce8-2b3b-4c36-af7c-4df3a2fc605b",
+            "brand": "Collier Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9be6cfb5-b862-45b5-aa85-14efcc164d8c",
+                    "platform": "Instagram",
+                    "post_url": "https://nice-hoof.com/",
+                    "likes": 44,
+                    "comments": 31,
+                    "shares": 18,
+                    "reach": 9009
+                }
+            ],
+            "total_sales_attributed": 2450.272975434453
+        }
+    ]
+}

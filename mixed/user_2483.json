@@ -1,0 +1,26 @@
+{
+    "user_id": "8fade8b4-c647-4028-94bf-cd77c2ea94e7",
+    "name": "Melissa Bartlett",
+    "email": "hamiltonmichael@example.net",
+    "instagram_handle": "@mcbridemary",
+    "tiktok_handle": "@stoneelizabeth",
+    "joined_at": "2024-11-20T12:11:40.880881",
+    "advocacy_programs": [
+        {
+            "program_id": "ff67e78d-2a60-47be-a3e5-323275174a9d",
+            "brand": "Rose, Wells and Reilly",
+            "tasks_completed": [
+                {
+                    "task_id": "55e026b0-5d6d-481d-beb3-182930429ad2",
+                    "platform": "Instagram",
+                    "post_url": "http://williams.info/",
+                    "likes": 6946,
+                    "comments": 44,
+                    "shares": 18,
+                    "reach": 7222
+                }
+            ],
+            "total_sales_attributed": 1483.94
+        }
+    ]
+}

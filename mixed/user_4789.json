@@ -1,0 +1,26 @@
+{
+    "user_id": "b8d79caf-8160-48a4-8fbf-72a9ef7acb0a",
+    "name": "June Maggio",
+    "email": "Colby_Luettgen@hotmail.com",
+    "instagram_handle": "@Joanny_Abshire72",
+    "tiktok_handle": "@Felicia11",
+    "joined_at": "2024-11-12T12:36:32.798Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7ebfb718-f112-44f8-b553-5cbe0d7c4be0",
+            "brand": "Stamm LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5cce4876-7736-47de-ad0f-a725357a332a",
+                    "platform": "TikTok",
+                    "post_url": "https://colossal-daughter.name/",
+                    "likes": 200,
+                    "comments": 25,
+                    "shares": 61,
+                    "reach": 9685
+                }
+            ],
+            "total_sales_attributed": 1267.725000036411
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "319aab50-960b-4808-a16e-4574806c95b3",
+    "name": "Susan O'Reilly",
+    "email": "Rose_Braun-Kuhlman@yahoo.com",
+    "instagram_handle": "@Jon.Wilkinson-Kautzer31",
+    "tiktok_handle": "@Keagan_Reilly35",
+    "joined_at": "2024-10-05T08:12:48.009Z",
+    "advocacy_programs": [
+        {
+            "program_id": "72474bba-6e63-47e9-8505-24b9d2374dfb",
+            "brand": "Grimes Group",
+            "tasks_completed": [
+                {
+                    "task_id": "41bd98fe-9bc0-4f49-9469-270d380ddcb2",
+                    "platform": "TikTok",
+                    "post_url": "https://same-section.com/",
+                    "likes": 404,
+                    "comments": 0,
+                    "shares": 35,
+                    "reach": 546
+                }
+            ],
+            "total_sales_attributed": 4172.008200809882
+        }
+    ]
+}

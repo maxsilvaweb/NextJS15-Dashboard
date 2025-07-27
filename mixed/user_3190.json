@@ -1,0 +1,26 @@
+{
+    "user_id": "b25ec44d-db2d-4cdc-a760-89659850f1b8",
+    "name": "Clinton Hill",
+    "email": "steelelaura@example.net",
+    "instagram_handle": "@nicole48",
+    "tiktok_handle": "@lawsontammy",
+    "joined_at": "2025-02-15T13:04:14.294Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4071cdd5-cd7a-4573-ac1e-291522dd5c2a",
+            "brand": "Hettinger - Treutel",
+            "tasks_completed": [
+                {
+                    "task_id": "8903837d-8d39-4761-843d-071851ccb29a",
+                    "platform": "Twitter",
+                    "post_url": "https://www.walters.org/",
+                    "likes": 593,
+                    "comments": 183,
+                    "shares": 81,
+                    "reach": 7580
+                }
+            ],
+            "total_sales_attributed": 363.33
+        }
+    ]
+}

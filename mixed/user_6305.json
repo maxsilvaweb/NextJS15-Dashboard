@@ -1,0 +1,26 @@
+{
+    "user_id": "a0860adf-62f9-4b2a-b7d7-65df011bdd9f",
+    "name": "Rolando Gulgowski",
+    "email": "Joel_Abernathy1@hotmail.com",
+    "instagram_handle": "@Pamela89",
+    "tiktok_handle": "@Augustus.Barrows15",
+    "joined_at": "2024-09-09T16:55:34.563Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f761b290-0b85-4586-b8d9-1f58aa6fd91b",
+            "brand": "Kulas - Mayert",
+            "tasks_completed": [
+                {
+                    "task_id": "573d14ac-0c93-4a0e-a3a7-76fbda2c5cf8",
+                    "platform": "Instagram",
+                    "post_url": "https://different-nougat.org/",
+                    "likes": 302,
+                    "comments": 29,
+                    "shares": 84,
+                    "reach": 8210
+                }
+            ],
+            "total_sales_attributed": 3334.8912807265215
+        }
+    ]
+}

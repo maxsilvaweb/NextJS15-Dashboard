@@ -1,0 +1,26 @@
+{
+    "user_id": "5d53d8b9-8a14-4f07-be9e-f92e19d07032",
+    "name": "Angela Macejkovic",
+    "email": "Marlin_Nader27@hotmail.com",
+    "instagram_handle": "@Marcelino.Torp7",
+    "tiktok_handle": "@Eloisa.Torp",
+    "joined_at": "2025-03-15T09:25:02.359Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ec90e41d-0843-4129-b3fd-67ebdf3a7af5",
+            "brand": "Howell Group",
+            "tasks_completed": [
+                {
+                    "task_id": "cca8723d-c263-4463-a192-3e42c8ce3abd",
+                    "platform": "TikTok",
+                    "post_url": "https://foolhardy-dandelion.info/",
+                    "likes": 355,
+                    "comments": 0,
+                    "shares": 56,
+                    "reach": 8698
+                }
+            ],
+            "total_sales_attributed": 1679.903830252809
+        }
+    ]
+}

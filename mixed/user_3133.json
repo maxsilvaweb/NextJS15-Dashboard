@@ -1,0 +1,26 @@
+{
+    "user_id": "1eff150a-5960-495a-b46a-66c3eb5fe3f2",
+    "name": "Ryan Carter",
+    "email": "miguelriddle@example.net",
+    "instagram_handle": "@rcolon",
+    "tiktok_handle": "@colton77",
+    "joined_at": "2023-09-20T02:18:09.426827",
+    "advocacy_programs": [
+        {
+            "program_id": "f6447cee-1c18-4a62-b47a-28791050b573",
+            "brand": "Patterson-Oneal",
+            "tasks_completed": [
+                {
+                    "task_id": "7852fa63-cb6e-47b0-a3b3-9bee32c767de",
+                    "platform": "Facebook",
+                    "post_url": "https://considerate-fibre.com",
+                    "likes": 2508,
+                    "comments": 401,
+                    "shares": 65,
+                    "reach": 2398
+                }
+            ],
+            "total_sales_attributed": 738.84
+        }
+    ]
+}

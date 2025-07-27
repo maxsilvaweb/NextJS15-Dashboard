@@ -1,0 +1,26 @@
+{
+    "user_id": "0890f41f-2855-4c36-ab22-1036a17aa66e",
+    "name": "Andrea Howard",
+    "email": "Connie.Robel39@gmail.com",
+    "instagram_handle": "@sanchezvictor",
+    "tiktok_handle": "@michaelward",
+    "joined_at": "2024-12-23T08:46:38.315751",
+    "advocacy_programs": [
+        {
+            "program_id": "43fa7889-0c7f-4e78-ad88-132a80e6c0c1",
+            "brand": "Hopkins-Lane",
+            "tasks_completed": [
+                {
+                    "task_id": "4a3f3eed-f172-4294-8930-853edf147004",
+                    "platform": "Instagram",
+                    "post_url": "http://boyd.com/",
+                    "likes": 4817,
+                    "comments": 365,
+                    "shares": 26,
+                    "reach": 937
+                }
+            ],
+            "total_sales_attributed": 2856.6441950772783
+        }
+    ]
+}

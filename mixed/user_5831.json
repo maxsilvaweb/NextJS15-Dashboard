@@ -1,0 +1,26 @@
+{
+    "user_id": "2362bdd9-e927-4285-9542-eec0c4f47050",
+    "name": "Sarah Lewis",
+    "email": "grobinson@example.net",
+    "instagram_handle": "@amandaflores",
+    "tiktok_handle": "@mosslori",
+    "joined_at": "2023-10-31T21:46:56.379390",
+    "advocacy_programs": [
+        {
+            "program_id": "dc6db92e-82ba-4397-afa8-b40ec8abd57d",
+            "brand": "Sanders, Jones and Howard",
+            "tasks_completed": [
+                {
+                    "task_id": "76a50636-1fc9-42d4-b0fd-c878f23d204d",
+                    "platform": "Instagram",
+                    "post_url": "http://rodriguez.org/",
+                    "likes": 8868,
+                    "comments": 47,
+                    "shares": 14,
+                    "reach": 9396
+                }
+            ],
+            "total_sales_attributed": 1026.8437579355627
+        }
+    ]
+}

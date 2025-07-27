@@ -1,0 +1,26 @@
+{
+    "user_id": "f2e40165-1e76-4aab-b4ba-57b3bc9eccae",
+    "name": "Stephanie Clark",
+    "email": "david87@example.com",
+    "instagram_handle": "@frederick56",
+    "tiktok_handle": "@deborahadams",
+    "joined_at": "2023-08-02T01:24:42.115602",
+    "advocacy_programs": [
+        {
+            "program_id": "bcd6260f-2e96-43d0-8450-c1aaff5957da",
+            "brand": "Flores-Barnett",
+            "tasks_completed": [
+                {
+                    "task_id": "4d723bbf-2133-43ae-bab4-90d6c77a0715",
+                    "platform": "Facebook",
+                    "post_url": "http://griffin-buckley.com/",
+                    "likes": 820,
+                    "comments": 89,
+                    "shares": 48,
+                    "reach": 7675
+                }
+            ],
+            "total_sales_attributed": 7469.62
+        }
+    ]
+}

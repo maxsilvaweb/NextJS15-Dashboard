@@ -1,0 +1,26 @@
+{
+    "user_id": "c2d75f66-1244-40a1-b84f-f5fc1880903a",
+    "name": "Peter Wells",
+    "email": "danieldavis@example.org",
+    "instagram_handle": "@ljackson",
+    "tiktok_handle": "@jamessanchez",
+    "joined_at": "2024-10-27T11:24:43.202957",
+    "advocacy_programs": [
+        {
+            "program_id": "03e94f1d-0240-4815-82c9-62e4b3151ae4",
+            "brand": "Ritter-Conley",
+            "tasks_completed": [
+                {
+                    "task_id": "07397d10-800e-4610-85a1-bce66a0fd18b",
+                    "platform": "YouTube",
+                    "post_url": "http://henry-matthews.info/",
+                    "likes": 5962,
+                    "comments": 69,
+                    "shares": 68,
+                    "reach": 5997
+                }
+            ],
+            "total_sales_attributed": 899.12
+        }
+    ]
+}

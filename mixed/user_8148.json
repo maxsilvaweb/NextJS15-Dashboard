@@ -1,0 +1,26 @@
+{
+    "user_id": "a575623b-17ce-4a5b-9d9f-6da570f6029a",
+    "name": "Paul Bergnaum",
+    "email": "Andy_Schinner@yahoo.com",
+    "instagram_handle": "@Dina34",
+    "tiktok_handle": "@Zack55",
+    "joined_at": "2024-05-15T01:18:20.893Z",
+    "advocacy_programs": [
+        {
+            "program_id": "27ea908d-0c44-4c73-97eb-3b5887f85e2e",
+            "brand": "Stamm - Mitchell",
+            "tasks_completed": [
+                {
+                    "task_id": "3a907569-ae0f-4921-bea3-9706eef7669b",
+                    "platform": "TikTok",
+                    "post_url": "https://queasy-ocelot.net/",
+                    "likes": 470,
+                    "comments": 39,
+                    "shares": 7,
+                    "reach": 5264
+                }
+            ],
+            "total_sales_attributed": 4849.603681933863
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "499ed5bb-44de-48fe-97bf-72a2316a11a0",
+    "name": "Domingo Kulas",
+    "email": "Queen.Emard@gmail.com",
+    "instagram_handle": "@Felipa_Thompson37",
+    "tiktok_handle": "@Ethelyn_Stracke",
+    "joined_at": "2024-09-03T18:22:07.705Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7a6dc42b-f333-4870-bebd-520ce3eb2a6e",
+            "brand": "Marquardt - Rath",
+            "tasks_completed": [
+                {
+                    "task_id": "d9c74679-4b9c-44aa-9b1d-f755c5da3405",
+                    "platform": "TikTok",
+                    "post_url": "https://actual-spear.name/",
+                    "likes": 308,
+                    "comments": 25,
+                    "shares": 91,
+                    "reach": 7431
+                }
+            ],
+            "total_sales_attributed": 2920.151031254769
+        }
+    ]
+}

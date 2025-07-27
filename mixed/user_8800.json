@@ -1,0 +1,26 @@
+{
+    "user_id": "4c3c876e-a1b3-4785-9141-f3b365a6309e",
+    "name": "Dr. Lucas Gross MD",
+    "email": "comptondavid@example.com",
+    "instagram_handle": "@davischristopher",
+    "tiktok_handle": "@mary38",
+    "joined_at": "2024-11-08T03:13:03.882587",
+    "advocacy_programs": [
+        {
+            "program_id": "5536cd16-f8f7-4d75-995a-b6316f93ca71",
+            "brand": "Taylor, Knight and Hall",
+            "tasks_completed": [
+                {
+                    "task_id": "27e5d14c-680e-402a-a6cd-d82005119ca1",
+                    "platform": "Facebook",
+                    "post_url": "https://mcdonald-edwards.org/",
+                    "likes": 238,
+                    "comments": 375,
+                    "shares": 71,
+                    "reach": 6508
+                }
+            ],
+            "total_sales_attributed": 9370.22
+        }
+    ]
+}

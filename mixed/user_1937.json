@@ -1,0 +1,26 @@
+{
+    "user_id": "04ec9123-b850-42b5-854e-808111baf1ff",
+    "name": "Mr. Clyde D'Amore",
+    "email": "Daisy_Heidenreich55@yahoo.com",
+    "instagram_handle": "@Jamarcus_Turcotte32",
+    "tiktok_handle": "@Fabian26",
+    "joined_at": "2025-02-28T21:57:49.488Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ad1b919b-6fa1-45eb-b4cc-fb930f53a35a",
+            "brand": "Muller Group",
+            "tasks_completed": [
+                {
+                    "task_id": "f6b84fe7-b84e-43f4-a8e1-7962c822b3fa",
+                    "platform": "Instagram",
+                    "post_url": "https://motionless-cassava.info/",
+                    "likes": 189,
+                    "comments": 20,
+                    "shares": 51,
+                    "reach": 4552
+                }
+            ],
+            "total_sales_attributed": 3570.1168737982007
+        }
+    ]
+}

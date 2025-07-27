@@ -1,0 +1,26 @@
+{
+    "user_id": "89057085-63c0-49dd-a436-6c47c2867781",
+    "name": "Deborah Gonzalez",
+    "email": "johnsonwilliam@example.net",
+    "instagram_handle": "@jimenezjoseph",
+    "tiktok_handle": "@Celia.Bechtelar",
+    "joined_at": "2024-01-06T21:00:40.574582",
+    "advocacy_programs": [
+        {
+            "program_id": "e3e757f6-f348-4c8d-8039-db2951da94fe",
+            "brand": "Williams Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "43465a78-ac43-47ba-9743-da1908bae732",
+                    "platform": "Facebook",
+                    "post_url": "https://jones.com/",
+                    "likes": 397,
+                    "comments": 92,
+                    "shares": 15,
+                    "reach": 1618
+                }
+            ],
+            "total_sales_attributed": 5735.69
+        }
+    ]
+}

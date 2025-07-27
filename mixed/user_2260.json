@@ -1,0 +1,26 @@
+{
+    "user_id": "e295d20d-6b2d-4d39-b59f-b62559a5a442",
+    "name": "Amber Herrera",
+    "email": "robertagriffin@example.org",
+    "instagram_handle": "@boydangela",
+    "tiktok_handle": "@sheri27",
+    "joined_at": "2024-07-12T19:57:50.618453",
+    "advocacy_programs": [
+        {
+            "program_id": "ac6f9fb3-2454-4b56-b474-33efb7a37aaa",
+            "brand": "Chan, Mitchell and Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "79b275c1-f528-41bc-bc3b-748831f33388",
+                    "platform": "TikTok",
+                    "post_url": "https://perez.biz/",
+                    "likes": 6392,
+                    "comments": 20,
+                    "shares": 55,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2845.77638022388
+        }
+    ]
+}

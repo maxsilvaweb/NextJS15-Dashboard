@@ -1,0 +1,26 @@
+{
+    "user_id": "00a17268-d693-4226-a5b3-8bb6e0d37402",
+    "name": "Robin Green",
+    "email": "tlee@example.org",
+    "instagram_handle": "@jbaldwin",
+    "tiktok_handle": "@samuel35",
+    "joined_at": "2024-11-23T20:29:54.934039",
+    "advocacy_programs": [
+        {
+            "program_id": "5e5ee050-5cb7-4cb8-8399-d34c01c66687",
+            "brand": "Sexton Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "0722cbbe-1d2f-48a6-bb84-0c2623e5fd29",
+                    "platform": "TikTok",
+                    "post_url": "https://www.young.com/",
+                    "likes": 377,
+                    "comments": 273,
+                    "shares": 72,
+                    "reach": 9093
+                }
+            ],
+            "total_sales_attributed": 8157.92
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b5a886ec-2496-4b06-840a-07776c1b4dae",
+    "name": "Timothy Jones",
+    "email": "jason35@example.com",
+    "instagram_handle": "@colemegan",
+    "tiktok_handle": "@destiny40",
+    "joined_at": "2024-10-24T19:10:32.084061",
+    "advocacy_programs": [
+        {
+            "program_id": "b972e483-c913-412e-9d21-fed05e4f352f",
+            "brand": "Mraz, Doyle and Auer",
+            "tasks_completed": [
+                {
+                    "task_id": "8918b67b-2f7d-48d4-a512-14acf138e4fb",
+                    "platform": "Facebook",
+                    "post_url": "https://haley.net/",
+                    "likes": 9147,
+                    "comments": 413,
+                    "shares": 66,
+                    "reach": 3541
+                }
+            ],
+            "total_sales_attributed": 2040.4698574159133
+        }
+    ]
+}

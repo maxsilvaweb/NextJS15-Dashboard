@@ -1,0 +1,26 @@
+{
+    "user_id": "cc623ad2-6a95-4791-b2cd-a71c2b1b07b7",
+    "name": "Melinda Parker",
+    "email": "ortizkristi@example.org",
+    "instagram_handle": "@ntaylor",
+    "tiktok_handle": "@smithjuan",
+    "joined_at": "2024-12-01T07:40:53.528169",
+    "advocacy_programs": [
+        {
+            "program_id": "02be118e-59e1-4f44-a8f5-8032bab45839",
+            "brand": "Hernandez LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "b0f4ca2f-2fb3-4f95-9692-b96ec3299a48",
+                    "platform": "Instagram",
+                    "post_url": "https://www.baker.com/",
+                    "likes": 2059,
+                    "comments": 476,
+                    "shares": 37,
+                    "reach": 7069
+                }
+            ],
+            "total_sales_attributed": 4815.6380152432075
+        }
+    ]
+}

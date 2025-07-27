@@ -1,0 +1,26 @@
+{
+    "user_id": "42d7321d-beb0-4821-b440-10b727a189d1",
+    "name": "Dr. Philip Howe",
+    "email": "Pattie.Thiel88@yahoo.com",
+    "instagram_handle": "@Althea_Quitzon85",
+    "tiktok_handle": "@Adriel34",
+    "joined_at": "2024-04-24T18:09:47.064Z",
+    "advocacy_programs": [
+        {
+            "program_id": "858cfa5a-fbb8-46e8-9bf3-3e49e7053069",
+            "brand": "Blick, Flatley and Waters",
+            "tasks_completed": [
+                {
+                    "task_id": "e52f1cf6-aaff-4b82-af52-36d075badf73",
+                    "platform": "Instagram",
+                    "post_url": "https://heartfelt-tinderbox.com/",
+                    "likes": 90,
+                    "comments": 17,
+                    "shares": 11,
+                    "reach": 3875
+                }
+            ],
+            "total_sales_attributed": 4311.739803810307
+        }
+    ]
+}

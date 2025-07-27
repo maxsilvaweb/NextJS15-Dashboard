@@ -1,0 +1,26 @@
+{
+    "user_id": "60288a09-0116-4bd7-a700-ec66db457109",
+    "name": "Tracy Macejkovic",
+    "email": "Richmond.Konopelski57@yahoo.com",
+    "instagram_handle": "@Freida.Gusikowski2",
+    "tiktok_handle": "@Luz_Balistreri",
+    "joined_at": "2024-09-09T08:31:13.164Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ce5d1f1d-95d5-4f83-ac96-c5038f3cae25",
+            "brand": "Stokes and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "5f4adff9-67db-4cf4-8185-10d656849b23",
+                    "platform": "Instagram",
+                    "post_url": "https://firm-spirit.biz/",
+                    "likes": 454,
+                    "comments": 24,
+                    "shares": 70,
+                    "reach": 3378
+                }
+            ],
+            "total_sales_attributed": 2624.52712011431
+        }
+    ]
+}

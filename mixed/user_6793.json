@@ -1,0 +1,26 @@
+{
+    "user_id": "b92adf25-d98d-4b50-8584-842ac5c16737",
+    "name": "Christopher Smith",
+    "email": "Wilfred_Will51@gmail.com",
+    "instagram_handle": "@Fanny53",
+    "tiktok_handle": "@kjimenez",
+    "joined_at": "2023-08-21T05:14:01.798646",
+    "advocacy_programs": [
+        {
+            "program_id": "a330a8b2-ead3-4cf1-a029-55a4b2968349",
+            "brand": "May-Valencia",
+            "tasks_completed": [
+                {
+                    "task_id": "9ce8ad52-50c9-4108-98c0-b5450190bd34",
+                    "platform": "Twitter",
+                    "post_url": "http://www.allen-ballard.net/",
+                    "likes": 3045,
+                    "comments": 57,
+                    "shares": 91,
+                    "reach": 9362
+                }
+            ],
+            "total_sales_attributed": 2979.46
+        }
+    ]
+}

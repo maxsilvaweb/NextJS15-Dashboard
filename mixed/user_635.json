@@ -1,0 +1,26 @@
+{
+    "user_id": "c473ad69-8aa5-4aaa-8b1d-805f662376c8",
+    "name": "Mrs. Judith Ankunding",
+    "email": "Kitty94@gmail.com",
+    "instagram_handle": "@Jarrett.Muller",
+    "tiktok_handle": "@Elenor.Turcotte",
+    "joined_at": "2024-06-29T01:05:17.852Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b2b08540-4741-4e8f-a105-5d38be67ddab",
+            "brand": "Parisian, Lemke and Gutkowski",
+            "tasks_completed": [
+                {
+                    "task_id": "1b9b73aa-cf2f-4d96-92a8-1f49e4e3d741",
+                    "platform": "TikTok",
+                    "post_url": "https://clear-guidance.biz",
+                    "likes": 77,
+                    "comments": 48,
+                    "shares": 12,
+                    "reach": 4380
+                }
+            ],
+            "total_sales_attributed": 518.5567551954613
+        }
+    ]
+}

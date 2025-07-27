@@ -1,0 +1,26 @@
+{
+    "user_id": "f4785c91-b064-41bf-b6e3-95c701f9643d",
+    "name": "Florence Effertz",
+    "email": "Benton.Gorczany@gmail.com",
+    "instagram_handle": "@Clifford_Kuphal",
+    "tiktok_handle": "@Carmella.Huel-Witting61",
+    "joined_at": "2025-02-21T10:30:31.136Z",
+    "advocacy_programs": [
+        {
+            "program_id": "91ff8fff-bd01-495b-936e-6cd1bf2fb4ad",
+            "brand": "Schamberger, Von and Ruecker",
+            "tasks_completed": [
+                {
+                    "task_id": "02e36d3c-4730-458f-a990-650e1b4edf0e",
+                    "platform": "TikTok",
+                    "post_url": "https://shady-circumference.info",
+                    "likes": 286,
+                    "comments": 39,
+                    "shares": 41,
+                    "reach": 7621
+                }
+            ],
+            "total_sales_attributed": 2850.8987378098936
+        }
+    ]
+}

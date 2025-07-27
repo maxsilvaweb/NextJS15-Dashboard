@@ -1,0 +1,26 @@
+{
+    "user_id": "3edda9d5-56fa-4023-864f-daee8c9f4e35",
+    "name": "Stephen Mayert",
+    "email": "Ward.Feeney20@hotmail.com",
+    "instagram_handle": "@Cary.Wunsch",
+    "tiktok_handle": "@Reanna_Mitchell",
+    "joined_at": "2025-01-15T01:22:55.987Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d6bae833-6314-44c4-b064-93b5b9956184",
+            "brand": "Koepp LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "02cd476a-6f98-4179-a9d9-f956c6db2bbf",
+                    "platform": "Instagram",
+                    "post_url": "https://lanky-cricket.com",
+                    "likes": 376,
+                    "comments": 49,
+                    "shares": 40,
+                    "reach": 6142
+                }
+            ],
+            "total_sales_attributed": 2034.4265464673174
+        }
+    ]
+}

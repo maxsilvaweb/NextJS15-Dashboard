@@ -1,0 +1,26 @@
+{
+    "user_id": "2d2235ec-8d42-4bd4-8233-127e0beb2a64",
+    "name": "Miss Rosalie O'Kon",
+    "email": "Kaycee89@gmail.com",
+    "instagram_handle": "@Enola18",
+    "tiktok_handle": "@Ulises63",
+    "joined_at": "2024-10-18T18:49:42.055Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fb83424c-2bf6-4d4f-9f89-aff4bec31892",
+            "brand": "Mosciski Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "cbf79fbc-ee23-4686-9e7e-4295ced4bfa2",
+                    "platform": "TikTok",
+                    "post_url": "https://affectionate-attraction.net",
+                    "likes": 75,
+                    "comments": 13,
+                    "shares": 5,
+                    "reach": 6903
+                }
+            ],
+            "total_sales_attributed": 2063.4762091639795
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9d432804-a89e-4c31-b0d3-d97ec2d885e8",
+    "name": "Ada Schmitt",
+    "email": "Cooper_Sporer@hotmail.com",
+    "instagram_handle": "@Seamus_Kirlin",
+    "tiktok_handle": "@Amanda98",
+    "joined_at": "2024-12-02T03:51:20.602Z",
+    "advocacy_programs": [
+        {
+            "program_id": "70905bba-e7c7-477c-882e-412ceff00c42",
+            "brand": "White - Boehm",
+            "tasks_completed": [
+                {
+                    "task_id": "3636ddd2-a7e8-4aca-ab69-e51a5328c4a8",
+                    "platform": "Instagram",
+                    "post_url": "https://clear-cut-cash.name/",
+                    "likes": 167,
+                    "comments": 49,
+                    "shares": 19,
+                    "reach": 1029
+                }
+            ],
+            "total_sales_attributed": 2314.5999112388
+        }
+    ]
+}

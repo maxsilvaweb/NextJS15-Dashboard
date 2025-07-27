@@ -1,0 +1,26 @@
+{
+    "user_id": "8d18fb30-5d36-4978-bc7c-e81b46a9ff9a",
+    "name": "Ian Boyd",
+    "email": "daniel49@example.com",
+    "instagram_handle": "@ryanvega",
+    "tiktok_handle": "@penningtonolivia",
+    "joined_at": "2025-02-11T11:30:14.043032",
+    "advocacy_programs": [
+        {
+            "program_id": "5daf7950-d4df-49f6-aefd-dd45aef6071a",
+            "brand": "Reed-Martinez",
+            "tasks_completed": [
+                {
+                    "task_id": "6f86df7d-8ed2-4199-96aa-8fd3a72fd836",
+                    "platform": "Twitter",
+                    "post_url": "http://nicholson-carter.com/",
+                    "likes": 2899,
+                    "comments": 32,
+                    "shares": 17,
+                    "reach": 8659
+                }
+            ],
+            "total_sales_attributed": 6690.35
+        }
+    ]
+}

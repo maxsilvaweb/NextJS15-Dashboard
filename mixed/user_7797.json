@@ -1,0 +1,26 @@
+{
+    "user_id": "835f5c74-ed50-4181-9049-0a60a2f5c2d1",
+    "name": "Sonia O'Reilly",
+    "email": "Retha96@hotmail.com",
+    "instagram_handle": "@Bobby_Sporer",
+    "tiktok_handle": "@Ally_McKenzie76",
+    "joined_at": "2024-06-20T02:29:59.853Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d1635682-abdb-45bb-93c2-852085d6d2a3",
+            "brand": "Jacobson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f184bee2-395f-4202-8048-647d69d085aa",
+                    "platform": "Instagram",
+                    "post_url": "https://well-made-courtroom.info",
+                    "likes": 108,
+                    "comments": 22,
+                    "shares": 79,
+                    "reach": 7197
+                }
+            ],
+            "total_sales_attributed": 587.0575387271674
+        }
+    ]
+}

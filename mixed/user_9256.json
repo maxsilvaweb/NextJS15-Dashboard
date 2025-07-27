@@ -1,0 +1,26 @@
+{
+    "user_id": "5b47c99d-7a5c-4189-9286-1050eb061408",
+    "name": "Pamela Guerrero",
+    "email": "melindachan@example.org",
+    "instagram_handle": "@melissa21",
+    "tiktok_handle": "@cordovaconnie",
+    "joined_at": "2023-10-09T02:26:35.657325",
+    "advocacy_programs": [
+        {
+            "program_id": "edcf06ff-5f12-4f60-938c-210a81a59f89",
+            "brand": "Kelley Group",
+            "tasks_completed": [
+                {
+                    "task_id": "01e2c923-4c4d-45ff-9245-fd1053edf154",
+                    "platform": "TikTok",
+                    "post_url": "https://www.holmes.com/",
+                    "likes": 209,
+                    "comments": 23,
+                    "shares": 26,
+                    "reach": 8458
+                }
+            ],
+            "total_sales_attributed": 6914.61
+        }
+    ]
+}

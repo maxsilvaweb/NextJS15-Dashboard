@@ -1,0 +1,26 @@
+{
+    "user_id": "e485d6e9-c8b1-423e-8fa3-4fd27cfd2d01",
+    "name": "Roderick Metz",
+    "email": "Eileen41@gmail.com",
+    "instagram_handle": "@Gertrude33",
+    "tiktok_handle": "@Vidal.Nolan",
+    "joined_at": "2024-11-16T06:25:16.584Z",
+    "advocacy_programs": [
+        {
+            "program_id": "aa2dce18-7a29-42be-850f-dff71fdc8f24",
+            "brand": "Stiedemann - Schmeler",
+            "tasks_completed": [
+                {
+                    "task_id": "d0c71f4a-ad8d-4960-a5bb-321f23aca6b3",
+                    "platform": "Instagram",
+                    "post_url": "https://golden-viability.net/",
+                    "likes": 195,
+                    "comments": 41,
+                    "shares": 77,
+                    "reach": 2650
+                }
+            ],
+            "total_sales_attributed": 2224.7837232401484
+        }
+    ]
+}

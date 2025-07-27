@@ -1,0 +1,26 @@
+{
+    "user_id": "9eb1770a-b4e3-4264-ad8d-2050a1759ac7",
+    "name": "Alan Watts MD",
+    "email": "nrichardson@example.org",
+    "instagram_handle": "@eric52",
+    "tiktok_handle": "@rdennis",
+    "joined_at": "2024-05-29T21:30:25.306320",
+    "advocacy_programs": [
+        {
+            "program_id": "5297dac1-b357-4a59-b61b-366b3b197f30",
+            "brand": "Kelly Group",
+            "tasks_completed": [
+                {
+                    "task_id": "962d7f8c-a5f2-406e-8fda-05041d450f6f",
+                    "platform": "TikTok",
+                    "post_url": "https://well-made-litter.net",
+                    "likes": 365,
+                    "comments": 244,
+                    "shares": 60,
+                    "reach": 7172
+                }
+            ],
+            "total_sales_attributed": 1861.04
+        }
+    ]
+}

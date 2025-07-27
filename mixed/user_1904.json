@@ -1,0 +1,26 @@
+{
+    "user_id": "fac4529a-78b1-491f-a87a-c094d0e61db5",
+    "name": "Ms. Ida Lemke",
+    "email": "Johathan.Buckridge72@yahoo.com",
+    "instagram_handle": "@Wilburn88",
+    "tiktok_handle": "@Xander.Kuhic",
+    "joined_at": "2024-12-06T08:29:42.162Z",
+    "advocacy_programs": [
+        {
+            "program_id": "71e03f67-09ea-41d3-bb93-8c15f542b75d",
+            "brand": "Hegmann - Braun",
+            "tasks_completed": [
+                {
+                    "task_id": "be7c8a57-0466-46df-b79a-9a59162394e7",
+                    "platform": "Instagram",
+                    "post_url": "https://thorny-ecliptic.org/",
+                    "likes": 32,
+                    "comments": 39,
+                    "shares": 17,
+                    "reach": 1408
+                }
+            ],
+            "total_sales_attributed": 2714.1749617715536
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "114d86cd-778d-4d15-985c-7a77469f8459",
+    "name": "Emily Martin",
+    "email": "david61@example.com",
+    "instagram_handle": "@daniel67",
+    "tiktok_handle": "@tarias",
+    "joined_at": "2024-02-26T21:31:09.019076",
+    "advocacy_programs": [
+        {
+            "program_id": "391ac6ec-1c8e-4b7e-82b1-70f8f01e9697",
+            "brand": "Hubbard-Sherman",
+            "tasks_completed": [
+                {
+                    "task_id": "b7a6dd88-ffea-4436-9b5b-349e6c10c733",
+                    "platform": "Facebook",
+                    "post_url": "http://www.burnett-mays.com/",
+                    "likes": 1911,
+                    "comments": 258,
+                    "shares": 75,
+                    "reach": 8885
+                }
+            ],
+            "total_sales_attributed": 9845.52
+        }
+    ]
+}

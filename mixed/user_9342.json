@@ -1,0 +1,26 @@
+{
+    "user_id": "9645b2f9-29c5-4909-9dcf-e4055f74b8d5",
+    "name": "Guillermo Schoen",
+    "email": "andersonjason@example.org",
+    "instagram_handle": "@walexander",
+    "tiktok_handle": "@dnelson",
+    "joined_at": "2024-04-20T19:59:03.471Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d34a2463-ec11-471f-9cc0-24d784abb184",
+            "brand": "Hall, Sawyer and Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "5ca3421d-45b1-453a-ae2e-7ba8a47ffcc0",
+                    "platform": "Instagram",
+                    "post_url": "https://stunning-eternity.net",
+                    "likes": 1447,
+                    "comments": 337,
+                    "shares": 65,
+                    "reach": 9624
+                }
+            ],
+            "total_sales_attributed": 8974.31
+        }
+    ]
+}

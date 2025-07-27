@@ -1,0 +1,26 @@
+{
+    "user_id": "d088da63-558d-4008-b378-fde896abafd8",
+    "name": "Michelle Harris",
+    "email": "christy53@example.net",
+    "instagram_handle": "@wangfrancisco",
+    "tiktok_handle": "@dennis90",
+    "joined_at": "2024-02-17T05:19:50.413337",
+    "advocacy_programs": [
+        {
+            "program_id": "62a01b51-149b-428f-92ba-34d2a63df8a1",
+            "brand": "Allen, Davis and Jackson",
+            "tasks_completed": [
+                {
+                    "task_id": "1a242d25-42a3-4dd8-896e-8de953e70db8",
+                    "platform": "Instagram",
+                    "post_url": "https://fruitful-mathematics.info/",
+                    "likes": 125,
+                    "comments": 474,
+                    "shares": 52,
+                    "reach": 9055
+                }
+            ],
+            "total_sales_attributed": 142.46206171850474
+        }
+    ]
+}

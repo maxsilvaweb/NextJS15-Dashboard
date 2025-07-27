@@ -1,0 +1,26 @@
+{
+    "user_id": "c323aa37-d5c9-4fc0-a0f5-fe190347af52",
+    "name": "Christina Graham",
+    "email": "christine54@example.net",
+    "instagram_handle": "@sophiamoore",
+    "tiktok_handle": "@campbellrobert",
+    "joined_at": "2024-09-14T19:26:00.565Z",
+    "advocacy_programs": [
+        {
+            "program_id": "12d0c79f-8096-404f-9b84-8ec95deac081",
+            "brand": "Byrd-Bruce",
+            "tasks_completed": [
+                {
+                    "task_id": "dd22b3ba-bb31-4163-9737-0936312b3a22",
+                    "platform": "Facebook",
+                    "post_url": "http://www.harris.com/",
+                    "likes": 8032,
+                    "comments": 419,
+                    "shares": 42,
+                    "reach": 2678
+                }
+            ],
+            "total_sales_attributed": 8275.66
+        }
+    ]
+}

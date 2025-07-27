@@ -1,0 +1,26 @@
+{
+    "user_id": "7712775f-0b27-4eee-a484-96180d353bd4",
+    "name": "Miguel Funk",
+    "email": "Aglae.Bode76@yahoo.com",
+    "instagram_handle": "@Arianna70",
+    "tiktok_handle": "@Destany_Grimes87",
+    "joined_at": "2024-11-28T06:26:09.611Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7e1878f0-44d2-4f63-ae19-800abb6108e7",
+            "brand": "Weissnat LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5bfc6f43-f114-43a0-8a5f-75bca7ca113c",
+                    "platform": "Instagram",
+                    "post_url": "https://well-lit-cosset.biz",
+                    "likes": 128,
+                    "comments": 15,
+                    "shares": 96,
+                    "reach": 9968
+                }
+            ],
+            "total_sales_attributed": 465.3495790642566
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e3dddcd9-954c-4fec-9d8c-24811f2496f4",
+    "name": "Laura Owens",
+    "email": "brockxavier@example.com",
+    "instagram_handle": "@bakermichelle",
+    "tiktok_handle": "@jonesdebra",
+    "joined_at": "2025-06-28T14:02:37.774589",
+    "advocacy_programs": [
+        {
+            "program_id": "958fa9d3-be26-43f3-88fc-f6fca55f1dba",
+            "brand": "Russell and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "1e5226ff-c91a-42e9-a77f-32f9a4be3e78",
+                    "platform": "Facebook",
+                    "post_url": "https://harrington.com/",
+                    "likes": 8365,
+                    "comments": 373,
+                    "shares": 69,
+                    "reach": 7678
+                }
+            ],
+            "total_sales_attributed": 5745.66
+        }
+    ]
+}

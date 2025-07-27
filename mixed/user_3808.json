@@ -1,0 +1,26 @@
+{
+    "user_id": "89e6a297-db4a-4bc1-9a71-e3eac6a97a36",
+    "name": "Denise Smith",
+    "email": "donald88@example.org",
+    "instagram_handle": "@heather77",
+    "tiktok_handle": "@rblack",
+    "joined_at": "2024-08-25T19:34:51.759875",
+    "advocacy_programs": [
+        {
+            "program_id": "25619457-d0a6-4248-912d-5d8865198164",
+            "brand": "Mckenzie Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "c3353ecb-93b1-4e1e-842e-23b3c1a4d27c",
+                    "platform": "Instagram",
+                    "post_url": "http://www.gonzalez-mcdonald.com/",
+                    "likes": 8919,
+                    "comments": 117,
+                    "shares": 6,
+                    "reach": 617
+                }
+            ],
+            "total_sales_attributed": 1067.1
+        }
+    ]
+}

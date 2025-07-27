@@ -1,0 +1,26 @@
+{
+    "user_id": "c70f1843-5619-4c59-a096-e0fe4d79e4c4",
+    "name": "Larry Berge",
+    "email": "Columbus.Koch@yahoo.com",
+    "instagram_handle": "@Mertie_Okuneva29",
+    "tiktok_handle": "@Jermaine59",
+    "joined_at": "2024-12-05T23:26:25.018Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f5273936-66c5-4f20-b4fd-3bac02715c08",
+            "brand": "Gusikowski, Wolff and Ruecker",
+            "tasks_completed": [
+                {
+                    "task_id": "938f6acc-040f-410b-b370-11d0a3706f30",
+                    "platform": "Instagram",
+                    "post_url": "https://lucky-place.org",
+                    "likes": 210,
+                    "comments": 16,
+                    "shares": 55,
+                    "reach": 884
+                }
+            ],
+            "total_sales_attributed": 4666.4595183769425
+        }
+    ]
+}

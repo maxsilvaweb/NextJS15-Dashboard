@@ -1,0 +1,26 @@
+{
+    "user_id": "8d2afa56-186e-4640-9f34-d49e6fd0ded4",
+    "name": "Robert Payne",
+    "email": "Howell95@yahoo.com",
+    "instagram_handle": "@maria71",
+    "tiktok_handle": "@christopherbeck",
+    "joined_at": "2023-07-30T00:03:25.501727",
+    "advocacy_programs": [
+        {
+            "program_id": "ae77be54-7af3-4359-b60e-3c75d4a51546",
+            "brand": "Hicks, Perez and Yoder",
+            "tasks_completed": [
+                {
+                    "task_id": "51709080-0c3d-4b5f-b3f0-21287cc5fdd8",
+                    "platform": "Instagram",
+                    "post_url": "http://ray-goodwin.biz/",
+                    "likes": 14,
+                    "comments": 324,
+                    "shares": 55,
+                    "reach": 2466
+                }
+            ],
+            "total_sales_attributed": 8310.64
+        }
+    ]
+}

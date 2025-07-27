@@ -1,0 +1,26 @@
+{
+    "user_id": "122ca3ef-9e31-4af0-9889-92a9f5112b45",
+    "name": "Toni Cronin",
+    "email": "Salma_Goyette@yahoo.com",
+    "instagram_handle": "@Bailey_McKenzie91",
+    "tiktok_handle": "@Connor.Green76",
+    "joined_at": "2024-08-09T20:12:12.072Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d77f3c34-14a1-4377-91ba-34bb3afa8b22",
+            "brand": "Heidenreich Group",
+            "tasks_completed": [
+                {
+                    "task_id": "426c62a1-c6f3-4005-ba50-dc7cc09b0117",
+                    "platform": "TikTok",
+                    "post_url": "https://big-parsnip.name",
+                    "likes": 196,
+                    "comments": 28,
+                    "shares": 33,
+                    "reach": 4567
+                }
+            ],
+            "total_sales_attributed": 2961.8177052142614
+        }
+    ]
+}

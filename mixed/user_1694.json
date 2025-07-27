@@ -1,0 +1,26 @@
+{
+    "user_id": "fed49f35-c2d2-4759-9eb5-35b389bd8a05",
+    "name": "Lisa Lee",
+    "email": "Barney.Grady9@hotmail.com",
+    "instagram_handle": "@barbermonica",
+    "tiktok_handle": "@coreydennis",
+    "joined_at": "2025-03-19T10:50:40.652916",
+    "advocacy_programs": [
+        {
+            "program_id": "4482b75c-6220-40ff-acad-587247e55910",
+            "brand": "Berger LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "46e0e96a-3999-44ae-a9b5-44e76e02bf3f",
+                    "platform": "Facebook",
+                    "post_url": "https://tempting-cap.name",
+                    "likes": 9586,
+                    "comments": 470,
+                    "shares": 63,
+                    "reach": 7950
+                }
+            ],
+            "total_sales_attributed": 7219.7
+        }
+    ]
+}

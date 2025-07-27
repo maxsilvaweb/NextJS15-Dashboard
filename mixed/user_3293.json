@@ -1,0 +1,26 @@
+{
+    "user_id": "2fcdc545-8ada-494c-b742-1de6c93d5b46",
+    "name": "Elaine Strosin",
+    "email": "Nasir12@hotmail.com",
+    "instagram_handle": "@Annabelle.Steuber63",
+    "tiktok_handle": "@Sigrid.Howe",
+    "joined_at": "2024-08-13T04:34:54.211Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ee11578a-629f-4616-8fd0-a1f021cbbee1",
+            "brand": "Emard, Hayes and Klocko",
+            "tasks_completed": [
+                {
+                    "task_id": "1830c85a-3250-499d-9615-76493595b009",
+                    "platform": "Instagram",
+                    "post_url": "https://palatable-tentacle.net",
+                    "likes": 399,
+                    "comments": 9,
+                    "shares": 48,
+                    "reach": 8973
+                }
+            ],
+            "total_sales_attributed": 3415.413793990033
+        }
+    ]
+}

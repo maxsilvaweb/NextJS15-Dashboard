@@ -1,0 +1,26 @@
+{
+    "user_id": "dc39dbbc-62f2-40de-8f48-25e0b0a9e7f5",
+    "name": "Nathan Robertson",
+    "email": "Gavin.Schiller44@gmail.com",
+    "instagram_handle": "@schultzalexander",
+    "tiktok_handle": "@abigail78",
+    "joined_at": "2024-03-11T04:19:55.110286",
+    "advocacy_programs": [
+        {
+            "program_id": "9b6692a6-c417-4b74-a53d-928dd1e6169d",
+            "brand": "Price-Guerrero",
+            "tasks_completed": [
+                {
+                    "task_id": "d6ba1f72-530c-48e3-a0d1-9f462b167f4f",
+                    "platform": "Facebook",
+                    "post_url": "http://jackson-jacobson.biz/",
+                    "likes": 474,
+                    "comments": 76,
+                    "shares": 84,
+                    "reach": 8018
+                }
+            ],
+            "total_sales_attributed": 2893.51
+        }
+    ]
+}

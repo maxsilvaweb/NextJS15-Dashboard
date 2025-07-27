@@ -1,0 +1,26 @@
+{
+    "user_id": "cb9ca3dd-1b51-4671-a370-d2d7970fc127",
+    "name": "Lindsay Moran",
+    "email": "Thalia3@yahoo.com",
+    "instagram_handle": "@haletodd",
+    "tiktok_handle": "@wfleming",
+    "joined_at": "2025-02-28T17:27:34.950387",
+    "advocacy_programs": [
+        {
+            "program_id": "9b7600b7-467d-4e04-87ec-99d9c506f780",
+            "brand": "Mitchell Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d16ca147-4d5b-458b-8b0b-021c904d4164",
+                    "platform": "Instagram",
+                    "post_url": "https://www.woods.com/",
+                    "likes": 12,
+                    "comments": 150,
+                    "shares": 27,
+                    "reach": 7543
+                }
+            ],
+            "total_sales_attributed": 1705.12
+        }
+    ]
+}

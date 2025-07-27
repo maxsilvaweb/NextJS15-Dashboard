@@ -1,0 +1,26 @@
+{
+    "user_id": "91697ac0-0495-4b54-a753-fd0891f38608",
+    "name": "Erin Alexander",
+    "email": "traci21@example.net",
+    "instagram_handle": "@campbellgregory",
+    "tiktok_handle": "@michele35",
+    "joined_at": "2025-05-09T12:02:08.285060",
+    "advocacy_programs": [
+        {
+            "program_id": "e0bbb145-c3e5-45ce-8cfe-f2692d7a17e6",
+            "brand": "Rodriguez-Henderson",
+            "tasks_completed": [
+                {
+                    "task_id": "439b9e16-0242-4105-acfe-d4958aa7f704",
+                    "platform": "TikTok",
+                    "post_url": "https://unwieldy-teriyaki.org/",
+                    "likes": 593,
+                    "comments": 30,
+                    "shares": 16,
+                    "reach": 3354
+                }
+            ],
+            "total_sales_attributed": 6519.68
+        }
+    ]
+}

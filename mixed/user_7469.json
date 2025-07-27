@@ -1,0 +1,26 @@
+{
+    "user_id": "9e86a614-cb65-402b-a1c5-28ee5c4ed8fa",
+    "name": "Hattie Aufderhar",
+    "email": "Mathilde_Beier51@hotmail.com",
+    "instagram_handle": "@Vivian_Rempel",
+    "tiktok_handle": "@Korey_Ferry",
+    "joined_at": "2024-04-01T15:43:50.726Z",
+    "advocacy_programs": [
+        {
+            "program_id": "be1685b5-0da6-42c8-9014-b9e7eb1c69c8",
+            "brand": "Torp Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b275b1e6-52ea-44e8-ae36-6f93703f4645",
+                    "platform": "Instagram",
+                    "post_url": "https://speedy-pigpen.info",
+                    "likes": 95,
+                    "comments": 27,
+                    "shares": 69,
+                    "reach": 3191
+                }
+            ],
+            "total_sales_attributed": 4704.50215951648
+        }
+    ]
+}

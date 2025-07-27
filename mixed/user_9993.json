@@ -1,0 +1,26 @@
+{
+    "user_id": "ada9c2d7-697e-4d07-9bc4-8f8119332e48",
+    "name": "Evan Fernandez",
+    "email": "grayerin@example.net",
+    "instagram_handle": "@Dorothy95",
+    "tiktok_handle": "@dianajohnson",
+    "joined_at": "2024-12-06T19:28:40.043435",
+    "advocacy_programs": [
+        {
+            "program_id": "268fd7cf-f6a3-4f79-9782-63b180bf54ac",
+            "brand": "Garner, Edwards and Gonzales",
+            "tasks_completed": [
+                {
+                    "task_id": "7b565878-d837-49c5-86ae-a745b377a871",
+                    "platform": "YouTube",
+                    "post_url": "https://gummy-kick.net/",
+                    "likes": 8690,
+                    "comments": 108,
+                    "shares": 91,
+                    "reach": 8151
+                }
+            ],
+            "total_sales_attributed": 727.83
+        }
+    ]
+}

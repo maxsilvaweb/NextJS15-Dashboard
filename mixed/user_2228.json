@@ -1,0 +1,26 @@
+{
+    "user_id": "0f37a2db-c554-427b-82fc-f58a29c563e5",
+    "name": "James Williams",
+    "email": "Justice_Stiedemann@yahoo.com",
+    "instagram_handle": "@mherman",
+    "tiktok_handle": "@andrew72",
+    "joined_at": "2024-12-27T05:40:13.953589",
+    "advocacy_programs": [
+        {
+            "program_id": "f1d2a805-51db-4232-9084-7953c95b9c9a",
+            "brand": "Fernandez-Thomas",
+            "tasks_completed": [
+                {
+                    "task_id": "5919f813-2b1f-4943-82cc-061d3a2267ff",
+                    "platform": "TikTok",
+                    "post_url": "http://www.rodriguez-austin.com/",
+                    "likes": 2924,
+                    "comments": 114,
+                    "shares": 91,
+                    "reach": 4106
+                }
+            ],
+            "total_sales_attributed": 244.78646864753833
+        }
+    ]
+}

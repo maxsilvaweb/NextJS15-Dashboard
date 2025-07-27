@@ -1,0 +1,26 @@
+{
+    "user_id": "308f30fb-c9ba-432f-92f3-411255c04dcf",
+    "name": "Christopher Nunez",
+    "email": "Dusty.Braun6@yahoo.com",
+    "instagram_handle": "@cynthia83",
+    "tiktok_handle": "@michaeldowns",
+    "joined_at": "2025-01-22T09:19:56.087409",
+    "advocacy_programs": [
+        {
+            "program_id": "73f517cb-1aed-4eab-b3ed-8596ba36a798",
+            "brand": "Brooks Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "e263a89a-6848-4394-b5c1-7ec13404e507",
+                    "platform": "TikTok",
+                    "post_url": "http://carr.biz/",
+                    "likes": 2987,
+                    "comments": 9,
+                    "shares": 14,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 8016.84
+        }
+    ]
+}

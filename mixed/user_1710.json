@@ -1,0 +1,26 @@
+{
+    "user_id": "748b72c9-c549-4244-b1e1-4b26665171c8",
+    "name": "Rosie Koelpin",
+    "email": "Zula.Kub@hotmail.com",
+    "instagram_handle": "@Judson.West",
+    "tiktok_handle": "@Maribel.Schneider88",
+    "joined_at": "2024-09-05T02:39:40.013Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b6636cd3-3c11-448c-9168-51d3e69b2223",
+            "brand": "Hoeger, Kris and Crooks",
+            "tasks_completed": [
+                {
+                    "task_id": "2331e093-8aaf-4c35-a21a-35c6decc8f86",
+                    "platform": "TikTok",
+                    "post_url": "https://ajar-commodity.name/",
+                    "likes": 254,
+                    "comments": 42,
+                    "shares": 96,
+                    "reach": 8565
+                }
+            ],
+            "total_sales_attributed": 2875.9689174689547
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a301ee02-151f-400f-a4b9-aff72d091157",
+    "name": "John Wilson",
+    "email": "Margarette.Nicolas58@yahoo.com",
+    "instagram_handle": "@cbrown",
+    "tiktok_handle": "@wgill",
+    "joined_at": "2023-12-28T08:14:04.154728",
+    "advocacy_programs": [
+        {
+            "program_id": "5742ed50-2dce-4e34-956a-f51620e47ab8",
+            "brand": "Wright, Diaz and Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "29a74288-c976-447b-9336-520ead750849",
+                    "platform": "Facebook",
+                    "post_url": "https://jackson-glenn.org/",
+                    "likes": 8449,
+                    "comments": 478,
+                    "shares": 49,
+                    "reach": 732
+                }
+            ],
+            "total_sales_attributed": 392.4951857757217
+        }
+    ]
+}

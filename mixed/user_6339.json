@@ -1,0 +1,26 @@
+{
+    "user_id": "75f40fd7-698d-4579-914c-44a829b4444e",
+    "name": "Mr. Tim Hayes",
+    "email": "Brett13@yahoo.com",
+    "instagram_handle": "@Claudia.DAmore",
+    "tiktok_handle": "@Grayson70",
+    "joined_at": "2024-04-15T20:58:32.366Z",
+    "advocacy_programs": [
+        {
+            "program_id": "20f0144e-bfa2-4841-8062-22e16883abad",
+            "brand": "Conroy, Klocko and Gerhold",
+            "tasks_completed": [
+                {
+                    "task_id": "2cccf205-607a-4ecd-aeb8-5ac742b71bcc",
+                    "platform": "Instagram",
+                    "post_url": "https://baggy-decongestant.name",
+                    "likes": 340,
+                    "comments": 34,
+                    "shares": 28,
+                    "reach": 1021
+                }
+            ],
+            "total_sales_attributed": 1770.513893599303
+        }
+    ]
+}

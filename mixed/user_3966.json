@@ -1,0 +1,26 @@
+{
+    "user_id": "9831593d-668f-45df-8caa-89038f320d6c",
+    "name": "Veronica Casper",
+    "email": "Maxwell_Champlin@gmail.com",
+    "instagram_handle": "@Ruthie91",
+    "tiktok_handle": "@Janessa.Walsh",
+    "joined_at": "2025-03-14T23:38:14.548Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7eed3500-fba0-4200-8e12-f2d2ee12e682",
+            "brand": "Borer - Rippin",
+            "tasks_completed": [
+                {
+                    "task_id": "d571ef7e-4c09-4081-9851-28b6e79e303b",
+                    "platform": "TikTok",
+                    "post_url": "https://ultimate-tray.org/",
+                    "likes": 24,
+                    "comments": 35,
+                    "shares": 42,
+                    "reach": 7935
+                }
+            ],
+            "total_sales_attributed": 1229.1204932152682
+        }
+    ]
+}

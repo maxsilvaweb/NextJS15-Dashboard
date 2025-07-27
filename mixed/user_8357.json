@@ -1,0 +1,26 @@
+{
+    "user_id": "f1978f86-c7a9-49bc-a06e-7b0660f3c75d",
+    "name": "Miss Josephine Huels",
+    "email": "Kody_Hills22@yahoo.com",
+    "instagram_handle": "@Carole.Kemmer45",
+    "tiktok_handle": "@Dawson37",
+    "joined_at": "2024-03-27T22:53:05.709Z",
+    "advocacy_programs": [
+        {
+            "program_id": "28bf5b1d-c045-4ed2-be02-fcded778783b",
+            "brand": "Cummings and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "57a57d41-36b4-4588-bf23-226b74e8e30a",
+                    "platform": "TikTok",
+                    "post_url": "https://wry-premier.com",
+                    "likes": 248,
+                    "comments": 24,
+                    "shares": 9,
+                    "reach": 9735
+                }
+            ],
+            "total_sales_attributed": 2755.475384123929
+        }
+    ]
+}

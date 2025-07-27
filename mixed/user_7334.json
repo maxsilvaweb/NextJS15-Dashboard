@@ -1,0 +1,26 @@
+{
+    "user_id": "4d8370de-a25e-4e84-9436-c9fc492f9c39",
+    "name": "Thomas Baldwin",
+    "email": "cindyhoward@example.net",
+    "instagram_handle": "@juliemartin",
+    "tiktok_handle": "@michael72",
+    "joined_at": "2025-04-24T21:28:21.984592",
+    "advocacy_programs": [
+        {
+            "program_id": "4e7d36f8-8ee3-4459-ba3b-303028ca55a3",
+            "brand": "Alexander Group",
+            "tasks_completed": [
+                {
+                    "task_id": "f3621982-f3ef-4c73-91d4-697a304e281a",
+                    "platform": "Instagram",
+                    "post_url": "https://rundown-formula.org/",
+                    "likes": 189,
+                    "comments": 282,
+                    "shares": 47,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 716.0628808795619
+        }
+    ]
+}

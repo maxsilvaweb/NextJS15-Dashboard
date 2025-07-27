@@ -1,0 +1,26 @@
+{
+    "user_id": "707c1f0d-f168-4e77-adcb-243e5183c226",
+    "name": "Kevin Brown",
+    "email": "cbrown@example.net",
+    "instagram_handle": "@rwilkins",
+    "tiktok_handle": "@daniel88",
+    "joined_at": "2024-03-21T17:16:30.131516",
+    "advocacy_programs": [
+        {
+            "program_id": "117af99e-611d-43ee-a7fa-a63987b30b91",
+            "brand": "Hickman-Wilson",
+            "tasks_completed": [
+                {
+                    "task_id": "ecd34177-ba36-4a06-8381-d9d96d80f20e",
+                    "platform": "TikTok",
+                    "post_url": "http://www.johnson-perry.com/",
+                    "likes": 1091,
+                    "comments": 312,
+                    "shares": 79,
+                    "reach": 3389
+                }
+            ],
+            "total_sales_attributed": 1569.28
+        }
+    ]
+}

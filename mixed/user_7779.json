@@ -1,0 +1,26 @@
+{
+    "user_id": "573eb8f8-69cf-475c-b04a-8d8aab98a0ed",
+    "name": "Jonathan Taylor",
+    "email": "Ansley_VonRueden@yahoo.com",
+    "instagram_handle": "@regina84",
+    "tiktok_handle": "@alejandropearson",
+    "joined_at": "2024-09-04T03:05:40.659396",
+    "advocacy_programs": [
+        {
+            "program_id": "8bae5ecd-c2b9-4358-9d88-96898a4c7367",
+            "brand": "Rasmussen PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "0b2132f4-58f4-476d-bcaf-78582e880b21",
+                    "platform": "Facebook",
+                    "post_url": "https://peters-anderson.biz/",
+                    "likes": 4090,
+                    "comments": 81,
+                    "shares": 40,
+                    "reach": 1092
+                }
+            ],
+            "total_sales_attributed": 2926.2356080213044
+        }
+    ]
+}

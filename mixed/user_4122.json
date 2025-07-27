@@ -1,0 +1,26 @@
+{
+    "user_id": "87c2bff4-9e06-4cfa-9f39-b81bcc3c4439",
+    "name": "Michael Hunter",
+    "email": "pollardkristen@example.net",
+    "instagram_handle": "@ghoover",
+    "tiktok_handle": "@frank32",
+    "joined_at": "2025-04-08T21:29:42.974579",
+    "advocacy_programs": [
+        {
+            "program_id": "a6236724-7e70-474a-a53f-9c370e396513",
+            "brand": "Gates-Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "4b15b26a-a1e7-4e43-bf93-79c7387d2826",
+                    "platform": "TikTok",
+                    "post_url": "https://poor-issue.com/",
+                    "likes": 9036,
+                    "comments": 429,
+                    "shares": 29,
+                    "reach": 2503
+                }
+            ],
+            "total_sales_attributed": 9317.42
+        }
+    ]
+}

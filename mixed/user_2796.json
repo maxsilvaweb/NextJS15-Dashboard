@@ -1,0 +1,26 @@
+{
+    "user_id": "b060b205-4c61-4bbf-b757-b9d6922db762",
+    "name": "Carly Jimenez",
+    "email": "austinzimmerman@example.net",
+    "instagram_handle": "@kingkimberly",
+    "tiktok_handle": "@Karlie_Aufderhar44",
+    "joined_at": "2025-04-06T03:33:36.603937",
+    "advocacy_programs": [
+        {
+            "program_id": "9603fe25-d88c-4c12-bb70-26705f6afc94",
+            "brand": "Chang-Wright",
+            "tasks_completed": [
+                {
+                    "task_id": "86509a1a-43e8-4527-b136-2e003a3cbe94",
+                    "platform": "YouTube",
+                    "post_url": "http://garcia-moss.com/",
+                    "likes": 9635,
+                    "comments": 48,
+                    "shares": 44,
+                    "reach": 5555
+                }
+            ],
+            "total_sales_attributed": 6242.95
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "536794a4-5dae-4dc7-a495-a3b95bdaa770",
+    "name": "Elijah Rose",
+    "email": "qwilson@example.com",
+    "instagram_handle": "@gregorysusan",
+    "tiktok_handle": "@maysrachel",
+    "joined_at": "2023-12-30T06:52:06.013212",
+    "advocacy_programs": [
+        {
+            "program_id": "a874e95b-d926-4e5f-a5cc-7f723147b8de",
+            "brand": "Cruz-Patterson",
+            "tasks_completed": [
+                {
+                    "task_id": "31dcaee1-fe0f-4883-b8f5-58a2645d9c06",
+                    "platform": "Instagram",
+                    "post_url": "https://anderson-bullock.com/",
+                    "likes": 1849,
+                    "comments": 172,
+                    "shares": 94,
+                    "reach": 9503
+                }
+            ],
+            "total_sales_attributed": 8674.86
+        }
+    ]
+}

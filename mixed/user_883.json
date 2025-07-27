@@ -1,0 +1,26 @@
+{
+    "user_id": "74c8b0dc-6bf6-4c05-b1a3-4aab2b951f62",
+    "name": "Johnathan Schumm",
+    "email": "Devante.Mosciski@gmail.com",
+    "instagram_handle": "@Erik_Hoeger45",
+    "tiktok_handle": "@Muhammad_Kuhn32",
+    "joined_at": "2024-05-26T23:05:42.742Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d7028645-5478-4a60-8e05-bcc95bb70133",
+            "brand": "Nienow - Pouros",
+            "tasks_completed": [
+                {
+                    "task_id": "2b356956-5710-4b7f-a870-af5e0518a7ad",
+                    "platform": "Instagram",
+                    "post_url": "https://perfumed-stitcher.org",
+                    "likes": 201,
+                    "comments": 28,
+                    "shares": 100,
+                    "reach": 7684
+                }
+            ],
+            "total_sales_attributed": 2457.311102476296
+        }
+    ]
+}

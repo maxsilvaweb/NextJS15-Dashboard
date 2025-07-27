@@ -1,0 +1,26 @@
+{
+    "user_id": "54387847-1b37-4e0c-ae9a-4cb612382c18",
+    "name": "Christopher Riley",
+    "email": "garrett90@example.net",
+    "instagram_handle": "@rachel31",
+    "tiktok_handle": "@ggalloway",
+    "joined_at": "2024-08-02T22:49:11.158612",
+    "advocacy_programs": [
+        {
+            "program_id": "6d00f59c-fd55-43b8-a137-b2c1e159b591",
+            "brand": "May-Clark",
+            "tasks_completed": [
+                {
+                    "task_id": "298cb1bd-a0d5-4a43-b123-a31af0e60388",
+                    "platform": "Twitter",
+                    "post_url": "http://www.martin.biz/",
+                    "likes": 718,
+                    "comments": 391,
+                    "shares": 29,
+                    "reach": 4966
+                }
+            ],
+            "total_sales_attributed": 6029.48
+        }
+    ]
+}

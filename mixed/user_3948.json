@@ -1,0 +1,26 @@
+{
+    "user_id": "860f5f81-2765-4405-9657-b67a2dd54d92",
+    "name": "Christina Sanchez",
+    "email": "brianthomas@example.com",
+    "instagram_handle": "@youngernest",
+    "tiktok_handle": "@ambermueller",
+    "joined_at": "2024-12-19T05:23:45.407695",
+    "advocacy_programs": [
+        {
+            "program_id": "054c10cb-b9ae-4184-b5b0-5cadacad1efb",
+            "brand": "Johnson Group",
+            "tasks_completed": [
+                {
+                    "task_id": "4bae38ff-23cd-43c5-a37e-71d8b78e96ea",
+                    "platform": "YouTube",
+                    "post_url": "https://www.davis.com/",
+                    "likes": 6629,
+                    "comments": 25,
+                    "shares": 74,
+                    "reach": 9824
+                }
+            ],
+            "total_sales_attributed": 4222.626755868223
+        }
+    ]
+}

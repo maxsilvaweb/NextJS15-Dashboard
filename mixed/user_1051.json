@@ -1,0 +1,26 @@
+{
+    "user_id": "8d8e9fc6-d5f0-4efc-a7bd-32c9301e7041",
+    "name": "Christopher Willis",
+    "email": "ebennett@example.net",
+    "instagram_handle": "@romanraymond",
+    "tiktok_handle": "@Dulce.Turner",
+    "joined_at": "2024-05-16T12:08:20.199Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1f0bce77-35e5-4c28-a2bb-d7cc00959a67",
+            "brand": "Meyer LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "04897da2-e1f7-4e7f-8679-02664d9df3e5",
+                    "platform": "TikTok",
+                    "post_url": "https://williams-jenkins.org/",
+                    "likes": 1866,
+                    "comments": 0,
+                    "shares": 50,
+                    "reach": 8020
+                }
+            ],
+            "total_sales_attributed": 852.84
+        }
+    ]
+}

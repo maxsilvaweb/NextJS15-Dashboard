@@ -1,0 +1,26 @@
+{
+    "user_id": "eae16387-5dc1-4389-a965-6e2d3dedd4de",
+    "name": "Marianne Lowe",
+    "email": "Stewart.Strosin@yahoo.com",
+    "instagram_handle": "@Elenor30",
+    "tiktok_handle": "@Saul72",
+    "joined_at": "2024-11-30T02:29:24.776Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6000bad3-6bb6-4262-a429-046f08488a55",
+            "brand": "Cronin - Balistreri",
+            "tasks_completed": [
+                {
+                    "task_id": "63cc675d-e934-42c1-b8ce-720dfc1cc7e1",
+                    "platform": "Instagram",
+                    "post_url": "https://rundown-manner.biz/",
+                    "likes": 70,
+                    "comments": 22,
+                    "shares": 65,
+                    "reach": 1328
+                }
+            ],
+            "total_sales_attributed": 3167.6796258126938
+        }
+    ]
+}

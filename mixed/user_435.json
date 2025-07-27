@@ -1,0 +1,26 @@
+{
+    "user_id": "7bb41a67-edd3-4190-88d9-9a23a1ef9c7d",
+    "name": "Cary Muller",
+    "email": "Ima_Marks@gmail.com",
+    "instagram_handle": "@Baron69",
+    "tiktok_handle": "@Justen80",
+    "joined_at": "2024-05-18T09:34:01.121Z",
+    "advocacy_programs": [
+        {
+            "program_id": "395fad64-ac60-4d97-9aad-8a1d6eca122f",
+            "brand": "Johns - Kautzer",
+            "tasks_completed": [
+                {
+                    "task_id": "44d82a23-e4fa-4191-8b1b-3d68987f373c",
+                    "platform": "TikTok",
+                    "post_url": "https://present-tune-up.name",
+                    "likes": 439,
+                    "comments": 13,
+                    "shares": 96,
+                    "reach": 7873
+                }
+            ],
+            "total_sales_attributed": 1199.559146179156
+        }
+    ]
+}

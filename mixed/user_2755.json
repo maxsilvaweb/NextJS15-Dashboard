@@ -1,0 +1,26 @@
+{
+    "user_id": "23da90a3-a702-4c1a-9d8c-571d49268c30",
+    "name": "Pamela Koss Jr.",
+    "email": "Alize_Graham@gmail.com",
+    "instagram_handle": "@Camilla51",
+    "tiktok_handle": "@Marcella_Towne",
+    "joined_at": "2024-09-12T12:29:44.148Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e1af7680-3217-40f5-a90f-eada1113cfaf",
+            "brand": "Block - Abbott",
+            "tasks_completed": [
+                {
+                    "task_id": "e9a84ba8-1418-480e-8b50-f02d48aefa49",
+                    "platform": "TikTok",
+                    "post_url": "https://turbulent-disposer.name",
+                    "likes": 338,
+                    "comments": 28,
+                    "shares": 33,
+                    "reach": 5905
+                }
+            ],
+            "total_sales_attributed": 4302.472803886457
+        }
+    ]
+}

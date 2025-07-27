@@ -1,0 +1,26 @@
+{
+    "user_id": "3e91ca17-840a-4854-a10a-ff412dbe9f7e",
+    "name": "Dominique Lawson",
+    "email": "leangela@example.org",
+    "instagram_handle": "@mckenzie25",
+    "tiktok_handle": "@cartermark",
+    "joined_at": "2025-05-19T03:14:13.806631",
+    "advocacy_programs": [
+        {
+            "program_id": "bcdf8c24-18b4-40fc-aad9-be10a87093b3",
+            "brand": "Daniels-Rodriguez",
+            "tasks_completed": [
+                {
+                    "task_id": "3d87516e-a0a4-4ec5-be40-21d71583c3f4",
+                    "platform": "TikTok",
+                    "post_url": "https://www.neal.com/",
+                    "likes": 662,
+                    "comments": 265,
+                    "shares": 50,
+                    "reach": 4563
+                }
+            ],
+            "total_sales_attributed": 9360.13
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ae2520c1-bde2-4c7d-aa9c-e9e3636e0a89",
+    "name": "Jackie Schmeler",
+    "email": "Keshawn_Graham9@yahoo.com",
+    "instagram_handle": "@Adrian_Walter46",
+    "tiktok_handle": "@Regan84",
+    "joined_at": "2024-10-15T02:23:18.634Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5138efc2-349c-4d03-a405-2bdf2fab7bea",
+            "brand": "Schuster - McKenzie",
+            "tasks_completed": [
+                {
+                    "task_id": "35847e14-696c-457b-95bc-d4abdef2cdb9",
+                    "platform": "TikTok",
+                    "post_url": "https://noteworthy-dead.org",
+                    "likes": 86,
+                    "comments": 3,
+                    "shares": 30,
+                    "reach": 6598
+                }
+            ],
+            "total_sales_attributed": 3824.8783182667917
+        }
+    ]
+}

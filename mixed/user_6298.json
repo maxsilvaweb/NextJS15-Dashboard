@@ -1,0 +1,26 @@
+{
+    "user_id": "368a180d-392d-4c39-b4b1-8d1a7d9adc39",
+    "name": "Sue Larson",
+    "email": "Guido_OKeefe58@gmail.com",
+    "instagram_handle": "@Chad.Nader12",
+    "tiktok_handle": "@Cullen_Bins17",
+    "joined_at": "2024-12-08T06:38:55.067Z",
+    "advocacy_programs": [
+        {
+            "program_id": "417f64b0-9204-4a31-94cf-6fcec6822295",
+            "brand": "Swift, Bosco and Stracke",
+            "tasks_completed": [
+                {
+                    "task_id": "5875ecb3-5199-48af-904c-bba579e28424",
+                    "platform": "Instagram",
+                    "post_url": "https://steep-councilman.biz/",
+                    "likes": 480,
+                    "comments": 20,
+                    "shares": 29,
+                    "reach": 6079
+                }
+            ],
+            "total_sales_attributed": 2755.823583503543
+        }
+    ]
+}

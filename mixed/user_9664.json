@@ -1,0 +1,26 @@
+{
+    "user_id": "f8cf9fbe-df55-454c-831c-00d9770a8a16",
+    "name": "Dr. Darin Sauer-Hoppe",
+    "email": "Malinda_Bayer67@gmail.com",
+    "instagram_handle": "@Keshaun60",
+    "tiktok_handle": "@Francisca.Thompson34",
+    "joined_at": "2025-01-31T22:37:20.921Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b2815f6a-50a2-4af7-9309-b21d53cef954",
+            "brand": "Price - Orn",
+            "tasks_completed": [
+                {
+                    "task_id": "b69cbf15-a474-47dc-8c62-f17adb76fbc8",
+                    "platform": "Instagram",
+                    "post_url": "https://digital-punctuation.net/",
+                    "likes": 206,
+                    "comments": 30,
+                    "shares": 39,
+                    "reach": 9826
+                }
+            ],
+            "total_sales_attributed": 373.70822485891784
+        }
+    ]
+}

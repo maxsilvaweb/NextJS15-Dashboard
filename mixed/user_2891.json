@@ -1,0 +1,26 @@
+{
+    "user_id": "9d4c88c9-45bd-4f6c-9b29-8ff6de23a91e",
+    "name": "Ronald Cisneros",
+    "email": "amiller@example.org",
+    "instagram_handle": "@pmartinez",
+    "tiktok_handle": "@eherring",
+    "joined_at": "2024-01-07T07:44:01.405657",
+    "advocacy_programs": [
+        {
+            "program_id": "2f6cdb97-b785-4142-b880-37a997bdf1a5",
+            "brand": "Thomas-Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "8ba5a0d1-e400-4605-9750-a20743c0d917",
+                    "platform": "Facebook",
+                    "post_url": "https://unwieldy-kinase.org",
+                    "likes": 231,
+                    "comments": 154,
+                    "shares": 90,
+                    "reach": 1517
+                }
+            ],
+            "total_sales_attributed": 1910.42
+        }
+    ]
+}

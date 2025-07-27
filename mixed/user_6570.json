@@ -1,0 +1,26 @@
+{
+    "user_id": "db63f40a-8fd9-4b27-95e0-bbd1a807d27d",
+    "name": "Melissa Wilson",
+    "email": "johnarmstrong@example.com",
+    "instagram_handle": "@bcarter",
+    "tiktok_handle": "@christinewilliams",
+    "joined_at": "2025-03-08T16:01:51.577908",
+    "advocacy_programs": [
+        {
+            "program_id": "6ea0ae84-2e16-41a4-871c-88728987ccef",
+            "brand": "Williams, Turner and Whitaker",
+            "tasks_completed": [
+                {
+                    "task_id": "faeb16f7-624a-406e-a012-2c93192f18b7",
+                    "platform": "Instagram",
+                    "post_url": "https://holland.com/",
+                    "likes": 3402,
+                    "comments": 60,
+                    "shares": 12,
+                    "reach": 6437
+                }
+            ],
+            "total_sales_attributed": 8359.53
+        }
+    ]
+}

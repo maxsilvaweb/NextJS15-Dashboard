@@ -1,0 +1,26 @@
+{
+    "user_id": "a5cfafa6-f492-49e9-980d-c15bba038e79",
+    "name": "Peggy Mohr",
+    "email": "Chandler.Rath@gmail.com",
+    "instagram_handle": "@Alf.Mraz90",
+    "tiktok_handle": "@Lewis79",
+    "joined_at": "2025-03-08T07:45:56.006Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f1acdafe-a410-4bd2-992c-a0aa8d163a23",
+            "brand": "Schiller LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "8cfd4c50-b961-4341-8dca-3faa073c7273",
+                    "platform": "Instagram",
+                    "post_url": "https://musty-farm.biz/",
+                    "likes": 96,
+                    "comments": 48,
+                    "shares": 60,
+                    "reach": 2126
+                }
+            ],
+            "total_sales_attributed": 3750.8023753488546
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "54f0f866-c5a6-4a3b-9129-bf763009520e",
+    "name": "Daniel Gutmann",
+    "email": "Camila.Cummerata@yahoo.com",
+    "instagram_handle": "@Juliana60",
+    "tiktok_handle": "@Rhoda_Tremblay-McGlynn9",
+    "joined_at": "2025-01-04T14:07:25.910Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ff5bd261-8378-4eb8-8a0e-c7942fc8ce1e",
+            "brand": "Steuber - Lueilwitz",
+            "tasks_completed": [
+                {
+                    "task_id": "33fa5154-909b-4b29-8dcc-312c18ff8298",
+                    "platform": "TikTok",
+                    "post_url": "https://lucky-alliance.biz",
+                    "likes": 24,
+                    "comments": 38,
+                    "shares": 20,
+                    "reach": 8493
+                }
+            ],
+            "total_sales_attributed": 1232.5495166078576
+        }
+    ]
+}

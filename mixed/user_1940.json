@@ -1,0 +1,26 @@
+{
+    "user_id": "f674ae27-f970-4363-aa77-f490c1ca5904",
+    "name": "Brian Esparza",
+    "email": "brandon27@example.net",
+    "instagram_handle": "@tiffany40",
+    "tiktok_handle": "@jenniferdrake",
+    "joined_at": "2023-08-18T11:57:09.770186",
+    "advocacy_programs": [
+        {
+            "program_id": "dc52db74-3553-489c-9efe-80b1b4d7dcf8",
+            "brand": "Le-Gill",
+            "tasks_completed": [
+                {
+                    "task_id": "fe6ebd86-8e2c-48c6-ac16-faadc04295b9",
+                    "platform": "Twitter",
+                    "post_url": "http://www.moore.com/",
+                    "likes": 4011,
+                    "comments": 439,
+                    "shares": 46,
+                    "reach": 757
+                }
+            ],
+            "total_sales_attributed": 652.4825753004683
+        }
+    ]
+}

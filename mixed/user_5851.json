@@ -1,0 +1,26 @@
+{
+    "user_id": "0e28f651-36dd-4a5e-9883-72f2d8dc1aa4",
+    "name": "Krystal French",
+    "email": "coffeykathleen@example.com",
+    "instagram_handle": "@michellecohen",
+    "tiktok_handle": "@jimmyroach",
+    "joined_at": "2024-07-30T20:25:29.231906",
+    "advocacy_programs": [
+        {
+            "program_id": "f83c7d85-b211-41d8-b195-b7629387acfc",
+            "brand": "Blankenship-Goodman",
+            "tasks_completed": [
+                {
+                    "task_id": "a9945c3e-5b4c-4738-8798-7559850f1149",
+                    "platform": "TikTok",
+                    "post_url": "https://perry.info/",
+                    "likes": 2019,
+                    "comments": 263,
+                    "shares": 73,
+                    "reach": 6697
+                }
+            ],
+            "total_sales_attributed": 4326.13
+        }
+    ]
+}

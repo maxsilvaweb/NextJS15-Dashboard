@@ -1,0 +1,26 @@
+{
+    "user_id": "547fea4a-1242-4814-b2c1-d4e0923140a0",
+    "name": "Mr. Darrell Bailey",
+    "email": "Jaylin_Jenkins41@gmail.com",
+    "instagram_handle": "@Erick29",
+    "tiktok_handle": "@Willie_Halvorson89",
+    "joined_at": "2025-01-14T17:41:26.260Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3db1eb37-71f9-4f86-9838-8def4c1400b8",
+            "brand": "King, Morar and Rodriguez",
+            "tasks_completed": [
+                {
+                    "task_id": "a30135ff-2ebe-4f44-9523-90cbc61bdda1",
+                    "platform": "Instagram",
+                    "post_url": "https://mixed-innovation.name/",
+                    "likes": 491,
+                    "comments": 5,
+                    "shares": 55,
+                    "reach": 4068
+                }
+            ],
+            "total_sales_attributed": 268.39241723419536
+        }
+    ]
+}

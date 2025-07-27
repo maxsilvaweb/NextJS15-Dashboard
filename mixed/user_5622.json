@@ -1,0 +1,26 @@
+{
+    "user_id": "30a92cfb-a934-4afa-86c7-9fcb880b505c",
+    "name": "Travis Montoya",
+    "email": "acarter@example.net",
+    "instagram_handle": "@carrgary",
+    "tiktok_handle": "@christina29",
+    "joined_at": "2023-12-04T09:35:44.668572",
+    "advocacy_programs": [
+        {
+            "program_id": "2ec81374-a930-4139-b99d-d5821399d639",
+            "brand": "James PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f24846d3-a087-4deb-bab5-8784e74052c0",
+                    "platform": "Instagram",
+                    "post_url": "https://free-iridescence.info/",
+                    "likes": 1268,
+                    "comments": 269,
+                    "shares": 78,
+                    "reach": 4535
+                }
+            ],
+            "total_sales_attributed": 1431.49
+        }
+    ]
+}

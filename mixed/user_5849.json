@@ -1,0 +1,26 @@
+{
+    "user_id": "913a7c80-c76d-4a8f-b64a-a9f45b7fc00a",
+    "name": "Brianna Dillon",
+    "email": "serranokenneth@example.org",
+    "instagram_handle": "@browncharles",
+    "tiktok_handle": "@emily45",
+    "joined_at": "2025-03-04T00:05:41.564770",
+    "advocacy_programs": [
+        {
+            "program_id": "8fe7190f-8aab-4aea-b21b-4e50334e3e32",
+            "brand": "Torres PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "27ded450-f800-49d2-8d4c-e0487474e1e1",
+                    "platform": "TikTok",
+                    "post_url": "https://questionable-jury.name/",
+                    "likes": 8633,
+                    "comments": 29,
+                    "shares": 56,
+                    "reach": 8188
+                }
+            ],
+            "total_sales_attributed": 2780.22
+        }
+    ]
+}

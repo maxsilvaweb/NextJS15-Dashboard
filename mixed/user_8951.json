@@ -1,0 +1,26 @@
+{
+    "user_id": "6d6fa12c-b08a-4703-a409-18f76c6d4110",
+    "name": "David King",
+    "email": "kathleenjohnson@example.org",
+    "instagram_handle": "@suzanne75",
+    "tiktok_handle": "@lesliestone",
+    "joined_at": "2024-07-20T05:17:26.261467",
+    "advocacy_programs": [
+        {
+            "program_id": "26714cd2-f330-43b0-baa6-7c452093d5c2",
+            "brand": "Simpson-Kim",
+            "tasks_completed": [
+                {
+                    "task_id": "afd08fe2-248d-4160-bb4c-fa312979cbd1",
+                    "platform": "Instagram",
+                    "post_url": "http://wilkerson.com/",
+                    "likes": 1335,
+                    "comments": 249,
+                    "shares": 28,
+                    "reach": 4197
+                }
+            ],
+            "total_sales_attributed": 8881.55
+        }
+    ]
+}

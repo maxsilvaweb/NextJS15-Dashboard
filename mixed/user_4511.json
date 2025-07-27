@@ -1,0 +1,26 @@
+{
+    "user_id": "ba511c1e-f43d-430f-ae9f-e60fa9ec384c",
+    "name": "Elizabeth White",
+    "email": "jerry46@example.com",
+    "instagram_handle": "@justin62",
+    "tiktok_handle": "@nathantorres",
+    "joined_at": "2023-10-18T18:50:12.477218",
+    "advocacy_programs": [
+        {
+            "program_id": "e5bbc051-5251-49ee-ab16-83205b650d49",
+            "brand": "Gutierrez, Maldonado and Gray",
+            "tasks_completed": [
+                {
+                    "task_id": "f956078b-36f9-44d0-bfc4-e930336e2659",
+                    "platform": "Twitter",
+                    "post_url": "https://www.solomon.com/",
+                    "likes": 92,
+                    "comments": 362,
+                    "shares": 57,
+                    "reach": 6867
+                }
+            ],
+            "total_sales_attributed": 8553.74
+        }
+    ]
+}

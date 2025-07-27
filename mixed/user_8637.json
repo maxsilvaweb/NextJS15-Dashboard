@@ -1,0 +1,26 @@
+{
+    "user_id": "8e33d42a-bf02-47c3-8337-12862d0883ca",
+    "name": "Thelma Rohan DDS",
+    "email": "Earlene20@hotmail.com",
+    "instagram_handle": "@Susanna96",
+    "tiktok_handle": "@Tina.Kessler",
+    "joined_at": "2024-08-03T14:14:51.903Z",
+    "advocacy_programs": [
+        {
+            "program_id": "98ad99ee-7be6-4f69-a697-03ea9dd621d4",
+            "brand": "Parker, Heaney and Dicki",
+            "tasks_completed": [
+                {
+                    "task_id": "6f202f77-6641-45b5-b68e-511707c6dedc",
+                    "platform": "TikTok",
+                    "post_url": "https://gracious-coliseum.org",
+                    "likes": 410,
+                    "comments": 26,
+                    "shares": 14,
+                    "reach": 4284
+                }
+            ],
+            "total_sales_attributed": 2164.6111622055514
+        }
+    ]
+}

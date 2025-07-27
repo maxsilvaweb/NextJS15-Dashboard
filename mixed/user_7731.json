@@ -1,0 +1,26 @@
+{
+    "user_id": "2d7ba1a2-2caa-449e-98d7-8cc84f8aa4b4",
+    "name": "Mildred Zulauf",
+    "email": "Agustin_Kassulke@yahoo.com",
+    "instagram_handle": "@Catherine84",
+    "tiktok_handle": "@Harry40",
+    "joined_at": "2024-11-14T08:57:41.464Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0626accc-15c8-433e-8cc7-234024d6f0f8",
+            "brand": "Hickle, Wunsch and Glover",
+            "tasks_completed": [
+                {
+                    "task_id": "0e1512d5-bb2f-4fcb-8427-ed17a18838d0",
+                    "platform": "TikTok",
+                    "post_url": "https://worthy-puppet.info",
+                    "likes": 37,
+                    "comments": 34,
+                    "shares": 78,
+                    "reach": 4580
+                }
+            ],
+            "total_sales_attributed": 868.6971592827616
+        }
+    ]
+}

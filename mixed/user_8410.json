@@ -1,0 +1,26 @@
+{
+    "user_id": "9d6c4a58-dfb5-4efb-9362-625caf731256",
+    "name": "Madeline Vargas",
+    "email": "Joey_Swaniawski@hotmail.com",
+    "instagram_handle": "@tknox",
+    "tiktok_handle": "@Pablo67",
+    "joined_at": "2025-04-21T21:52:31.027286",
+    "advocacy_programs": [
+        {
+            "program_id": "e4fcb3f8-76a4-4077-adb0-612565ad04fa",
+            "brand": "Hahn, Hintz and Ullrich",
+            "tasks_completed": [
+                {
+                    "task_id": "87a9d665-3f09-489a-8918-a1828415f976",
+                    "platform": "TikTok",
+                    "post_url": "http://www.diaz.com/",
+                    "likes": 7233,
+                    "comments": 222,
+                    "shares": 3,
+                    "reach": 8587
+                }
+            ],
+            "total_sales_attributed": 9799.91
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ceb8b1be-a6c0-4084-b84f-52bb0c7335d5",
+    "name": "Kristen Sherman",
+    "email": "thompsonscott@example.org",
+    "instagram_handle": "@brianprice",
+    "tiktok_handle": "@Jaquan.Kihn29",
+    "joined_at": "2024-12-27T09:46:08.117367",
+    "advocacy_programs": [
+        {
+            "program_id": "fa96ca80-67bf-4787-a3e6-116331927ed4",
+            "brand": "Ayala-Fletcher",
+            "tasks_completed": [
+                {
+                    "task_id": "2e282043-952a-4a92-a401-902691b7d69b",
+                    "platform": "Twitter",
+                    "post_url": "http://lam.com/",
+                    "likes": 8760,
+                    "comments": 42,
+                    "shares": 48,
+                    "reach": 6348
+                }
+            ],
+            "total_sales_attributed": 9485.49
+        }
+    ]
+}

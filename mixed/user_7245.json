@@ -1,0 +1,26 @@
+{
+    "user_id": "57265168-b2fc-4d60-ba73-df28bc2daa05",
+    "name": "Michael Rios",
+    "email": "bryanteric@example.org",
+    "instagram_handle": "@smithchristopher",
+    "tiktok_handle": "@Genevieve40",
+    "joined_at": "2024-05-30T02:23:11.934829",
+    "advocacy_programs": [
+        {
+            "program_id": "87dd33e2-74d3-4545-b0b3-027e4fb365cc",
+            "brand": "Stephenson-Adams",
+            "tasks_completed": [
+                {
+                    "task_id": "141c11ec-d68b-46d4-8afa-98940271b125",
+                    "platform": "Instagram",
+                    "post_url": "https://www.peterson.org/",
+                    "likes": 1703,
+                    "comments": 278,
+                    "shares": 84,
+                    "reach": 9105
+                }
+            ],
+            "total_sales_attributed": 1679.1583240515752
+        }
+    ]
+}

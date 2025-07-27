@@ -1,0 +1,26 @@
+{
+    "user_id": "f0b81f35-4d6d-4d6a-b41d-67b3b2984a0f",
+    "name": "Jodi Sullivan",
+    "email": "murraybradley@example.org",
+    "instagram_handle": "@qpeterson",
+    "tiktok_handle": "@john16",
+    "joined_at": "2025-04-05T10:22:20.659338",
+    "advocacy_programs": [
+        {
+            "program_id": "9aa337e2-c6b8-4119-8763-2ed931920c5c",
+            "brand": "Rogers-Clark",
+            "tasks_completed": [
+                {
+                    "task_id": "683a37d3-e028-4673-b485-300c936b934e",
+                    "platform": "Instagram",
+                    "post_url": "https://www.boyd-mack.com/",
+                    "likes": 859,
+                    "comments": 17,
+                    "shares": 64,
+                    "reach": 5693
+                }
+            ],
+            "total_sales_attributed": 1562.19
+        }
+    ]
+}

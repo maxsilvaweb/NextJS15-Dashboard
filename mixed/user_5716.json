@@ -1,0 +1,26 @@
+{
+    "user_id": "8aaa46aa-c1d7-45f0-8923-0a94f62d075b",
+    "name": "Dana Perez",
+    "email": "Agnes.McDermott@yahoo.com",
+    "instagram_handle": "@rasmussengary",
+    "tiktok_handle": "@vincent82",
+    "joined_at": "2025-05-10T06:51:17.970612",
+    "advocacy_programs": [
+        {
+            "program_id": "d5647b9b-454c-4e47-bb6a-7e31925fcacc",
+            "brand": "Brown PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "988b2828-0234-4343-9f2e-675843209823",
+                    "platform": "Facebook",
+                    "post_url": "https://brewer.info/",
+                    "likes": 3222,
+                    "comments": 209,
+                    "shares": 39,
+                    "reach": 9328
+                }
+            ],
+            "total_sales_attributed": 2399.16
+        }
+    ]
+}

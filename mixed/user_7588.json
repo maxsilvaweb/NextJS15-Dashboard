@@ -1,0 +1,26 @@
+{
+    "user_id": "b9e90ad0-2c1b-4aab-9b27-6d54d2177b52",
+    "name": "Jasmine Schaden",
+    "email": "Misael36@gmail.com",
+    "instagram_handle": "@Sigrid15",
+    "tiktok_handle": "@Nola66",
+    "joined_at": "2024-08-11T07:25:30.604Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0187b613-bb8a-4b5f-85eb-65261dadf329",
+            "brand": "Senger - Fadel",
+            "tasks_completed": [
+                {
+                    "task_id": "efcc2eb7-76ce-496e-9c51-14063e125133",
+                    "platform": "TikTok",
+                    "post_url": "https://last-habit.biz",
+                    "likes": 400,
+                    "comments": 16,
+                    "shares": 13,
+                    "reach": 6889
+                }
+            ],
+            "total_sales_attributed": 2478.387946472195
+        }
+    ]
+}

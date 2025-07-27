@@ -1,0 +1,26 @@
+{
+    "user_id": "d83d9562-81f4-4d24-b4e3-d8a8dcdd2cdd",
+    "name": "Sandra Atkinson",
+    "email": "camachokrista@example.com",
+    "instagram_handle": "@shannonwood",
+    "tiktok_handle": "@jorr",
+    "joined_at": "2024-11-28T14:44:04.158495",
+    "advocacy_programs": [
+        {
+            "program_id": "af6e7b10-90a4-40c1-bf2b-42bd231bccae",
+            "brand": "Baker-Avery",
+            "tasks_completed": [
+                {
+                    "task_id": "b1dd80ae-c982-4714-9501-b8b004e65c39",
+                    "platform": "Instagram",
+                    "post_url": "https://trusty-other.org",
+                    "likes": 8656,
+                    "comments": 6,
+                    "shares": 46,
+                    "reach": 1452
+                }
+            ],
+            "total_sales_attributed": 1799.95
+        }
+    ]
+}

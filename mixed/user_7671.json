@@ -1,0 +1,26 @@
+{
+    "user_id": "518bf171-425a-4986-80a5-caf549ef1ddf",
+    "name": "Janet Li DDS",
+    "email": "timothy14@example.com",
+    "instagram_handle": "@josephsalinas",
+    "tiktok_handle": "@thomaspowell",
+    "joined_at": "2024-10-30T00:36:54.582470",
+    "advocacy_programs": [
+        {
+            "program_id": "e2602887-c63f-492a-a648-36fb0ac56b08",
+            "brand": "Wolf-Marquez",
+            "tasks_completed": [
+                {
+                    "task_id": "99de86b2-a551-40a3-b083-501a3ee8ff58",
+                    "platform": "TikTok",
+                    "post_url": "https://www.robertson-rogers.net/",
+                    "likes": 2614,
+                    "comments": 200,
+                    "shares": 22,
+                    "reach": 4566
+                }
+            ],
+            "total_sales_attributed": 2596.7329565900086
+        }
+    ]
+}

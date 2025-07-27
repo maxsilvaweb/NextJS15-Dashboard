@@ -1,0 +1,26 @@
+{
+    "user_id": "a16b9efd-f70d-4161-b143-574d53894bd6",
+    "name": "Dr. Elias Daniel Jr.",
+    "email": "Trycia.Koch@hotmail.com",
+    "instagram_handle": "@Sally_Wisozk",
+    "tiktok_handle": "@Kayli.Purdy",
+    "joined_at": "2025-01-13T14:23:29.611Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9cbcd5d9-1a79-49b0-a54d-e16753ef94a0",
+            "brand": "Lueilwitz - Hodkiewicz",
+            "tasks_completed": [
+                {
+                    "task_id": "4e4fc3a9-ab56-474a-a53f-a1b3abd668bd",
+                    "platform": "Instagram",
+                    "post_url": "https://hoarse-heartache.biz/",
+                    "likes": 176,
+                    "comments": 24,
+                    "shares": 94,
+                    "reach": 2282
+                }
+            ],
+            "total_sales_attributed": 2965.745624706884
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "16288fec-1e86-4e2b-ab95-3c84f1109607",
+    "name": "Carrie Blackburn",
+    "email": "sanchezeric@example.org",
+    "instagram_handle": "@Stewart_Russel44",
+    "tiktok_handle": "@toddnatalie",
+    "joined_at": "2024-03-25T21:55:13.662206",
+    "advocacy_programs": [
+        {
+            "program_id": "1d8782e3-a660-43e4-a490-3eecca046238",
+            "brand": "Harber - Sanford",
+            "tasks_completed": [
+                {
+                    "task_id": "90d2ffe9-cc5b-4c0a-b81b-4a38256ccfd8",
+                    "platform": "TikTok",
+                    "post_url": "http://torres.com/",
+                    "likes": 111,
+                    "comments": 248,
+                    "shares": 76,
+                    "reach": 1695
+                }
+            ],
+            "total_sales_attributed": 873.72
+        }
+    ]
+}

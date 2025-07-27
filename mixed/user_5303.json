@@ -1,0 +1,26 @@
+{
+    "user_id": "1c4774ff-ee40-472c-b4e8-28f90ee6b599",
+    "name": "Sarah Olson",
+    "email": "morrisoncharles@example.com",
+    "instagram_handle": "@jerrystevens",
+    "tiktok_handle": "@reginaldguzman",
+    "joined_at": "2024-01-10T04:03:20.778862",
+    "advocacy_programs": [
+        {
+            "program_id": "4b570817-9ae4-4e39-b6b1-fef09bc75bcc",
+            "brand": "Thompson, Gibson and Thornton",
+            "tasks_completed": [
+                {
+                    "task_id": "9cd3027b-9629-4445-9d60-29f399abf641",
+                    "platform": "TikTok",
+                    "post_url": "http://www.nichols-collins.com/",
+                    "likes": 5772,
+                    "comments": 242,
+                    "shares": 53,
+                    "reach": 1391
+                }
+            ],
+            "total_sales_attributed": 861.4714435530535
+        }
+    ]
+}

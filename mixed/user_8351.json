@@ -1,0 +1,26 @@
+{
+    "user_id": "a2bdbe3b-5d48-48c6-8559-cddbadb731a5",
+    "name": "Michael Erickson",
+    "email": "elizabeth88@example.net",
+    "instagram_handle": "@davisjames",
+    "tiktok_handle": "@baxterjose",
+    "joined_at": "2023-12-25T07:26:27.386693",
+    "advocacy_programs": [
+        {
+            "program_id": "e331df49-3386-474a-8517-9438e1c32c29",
+            "brand": "Webster-Jordan",
+            "tasks_completed": [
+                {
+                    "task_id": "0e15f586-eb25-4eda-b26a-e55bb0e4c318",
+                    "platform": "Facebook",
+                    "post_url": "http://www.buchanan.com/",
+                    "likes": 478,
+                    "comments": 74,
+                    "shares": 51,
+                    "reach": 4447
+                }
+            ],
+            "total_sales_attributed": 3281.1369511117455
+        }
+    ]
+}

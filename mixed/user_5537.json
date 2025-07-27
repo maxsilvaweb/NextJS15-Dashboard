@@ -1,0 +1,26 @@
+{
+    "user_id": "501a0c45-6ace-442f-a3f5-6460140b85c0",
+    "name": "Shannon Mullins",
+    "email": "gwright@example.com",
+    "instagram_handle": "@mckinneykelly",
+    "tiktok_handle": "@delgadoandrew",
+    "joined_at": "2025-02-03T20:19:47.469107",
+    "advocacy_programs": [
+        {
+            "program_id": "2414172b-9b1a-4ff0-86c4-62d273cfd7d7",
+            "brand": "Gray, Howard and Yang",
+            "tasks_completed": [
+                {
+                    "task_id": "4e38741f-6a13-4d33-ba50-42f3de361313",
+                    "platform": "Instagram",
+                    "post_url": "https://www.farley.com/",
+                    "likes": 4819,
+                    "comments": 430,
+                    "shares": 45,
+                    "reach": 1729
+                }
+            ],
+            "total_sales_attributed": 3660.33
+        }
+    ]
+}

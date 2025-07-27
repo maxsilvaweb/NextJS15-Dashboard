@@ -1,0 +1,26 @@
+{
+    "user_id": "abf054fc-579e-46d3-a5d6-b491d867ba75",
+    "name": "Mr. Derrick Lockman",
+    "email": "Erwin60@hotmail.com",
+    "instagram_handle": "@Antonetta_Huels",
+    "tiktok_handle": "@Dwight.Willms",
+    "joined_at": "2024-04-21T02:14:31.294Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f439697c-85bc-4d9b-afcb-3c0661d9bf42",
+            "brand": "McDermott, Abernathy and Ortiz",
+            "tasks_completed": [
+                {
+                    "task_id": "a493e97a-4f1e-400a-a76b-cfaab03ab122",
+                    "platform": "TikTok",
+                    "post_url": "https://windy-shore.com/",
+                    "likes": 14,
+                    "comments": 23,
+                    "shares": 92,
+                    "reach": 2802
+                }
+            ],
+            "total_sales_attributed": 3495.636170637016
+        }
+    ]
+}

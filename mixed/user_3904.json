@@ -1,0 +1,26 @@
+{
+    "user_id": "1ddb9bcf-7185-4156-9b8f-d6fa09601048",
+    "name": "Stephanie Thomas",
+    "email": "rpowell@example.org",
+    "instagram_handle": "@quinnmichael",
+    "tiktok_handle": "@graymark",
+    "joined_at": "2025-07-26T22:58:48.614630",
+    "advocacy_programs": [
+        {
+            "program_id": "45ad1404-cab3-4a6f-b5bf-6b3ed785321e",
+            "brand": "Frye, Vaughn and Sims",
+            "tasks_completed": [
+                {
+                    "task_id": "2b82ae52-d6a4-4bbb-b4e1-a78bde91db36",
+                    "platform": "TikTok",
+                    "post_url": "https://short-editor.org",
+                    "likes": 9955,
+                    "comments": 33,
+                    "shares": 33,
+                    "reach": 2475
+                }
+            ],
+            "total_sales_attributed": 4674.64
+        }
+    ]
+}

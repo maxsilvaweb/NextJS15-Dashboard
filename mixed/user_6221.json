@@ -1,0 +1,26 @@
+{
+    "user_id": "057cc0b9-c29e-4f92-a69a-cefebd942948",
+    "name": "Jason Hanna",
+    "email": "angelabrown@example.org",
+    "instagram_handle": "@johncook",
+    "tiktok_handle": "@williampotts",
+    "joined_at": "2024-07-13T20:58:52.621953",
+    "advocacy_programs": [
+        {
+            "program_id": "0a107199-1468-4e45-8f2b-e8b82703e433",
+            "brand": "Davenport LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "cf0c7657-ab67-442c-b6e6-bb42c8f50a22",
+                    "platform": "Instagram",
+                    "post_url": "http://sandoval.com/",
+                    "likes": 7558,
+                    "comments": 231,
+                    "shares": 70,
+                    "reach": 5621
+                }
+            ],
+            "total_sales_attributed": 1267.46
+        }
+    ]
+}

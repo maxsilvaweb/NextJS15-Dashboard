@@ -1,0 +1,26 @@
+{
+    "user_id": "32f58886-3b58-4a7d-8a51-ad7b90d717c2",
+    "name": "Jeffrey Mooney",
+    "email": "hansenjustin@example.com",
+    "instagram_handle": "@laura52",
+    "tiktok_handle": "@heidi14",
+    "joined_at": "2023-11-26T23:12:24.081300",
+    "advocacy_programs": [
+        {
+            "program_id": "707d316f-a293-4a04-b699-d955fdbf38f7",
+            "brand": "Cabrera PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "775c8d04-4cae-4215-b71b-d8655ac6b4e8",
+                    "platform": "TikTok",
+                    "post_url": "https://www.hernandez-long.com/",
+                    "likes": 809,
+                    "comments": 476,
+                    "shares": 51,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2408.29
+        }
+    ]
+}

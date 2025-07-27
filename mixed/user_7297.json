@@ -1,0 +1,26 @@
+{
+    "user_id": "95e245cd-4e96-4873-b642-15f63737595d",
+    "name": "Steven Martin",
+    "email": "matthew60@example.com",
+    "instagram_handle": "@samanthabryant",
+    "tiktok_handle": "@andrewbryan",
+    "joined_at": "2024-02-10T19:13:07.989442",
+    "advocacy_programs": [
+        {
+            "program_id": "e3593771-af5e-4f0f-bdba-f80a32f4d8eb",
+            "brand": "Alexander-Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "18852f1e-b4bb-41d4-8cea-00e71944de72",
+                    "platform": "Instagram",
+                    "post_url": "https://firsthand-pneumonia.com",
+                    "likes": 5753,
+                    "comments": 245,
+                    "shares": 83,
+                    "reach": 5162
+                }
+            ],
+            "total_sales_attributed": 2717.777327053374
+        }
+    ]
+}

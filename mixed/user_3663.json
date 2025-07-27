@@ -1,0 +1,26 @@
+{
+    "user_id": "df72666f-df75-4079-9a68-1bc93ded683e",
+    "name": "Christine Reynolds",
+    "email": "Angeline.Dickens63@gmail.com",
+    "instagram_handle": "@charlesfreeman",
+    "tiktok_handle": "@joseph92",
+    "joined_at": "2024-06-17T11:40:29.210046",
+    "advocacy_programs": [
+        {
+            "program_id": "68f70a64-3b19-43ee-9130-521c7575356c",
+            "brand": "Sanford Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "5625a32d-0f1b-42e6-9b78-688e63fe4b96",
+                    "platform": "Instagram",
+                    "post_url": "https://damaged-forgery.info/",
+                    "likes": 8644,
+                    "comments": 25,
+                    "shares": 59,
+                    "reach": 5248
+                }
+            ],
+            "total_sales_attributed": 9429.5
+        }
+    ]
+}

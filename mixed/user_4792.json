@@ -1,0 +1,26 @@
+{
+    "user_id": "684b9674-2e54-4bba-b359-a6cdc5ce72d9",
+    "name": "Julie Jones",
+    "email": "sgonzalez@example.org",
+    "instagram_handle": "@jason30",
+    "tiktok_handle": "@garyyoung",
+    "joined_at": "2024-08-18T21:34:23.631Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1774fed5-bd93-4268-b47c-f657df9f41db",
+            "brand": "Thomas Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "4675349d-146a-4abe-a5cd-82cb2cb3b1bc",
+                    "platform": "Facebook",
+                    "post_url": "http://le-curtis.com/",
+                    "likes": 339,
+                    "comments": 486,
+                    "shares": 55,
+                    "reach": 5435
+                }
+            ],
+            "total_sales_attributed": 3550.48
+        }
+    ]
+}

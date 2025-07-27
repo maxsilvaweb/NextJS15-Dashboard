@@ -1,0 +1,26 @@
+{
+    "user_id": "2142d5e2-3878-4a82-920b-73a074982edf",
+    "name": "Robert Matthews",
+    "email": "brian22@example.com",
+    "instagram_handle": "@terrimaldonado",
+    "tiktok_handle": "@tammyvillarreal",
+    "joined_at": "2024-03-23T23:46:42.591952",
+    "advocacy_programs": [
+        {
+            "program_id": "b435cd20-c085-4f8a-aa94-23b7f087fa0d",
+            "brand": "Sanchez-Spencer",
+            "tasks_completed": [
+                {
+                    "task_id": "b2c38efa-403d-48af-9e32-35eadba9ae3c",
+                    "platform": "Facebook",
+                    "post_url": "http://www.williams.biz/",
+                    "likes": 349,
+                    "comments": 24,
+                    "shares": 84,
+                    "reach": 8277
+                }
+            ],
+            "total_sales_attributed": 4877.51
+        }
+    ]
+}

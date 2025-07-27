@@ -1,0 +1,26 @@
+{
+    "user_id": "161407e9-aceb-442f-bc1d-79d1952d5552",
+    "name": "Andrew Mcmillan",
+    "email": "nhood@example.com",
+    "instagram_handle": "@michelefrench",
+    "tiktok_handle": "@alexanderrobertson",
+    "joined_at": "2025-04-29T20:15:49.206077",
+    "advocacy_programs": [
+        {
+            "program_id": "5e59086d-cf92-42b4-824b-3065d10c9072",
+            "brand": "Anderson-Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "0531a8e1-2f6b-4070-a898-596a08c34cfb",
+                    "platform": "Facebook",
+                    "post_url": "http://www.gomez-alexander.com/",
+                    "likes": 5517,
+                    "comments": 126,
+                    "shares": 88,
+                    "reach": 5439
+                }
+            ],
+            "total_sales_attributed": 2044.96
+        }
+    ]
+}

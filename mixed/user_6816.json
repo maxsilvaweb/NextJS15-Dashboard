@@ -1,0 +1,26 @@
+{
+    "user_id": "490ed139-a3ae-4116-ba42-75720e315fa0",
+    "name": "Loretta Flatley",
+    "email": "Coralie_Gusikowski84@hotmail.com",
+    "instagram_handle": "@Cristian36",
+    "tiktok_handle": "@Arne_Welch",
+    "joined_at": "2024-12-29T17:23:27.847Z",
+    "advocacy_programs": [
+        {
+            "program_id": "005fbf25-af9a-4a22-90ad-4f74ad1bcc9e",
+            "brand": "Parisian LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "8d0758e5-60c9-4dbe-83e6-ddcb9c62c96b",
+                    "platform": "TikTok",
+                    "post_url": "https://unwilling-convection.org",
+                    "likes": 210,
+                    "comments": 15,
+                    "shares": 5,
+                    "reach": 9079
+                }
+            ],
+            "total_sales_attributed": 4880.169248611062
+        }
+    ]
+}

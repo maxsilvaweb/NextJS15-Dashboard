@@ -1,0 +1,26 @@
+{
+    "user_id": "704c806d-cf55-4238-bfa4-a5b9a664390d",
+    "name": "Larry Bailey",
+    "email": "brandonlopez@example.net",
+    "instagram_handle": "@chloe10",
+    "tiktok_handle": "@plynn",
+    "joined_at": "2024-07-30T17:51:28.377394",
+    "advocacy_programs": [
+        {
+            "program_id": "88dfc5bb-5f61-4578-9c3f-e4820f0209c1",
+            "brand": "Woods-Vaughan",
+            "tasks_completed": [
+                {
+                    "task_id": "2dd9eb6c-b40b-457f-a94a-d0345e71801b",
+                    "platform": "Instagram",
+                    "post_url": "https://daniels.com/",
+                    "likes": 5398,
+                    "comments": 197,
+                    "shares": 4,
+                    "reach": 2082
+                }
+            ],
+            "total_sales_attributed": 5034.53
+        }
+    ]
+}

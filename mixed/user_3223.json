@@ -1,0 +1,26 @@
+{
+    "user_id": "d060ddc0-bc32-4028-be7a-b9acfc762741",
+    "name": "Elizabeth Bennett",
+    "email": "timothywolfe@example.net",
+    "instagram_handle": "@andersonlisa",
+    "tiktok_handle": "@pmcdonald",
+    "joined_at": "2025-06-20T00:16:40.541970",
+    "advocacy_programs": [
+        {
+            "program_id": "16c8d396-e171-4273-9bc6-2b51b260c287",
+            "brand": "Huff, Faulkner and Grant",
+            "tasks_completed": [
+                {
+                    "task_id": "0ab09727-0873-4adb-8805-c296dd3e703d",
+                    "platform": "YouTube",
+                    "post_url": "https://discrete-possession.biz/",
+                    "likes": 339,
+                    "comments": 16,
+                    "shares": 80,
+                    "reach": 2712
+                }
+            ],
+            "total_sales_attributed": 2349.78
+        }
+    ]
+}

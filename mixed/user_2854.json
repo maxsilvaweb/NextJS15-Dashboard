@@ -1,0 +1,26 @@
+{
+    "user_id": "c2ab71ae-710b-478c-b8be-975dc787c7ca",
+    "name": "Edmond Muller",
+    "email": "Adolph50@hotmail.com",
+    "instagram_handle": "@Ray_Price63",
+    "tiktok_handle": "@Tyrese.Swaniawski",
+    "joined_at": "2024-04-21T21:25:26.918Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5de468c0-de72-402b-bc69-eb7c84669cd2",
+            "brand": "Nader Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "025f207f-2387-49de-8a95-0cf4d7ba17df",
+                    "platform": "Instagram",
+                    "post_url": "https://tame-co-producer.com",
+                    "likes": 194,
+                    "comments": 30,
+                    "shares": 0,
+                    "reach": 4687
+                }
+            ],
+            "total_sales_attributed": 2157.4379567029655
+        }
+    ]
+}

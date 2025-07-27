@@ -1,0 +1,26 @@
+{
+    "user_id": "1d39431c-71d9-48bd-80e1-56e5eee1744e",
+    "name": "Irene Wiegand",
+    "email": "Dwight_Moen36@gmail.com",
+    "instagram_handle": "@Kylie.Stoltenberg81",
+    "tiktok_handle": "@Carolanne67",
+    "joined_at": "2024-08-13T07:48:48.575Z",
+    "advocacy_programs": [
+        {
+            "program_id": "20edbe61-8449-47bd-b0e7-8a2a0238dfbc",
+            "brand": "Osinski, DuBuque and Dooley",
+            "tasks_completed": [
+                {
+                    "task_id": "0ba2eb91-7e8a-48e0-8568-ee773c0c6f10",
+                    "platform": "TikTok",
+                    "post_url": "https://that-director.info",
+                    "likes": 321,
+                    "comments": 25,
+                    "shares": 84,
+                    "reach": 7672
+                }
+            ],
+            "total_sales_attributed": 1475.5547479236393
+        }
+    ]
+}

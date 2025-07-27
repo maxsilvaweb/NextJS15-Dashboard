@@ -1,0 +1,26 @@
+{
+    "user_id": "500b5d40-beae-452e-b0bb-9c443455f258",
+    "name": "Laura Clark",
+    "email": "rickjohnson@example.org",
+    "instagram_handle": "@kevin84",
+    "tiktok_handle": "@yuyolanda",
+    "joined_at": "2024-02-26T00:46:06.011904",
+    "advocacy_programs": [
+        {
+            "program_id": "793619fc-cf03-4b70-8e1b-ab3e44aa0c6d",
+            "brand": "Peterson-Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "6dfaf0ef-b451-4094-a871-18a865668a10",
+                    "platform": "Instagram",
+                    "post_url": "http://www.sandoval.info/",
+                    "likes": 2898,
+                    "comments": 21,
+                    "shares": 59,
+                    "reach": 9208
+                }
+            ],
+            "total_sales_attributed": 9481.54
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "68a963c7-ae00-4039-a7aa-3d9a6f208db4",
+    "name": "Sarah Taylor",
+    "email": "Zachariah.Jacobson@yahoo.com",
+    "instagram_handle": "@nicole41",
+    "tiktok_handle": "@bfigueroa",
+    "joined_at": "2024-08-15T08:12:48.441724",
+    "advocacy_programs": [
+        {
+            "program_id": "cbc1475c-56b3-4c53-bb1e-f7ec69c67926",
+            "brand": "Cervantes, Harris and Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "6410a9fa-5c69-4b19-ae6c-6c967d8f3bfb",
+                    "platform": "Instagram",
+                    "post_url": "https://basic-exterior.org/",
+                    "likes": 7577,
+                    "comments": 80,
+                    "shares": 22,
+                    "reach": 9982
+                }
+            ],
+            "total_sales_attributed": 5874.62
+        }
+    ]
+}

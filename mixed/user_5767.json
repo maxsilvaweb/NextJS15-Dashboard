@@ -1,0 +1,26 @@
+{
+    "user_id": "3e27f1f8-44eb-427c-92eb-7fcae54b6b96",
+    "name": "Mr. Francisco Borer",
+    "email": "Elijah.Stehr66@hotmail.com",
+    "instagram_handle": "@Ola_Abbott",
+    "tiktok_handle": "@Rex99",
+    "joined_at": "2024-06-15T00:43:38.997Z",
+    "advocacy_programs": [
+        {
+            "program_id": "10aeaa3b-89ca-43a8-a593-84b421555169",
+            "brand": "Mraz - Olson",
+            "tasks_completed": [
+                {
+                    "task_id": "d37cd1b2-6181-42dc-8756-5bd5ece6a076",
+                    "platform": "TikTok",
+                    "post_url": "https://creamy-zen.com/",
+                    "likes": 444,
+                    "comments": 36,
+                    "shares": 53,
+                    "reach": 8240
+                }
+            ],
+            "total_sales_attributed": 1405.2339106354198
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bb098a64-0507-4ff2-bcb7-1dbc6c00812b",
+    "name": "Adam Langosh",
+    "email": "Sanford.Lockman35@gmail.com",
+    "instagram_handle": "@Brooklyn66",
+    "tiktok_handle": "@Myrtle59",
+    "joined_at": "2025-02-10T02:31:55.256Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d567848a-7c37-4217-af5c-4df47d955eb4",
+            "brand": "Mayer, Abernathy and Hamill",
+            "tasks_completed": [
+                {
+                    "task_id": "7cf885a6-1724-4da2-87c8-4150ca0908e9",
+                    "platform": "TikTok",
+                    "post_url": "https://dead-acquaintance.com",
+                    "likes": 26,
+                    "comments": 45,
+                    "shares": 46,
+                    "reach": 4765
+                }
+            ],
+            "total_sales_attributed": 4672.609595788772
+        }
+    ]
+}

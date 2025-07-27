@@ -1,0 +1,26 @@
+{
+    "user_id": "55faf9d5-0194-4488-be42-106eab6fd263",
+    "name": "Erika Feil",
+    "email": "Georgiana_Strosin56@gmail.com",
+    "instagram_handle": "@Jaunita62",
+    "tiktok_handle": "@Elmore.Conroy87",
+    "joined_at": "2024-05-02T16:54:09.937Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4e2dd540-4cf0-4eeb-b758-4527b53b8d43",
+            "brand": "Considine - Huels",
+            "tasks_completed": [
+                {
+                    "task_id": "d6b7805a-0784-4c48-bfcb-e2c902c053ac",
+                    "platform": "TikTok",
+                    "post_url": "https://slushy-stump.biz/",
+                    "likes": 493,
+                    "comments": 30,
+                    "shares": 75,
+                    "reach": 6942
+                }
+            ],
+            "total_sales_attributed": 1920.6902080234374
+        }
+    ]
+}

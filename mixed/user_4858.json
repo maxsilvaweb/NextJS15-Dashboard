@@ -1,0 +1,26 @@
+{
+    "user_id": "c758e6dc-1443-4096-9576-7fc7d7612588",
+    "name": "Kelvin Lindgren",
+    "email": "erica01@example.com",
+    "instagram_handle": "@romerojoseph",
+    "tiktok_handle": "@susan81",
+    "joined_at": "2024-01-05T16:43:00.529611",
+    "advocacy_programs": [
+        {
+            "program_id": "31b32a98-f824-456f-a3e5-0d62a94c7c1a",
+            "brand": "Rangel-Torres",
+            "tasks_completed": [
+                {
+                    "task_id": "9ce98774-f77b-45c5-865e-5c88e5af0088",
+                    "platform": "Instagram",
+                    "post_url": "https://www.hanson-richards.com/",
+                    "likes": 9902,
+                    "comments": 175,
+                    "shares": 38,
+                    "reach": 3608
+                }
+            ],
+            "total_sales_attributed": 1407.78
+        }
+    ]
+}

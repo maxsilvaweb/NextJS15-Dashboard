@@ -1,0 +1,26 @@
+{
+    "user_id": "9e31a14c-f628-4815-bd80-f2fb02a35af2",
+    "name": "Michelle Schmidt",
+    "email": "seanshaw@example.com",
+    "instagram_handle": "@cummingsamber",
+    "tiktok_handle": "@gmontgomery",
+    "joined_at": "2023-12-19T10:08:29.613256",
+    "advocacy_programs": [
+        {
+            "program_id": "41c1f3d6-2da8-4326-8f8f-8e5429d48aa7",
+            "brand": "Preston, Mays and Shelton",
+            "tasks_completed": [
+                {
+                    "task_id": "9d6d96e1-1dd7-4d8d-b9e2-3770208b1d83",
+                    "platform": "Facebook",
+                    "post_url": "http://mann.org/",
+                    "likes": 1761,
+                    "comments": 52,
+                    "shares": 51,
+                    "reach": 8334
+                }
+            ],
+            "total_sales_attributed": 4583.32
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "efbd461c-48ba-422e-b773-298cf83c86c5",
+    "name": "Leon Shepherd",
+    "email": "jennifer33@example.com",
+    "instagram_handle": "@curtisjeremy",
+    "tiktok_handle": "@dharrison",
+    "joined_at": "2024-02-07T22:32:05.502337",
+    "advocacy_programs": [
+        {
+            "program_id": "682f066e-9235-4e31-a14d-d17c1c7f045d",
+            "brand": "Zimmerman PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "76050334-5b19-48dd-9e82-412e8d6dfb18",
+                    "platform": "TikTok",
+                    "post_url": "https://www.holmes-nunez.info/",
+                    "likes": 12,
+                    "comments": 111,
+                    "shares": 8,
+                    "reach": 7973
+                }
+            ],
+            "total_sales_attributed": 6308.39
+        }
+    ]
+}

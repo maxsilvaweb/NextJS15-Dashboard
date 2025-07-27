@@ -1,0 +1,26 @@
+{
+    "user_id": "6f76a18e-3fb5-4960-9234-ee4e7f2c716b",
+    "name": "Timothy Webster",
+    "email": "ckennedy@example.org",
+    "instagram_handle": "@joneskatherine",
+    "tiktok_handle": "@ilambert",
+    "joined_at": "2024-11-30T14:21:47.334542",
+    "advocacy_programs": [
+        {
+            "program_id": "6d6436c1-6a0c-4e0a-b364-3640a9795e80",
+            "brand": "Wood-Garza",
+            "tasks_completed": [
+                {
+                    "task_id": "4aae850f-c31b-4f75-936c-3fd5398af4af",
+                    "platform": "Twitter",
+                    "post_url": "https://breakable-intellect.net/",
+                    "likes": 3420,
+                    "comments": 7,
+                    "shares": 99,
+                    "reach": 1044
+                }
+            ],
+            "total_sales_attributed": 2535.5114027642917
+        }
+    ]
+}

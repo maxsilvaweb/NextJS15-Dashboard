@@ -1,0 +1,26 @@
+{
+    "user_id": "becd6b59-606d-4cd3-84b3-20e69c3f9e1c",
+    "name": "Darrell Reynolds-Reynolds",
+    "email": "Karine24@yahoo.com",
+    "instagram_handle": "@Jenifer_Lind",
+    "tiktok_handle": "@Mauricio.Leuschke",
+    "joined_at": "2025-01-29T14:55:23.037Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3f52fa99-6d3d-498b-8065-65641e9c6618",
+            "brand": "Lubowitz, Spinka and Erdman",
+            "tasks_completed": [
+                {
+                    "task_id": "da249bd4-c84f-49cf-bf24-aa984ca0a2a5",
+                    "platform": "Instagram",
+                    "post_url": "https://enraged-mechanic.net",
+                    "likes": 296,
+                    "comments": 12,
+                    "shares": 49,
+                    "reach": 5400
+                }
+            ],
+            "total_sales_attributed": 1542.8750820642106
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "71868476-8ee7-4510-855e-2d6ee6bb157f",
+    "name": "James Johnson",
+    "email": "nyates@example.com",
+    "instagram_handle": "@rollinsjessica",
+    "tiktok_handle": "@jody91",
+    "joined_at": "2023-10-31T01:05:45.890485",
+    "advocacy_programs": [
+        {
+            "program_id": "e3f99166-fed8-475a-bcfe-6d2a26a020af",
+            "brand": "Wilson, Nunez and Wiggins",
+            "tasks_completed": [
+                {
+                    "task_id": "084bf850-5c91-40f7-ba1c-dd815db5a066",
+                    "platform": "Instagram",
+                    "post_url": "https://happy-advancement.net",
+                    "likes": 7143,
+                    "comments": 426,
+                    "shares": 1,
+                    "reach": 5964
+                }
+            ],
+            "total_sales_attributed": 7846.11
+        }
+    ]
+}

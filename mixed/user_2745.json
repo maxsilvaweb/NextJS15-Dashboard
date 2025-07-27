@@ -1,0 +1,26 @@
+{
+    "user_id": "e6c3eac3-38d8-4651-94ab-ca2d2684b1ad",
+    "name": "Erika Schroeder",
+    "email": "Alvah_Gerhold98@gmail.com",
+    "instagram_handle": "@Bud_Marquardt54",
+    "tiktok_handle": "@Bart.Kunde-Tremblay",
+    "joined_at": "2024-05-01T01:29:55.652Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3f67e9ae-b044-43fc-8859-7adb077f5b54",
+            "brand": "Mann - Hintz",
+            "tasks_completed": [
+                {
+                    "task_id": "5c277449-7a5d-451e-a534-f0ad564fbcd6",
+                    "platform": "TikTok",
+                    "post_url": "https://spiffy-pendant.org/",
+                    "likes": 65,
+                    "comments": 42,
+                    "shares": 28,
+                    "reach": 4233
+                }
+            ],
+            "total_sales_attributed": 1584.7969535234445
+        }
+    ]
+}

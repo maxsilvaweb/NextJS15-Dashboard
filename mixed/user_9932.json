@@ -1,0 +1,26 @@
+{
+    "user_id": "f2e8af4d-d769-4eca-9ea2-05b17d5d5080",
+    "name": "Jocelyn Greene",
+    "email": "Hillary40@yahoo.com",
+    "instagram_handle": "@blevinserica",
+    "tiktok_handle": "@bmonroe",
+    "joined_at": "2023-08-01T12:31:50.513596",
+    "advocacy_programs": [
+        {
+            "program_id": "22bcd48c-9f96-4f56-8c93-80e5b155946b",
+            "brand": "Fowler, Miller and Blanchard",
+            "tasks_completed": [
+                {
+                    "task_id": "c203eda6-b6e3-4aa9-9c0b-1a8450e4628c",
+                    "platform": "Facebook",
+                    "post_url": "https://www.lawrence.com/",
+                    "likes": 3161,
+                    "comments": 237,
+                    "shares": 75,
+                    "reach": 8656
+                }
+            ],
+            "total_sales_attributed": 6028.75
+        }
+    ]
+}

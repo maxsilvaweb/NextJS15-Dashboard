@@ -1,0 +1,26 @@
+{
+    "user_id": "fc177e03-8b6e-4947-962c-6bcbe1d112d6",
+    "name": "Mrs. Janis Armstrong",
+    "email": "Lavada21@yahoo.com",
+    "instagram_handle": "@Alyce_Barton-Kshlerin10",
+    "tiktok_handle": "@Bobby29",
+    "joined_at": "2024-04-27T19:15:20.741Z",
+    "advocacy_programs": [
+        {
+            "program_id": "918c1398-2b97-45f5-8597-66ab483fc0b2",
+            "brand": "Farrell - Durgan",
+            "tasks_completed": [
+                {
+                    "task_id": "bf74631c-fe87-4faa-83a9-8d4b3937340e",
+                    "platform": "TikTok",
+                    "post_url": "https://fluffy-meal.com/",
+                    "likes": 381,
+                    "comments": 44,
+                    "shares": 90,
+                    "reach": 2831
+                }
+            ],
+            "total_sales_attributed": 2929.3981451316267
+        }
+    ]
+}

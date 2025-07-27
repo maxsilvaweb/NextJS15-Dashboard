@@ -1,0 +1,26 @@
+{
+    "user_id": "99a7c378-ea80-40e9-a54d-5a98e52b3d19",
+    "name": "Natalie O'Hara",
+    "email": "awolf@example.com",
+    "instagram_handle": "@vleblanc",
+    "tiktok_handle": "@bryanwashington",
+    "joined_at": "2025-01-22T11:03:12.247053",
+    "advocacy_programs": [
+        {
+            "program_id": "723adf8f-fde2-4ca3-bbcb-d72269d75e66",
+            "brand": "Freeman-Francis",
+            "tasks_completed": [
+                {
+                    "task_id": "9a414214-4dcd-470f-9cd3-140872b797c8",
+                    "platform": "YouTube",
+                    "post_url": "https://stewart-leonard.com/",
+                    "likes": 9472,
+                    "comments": 239,
+                    "shares": 27,
+                    "reach": 8803
+                }
+            ],
+            "total_sales_attributed": 8727.37
+        }
+    ]
+}

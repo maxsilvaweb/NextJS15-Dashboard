@@ -1,0 +1,26 @@
+{
+    "user_id": "1f9be907-cdd0-4596-b8eb-acd5c3f41d59",
+    "name": "Mrs. Lindsey Stracke",
+    "email": "braunandres@example.org",
+    "instagram_handle": "@xadkins",
+    "tiktok_handle": "@jefferymarks",
+    "joined_at": "2025-01-01T17:59:23.418552",
+    "advocacy_programs": [
+        {
+            "program_id": "296ce317-640d-4552-8589-d985eb3c02c3",
+            "brand": "Johnson, Townsend and Silva",
+            "tasks_completed": [
+                {
+                    "task_id": "3684ef5d-f91a-4a08-b634-80186034c83d",
+                    "platform": "TikTok",
+                    "post_url": "https://www.anderson-welch.org/",
+                    "likes": 6015,
+                    "comments": 278,
+                    "shares": 62,
+                    "reach": 2953
+                }
+            ],
+            "total_sales_attributed": 4650.3
+        }
+    ]
+}

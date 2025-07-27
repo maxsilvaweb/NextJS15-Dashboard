@@ -1,0 +1,26 @@
+{
+    "user_id": "18388368-94bb-4a6e-ae5d-beb7b51cbb4d",
+    "name": "Lauren Burke",
+    "email": "ugomez@example.net",
+    "instagram_handle": "@ambercarpenter",
+    "tiktok_handle": "@clittle",
+    "joined_at": "2025-03-05T00:29:49.846359",
+    "advocacy_programs": [
+        {
+            "program_id": "64c709ef-596b-4d54-b194-20304e8bc6c5",
+            "brand": "O'Reilly - Daniel",
+            "tasks_completed": [
+                {
+                    "task_id": "b66c5654-2fc1-46bc-a238-38e3163d8e34",
+                    "platform": "Instagram",
+                    "post_url": "https://aggressive-newsprint.org",
+                    "likes": 511,
+                    "comments": 417,
+                    "shares": 100,
+                    "reach": 2203
+                }
+            ],
+            "total_sales_attributed": 8827.83
+        }
+    ]
+}

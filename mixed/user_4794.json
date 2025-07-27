@@ -1,0 +1,26 @@
+{
+    "user_id": "73a2be88-20bd-41d9-be93-7db61cfb4913",
+    "name": "Heather Camacho",
+    "email": "michellemejia@example.com",
+    "instagram_handle": "@markjohnson",
+    "tiktok_handle": "@trevor33",
+    "joined_at": "2023-12-28T07:18:06.366767",
+    "advocacy_programs": [
+        {
+            "program_id": "2fd9ee4c-7119-44be-995d-bc5657593d21",
+            "brand": "Lewis-Morse",
+            "tasks_completed": [
+                {
+                    "task_id": "002b532b-1cf3-461f-aa2e-8a09f2943642",
+                    "platform": "Instagram",
+                    "post_url": "http://roberts-davidson.biz/",
+                    "likes": 7083,
+                    "comments": 130,
+                    "shares": 31,
+                    "reach": 966
+                }
+            ],
+            "total_sales_attributed": 8696.05
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "dba80d45-46ad-4d4b-9287-4319c3ff6081",
+    "name": "Blanca Wilderman-Franey",
+    "email": "Eric3@yahoo.com",
+    "instagram_handle": "@Florida.Jakubowski77",
+    "tiktok_handle": "@Laurence.Lemke17",
+    "joined_at": "2024-08-29T15:51:23.015Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a082af18-3393-4eaa-8b1f-ae430a6f754f",
+            "brand": "Hamill - Raynor",
+            "tasks_completed": [
+                {
+                    "task_id": "e54b828b-7f79-43eb-a74e-2749623dfda9",
+                    "platform": "TikTok",
+                    "post_url": "https://uncomfortable-packaging.net",
+                    "likes": 311,
+                    "comments": 30,
+                    "shares": 74,
+                    "reach": 5955
+                }
+            ],
+            "total_sales_attributed": 3559.651150075002
+        }
+    ]
+}

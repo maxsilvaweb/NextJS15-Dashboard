@@ -1,0 +1,26 @@
+{
+    "user_id": "f60f190f-b584-44a7-a0b9-b9d1c4fcc6a9",
+    "name": "Inez Corkery",
+    "email": "Casimer.Lindgren48@yahoo.com",
+    "instagram_handle": "@Keon13",
+    "tiktok_handle": "@Sadye77",
+    "joined_at": "2024-11-29T17:22:23.728Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7b6fa4f2-ca7e-479b-8070-c1eb1672deea",
+            "brand": "Rohan - McClure",
+            "tasks_completed": [
+                {
+                    "task_id": "dd392d25-3c69-4d19-838d-4719d0d97df1",
+                    "platform": "TikTok",
+                    "post_url": "https://vivid-whale.net/",
+                    "likes": 127,
+                    "comments": 28,
+                    "shares": 56,
+                    "reach": 9067
+                }
+            ],
+            "total_sales_attributed": 2919.307251372523
+        }
+    ]
+}

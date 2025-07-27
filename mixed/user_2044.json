@@ -1,0 +1,26 @@
+{
+    "user_id": "b20082f3-707d-431f-90b6-a44f2fd7d923",
+    "name": "Lowell DuBuque DVM",
+    "email": "markcantrell@example.org",
+    "instagram_handle": "@robert09",
+    "tiktok_handle": "@nicolegoodwin",
+    "joined_at": "2024-02-09T04:49:56.360645",
+    "advocacy_programs": [
+        {
+            "program_id": "c5beaa5f-46f4-43bf-80a3-a5b7e3988104",
+            "brand": "Parker PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1a843a3e-c1d5-4cec-a6bc-a0cf55a5203d",
+                    "platform": "Facebook",
+                    "post_url": "https://shrill-diver.org",
+                    "likes": 1308,
+                    "comments": 278,
+                    "shares": 40,
+                    "reach": 4278
+                }
+            ],
+            "total_sales_attributed": 1972.62
+        }
+    ]
+}

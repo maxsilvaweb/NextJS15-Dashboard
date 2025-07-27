@@ -1,0 +1,26 @@
+{
+    "user_id": "4c05a937-d0a5-4727-90b5-ee8ea5c433b2",
+    "name": "Jaime Stark",
+    "email": "Birdie.Abbott45@hotmail.com",
+    "instagram_handle": "@Rhoda_Towne67",
+    "tiktok_handle": "@Dianna.Hackett6",
+    "joined_at": "2024-09-06T08:57:04.702Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0e37a562-e38c-4961-ac0a-0a9d52577883",
+            "brand": "Cronin - Bechtelar",
+            "tasks_completed": [
+                {
+                    "task_id": "2d1d7874-046e-43ba-82a1-928cbf8f57ca",
+                    "platform": "TikTok",
+                    "post_url": "https://petty-sideboard.info/",
+                    "likes": 129,
+                    "comments": 0,
+                    "shares": 42,
+                    "reach": 4106
+                }
+            ],
+            "total_sales_attributed": 1419.6359931433317
+        }
+    ]
+}

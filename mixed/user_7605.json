@@ -1,0 +1,26 @@
+{
+    "user_id": "4ca56740-2d55-4509-a0e5-a0926d7697aa",
+    "name": "Raymond Jackson",
+    "email": "gentrybrittany@example.com",
+    "instagram_handle": "@blewis",
+    "tiktok_handle": "@jordandawn",
+    "joined_at": "2023-09-18T08:29:00.180448",
+    "advocacy_programs": [
+        {
+            "program_id": "1a88d4b0-f8df-4782-83ca-83f27ed7203e",
+            "brand": "Kim-Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "72c4d3e4-b7b8-434a-8877-3510cea17703",
+                    "platform": "Twitter",
+                    "post_url": "https://potable-puritan.info/",
+                    "likes": 1077,
+                    "comments": 6,
+                    "shares": 51,
+                    "reach": 9477
+                }
+            ],
+            "total_sales_attributed": 250.61863097907667
+        }
+    ]
+}

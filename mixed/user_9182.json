@@ -1,0 +1,26 @@
+{
+    "user_id": "92628704-a469-4ea6-b6fe-93ba6d73e06d",
+    "name": "Andre Cohen",
+    "email": "serranofrank@example.net",
+    "instagram_handle": "@connie62",
+    "tiktok_handle": "@nicole51",
+    "joined_at": "2024-02-04T09:48:54.821796",
+    "advocacy_programs": [
+        {
+            "program_id": "39466de8-834f-4be3-96d2-0164c10602b1",
+            "brand": "Bruen - Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "6726da7e-12c2-4b01-9978-5494995ac131",
+                    "platform": "Facebook",
+                    "post_url": "http://pierce.biz/",
+                    "likes": 249,
+                    "comments": 252,
+                    "shares": 4,
+                    "reach": 1776
+                }
+            ],
+            "total_sales_attributed": 3754.09
+        }
+    ]
+}

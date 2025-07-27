@@ -1,0 +1,26 @@
+{
+    "user_id": "0ea0eab5-a240-4c8a-8e9d-eb1de34883ea",
+    "name": "Rachael Brooks MD",
+    "email": "qkirk@example.net",
+    "instagram_handle": "@brent37",
+    "tiktok_handle": "@qburton",
+    "joined_at": "2024-06-18T06:07:53.815931",
+    "advocacy_programs": [
+        {
+            "program_id": "a47e2716-7315-4597-9a6d-17526211ea35",
+            "brand": "Stephens-Rodriguez",
+            "tasks_completed": [
+                {
+                    "task_id": "951737d7-7314-4fc1-9c1d-dde81ed61a68",
+                    "platform": "Facebook",
+                    "post_url": "https://mcintosh.biz/",
+                    "likes": 69,
+                    "comments": 473,
+                    "shares": 89,
+                    "reach": 5734
+                }
+            ],
+            "total_sales_attributed": 2854.96
+        }
+    ]
+}

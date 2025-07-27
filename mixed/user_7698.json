@@ -1,0 +1,26 @@
+{
+    "user_id": "9f7bd189-b7b7-433e-929a-145a35e4c40c",
+    "name": "Jaime Marshall",
+    "email": "oramos@example.com",
+    "instagram_handle": "@larsonsarah",
+    "tiktok_handle": "@gabrieladaniels",
+    "joined_at": "2023-12-16T15:07:34.225693",
+    "advocacy_programs": [
+        {
+            "program_id": "30fc6905-b284-4e27-8d9d-a10a4a142b82",
+            "brand": "Castaneda-Payne",
+            "tasks_completed": [
+                {
+                    "task_id": "0aada0f1-5462-463d-b344-0d2f1898c8b7",
+                    "platform": "Instagram",
+                    "post_url": "https://www.gomez.org/",
+                    "likes": 399,
+                    "comments": 87,
+                    "shares": 20,
+                    "reach": 1039
+                }
+            ],
+            "total_sales_attributed": 2970.62
+        }
+    ]
+}

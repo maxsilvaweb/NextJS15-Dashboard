@@ -1,0 +1,26 @@
+{
+    "user_id": "aae49fe5-dd93-4b74-9185-58c77cc7ef6a",
+    "name": "Robert Franey Sr.",
+    "email": "Newton35@hotmail.com",
+    "instagram_handle": "@Gaston79",
+    "tiktok_handle": "@Luisa.Lockman80",
+    "joined_at": "2024-09-08T12:08:23.813Z",
+    "advocacy_programs": [
+        {
+            "program_id": "713ac25f-ec82-436b-b1df-89b0beddfa02",
+            "brand": "Maggio - Schoen",
+            "tasks_completed": [
+                {
+                    "task_id": "9c54ad58-2193-4210-943f-5d34819a3134",
+                    "platform": "TikTok",
+                    "post_url": "https://zesty-promise.com/",
+                    "likes": 400,
+                    "comments": 31,
+                    "shares": 5,
+                    "reach": 6151
+                }
+            ],
+            "total_sales_attributed": 247.06952335210124
+        }
+    ]
+}

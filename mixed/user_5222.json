@@ -1,0 +1,26 @@
+{
+    "user_id": "f72d7cb1-1a1f-4387-81b7-4bc6108129f6",
+    "name": "Rachel Conway",
+    "email": "michaelkelly@example.com",
+    "instagram_handle": "@mark37",
+    "tiktok_handle": "@willisthomas",
+    "joined_at": "2024-10-22T08:46:47.427655",
+    "advocacy_programs": [
+        {
+            "program_id": "687a5093-2ccf-475c-b5e7-eccdc3c0cbc1",
+            "brand": "Flores-Wilson",
+            "tasks_completed": [
+                {
+                    "task_id": "482d8c03-d213-438b-884d-8ba0b82eaac9",
+                    "platform": "Instagram",
+                    "post_url": "https://turner.com/",
+                    "likes": 7481,
+                    "comments": 17,
+                    "shares": 74,
+                    "reach": 8002
+                }
+            ],
+            "total_sales_attributed": 6494.33
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "75ed7552-5736-4ae7-ba88-2631899aebfe",
+    "name": "Joseph Stone",
+    "email": "pperry@example.net",
+    "instagram_handle": "@jefferycook",
+    "tiktok_handle": "@hhiggins",
+    "joined_at": "2025-03-22T03:32:51.681663",
+    "advocacy_programs": [
+        {
+            "program_id": "b1a9061b-40c4-426f-8642-883e96925221",
+            "brand": "Heathcote Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "380ce0a3-e448-4a61-ae03-1e6bfb032845",
+                    "platform": "TikTok",
+                    "post_url": "http://martinez.com/",
+                    "likes": 3416,
+                    "comments": 233,
+                    "shares": 97,
+                    "reach": 639
+                }
+            ],
+            "total_sales_attributed": 1661.18
+        }
+    ]
+}

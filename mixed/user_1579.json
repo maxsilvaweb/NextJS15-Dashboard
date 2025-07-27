@@ -1,0 +1,26 @@
+{
+    "user_id": "ef89dfc4-0004-4377-8738-183d05c00ef0",
+    "name": "Mary Johnson",
+    "email": "oscarhooper@example.org",
+    "instagram_handle": "@matthew71",
+    "tiktok_handle": "@elizabeth41",
+    "joined_at": "2023-08-25T11:34:00.111357",
+    "advocacy_programs": [
+        {
+            "program_id": "76e0f420-5148-4115-9488-b745ec81d25c",
+            "brand": "Harvey-Frederick",
+            "tasks_completed": [
+                {
+                    "task_id": "37a948d0-5bde-4179-9853-57121c2f5761",
+                    "platform": "YouTube",
+                    "post_url": "http://lyons.org/",
+                    "likes": 9181,
+                    "comments": 19,
+                    "shares": 39,
+                    "reach": 1157
+                }
+            ],
+            "total_sales_attributed": 677.85
+        }
+    ]
+}

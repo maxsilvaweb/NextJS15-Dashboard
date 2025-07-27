@@ -1,0 +1,26 @@
+{
+    "user_id": "7c75bbb5-609e-4957-a6cb-662896f1e814",
+    "name": "Elias Hintz",
+    "email": "Chanelle_Schroeder@gmail.com",
+    "instagram_handle": "@Norberto_Kuvalis-McCullough8",
+    "tiktok_handle": "@Kari.Renner",
+    "joined_at": "2025-03-19T04:06:24.640Z",
+    "advocacy_programs": [
+        {
+            "program_id": "efa3d707-4c2e-4bd7-8344-a4e21dcb7da4",
+            "brand": "Buckridge, Huels and Terry",
+            "tasks_completed": [
+                {
+                    "task_id": "a1157556-bd27-4e6b-a7b7-cbe9a328ebed",
+                    "platform": "TikTok",
+                    "post_url": "https://artistic-euphonium.net",
+                    "likes": 80,
+                    "comments": 0,
+                    "shares": 32,
+                    "reach": 6413
+                }
+            ],
+            "total_sales_attributed": 3623.0777752333606
+        }
+    ]
+}

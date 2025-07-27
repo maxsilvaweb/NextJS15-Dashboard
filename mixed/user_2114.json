@@ -1,0 +1,26 @@
+{
+    "user_id": "b9e307c0-7cbe-4c9a-9e60-7685b5a6d3d8",
+    "name": "Matthew Fisher",
+    "email": "Richard.Breitenberg75@hotmail.com",
+    "instagram_handle": "@rebeccaweber",
+    "tiktok_handle": "@adamsjasmine",
+    "joined_at": "2024-05-13T08:01:59.450710",
+    "advocacy_programs": [
+        {
+            "program_id": "4276336f-2491-434f-967a-a1435a3d6dd3",
+            "brand": "Dalton Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "111847ac-e93d-44e4-9df1-c8efa3df2b13",
+                    "platform": "Facebook",
+                    "post_url": "https://www.johnson.com/",
+                    "likes": 7485,
+                    "comments": 269,
+                    "shares": 1,
+                    "reach": 5213
+                }
+            ],
+            "total_sales_attributed": 6983.44
+        }
+    ]
+}

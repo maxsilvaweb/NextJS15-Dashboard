@@ -1,0 +1,26 @@
+{
+    "user_id": "6bae575f-2389-4758-84a4-01211da8b810",
+    "name": "Devin Weber",
+    "email": "Richie99@yahoo.com",
+    "instagram_handle": "@Toni_Funk60",
+    "tiktok_handle": "@Carlie.Mills11",
+    "joined_at": "2024-08-29T13:56:29.548Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dc9802ca-bd17-440e-8797-254d730533db",
+            "brand": "Ernser and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "9df4115e-3790-418a-b337-f6c0b33ccaff",
+                    "platform": "TikTok",
+                    "post_url": "https://acceptable-hutch.net",
+                    "likes": 396,
+                    "comments": 8,
+                    "shares": 36,
+                    "reach": 7609
+                }
+            ],
+            "total_sales_attributed": 1777.485359211056
+        }
+    ]
+}

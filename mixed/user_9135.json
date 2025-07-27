@@ -1,0 +1,26 @@
+{
+    "user_id": "d404c0a7-9205-4dae-8866-21352834f81c",
+    "name": "Nicole Roman",
+    "email": "matthewpeterson@example.net",
+    "instagram_handle": "@faith65",
+    "tiktok_handle": "@thomasmoore",
+    "joined_at": "2024-07-03T12:45:47.295048",
+    "advocacy_programs": [
+        {
+            "program_id": "277024e5-3fbc-4dd0-afde-12760343c0b8",
+            "brand": "Ballard-Hodge",
+            "tasks_completed": [
+                {
+                    "task_id": "741a662e-8b53-431c-afcf-2c313d923d63",
+                    "platform": "Instagram",
+                    "post_url": "http://www.wilson.com/",
+                    "likes": 5472,
+                    "comments": 282,
+                    "shares": 84,
+                    "reach": 5600
+                }
+            ],
+            "total_sales_attributed": 555.56
+        }
+    ]
+}

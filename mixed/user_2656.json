@@ -1,0 +1,26 @@
+{
+    "user_id": "914c750f-961c-4b98-aec2-35d42ceef4f4",
+    "name": "Lisa Gomez",
+    "email": "nicholastaylor@example.com",
+    "instagram_handle": "@kim80",
+    "tiktok_handle": "@Bennie_McGlynn97",
+    "joined_at": "2024-03-24T01:44:34.420585",
+    "advocacy_programs": [
+        {
+            "program_id": "6fd06b92-ed5a-421c-852f-2ab915b21f81",
+            "brand": "Wong, Hunt and Bell",
+            "tasks_completed": [
+                {
+                    "task_id": "8cf60cf8-56ae-45e2-91ad-c7a1cce00c63",
+                    "platform": "Instagram",
+                    "post_url": "https://bush.net/",
+                    "likes": 5215,
+                    "comments": 19,
+                    "shares": 8,
+                    "reach": 5165
+                }
+            ],
+            "total_sales_attributed": 4661.88
+        }
+    ]
+}

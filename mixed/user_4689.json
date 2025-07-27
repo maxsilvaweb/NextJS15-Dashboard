@@ -1,0 +1,26 @@
+{
+    "user_id": "670a91de-62f7-4426-a4d8-89859d021ef2",
+    "name": "Janis Hammes V",
+    "email": "Lorenza82@gmail.com",
+    "instagram_handle": "@Danika_Dibbert99",
+    "tiktok_handle": "@Dejah.Lueilwitz66",
+    "joined_at": "2024-04-13T12:08:06.187Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8d9b2a0d-9b80-4992-9649-084f2ccc8094",
+            "brand": "Beatty and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "eed9864c-5760-4708-89c7-37dad7fc8b03",
+                    "platform": "TikTok",
+                    "post_url": "https://shrill-nephew.name/",
+                    "likes": 307,
+                    "comments": 27,
+                    "shares": 62,
+                    "reach": 6582
+                }
+            ],
+            "total_sales_attributed": 1463.2509320130378
+        }
+    ]
+}

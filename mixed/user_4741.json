@@ -1,0 +1,26 @@
+{
+    "user_id": "0ff06a01-cbab-4ac3-acaf-f8ff7b9c0fad",
+    "name": "James Taylor",
+    "email": "cannonteresa@example.org",
+    "instagram_handle": "@hhayes",
+    "tiktok_handle": "@wanda20",
+    "joined_at": "2024-10-15T17:54:06.643Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cdf7be9f-a5f0-403a-b8f4-cf3f28f18b62",
+            "brand": "O'Connell Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "60f201a9-4599-4775-9e05-ca8c68bd3e60",
+                    "platform": "Facebook",
+                    "post_url": "http://www.moore-coleman.com/",
+                    "likes": 496,
+                    "comments": 42,
+                    "shares": 86,
+                    "reach": 9914
+                }
+            ],
+            "total_sales_attributed": 9978.27
+        }
+    ]
+}

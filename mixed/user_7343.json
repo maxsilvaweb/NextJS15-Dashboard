@@ -1,0 +1,26 @@
+{
+    "user_id": "abd8202d-42e1-41a1-8b66-3534f90438c4",
+    "name": "Steven Marshall",
+    "email": "james25@example.com",
+    "instagram_handle": "@wallacejohn",
+    "tiktok_handle": "@ocoleman",
+    "joined_at": "2024-08-25T03:39:13.624091",
+    "advocacy_programs": [
+        {
+            "program_id": "42077b5d-a23b-45b5-83e3-c5bcf53e7e37",
+            "brand": "Greene, Williams and Hampton",
+            "tasks_completed": [
+                {
+                    "task_id": "1644ac19-20c7-4a88-985b-03a58e33cce9",
+                    "platform": "Instagram",
+                    "post_url": "https://king.info/",
+                    "likes": 3038,
+                    "comments": 3,
+                    "shares": 63,
+                    "reach": 3066
+                }
+            ],
+            "total_sales_attributed": 8155.07
+        }
+    ]
+}

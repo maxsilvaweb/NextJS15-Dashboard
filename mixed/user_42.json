@@ -1,0 +1,26 @@
+{
+    "user_id": "40e08c4d-103a-430f-9f71-6998751d8a8d",
+    "name": "John Anthony",
+    "email": "bondtonya@example.org",
+    "instagram_handle": "@monica21",
+    "tiktok_handle": "@Clarabelle.OHara",
+    "joined_at": "2024-12-26T08:44:49.108Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8f310bf9-052c-4e22-b814-dfd7cf59e98e",
+            "brand": "Wells LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "91f08801-a3ab-481b-9650-a0bce0037d71",
+                    "platform": "Instagram",
+                    "post_url": "https://animated-derby.info/",
+                    "likes": 2194,
+                    "comments": 3,
+                    "shares": 42,
+                    "reach": 1255
+                }
+            ],
+            "total_sales_attributed": 7050.0
+        }
+    ]
+}

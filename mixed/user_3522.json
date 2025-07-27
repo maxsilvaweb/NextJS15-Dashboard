@@ -1,0 +1,26 @@
+{
+    "user_id": "4d5b8e87-df2d-45f6-9b3a-6fd3f72118c2",
+    "name": "Leah Malone",
+    "email": "megansloan@example.com",
+    "instagram_handle": "@nathan40",
+    "tiktok_handle": "@brittanyhoward",
+    "joined_at": "2023-11-06T19:53:46.612646",
+    "advocacy_programs": [
+        {
+            "program_id": "57fbd7fb-23fe-41d1-806f-cdf7f70543c5",
+            "brand": "Dennis-Stewart",
+            "tasks_completed": [
+                {
+                    "task_id": "db3604ac-862c-4979-808f-f298218d9de1",
+                    "platform": "TikTok",
+                    "post_url": "https://www.sweeney.info/",
+                    "likes": 6193,
+                    "comments": 319,
+                    "shares": 6,
+                    "reach": 4623
+                }
+            ],
+            "total_sales_attributed": 7546.34
+        }
+    ]
+}

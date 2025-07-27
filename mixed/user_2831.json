@@ -1,0 +1,26 @@
+{
+    "user_id": "33c9ea2d-c926-402d-9574-80cdcf55c69d",
+    "name": "Lisa Jakubowski",
+    "email": "Madisen_Hodkiewicz-Mertz13@yahoo.com",
+    "instagram_handle": "@Effie_Kilback67",
+    "tiktok_handle": "@Francisco.Legros79",
+    "joined_at": "2025-02-25T06:53:45.859Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7d6b8278-6887-454f-b297-d24005a543df",
+            "brand": "Murray Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "cc055a03-18c9-40c1-9729-c004a7d484bd",
+                    "platform": "TikTok",
+                    "post_url": "https://rectangular-secrecy.name/",
+                    "likes": 47,
+                    "comments": 47,
+                    "shares": 79,
+                    "reach": 5896
+                }
+            ],
+            "total_sales_attributed": 3422.8682952373824
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d75fadf3-f801-4f3b-832c-140d4841f591",
+    "name": "Blake Littel",
+    "email": "hunterlisa@example.com",
+    "instagram_handle": "@jeremy77",
+    "tiktok_handle": "@brenda12",
+    "joined_at": "2024-07-28T09:15:57.079932",
+    "advocacy_programs": [
+        {
+            "program_id": "3b2c36eb-056c-4278-be35-ad01185013b6",
+            "brand": "Williams, Paul and Robinson",
+            "tasks_completed": [
+                {
+                    "task_id": "b5bdc3a5-4925-4867-baf5-610acb79bc74",
+                    "platform": "TikTok",
+                    "post_url": "https://www.perez.com/",
+                    "likes": 7466,
+                    "comments": 25,
+                    "shares": 31,
+                    "reach": 6958
+                }
+            ],
+            "total_sales_attributed": 4386.9
+        }
+    ]
+}

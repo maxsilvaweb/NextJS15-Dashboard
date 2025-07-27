@@ -1,0 +1,26 @@
+{
+    "user_id": "cf425d0a-05d3-4360-b8b5-bf47c1039faf",
+    "name": "Gwen Goodwin",
+    "email": "Chadd_Deckow@hotmail.com",
+    "instagram_handle": "@Melvina81",
+    "tiktok_handle": "@Noe10",
+    "joined_at": "2024-05-01T11:08:17.665Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b7381797-881a-4c36-8f71-5b3dcb34b9d1",
+            "brand": "Klein - Turcotte",
+            "tasks_completed": [
+                {
+                    "task_id": "77d5a0a1-8660-4900-9d1a-bfa4f7ab6a1e",
+                    "platform": "TikTok",
+                    "post_url": "https://bare-submitter.biz/",
+                    "likes": 384,
+                    "comments": 47,
+                    "shares": 15,
+                    "reach": 7761
+                }
+            ],
+            "total_sales_attributed": 4463.908928698689
+        }
+    ]
+}

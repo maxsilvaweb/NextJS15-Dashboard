@@ -1,0 +1,26 @@
+{
+    "user_id": "84034b9f-948c-4436-83ce-663b636329bf",
+    "name": "Christopher Rippin",
+    "email": "vmays@example.net",
+    "instagram_handle": "@goneill",
+    "tiktok_handle": "@Ethyl_Oberbrunner",
+    "joined_at": "2023-09-04T01:29:53.100500",
+    "advocacy_programs": [
+        {
+            "program_id": "ff4ce2dc-4f34-443e-aeca-2c53ba0847ba",
+            "brand": "Mcmahon-Chandler",
+            "tasks_completed": [
+                {
+                    "task_id": "d6528b6d-786d-4b78-b91e-ef1d58733031",
+                    "platform": "Facebook",
+                    "post_url": "https://www.hutchinson.com/",
+                    "likes": 363,
+                    "comments": 367,
+                    "shares": 49,
+                    "reach": 1609
+                }
+            ],
+            "total_sales_attributed": 7041.82
+        }
+    ]
+}

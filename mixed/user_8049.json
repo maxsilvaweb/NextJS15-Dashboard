@@ -1,0 +1,26 @@
+{
+    "user_id": "d1083c3c-280e-4a39-8455-8d4129a106c9",
+    "name": "Kevin Haney",
+    "email": "bmorales@example.net",
+    "instagram_handle": "@jennifer75",
+    "tiktok_handle": "@npeterson",
+    "joined_at": "2024-08-10T07:34:00.956508",
+    "advocacy_programs": [
+        {
+            "program_id": "5a8aaca1-d0ce-424e-94b0-c627e37c21d4",
+            "brand": "Dean, Davis and Fox",
+            "tasks_completed": [
+                {
+                    "task_id": "ff190ae4-852e-4c9a-b054-4856e07a13b4",
+                    "platform": "YouTube",
+                    "post_url": "http://braun-sullivan.org/",
+                    "likes": 4845,
+                    "comments": 280,
+                    "shares": 1,
+                    "reach": 567
+                }
+            ],
+            "total_sales_attributed": 9351.32
+        }
+    ]
+}

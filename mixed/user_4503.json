@@ -1,0 +1,26 @@
+{
+    "user_id": "cde4cecc-f7eb-44ca-9f11-5369ecb7828b",
+    "name": "Jorge Alexander",
+    "email": "tweaver@example.net",
+    "instagram_handle": "@nicholascarter",
+    "tiktok_handle": "@Irma_Hettinger79",
+    "joined_at": "2023-08-23T00:24:34.448378",
+    "advocacy_programs": [
+        {
+            "program_id": "5071aadd-e0a1-4f6d-800a-fb6ebd17a51b",
+            "brand": "Hicks Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "3814e902-c69b-4c6d-ada7-58754a188520",
+                    "platform": "TikTok",
+                    "post_url": "https://gigantic-alliance.org",
+                    "likes": 9030,
+                    "comments": 44,
+                    "shares": 23,
+                    "reach": 9244
+                }
+            ],
+            "total_sales_attributed": 2681.63
+        }
+    ]
+}

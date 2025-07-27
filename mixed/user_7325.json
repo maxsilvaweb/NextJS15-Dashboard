@@ -1,0 +1,26 @@
+{
+    "user_id": "27a76189-7120-49c2-8e73-5b8418cc09bd",
+    "name": "Carlton Beatty",
+    "email": "tpatton@example.net",
+    "instagram_handle": "@rwalton",
+    "tiktok_handle": "@ksimon",
+    "joined_at": "2023-08-03T04:03:03.493340",
+    "advocacy_programs": [
+        {
+            "program_id": "11698da9-ea29-42d4-b989-e9055945dacf",
+            "brand": "Collier-Bradley",
+            "tasks_completed": [
+                {
+                    "task_id": "a4532f75-0fb3-48fa-a66e-a539c006d82e",
+                    "platform": "Twitter",
+                    "post_url": "https://reed.info/",
+                    "likes": 128,
+                    "comments": 445,
+                    "shares": 63,
+                    "reach": 4902
+                }
+            ],
+            "total_sales_attributed": 3389.52
+        }
+    ]
+}

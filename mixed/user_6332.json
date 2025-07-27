@@ -1,0 +1,26 @@
+{
+    "user_id": "b687b92b-b5f9-4641-a3ab-dd19853b9b07",
+    "name": "Norma Coleman",
+    "email": "crystal47@example.org",
+    "instagram_handle": "@michelenunez",
+    "tiktok_handle": "@jeffrey76",
+    "joined_at": "2025-01-06T09:59:01.959608",
+    "advocacy_programs": [
+        {
+            "program_id": "26e0bb8e-4b79-4312-adaf-dfe58e02f292",
+            "brand": "Chambers and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "2c73dded-5e0b-461c-a409-57ddbefb6f3a",
+                    "platform": "Instagram",
+                    "post_url": "https://crawford.com/",
+                    "likes": 5633,
+                    "comments": 5,
+                    "shares": 43,
+                    "reach": 2463
+                }
+            ],
+            "total_sales_attributed": 2195.1056359434765
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "330e1d65-46fd-4dab-bdbb-4eb16c84e019",
+    "name": "Angela Church",
+    "email": "hunttimothy@example.net",
+    "instagram_handle": "@randallmyers",
+    "tiktok_handle": "@ajohnson",
+    "joined_at": "2024-01-04T06:42:32.411558",
+    "advocacy_programs": [
+        {
+            "program_id": "932e6668-2c8e-4f2a-8138-0abb794021ca",
+            "brand": "Wolf PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "0f5b859d-782d-47d8-ad59-18e0d8fcdff0",
+                    "platform": "TikTok",
+                    "post_url": "http://www.brown.com/",
+                    "likes": 409,
+                    "comments": 187,
+                    "shares": 59,
+                    "reach": 8853
+                }
+            ],
+            "total_sales_attributed": 1255.25
+        }
+    ]
+}

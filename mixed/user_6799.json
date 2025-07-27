@@ -1,0 +1,26 @@
+{
+    "user_id": "093a191e-6cea-43ba-8c09-20dc52a3b8f7",
+    "name": "Lydia Nader",
+    "email": "Edna47@yahoo.com",
+    "instagram_handle": "@Major_Beahan",
+    "tiktok_handle": "@Ambrose24",
+    "joined_at": "2024-08-19T04:34:16.406Z",
+    "advocacy_programs": [
+        {
+            "program_id": "85778b4f-f714-473f-894a-3b0b957042b5",
+            "brand": "Hoeger LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7a218e8c-c4ba-426f-b6e2-83ebb5d4330d",
+                    "platform": "TikTok",
+                    "post_url": "https://firsthand-allegation.com",
+                    "likes": 57,
+                    "comments": 45,
+                    "shares": 83,
+                    "reach": 5037
+                }
+            ],
+            "total_sales_attributed": 3584.40248345675
+        }
+    ]
+}

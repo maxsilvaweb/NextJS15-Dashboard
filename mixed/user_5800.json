@@ -1,0 +1,26 @@
+{
+    "user_id": "248cc120-632b-4a6a-b49d-e1a829aa9375",
+    "name": "Heidi Brown",
+    "email": "donaldhayes@example.com",
+    "instagram_handle": "@Leila_Monahan45",
+    "tiktok_handle": "@halejoseph",
+    "joined_at": "2023-12-04T07:01:12.959104",
+    "advocacy_programs": [
+        {
+            "program_id": "63c9771d-6671-496e-a2cb-71cdb1db22af",
+            "brand": "Floyd-Mahoney",
+            "tasks_completed": [
+                {
+                    "task_id": "6df1977e-1381-41a4-a02f-093166dc5129",
+                    "platform": "Facebook",
+                    "post_url": "https://www.burgess.com/",
+                    "likes": 1214,
+                    "comments": 31,
+                    "shares": 62,
+                    "reach": 717
+                }
+            ],
+            "total_sales_attributed": 771.57
+        }
+    ]
+}

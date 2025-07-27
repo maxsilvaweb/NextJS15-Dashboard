@@ -1,0 +1,26 @@
+{
+    "user_id": "9a418be1-1742-413c-8dfc-22630a6acb39",
+    "name": "Robin Jones",
+    "email": "walkertammy@example.com",
+    "instagram_handle": "@williamhamilton",
+    "tiktok_handle": "@sosatammy",
+    "joined_at": "2024-04-19T07:51:27.551372",
+    "advocacy_programs": [
+        {
+            "program_id": "395b70ad-5788-43dc-af14-ec11d5b18bd7",
+            "brand": "Mitchell, Salazar and Rodriguez",
+            "tasks_completed": [
+                {
+                    "task_id": "37f2bfbb-4f76-47fc-b589-16574b7b2f8d",
+                    "platform": "Twitter",
+                    "post_url": "https://www.brown.com/",
+                    "likes": 4653,
+                    "comments": 25,
+                    "shares": 97,
+                    "reach": 3391
+                }
+            ],
+            "total_sales_attributed": 3137.483337180329
+        }
+    ]
+}

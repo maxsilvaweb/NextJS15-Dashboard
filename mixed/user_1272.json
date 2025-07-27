@@ -1,0 +1,26 @@
+{
+    "user_id": "f3c122d8-ef64-48b5-8282-71111b31aa02",
+    "name": "Christine Reynolds",
+    "email": "Junius.Barton97@hotmail.com",
+    "instagram_handle": "@Gennaro_Legros",
+    "tiktok_handle": "@Taylor_Borer",
+    "joined_at": "2024-12-19T11:46:51.673Z",
+    "advocacy_programs": [
+        {
+            "program_id": "58029699-c68f-4bc4-82c5-2dd7909277ed",
+            "brand": "Rodriguez LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "8cd62123-b5fb-4bbc-b80c-4f97e4e6c9c5",
+                    "platform": "Instagram",
+                    "post_url": "https://happy-hovel.info",
+                    "likes": 479,
+                    "comments": 37,
+                    "shares": 59,
+                    "reach": 5024
+                }
+            ],
+            "total_sales_attributed": 1503.003463678189
+        }
+    ]
+}

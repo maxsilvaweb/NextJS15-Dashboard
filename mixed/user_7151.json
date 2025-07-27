@@ -1,0 +1,26 @@
+{
+    "user_id": "dc55285e-1f0e-4d3b-8338-8b59f5c5e212",
+    "name": "Ms. Arlene Kertzmann",
+    "email": "Asa_OConnell@yahoo.com",
+    "instagram_handle": "@Kaylie_Wisozk25",
+    "tiktok_handle": "@Dessie_Walter",
+    "joined_at": "2024-07-21T05:20:20.510Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c9cdf95d-0cfa-446d-bfbc-876d66a32f91",
+            "brand": "Dach - O'Keefe",
+            "tasks_completed": [
+                {
+                    "task_id": "5bff0147-ed73-402e-8bf5-2519aad982a5",
+                    "platform": "Instagram",
+                    "post_url": "https://deserted-cap.com",
+                    "likes": 218,
+                    "comments": 4,
+                    "shares": 1,
+                    "reach": 7815
+                }
+            ],
+            "total_sales_attributed": 4466.953942142531
+        }
+    ]
+}

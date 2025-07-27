@@ -1,0 +1,26 @@
+{
+    "user_id": "54933570-5cb7-498c-996a-262432ff5595",
+    "name": "Amber Nielsen",
+    "email": "pmaynard@example.com",
+    "instagram_handle": "@whiteronald",
+    "tiktok_handle": "@claudiamills",
+    "joined_at": "2025-04-21T04:34:20.862392",
+    "advocacy_programs": [
+        {
+            "program_id": "7dc326cc-8fed-4cb8-b069-e2ea0aed7876",
+            "brand": "Porter-Strong",
+            "tasks_completed": [
+                {
+                    "task_id": "b65c3ccc-4650-450d-abaf-28b62b611de6",
+                    "platform": "Facebook",
+                    "post_url": "https://www.baker.com/",
+                    "likes": 6541,
+                    "comments": 310,
+                    "shares": 12,
+                    "reach": 3647
+                }
+            ],
+            "total_sales_attributed": 3367.8041090170036
+        }
+    ]
+}

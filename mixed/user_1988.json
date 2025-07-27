@@ -1,0 +1,26 @@
+{
+    "user_id": "0299bf3b-b22c-46dd-b1d9-19f36f7a50a0",
+    "name": "Julius Abbott",
+    "email": "Chandler.Rolfson@gmail.com",
+    "instagram_handle": "@Keyon.Lang94",
+    "tiktok_handle": "@Ryder91",
+    "joined_at": "2024-08-14T21:45:05.137Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0e370f10-db9b-47ca-ac2a-e6dc0fc8412c",
+            "brand": "Schmitt Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b4046b8d-901f-4906-b792-1721e1e7d532",
+                    "platform": "TikTok",
+                    "post_url": "https://steep-spring.com",
+                    "likes": 119,
+                    "comments": 2,
+                    "shares": 72,
+                    "reach": 8475
+                }
+            ],
+            "total_sales_attributed": 2512.6163499440013
+        }
+    ]
+}

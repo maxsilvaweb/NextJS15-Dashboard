@@ -1,0 +1,26 @@
+{
+    "user_id": "632a16fe-47bc-41d8-8300-bcc5f6364b3b",
+    "name": "Tyler Davis",
+    "email": "martinezkristina@example.com",
+    "instagram_handle": "@amanda75",
+    "tiktok_handle": "@elizabethfarmer",
+    "joined_at": "2024-01-22T16:01:50.596213",
+    "advocacy_programs": [
+        {
+            "program_id": "9c7563de-f36c-4b9b-b406-ac1c0af16ec1",
+            "brand": "Miller Group",
+            "tasks_completed": [
+                {
+                    "task_id": "108ebf9d-3ba8-4751-b75a-7c7ab46378cd",
+                    "platform": "Instagram",
+                    "post_url": "http://soto.com/",
+                    "likes": 355,
+                    "comments": 396,
+                    "shares": 0,
+                    "reach": 5266
+                }
+            ],
+            "total_sales_attributed": 5374.0
+        }
+    ]
+}

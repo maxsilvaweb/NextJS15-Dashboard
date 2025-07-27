@@ -1,0 +1,26 @@
+{
+    "user_id": "2d67d50b-a2d7-4ea0-890a-c0832c83e8e8",
+    "name": "Larry Mayert",
+    "email": "Lizzie.Kub-Grimes14@gmail.com",
+    "instagram_handle": "@Alfredo.Lang",
+    "tiktok_handle": "@Korbin59",
+    "joined_at": "2025-01-11T08:23:36.876Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ad3878ea-6b21-4508-87b5-4e362344d289",
+            "brand": "Hilpert Group",
+            "tasks_completed": [
+                {
+                    "task_id": "14441484-3134-4a37-92ea-fa23e409fea0",
+                    "platform": "Instagram",
+                    "post_url": "https://neighboring-barracks.com",
+                    "likes": 401,
+                    "comments": 37,
+                    "shares": 46,
+                    "reach": 6378
+                }
+            ],
+            "total_sales_attributed": 4133.283742062295
+        }
+    ]
+}

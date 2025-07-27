@@ -1,0 +1,26 @@
+{
+    "user_id": "80166c50-6e85-4055-b5d4-3d70db7f3b8f",
+    "name": "Freddie Terry-Zieme",
+    "email": "Freddy58@yahoo.com",
+    "instagram_handle": "@Duncan.Rodriguez",
+    "tiktok_handle": "@Abigail64",
+    "joined_at": "2025-03-17T13:14:40.672Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1df4c84a-8201-4a35-a551-c90ea00aad97",
+            "brand": "Douglas - Hessel",
+            "tasks_completed": [
+                {
+                    "task_id": "0613b0ba-49ed-4884-acba-b818bd8b012c",
+                    "platform": "TikTok",
+                    "post_url": "https://funny-alert.info",
+                    "likes": 302,
+                    "comments": 34,
+                    "shares": 34,
+                    "reach": 7187
+                }
+            ],
+            "total_sales_attributed": 3821.4918750282623
+        }
+    ]
+}

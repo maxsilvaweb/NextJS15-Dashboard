@@ -1,0 +1,26 @@
+{
+    "user_id": "9476e674-c3e4-4210-8b2c-8e69da99ee77",
+    "name": "Leslie Gill",
+    "email": "dariuslee@example.org",
+    "instagram_handle": "@debrawagner",
+    "tiktok_handle": "@srobbins",
+    "joined_at": "2024-12-07T18:12:20.320Z",
+    "advocacy_programs": [
+        {
+            "program_id": "acaaec27-f93c-42b2-8b57-e2cddbf99485",
+            "brand": "Rich-Butler",
+            "tasks_completed": [
+                {
+                    "task_id": "e890e8e6-f0a1-4f8a-bfdb-d8ef7a55dc06",
+                    "platform": "Facebook",
+                    "post_url": "http://wolfe-simmons.com/",
+                    "likes": 8568,
+                    "comments": 178,
+                    "shares": 27,
+                    "reach": 8025
+                }
+            ],
+            "total_sales_attributed": 4167.280868945025
+        }
+    ]
+}

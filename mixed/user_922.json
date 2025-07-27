@@ -1,0 +1,26 @@
+{
+    "user_id": "7fe76af0-fb9e-47c4-bd88-5e478cbcdaaf",
+    "name": "Nathaniel Frost",
+    "email": "sanchezandrea@example.com",
+    "instagram_handle": "@faulknerfrances",
+    "tiktok_handle": "@julierose",
+    "joined_at": "2024-02-21T03:16:22.560596",
+    "advocacy_programs": [
+        {
+            "program_id": "bbb20c09-8fb9-4504-bf04-b42c9778fe0f",
+            "brand": "Park PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c7421e08-9fec-499c-9027-d64e6d816347",
+                    "platform": "Facebook",
+                    "post_url": "https://lee.com/",
+                    "likes": 8398,
+                    "comments": 27,
+                    "shares": 49,
+                    "reach": 835
+                }
+            ],
+            "total_sales_attributed": 2954.97
+        }
+    ]
+}

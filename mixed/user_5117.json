@@ -1,0 +1,26 @@
+{
+    "user_id": "df8b17dd-1cb6-4ad1-a144-ae23498d9492",
+    "name": "Mrs. Mabel Macejkovic",
+    "email": "Elmore30@hotmail.com",
+    "instagram_handle": "@Giovanni.Roob93",
+    "tiktok_handle": "@Miracle.Kirlin",
+    "joined_at": "2025-02-19T00:19:03.959Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ce63e6e3-c6e8-45ed-88c0-357bb17c25fb",
+            "brand": "Huels, Gottlieb and Rippin",
+            "tasks_completed": [
+                {
+                    "task_id": "4afcd414-9dc6-4d5a-ad37-75f35a389918",
+                    "platform": "Instagram",
+                    "post_url": "https://monumental-tapioca.com",
+                    "likes": 242,
+                    "comments": 17,
+                    "shares": 60,
+                    "reach": 5458
+                }
+            ],
+            "total_sales_attributed": 4267.07726454145
+        }
+    ]
+}

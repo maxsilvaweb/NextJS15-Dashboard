@@ -1,0 +1,26 @@
+{
+    "user_id": "f1cedb14-4748-4958-8faa-ef244dfdafe5",
+    "name": "John Li",
+    "email": "christinebarker@example.com",
+    "instagram_handle": "@nclark",
+    "tiktok_handle": "@hmartinez",
+    "joined_at": "2025-02-23T22:03:37.995376",
+    "advocacy_programs": [
+        {
+            "program_id": "c27dab7f-88a4-49f5-a750-8e4089f12192",
+            "brand": "Wright, Kelley and Wilson",
+            "tasks_completed": [
+                {
+                    "task_id": "afa3cfb4-46bb-423d-a7ac-2d08ec32df8d",
+                    "platform": "Instagram",
+                    "post_url": "http://www.cuevas-robinson.com/",
+                    "likes": 8369,
+                    "comments": 19,
+                    "shares": 52,
+                    "reach": 5504
+                }
+            ],
+            "total_sales_attributed": 8594.68
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "54a3c47c-6c47-4eac-bb4c-d3f537b5ac1c",
+    "name": "Mike Thompson",
+    "email": "Lempi_Hyatt@hotmail.com",
+    "instagram_handle": "@Jonathan_Streich70",
+    "tiktok_handle": "@Hipolito.Langosh",
+    "joined_at": "2024-05-27T21:50:40.633Z",
+    "advocacy_programs": [
+        {
+            "program_id": "110c9b09-bc18-4f13-9dc3-7f7accd82850",
+            "brand": "Huel Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "708436e2-86aa-4ddd-b745-405c3c7df665",
+                    "platform": "Instagram",
+                    "post_url": "https://lustrous-cd.biz/",
+                    "likes": 33,
+                    "comments": 11,
+                    "shares": 13,
+                    "reach": 3551
+                }
+            ],
+            "total_sales_attributed": 3623.8781760889665
+        }
+    ]
+}

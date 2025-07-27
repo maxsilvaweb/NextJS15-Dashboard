@@ -1,0 +1,26 @@
+{
+    "user_id": "d1c238a4-522d-4ed9-aaf8-0be9cf770931",
+    "name": "Terrence Wuckert",
+    "email": "Roslyn26@gmail.com",
+    "instagram_handle": "@Ericka67",
+    "tiktok_handle": "@Jairo_Lueilwitz73",
+    "joined_at": "2024-11-06T02:06:05.492Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e2636581-4793-4954-9fee-f6e922532880",
+            "brand": "Kuvalis Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "50dd679e-e522-4904-b956-070e6457c99e",
+                    "platform": "TikTok",
+                    "post_url": "https://watery-skeleton.info",
+                    "likes": 228,
+                    "comments": 30,
+                    "shares": 1,
+                    "reach": 5790
+                }
+            ],
+            "total_sales_attributed": 4612.210350945905
+        }
+    ]
+}

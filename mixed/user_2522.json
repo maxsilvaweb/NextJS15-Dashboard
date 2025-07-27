@@ -1,0 +1,26 @@
+{
+    "user_id": "7af3e583-7b08-409b-9a3d-9b1941b114c8",
+    "name": "Joseph Haley",
+    "email": "sandra27@example.net",
+    "instagram_handle": "@amanda04",
+    "tiktok_handle": "@pavery",
+    "joined_at": "2024-01-29T18:42:37.934806",
+    "advocacy_programs": [
+        {
+            "program_id": "b2f51a65-9964-49db-873a-9f83aa745ec2",
+            "brand": "Harris, Smith and Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "5cffbab5-f4e7-4422-ab9f-ab12ea651c1a",
+                    "platform": "Instagram",
+                    "post_url": "http://www.welch-scott.com/",
+                    "likes": 1426,
+                    "comments": 40,
+                    "shares": 31,
+                    "reach": 3907
+                }
+            ],
+            "total_sales_attributed": 910.04
+        }
+    ]
+}

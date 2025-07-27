@@ -1,0 +1,26 @@
+{
+    "user_id": "1d09f544-4d91-4e61-9f48-b0a812cb08dc",
+    "name": "Sally Beer",
+    "email": "Lauretta82@hotmail.com",
+    "instagram_handle": "@Dawson50",
+    "tiktok_handle": "@Roselyn_Cole",
+    "joined_at": "2024-07-17T07:47:17.288Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a1dae068-b067-48d6-a693-f5bde9784aef",
+            "brand": "Parisian - Kris",
+            "tasks_completed": [
+                {
+                    "task_id": "7a283d7c-2cd3-4f59-afc8-29cdf3252a4c",
+                    "platform": "Instagram",
+                    "post_url": "https://crowded-formula.net/",
+                    "likes": 107,
+                    "comments": 3,
+                    "shares": 62,
+                    "reach": 1807
+                }
+            ],
+            "total_sales_attributed": 1146.6300155188828
+        }
+    ]
+}

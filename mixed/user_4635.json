@@ -1,0 +1,26 @@
+{
+    "user_id": "747a9e3d-1517-40ef-8ff5-11f9da936c8a",
+    "name": "Charlie Lindgren",
+    "email": "Luciano_Kunde@hotmail.com",
+    "instagram_handle": "@Rafaela.OConnell",
+    "tiktok_handle": "@Aurelia_Lemke",
+    "joined_at": "2024-10-05T13:25:51.500Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ea0fa04a-cc9a-4d41-9173-396b8f24ee55",
+            "brand": "Lang - Crooks",
+            "tasks_completed": [
+                {
+                    "task_id": "8e3e593d-f7bc-43aa-ac36-9467ba511d98",
+                    "platform": "TikTok",
+                    "post_url": "https://wobbly-soup.com/",
+                    "likes": 191,
+                    "comments": 24,
+                    "shares": 64,
+                    "reach": 5332
+                }
+            ],
+            "total_sales_attributed": 1094.6975427326893
+        }
+    ]
+}

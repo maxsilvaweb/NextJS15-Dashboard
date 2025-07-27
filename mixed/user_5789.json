@@ -1,0 +1,26 @@
+{
+    "user_id": "b568e9e1-fc7e-4d92-b040-6bc130d6f07b",
+    "name": "Wilson Romaguera",
+    "email": "Edwina.Barrows20@hotmail.com",
+    "instagram_handle": "@Justice.Schinner83",
+    "tiktok_handle": "@Angela_Senger51",
+    "joined_at": "2025-01-26T10:28:10.404Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0d32066d-a2d0-4e04-84e8-2ba4e56605a5",
+            "brand": "Strosin - O'Hara",
+            "tasks_completed": [
+                {
+                    "task_id": "04043e3a-7df8-4b0e-8d96-d7253880a0c5",
+                    "platform": "TikTok",
+                    "post_url": "https://parched-caption.org",
+                    "likes": 39,
+                    "comments": 24,
+                    "shares": 20,
+                    "reach": 7624
+                }
+            ],
+            "total_sales_attributed": 3940.540555656001
+        }
+    ]
+}

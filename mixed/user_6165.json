@@ -1,0 +1,26 @@
+{
+    "user_id": "e896ea84-7a6c-44c2-8c17-e56bc2d0f2e4",
+    "name": "Carlos Mercado",
+    "email": "Alba57@gmail.com",
+    "instagram_handle": "@andrewharvey",
+    "tiktok_handle": "@michele95",
+    "joined_at": "2024-11-17T23:20:10.792881",
+    "advocacy_programs": [
+        {
+            "program_id": "07c2e8bc-268f-4945-b846-feaac35c180f",
+            "brand": "Webster Group",
+            "tasks_completed": [
+                {
+                    "task_id": "19f8b9c8-2eb7-4ffe-9555-dc0d0fa2394e",
+                    "platform": "Facebook",
+                    "post_url": "http://www.hernandez.org/",
+                    "likes": 3422,
+                    "comments": 80,
+                    "shares": 85,
+                    "reach": 8126
+                }
+            ],
+            "total_sales_attributed": 669.65
+        }
+    ]
+}

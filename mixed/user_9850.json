@@ -1,0 +1,26 @@
+{
+    "user_id": "aa59009d-30a8-4138-85e4-4e457a8958b7",
+    "name": "Kimberly Mcdonald",
+    "email": "saracole@example.com",
+    "instagram_handle": "@klucas",
+    "tiktok_handle": "@bruceacosta",
+    "joined_at": "2024-11-24T00:02:12.306293",
+    "advocacy_programs": [
+        {
+            "program_id": "547143be-65c9-433d-bc42-ca0fdaa7f978",
+            "brand": "Morgan, Mcdaniel and Fox",
+            "tasks_completed": [
+                {
+                    "task_id": "2547a1e5-d2d5-4a3e-843c-83768b033440",
+                    "platform": "Instagram",
+                    "post_url": "http://www.ross.com/",
+                    "likes": 7063,
+                    "comments": 387,
+                    "shares": 51,
+                    "reach": 7642
+                }
+            ],
+            "total_sales_attributed": 5006.37
+        }
+    ]
+}

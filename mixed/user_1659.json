@@ -1,0 +1,26 @@
+{
+    "user_id": "90b01448-9c44-4c64-b439-fc9f15be5be9",
+    "name": "Sue Erickson",
+    "email": "mackenziebarrett@example.net",
+    "instagram_handle": "@umoore",
+    "tiktok_handle": "@sara14",
+    "joined_at": "2025-04-13T04:46:23.045889",
+    "advocacy_programs": [
+        {
+            "program_id": "a504243c-a44a-4e71-bf2d-c8b5b3eb0979",
+            "brand": "Hickman-Moore",
+            "tasks_completed": [
+                {
+                    "task_id": "b654a8bf-3455-47bd-b950-6e4bb8ec9625",
+                    "platform": "TikTok",
+                    "post_url": "http://reyes-kim.org/",
+                    "likes": 822,
+                    "comments": 397,
+                    "shares": 61,
+                    "reach": 8706
+                }
+            ],
+            "total_sales_attributed": 4440.03
+        }
+    ]
+}

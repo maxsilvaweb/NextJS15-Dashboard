@@ -1,0 +1,26 @@
+{
+    "user_id": "b1f31f1b-7e7d-4bee-8efc-86feda13cc68",
+    "name": "Mr. Matt Bosco",
+    "email": "Alda_Dare@hotmail.com",
+    "instagram_handle": "@Margret.Jacobs",
+    "tiktok_handle": "@Sandy82",
+    "joined_at": "2025-02-22T15:37:27.273Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b5240d97-936f-4163-9328-9d9f18c1cd1c",
+            "brand": "Mosciski LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "aea8bb39-443f-4f30-8712-ae715dbe3fd7",
+                    "platform": "Instagram",
+                    "post_url": "https://sentimental-marimba.net/",
+                    "likes": 454,
+                    "comments": 16,
+                    "shares": 3,
+                    "reach": 8097
+                }
+            ],
+            "total_sales_attributed": 3591.9872570219945
+        }
+    ]
+}

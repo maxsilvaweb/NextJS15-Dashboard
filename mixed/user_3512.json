@@ -1,0 +1,26 @@
+{
+    "user_id": "9bfcc374-7b40-4e76-bc31-1d6efe7d1555",
+    "name": "Kelly Anderson",
+    "email": "michael91@example.org",
+    "instagram_handle": "@kellydouglas",
+    "tiktok_handle": "@mitchelldavid",
+    "joined_at": "2024-07-15T00:48:59.224328",
+    "advocacy_programs": [
+        {
+            "program_id": "20e43ede-048f-432b-b0f4-ae227e233476",
+            "brand": "Mccarthy, Pollard and Moran",
+            "tasks_completed": [
+                {
+                    "task_id": "75a4ba58-dd43-4cc8-b9a0-fc4eb566eb69",
+                    "platform": "TikTok",
+                    "post_url": "http://www.young-matthews.com/",
+                    "likes": 4493,
+                    "comments": 296,
+                    "shares": 55,
+                    "reach": 9387
+                }
+            ],
+            "total_sales_attributed": 1016.8584664956297
+        }
+    ]
+}

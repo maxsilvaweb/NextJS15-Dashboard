@@ -1,0 +1,26 @@
+{
+    "user_id": "f74dd115-abf6-46d8-bc5a-8bd6b42427f6",
+    "name": "Penny Becker",
+    "email": "Phoebe.Kuhn79@hotmail.com",
+    "instagram_handle": "@Christopher.Berge-Moore0",
+    "tiktok_handle": "@Marisol.Waters84",
+    "joined_at": "2024-09-24T22:55:23.068Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4c940342-cc04-4b14-b53e-68684a7d4b9b",
+            "brand": "Stanton - Torp",
+            "tasks_completed": [
+                {
+                    "task_id": "87e96df3-9752-4b04-94bf-3ed92226082a",
+                    "platform": "Instagram",
+                    "post_url": "https://cheerful-partridge.net/",
+                    "likes": 82,
+                    "comments": 41,
+                    "shares": 43,
+                    "reach": 5226
+                }
+            ],
+            "total_sales_attributed": 719.708110559941
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "5eae4804-81ec-4eda-bf9f-8286507b50c5",
+    "name": "Margie Olson",
+    "email": "kathleen90@example.net",
+    "instagram_handle": "@castrobrian",
+    "tiktok_handle": "@qhaney",
+    "joined_at": "2024-04-28T10:17:04.520195",
+    "advocacy_programs": [
+        {
+            "program_id": "f876c240-3453-4e9f-842d-5d078acda705",
+            "brand": "Lopez, Hall and Kim",
+            "tasks_completed": [
+                {
+                    "task_id": "7e2ee4c8-f1cf-4c57-9ba3-f0a1fba129b6",
+                    "platform": "Instagram",
+                    "post_url": "http://miles.com/",
+                    "likes": 7329,
+                    "comments": 304,
+                    "shares": 26,
+                    "reach": 1648
+                }
+            ],
+            "total_sales_attributed": 3153.68
+        }
+    ]
+}

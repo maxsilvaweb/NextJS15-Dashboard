@@ -1,0 +1,26 @@
+{
+    "user_id": "b3db09d6-ba3b-4e2c-9058-24867d8d7bf8",
+    "name": "Erik Lucas",
+    "email": "danielwells@example.org",
+    "instagram_handle": "@diana00",
+    "tiktok_handle": "@mooredanny",
+    "joined_at": "2024-02-25T05:57:30.051210",
+    "advocacy_programs": [
+        {
+            "program_id": "85fe913d-0e93-46cb-a390-00b6d03f3d5b",
+            "brand": "Stark LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "b3a384a5-df41-493f-a68b-a5f192d354c1",
+                    "platform": "TikTok",
+                    "post_url": "http://www.johnson-smith.org/",
+                    "likes": 2508,
+                    "comments": 8,
+                    "shares": 66,
+                    "reach": 9679
+                }
+            ],
+            "total_sales_attributed": 8301.33
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a8351f14-f414-4e78-bd3a-e1d27267b125",
+    "name": "James Moore",
+    "email": "Morgan_Hettinger51@hotmail.com",
+    "instagram_handle": "@murphyjohn",
+    "tiktok_handle": "@iwilson",
+    "joined_at": "2023-11-17T13:36:41.855663",
+    "advocacy_programs": [
+        {
+            "program_id": "d2a26388-2384-407c-9dfb-c61997c3f5eb",
+            "brand": "Palmer Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f91a973d-bd05-4fe4-8f53-f46fbb62ec4c",
+                    "platform": "Facebook",
+                    "post_url": "https://sanders.com/",
+                    "likes": 5404,
+                    "comments": 26,
+                    "shares": 85,
+                    "reach": 1177
+                }
+            ],
+            "total_sales_attributed": 9591.35
+        }
+    ]
+}

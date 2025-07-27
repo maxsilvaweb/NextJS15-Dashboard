@@ -1,0 +1,26 @@
+{
+    "user_id": "1dc77536-b949-4c36-84da-5d771e8c7994",
+    "name": "James Preston",
+    "email": "greenluke@example.com",
+    "instagram_handle": "@cynthia06",
+    "tiktok_handle": "@yhill",
+    "joined_at": "2024-06-02T13:55:18.912Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2778e13d-dc44-43b3-b36e-414029a8eba2",
+            "brand": "Young, Floyd and Gray",
+            "tasks_completed": [
+                {
+                    "task_id": "c5afd07b-3743-4010-8d01-a624cb5773f1",
+                    "platform": "Instagram",
+                    "post_url": "https://christensen.info/",
+                    "likes": 5284,
+                    "comments": 103,
+                    "shares": 25,
+                    "reach": 508
+                }
+            ],
+            "total_sales_attributed": 1528.7336821380704
+        }
+    ]
+}

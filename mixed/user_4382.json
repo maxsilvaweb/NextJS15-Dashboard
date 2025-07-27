@@ -1,0 +1,26 @@
+{
+    "user_id": "081f09f0-8857-4895-9dad-3a57d1c1e0e4",
+    "name": "Wilma Jones",
+    "email": "Griffin_Mills97@gmail.com",
+    "instagram_handle": "@Ross.Gusikowski69",
+    "tiktok_handle": "@Kassandra_Bogan",
+    "joined_at": "2024-10-14T01:03:33.100Z",
+    "advocacy_programs": [
+        {
+            "program_id": "aeb9d28d-c65f-4057-bf2f-4b38950d566e",
+            "brand": "Gutkowski Group",
+            "tasks_completed": [
+                {
+                    "task_id": "100537f2-4217-4cb5-a16a-cf2b8e8404a1",
+                    "platform": "Instagram",
+                    "post_url": "https://wonderful-pasta.org",
+                    "likes": 221,
+                    "comments": 35,
+                    "shares": 22,
+                    "reach": 6992
+                }
+            ],
+            "total_sales_attributed": 794.8234906177406
+        }
+    ]
+}

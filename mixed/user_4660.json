@@ -1,0 +1,26 @@
+{
+    "user_id": "cee6d19f-3a58-4b25-bfe3-eb992d53980d",
+    "name": "Mr. Christopher Herring",
+    "email": "margaret94@example.net",
+    "instagram_handle": "@gregory58",
+    "tiktok_handle": "@cwilson",
+    "joined_at": "2024-02-22T13:39:17.628229",
+    "advocacy_programs": [
+        {
+            "program_id": "3f536bec-a973-4274-b234-315031e1c191",
+            "brand": "Rodriguez-White",
+            "tasks_completed": [
+                {
+                    "task_id": "40d991be-5404-4896-954a-f4aaf5b55807",
+                    "platform": "TikTok",
+                    "post_url": "http://jordan.net/",
+                    "likes": 29,
+                    "comments": 5,
+                    "shares": 88,
+                    "reach": 7085
+                }
+            ],
+            "total_sales_attributed": 604.74
+        }
+    ]
+}

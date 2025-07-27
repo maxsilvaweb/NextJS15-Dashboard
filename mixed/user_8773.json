@@ -1,0 +1,26 @@
+{
+    "user_id": "aaf275a6-20d4-4b9f-9540-dcb5a633af11",
+    "name": "Miguel Nichols",
+    "email": "ocurtis@example.com",
+    "instagram_handle": "@patricklynch",
+    "tiktok_handle": "@jacksonwillie",
+    "joined_at": "2024-10-29T08:37:56.799Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d85b0806-6cdb-427d-9f55-576e28be5b2f",
+            "brand": "Jones-Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "5234edab-53c5-4c5c-a39c-19979e25b168",
+                    "platform": "TikTok",
+                    "post_url": "https://striking-bookcase.info/",
+                    "likes": 188,
+                    "comments": 270,
+                    "shares": 43,
+                    "reach": 3459
+                }
+            ],
+            "total_sales_attributed": 4462.46
+        }
+    ]
+}

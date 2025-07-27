@@ -1,0 +1,26 @@
+{
+    "user_id": "0ff49a8f-a47d-4bc5-9f24-252d367286a8",
+    "name": "Jeffrey Washington",
+    "email": "jaredwoodard@example.org",
+    "instagram_handle": "@ballgary",
+    "tiktok_handle": "@brooke52",
+    "joined_at": "2024-04-05T20:55:55.955734",
+    "advocacy_programs": [
+        {
+            "program_id": "8edac0d8-6e08-48c2-b72f-dfde9e1d49fe",
+            "brand": "Hanson-Myers",
+            "tasks_completed": [
+                {
+                    "task_id": "e49e8277-93f1-489c-a0ef-fcfe39f40dae",
+                    "platform": "Instagram",
+                    "post_url": "https://www.atkinson-trevino.com/",
+                    "likes": 3712,
+                    "comments": 10,
+                    "shares": 2,
+                    "reach": 1589
+                }
+            ],
+            "total_sales_attributed": 3264.95
+        }
+    ]
+}

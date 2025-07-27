@@ -1,0 +1,26 @@
+{
+    "user_id": "4bc94136-e09f-4efd-a3ab-53a7dfe065d2",
+    "name": "Molly Ernser",
+    "email": "Cassandra25@hotmail.com",
+    "instagram_handle": "@Eleazar_Hermiston",
+    "tiktok_handle": "@Tyree80",
+    "joined_at": "2024-08-11T00:06:04.822Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a378daac-65a3-432f-aca3-1b81a80da3cc",
+            "brand": "VonRueden - Stoltenberg",
+            "tasks_completed": [
+                {
+                    "task_id": "eb033e7b-0a66-42a7-bdb0-18352c770b2e",
+                    "platform": "TikTok",
+                    "post_url": "https://unimportant-bracelet.biz",
+                    "likes": 479,
+                    "comments": 50,
+                    "shares": 92,
+                    "reach": 3971
+                }
+            ],
+            "total_sales_attributed": 2777.0237281925483
+        }
+    ]
+}

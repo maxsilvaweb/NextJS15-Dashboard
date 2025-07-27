@@ -1,0 +1,26 @@
+{
+    "user_id": "61beb867-d1b7-461e-98b5-e0c349f44718",
+    "name": "Marc Runolfsdottir",
+    "email": "Johnny.DAmore@hotmail.com",
+    "instagram_handle": "@Electa.Sporer",
+    "tiktok_handle": "@Hillard17",
+    "joined_at": "2024-07-22T12:41:54.683Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f1ab38b0-80e4-4c20-88bd-4e1ab91c6845",
+            "brand": "O'Hara - Steuber",
+            "tasks_completed": [
+                {
+                    "task_id": "47dec400-ee6a-415e-8380-ac7b06c802a2",
+                    "platform": "TikTok",
+                    "post_url": "https://dearest-rim.com",
+                    "likes": 57,
+                    "comments": 28,
+                    "shares": 82,
+                    "reach": 3813
+                }
+            ],
+            "total_sales_attributed": 4971.04225614837
+        }
+    ]
+}

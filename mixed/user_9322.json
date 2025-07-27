@@ -1,0 +1,26 @@
+{
+    "user_id": "11e2c81e-7f4c-4c25-8bfe-b0d8754720d1",
+    "name": "Hubert Dibbert",
+    "email": "Brycen.Ryan54@yahoo.com",
+    "instagram_handle": "@Judge_Davis",
+    "tiktok_handle": "@Carmela17",
+    "joined_at": "2024-08-04T17:16:49.793Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7be49c73-0b01-4520-8bff-980ab79e35d7",
+            "brand": "Anderson - Feil",
+            "tasks_completed": [
+                {
+                    "task_id": "58d2a6eb-0d76-4b0e-b026-7e2180040872",
+                    "platform": "Instagram",
+                    "post_url": "https://elastic-monasticism.info/",
+                    "likes": 486,
+                    "comments": 36,
+                    "shares": 84,
+                    "reach": 8108
+                }
+            ],
+            "total_sales_attributed": 4869.342611609324
+        }
+    ]
+}

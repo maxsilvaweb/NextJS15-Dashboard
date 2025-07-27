@@ -1,0 +1,26 @@
+{
+    "user_id": "4866c445-b07e-4eaf-ae0a-bfcb36ac9712",
+    "name": "Mrs. Gina Kling I",
+    "email": "Ana44@hotmail.com",
+    "instagram_handle": "@Alessandro_Wolff",
+    "tiktok_handle": "@Santa_Kiehn",
+    "joined_at": "2024-12-24T08:50:33.938Z",
+    "advocacy_programs": [
+        {
+            "program_id": "941d8c01-29ef-4ddc-9da1-0257e33eff04",
+            "brand": "Frami - Hintz",
+            "tasks_completed": [
+                {
+                    "task_id": "68a428cd-daba-4def-857b-9a834e0486f4",
+                    "platform": "TikTok",
+                    "post_url": "https://guilty-hyena.info/",
+                    "likes": 390,
+                    "comments": 33,
+                    "shares": 48,
+                    "reach": 6726
+                }
+            ],
+            "total_sales_attributed": 2171.347406450405
+        }
+    ]
+}

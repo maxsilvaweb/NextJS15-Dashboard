@@ -1,0 +1,26 @@
+{
+    "user_id": "c65965a6-648c-4ab4-89e3-c888342913c8",
+    "name": "Jennifer Clark",
+    "email": "Adeline66@yahoo.com",
+    "instagram_handle": "@steven50",
+    "tiktok_handle": "@jimmymartinez",
+    "joined_at": "2024-06-09T06:31:04.090946",
+    "advocacy_programs": [
+        {
+            "program_id": "d775923c-0e9a-4c26-8de0-372273d5c2a7",
+            "brand": "Emmerich - Kling",
+            "tasks_completed": [
+                {
+                    "task_id": "dfade167-1a75-4bfb-8033-32747fd81db3",
+                    "platform": "Instagram",
+                    "post_url": "http://owens.org/",
+                    "likes": 56,
+                    "comments": 157,
+                    "shares": 30,
+                    "reach": 7425
+                }
+            ],
+            "total_sales_attributed": 1450.75
+        }
+    ]
+}

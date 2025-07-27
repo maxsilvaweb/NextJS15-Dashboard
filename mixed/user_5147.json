@@ -1,0 +1,26 @@
+{
+    "user_id": "b28bb5d2-69b8-4146-bcce-6139429cbcdd",
+    "name": "Allison Pouros",
+    "email": "Marlen65@gmail.com",
+    "instagram_handle": "@Faye29",
+    "tiktok_handle": "@Courtney67",
+    "joined_at": "2024-07-08T01:27:14.362Z",
+    "advocacy_programs": [
+        {
+            "program_id": "41b4647f-3b5f-4b4e-921b-f493f4543fd3",
+            "brand": "Nader and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "e6021ac3-6592-46f5-8762-b5b0c3ca82d8",
+                    "platform": "TikTok",
+                    "post_url": "https://glaring-saloon.com/",
+                    "likes": 306,
+                    "comments": 47,
+                    "shares": 29,
+                    "reach": 3173
+                }
+            ],
+            "total_sales_attributed": 4010.013342482305
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cc05f233-4f7f-4f34-ba97-3cade55a5968",
+    "name": "Shannon Estrada",
+    "email": "Alize_Armstrong@hotmail.com",
+    "instagram_handle": "@mendozatodd",
+    "tiktok_handle": "@aimee87",
+    "joined_at": "2023-10-01T05:23:03.898016",
+    "advocacy_programs": [
+        {
+            "program_id": "6c7591a1-b48f-423b-8ef3-df74bddbf79e",
+            "brand": "Thompson, Logan and Nunez",
+            "tasks_completed": [
+                {
+                    "task_id": "a5a4fcec-812f-445c-b3e7-d365e344b6b5",
+                    "platform": "Facebook",
+                    "post_url": "https://www.chavez.net/",
+                    "likes": 318,
+                    "comments": 64,
+                    "shares": 7,
+                    "reach": 2688
+                }
+            ],
+            "total_sales_attributed": 4914.668936688267
+        }
+    ]
+}

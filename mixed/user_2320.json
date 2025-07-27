@@ -1,0 +1,26 @@
+{
+    "user_id": "c5d0fe00-6288-463d-bb87-a9e01d4248b9",
+    "name": "Ronnie Doyle",
+    "email": "Naomie.Nader@gmail.com",
+    "instagram_handle": "@Julius_Gerlach",
+    "tiktok_handle": "@Ariel72",
+    "joined_at": "2024-05-12T21:47:59.711Z",
+    "advocacy_programs": [
+        {
+            "program_id": "59c16ac9-d1ba-484f-a947-cf297e73cf20",
+            "brand": "Altenwerth, Collins and Kuvalis",
+            "tasks_completed": [
+                {
+                    "task_id": "336357a1-9fd2-4de6-aa8e-badae8668136",
+                    "platform": "Instagram",
+                    "post_url": "https://lone-husband.net/",
+                    "likes": 308,
+                    "comments": 18,
+                    "shares": 10,
+                    "reach": 2423
+                }
+            ],
+            "total_sales_attributed": 1301.6450438486195
+        }
+    ]
+}

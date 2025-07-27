@@ -1,0 +1,26 @@
+{
+    "user_id": "b88fe4f4-d01b-4e88-bec4-4bc5f5c4cac3",
+    "name": "Jan Gerhold",
+    "email": "Arden_Homenick3@hotmail.com",
+    "instagram_handle": "@Berenice_Ledner",
+    "tiktok_handle": "@Hildegard.Schneider23",
+    "joined_at": "2024-11-30T17:41:17.877Z",
+    "advocacy_programs": [
+        {
+            "program_id": "34d92e33-ea80-4d94-9cea-41ed87f51720",
+            "brand": "McKenzie, Terry and Reichert",
+            "tasks_completed": [
+                {
+                    "task_id": "61bcbe8d-07c5-4a8c-a9db-71ecb276ef38",
+                    "platform": "TikTok",
+                    "post_url": "https://impassioned-wombat.org",
+                    "likes": 329,
+                    "comments": 18,
+                    "shares": 20,
+                    "reach": 9376
+                }
+            ],
+            "total_sales_attributed": 184.59567438132203
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "41ba1b0a-c0fb-4607-a6e0-50cb083df234",
+    "name": "Sandra Robel",
+    "email": "Una.Kulas@hotmail.com",
+    "instagram_handle": "@Emilio.Wehner",
+    "tiktok_handle": "@Martin_Greenholt",
+    "joined_at": "2024-06-09T18:06:14.858Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bb939665-fbc4-46e2-b1e3-4bde700bd38e",
+            "brand": "Anderson - Gerlach",
+            "tasks_completed": [
+                {
+                    "task_id": "a75b6618-298a-439d-924e-3a502c2b9d35",
+                    "platform": "TikTok",
+                    "post_url": "https://dull-daddy.biz",
+                    "likes": 213,
+                    "comments": 35,
+                    "shares": 58,
+                    "reach": 4001
+                }
+            ],
+            "total_sales_attributed": 1160.6970106224476
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "28d35dcd-9fb2-4406-95c4-30dc52d773b8",
+    "name": "Mark Roman",
+    "email": "Matilde16@yahoo.com",
+    "instagram_handle": "@patricia54",
+    "tiktok_handle": "@jeffreyclark",
+    "joined_at": "2025-01-29T11:50:55.303027",
+    "advocacy_programs": [
+        {
+            "program_id": "09e0c621-172d-47af-88fc-c3614049bf52",
+            "brand": "Evans PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "e7ea864f-2316-44c8-9c8d-508983740019",
+                    "platform": "Twitter",
+                    "post_url": "http://www.king.com/",
+                    "likes": 2810,
+                    "comments": 164,
+                    "shares": 35,
+                    "reach": 4378
+                }
+            ],
+            "total_sales_attributed": 8418.28
+        }
+    ]
+}

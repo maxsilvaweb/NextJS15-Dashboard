@@ -1,0 +1,26 @@
+{
+    "user_id": "7b0c251a-15be-4c52-9b5e-c07333d990fb",
+    "name": "Carla Bennett",
+    "email": "conwaystephanie@example.com",
+    "instagram_handle": "@timothy03",
+    "tiktok_handle": "@brittany81",
+    "joined_at": "2024-11-24T08:00:21.748509",
+    "advocacy_programs": [
+        {
+            "program_id": "d475c44a-1c9b-4e33-8a63-8021372d0d89",
+            "brand": "Harris, Charles and Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "739615dc-ad6b-4c28-b41f-35981b62fc87",
+                    "platform": "Instagram",
+                    "post_url": "https://quarrelsome-husband.info/",
+                    "likes": 1237,
+                    "comments": 232,
+                    "shares": 10,
+                    "reach": 5605
+                }
+            ],
+            "total_sales_attributed": 9444.12
+        }
+    ]
+}

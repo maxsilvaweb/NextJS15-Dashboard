@@ -1,0 +1,26 @@
+{
+    "user_id": "7c06106c-9be6-478c-8c8e-393d7710bf23",
+    "name": "Cary Bernier",
+    "email": "Albina.Weber@gmail.com",
+    "instagram_handle": "@Gwen_Weimann57",
+    "tiktok_handle": "@Marion_Jacobi",
+    "joined_at": "2024-12-09T17:55:02.202Z",
+    "advocacy_programs": [
+        {
+            "program_id": "76cd2e23-b58e-4abb-a534-a4839c5c5d5e",
+            "brand": "Klein and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "e0aa327b-abb8-410b-bee6-4207be90b801",
+                    "platform": "Instagram",
+                    "post_url": "https://frequent-sunbeam.biz/",
+                    "likes": 447,
+                    "comments": 17,
+                    "shares": 76,
+                    "reach": 6953
+                }
+            ],
+            "total_sales_attributed": 352.3598638739013
+        }
+    ]
+}

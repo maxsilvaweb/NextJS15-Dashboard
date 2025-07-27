@@ -1,0 +1,26 @@
+{
+    "user_id": "ba3eec76-2eff-4a8b-8ea7-f0e70ad36679",
+    "name": "Travis Hayes",
+    "email": "snowwilliam@example.com",
+    "instagram_handle": "@avilalisa",
+    "tiktok_handle": "@rebecca46",
+    "joined_at": "2023-10-04T11:23:37.728811",
+    "advocacy_programs": [
+        {
+            "program_id": "65051ba8-ec98-4bc7-a35d-7221c848697a",
+            "brand": "Kerluke - Schneider",
+            "tasks_completed": [
+                {
+                    "task_id": "d36719e2-be64-42ff-a684-249e5b81c93f",
+                    "platform": "TikTok",
+                    "post_url": "http://www.silva.com/",
+                    "likes": 8024,
+                    "comments": 22,
+                    "shares": 12,
+                    "reach": 2501
+                }
+            ],
+            "total_sales_attributed": 4861.45232428938
+        }
+    ]
+}

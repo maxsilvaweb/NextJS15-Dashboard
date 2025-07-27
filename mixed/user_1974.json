@@ -1,0 +1,26 @@
+{
+    "user_id": "bfbd50bd-9144-46e4-886e-6b0fc6bd9b2b",
+    "name": "Jennifer Kuhlman-Purdy",
+    "email": "Charlene43@gmail.com",
+    "instagram_handle": "@Amber.Prosacco",
+    "tiktok_handle": "@Alvina69",
+    "joined_at": "2024-12-29T11:38:53.281Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0a21a490-7ad0-41c6-a781-1dde7af7dccb",
+            "brand": "Douglas, Leffler and Morissette",
+            "tasks_completed": [
+                {
+                    "task_id": "c3f742e1-ee4f-462d-8511-b1f3569e014e",
+                    "platform": "TikTok",
+                    "post_url": "https://salty-cod.name",
+                    "likes": 379,
+                    "comments": 20,
+                    "shares": 50,
+                    "reach": 4721
+                }
+            ],
+            "total_sales_attributed": 4247.210313290045
+        }
+    ]
+}

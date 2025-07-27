@@ -1,0 +1,26 @@
+{
+    "user_id": "3d79f60f-697e-46cd-b850-f047d7edaa04",
+    "name": "Jennifer Chapman",
+    "email": "mccallkevin@example.com",
+    "instagram_handle": "@carol29",
+    "tiktok_handle": "@wadegina",
+    "joined_at": "2025-07-23T06:39:18.131355",
+    "advocacy_programs": [
+        {
+            "program_id": "9410367e-6b55-4cd7-b3f2-a3703ae27560",
+            "brand": "Williams LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f5c555c1-52b9-4624-8d56-ee3a74a35f06",
+                    "platform": "Instagram",
+                    "post_url": "http://www.kelly.com/",
+                    "likes": 7897,
+                    "comments": 472,
+                    "shares": 15,
+                    "reach": 5270
+                }
+            ],
+            "total_sales_attributed": 3014.857404588214
+        }
+    ]
+}

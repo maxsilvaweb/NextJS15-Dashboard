@@ -1,0 +1,26 @@
+{
+    "user_id": "3e71b08c-6d61-4ccd-9d13-7434d500acad",
+    "name": "Samuel Collins",
+    "email": "christianbailey@example.com",
+    "instagram_handle": "@patrickdennis",
+    "tiktok_handle": "@kelleyjeff",
+    "joined_at": "2025-03-24T02:53:10.655679",
+    "advocacy_programs": [
+        {
+            "program_id": "b82d2a4e-e316-49b8-80d0-3c1551292221",
+            "brand": "Gutierrez-Robbins",
+            "tasks_completed": [
+                {
+                    "task_id": "20eeaf99-7cbf-400b-b7d2-429e1db680a9",
+                    "platform": "Facebook",
+                    "post_url": "http://wells-cox.org/",
+                    "likes": 7147,
+                    "comments": 70,
+                    "shares": 66,
+                    "reach": 3879
+                }
+            ],
+            "total_sales_attributed": 1328.54
+        }
+    ]
+}

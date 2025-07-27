@@ -1,0 +1,26 @@
+{
+    "user_id": "ec7ac485-957d-4ca9-a677-9118c17c28ae",
+    "name": "Alyssa Banks MD",
+    "email": "milleranthony@example.net",
+    "instagram_handle": "@susan78",
+    "tiktok_handle": "@gjohnson",
+    "joined_at": "2024-04-03T12:46:02.053813",
+    "advocacy_programs": [
+        {
+            "program_id": "2a6e5d1e-6a98-41e8-ba8d-50229adb95b4",
+            "brand": "Morgan, Cooper and Stevens",
+            "tasks_completed": [
+                {
+                    "task_id": "6edf31fd-f8ec-420e-a645-28de7d800c7b",
+                    "platform": "Facebook",
+                    "post_url": "http://www.rivera.com/",
+                    "likes": 9043,
+                    "comments": 485,
+                    "shares": 69,
+                    "reach": 3149
+                }
+            ],
+            "total_sales_attributed": 6658.8
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9c0ae460-92cf-4bc2-826b-8f9229125bf7",
+    "name": "Krystal Patrick",
+    "email": "Bria_Carter@yahoo.com",
+    "instagram_handle": "@kendraberry",
+    "tiktok_handle": "@daniel82",
+    "joined_at": "2024-06-24T11:52:28.798712",
+    "advocacy_programs": [
+        {
+            "program_id": "c1a812b8-ce21-440e-874f-0e77ea652e22",
+            "brand": "Davis, Paul and Brock",
+            "tasks_completed": [
+                {
+                    "task_id": "62d8fffd-a395-4bc0-8aef-47ef3c74d526",
+                    "platform": "Instagram",
+                    "post_url": "https://www.watts.com/",
+                    "likes": 2119,
+                    "comments": 275,
+                    "shares": 12,
+                    "reach": 9628
+                }
+            ],
+            "total_sales_attributed": 8380.28
+        }
+    ]
+}

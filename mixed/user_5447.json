@@ -1,0 +1,26 @@
+{
+    "user_id": "22620121-dd74-4b22-b165-7b2a6a9f36c0",
+    "name": "Pedro Fahey-Hintz",
+    "email": "Fabian69@gmail.com",
+    "instagram_handle": "@Marjorie1",
+    "tiktok_handle": "@Ricardo39",
+    "joined_at": "2025-03-04T12:48:40.771Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a8a05629-5c0a-4fb4-aeff-f94c0ccea47b",
+            "brand": "Rosenbaum - Hoeger",
+            "tasks_completed": [
+                {
+                    "task_id": "eed843bf-a695-4b5b-81fe-49451ec5eb78",
+                    "platform": "Instagram",
+                    "post_url": "https://fixed-director.biz/",
+                    "likes": 356,
+                    "comments": 39,
+                    "shares": 41,
+                    "reach": 3768
+                }
+            ],
+            "total_sales_attributed": 199.05281393347445
+        }
+    ]
+}

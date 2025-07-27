@@ -1,0 +1,26 @@
+{
+    "user_id": "3199d68d-76b1-4c67-a473-291ef25137dc",
+    "name": "Terence McDermott-Stamm",
+    "email": "browndonna@example.org",
+    "instagram_handle": "@natalie48",
+    "tiktok_handle": "@klane",
+    "joined_at": "2024-05-13T17:47:36.427Z",
+    "advocacy_programs": [
+        {
+            "program_id": "93f8567e-578f-4932-a118-3fbbf107b85e",
+            "brand": "Skiles - Huels",
+            "tasks_completed": [
+                {
+                    "task_id": "5aa31954-e857-4983-8a20-6f9cbec15cec",
+                    "platform": "Facebook",
+                    "post_url": "https://mills.com/",
+                    "likes": 6716,
+                    "comments": 6,
+                    "shares": 79,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 6620.72
+        }
+    ]
+}

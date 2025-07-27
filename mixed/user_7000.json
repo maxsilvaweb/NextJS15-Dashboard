@@ -1,0 +1,26 @@
+{
+    "user_id": "9a029997-214a-4aee-9a4a-518612f22f6b",
+    "name": "Kathy Hintz",
+    "email": "Javier.Pfeffer@gmail.com",
+    "instagram_handle": "@Javier24",
+    "tiktok_handle": "@Donny_Cronin28",
+    "joined_at": "2024-12-11T01:26:43.188Z",
+    "advocacy_programs": [
+        {
+            "program_id": "42af1b2a-d8e0-4733-8630-9a8340c4c8d3",
+            "brand": "Abshire - Gorczany",
+            "tasks_completed": [
+                {
+                    "task_id": "356899d9-0b7d-46d9-b911-efc189852f76",
+                    "platform": "Instagram",
+                    "post_url": "https://any-recovery.name/",
+                    "likes": 384,
+                    "comments": 7,
+                    "shares": 73,
+                    "reach": 6200
+                }
+            ],
+            "total_sales_attributed": 771.831273582368
+        }
+    ]
+}

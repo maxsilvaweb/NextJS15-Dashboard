@@ -1,0 +1,26 @@
+{
+    "user_id": "56a64104-a3ad-44e8-9ddd-b8cd95839848",
+    "name": "Charles Denesik",
+    "email": "Marcelo.Beahan56@hotmail.com",
+    "instagram_handle": "@Zelda.Grant",
+    "tiktok_handle": "@Darrick.Robel",
+    "joined_at": "2025-02-08T04:39:28.341Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7c106904-de68-44fc-828b-fdf06e726df6",
+            "brand": "Rice Group",
+            "tasks_completed": [
+                {
+                    "task_id": "3af199e1-70f0-4708-aa65-d41c256785df",
+                    "platform": "Instagram",
+                    "post_url": "https://outgoing-suitcase.name",
+                    "likes": 427,
+                    "comments": 5,
+                    "shares": 93,
+                    "reach": 7239
+                }
+            ],
+            "total_sales_attributed": 4136.752543190234
+        }
+    ]
+}

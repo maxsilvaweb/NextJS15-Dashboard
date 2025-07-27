@@ -1,0 +1,26 @@
+{
+    "user_id": "8dae1f18-b6d7-4fef-81ad-22c50301a08b",
+    "name": "Joseph Russell",
+    "email": "emilymills@example.org",
+    "instagram_handle": "@catkinson",
+    "tiktok_handle": "@freyraymond",
+    "joined_at": "2023-12-28T20:22:12.781630",
+    "advocacy_programs": [
+        {
+            "program_id": "87c019cf-985e-450c-9281-48a605bdeccd",
+            "brand": "Giles, Smith and Jackson",
+            "tasks_completed": [
+                {
+                    "task_id": "a20860b0-3895-443f-a391-9e23401b75d5",
+                    "platform": "TikTok",
+                    "post_url": "http://www.mercer.net/",
+                    "likes": 116,
+                    "comments": 430,
+                    "shares": 18,
+                    "reach": 2813
+                }
+            ],
+            "total_sales_attributed": 465.03
+        }
+    ]
+}

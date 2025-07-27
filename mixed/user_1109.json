@@ -1,0 +1,26 @@
+{
+    "user_id": "f891f32c-136d-49bc-bfd6-651987db5b86",
+    "name": "George Erickson",
+    "email": "Jeromy.Roberts@hotmail.com",
+    "instagram_handle": "@georgesusan",
+    "tiktok_handle": "@jaredwatkins",
+    "joined_at": "2024-08-28T20:42:02.934988",
+    "advocacy_programs": [
+        {
+            "program_id": "cf2bd441-b9d0-4e30-8bd3-9ef1a5d10334",
+            "brand": "Bender-Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "406c71e3-fa28-4371-8d96-cb81f4c135e8",
+                    "platform": "Instagram",
+                    "post_url": "http://williams-taylor.com/",
+                    "likes": 6873,
+                    "comments": 331,
+                    "shares": 65,
+                    "reach": 1256
+                }
+            ],
+            "total_sales_attributed": 7985.58
+        }
+    ]
+}

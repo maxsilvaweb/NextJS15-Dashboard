@@ -1,0 +1,26 @@
+{
+    "user_id": "182fce9e-7d92-47a3-8757-d07086724a74",
+    "name": "Tiffany Smith",
+    "email": "Davonte_Smitham53@gmail.com",
+    "instagram_handle": "@jamessanchez",
+    "tiktok_handle": "@clarklisa",
+    "joined_at": "2025-02-06T12:26:48.061521",
+    "advocacy_programs": [
+        {
+            "program_id": "dc78ccc6-c682-450a-92ff-8afc1fd577a5",
+            "brand": "Little-White",
+            "tasks_completed": [
+                {
+                    "task_id": "bb56f526-5c7e-4139-a70c-0e20099a2ff9",
+                    "platform": "TikTok",
+                    "post_url": "https://limited-bid.org/",
+                    "likes": 7760,
+                    "comments": 392,
+                    "shares": 73,
+                    "reach": 4423
+                }
+            ],
+            "total_sales_attributed": 1509.2855266033391
+        }
+    ]
+}

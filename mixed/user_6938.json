@@ -1,0 +1,26 @@
+{
+    "user_id": "8e49a3c6-6032-4202-81e7-0828f6eb5e22",
+    "name": "Regina Browning",
+    "email": "jonathansmith@example.com",
+    "instagram_handle": "@rebecca50",
+    "tiktok_handle": "@josephboyd",
+    "joined_at": "2024-01-11T20:28:46.375095",
+    "advocacy_programs": [
+        {
+            "program_id": "6eea0ca3-ab27-4a16-b268-19cb3c4ac65b",
+            "brand": "Jones LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7e249ab2-03a4-4acb-9ed2-6c94793f700c",
+                    "platform": "TikTok",
+                    "post_url": "https://heartfelt-repeat.org",
+                    "likes": 6558,
+                    "comments": 9,
+                    "shares": 53,
+                    "reach": 3726
+                }
+            ],
+            "total_sales_attributed": 7650.32
+        }
+    ]
+}

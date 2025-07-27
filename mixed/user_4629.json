@@ -1,0 +1,26 @@
+{
+    "user_id": "6f68d2ae-1378-4cb5-b21d-2dbd7ac3b22a",
+    "name": "Mr. Gordon Reichel",
+    "email": "Dwight_Stracke34@gmail.com",
+    "instagram_handle": "@Marquise.Fisher89",
+    "tiktok_handle": "@Julien26",
+    "joined_at": "2024-12-26T09:59:31.299Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f840dcd1-c0e8-4b92-ba1a-2bb295420aa3",
+            "brand": "Donnelly - Vandervort",
+            "tasks_completed": [
+                {
+                    "task_id": "a95acdf2-ea7c-4f32-9450-f9ecc8307bde",
+                    "platform": "Instagram",
+                    "post_url": "https://black-and-white-seafood.info",
+                    "likes": 355,
+                    "comments": 25,
+                    "shares": 99,
+                    "reach": 8014
+                }
+            ],
+            "total_sales_attributed": 2323.3961079596447
+        }
+    ]
+}

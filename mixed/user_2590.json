@@ -1,0 +1,26 @@
+{
+    "user_id": "727e769b-18fa-4dd8-998c-1abced3360e1",
+    "name": "David Cox",
+    "email": "jason56@example.com",
+    "instagram_handle": "@abaker",
+    "tiktok_handle": "@dayclayton",
+    "joined_at": "2024-06-22T05:53:53.990278",
+    "advocacy_programs": [
+        {
+            "program_id": "4b76837b-054e-42ed-9c3e-c8b6a542fdd9",
+            "brand": "Fischer-Gonzalez",
+            "tasks_completed": [
+                {
+                    "task_id": "38c1673c-7ca4-45c0-aad1-644488fd4276",
+                    "platform": "Instagram",
+                    "post_url": "https://www.powell.info/",
+                    "likes": 8008,
+                    "comments": 390,
+                    "shares": 9,
+                    "reach": 1274
+                }
+            ],
+            "total_sales_attributed": 9766.39
+        }
+    ]
+}

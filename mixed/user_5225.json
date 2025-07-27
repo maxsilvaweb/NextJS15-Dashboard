@@ -1,0 +1,26 @@
+{
+    "user_id": "9a6c2dd7-4c8e-41d2-9c6a-991b21ac20b3",
+    "name": "Michael Ruiz",
+    "email": "nelsoncharles@example.com",
+    "instagram_handle": "@wallaceryan",
+    "tiktok_handle": "@taylorjamie",
+    "joined_at": "2023-10-05T18:03:28.517064",
+    "advocacy_programs": [
+        {
+            "program_id": "b9ae350d-a22c-47b6-97a4-6551061ab950",
+            "brand": "Marshall LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "824a918e-d919-4c24-936b-c46436b7b7f9",
+                    "platform": "TikTok",
+                    "post_url": "http://duncan.net/",
+                    "likes": 8671,
+                    "comments": 306,
+                    "shares": 3,
+                    "reach": 3080
+                }
+            ],
+            "total_sales_attributed": 478.86
+        }
+    ]
+}

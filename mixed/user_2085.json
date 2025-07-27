@@ -1,0 +1,26 @@
+{
+    "user_id": "1c085532-e393-4c9d-b403-432787a35519",
+    "name": "Lauren Sullivan",
+    "email": "utaylor@example.com",
+    "instagram_handle": "@madisonwilson",
+    "tiktok_handle": "@evansdonna",
+    "joined_at": "2025-05-07T12:57:38.692847",
+    "advocacy_programs": [
+        {
+            "program_id": "93ee0437-3f9b-4e69-a039-667a10119023",
+            "brand": "Robles, Ortiz and Martin",
+            "tasks_completed": [
+                {
+                    "task_id": "656fe09e-4024-4a06-a5a7-ec44fd0a06a1",
+                    "platform": "Instagram",
+                    "post_url": "http://brown.info/",
+                    "likes": 2301,
+                    "comments": 178,
+                    "shares": 76,
+                    "reach": 746
+                }
+            ],
+            "total_sales_attributed": 3757.96
+        }
+    ]
+}

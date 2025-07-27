@@ -1,0 +1,26 @@
+{
+    "user_id": "f685b30b-945b-45c7-a39d-1e4fc6e2535a",
+    "name": "Elaine Crooks-Terry",
+    "email": "Beaulah.Crooks@gmail.com",
+    "instagram_handle": "@Waylon_Powlowski47",
+    "tiktok_handle": "@Emilia81",
+    "joined_at": "2024-10-16T09:19:21.466Z",
+    "advocacy_programs": [
+        {
+            "program_id": "78d322e9-f25c-4ad7-a19b-50fa120fc805",
+            "brand": "Reynolds, Lindgren and Schaden",
+            "tasks_completed": [
+                {
+                    "task_id": "5c13a27a-de8e-48b6-b343-2c2e6ed8d0c1",
+                    "platform": "TikTok",
+                    "post_url": "https://every-fledgling.org/",
+                    "likes": 124,
+                    "comments": 22,
+                    "shares": 47,
+                    "reach": 9812
+                }
+            ],
+            "total_sales_attributed": 1576.9377222472153
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "01a3c1b3-6acf-4c97-b331-a86de577095e",
+    "name": "Rebecca Davis",
+    "email": "shellyerickson@example.com",
+    "instagram_handle": "@etucker",
+    "tiktok_handle": "@rossamber",
+    "joined_at": "2024-04-13T06:12:10.311208",
+    "advocacy_programs": [
+        {
+            "program_id": "4cff4cad-cba5-424a-8b9d-8d466d2cf1b0",
+            "brand": "Miller-Brooks",
+            "tasks_completed": [
+                {
+                    "task_id": "af98bb8d-06c0-4518-a55e-7aae39cbe149",
+                    "platform": "TikTok",
+                    "post_url": "https://www.harvey.com/",
+                    "likes": 3326,
+                    "comments": 23,
+                    "shares": 36,
+                    "reach": 4033
+                }
+            ],
+            "total_sales_attributed": 8181.19
+        }
+    ]
+}

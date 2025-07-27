@@ -1,0 +1,26 @@
+{
+    "user_id": "44e7e1f9-943a-4367-ae07-4d70f4039551",
+    "name": "Julie Lopez",
+    "email": "sharile@example.org",
+    "instagram_handle": "@donaldespinoza",
+    "tiktok_handle": "@brandon46",
+    "joined_at": "2023-09-27T10:55:52.367867",
+    "advocacy_programs": [
+        {
+            "program_id": "219f7465-9785-4346-8c84-54195327a97f",
+            "brand": "Gonzalez and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "f8eb0cdc-f895-419d-b98a-c86dfa3e3387",
+                    "platform": "TikTok",
+                    "post_url": "http://www.suarez.org/",
+                    "likes": 8986,
+                    "comments": 239,
+                    "shares": 17,
+                    "reach": 9697
+                }
+            ],
+            "total_sales_attributed": 8003.47
+        }
+    ]
+}

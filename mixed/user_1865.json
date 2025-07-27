@@ -1,0 +1,26 @@
+{
+    "user_id": "377c1cb2-b569-48c1-aeeb-28ad3d75338e",
+    "name": "Taylor Berg",
+    "email": "rileybrown@example.net",
+    "instagram_handle": "@dillon65",
+    "tiktok_handle": "@sheri17",
+    "joined_at": "2024-05-10T23:47:41.958381",
+    "advocacy_programs": [
+        {
+            "program_id": "67d4d537-1777-4ae5-86df-28e0e654923c",
+            "brand": "Rodriguez, Mcintyre and Lopez",
+            "tasks_completed": [
+                {
+                    "task_id": "724ba9f2-9472-4f59-b23b-37507bb92571",
+                    "platform": "TikTok",
+                    "post_url": "http://www.griffin-bradley.org/",
+                    "likes": 33,
+                    "comments": 399,
+                    "shares": 60,
+                    "reach": 5988
+                }
+            ],
+            "total_sales_attributed": 6281.88
+        }
+    ]
+}

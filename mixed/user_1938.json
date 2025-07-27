@@ -1,0 +1,26 @@
+{
+    "user_id": "51fc204e-a65d-4f12-b9c7-e92ae8c4e6e0",
+    "name": "Brandon Ponce",
+    "email": "james41@example.net",
+    "instagram_handle": "@wmiller",
+    "tiktok_handle": "@joycenelson",
+    "joined_at": "2023-07-29T07:35:48.945351",
+    "advocacy_programs": [
+        {
+            "program_id": "746f7bc6-c870-48c5-9a11-094c1039c00f",
+            "brand": "Shields, Rodriguez and Henderson",
+            "tasks_completed": [
+                {
+                    "task_id": "68e2e0b0-5b04-4c70-a281-01d1a36feb96",
+                    "platform": "Instagram",
+                    "post_url": "https://www.schmidt.com/",
+                    "likes": 1170,
+                    "comments": 205,
+                    "shares": 23,
+                    "reach": 4095
+                }
+            ],
+            "total_sales_attributed": 1868.490863070628
+        }
+    ]
+}

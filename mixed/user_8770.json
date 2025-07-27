@@ -1,0 +1,26 @@
+{
+    "user_id": "c2d35a35-c78a-4760-a406-df8b39606f5a",
+    "name": "Danielle Perry",
+    "email": "boydlaurie@example.org",
+    "instagram_handle": "@cindy62",
+    "tiktok_handle": "@ayoder",
+    "joined_at": "2025-02-10T20:45:24.552Z",
+    "advocacy_programs": [
+        {
+            "program_id": "15773c62-1e1c-46a6-adc5-27c2c3b000de",
+            "brand": "Rowland, Wheeler and Singh",
+            "tasks_completed": [
+                {
+                    "task_id": "53989cfa-0de0-4602-8a03-c4462cfc544a",
+                    "platform": "TikTok",
+                    "post_url": "http://smith.org/",
+                    "likes": 2737,
+                    "comments": 310,
+                    "shares": 4,
+                    "reach": 2032
+                }
+            ],
+            "total_sales_attributed": 3971.6356716758933
+        }
+    ]
+}

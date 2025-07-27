@@ -1,0 +1,26 @@
+{
+    "user_id": "018c9183-8e62-447d-b88a-c4814c1aa5c8",
+    "name": "Christina Ferry",
+    "email": "Vinnie_Mills@gmail.com",
+    "instagram_handle": "@Ezekiel_Bednar",
+    "tiktok_handle": "@Wilton_Macejkovic12",
+    "joined_at": "2024-06-14T18:27:38.548Z",
+    "advocacy_programs": [
+        {
+            "program_id": "50a921ef-a922-4ea3-9c41-2a85924176cd",
+            "brand": "D'Amore, Kutch and Klein",
+            "tasks_completed": [
+                {
+                    "task_id": "f2f56ad8-40b3-4def-94e2-c4b60a2ba69f",
+                    "platform": "Instagram",
+                    "post_url": "https://tinted-valley.com",
+                    "likes": 33,
+                    "comments": 39,
+                    "shares": 51,
+                    "reach": 1531
+                }
+            ],
+            "total_sales_attributed": 2340.4793510460586
+        }
+    ]
+}

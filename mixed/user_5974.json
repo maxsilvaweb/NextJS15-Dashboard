@@ -1,0 +1,26 @@
+{
+    "user_id": "c52be98e-09cb-43d5-b404-91be1b312b2d",
+    "name": "Jesus Kub",
+    "email": "Pat3@yahoo.com",
+    "instagram_handle": "@Katelin33",
+    "tiktok_handle": "@Melissa14",
+    "joined_at": "2025-03-01T19:55:11.774Z",
+    "advocacy_programs": [
+        {
+            "program_id": "722f41d1-58fe-4754-9497-f54b5d7c35e8",
+            "brand": "Predovic - Rogahn",
+            "tasks_completed": [
+                {
+                    "task_id": "bbcfe112-db38-482a-8930-5861937425fa",
+                    "platform": "Instagram",
+                    "post_url": "https://misguided-event.com/",
+                    "likes": 192,
+                    "comments": 9,
+                    "shares": 16,
+                    "reach": 4181
+                }
+            ],
+            "total_sales_attributed": 571.4091778836339
+        }
+    ]
+}

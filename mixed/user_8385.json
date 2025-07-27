@@ -1,0 +1,26 @@
+{
+    "user_id": "3762f468-c919-4ab1-86a0-6a7a0e519fe4",
+    "name": "Pamela Miller",
+    "email": "brittany93@example.com",
+    "instagram_handle": "@michael71",
+    "tiktok_handle": "@justinallen",
+    "joined_at": "2024-03-16T11:10:11.829707",
+    "advocacy_programs": [
+        {
+            "program_id": "502bc9d7-5abe-4bae-8de5-a742f4cbd699",
+            "brand": "Miller, Mosley and Diaz",
+            "tasks_completed": [
+                {
+                    "task_id": "d8a96a69-9922-40c4-81cb-25ad8cc064d2",
+                    "platform": "Instagram",
+                    "post_url": "http://www.phillips.com/",
+                    "likes": 5840,
+                    "comments": 119,
+                    "shares": 31,
+                    "reach": 7843
+                }
+            ],
+            "total_sales_attributed": 7610.99
+        }
+    ]
+}

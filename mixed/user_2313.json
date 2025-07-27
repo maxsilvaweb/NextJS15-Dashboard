@@ -1,0 +1,26 @@
+{
+    "user_id": "8d573c85-085d-4061-a1fa-d1a98b1724f9",
+    "name": "Lori Smith",
+    "email": "stephaniepetersen@example.net",
+    "instagram_handle": "@mary47",
+    "tiktok_handle": "@yjames",
+    "joined_at": "2024-04-09T04:38:52.694101",
+    "advocacy_programs": [
+        {
+            "program_id": "a118b0c1-ba90-4bbc-83cc-58edc0a964df",
+            "brand": "Fadel LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "cd8e7342-53d0-45e9-8a05-9b097d62ca37",
+                    "platform": "YouTube",
+                    "post_url": "http://travis.com/",
+                    "likes": 7490,
+                    "comments": 389,
+                    "shares": 84,
+                    "reach": 4359
+                }
+            ],
+            "total_sales_attributed": 4967.55
+        }
+    ]
+}

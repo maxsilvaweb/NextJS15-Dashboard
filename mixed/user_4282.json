@@ -1,0 +1,26 @@
+{
+    "user_id": "4b47604e-f0ed-4cbe-b787-8ee2e754a65d",
+    "name": "Mrs. Rhonda Williams",
+    "email": "Corine_Wiza8@hotmail.com",
+    "instagram_handle": "@ucarr",
+    "tiktok_handle": "@frazierjake",
+    "joined_at": "2025-04-30T13:22:48.641564",
+    "advocacy_programs": [
+        {
+            "program_id": "fc326daf-c079-4d28-a8c3-eb9bebe57245",
+            "brand": "Morar, Schaefer and Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "aeff0b39-d3b5-40bf-a316-423227750ae9",
+                    "platform": "Instagram",
+                    "post_url": "http://robertson.com/",
+                    "likes": 476,
+                    "comments": 189,
+                    "shares": 62,
+                    "reach": 8761
+                }
+            ],
+            "total_sales_attributed": 9420.5
+        }
+    ]
+}

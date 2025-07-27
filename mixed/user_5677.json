@@ -1,0 +1,26 @@
+{
+    "user_id": "9110eb2e-e664-4250-82b0-39e84ffe31d8",
+    "name": "Jeanne Kris",
+    "email": "Lindsey.Prosacco68@gmail.com",
+    "instagram_handle": "@Justen51",
+    "tiktok_handle": "@Marilie76",
+    "joined_at": "2024-10-18T09:34:47.641Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d4681169-ed6b-4786-9838-e789570692b4",
+            "brand": "Champlin LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c0d8d4e8-eff5-414e-811d-969b569be832",
+                    "platform": "TikTok",
+                    "post_url": "https://rectangular-cope.com/",
+                    "likes": 69,
+                    "comments": 19,
+                    "shares": 98,
+                    "reach": 839
+                }
+            ],
+            "total_sales_attributed": 1293.8703755149434
+        }
+    ]
+}

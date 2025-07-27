@@ -1,0 +1,26 @@
+{
+    "user_id": "2aecaa62-e011-454d-a9c6-5240291160f8",
+    "name": "Mr. Jeff Gutkowski",
+    "email": "Israel_Schmidt62@yahoo.com",
+    "instagram_handle": "@Jazlyn.Bayer35",
+    "tiktok_handle": "@Oral77",
+    "joined_at": "2024-05-26T23:12:18.691Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c7b556b7-3e7d-457c-bdda-72695849490a",
+            "brand": "Beatty Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "c1fb4da3-0a37-4c4d-b85d-dac8ec4e072b",
+                    "platform": "TikTok",
+                    "post_url": "https://empty-bran.org/",
+                    "likes": 460,
+                    "comments": 40,
+                    "shares": 46,
+                    "reach": 3388
+                }
+            ],
+            "total_sales_attributed": 3845.2955613158547
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a0091743-d814-419f-a453-6c3830276a3e",
+    "name": "Kim Wehner II",
+    "email": "Deon.Jerde26@gmail.com",
+    "instagram_handle": "@Horace.Greenholt",
+    "tiktok_handle": "@Lila_Paucek",
+    "joined_at": "2025-01-22T22:34:02.585Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8da76adb-cbea-40f6-a440-933d3b8b49e9",
+            "brand": "Ritchie, Parisian and McLaughlin",
+            "tasks_completed": [
+                {
+                    "task_id": "aaf53b0f-a987-4e6b-ba82-5c793f54fd69",
+                    "platform": "Instagram",
+                    "post_url": "https://speedy-cemetery.name",
+                    "likes": 306,
+                    "comments": 26,
+                    "shares": 66,
+                    "reach": 4608
+                }
+            ],
+            "total_sales_attributed": 249.5970996935664
+        }
+    ]
+}

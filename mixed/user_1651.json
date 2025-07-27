@@ -1,0 +1,26 @@
+{
+    "user_id": "a7009148-c609-44fe-bff4-365fd0c2ecc5",
+    "name": "Bert Mraz",
+    "email": "Assunta.Homenick@gmail.com",
+    "instagram_handle": "@Randi.OHara80",
+    "tiktok_handle": "@Amaya.Flatley",
+    "joined_at": "2024-08-24T07:02:22.858Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5dc5c65f-2677-4a57-805c-8015cc6da24f",
+            "brand": "Tromp - Hayes",
+            "tasks_completed": [
+                {
+                    "task_id": "de25625c-1eec-4395-a4ff-78662e2a87ca",
+                    "platform": "Instagram",
+                    "post_url": "https://gaseous-wombat.org/",
+                    "likes": 146,
+                    "comments": 27,
+                    "shares": 34,
+                    "reach": 7599
+                }
+            ],
+            "total_sales_attributed": 4904.582772228944
+        }
+    ]
+}

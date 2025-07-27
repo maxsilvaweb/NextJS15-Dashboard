@@ -1,0 +1,26 @@
+{
+    "user_id": "50f982ae-28b8-48cd-9857-e9de9a822a7f",
+    "name": "Sarah Pratt",
+    "email": "andrewnichols@example.net",
+    "instagram_handle": "@teresa10",
+    "tiktok_handle": "@cody23",
+    "joined_at": "2023-08-08T12:39:59.745672",
+    "advocacy_programs": [
+        {
+            "program_id": "8ce3c02f-62f8-41eb-8974-49562235a9cc",
+            "brand": "Perez-Padilla",
+            "tasks_completed": [
+                {
+                    "task_id": "75baad93-9e81-44a5-b349-23c389ffda38",
+                    "platform": "Instagram",
+                    "post_url": "http://www.waters.info/",
+                    "likes": 413,
+                    "comments": 181,
+                    "shares": 9,
+                    "reach": 3127
+                }
+            ],
+            "total_sales_attributed": 1697.0425817265377
+        }
+    ]
+}

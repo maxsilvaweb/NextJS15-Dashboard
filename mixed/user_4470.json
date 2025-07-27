@@ -1,0 +1,26 @@
+{
+    "user_id": "ac1fcbab-a8b1-497f-b72a-2eb8be82e996",
+    "name": "Robert Berry DVM",
+    "email": "kimberlyjohnson@example.net",
+    "instagram_handle": "@kiddtyler",
+    "tiktok_handle": "@torresmarissa",
+    "joined_at": "2023-09-25T14:23:55.210182",
+    "advocacy_programs": [
+        {
+            "program_id": "acafc929-5bd6-48ac-8989-2d15217a28bb",
+            "brand": "Watkins-Barnes",
+            "tasks_completed": [
+                {
+                    "task_id": "0f0091ab-39f6-4e60-bc77-fbba8fcc9bda",
+                    "platform": "TikTok",
+                    "post_url": "http://www.carpenter.com/",
+                    "likes": 800,
+                    "comments": 220,
+                    "shares": 12,
+                    "reach": 970
+                }
+            ],
+            "total_sales_attributed": 9602.55
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "92e7ffa6-6149-4d65-a98b-0dde1026e63c",
+    "name": "Rachel Parsons",
+    "email": "qfranklin@example.net",
+    "instagram_handle": "@douglasrobert",
+    "tiktok_handle": "@vazquezwilliam",
+    "joined_at": "2023-09-13T13:28:41.885401",
+    "advocacy_programs": [
+        {
+            "program_id": "277e0a3d-b0aa-4ca3-b00b-28ea4902daba",
+            "brand": "Hernandez Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9723480c-8fd5-433f-8a5d-338af9ed0ae1",
+                    "platform": "Instagram",
+                    "post_url": "https://bleak-director.biz/",
+                    "likes": 7378,
+                    "comments": 7,
+                    "shares": 15,
+                    "reach": 8092
+                }
+            ],
+            "total_sales_attributed": 4774.800777626535
+        }
+    ]
+}

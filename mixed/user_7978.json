@@ -1,0 +1,26 @@
+{
+    "user_id": "5a1f3149-6e84-4b53-8bd9-d90497ff01f8",
+    "name": "Lee Conroy",
+    "email": "Terence22@yahoo.com",
+    "instagram_handle": "@Beth_Kulas15",
+    "tiktok_handle": "@Beulah_Conn91",
+    "joined_at": "2025-03-02T00:17:18.205Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1fb811a3-8442-4ae1-bc5b-a7eeceb763ce",
+            "brand": "Thompson - Huels",
+            "tasks_completed": [
+                {
+                    "task_id": "c05a4d91-bcdf-4d6e-ae3a-9502188c7892",
+                    "platform": "Instagram",
+                    "post_url": "https://pretty-bowler.com/",
+                    "likes": 399,
+                    "comments": 44,
+                    "shares": 3,
+                    "reach": 8976
+                }
+            ],
+            "total_sales_attributed": 1910.2214789622983
+        }
+    ]
+}

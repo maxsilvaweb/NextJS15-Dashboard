@@ -1,0 +1,26 @@
+{
+    "user_id": "ddd7783c-85bd-40ff-939d-476e562653c2",
+    "name": "Stephanie Aguilar",
+    "email": "danielle75@example.com",
+    "instagram_handle": "@sheilacampbell",
+    "tiktok_handle": "@natalie24",
+    "joined_at": "2024-07-10T20:32:15.982063",
+    "advocacy_programs": [
+        {
+            "program_id": "f45efa5f-86b6-4697-b091-71afa58f32e3",
+            "brand": "Smith-Young",
+            "tasks_completed": [
+                {
+                    "task_id": "16e87a29-4f12-4a25-a941-f5f71e70d3f2",
+                    "platform": "Twitter",
+                    "post_url": "http://nixon-barnett.com/",
+                    "likes": 7859,
+                    "comments": 376,
+                    "shares": 99,
+                    "reach": 655
+                }
+            ],
+            "total_sales_attributed": 3863.517111834294
+        }
+    ]
+}

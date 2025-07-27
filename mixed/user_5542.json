@@ -1,0 +1,26 @@
+{
+    "user_id": "65e23d20-b36f-4c70-aa80-912399f94aab",
+    "name": "Michael Daniels",
+    "email": "lmitchell@example.org",
+    "instagram_handle": "@james71",
+    "tiktok_handle": "@jonathan37",
+    "joined_at": "2024-09-29T10:48:06.805Z",
+    "advocacy_programs": [
+        {
+            "program_id": "139e55f6-6237-41f6-96c2-94f5c631bac6",
+            "brand": "Howard LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7ce78011-4583-4277-aff0-810e1f661d41",
+                    "platform": "TikTok",
+                    "post_url": "https://www.campbell.com/",
+                    "likes": 147,
+                    "comments": 64,
+                    "shares": 73,
+                    "reach": 3113
+                }
+            ],
+            "total_sales_attributed": 5734.78
+        }
+    ]
+}

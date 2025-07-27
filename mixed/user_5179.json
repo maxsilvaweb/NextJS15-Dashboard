@@ -1,0 +1,26 @@
+{
+    "user_id": "4c5c7516-14b2-4743-94f3-dae7dc01134b",
+    "name": "Joshua Reynolds",
+    "email": "kenneth65@example.net",
+    "instagram_handle": "@carlos42",
+    "tiktok_handle": "@blackamanda",
+    "joined_at": "2025-04-23T18:51:51.881441",
+    "advocacy_programs": [
+        {
+            "program_id": "b3e3cf7c-6f37-431c-ae83-4823656ac507",
+            "brand": "Parker and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a1c16dd6-3d89-4bda-b82b-fba39a25d4cc",
+                    "platform": "Facebook",
+                    "post_url": "https://miller-schultz.net/",
+                    "likes": 9316,
+                    "comments": 69,
+                    "shares": 86,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 1597.02
+        }
+    ]
+}

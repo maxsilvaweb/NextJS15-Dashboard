@@ -1,0 +1,26 @@
+{
+    "user_id": "db27de99-4a15-4873-b781-2b40e4fb33e1",
+    "name": "Thomas Mann",
+    "email": "vfitzpatrick@example.net",
+    "instagram_handle": "@Gunnar31",
+    "tiktok_handle": "@mayoalan",
+    "joined_at": "2023-08-14T01:02:40.909571",
+    "advocacy_programs": [
+        {
+            "program_id": "01c7c867-efdc-4f51-9e26-0409cd109c3d",
+            "brand": "Jones, Hansen and Fox",
+            "tasks_completed": [
+                {
+                    "task_id": "51d51b7a-6f2b-4d13-a044-2bffab0584c8",
+                    "platform": "TikTok",
+                    "post_url": "https://straight-flight.com",
+                    "likes": 293,
+                    "comments": 285,
+                    "shares": 3,
+                    "reach": 2483
+                }
+            ],
+            "total_sales_attributed": 4609.853350346785
+        }
+    ]
+}

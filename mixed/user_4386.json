@@ -1,0 +1,26 @@
+{
+    "user_id": "2f37f0e7-bf0f-48f5-a965-57b4539f0b74",
+    "name": "Douglas Johnson",
+    "email": "cooperjennifer@example.org",
+    "instagram_handle": "@jessica65",
+    "tiktok_handle": "@lindacaldwell",
+    "joined_at": "2023-09-08T20:44:35.169882",
+    "advocacy_programs": [
+        {
+            "program_id": "6d688bcd-1fff-4395-8cb7-2a8df0868a5f",
+            "brand": "Hardin-Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "4f6584b1-e218-440d-a3d8-947873afb6aa",
+                    "platform": "Twitter",
+                    "post_url": "https://jackson.biz/",
+                    "likes": 225,
+                    "comments": 476,
+                    "shares": 88,
+                    "reach": 9994
+                }
+            ],
+            "total_sales_attributed": 902.89
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2dd3183c-13d2-4c43-9083-ec10d2601288",
+    "name": "Kristine Lakin",
+    "email": "Nona_Schultz@hotmail.com",
+    "instagram_handle": "@Patricia.Lueilwitz78",
+    "tiktok_handle": "@Alda79",
+    "joined_at": "2024-06-04T22:57:16.338Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9c329e03-cf38-4c0e-8687-f5f421345fb9",
+            "brand": "Wintheiser Group",
+            "tasks_completed": [
+                {
+                    "task_id": "6424090e-02f0-4587-80e5-0201fdd4830b",
+                    "platform": "Instagram",
+                    "post_url": "https://monumental-assist.org",
+                    "likes": 417,
+                    "comments": 22,
+                    "shares": 25,
+                    "reach": 2310
+                }
+            ],
+            "total_sales_attributed": 3843.505197547586
+        }
+    ]
+}

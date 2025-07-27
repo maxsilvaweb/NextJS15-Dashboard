@@ -1,0 +1,26 @@
+{
+    "user_id": "6abdf95e-c28b-4926-94fa-9f816af45480",
+    "name": "Mr. Everett Lebsack",
+    "email": "Dashawn_Heidenreich@yahoo.com",
+    "instagram_handle": "@Dorthy67",
+    "tiktok_handle": "@Jacques_Mueller",
+    "joined_at": "2024-12-20T17:17:16.341Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7813a9be-09ee-4a4b-b4e1-32074404e614",
+            "brand": "Batz - Brekke",
+            "tasks_completed": [
+                {
+                    "task_id": "8e203e0a-3f18-4121-9b05-9f60e50b297d",
+                    "platform": "TikTok",
+                    "post_url": "https://improbable-taxicab.org",
+                    "likes": 231,
+                    "comments": 34,
+                    "shares": 44,
+                    "reach": 1101
+                }
+            ],
+            "total_sales_attributed": 615.2153661039087
+        }
+    ]
+}

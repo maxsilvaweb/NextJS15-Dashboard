@@ -1,0 +1,26 @@
+{
+    "user_id": "1aa9772e-c7e6-4c3f-ac53-0d95ec7bdf1e",
+    "name": "Keith Golden",
+    "email": "imartinez@example.org",
+    "instagram_handle": "@ejones",
+    "tiktok_handle": "@cgeorge",
+    "joined_at": "2023-08-23T21:59:40.113292",
+    "advocacy_programs": [
+        {
+            "program_id": "89da7e1c-d929-4eea-981e-aa0816935ade",
+            "brand": "Rowland, Davis and Horton",
+            "tasks_completed": [
+                {
+                    "task_id": "4c5bab36-b319-4fdc-b799-0e9b0836a54c",
+                    "platform": "Twitter",
+                    "post_url": "https://expert-nougat.biz/",
+                    "likes": 6539,
+                    "comments": 316,
+                    "shares": 40,
+                    "reach": 2343
+                }
+            ],
+            "total_sales_attributed": 4331.4079166872825
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0400505b-9422-4953-999a-be207ff744e8",
+    "name": "Michele Brekke",
+    "email": "Sim22@hotmail.com",
+    "instagram_handle": "@Theodore95",
+    "tiktok_handle": "@Beau64",
+    "joined_at": "2024-03-23T04:36:47.050Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f4cc9a1f-1f91-4098-953a-d7b53ea221c5",
+            "brand": "Hudson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a92c8fd9-e405-439e-bf99-c29161b35fdc",
+                    "platform": "TikTok",
+                    "post_url": "https://wicked-range.biz/",
+                    "likes": 399,
+                    "comments": 41,
+                    "shares": 60,
+                    "reach": 2886
+                }
+            ],
+            "total_sales_attributed": 3955.493427692617
+        }
+    ]
+}

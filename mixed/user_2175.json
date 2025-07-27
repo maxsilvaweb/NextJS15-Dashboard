@@ -1,0 +1,26 @@
+{
+    "user_id": "e46d919e-db56-4e80-a62d-1623738bc1da",
+    "name": "Elmer Lind",
+    "email": "Vicky81@hotmail.com",
+    "instagram_handle": "@Dasia.Graham19",
+    "tiktok_handle": "@Greta.Schumm64",
+    "joined_at": "2024-07-26T08:31:21.869Z",
+    "advocacy_programs": [
+        {
+            "program_id": "539a481a-f9b3-4581-bcc0-8a666e6b75f1",
+            "brand": "Nikolaus - Nader",
+            "tasks_completed": [
+                {
+                    "task_id": "dd7944bc-97c5-46c6-95f2-bc96bdf7f95d",
+                    "platform": "TikTok",
+                    "post_url": "https://celebrated-castanet.biz/",
+                    "likes": 253,
+                    "comments": 7,
+                    "shares": 61,
+                    "reach": 8450
+                }
+            ],
+            "total_sales_attributed": 4505.153793195758
+        }
+    ]
+}

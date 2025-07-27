@@ -1,0 +1,26 @@
+{
+    "user_id": "9c2aa615-bac0-4363-9234-63c965bdf9af",
+    "name": "Joshua Boyd",
+    "email": "morgan87@example.org",
+    "instagram_handle": "@debralarsen",
+    "tiktok_handle": "@james98",
+    "joined_at": "2025-05-09T09:51:59.973482",
+    "advocacy_programs": [
+        {
+            "program_id": "e3255b99-1f2d-40b2-a045-a5b879422743",
+            "brand": "Henson and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "93592540-01cc-422b-a0db-d3e1f5096986",
+                    "platform": "TikTok",
+                    "post_url": "https://hall.com/",
+                    "likes": 121,
+                    "comments": 49,
+                    "shares": 78,
+                    "reach": 5584
+                }
+            ],
+            "total_sales_attributed": 3114.3
+        }
+    ]
+}

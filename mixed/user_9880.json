@@ -1,0 +1,26 @@
+{
+    "user_id": "19f337b6-2a2d-438b-8c14-4a0e0e1f74be",
+    "name": "Dr. Antonio Stamm Jr.",
+    "email": "Faye.Willms@gmail.com",
+    "instagram_handle": "@Rey.Sanford9",
+    "tiktok_handle": "@Isaiah20",
+    "joined_at": "2024-08-02T08:55:44.579Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c9386234-9446-4949-b8b5-096d0511167b",
+            "brand": "Grant, Kemmer and Conroy",
+            "tasks_completed": [
+                {
+                    "task_id": "885b88d5-595a-40e5-975b-7e943cc9a285",
+                    "platform": "TikTok",
+                    "post_url": "https://jittery-iridescence.com/",
+                    "likes": 402,
+                    "comments": 36,
+                    "shares": 92,
+                    "reach": 8877
+                }
+            ],
+            "total_sales_attributed": 621.0833789210656
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4fb71001-6b28-451b-9e94-1978d29c722a",
+    "name": "Debbie Cruickshank",
+    "email": "Ignacio_Heller86@gmail.com",
+    "instagram_handle": "@Sylvia47",
+    "tiktok_handle": "@Drew.Huel",
+    "joined_at": "2024-03-27T10:26:21.015Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f49690fa-9c94-47af-8224-41335a7c4e81",
+            "brand": "Mertz Group",
+            "tasks_completed": [
+                {
+                    "task_id": "aefdcdee-dffc-4626-abe3-3eb42df5a44e",
+                    "platform": "TikTok",
+                    "post_url": "https://little-disk.biz/",
+                    "likes": 63,
+                    "comments": 43,
+                    "shares": 81,
+                    "reach": 2770
+                }
+            ],
+            "total_sales_attributed": 3896.1865684613495
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1a55ec56-57c4-4fae-871b-2293620eaefc",
+    "name": "Amanda Kertzmann",
+    "email": "Armando_Hahn@hotmail.com",
+    "instagram_handle": "@Aliyah.Stark71",
+    "tiktok_handle": "@Patricia.Welch90",
+    "joined_at": "2024-05-28T16:46:56.350Z",
+    "advocacy_programs": [
+        {
+            "program_id": "33d08cf3-fad2-49c3-95b5-2c26b5228bb5",
+            "brand": "Muller LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f253552c-e1b4-4e47-b9b9-8d16be8d909d",
+                    "platform": "Instagram",
+                    "post_url": "https://regal-tributary.org",
+                    "likes": 404,
+                    "comments": 31,
+                    "shares": 7,
+                    "reach": 1037
+                }
+            ],
+            "total_sales_attributed": 4953.385056667851
+        }
+    ]
+}

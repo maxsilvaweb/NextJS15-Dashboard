@@ -1,0 +1,26 @@
+{
+    "user_id": "aafbf259-8f3b-41bd-8867-124ed9c10aab",
+    "name": "Arthur Kuhlman",
+    "email": "Ceasar_Bosco5@hotmail.com",
+    "instagram_handle": "@Dimitri33",
+    "tiktok_handle": "@Matilde.Schoen58",
+    "joined_at": "2024-09-07T18:55:15.083Z",
+    "advocacy_programs": [
+        {
+            "program_id": "09c2e7ed-15fe-4520-9015-26ee8520d757",
+            "brand": "Stracke - Anderson",
+            "tasks_completed": [
+                {
+                    "task_id": "7c57f202-19b4-4fca-85a4-0082615c82da",
+                    "platform": "TikTok",
+                    "post_url": "https://enchanting-scale.net",
+                    "likes": 171,
+                    "comments": 23,
+                    "shares": 63,
+                    "reach": 5710
+                }
+            ],
+            "total_sales_attributed": 2192.7710121522146
+        }
+    ]
+}

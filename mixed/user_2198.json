@@ -1,0 +1,26 @@
+{
+    "user_id": "4a5b6160-9407-464a-b840-66e014fdf932",
+    "name": "Tina Gonzales",
+    "email": "hollyshea@example.com",
+    "instagram_handle": "@dthompson",
+    "tiktok_handle": "@claudia55",
+    "joined_at": "2024-08-19T18:04:38.969610",
+    "advocacy_programs": [
+        {
+            "program_id": "0f0d8fa2-a6ae-4682-853c-1c3c4c8a583f",
+            "brand": "Moreno Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ab0fb81a-3e9f-4d92-ab2b-f2f2db8b2744",
+                    "platform": "Facebook",
+                    "post_url": "http://www.zimmerman.com/",
+                    "likes": 1695,
+                    "comments": 5,
+                    "shares": 96,
+                    "reach": 3320
+                }
+            ],
+            "total_sales_attributed": 9063.92
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6103a296-3c6f-4290-8b78-d37296a1f6d4",
+    "name": "Pamela Lane",
+    "email": "ellisbrittany@example.org",
+    "instagram_handle": "@melissalawson",
+    "tiktok_handle": "@pedro61",
+    "joined_at": "2024-10-28T19:47:44.871723",
+    "advocacy_programs": [
+        {
+            "program_id": "768dbe87-6430-4e84-93c0-d01ecc055170",
+            "brand": "Graves, Chandler and Sanders",
+            "tasks_completed": [
+                {
+                    "task_id": "8eee8a7a-8853-4a8c-b696-bb1a720cb251",
+                    "platform": "YouTube",
+                    "post_url": "https://www.perez.com/",
+                    "likes": 2293,
+                    "comments": 26,
+                    "shares": 23,
+                    "reach": 7049
+                }
+            ],
+            "total_sales_attributed": 5209.59
+        }
+    ]
+}

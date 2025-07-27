@@ -1,0 +1,26 @@
+{
+    "user_id": "45379683-27e7-4112-a9cc-eb40cf4aa872",
+    "name": "Nina Block",
+    "email": "Rhett.Schumm@hotmail.com",
+    "instagram_handle": "@Louie91",
+    "tiktok_handle": "@Dudley_Lind",
+    "joined_at": "2024-12-27T23:33:59.356Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b2946d40-5638-454e-8ce8-35b5ef29e1eb",
+            "brand": "Dickens LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "970da906-b601-4098-93a7-b745975a010f",
+                    "platform": "TikTok",
+                    "post_url": "https://snappy-advancement.com",
+                    "likes": 275,
+                    "comments": 47,
+                    "shares": 5,
+                    "reach": 7689
+                }
+            ],
+            "total_sales_attributed": 4534.304286995067
+        }
+    ]
+}

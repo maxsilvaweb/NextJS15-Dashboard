@@ -1,0 +1,26 @@
+{
+    "user_id": "fdb94675-ea01-40e1-86c4-ef08544c2b53",
+    "name": "Claire Spencer IV",
+    "email": "Estrella_Marquardt@gmail.com",
+    "instagram_handle": "@Ashlee40",
+    "tiktok_handle": "@Deonte84",
+    "joined_at": "2024-09-22T00:26:00.388Z",
+    "advocacy_programs": [
+        {
+            "program_id": "998b76b0-4ff2-4891-be66-6c726b0f04f0",
+            "brand": "Beatty - Cassin",
+            "tasks_completed": [
+                {
+                    "task_id": "b2ca3770-7402-4d38-aeba-2f7acedbdeeb",
+                    "platform": "TikTok",
+                    "post_url": "https://suburban-marketplace.com",
+                    "likes": 328,
+                    "comments": 50,
+                    "shares": 83,
+                    "reach": 5167
+                }
+            ],
+            "total_sales_attributed": 175.77500016042995
+        }
+    ]
+}

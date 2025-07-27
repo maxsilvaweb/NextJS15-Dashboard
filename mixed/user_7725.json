@@ -1,0 +1,26 @@
+{
+    "user_id": "9d1f7ade-7a5d-47da-ba81-34187cc701d6",
+    "name": "Edward Kelley",
+    "email": "sherry85@example.com",
+    "instagram_handle": "@brandon58",
+    "tiktok_handle": "@boydpamela",
+    "joined_at": "2024-12-06T19:27:40.591999",
+    "advocacy_programs": [
+        {
+            "program_id": "1e91594d-5abc-46d2-b87c-bae0d411af80",
+            "brand": "Henderson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "3177ee5a-e5fc-4e49-9c5c-e4671b5ca8fc",
+                    "platform": "TikTok",
+                    "post_url": "https://fields-duncan.com/",
+                    "likes": 3669,
+                    "comments": 129,
+                    "shares": 34,
+                    "reach": 3163
+                }
+            ],
+            "total_sales_attributed": 1171.3679535675867
+        }
+    ]
+}

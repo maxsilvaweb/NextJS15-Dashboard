@@ -1,0 +1,26 @@
+{
+    "user_id": "39afb8db-dd54-4f85-9ad3-e536a5f3c4fd",
+    "name": "Cynthia Sherman",
+    "email": "hailey34@example.org",
+    "instagram_handle": "@kayla91",
+    "tiktok_handle": "@melvin46",
+    "joined_at": "2024-04-15T07:09:31.968029",
+    "advocacy_programs": [
+        {
+            "program_id": "007663a2-4e9a-460f-81eb-165e11d7939c",
+            "brand": "Sanchez-Solis",
+            "tasks_completed": [
+                {
+                    "task_id": "ad26d480-c4a2-4286-9714-7b44b13af65e",
+                    "platform": "Instagram",
+                    "post_url": "https://www.johnson.com/",
+                    "likes": 9932,
+                    "comments": 198,
+                    "shares": 40,
+                    "reach": 9645
+                }
+            ],
+            "total_sales_attributed": 3302.8192517722305
+        }
+    ]
+}

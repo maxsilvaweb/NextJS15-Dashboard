@@ -1,0 +1,26 @@
+{
+    "user_id": "ffbb3dd5-9ae8-4493-9fcd-fcb574c3d364",
+    "name": "Steven Soto",
+    "email": "woodshawn@example.org",
+    "instagram_handle": "@wattskelsey",
+    "tiktok_handle": "@wilsonjonathan",
+    "joined_at": "2025-07-13T19:19:29.608315",
+    "advocacy_programs": [
+        {
+            "program_id": "41fed06f-9691-45af-88c3-45ec3661a140",
+            "brand": "Campbell Group",
+            "tasks_completed": [
+                {
+                    "task_id": "761b5abd-1085-479c-8cd7-26c7c6c28d1d",
+                    "platform": "TikTok",
+                    "post_url": "http://campbell.com/",
+                    "likes": 5976,
+                    "comments": 308,
+                    "shares": 2,
+                    "reach": 5883
+                }
+            ],
+            "total_sales_attributed": 6958.4
+        }
+    ]
+}

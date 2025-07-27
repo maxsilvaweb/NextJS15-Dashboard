@@ -1,0 +1,26 @@
+{
+    "user_id": "72cba05f-2323-4a0f-959c-b7e9dc4ed9a7",
+    "name": "Jim Feeney",
+    "email": "Ralph_Wisoky50@gmail.com",
+    "instagram_handle": "@Adolfo_Lang93",
+    "tiktok_handle": "@Otto.Corwin",
+    "joined_at": "2024-05-15T11:54:57.933Z",
+    "advocacy_programs": [
+        {
+            "program_id": "aba944ad-4e0b-40ce-aad4-488bc69fd9db",
+            "brand": "Brekke, Mraz and Goyette",
+            "tasks_completed": [
+                {
+                    "task_id": "97ef9173-57e6-431c-9c48-089de02bb2d5",
+                    "platform": "TikTok",
+                    "post_url": "https://mediocre-tentacle.biz",
+                    "likes": 236,
+                    "comments": 2,
+                    "shares": 92,
+                    "reach": 1112
+                }
+            ],
+            "total_sales_attributed": 4732.759711652573
+        }
+    ]
+}

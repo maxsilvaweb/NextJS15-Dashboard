@@ -1,0 +1,26 @@
+{
+    "user_id": "f692076a-7bc0-4eb2-8aa2-eacf75dec4ed",
+    "name": "Joseph Williams",
+    "email": "mwallace@example.net",
+    "instagram_handle": "@susan60",
+    "tiktok_handle": "@emilywood",
+    "joined_at": "2024-03-17T08:29:34.024823",
+    "advocacy_programs": [
+        {
+            "program_id": "dc171b56-8339-40cd-8041-616a3c612a58",
+            "brand": "Cortez Group",
+            "tasks_completed": [
+                {
+                    "task_id": "e78c92bc-5bce-4faf-a3d4-5613fdebb3d3",
+                    "platform": "Twitter",
+                    "post_url": "https://www.smith.com/",
+                    "likes": 5629,
+                    "comments": 17,
+                    "shares": 9,
+                    "reach": 8903
+                }
+            ],
+            "total_sales_attributed": 8681.57
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "89b03b00-d37d-4776-9edf-c2ef86ac45fa",
+    "name": "Ashley Mendez",
+    "email": "johnsonhaley@example.org",
+    "instagram_handle": "@anthony34",
+    "tiktok_handle": "@ebeck",
+    "joined_at": "2025-03-20T06:18:08.075571",
+    "advocacy_programs": [
+        {
+            "program_id": "5a2365c6-977a-4f1a-8ed1-691fb4eae091",
+            "brand": "Armstrong-Acosta",
+            "tasks_completed": [
+                {
+                    "task_id": "9d67e909-916c-4e4c-bba5-7fd1c5578897",
+                    "platform": "TikTok",
+                    "post_url": "https://www.johnson.com/",
+                    "likes": 8712,
+                    "comments": 6,
+                    "shares": 48,
+                    "reach": 7557
+                }
+            ],
+            "total_sales_attributed": 4035.7452933942136
+        }
+    ]
+}

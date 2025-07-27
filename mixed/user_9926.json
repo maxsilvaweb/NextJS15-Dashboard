@@ -1,0 +1,26 @@
+{
+    "user_id": "7afc40ed-0ec8-437b-9d40-9fc67ca4990e",
+    "name": "Mae Paucek",
+    "email": "Loyce57@gmail.com",
+    "instagram_handle": "@Aniyah_Pollich3",
+    "tiktok_handle": "@Amaya89",
+    "joined_at": "2024-05-03T20:38:31.295Z",
+    "advocacy_programs": [
+        {
+            "program_id": "52190d71-179c-4ea3-b33d-9875f25e6608",
+            "brand": "Abbott, Walter and Bruen",
+            "tasks_completed": [
+                {
+                    "task_id": "5024b958-ba43-4d91-84e5-5d7a2f83fe30",
+                    "platform": "TikTok",
+                    "post_url": "https://giving-sport.info",
+                    "likes": 165,
+                    "comments": 43,
+                    "shares": 39,
+                    "reach": 1146
+                }
+            ],
+            "total_sales_attributed": 534.0854497760861
+        }
+    ]
+}

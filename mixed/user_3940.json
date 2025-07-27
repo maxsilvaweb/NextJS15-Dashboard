@@ -1,0 +1,26 @@
+{
+    "user_id": "9a902b7d-f0f9-48f7-8f1a-fd87227ee1ae",
+    "name": "Joshua Ramirez",
+    "email": "Maximilian.Murray2@gmail.com",
+    "instagram_handle": "@zbarnes",
+    "tiktok_handle": "@kingcatherine",
+    "joined_at": "2024-02-05T22:16:50.133998",
+    "advocacy_programs": [
+        {
+            "program_id": "07348ac9-601d-4a74-bb62-da495e1a3637",
+            "brand": "Martinez, Carroll and Riddle",
+            "tasks_completed": [
+                {
+                    "task_id": "f7b236ef-3aba-4a05-a830-f75277d4415c",
+                    "platform": "Facebook",
+                    "post_url": "https://www.cole.com/",
+                    "likes": 7532,
+                    "comments": 27,
+                    "shares": 93,
+                    "reach": 9816
+                }
+            ],
+            "total_sales_attributed": 4772.94
+        }
+    ]
+}

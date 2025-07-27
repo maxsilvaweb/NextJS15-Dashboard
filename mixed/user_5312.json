@@ -1,0 +1,26 @@
+{
+    "user_id": "1997a178-ebc6-4016-83ad-16155d00d0c2",
+    "name": "Allison Vance",
+    "email": "Marilie76@gmail.com",
+    "instagram_handle": "@rickysmith",
+    "tiktok_handle": "@vjones",
+    "joined_at": "2024-09-29T07:27:04.295488",
+    "advocacy_programs": [
+        {
+            "program_id": "100135b0-b3ce-4c91-9b41-cbc33f44a094",
+            "brand": "Sims, Hanna and Morris",
+            "tasks_completed": [
+                {
+                    "task_id": "b7d81591-9a13-4f49-b70d-c5c5a1f2eb85",
+                    "platform": "Instagram",
+                    "post_url": "https://bitter-roadway.info/",
+                    "likes": 9657,
+                    "comments": 72,
+                    "shares": 87,
+                    "reach": 8196
+                }
+            ],
+            "total_sales_attributed": 5524.41
+        }
+    ]
+}

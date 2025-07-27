@@ -1,0 +1,26 @@
+{
+    "user_id": "68c469cc-80c9-4a7f-bb6b-acc7c1935cf4",
+    "name": "Jason Huff",
+    "email": "pbarnes@example.org",
+    "instagram_handle": "@adrian48",
+    "tiktok_handle": "@justin68",
+    "joined_at": "2024-06-17T14:43:35.906944",
+    "advocacy_programs": [
+        {
+            "program_id": "09cb4e81-11d2-46e6-8499-6cfee5865971",
+            "brand": "Kemp-Nelson",
+            "tasks_completed": [
+                {
+                    "task_id": "4321a713-764c-4e2c-b497-75a326c445cb",
+                    "platform": "Facebook",
+                    "post_url": "https://stanton-walker.com/",
+                    "likes": 279,
+                    "comments": 263,
+                    "shares": 1,
+                    "reach": 1171
+                }
+            ],
+            "total_sales_attributed": 7420.88
+        }
+    ]
+}

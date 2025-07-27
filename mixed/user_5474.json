@@ -1,0 +1,26 @@
+{
+    "user_id": "ce40de68-548b-425f-ba42-67fe5d4176ce",
+    "name": "Heather Ferguson",
+    "email": "Jessika94@gmail.com",
+    "instagram_handle": "@phillipscrystal",
+    "tiktok_handle": "@aarmstrong",
+    "joined_at": "2024-02-16T15:46:53.853654",
+    "advocacy_programs": [
+        {
+            "program_id": "94fb6364-91c9-481e-9485-5b970e29d663",
+            "brand": "Mendez-Osborne",
+            "tasks_completed": [
+                {
+                    "task_id": "f1662c1e-ce1a-4b2c-aed8-e8895798ce0b",
+                    "platform": "Facebook",
+                    "post_url": "http://miller-hutchinson.com/",
+                    "likes": 3648,
+                    "comments": 267,
+                    "shares": 28,
+                    "reach": 6170
+                }
+            ],
+            "total_sales_attributed": 5054.17
+        }
+    ]
+}

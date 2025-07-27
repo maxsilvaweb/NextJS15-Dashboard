@@ -1,0 +1,26 @@
+{
+    "user_id": "f6d1515b-fe7d-47d3-9331-56bca942a8df",
+    "name": "Mark Austin",
+    "email": "sototiffany@example.com",
+    "instagram_handle": "@rhonda55",
+    "tiktok_handle": "@ilee",
+    "joined_at": "2023-12-21T00:15:32.071793",
+    "advocacy_programs": [
+        {
+            "program_id": "e8a36b59-68a5-46ad-9454-7c569a2b8496",
+            "brand": "Crawford, Wu and Short",
+            "tasks_completed": [
+                {
+                    "task_id": "bad09cac-1053-4dec-bb74-e2fd77d18d85",
+                    "platform": "Twitter",
+                    "post_url": "https://ashley-savage.com/",
+                    "likes": 8720,
+                    "comments": 176,
+                    "shares": 1,
+                    "reach": 1890
+                }
+            ],
+            "total_sales_attributed": 875.59
+        }
+    ]
+}

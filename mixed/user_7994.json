@@ -1,0 +1,26 @@
+{
+    "user_id": "3a258ff6-b213-41c9-a87c-0ac3c6cf6451",
+    "name": "Roderick Gorczany",
+    "email": "davebutler@example.net",
+    "instagram_handle": "@aharper",
+    "tiktok_handle": "@zcollins",
+    "joined_at": "2023-11-16T13:32:09.080251",
+    "advocacy_programs": [
+        {
+            "program_id": "96d9bfad-9936-48d3-9ea4-c3618ccd0e66",
+            "brand": "Woods LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c1e5bce7-a94a-4bed-9c06-30ad96b30671",
+                    "platform": "TikTok",
+                    "post_url": "https://narrow-shore.name",
+                    "likes": 7926,
+                    "comments": 327,
+                    "shares": 54,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 3614.78
+        }
+    ]
+}

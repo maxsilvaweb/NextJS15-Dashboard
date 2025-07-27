@@ -1,0 +1,26 @@
+{
+    "user_id": "675c7445-f791-40a6-a9ed-04b5696a5e36",
+    "name": "Herman Bartoletti",
+    "email": "Malcolm.Smitham7@hotmail.com",
+    "instagram_handle": "@Margaretta.Fadel96",
+    "tiktok_handle": "@Kathryne68",
+    "joined_at": "2025-02-01T14:16:02.421Z",
+    "advocacy_programs": [
+        {
+            "program_id": "40034852-3ff7-4bd9-b6fc-570ca1f4f1d5",
+            "brand": "Mueller, Grady and Green",
+            "tasks_completed": [
+                {
+                    "task_id": "bc9b398a-e561-4e21-b09c-72cf761d8897",
+                    "platform": "Instagram",
+                    "post_url": "https://amused-shoulder.com/",
+                    "likes": 463,
+                    "comments": 11,
+                    "shares": 55,
+                    "reach": 5946
+                }
+            ],
+            "total_sales_attributed": 2449.8627331968437
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7cf2b0e2-ae25-4a33-9922-95b224ed9fdc",
+    "name": "Melinda Freeman",
+    "email": "ejackson@example.net",
+    "instagram_handle": "@morrisoncharles",
+    "tiktok_handle": "@jose42",
+    "joined_at": "2024-02-09T17:36:32.362765",
+    "advocacy_programs": [
+        {
+            "program_id": "09d4eac8-af46-4837-bb73-3e8e6e395ee3",
+            "brand": "Thornton-Ayala",
+            "tasks_completed": [
+                {
+                    "task_id": "089fdb0a-c854-4ac3-a337-205f803f6fa5",
+                    "platform": "Instagram",
+                    "post_url": "https://lawson.com/",
+                    "likes": 976,
+                    "comments": 38,
+                    "shares": 64,
+                    "reach": 1475
+                }
+            ],
+            "total_sales_attributed": 3190.6
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "476d67b7-d198-47a1-ad22-823203626fe2",
+    "name": "Randy Martin",
+    "email": "gravesangela@example.net",
+    "instagram_handle": "@jonesmax",
+    "tiktok_handle": "@mcgrathmelanie",
+    "joined_at": "2023-09-15T08:29:23.095708",
+    "advocacy_programs": [
+        {
+            "program_id": "025e75ab-4a55-4f9c-bf29-53bbde3cf2ec",
+            "brand": "Smith-Shaw",
+            "tasks_completed": [
+                {
+                    "task_id": "3f4727c3-065e-49a9-8e54-b1210356b00d",
+                    "platform": "Instagram",
+                    "post_url": "http://www.duncan.net/",
+                    "likes": 6290,
+                    "comments": 396,
+                    "shares": 81,
+                    "reach": 7589
+                }
+            ],
+            "total_sales_attributed": 8655.69
+        }
+    ]
+}

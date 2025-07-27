@@ -1,0 +1,26 @@
+{
+    "user_id": "f054e0e7-24d3-4066-9ce7-5c8faaddbfe2",
+    "name": "Nicole Thompson",
+    "email": "jamessimpson@example.org",
+    "instagram_handle": "@jonesangelica",
+    "tiktok_handle": "@Augusta.Jones",
+    "joined_at": "2025-04-05T10:06:10.082584",
+    "advocacy_programs": [
+        {
+            "program_id": "68cdf360-7187-471a-8bf9-7ad6e9e77776",
+            "brand": "Calderon Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b6050430-b16f-439b-9740-9390ac4a924a",
+                    "platform": "TikTok",
+                    "post_url": "http://patrick.com/",
+                    "likes": 5664,
+                    "comments": 162,
+                    "shares": 7,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 1883.06
+        }
+    ]
+}

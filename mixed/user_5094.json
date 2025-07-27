@@ -1,0 +1,26 @@
+{
+    "user_id": "2a1611af-95c0-4c69-b64b-29811e04875b",
+    "name": "Luke Rodriguez",
+    "email": "Kristofer.Bradtke11@hotmail.com",
+    "instagram_handle": "@robertsmichael",
+    "tiktok_handle": "@xgrant",
+    "joined_at": "2024-05-09T05:36:20.999363",
+    "advocacy_programs": [
+        {
+            "program_id": "f0800b4c-b748-4f1a-bfd4-9b271053dc7a",
+            "brand": "Stone, Rios and Green",
+            "tasks_completed": [
+                {
+                    "task_id": "0888be32-d482-47fc-8be2-910cc52141d5",
+                    "platform": "Twitter",
+                    "post_url": "https://www.long.com/",
+                    "likes": 275,
+                    "comments": 200,
+                    "shares": 46,
+                    "reach": 3958
+                }
+            ],
+            "total_sales_attributed": 2037.3295199422648
+        }
+    ]
+}

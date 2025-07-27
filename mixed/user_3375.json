@@ -1,0 +1,26 @@
+{
+    "user_id": "fc0fb2b7-aee8-419a-8cb6-dc39d5d77019",
+    "name": "Maria Graham",
+    "email": "Otto53@gmail.com",
+    "instagram_handle": "@scottparker",
+    "tiktok_handle": "@tyler20",
+    "joined_at": "2023-11-07T11:31:30.446947",
+    "advocacy_programs": [
+        {
+            "program_id": "06dfebab-7f5c-40cc-b47a-64db36372dee",
+            "brand": "Abbott-Hobbs",
+            "tasks_completed": [
+                {
+                    "task_id": "d60ffbfb-c523-4541-8e88-1b5bac02620a",
+                    "platform": "Instagram",
+                    "post_url": "http://www.lane-lopez.com/",
+                    "likes": 4555,
+                    "comments": 17,
+                    "shares": 16,
+                    "reach": 9800
+                }
+            ],
+            "total_sales_attributed": 807.24
+        }
+    ]
+}

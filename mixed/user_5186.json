@@ -1,0 +1,26 @@
+{
+    "user_id": "05262d27-627c-4066-ad30-9624fd7c982d",
+    "name": "Melissa Franklin",
+    "email": "derrickadams@example.net",
+    "instagram_handle": "@Jefferey_Pfeffer37",
+    "tiktok_handle": "@hancockmichael",
+    "joined_at": "2023-10-19T19:39:53.507594",
+    "advocacy_programs": [
+        {
+            "program_id": "87fc568f-67cc-4f8a-8949-8ab8a0b4187c",
+            "brand": "Ryan Group",
+            "tasks_completed": [
+                {
+                    "task_id": "24f43193-4233-41b4-a066-de3647d75174",
+                    "platform": "Instagram",
+                    "post_url": "http://www.leonard.info/",
+                    "likes": 2291,
+                    "comments": 157,
+                    "shares": 36,
+                    "reach": 5473
+                }
+            ],
+            "total_sales_attributed": 4004.3503555763086
+        }
+    ]
+}

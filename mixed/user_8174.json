@@ -1,0 +1,26 @@
+{
+    "user_id": "b94dd685-19c7-4cac-a9f6-db18fac2118e",
+    "name": "Angela Craig",
+    "email": "lcarlson@example.net",
+    "instagram_handle": "@april10",
+    "tiktok_handle": "@simpsonlisa",
+    "joined_at": "2024-05-24T23:07:31.299277",
+    "advocacy_programs": [
+        {
+            "program_id": "c464e5f2-8224-443d-9f61-04d5b3fbd946",
+            "brand": "Smith, Ruiz and Yates",
+            "tasks_completed": [
+                {
+                    "task_id": "e91ebc75-1cf6-44cf-ba52-ded0c38ba5ce",
+                    "platform": "Twitter",
+                    "post_url": "http://www.smith.org/",
+                    "likes": 161,
+                    "comments": 35,
+                    "shares": 94,
+                    "reach": 8861
+                }
+            ],
+            "total_sales_attributed": 6564.78
+        }
+    ]
+}

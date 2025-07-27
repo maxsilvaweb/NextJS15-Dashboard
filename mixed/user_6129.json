@@ -1,0 +1,26 @@
+{
+    "user_id": "f875d4e7-4b6e-4120-8607-a1de5976a958",
+    "name": "Nathan Maxwell",
+    "email": "zharrison@example.com",
+    "instagram_handle": "@woodmichael",
+    "tiktok_handle": "@heathergoodwin",
+    "joined_at": "2024-04-16T00:47:16.682Z",
+    "advocacy_programs": [
+        {
+            "program_id": "af13cf33-452a-44e8-9d03-9e661a9abde4",
+            "brand": "Bins - Moen",
+            "tasks_completed": [
+                {
+                    "task_id": "2ecf01ab-99aa-400b-9c1b-b8e90ee8a256",
+                    "platform": "Instagram",
+                    "post_url": "https://www.thornton.com/",
+                    "likes": 5260,
+                    "comments": 14,
+                    "shares": 3,
+                    "reach": 1830
+                }
+            ],
+            "total_sales_attributed": 2239.8562162060707
+        }
+    ]
+}

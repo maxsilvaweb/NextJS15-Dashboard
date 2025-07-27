@@ -1,0 +1,26 @@
+{
+    "user_id": "3047863f-7d5b-4bcf-99f6-cf3bd991d5d9",
+    "name": "Dr. Brett Weber",
+    "email": "Kiana12@gmail.com",
+    "instagram_handle": "@Tessie.Hagenes",
+    "tiktok_handle": "@Erik_Purdy15",
+    "joined_at": "2024-05-02T08:34:52.270Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b793d3c7-6fb9-48e5-b2c4-4f34099227e3",
+            "brand": "Lockman, Hermann and Kozey",
+            "tasks_completed": [
+                {
+                    "task_id": "b80aefd9-5a50-4f22-9c0b-fb70b277445f",
+                    "platform": "TikTok",
+                    "post_url": "https://tame-tool.net/",
+                    "likes": 21,
+                    "comments": 6,
+                    "shares": 58,
+                    "reach": 5092
+                }
+            ],
+            "total_sales_attributed": 3690.382702392737
+        }
+    ]
+}

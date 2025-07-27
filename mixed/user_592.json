@@ -1,0 +1,26 @@
+{
+    "user_id": "c5401051-262b-4236-b7af-a0d9b48d90fb",
+    "name": "Tiffany Riley",
+    "email": "billybrown@example.org",
+    "instagram_handle": "@jose76",
+    "tiktok_handle": "@jonespatrick",
+    "joined_at": "2024-12-26T20:19:54.935Z",
+    "advocacy_programs": [
+        {
+            "program_id": "835452dd-7281-4b8c-83bf-f122efba5be0",
+            "brand": "Lewis Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "cefd552b-9109-4fe2-92f4-f734249c29e8",
+                    "platform": "Facebook",
+                    "post_url": "https://www.ritter.com/",
+                    "likes": 109,
+                    "comments": 297,
+                    "shares": 19,
+                    "reach": 7923
+                }
+            ],
+            "total_sales_attributed": 7143.86
+        }
+    ]
+}

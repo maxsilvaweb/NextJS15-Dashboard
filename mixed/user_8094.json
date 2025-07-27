@@ -1,0 +1,26 @@
+{
+    "user_id": "1feae79f-7356-44ce-b87a-f792cee7f8d7",
+    "name": "Beverly Zieme",
+    "email": "Crystal34@hotmail.com",
+    "instagram_handle": "@Martine_Ondricka",
+    "tiktok_handle": "@Sunny.Zulauf97",
+    "joined_at": "2024-08-27T15:34:26.793Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c7a06508-d376-490a-a8d6-5750a5c4c8b6",
+            "brand": "Legros, Kulas and Hermann",
+            "tasks_completed": [
+                {
+                    "task_id": "2d8f957e-c5d6-4406-ae46-f14acab483a8",
+                    "platform": "TikTok",
+                    "post_url": "https://advanced-cook.info",
+                    "likes": 266,
+                    "comments": 7,
+                    "shares": 46,
+                    "reach": 1890
+                }
+            ],
+            "total_sales_attributed": 122.23822306190604
+        }
+    ]
+}

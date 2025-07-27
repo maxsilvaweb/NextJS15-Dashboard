@@ -1,0 +1,26 @@
+{
+    "user_id": "4c3f2ca8-840d-4205-b844-602c3992e0ce",
+    "name": "Hattie Fisher",
+    "email": "Lucious4@yahoo.com",
+    "instagram_handle": "@Cathy36",
+    "tiktok_handle": "@Brycen_Johnson",
+    "joined_at": "2024-06-03T10:00:39.608Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bf90ba54-bdd5-49ff-8f30-54fdb62ee9bb",
+            "brand": "Grady - Cruickshank",
+            "tasks_completed": [
+                {
+                    "task_id": "382841ba-e8c0-46f8-8e1d-30417cce25f4",
+                    "platform": "TikTok",
+                    "post_url": "https://stable-exploration.name/",
+                    "likes": 433,
+                    "comments": 30,
+                    "shares": 8,
+                    "reach": 2123
+                }
+            ],
+            "total_sales_attributed": 2174.3646106786778
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7b405070-2191-4261-a7b1-9d639993f830",
+    "name": "Gail Dyer",
+    "email": "christophersmith@example.com",
+    "instagram_handle": "@angelaestes",
+    "tiktok_handle": "@brian07",
+    "joined_at": "2023-11-29T09:00:28.516743",
+    "advocacy_programs": [
+        {
+            "program_id": "6950f82b-c37c-481d-a727-47e0ad727218",
+            "brand": "Wilson and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "3b232296-4b5a-4fd1-aa06-05dc2f158a76",
+                    "platform": "TikTok",
+                    "post_url": "https://hall.org/",
+                    "likes": 216,
+                    "comments": 412,
+                    "shares": 93,
+                    "reach": 937
+                }
+            ],
+            "total_sales_attributed": 174.21
+        }
+    ]
+}

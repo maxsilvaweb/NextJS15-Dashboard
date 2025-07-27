@@ -1,0 +1,26 @@
+{
+    "user_id": "f23057ef-0f11-4ca4-9fd7-d627ddb124d5",
+    "name": "Jennifer Tucker",
+    "email": "edavis@example.org",
+    "instagram_handle": "@aaron29",
+    "tiktok_handle": "@warrendeborah",
+    "joined_at": "2025-04-21T03:51:55.381779",
+    "advocacy_programs": [
+        {
+            "program_id": "3e946d0f-8c1c-4306-bd4c-f64a30a000b2",
+            "brand": "Graves-White",
+            "tasks_completed": [
+                {
+                    "task_id": "432f7260-a031-4570-8042-ec8256f9d1f2",
+                    "platform": "TikTok",
+                    "post_url": "https://butler-hawkins.org/",
+                    "likes": 5546,
+                    "comments": 33,
+                    "shares": 11,
+                    "reach": 5814
+                }
+            ],
+            "total_sales_attributed": 5703.09
+        }
+    ]
+}

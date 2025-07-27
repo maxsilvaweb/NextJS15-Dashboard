@@ -1,0 +1,26 @@
+{
+    "user_id": "417a3a84-8a24-46c3-8e75-dd5955a4f5c9",
+    "name": "Ruben Martin",
+    "email": "justinphillips@example.org",
+    "instagram_handle": "@brianstout",
+    "tiktok_handle": "@jason33",
+    "joined_at": "2023-09-26T09:15:22.352339",
+    "advocacy_programs": [
+        {
+            "program_id": "7dd1bade-04b1-429d-85b5-4d1f4ffd539f",
+            "brand": "Brock, Williamson and Guzman",
+            "tasks_completed": [
+                {
+                    "task_id": "551f74a6-84b3-4352-b278-3080a3ef776e",
+                    "platform": "Instagram",
+                    "post_url": "http://www.wood.biz/",
+                    "likes": 4296,
+                    "comments": 17,
+                    "shares": 59,
+                    "reach": 2278
+                }
+            ],
+            "total_sales_attributed": 3646.9
+        }
+    ]
+}

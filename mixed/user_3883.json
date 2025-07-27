@@ -1,0 +1,26 @@
+{
+    "user_id": "5277ccc3-fb21-4b06-a86d-a71dfe17a2b6",
+    "name": "Lisa Rogers",
+    "email": "tylerbaker@example.com",
+    "instagram_handle": "@crystal70",
+    "tiktok_handle": "@jryan",
+    "joined_at": "2023-09-15T21:08:02.141179",
+    "advocacy_programs": [
+        {
+            "program_id": "e16d3281-5aaf-4eec-b932-5cf217bcd592",
+            "brand": "Mills, Key and Washington",
+            "tasks_completed": [
+                {
+                    "task_id": "a5a9277d-94c9-460c-b390-390e47df8976",
+                    "platform": "Facebook",
+                    "post_url": "http://atkins-small.com/",
+                    "likes": 3431,
+                    "comments": 270,
+                    "shares": 79,
+                    "reach": 4075
+                }
+            ],
+            "total_sales_attributed": 7796.08
+        }
+    ]
+}

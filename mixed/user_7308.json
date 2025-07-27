@@ -1,0 +1,26 @@
+{
+    "user_id": "257085f2-20c5-4275-84ee-7c457c7d4b69",
+    "name": "Lois King Sr.",
+    "email": "Tremayne_Nienow62@hotmail.com",
+    "instagram_handle": "@Mackenzie84",
+    "tiktok_handle": "@Zackary.Upton",
+    "joined_at": "2024-06-03T18:37:39.343Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5f5ed580-0bb3-4a65-9b8b-9e895ce5484f",
+            "brand": "Ondricka Group",
+            "tasks_completed": [
+                {
+                    "task_id": "bce868d5-ea7c-4088-bc53-08ee69e48070",
+                    "platform": "TikTok",
+                    "post_url": "https://knowledgeable-cap.org/",
+                    "likes": 238,
+                    "comments": 34,
+                    "shares": 93,
+                    "reach": 7294
+                }
+            ],
+            "total_sales_attributed": 4898.149915581136
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3811f1b9-8505-4761-961e-8e7d992a85d5",
+    "name": "Miss Dana Berry",
+    "email": "kingshane@example.net",
+    "instagram_handle": "@bonnie77",
+    "tiktok_handle": "@dakotabooth",
+    "joined_at": "2024-10-08T04:48:17.705870",
+    "advocacy_programs": [
+        {
+            "program_id": "8226b81a-5d44-475e-b6fa-66ce58e04e57",
+            "brand": "Spencer, Brown and Henry",
+            "tasks_completed": [
+                {
+                    "task_id": "3914ed76-fb6f-4d96-bd12-08381f9acc83",
+                    "platform": "Facebook",
+                    "post_url": "https://www.allen.biz/",
+                    "likes": 494,
+                    "comments": 179,
+                    "shares": 80,
+                    "reach": 5425
+                }
+            ],
+            "total_sales_attributed": 8561.78
+        }
+    ]
+}

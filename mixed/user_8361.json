@@ -1,0 +1,26 @@
+{
+    "user_id": "4ea666a4-d000-4d29-8227-c182a2a8f5ce",
+    "name": "Danny Hammes",
+    "email": "Devyn_Walsh1@yahoo.com",
+    "instagram_handle": "@Olen_Herman30",
+    "tiktok_handle": "@Kay_Hintz40",
+    "joined_at": "2024-06-19T21:38:12.107Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bb45c281-c10f-4732-8882-863fa3cd4b0a",
+            "brand": "Gutkowski, Deckow and Emard",
+            "tasks_completed": [
+                {
+                    "task_id": "155942da-577a-40ba-a53d-1d22f97a34e9",
+                    "platform": "TikTok",
+                    "post_url": "https://coarse-amendment.name",
+                    "likes": 450,
+                    "comments": 43,
+                    "shares": 93,
+                    "reach": 7860
+                }
+            ],
+            "total_sales_attributed": 2589.6891260449543
+        }
+    ]
+}

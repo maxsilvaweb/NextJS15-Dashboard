@@ -1,0 +1,26 @@
+{
+    "user_id": "1ea92e06-04f5-4813-818e-964ba23c71f6",
+    "name": "James Austin",
+    "email": "oliviahancock@example.net",
+    "instagram_handle": "@pugheric",
+    "tiktok_handle": "@jacksonperez",
+    "joined_at": "2025-01-06T12:24:46.857205",
+    "advocacy_programs": [
+        {
+            "program_id": "b73b3d92-d647-4c53-a038-635f39e0a311",
+            "brand": "Howard, Ortiz and Freeman",
+            "tasks_completed": [
+                {
+                    "task_id": "f26a6d6b-de27-425b-8425-5ca6f1a884c1",
+                    "platform": "Facebook",
+                    "post_url": "https://www.ramirez.com/",
+                    "likes": 8418,
+                    "comments": 289,
+                    "shares": 70,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 5358.54
+        }
+    ]
+}

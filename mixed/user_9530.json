@@ -1,0 +1,26 @@
+{
+    "user_id": "fe2e73cc-d82d-4065-a205-2393067caf42",
+    "name": "David Miller",
+    "email": "huntraymond@example.org",
+    "instagram_handle": "@maryhoffman",
+    "tiktok_handle": "@jenniferbell",
+    "joined_at": "2025-04-17T06:50:26.805400",
+    "advocacy_programs": [
+        {
+            "program_id": "abb2e2e5-eb1e-4347-810c-ed0d7f72517d",
+            "brand": "Perry-Gonzalez",
+            "tasks_completed": [
+                {
+                    "task_id": "3f0e32d3-a95c-4a9c-8d55-7128c6c6e749",
+                    "platform": "TikTok",
+                    "post_url": "http://parrish.biz/",
+                    "likes": 5024,
+                    "comments": 389,
+                    "shares": 82,
+                    "reach": 6496
+                }
+            ],
+            "total_sales_attributed": 5260.83
+        }
+    ]
+}

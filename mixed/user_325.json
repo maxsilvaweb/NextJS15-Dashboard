@@ -1,0 +1,26 @@
+{
+    "user_id": "b0e55a2e-0805-40b8-82d1-d5c5bcf445b4",
+    "name": "Mary Guerra",
+    "email": "melissathomas@example.net",
+    "instagram_handle": "@mckenzieyork",
+    "tiktok_handle": "@kelleygabriela",
+    "joined_at": "2024-07-17T08:50:42.448Z",
+    "advocacy_programs": [
+        {
+            "program_id": "97d02c92-c314-416d-9cb9-59c61eb2098f",
+            "brand": "Meadows PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "97e303b0-93f2-44ee-9a86-030afb0fe12f",
+                    "platform": "Instagram",
+                    "post_url": "http://simmons.net/",
+                    "likes": 1902,
+                    "comments": 457,
+                    "shares": 34,
+                    "reach": 958
+                }
+            ],
+            "total_sales_attributed": 1294.88
+        }
+    ]
+}

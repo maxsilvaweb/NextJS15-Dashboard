@@ -1,0 +1,26 @@
+{
+    "user_id": "3681198f-c36c-4e91-a637-82d199606b7e",
+    "name": "Michael Thompson",
+    "email": "nashjamie@example.org",
+    "instagram_handle": "@irichardson",
+    "tiktok_handle": "@jaredgomez",
+    "joined_at": "2023-12-13T00:26:55.580949",
+    "advocacy_programs": [
+        {
+            "program_id": "dd9789a0-bd5c-4906-9a22-a354df8082ff",
+            "brand": "Thomas-Abbott",
+            "tasks_completed": [
+                {
+                    "task_id": "43c19311-d5a7-41d2-a4de-4be45a1e44a5",
+                    "platform": "Instagram",
+                    "post_url": "https://www.parker.com/",
+                    "likes": 1971,
+                    "comments": 355,
+                    "shares": 16,
+                    "reach": 567
+                }
+            ],
+            "total_sales_attributed": 3438.05
+        }
+    ]
+}

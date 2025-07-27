@@ -1,0 +1,26 @@
+{
+    "user_id": "8876bec0-4d28-46a3-97f1-87069d26d55b",
+    "name": "Jonathan Dunn",
+    "email": "bradleymorgan@example.com",
+    "instagram_handle": "@gregory77",
+    "tiktok_handle": "@xmiller",
+    "joined_at": "2023-11-04T13:37:45.778058",
+    "advocacy_programs": [
+        {
+            "program_id": "eee4edaf-9df9-41ab-802b-95cc2c26e2ab",
+            "brand": "Jackson Group",
+            "tasks_completed": [
+                {
+                    "task_id": "30ce554b-c2fb-45a5-b2e0-be00bc29e718",
+                    "platform": "Facebook",
+                    "post_url": "https://www.moss-harris.com/",
+                    "likes": 1802,
+                    "comments": 187,
+                    "shares": 56,
+                    "reach": 3111
+                }
+            ],
+            "total_sales_attributed": 6332.89
+        }
+    ]
+}

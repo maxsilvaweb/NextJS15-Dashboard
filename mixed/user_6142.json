@@ -1,0 +1,26 @@
+{
+    "user_id": "ba63ce0a-c44a-4a13-ac22-2b86a79f2887",
+    "name": "Kathryn McClure",
+    "email": "Demario11@yahoo.com",
+    "instagram_handle": "@Alec.Shields",
+    "tiktok_handle": "@Joyce.Becker",
+    "joined_at": "2024-11-19T16:45:48.876Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e7a004e0-6636-4c0a-acac-bfcaa9d2705d",
+            "brand": "Armstrong, Rice and VonRueden",
+            "tasks_completed": [
+                {
+                    "task_id": "209c6fc1-2318-4fac-a260-9c86bb07d3d2",
+                    "platform": "Instagram",
+                    "post_url": "https://likable-pliers.name",
+                    "likes": 328,
+                    "comments": 46,
+                    "shares": 33,
+                    "reach": 4092
+                }
+            ],
+            "total_sales_attributed": 1529.968687444139
+        }
+    ]
+}

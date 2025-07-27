@@ -1,0 +1,26 @@
+{
+    "user_id": "5717584c-05cc-4632-84d6-a87c01b0ca27",
+    "name": "Mr. Stephen Marsh",
+    "email": "andrew49@example.com",
+    "instagram_handle": "@bowen",
+    "tiktok_handle": "@ambermeadows",
+    "joined_at": "2024-08-24T00:56:31.823052",
+    "advocacy_programs": [
+        {
+            "program_id": "1c0dcd27-93a0-4723-bda6-48766459af5c",
+            "brand": "Cremin, Waelchi and Jacobson",
+            "tasks_completed": [
+                {
+                    "task_id": "60675caf-8894-4d0d-92a7-0003a4c6aa3e",
+                    "platform": "TikTok",
+                    "post_url": "https://www.browning-gentry.com/",
+                    "likes": 9333,
+                    "comments": 15,
+                    "shares": 12,
+                    "reach": 9965
+                }
+            ],
+            "total_sales_attributed": 8132.5
+        }
+    ]
+}

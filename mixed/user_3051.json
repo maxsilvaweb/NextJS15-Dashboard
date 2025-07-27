@@ -1,0 +1,26 @@
+{
+    "user_id": "f66c7d6b-3e51-49b5-a51d-d6f4258fdce4",
+    "name": "Julia James",
+    "email": "david07@example.com",
+    "instagram_handle": "@fsanders",
+    "tiktok_handle": "@lynchpatricia",
+    "joined_at": "2024-06-28T02:07:48.905650",
+    "advocacy_programs": [
+        {
+            "program_id": "ea375b37-edb9-40a2-8bc4-6186ecaac251",
+            "brand": "Thompson Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "2aae5a03-229c-4cca-8b95-4718e0296e28",
+                    "platform": "TikTok",
+                    "post_url": "https://bernard.biz/",
+                    "likes": 8050,
+                    "comments": 468,
+                    "shares": 23,
+                    "reach": 7049
+                }
+            ],
+            "total_sales_attributed": 9228.14
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d6340293-545b-4d9f-9add-ebe73e37c8ff",
+    "name": "Devin Brakus",
+    "email": "Kira_Anderson-Kutch98@yahoo.com",
+    "instagram_handle": "@Georgiana_Borer",
+    "tiktok_handle": "@Jaqueline1",
+    "joined_at": "2024-07-21T20:27:04.337Z",
+    "advocacy_programs": [
+        {
+            "program_id": "07e295c0-4d9a-48b9-b096-e995f8390f6d",
+            "brand": "Bogan, Ebert and Torp",
+            "tasks_completed": [
+                {
+                    "task_id": "e7e480bb-b6d4-41a9-ba64-0b9187c4ed54",
+                    "platform": "TikTok",
+                    "post_url": "https://soulful-dividend.net",
+                    "likes": 42,
+                    "comments": 42,
+                    "shares": 73,
+                    "reach": 4253
+                }
+            ],
+            "total_sales_attributed": 1024.5606299817255
+        }
+    ]
+}

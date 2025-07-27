@@ -1,0 +1,26 @@
+{
+    "user_id": "b662b71a-0616-4787-bc2d-d4495cc39951",
+    "name": "Shane Sherman",
+    "email": "garnerjames@example.org",
+    "instagram_handle": "@rdiaz",
+    "tiktok_handle": "@rgonzalez",
+    "joined_at": "2024-06-28T01:59:08.063185",
+    "advocacy_programs": [
+        {
+            "program_id": "f87dc7df-d655-408c-8432-3e8b29768d5b",
+            "brand": "Richardson-Simpson",
+            "tasks_completed": [
+                {
+                    "task_id": "1c14bc05-7df6-43ff-af69-2f35a0b93cec",
+                    "platform": "Instagram",
+                    "post_url": "https://fuzzy-milestone.org/",
+                    "likes": 5681,
+                    "comments": 332,
+                    "shares": 28,
+                    "reach": 8374
+                }
+            ],
+            "total_sales_attributed": 8690.03
+        }
+    ]
+}

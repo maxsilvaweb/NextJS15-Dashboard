@@ -1,0 +1,26 @@
+{
+    "user_id": "5190adba-a352-4298-a89d-1fde4549807f",
+    "name": "Matthew Walker",
+    "email": "gregoryfarley@example.net",
+    "instagram_handle": "@stephanie18",
+    "tiktok_handle": "@ijoseph",
+    "joined_at": "2025-07-10T00:03:27.626326",
+    "advocacy_programs": [
+        {
+            "program_id": "f96beb85-ed3d-4c28-9056-c2d2a353f771",
+            "brand": "Wade-Green",
+            "tasks_completed": [
+                {
+                    "task_id": "994aa3ab-2073-48ed-a3bb-b9fac877bc00",
+                    "platform": "Instagram",
+                    "post_url": "http://www.caldwell.com/",
+                    "likes": 1672,
+                    "comments": 443,
+                    "shares": 58,
+                    "reach": 1215
+                }
+            ],
+            "total_sales_attributed": 2168.3626155518364
+        }
+    ]
+}

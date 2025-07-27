@@ -1,0 +1,26 @@
+{
+    "user_id": "0941ef2d-1bd5-48b7-93b1-d0a5ce17f331",
+    "name": "Nicole Curry",
+    "email": "bgonzalez@example.com",
+    "instagram_handle": "@uwalker",
+    "tiktok_handle": "@martinezjulie",
+    "joined_at": "2024-06-29T00:44:00.132359",
+    "advocacy_programs": [
+        {
+            "program_id": "6df591ae-0d0d-4baa-9d66-8c4ce4eafb5a",
+            "brand": "Guerrero, Ward and Fox",
+            "tasks_completed": [
+                {
+                    "task_id": "f6e1b43a-9db9-4732-82a7-4b48e915ff40",
+                    "platform": "Facebook",
+                    "post_url": "https://lopez.info/",
+                    "likes": 4643,
+                    "comments": 15,
+                    "shares": 71,
+                    "reach": 3659
+                }
+            ],
+            "total_sales_attributed": 7451.77
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "470f5ba4-7b14-4507-8822-af55e431b7a0",
+    "name": "Ashley Jarvis",
+    "email": "brendamartin@example.com",
+    "instagram_handle": "@wschmidt",
+    "tiktok_handle": "@robertsonnatalie",
+    "joined_at": "2024-02-11T05:07:54.338821",
+    "advocacy_programs": [
+        {
+            "program_id": "54af23ab-b9e1-43e7-94da-47f449080600",
+            "brand": "Williamson, Blake and Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "5185fc7e-53f7-4b2c-b192-96602962152b",
+                    "platform": "TikTok",
+                    "post_url": "https://yellowish-brief.name/",
+                    "likes": 5354,
+                    "comments": 41,
+                    "shares": 52,
+                    "reach": 4090
+                }
+            ],
+            "total_sales_attributed": 3968.2120663950404
+        }
+    ]
+}

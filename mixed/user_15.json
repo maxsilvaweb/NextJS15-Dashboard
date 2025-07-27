@@ -1,0 +1,26 @@
+{
+    "user_id": "1be8f874-4282-4431-91d3-edccd9c6bc82",
+    "name": "Neil Rasmussen",
+    "email": "xdurham@example.net",
+    "instagram_handle": "@debra00",
+    "tiktok_handle": "@kelly16",
+    "joined_at": "2023-11-16T06:47:06.794143",
+    "advocacy_programs": [
+        {
+            "program_id": "4df0eee0-56fe-47d3-a5dc-636542f1a744",
+            "brand": "Watson-Fletcher",
+            "tasks_completed": [
+                {
+                    "task_id": "cfe11ee3-05b7-4dec-b08e-a44e59df5f57",
+                    "platform": "TikTok",
+                    "post_url": "http://www.lee-brown.com/",
+                    "likes": 202,
+                    "comments": 204,
+                    "shares": 91,
+                    "reach": 7404
+                }
+            ],
+            "total_sales_attributed": 492.54
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "48cc4bd3-aa33-4573-812c-3d912052f81f",
+    "name": "Tracey Thompson",
+    "email": "whitemelinda@example.com",
+    "instagram_handle": "@pross",
+    "tiktok_handle": "@lromero",
+    "joined_at": "2024-11-03T01:02:02.490866",
+    "advocacy_programs": [
+        {
+            "program_id": "e7b3d9eb-9dfb-40e2-972d-e64037ef3e48",
+            "brand": "Walter and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "2b95a74b-4180-44a6-a753-127c1b0ba7f3",
+                    "platform": "TikTok",
+                    "post_url": "http://foster.com/",
+                    "likes": 173,
+                    "comments": 24,
+                    "shares": 4,
+                    "reach": 2825
+                }
+            ],
+            "total_sales_attributed": 825.41
+        }
+    ]
+}

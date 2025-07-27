@@ -1,0 +1,26 @@
+{
+    "user_id": "25719712-1629-42f5-99b4-a8fddec2be6a",
+    "name": "Alan Lopez",
+    "email": "brian94@example.org",
+    "instagram_handle": "@danielle30",
+    "tiktok_handle": "@samuel96",
+    "joined_at": "2025-02-12T04:19:26.806827",
+    "advocacy_programs": [
+        {
+            "program_id": "f1359173-8560-4ac9-a9b4-50e4394ce40e",
+            "brand": "Travis-Dixon",
+            "tasks_completed": [
+                {
+                    "task_id": "95994256-6da0-477a-9ade-3bee0e96c0f5",
+                    "platform": "Instagram",
+                    "post_url": "http://ford-mckay.org/",
+                    "likes": 489,
+                    "comments": 340,
+                    "shares": 83,
+                    "reach": 2931
+                }
+            ],
+            "total_sales_attributed": 6673.07
+        }
+    ]
+}

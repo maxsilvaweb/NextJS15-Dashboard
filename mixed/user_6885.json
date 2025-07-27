@@ -1,0 +1,26 @@
+{
+    "user_id": "7b50d915-c824-488f-b2ea-ea3f6df706ad",
+    "name": "Matthew Maxwell",
+    "email": "escobareric@example.net",
+    "instagram_handle": "@ustone",
+    "tiktok_handle": "@jaclyn85",
+    "joined_at": "2024-03-01T01:22:07.031333",
+    "advocacy_programs": [
+        {
+            "program_id": "67b26f29-121b-40bc-8c8d-92b47f111372",
+            "brand": "Mitchell - Bergstrom",
+            "tasks_completed": [
+                {
+                    "task_id": "027ccc71-cf74-4bef-91da-101cea907aa2",
+                    "platform": "TikTok",
+                    "post_url": "https://witty-signature.name",
+                    "likes": 4804,
+                    "comments": 395,
+                    "shares": 70,
+                    "reach": 6966
+                }
+            ],
+            "total_sales_attributed": 8472.63
+        }
+    ]
+}

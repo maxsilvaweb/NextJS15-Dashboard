@@ -1,0 +1,26 @@
+{
+    "user_id": "010e6aa2-904a-4d7d-b61f-b797d1440de2",
+    "name": "Mrs. Doreen VonRueden Jr.",
+    "email": "Shania.Koepp32@hotmail.com",
+    "instagram_handle": "@Lindsey82",
+    "tiktok_handle": "@Shanny.Mayer",
+    "joined_at": "2024-06-22T03:36:21.282Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ceb50428-3a76-4c41-8895-4ad9c184b866",
+            "brand": "Mertz, Macejkovic and Feil",
+            "tasks_completed": [
+                {
+                    "task_id": "c99a2c08-3f49-44ca-8fef-74e2d61a78df",
+                    "platform": "Instagram",
+                    "post_url": "https://striking-cornet.biz/",
+                    "likes": 214,
+                    "comments": 4,
+                    "shares": 15,
+                    "reach": 3688
+                }
+            ],
+            "total_sales_attributed": 1674.5874730109545
+        }
+    ]
+}

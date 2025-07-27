@@ -1,0 +1,26 @@
+{
+    "user_id": "eb8521a9-837b-4b47-a775-485a0cdd307e",
+    "name": "Christina Friesen-Labadie",
+    "email": "Hillary_Mraz@hotmail.com",
+    "instagram_handle": "@Ken.Kessler7",
+    "tiktok_handle": "@Oma.Boehm",
+    "joined_at": "2025-01-27T14:16:55.468Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6b3e9baa-a0d7-4641-b899-95fd1ce5c8fe",
+            "brand": "Walter LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "53e6d73a-92d8-4a9d-8167-2ca1afe54d80",
+                    "platform": "TikTok",
+                    "post_url": "https://next-fireplace.name",
+                    "likes": 298,
+                    "comments": 45,
+                    "shares": 55,
+                    "reach": 3070
+                }
+            ],
+            "total_sales_attributed": 3240.769586169081
+        }
+    ]
+}

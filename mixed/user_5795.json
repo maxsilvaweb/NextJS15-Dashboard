@@ -1,0 +1,26 @@
+{
+    "user_id": "d6f78d5a-b158-407c-8221-5da415ffe903",
+    "name": "Thomas Wintheiser",
+    "email": "Jaclyn_Bergnaum63@gmail.com",
+    "instagram_handle": "@Jacinto39",
+    "tiktok_handle": "@Eriberto79",
+    "joined_at": "2024-11-11T14:33:08.192Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1e2c5e15-6e8b-40ee-912b-d244d72f2474",
+            "brand": "Marks - Prohaska",
+            "tasks_completed": [
+                {
+                    "task_id": "f033951c-c918-40d0-96ea-b31aca83ae16",
+                    "platform": "TikTok",
+                    "post_url": "https://great-ownership.org/",
+                    "likes": 406,
+                    "comments": 24,
+                    "shares": 89,
+                    "reach": 7707
+                }
+            ],
+            "total_sales_attributed": 3058.418007802485
+        }
+    ]
+}

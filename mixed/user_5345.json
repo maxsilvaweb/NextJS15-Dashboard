@@ -1,0 +1,26 @@
+{
+    "user_id": "8c30fb1c-0d0a-44f2-b285-1848bf8d0c17",
+    "name": "Edgar Kassulke",
+    "email": "Michael.Schumm89@hotmail.com",
+    "instagram_handle": "@Annabelle95",
+    "tiktok_handle": "@Kurt_Berge",
+    "joined_at": "2024-08-10T03:56:46.899Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d4270a17-e3b7-41a9-a175-9c22613b8677",
+            "brand": "Kessler, Hoeger and Zieme",
+            "tasks_completed": [
+                {
+                    "task_id": "59eb73dd-650b-44e5-82d8-1514dac4afad",
+                    "platform": "Instagram",
+                    "post_url": "https://impossible-dwell.com",
+                    "likes": 476,
+                    "comments": 9,
+                    "shares": 34,
+                    "reach": 2207
+                }
+            ],
+            "total_sales_attributed": 955.7095362964652
+        }
+    ]
+}

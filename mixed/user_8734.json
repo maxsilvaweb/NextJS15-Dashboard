@@ -1,0 +1,26 @@
+{
+    "user_id": "48c889e0-8e91-4605-a7a9-078a21bb710a",
+    "name": "Hubert Aufderhar",
+    "email": "Alessandro_DAmore@gmail.com",
+    "instagram_handle": "@Jakayla_Haley17",
+    "tiktok_handle": "@Ben.Connelly",
+    "joined_at": "2024-11-03T08:57:22.499Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c1ed257a-a76a-4bc3-af41-005c9e840806",
+            "brand": "Nienow, Hansen and Pouros",
+            "tasks_completed": [
+                {
+                    "task_id": "a4785e58-5531-436f-a65e-c1025c3e3f73",
+                    "platform": "TikTok",
+                    "post_url": "https://glorious-scale.net/",
+                    "likes": 350,
+                    "comments": 35,
+                    "shares": 2,
+                    "reach": 6642
+                }
+            ],
+            "total_sales_attributed": 2996.820032923173
+        }
+    ]
+}

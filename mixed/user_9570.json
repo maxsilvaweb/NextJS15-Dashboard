@@ -1,0 +1,26 @@
+{
+    "user_id": "c49de8cd-52af-4d00-baa0-b9d7a486fc64",
+    "name": "Lance Littel Jr.",
+    "email": "Zora80@gmail.com",
+    "instagram_handle": "@Quincy_Schuppe",
+    "tiktok_handle": "@Coty_Lueilwitz",
+    "joined_at": "2025-01-18T08:06:40.581Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1e99cfa9-cb73-447b-b8b1-0dead2382de1",
+            "brand": "Keebler, Lehner and Wiegand",
+            "tasks_completed": [
+                {
+                    "task_id": "d093da14-c174-4062-957c-792b3e1ca78b",
+                    "platform": "Instagram",
+                    "post_url": "https://sparkling-cheetah.net/",
+                    "likes": 437,
+                    "comments": 48,
+                    "shares": 50,
+                    "reach": 9852
+                }
+            ],
+            "total_sales_attributed": 4925.281296423465
+        }
+    ]
+}

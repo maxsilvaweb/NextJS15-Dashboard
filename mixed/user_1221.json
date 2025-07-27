@@ -1,0 +1,26 @@
+{
+    "user_id": "eb17bb6f-e12f-4b69-8e13-1307368b9c10",
+    "name": "Pete Keebler I",
+    "email": "kimberly93@example.org",
+    "instagram_handle": "@jody13",
+    "tiktok_handle": "@brianrasmussen",
+    "joined_at": "2024-09-12T05:31:27.944312",
+    "advocacy_programs": [
+        {
+            "program_id": "9da271c6-17f7-4308-9fc1-b6d053c14d3e",
+            "brand": "Johnson Group",
+            "tasks_completed": [
+                {
+                    "task_id": "2a18068a-5a69-4b06-80c5-68c6dcf46509",
+                    "platform": "TikTok",
+                    "post_url": "http://padilla.com/",
+                    "likes": 9561,
+                    "comments": 339,
+                    "shares": 0,
+                    "reach": 7031
+                }
+            ],
+            "total_sales_attributed": 8519.87
+        }
+    ]
+}

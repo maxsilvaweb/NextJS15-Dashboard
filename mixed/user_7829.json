@@ -1,0 +1,26 @@
+{
+    "user_id": "b5a434e7-82c9-4c93-a019-a0f17a0b1b28",
+    "name": "David Moreno",
+    "email": "christopherjackson@example.com",
+    "instagram_handle": "@michaelrivera",
+    "tiktok_handle": "@jacquelineknox",
+    "joined_at": "2024-08-27T02:17:10.662753",
+    "advocacy_programs": [
+        {
+            "program_id": "59eeb74b-c59d-4754-b2e1-3525047139db",
+            "brand": "Campbell Group",
+            "tasks_completed": [
+                {
+                    "task_id": "87f93773-c8f5-4bf7-8893-7d07c02e1938",
+                    "platform": "TikTok",
+                    "post_url": "https://obvious-cauliflower.biz",
+                    "likes": 3129,
+                    "comments": 159,
+                    "shares": 91,
+                    "reach": 6578
+                }
+            ],
+            "total_sales_attributed": 5597.6
+        }
+    ]
+}

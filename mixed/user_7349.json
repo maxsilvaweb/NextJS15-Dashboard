@@ -1,0 +1,26 @@
+{
+    "user_id": "58cc30e0-45c3-48fd-bd1a-3025a8620778",
+    "name": "Earl White",
+    "email": "Milford_Luettgen65@gmail.com",
+    "instagram_handle": "@Fausto84",
+    "tiktok_handle": "@Willy3",
+    "joined_at": "2024-09-28T04:01:31.205Z",
+    "advocacy_programs": [
+        {
+            "program_id": "baa35147-3ae6-44b3-b87b-2bd50da8fde9",
+            "brand": "Hilll Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9d84bf6b-e570-4d13-889b-fa947fd1b888",
+                    "platform": "TikTok",
+                    "post_url": "https://wealthy-dividend.net/",
+                    "likes": 396,
+                    "comments": 20,
+                    "shares": 52,
+                    "reach": 3334
+                }
+            ],
+            "total_sales_attributed": 2961.2304945948063
+        }
+    ]
+}

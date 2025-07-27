@@ -1,0 +1,26 @@
+{
+    "user_id": "1a2775ca-04a5-464b-94ff-d47797c6dc06",
+    "name": "Ruth Muller",
+    "email": "Rebecca49@gmail.com",
+    "instagram_handle": "@Vita48",
+    "tiktok_handle": "@Noel.Mayert11",
+    "joined_at": "2024-11-17T14:22:29.526Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1e795ee1-9afc-4145-bf40-709d7da50b87",
+            "brand": "Mills - Kshlerin",
+            "tasks_completed": [
+                {
+                    "task_id": "40d6033b-1f04-46d8-99d2-cf0f6092a93d",
+                    "platform": "TikTok",
+                    "post_url": "https://meaty-bench.name/",
+                    "likes": 29,
+                    "comments": 43,
+                    "shares": 0,
+                    "reach": 7445
+                }
+            ],
+            "total_sales_attributed": 212.34904775134356
+        }
+    ]
+}

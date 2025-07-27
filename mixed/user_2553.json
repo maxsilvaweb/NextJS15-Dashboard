@@ -1,0 +1,26 @@
+{
+    "user_id": "42c73218-faa4-45cc-9ce5-492f45773eaf",
+    "name": "Angela Spears",
+    "email": "spencerachel@example.org",
+    "instagram_handle": "@douglassantos",
+    "tiktok_handle": "@blankenshipvanessa",
+    "joined_at": "2025-02-13T02:02:26.836Z",
+    "advocacy_programs": [
+        {
+            "program_id": "131dcc86-950e-47ca-b867-522860c00121",
+            "brand": "Lane LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d0f3b2f7-69cc-4505-991b-3d64f4e395a6",
+                    "platform": "Facebook",
+                    "post_url": "https://www.ruiz.com/",
+                    "likes": 2032,
+                    "comments": 12,
+                    "shares": 33,
+                    "reach": 7200
+                }
+            ],
+            "total_sales_attributed": 4620.690377410162
+        }
+    ]
+}

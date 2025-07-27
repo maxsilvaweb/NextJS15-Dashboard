@@ -1,0 +1,26 @@
+{
+    "user_id": "d9f4dbe5-31a8-406c-8746-4bba7f6d41bb",
+    "name": "Thomas O'Connell Sr.",
+    "email": "pagekathleen@example.com",
+    "instagram_handle": "@mario33",
+    "tiktok_handle": "@kirkhenry",
+    "joined_at": "2023-11-25T22:26:27.279808",
+    "advocacy_programs": [
+        {
+            "program_id": "dca9b979-c1c0-49d1-80ca-9dee5e3c8e97",
+            "brand": "Campbell Group",
+            "tasks_completed": [
+                {
+                    "task_id": "cf808793-7259-4989-a28a-76dffd820f06",
+                    "platform": "TikTok",
+                    "post_url": "https://alienated-skean.name",
+                    "likes": 1379,
+                    "comments": 22,
+                    "shares": 65,
+                    "reach": 3568
+                }
+            ],
+            "total_sales_attributed": 2579.82
+        }
+    ]
+}

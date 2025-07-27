@@ -1,0 +1,26 @@
+{
+    "user_id": "0f058e87-81a9-40b1-b4f4-fe116a9282fa",
+    "name": "Andy Bode",
+    "email": "Annabelle.Metz45@gmail.com",
+    "instagram_handle": "@david44",
+    "tiktok_handle": "@jperkins",
+    "joined_at": "2024-11-26T09:01:39.254011",
+    "advocacy_programs": [
+        {
+            "program_id": "f79e7682-acfd-4790-8deb-6ff5b245e6c3",
+            "brand": "Clark, Mcfarland and Kim",
+            "tasks_completed": [
+                {
+                    "task_id": "0f480c76-1957-4a9a-a13f-7deb49e6f130",
+                    "platform": "Twitter",
+                    "post_url": "https://drab-cross-contamination.com",
+                    "likes": 100,
+                    "comments": 228,
+                    "shares": 91,
+                    "reach": 3776
+                }
+            ],
+            "total_sales_attributed": 1400.27
+        }
+    ]
+}

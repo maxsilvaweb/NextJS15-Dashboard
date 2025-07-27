@@ -1,0 +1,26 @@
+{
+    "user_id": "1d5a8695-fb32-4e60-bb4e-7050c0ee0509",
+    "name": "James Paul",
+    "email": "jamielong@example.net",
+    "instagram_handle": "@thammond",
+    "tiktok_handle": "@alyssareed",
+    "joined_at": "2024-11-26T23:00:32.332852",
+    "advocacy_programs": [
+        {
+            "program_id": "dcc0d995-e3fb-44a9-b062-02e599125791",
+            "brand": "West-Hernandez",
+            "tasks_completed": [
+                {
+                    "task_id": "3f038c22-6fb3-4742-aee0-e9aba8046140",
+                    "platform": "Facebook",
+                    "post_url": "https://www.williams.com/",
+                    "likes": 7970,
+                    "comments": 37,
+                    "shares": 36,
+                    "reach": 6106
+                }
+            ],
+            "total_sales_attributed": 608.99
+        }
+    ]
+}

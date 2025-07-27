@@ -1,0 +1,26 @@
+{
+    "user_id": "3c1aa9eb-f1f6-45f8-9f3b-612cc9a5187e",
+    "name": "Julie Montgomery",
+    "email": "andreavega@example.net",
+    "instagram_handle": "@howellsarah",
+    "tiktok_handle": "@brianperez",
+    "joined_at": "2023-11-23T18:12:02.308777",
+    "advocacy_programs": [
+        {
+            "program_id": "bb381264-f289-4b87-bdde-81d75fe6eb37",
+            "brand": "Hess, Lynch and Wilson",
+            "tasks_completed": [
+                {
+                    "task_id": "c2b322d4-27a7-46eb-a469-956d4fae2136",
+                    "platform": "TikTok",
+                    "post_url": "https://hasty-peony.org/",
+                    "likes": 6128,
+                    "comments": 441,
+                    "shares": 25,
+                    "reach": 6180
+                }
+            ],
+            "total_sales_attributed": 9864.3
+        }
+    ]
+}

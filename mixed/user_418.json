@@ -1,0 +1,26 @@
+{
+    "user_id": "74350f0a-6bca-489c-ad82-6488b64fe46b",
+    "name": "Ellen West",
+    "email": "bbrown@example.com",
+    "instagram_handle": "@ndavis",
+    "tiktok_handle": "@floresaustin",
+    "joined_at": "2024-08-02T16:16:53.845Z",
+    "advocacy_programs": [
+        {
+            "program_id": "39944c65-5da8-4609-8bf8-b2afd0ed15af",
+            "brand": "Pope Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "52357a38-f344-4063-83ee-7de29278a1ca",
+                    "platform": "TikTok",
+                    "post_url": "http://quinn.biz/",
+                    "likes": 158,
+                    "comments": 334,
+                    "shares": 49,
+                    "reach": 9872
+                }
+            ],
+            "total_sales_attributed": 4884.36
+        }
+    ]
+}

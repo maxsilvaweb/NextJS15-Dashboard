@@ -1,0 +1,26 @@
+{
+    "user_id": "47903da9-852a-410d-b835-1bb9547033e4",
+    "name": "Robert Merritt",
+    "email": "emorgan@example.net",
+    "instagram_handle": "@coxchad",
+    "tiktok_handle": "@jamesemily",
+    "joined_at": "2025-04-01T21:04:46.157253",
+    "advocacy_programs": [
+        {
+            "program_id": "3bfcc736-e923-43cb-8946-bb8987f1682b",
+            "brand": "Collier - Durgan",
+            "tasks_completed": [
+                {
+                    "task_id": "9896bf95-b52f-4ff6-88cc-61ac8c2021d6",
+                    "platform": "Instagram",
+                    "post_url": "https://tyler.com/",
+                    "likes": 970,
+                    "comments": 496,
+                    "shares": 56,
+                    "reach": 2488
+                }
+            ],
+            "total_sales_attributed": 103.06
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "28ee3b11-3569-4a8e-a38e-abfedb278772",
+    "name": "Stacey Chavez",
+    "email": "karen65@example.org",
+    "instagram_handle": "@drussell",
+    "tiktok_handle": "@robinsonrobin",
+    "joined_at": "2024-08-27T03:34:05.109592",
+    "advocacy_programs": [
+        {
+            "program_id": "57cf0192-a4a5-4b77-a642-c565f882fd38",
+            "brand": "Mayer, Zboncak and Bayer",
+            "tasks_completed": [
+                {
+                    "task_id": "ea66b9e7-495f-4288-af6a-c4bd7d200b22",
+                    "platform": "Instagram",
+                    "post_url": "https://www.cruz.com/",
+                    "likes": 7063,
+                    "comments": 421,
+                    "shares": 77,
+                    "reach": 9341
+                }
+            ],
+            "total_sales_attributed": 1932.42
+        }
+    ]
+}

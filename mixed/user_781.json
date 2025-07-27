@@ -1,0 +1,26 @@
+{
+    "user_id": "84a867a1-2769-438d-ac41-79d5cfbcbd98",
+    "name": "Kurt Hintz",
+    "email": "Mckenzie34@yahoo.com",
+    "instagram_handle": "@Loyal_Schultz17",
+    "tiktok_handle": "@Jamel_Renner",
+    "joined_at": "2024-03-22T13:15:03.159Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d49dbdb9-bf50-4960-a48e-3674789a4c82",
+            "brand": "Abbott Group",
+            "tasks_completed": [
+                {
+                    "task_id": "a1e5c1d2-43c9-409b-9b7e-d05d31969ccb",
+                    "platform": "TikTok",
+                    "post_url": "https://bare-sanity.net/",
+                    "likes": 144,
+                    "comments": 47,
+                    "shares": 27,
+                    "reach": 4932
+                }
+            ],
+            "total_sales_attributed": 3957.0126574151836
+        }
+    ]
+}

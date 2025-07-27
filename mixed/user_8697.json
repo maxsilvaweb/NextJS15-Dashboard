@@ -1,0 +1,26 @@
+{
+    "user_id": "f0639adb-3df4-431f-a2eb-0fa56015a32d",
+    "name": "Victor Bernier",
+    "email": "Hailie84@gmail.com",
+    "instagram_handle": "@Makayla_Kshlerin33",
+    "tiktok_handle": "@Melody45",
+    "joined_at": "2024-05-04T09:28:32.087Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9b0b07e2-b6ae-434b-9c23-4ceb883c3798",
+            "brand": "Runolfsson, Jast and Swaniawski",
+            "tasks_completed": [
+                {
+                    "task_id": "c1177ec9-3361-4af2-b80c-42fc34c6296b",
+                    "platform": "TikTok",
+                    "post_url": "https://defenseless-grass.name",
+                    "likes": 425,
+                    "comments": 6,
+                    "shares": 52,
+                    "reach": 7578
+                }
+            ],
+            "total_sales_attributed": 1364.9638166883553
+        }
+    ]
+}

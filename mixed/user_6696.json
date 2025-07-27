@@ -1,0 +1,26 @@
+{
+    "user_id": "fb274481-80e5-4763-9ec1-c2524f62793c",
+    "name": "Lisa Montoya",
+    "email": "Christa_Rogahn-Hauck40@yahoo.com",
+    "instagram_handle": "@wrosario",
+    "tiktok_handle": "@wrightcharlotte",
+    "joined_at": "2025-06-02T21:52:57.475329",
+    "advocacy_programs": [
+        {
+            "program_id": "dec56c65-cf71-4efb-af4a-b7b06420e4d9",
+            "brand": "Hansen Group",
+            "tasks_completed": [
+                {
+                    "task_id": "eeba7871-f600-45d8-bdea-ad882b124734",
+                    "platform": "Facebook",
+                    "post_url": "http://compton.biz/",
+                    "likes": 750,
+                    "comments": 479,
+                    "shares": 4,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 4429.2
+        }
+    ]
+}

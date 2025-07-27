@@ -1,0 +1,26 @@
+{
+    "user_id": "1d9e17fa-3241-426d-ad8a-f702e4f907b9",
+    "name": "Dawn Anderson",
+    "email": "kmartinez@example.com",
+    "instagram_handle": "@hthompson",
+    "tiktok_handle": "@salinasanthony",
+    "joined_at": "2024-06-10T04:04:37.220711",
+    "advocacy_programs": [
+        {
+            "program_id": "965982a1-238f-4e42-b41f-3b57457eeb50",
+            "brand": "Butler-Rosario",
+            "tasks_completed": [
+                {
+                    "task_id": "5597d635-8f4c-4869-8971-b9951fb8479f",
+                    "platform": "Instagram",
+                    "post_url": "https://sparse-reboot.org",
+                    "likes": 4549,
+                    "comments": 401,
+                    "shares": 97,
+                    "reach": 3794
+                }
+            ],
+            "total_sales_attributed": 7886.21
+        }
+    ]
+}

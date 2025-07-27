@@ -1,0 +1,26 @@
+{
+    "user_id": "ae1d2f35-ef62-4d6a-9877-98b18df1ff8b",
+    "name": "Melvin Colon",
+    "email": "fpatel@example.com",
+    "instagram_handle": "@jeremysandoval",
+    "tiktok_handle": "@grahamanthony",
+    "joined_at": "2025-06-28T19:29:34.505234",
+    "advocacy_programs": [
+        {
+            "program_id": "dfb30d5e-cabd-4201-9b40-b490bad0e736",
+            "brand": "Henderson and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "0a32cb04-9213-442b-9d58-bfc47708d515",
+                    "platform": "TikTok",
+                    "post_url": "https://yoder.biz/",
+                    "likes": 4135,
+                    "comments": 391,
+                    "shares": 58,
+                    "reach": 8467
+                }
+            ],
+            "total_sales_attributed": 3120.03
+        }
+    ]
+}

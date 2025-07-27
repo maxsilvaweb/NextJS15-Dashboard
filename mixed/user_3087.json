@@ -1,0 +1,26 @@
+{
+    "user_id": "b1c9fcec-a949-4555-b67a-1b17c5909d39",
+    "name": "Mary Graves",
+    "email": "tguzman@example.net",
+    "instagram_handle": "@melissa66",
+    "tiktok_handle": "@anthony83",
+    "joined_at": "2024-06-03T00:28:12.680351",
+    "advocacy_programs": [
+        {
+            "program_id": "2fd795f3-ac79-4f5e-bd34-9f9ce8a80996",
+            "brand": "Schroeder, Smith and King",
+            "tasks_completed": [
+                {
+                    "task_id": "98096e55-296d-4e5c-bf7e-2a23abca27c7",
+                    "platform": "Facebook",
+                    "post_url": "https://powerful-ribbon.biz/",
+                    "likes": 7472,
+                    "comments": 41,
+                    "shares": 20,
+                    "reach": 6630
+                }
+            ],
+            "total_sales_attributed": 7558.26
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bf99c728-4b2d-47d1-aa15-3cd1a16550cb",
+    "name": "Joe Swaniawski MD",
+    "email": "Pearlie.Jacobs79@yahoo.com",
+    "instagram_handle": "@Margarette_Greenfelder",
+    "tiktok_handle": "@Bridie.Bradtke35",
+    "joined_at": "2024-09-14T18:20:06.136Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c4ea990d-8a8a-4628-82f4-ee8ef696d132",
+            "brand": "Grady - Stiedemann",
+            "tasks_completed": [
+                {
+                    "task_id": "be42146a-b2f2-4081-b766-00143e03d59b",
+                    "platform": "Instagram",
+                    "post_url": "https://zesty-juggernaut.biz",
+                    "likes": 172,
+                    "comments": 47,
+                    "shares": 70,
+                    "reach": 3066
+                }
+            ],
+            "total_sales_attributed": 2179.824621211906
+        }
+    ]
+}

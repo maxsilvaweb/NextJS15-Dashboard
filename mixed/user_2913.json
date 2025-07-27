@@ -1,0 +1,26 @@
+{
+    "user_id": "9a06ffa9-c15e-443b-b3a7-e5faad82cd64",
+    "name": "Douglas Harrington",
+    "email": "robert46@example.com",
+    "instagram_handle": "@wendycarroll",
+    "tiktok_handle": "@kdennis",
+    "joined_at": "2024-04-26T20:46:22.818944",
+    "advocacy_programs": [
+        {
+            "program_id": "3d49f9a4-a259-4de1-8d0f-c2a25c7e13da",
+            "brand": "Myers Group",
+            "tasks_completed": [
+                {
+                    "task_id": "8de7ec6c-7724-4a31-bde7-55cebd9ae90b",
+                    "platform": "Facebook",
+                    "post_url": "https://www.lewis.com/",
+                    "likes": 3744,
+                    "comments": 1,
+                    "shares": 12,
+                    "reach": 5307
+                }
+            ],
+            "total_sales_attributed": 5703.48
+        }
+    ]
+}

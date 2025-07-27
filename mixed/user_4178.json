@@ -1,0 +1,26 @@
+{
+    "user_id": "b57a8a0b-75a5-4a15-95fd-73d2606cfdb2",
+    "name": "Beverly Fahey",
+    "email": "Russel.Jakubowski75@gmail.com",
+    "instagram_handle": "@Jess8",
+    "tiktok_handle": "@Casimer27",
+    "joined_at": "2024-12-27T22:06:24.643Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d2c201ca-c3dc-46f0-b761-3de78973dd52",
+            "brand": "Schmidt - Blick",
+            "tasks_completed": [
+                {
+                    "task_id": "1efe01b0-1e3d-4ea3-9a50-1a5eef4ab149",
+                    "platform": "Instagram",
+                    "post_url": "https://stylish-overcoat.name/",
+                    "likes": 287,
+                    "comments": 32,
+                    "shares": 44,
+                    "reach": 2784
+                }
+            ],
+            "total_sales_attributed": 4537.153039081208
+        }
+    ]
+}

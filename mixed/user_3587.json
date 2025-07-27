@@ -1,0 +1,26 @@
+{
+    "user_id": "b9759828-b165-41af-b630-e556c7dba81b",
+    "name": "Ricky Douglas",
+    "email": "Aubree.Crona@hotmail.com",
+    "instagram_handle": "@Tom.Hoeger21",
+    "tiktok_handle": "@Kale.Gulgowski64",
+    "joined_at": "2024-09-27T10:16:36.210Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5530d565-59cd-41cb-8d68-a7141e45a810",
+            "brand": "Luettgen Group",
+            "tasks_completed": [
+                {
+                    "task_id": "10f1012c-7ca4-4c1e-adfc-6081f8a9af55",
+                    "platform": "Instagram",
+                    "post_url": "https://subdued-avalanche.biz",
+                    "likes": 252,
+                    "comments": 40,
+                    "shares": 75,
+                    "reach": 8078
+                }
+            ],
+            "total_sales_attributed": 4326.64592900975
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4ff0f942-6b25-484d-a1fc-2c3f2c02ca79",
+    "name": "Christopher Clark",
+    "email": "ashleyparrish@example.com",
+    "instagram_handle": "@youngcatherine",
+    "tiktok_handle": "@jpark",
+    "joined_at": "2025-05-19T13:32:16.693838",
+    "advocacy_programs": [
+        {
+            "program_id": "5e50f9dd-a787-4559-a986-f388229bfe23",
+            "brand": "Miller-Solomon",
+            "tasks_completed": [
+                {
+                    "task_id": "e724f9e0-99e7-498d-8b2b-9609ede489e9",
+                    "platform": "Instagram",
+                    "post_url": "https://walker.com/",
+                    "likes": 811,
+                    "comments": 397,
+                    "shares": 18,
+                    "reach": 8006
+                }
+            ],
+            "total_sales_attributed": 2668.2558746255636
+        }
+    ]
+}

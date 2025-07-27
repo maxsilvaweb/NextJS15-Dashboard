@@ -1,0 +1,26 @@
+{
+    "user_id": "a0b7a05c-0e88-4ca4-9201-997908ad657b",
+    "name": "Olga Blick",
+    "email": "Nigel_Kunde@yahoo.com",
+    "instagram_handle": "@Elza_Champlin55",
+    "tiktok_handle": "@Shea_OConnell",
+    "joined_at": "2024-06-12T06:24:17.276Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c88a06f7-2085-42bc-99ce-86bb5de60a54",
+            "brand": "Feeney - Prohaska",
+            "tasks_completed": [
+                {
+                    "task_id": "ea7c3eda-4ed3-440e-84a4-3164015af541",
+                    "platform": "TikTok",
+                    "post_url": "https://digital-coil.info",
+                    "likes": 70,
+                    "comments": 19,
+                    "shares": 38,
+                    "reach": 8917
+                }
+            ],
+            "total_sales_attributed": 646.2556054435537
+        }
+    ]
+}

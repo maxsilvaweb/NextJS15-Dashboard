@@ -1,0 +1,26 @@
+{
+    "user_id": "d4e7b73a-e363-44dd-92ac-49a98d3a5bee",
+    "name": "Rhonda Veum",
+    "email": "Hollie.Renner@yahoo.com",
+    "instagram_handle": "@Annabell.Hirthe32",
+    "tiktok_handle": "@Braxton_Kertzmann8",
+    "joined_at": "2025-02-10T12:01:35.706Z",
+    "advocacy_programs": [
+        {
+            "program_id": "99c1bd88-6fde-419a-9c08-6e8bfeb38691",
+            "brand": "Gusikowski, Little and Brakus",
+            "tasks_completed": [
+                {
+                    "task_id": "8cec4d24-1a7c-4c7c-af5d-a25f6a0253b6",
+                    "platform": "Instagram",
+                    "post_url": "https://second-hand-millet.net",
+                    "likes": 128,
+                    "comments": 45,
+                    "shares": 55,
+                    "reach": 8783
+                }
+            ],
+            "total_sales_attributed": 3970.1016750058393
+        }
+    ]
+}

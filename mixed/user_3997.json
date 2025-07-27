@@ -1,0 +1,26 @@
+{
+    "user_id": "ace8d5ce-fa4c-4cbc-b8d7-b5587b47e3fa",
+    "name": "Josh Wintheiser",
+    "email": "Mara.Bergstrom58@gmail.com",
+    "instagram_handle": "@Demetris.Weissnat",
+    "tiktok_handle": "@Hillard_Osinski",
+    "joined_at": "2024-10-17T08:50:54.453Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fab6f158-741b-4d03-886f-2edd22ca92cc",
+            "brand": "Ryan - Ritchie",
+            "tasks_completed": [
+                {
+                    "task_id": "3d40fc40-7659-4510-8bf4-b891055cd772",
+                    "platform": "TikTok",
+                    "post_url": "https://spiffy-permafrost.org/",
+                    "likes": 79,
+                    "comments": 8,
+                    "shares": 19,
+                    "reach": 4071
+                }
+            ],
+            "total_sales_attributed": 433.1447895669618
+        }
+    ]
+}

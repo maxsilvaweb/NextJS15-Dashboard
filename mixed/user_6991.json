@@ -1,0 +1,26 @@
+{
+    "user_id": "efb5efd0-30ff-4f7f-8971-4d3f4d7dd878",
+    "name": "Denise Smith",
+    "email": "zmason@example.com",
+    "instagram_handle": "@monicaleon",
+    "tiktok_handle": "@jmartin",
+    "joined_at": "2023-12-10T21:15:23.398600",
+    "advocacy_programs": [
+        {
+            "program_id": "e49223b0-e653-47ca-9e74-4c67656e75fd",
+            "brand": "Juarez-Ray",
+            "tasks_completed": [
+                {
+                    "task_id": "950f4e3d-d580-43d5-b34e-007b283e547e",
+                    "platform": "Facebook",
+                    "post_url": "https://whimsical-publicity.info/",
+                    "likes": 6234,
+                    "comments": 199,
+                    "shares": 0,
+                    "reach": 8273
+                }
+            ],
+            "total_sales_attributed": 5889.17
+        }
+    ]
+}

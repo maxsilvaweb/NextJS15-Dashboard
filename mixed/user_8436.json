@@ -1,0 +1,26 @@
+{
+    "user_id": "f49109aa-601b-409d-9629-98c7a907e198",
+    "name": "Kristin Green",
+    "email": "Paula_Feil46@gmail.com",
+    "instagram_handle": "@Herta52",
+    "tiktok_handle": "@Magdalen43",
+    "joined_at": "2024-09-18T08:36:25.624Z",
+    "advocacy_programs": [
+        {
+            "program_id": "229b831b-2806-4941-a41f-eaef29003be8",
+            "brand": "Murazik, Rohan and Lindgren",
+            "tasks_completed": [
+                {
+                    "task_id": "028a942b-5562-4469-8c9f-4f99340a26ba",
+                    "platform": "Instagram",
+                    "post_url": "https://dramatic-whack.net/",
+                    "likes": 302,
+                    "comments": 45,
+                    "shares": 21,
+                    "reach": 1201
+                }
+            ],
+            "total_sales_attributed": 2517.5089739131636
+        }
+    ]
+}

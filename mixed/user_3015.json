@@ -1,0 +1,26 @@
+{
+    "user_id": "13489146-ef18-4e18-b476-a44b87ef5cb6",
+    "name": "Robert Williams",
+    "email": "petersonlouis@example.com",
+    "instagram_handle": "@belltammy",
+    "tiktok_handle": "@marcia69",
+    "joined_at": "2024-01-09T18:18:52.326925",
+    "advocacy_programs": [
+        {
+            "program_id": "8e92b933-5fcd-4f61-9054-f804ca31604f",
+            "brand": "Ward-Bradley",
+            "tasks_completed": [
+                {
+                    "task_id": "a2573a86-fddc-426c-8bfc-3957fdbe3f02",
+                    "platform": "Instagram",
+                    "post_url": "https://weber-smith.net/",
+                    "likes": 93,
+                    "comments": 37,
+                    "shares": 92,
+                    "reach": 1470
+                }
+            ],
+            "total_sales_attributed": 8305.2
+        }
+    ]
+}

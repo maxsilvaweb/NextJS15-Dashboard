@@ -1,0 +1,26 @@
+{
+    "user_id": "c5288ce2-26aa-4ab5-92c0-7ef5b63d575e",
+    "name": "James Frank",
+    "email": "csanchez@example.com",
+    "instagram_handle": "@joshuadavis",
+    "tiktok_handle": "@benjamin15",
+    "joined_at": "2024-03-20T17:50:22.682019",
+    "advocacy_programs": [
+        {
+            "program_id": "8f27945c-fb72-4fe0-9d8d-e8916311f105",
+            "brand": "Senger, Towne and Gerhold",
+            "tasks_completed": [
+                {
+                    "task_id": "ea518f1f-2567-4ee6-9fa4-192f30c4900a",
+                    "platform": "TikTok",
+                    "post_url": "http://www.cooley.com/",
+                    "likes": 1814,
+                    "comments": 470,
+                    "shares": 97,
+                    "reach": 6458
+                }
+            ],
+            "total_sales_attributed": 7105.91
+        }
+    ]
+}

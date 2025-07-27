@@ -1,0 +1,26 @@
+{
+    "user_id": "8d60c505-a654-431e-a826-139c0909b7b3",
+    "name": "Gerald Andrews",
+    "email": "gomezjohnny@example.org",
+    "instagram_handle": "@stevencook",
+    "tiktok_handle": "@hodgesjenna",
+    "joined_at": "2024-07-20T15:30:35.404868",
+    "advocacy_programs": [
+        {
+            "program_id": "0bb1ee78-b537-4197-aa9d-dffd2659c328",
+            "brand": "Sherman, Crawford and Meyer",
+            "tasks_completed": [
+                {
+                    "task_id": "fff6c89f-ea80-456d-9334-e1eabb558a70",
+                    "platform": "Facebook",
+                    "post_url": "https://rosy-stool.biz/",
+                    "likes": 1132,
+                    "comments": 466,
+                    "shares": 88,
+                    "reach": 4786
+                }
+            ],
+            "total_sales_attributed": 9837.94
+        }
+    ]
+}

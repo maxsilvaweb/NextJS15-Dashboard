@@ -1,0 +1,26 @@
+{
+    "user_id": "46b84531-c856-434e-85af-679dcaa93210",
+    "name": "Fernando Champlin",
+    "email": "Alexys61@yahoo.com",
+    "instagram_handle": "@Ruthe.Jenkins11",
+    "tiktok_handle": "@Janis25",
+    "joined_at": "2024-04-03T18:40:44.366Z",
+    "advocacy_programs": [
+        {
+            "program_id": "500414e0-54a6-48b9-a0e0-3d7cd7c36ee9",
+            "brand": "Bode, Ortiz and Treutel",
+            "tasks_completed": [
+                {
+                    "task_id": "77d37897-4a04-498b-8de2-ca19d7215c86",
+                    "platform": "TikTok",
+                    "post_url": "https://impolite-nightlife.com",
+                    "likes": 358,
+                    "comments": 36,
+                    "shares": 13,
+                    "reach": 1841
+                }
+            ],
+            "total_sales_attributed": 2732.4684185692545
+        }
+    ]
+}

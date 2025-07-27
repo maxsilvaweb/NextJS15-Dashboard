@@ -1,0 +1,26 @@
+{
+    "user_id": "d7c2ba42-3dfd-4349-8c46-2fc4312c9514",
+    "name": "Erin Rivera",
+    "email": "carrie46@example.org",
+    "instagram_handle": "@rachel30",
+    "tiktok_handle": "@daniel19",
+    "joined_at": "2025-04-27T02:53:40.059308",
+    "advocacy_programs": [
+        {
+            "program_id": "75850b5b-9628-4d01-b6e0-ea07a7f4db28",
+            "brand": "Evans, Ramirez and Ortiz",
+            "tasks_completed": [
+                {
+                    "task_id": "04124654-d015-42ba-bb58-8b893f111120",
+                    "platform": "Instagram",
+                    "post_url": "https://www.dalton-moore.org/",
+                    "likes": 7879,
+                    "comments": 45,
+                    "shares": 9,
+                    "reach": 8774
+                }
+            ],
+            "total_sales_attributed": 3655.38
+        }
+    ]
+}

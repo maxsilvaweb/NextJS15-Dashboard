@@ -1,0 +1,26 @@
+{
+    "user_id": "45eb7987-6c09-4788-b97e-b9b9cd5ae20b",
+    "name": "Shannon Reilly",
+    "email": "Christop.Rolfson47@gmail.com",
+    "instagram_handle": "@Clay87",
+    "tiktok_handle": "@Nikolas_Hills68",
+    "joined_at": "2024-07-11T17:23:28.978Z",
+    "advocacy_programs": [
+        {
+            "program_id": "56b35466-d9db-4a63-9094-116cc26b25fc",
+            "brand": "Kozey and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "412395db-887c-4c30-95a4-0f89a2bfc824",
+                    "platform": "Instagram",
+                    "post_url": "https://messy-vol.org/",
+                    "likes": 281,
+                    "comments": 32,
+                    "shares": 49,
+                    "reach": 5986
+                }
+            ],
+            "total_sales_attributed": 1375.671779281716
+        }
+    ]
+}

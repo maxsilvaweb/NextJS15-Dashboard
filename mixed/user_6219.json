@@ -1,0 +1,26 @@
+{
+    "user_id": "9a55d8f7-73cc-40e8-906f-55b8e5469935",
+    "name": "Kristina Erickson",
+    "email": "rojassarah@example.com",
+    "instagram_handle": "@harringtonjeanette",
+    "tiktok_handle": "@tammykim",
+    "joined_at": "2024-06-02T18:47:57.905553",
+    "advocacy_programs": [
+        {
+            "program_id": "8dfe6bc0-d851-4870-bdab-498ff9fe9b7c",
+            "brand": "Young, Bailey and Nguyen",
+            "tasks_completed": [
+                {
+                    "task_id": "142db3a9-fcef-47ca-bb39-0ce3fd010c82",
+                    "platform": "Facebook",
+                    "post_url": "http://www.houston.biz/",
+                    "likes": 9867,
+                    "comments": 4,
+                    "shares": 29,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 435.43
+        }
+    ]
+}

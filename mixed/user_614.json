@@ -1,0 +1,26 @@
+{
+    "user_id": "54e7bf18-ae2e-4bda-9567-9f0bdf905a50",
+    "name": "Angela Taylor",
+    "email": "christine39@example.net",
+    "instagram_handle": "@brandonmckinney",
+    "tiktok_handle": "@jill07",
+    "joined_at": "2023-10-04T01:44:55.512284",
+    "advocacy_programs": [
+        {
+            "program_id": "efe167a9-bbdb-4f90-b1c5-b85e98cc0081",
+            "brand": "Kihn - Muller",
+            "tasks_completed": [
+                {
+                    "task_id": "a0f0a9ff-9824-42b2-988a-085e2411b828",
+                    "platform": "Facebook",
+                    "post_url": "https://www.jones.com/",
+                    "likes": 243,
+                    "comments": 398,
+                    "shares": 53,
+                    "reach": 1266
+                }
+            ],
+            "total_sales_attributed": 6357.68
+        }
+    ]
+}

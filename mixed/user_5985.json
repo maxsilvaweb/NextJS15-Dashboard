@@ -1,0 +1,26 @@
+{
+    "user_id": "1ebb7d69-5611-48ca-ad4d-653c6951af97",
+    "name": "Stephen Schaefer",
+    "email": "Jacinthe14@hotmail.com",
+    "instagram_handle": "@Sarah.Moore9",
+    "tiktok_handle": "@Arnoldo94",
+    "joined_at": "2024-07-18T15:19:14.338Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e331e550-6fae-4aad-a76f-d90397c08abb",
+            "brand": "Zieme, Lockman and Crooks",
+            "tasks_completed": [
+                {
+                    "task_id": "f9172625-6bd4-4b39-a56c-cf33e7e808f4",
+                    "platform": "Instagram",
+                    "post_url": "https://puny-daughter.com/",
+                    "likes": 232,
+                    "comments": 32,
+                    "shares": 57,
+                    "reach": 1757
+                }
+            ],
+            "total_sales_attributed": 500.05264485077566
+        }
+    ]
+}

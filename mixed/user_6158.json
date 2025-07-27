@@ -1,0 +1,26 @@
+{
+    "user_id": "44e054f1-a943-4f6d-bec9-5a42f1d11c2f",
+    "name": "Antonio Jones",
+    "email": "Rita_Runolfsson@yahoo.com",
+    "instagram_handle": "@schultzkelli",
+    "tiktok_handle": "@gknight",
+    "joined_at": "2024-06-13T01:16:43.017Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7b82b3b7-4f98-41b1-bcf7-a54f65a510e2",
+            "brand": "Buckridge Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f5f8897c-aa94-4ac6-a2ee-d4e15fc4885b",
+                    "platform": "TikTok",
+                    "post_url": "https://robbins.info/",
+                    "likes": 7921,
+                    "comments": 210,
+                    "shares": 99,
+                    "reach": 6693
+                }
+            ],
+            "total_sales_attributed": 1465.87
+        }
+    ]
+}

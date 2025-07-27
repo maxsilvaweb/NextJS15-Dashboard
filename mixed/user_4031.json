@@ -1,0 +1,26 @@
+{
+    "user_id": "b3b5aa39-d139-41ea-8c0b-7cd1089655e8",
+    "name": "Amy Williamson",
+    "email": "nicolesmith@example.org",
+    "instagram_handle": "@uvang",
+    "tiktok_handle": "@waltersjasmine",
+    "joined_at": "2024-07-01T19:11:43.481Z",
+    "advocacy_programs": [
+        {
+            "program_id": "95590bad-1167-4efb-874e-246e10b8b9a1",
+            "brand": "Weiss Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "620a2b10-c24a-4bda-98eb-13ccee779545",
+                    "platform": "TikTok",
+                    "post_url": "http://www.hines.com/",
+                    "likes": 329,
+                    "comments": 29,
+                    "shares": 14,
+                    "reach": 3861
+                }
+            ],
+            "total_sales_attributed": 2861.02
+        }
+    ]
+}

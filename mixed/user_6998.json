@@ -1,0 +1,26 @@
+{
+    "user_id": "2d786f6a-1530-49d9-b342-d6a6f4b8dc3f",
+    "name": "Jesse Smith",
+    "email": "ebrown@example.org",
+    "instagram_handle": "@ygonzalez",
+    "tiktok_handle": "@hwilliams",
+    "joined_at": "2024-03-26T02:38:15.594856",
+    "advocacy_programs": [
+        {
+            "program_id": "493c7587-a7a2-4efd-9d32-f0ebd6f1e746",
+            "brand": "Miller, Davis and Sanchez",
+            "tasks_completed": [
+                {
+                    "task_id": "829b5fb9-9488-46a4-8d7a-0b876cb3feb7",
+                    "platform": "Instagram",
+                    "post_url": "http://lewis.com/",
+                    "likes": 1694,
+                    "comments": 385,
+                    "shares": 74,
+                    "reach": 8924
+                }
+            ],
+            "total_sales_attributed": 2423.33
+        }
+    ]
+}

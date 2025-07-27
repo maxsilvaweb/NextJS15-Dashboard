@@ -1,0 +1,26 @@
+{
+    "user_id": "d2d9e88f-a063-4c1d-a3c3-e4c846cf8459",
+    "name": "Thomas Anthony",
+    "email": "sarahdiaz@example.org",
+    "instagram_handle": "@nathanpatel",
+    "tiktok_handle": "@zflynn",
+    "joined_at": "2025-01-13T12:10:40.234233",
+    "advocacy_programs": [
+        {
+            "program_id": "ef2d805a-d0ca-4911-8673-5df4839ea551",
+            "brand": "Thomas-Phillips",
+            "tasks_completed": [
+                {
+                    "task_id": "a3b6ba37-6ff9-4b85-93d9-5dc8ac560fa0",
+                    "platform": "TikTok",
+                    "post_url": "http://haynes-shaw.com/",
+                    "likes": 8947,
+                    "comments": 321,
+                    "shares": 11,
+                    "reach": 6146
+                }
+            ],
+            "total_sales_attributed": 1277.53
+        }
+    ]
+}

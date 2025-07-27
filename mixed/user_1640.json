@@ -1,0 +1,26 @@
+{
+    "user_id": "844e9d8f-1e24-4f68-8840-df28d32e2346",
+    "name": "Katrina Watts",
+    "email": "david83@example.org",
+    "instagram_handle": "@cholt",
+    "tiktok_handle": "@tbradford",
+    "joined_at": "2023-11-24T00:50:03.270846",
+    "advocacy_programs": [
+        {
+            "program_id": "5a76e786-03da-42cb-abb6-b97720a7506b",
+            "brand": "Griffin and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a5329048-45dd-4a59-9908-67db0d42b296",
+                    "platform": "Facebook",
+                    "post_url": "https://carpenter.net/",
+                    "likes": 8650,
+                    "comments": 449,
+                    "shares": 4,
+                    "reach": 1208
+                }
+            ],
+            "total_sales_attributed": 7881.17
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4ce60e83-5e55-4e4c-8d27-29a4b5854dff",
+    "name": "Shannon Huffman",
+    "email": "vdorsey@example.org",
+    "instagram_handle": "@brian47",
+    "tiktok_handle": "@xmartin",
+    "joined_at": "2024-12-25T00:06:50.925541",
+    "advocacy_programs": [
+        {
+            "program_id": "4365920d-e958-4605-b6cb-a7c7e6578ea2",
+            "brand": "Washington and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "e8150fe9-1d6d-4869-9f64-ff3f4861a9d7",
+                    "platform": "YouTube",
+                    "post_url": "https://webb.net/",
+                    "likes": 8532,
+                    "comments": 40,
+                    "shares": 92,
+                    "reach": 4169
+                }
+            ],
+            "total_sales_attributed": 5319.19
+        }
+    ]
+}

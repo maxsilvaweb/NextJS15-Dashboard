@@ -1,0 +1,26 @@
+{
+    "user_id": "44e8abdb-25b9-4785-bfcc-ea74abec5863",
+    "name": "Colleen Walsh",
+    "email": "Sydni4@hotmail.com",
+    "instagram_handle": "@Ernestina97",
+    "tiktok_handle": "@Heloise_Abbott87",
+    "joined_at": "2024-11-18T21:04:10.969Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2e06c0b5-d3b9-41b4-8146-690167ac4fca",
+            "brand": "Thiel - Wisoky",
+            "tasks_completed": [
+                {
+                    "task_id": "79e066f1-5995-403d-bd58-439eb33269ac",
+                    "platform": "Instagram",
+                    "post_url": "https://grimy-punctuation.org/",
+                    "likes": 429,
+                    "comments": 29,
+                    "shares": 78,
+                    "reach": 2050
+                }
+            ],
+            "total_sales_attributed": 440.5952844466876
+        }
+    ]
+}

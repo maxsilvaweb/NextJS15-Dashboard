@@ -1,0 +1,26 @@
+{
+    "user_id": "ee957313-a3af-4078-ba2f-f1b8efc38d9c",
+    "name": "Gloria Campbell",
+    "email": "Shaun.Prosacco@hotmail.com",
+    "instagram_handle": "@freemanjason",
+    "tiktok_handle": "@dawnmolina",
+    "joined_at": "2024-07-24T22:37:35.360Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d0bcd4bf-db9a-4632-9d52-809755c0cb72",
+            "brand": "White PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "aad68520-b1cd-4d4c-9655-d7b8c204b3e6",
+                    "platform": "TikTok",
+                    "post_url": "https://myers.net/",
+                    "likes": 1833,
+                    "comments": 303,
+                    "shares": 51,
+                    "reach": 2495
+                }
+            ],
+            "total_sales_attributed": 7329.25
+        }
+    ]
+}

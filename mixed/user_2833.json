@@ -1,0 +1,26 @@
+{
+    "user_id": "46896107-5ac0-4572-b4bd-c8034406777c",
+    "name": "William Allen",
+    "email": "antonioacosta@example.org",
+    "instagram_handle": "@christopher87",
+    "tiktok_handle": "@nancyharrison",
+    "joined_at": "2025-01-24T06:46:56.951839",
+    "advocacy_programs": [
+        {
+            "program_id": "9df76cb5-97b0-448a-99c1-726629aa7840",
+            "brand": "Rath and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "2c49615f-1900-4cc6-852a-e6d34d9eb802",
+                    "platform": "Instagram",
+                    "post_url": "http://may-neal.net/",
+                    "likes": 4816,
+                    "comments": 29,
+                    "shares": 26,
+                    "reach": 3916
+                }
+            ],
+            "total_sales_attributed": 1808.4215993784046
+        }
+    ]
+}

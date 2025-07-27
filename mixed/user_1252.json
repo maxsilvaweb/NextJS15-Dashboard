@@ -1,0 +1,26 @@
+{
+    "user_id": "f8a363bd-6269-4d32-80fa-01f8c22652eb",
+    "name": "Joshua Harvey",
+    "email": "hernandezkelly@example.net",
+    "instagram_handle": "@mark79",
+    "tiktok_handle": "@Nedra_Prosacco-Friesen",
+    "joined_at": "2025-01-23T12:47:24.602Z",
+    "advocacy_programs": [
+        {
+            "program_id": "226f1279-f43a-4672-8d90-a2d44fea9342",
+            "brand": "Mills-Peters",
+            "tasks_completed": [
+                {
+                    "task_id": "06f8df0f-79f6-41bd-99df-4032a33aeecf",
+                    "platform": "Twitter",
+                    "post_url": "https://big-eyebrow.org",
+                    "likes": 232,
+                    "comments": 230,
+                    "shares": 19,
+                    "reach": 7122
+                }
+            ],
+            "total_sales_attributed": 3995.61
+        }
+    ]
+}

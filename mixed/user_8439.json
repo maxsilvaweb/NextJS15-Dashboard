@@ -1,0 +1,26 @@
+{
+    "user_id": "0c117481-6086-4f7f-8580-d00381d4918f",
+    "name": "Jodi Kautzer",
+    "email": "michelejackson@example.com",
+    "instagram_handle": "@urussell",
+    "tiktok_handle": "@reginadavis",
+    "joined_at": "2025-04-08T21:28:30.889297",
+    "advocacy_programs": [
+        {
+            "program_id": "149d10fb-4c06-4ac5-9754-41c0b735a0e2",
+            "brand": "Chung Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "2ef996bd-b6d1-44e9-b8bb-0dfd7f2841aa",
+                    "platform": "TikTok",
+                    "post_url": "https://glaring-paintwork.net",
+                    "likes": 3225,
+                    "comments": 273,
+                    "shares": 88,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 5431.92
+        }
+    ]
+}

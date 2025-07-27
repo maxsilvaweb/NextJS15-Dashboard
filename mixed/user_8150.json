@@ -1,0 +1,26 @@
+{
+    "user_id": "07a83dd1-0ad4-4212-a3e1-df1389eb8186",
+    "name": "Lisa Kelley",
+    "email": "David_Schamberger49@yahoo.com",
+    "instagram_handle": "@bishoptaylor",
+    "tiktok_handle": "@moodyjustin",
+    "joined_at": "2024-07-03T09:13:43.613Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e4ba9c88-5f49-43f0-a7ff-4dcad48163bf",
+            "brand": "Gerlach and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "fdc14b70-ce94-4e44-b092-a0f08ae42f11",
+                    "platform": "Facebook",
+                    "post_url": "http://lewis.net/",
+                    "likes": 755,
+                    "comments": 479,
+                    "shares": 38,
+                    "reach": 5562
+                }
+            ],
+            "total_sales_attributed": 5116.07
+        }
+    ]
+}

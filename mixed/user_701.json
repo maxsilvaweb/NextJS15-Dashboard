@@ -1,0 +1,26 @@
+{
+    "user_id": "39a1f335-c8b9-415d-88ba-b3b6303c30fa",
+    "name": "Dawn Marks",
+    "email": "michaelstokes@example.net",
+    "instagram_handle": "@nancy83",
+    "tiktok_handle": "@ricardomiller",
+    "joined_at": "2024-08-31T02:50:22.669334",
+    "advocacy_programs": [
+        {
+            "program_id": "6a6b9ad1-01be-4091-92b5-8eafda544b6f",
+            "brand": "Smith-Henry",
+            "tasks_completed": [
+                {
+                    "task_id": "c36032bc-70e4-4c3f-b691-56350e5cf523",
+                    "platform": "Instagram",
+                    "post_url": "https://www.palmer-hamilton.biz/",
+                    "likes": 2304,
+                    "comments": 210,
+                    "shares": 67,
+                    "reach": 1981
+                }
+            ],
+            "total_sales_attributed": 1876.1581922940165
+        }
+    ]
+}

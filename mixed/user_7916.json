@@ -1,0 +1,26 @@
+{
+    "user_id": "ebdb373f-1c39-45c4-acee-c5922642fd6d",
+    "name": "Dawn Ortega",
+    "email": "mhammond@example.net",
+    "instagram_handle": "@brownanna",
+    "tiktok_handle": "@kellypayne",
+    "joined_at": "2025-04-07T08:26:19.875582",
+    "advocacy_programs": [
+        {
+            "program_id": "14320020-5374-422c-90e0-f1f18ff2d773",
+            "brand": "Robinson-Mitchell",
+            "tasks_completed": [
+                {
+                    "task_id": "edf36eee-c36d-465c-881f-89a116ddb835",
+                    "platform": "TikTok",
+                    "post_url": "https://aching-creature.org/",
+                    "likes": 8222,
+                    "comments": 22,
+                    "shares": 81,
+                    "reach": 815
+                }
+            ],
+            "total_sales_attributed": 2431.6887982667968
+        }
+    ]
+}

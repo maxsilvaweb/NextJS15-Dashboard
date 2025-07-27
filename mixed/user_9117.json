@@ -1,0 +1,26 @@
+{
+    "user_id": "a27ca134-de38-4970-95c5-6c5650d0f366",
+    "name": "Chad Ellis",
+    "email": "ctran@example.org",
+    "instagram_handle": "@cnelson",
+    "tiktok_handle": "@jenniferdrake",
+    "joined_at": "2025-02-19T01:54:33.406427",
+    "advocacy_programs": [
+        {
+            "program_id": "7f217051-5011-4199-98df-6f8ba798d149",
+            "brand": "Stracke - Schmidt",
+            "tasks_completed": [
+                {
+                    "task_id": "c7e54a59-7863-4934-9296-7135f09f4f95",
+                    "platform": "TikTok",
+                    "post_url": "https://baker.com/",
+                    "likes": 3838,
+                    "comments": 226,
+                    "shares": 6,
+                    "reach": 5238
+                }
+            ],
+            "total_sales_attributed": 3841.99
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e75c20a8-004c-468c-ba3d-1ce7fa92305b",
+    "name": "Jessica Dixon",
+    "email": "clarence37@example.org",
+    "instagram_handle": "@isimpson",
+    "tiktok_handle": "@david28",
+    "joined_at": "2024-03-04T18:01:17.873772",
+    "advocacy_programs": [
+        {
+            "program_id": "54be4394-c730-4ddf-b92e-3ca6c52e57d6",
+            "brand": "Johnson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a6c58eb6-4edc-42a0-a9ed-c53b57f654ce",
+                    "platform": "Facebook",
+                    "post_url": "http://www.chang.com/",
+                    "likes": 1534,
+                    "comments": 257,
+                    "shares": 39,
+                    "reach": 8075
+                }
+            ],
+            "total_sales_attributed": 1369.432789851549
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "7b73542d-583a-4d85-88ff-49ee40b58e7e",
+    "name": "Connie Ruiz",
+    "email": "david42@example.com",
+    "instagram_handle": "@matthewjenkins",
+    "tiktok_handle": "@cookjohn",
+    "joined_at": "2024-03-13T02:04:43.097790",
+    "advocacy_programs": [
+        {
+            "program_id": "31e48a6e-ac00-4cbe-ab81-df4f965e8959",
+            "brand": "Sims, Lee and Woods",
+            "tasks_completed": [
+                {
+                    "task_id": "9ee6bbd2-d655-4027-8fce-0fc355130006",
+                    "platform": "TikTok",
+                    "post_url": "http://www.freeman-moran.net/",
+                    "likes": 5731,
+                    "comments": 147,
+                    "shares": 15,
+                    "reach": 1544
+                }
+            ],
+            "total_sales_attributed": 4028.32460729609
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a3b1f8f1-73a4-4b66-9c0d-775b70374cc5",
+    "name": "Theodore Auer",
+    "email": "Dannie_Stamm60@yahoo.com",
+    "instagram_handle": "@Oleta_Kassulke55",
+    "tiktok_handle": "@Isaac_McLaughlin",
+    "joined_at": "2024-09-03T16:53:25.129Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7cc4871b-3fdd-4c8e-a42d-8aa60f79da43",
+            "brand": "Quitzon, Turner and Greenfelder",
+            "tasks_completed": [
+                {
+                    "task_id": "3afc6548-2ad6-4237-80f8-64f8c8d3f6d8",
+                    "platform": "TikTok",
+                    "post_url": "https://downright-republican.com/",
+                    "likes": 295,
+                    "comments": 24,
+                    "shares": 6,
+                    "reach": 7429
+                }
+            ],
+            "total_sales_attributed": 2216.831778212575
+        }
+    ]
+}

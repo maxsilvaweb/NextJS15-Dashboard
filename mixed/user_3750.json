@@ -1,0 +1,26 @@
+{
+    "user_id": "f05bd180-1541-4440-a87b-c9c362cb9600",
+    "name": "Jonathon Prosacco",
+    "email": "Enola.Hyatt@hotmail.com",
+    "instagram_handle": "@Tania_Crooks",
+    "tiktok_handle": "@Immanuel.Dare",
+    "joined_at": "2024-10-02T14:24:11.477Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a23abeee-034d-4e21-9ddf-4aff889ef0a5",
+            "brand": "Wilderman - Schinner",
+            "tasks_completed": [
+                {
+                    "task_id": "f1b2f0b7-711e-411f-b9bc-ca3c191fe74e",
+                    "platform": "TikTok",
+                    "post_url": "https://messy-encouragement.name",
+                    "likes": 36,
+                    "comments": 18,
+                    "shares": 20,
+                    "reach": 1262
+                }
+            ],
+            "total_sales_attributed": 241.53998757117827
+        }
+    ]
+}

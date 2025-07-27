@@ -1,0 +1,26 @@
+{
+    "user_id": "d7577303-924a-4ffc-8e78-1e2ee6ba1f51",
+    "name": "Kurt Greenholt",
+    "email": "Vern.Abshire@yahoo.com",
+    "instagram_handle": "@Asa.Skiles-Howell34",
+    "tiktok_handle": "@Elnora_Rowe29",
+    "joined_at": "2025-01-03T04:00:25.105Z",
+    "advocacy_programs": [
+        {
+            "program_id": "56cc4763-39c7-4d98-b6a3-abf353389c85",
+            "brand": "Klein, Brown and Willms",
+            "tasks_completed": [
+                {
+                    "task_id": "6944761d-39ec-467a-8bd0-7cf5521b7ac5",
+                    "platform": "Instagram",
+                    "post_url": "https://bleak-individual.com",
+                    "likes": 19,
+                    "comments": 43,
+                    "shares": 96,
+                    "reach": 7728
+                }
+            ],
+            "total_sales_attributed": 2009.2376419826676
+        }
+    ]
+}

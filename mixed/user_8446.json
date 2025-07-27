@@ -1,0 +1,26 @@
+{
+    "user_id": "0bf7d1b5-40cd-45f7-9d07-d530f45c41c4",
+    "name": "Collin Walker",
+    "email": "jsmith@example.org",
+    "instagram_handle": "@rsavage",
+    "tiktok_handle": "@samanthanguyen",
+    "joined_at": "2024-08-30T05:17:19.317526",
+    "advocacy_programs": [
+        {
+            "program_id": "4ca11579-2938-4582-b5eb-4f3d1d2e834d",
+            "brand": "Lynn, Jones and Cabrera",
+            "tasks_completed": [
+                {
+                    "task_id": "31974214-702a-47f3-904d-4a3a52f1b691",
+                    "platform": "TikTok",
+                    "post_url": "https://intrepid-petal.info",
+                    "likes": 321,
+                    "comments": 33,
+                    "shares": 3,
+                    "reach": 7440
+                }
+            ],
+            "total_sales_attributed": 6322.61
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8e69b181-245e-4e7d-b5d9-e40fc0eb3bb4",
+    "name": "James Jackson",
+    "email": "emily75@example.org",
+    "instagram_handle": "@zachary18",
+    "tiktok_handle": "@spencermichael",
+    "joined_at": "2025-03-04T19:16:13.452703",
+    "advocacy_programs": [
+        {
+            "program_id": "820a4b92-6120-4855-bb05-38e39fc6d321",
+            "brand": "Doyle, Griffin and Pearson",
+            "tasks_completed": [
+                {
+                    "task_id": "12cc4770-d80b-4ace-8003-d77f15dc90f7",
+                    "platform": "TikTok",
+                    "post_url": "https://anderson-butler.com/",
+                    "likes": 5985,
+                    "comments": 186,
+                    "shares": 70,
+                    "reach": 7511
+                }
+            ],
+            "total_sales_attributed": 6842.46
+        }
+    ]
+}

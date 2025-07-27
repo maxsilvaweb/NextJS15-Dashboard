@@ -1,0 +1,26 @@
+{
+    "user_id": "846fb160-3d27-41b8-91ed-140b8b61e04b",
+    "name": "Ernesto Tillman",
+    "email": "Kendra37@gmail.com",
+    "instagram_handle": "@Rick12",
+    "tiktok_handle": "@Emelie_Schimmel",
+    "joined_at": "2024-04-12T15:04:34.012Z",
+    "advocacy_programs": [
+        {
+            "program_id": "90b82cf6-bc1d-46d3-8583-d7437ba9cb6a",
+            "brand": "Jakubowski - Kunde",
+            "tasks_completed": [
+                {
+                    "task_id": "96ce3a1f-ec23-45a5-bff3-cb916efd8c6c",
+                    "platform": "Instagram",
+                    "post_url": "https://useless-design.org",
+                    "likes": 315,
+                    "comments": 23,
+                    "shares": 11,
+                    "reach": 8923
+                }
+            ],
+            "total_sales_attributed": 3805.007985656052
+        }
+    ]
+}

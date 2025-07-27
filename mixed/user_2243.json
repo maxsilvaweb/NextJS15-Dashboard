@@ -1,0 +1,26 @@
+{
+    "user_id": "36cbbb30-1f6b-4b73-a291-b1ddaed74692",
+    "name": "Jana Klein",
+    "email": "Gene_Bergnaum84@gmail.com",
+    "instagram_handle": "@Katherine34",
+    "tiktok_handle": "@Antone94",
+    "joined_at": "2024-12-24T07:15:33.080Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9b40987b-cb7d-40e6-bd01-e1c3fd8382aa",
+            "brand": "MacGyver and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "54f14f06-fa71-40a9-aed5-4c60e46dcb4d",
+                    "platform": "TikTok",
+                    "post_url": "https://instructive-midwife.biz/",
+                    "likes": 249,
+                    "comments": 11,
+                    "shares": 69,
+                    "reach": 4766
+                }
+            ],
+            "total_sales_attributed": 4074.9045039258576
+        }
+    ]
+}

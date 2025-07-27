@@ -1,0 +1,26 @@
+{
+    "user_id": "7b374f1d-3cf4-461f-a101-897fd0a5d1f1",
+    "name": "Amber Miller",
+    "email": "Murl31@gmail.com",
+    "instagram_handle": "@brittney97",
+    "tiktok_handle": "@marygill",
+    "joined_at": "2023-08-24T07:06:55.475306",
+    "advocacy_programs": [
+        {
+            "program_id": "0e0a7996-7cc5-4329-94d1-95998b42cca7",
+            "brand": "Weaver-Odonnell",
+            "tasks_completed": [
+                {
+                    "task_id": "8543ebda-8b74-4f05-ad4b-4b17253c859b",
+                    "platform": "Instagram",
+                    "post_url": "https://cuddly-pacemaker.com",
+                    "likes": 5688,
+                    "comments": 43,
+                    "shares": 59,
+                    "reach": 5771
+                }
+            ],
+            "total_sales_attributed": 3776.51
+        }
+    ]
+}

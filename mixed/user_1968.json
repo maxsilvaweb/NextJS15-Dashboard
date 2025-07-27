@@ -1,0 +1,26 @@
+{
+    "user_id": "e3542b76-47e6-42ed-a8f6-ca7de1d3c7d4",
+    "name": "Robert Roy",
+    "email": "gouldchristopher@example.net",
+    "instagram_handle": "@susan46",
+    "tiktok_handle": "@woodsnoah",
+    "joined_at": "2024-11-08T02:46:36.324860",
+    "advocacy_programs": [
+        {
+            "program_id": "2f16134e-15a7-43ba-b084-59414f003416",
+            "brand": "Leonard PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "17ee69b1-d1b6-478b-9f32-3f10742004d2",
+                    "platform": "Instagram",
+                    "post_url": "http://johnson.biz/",
+                    "likes": 9525,
+                    "comments": 70,
+                    "shares": 42,
+                    "reach": 7837
+                }
+            ],
+            "total_sales_attributed": 9268.77
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "f0641bb7-69aa-4184-a322-7b808869b397",
+    "name": "Carrie Carroll",
+    "email": "reyeschristine@example.org",
+    "instagram_handle": "@jenningsanthony",
+    "tiktok_handle": "@joseph34",
+    "joined_at": "2025-02-19T03:28:44.625526",
+    "advocacy_programs": [
+        {
+            "program_id": "6af71bdc-3936-4e9b-8287-43d52eee3b36",
+            "brand": "Burke Group",
+            "tasks_completed": [
+                {
+                    "task_id": "2de72273-02d1-4b8b-8398-ac590549fcce",
+                    "platform": "Facebook",
+                    "post_url": "http://lopez.com/",
+                    "likes": 260,
+                    "comments": 22,
+                    "shares": 64,
+                    "reach": 3205
+                }
+            ],
+            "total_sales_attributed": 7681.54
+        }
+    ]
+}

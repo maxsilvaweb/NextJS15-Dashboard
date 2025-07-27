@@ -1,0 +1,26 @@
+{
+    "user_id": "b820245e-f781-45f6-aaee-fba3f760bdf4",
+    "name": "Anthony Byrd",
+    "email": "wwiggins@example.net",
+    "instagram_handle": "@sanchezbrandon",
+    "tiktok_handle": "@tcopeland",
+    "joined_at": "2024-10-18T01:23:07.541121",
+    "advocacy_programs": [
+        {
+            "program_id": "18ed1d23-9b3e-4460-be61-a381f026672a",
+            "brand": "Phillips Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "67a6c9af-4d7c-478a-99a4-879798d37017",
+                    "platform": "Instagram",
+                    "post_url": "http://www.flores.biz/",
+                    "likes": 5672,
+                    "comments": 349,
+                    "shares": 71,
+                    "reach": 5341
+                }
+            ],
+            "total_sales_attributed": 140.93
+        }
+    ]
+}

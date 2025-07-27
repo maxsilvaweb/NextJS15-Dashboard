@@ -1,0 +1,26 @@
+{
+    "user_id": "7058ab38-3d31-457a-8e06-9a79ccf7d94c",
+    "name": "Jeremiah Mitchell",
+    "email": "jstewart@example.com",
+    "instagram_handle": "@brandonhendrix",
+    "tiktok_handle": "@leonardvelasquez",
+    "joined_at": "2023-11-12T10:02:22.809496",
+    "advocacy_programs": [
+        {
+            "program_id": "5dcdb99f-019f-4bc6-a5d7-4cd78f2e79ef",
+            "brand": "Reed, Mcintyre and Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "3fa9717b-f048-47b4-b5a0-67906090e167",
+                    "platform": "Instagram",
+                    "post_url": "http://jackson.net/",
+                    "likes": 9269,
+                    "comments": 89,
+                    "shares": 17,
+                    "reach": 2698
+                }
+            ],
+            "total_sales_attributed": 4930.11
+        }
+    ]
+}

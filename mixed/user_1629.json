@@ -1,0 +1,26 @@
+{
+    "user_id": "933fde46-c915-4ced-a16d-71d0c5d79d50",
+    "name": "Pedro Hackett",
+    "email": "Amaya_Jaskolski96@hotmail.com",
+    "instagram_handle": "@Cyril35",
+    "tiktok_handle": "@Ryley.Bartell",
+    "joined_at": "2024-06-21T13:57:49.384Z",
+    "advocacy_programs": [
+        {
+            "program_id": "18209644-554b-44c4-ba76-182807259b50",
+            "brand": "Lowe Group",
+            "tasks_completed": [
+                {
+                    "task_id": "a08aae9f-9a37-4bc2-b59c-851bd40cea3f",
+                    "platform": "TikTok",
+                    "post_url": "https://closed-license.name",
+                    "likes": 75,
+                    "comments": 16,
+                    "shares": 77,
+                    "reach": 8167
+                }
+            ],
+            "total_sales_attributed": 2611.3829375247724
+        }
+    ]
+}

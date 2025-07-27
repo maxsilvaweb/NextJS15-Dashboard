@@ -1,0 +1,26 @@
+{
+    "user_id": "81ffc5d6-7450-470e-9640-5a658c87a06c",
+    "name": "Maria Mcneil",
+    "email": "keith91@example.org",
+    "instagram_handle": "@gabrielbarrera",
+    "tiktok_handle": "@raymondhall",
+    "joined_at": "2025-04-25T02:24:22.128332",
+    "advocacy_programs": [
+        {
+            "program_id": "3ab66ce6-36db-432a-8e17-8fee571d3c2f",
+            "brand": "Garrett, Roy and Cooper",
+            "tasks_completed": [
+                {
+                    "task_id": "7f6edbf2-873e-4a25-830b-adf3cac5ccf4",
+                    "platform": "TikTok",
+                    "post_url": "https://petersen.com/",
+                    "likes": 57,
+                    "comments": 298,
+                    "shares": 21,
+                    "reach": 1049
+                }
+            ],
+            "total_sales_attributed": 2364.39
+        }
+    ]
+}

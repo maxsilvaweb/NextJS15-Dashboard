@@ -1,0 +1,26 @@
+{
+    "user_id": "8d0c5b5f-f992-47b6-a289-819b19850c76",
+    "name": "Jean Roberts",
+    "email": "campbelldaniel@example.net",
+    "instagram_handle": "@Davin40",
+    "tiktok_handle": "@ashleyrodney",
+    "joined_at": "2025-06-26T17:45:20.306327",
+    "advocacy_programs": [
+        {
+            "program_id": "e95e1d89-e30b-4981-aeba-c29ba684c8ae",
+            "brand": "Crona - Littel",
+            "tasks_completed": [
+                {
+                    "task_id": "9ffaaf71-12a8-4c12-958f-a6163ff9509a",
+                    "platform": "Instagram",
+                    "post_url": "http://berg-clay.net/",
+                    "likes": 4963,
+                    "comments": 295,
+                    "shares": 12,
+                    "reach": 5640
+                }
+            ],
+            "total_sales_attributed": 3800.05
+        }
+    ]
+}

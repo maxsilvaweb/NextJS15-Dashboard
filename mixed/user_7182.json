@@ -1,0 +1,26 @@
+{
+    "user_id": "e51c3530-84e1-4783-9c57-743bc172137a",
+    "name": "Rebecca Donaldson",
+    "email": "brownkeith@example.com",
+    "instagram_handle": "@pjohnson",
+    "tiktok_handle": "@raymond74",
+    "joined_at": "2024-12-04T17:52:43.825434",
+    "advocacy_programs": [
+        {
+            "program_id": "117920e8-5fe7-4122-8f30-791dc43f2056",
+            "brand": "Bowman-Martinez",
+            "tasks_completed": [
+                {
+                    "task_id": "43db16f1-6f94-405b-9abf-b17b7ccb965b",
+                    "platform": "TikTok",
+                    "post_url": "http://king.com/",
+                    "likes": 9620,
+                    "comments": 21,
+                    "shares": 74,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 8286.84
+        }
+    ]
+}

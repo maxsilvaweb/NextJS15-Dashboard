@@ -1,0 +1,26 @@
+{
+    "user_id": "96d81be1-522a-49c0-814f-a4d359b66273",
+    "name": "Connie Miller",
+    "email": "cody37@example.com",
+    "instagram_handle": "@Doug.Mohr78",
+    "tiktok_handle": "@lisacobb",
+    "joined_at": "2025-06-08T01:14:30.687869",
+    "advocacy_programs": [
+        {
+            "program_id": "60cd5287-668b-4287-8d0b-fa7b55c71a67",
+            "brand": "Williams-Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "97b2b91c-a721-495d-8bbb-8c9a9003cb18",
+                    "platform": "Facebook",
+                    "post_url": "http://www.harvey.biz/",
+                    "likes": 1748,
+                    "comments": 335,
+                    "shares": 52,
+                    "reach": 8408
+                }
+            ],
+            "total_sales_attributed": 6630.99
+        }
+    ]
+}

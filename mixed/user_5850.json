@@ -1,0 +1,26 @@
+{
+    "user_id": "22a98d26-eb25-47a7-881d-1c8488f7da28",
+    "name": "Robert Heath",
+    "email": "jeremy96@example.net",
+    "instagram_handle": "@sle",
+    "tiktok_handle": "@tfranklin",
+    "joined_at": "2025-03-22T14:08:34.095443",
+    "advocacy_programs": [
+        {
+            "program_id": "07db2834-6e2a-46f8-b24f-2e26d0055bd9",
+            "brand": "Mcclure-Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "f7ad759e-cd44-4d12-90db-4fb4bf2430e2",
+                    "platform": "YouTube",
+                    "post_url": "https://insidious-tenant.name",
+                    "likes": 8326,
+                    "comments": 13,
+                    "shares": 21,
+                    "reach": 4546
+                }
+            ],
+            "total_sales_attributed": 1353.71
+        }
+    ]
+}

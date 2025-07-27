@@ -1,0 +1,26 @@
+{
+    "user_id": "86605d41-8fc4-409a-a30b-e79b8bafbbc2",
+    "name": "Travis Chavez",
+    "email": "Anais.Dach4@yahoo.com",
+    "instagram_handle": "@monica82",
+    "tiktok_handle": "@brittanymullen",
+    "joined_at": "2023-09-01T09:34:55.803781",
+    "advocacy_programs": [
+        {
+            "program_id": "8254a326-c41a-4f26-8593-4f0ffc88ff54",
+            "brand": "Walker-Martin",
+            "tasks_completed": [
+                {
+                    "task_id": "77dcdf84-1b50-4176-aa3a-535b5912a3ef",
+                    "platform": "Facebook",
+                    "post_url": "http://newman.com/",
+                    "likes": 9449,
+                    "comments": 41,
+                    "shares": 34,
+                    "reach": 7646
+                }
+            ],
+            "total_sales_attributed": 3831.8
+        }
+    ]
+}

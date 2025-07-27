@@ -1,0 +1,26 @@
+{
+    "user_id": "de52a009-49fa-4fdf-9664-97715575955b",
+    "name": "Joseph Koepp",
+    "email": "Bonnie_Oberbrunner41@hotmail.com",
+    "instagram_handle": "@Natalie.Kuhn",
+    "tiktok_handle": "@Josie_OReilly23",
+    "joined_at": "2024-11-30T12:45:51.265Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fc17af59-aa6c-4301-93c9-24b67452871b",
+            "brand": "Rempel Group",
+            "tasks_completed": [
+                {
+                    "task_id": "e7101ff0-5c16-4049-9cb0-3579942c142d",
+                    "platform": "Instagram",
+                    "post_url": "https://apt-restaurant.biz",
+                    "likes": 408,
+                    "comments": 0,
+                    "shares": 87,
+                    "reach": 5047
+                }
+            ],
+            "total_sales_attributed": 959.3153939913426
+        }
+    ]
+}

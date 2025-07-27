@@ -1,0 +1,26 @@
+{
+    "user_id": "0f1decbd-6233-474e-b3ac-2b42f1198f88",
+    "name": "Dustin Williams",
+    "email": "Itzel_Johnston72@yahoo.com",
+    "instagram_handle": "@willislaurie",
+    "tiktok_handle": "@gregory89",
+    "joined_at": "2024-02-04T14:35:25.033537",
+    "advocacy_programs": [
+        {
+            "program_id": "ffa005bd-2b99-4701-a602-deba4e681071",
+            "brand": "Hawkins-Gray",
+            "tasks_completed": [
+                {
+                    "task_id": "de5c4743-5d0b-48b3-b327-1efe2dc1dc57",
+                    "platform": "TikTok",
+                    "post_url": "http://ruiz.com/",
+                    "likes": 362,
+                    "comments": 425,
+                    "shares": 85,
+                    "reach": 2255
+                }
+            ],
+            "total_sales_attributed": 4547.48
+        }
+    ]
+}

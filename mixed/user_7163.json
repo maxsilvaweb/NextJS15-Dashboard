@@ -1,0 +1,26 @@
+{
+    "user_id": "94ed6611-a479-442a-aa42-d53d58e3bc88",
+    "name": "Brian Conway",
+    "email": "gsmith@example.com",
+    "instagram_handle": "@justin09",
+    "tiktok_handle": "@john51",
+    "joined_at": "2023-11-23T07:20:12.922695",
+    "advocacy_programs": [
+        {
+            "program_id": "d71423ff-fc54-4ab1-a3cf-147c9cc60972",
+            "brand": "Alexander LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d2afe722-4628-40f3-ad26-aeb447fd3424",
+                    "platform": "Facebook",
+                    "post_url": "https://whitaker.net/",
+                    "likes": 440,
+                    "comments": 303,
+                    "shares": 71,
+                    "reach": 7245
+                }
+            ],
+            "total_sales_attributed": 7501.16
+        }
+    ]
+}

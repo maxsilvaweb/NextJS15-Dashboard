@@ -1,0 +1,26 @@
+{
+    "user_id": "7eb33af0-9550-4033-8500-4a577591fd0a",
+    "name": "Colleen Spencer",
+    "email": "Ludie62@yahoo.com",
+    "instagram_handle": "@Daphney.Bartoletti",
+    "tiktok_handle": "@Jose.Larkin",
+    "joined_at": "2025-02-02T00:51:06.155Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1c7cd7b9-2767-4c48-b970-463db87ef6f0",
+            "brand": "Hirthe - Torphy",
+            "tasks_completed": [
+                {
+                    "task_id": "98b7ea47-35e6-4913-a293-3814e999d7c4",
+                    "platform": "Instagram",
+                    "post_url": "https://worthwhile-chairperson.net",
+                    "likes": 312,
+                    "comments": 17,
+                    "shares": 52,
+                    "reach": 2582
+                }
+            ],
+            "total_sales_attributed": 4173.965617953435
+        }
+    ]
+}

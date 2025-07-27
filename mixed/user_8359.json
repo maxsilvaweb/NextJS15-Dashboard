@@ -1,0 +1,26 @@
+{
+    "user_id": "dd9b99de-c767-4a73-915d-c5261216c79b",
+    "name": "Nicholas Gonzalez",
+    "email": "vjohnson@example.net",
+    "instagram_handle": "@glennerik",
+    "tiktok_handle": "@elaineholt",
+    "joined_at": "2024-01-18T11:25:29.726272",
+    "advocacy_programs": [
+        {
+            "program_id": "297cc82b-3b20-4c0e-9b67-fee63b2c3395",
+            "brand": "Gonzales-Taylor",
+            "tasks_completed": [
+                {
+                    "task_id": "9b1c9e2f-2106-49ff-923a-7fc43415a4fb",
+                    "platform": "Instagram",
+                    "post_url": "https://parker.com/",
+                    "likes": 13,
+                    "comments": 217,
+                    "shares": 13,
+                    "reach": 7532
+                }
+            ],
+            "total_sales_attributed": 447.79156781414486
+        }
+    ]
+}

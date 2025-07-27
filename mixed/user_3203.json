@@ -1,0 +1,26 @@
+{
+    "user_id": "1d337a7b-30bb-49fe-a5a1-9c762db05c8c",
+    "name": "Clayton Kirlin",
+    "email": "Hailey.Ortiz78@yahoo.com",
+    "instagram_handle": "@Domenica.Ondricka",
+    "tiktok_handle": "@Muriel75",
+    "joined_at": "2024-10-10T21:02:01.202Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bbf744b7-3a69-4d7e-b326-6d9cbf70999f",
+            "brand": "Emard - Feest",
+            "tasks_completed": [
+                {
+                    "task_id": "ac136906-d1df-493f-acdb-7c9997b990fe",
+                    "platform": "TikTok",
+                    "post_url": "https://big-ceramics.info",
+                    "likes": 58,
+                    "comments": 4,
+                    "shares": 47,
+                    "reach": 9031
+                }
+            ],
+            "total_sales_attributed": 3721.1329656939592
+        }
+    ]
+}

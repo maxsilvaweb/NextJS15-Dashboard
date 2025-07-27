@@ -1,0 +1,26 @@
+{
+    "user_id": "2b63da30-642e-40f2-b783-01208594ea55",
+    "name": "James Garrett",
+    "email": "hurleyfrank@example.com",
+    "instagram_handle": "@brianoconnor",
+    "tiktok_handle": "@hensonkirsten",
+    "joined_at": "2024-02-16T22:09:08.663243",
+    "advocacy_programs": [
+        {
+            "program_id": "485e9f0d-2ada-4774-91d3-6e256ab1cabf",
+            "brand": "Johnson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "9ff12f03-29bf-452e-9f48-8ef220beb66b",
+                    "platform": "Instagram",
+                    "post_url": "http://hines.com/",
+                    "likes": 6847,
+                    "comments": 428,
+                    "shares": 81,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 134.14
+        }
+    ]
+}

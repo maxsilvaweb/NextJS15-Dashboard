@@ -1,0 +1,26 @@
+{
+    "user_id": "4c3764c3-e6bc-4a3a-956d-1422044b0f8b",
+    "name": "Nora Pfannerstill",
+    "email": "Bert.Kshlerin52@gmail.com",
+    "instagram_handle": "@Stephon.Wintheiser53",
+    "tiktok_handle": "@Daphne.Prohaska",
+    "joined_at": "2025-01-10T22:38:25.182Z",
+    "advocacy_programs": [
+        {
+            "program_id": "28ce8287-a37c-4254-a107-77abfc69626d",
+            "brand": "Bode and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "9b91cd69-be13-48e7-908a-b8f8a44f5ea9",
+                    "platform": "TikTok",
+                    "post_url": "https://musty-steak.biz/",
+                    "likes": 441,
+                    "comments": 30,
+                    "shares": 41,
+                    "reach": 8876
+                }
+            ],
+            "total_sales_attributed": 382.5213962952046
+        }
+    ]
+}

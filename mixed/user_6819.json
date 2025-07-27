@@ -1,0 +1,26 @@
+{
+    "user_id": "ded078f3-3389-413c-9504-770654f78989",
+    "name": "Martha Von",
+    "email": "Anabel4@hotmail.com",
+    "instagram_handle": "@Amari.Gusikowski23",
+    "tiktok_handle": "@Cayla_Kling69",
+    "joined_at": "2025-03-06T21:12:54.116Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e2d17080-a635-4527-8ae8-cf60b8606b38",
+            "brand": "Mills and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "4ac5df1e-f7bd-4aa8-8972-981cd7ef504f",
+                    "platform": "Instagram",
+                    "post_url": "https://needy-reboot.com/",
+                    "likes": 76,
+                    "comments": 35,
+                    "shares": 68,
+                    "reach": 9667
+                }
+            ],
+            "total_sales_attributed": 663.2927054999591
+        }
+    ]
+}

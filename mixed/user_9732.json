@@ -1,0 +1,26 @@
+{
+    "user_id": "e8c9defb-7405-4e63-9867-fe1b925bb471",
+    "name": "Patrick West",
+    "email": "barrandrew@example.net",
+    "instagram_handle": "@debra81",
+    "tiktok_handle": "@ywashington",
+    "joined_at": "2025-03-16T05:58:05.754243",
+    "advocacy_programs": [
+        {
+            "program_id": "bca57e3c-a1f6-4866-b498-8a008d39da50",
+            "brand": "Harris - Hoppe",
+            "tasks_completed": [
+                {
+                    "task_id": "27057b3f-7458-4c48-b3bc-f17cc13c901b",
+                    "platform": "Facebook",
+                    "post_url": "https://monthly-dime.org",
+                    "likes": 1398,
+                    "comments": 291,
+                    "shares": 61,
+                    "reach": 2814
+                }
+            ],
+            "total_sales_attributed": 7133.22
+        }
+    ]
+}

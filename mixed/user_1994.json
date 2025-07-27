@@ -1,0 +1,26 @@
+{
+    "user_id": "986aee50-7013-40d1-9542-f38b44ac74ad",
+    "name": "David Webb",
+    "email": "vdavis@example.net",
+    "instagram_handle": "@uwilliams",
+    "tiktok_handle": "@qrodriguez",
+    "joined_at": "2025-06-19T23:22:27.183098",
+    "advocacy_programs": [
+        {
+            "program_id": "47835b9a-e9fd-4f18-87af-557e0a260983",
+            "brand": "Mckay-Holland",
+            "tasks_completed": [
+                {
+                    "task_id": "2eca1dbd-2932-4dcd-b0d8-074058e97b36",
+                    "platform": "Instagram",
+                    "post_url": "http://www.harrison.com/",
+                    "likes": 8278,
+                    "comments": 330,
+                    "shares": 61,
+                    "reach": 2597
+                }
+            ],
+            "total_sales_attributed": 2899.31
+        }
+    ]
+}

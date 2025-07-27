@@ -1,0 +1,26 @@
+{
+    "user_id": "6fe43efd-6c61-4379-9611-09545506712b",
+    "name": "Joseph Sanchez",
+    "email": "kathysmall@example.net",
+    "instagram_handle": "@williamsonjake",
+    "tiktok_handle": "@kbradley",
+    "joined_at": "2025-06-10T19:03:13.865043",
+    "advocacy_programs": [
+        {
+            "program_id": "9b69790d-f197-4cea-a073-c2d3f3d927c8",
+            "brand": "Rodriguez, Brown and Jenkins",
+            "tasks_completed": [
+                {
+                    "task_id": "8dea594d-c3dd-4772-8be7-56fe96faa94f",
+                    "platform": "Instagram",
+                    "post_url": "http://henry.info/",
+                    "likes": 5770,
+                    "comments": 117,
+                    "shares": 82,
+                    "reach": 2543
+                }
+            ],
+            "total_sales_attributed": 1398.46
+        }
+    ]
+}

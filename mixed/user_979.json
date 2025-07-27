@@ -1,0 +1,26 @@
+{
+    "user_id": "63e319e6-0132-4c7b-9f84-8c953b443f72",
+    "name": "Myrtle Macejkovic",
+    "email": "nicholaspadilla@example.com",
+    "instagram_handle": "@umorris",
+    "tiktok_handle": "@fjones",
+    "joined_at": "2025-03-08T03:01:09.850652",
+    "advocacy_programs": [
+        {
+            "program_id": "52b535d6-f694-4932-83ac-99564bf3b61a",
+            "brand": "Matthews and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "f613b84e-78e9-4bca-bc39-b81ea339b1e9",
+                    "platform": "TikTok",
+                    "post_url": "https://noteworthy-adrenalin.com",
+                    "likes": 5508,
+                    "comments": 408,
+                    "shares": 100,
+                    "reach": 6877
+                }
+            ],
+            "total_sales_attributed": 1301.13
+        }
+    ]
+}

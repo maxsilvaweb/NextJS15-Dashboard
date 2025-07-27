@@ -1,0 +1,26 @@
+{
+    "user_id": "3c8d3a41-ea0c-4712-b60b-7f9b8b99fd2d",
+    "name": "Lindsey Hunt",
+    "email": "tammy46@example.org",
+    "instagram_handle": "@jessicaharris",
+    "tiktok_handle": "@matthew89",
+    "joined_at": "2023-08-15T05:54:55.554461",
+    "advocacy_programs": [
+        {
+            "program_id": "c789bcb3-53bb-4899-87e7-92c46f62f9c4",
+            "brand": "Wall, Robinson and Manning",
+            "tasks_completed": [
+                {
+                    "task_id": "9f0c4213-4610-4c82-8b0b-cb7207200cfc",
+                    "platform": "TikTok",
+                    "post_url": "https://untried-planula.net",
+                    "likes": 4853,
+                    "comments": 22,
+                    "shares": 96,
+                    "reach": 1400
+                }
+            ],
+            "total_sales_attributed": 3671.919554733239
+        }
+    ]
+}

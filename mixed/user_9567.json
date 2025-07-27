@@ -1,0 +1,26 @@
+{
+    "user_id": "e7d583bf-07ce-4b51-912f-475f3977726e",
+    "name": "Heather Murphy",
+    "email": "Roscoe_Ondricka48@gmail.com",
+    "instagram_handle": "@cunninghamjeffrey",
+    "tiktok_handle": "@gwhite",
+    "joined_at": "2024-10-18T02:15:24.521906",
+    "advocacy_programs": [
+        {
+            "program_id": "0a50bd39-191d-4a31-89ba-81501495ebb4",
+            "brand": "Griffith-Parker",
+            "tasks_completed": [
+                {
+                    "task_id": "d316d3d6-3aaa-4187-8816-4f13975223a5",
+                    "platform": "TikTok",
+                    "post_url": "https://evil-extension.org/",
+                    "likes": 8872,
+                    "comments": 362,
+                    "shares": 30,
+                    "reach": 5849
+                }
+            ],
+            "total_sales_attributed": 9540.88
+        }
+    ]
+}

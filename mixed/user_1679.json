@@ -1,0 +1,26 @@
+{
+    "user_id": "b253a406-403f-48e6-869c-9f3013667582",
+    "name": "Dwight Stroman III",
+    "email": "forddavid@example.org",
+    "instagram_handle": "@bethanyheath",
+    "tiktok_handle": "@murphytina",
+    "joined_at": "2024-03-25T04:53:00.184736",
+    "advocacy_programs": [
+        {
+            "program_id": "1fa78039-1c1f-46b5-8592-27b3411e3e34",
+            "brand": "Garcia-Odom",
+            "tasks_completed": [
+                {
+                    "task_id": "cd299579-652e-4086-be14-c3baf805012e",
+                    "platform": "TikTok",
+                    "post_url": "https://tidy-agreement.net/",
+                    "likes": 1815,
+                    "comments": 227,
+                    "shares": 27,
+                    "reach": 1323
+                }
+            ],
+            "total_sales_attributed": 2564.970710672286
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "5fab1299-6b5c-47c7-bba2-81101a571946",
+    "name": "Devin Hill",
+    "email": "turnerrenee@example.org",
+    "instagram_handle": "@nhale",
+    "tiktok_handle": "@Sidney_Hermiston",
+    "joined_at": "2024-10-01T02:57:13.109244",
+    "advocacy_programs": [
+        {
+            "program_id": "80338c8e-5cc0-4aca-b9ed-947b36d6657d",
+            "brand": "Smith PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "8a051aff-2cad-4dc6-9867-22176e9653d3",
+                    "platform": "Instagram",
+                    "post_url": "http://sherman.com/",
+                    "likes": 3442,
+                    "comments": 487,
+                    "shares": 48,
+                    "reach": 9425
+                }
+            ],
+            "total_sales_attributed": 1712.69
+        }
+    ]
+}

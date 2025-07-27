@@ -1,0 +1,26 @@
+{
+    "user_id": "014a14a9-7716-4ed5-b944-bc4dbaa5d757",
+    "name": "Pete Barrows II",
+    "email": "Pearline_Weimann23@yahoo.com",
+    "instagram_handle": "@Heidi.Rodriguez",
+    "tiktok_handle": "@Libbie_Mante",
+    "joined_at": "2024-05-22T02:49:22.809Z",
+    "advocacy_programs": [
+        {
+            "program_id": "df95ef94-a1eb-4487-917a-e35524b9a76c",
+            "brand": "Prosacco, Klein and Parker",
+            "tasks_completed": [
+                {
+                    "task_id": "d6a8b038-4fe2-477c-8561-1fa0b6e0ed40",
+                    "platform": "TikTok",
+                    "post_url": "https://hard-to-find-intervention.biz",
+                    "likes": 217,
+                    "comments": 36,
+                    "shares": 52,
+                    "reach": 8563
+                }
+            ],
+            "total_sales_attributed": 701.5246475284378
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1094458c-032c-40b5-931a-43cf86244746",
+    "name": "Alexander King",
+    "email": "lbenitez@example.net",
+    "instagram_handle": "@ronald80",
+    "tiktok_handle": "@Sienna.Medhurst14",
+    "joined_at": "2025-03-20T21:16:32.388601",
+    "advocacy_programs": [
+        {
+            "program_id": "ae6c264f-d11c-4748-a1c9-b4e171ee3aa4",
+            "brand": "Park, Price and Shea",
+            "tasks_completed": [
+                {
+                    "task_id": "9d7dcead-49f2-4496-a0e5-b437a8803b0b",
+                    "platform": "TikTok",
+                    "post_url": "http://www.horne-barber.com/",
+                    "likes": 5615,
+                    "comments": 401,
+                    "shares": 88,
+                    "reach": 7111
+                }
+            ],
+            "total_sales_attributed": 6942.59
+        }
+    ]
+}

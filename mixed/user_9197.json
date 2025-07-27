@@ -1,0 +1,26 @@
+{
+    "user_id": "4249b073-3be2-4e6e-bc39-81164d67738d",
+    "name": "Allan Schaefer",
+    "email": "Neva.Dickinson84@hotmail.com",
+    "instagram_handle": "@Robbie_Dickens70",
+    "tiktok_handle": "@Isabell_Lebsack",
+    "joined_at": "2024-04-15T12:37:44.617Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f100d0ef-8722-4afd-8c37-cf17669c1654",
+            "brand": "Miller, Turner and Abbott",
+            "tasks_completed": [
+                {
+                    "task_id": "eb52202f-9c36-46a4-a762-481842b34a1a",
+                    "platform": "Instagram",
+                    "post_url": "https://glum-hovel.net/",
+                    "likes": 379,
+                    "comments": 29,
+                    "shares": 13,
+                    "reach": 3951
+                }
+            ],
+            "total_sales_attributed": 1130.7586660219063
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ea34e204-3baf-40c3-911e-3fb1bc2257c1",
+    "name": "Jason Guzman",
+    "email": "emily80@example.com",
+    "instagram_handle": "@randy09",
+    "tiktok_handle": "@karenlee",
+    "joined_at": "2025-03-26T11:15:05.070410",
+    "advocacy_programs": [
+        {
+            "program_id": "0e0cbf09-b4a2-4c71-842a-19d5e6a2bf8f",
+            "brand": "Nelson, Black and Conley",
+            "tasks_completed": [
+                {
+                    "task_id": "c901a84b-6493-4208-b9ee-c615a63fe2cb",
+                    "platform": "Facebook",
+                    "post_url": "https://www.tanner-johnson.info/",
+                    "likes": 489,
+                    "comments": 27,
+                    "shares": 64,
+                    "reach": 2719
+                }
+            ],
+            "total_sales_attributed": 6308.29
+        }
+    ]
+}

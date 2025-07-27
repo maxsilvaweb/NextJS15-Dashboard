@@ -1,0 +1,26 @@
+{
+    "user_id": "12e8002d-faa0-4295-b4eb-76e8c4ae0512",
+    "name": "Kelly Bogan",
+    "email": "Neal18@hotmail.com",
+    "instagram_handle": "@aaron53",
+    "tiktok_handle": "@cwalker",
+    "joined_at": "2024-05-17T08:08:50.065748",
+    "advocacy_programs": [
+        {
+            "program_id": "a5806688-27fa-4bb7-bba0-8799bc730ded",
+            "brand": "Davis, Rodriguez and Hendricks",
+            "tasks_completed": [
+                {
+                    "task_id": "55e6b4d8-7c16-4514-bf21-9e2bc21eb4ed",
+                    "platform": "Facebook",
+                    "post_url": "http://www.riley.com/",
+                    "likes": 5372,
+                    "comments": 41,
+                    "shares": 7,
+                    "reach": 2745
+                }
+            ],
+            "total_sales_attributed": 2553.5763669200346
+        }
+    ]
+}

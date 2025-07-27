@@ -1,0 +1,26 @@
+{
+    "user_id": "ebef9e55-853e-4a6b-ae93-34b401dd80a5",
+    "name": "Susan Hicks",
+    "email": "zdunn@example.org",
+    "instagram_handle": "@kevinwoods",
+    "tiktok_handle": "@travis71",
+    "joined_at": "2023-08-21T17:08:52.929214",
+    "advocacy_programs": [
+        {
+            "program_id": "f16c3baa-1ee9-4fef-8afe-ee5d089b8997",
+            "brand": "Simmons Group",
+            "tasks_completed": [
+                {
+                    "task_id": "03ba05ce-7e6e-4e37-ad20-5186d8566560",
+                    "platform": "TikTok",
+                    "post_url": "https://www.hughes.com/",
+                    "likes": 3262,
+                    "comments": 385,
+                    "shares": 56,
+                    "reach": 7285
+                }
+            ],
+            "total_sales_attributed": 3046.04
+        }
+    ]
+}

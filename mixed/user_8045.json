@@ -1,0 +1,26 @@
+{
+    "user_id": "11d27b4e-cde4-4c02-b91b-7ef3336842d1",
+    "name": "Barry Skiles",
+    "email": "james11@example.org",
+    "instagram_handle": "@pcox",
+    "tiktok_handle": "@jedwards",
+    "joined_at": "2023-09-16T13:25:51.931117",
+    "advocacy_programs": [
+        {
+            "program_id": "6f1255d0-5d49-42c3-891e-9580785e0c5d",
+            "brand": "Garcia Group",
+            "tasks_completed": [
+                {
+                    "task_id": "032249d8-9442-447c-81a1-6412331c87af",
+                    "platform": "TikTok",
+                    "post_url": "https://www.davis.org/",
+                    "likes": 58,
+                    "comments": 191,
+                    "shares": 95,
+                    "reach": 6059
+                }
+            ],
+            "total_sales_attributed": 3130.33
+        }
+    ]
+}

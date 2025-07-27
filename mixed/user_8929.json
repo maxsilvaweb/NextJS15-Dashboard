@@ -1,0 +1,26 @@
+{
+    "user_id": "b24109b4-996a-4590-aed4-3eff1d9698c1",
+    "name": "Danielle Rios",
+    "email": "scott51@example.com",
+    "instagram_handle": "@dorisjohnson",
+    "tiktok_handle": "@joshua79",
+    "joined_at": "2024-03-23T21:26:23.949Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1e2a1a1e-0ce2-41ac-952b-87a504143907",
+            "brand": "Bell-Goodwin",
+            "tasks_completed": [
+                {
+                    "task_id": "466c3109-9910-4f9c-8752-952087900b7e",
+                    "platform": "YouTube",
+                    "post_url": "https://www.middleton.com/",
+                    "likes": 9033,
+                    "comments": 44,
+                    "shares": 32,
+                    "reach": 5040
+                }
+            ],
+            "total_sales_attributed": 2300.51
+        }
+    ]
+}

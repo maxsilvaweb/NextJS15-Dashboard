@@ -1,0 +1,26 @@
+{
+    "user_id": "28c6c894-ae86-4f7f-8459-55d753947db1",
+    "name": "Gary Robinson",
+    "email": "Buster8@gmail.com",
+    "instagram_handle": "@myershelen",
+    "tiktok_handle": "@haydentara",
+    "joined_at": "2023-11-21T14:37:40.103033",
+    "advocacy_programs": [
+        {
+            "program_id": "b7d530a8-1194-4cc4-8118-f9f0467dc3f1",
+            "brand": "Wang, Johnson and Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "c39fed6a-7f8e-476b-8287-9efe64be4ccc",
+                    "platform": "Facebook",
+                    "post_url": "http://www.davis.info/",
+                    "likes": 467,
+                    "comments": 438,
+                    "shares": 23,
+                    "reach": 4588
+                }
+            ],
+            "total_sales_attributed": 4811.27
+        }
+    ]
+}

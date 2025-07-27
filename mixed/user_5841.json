@@ -1,0 +1,26 @@
+{
+    "user_id": "6f530ce1-f74b-4cc5-b862-6e13127d16ae",
+    "name": "Joshua Schuppe",
+    "email": "Herta_Legros@gmail.com",
+    "instagram_handle": "@Tyrel_Roberts",
+    "tiktok_handle": "@Minerva_Hyatt76",
+    "joined_at": "2024-07-23T15:27:22.199Z",
+    "advocacy_programs": [
+        {
+            "program_id": "51b0feae-fc71-4614-860f-9515b66a4ed1",
+            "brand": "Hammes, Smith and Marks",
+            "tasks_completed": [
+                {
+                    "task_id": "f685d763-eee3-4460-817f-04423fd93b4c",
+                    "platform": "TikTok",
+                    "post_url": "https://parallel-fork.info",
+                    "likes": 270,
+                    "comments": 16,
+                    "shares": 95,
+                    "reach": 3276
+                }
+            ],
+            "total_sales_attributed": 3112.789878331829
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "561c332b-6860-4906-a233-2ad11cca487c",
+    "name": "Allison Quigley DDS",
+    "email": "Stanford73@hotmail.com",
+    "instagram_handle": "@Elsa37",
+    "tiktok_handle": "@Coty.Walker87",
+    "joined_at": "2024-12-19T21:39:28.642Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ccf179a1-273c-4c8c-83c0-6c6aa2ccd0ba",
+            "brand": "Labadie LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "dfe722c8-6fca-4b12-b300-6bc7021ca5b8",
+                    "platform": "TikTok",
+                    "post_url": "https://grubby-avalanche.org/",
+                    "likes": 418,
+                    "comments": 7,
+                    "shares": 83,
+                    "reach": 5298
+                }
+            ],
+            "total_sales_attributed": 3953.5190118524483
+        }
+    ]
+}

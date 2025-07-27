@@ -1,0 +1,26 @@
+{
+    "user_id": "8f0d6441-39e6-4777-9fe8-c66aec59c6d3",
+    "name": "Tina Clements",
+    "email": "kevincabrera@example.com",
+    "instagram_handle": "@weissheidi",
+    "tiktok_handle": "@williamschwartz",
+    "joined_at": "2024-08-30T14:47:18.286432",
+    "advocacy_programs": [
+        {
+            "program_id": "237413a8-252c-467c-8995-76f6fcfb42b5",
+            "brand": "Woods-Roman",
+            "tasks_completed": [
+                {
+                    "task_id": "8eba60c8-7e40-4e6b-bf5f-cb20557f1f97",
+                    "platform": "YouTube",
+                    "post_url": "http://www.logan.com/",
+                    "likes": 202,
+                    "comments": 87,
+                    "shares": 81,
+                    "reach": 9321
+                }
+            ],
+            "total_sales_attributed": 1453.4755912649027
+        }
+    ]
+}

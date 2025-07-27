@@ -1,0 +1,26 @@
+{
+    "user_id": "a4d198f6-6c31-40a6-85e1-7b1f4c50839f",
+    "name": "Joyce Payne",
+    "email": "gperez@example.org",
+    "instagram_handle": "@robertyork",
+    "tiktok_handle": "@rodriguezdevin",
+    "joined_at": "2025-04-21T14:50:48.132915",
+    "advocacy_programs": [
+        {
+            "program_id": "bedf9fc7-a1fe-4423-860c-94e78750d876",
+            "brand": "Cruz-Jarvis",
+            "tasks_completed": [
+                {
+                    "task_id": "0db9d0ce-243a-46b0-ba37-85c3df375208",
+                    "platform": "Instagram",
+                    "post_url": "https://www.smith-mendez.com/",
+                    "likes": 436,
+                    "comments": 224,
+                    "shares": 31,
+                    "reach": 4621
+                }
+            ],
+            "total_sales_attributed": 866.5310709318975
+        }
+    ]
+}

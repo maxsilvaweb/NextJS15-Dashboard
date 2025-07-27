@@ -1,0 +1,26 @@
+{
+    "user_id": "d754ea1b-1618-4734-a1f1-dfce4a49997d",
+    "name": "Stephanie Heaney",
+    "email": "Ismael1@gmail.com",
+    "instagram_handle": "@Lambert88",
+    "tiktok_handle": "@Leonora_Yost94",
+    "joined_at": "2024-04-12T00:50:45.045Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f9bb4785-8f9e-46b5-a3b6-e0ca57e19e08",
+            "brand": "Walsh - Witting",
+            "tasks_completed": [
+                {
+                    "task_id": "f21ac076-ed5c-4542-8d83-ca2abb23ce1b",
+                    "platform": "Instagram",
+                    "post_url": "https://happy-exhaust.net",
+                    "likes": 114,
+                    "comments": 11,
+                    "shares": 48,
+                    "reach": 3777
+                }
+            ],
+            "total_sales_attributed": 3002.283816376676
+        }
+    ]
+}

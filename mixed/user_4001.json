@@ -1,0 +1,26 @@
+{
+    "user_id": "cc687327-eb24-49df-8324-1a8e6862a9d7",
+    "name": "Brian Stewart",
+    "email": "thomas77@example.com",
+    "instagram_handle": "@tylerrichard",
+    "tiktok_handle": "@mariatorres",
+    "joined_at": "2024-12-06T06:32:19.320247",
+    "advocacy_programs": [
+        {
+            "program_id": "70021a20-4942-48a0-b743-cc392dc0502e",
+            "brand": "Edwards Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "e2f0537d-2c11-466c-ad94-855682ab4339",
+                    "platform": "Instagram",
+                    "post_url": "https://harris.com/",
+                    "likes": 434,
+                    "comments": 362,
+                    "shares": 56,
+                    "reach": 8044
+                }
+            ],
+            "total_sales_attributed": 8288.34
+        }
+    ]
+}

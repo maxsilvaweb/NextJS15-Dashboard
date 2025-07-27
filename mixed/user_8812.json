@@ -1,0 +1,26 @@
+{
+    "user_id": "1b16cc27-e6b6-47fb-8836-8eb7ea88a523",
+    "name": "Sharon Greenholt",
+    "email": "Stefan24@hotmail.com",
+    "instagram_handle": "@Santina.Jacobs",
+    "tiktok_handle": "@Kelsie.Pfeffer",
+    "joined_at": "2024-04-11T19:29:00.689Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4778b569-538b-4d6c-89df-99b1ec15efd4",
+            "brand": "Daniel Group",
+            "tasks_completed": [
+                {
+                    "task_id": "73cefa54-654b-4bc5-b0f7-35ebc10abaeb",
+                    "platform": "TikTok",
+                    "post_url": "https://mundane-duster.name",
+                    "likes": 27,
+                    "comments": 36,
+                    "shares": 19,
+                    "reach": 787
+                }
+            ],
+            "total_sales_attributed": 4688.0216536456455
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "229ed371-f08b-4f72-89ce-77d6bb081e47",
+    "name": "Christopher Edwards",
+    "email": "johnsontodd@example.net",
+    "instagram_handle": "@ygreen",
+    "tiktok_handle": "@ssanders",
+    "joined_at": "2025-01-07T22:18:47.354843",
+    "advocacy_programs": [
+        {
+            "program_id": "63262005-61e1-4b67-9ad2-1b8ceb67f419",
+            "brand": "Allen-Douglas",
+            "tasks_completed": [
+                {
+                    "task_id": "487f9b3d-386a-46aa-98c2-29d40f9b98ec",
+                    "platform": "TikTok",
+                    "post_url": "http://www.herrera.com/",
+                    "likes": 4476,
+                    "comments": 450,
+                    "shares": 74,
+                    "reach": 501
+                }
+            ],
+            "total_sales_attributed": 4313.39
+        }
+    ]
+}

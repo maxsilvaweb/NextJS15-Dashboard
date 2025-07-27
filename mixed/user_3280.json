@@ -1,0 +1,26 @@
+{
+    "user_id": "ee8ad12c-29c5-43e5-bf66-5cc499791648",
+    "name": "Cynthia Wyman-Streich",
+    "email": "Bette.Ebert@yahoo.com",
+    "instagram_handle": "@Katrina_Bosco80",
+    "tiktok_handle": "@Lonie29",
+    "joined_at": "2025-01-22T09:33:32.560Z",
+    "advocacy_programs": [
+        {
+            "program_id": "478aca26-7042-4e2e-bb35-4d2d3b4a20fc",
+            "brand": "Vandervort LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "bbb796ae-490e-4580-a38c-a90491f3a343",
+                    "platform": "Instagram",
+                    "post_url": "https://muffled-jump.org",
+                    "likes": 144,
+                    "comments": 8,
+                    "shares": 8,
+                    "reach": 6145
+                }
+            ],
+            "total_sales_attributed": 822.6957523319497
+        }
+    ]
+}

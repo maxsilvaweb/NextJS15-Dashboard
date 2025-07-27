@@ -1,0 +1,26 @@
+{
+    "user_id": "9885596d-d646-4d3b-aaf6-eb487c003b95",
+    "name": "Alicia Dixon",
+    "email": "simmonsjennifer@example.com",
+    "instagram_handle": "@garrettfreeman",
+    "tiktok_handle": "@vchristian",
+    "joined_at": "2024-11-02T00:35:04.418489",
+    "advocacy_programs": [
+        {
+            "program_id": "e74e246a-a9a5-4b39-9ced-5bf7cdb0079b",
+            "brand": "Wilkerson, Kennedy and James",
+            "tasks_completed": [
+                {
+                    "task_id": "2496d3a1-f928-41de-b996-74f5c8d6b591",
+                    "platform": "TikTok",
+                    "post_url": "http://ford-cunningham.info/",
+                    "likes": 2253,
+                    "comments": 251,
+                    "shares": 22,
+                    "reach": 7809
+                }
+            ],
+            "total_sales_attributed": 525.5
+        }
+    ]
+}

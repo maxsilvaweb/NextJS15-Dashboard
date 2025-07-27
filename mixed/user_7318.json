@@ -1,0 +1,26 @@
+{
+    "user_id": "190f431c-7a40-4859-94ef-ad4a23c1ea3e",
+    "name": "Lacey Johnson",
+    "email": "dave74@example.com",
+    "instagram_handle": "@jessegreer",
+    "tiktok_handle": "@chavezkristen",
+    "joined_at": "2024-07-03T19:39:26.929166",
+    "advocacy_programs": [
+        {
+            "program_id": "9ad92beb-9b0b-48f4-8dbd-68d19488c43f",
+            "brand": "Ramirez and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "5c82d694-5537-4d3e-aca0-5ad0601912d2",
+                    "platform": "TikTok",
+                    "post_url": "https://long-term-wasabi.name",
+                    "likes": 3669,
+                    "comments": 243,
+                    "shares": 90,
+                    "reach": 1203
+                }
+            ],
+            "total_sales_attributed": 6533.95
+        }
+    ]
+}

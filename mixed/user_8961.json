@@ -1,0 +1,26 @@
+{
+    "user_id": "69b30c24-f3d7-4061-8540-12593508a4dc",
+    "name": "Mark Horton",
+    "email": "Tiana.Zieme81@gmail.com",
+    "instagram_handle": "@mhall",
+    "tiktok_handle": "@meyeramanda",
+    "joined_at": "2024-04-25T02:58:31.322753",
+    "advocacy_programs": [
+        {
+            "program_id": "117a7e57-f17b-438b-9968-b945bb1ac25f",
+            "brand": "Robertson, Hernandez and Wong",
+            "tasks_completed": [
+                {
+                    "task_id": "a69088ea-c527-4348-b27a-03a3c7f0663e",
+                    "platform": "TikTok",
+                    "post_url": "https://butler.com/",
+                    "likes": 9708,
+                    "comments": 71,
+                    "shares": 68,
+                    "reach": 734
+                }
+            ],
+            "total_sales_attributed": 7198.88
+        }
+    ]
+}

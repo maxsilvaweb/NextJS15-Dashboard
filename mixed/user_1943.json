@@ -1,0 +1,26 @@
+{
+    "user_id": "0c9ac4c9-4008-40fc-9327-b472d3e0f570",
+    "name": "Ernest Mitchell",
+    "email": "ymcgee@example.com",
+    "instagram_handle": "@zmurphy",
+    "tiktok_handle": "@jessicasmith",
+    "joined_at": "2025-05-09T18:03:25.632376",
+    "advocacy_programs": [
+        {
+            "program_id": "5af411f2-79e2-48a1-87ec-ea5bc6de7c5d",
+            "brand": "Roach LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a058c5df-1959-4708-a2d1-9187153ac218",
+                    "platform": "Instagram",
+                    "post_url": "http://greene-hamilton.com/",
+                    "likes": 204,
+                    "comments": 215,
+                    "shares": 23,
+                    "reach": 9841
+                }
+            ],
+            "total_sales_attributed": 1904.5043653612008
+        }
+    ]
+}

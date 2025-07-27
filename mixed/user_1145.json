@@ -1,0 +1,26 @@
+{
+    "user_id": "c36df293-9cb4-4aab-9104-b7d3ea6f17bd",
+    "name": "Krista Rolfson",
+    "email": "Norma.Kessler28@yahoo.com",
+    "instagram_handle": "@Philip46",
+    "tiktok_handle": "@Eleonore.Jenkins",
+    "joined_at": "2025-02-13T05:12:15.797Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1a2eddb0-04bc-4db8-9570-031a5727d272",
+            "brand": "Heidenreich - Kessler",
+            "tasks_completed": [
+                {
+                    "task_id": "19049bb8-d4cc-46ea-b2b0-ac91862d29a3",
+                    "platform": "Instagram",
+                    "post_url": "https://diligent-postbox.org/",
+                    "likes": 474,
+                    "comments": 29,
+                    "shares": 67,
+                    "reach": 602
+                }
+            ],
+            "total_sales_attributed": 1140.0871924918542
+        }
+    ]
+}

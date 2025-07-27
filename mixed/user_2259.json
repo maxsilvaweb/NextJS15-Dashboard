@@ -1,0 +1,26 @@
+{
+    "user_id": "37af96c5-81da-414c-88d2-f77f0ea885f8",
+    "name": "Tiffany Buckridge",
+    "email": "Edgardo.Dickinson-Zieme75@yahoo.com",
+    "instagram_handle": "@Travon.Steuber",
+    "tiktok_handle": "@Ryley_Metz97",
+    "joined_at": "2024-04-16T18:02:13.684Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b0464cfd-4f37-4b94-9ef0-34c2ece88bc4",
+            "brand": "Stokes - Price",
+            "tasks_completed": [
+                {
+                    "task_id": "2345eee5-8c15-4761-b800-4675bc4ebc9b",
+                    "platform": "TikTok",
+                    "post_url": "https://lumbering-ignorance.name/",
+                    "likes": 51,
+                    "comments": 16,
+                    "shares": 83,
+                    "reach": 8894
+                }
+            ],
+            "total_sales_attributed": 3299.865183465883
+        }
+    ]
+}

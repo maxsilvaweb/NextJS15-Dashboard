@@ -1,0 +1,26 @@
+{
+    "user_id": "eb2f79de-2169-4b1f-98bd-98d5b773b30a",
+    "name": "Meghan Rogahn",
+    "email": "Kenyon62@yahoo.com",
+    "instagram_handle": "@Edward.Ryan77",
+    "tiktok_handle": "@Talia.Connelly4",
+    "joined_at": "2024-05-02T09:04:45.478Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8d5a7ba2-80fa-4676-a5f2-995c491ac57d",
+            "brand": "Ruecker Group",
+            "tasks_completed": [
+                {
+                    "task_id": "95f642b8-d492-4b3f-810a-b083f33e6825",
+                    "platform": "TikTok",
+                    "post_url": "https://superior-casket.org/",
+                    "likes": 220,
+                    "comments": 38,
+                    "shares": 89,
+                    "reach": 9438
+                }
+            ],
+            "total_sales_attributed": 4073.984482566216
+        }
+    ]
+}

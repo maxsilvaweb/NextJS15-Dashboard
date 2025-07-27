@@ -1,0 +1,26 @@
+{
+    "user_id": "391ac66e-afcf-4f2d-86c7-4be6e1d9625d",
+    "name": "Suzanne Duke",
+    "email": "mmartinez@example.com",
+    "instagram_handle": "@wilsonsamantha",
+    "tiktok_handle": "@eric61",
+    "joined_at": "2023-08-27T13:57:45.006250",
+    "advocacy_programs": [
+        {
+            "program_id": "57786c4c-bb82-4a14-95ff-a04e40195e1c",
+            "brand": "Klein - Brekke",
+            "tasks_completed": [
+                {
+                    "task_id": "acf7c30a-1d85-4e01-b129-7da241aafcdc",
+                    "platform": "TikTok",
+                    "post_url": "http://www.mathews.com/",
+                    "likes": 410,
+                    "comments": 31,
+                    "shares": 10,
+                    "reach": 7853
+                }
+            ],
+            "total_sales_attributed": 9642.92
+        }
+    ]
+}

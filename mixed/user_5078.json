@@ -1,0 +1,26 @@
+{
+    "user_id": "90977b4d-4370-46c1-9cda-620a49bc1921",
+    "name": "Jessica King",
+    "email": "aliciapatel@example.org",
+    "instagram_handle": "@lmiller",
+    "tiktok_handle": "@craigwalker",
+    "joined_at": "2025-04-08T12:54:23.418198",
+    "advocacy_programs": [
+        {
+            "program_id": "fa01b2cf-7a49-423e-9f25-16f8c08241c2",
+            "brand": "Gonzalez, Dyer and Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "b0a6be16-2521-4dd0-8164-f8c1e9c9cadf",
+                    "platform": "TikTok",
+                    "post_url": "https://hernandez-alexander.biz/",
+                    "likes": 3818,
+                    "comments": 370,
+                    "shares": 41,
+                    "reach": 2741
+                }
+            ],
+            "total_sales_attributed": 7538.4
+        }
+    ]
+}

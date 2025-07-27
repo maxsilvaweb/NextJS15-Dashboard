@@ -1,0 +1,26 @@
+{
+    "user_id": "1a065f82-7e12-4451-b457-bb69277f0594",
+    "name": "Hugh Mitchell",
+    "email": "Asha.Gislason77@hotmail.com",
+    "instagram_handle": "@Keith67",
+    "tiktok_handle": "@Liliane_Stehr",
+    "joined_at": "2025-02-20T14:48:47.089Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bee7f580-ae4c-4f72-be21-23250fca2f9e",
+            "brand": "Predovic, Thiel and Huel",
+            "tasks_completed": [
+                {
+                    "task_id": "2204e23f-243e-4308-b68d-4cfc611bcca9",
+                    "platform": "Instagram",
+                    "post_url": "https://ragged-duster.info",
+                    "likes": 398,
+                    "comments": 40,
+                    "shares": 76,
+                    "reach": 4233
+                }
+            ],
+            "total_sales_attributed": 2697.861072536992
+        }
+    ]
+}

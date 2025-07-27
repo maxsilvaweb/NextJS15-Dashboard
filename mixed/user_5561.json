@@ -1,0 +1,26 @@
+{
+    "user_id": "7aefaf4c-24c0-4eba-8ffe-45e68fb381fb",
+    "name": "Nichole Watson",
+    "email": "clarkstacie@example.com",
+    "instagram_handle": "@thomasdurham",
+    "tiktok_handle": "@campbelltroy",
+    "joined_at": "2023-12-24T21:48:15.390515",
+    "advocacy_programs": [
+        {
+            "program_id": "d046f3e1-f5df-47a3-ac1f-f93c1ba441ed",
+            "brand": "Medina, Fox and Wise",
+            "tasks_completed": [
+                {
+                    "task_id": "0c3a63d5-e87e-4bfd-a1dc-8a8950c68e5f",
+                    "platform": "Instagram",
+                    "post_url": "https://live-provider.name/",
+                    "likes": 9089,
+                    "comments": 260,
+                    "shares": 24,
+                    "reach": 9816
+                }
+            ],
+            "total_sales_attributed": 400.1185711100026
+        }
+    ]
+}

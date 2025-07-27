@@ -1,0 +1,26 @@
+{
+    "user_id": "7495ce91-c666-4ebe-b6e1-bf7bcd40651d",
+    "name": "Stacy Richard",
+    "email": "petervargas@example.org",
+    "instagram_handle": "@glee",
+    "tiktok_handle": "@christopher59",
+    "joined_at": "2024-07-05T11:47:51.394329",
+    "advocacy_programs": [
+        {
+            "program_id": "0ced4703-a6a9-493d-a7ea-095dc2b8aeb4",
+            "brand": "Botsford, Hayes and Doyle",
+            "tasks_completed": [
+                {
+                    "task_id": "06cdc448-4503-448f-a9f6-f32247f3cfc5",
+                    "platform": "Facebook",
+                    "post_url": "https://white.com/",
+                    "likes": 9850,
+                    "comments": 289,
+                    "shares": 93,
+                    "reach": 4939
+                }
+            ],
+            "total_sales_attributed": 9721.68
+        }
+    ]
+}

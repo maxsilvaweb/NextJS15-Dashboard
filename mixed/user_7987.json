@@ -1,0 +1,26 @@
+{
+    "user_id": "dd1292bf-4431-4a2e-9736-e328ef195808",
+    "name": "Jeff Wiegand",
+    "email": "Lacey.Vandervort@gmail.com",
+    "instagram_handle": "@Lilly.Hermiston75",
+    "tiktok_handle": "@Guiseppe_Lebsack",
+    "joined_at": "2024-04-11T21:50:24.067Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4f99ef97-b8c5-4369-90a8-6ddc48572d5a",
+            "brand": "Muller and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "779c54fd-c30b-478a-b424-484aef150072",
+                    "platform": "Instagram",
+                    "post_url": "https://puny-captain.info",
+                    "likes": 65,
+                    "comments": 26,
+                    "shares": 64,
+                    "reach": 5185
+                }
+            ],
+            "total_sales_attributed": 3952.0186508988904
+        }
+    ]
+}

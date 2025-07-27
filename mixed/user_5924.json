@@ -1,0 +1,26 @@
+{
+    "user_id": "a0c12115-9638-43e0-8adc-4777b81e9293",
+    "name": "Eric Lee",
+    "email": "michelleromero@example.com",
+    "instagram_handle": "@acevedosusan",
+    "tiktok_handle": "@drewchandler",
+    "joined_at": "2024-09-05T09:35:50.942907",
+    "advocacy_programs": [
+        {
+            "program_id": "d34fd3a7-992b-4162-b824-0e2f9acec673",
+            "brand": "Lewis and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "ba325ace-0a14-4c75-9f28-8acc7aefc44c",
+                    "platform": "TikTok",
+                    "post_url": "https://www.harris.com/",
+                    "likes": 8449,
+                    "comments": 434,
+                    "shares": 26,
+                    "reach": 8782
+                }
+            ],
+            "total_sales_attributed": 4974.4728389709535
+        }
+    ]
+}

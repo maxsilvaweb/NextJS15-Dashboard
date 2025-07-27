@@ -1,0 +1,26 @@
+{
+    "user_id": "04e3f505-97d8-41d3-83aa-8fbd1c866bc4",
+    "name": "Christopher Ross",
+    "email": "jlewis@example.net",
+    "instagram_handle": "@julie97",
+    "tiktok_handle": "@arnoldricky",
+    "joined_at": "2024-08-04T22:30:42.637273",
+    "advocacy_programs": [
+        {
+            "program_id": "c076be79-37a5-4643-a315-d885ddc82569",
+            "brand": "Murphy, Marshall and Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "aae75806-258a-4f20-a0aa-477a3dadcb60",
+                    "platform": "Instagram",
+                    "post_url": "https://young-heath.com/",
+                    "likes": 5917,
+                    "comments": 362,
+                    "shares": 19,
+                    "reach": 2029
+                }
+            ],
+            "total_sales_attributed": 308.95
+        }
+    ]
+}

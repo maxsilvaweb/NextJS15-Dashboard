@@ -1,0 +1,26 @@
+{
+    "user_id": "df380109-0339-40b7-a9a0-9fef36cd06f5",
+    "name": "Carl Duarte",
+    "email": "Griffin.Heathcote@gmail.com",
+    "instagram_handle": "@kgregory",
+    "tiktok_handle": "@kellywagner",
+    "joined_at": "2024-05-29T12:40:30.164926",
+    "advocacy_programs": [
+        {
+            "program_id": "f42d8575-d56c-4d7e-9cb5-24afd0cc2d0d",
+            "brand": "Hammond-Medina",
+            "tasks_completed": [
+                {
+                    "task_id": "adec2ebf-1c96-4707-aa30-6e2ca429a44e",
+                    "platform": "Facebook",
+                    "post_url": "https://www.williams-cooper.biz/",
+                    "likes": 1746,
+                    "comments": 28,
+                    "shares": 58,
+                    "reach": 1850
+                }
+            ],
+            "total_sales_attributed": 6503.04
+        }
+    ]
+}

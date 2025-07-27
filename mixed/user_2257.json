@@ -1,0 +1,26 @@
+{
+    "user_id": "40133727-a3ae-46c4-bb50-8831deb4c37a",
+    "name": "Alicia Hammond",
+    "email": "thomas72@example.net",
+    "instagram_handle": "@steven37",
+    "tiktok_handle": "@morganjoshua",
+    "joined_at": "2024-08-16T07:13:53.718146",
+    "advocacy_programs": [
+        {
+            "program_id": "c16447d2-d937-4ab2-818d-8bfc57a776f5",
+            "brand": "Berry-Gonzalez",
+            "tasks_completed": [
+                {
+                    "task_id": "055c2908-a96a-4240-be66-f0761c38962c",
+                    "platform": "Instagram",
+                    "post_url": "https://probable-orchid.name/",
+                    "likes": 1764,
+                    "comments": 496,
+                    "shares": 42,
+                    "reach": 7152
+                }
+            ],
+            "total_sales_attributed": 3996.98
+        }
+    ]
+}

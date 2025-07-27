@@ -1,0 +1,26 @@
+{
+    "user_id": "150baac7-9495-44fe-93cf-b6e34b74ffbe",
+    "name": "Danielle Ward",
+    "email": "Immanuel_Fahey@hotmail.com",
+    "instagram_handle": "@enicholson",
+    "tiktok_handle": "@hodgeamanda",
+    "joined_at": "2024-04-22T21:43:26.099521",
+    "advocacy_programs": [
+        {
+            "program_id": "041b0d2f-ce4d-417b-934c-70e27b9ca9ab",
+            "brand": "Evans-Allen",
+            "tasks_completed": [
+                {
+                    "task_id": "9be6ed56-642c-4b41-89fd-0595c8072a38",
+                    "platform": "Twitter",
+                    "post_url": "https://johnson.com/",
+                    "likes": 3492,
+                    "comments": 227,
+                    "shares": 9,
+                    "reach": 967
+                }
+            ],
+            "total_sales_attributed": 4126.51994746515
+        }
+    ]
+}

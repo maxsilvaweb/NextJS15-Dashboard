@@ -1,0 +1,26 @@
+{
+    "user_id": "2f97f2a2-7368-4a93-a39e-2a47fa7206bc",
+    "name": "Caroline Shanahan V",
+    "email": "Rasheed_McGlynn@gmail.com",
+    "instagram_handle": "@Kian_Dooley",
+    "tiktok_handle": "@Ericka24",
+    "joined_at": "2024-12-16T20:42:56.254Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b7eb7305-a2a6-474e-a4fb-55688053187b",
+            "brand": "Fisher - Berge",
+            "tasks_completed": [
+                {
+                    "task_id": "354db8ee-28d4-4bb5-962a-e3e1f58b408f",
+                    "platform": "Instagram",
+                    "post_url": "https://shadowy-expense.biz",
+                    "likes": 13,
+                    "comments": 2,
+                    "shares": 61,
+                    "reach": 8829
+                }
+            ],
+            "total_sales_attributed": 2849.485961317112
+        }
+    ]
+}

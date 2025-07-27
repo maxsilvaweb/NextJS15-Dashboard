@@ -1,0 +1,26 @@
+{
+    "user_id": "a825fcb2-0c17-4078-aafb-65001ab4b445",
+    "name": "Adam Hawkins Jr.",
+    "email": "patricia95@example.org",
+    "instagram_handle": "@herreracraig",
+    "tiktok_handle": "@pereztracy",
+    "joined_at": "2025-03-04T05:34:37.064705",
+    "advocacy_programs": [
+        {
+            "program_id": "77596223-cca4-404b-9a3e-eb729208e931",
+            "brand": "Goldner, Watsica and Satterfield",
+            "tasks_completed": [
+                {
+                    "task_id": "87e216f0-181a-4400-935c-65ec4da5b3d8",
+                    "platform": "YouTube",
+                    "post_url": "https://smith-frederick.com/",
+                    "likes": 8143,
+                    "comments": 320,
+                    "shares": 3,
+                    "reach": 5377
+                }
+            ],
+            "total_sales_attributed": 3112.87
+        }
+    ]
+}

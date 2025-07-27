@@ -1,0 +1,26 @@
+{
+    "user_id": "2c20d69c-c719-4726-bad5-13e28a0f4e1f",
+    "name": "Daniel Smith",
+    "email": "ndavenport@example.org",
+    "instagram_handle": "@Mayra76",
+    "tiktok_handle": "@charles63",
+    "joined_at": "2025-06-11T19:18:47.194275",
+    "advocacy_programs": [
+        {
+            "program_id": "ee4ac03a-7fd8-4dd2-b1aa-471e6315bad6",
+            "brand": "Phillips Group",
+            "tasks_completed": [
+                {
+                    "task_id": "38696c0b-9875-45b7-af19-1fd6785ecf0b",
+                    "platform": "Instagram",
+                    "post_url": "https://fake-wheel.org/",
+                    "likes": 1855,
+                    "comments": 292,
+                    "shares": 88,
+                    "reach": 9192
+                }
+            ],
+            "total_sales_attributed": 131.25
+        }
+    ]
+}

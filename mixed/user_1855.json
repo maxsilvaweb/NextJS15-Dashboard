@@ -1,0 +1,26 @@
+{
+    "user_id": "e924acb4-d31b-4cc4-8942-34d2fbc64a93",
+    "name": "Dana Tromp",
+    "email": "Shaniya_Hodkiewicz@gmail.com",
+    "instagram_handle": "@Tia.Nienow55",
+    "tiktok_handle": "@Brittany_Little",
+    "joined_at": "2024-12-11T15:37:30.695Z",
+    "advocacy_programs": [
+        {
+            "program_id": "79424eb3-f9a1-43c3-ae1e-97bc6426a7db",
+            "brand": "Hauck - Stokes",
+            "tasks_completed": [
+                {
+                    "task_id": "4c712548-9944-4029-ba20-e98d0514c029",
+                    "platform": "TikTok",
+                    "post_url": "https://smug-premeditation.org/",
+                    "likes": 332,
+                    "comments": 37,
+                    "shares": 66,
+                    "reach": 4995
+                }
+            ],
+            "total_sales_attributed": 1223.2357160172955
+        }
+    ]
+}

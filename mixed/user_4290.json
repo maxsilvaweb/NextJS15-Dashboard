@@ -1,0 +1,26 @@
+{
+    "user_id": "37646e82-6492-457f-8d89-811da33e640a",
+    "name": "Marcos Sanford",
+    "email": "Ned.Walker22@hotmail.com",
+    "instagram_handle": "@Aubree_Muller21",
+    "tiktok_handle": "@Laurine.Schultz74",
+    "joined_at": "2024-06-20T13:53:27.251Z",
+    "advocacy_programs": [
+        {
+            "program_id": "06c6a834-eb24-4dd1-bcae-822321f60e85",
+            "brand": "DuBuque, Kub and Stokes",
+            "tasks_completed": [
+                {
+                    "task_id": "47a7ad3e-33ec-4345-9fc2-301fd1b05ccb",
+                    "platform": "TikTok",
+                    "post_url": "https://amazing-republican.net",
+                    "likes": 228,
+                    "comments": 47,
+                    "shares": 14,
+                    "reach": 1127
+                }
+            ],
+            "total_sales_attributed": 762.1494739651729
+        }
+    ]
+}

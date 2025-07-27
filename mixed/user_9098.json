@@ -1,0 +1,26 @@
+{
+    "user_id": "8deb93ff-0332-4d08-8383-6a981f1d6d72",
+    "name": "Jared Cartwright-Lueilwitz",
+    "email": "Jaqueline.Windler@hotmail.com",
+    "instagram_handle": "@Kevon.Runolfsson",
+    "tiktok_handle": "@Ayden.Russel",
+    "joined_at": "2024-07-21T12:35:45.947Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4df9f193-015c-48e1-878a-c463c5a14894",
+            "brand": "Yost, Kovacek and Franecki",
+            "tasks_completed": [
+                {
+                    "task_id": "3a26039c-9147-48dc-9d34-39e9b9dce13f",
+                    "platform": "Instagram",
+                    "post_url": "https://tinted-mantua.org",
+                    "likes": 427,
+                    "comments": 38,
+                    "shares": 2,
+                    "reach": 2553
+                }
+            ],
+            "total_sales_attributed": 4294.156415279092
+        }
+    ]
+}

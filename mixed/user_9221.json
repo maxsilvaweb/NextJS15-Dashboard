@@ -1,0 +1,26 @@
+{
+    "user_id": "76f547a9-aa18-405a-84b0-0ab4aeba5d7d",
+    "name": "Samuel Gutierrez",
+    "email": "lucerohannah@example.org",
+    "instagram_handle": "@pcuevas",
+    "tiktok_handle": "@james42",
+    "joined_at": "2025-01-25T07:30:36.859431",
+    "advocacy_programs": [
+        {
+            "program_id": "27e3e545-140d-49b6-8059-6bb3d1a61083",
+            "brand": "Fernandez-Maxwell",
+            "tasks_completed": [
+                {
+                    "task_id": "7d404560-e322-465e-80b0-e5bfec52f963",
+                    "platform": "TikTok",
+                    "post_url": "https://ross.com/",
+                    "likes": 9498,
+                    "comments": 112,
+                    "shares": 44,
+                    "reach": 2188
+                }
+            ],
+            "total_sales_attributed": 129.58
+        }
+    ]
+}

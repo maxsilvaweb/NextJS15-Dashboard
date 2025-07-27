@@ -1,0 +1,26 @@
+{
+    "user_id": "679e8746-3c3a-497b-929d-d371b6ca41d3",
+    "name": "Hannah Paul",
+    "email": "peter17@example.net",
+    "instagram_handle": "@john50",
+    "tiktok_handle": "@ujackson",
+    "joined_at": "2023-11-10T05:35:57.620746",
+    "advocacy_programs": [
+        {
+            "program_id": "f59633f4-cc04-4969-9e4b-a7290c4ae697",
+            "brand": "Curry-Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "a5f946c4-d760-4c0d-a1fa-6b0b1d9b6079",
+                    "platform": "Instagram",
+                    "post_url": "http://williams-brown.com/",
+                    "likes": 13,
+                    "comments": 6,
+                    "shares": 100,
+                    "reach": 4422
+                }
+            ],
+            "total_sales_attributed": 3813.6
+        }
+    ]
+}

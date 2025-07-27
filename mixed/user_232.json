@@ -1,0 +1,26 @@
+{
+    "user_id": "3d416c0c-4a4f-4f42-86df-2e1c24113680",
+    "name": "Emily Paul",
+    "email": "richardallen@example.net",
+    "instagram_handle": "@belinda00",
+    "tiktok_handle": "@chavezstephen",
+    "joined_at": "2025-05-12T00:06:48.035879",
+    "advocacy_programs": [
+        {
+            "program_id": "53dcc981-e648-40e2-aec0-e50ccf89b86e",
+            "brand": "Peterson-Hawkins",
+            "tasks_completed": [
+                {
+                    "task_id": "15fe55fe-0e04-4945-a64d-ff74cf0155cb",
+                    "platform": "Instagram",
+                    "post_url": "http://garcia.com/",
+                    "likes": 3466,
+                    "comments": 489,
+                    "shares": 0,
+                    "reach": 6853
+                }
+            ],
+            "total_sales_attributed": 3134.9096770255956
+        }
+    ]
+}

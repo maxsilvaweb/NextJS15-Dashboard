@@ -1,0 +1,26 @@
+{
+    "user_id": "0d947edd-714b-444d-b67b-9faf1e3da129",
+    "name": "Marta Reilly",
+    "email": "Tobin_Kuvalis57@gmail.com",
+    "instagram_handle": "@Kathlyn_Hessel81",
+    "tiktok_handle": "@Chaya50",
+    "joined_at": "2024-09-05T01:59:08.515Z",
+    "advocacy_programs": [
+        {
+            "program_id": "699ad5f0-dc06-44de-8ccc-1e10b1242738",
+            "brand": "Johnston Group",
+            "tasks_completed": [
+                {
+                    "task_id": "73d4752d-ca82-4927-b943-e22bc878de12",
+                    "platform": "Instagram",
+                    "post_url": "https://prestigious-joy.name/",
+                    "likes": 122,
+                    "comments": 46,
+                    "shares": 91,
+                    "reach": 6577
+                }
+            ],
+            "total_sales_attributed": 3734.4973046368796
+        }
+    ]
+}

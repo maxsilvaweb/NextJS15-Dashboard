@@ -1,0 +1,26 @@
+{
+    "user_id": "28b516d9-4605-4540-a264-5bbdcab389de",
+    "name": "Albert Steele",
+    "email": "maria74@example.com",
+    "instagram_handle": "@amber15",
+    "tiktok_handle": "@nicholashunt",
+    "joined_at": "2024-05-10T01:46:27.666822",
+    "advocacy_programs": [
+        {
+            "program_id": "63ef40ad-6280-4c68-a3c5-798873919418",
+            "brand": "Carpenter Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "635c0b0c-497b-409e-a18f-ea4394141caf",
+                    "platform": "Instagram",
+                    "post_url": "https://baker-grimes.com/",
+                    "likes": 2944,
+                    "comments": 43,
+                    "shares": 45,
+                    "reach": 1561
+                }
+            ],
+            "total_sales_attributed": 6240.79
+        }
+    ]
+}

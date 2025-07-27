@@ -1,0 +1,26 @@
+{
+    "user_id": "6a1dd384-8be4-430f-83b4-4c26eeb58ddf",
+    "name": "Penny Robel",
+    "email": "Anais_Rosenbaum@hotmail.com",
+    "instagram_handle": "@Tracey57",
+    "tiktok_handle": "@Mack.Muller80",
+    "joined_at": "2024-11-19T09:44:12.483Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2e53d477-2abc-4198-b3bf-a582ea86e99e",
+            "brand": "Nitzsche and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "068c4895-1c01-49fe-a8c6-f0246d04639a",
+                    "platform": "TikTok",
+                    "post_url": "https://regular-essence.org/",
+                    "likes": 238,
+                    "comments": 48,
+                    "shares": 25,
+                    "reach": 6527
+                }
+            ],
+            "total_sales_attributed": 4571.097752820773
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a1543c6e-30b7-43bd-b10f-921e75e90eca",
+    "name": "Nicole Patton",
+    "email": "jburnett@example.net",
+    "instagram_handle": "@mariavazquez",
+    "tiktok_handle": "@abigail70",
+    "joined_at": "2024-02-22T00:18:01.053399",
+    "advocacy_programs": [
+        {
+            "program_id": "d497e7b9-3791-4c73-935e-fec8958b5ff2",
+            "brand": "Greene, Brown and Hayes",
+            "tasks_completed": [
+                {
+                    "task_id": "054e4ab9-7c3d-4f68-a070-f052c517a4f6",
+                    "platform": "TikTok",
+                    "post_url": "https://www.cowan.net/",
+                    "likes": 398,
+                    "comments": 27,
+                    "shares": 80,
+                    "reach": 6819
+                }
+            ],
+            "total_sales_attributed": 2403.84
+        }
+    ]
+}

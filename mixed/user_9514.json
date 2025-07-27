@@ -1,0 +1,26 @@
+{
+    "user_id": "b4703b64-7e5b-4ecd-9db9-704dc66d7d72",
+    "name": "Kenneth Roberts",
+    "email": "bonnie54@example.com",
+    "instagram_handle": "@uphillips",
+    "tiktok_handle": "@ubarrett",
+    "joined_at": "2023-07-28T01:31:56.097905",
+    "advocacy_programs": [
+        {
+            "program_id": "cd6b1cc7-bcc6-43fa-8963-33ca57dcbd5a",
+            "brand": "Crawford-Knight",
+            "tasks_completed": [
+                {
+                    "task_id": "1477ed85-d89e-4280-93f6-e401068c44e9",
+                    "platform": "YouTube",
+                    "post_url": "https://chapman-ward.info/",
+                    "likes": 8550,
+                    "comments": 238,
+                    "shares": 13,
+                    "reach": 2533
+                }
+            ],
+            "total_sales_attributed": 3670.3
+        }
+    ]
+}

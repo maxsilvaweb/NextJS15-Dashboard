@@ -1,0 +1,26 @@
+{
+    "user_id": "6aeff239-0955-4abb-a15a-074326104672",
+    "name": "John Fitzpatrick",
+    "email": "kara91@example.org",
+    "instagram_handle": "@shawnpollard",
+    "tiktok_handle": "@grantthomas",
+    "joined_at": "2024-05-29T02:53:44.184Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cb9b62f6-8050-43b9-afef-7df488313cfe",
+            "brand": "Martinez Group",
+            "tasks_completed": [
+                {
+                    "task_id": "09927446-92b5-4851-b745-027fb04895cb",
+                    "platform": "TikTok",
+                    "post_url": "http://moss.com/",
+                    "likes": 5986,
+                    "comments": 146,
+                    "shares": 23,
+                    "reach": 1138
+                }
+            ],
+            "total_sales_attributed": 8587.12
+        }
+    ]
+}

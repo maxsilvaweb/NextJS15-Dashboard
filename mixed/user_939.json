@@ -1,0 +1,26 @@
+{
+    "user_id": "c1421b6d-b639-433e-ae44-c2d0f32d2cb6",
+    "name": "Joshua Brown",
+    "email": "dward@example.net",
+    "instagram_handle": "@wgonzalez",
+    "tiktok_handle": "@riley61",
+    "joined_at": "2023-12-07T04:32:25.390688",
+    "advocacy_programs": [
+        {
+            "program_id": "bed1f26c-cc5f-4aec-bfbc-5a015c1362c0",
+            "brand": "Daniels, Li and Morgan",
+            "tasks_completed": [
+                {
+                    "task_id": "08a9be73-2a8c-47ee-9485-4cdc3aa94405",
+                    "platform": "TikTok",
+                    "post_url": "http://ramirez.biz/",
+                    "likes": 1122,
+                    "comments": 27,
+                    "shares": 20,
+                    "reach": 8594
+                }
+            ],
+            "total_sales_attributed": 2251.46
+        }
+    ]
+}

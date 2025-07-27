@@ -1,0 +1,26 @@
+{
+    "user_id": "cd10e752-7f7c-4b0c-8080-567077a48348",
+    "name": "Susan Perez",
+    "email": "jimmy64@example.net",
+    "instagram_handle": "@Chet21",
+    "tiktok_handle": "@johnathanrios",
+    "joined_at": "2023-09-29T11:42:17.127707",
+    "advocacy_programs": [
+        {
+            "program_id": "514f5e05-39e3-40e7-84f3-cd70fc97412a",
+            "brand": "Bowman Group",
+            "tasks_completed": [
+                {
+                    "task_id": "d6f6c93d-d98a-4c67-9e06-1c8554ffe24c",
+                    "platform": "TikTok",
+                    "post_url": "https://www.ibarra-harris.org/",
+                    "likes": 7941,
+                    "comments": 30,
+                    "shares": 87,
+                    "reach": 1925
+                }
+            ],
+            "total_sales_attributed": 3383.04
+        }
+    ]
+}

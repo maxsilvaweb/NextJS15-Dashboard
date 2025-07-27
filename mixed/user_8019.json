@@ -1,0 +1,26 @@
+{
+    "user_id": "bea6f2f9-1f68-4a7a-8b41-c09023df95c6",
+    "name": "Andrew Nichols",
+    "email": "ikelly@example.org",
+    "instagram_handle": "@gwoods",
+    "tiktok_handle": "@wrodriguez",
+    "joined_at": "2024-06-02T10:13:51.105651",
+    "advocacy_programs": [
+        {
+            "program_id": "9f9d1f20-cf1f-4ebc-9e01-3d233096fc31",
+            "brand": "Schwartz Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "e80a5ce6-c7fd-43b5-a4c6-b9fb50945068",
+                    "platform": "Facebook",
+                    "post_url": "http://griffith.com/",
+                    "likes": 1037,
+                    "comments": 500,
+                    "shares": 67,
+                    "reach": 9449
+                }
+            ],
+            "total_sales_attributed": 4559.71
+        }
+    ]
+}

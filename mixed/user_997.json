@@ -1,0 +1,26 @@
+{
+    "user_id": "2348fa4f-a376-406f-9c3c-5555acf02d4e",
+    "name": "Barry Von",
+    "email": "Daphney_Grant@yahoo.com",
+    "instagram_handle": "@Nicolette52",
+    "tiktok_handle": "@Macey62",
+    "joined_at": "2024-04-09T23:02:12.211Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9686ec85-0b83-429d-82fd-07f131a41caf",
+            "brand": "Shields, Abbott and Nienow",
+            "tasks_completed": [
+                {
+                    "task_id": "865ec908-f2f9-443b-a799-0ed90447732c",
+                    "platform": "Instagram",
+                    "post_url": "https://spirited-breastplate.name/",
+                    "likes": 385,
+                    "comments": 20,
+                    "shares": 77,
+                    "reach": 5814
+                }
+            ],
+            "total_sales_attributed": 1179.01793841919
+        }
+    ]
+}

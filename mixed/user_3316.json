@@ -1,0 +1,26 @@
+{
+    "user_id": "d662446f-86f6-4eb5-bd3e-26660acdbf3d",
+    "name": "Jason Reilly",
+    "email": "Brenna.Schulist@gmail.com",
+    "instagram_handle": "@andersonnicholas",
+    "tiktok_handle": "@lauren63",
+    "joined_at": "2024-05-10T11:01:00.505402",
+    "advocacy_programs": [
+        {
+            "program_id": "af84f2c9-c0b6-4aa1-aa82-e1d6f0656f4e",
+            "brand": "Jordan, Taylor and Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "663c1e62-ca6c-435c-8f9f-1f0712302e9d",
+                    "platform": "Facebook",
+                    "post_url": "http://jones.com/",
+                    "likes": 379,
+                    "comments": 350,
+                    "shares": 46,
+                    "reach": 9826
+                }
+            ],
+            "total_sales_attributed": 4570.13
+        }
+    ]
+}

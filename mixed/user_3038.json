@@ -1,0 +1,26 @@
+{
+    "user_id": "e90f5623-9c33-4737-95c0-547be2ab721e",
+    "name": "Cameron Friesen",
+    "email": "Blaise_Bins78@yahoo.com",
+    "instagram_handle": "@Lew48",
+    "tiktok_handle": "@Sage80",
+    "joined_at": "2025-01-08T13:50:00.377Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8eea5e21-7c3a-43e8-8843-9633e5e8bfa7",
+            "brand": "Bartoletti, Roberts and Roob",
+            "tasks_completed": [
+                {
+                    "task_id": "5aa40a74-bc89-4d6b-bba6-4672a9840fde",
+                    "platform": "TikTok",
+                    "post_url": "https://wobbly-mozzarella.com",
+                    "likes": 99,
+                    "comments": 18,
+                    "shares": 14,
+                    "reach": 4901
+                }
+            ],
+            "total_sales_attributed": 2532.407252741373
+        }
+    ]
+}

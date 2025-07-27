@@ -1,0 +1,26 @@
+{
+    "user_id": "7faec214-a2da-4ad4-98d7-703bca94a576",
+    "name": "Kimberly Koss",
+    "email": "Eulah.Nicolas@gmail.com",
+    "instagram_handle": "@Ladarius4",
+    "tiktok_handle": "@Garrison36",
+    "joined_at": "2024-10-19T01:06:46.990Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fb50c0e3-f782-4c28-b283-839b32144b79",
+            "brand": "Hudson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "26c959e8-b974-4897-84e6-9b2acbf70ad0",
+                    "platform": "Instagram",
+                    "post_url": "https://sentimental-fibre.net/",
+                    "likes": 227,
+                    "comments": 15,
+                    "shares": 95,
+                    "reach": 789
+                }
+            ],
+            "total_sales_attributed": 2997.5579888264742
+        }
+    ]
+}

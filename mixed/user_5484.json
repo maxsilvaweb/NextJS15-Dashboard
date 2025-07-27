@@ -1,0 +1,26 @@
+{
+    "user_id": "21615f3d-67d4-4caf-97ea-575a90f6661d",
+    "name": "Michael Guzman",
+    "email": "dawngibson@example.net",
+    "instagram_handle": "@butlermolly",
+    "tiktok_handle": "@fwells",
+    "joined_at": "2023-10-01T14:20:39.102274",
+    "advocacy_programs": [
+        {
+            "program_id": "981ee172-5be6-4ec5-b524-fbb651683c7b",
+            "brand": "Bennett LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "973bf0d8-2a77-4695-ba13-060426bc8489",
+                    "platform": "TikTok",
+                    "post_url": "https://goodwin-short.net/",
+                    "likes": 749,
+                    "comments": 36,
+                    "shares": 66,
+                    "reach": 8254
+                }
+            ],
+            "total_sales_attributed": 7833.55
+        }
+    ]
+}

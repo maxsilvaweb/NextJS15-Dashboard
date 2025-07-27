@@ -1,0 +1,26 @@
+{
+    "user_id": "fd23f6da-a827-4a31-b3f5-5fd349984a58",
+    "name": "Danielle Hogan",
+    "email": "geraldbaker@example.com",
+    "instagram_handle": "@hooverpatrick",
+    "tiktok_handle": "@qbanks",
+    "joined_at": "2023-09-01T00:15:36.685024",
+    "advocacy_programs": [
+        {
+            "program_id": "67a568fc-19b6-44c6-9592-7e375855f64e",
+            "brand": "Gregory, Rollins and Lopez",
+            "tasks_completed": [
+                {
+                    "task_id": "5ddbf7c9-01d0-4555-b7a9-f8e63cbd0f73",
+                    "platform": "Facebook",
+                    "post_url": "https://www.gregory.com/",
+                    "likes": 57,
+                    "comments": 9,
+                    "shares": 96,
+                    "reach": 9800
+                }
+            ],
+            "total_sales_attributed": 4103.061206229302
+        }
+    ]
+}

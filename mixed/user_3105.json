@@ -1,0 +1,26 @@
+{
+    "user_id": "46dbd9c7-7a33-4bad-91a5-88316cb3472c",
+    "name": "Michelle Arnold",
+    "email": "Kristin.Emard74@hotmail.com",
+    "instagram_handle": "@smcfarland",
+    "tiktok_handle": "@eparker",
+    "joined_at": "2024-11-24T10:35:34.477144",
+    "advocacy_programs": [
+        {
+            "program_id": "c2491fad-6e67-40bf-a66d-cbc892b026e1",
+            "brand": "Garner Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "6170a52a-5228-4c14-8bd3-958536169af6",
+                    "platform": "Facebook",
+                    "post_url": "https://www.zamora.com/",
+                    "likes": 3851,
+                    "comments": 354,
+                    "shares": 37,
+                    "reach": 6411
+                }
+            ],
+            "total_sales_attributed": 3536.1309054056246
+        }
+    ]
+}

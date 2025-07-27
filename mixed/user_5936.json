@@ -1,0 +1,26 @@
+{
+    "user_id": "8435e5da-ed9e-41d1-86f5-2ac7c5605a75",
+    "name": "Hazel Schmitt",
+    "email": "Antonio22@gmail.com",
+    "instagram_handle": "@Napoleon.White-Boehm",
+    "tiktok_handle": "@Ted_Schmidt62",
+    "joined_at": "2024-10-19T06:17:38.576Z",
+    "advocacy_programs": [
+        {
+            "program_id": "533a2bf9-a43f-488c-8f8e-1f8d031ca8ca",
+            "brand": "Reynolds, Mueller and Halvorson",
+            "tasks_completed": [
+                {
+                    "task_id": "de83d28f-d917-44b6-a5ec-b87fdd864053",
+                    "platform": "Instagram",
+                    "post_url": "https://definite-precedent.net",
+                    "likes": 80,
+                    "comments": 34,
+                    "shares": 7,
+                    "reach": 8938
+                }
+            ],
+            "total_sales_attributed": 4525.70418101391
+        }
+    ]
+}

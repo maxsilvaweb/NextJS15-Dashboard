@@ -1,0 +1,26 @@
+{
+    "user_id": "f0eb7cab-e6bc-4bbc-bef8-b39512cf98ed",
+    "name": "Darrel Thiel",
+    "email": "Daisy_Dicki@gmail.com",
+    "instagram_handle": "@Callie0",
+    "tiktok_handle": "@Kristin.Kautzer-Marquardt",
+    "joined_at": "2024-07-17T14:03:04.685Z",
+    "advocacy_programs": [
+        {
+            "program_id": "29d6229e-1079-4dec-b0fd-574a164496b4",
+            "brand": "Parisian Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "1ab53fb2-5ce9-40da-8e54-ff1a1862114b",
+                    "platform": "Instagram",
+                    "post_url": "https://quick-bump.com",
+                    "likes": 450,
+                    "comments": 7,
+                    "shares": 25,
+                    "reach": 8548
+                }
+            ],
+            "total_sales_attributed": 3129.3388738607696
+        }
+    ]
+}

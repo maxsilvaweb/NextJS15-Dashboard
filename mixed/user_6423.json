@@ -1,0 +1,26 @@
+{
+    "user_id": "10e15e3b-2952-4694-b9ad-4f8082e5a533",
+    "name": "Deborah Reed",
+    "email": "kenneth99@example.org",
+    "instagram_handle": "@Marilie.Luettgen",
+    "tiktok_handle": "@chris59",
+    "joined_at": "2023-09-29T16:11:34.384660",
+    "advocacy_programs": [
+        {
+            "program_id": "36812ee2-b3db-4547-aeb1-792bc39b555d",
+            "brand": "Young, Hall and Cox",
+            "tasks_completed": [
+                {
+                    "task_id": "107dd930-ddce-4769-85c8-2c26ded49204",
+                    "platform": "TikTok",
+                    "post_url": "https://graham-thomas.com/",
+                    "likes": 9172,
+                    "comments": 52,
+                    "shares": 85,
+                    "reach": 9743
+                }
+            ],
+            "total_sales_attributed": 3296.1741426267754
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d0837193-27a5-4a72-9684-d09e0710aa7b",
+    "name": "Sharon Green",
+    "email": "ssanchez@example.net",
+    "instagram_handle": "@garciaxavier",
+    "tiktok_handle": "@robertcrawford",
+    "joined_at": "2024-01-18T23:45:37.045763",
+    "advocacy_programs": [
+        {
+            "program_id": "fb93805c-78cd-4f24-9eb2-ba35ce7136f9",
+            "brand": "White, Walker and Harris",
+            "tasks_completed": [
+                {
+                    "task_id": "ab83dd78-b710-4105-973a-e8aa801ff490",
+                    "platform": "Instagram",
+                    "post_url": "https://orange-suv.info",
+                    "likes": 2531,
+                    "comments": 350,
+                    "shares": 19,
+                    "reach": 1779
+                }
+            ],
+            "total_sales_attributed": 9740.07
+        }
+    ]
+}

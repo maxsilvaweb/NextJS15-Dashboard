@@ -1,0 +1,26 @@
+{
+    "user_id": "58e3b04e-4f05-4598-ab12-dd5f75c4ee9f",
+    "name": "Jerald Homenick",
+    "email": "Velma99@yahoo.com",
+    "instagram_handle": "@Efrain_Skiles",
+    "tiktok_handle": "@Jerel.Abshire",
+    "joined_at": "2024-10-18T07:32:44.540Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d952f446-6f71-4a7b-943d-1daec5a6c664",
+            "brand": "Cruickshank and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "9e65e774-6489-4a49-b0e8-662acf121502",
+                    "platform": "Instagram",
+                    "post_url": "https://reckless-making.net",
+                    "likes": 318,
+                    "comments": 32,
+                    "shares": 40,
+                    "reach": 6618
+                }
+            ],
+            "total_sales_attributed": 1573.6791787888167
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "edf4358a-5ecc-4e71-a5a4-1b116ec383a5",
+    "name": "Felix Gulgowski",
+    "email": "Virginie82@gmail.com",
+    "instagram_handle": "@Roberta_Kling79",
+    "tiktok_handle": "@Torrey_Lockman",
+    "joined_at": "2024-11-28T06:41:43.592Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8c11309f-119f-4807-a1b8-2d4c83723705",
+            "brand": "Schinner, Murray and Heaney",
+            "tasks_completed": [
+                {
+                    "task_id": "8a051dce-b5b9-4ee7-afc7-824134565139",
+                    "platform": "TikTok",
+                    "post_url": "https://soft-publication.biz",
+                    "likes": 245,
+                    "comments": 18,
+                    "shares": 37,
+                    "reach": 4562
+                }
+            ],
+            "total_sales_attributed": 357.50344948104413
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8f0bf7f7-dbfa-47d9-bf9d-263f346fe4d7",
+    "name": "Mrs. Ruby Cartwright",
+    "email": "Shayna_Feeney@gmail.com",
+    "instagram_handle": "@Golden.Sporer",
+    "tiktok_handle": "@Bernie.Luettgen",
+    "joined_at": "2024-03-23T10:32:06.705Z",
+    "advocacy_programs": [
+        {
+            "program_id": "73603fa7-ac1c-4b24-8399-ea5a6d469e59",
+            "brand": "Upton, Roob and Smitham",
+            "tasks_completed": [
+                {
+                    "task_id": "cff25eb7-987a-4c30-81ad-2a439a31a42b",
+                    "platform": "Instagram",
+                    "post_url": "https://well-to-do-traffic.name",
+                    "likes": 367,
+                    "comments": 6,
+                    "shares": 78,
+                    "reach": 6261
+                }
+            ],
+            "total_sales_attributed": 1329.5986235736962
+        }
+    ]
+}

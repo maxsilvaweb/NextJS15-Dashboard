@@ -1,0 +1,26 @@
+{
+    "user_id": "24108d55-4ba9-4e12-8850-14293aebf922",
+    "name": "Brian O'Reilly",
+    "email": "Kelly33@gmail.com",
+    "instagram_handle": "@Ladarius_Reilly97",
+    "tiktok_handle": "@Gino_Huel",
+    "joined_at": "2024-10-18T00:44:08.931Z",
+    "advocacy_programs": [
+        {
+            "program_id": "71820151-c6d5-4df1-a91c-ea991f2ebc69",
+            "brand": "Rogahn, Gottlieb and Schmitt",
+            "tasks_completed": [
+                {
+                    "task_id": "c6ed4385-e451-4e7b-bfdd-54d27889d67c",
+                    "platform": "TikTok",
+                    "post_url": "https://carefree-gift.net/",
+                    "likes": 88,
+                    "comments": 10,
+                    "shares": 10,
+                    "reach": 2429
+                }
+            ],
+            "total_sales_attributed": 1077.3615239862725
+        }
+    ]
+}

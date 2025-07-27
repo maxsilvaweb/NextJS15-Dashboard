@@ -1,0 +1,26 @@
+{
+    "user_id": "382be507-d720-4eb3-9078-a4218d5aac04",
+    "name": "David Tate",
+    "email": "Shakira_Tromp@hotmail.com",
+    "instagram_handle": "@ryoung",
+    "tiktok_handle": "@tsmith",
+    "joined_at": "2023-12-01T18:52:45.502861",
+    "advocacy_programs": [
+        {
+            "program_id": "ed88b615-98f4-4a57-aef1-cc2a719d1542",
+            "brand": "Harvey Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "73006567-6e16-4ea8-90b2-c7a14c85f505",
+                    "platform": "TikTok",
+                    "post_url": "https://torres-dunn.org/",
+                    "likes": 9242,
+                    "comments": 167,
+                    "shares": 4,
+                    "reach": 3589
+                }
+            ],
+            "total_sales_attributed": 8705.62
+        }
+    ]
+}

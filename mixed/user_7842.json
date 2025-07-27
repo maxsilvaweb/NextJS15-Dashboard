@@ -1,0 +1,26 @@
+{
+    "user_id": "f6767554-f009-4913-88b4-ddd96b46c4f2",
+    "name": "Amanda Cooper",
+    "email": "watsonadrienne@example.org",
+    "instagram_handle": "@nicole46",
+    "tiktok_handle": "@hmoore",
+    "joined_at": "2024-11-22T18:59:42.187Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d378aefc-aaf4-48e1-a110-dcfbafe0100e",
+            "brand": "Monroe-Rhodes",
+            "tasks_completed": [
+                {
+                    "task_id": "6aa09d43-7512-42b8-8eca-62a7646ff92a",
+                    "platform": "Instagram",
+                    "post_url": "http://meyer-hendrix.biz/",
+                    "likes": 3927,
+                    "comments": 11,
+                    "shares": 39,
+                    "reach": 2633
+                }
+            ],
+            "total_sales_attributed": 6531.29
+        }
+    ]
+}

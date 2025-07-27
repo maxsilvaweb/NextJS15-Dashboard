@@ -1,0 +1,26 @@
+{
+    "user_id": "bfcef4fe-225f-4168-b5ea-575fb1277af2",
+    "name": "Wm Schaefer",
+    "email": "Isac_Glover44@gmail.com",
+    "instagram_handle": "@Zander95",
+    "tiktok_handle": "@Mariana_Grant63",
+    "joined_at": "2025-02-09T09:54:24.365Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8167788a-bdc2-4700-b192-0cab5b559158",
+            "brand": "Hartmann, Lindgren and Schiller",
+            "tasks_completed": [
+                {
+                    "task_id": "dbe2f5ff-84c7-44d6-ada0-00c43d60f877",
+                    "platform": "Instagram",
+                    "post_url": "https://aware-bourgeoisie.name",
+                    "likes": 351,
+                    "comments": 7,
+                    "shares": 11,
+                    "reach": 1233
+                }
+            ],
+            "total_sales_attributed": 4761.278721226897
+        }
+    ]
+}

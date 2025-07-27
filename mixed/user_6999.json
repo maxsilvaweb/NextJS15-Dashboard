@@ -1,0 +1,26 @@
+{
+    "user_id": "1e045eff-118b-4ebf-aebc-a6cf07b726e7",
+    "name": "Rick Effertz",
+    "email": "Susan.Larson@gmail.com",
+    "instagram_handle": "@Marlene.Zieme42",
+    "tiktok_handle": "@Eula.Blanda",
+    "joined_at": "2024-04-26T18:30:11.596Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2bfd214c-8e07-46ad-be7d-224b35928f63",
+            "brand": "Lebsack - Boehm",
+            "tasks_completed": [
+                {
+                    "task_id": "91d161bf-4ef1-474c-92aa-9ae5c1457088",
+                    "platform": "Instagram",
+                    "post_url": "https://incomplete-illusion.org",
+                    "likes": 478,
+                    "comments": 50,
+                    "shares": 15,
+                    "reach": 2167
+                }
+            ],
+            "total_sales_attributed": 3108.9780777690858
+        }
+    ]
+}

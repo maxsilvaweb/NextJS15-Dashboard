@@ -1,0 +1,26 @@
+{
+    "user_id": "c247913f-a335-46aa-a6c6-c312da3645c2",
+    "name": "Cody Haley-Donnelly",
+    "email": "Nicolas.Schmeler@gmail.com",
+    "instagram_handle": "@Herta60",
+    "tiktok_handle": "@Amelie67",
+    "joined_at": "2024-08-20T15:42:34.115Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d3bdfcf9-e9be-4096-8535-fd23c77d9bf4",
+            "brand": "Herman - Brakus",
+            "tasks_completed": [
+                {
+                    "task_id": "8784975c-447b-454f-88c0-b5b1673e4500",
+                    "platform": "TikTok",
+                    "post_url": "https://calculating-flat.org/",
+                    "likes": 316,
+                    "comments": 39,
+                    "shares": 46,
+                    "reach": 2571
+                }
+            ],
+            "total_sales_attributed": 3294.5086991894104
+        }
+    ]
+}

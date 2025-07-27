@@ -1,0 +1,26 @@
+{
+    "user_id": "e3ca416b-de89-4109-afbe-92002f05bd8d",
+    "name": "Eric Hall",
+    "email": "klinechristy@example.com",
+    "instagram_handle": "@ramirezhannah",
+    "tiktok_handle": "@mary53",
+    "joined_at": "2024-02-19T05:43:16.168274",
+    "advocacy_programs": [
+        {
+            "program_id": "1db3178e-adc8-4468-825f-e6feda78aa0c",
+            "brand": "Alexander-Gonzales",
+            "tasks_completed": [
+                {
+                    "task_id": "c150acb6-e666-434e-8c14-cbe038e834ca",
+                    "platform": "TikTok",
+                    "post_url": "https://knowledgeable-interviewer.info/",
+                    "likes": 3940,
+                    "comments": 107,
+                    "shares": 94,
+                    "reach": 8431
+                }
+            ],
+            "total_sales_attributed": 4697.03
+        }
+    ]
+}

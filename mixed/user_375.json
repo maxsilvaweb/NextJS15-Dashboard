@@ -1,0 +1,26 @@
+{
+    "user_id": "5baed3ad-e731-4dda-9ace-fe71ed4de2a9",
+    "name": "Mr. Adrian Keebler",
+    "email": "Kayleigh29@yahoo.com",
+    "instagram_handle": "@Lonie.Murazik18",
+    "tiktok_handle": "@Dino.Bednar",
+    "joined_at": "2024-05-23T21:37:21.844Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7c73fe19-0ef7-4056-86cc-bcb47ccb7872",
+            "brand": "Wolff - Fadel",
+            "tasks_completed": [
+                {
+                    "task_id": "242e03fb-8fb0-4222-abdf-321b7cf828ee",
+                    "platform": "TikTok",
+                    "post_url": "https://trustworthy-mainstream.com/",
+                    "likes": 248,
+                    "comments": 39,
+                    "shares": 44,
+                    "reach": 6889
+                }
+            ],
+            "total_sales_attributed": 2092.8981751396896
+        }
+    ]
+}

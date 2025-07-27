@@ -1,0 +1,26 @@
+{
+    "user_id": "4f24a9a2-dc48-47e7-bbdb-3e11131738f7",
+    "name": "Ryan Ward",
+    "email": "petersonmark@example.com",
+    "instagram_handle": "@nelsondavid",
+    "tiktok_handle": "@whitney79",
+    "joined_at": "2024-07-03T01:44:20.200Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9eb46ca0-663d-44c3-b0cd-8da604738dfd",
+            "brand": "Gerlach - Morar",
+            "tasks_completed": [
+                {
+                    "task_id": "ae3c4abb-1912-4f80-8563-46e47625c4ba",
+                    "platform": "Instagram",
+                    "post_url": "https://www.perez.com/",
+                    "likes": 1563,
+                    "comments": 186,
+                    "shares": 18,
+                    "reach": 1614
+                }
+            ],
+            "total_sales_attributed": 2941.49
+        }
+    ]
+}

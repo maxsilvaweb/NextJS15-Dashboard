@@ -1,0 +1,26 @@
+{
+    "user_id": "dcf99957-fb45-44e2-a0a3-9acce2799df2",
+    "name": "Cameron Adams",
+    "email": "mary40@example.org",
+    "instagram_handle": "@simonjackson",
+    "tiktok_handle": "@sarahhaynes",
+    "joined_at": "2024-08-29T20:38:32.465471",
+    "advocacy_programs": [
+        {
+            "program_id": "018f8df7-90ed-4519-9e04-1f5a81140136",
+            "brand": "Lee-Robbins",
+            "tasks_completed": [
+                {
+                    "task_id": "ac1b0938-ba16-4f94-9003-79dfec6fc3eb",
+                    "platform": "Facebook",
+                    "post_url": "http://www.robinson.com/",
+                    "likes": 2549,
+                    "comments": 321,
+                    "shares": 97,
+                    "reach": 5049
+                }
+            ],
+            "total_sales_attributed": 4548.66
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ede55760-5b58-443d-b3ae-4fcebf5983cd",
+    "name": "April Medhurst",
+    "email": "Dolores_Adams87@gmail.com",
+    "instagram_handle": "@Brian4",
+    "tiktok_handle": "@General_Gorczany33",
+    "joined_at": "2024-05-28T14:17:31.396Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a2bc1c49-3141-401b-b274-2fb78244fb71",
+            "brand": "Kuhn, Roberts and Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "d0efad0a-06ee-438c-848c-26ac357205a0",
+                    "platform": "TikTok",
+                    "post_url": "https://joyous-interior.com",
+                    "likes": 466,
+                    "comments": 17,
+                    "shares": 90,
+                    "reach": 3679
+                }
+            ],
+            "total_sales_attributed": 2515.3755368402317
+        }
+    ]
+}

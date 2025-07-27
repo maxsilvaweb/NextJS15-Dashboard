@@ -1,0 +1,26 @@
+{
+    "user_id": "cac248d9-3479-4b8f-a424-7efb9becedab",
+    "name": "Jimmy Bode",
+    "email": "Lizzie39@gmail.com",
+    "instagram_handle": "@Raheem_Blick",
+    "tiktok_handle": "@Greta76",
+    "joined_at": "2025-02-17T20:08:20.537Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d863be6f-01ea-499a-9070-2bac1ebeabfc",
+            "brand": "Moen - Mayer",
+            "tasks_completed": [
+                {
+                    "task_id": "9691d6b9-4a1d-4f0e-9b3d-f0698adb4784",
+                    "platform": "Instagram",
+                    "post_url": "https://blue-grouper.org",
+                    "likes": 322,
+                    "comments": 9,
+                    "shares": 7,
+                    "reach": 2004
+                }
+            ],
+            "total_sales_attributed": 2115.1761005409553
+        }
+    ]
+}

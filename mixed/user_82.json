@@ -1,0 +1,26 @@
+{
+    "user_id": "c0dd75ef-a562-4752-b93b-35b02c5d2e9e",
+    "name": "Vanessa Garcia",
+    "email": "martinezsherry@example.com",
+    "instagram_handle": "@cburgess",
+    "tiktok_handle": "@kimberly34",
+    "joined_at": "2024-01-12T10:16:03.548608",
+    "advocacy_programs": [
+        {
+            "program_id": "c1eeed4e-90ca-4356-abb0-8cb463ccbf64",
+            "brand": "Fox-Hunt",
+            "tasks_completed": [
+                {
+                    "task_id": "902e5a4d-5efd-4d0c-9c52-d24ab75bf66b",
+                    "platform": "Facebook",
+                    "post_url": "http://www.hall-robinson.net/",
+                    "likes": 3633,
+                    "comments": 21,
+                    "shares": 22,
+                    "reach": 6855
+                }
+            ],
+            "total_sales_attributed": 3984.07
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "eaa0dde7-8f9a-4b7d-b5e9-e8853fabd370",
+    "name": "Derek Adams",
+    "email": "monicathomas@example.com",
+    "instagram_handle": "@amypreston",
+    "tiktok_handle": "@teresamiller",
+    "joined_at": "2025-07-24T03:38:30.495080",
+    "advocacy_programs": [
+        {
+            "program_id": "638f62ce-2bec-491d-a3f8-b257882b11c6",
+            "brand": "Lewis, Miller and Weber",
+            "tasks_completed": [
+                {
+                    "task_id": "789ca47a-4d9a-4666-b13f-08139ee24674",
+                    "platform": "Facebook",
+                    "post_url": "https://reyes.com/",
+                    "likes": 270,
+                    "comments": 183,
+                    "shares": 11,
+                    "reach": 755
+                }
+            ],
+            "total_sales_attributed": 4030.147382339854
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c638a8b8-9824-4142-8135-0c6abd9173f4",
+    "name": "Jessica Snyder",
+    "email": "xsweeney@example.org",
+    "instagram_handle": "@william97",
+    "tiktok_handle": "@seth27",
+    "joined_at": "2023-09-13T13:12:30.608467",
+    "advocacy_programs": [
+        {
+            "program_id": "f323288f-0695-4194-9bb9-a2b2d9893572",
+            "brand": "Lopez-Jackson",
+            "tasks_completed": [
+                {
+                    "task_id": "a44904f4-d8ed-4117-ba7d-565670e423c0",
+                    "platform": "TikTok",
+                    "post_url": "https://perry.org/",
+                    "likes": 4935,
+                    "comments": 360,
+                    "shares": 51,
+                    "reach": 9070
+                }
+            ],
+            "total_sales_attributed": 5308.66
+        }
+    ]
+}

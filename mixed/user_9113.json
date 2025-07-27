@@ -1,0 +1,26 @@
+{
+    "user_id": "29ad47b0-31dc-4eca-b14e-6ce0421fbba0",
+    "name": "Harriet Lakin",
+    "email": "Aylin68@hotmail.com",
+    "instagram_handle": "@Neoma54",
+    "tiktok_handle": "@Morgan.Lang",
+    "joined_at": "2024-12-22T10:06:04.888Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2c77644e-751e-4309-8483-53ae2ba90a5f",
+            "brand": "Franecki - Metz",
+            "tasks_completed": [
+                {
+                    "task_id": "cc1398aa-70a7-4256-ac0c-17163e234b4f",
+                    "platform": "TikTok",
+                    "post_url": "https://petty-bidet.info",
+                    "likes": 456,
+                    "comments": 26,
+                    "shares": 94,
+                    "reach": 9900
+                }
+            ],
+            "total_sales_attributed": 4467.999758722034
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "5cc64d69-5a77-4e66-affd-bbc3c18c4756",
+    "name": "Michael Walker",
+    "email": "christineking@example.com",
+    "instagram_handle": "@timothy45",
+    "tiktok_handle": "@janet18",
+    "joined_at": "2023-12-01T04:36:09.803441",
+    "advocacy_programs": [
+        {
+            "program_id": "da6f1387-c3e7-4448-b9e2-9cdde9bf8370",
+            "brand": "Jones Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "6a0787d9-8370-4897-b312-cfd74a6f6765",
+                    "platform": "Instagram",
+                    "post_url": "https://www.edwards.com/",
+                    "likes": 44,
+                    "comments": 2,
+                    "shares": 30,
+                    "reach": 8320
+                }
+            ],
+            "total_sales_attributed": 3496.79
+        }
+    ]
+}

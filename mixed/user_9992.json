@@ -1,0 +1,26 @@
+{
+    "user_id": "cc7dd12f-cbf6-487d-8abb-9c41e9750700",
+    "name": "Jaime Johns",
+    "email": "Vickie33@yahoo.com",
+    "instagram_handle": "@Ulises_Reichel-Bruen48",
+    "tiktok_handle": "@Lexi_Rempel",
+    "joined_at": "2024-11-16T02:25:12.913Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f4697cb3-ad2b-422f-b2d1-5ea4ada2fb59",
+            "brand": "Ankunding LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "8ab4faea-d130-4e9a-94b8-ebc757ba26e7",
+                    "platform": "Instagram",
+                    "post_url": "https://snoopy-nun.com",
+                    "likes": 346,
+                    "comments": 6,
+                    "shares": 17,
+                    "reach": 8652
+                }
+            ],
+            "total_sales_attributed": 4553.567255534896
+        }
+    ]
+}

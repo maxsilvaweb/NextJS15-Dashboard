@@ -1,0 +1,26 @@
+{
+    "user_id": "0ea43835-9dd5-4772-b88d-d96dc73ae59c",
+    "name": "Mrs. Jana Lesch",
+    "email": "Constance_Kilback74@hotmail.com",
+    "instagram_handle": "@Malvina.Strosin84",
+    "tiktok_handle": "@Ethan.Keebler-Hermiston25",
+    "joined_at": "2025-02-21T09:22:44.123Z",
+    "advocacy_programs": [
+        {
+            "program_id": "70c0eacb-71a2-4c50-b6b5-caa109c4e526",
+            "brand": "Goyette Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9360fafb-3b83-4487-83fe-af0e78bd8acc",
+                    "platform": "TikTok",
+                    "post_url": "https://buzzing-bookend.org",
+                    "likes": 21,
+                    "comments": 1,
+                    "shares": 8,
+                    "reach": 3610
+                }
+            ],
+            "total_sales_attributed": 3763.3198295605102
+        }
+    ]
+}

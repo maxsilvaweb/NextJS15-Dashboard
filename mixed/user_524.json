@@ -1,0 +1,26 @@
+{
+    "user_id": "348cfa4b-68e1-4d5b-8904-3d2473f6e1c0",
+    "name": "Tracie Lewis",
+    "email": "crystal49@example.net",
+    "instagram_handle": "@jeremyreeves",
+    "tiktok_handle": "@lisasmith",
+    "joined_at": "2024-07-09T20:51:35.611796",
+    "advocacy_programs": [
+        {
+            "program_id": "bd582a7f-ebf8-4431-927f-f8c895b5a100",
+            "brand": "Burton, Arnold and Gomez",
+            "tasks_completed": [
+                {
+                    "task_id": "3917eb1d-b79a-40b7-94ac-1db7530167fd",
+                    "platform": "TikTok",
+                    "post_url": "http://rodriguez.com/",
+                    "likes": 2300,
+                    "comments": 42,
+                    "shares": 79,
+                    "reach": 2397
+                }
+            ],
+            "total_sales_attributed": 5935.8
+        }
+    ]
+}

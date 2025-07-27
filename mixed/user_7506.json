@@ -1,0 +1,26 @@
+{
+    "user_id": "5902fe9c-6e74-48fc-b27c-c30571a8704e",
+    "name": "Cornelius Beer",
+    "email": "Rebecca.Franecki@hotmail.com",
+    "instagram_handle": "@Boyd83",
+    "tiktok_handle": "@Karolann_Daniel",
+    "joined_at": "2025-03-06T08:15:01.329Z",
+    "advocacy_programs": [
+        {
+            "program_id": "80c0129f-a39c-41b5-91e3-c9747e815eae",
+            "brand": "Legros, Schiller and Keeling",
+            "tasks_completed": [
+                {
+                    "task_id": "17e94292-7136-4eef-b3fe-176400f895a6",
+                    "platform": "TikTok",
+                    "post_url": "https://focused-range.org",
+                    "likes": 426,
+                    "comments": 45,
+                    "shares": 62,
+                    "reach": 6041
+                }
+            ],
+            "total_sales_attributed": 2287.4250156563076
+        }
+    ]
+}

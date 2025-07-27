@@ -1,0 +1,26 @@
+{
+    "user_id": "26adab5d-09df-4d54-b639-1c0d8d10d425",
+    "name": "Mr. Terence Boyer",
+    "email": "Martina_Jacobi20@hotmail.com",
+    "instagram_handle": "@Constantin8",
+    "tiktok_handle": "@Loy_Douglas40",
+    "joined_at": "2024-06-02T07:42:09.923Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5b115dbd-c267-482e-9613-a6341cde43e4",
+            "brand": "Berge Group",
+            "tasks_completed": [
+                {
+                    "task_id": "c0134ae4-969a-4b85-b1bb-45ce19fe7c53",
+                    "platform": "TikTok",
+                    "post_url": "https://jumbo-privilege.info/",
+                    "likes": 418,
+                    "comments": 5,
+                    "shares": 40,
+                    "reach": 3575
+                }
+            ],
+            "total_sales_attributed": 2815.2800957458508
+        }
+    ]
+}

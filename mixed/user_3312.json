@@ -1,0 +1,26 @@
+{
+    "user_id": "16524386-ea25-43d6-a809-dcf7a0aabcbb",
+    "name": "Zachary Kulas",
+    "email": "Carter.Hartmann@yahoo.com",
+    "instagram_handle": "@Jamil60",
+    "tiktok_handle": "@Luella84",
+    "joined_at": "2024-08-30T08:05:41.936Z",
+    "advocacy_programs": [
+        {
+            "program_id": "11ebd846-6fdb-43c5-b177-9d61335ca690",
+            "brand": "Koelpin, Rath and Bayer",
+            "tasks_completed": [
+                {
+                    "task_id": "7c83c9d0-d2de-494e-8f44-85307f50903f",
+                    "platform": "Instagram",
+                    "post_url": "https://aware-resolve.com/",
+                    "likes": 488,
+                    "comments": 46,
+                    "shares": 21,
+                    "reach": 2331
+                }
+            ],
+            "total_sales_attributed": 1980.5715348562633
+        }
+    ]
+}

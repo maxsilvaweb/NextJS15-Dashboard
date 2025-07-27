@@ -1,0 +1,26 @@
+{
+    "user_id": "65b55de4-460b-4a4d-9ab8-34a725bf08df",
+    "name": "Rebecca Martinez",
+    "email": "jillianalexander@example.com",
+    "instagram_handle": "@hughessamantha",
+    "tiktok_handle": "@luke47",
+    "joined_at": "2025-05-03T02:41:05.386710",
+    "advocacy_programs": [
+        {
+            "program_id": "71430801-e965-420e-b211-091fcc9704bc",
+            "brand": "Jones Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "e7d7a701-fe15-4408-8151-2de55ef81020",
+                    "platform": "Facebook",
+                    "post_url": "https://shocked-advancement.info",
+                    "likes": 5045,
+                    "comments": 428,
+                    "shares": 43,
+                    "reach": 6182
+                }
+            ],
+            "total_sales_attributed": 4048.13
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cd2cbe76-6359-4840-bc11-6311e21933d7",
+    "name": "Stacy Garza",
+    "email": "brian69@example.com",
+    "instagram_handle": "@icarroll",
+    "tiktok_handle": "@margaretedwards",
+    "joined_at": "2024-04-12T05:12:56.245Z",
+    "advocacy_programs": [
+        {
+            "program_id": "455b6362-417b-4801-a23d-0b5533f8a1bd",
+            "brand": "Johnson, Hammond and Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "de47e64f-f120-4961-bedc-f5c847dd79ec",
+                    "platform": "YouTube",
+                    "post_url": "http://www.morris.com/",
+                    "likes": 4048,
+                    "comments": 22,
+                    "shares": 40,
+                    "reach": 8547
+                }
+            ],
+            "total_sales_attributed": 4992.618111482867
+        }
+    ]
+}

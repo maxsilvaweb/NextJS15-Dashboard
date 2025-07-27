@@ -1,0 +1,26 @@
+{
+    "user_id": "8c3b7a3c-be40-4665-86c2-db24d34c65b6",
+    "name": "Devin Bahringer",
+    "email": "Osvaldo_Leuschke@yahoo.com",
+    "instagram_handle": "@Hassie.Rogahn10",
+    "tiktok_handle": "@Derek98",
+    "joined_at": "2024-07-21T00:12:05.402Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6305baf3-f06e-44a0-b9e7-5edac1fc242a",
+            "brand": "Conn Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "c4aacad4-95eb-4b9f-b71f-1853ac03da8e",
+                    "platform": "Instagram",
+                    "post_url": "https://well-groomed-prohibition.name",
+                    "likes": 404,
+                    "comments": 22,
+                    "shares": 43,
+                    "reach": 4205
+                }
+            ],
+            "total_sales_attributed": 4742.49548909605
+        }
+    ]
+}

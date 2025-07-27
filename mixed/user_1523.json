@@ -1,0 +1,26 @@
+{
+    "user_id": "79ab6f58-f9cf-4f2b-a69c-424f4571dcb4",
+    "name": "Elaine Cole",
+    "email": "walkerthomas@example.org",
+    "instagram_handle": "@dickersonmichael",
+    "tiktok_handle": "@qsims",
+    "joined_at": "2025-06-29T03:35:42.111403",
+    "advocacy_programs": [
+        {
+            "program_id": "c8d2d78d-bf8a-4a93-bf66-9a5beec69dca",
+            "brand": "Petersen-Schneider",
+            "tasks_completed": [
+                {
+                    "task_id": "743cc102-f44d-48dd-b4c4-5da37380d9a1",
+                    "platform": "YouTube",
+                    "post_url": "http://owen-fisher.com/",
+                    "likes": 7530,
+                    "comments": 436,
+                    "shares": 49,
+                    "reach": 4044
+                }
+            ],
+            "total_sales_attributed": 3788.91
+        }
+    ]
+}

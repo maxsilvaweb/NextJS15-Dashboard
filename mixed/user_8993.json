@@ -1,0 +1,26 @@
+{
+    "user_id": "011ce66f-7036-4026-b439-cc46c2916d7f",
+    "name": "Otis Trantow",
+    "email": "Noel.DuBuque@hotmail.com",
+    "instagram_handle": "@Sadye6",
+    "tiktok_handle": "@Modesto85",
+    "joined_at": "2025-02-16T14:31:50.715Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f4a31447-2882-4ad5-889b-083d3fad9fea",
+            "brand": "Baumbach - Ernser",
+            "tasks_completed": [
+                {
+                    "task_id": "0ce5140a-3a00-42c9-a968-c596cf903972",
+                    "platform": "TikTok",
+                    "post_url": "https://lovable-offset.com/",
+                    "likes": 394,
+                    "comments": 38,
+                    "shares": 30,
+                    "reach": 7907
+                }
+            ],
+            "total_sales_attributed": 349.024076904083
+        }
+    ]
+}

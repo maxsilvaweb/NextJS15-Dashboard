@@ -1,0 +1,26 @@
+{
+    "user_id": "6323f7d6-f549-4abd-9c77-0fe87629879c",
+    "name": "Kenneth Stewart",
+    "email": "ericflores@example.org",
+    "instagram_handle": "@david95",
+    "tiktok_handle": "@wrightjennifer",
+    "joined_at": "2025-06-12T12:08:36.599553",
+    "advocacy_programs": [
+        {
+            "program_id": "c3739b33-1839-441c-8a32-8303b6b1ba7c",
+            "brand": "Pittman PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "fe64c11e-19cc-4112-bac0-23001085a777",
+                    "platform": "Facebook",
+                    "post_url": "https://hot-insolence.info",
+                    "likes": 1383,
+                    "comments": 105,
+                    "shares": 2,
+                    "reach": 5490
+                }
+            ],
+            "total_sales_attributed": 8540.77
+        }
+    ]
+}

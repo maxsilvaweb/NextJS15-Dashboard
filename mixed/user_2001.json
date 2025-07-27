@@ -1,0 +1,26 @@
+{
+    "user_id": "d30be76c-fe08-4b42-822e-b7ed570498c4",
+    "name": "Eddie Obrien",
+    "email": "ashleygonzales@example.com",
+    "instagram_handle": "@Kaycee96",
+    "tiktok_handle": "@jessicagomez",
+    "joined_at": "2025-06-13T01:21:25.111823",
+    "advocacy_programs": [
+        {
+            "program_id": "7e765901-6382-4800-92ab-3f4a10c25201",
+            "brand": "Diaz-Hall",
+            "tasks_completed": [
+                {
+                    "task_id": "fa00c9e3-981b-4eee-95ae-4ec48b9e4d5b",
+                    "platform": "Facebook",
+                    "post_url": "https://content-sticker.net/",
+                    "likes": 5874,
+                    "comments": 109,
+                    "shares": 23,
+                    "reach": 4930
+                }
+            ],
+            "total_sales_attributed": 233.07
+        }
+    ]
+}

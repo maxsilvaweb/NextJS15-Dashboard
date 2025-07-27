@@ -1,0 +1,26 @@
+{
+    "user_id": "69a8c706-b785-4290-b99a-aaec7a6a4645",
+    "name": "Anita Massey",
+    "email": "Everett.Kozey@hotmail.com",
+    "instagram_handle": "@barbara31",
+    "tiktok_handle": "@pvega",
+    "joined_at": "2025-02-13T05:38:02.336078",
+    "advocacy_programs": [
+        {
+            "program_id": "3094d069-e66c-42ea-a5f8-2a4e2fbbbb90",
+            "brand": "Reid Group",
+            "tasks_completed": [
+                {
+                    "task_id": "7c6b7172-b311-4db6-9c69-fba0a672f18b",
+                    "platform": "Facebook",
+                    "post_url": "https://www.bullock.biz/",
+                    "likes": 247,
+                    "comments": 235,
+                    "shares": 2,
+                    "reach": 3770
+                }
+            ],
+            "total_sales_attributed": 7976.92
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b701057d-7eec-41c5-8c0d-42a26bf42b53",
+    "name": "Courtney Jones",
+    "email": "Maritza.Funk@yahoo.com",
+    "instagram_handle": "@Celestino_Ratke",
+    "tiktok_handle": "@Marcelino_Kshlerin86",
+    "joined_at": "2024-08-03T01:54:17.060Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e1b2f9f4-ce83-403b-8d11-5a396b907f7d",
+            "brand": "Emmerich Group",
+            "tasks_completed": [
+                {
+                    "task_id": "14fe4517-dfec-4f3c-aed9-1833a4ff2a04",
+                    "platform": "TikTok",
+                    "post_url": "https://competent-gown.info",
+                    "likes": 185,
+                    "comments": 45,
+                    "shares": 100,
+                    "reach": 8108
+                }
+            ],
+            "total_sales_attributed": 2433.7666140353117
+        }
+    ]
+}

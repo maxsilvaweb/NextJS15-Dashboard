@@ -1,0 +1,26 @@
+{
+    "user_id": "b87b3ca9-158d-4c1c-acd5-832749f82400",
+    "name": "Angel Lind",
+    "email": "tracy62@example.com",
+    "instagram_handle": "@ronaldjackson",
+    "tiktok_handle": "@nelsonjennifer",
+    "joined_at": "2025-05-11T21:39:38.275589",
+    "advocacy_programs": [
+        {
+            "program_id": "b05c7f84-67e7-43b9-852c-23fa36293bf5",
+            "brand": "Flatley, Cartwright and Dicki",
+            "tasks_completed": [
+                {
+                    "task_id": "2da4cce3-3d62-44d7-8419-d3ea5621bac9",
+                    "platform": "TikTok",
+                    "post_url": "https://blushing-kit.biz/",
+                    "likes": 4708,
+                    "comments": 7,
+                    "shares": 8,
+                    "reach": 5020
+                }
+            ],
+            "total_sales_attributed": 6273.4
+        }
+    ]
+}

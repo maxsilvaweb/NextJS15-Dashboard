@@ -1,0 +1,26 @@
+{
+    "user_id": "dc220cf2-1340-4c88-a921-7efe8934860e",
+    "name": "Tammy Moore",
+    "email": "taylorcynthia@example.org",
+    "instagram_handle": "@nicholas22",
+    "tiktok_handle": "@harrisonhannah",
+    "joined_at": "2024-10-23T23:03:17.949332",
+    "advocacy_programs": [
+        {
+            "program_id": "0ff6bc86-407c-4550-9a04-4964a5914caa",
+            "brand": "Mason-Fitzpatrick",
+            "tasks_completed": [
+                {
+                    "task_id": "30c1ed8b-fc80-47c3-b95c-90bac8865a54",
+                    "platform": "Instagram",
+                    "post_url": "https://mathews.com/",
+                    "likes": 1944,
+                    "comments": 58,
+                    "shares": 78,
+                    "reach": 6482
+                }
+            ],
+            "total_sales_attributed": 2280.15
+        }
+    ]
+}

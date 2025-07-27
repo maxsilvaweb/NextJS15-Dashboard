@@ -1,0 +1,26 @@
+{
+    "user_id": "3450648a-e8aa-4a19-af3a-45b38c97a4e4",
+    "name": "Susan Huber",
+    "email": "guerrajennifer@example.net",
+    "instagram_handle": "@sharonhamilton",
+    "tiktok_handle": "@johnny24",
+    "joined_at": "2024-11-15T07:14:09.784930",
+    "advocacy_programs": [
+        {
+            "program_id": "a0d6a502-f96f-4e35-a185-f3fda37d4f6d",
+            "brand": "Garcia-Myers",
+            "tasks_completed": [
+                {
+                    "task_id": "e9483fcb-c888-4510-866b-6dc6b1b7314b",
+                    "platform": "YouTube",
+                    "post_url": "https://www.zamora-hays.net/",
+                    "likes": 119,
+                    "comments": 102,
+                    "shares": 43,
+                    "reach": 770
+                }
+            ],
+            "total_sales_attributed": 6996.59
+        }
+    ]
+}

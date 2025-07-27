@@ -1,0 +1,26 @@
+{
+    "user_id": "a52b0e62-3d72-46a9-a92b-1e52aaf03d48",
+    "name": "David Acosta",
+    "email": "powellmarissa@example.com",
+    "instagram_handle": "@charles43",
+    "tiktok_handle": "@christopher30",
+    "joined_at": "2024-04-01T14:55:39.920435",
+    "advocacy_programs": [
+        {
+            "program_id": "3645a078-c9ec-44a7-be3e-0d3e4eeff807",
+            "brand": "Marquez, Cook and Matthews",
+            "tasks_completed": [
+                {
+                    "task_id": "c8c0fc65-ecfc-42e5-aea7-58023d299fee",
+                    "platform": "Instagram",
+                    "post_url": "https://questionable-independence.info",
+                    "likes": 28,
+                    "comments": 409,
+                    "shares": 75,
+                    "reach": 4186
+                }
+            ],
+            "total_sales_attributed": 6839.08
+        }
+    ]
+}

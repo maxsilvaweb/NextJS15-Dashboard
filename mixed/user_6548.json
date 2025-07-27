@@ -1,0 +1,26 @@
+{
+    "user_id": "8362b25d-765c-4e8d-81c9-3eb326a2911f",
+    "name": "Ronald Edwards",
+    "email": "Karina8@yahoo.com",
+    "instagram_handle": "@williamsanne",
+    "tiktok_handle": "@sgibson",
+    "joined_at": "2025-01-27T10:18:57.133638",
+    "advocacy_programs": [
+        {
+            "program_id": "1e3516ef-5a94-4742-a1f3-41da97eaf87b",
+            "brand": "Haley, McKenzie and Emard",
+            "tasks_completed": [
+                {
+                    "task_id": "6bfcb572-c051-47b1-afe6-512163df0628",
+                    "platform": "Instagram",
+                    "post_url": "https://www.juarez.info/",
+                    "likes": 9524,
+                    "comments": 40,
+                    "shares": 94,
+                    "reach": 8649
+                }
+            ],
+            "total_sales_attributed": 5577.68
+        }
+    ]
+}

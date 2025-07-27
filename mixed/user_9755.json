@@ -1,0 +1,26 @@
+{
+    "user_id": "dc661df1-1f7b-42bb-95e0-17d806ef2f99",
+    "name": "Erica Martinez",
+    "email": "morganwebb@example.com",
+    "instagram_handle": "@vgarza",
+    "tiktok_handle": "@douglaswhitehead",
+    "joined_at": "2025-05-30T12:44:36.385454",
+    "advocacy_programs": [
+        {
+            "program_id": "66cef011-4aa1-4060-8eb0-0aed84974d96",
+            "brand": "Mitchell Group",
+            "tasks_completed": [
+                {
+                    "task_id": "bbefe65f-76ef-4a82-b94b-024d533b4998",
+                    "platform": "YouTube",
+                    "post_url": "http://www.brown-hurst.com/",
+                    "likes": 4011,
+                    "comments": 199,
+                    "shares": 18,
+                    "reach": 5685
+                }
+            ],
+            "total_sales_attributed": 4314.03
+        }
+    ]
+}

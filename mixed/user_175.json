@@ -1,0 +1,26 @@
+{
+    "user_id": "30f898c3-2f4e-496a-b1d2-cf1bdfc19901",
+    "name": "John Hill",
+    "email": "benderchristine@example.net",
+    "instagram_handle": "@kim72",
+    "tiktok_handle": "@tamaracarter",
+    "joined_at": "2025-05-12T15:14:36.023956",
+    "advocacy_programs": [
+        {
+            "program_id": "43f376fa-aced-4f11-b473-90b8bc3cbbb3",
+            "brand": "Boyd, Mitchell and Peterson",
+            "tasks_completed": [
+                {
+                    "task_id": "6cc17705-6c38-4afc-add2-99bca7391109",
+                    "platform": "YouTube",
+                    "post_url": "http://www.leon.org/",
+                    "likes": 3117,
+                    "comments": 61,
+                    "shares": 96,
+                    "reach": 1754
+                }
+            ],
+            "total_sales_attributed": 9995.6
+        }
+    ]
+}

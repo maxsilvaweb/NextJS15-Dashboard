@@ -1,0 +1,26 @@
+{
+    "user_id": "79d3ce49-3c94-45e2-90db-e7e346eeb52e",
+    "name": "Guadalupe Towne",
+    "email": "Seamus_Weimann63@hotmail.com",
+    "instagram_handle": "@Tressie_Cole",
+    "tiktok_handle": "@Amparo28",
+    "joined_at": "2024-11-12T21:56:39.046Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b46f1e87-ccaf-4e73-8732-4d9bcabd42fc",
+            "brand": "Dibbert - Deckow",
+            "tasks_completed": [
+                {
+                    "task_id": "6badb8a2-5417-4ce6-a0f8-9b77c0f34073",
+                    "platform": "Instagram",
+                    "post_url": "https://cooperative-disappointment.info/",
+                    "likes": 58,
+                    "comments": 12,
+                    "shares": 79,
+                    "reach": 1189
+                }
+            ],
+            "total_sales_attributed": 373.8802696019091
+        }
+    ]
+}

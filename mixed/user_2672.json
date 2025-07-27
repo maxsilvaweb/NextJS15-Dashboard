@@ -1,0 +1,26 @@
+{
+    "user_id": "926463db-f4f6-45fd-b9a2-a1614a67fb04",
+    "name": "Nicholas Davis",
+    "email": "steven86@example.net",
+    "instagram_handle": "@buckrussell",
+    "tiktok_handle": "@richard84",
+    "joined_at": "2024-05-23T13:55:45.033040",
+    "advocacy_programs": [
+        {
+            "program_id": "ad05745c-e7f2-4db7-bf00-83402e8da781",
+            "brand": "Patterson and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "78ca5363-d286-47ca-b898-310265011f7a",
+                    "platform": "Instagram",
+                    "post_url": "https://gillespie-franklin.org/",
+                    "likes": 1730,
+                    "comments": 313,
+                    "shares": 28,
+                    "reach": 5975
+                }
+            ],
+            "total_sales_attributed": 8809.75
+        }
+    ]
+}

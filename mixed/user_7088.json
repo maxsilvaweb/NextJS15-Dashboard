@@ -1,0 +1,26 @@
+{
+    "user_id": "080c2fe7-abcd-436d-9c0c-20cede7371f5",
+    "name": "Laura Martin",
+    "email": "millerdanielle@example.com",
+    "instagram_handle": "@stoutdaniel",
+    "tiktok_handle": "@jerry32",
+    "joined_at": "2024-11-21T21:22:23.135179",
+    "advocacy_programs": [
+        {
+            "program_id": "d4782092-5a3f-4413-8c85-0123516b5b43",
+            "brand": "Allen Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "9fc1636c-b4ed-4af2-943d-eb6fc0e4cecb",
+                    "platform": "Instagram",
+                    "post_url": "http://www.lucas.com/",
+                    "likes": 6025,
+                    "comments": 412,
+                    "shares": 43,
+                    "reach": 1655
+                }
+            ],
+            "total_sales_attributed": 2725.24
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b2ab785f-a9bf-49fb-8950-63496995aed6",
+    "name": "William Hodges",
+    "email": "jessica68@example.com",
+    "instagram_handle": "@whunt",
+    "tiktok_handle": "@cathy70",
+    "joined_at": "2024-10-16T16:56:54.198964",
+    "advocacy_programs": [
+        {
+            "program_id": "506c0c96-5e06-4745-b154-0c956407ae14",
+            "brand": "Olson and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "cfd389be-3879-4237-916d-2a0b44631d00",
+                    "platform": "TikTok",
+                    "post_url": "http://conner.com/",
+                    "likes": 8498,
+                    "comments": 16,
+                    "shares": 89,
+                    "reach": 9545
+                }
+            ],
+            "total_sales_attributed": 5426.82
+        }
+    ]
+}

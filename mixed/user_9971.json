@@ -1,0 +1,26 @@
+{
+    "user_id": "00f53565-68e9-4655-b73e-2e3888d6e4b1",
+    "name": "Kara Mueller",
+    "email": "mendozajacqueline@example.com",
+    "instagram_handle": "@smason",
+    "tiktok_handle": "@martinezlindsay",
+    "joined_at": "2024-05-20T17:04:04.997755",
+    "advocacy_programs": [
+        {
+            "program_id": "3fba2c8a-fbe9-4ea7-8c1c-bf3e2a46acc6",
+            "brand": "Sandoval PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "78306fcd-b738-4c90-bcf5-74c1007d2bd3",
+                    "platform": "Instagram",
+                    "post_url": "https://ordinary-promise.info",
+                    "likes": 109,
+                    "comments": 35,
+                    "shares": 45,
+                    "reach": 3486
+                }
+            ],
+            "total_sales_attributed": 812.56
+        }
+    ]
+}

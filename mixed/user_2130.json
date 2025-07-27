@@ -1,0 +1,26 @@
+{
+    "user_id": "c962bb50-bc85-4fb9-a7bc-52efd2400632",
+    "name": "Todd Jacobson",
+    "email": "amymoses@example.org",
+    "instagram_handle": "@Marques82",
+    "tiktok_handle": "@william95",
+    "joined_at": "2025-01-12T17:05:38.458427",
+    "advocacy_programs": [
+        {
+            "program_id": "14224f9e-53f3-4931-9978-c4e2130f5ddc",
+            "brand": "Pena-Phillips",
+            "tasks_completed": [
+                {
+                    "task_id": "e7557df8-2ad9-4bc0-9494-0e1a7ce62d71",
+                    "platform": "Facebook",
+                    "post_url": "https://www.lewis.info/",
+                    "likes": 7214,
+                    "comments": 47,
+                    "shares": 25,
+                    "reach": 514
+                }
+            ],
+            "total_sales_attributed": 5608.18
+        }
+    ]
+}

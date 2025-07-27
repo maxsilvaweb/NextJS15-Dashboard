@@ -1,0 +1,26 @@
+{
+    "user_id": "40c3e2dc-c27c-4e33-8df6-abb88f66667f",
+    "name": "Alexandra Green",
+    "email": "Santina94@hotmail.com",
+    "instagram_handle": "@hrobinson",
+    "tiktok_handle": "@wchavez",
+    "joined_at": "2024-09-02T15:42:21.886365",
+    "advocacy_programs": [
+        {
+            "program_id": "c0038c2d-6993-492a-b26b-675fcafc480d",
+            "brand": "Parker, Phillips and Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "c2096877-3cbb-461f-8aca-636b1d4f0e91",
+                    "platform": "TikTok",
+                    "post_url": "http://phillips.net/",
+                    "likes": 5023,
+                    "comments": 191,
+                    "shares": 87,
+                    "reach": 8310
+                }
+            ],
+            "total_sales_attributed": 1339.868738826134
+        }
+    ]
+}

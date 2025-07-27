@@ -1,0 +1,26 @@
+{
+    "user_id": "756a95a4-4148-4203-90e2-6b9b8d0873df",
+    "name": "Randall Lang",
+    "email": "Mina_Glover@hotmail.com",
+    "instagram_handle": "@Alanis31",
+    "tiktok_handle": "@Carlos_Schroeder",
+    "joined_at": "2024-05-22T20:48:25.959Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9f3f025f-c8eb-4e0f-ba8f-057f875717a5",
+            "brand": "Walker LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "0b7b0ac2-e919-45e2-9972-8d0c70b42d03",
+                    "platform": "Instagram",
+                    "post_url": "https://male-overload.net/",
+                    "likes": 295,
+                    "comments": 23,
+                    "shares": 80,
+                    "reach": 8533
+                }
+            ],
+            "total_sales_attributed": 4577.986505292352
+        }
+    ]
+}

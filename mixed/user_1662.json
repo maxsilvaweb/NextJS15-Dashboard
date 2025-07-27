@@ -1,0 +1,26 @@
+{
+    "user_id": "4bd206b8-7bdb-4381-9368-ae08391f176a",
+    "name": "Jermaine Tremblay",
+    "email": "Hope50@hotmail.com",
+    "instagram_handle": "@Virginia49",
+    "tiktok_handle": "@Andre84",
+    "joined_at": "2025-01-21T23:12:56.895Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a940af0f-23d0-4a97-b8cf-ea0cf8575b4e",
+            "brand": "Nader and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "2498e5ef-ac1a-4944-a23e-9d48275c1237",
+                    "platform": "TikTok",
+                    "post_url": "https://variable-relative.net",
+                    "likes": 62,
+                    "comments": 39,
+                    "shares": 91,
+                    "reach": 6101
+                }
+            ],
+            "total_sales_attributed": 2007.5721379539918
+        }
+    ]
+}

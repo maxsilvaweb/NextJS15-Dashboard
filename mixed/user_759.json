@@ -1,0 +1,26 @@
+{
+    "user_id": "1a89d8cd-851e-47c6-8de5-b732b5c08298",
+    "name": "Reginald Rodriguez",
+    "email": "george76@example.com",
+    "instagram_handle": "@davidcarey",
+    "tiktok_handle": "@aevans",
+    "joined_at": "2024-03-29T09:33:34.356843",
+    "advocacy_programs": [
+        {
+            "program_id": "689681eb-1a65-441f-9d69-f63c96822e73",
+            "brand": "Jackson, Hutchinson and West",
+            "tasks_completed": [
+                {
+                    "task_id": "9281f105-9c0e-4881-87a8-cb471fea8109",
+                    "platform": "TikTok",
+                    "post_url": "https://obvious-yin.org/",
+                    "likes": 754,
+                    "comments": 13,
+                    "shares": 60,
+                    "reach": 9794
+                }
+            ],
+            "total_sales_attributed": 928.18
+        }
+    ]
+}

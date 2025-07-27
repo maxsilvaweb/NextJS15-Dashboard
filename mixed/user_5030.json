@@ -1,0 +1,26 @@
+{
+    "user_id": "aa6bda41-99ea-4330-9d6f-7f065c71bebb",
+    "name": "Roxanne Prohaska",
+    "email": "Adelia16@yahoo.com",
+    "instagram_handle": "@Natalia84",
+    "tiktok_handle": "@Tito72",
+    "joined_at": "2025-01-23T04:00:31.380Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6159e8bc-871f-4673-bfec-9659af33956c",
+            "brand": "Goyette, Abernathy and Wehner",
+            "tasks_completed": [
+                {
+                    "task_id": "9fe88ac9-93fc-40d3-b2b6-1b92f380d247",
+                    "platform": "Instagram",
+                    "post_url": "https://official-morning.info",
+                    "likes": 384,
+                    "comments": 18,
+                    "shares": 17,
+                    "reach": 697
+                }
+            ],
+            "total_sales_attributed": 3444.9610212641796
+        }
+    ]
+}

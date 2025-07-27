@@ -1,0 +1,26 @@
+{
+    "user_id": "e089b700-a42c-42a6-bde6-815bee0133e3",
+    "name": "Isaac Jaskolski",
+    "email": "Marcia49@hotmail.com",
+    "instagram_handle": "@Caitlyn_Hyatt",
+    "tiktok_handle": "@Kiley94",
+    "joined_at": "2025-02-02T02:05:35.450Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2cc89f09-411a-43db-b1b2-54f381723aba",
+            "brand": "Robel - Morar",
+            "tasks_completed": [
+                {
+                    "task_id": "0000b685-53d6-4d22-a00f-fc98610bb503",
+                    "platform": "Instagram",
+                    "post_url": "https://pessimistic-lift.com",
+                    "likes": 209,
+                    "comments": 45,
+                    "shares": 15,
+                    "reach": 1494
+                }
+            ],
+            "total_sales_attributed": 3944.127798365645
+        }
+    ]
+}

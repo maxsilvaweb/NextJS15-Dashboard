@@ -1,0 +1,26 @@
+{
+    "user_id": "e01a3fb7-88ee-466a-901d-e7b4b4598d09",
+    "name": "Kimberly Robertson",
+    "email": "ematthews@example.com",
+    "instagram_handle": "@michael84",
+    "tiktok_handle": "@uphillips",
+    "joined_at": "2024-05-10T18:30:27.204Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d1ebe5c1-d6d1-4710-8919-676b57f43e28",
+            "brand": "Donaldson, Carpenter and Zimmerman",
+            "tasks_completed": [
+                {
+                    "task_id": "0b1c9ea7-64d3-4cab-a5b1-14cb9961ebcd",
+                    "platform": "Facebook",
+                    "post_url": "https://www.webb.com/",
+                    "likes": 9336,
+                    "comments": 13,
+                    "shares": 53,
+                    "reach": 6653
+                }
+            ],
+            "total_sales_attributed": 5354.25
+        }
+    ]
+}

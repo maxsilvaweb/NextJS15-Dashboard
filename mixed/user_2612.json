@@ -1,0 +1,26 @@
+{
+    "user_id": "d087c7a3-04a5-49ca-b97c-42f3942eeb1c",
+    "name": "Laura Vega",
+    "email": "katherine72@example.org",
+    "instagram_handle": "@rachel31",
+    "tiktok_handle": "@lblake",
+    "joined_at": "2024-11-29T21:42:10.601615",
+    "advocacy_programs": [
+        {
+            "program_id": "b086918a-1cd5-4d2b-9068-11666b16882e",
+            "brand": "Atkins-Poole",
+            "tasks_completed": [
+                {
+                    "task_id": "5022236e-ffd4-4d16-80ea-b71a19556641",
+                    "platform": "TikTok",
+                    "post_url": "http://www.warren.com/",
+                    "likes": 2535,
+                    "comments": 316,
+                    "shares": 27,
+                    "reach": 1755
+                }
+            ],
+            "total_sales_attributed": 8784.08
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0b6522fe-c602-4ac7-9a8c-de46330d12b3",
+    "name": "Brenda Mullen",
+    "email": "mckinneyandrew@example.org",
+    "instagram_handle": "@april76",
+    "tiktok_handle": "@jacquelineramirez",
+    "joined_at": "2024-03-24T14:59:07.678825",
+    "advocacy_programs": [
+        {
+            "program_id": "d54cbb48-c729-4753-829f-dbc955556c46",
+            "brand": "Erickson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "106649a1-3256-49fb-9eeb-3a95314d50de",
+                    "platform": "Facebook",
+                    "post_url": "http://www.anthony.net/",
+                    "likes": 7586,
+                    "comments": 297,
+                    "shares": 48,
+                    "reach": 2463
+                }
+            ],
+            "total_sales_attributed": 5203.19
+        }
+    ]
+}

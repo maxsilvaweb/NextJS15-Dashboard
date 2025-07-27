@@ -1,0 +1,26 @@
+{
+    "user_id": "a49cd293-62e2-4d33-b3d9-4b7283fb1dbd",
+    "name": "Curtis Hubbard",
+    "email": "jeremykhan@example.com",
+    "instagram_handle": "@hholmes",
+    "tiktok_handle": "@nglenn",
+    "joined_at": "2025-04-12T20:12:59.465773",
+    "advocacy_programs": [
+        {
+            "program_id": "ae626bd0-15e5-4988-8a6f-b0c6bd5348f4",
+            "brand": "Summers-Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "6b8ea338-dfbe-42b4-98de-d3123e24e834",
+                    "platform": "TikTok",
+                    "post_url": "https://lutz.com/",
+                    "likes": 1925,
+                    "comments": 70,
+                    "shares": 71,
+                    "reach": 2217
+                }
+            ],
+            "total_sales_attributed": 4362.22
+        }
+    ]
+}

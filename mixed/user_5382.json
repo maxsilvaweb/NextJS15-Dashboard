@@ -1,0 +1,26 @@
+{
+    "user_id": "0aeed67d-0146-432c-b37e-ee78fd2e67e1",
+    "name": "Amy Ruiz",
+    "email": "brittanyrichmond@example.net",
+    "instagram_handle": "@dthompson",
+    "tiktok_handle": "@jessicawarren",
+    "joined_at": "2024-04-06T17:23:59.391046",
+    "advocacy_programs": [
+        {
+            "program_id": "b1fb75a3-7ff6-4ac4-b7df-ee6f2d82328e",
+            "brand": "White, Perez and Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "b8445735-9a8c-4e66-b902-8801da665236",
+                    "platform": "Instagram",
+                    "post_url": "http://www.walker-lee.com/",
+                    "likes": 3048,
+                    "comments": 355,
+                    "shares": 80,
+                    "reach": 6244
+                }
+            ],
+            "total_sales_attributed": 3925.6
+        }
+    ]
+}

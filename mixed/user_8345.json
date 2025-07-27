@@ -1,0 +1,26 @@
+{
+    "user_id": "1b48037b-cd77-434c-81e0-4faeda06d290",
+    "name": "Cassandra Rolfson",
+    "email": "Charlie45@gmail.com",
+    "instagram_handle": "@Keagan.Keeling",
+    "tiktok_handle": "@Felton.Stehr",
+    "joined_at": "2024-10-02T08:12:55.806Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cb9c2e95-2be6-406e-8376-c33482da43b4",
+            "brand": "Dietrich LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5c955c1f-6039-4eb7-abf5-bba8e6f48449",
+                    "platform": "Instagram",
+                    "post_url": "https://aching-scrap.com/",
+                    "likes": 207,
+                    "comments": 12,
+                    "shares": 31,
+                    "reach": 5635
+                }
+            ],
+            "total_sales_attributed": 3333.3553914871154
+        }
+    ]
+}

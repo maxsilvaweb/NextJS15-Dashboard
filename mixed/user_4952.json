@@ -1,0 +1,26 @@
+{
+    "user_id": "c78c6686-2038-419b-9ff9-71797352ec62",
+    "name": "Terri Reid",
+    "email": "vanderson@example.net",
+    "instagram_handle": "@wendygarcia",
+    "tiktok_handle": "@jordansarah",
+    "joined_at": "2025-03-25T13:29:53.354952",
+    "advocacy_programs": [
+        {
+            "program_id": "27928bfa-9a5f-4bfa-8d42-ec6e53095c26",
+            "brand": "Purdy, Borer and O'Hara",
+            "tasks_completed": [
+                {
+                    "task_id": "a2c7596a-c73c-4d26-8cc9-f40c800ea94b",
+                    "platform": "TikTok",
+                    "post_url": "https://www.griffin.com/",
+                    "likes": 3757,
+                    "comments": 8,
+                    "shares": 45,
+                    "reach": 6179
+                }
+            ],
+            "total_sales_attributed": 1730.9405466900746
+        }
+    ]
+}

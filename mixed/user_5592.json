@@ -1,0 +1,26 @@
+{
+    "user_id": "3c11475b-4e1e-40cb-9287-fcb4c0996b10",
+    "name": "Donald Prohaska",
+    "email": "Emil_Stanton@hotmail.com",
+    "instagram_handle": "@Dee_Zulauf54",
+    "tiktok_handle": "@Eliezer_Franey-Hagenes11",
+    "joined_at": "2024-09-15T00:26:47.542Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cb278555-9be9-493a-9468-ac24136b863c",
+            "brand": "Morar, Skiles and Walsh",
+            "tasks_completed": [
+                {
+                    "task_id": "f47e5727-5a7b-4275-b8a4-e85fe17d967e",
+                    "platform": "Instagram",
+                    "post_url": "https://pushy-drive.org",
+                    "likes": 368,
+                    "comments": 26,
+                    "shares": 98,
+                    "reach": 2940
+                }
+            ],
+            "total_sales_attributed": 2211.0771196515852
+        }
+    ]
+}

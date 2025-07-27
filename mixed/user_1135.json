@@ -1,0 +1,26 @@
+{
+    "user_id": "645071cc-a86b-4561-a60d-191dd39df113",
+    "name": "Tara Rodgers",
+    "email": "holmescraig@example.com",
+    "instagram_handle": "@cmitchell",
+    "tiktok_handle": "@anthonyfisher",
+    "joined_at": "2024-09-26T15:50:37.759Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bf2de23a-dffa-4633-825a-740b36c02890",
+            "brand": "White, Greene and Hayes",
+            "tasks_completed": [
+                {
+                    "task_id": "45eb7e7e-065f-446c-9895-1b43e164f136",
+                    "platform": "Facebook",
+                    "post_url": "http://gordon.net/",
+                    "likes": 461,
+                    "comments": 433,
+                    "shares": 59,
+                    "reach": 7977
+                }
+            ],
+            "total_sales_attributed": 2346.48
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ae6b5925-205b-4dbf-b88d-202c912bfef0",
+    "name": "Paula Lewis",
+    "email": "fbruce@example.com",
+    "instagram_handle": "@fulleradriana",
+    "tiktok_handle": "@melissawilliams",
+    "joined_at": "2025-01-05T04:08:53.654195",
+    "advocacy_programs": [
+        {
+            "program_id": "b5641352-7740-4aa2-af06-4f16efa228c4",
+            "brand": "Doyle and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "99abdcf9-56b8-40d3-86fa-bad768cbe56f",
+                    "platform": "TikTok",
+                    "post_url": "http://www.rodriguez.com/",
+                    "likes": 4826,
+                    "comments": 41,
+                    "shares": 84,
+                    "reach": 6884
+                }
+            ],
+            "total_sales_attributed": 1884.3817892863483
+        }
+    ]
+}

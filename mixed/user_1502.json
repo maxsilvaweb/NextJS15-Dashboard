@@ -1,0 +1,26 @@
+{
+    "user_id": "2a157b71-6003-49ac-80f4-664732780556",
+    "name": "Hayley Combs MD",
+    "email": "walkeremily@example.org",
+    "instagram_handle": "@thomasshannon",
+    "tiktok_handle": "@markstrickland",
+    "joined_at": "2024-08-24T09:43:59.064415",
+    "advocacy_programs": [
+        {
+            "program_id": "eb36d377-3c77-4505-b8cb-5385a036a6db",
+            "brand": "Powers-Hunter",
+            "tasks_completed": [
+                {
+                    "task_id": "86d6a32a-c970-45b6-9cb9-819c11287442",
+                    "platform": "TikTok",
+                    "post_url": "https://campbell.com/",
+                    "likes": 69,
+                    "comments": 362,
+                    "shares": 48,
+                    "reach": 9866
+                }
+            ],
+            "total_sales_attributed": 2897.89
+        }
+    ]
+}

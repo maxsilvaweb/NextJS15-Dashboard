@@ -1,0 +1,26 @@
+{
+    "user_id": "b955d339-cc48-4342-8366-613f75c252cf",
+    "name": "Elizabeth Oconnell",
+    "email": "wharris@example.org",
+    "instagram_handle": "@john56",
+    "tiktok_handle": "@andersoncraig",
+    "joined_at": "2025-05-26T12:47:51.512553",
+    "advocacy_programs": [
+        {
+            "program_id": "16e791c7-dd48-4378-8953-9906a0fc7476",
+            "brand": "West, Shepard and Evans",
+            "tasks_completed": [
+                {
+                    "task_id": "fa4b79dd-cb37-44f4-94fc-92399d9bb94d",
+                    "platform": "Twitter",
+                    "post_url": "http://www.jones.com/",
+                    "likes": 5245,
+                    "comments": 18,
+                    "shares": 57,
+                    "reach": 2983
+                }
+            ],
+            "total_sales_attributed": 7881.08
+        }
+    ]
+}

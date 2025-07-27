@@ -1,0 +1,26 @@
+{
+    "user_id": "a46f2731-dbf1-46f4-9b0b-da38dbb58095",
+    "name": "Cynthia Hoffman",
+    "email": "Cassandra_Herman@gmail.com",
+    "instagram_handle": "@nelsonlorraine",
+    "tiktok_handle": "@stewartpamela",
+    "joined_at": "2024-07-09T02:55:29.654078",
+    "advocacy_programs": [
+        {
+            "program_id": "2395f7cb-d2c1-42a0-b0a2-3d8eea15846e",
+            "brand": "Flynn LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "407699df-c20f-44ea-838d-7ad301b168ce",
+                    "platform": "Facebook",
+                    "post_url": "http://craig.com/",
+                    "likes": 28,
+                    "comments": 2,
+                    "shares": 66,
+                    "reach": 3413
+                }
+            ],
+            "total_sales_attributed": 1523.62
+        }
+    ]
+}

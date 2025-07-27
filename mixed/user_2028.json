@@ -1,0 +1,26 @@
+{
+    "user_id": "2c3b78ea-abaa-43fd-864b-96a0a35dc7e3",
+    "name": "Wesley Martinez",
+    "email": "Rowena7@hotmail.com",
+    "instagram_handle": "@vaughnlauren",
+    "tiktok_handle": "@brandon09",
+    "joined_at": "2025-06-04T22:23:41.437174",
+    "advocacy_programs": [
+        {
+            "program_id": "7758e836-af9c-4f4b-bcf0-620d9c258b28",
+            "brand": "Caldwell Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b22cfd05-1011-4997-900e-28ef0bdd1db2",
+                    "platform": "TikTok",
+                    "post_url": "https://carlson.com/",
+                    "likes": 3081,
+                    "comments": 338,
+                    "shares": 70,
+                    "reach": 7704
+                }
+            ],
+            "total_sales_attributed": 1914.55
+        }
+    ]
+}

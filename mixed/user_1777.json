@@ -1,0 +1,26 @@
+{
+    "user_id": "033aa865-0159-4e10-8cb0-63ac72f1c262",
+    "name": "Elaine Drake",
+    "email": "rebecca03@example.com",
+    "instagram_handle": "@virginiawebb",
+    "tiktok_handle": "@chenry",
+    "joined_at": "2024-04-12T12:52:37.040688",
+    "advocacy_programs": [
+        {
+            "program_id": "0d4bc730-5c4b-4f37-b16f-279f7462cba0",
+            "brand": "Harper-Ramirez",
+            "tasks_completed": [
+                {
+                    "task_id": "20b98709-9d4c-487e-a45f-317a8b3d0e07",
+                    "platform": "TikTok",
+                    "post_url": "http://www.alvarez-oliver.com/",
+                    "likes": 398,
+                    "comments": 31,
+                    "shares": 50,
+                    "reach": 2979
+                }
+            ],
+            "total_sales_attributed": 8976.17
+        }
+    ]
+}

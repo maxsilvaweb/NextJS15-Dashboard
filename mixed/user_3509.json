@@ -1,0 +1,26 @@
+{
+    "user_id": "758b79ef-83b0-46b7-a10b-12c0856e5a2f",
+    "name": "Edmond Stracke",
+    "email": "Loy_Graham8@yahoo.com",
+    "instagram_handle": "@Retha.Goldner",
+    "tiktok_handle": "@Brannon.Lueilwitz61",
+    "joined_at": "2025-01-22T21:51:37.803Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8ca228e1-3ec4-47c8-bd23-59e8899d00e4",
+            "brand": "Brown, Johns and McDermott",
+            "tasks_completed": [
+                {
+                    "task_id": "b273192d-e9ae-42e2-b6b4-3ea5bd80a688",
+                    "platform": "Instagram",
+                    "post_url": "https://any-perp.org",
+                    "likes": 79,
+                    "comments": 38,
+                    "shares": 100,
+                    "reach": 4001
+                }
+            ],
+            "total_sales_attributed": 2932.0223724377365
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c8571c5a-677b-4278-b529-8bdfd7225f1c",
+    "name": "Susan Fisher",
+    "email": "christinathomas@example.net",
+    "instagram_handle": "@ele",
+    "tiktok_handle": "@karen82",
+    "joined_at": "2024-06-29T21:06:10.760865",
+    "advocacy_programs": [
+        {
+            "program_id": "3dc393fe-c04b-4123-91e4-d80dab7d472a",
+            "brand": "Clark, Nelson and Phillips",
+            "tasks_completed": [
+                {
+                    "task_id": "724f6f6e-6182-4594-958b-44d913e11d0a",
+                    "platform": "Facebook",
+                    "post_url": "http://www.torres.com/",
+                    "likes": 4032,
+                    "comments": 319,
+                    "shares": 59,
+                    "reach": 3450
+                }
+            ],
+            "total_sales_attributed": 5639.17
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "f7ec9e02-99dd-4715-a272-1956dc4c4d5e",
+    "name": "Michael Hanna",
+    "email": "Nasir_Sanford@hotmail.com",
+    "instagram_handle": "@hammondjohn",
+    "tiktok_handle": "@scottkatie",
+    "joined_at": "2025-05-18T02:35:31.375911",
+    "advocacy_programs": [
+        {
+            "program_id": "a328c3df-be44-470b-b5fd-a3aaf3be6abb",
+            "brand": "Williams Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "f163b7c5-5762-401b-9542-fb4f231920f2",
+                    "platform": "Twitter",
+                    "post_url": "https://www.blake-calhoun.com/",
+                    "likes": 2212,
+                    "comments": 15,
+                    "shares": 80,
+                    "reach": 621
+                }
+            ],
+            "total_sales_attributed": 3660.0718726538385
+        }
+    ]
+}

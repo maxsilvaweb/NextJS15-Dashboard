@@ -1,0 +1,26 @@
+{
+    "user_id": "52958d2e-7882-4d83-8b85-0b0a37d0ea8f",
+    "name": "Tabitha Douglas",
+    "email": "Kasey_Deckow-Yundt@hotmail.com",
+    "instagram_handle": "@Asia_Greenholt",
+    "tiktok_handle": "@Millie.Wolff23",
+    "joined_at": "2024-04-01T05:43:24.287Z",
+    "advocacy_programs": [
+        {
+            "program_id": "41fd92f7-caea-46bd-b359-3e9ae59f453e",
+            "brand": "Kshlerin Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ca7f86ab-8b38-4798-ae42-56c7c1557f38",
+                    "platform": "TikTok",
+                    "post_url": "https://portly-scale.org",
+                    "likes": 313,
+                    "comments": 9,
+                    "shares": 99,
+                    "reach": 5529
+                }
+            ],
+            "total_sales_attributed": 4492.131041754764
+        }
+    ]
+}

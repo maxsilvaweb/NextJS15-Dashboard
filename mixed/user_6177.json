@@ -1,0 +1,26 @@
+{
+    "user_id": "78014b61-166e-4197-884d-1558aa7cc77b",
+    "name": "Claudia Casper",
+    "email": "Luna20@yahoo.com",
+    "instagram_handle": "@Joanne92",
+    "tiktok_handle": "@Emie37",
+    "joined_at": "2024-12-29T19:23:00.582Z",
+    "advocacy_programs": [
+        {
+            "program_id": "00dda2a1-fe0c-48ee-a455-279de1b2059b",
+            "brand": "Wunsch LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ea16781d-4a96-4413-b9b6-ff11eaa02073",
+                    "platform": "TikTok",
+                    "post_url": "https://rich-bookend.net/",
+                    "likes": 367,
+                    "comments": 36,
+                    "shares": 77,
+                    "reach": 7363
+                }
+            ],
+            "total_sales_attributed": 2576.471929857376
+        }
+    ]
+}

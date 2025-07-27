@@ -1,0 +1,26 @@
+{
+    "user_id": "1b008f46-07af-4cce-a55e-e58278101b4f",
+    "name": "Brandon Thornton",
+    "email": "whenry@example.org",
+    "instagram_handle": "@gravesbilly",
+    "tiktok_handle": "@crystalgibson",
+    "joined_at": "2025-02-27T04:18:32.630446",
+    "advocacy_programs": [
+        {
+            "program_id": "102f922a-6313-4481-83bf-a3a9fb74ee04",
+            "brand": "Sharp-Robinson",
+            "tasks_completed": [
+                {
+                    "task_id": "e2134713-918c-4e66-a5b4-a59aaec8d4d5",
+                    "platform": "Twitter",
+                    "post_url": "http://www.gamble-taylor.com/",
+                    "likes": 5728,
+                    "comments": 374,
+                    "shares": 1,
+                    "reach": 9325
+                }
+            ],
+            "total_sales_attributed": 4325.53
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "dd15eb85-fcd3-4b09-b184-69b7ce4d049c",
+    "name": "Marion Bartell Sr.",
+    "email": "Dereck_Frami-Braun65@hotmail.com",
+    "instagram_handle": "@Wyman_Strosin",
+    "tiktok_handle": "@Joshuah.Smitham",
+    "joined_at": "2024-05-15T09:15:04.220Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e471e217-e49a-49b9-98ad-03faa9af8a3a",
+            "brand": "Sanford LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "3939b694-9f64-43c1-8830-bd709043d3bc",
+                    "platform": "Instagram",
+                    "post_url": "https://grumpy-hydrolyse.org/",
+                    "likes": 152,
+                    "comments": 24,
+                    "shares": 6,
+                    "reach": 2725
+                }
+            ],
+            "total_sales_attributed": 3419.7766476444185
+        }
+    ]
+}

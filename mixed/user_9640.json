@@ -1,0 +1,26 @@
+{
+    "user_id": "cb879f2c-0df3-440e-8f3d-382a430db277",
+    "name": "Dana Hilpert",
+    "email": "Lilian89@gmail.com",
+    "instagram_handle": "@Maria_Abshire",
+    "tiktok_handle": "@Kasandra.Denesik",
+    "joined_at": "2024-10-25T01:20:41.915Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d34e1beb-0125-43dc-a3e8-bd9b022d0fd1",
+            "brand": "Hermiston - Treutel",
+            "tasks_completed": [
+                {
+                    "task_id": "1a529b75-ad87-4cee-b939-45a955031bad",
+                    "platform": "Instagram",
+                    "post_url": "https://specific-jury.info/",
+                    "likes": 154,
+                    "comments": 27,
+                    "shares": 22,
+                    "reach": 4264
+                }
+            ],
+            "total_sales_attributed": 1872.55043696628
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c6894e27-971b-4a1c-895a-133b1aa4f8c7",
+    "name": "Elvira O'Reilly",
+    "email": "Marguerite.Towne41@gmail.com",
+    "instagram_handle": "@Karolann_Kub55",
+    "tiktok_handle": "@Angelo78",
+    "joined_at": "2024-12-10T16:14:09.912Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3b3dc2dd-1469-421d-b8c6-94b35ee4b188",
+            "brand": "Swift, Zulauf and Rolfson",
+            "tasks_completed": [
+                {
+                    "task_id": "5d1235ad-5cd4-4102-a77c-381fd7c72eee",
+                    "platform": "Instagram",
+                    "post_url": "https://guilty-antelope.net",
+                    "likes": 322,
+                    "comments": 28,
+                    "shares": 70,
+                    "reach": 6413
+                }
+            ],
+            "total_sales_attributed": 3968.963828974612
+        }
+    ]
+}

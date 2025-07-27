@@ -1,0 +1,26 @@
+{
+    "user_id": "873819d2-0f67-44f9-beb3-96b862cfadbe",
+    "name": "Hannah Benson",
+    "email": "dennisthomas@example.net",
+    "instagram_handle": "@colleen42",
+    "tiktok_handle": "@jjohnson",
+    "joined_at": "2023-11-23T06:24:36.411467",
+    "advocacy_programs": [
+        {
+            "program_id": "da52b510-3caf-438f-b28f-dde4a26d02e6",
+            "brand": "Parsons, Hall and Gonzalez",
+            "tasks_completed": [
+                {
+                    "task_id": "fa934af2-5a62-4261-b98e-d0646da23ee0",
+                    "platform": "YouTube",
+                    "post_url": "https://considerate-epic.biz",
+                    "likes": 390,
+                    "comments": 451,
+                    "shares": 38,
+                    "reach": 9482
+                }
+            ],
+            "total_sales_attributed": 6204.0
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "eba49df2-7dff-49d8-bf4d-e5e912d7040a",
+    "name": "Isaiah Heath",
+    "email": "warrendiana@example.com",
+    "instagram_handle": "@lisa52",
+    "tiktok_handle": "@laura87",
+    "joined_at": "2025-04-21T18:40:06.771560",
+    "advocacy_programs": [
+        {
+            "program_id": "1f4c2ec0-8cb9-4776-9e0e-568f8fd046ba",
+            "brand": "Martinez-Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "c9c17266-202e-4a2c-9ff0-8832a67b10a2",
+                    "platform": "TikTok",
+                    "post_url": "https://garcia.biz/",
+                    "likes": 719,
+                    "comments": 96,
+                    "shares": 23,
+                    "reach": 4840
+                }
+            ],
+            "total_sales_attributed": 5237.45
+        }
+    ]
+}

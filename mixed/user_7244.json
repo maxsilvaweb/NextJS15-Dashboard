@@ -1,0 +1,26 @@
+{
+    "user_id": "9e55a5e4-8296-48ce-8328-676a860e1b4f",
+    "name": "Victoria Boyd",
+    "email": "martinezjeffrey@example.com",
+    "instagram_handle": "@ffoster",
+    "tiktok_handle": "@hugheschristina",
+    "joined_at": "2024-11-19T01:44:06.486309",
+    "advocacy_programs": [
+        {
+            "program_id": "f33ac96e-bf34-4107-a3cf-b8f35fa38032",
+            "brand": "Skiles - Wintheiser",
+            "tasks_completed": [
+                {
+                    "task_id": "a2a961ee-c5c2-4d04-b3d1-15cdf42838e2",
+                    "platform": "Facebook",
+                    "post_url": "https://jones.com/",
+                    "likes": 5945,
+                    "comments": 123,
+                    "shares": 95,
+                    "reach": 1993
+                }
+            ],
+            "total_sales_attributed": 8071.98
+        }
+    ]
+}

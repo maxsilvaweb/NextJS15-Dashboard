@@ -1,0 +1,26 @@
+{
+    "user_id": "969587a7-f6e7-488e-aaf9-13062ee9560c",
+    "name": "Brian Goodwin",
+    "email": "ssingh@example.net",
+    "instagram_handle": "@brighthannah",
+    "tiktok_handle": "@harrisonlaura",
+    "joined_at": "2024-12-23T18:07:06.910373",
+    "advocacy_programs": [
+        {
+            "program_id": "2fa49d31-11b7-4239-8436-924f097306dc",
+            "brand": "Ramirez-Jordan",
+            "tasks_completed": [
+                {
+                    "task_id": "1281976f-ba05-48f5-aa84-5a28dbbdfc0a",
+                    "platform": "Facebook",
+                    "post_url": "https://www.murillo-wright.net/",
+                    "likes": 234,
+                    "comments": 466,
+                    "shares": 46,
+                    "reach": 3719
+                }
+            ],
+            "total_sales_attributed": 7027.91
+        }
+    ]
+}

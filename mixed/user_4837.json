@@ -1,0 +1,26 @@
+{
+    "user_id": "50413bf2-5a05-46bf-ac8e-18dbb12d5291",
+    "name": "Judy Anderson",
+    "email": "kellerseth@example.org",
+    "instagram_handle": "@nlowe",
+    "tiktok_handle": "@tmay",
+    "joined_at": "2024-12-24T13:43:56.057910",
+    "advocacy_programs": [
+        {
+            "program_id": "dfed77b3-f871-4eb4-b8fa-069121e8258b",
+            "brand": "Auer, Schulist and Nikolaus",
+            "tasks_completed": [
+                {
+                    "task_id": "9de393d4-189c-4d83-99af-6630336c3af0",
+                    "platform": "Twitter",
+                    "post_url": "http://smith-heath.com/",
+                    "likes": 3662,
+                    "comments": 220,
+                    "shares": 44,
+                    "reach": 9397
+                }
+            ],
+            "total_sales_attributed": 2812.775443989348
+        }
+    ]
+}

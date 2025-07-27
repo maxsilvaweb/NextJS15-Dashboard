@@ -1,0 +1,26 @@
+{
+    "user_id": "19231094-052c-4695-a554-83abcf1f9be8",
+    "name": "Pamela Roberts",
+    "email": "Sophia.Ferry6@hotmail.com",
+    "instagram_handle": "@hpatterson",
+    "tiktok_handle": "@anelson",
+    "joined_at": "2024-04-11T12:39:56.014Z",
+    "advocacy_programs": [
+        {
+            "program_id": "868f648e-439d-4242-a328-89300677a91b",
+            "brand": "Scott Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "1037f24d-44c4-4467-bc06-5b874488a9ff",
+                    "platform": "Instagram",
+                    "post_url": "https://smug-density.com",
+                    "likes": 420,
+                    "comments": 436,
+                    "shares": 13,
+                    "reach": 647
+                }
+            ],
+            "total_sales_attributed": 4285.79
+        }
+    ]
+}

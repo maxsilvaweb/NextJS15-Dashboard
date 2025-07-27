@@ -1,0 +1,26 @@
+{
+    "user_id": "2cfad136-5898-4009-94cd-5bbe54a717c6",
+    "name": "Matthew Turner",
+    "email": "samanthaboyd@example.net",
+    "instagram_handle": "@michelle80",
+    "tiktok_handle": "@lopezkathy",
+    "joined_at": "2024-05-05T00:26:19.525504",
+    "advocacy_programs": [
+        {
+            "program_id": "9fb565bf-b85d-4939-9047-782d51139398",
+            "brand": "Rodriguez, Johnson and Fuller",
+            "tasks_completed": [
+                {
+                    "task_id": "87e56a6d-a1f8-4023-a780-59ac8ffdb45a",
+                    "platform": "Twitter",
+                    "post_url": "https://www.roth-sanders.org/",
+                    "likes": 9473,
+                    "comments": 304,
+                    "shares": 3,
+                    "reach": 9586
+                }
+            ],
+            "total_sales_attributed": 8003.73
+        }
+    ]
+}

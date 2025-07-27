@@ -1,0 +1,26 @@
+{
+    "user_id": "3090d4f3-0c9f-45f6-87f9-123faac71019",
+    "name": "Daniel Schroeder",
+    "email": "ppowell@example.com",
+    "instagram_handle": "@shermantina",
+    "tiktok_handle": "@lpatterson",
+    "joined_at": "2024-04-30T06:30:27.504024",
+    "advocacy_programs": [
+        {
+            "program_id": "4ad128b2-0f2f-4acb-aa05-1c67cf3f4b92",
+            "brand": "Keeling Group",
+            "tasks_completed": [
+                {
+                    "task_id": "d20fc3e7-1cd5-41ef-8a00-f4b4bf482ae4",
+                    "platform": "TikTok",
+                    "post_url": "https://www.jones.biz/",
+                    "likes": 807,
+                    "comments": 399,
+                    "shares": 100,
+                    "reach": 8320
+                }
+            ],
+            "total_sales_attributed": 5161.17
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6db0ee26-90dc-427f-8eaf-d7ffd919ed23",
+    "name": "Aimee Hill",
+    "email": "thomasjohnson@example.org",
+    "instagram_handle": "@astuart",
+    "tiktok_handle": "@martinezcindy",
+    "joined_at": "2025-02-10T10:44:14.346805",
+    "advocacy_programs": [
+        {
+            "program_id": "47314d8d-8a33-4f40-9799-30af55663bf4",
+            "brand": "Gonzales Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "ee7038c6-b519-4d14-9d17-8d90af597164",
+                    "platform": "Instagram",
+                    "post_url": "http://brock.info/",
+                    "likes": 6492,
+                    "comments": 107,
+                    "shares": 33,
+                    "reach": 4489
+                }
+            ],
+            "total_sales_attributed": 2425.65
+        }
+    ]
+}

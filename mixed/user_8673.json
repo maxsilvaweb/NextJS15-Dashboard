@@ -1,0 +1,26 @@
+{
+    "user_id": "2fb4c784-50ce-4450-a0f0-1ae660c29eb6",
+    "name": "Silvia Zemlak",
+    "email": "Danika_Kilback77@gmail.com",
+    "instagram_handle": "@Vergie.Kreiger60",
+    "tiktok_handle": "@Filomena12",
+    "joined_at": "2024-08-03T05:28:53.207Z",
+    "advocacy_programs": [
+        {
+            "program_id": "04769971-82e0-4d31-9642-cde3b52d8f9d",
+            "brand": "Greenholt and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "8ce49fdd-b0ce-4a15-a306-3b1a90e09900",
+                    "platform": "TikTok",
+                    "post_url": "https://comfortable-guide.org/",
+                    "likes": 321,
+                    "comments": 38,
+                    "shares": 87,
+                    "reach": 5108
+                }
+            ],
+            "total_sales_attributed": 2325.6415741199758
+        }
+    ]
+}

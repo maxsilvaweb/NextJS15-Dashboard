@@ -1,0 +1,26 @@
+{
+    "user_id": "5ead0453-6f14-48d6-ac14-f7b1afb615cc",
+    "name": "Allison Simmons",
+    "email": "twagner@example.com",
+    "instagram_handle": "@darryl98",
+    "tiktok_handle": "@michellehampton",
+    "joined_at": "2025-02-27T17:32:29.398Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eac8234f-b2f2-4258-b23d-857fdae06fa2",
+            "brand": "Hagenes - Krajcik",
+            "tasks_completed": [
+                {
+                    "task_id": "c0205757-3bfe-45e1-bca6-97c76420f355",
+                    "platform": "Instagram",
+                    "post_url": "http://gonzalez.biz/",
+                    "likes": 2431,
+                    "comments": 10,
+                    "shares": 94,
+                    "reach": 4019
+                }
+            ],
+            "total_sales_attributed": 6791.78
+        }
+    ]
+}

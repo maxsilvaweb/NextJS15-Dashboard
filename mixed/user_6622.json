@@ -1,0 +1,26 @@
+{
+    "user_id": "f59959aa-1560-455e-bf1b-e3bef8df7695",
+    "name": "Ryan Cook",
+    "email": "williamlucas@example.com",
+    "instagram_handle": "@tracyperez",
+    "tiktok_handle": "@joseph46",
+    "joined_at": "2024-03-17T21:29:32.766450",
+    "advocacy_programs": [
+        {
+            "program_id": "fa12cf81-fdc6-4aba-8255-50bd809247c1",
+            "brand": "Cruz-Barrera",
+            "tasks_completed": [
+                {
+                    "task_id": "460dd152-5d04-4662-96d1-e19f2fe8819d",
+                    "platform": "Facebook",
+                    "post_url": "http://wright.com/",
+                    "likes": 175,
+                    "comments": 36,
+                    "shares": 65,
+                    "reach": 1380
+                }
+            ],
+            "total_sales_attributed": 6992.79
+        }
+    ]
+}

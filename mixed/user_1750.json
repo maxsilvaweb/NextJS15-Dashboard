@@ -1,0 +1,26 @@
+{
+    "user_id": "3e62a9d0-61a9-4cf1-85b5-82942933d557",
+    "name": "Dr. Myron Deckow",
+    "email": "Javon.Maggio@yahoo.com",
+    "instagram_handle": "@Demarco75",
+    "tiktok_handle": "@Kade.Veum",
+    "joined_at": "2025-02-15T14:45:04.977Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e455277c-0f4b-4020-a8e7-b912cd88f094",
+            "brand": "Dare - Schmeler",
+            "tasks_completed": [
+                {
+                    "task_id": "7d75e9ca-bfce-4580-b8a5-74e9bc164380",
+                    "platform": "TikTok",
+                    "post_url": "https://experienced-spirit.name",
+                    "likes": 453,
+                    "comments": 21,
+                    "shares": 38,
+                    "reach": 9410
+                }
+            ],
+            "total_sales_attributed": 570.580296256856
+        }
+    ]
+}

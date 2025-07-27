@@ -1,0 +1,26 @@
+{
+    "user_id": "297162ba-82e3-409a-a947-f41871bc88f8",
+    "name": "Dustin Solis",
+    "email": "george79@example.net",
+    "instagram_handle": "@bartlettmichael",
+    "tiktok_handle": "@arnoldandrew",
+    "joined_at": "2023-12-22T19:08:57.811731",
+    "advocacy_programs": [
+        {
+            "program_id": "85b1a162-e528-4f45-bf67-91febfb7963e",
+            "brand": "Wuckert and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "2cd5fa93-0416-4bcb-93b4-d6616db80439",
+                    "platform": "Facebook",
+                    "post_url": "https://www.henderson.com/",
+                    "likes": 9336,
+                    "comments": 438,
+                    "shares": 94,
+                    "reach": 6683
+                }
+            ],
+            "total_sales_attributed": 3900.24
+        }
+    ]
+}

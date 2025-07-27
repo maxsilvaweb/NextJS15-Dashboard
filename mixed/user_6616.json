@@ -1,0 +1,26 @@
+{
+    "user_id": "73e1875b-24f0-4609-a372-dd2c8ff52316",
+    "name": "Danielle Collins",
+    "email": "wolfedaniel@example.org",
+    "instagram_handle": "@faith22",
+    "tiktok_handle": "@hpark",
+    "joined_at": "2024-07-17T22:18:03.758009",
+    "advocacy_programs": [
+        {
+            "program_id": "1c78d96f-5ded-46ec-8cae-49a6ee141935",
+            "brand": "Hill, Lloyd and Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "05243233-fa66-4566-ad7d-cde02d7d4507",
+                    "platform": "Instagram",
+                    "post_url": "https://www.harris.com/",
+                    "likes": 346,
+                    "comments": 311,
+                    "shares": 6,
+                    "reach": 7831
+                }
+            ],
+            "total_sales_attributed": 7378.32
+        }
+    ]
+}

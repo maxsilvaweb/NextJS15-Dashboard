@@ -1,0 +1,26 @@
+{
+    "user_id": "8f0fa3ce-07bd-4c7c-bb59-fa9c65d21849",
+    "name": "Anita Blick",
+    "email": "abbottmelissa@example.net",
+    "instagram_handle": "@csmith",
+    "tiktok_handle": "@jmurray",
+    "joined_at": "2024-02-15T12:12:32.673300",
+    "advocacy_programs": [
+        {
+            "program_id": "ac47ef63-98bd-4d39-a316-f463f6ea876e",
+            "brand": "Gislason, Stracke and Lakin",
+            "tasks_completed": [
+                {
+                    "task_id": "838a2a10-8953-4f72-a01b-04f04748f2c2",
+                    "platform": "TikTok",
+                    "post_url": "https://lopez.info/",
+                    "likes": 117,
+                    "comments": 405,
+                    "shares": 6,
+                    "reach": 1403
+                }
+            ],
+            "total_sales_attributed": 1574.22
+        }
+    ]
+}

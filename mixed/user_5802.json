@@ -1,0 +1,26 @@
+{
+    "user_id": "f7daeea7-a4f6-4a1a-9f55-57ac19f85ad5",
+    "name": "Melissa Bergstrom",
+    "email": "Carlos61@hotmail.com",
+    "instagram_handle": "@Brent_Ebert39",
+    "tiktok_handle": "@Danielle.Mayert",
+    "joined_at": "2025-01-18T03:13:28.144Z",
+    "advocacy_programs": [
+        {
+            "program_id": "92d950af-ff5b-4a11-b8d0-a52bfeb8bd99",
+            "brand": "Hegmann Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "66649d29-dabe-41db-8b9a-fff5477d3bf5",
+                    "platform": "Instagram",
+                    "post_url": "https://upbeat-incandescence.org",
+                    "likes": 48,
+                    "comments": 37,
+                    "shares": 19,
+                    "reach": 2975
+                }
+            ],
+            "total_sales_attributed": 950.4718222866085
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "f9c37a6b-5b92-4dda-8363-4fdc6d3629d0",
+    "name": "Preston Smitham PhD",
+    "email": "Barry61@gmail.com",
+    "instagram_handle": "@Madilyn.Ledner-Bayer",
+    "tiktok_handle": "@Margarett.Boehm13",
+    "joined_at": "2025-02-14T02:25:41.643Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dc03602c-8e4f-46e1-a0f5-61af89ac0a8f",
+            "brand": "Prosacco - Bartoletti",
+            "tasks_completed": [
+                {
+                    "task_id": "279aea58-b18c-4107-b7ec-a3f3174742c0",
+                    "platform": "Instagram",
+                    "post_url": "https://specific-napkin.biz/",
+                    "likes": 124,
+                    "comments": 24,
+                    "shares": 13,
+                    "reach": 2241
+                }
+            ],
+            "total_sales_attributed": 1942.7512235233035
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8f805379-0e14-4659-9b6f-cc9092502093",
+    "name": "Emily Wilson",
+    "email": "Ismael50@hotmail.com",
+    "instagram_handle": "@gcooper",
+    "tiktok_handle": "@davismichael",
+    "joined_at": "2024-05-15T18:30:23.664433",
+    "advocacy_programs": [
+        {
+            "program_id": "0d905024-e390-4399-b130-14de23ce7101",
+            "brand": "Irwin Group",
+            "tasks_completed": [
+                {
+                    "task_id": "a0243abd-8d00-4a44-9738-9e411e8833e8",
+                    "platform": "TikTok",
+                    "post_url": "https://www.carter.biz/",
+                    "likes": 4096,
+                    "comments": 408,
+                    "shares": 14,
+                    "reach": 9544
+                }
+            ],
+            "total_sales_attributed": 1455.2
+        }
+    ]
+}

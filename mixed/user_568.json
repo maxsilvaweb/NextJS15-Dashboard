@@ -1,0 +1,26 @@
+{
+    "user_id": "93c213b2-4642-485e-93cf-199f6b0c35d4",
+    "name": "Kaitlin Hernandez",
+    "email": "lori06@example.com",
+    "instagram_handle": "@grantcolton",
+    "tiktok_handle": "@Arthur_Bruen",
+    "joined_at": "2025-03-08T18:42:55.995Z",
+    "advocacy_programs": [
+        {
+            "program_id": "835bfced-d307-4755-9bd7-29cb28cd4605",
+            "brand": "Yoder-Combs",
+            "tasks_completed": [
+                {
+                    "task_id": "90131199-c086-405e-b1ed-95a9344ab71d",
+                    "platform": "Twitter",
+                    "post_url": "http://kelly-jennings.com/",
+                    "likes": 3160,
+                    "comments": 429,
+                    "shares": 38,
+                    "reach": 5657
+                }
+            ],
+            "total_sales_attributed": 6818.12
+        }
+    ]
+}

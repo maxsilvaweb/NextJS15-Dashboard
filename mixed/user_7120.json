@@ -1,0 +1,26 @@
+{
+    "user_id": "bf0b6932-319d-4227-aeb6-e3e9d1fad7af",
+    "name": "Mariah Wright",
+    "email": "joshua68@example.com",
+    "instagram_handle": "@steven17",
+    "tiktok_handle": "@Flo_Rutherford89",
+    "joined_at": "2023-09-24T01:53:59.794462",
+    "advocacy_programs": [
+        {
+            "program_id": "68227f82-647d-48fa-8c9d-a9e2c8cb939a",
+            "brand": "Douglas, Duran and Wright",
+            "tasks_completed": [
+                {
+                    "task_id": "880fac80-d17a-4f09-bb7f-f4db82389b03",
+                    "platform": "TikTok",
+                    "post_url": "https://holder.com/",
+                    "likes": 2691,
+                    "comments": 206,
+                    "shares": 28,
+                    "reach": 2568
+                }
+            ],
+            "total_sales_attributed": 4451.78
+        }
+    ]
+}

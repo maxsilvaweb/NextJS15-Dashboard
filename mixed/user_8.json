@@ -1,0 +1,26 @@
+{
+    "user_id": "62e8a93e-8b75-4cf7-8a06-4db35fa9dab8",
+    "name": "Taylor Silva",
+    "email": "evanweiss@example.org",
+    "instagram_handle": "@brennanreginald",
+    "tiktok_handle": "@Herminia.Jast54",
+    "joined_at": "2024-08-25T18:01:54.989330",
+    "advocacy_programs": [
+        {
+            "program_id": "21ea1125-2fd7-4247-9846-2934d0873f6b",
+            "brand": "Young, Moore and Thornton",
+            "tasks_completed": [
+                {
+                    "task_id": "d6c4d97f-e103-4f48-8c48-32d0851a461b",
+                    "platform": "TikTok",
+                    "post_url": "https://www.wilson.com/",
+                    "likes": 5488,
+                    "comments": 252,
+                    "shares": 10,
+                    "reach": 3254
+                }
+            ],
+            "total_sales_attributed": 8631.06
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1306b8ea-b7ca-4b91-a077-ed9e228f6d09",
+    "name": "Javier Burch",
+    "email": "oking@example.com",
+    "instagram_handle": "@xsims",
+    "tiktok_handle": "@whiteronald",
+    "joined_at": "2025-01-23T13:38:18.101537",
+    "advocacy_programs": [
+        {
+            "program_id": "b75fa7f8-1042-45c5-a92d-5d056bec13e2",
+            "brand": "Reese, King and Stevens",
+            "tasks_completed": [
+                {
+                    "task_id": "0994f296-51de-4a8e-9723-350a40c63503",
+                    "platform": "Facebook",
+                    "post_url": "https://www.branch.com/",
+                    "likes": 893,
+                    "comments": 397,
+                    "shares": 95,
+                    "reach": 6580
+                }
+            ],
+            "total_sales_attributed": 1964.47
+        }
+    ]
+}

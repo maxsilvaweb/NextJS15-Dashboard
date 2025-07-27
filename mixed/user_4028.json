@@ -1,0 +1,26 @@
+{
+    "user_id": "a5f7178b-cfa5-4ca7-b8f9-e7b1cdadab51",
+    "name": "Jason Taylor",
+    "email": "Walton_Schaden@yahoo.com",
+    "instagram_handle": "@gtrevino",
+    "tiktok_handle": "@alexandra32",
+    "joined_at": "2025-06-13T01:34:25.670555",
+    "advocacy_programs": [
+        {
+            "program_id": "11037433-cbdc-47e2-ab52-66db3fa6202d",
+            "brand": "Castillo-Wilkins",
+            "tasks_completed": [
+                {
+                    "task_id": "8f53982d-b143-46bc-84ee-83e915e28225",
+                    "platform": "Twitter",
+                    "post_url": "http://www.johnson.com/",
+                    "likes": 3829,
+                    "comments": 189,
+                    "shares": 16,
+                    "reach": 8524
+                }
+            ],
+            "total_sales_attributed": 2642.38
+        }
+    ]
+}

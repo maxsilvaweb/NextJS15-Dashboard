@@ -1,0 +1,26 @@
+{
+    "user_id": "358e7e11-040c-4c3c-9383-d0c986f64c39",
+    "name": "Alexis Kunde",
+    "email": "Arielle.Senger25@gmail.com",
+    "instagram_handle": "@Una.Ebert39",
+    "tiktok_handle": "@Alysha59",
+    "joined_at": "2024-09-12T16:14:49.361Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8f4b7b8b-ff05-48f6-925c-22601672487c",
+            "brand": "Haley and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "5c92013a-2016-41f5-9e97-59f5889c4319",
+                    "platform": "TikTok",
+                    "post_url": "https://livid-toothpick.biz/",
+                    "likes": 35,
+                    "comments": 27,
+                    "shares": 1,
+                    "reach": 9354
+                }
+            ],
+            "total_sales_attributed": 1913.284671720296
+        }
+    ]
+}

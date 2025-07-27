@@ -1,0 +1,26 @@
+{
+    "user_id": "7c89df60-6c94-426f-b2f7-cbc6a7edaab6",
+    "name": "Michael Lakin",
+    "email": "Carolyne_Hintz@gmail.com",
+    "instagram_handle": "@Abbey92",
+    "tiktok_handle": "@Tristin55",
+    "joined_at": "2024-08-30T13:07:09.735Z",
+    "advocacy_programs": [
+        {
+            "program_id": "59cb5599-635f-4205-bcd7-f91581129949",
+            "brand": "Rosenbaum, Blanda and Sawayn",
+            "tasks_completed": [
+                {
+                    "task_id": "e97d78e2-d561-463b-9793-acac42546333",
+                    "platform": "Instagram",
+                    "post_url": "https://obedient-exploration.name",
+                    "likes": 29,
+                    "comments": 8,
+                    "shares": 24,
+                    "reach": 6270
+                }
+            ],
+            "total_sales_attributed": 3303.5133752514594
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b694679a-7f1e-43c8-bc67-38f7436b98db",
+    "name": "Kevin Rojas",
+    "email": "ejones@example.net",
+    "instagram_handle": "@tuckerdavid",
+    "tiktok_handle": "@jennifer88",
+    "joined_at": "2025-04-13T09:05:45.000120",
+    "advocacy_programs": [
+        {
+            "program_id": "c9da4c61-8d6e-4303-9c64-409b9af0d37d",
+            "brand": "Smith-Kelley",
+            "tasks_completed": [
+                {
+                    "task_id": "8b53406e-e7d3-4d2c-966f-640a3db3f708",
+                    "platform": "TikTok",
+                    "post_url": "https://www.soto.org/",
+                    "likes": 2460,
+                    "comments": 38,
+                    "shares": 8,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 8455.94
+        }
+    ]
+}

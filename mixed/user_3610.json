@@ -1,0 +1,26 @@
+{
+    "user_id": "a819cc26-8026-4ead-ab5b-d2c0b37fca17",
+    "name": "Ashley Richard",
+    "email": "wigginspamela@example.org",
+    "instagram_handle": "@jimmyharris",
+    "tiktok_handle": "@geraldbeltran",
+    "joined_at": "2023-09-18T01:34:35.951120",
+    "advocacy_programs": [
+        {
+            "program_id": "f701c7de-474d-4c99-8504-6c117afa52d6",
+            "brand": "Medina-Levy",
+            "tasks_completed": [
+                {
+                    "task_id": "add7af0e-eb58-475b-ae8d-d3fa69293008",
+                    "platform": "TikTok",
+                    "post_url": "https://measly-median.org/",
+                    "likes": 5730,
+                    "comments": 35,
+                    "shares": 24,
+                    "reach": 9905
+                }
+            ],
+            "total_sales_attributed": 3964.66
+        }
+    ]
+}

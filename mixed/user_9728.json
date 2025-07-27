@@ -1,0 +1,26 @@
+{
+    "user_id": "0a60c647-9c11-407f-9aca-ff26373f0ab3",
+    "name": "Marshall Greenfelder",
+    "email": "Annabelle.Dach29@yahoo.com",
+    "instagram_handle": "@Greta_Jerde",
+    "tiktok_handle": "@Madonna16",
+    "joined_at": "2024-04-26T14:00:03.064Z",
+    "advocacy_programs": [
+        {
+            "program_id": "591f91e3-7475-4979-8a93-54a2399fe4b7",
+            "brand": "Luettgen Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "0773e046-9a68-40f7-9978-9abe58088763",
+                    "platform": "TikTok",
+                    "post_url": "https://purple-chap.org/",
+                    "likes": 395,
+                    "comments": 44,
+                    "shares": 2,
+                    "reach": 9596
+                }
+            ],
+            "total_sales_attributed": 2138.166479719146
+        }
+    ]
+}

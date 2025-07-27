@@ -1,0 +1,26 @@
+{
+    "user_id": "af411f26-e03c-4140-8b74-9a8df6454590",
+    "name": "Christina Johnson",
+    "email": "stonestacey@example.com",
+    "instagram_handle": "@sharonterry",
+    "tiktok_handle": "@susan17",
+    "joined_at": "2024-12-28T00:50:48.551494",
+    "advocacy_programs": [
+        {
+            "program_id": "7d03d60e-be13-45f0-80f2-b246590859b1",
+            "brand": "Montes-Walters",
+            "tasks_completed": [
+                {
+                    "task_id": "c328da05-a1ae-427c-bce4-4cfbd2b80cf7",
+                    "platform": "TikTok",
+                    "post_url": "https://logan.com/",
+                    "likes": 4608,
+                    "comments": 210,
+                    "shares": 37,
+                    "reach": 8012
+                }
+            ],
+            "total_sales_attributed": 7288.02
+        }
+    ]
+}

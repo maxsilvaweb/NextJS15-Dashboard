@@ -1,0 +1,26 @@
+{
+    "user_id": "d6a9b6ad-35a6-4071-9c9f-c8cb1b2df0fd",
+    "name": "Ken Sipes",
+    "email": "Amani_Powlowski@yahoo.com",
+    "instagram_handle": "@Queenie23",
+    "tiktok_handle": "@Raheem_Botsford59",
+    "joined_at": "2024-03-24T22:06:28.975Z",
+    "advocacy_programs": [
+        {
+            "program_id": "01763bd9-06b3-4c54-9903-bf8e89476382",
+            "brand": "Bauch, Schumm and Waelchi",
+            "tasks_completed": [
+                {
+                    "task_id": "c675b1b2-7406-47cc-b78d-280c0d52731f",
+                    "platform": "TikTok",
+                    "post_url": "https://political-granny.com/",
+                    "likes": 114,
+                    "comments": 31,
+                    "shares": 53,
+                    "reach": 6437
+                }
+            ],
+            "total_sales_attributed": 1893.5632834795915
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "67a56e57-27cb-4875-b15b-0f3a7f8b45fa",
+    "name": "Jenna Peterson",
+    "email": "garrettbraun@example.net",
+    "instagram_handle": "@wholland",
+    "tiktok_handle": "@wwagner",
+    "joined_at": "2024-10-13T08:44:49.641214",
+    "advocacy_programs": [
+        {
+            "program_id": "7e294c36-8ee8-4b1b-b130-297e0031183b",
+            "brand": "Chavez, Montoya and Henderson",
+            "tasks_completed": [
+                {
+                    "task_id": "30459fb2-8fe5-4d8d-a089-39c5ab39fa13",
+                    "platform": "Facebook",
+                    "post_url": "http://www.osborne.com/",
+                    "likes": 195,
+                    "comments": 30,
+                    "shares": 69,
+                    "reach": 1009
+                }
+            ],
+            "total_sales_attributed": 8365.1
+        }
+    ]
+}

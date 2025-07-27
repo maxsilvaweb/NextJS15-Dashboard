@@ -1,0 +1,26 @@
+{
+    "user_id": "ba1a9b45-7646-4ed4-aba2-ff8196d086b1",
+    "name": "Philip Flores",
+    "email": "stonejulie@example.com",
+    "instagram_handle": "@gkeller",
+    "tiktok_handle": "@amandamyers",
+    "joined_at": "2025-06-16T22:10:51.756067",
+    "advocacy_programs": [
+        {
+            "program_id": "432900d9-ff8e-4cdd-86df-9b7f24a3740b",
+            "brand": "Franco, Avery and Gomez",
+            "tasks_completed": [
+                {
+                    "task_id": "d4f9dd8f-b6a5-42e8-ba48-cb1e079da9ac",
+                    "platform": "TikTok",
+                    "post_url": "http://www.welch.info/",
+                    "likes": 3080,
+                    "comments": 256,
+                    "shares": 59,
+                    "reach": 4731
+                }
+            ],
+            "total_sales_attributed": 137.25
+        }
+    ]
+}

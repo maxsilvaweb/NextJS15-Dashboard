@@ -1,0 +1,26 @@
+{
+    "user_id": "66b35562-da28-4af4-82f9-df39898491fc",
+    "name": "Johanna Fay",
+    "email": "Gertrude.Bauch73@gmail.com",
+    "instagram_handle": "@Reymundo_Macejkovic53",
+    "tiktok_handle": "@Erick.Hoppe",
+    "joined_at": "2024-07-30T17:03:13.801Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b04aa24a-580d-40e6-9484-d16637742f3a",
+            "brand": "Crona - Hartmann",
+            "tasks_completed": [
+                {
+                    "task_id": "20329104-24d3-4039-b940-9501d0c8b2be",
+                    "platform": "Instagram",
+                    "post_url": "https://memorable-papa.org",
+                    "likes": 458,
+                    "comments": 36,
+                    "shares": 33,
+                    "reach": 2654
+                }
+            ],
+            "total_sales_attributed": 4591.672157445368
+        }
+    ]
+}

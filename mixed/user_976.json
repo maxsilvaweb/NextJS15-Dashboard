@@ -1,0 +1,26 @@
+{
+    "user_id": "bdd64275-2763-48a8-afd5-e2d1369956ac",
+    "name": "Heidi Robel",
+    "email": "harrisanne@example.com",
+    "instagram_handle": "@mhorn",
+    "tiktok_handle": "@michaelmclaughlin",
+    "joined_at": "2025-02-27T19:14:40.579Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7e649d09-1c61-4596-974b-8fe3be055af1",
+            "brand": "Gibson-Powell",
+            "tasks_completed": [
+                {
+                    "task_id": "333c1299-a3a9-4fc4-9320-d1382a9e7821",
+                    "platform": "Facebook",
+                    "post_url": "https://www.rodriguez-ryan.com/",
+                    "likes": 6777,
+                    "comments": 273,
+                    "shares": 17,
+                    "reach": 1834
+                }
+            ],
+            "total_sales_attributed": 9753.44
+        }
+    ]
+}

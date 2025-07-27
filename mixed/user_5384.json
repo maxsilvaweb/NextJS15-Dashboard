@@ -1,0 +1,26 @@
+{
+    "user_id": "f10e5bae-99ea-4368-bb8d-e7cbc11a7cb9",
+    "name": "Joseph Nelson",
+    "email": "brianna69@example.net",
+    "instagram_handle": "@mcdonaldjeremy",
+    "tiktok_handle": "@michelle35",
+    "joined_at": "2025-06-26T01:12:10.792305",
+    "advocacy_programs": [
+        {
+            "program_id": "ba6c37eb-de82-4db0-b6b8-cbfb85bc1299",
+            "brand": "Thompson Group",
+            "tasks_completed": [
+                {
+                    "task_id": "d1cbe8e5-4799-4470-8471-8df316907b4a",
+                    "platform": "Instagram",
+                    "post_url": "https://www.kelly.info/",
+                    "likes": 9854,
+                    "comments": 201,
+                    "shares": 51,
+                    "reach": 2587
+                }
+            ],
+            "total_sales_attributed": 4094.9
+        }
+    ]
+}

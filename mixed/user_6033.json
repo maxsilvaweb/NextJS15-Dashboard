@@ -1,0 +1,26 @@
+{
+    "user_id": "fb9b6f7b-29a3-4096-9f57-2fda04520e7c",
+    "name": "Martin Johnson",
+    "email": "ashley04@example.com",
+    "instagram_handle": "@donna92",
+    "tiktok_handle": "@mcarter",
+    "joined_at": "2024-02-19T15:39:37.379952",
+    "advocacy_programs": [
+        {
+            "program_id": "2f304ef3-9abd-4730-a45a-cabb90038737",
+            "brand": "Lopez Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "480aea07-e652-41fb-9bf5-a7b36e15c4a7",
+                    "platform": "TikTok",
+                    "post_url": "http://mercer.org/",
+                    "likes": 2501,
+                    "comments": 278,
+                    "shares": 20,
+                    "reach": 1780
+                }
+            ],
+            "total_sales_attributed": 4005.61
+        }
+    ]
+}

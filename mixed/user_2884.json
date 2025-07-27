@@ -1,0 +1,26 @@
+{
+    "user_id": "1c971580-5e61-4c19-85d0-9b286c599f42",
+    "name": "Rebecca Meyer",
+    "email": "gonzalezmichael@example.org",
+    "instagram_handle": "@jbradford",
+    "tiktok_handle": "@tiffany24",
+    "joined_at": "2024-03-08T23:08:16.707571",
+    "advocacy_programs": [
+        {
+            "program_id": "738da4c9-2666-4b0c-b76a-4ce606ee721a",
+            "brand": "Foster-Graves",
+            "tasks_completed": [
+                {
+                    "task_id": "91a8a9fe-94de-456a-b2ee-ee70c52e5561",
+                    "platform": "TikTok",
+                    "post_url": "https://www.adkins.com/",
+                    "likes": 2684,
+                    "comments": 309,
+                    "shares": 61,
+                    "reach": 8696
+                }
+            ],
+            "total_sales_attributed": 824.3118583325756
+        }
+    ]
+}

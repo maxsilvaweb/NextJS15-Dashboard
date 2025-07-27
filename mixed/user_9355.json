@@ -1,0 +1,26 @@
+{
+    "user_id": "97001e74-be10-4357-8fe2-a2b01c7ecd04",
+    "name": "Carolyn Hill",
+    "email": "kbutler@example.org",
+    "instagram_handle": "@hansenmandy",
+    "tiktok_handle": "@jonesemily",
+    "joined_at": "2024-05-24T18:27:13.392603",
+    "advocacy_programs": [
+        {
+            "program_id": "3eb655a6-0dea-483d-9f68-bd96927444f5",
+            "brand": "Miller PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "293bec7b-bdc9-4729-98a6-e3de6795f2be",
+                    "platform": "Instagram",
+                    "post_url": "https://www.moon.com/",
+                    "likes": 68,
+                    "comments": 173,
+                    "shares": 85,
+                    "reach": 5237
+                }
+            ],
+            "total_sales_attributed": 2513.13
+        }
+    ]
+}

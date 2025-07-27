@@ -1,0 +1,26 @@
+{
+    "user_id": "e763b341-0fe8-445d-8d97-402af4653883",
+    "name": "Gene Schneider",
+    "email": "Ali3@yahoo.com",
+    "instagram_handle": "@Wilfred64",
+    "tiktok_handle": "@Vernie_Carroll14",
+    "joined_at": "2024-04-15T20:28:02.745Z",
+    "advocacy_programs": [
+        {
+            "program_id": "40432e10-5af1-492c-a80c-ec690a2bb08b",
+            "brand": "Klocko LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "4a8cb780-e97d-4d9f-86e7-ffd2eb457441",
+                    "platform": "TikTok",
+                    "post_url": "https://grubby-eternity.name",
+                    "likes": 317,
+                    "comments": 20,
+                    "shares": 51,
+                    "reach": 3275
+                }
+            ],
+            "total_sales_attributed": 1127.4903343166402
+        }
+    ]
+}

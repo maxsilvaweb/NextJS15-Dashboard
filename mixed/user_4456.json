@@ -1,0 +1,26 @@
+{
+    "user_id": "df9bd659-080e-468b-a8d1-ca9a15d4942f",
+    "name": "Lauren Patel",
+    "email": "anthony11@example.org",
+    "instagram_handle": "@brownaaron",
+    "tiktok_handle": "@brookehamilton",
+    "joined_at": "2025-05-28T15:50:59.531302",
+    "advocacy_programs": [
+        {
+            "program_id": "8192387c-45da-4138-9e7d-87eae0686fc3",
+            "brand": "Simmons-Hurley",
+            "tasks_completed": [
+                {
+                    "task_id": "143d925e-917b-4d35-ae50-6c4172d19fbf",
+                    "platform": "Facebook",
+                    "post_url": "https://chavez-cook.com/",
+                    "likes": 8253,
+                    "comments": 13,
+                    "shares": 59,
+                    "reach": 5768
+                }
+            ],
+            "total_sales_attributed": 2862.45
+        }
+    ]
+}

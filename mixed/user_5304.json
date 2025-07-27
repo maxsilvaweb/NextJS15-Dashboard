@@ -1,0 +1,26 @@
+{
+    "user_id": "8b314a92-441f-44b2-86f4-cbd1fe959851",
+    "name": "Derrick Garrison",
+    "email": "masonberger@example.org",
+    "instagram_handle": "@daniellepeters",
+    "tiktok_handle": "@woodscheyenne",
+    "joined_at": "2025-05-07T07:42:31.675267",
+    "advocacy_programs": [
+        {
+            "program_id": "e90d64cc-d367-43d4-b534-497855c5dab8",
+            "brand": "Melendez-Dixon",
+            "tasks_completed": [
+                {
+                    "task_id": "d01a6660-e3a0-4c37-af6a-92e282eff26b",
+                    "platform": "YouTube",
+                    "post_url": "https://www.fisher.biz/",
+                    "likes": 8856,
+                    "comments": 3,
+                    "shares": 67,
+                    "reach": 2693
+                }
+            ],
+            "total_sales_attributed": 2369.14
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1dc852ef-afa1-4624-8287-411dd4de4ac6",
+    "name": "Steven Lara",
+    "email": "tyler92@example.net",
+    "instagram_handle": "@carla86",
+    "tiktok_handle": "@nicolerios",
+    "joined_at": "2023-09-25T22:18:14.180101",
+    "advocacy_programs": [
+        {
+            "program_id": "e45cc382-4a91-49a6-992b-416da2205588",
+            "brand": "Moore and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "96d49a62-1e2b-44b8-b685-c942884af237",
+                    "platform": "Facebook",
+                    "post_url": "https://www.sloan.com/",
+                    "likes": 136,
+                    "comments": 142,
+                    "shares": 74,
+                    "reach": 8188
+                }
+            ],
+            "total_sales_attributed": 7709.19
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a1103f94-afa3-48d9-a9ac-783ae009a85e",
+    "name": "Dan Turner IV",
+    "email": "Marlin.Gibson@gmail.com",
+    "instagram_handle": "@Demetris_Bednar47",
+    "tiktok_handle": "@Daphnee_Schmidt",
+    "joined_at": "2024-07-23T04:23:35.957Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c832bb36-362e-48dd-b1dd-410c39d8f3ac",
+            "brand": "Keeling - Jaskolski",
+            "tasks_completed": [
+                {
+                    "task_id": "b8570027-870e-4c68-b79f-31645b5e41dd",
+                    "platform": "TikTok",
+                    "post_url": "https://confused-thongs.info",
+                    "likes": 209,
+                    "comments": 47,
+                    "shares": 12,
+                    "reach": 3715
+                }
+            ],
+            "total_sales_attributed": 286.5361672355277
+        }
+    ]
+}

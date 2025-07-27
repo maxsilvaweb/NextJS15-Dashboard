@@ -1,0 +1,26 @@
+{
+    "user_id": "9b71c2af-deb9-48d1-a90d-9a9af56b0317",
+    "name": "Tracey Cormier",
+    "email": "Ellen50@gmail.com",
+    "instagram_handle": "@Davin.Walsh53",
+    "tiktok_handle": "@Margarett_Klocko",
+    "joined_at": "2024-04-24T14:57:03.766Z",
+    "advocacy_programs": [
+        {
+            "program_id": "03a5dc4b-e1a4-4282-b38b-ed211ba4d7ca",
+            "brand": "Herman - Glover",
+            "tasks_completed": [
+                {
+                    "task_id": "32a79f30-8301-454d-9480-bbd26fb533e6",
+                    "platform": "TikTok",
+                    "post_url": "https://inconsequential-almighty.org",
+                    "likes": 288,
+                    "comments": 21,
+                    "shares": 44,
+                    "reach": 8122
+                }
+            ],
+            "total_sales_attributed": 389.9860717065326
+        }
+    ]
+}

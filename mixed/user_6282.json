@@ -1,0 +1,26 @@
+{
+    "user_id": "50b54c20-1724-46c9-b15f-f0c69568e9d5",
+    "name": "Dr. Maria Esparza",
+    "email": "rwhitney@example.org",
+    "instagram_handle": "@iramos",
+    "tiktok_handle": "@iwatson",
+    "joined_at": "2023-09-05T21:53:53.791526",
+    "advocacy_programs": [
+        {
+            "program_id": "8068fd26-e8d3-45df-a586-0b156dfd2055",
+            "brand": "Dickson PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "981153e6-8790-4f9a-a197-daaa1aeff28f",
+                    "platform": "Twitter",
+                    "post_url": "https://www.ramirez-lee.net/",
+                    "likes": 142,
+                    "comments": 26,
+                    "shares": 9,
+                    "reach": 7432
+                }
+            ],
+            "total_sales_attributed": 3136.147382691006
+        }
+    ]
+}

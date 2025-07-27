@@ -1,0 +1,26 @@
+{
+    "user_id": "ffd851ee-ba29-4939-bf67-fcc68749d6dc",
+    "name": "Ricky Hahn",
+    "email": "jonathan97@example.com",
+    "instagram_handle": "@rebecca12",
+    "tiktok_handle": "@philipwang",
+    "joined_at": "2024-08-28T16:57:51.309650",
+    "advocacy_programs": [
+        {
+            "program_id": "7b01f7da-d0f4-4b01-8b4b-7509b3d19b16",
+            "brand": "Tate-Gonzalez",
+            "tasks_completed": [
+                {
+                    "task_id": "01441cf3-1851-47cd-9a24-571483da6331",
+                    "platform": "Facebook",
+                    "post_url": "https://handsome-accelerator.info/",
+                    "likes": 4456,
+                    "comments": 267,
+                    "shares": 45,
+                    "reach": 6015
+                }
+            ],
+            "total_sales_attributed": 387.36
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9c97c639-4935-46db-add4-5797d96fcef4",
+    "name": "Penny Keller",
+    "email": "Beulah_Kemmer83@gmail.com",
+    "instagram_handle": "@mike64",
+    "tiktok_handle": "@contreraspatrick",
+    "joined_at": "2024-12-11T16:40:41.296263",
+    "advocacy_programs": [
+        {
+            "program_id": "d7b0939c-a007-480f-986e-7040bf88d5c2",
+            "brand": "Hoover Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "7caa04de-53cc-442a-ad5a-072d02cc0ebc",
+                    "platform": "Facebook",
+                    "post_url": "http://howell-williams.com/",
+                    "likes": 6084,
+                    "comments": 108,
+                    "shares": 92,
+                    "reach": 4069
+                }
+            ],
+            "total_sales_attributed": 2959.4667924589567
+        }
+    ]
+}

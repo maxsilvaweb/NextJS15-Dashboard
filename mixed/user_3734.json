@@ -1,0 +1,26 @@
+{
+    "user_id": "dac98515-9c57-4a22-a6c9-997f0e3c0e1c",
+    "name": "Dr. Rafael Johnson",
+    "email": "Jesus_Bruen43@gmail.com",
+    "instagram_handle": "@Lera_Brakus",
+    "tiktok_handle": "@Chet.Borer21",
+    "joined_at": "2025-03-10T23:08:05.576Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1f2620d5-5626-4aea-b0ca-74194c5afcd1",
+            "brand": "Trantow, Carter and Bergstrom",
+            "tasks_completed": [
+                {
+                    "task_id": "2a0d8f07-cfb7-42d3-8e67-05a3c7ab9dd1",
+                    "platform": "TikTok",
+                    "post_url": "https://appropriate-switchboard.info/",
+                    "likes": 387,
+                    "comments": 49,
+                    "shares": 27,
+                    "reach": 1384
+                }
+            ],
+            "total_sales_attributed": 1058.8058679358653
+        }
+    ]
+}

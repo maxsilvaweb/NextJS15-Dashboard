@@ -1,0 +1,26 @@
+{
+    "user_id": "a4da91b7-a1e7-4211-a8c0-e248053930e4",
+    "name": "Ashley Wood",
+    "email": "tnorris@example.org",
+    "instagram_handle": "@jasonmaldonado",
+    "tiktok_handle": "@brian04",
+    "joined_at": "2024-05-05T07:30:04.426179",
+    "advocacy_programs": [
+        {
+            "program_id": "c4388b8a-69ac-434b-8678-4ce8f4872b16",
+            "brand": "Williams-Ryan",
+            "tasks_completed": [
+                {
+                    "task_id": "f36265af-9e59-4a64-a4a8-db60f2d6ac80",
+                    "platform": "Facebook",
+                    "post_url": "https://wrathful-restaurant.biz",
+                    "likes": 172,
+                    "comments": 147,
+                    "shares": 35,
+                    "reach": 6874
+                }
+            ],
+            "total_sales_attributed": 291.49
+        }
+    ]
+}

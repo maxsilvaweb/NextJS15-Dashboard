@@ -1,0 +1,26 @@
+{
+    "user_id": "fa5c948a-a1f4-4a81-bf5e-b4dc11cf59d9",
+    "name": "Nicole Armstrong",
+    "email": "General97@hotmail.com",
+    "instagram_handle": "@mmccormick",
+    "tiktok_handle": "@eddiegreen",
+    "joined_at": "2024-06-24T09:44:52.739264",
+    "advocacy_programs": [
+        {
+            "program_id": "37d68137-978e-473b-854e-a8049ae3c077",
+            "brand": "Hicks-Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "29c93b82-197a-4aa7-a695-95f96bc9bd7b",
+                    "platform": "Instagram",
+                    "post_url": "https://www.little.com/",
+                    "likes": 71,
+                    "comments": 16,
+                    "shares": 87,
+                    "reach": 4541
+                }
+            ],
+            "total_sales_attributed": 4459.665615304827
+        }
+    ]
+}

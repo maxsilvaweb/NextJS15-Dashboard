@@ -1,0 +1,26 @@
+{
+    "user_id": "86bf0580-5910-4af8-9f0a-9e60d8974961",
+    "name": "Adam Kelley",
+    "email": "wuapril@example.org",
+    "instagram_handle": "@lmcdowell",
+    "tiktok_handle": "@scottconrad",
+    "joined_at": "2024-03-28T10:06:35.459622",
+    "advocacy_programs": [
+        {
+            "program_id": "ad0537f6-15a9-4ec0-a3f7-5d4586d3b44b",
+            "brand": "Allen Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b91a2d5b-7c80-4624-bc35-d410eac531fc",
+                    "platform": "Facebook",
+                    "post_url": "https://www.gordon.net/",
+                    "likes": 2408,
+                    "comments": 60,
+                    "shares": 24,
+                    "reach": 5288
+                }
+            ],
+            "total_sales_attributed": 7100.79
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a61a7c6b-c4e6-4e81-9add-44e6458dd4c5",
+    "name": "Thomas Lane",
+    "email": "milesamanda@example.com",
+    "instagram_handle": "@stacey82",
+    "tiktok_handle": "@juliestone",
+    "joined_at": "2024-05-19T15:31:29.071400",
+    "advocacy_programs": [
+        {
+            "program_id": "ff46e6ad-3d2e-4541-a61e-e8c62658b6dd",
+            "brand": "Riley LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2f9bb17e-296d-4663-ba59-66e42236f2c0",
+                    "platform": "Facebook",
+                    "post_url": "https://logan.com/",
+                    "likes": 7280,
+                    "comments": 39,
+                    "shares": 54,
+                    "reach": 9559
+                }
+            ],
+            "total_sales_attributed": 280.65
+        }
+    ]
+}

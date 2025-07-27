@@ -1,0 +1,26 @@
+{
+    "user_id": "a0115258-19d5-4daa-b44f-50d2b935931c",
+    "name": "Courtney Campbell",
+    "email": "kpham@example.net",
+    "instagram_handle": "@michael08",
+    "tiktok_handle": "@joseph10",
+    "joined_at": "2024-08-23T00:07:15.463872",
+    "advocacy_programs": [
+        {
+            "program_id": "a5234b81-ca8b-4abf-967a-1ec351640b8d",
+            "brand": "Rios, Lee and Burgess",
+            "tasks_completed": [
+                {
+                    "task_id": "0ba9c08c-8c27-464b-a447-a8a2df8d3026",
+                    "platform": "TikTok",
+                    "post_url": "http://www.cantu-daniels.com/",
+                    "likes": 257,
+                    "comments": 91,
+                    "shares": 60,
+                    "reach": 1818
+                }
+            ],
+            "total_sales_attributed": 6766.46
+        }
+    ]
+}

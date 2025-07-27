@@ -1,0 +1,26 @@
+{
+    "user_id": "20f6e45b-8e12-4a42-b5e5-a8226fac3409",
+    "name": "Jacqueline Hess",
+    "email": "khill@example.net",
+    "instagram_handle": "@torresdaniel",
+    "tiktok_handle": "@brendaperez",
+    "joined_at": "2025-06-25T19:08:15.296616",
+    "advocacy_programs": [
+        {
+            "program_id": "c6357c4f-6bd1-4deb-812b-809fc5257b58",
+            "brand": "Booth-Cruz",
+            "tasks_completed": [
+                {
+                    "task_id": "05873e07-ed04-4479-8b2c-ecf5df057c40",
+                    "platform": "TikTok",
+                    "post_url": "http://www.smith.com/",
+                    "likes": 5512,
+                    "comments": 23,
+                    "shares": 64,
+                    "reach": 9880
+                }
+            ],
+            "total_sales_attributed": 3311.29
+        }
+    ]
+}

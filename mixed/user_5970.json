@@ -1,0 +1,26 @@
+{
+    "user_id": "85fc2091-d760-4178-a606-be75131399d0",
+    "name": "Andre Mcintyre",
+    "email": "christopher61@example.org",
+    "instagram_handle": "@vaughnelizabeth",
+    "tiktok_handle": "@johncarter",
+    "joined_at": "2025-01-01T16:04:20.881Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bd7f1f02-1eb9-46d1-b8b7-7cd93987b93a",
+            "brand": "Stewart-Herrera",
+            "tasks_completed": [
+                {
+                    "task_id": "b35ff82e-5516-401a-8965-e3597751926e",
+                    "platform": "TikTok",
+                    "post_url": "http://mills.com/",
+                    "likes": 8696,
+                    "comments": 308,
+                    "shares": 39,
+                    "reach": 540
+                }
+            ],
+            "total_sales_attributed": 3004.505342970834
+        }
+    ]
+}

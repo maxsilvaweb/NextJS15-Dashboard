@@ -1,0 +1,26 @@
+{
+    "user_id": "ac1ded6a-6d24-49fe-8f8d-2c2420842a1a",
+    "name": "Kim Hand",
+    "email": "Murphy99@hotmail.com",
+    "instagram_handle": "@Oliver_Strosin-Parker29",
+    "tiktok_handle": "@Reggie.Jaskolski",
+    "joined_at": "2024-11-08T14:49:55.331Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7871db41-0042-4e81-ac9d-baeab0dc0787",
+            "brand": "Hauck - Kutch",
+            "tasks_completed": [
+                {
+                    "task_id": "d349a99c-680f-4bcc-8c6c-460af0bcf80a",
+                    "platform": "Instagram",
+                    "post_url": "https://utilized-knight.net/",
+                    "likes": 69,
+                    "comments": 17,
+                    "shares": 94,
+                    "reach": 9527
+                }
+            ],
+            "total_sales_attributed": 4855.692601874056
+        }
+    ]
+}

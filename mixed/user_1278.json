@@ -1,0 +1,26 @@
+{
+    "user_id": "387a9008-8df4-4e7f-8ec7-b4f6fd44b870",
+    "name": "Jessica Smith IV",
+    "email": "Ursula_Fahey@hotmail.com",
+    "instagram_handle": "@Icie59",
+    "tiktok_handle": "@Haleigh37",
+    "joined_at": "2024-08-07T12:18:47.702Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6fae6c53-f5c7-4af7-9771-f96973361b96",
+            "brand": "Crist - Bergnaum",
+            "tasks_completed": [
+                {
+                    "task_id": "ab126bc7-bd22-41c0-8464-1383b7a7e536",
+                    "platform": "Instagram",
+                    "post_url": "https://spiffy-ruin.org/",
+                    "likes": 487,
+                    "comments": 39,
+                    "shares": 79,
+                    "reach": 4920
+                }
+            ],
+            "total_sales_attributed": 1519.7312699167799
+        }
+    ]
+}

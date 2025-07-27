@@ -1,0 +1,26 @@
+{
+    "user_id": "328a7727-6306-40f9-afda-24ab4709f740",
+    "name": "Julie Kelly",
+    "email": "uoneill@example.net",
+    "instagram_handle": "@kbell",
+    "tiktok_handle": "@millerrandy",
+    "joined_at": "2024-10-27T02:41:01.053138",
+    "advocacy_programs": [
+        {
+            "program_id": "6e53d98a-372a-46a6-9ca9-cbb2b09b5d85",
+            "brand": "Erickson-Mendez",
+            "tasks_completed": [
+                {
+                    "task_id": "0fba2bd1-2b22-4469-859e-3d7860521ec5",
+                    "platform": "TikTok",
+                    "post_url": "http://wright.com/",
+                    "likes": 9834,
+                    "comments": 414,
+                    "shares": 91,
+                    "reach": 5696
+                }
+            ],
+            "total_sales_attributed": 8642.5
+        }
+    ]
+}

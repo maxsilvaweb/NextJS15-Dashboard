@@ -1,0 +1,26 @@
+{
+    "user_id": "561fb94a-16dc-4e82-b32c-3572dd7051d3",
+    "name": "Thomas Wright",
+    "email": "allennicholas@example.net",
+    "instagram_handle": "@morrisonashley",
+    "tiktok_handle": "@brandimason",
+    "joined_at": "2025-06-18T08:16:50.860358",
+    "advocacy_programs": [
+        {
+            "program_id": "0e2b1909-1b2f-4e18-b023-59fedd6e2730",
+            "brand": "Browning-Sandoval",
+            "tasks_completed": [
+                {
+                    "task_id": "af2a3028-e472-4c50-8445-6360cb0035e5",
+                    "platform": "YouTube",
+                    "post_url": "http://sanchez.com/",
+                    "likes": 49,
+                    "comments": 182,
+                    "shares": 7,
+                    "reach": 4931
+                }
+            ],
+            "total_sales_attributed": 2420.3834755972184
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "80724e79-f02d-4387-b1de-fa3b4da17789",
+    "name": "Austin Holloway",
+    "email": "lewiskatherine@example.com",
+    "instagram_handle": "@rmartin",
+    "tiktok_handle": "@kelleycarolyn",
+    "joined_at": "2024-09-29T10:20:41.370283",
+    "advocacy_programs": [
+        {
+            "program_id": "6eb6269e-601f-4ec7-9661-e82e8d25ee2f",
+            "brand": "Smith, Lowe and Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "6668d322-d80a-45f5-a1c9-d4a23b94c2b0",
+                    "platform": "TikTok",
+                    "post_url": "https://young.net/",
+                    "likes": 54,
+                    "comments": 261,
+                    "shares": 59,
+                    "reach": 6839
+                }
+            ],
+            "total_sales_attributed": 1818.99
+        }
+    ]
+}

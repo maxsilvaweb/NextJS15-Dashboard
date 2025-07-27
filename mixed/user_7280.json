@@ -1,0 +1,26 @@
+{
+    "user_id": "7eb9d77b-db27-4559-8233-ef1018f06688",
+    "name": "Gregory Smith",
+    "email": "deborahcook@example.net",
+    "instagram_handle": "@jatkinson",
+    "tiktok_handle": "@joel26",
+    "joined_at": "2025-05-24T04:10:37.502473",
+    "advocacy_programs": [
+        {
+            "program_id": "4371dbd4-e41a-4bde-8d0a-868a3dc9419a",
+            "brand": "Thomas, Thompson and Reed",
+            "tasks_completed": [
+                {
+                    "task_id": "d8697fa0-10cb-4546-bf0a-02f96c58f200",
+                    "platform": "Facebook",
+                    "post_url": "https://rodriguez-blake.com/",
+                    "likes": 9967,
+                    "comments": 271,
+                    "shares": 88,
+                    "reach": 7100
+                }
+            ],
+            "total_sales_attributed": 6273.51
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b915d9f8-501e-4779-a3ed-4241f992ac7f",
+    "name": "Bernadette Casper",
+    "email": "Evans95@gmail.com",
+    "instagram_handle": "@Jadon44",
+    "tiktok_handle": "@Reinhold14",
+    "joined_at": "2024-04-03T20:23:14.099Z",
+    "advocacy_programs": [
+        {
+            "program_id": "388ea65e-8417-4cd4-a87d-80621dfb0576",
+            "brand": "Bernhard, Leuschke and Spencer",
+            "tasks_completed": [
+                {
+                    "task_id": "99403b00-fae8-4918-aa94-bd543890aff0",
+                    "platform": "TikTok",
+                    "post_url": "https://interesting-editor.org",
+                    "likes": 178,
+                    "comments": 43,
+                    "shares": 55,
+                    "reach": 9368
+                }
+            ],
+            "total_sales_attributed": 136.11498707749678
+        }
+    ]
+}

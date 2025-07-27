@@ -1,0 +1,26 @@
+{
+    "user_id": "c827e1da-da13-4def-8a4f-5c033fc4cc6f",
+    "name": "Nancy Adams",
+    "email": "claudiacooley@example.com",
+    "instagram_handle": "@robertanderson",
+    "tiktok_handle": "@vtorres",
+    "joined_at": "2023-08-09T05:17:08.011943",
+    "advocacy_programs": [
+        {
+            "program_id": "0236b495-8e9e-4251-88dd-d4c7bbd81cd7",
+            "brand": "Wilson Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "b0214dfd-ff5a-4c44-b348-cceb3818bf17",
+                    "platform": "TikTok",
+                    "post_url": "http://williams-hughes.biz/",
+                    "likes": 7760,
+                    "comments": 130,
+                    "shares": 22,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 691.09
+        }
+    ]
+}

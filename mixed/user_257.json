@@ -1,0 +1,26 @@
+{
+    "user_id": "4dbbf2ab-df19-4705-b191-e103e910c487",
+    "name": "Lisa Taylor",
+    "email": "xfisher@example.net",
+    "instagram_handle": "@morganjay",
+    "tiktok_handle": "@wagnerchristopher",
+    "joined_at": "2025-01-23T08:10:49.239Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b03ff624-2400-4fd1-a4fb-b22f17b0b96d",
+            "brand": "Sanchez Group",
+            "tasks_completed": [
+                {
+                    "task_id": "ad08de16-f0b4-4807-bf02-0d8a171d2d44",
+                    "platform": "Facebook",
+                    "post_url": "https://www.hodges-waters.org/",
+                    "likes": 6100,
+                    "comments": 6,
+                    "shares": 7,
+                    "reach": 6913
+                }
+            ],
+            "total_sales_attributed": 351.99
+        }
+    ]
+}

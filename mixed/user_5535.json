@@ -1,0 +1,26 @@
+{
+    "user_id": "9f808d79-f8dc-41fa-91e5-85c988757b3d",
+    "name": "Matthew Smith",
+    "email": "gwagner@example.com",
+    "instagram_handle": "@lrivas",
+    "tiktok_handle": "@stevenwilson",
+    "joined_at": "2024-11-01T18:35:06.301Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ce401d61-18c2-43b5-b0a2-8fb012be4119",
+            "brand": "Bentley-Gonzalez",
+            "tasks_completed": [
+                {
+                    "task_id": "8a03bce2-0f58-4b69-a262-0a7a290aa8fb",
+                    "platform": "TikTok",
+                    "post_url": "https://flowers.com/",
+                    "likes": 1847,
+                    "comments": 103,
+                    "shares": 93,
+                    "reach": 3874
+                }
+            ],
+            "total_sales_attributed": 9499.7
+        }
+    ]
+}

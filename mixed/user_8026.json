@@ -1,0 +1,26 @@
+{
+    "user_id": "ab296c8e-ca8b-46d1-b3d5-f5a67eb010ea",
+    "name": "Floyd McGlynn",
+    "email": "Oscar0@yahoo.com",
+    "instagram_handle": "@Erick.Collier81",
+    "tiktok_handle": "@Lucy.Swift",
+    "joined_at": "2024-06-26T02:08:59.760Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cce6bf13-2813-4b26-90cf-0307258009ba",
+            "brand": "Bartell LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c97e11e6-873e-4ea0-8786-4c1f07995504",
+                    "platform": "Instagram",
+                    "post_url": "https://other-cook.biz",
+                    "likes": 129,
+                    "comments": 24,
+                    "shares": 82,
+                    "reach": 4269
+                }
+            ],
+            "total_sales_attributed": 2680.715020249391
+        }
+    ]
+}

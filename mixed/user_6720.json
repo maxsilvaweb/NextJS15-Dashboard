@@ -1,0 +1,26 @@
+{
+    "user_id": "4d65ae5b-4c68-4e59-8635-dc8f10f355de",
+    "name": "Ricardo Kertzmann",
+    "email": "Aaron8@hotmail.com",
+    "instagram_handle": "@Fleta70",
+    "tiktok_handle": "@Roy_Corkery",
+    "joined_at": "2024-09-10T06:29:20.883Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bbd68611-fbc1-40fb-be02-bd3abb2fccd1",
+            "brand": "Smith Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f727e1e1-5987-4a2e-ae9f-8f574d27641d",
+                    "platform": "Instagram",
+                    "post_url": "https://burly-aircraft.info",
+                    "likes": 288,
+                    "comments": 36,
+                    "shares": 77,
+                    "reach": 6176
+                }
+            ],
+            "total_sales_attributed": 3592.018208014408
+        }
+    ]
+}

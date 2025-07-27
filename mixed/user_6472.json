@@ -1,0 +1,26 @@
+{
+    "user_id": "47f43753-8d24-4e09-86cb-24aa92d96859",
+    "name": "Lynn Kihn-Cole",
+    "email": "Maritza.Harvey65@hotmail.com",
+    "instagram_handle": "@Mazie_Legros",
+    "tiktok_handle": "@Eulah47",
+    "joined_at": "2024-09-30T13:52:21.583Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8d597ad4-39e0-4a45-9614-49fa32ea75fd",
+            "brand": "Breitenberg, O'Hara and Johns",
+            "tasks_completed": [
+                {
+                    "task_id": "94b05904-a094-4ea3-aac4-a18c2c1a5af2",
+                    "platform": "TikTok",
+                    "post_url": "https://proper-fuel.com/",
+                    "likes": 310,
+                    "comments": 23,
+                    "shares": 52,
+                    "reach": 7084
+                }
+            ],
+            "total_sales_attributed": 277.7942150184115
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "b23fa5ad-267b-4d9e-873e-76d4ec10069f",
+    "name": "Ashley Roach",
+    "email": "rhill@example.com",
+    "instagram_handle": "@dunnisabella",
+    "tiktok_handle": "@justinreid",
+    "joined_at": "2024-09-14T08:35:25.062076",
+    "advocacy_programs": [
+        {
+            "program_id": "1b4f2d35-dfa0-4414-a9d0-1e1d952c719c",
+            "brand": "James and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "e2e31cd0-2334-4646-a435-1badd5f026f4",
+                    "platform": "TikTok",
+                    "post_url": "http://www.williams-sanchez.com/",
+                    "likes": 246,
+                    "comments": 60,
+                    "shares": 8,
+                    "reach": 6824
+                }
+            ],
+            "total_sales_attributed": 4887.7600733186855
+        }
+    ]
+}

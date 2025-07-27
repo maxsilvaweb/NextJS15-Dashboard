@@ -1,0 +1,26 @@
+{
+    "user_id": "1dc94314-10f8-4fd7-bd9f-7a2af0a35724",
+    "name": "Edwin Hanson",
+    "email": "ybaker@example.org",
+    "instagram_handle": "@ann00",
+    "tiktok_handle": "@crystal50",
+    "joined_at": "2023-09-05T16:23:14.153990",
+    "advocacy_programs": [
+        {
+            "program_id": "1c77e54f-da04-456e-b414-de9e936283e0",
+            "brand": "Reed-Myers",
+            "tasks_completed": [
+                {
+                    "task_id": "81745d03-3348-4e01-8573-524015b159b9",
+                    "platform": "Facebook",
+                    "post_url": "http://duncan.org/",
+                    "likes": 9703,
+                    "comments": 259,
+                    "shares": 43,
+                    "reach": 2774
+                }
+            ],
+            "total_sales_attributed": 5437.18
+        }
+    ]
+}

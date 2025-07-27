@@ -1,0 +1,26 @@
+{
+    "user_id": "c9b33df0-c454-4d3c-be85-899fd6d287f9",
+    "name": "Patrick Hill",
+    "email": "Tyrel_Renner@yahoo.com",
+    "instagram_handle": "@james93",
+    "tiktok_handle": "@marilyn70",
+    "joined_at": "2024-07-23T12:14:57.425901",
+    "advocacy_programs": [
+        {
+            "program_id": "25544db9-086e-4a55-a8fc-8a1be2b92b88",
+            "brand": "Lin Group",
+            "tasks_completed": [
+                {
+                    "task_id": "3964432c-61cd-411e-8ad6-90bad00ebc47",
+                    "platform": "Instagram",
+                    "post_url": "https://ramirez.com/",
+                    "likes": 1563,
+                    "comments": 150,
+                    "shares": 21,
+                    "reach": 5778
+                }
+            ],
+            "total_sales_attributed": 9303.39
+        }
+    ]
+}

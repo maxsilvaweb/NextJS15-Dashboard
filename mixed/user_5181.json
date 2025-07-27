@@ -1,0 +1,26 @@
+{
+    "user_id": "3a0a9b1c-f48e-4852-bc42-8ee9054e2f43",
+    "name": "Keith Solomon",
+    "email": "karl80@example.com",
+    "instagram_handle": "@athompson",
+    "tiktok_handle": "@parkercody",
+    "joined_at": "2025-06-02T22:15:48.879784",
+    "advocacy_programs": [
+        {
+            "program_id": "5ae0436e-9b52-4d5f-a2c2-550e0717df82",
+            "brand": "Anderson-Martinez",
+            "tasks_completed": [
+                {
+                    "task_id": "03fcd5bc-2178-468d-b82c-adbd30d6d10d",
+                    "platform": "Facebook",
+                    "post_url": "https://watts.com/",
+                    "likes": 4338,
+                    "comments": 127,
+                    "shares": 82,
+                    "reach": 1174
+                }
+            ],
+            "total_sales_attributed": 5699.63
+        }
+    ]
+}

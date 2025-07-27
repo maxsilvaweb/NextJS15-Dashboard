@@ -1,0 +1,26 @@
+{
+    "user_id": "e005d69f-5193-4f08-843d-594cb9db51f3",
+    "name": "Stephanie Harper",
+    "email": "ulewis@example.com",
+    "instagram_handle": "@loveeric",
+    "tiktok_handle": "@gfrost",
+    "joined_at": "2025-06-18T16:25:00.661780",
+    "advocacy_programs": [
+        {
+            "program_id": "77645ab1-44b2-4d10-832e-35417b5503aa",
+            "brand": "Cooke, Martin and Brooks",
+            "tasks_completed": [
+                {
+                    "task_id": "b5959d6f-4953-4004-9fb5-7ced0ee6a92a",
+                    "platform": "Facebook",
+                    "post_url": "https://www.ross.com/",
+                    "likes": 3438,
+                    "comments": 132,
+                    "shares": 60,
+                    "reach": 5192
+                }
+            ],
+            "total_sales_attributed": 1201.8416743298174
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2c1e7b37-041e-44a0-b83f-aae06503af7b",
+    "name": "Clinton Barnes",
+    "email": "joshuagreen@example.com",
+    "instagram_handle": "@joseph94",
+    "tiktok_handle": "@owensheather",
+    "joined_at": "2024-06-15T08:04:29.444377",
+    "advocacy_programs": [
+        {
+            "program_id": "45948124-99a9-4aeb-a5db-3989ff54fec4",
+            "brand": "Brown PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "694025e5-39ab-4cd7-b8e5-071b7899f74a",
+                    "platform": "Instagram",
+                    "post_url": "https://sandoval.com/",
+                    "likes": 9777,
+                    "comments": 195,
+                    "shares": 61,
+                    "reach": 3241
+                }
+            ],
+            "total_sales_attributed": 3717.7871299918
+        }
+    ]
+}

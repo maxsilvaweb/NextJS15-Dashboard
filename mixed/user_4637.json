@@ -1,0 +1,26 @@
+{
+    "user_id": "b52a89f2-849c-43ed-889e-e7a5854bdc04",
+    "name": "Norman Mann",
+    "email": "Mohamed_Brekke@yahoo.com",
+    "instagram_handle": "@Nannie_Jones",
+    "tiktok_handle": "@Pearl.Botsford",
+    "joined_at": "2024-03-29T22:25:00.513Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d3e21ef7-076b-41a7-bd17-15ad1403857a",
+            "brand": "Johnson, Robel and Pouros",
+            "tasks_completed": [
+                {
+                    "task_id": "f2f7cfc8-d8cf-4f4a-8a8f-66ce7ae9b97f",
+                    "platform": "TikTok",
+                    "post_url": "https://wordy-language.org/",
+                    "likes": 30,
+                    "comments": 8,
+                    "shares": 37,
+                    "reach": 5616
+                }
+            ],
+            "total_sales_attributed": 3463.129263073635
+        }
+    ]
+}

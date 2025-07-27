@@ -1,0 +1,26 @@
+{
+    "user_id": "ed2478e0-c585-4aac-b934-261ef4a97bb6",
+    "name": "Robert Wilson",
+    "email": "brad79@example.com",
+    "instagram_handle": "@kbraun",
+    "tiktok_handle": "@qgutierrez",
+    "joined_at": "2025-01-28T07:20:29.160599",
+    "advocacy_programs": [
+        {
+            "program_id": "a5954db4-2d22-4337-8e4c-a0b197f86c4d",
+            "brand": "Maddox-Ayala",
+            "tasks_completed": [
+                {
+                    "task_id": "eb1996a1-ee53-4f7e-baff-185d53ee52df",
+                    "platform": "TikTok",
+                    "post_url": "https://wavy-marimba.com/",
+                    "likes": 130,
+                    "comments": 7,
+                    "shares": 48,
+                    "reach": 6683
+                }
+            ],
+            "total_sales_attributed": 2932.54
+        }
+    ]
+}

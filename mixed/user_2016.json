@@ -1,0 +1,26 @@
+{
+    "user_id": "12b1ebd6-bbdc-4c4b-88ee-2bae72728c48",
+    "name": "Jessica Mejia",
+    "email": "littleduane@example.net",
+    "instagram_handle": "@alarson",
+    "tiktok_handle": "@Jerrell_Stanton40",
+    "joined_at": "2025-04-12T12:34:32.013953",
+    "advocacy_programs": [
+        {
+            "program_id": "f013e1a6-58fe-4f92-be5a-a1984f7d8ce5",
+            "brand": "Blackburn LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2aee50ac-7676-4de5-bd48-fae34ebd33a9",
+                    "platform": "Facebook",
+                    "post_url": "https://dirty-zen.biz",
+                    "likes": 6388,
+                    "comments": 38,
+                    "shares": 100,
+                    "reach": 5503
+                }
+            ],
+            "total_sales_attributed": 6692.17
+        }
+    ]
+}

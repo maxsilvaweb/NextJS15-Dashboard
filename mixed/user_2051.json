@@ -1,0 +1,26 @@
+{
+    "user_id": "2633b00e-e1c0-45ea-a1f1-916b59eb3775",
+    "name": "Christopher Wiley",
+    "email": "xcopeland@example.net",
+    "instagram_handle": "@shawnmorrison",
+    "tiktok_handle": "@harrisjimmy",
+    "joined_at": "2024-12-07T23:50:00.770266",
+    "advocacy_programs": [
+        {
+            "program_id": "9ae868bc-adc2-4f8c-a943-610ca657425c",
+            "brand": "Williams-Haynes",
+            "tasks_completed": [
+                {
+                    "task_id": "445fe0cd-bb50-41b8-87a0-73c63729d863",
+                    "platform": "TikTok",
+                    "post_url": "https://www.simpson-salinas.biz/",
+                    "likes": 7572,
+                    "comments": 1,
+                    "shares": 59,
+                    "reach": 5654
+                }
+            ],
+            "total_sales_attributed": 6576.08
+        }
+    ]
+}

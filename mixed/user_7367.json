@@ -1,0 +1,26 @@
+{
+    "user_id": "ba30c602-afa6-44f4-8b56-cb216b83a547",
+    "name": "Alan Hyatt",
+    "email": "Ressie.Wisoky91@gmail.com",
+    "instagram_handle": "@Jamison_Dibbert13",
+    "tiktok_handle": "@Guido93",
+    "joined_at": "2024-09-23T07:45:40.115Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c3a0068d-2f06-47b8-88dc-bf275e0bfa4a",
+            "brand": "Nicolas Group",
+            "tasks_completed": [
+                {
+                    "task_id": "0a1549c1-a261-4593-ac93-d80633958c6b",
+                    "platform": "Instagram",
+                    "post_url": "https://tense-gloom.com/",
+                    "likes": 290,
+                    "comments": 35,
+                    "shares": 27,
+                    "reach": 2232
+                }
+            ],
+            "total_sales_attributed": 2456.4062697612435
+        }
+    ]
+}

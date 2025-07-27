@@ -1,0 +1,26 @@
+{
+    "user_id": "88f40ad6-e1c4-4f05-9272-99a6f05c5a05",
+    "name": "Joshua Herman",
+    "email": "hardymike@example.net",
+    "instagram_handle": "@denise29",
+    "tiktok_handle": "@mayskevin",
+    "joined_at": "2024-03-27T07:51:53.754Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c5b8d976-4970-4664-9e89-73f0656d0450",
+            "brand": "Parisian Group",
+            "tasks_completed": [
+                {
+                    "task_id": "43bbfeda-d213-4c70-8f2f-6b59d3b01197",
+                    "platform": "Facebook",
+                    "post_url": "http://graham.com/",
+                    "likes": 1007,
+                    "comments": 28,
+                    "shares": 52,
+                    "reach": 5321
+                }
+            ],
+            "total_sales_attributed": 6203.37
+        }
+    ]
+}

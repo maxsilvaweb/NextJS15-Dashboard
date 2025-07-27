@@ -1,0 +1,26 @@
+{
+    "user_id": "3d6fe012-337a-4237-8c2f-e5d137987342",
+    "name": "Amy Krause",
+    "email": "elizabethbautista@example.com",
+    "instagram_handle": "@robyn34",
+    "tiktok_handle": "@spencebrendan",
+    "joined_at": "2024-04-29T23:27:06.502173",
+    "advocacy_programs": [
+        {
+            "program_id": "e1f60213-2f16-4161-81d3-0c026b09a787",
+            "brand": "Dennis, Mitchell and Frank",
+            "tasks_completed": [
+                {
+                    "task_id": "f77179bd-6321-48b8-b44e-d68332191f18",
+                    "platform": "Instagram",
+                    "post_url": "https://devoted-pomelo.com",
+                    "likes": 317,
+                    "comments": 16,
+                    "shares": 32,
+                    "reach": 7429
+                }
+            ],
+            "total_sales_attributed": 1142.59
+        }
+    ]
+}

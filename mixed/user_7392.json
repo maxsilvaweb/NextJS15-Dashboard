@@ -1,0 +1,26 @@
+{
+    "user_id": "bf2760e2-ffb0-435e-b0a2-3c4dadba2edb",
+    "name": "Brenda Little",
+    "email": "pwoods@example.org",
+    "instagram_handle": "@ymitchell",
+    "tiktok_handle": "@william28",
+    "joined_at": "2024-01-14T19:00:30.217480",
+    "advocacy_programs": [
+        {
+            "program_id": "45134ef2-09db-4fbc-b2f9-e8ca86ea6c81",
+            "brand": "Butler, Underwood and Wyatt",
+            "tasks_completed": [
+                {
+                    "task_id": "c2540c6c-86ef-4eb9-97a8-7e97d5569cd0",
+                    "platform": "TikTok",
+                    "post_url": "http://www.foley.net/",
+                    "likes": 427,
+                    "comments": 47,
+                    "shares": 4,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 172.67
+        }
+    ]
+}

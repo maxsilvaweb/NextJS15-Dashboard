@@ -1,0 +1,26 @@
+{
+    "user_id": "dcc1b98d-a534-4bdb-a24a-8a9145fe165a",
+    "name": "Daniel Green",
+    "email": "bstein@example.org",
+    "instagram_handle": "@waynefrench",
+    "tiktok_handle": "@hmurphy",
+    "joined_at": "2024-04-24T04:53:17.529090",
+    "advocacy_programs": [
+        {
+            "program_id": "9c105df1-ee98-46bb-92bf-b7afd854e996",
+            "brand": "Hudson-Higgins",
+            "tasks_completed": [
+                {
+                    "task_id": "2501709b-7a1e-47f2-af31-dd25fb19744f",
+                    "platform": "Instagram",
+                    "post_url": "http://www.patterson-white.info/",
+                    "likes": 7525,
+                    "comments": 479,
+                    "shares": 63,
+                    "reach": 4496
+                }
+            ],
+            "total_sales_attributed": 1826.9531086729928
+        }
+    ]
+}

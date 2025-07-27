@@ -1,0 +1,26 @@
+{
+    "user_id": "760156ba-31ff-41ee-be42-b4d2d7574a8f",
+    "name": "Dr. Bradley Koss",
+    "email": "Nikita.Schaden64@yahoo.com",
+    "instagram_handle": "@Giovani51",
+    "tiktok_handle": "@Maria85",
+    "joined_at": "2024-07-30T23:38:17.217Z",
+    "advocacy_programs": [
+        {
+            "program_id": "475fc9f3-3c78-4552-8555-22f56ac675a2",
+            "brand": "Padberg - Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "9ad814f6-4cee-44bc-8716-d5c0bb590863",
+                    "platform": "Instagram",
+                    "post_url": "https://bleak-disconnection.org",
+                    "likes": 498,
+                    "comments": 28,
+                    "shares": 74,
+                    "reach": 1636
+                }
+            ],
+            "total_sales_attributed": 3815.8561224345967
+        }
+    ]
+}

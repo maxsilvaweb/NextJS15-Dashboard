@@ -1,0 +1,26 @@
+{
+    "user_id": "9d0b10b5-3ea7-4772-a50d-b275e984a47e",
+    "name": "Beth West",
+    "email": "rbrady@example.org",
+    "instagram_handle": "@marksjeffrey",
+    "tiktok_handle": "@jessica02",
+    "joined_at": "2023-11-09T22:16:55.432730",
+    "advocacy_programs": [
+        {
+            "program_id": "a2619a50-95be-4578-9e14-926c9b0abe34",
+            "brand": "Purdy - Leuschke",
+            "tasks_completed": [
+                {
+                    "task_id": "3c6fcbaa-b3be-4513-a9e9-b28d8671e243",
+                    "platform": "Instagram",
+                    "post_url": "http://www.smith.com/",
+                    "likes": 763,
+                    "comments": 34,
+                    "shares": 42,
+                    "reach": 7808
+                }
+            ],
+            "total_sales_attributed": 9639.49
+        }
+    ]
+}

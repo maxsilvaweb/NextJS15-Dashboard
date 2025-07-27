@@ -1,0 +1,26 @@
+{
+    "user_id": "f4670288-63d9-45b8-924b-2d5ce60a7ff6",
+    "name": "Marie Pierce",
+    "email": "deborah33@example.net",
+    "instagram_handle": "@smithshawn",
+    "tiktok_handle": "@nicolebryant",
+    "joined_at": "2024-07-24T23:11:49.268863",
+    "advocacy_programs": [
+        {
+            "program_id": "22e45d4f-0ed2-400b-ba07-9d2a432151b5",
+            "brand": "Cox PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "12213bee-c50e-495b-b35b-8c1a731beaf8",
+                    "platform": "Facebook",
+                    "post_url": "https://gibbs.net/",
+                    "likes": 4242,
+                    "comments": 7,
+                    "shares": 14,
+                    "reach": 1935
+                }
+            ],
+            "total_sales_attributed": 1335.07
+        }
+    ]
+}

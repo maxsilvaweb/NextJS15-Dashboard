@@ -1,0 +1,26 @@
+{
+    "user_id": "d7c267d0-54eb-4697-97cd-b2869a36115e",
+    "name": "Jamie Mraz",
+    "email": "Flavio.Schiller63@yahoo.com",
+    "instagram_handle": "@Andrew94",
+    "tiktok_handle": "@Jack_Dietrich-Hoeger84",
+    "joined_at": "2025-02-06T04:55:42.724Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4f32c436-a3c3-46ed-9db0-86c9d860edbe",
+            "brand": "Barton - Lakin",
+            "tasks_completed": [
+                {
+                    "task_id": "0f9b8e31-215d-417d-92d2-6c32272932cb",
+                    "platform": "Instagram",
+                    "post_url": "https://grave-birdcage.biz/",
+                    "likes": 61,
+                    "comments": 41,
+                    "shares": 0,
+                    "reach": 4262
+                }
+            ],
+            "total_sales_attributed": 893.0634134331367
+        }
+    ]
+}

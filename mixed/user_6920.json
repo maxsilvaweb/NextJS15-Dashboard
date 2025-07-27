@@ -1,0 +1,26 @@
+{
+    "user_id": "cd840c0f-e058-49c0-80d0-9d0a0568a50f",
+    "name": "Heidi Oberbrunner",
+    "email": "Aliyah_Bins@hotmail.com",
+    "instagram_handle": "@Stephany.Erdman17",
+    "tiktok_handle": "@Bella.Wisozk",
+    "joined_at": "2024-10-05T11:18:12.827Z",
+    "advocacy_programs": [
+        {
+            "program_id": "199749d0-ccf7-45e5-8faf-e8157ecf57d2",
+            "brand": "Schinner and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "4dde588d-14c2-48d4-96b5-254fffb6689c",
+                    "platform": "TikTok",
+                    "post_url": "https://miserable-pinstripe.biz/",
+                    "likes": 311,
+                    "comments": 33,
+                    "shares": 22,
+                    "reach": 8191
+                }
+            ],
+            "total_sales_attributed": 2777.4709895382475
+        }
+    ]
+}

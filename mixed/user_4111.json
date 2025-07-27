@@ -1,0 +1,26 @@
+{
+    "user_id": "79ef6b88-f3ab-4493-8f99-79d16ef9afc1",
+    "name": "Sara Walls",
+    "email": "linda63@example.net",
+    "instagram_handle": "@aarondavis",
+    "tiktok_handle": "@robertnichols",
+    "joined_at": "2023-08-18T02:47:37.573078",
+    "advocacy_programs": [
+        {
+            "program_id": "aedb38e7-8f7e-4508-92e8-07690830fd5c",
+            "brand": "Mcdonald-Diaz",
+            "tasks_completed": [
+                {
+                    "task_id": "81608061-0f42-44b7-b37b-fb25fb798bfb",
+                    "platform": "Facebook",
+                    "post_url": "https://www.liu.biz/",
+                    "likes": 5205,
+                    "comments": 46,
+                    "shares": 59,
+                    "reach": 2796
+                }
+            ],
+            "total_sales_attributed": 8455.81
+        }
+    ]
+}

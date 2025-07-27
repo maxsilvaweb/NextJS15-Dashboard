@@ -1,0 +1,26 @@
+{
+    "user_id": "87e7df20-3f33-4a2d-a37f-140e5f60a6d7",
+    "name": "Darla Gusikowski",
+    "email": "Nathanael_Torp96@hotmail.com",
+    "instagram_handle": "@Karson73",
+    "tiktok_handle": "@Tina72",
+    "joined_at": "2025-03-15T11:48:52.541Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0d4d2650-b246-4a4e-80f0-b6ad9ffb900b",
+            "brand": "Kuhlman, Konopelski and Brakus",
+            "tasks_completed": [
+                {
+                    "task_id": "32094d3b-8d63-4dcf-a8e7-8e8ebfea2909",
+                    "platform": "Instagram",
+                    "post_url": "https://grim-gastropod.name",
+                    "likes": 215,
+                    "comments": 5,
+                    "shares": 36,
+                    "reach": 7260
+                }
+            ],
+            "total_sales_attributed": 2700.096644029903
+        }
+    ]
+}

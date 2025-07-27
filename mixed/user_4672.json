@@ -1,0 +1,26 @@
+{
+    "user_id": "09c2eeb6-f03d-44b7-b242-1018cdeb37e8",
+    "name": "Martha Hettinger",
+    "email": "Murray0@gmail.com",
+    "instagram_handle": "@Theresa_Bechtelar",
+    "tiktok_handle": "@Kellen13",
+    "joined_at": "2024-12-19T00:08:15.089Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eb49fe2e-e2a7-434c-8e91-a7b36081043a",
+            "brand": "Treutel, Runolfsdottir and Doyle",
+            "tasks_completed": [
+                {
+                    "task_id": "540baf25-4f2e-4fa3-a932-5de5f40d7296",
+                    "platform": "Instagram",
+                    "post_url": "https://aged-dependency.info/",
+                    "likes": 422,
+                    "comments": 22,
+                    "shares": 91,
+                    "reach": 1628
+                }
+            ],
+            "total_sales_attributed": 2944.4163685859876
+        }
+    ]
+}

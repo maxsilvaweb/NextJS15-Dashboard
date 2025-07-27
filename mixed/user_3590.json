@@ -1,0 +1,26 @@
+{
+    "user_id": "7cb5fd55-4700-4552-9a9e-96aa39d95d75",
+    "name": "Danielle Hernandez",
+    "email": "katrinamartinez@example.com",
+    "instagram_handle": "@kathleen81",
+    "tiktok_handle": "@lturner",
+    "joined_at": "2023-11-14T13:18:09.804642",
+    "advocacy_programs": [
+        {
+            "program_id": "ba2027cb-9947-4b8d-9fcc-3a7e9117f3f3",
+            "brand": "Parker, Young and Knight",
+            "tasks_completed": [
+                {
+                    "task_id": "40d7f375-b2b4-4c45-8453-eee0b9e18427",
+                    "platform": "Instagram",
+                    "post_url": "http://morgan-wheeler.net/",
+                    "likes": 6770,
+                    "comments": 420,
+                    "shares": 8,
+                    "reach": 8249
+                }
+            ],
+            "total_sales_attributed": 513.36
+        }
+    ]
+}

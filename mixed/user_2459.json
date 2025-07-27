@@ -1,0 +1,26 @@
+{
+    "user_id": "54b3de86-7db2-48f9-bcae-3831cf8bdb3b",
+    "name": "Anne Hegmann",
+    "email": "Margaretta.Koelpin40@yahoo.com",
+    "instagram_handle": "@Neva_Robel",
+    "tiktok_handle": "@Gregory.Howe7",
+    "joined_at": "2024-04-07T04:01:40.734Z",
+    "advocacy_programs": [
+        {
+            "program_id": "41f12769-66d1-48ee-b0f8-2551e0e3e735",
+            "brand": "Braun - Streich",
+            "tasks_completed": [
+                {
+                    "task_id": "1dba84d1-fe7e-4abd-bb1e-7c396cfecaaa",
+                    "platform": "Instagram",
+                    "post_url": "https://warlike-custody.name",
+                    "likes": 192,
+                    "comments": 30,
+                    "shares": 94,
+                    "reach": 612
+                }
+            ],
+            "total_sales_attributed": 3908.060588882716
+        }
+    ]
+}

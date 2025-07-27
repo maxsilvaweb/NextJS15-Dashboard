@@ -1,0 +1,26 @@
+{
+    "user_id": "90478c7a-49f3-4713-82d2-9e8c8d73b642",
+    "name": "Robert Thomas",
+    "email": "michaeltaylor@example.org",
+    "instagram_handle": "@Carroll.Harvey42",
+    "tiktok_handle": "@vjohnson",
+    "joined_at": "2025-04-29T22:04:23.309454",
+    "advocacy_programs": [
+        {
+            "program_id": "bab5628b-0686-4648-ab90-94519e506426",
+            "brand": "Quitzon and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "d605a01c-0e9f-47cd-89f2-d0243c6af285",
+                    "platform": "TikTok",
+                    "post_url": "http://www.johnson.com/",
+                    "likes": 8810,
+                    "comments": 49,
+                    "shares": 23,
+                    "reach": 5302
+                }
+            ],
+            "total_sales_attributed": 4828.98400469739
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "422ee22a-69b9-4d89-903d-4b8fca05a61a",
+    "name": "Miss Miriam Funk Sr.",
+    "email": "Clement.Rolfson13@gmail.com",
+    "instagram_handle": "@Derick_Waelchi",
+    "tiktok_handle": "@Aurelio_Schneider78",
+    "joined_at": "2024-11-08T10:04:51.048Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e9bd9c34-94ae-4fec-a289-10a3c093ba94",
+            "brand": "Littel - Donnelly",
+            "tasks_completed": [
+                {
+                    "task_id": "6b58aaf3-be86-448c-967b-78d76a329143",
+                    "platform": "Instagram",
+                    "post_url": "https://timely-papa.name/",
+                    "likes": 458,
+                    "comments": 7,
+                    "shares": 45,
+                    "reach": 7918
+                }
+            ],
+            "total_sales_attributed": 1584.927242539296
+        }
+    ]
+}

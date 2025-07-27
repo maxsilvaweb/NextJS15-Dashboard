@@ -1,0 +1,26 @@
+{
+    "user_id": "868f4736-9219-478f-a94b-16d7d0f6f865",
+    "name": "Bailey Perry",
+    "email": "vbaldwin@example.net",
+    "instagram_handle": "@ashley79",
+    "tiktok_handle": "@mwilliams",
+    "joined_at": "2024-04-30T19:05:14.951648",
+    "advocacy_programs": [
+        {
+            "program_id": "45cb41b4-4de0-4675-b770-a36f0e4902a4",
+            "brand": "Lane-Kennedy",
+            "tasks_completed": [
+                {
+                    "task_id": "be7c727b-8924-40a5-b536-5f5f6fe1a2e2",
+                    "platform": "TikTok",
+                    "post_url": "https://www.howell-ritter.org/",
+                    "likes": 34,
+                    "comments": 455,
+                    "shares": 80,
+                    "reach": 4506
+                }
+            ],
+            "total_sales_attributed": 5628.11
+        }
+    ]
+}

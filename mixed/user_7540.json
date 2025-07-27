@@ -1,0 +1,26 @@
+{
+    "user_id": "7cd35267-439e-49f8-80dd-5a0099c272e4",
+    "name": "Virginia Mitchell",
+    "email": "Winifred.Goldner42@yahoo.com",
+    "instagram_handle": "@angela64",
+    "tiktok_handle": "@marcwilliams",
+    "joined_at": "2025-02-17T04:11:52.737773",
+    "advocacy_programs": [
+        {
+            "program_id": "80344f14-b886-4cea-9402-f34524ced160",
+            "brand": "Wallace-Frye",
+            "tasks_completed": [
+                {
+                    "task_id": "c7520044-e5da-44d5-b710-405f81d1f36f",
+                    "platform": "Instagram",
+                    "post_url": "http://www.mclaughlin.com/",
+                    "likes": 9010,
+                    "comments": 417,
+                    "shares": 71,
+                    "reach": 4746
+                }
+            ],
+            "total_sales_attributed": 9470.52
+        }
+    ]
+}

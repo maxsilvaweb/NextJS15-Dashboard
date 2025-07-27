@@ -1,0 +1,26 @@
+{
+    "user_id": "e0b1cbb5-9bd1-4a5e-899b-44d61a0e0310",
+    "name": "Mary Brown",
+    "email": "stephen41@example.net",
+    "instagram_handle": "@mark69",
+    "tiktok_handle": "@jeffrey96",
+    "joined_at": "2024-03-15T06:24:34.138921",
+    "advocacy_programs": [
+        {
+            "program_id": "896e4ece-841a-4991-a20b-0c175641c3a6",
+            "brand": "Mays, Williams and Howell",
+            "tasks_completed": [
+                {
+                    "task_id": "0f70ca72-30f9-473d-a7f2-f7d442c1ef7e",
+                    "platform": "Twitter",
+                    "post_url": "https://sinful-riser.org",
+                    "likes": 6879,
+                    "comments": 31,
+                    "shares": 27,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2685.87
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e7fb855a-7db8-42f5-9e4f-0e4803ea2ba7",
+    "name": "Leslie Gibson",
+    "email": "David.Schiller@yahoo.com",
+    "instagram_handle": "@Ryder94",
+    "tiktok_handle": "@Marcella.Bahringer",
+    "joined_at": "2024-11-26T00:34:13.956Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cb9dfa1e-4061-4535-8f43-9ccae440f376",
+            "brand": "Stamm - Nikolaus",
+            "tasks_completed": [
+                {
+                    "task_id": "f13ea3fe-ee8f-4c3b-a58e-702b851f98be",
+                    "platform": "Instagram",
+                    "post_url": "https://roasted-provision.org/",
+                    "likes": 378,
+                    "comments": 13,
+                    "shares": 29,
+                    "reach": 7633
+                }
+            ],
+            "total_sales_attributed": 2992.244061061652
+        }
+    ]
+}

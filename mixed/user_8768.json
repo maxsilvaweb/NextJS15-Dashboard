@@ -1,0 +1,26 @@
+{
+    "user_id": "2731a6c1-24c4-4246-88a9-2b38b30ded21",
+    "name": "Carrie Martinez",
+    "email": "sarah87@example.org",
+    "instagram_handle": "@williamschristina",
+    "tiktok_handle": "@kristin35",
+    "joined_at": "2024-06-25T11:25:20.625983",
+    "advocacy_programs": [
+        {
+            "program_id": "b6d5ee87-4365-4684-a442-6db22e85e47f",
+            "brand": "Powell LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "99dd2562-d5c8-4fb8-86c5-64baeb0595a9",
+                    "platform": "TikTok",
+                    "post_url": "https://www.collins.com/",
+                    "likes": 7788,
+                    "comments": 24,
+                    "shares": 70,
+                    "reach": 3283
+                }
+            ],
+            "total_sales_attributed": 3337.69
+        }
+    ]
+}

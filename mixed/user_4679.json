@@ -1,0 +1,26 @@
+{
+    "user_id": "01bbb468-d4a9-4f1f-8efa-952dcdcd2701",
+    "name": "Kelly Woods",
+    "email": "charles22@example.org",
+    "instagram_handle": "@emartinez",
+    "tiktok_handle": "@allendon",
+    "joined_at": "2025-02-25T09:51:36.618870",
+    "advocacy_programs": [
+        {
+            "program_id": "3ec6f944-5692-4869-89bb-7d58e4485a47",
+            "brand": "Martin, Barton and Terry",
+            "tasks_completed": [
+                {
+                    "task_id": "4474e003-7310-4d71-a667-9ba10d9ee102",
+                    "platform": "Instagram",
+                    "post_url": "http://contreras-perry.biz/",
+                    "likes": 95,
+                    "comments": 26,
+                    "shares": 23,
+                    "reach": 4973
+                }
+            ],
+            "total_sales_attributed": 948.29
+        }
+    ]
+}

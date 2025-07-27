@@ -1,0 +1,26 @@
+{
+    "user_id": "78e5989b-8e56-45f1-99df-517b4cb8812f",
+    "name": "Mr. Chris Hagenes",
+    "email": "Isidro_Jaskolski26@hotmail.com",
+    "instagram_handle": "@Jovany43",
+    "tiktok_handle": "@Johann_Fisher54",
+    "joined_at": "2024-11-15T23:13:44.401Z",
+    "advocacy_programs": [
+        {
+            "program_id": "beba1fa1-6966-4006-a4d8-a719cb3db7b3",
+            "brand": "Jakubowski and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "03860f38-2031-446c-a4f8-bd7d45a85799",
+                    "platform": "TikTok",
+                    "post_url": "https://clear-cut-acquaintance.net/",
+                    "likes": 460,
+                    "comments": 36,
+                    "shares": 29,
+                    "reach": 5369
+                }
+            ],
+            "total_sales_attributed": 1937.4758453197867
+        }
+    ]
+}

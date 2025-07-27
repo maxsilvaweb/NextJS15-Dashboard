@@ -1,0 +1,26 @@
+{
+    "user_id": "9b7b3e7a-ded6-4f65-86d8-1428c28aa3a2",
+    "name": "Michael Tyler",
+    "email": "benjaminfrancis@example.org",
+    "instagram_handle": "@williamsmorgan",
+    "tiktok_handle": "@hsosa",
+    "joined_at": "2024-07-07T17:38:39.934416",
+    "advocacy_programs": [
+        {
+            "program_id": "63e34851-cfdd-41ac-9bf6-5828bacf5f42",
+            "brand": "Wilderman - Lemke",
+            "tasks_completed": [
+                {
+                    "task_id": "e3bd07ec-b742-4c32-b7a0-20c22097419c",
+                    "platform": "Instagram",
+                    "post_url": "https://clark.org/",
+                    "likes": 375,
+                    "comments": 20,
+                    "shares": 81,
+                    "reach": 8180
+                }
+            ],
+            "total_sales_attributed": 1498.45
+        }
+    ]
+}

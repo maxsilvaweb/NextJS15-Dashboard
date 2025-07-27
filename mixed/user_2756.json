@@ -1,0 +1,26 @@
+{
+    "user_id": "cc856314-68c2-4fc3-ac6a-41d35ce9cf7a",
+    "name": "Lisa Hudson",
+    "email": "Ofelia.Harris70@yahoo.com",
+    "instagram_handle": "@Wilburn_Ullrich76",
+    "tiktok_handle": "@Dagmar.Stehr",
+    "joined_at": "2024-09-13T19:11:28.206Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2681c71c-c659-4e39-8bff-263bb3c4db13",
+            "brand": "Dach and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "9159b34b-8bc9-4b3b-965d-a94cbd323a34",
+                    "platform": "TikTok",
+                    "post_url": "https://squiggly-story.net",
+                    "likes": 26,
+                    "comments": 8,
+                    "shares": 16,
+                    "reach": 3915
+                }
+            ],
+            "total_sales_attributed": 488.9811228508732
+        }
+    ]
+}

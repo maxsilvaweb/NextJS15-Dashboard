@@ -1,0 +1,26 @@
+{
+    "user_id": "caa4f545-5e0a-4c59-bc30-319c99b800a4",
+    "name": "Dylan Anderson",
+    "email": "mschneider@example.org",
+    "instagram_handle": "@thogan",
+    "tiktok_handle": "@willisandrea",
+    "joined_at": "2025-03-14T13:33:32.989300",
+    "advocacy_programs": [
+        {
+            "program_id": "f66940da-9c52-46b8-90df-6e56668f92e4",
+            "brand": "Manning Group",
+            "tasks_completed": [
+                {
+                    "task_id": "3b177298-c18c-4cbe-b998-1ce99b5bf071",
+                    "platform": "TikTok",
+                    "post_url": "https://grim-finger.name/",
+                    "likes": 19,
+                    "comments": 393,
+                    "shares": 70,
+                    "reach": 8584
+                }
+            ],
+            "total_sales_attributed": 8760.32
+        }
+    ]
+}

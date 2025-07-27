@@ -1,0 +1,26 @@
+{
+    "user_id": "32f09ce5-9933-4663-9a92-009a4b916644",
+    "name": "Jean Joseph",
+    "email": "pbailey@example.net",
+    "instagram_handle": "@Cayla2",
+    "tiktok_handle": "@david95",
+    "joined_at": "2023-08-24T01:30:06.303746",
+    "advocacy_programs": [
+        {
+            "program_id": "0cd9c2ce-1b0c-4173-8aae-4280980291fb",
+            "brand": "Gonzalez-Mccall",
+            "tasks_completed": [
+                {
+                    "task_id": "76490cab-1093-4105-902f-9e27e07930db",
+                    "platform": "Facebook",
+                    "post_url": "https://www.solis-hanson.info/",
+                    "likes": 240,
+                    "comments": 13,
+                    "shares": 84,
+                    "reach": 2913
+                }
+            ],
+            "total_sales_attributed": 568.85
+        }
+    ]
+}

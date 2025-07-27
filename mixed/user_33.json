@@ -1,0 +1,26 @@
+{
+    "user_id": "0a2e9a11-9eaa-49b8-a134-a47ac80a9555",
+    "name": "Earl Will",
+    "email": "Rhoda_Waters46@gmail.com",
+    "instagram_handle": "@London.Daugherty",
+    "tiktok_handle": "@Chase.Konopelski39",
+    "joined_at": "2024-03-26T19:07:57.934Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8286879e-0915-45a9-8427-7a6cfb990466",
+            "brand": "Bins - Bednar",
+            "tasks_completed": [
+                {
+                    "task_id": "a1c88c31-2523-4b5e-bb0b-fff35635f4df",
+                    "platform": "TikTok",
+                    "post_url": "https://sure-footed-antelope.info",
+                    "likes": 277,
+                    "comments": 25,
+                    "shares": 22,
+                    "reach": 7863
+                }
+            ],
+            "total_sales_attributed": 2370.2126977917
+        }
+    ]
+}

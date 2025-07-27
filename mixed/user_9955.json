@@ -1,0 +1,26 @@
+{
+    "user_id": "530f8a64-7b3b-42cd-a378-e81bbb9ad9c7",
+    "name": "Jenna Brooks",
+    "email": "xdavis@example.net",
+    "instagram_handle": "@marissa15",
+    "tiktok_handle": "@reedjacob",
+    "joined_at": "2024-12-04T18:01:42.800815",
+    "advocacy_programs": [
+        {
+            "program_id": "dcc18173-9140-4d0b-bc8b-f48ba734fa0d",
+            "brand": "Moore-Mitchell",
+            "tasks_completed": [
+                {
+                    "task_id": "9d9c96ad-d056-4ad4-b926-0122ef4e9849",
+                    "platform": "TikTok",
+                    "post_url": "http://www.henderson.net/",
+                    "likes": 7985,
+                    "comments": 141,
+                    "shares": 16,
+                    "reach": 6153
+                }
+            ],
+            "total_sales_attributed": 3263.3
+        }
+    ]
+}

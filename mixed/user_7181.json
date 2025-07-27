@@ -1,0 +1,26 @@
+{
+    "user_id": "242241b2-db96-4e1f-8e05-020e3764f76d",
+    "name": "Charles Hunt",
+    "email": "iturner@example.org",
+    "instagram_handle": "@xcook",
+    "tiktok_handle": "@cathysmith",
+    "joined_at": "2024-08-19T15:55:22.722859",
+    "advocacy_programs": [
+        {
+            "program_id": "3bb6c7c5-b583-4249-8739-50f2bbbef8b8",
+            "brand": "Patel Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "a8795c19-7a5f-4521-8672-ac9d73826212",
+                    "platform": "Twitter",
+                    "post_url": "http://www.young.com/",
+                    "likes": 5219,
+                    "comments": 80,
+                    "shares": 67,
+                    "reach": 4116
+                }
+            ],
+            "total_sales_attributed": 3769.82
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a5c30675-0b43-4cc1-a998-f49fe12daa8c",
+    "name": "Kyle Powell",
+    "email": "danielle12@example.com",
+    "instagram_handle": "@lisa87",
+    "tiktok_handle": "@peterscameron",
+    "joined_at": "2024-01-13T15:48:57.731411",
+    "advocacy_programs": [
+        {
+            "program_id": "644b20ff-e7ba-49a6-835b-9df9c44edc54",
+            "brand": "Vandervort - Swaniawski",
+            "tasks_completed": [
+                {
+                    "task_id": "d2898add-6914-4d00-9215-5afc7cd0dc3d",
+                    "platform": "Facebook",
+                    "post_url": "http://www.bennett-turner.info/",
+                    "likes": 7678,
+                    "comments": 468,
+                    "shares": 6,
+                    "reach": 8758
+                }
+            ],
+            "total_sales_attributed": 3616.1525892815716
+        }
+    ]
+}

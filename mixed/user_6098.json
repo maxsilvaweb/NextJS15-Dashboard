@@ -1,0 +1,26 @@
+{
+    "user_id": "020e3870-eb84-4861-aa9f-225a783afbd7",
+    "name": "Mr. Gerard King",
+    "email": "Harley1@yahoo.com",
+    "instagram_handle": "@Parker.Fay",
+    "tiktok_handle": "@Rashad_Rosenbaum50",
+    "joined_at": "2024-09-27T11:34:29.009Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cf3f47f9-56e9-46ec-92fd-05809ec2d651",
+            "brand": "Donnelly - Witting",
+            "tasks_completed": [
+                {
+                    "task_id": "74fea13a-7af4-47c1-acad-1a97946ac5d8",
+                    "platform": "Instagram",
+                    "post_url": "https://actual-waist.com",
+                    "likes": 415,
+                    "comments": 25,
+                    "shares": 44,
+                    "reach": 4443
+                }
+            ],
+            "total_sales_attributed": 3373.6158003032333
+        }
+    ]
+}

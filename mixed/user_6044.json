@@ -1,0 +1,26 @@
+{
+    "user_id": "e6cea6f1-0930-4048-9cc7-7d4c0988baaf",
+    "name": "Nicholas Copeland",
+    "email": "adamsilva@example.net",
+    "instagram_handle": "@vmcconnell",
+    "tiktok_handle": "@unguyen",
+    "joined_at": "2023-10-21T04:27:42.581938",
+    "advocacy_programs": [
+        {
+            "program_id": "6e3fa3db-3a2f-4535-b059-4122b0a2bac6",
+            "brand": "Oconnor, Horn and Romero",
+            "tasks_completed": [
+                {
+                    "task_id": "e211fae4-c834-4363-a14e-b1ed84ea320a",
+                    "platform": "Instagram",
+                    "post_url": "http://www.maxwell.com/",
+                    "likes": 2432,
+                    "comments": 303,
+                    "shares": 47,
+                    "reach": 2306
+                }
+            ],
+            "total_sales_attributed": 1077.086782031421
+        }
+    ]
+}

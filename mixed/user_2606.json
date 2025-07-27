@@ -1,0 +1,26 @@
+{
+    "user_id": "a031ad23-d570-44d0-b2d9-65c74967e661",
+    "name": "Scott Hernandez",
+    "email": "evanbrown@example.net",
+    "instagram_handle": "@riossean",
+    "tiktok_handle": "@frazierhenry",
+    "joined_at": "2023-08-27T09:18:16.465363",
+    "advocacy_programs": [
+        {
+            "program_id": "fbdf2c2f-d820-4cdb-a95a-e8cd0a8fe926",
+            "brand": "Williams-Evans",
+            "tasks_completed": [
+                {
+                    "task_id": "233a7e99-e6e2-4085-bf46-5fbb0b1967ba",
+                    "platform": "Instagram",
+                    "post_url": "http://www.williams.com/",
+                    "likes": 7237,
+                    "comments": 306,
+                    "shares": 41,
+                    "reach": 9575
+                }
+            ],
+            "total_sales_attributed": 3196.98115608388
+        }
+    ]
+}

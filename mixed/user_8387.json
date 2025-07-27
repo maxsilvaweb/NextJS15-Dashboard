@@ -1,0 +1,26 @@
+{
+    "user_id": "7d2ee090-ead1-478a-b73a-e60bc3b0adf3",
+    "name": "Rosemary Rath",
+    "email": "Forrest_Dietrich@hotmail.com",
+    "instagram_handle": "@Jonas.Corkery",
+    "tiktok_handle": "@Demetrius_Kemmer",
+    "joined_at": "2024-06-11T06:35:58.697Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c44a112f-a4d3-4e12-8deb-f0e7ed501630",
+            "brand": "Ziemann Group",
+            "tasks_completed": [
+                {
+                    "task_id": "7858f3aa-40d3-47ff-995d-e232270b1632",
+                    "platform": "Instagram",
+                    "post_url": "https://concrete-sideboard.info",
+                    "likes": 310,
+                    "comments": 46,
+                    "shares": 38,
+                    "reach": 9309
+                }
+            ],
+            "total_sales_attributed": 4494.80215449315
+        }
+    ]
+}

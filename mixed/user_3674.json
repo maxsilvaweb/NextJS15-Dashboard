@@ -1,0 +1,26 @@
+{
+    "user_id": "f046fa89-fb67-42c3-b64d-8fbfce732580",
+    "name": "Mr. Elbert Dare",
+    "email": "Joanne61@yahoo.com",
+    "instagram_handle": "@Nicholas_Shanahan",
+    "tiktok_handle": "@Sabrina85",
+    "joined_at": "2024-06-12T20:10:18.890Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d05b5b38-6db0-46ca-a16e-85d32fbe120a",
+            "brand": "Stark and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "e87bc1c0-64c5-4b04-b914-e5f1956be9de",
+                    "platform": "TikTok",
+                    "post_url": "https://uneven-reservation.info",
+                    "likes": 330,
+                    "comments": 2,
+                    "shares": 66,
+                    "reach": 9188
+                }
+            ],
+            "total_sales_attributed": 1037.5517564406637
+        }
+    ]
+}

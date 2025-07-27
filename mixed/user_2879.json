@@ -1,0 +1,26 @@
+{
+    "user_id": "b5189fe2-57f8-4249-a371-64a4f6e0fb64",
+    "name": "Tony Walker",
+    "email": "stacy82@example.net",
+    "instagram_handle": "@juan67",
+    "tiktok_handle": "@april92",
+    "joined_at": "2025-03-31T10:26:02.356975",
+    "advocacy_programs": [
+        {
+            "program_id": "eaa3b6f9-189a-4e0e-9942-944356234d42",
+            "brand": "Flowers, Quinn and Murphy",
+            "tasks_completed": [
+                {
+                    "task_id": "1a9a928e-783f-4dd8-ac58-2b660364b67a",
+                    "platform": "Facebook",
+                    "post_url": "https://sheppard.com/",
+                    "likes": 4041,
+                    "comments": 237,
+                    "shares": 70,
+                    "reach": 9209
+                }
+            ],
+            "total_sales_attributed": 5755.68
+        }
+    ]
+}

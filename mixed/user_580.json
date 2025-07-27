@@ -1,0 +1,26 @@
+{
+    "user_id": "0f9357b7-7778-4a9a-94cb-f963489a4022",
+    "name": "Christy Fahey-O'Reilly",
+    "email": "Wyatt14@hotmail.com",
+    "instagram_handle": "@Kassandra_Herzog-Smith",
+    "tiktok_handle": "@Karli6",
+    "joined_at": "2024-04-03T02:25:15.158Z",
+    "advocacy_programs": [
+        {
+            "program_id": "11718a4d-e786-423f-b97b-b87c0fea3430",
+            "brand": "Jacobi, Metz and Lehner",
+            "tasks_completed": [
+                {
+                    "task_id": "1dd065d7-0a5f-4bee-be23-9d743e2babb8",
+                    "platform": "TikTok",
+                    "post_url": "https://decisive-forager.net",
+                    "likes": 12,
+                    "comments": 32,
+                    "shares": 49,
+                    "reach": 8004
+                }
+            ],
+            "total_sales_attributed": 1047.026733707574
+        }
+    ]
+}

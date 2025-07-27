@@ -1,0 +1,26 @@
+{
+    "user_id": "2ddb0365-bef7-485d-a7f9-c8478731dd1f",
+    "name": "Ida Reynolds",
+    "email": "Romaine.Tromp@hotmail.com",
+    "instagram_handle": "@Harmon.Doyle",
+    "tiktok_handle": "@Kassandra.Ankunding",
+    "joined_at": "2024-03-31T03:14:58.034Z",
+    "advocacy_programs": [
+        {
+            "program_id": "942d20b4-10fc-4a24-89b2-bba51bcdff6f",
+            "brand": "Mosciski - Schneider",
+            "tasks_completed": [
+                {
+                    "task_id": "5e59a0a2-430c-4946-a9f2-910afd751fa3",
+                    "platform": "Instagram",
+                    "post_url": "https://complicated-massage.net/",
+                    "likes": 252,
+                    "comments": 35,
+                    "shares": 70,
+                    "reach": 527
+                }
+            ],
+            "total_sales_attributed": 3120.615193591931
+        }
+    ]
+}

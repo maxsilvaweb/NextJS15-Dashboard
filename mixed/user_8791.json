@@ -1,0 +1,26 @@
+{
+    "user_id": "3b9b1ed7-939f-45a2-adad-4b20e53cadc8",
+    "name": "Jessica White",
+    "email": "alexis02@example.net",
+    "instagram_handle": "@john65",
+    "tiktok_handle": "@anthony79",
+    "joined_at": "2024-11-06T21:32:00.277767",
+    "advocacy_programs": [
+        {
+            "program_id": "20019947-7064-4721-9cad-1ad9c29df7e6",
+            "brand": "Ferguson-Jefferson",
+            "tasks_completed": [
+                {
+                    "task_id": "4a046ae7-7eb9-4fc6-b800-55ea63d9ef54",
+                    "platform": "TikTok",
+                    "post_url": "http://clark-cowan.com/",
+                    "likes": 9909,
+                    "comments": 43,
+                    "shares": 84,
+                    "reach": 3486
+                }
+            ],
+            "total_sales_attributed": 3170.2718924664046
+        }
+    ]
+}

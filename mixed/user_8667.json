@@ -1,0 +1,26 @@
+{
+    "user_id": "3538b475-35ed-49ce-ad8d-91c6ae4d1d4c",
+    "name": "Kevin Wilson",
+    "email": "qsolis@example.com",
+    "instagram_handle": "@kentchristopher",
+    "tiktok_handle": "@amandawelch",
+    "joined_at": "2023-09-01T10:30:48.782346",
+    "advocacy_programs": [
+        {
+            "program_id": "f3d7cc9c-5e1f-43e9-91af-dffb758a3369",
+            "brand": "Stevenson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "9a593766-9795-4a89-af47-ecbf6292d95a",
+                    "platform": "Instagram",
+                    "post_url": "http://rogers-noble.net/",
+                    "likes": 8327,
+                    "comments": 0,
+                    "shares": 47,
+                    "reach": 8491
+                }
+            ],
+            "total_sales_attributed": 1291.0969654940957
+        }
+    ]
+}

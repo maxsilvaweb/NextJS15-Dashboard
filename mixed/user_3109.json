@@ -1,0 +1,26 @@
+{
+    "user_id": "7fe6cbe1-7f06-4dca-b563-fb56e221cdbd",
+    "name": "Virginia Benton",
+    "email": "wilsonpatricia@example.org",
+    "instagram_handle": "@natasha83",
+    "tiktok_handle": "@vwheeler",
+    "joined_at": "2025-01-15T17:00:02.251163",
+    "advocacy_programs": [
+        {
+            "program_id": "ac9ea45e-1713-4d13-9897-2aec1d520d7b",
+            "brand": "Raymond Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "df2593b0-6126-4ba3-86d2-5666b2ba4968",
+                    "platform": "Instagram",
+                    "post_url": "http://www.brown.org/",
+                    "likes": 260,
+                    "comments": 139,
+                    "shares": 58,
+                    "reach": 6199
+                }
+            ],
+            "total_sales_attributed": 905.53
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "474990e3-6b77-418a-a108-3d2ae8cce040",
+    "name": "Ryan Floyd",
+    "email": "Harold.Lakin@hotmail.com",
+    "instagram_handle": "@tiffany46",
+    "tiktok_handle": "@blackburnchad",
+    "joined_at": "2024-09-25T21:03:45.383686",
+    "advocacy_programs": [
+        {
+            "program_id": "4d24864d-7d6d-4209-8646-fca64e69410d",
+            "brand": "Page-Newton",
+            "tasks_completed": [
+                {
+                    "task_id": "e93e136b-b2bd-44d9-8760-ee23834bbf41",
+                    "platform": "Facebook",
+                    "post_url": "https://www.green.com/",
+                    "likes": 362,
+                    "comments": 25,
+                    "shares": 77,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 7598.3
+        }
+    ]
+}

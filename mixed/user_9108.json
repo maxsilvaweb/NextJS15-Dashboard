@@ -1,0 +1,26 @@
+{
+    "user_id": "1dc7cdc5-b345-451e-b629-5bf59738c77d",
+    "name": "Florence Lebsack-Schmidt",
+    "email": "Valentina.Leffler@gmail.com",
+    "instagram_handle": "@Issac0",
+    "tiktok_handle": "@Vivien_Sauer34",
+    "joined_at": "2024-06-23T16:17:12.058Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a302134d-06be-4328-a485-5f06473e2f38",
+            "brand": "Kuhlman and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "661ddd21-20a2-48bd-a5fc-56698d66b395",
+                    "platform": "Instagram",
+                    "post_url": "https://natural-cellar.com/",
+                    "likes": 284,
+                    "comments": 43,
+                    "shares": 3,
+                    "reach": 3144
+                }
+            ],
+            "total_sales_attributed": 2954.7290494781882
+        }
+    ]
+}

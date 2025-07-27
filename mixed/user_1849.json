@@ -1,0 +1,26 @@
+{
+    "user_id": "933cc6dd-2c84-4bf6-aa74-7d8ec8f1467f",
+    "name": "Raymond Long",
+    "email": "sherry12@example.com",
+    "instagram_handle": "@blackchristopher",
+    "tiktok_handle": "@leesamuel",
+    "joined_at": "2025-05-20T23:44:27.216908",
+    "advocacy_programs": [
+        {
+            "program_id": "905b8744-748c-49b9-a4ef-d7b26e732fe7",
+            "brand": "Chaney, Jordan and White",
+            "tasks_completed": [
+                {
+                    "task_id": "b827ee11-268d-4ab3-9bce-9c0b6d12c2d1",
+                    "platform": "TikTok",
+                    "post_url": "https://ortiz-ramirez.info/",
+                    "likes": 314,
+                    "comments": 330,
+                    "shares": 90,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 1613.95
+        }
+    ]
+}

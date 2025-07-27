@@ -1,0 +1,26 @@
+{
+    "user_id": "2313b8d2-5c32-4546-88b8-60c517430829",
+    "name": "Katie Mitchell",
+    "email": "lopezjohn@example.org",
+    "instagram_handle": "@zhill",
+    "tiktok_handle": "@raysamantha",
+    "joined_at": "2025-02-12T04:12:34.552178",
+    "advocacy_programs": [
+        {
+            "program_id": "f61feccf-da59-418f-b8bd-2eb3b1d11f0d",
+            "brand": "Morales Group",
+            "tasks_completed": [
+                {
+                    "task_id": "aaa03cfe-27d9-48b3-badd-5c271aba73e8",
+                    "platform": "TikTok",
+                    "post_url": "https://serene-bowler.net",
+                    "likes": 402,
+                    "comments": 47,
+                    "shares": 30,
+                    "reach": 1697
+                }
+            ],
+            "total_sales_attributed": 6903.96
+        }
+    ]
+}

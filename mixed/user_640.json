@@ -1,0 +1,26 @@
+{
+    "user_id": "7eea2464-49e5-4ff9-bcfa-43a791d1822e",
+    "name": "Amy Miller",
+    "email": "Ernie_Padberg39@gmail.com",
+    "instagram_handle": "@roywilliams",
+    "tiktok_handle": "@hgrant",
+    "joined_at": "2024-01-26T07:29:15.516560",
+    "advocacy_programs": [
+        {
+            "program_id": "723caed2-66cb-4dcd-9266-04d0c44655d9",
+            "brand": "Williams, Ross and Rhodes",
+            "tasks_completed": [
+                {
+                    "task_id": "6148eedf-d9a1-47c9-b9e2-ae52d0181a66",
+                    "platform": "YouTube",
+                    "post_url": "https://sticky-agreement.biz",
+                    "likes": 35,
+                    "comments": 26,
+                    "shares": 90,
+                    "reach": 770
+                }
+            ],
+            "total_sales_attributed": 3420.14
+        }
+    ]
+}

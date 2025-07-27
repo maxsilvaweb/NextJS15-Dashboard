@@ -1,0 +1,26 @@
+{
+    "user_id": "2f74c3a7-5d94-4168-a8d4-02d9768b4342",
+    "name": "Emily Miller",
+    "email": "Buford.Blanda@yahoo.com",
+    "instagram_handle": "@Luella.Deckow",
+    "tiktok_handle": "@Weston6",
+    "joined_at": "2024-08-31T01:29:06.290Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1e07931f-7115-4dd9-b7d9-3029e05de506",
+            "brand": "Friesen - Legros",
+            "tasks_completed": [
+                {
+                    "task_id": "b1b7c152-f521-4292-9db5-2279b1d1251f",
+                    "platform": "Instagram",
+                    "post_url": "https://quick-fencing.net/",
+                    "likes": 398,
+                    "comments": 44,
+                    "shares": 5,
+                    "reach": 3008
+                }
+            ],
+            "total_sales_attributed": 3114.518012442535
+        }
+    ]
+}

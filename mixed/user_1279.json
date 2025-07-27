@@ -1,0 +1,26 @@
+{
+    "user_id": "d83dea11-c224-489c-b1c0-b4703c55f061",
+    "name": "Carolyn O'Conner",
+    "email": "Gabe_Considine7@hotmail.com",
+    "instagram_handle": "@Jazmin.Bogisich",
+    "tiktok_handle": "@Madalyn_Batz93",
+    "joined_at": "2024-07-30T12:47:40.194Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2248abaa-c34d-492c-8def-56576e563e03",
+            "brand": "Wuckert, Orn and Bogisich",
+            "tasks_completed": [
+                {
+                    "task_id": "1d9f58e7-f57e-4aff-a578-9b4eec2c515c",
+                    "platform": "TikTok",
+                    "post_url": "https://best-begonia.biz",
+                    "likes": 255,
+                    "comments": 23,
+                    "shares": 44,
+                    "reach": 9953
+                }
+            ],
+            "total_sales_attributed": 1498.3200991293727
+        }
+    ]
+}

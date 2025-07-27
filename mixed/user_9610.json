@@ -1,0 +1,26 @@
+{
+    "user_id": "ccb25b89-3c2c-4806-8704-33967e50286a",
+    "name": "James Lawson",
+    "email": "lindseyscott@example.com",
+    "instagram_handle": "@johnathan61",
+    "tiktok_handle": "@rodriguezmaurice",
+    "joined_at": "2024-12-13T12:02:10.640Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5512dcdf-7028-4709-89ce-3f8b892d42b0",
+            "brand": "Alvarez Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "bd889b84-b178-4167-9c51-43baeeac6ade",
+                    "platform": "Instagram",
+                    "post_url": "http://www.bautista-gardner.com/",
+                    "likes": 9563,
+                    "comments": 23,
+                    "shares": 45,
+                    "reach": 8039
+                }
+            ],
+            "total_sales_attributed": 343.24
+        }
+    ]
+}

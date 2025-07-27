@@ -1,0 +1,26 @@
+{
+    "user_id": "8e9d1d49-92bd-4f09-a9be-736533a558d3",
+    "name": "Laura Shepherd",
+    "email": "kevin53@example.net",
+    "instagram_handle": "@christine55",
+    "tiktok_handle": "@anthonyrichard",
+    "joined_at": "2024-04-28T02:27:20.905314",
+    "advocacy_programs": [
+        {
+            "program_id": "af92a7af-7a93-4696-a3cc-316ca0d4ab77",
+            "brand": "James-Rogers",
+            "tasks_completed": [
+                {
+                    "task_id": "37ea3e8a-07e7-4000-ac3c-faf8fc856a59",
+                    "platform": "YouTube",
+                    "post_url": "https://duran-nelson.com/",
+                    "likes": 8474,
+                    "comments": 20,
+                    "shares": 73,
+                    "reach": 7360
+                }
+            ],
+            "total_sales_attributed": 5896.03
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "9604fc19-7dea-4c6e-bd24-b9d29efbbf50",
+    "name": "Stella Davis",
+    "email": "Ottis_Price-Metz58@yahoo.com",
+    "instagram_handle": "@Erica.Mertz",
+    "tiktok_handle": "@Dwight89",
+    "joined_at": "2024-10-21T13:38:34.158Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c85cd7c0-0798-416c-bbb7-ce9d16ac4ff7",
+            "brand": "Christiansen, Roberts and Monahan",
+            "tasks_completed": [
+                {
+                    "task_id": "4d8dcddd-8ab5-445d-ad5d-0f361ee3dd22",
+                    "platform": "TikTok",
+                    "post_url": "https://good-skeleton.net/",
+                    "likes": 74,
+                    "comments": 18,
+                    "shares": 74,
+                    "reach": 3782
+                }
+            ],
+            "total_sales_attributed": 4935.34335631502
+        }
+    ]
+}

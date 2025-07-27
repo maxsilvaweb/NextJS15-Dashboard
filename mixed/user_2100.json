@@ -1,0 +1,26 @@
+{
+    "user_id": "2eca439e-80e9-4303-8cc4-9b737ea30f2d",
+    "name": "Mrs. Janie Beahan",
+    "email": "Shanon.Schneider21@yahoo.com",
+    "instagram_handle": "@Jessy_Hayes",
+    "tiktok_handle": "@Justina.Schmeler38",
+    "joined_at": "2024-11-17T00:06:00.739Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2716095a-fbe4-44b9-ac5f-c9989055a16e",
+            "brand": "Nicolas LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a4e27ec8-9f44-4eaa-b1cb-be802cce45c7",
+                    "platform": "Instagram",
+                    "post_url": "https://polite-vein.name/",
+                    "likes": 227,
+                    "comments": 47,
+                    "shares": 77,
+                    "reach": 4783
+                }
+            ],
+            "total_sales_attributed": 3691.4163276944737
+        }
+    ]
+}

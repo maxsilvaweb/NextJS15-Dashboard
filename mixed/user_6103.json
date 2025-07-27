@@ -1,0 +1,26 @@
+{
+    "user_id": "d934eceb-f70c-45a5-8ef4-7034049ba62a",
+    "name": "Brenda Scott",
+    "email": "davidwebb@example.org",
+    "instagram_handle": "@sharon43",
+    "tiktok_handle": "@kennethmartinez",
+    "joined_at": "2023-11-15T19:11:21.757582",
+    "advocacy_programs": [
+        {
+            "program_id": "687b9721-641d-4cf2-afc1-a0faf1bc0dcb",
+            "brand": "Kelly, Haynes and Mahoney",
+            "tasks_completed": [
+                {
+                    "task_id": "d6d9186c-582a-4e9d-b7bf-123cc4d8e815",
+                    "platform": "TikTok",
+                    "post_url": "https://www.summers.com/",
+                    "likes": 156,
+                    "comments": 152,
+                    "shares": 76,
+                    "reach": 2220
+                }
+            ],
+            "total_sales_attributed": 7113.12
+        }
+    ]
+}

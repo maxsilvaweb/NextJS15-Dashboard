@@ -1,0 +1,26 @@
+{
+    "user_id": "5f46881c-9d60-4cbe-8e00-aeb3d1fa418c",
+    "name": "Mrs. Jessica Brown",
+    "email": "jordangregory@example.org",
+    "instagram_handle": "@darius40",
+    "tiktok_handle": "@sharitaylor",
+    "joined_at": "2024-12-16T17:41:24.497Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5a54024a-ec44-4600-af95-0596a1011abd",
+            "brand": "Bell-Vasquez",
+            "tasks_completed": [
+                {
+                    "task_id": "738f874f-d1ac-4bdb-9df2-c3d66c00399c",
+                    "platform": "Facebook",
+                    "post_url": "http://miller.com/",
+                    "likes": 4566,
+                    "comments": 41,
+                    "shares": 93,
+                    "reach": 6595
+                }
+            ],
+            "total_sales_attributed": 8689.69
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "3e31481c-b04d-41dd-a58e-77a440186815",
+    "name": "Christina Ramsey",
+    "email": "alejandro04@example.org",
+    "instagram_handle": "@paulbutler",
+    "tiktok_handle": "@john84",
+    "joined_at": "2023-12-21T05:32:25.519828",
+    "advocacy_programs": [
+        {
+            "program_id": "9deb26e2-4fe2-4f75-8f67-47cba9032342",
+            "brand": "Young PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d819c9e3-9d4d-4724-9217-1a48c4bfff43",
+                    "platform": "Facebook",
+                    "post_url": "https://www.williams.com/",
+                    "likes": 2303,
+                    "comments": 65,
+                    "shares": 53,
+                    "reach": 4700
+                }
+            ],
+            "total_sales_attributed": 2227.18
+        }
+    ]
+}

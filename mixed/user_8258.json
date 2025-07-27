@@ -1,0 +1,26 @@
+{
+    "user_id": "16feda1f-547a-47d9-ab6e-08f172aaaefc",
+    "name": "Jesse Kline",
+    "email": "Darwin_Auer@gmail.com",
+    "instagram_handle": "@cummingsbrian",
+    "tiktok_handle": "@david74",
+    "joined_at": "2024-10-03T05:30:12.600Z",
+    "advocacy_programs": [
+        {
+            "program_id": "30739957-8812-42e2-b1c3-93b50f1aa8db",
+            "brand": "Mclean-Dudley",
+            "tasks_completed": [
+                {
+                    "task_id": "4f61e954-e3a5-491c-aa74-5f236a331d9e",
+                    "platform": "TikTok",
+                    "post_url": "https://www.sanchez-lara.biz/",
+                    "likes": 413,
+                    "comments": 221,
+                    "shares": 99,
+                    "reach": 9872
+                }
+            ],
+            "total_sales_attributed": 3694.240532754402
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4b87ec6c-be27-4920-bc4a-c16882ae5a85",
+    "name": "Anna Lehner",
+    "email": "Hilma_Haag60@yahoo.com",
+    "instagram_handle": "@Bonnie_Hintz57",
+    "tiktok_handle": "@Jude96",
+    "joined_at": "2024-08-17T01:51:02.772Z",
+    "advocacy_programs": [
+        {
+            "program_id": "76139f8a-865a-46f4-b94b-cc69106bc08c",
+            "brand": "Conroy, Runte and Cartwright",
+            "tasks_completed": [
+                {
+                    "task_id": "48360a0e-ee82-4cf0-b26c-36e6f5cdc406",
+                    "platform": "TikTok",
+                    "post_url": "https://nautical-hamburger.biz",
+                    "likes": 339,
+                    "comments": 14,
+                    "shares": 79,
+                    "reach": 8750
+                }
+            ],
+            "total_sales_attributed": 2415.661720190953
+        }
+    ]
+}

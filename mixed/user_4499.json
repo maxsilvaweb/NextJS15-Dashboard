@@ -1,0 +1,26 @@
+{
+    "user_id": "f3644277-bb95-45f6-a467-2c1f71d69ed9",
+    "name": "Ian Allen",
+    "email": "Christa_Barrows-Kutch@yahoo.com",
+    "instagram_handle": "@Sonny37",
+    "tiktok_handle": "@james50",
+    "joined_at": "2023-09-08T03:41:59.695094",
+    "advocacy_programs": [
+        {
+            "program_id": "62d9eaf9-2fe6-4a61-ba6a-085d01ecb13f",
+            "brand": "Avery, Wiggins and Duncan",
+            "tasks_completed": [
+                {
+                    "task_id": "8a863147-266b-4774-95fb-1665f09d85a2",
+                    "platform": "Instagram",
+                    "post_url": "https://noble.com/",
+                    "likes": 6612,
+                    "comments": 36,
+                    "shares": 62,
+                    "reach": 7715
+                }
+            ],
+            "total_sales_attributed": 2150.8816313145535
+        }
+    ]
+}

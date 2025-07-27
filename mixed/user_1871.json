@@ -1,0 +1,26 @@
+{
+    "user_id": "ac3c1773-da66-4c34-ab04-b2672d352de8",
+    "name": "Philip Raynor",
+    "email": "Brian_Altenwerth96@hotmail.com",
+    "instagram_handle": "@Waino_Crooks",
+    "tiktok_handle": "@Angelina52",
+    "joined_at": "2024-09-24T10:32:42.567Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b41b3667-2be8-4499-99e6-a7a06a97ad42",
+            "brand": "Roberts Group",
+            "tasks_completed": [
+                {
+                    "task_id": "acc12a86-c9ae-4631-ae6e-b70ab840c58c",
+                    "platform": "TikTok",
+                    "post_url": "https://menacing-kielbasa.com",
+                    "likes": 74,
+                    "comments": 1,
+                    "shares": 35,
+                    "reach": 671
+                }
+            ],
+            "total_sales_attributed": 597.9330620810608
+        }
+    ]
+}

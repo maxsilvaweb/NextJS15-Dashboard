@@ -1,0 +1,26 @@
+{
+    "user_id": "d883bdc0-43eb-40a5-a262-fbecafba6518",
+    "name": "Ms. Marianne Hane",
+    "email": "Noemi3@yahoo.com",
+    "instagram_handle": "@Lillian_Dibbert8",
+    "tiktok_handle": "@Lauriane_Nienow98",
+    "joined_at": "2024-10-01T00:02:22.475Z",
+    "advocacy_programs": [
+        {
+            "program_id": "773af0c7-f426-417e-af3c-d068309a0954",
+            "brand": "Miller, Weber and Windler",
+            "tasks_completed": [
+                {
+                    "task_id": "0a0dfc6d-dcc2-489d-952e-a3c023b7b55b",
+                    "platform": "TikTok",
+                    "post_url": "https://musty-manner.info",
+                    "likes": 32,
+                    "comments": 26,
+                    "shares": 2,
+                    "reach": 4917
+                }
+            ],
+            "total_sales_attributed": 685.9047381426706
+        }
+    ]
+}

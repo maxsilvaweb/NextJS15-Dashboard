@@ -1,0 +1,26 @@
+{
+    "user_id": "a999421a-45d3-45a0-988c-13b12a880e4e",
+    "name": "Brett Kulas",
+    "email": "Waino.Medhurst@hotmail.com",
+    "instagram_handle": "@Shea.Bernhard",
+    "tiktok_handle": "@Jaren19",
+    "joined_at": "2024-11-27T08:03:37.580Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b12b22cf-01cc-4897-9478-55fd18d16ea8",
+            "brand": "Kirlin - Hermann",
+            "tasks_completed": [
+                {
+                    "task_id": "8175b50c-c6ae-4fe0-ac95-d2002788e848",
+                    "platform": "Instagram",
+                    "post_url": "https://quiet-scout.name",
+                    "likes": 480,
+                    "comments": 50,
+                    "shares": 67,
+                    "reach": 8362
+                }
+            ],
+            "total_sales_attributed": 1633.9312288896929
+        }
+    ]
+}

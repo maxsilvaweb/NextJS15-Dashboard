@@ -1,0 +1,26 @@
+{
+    "user_id": "53167f67-4a66-48eb-a2a7-d3e212c997cd",
+    "name": "Alicia Scott",
+    "email": "bobby48@example.org",
+    "instagram_handle": "@grayoscar",
+    "tiktok_handle": "@bryanorr",
+    "joined_at": "2024-07-29T13:01:55.929Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cd0b3f9d-a07f-4500-ac74-0b2fd2970674",
+            "brand": "Cannon-Cooper",
+            "tasks_completed": [
+                {
+                    "task_id": "84be511f-1a2c-4612-a3a4-c1c8636b21b8",
+                    "platform": "TikTok",
+                    "post_url": "http://www.anderson.com/",
+                    "likes": 1900,
+                    "comments": 485,
+                    "shares": 0,
+                    "reach": 7704
+                }
+            ],
+            "total_sales_attributed": 6721.96
+        }
+    ]
+}

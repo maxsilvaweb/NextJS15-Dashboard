@@ -1,0 +1,26 @@
+{
+    "user_id": "2624ec8a-41ed-471b-9af9-9643ac16030c",
+    "name": "Annette Bailey",
+    "email": "vazquezdalton@example.net",
+    "instagram_handle": "@patriciapeterson",
+    "tiktok_handle": "@amyruiz",
+    "joined_at": "2024-08-29T17:11:41.636298",
+    "advocacy_programs": [
+        {
+            "program_id": "ff46333a-027f-4443-aea5-803816e1f1e6",
+            "brand": "Buck-Price",
+            "tasks_completed": [
+                {
+                    "task_id": "7476c23f-146d-49d0-b690-e4838e874cb4",
+                    "platform": "Instagram",
+                    "post_url": "https://www.mcdowell-johnson.biz/",
+                    "likes": 821,
+                    "comments": 267,
+                    "shares": 11,
+                    "reach": 2359
+                }
+            ],
+            "total_sales_attributed": 9256.63
+        }
+    ]
+}

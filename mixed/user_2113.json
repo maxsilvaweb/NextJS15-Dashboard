@@ -1,0 +1,26 @@
+{
+    "user_id": "b3e3db33-8290-428a-a1c6-6a614c763465",
+    "name": "Eileen Hodkiewicz Jr.",
+    "email": "Garrison.Borer@gmail.com",
+    "instagram_handle": "@Mitchell73",
+    "tiktok_handle": "@Avis.McCullough63",
+    "joined_at": "2024-09-05T19:04:49.129Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b4d1279c-6b1e-4c4f-8e13-0a04298cf20b",
+            "brand": "Heller, Hammes and Gulgowski",
+            "tasks_completed": [
+                {
+                    "task_id": "cb8037da-8d7a-4496-a744-48abc70b50a8",
+                    "platform": "Instagram",
+                    "post_url": "https://silky-discourse.com/",
+                    "likes": 184,
+                    "comments": 2,
+                    "shares": 13,
+                    "reach": 1416
+                }
+            ],
+            "total_sales_attributed": 767.3448076686898
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ac1f4a14-9204-424c-a162-c460f74998d1",
+    "name": "Jennifer Andrews",
+    "email": "cynthiaharris@example.org",
+    "instagram_handle": "@ericlewis",
+    "tiktok_handle": "@jonesmichael",
+    "joined_at": "2025-04-30T08:53:21.410691",
+    "advocacy_programs": [
+        {
+            "program_id": "007d5782-229e-42fa-b3aa-e066358c3f0a",
+            "brand": "Torp Group",
+            "tasks_completed": [
+                {
+                    "task_id": "80676599-e33c-4e40-b8ba-3bb895d03eec",
+                    "platform": "Instagram",
+                    "post_url": "http://www.brown.biz/",
+                    "likes": 31,
+                    "comments": 303,
+                    "shares": 44,
+                    "reach": 6863
+                }
+            ],
+            "total_sales_attributed": 250.46
+        }
+    ]
+}

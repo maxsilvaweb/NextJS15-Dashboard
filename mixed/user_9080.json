@@ -1,0 +1,26 @@
+{
+    "user_id": "88df586d-9a3e-43e6-aec3-6b987d189a64",
+    "name": "Alexander Young",
+    "email": "tranmarilyn@example.org",
+    "instagram_handle": "@hardycourtney",
+    "tiktok_handle": "@qbrown",
+    "joined_at": "2023-10-23T11:06:28.093081",
+    "advocacy_programs": [
+        {
+            "program_id": "996b1328-b9a3-4d0f-92ab-8e9cfcc463ab",
+            "brand": "Torres-Berg",
+            "tasks_completed": [
+                {
+                    "task_id": "2ff312cf-7d61-4917-874c-c811b68bafe9",
+                    "platform": "TikTok",
+                    "post_url": "http://leblanc.com/",
+                    "likes": 5475,
+                    "comments": 150,
+                    "shares": 5,
+                    "reach": 5423
+                }
+            ],
+            "total_sales_attributed": 4751.580777608664
+        }
+    ]
+}

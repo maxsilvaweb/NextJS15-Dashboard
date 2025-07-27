@@ -1,0 +1,26 @@
+{
+    "user_id": "2b78704e-2765-434b-9860-1d27aa929dfe",
+    "name": "Nicole Collins",
+    "email": "qmooney@example.com",
+    "instagram_handle": "@bergjames",
+    "tiktok_handle": "@mmiller",
+    "joined_at": "2024-06-18T20:05:05.749656",
+    "advocacy_programs": [
+        {
+            "program_id": "eed3793c-5ac9-4924-8477-12736eb418be",
+            "brand": "Kennedy, Moore and James",
+            "tasks_completed": [
+                {
+                    "task_id": "f18cd433-cb5a-4cdd-b8c6-5398da80220e",
+                    "platform": "YouTube",
+                    "post_url": "http://rodriguez.com/",
+                    "likes": 37,
+                    "comments": 495,
+                    "shares": 92,
+                    "reach": 2230
+                }
+            ],
+            "total_sales_attributed": 2383.201502441456
+        }
+    ]
+}

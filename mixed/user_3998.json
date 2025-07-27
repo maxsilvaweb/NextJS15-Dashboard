@@ -1,0 +1,26 @@
+{
+    "user_id": "48941928-78a0-4b43-8715-8878af966f81",
+    "name": "Josephine Prosacco",
+    "email": "Elouise_Streich7@gmail.com",
+    "instagram_handle": "@Jules.Hills2",
+    "tiktok_handle": "@Curt.Schuster",
+    "joined_at": "2025-03-12T11:10:33.767Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b01d6b47-fc9e-4710-b6a7-0ba7c253a1e6",
+            "brand": "Kunze - Dietrich",
+            "tasks_completed": [
+                {
+                    "task_id": "2837f865-1944-4613-a947-9605c4fc4615",
+                    "platform": "TikTok",
+                    "post_url": "https://junior-dividend.com",
+                    "likes": 343,
+                    "comments": 35,
+                    "shares": 3,
+                    "reach": 9086
+                }
+            ],
+            "total_sales_attributed": 1693.783415857245
+        }
+    ]
+}

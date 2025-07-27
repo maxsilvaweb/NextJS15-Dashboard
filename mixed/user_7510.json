@@ -1,0 +1,26 @@
+{
+    "user_id": "6f9051c9-1b94-4ad8-8271-e30c3d771604",
+    "name": "Brendan Raynor",
+    "email": "Eudora_Wiegand29@gmail.com",
+    "instagram_handle": "@Emilia.Kunde",
+    "tiktok_handle": "@Jayson_Boyer85",
+    "joined_at": "2025-01-26T08:47:11.998Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ffeff2ce-9dad-4c42-989a-1ba8ac835e1f",
+            "brand": "Brekke Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "ff9ae027-9326-4ac0-9ffa-c72f77105f15",
+                    "platform": "TikTok",
+                    "post_url": "https://apprehensive-coin.org/",
+                    "likes": 232,
+                    "comments": 6,
+                    "shares": 53,
+                    "reach": 6030
+                }
+            ],
+            "total_sales_attributed": 3308.664240242762
+        }
+    ]
+}

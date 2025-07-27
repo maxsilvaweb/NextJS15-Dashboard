@@ -1,0 +1,26 @@
+{
+    "user_id": "4237744e-90c2-4b31-a355-15d8ab47b2e8",
+    "name": "William Johnson",
+    "email": "cassandrawalsh@example.org",
+    "instagram_handle": "@martin12",
+    "tiktok_handle": "@melaniebaker",
+    "joined_at": "2024-04-25T06:03:11.155548",
+    "advocacy_programs": [
+        {
+            "program_id": "af88bc1c-46da-4735-8fbb-79b243ea5b5e",
+            "brand": "Mccoy Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9d342c32-ea9e-45c1-820d-826cc5f7e61c",
+                    "platform": "Instagram",
+                    "post_url": "https://jones.com/",
+                    "likes": 3580,
+                    "comments": 390,
+                    "shares": 95,
+                    "reach": 3231
+                }
+            ],
+            "total_sales_attributed": 1491.8480750692513
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "12d27294-7c5d-4292-b9ad-9a6c0292af2e",
+    "name": "Laura Wilson",
+    "email": "tina20@example.com",
+    "instagram_handle": "@mary02",
+    "tiktok_handle": "@williamroberts",
+    "joined_at": "2024-11-09T04:58:09.878422",
+    "advocacy_programs": [
+        {
+            "program_id": "e5d08000-fe7e-4147-b5f4-d310472a52cc",
+            "brand": "Wall, Brown and Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "a2010fa2-eb34-4a2e-8313-99e4ad85fa86",
+                    "platform": "Instagram",
+                    "post_url": "http://www.carter.com/",
+                    "likes": 8192,
+                    "comments": 218,
+                    "shares": 97,
+                    "reach": 4159
+                }
+            ],
+            "total_sales_attributed": 8444.93
+        }
+    ]
+}

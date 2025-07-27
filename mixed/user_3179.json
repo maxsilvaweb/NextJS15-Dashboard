@@ -1,0 +1,26 @@
+{
+    "user_id": "325f064c-8883-415d-af4c-96352c61aeab",
+    "name": "Shirley Schaefer",
+    "email": "Zoila_Heller@yahoo.com",
+    "instagram_handle": "@Ben13",
+    "tiktok_handle": "@Margarett_Howell90",
+    "joined_at": "2024-04-10T21:05:30.078Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b560b866-38d1-49e9-8633-f43fed21dcad",
+            "brand": "Hickle - Prohaska",
+            "tasks_completed": [
+                {
+                    "task_id": "44858f27-b9d7-4684-b5d7-336bd53dc7e9",
+                    "platform": "Instagram",
+                    "post_url": "https://new-importance.net",
+                    "likes": 18,
+                    "comments": 40,
+                    "shares": 0,
+                    "reach": 9537
+                }
+            ],
+            "total_sales_attributed": 2221.0097071169016
+        }
+    ]
+}

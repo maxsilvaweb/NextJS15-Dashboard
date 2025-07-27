@@ -1,0 +1,26 @@
+{
+    "user_id": "ab39c93c-b424-4c3e-9d68-6fff015dd4e9",
+    "name": "Wallace Gulgowski",
+    "email": "Robbie_Fay@yahoo.com",
+    "instagram_handle": "@Deonte_Connelly67",
+    "tiktok_handle": "@Mckayla.Boyer85",
+    "joined_at": "2024-11-14T05:58:01.029Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0300091f-7dd6-4411-8879-b240b27c3696",
+            "brand": "Heller - Muller",
+            "tasks_completed": [
+                {
+                    "task_id": "ca2b3e64-a813-4167-9215-ad2d4cddc073",
+                    "platform": "Instagram",
+                    "post_url": "https://pure-farm.com",
+                    "likes": 155,
+                    "comments": 3,
+                    "shares": 97,
+                    "reach": 8943
+                }
+            ],
+            "total_sales_attributed": 898.8101729182833
+        }
+    ]
+}

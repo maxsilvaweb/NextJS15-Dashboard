@@ -1,0 +1,26 @@
+{
+    "user_id": "ac939484-65a4-4438-9617-4f3bbbb257f1",
+    "name": "Angela Scott",
+    "email": "mcruz@example.net",
+    "instagram_handle": "@millertimothy",
+    "tiktok_handle": "@morgancourtney",
+    "joined_at": "2024-04-18T14:24:09.770503",
+    "advocacy_programs": [
+        {
+            "program_id": "860b0a45-2990-4fdf-8bb3-c843b85afa15",
+            "brand": "Baker PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "204beaf1-54eb-45d3-b3a8-d254ecd8b392",
+                    "platform": "TikTok",
+                    "post_url": "http://lopez-watkins.com/",
+                    "likes": 443,
+                    "comments": 373,
+                    "shares": 72,
+                    "reach": 1056
+                }
+            ],
+            "total_sales_attributed": 6668.41
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2f166723-b5c6-47a1-aa8e-11182feae2a7",
+    "name": "Jonathan Weimann",
+    "email": "newtongarrett@example.org",
+    "instagram_handle": "@donnagay",
+    "tiktok_handle": "@cjohnston",
+    "joined_at": "2023-08-16T15:19:28.256937",
+    "advocacy_programs": [
+        {
+            "program_id": "c704a9c3-f2aa-4c7f-bca4-d37e29d3e29a",
+            "brand": "Hogan-Fernandez",
+            "tasks_completed": [
+                {
+                    "task_id": "f9d005cf-0169-4705-9e25-a2e24cbb2044",
+                    "platform": "Instagram",
+                    "post_url": "http://www.thompson.info/",
+                    "likes": 7272,
+                    "comments": 152,
+                    "shares": 33,
+                    "reach": 4395
+                }
+            ],
+            "total_sales_attributed": 7894.16
+        }
+    ]
+}

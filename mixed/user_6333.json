@@ -1,0 +1,26 @@
+{
+    "user_id": "f81f8cdf-4be1-4126-8365-42b74874ed89",
+    "name": "Mr. Jake Bernier",
+    "email": "Roger.Watsica@hotmail.com",
+    "instagram_handle": "@Linnie62",
+    "tiktok_handle": "@Hadley.Feil60",
+    "joined_at": "2024-08-15T12:43:07.914Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9b1cfe43-fb32-42d8-acce-797060df077a",
+            "brand": "Wehner, Kerluke and O'Connell",
+            "tasks_completed": [
+                {
+                    "task_id": "ac9a5a8a-03c2-493a-9f0d-432196c7167c",
+                    "platform": "TikTok",
+                    "post_url": "https://stingy-insolence.net/",
+                    "likes": 459,
+                    "comments": 11,
+                    "shares": 8,
+                    "reach": 5156
+                }
+            ],
+            "total_sales_attributed": 456.9905958099494
+        }
+    ]
+}

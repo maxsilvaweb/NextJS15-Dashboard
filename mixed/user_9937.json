@@ -1,0 +1,26 @@
+{
+    "user_id": "8c1f1843-932c-4133-a4c4-de203c8bffdd",
+    "name": "Joseph Barker",
+    "email": "fsmith@example.com",
+    "instagram_handle": "@arielharris",
+    "tiktok_handle": "@earlbrown",
+    "joined_at": "2024-02-16T14:08:28.636350",
+    "advocacy_programs": [
+        {
+            "program_id": "df73dc7a-fa6e-41bb-b136-4c89be693bd2",
+            "brand": "Smith-Perez",
+            "tasks_completed": [
+                {
+                    "task_id": "f25ed735-d10f-41f1-8f57-cc111e964d53",
+                    "platform": "Facebook",
+                    "post_url": "https://www.parrish.info/",
+                    "likes": 4336,
+                    "comments": 16,
+                    "shares": 57,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 5526.48
+        }
+    ]
+}

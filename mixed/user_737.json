@@ -1,0 +1,26 @@
+{
+    "user_id": "bf91574a-b001-475e-a4bf-064d9acfe27c",
+    "name": "Ian Sanchez",
+    "email": "brenda80@example.com",
+    "instagram_handle": "@kingstephen",
+    "tiktok_handle": "@angelamartinez",
+    "joined_at": "2024-09-04T05:51:58.384129",
+    "advocacy_programs": [
+        {
+            "program_id": "0e8687e4-e905-4ffe-9ff8-b94fdf8d6d00",
+            "brand": "Greer-Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "cb33a060-c2b4-44a8-af32-7e568536c354",
+                    "platform": "TikTok",
+                    "post_url": "https://www.townsend-thomas.com/",
+                    "likes": 4758,
+                    "comments": 43,
+                    "shares": 44,
+                    "reach": 5353
+                }
+            ],
+            "total_sales_attributed": 8998.3
+        }
+    ]
+}

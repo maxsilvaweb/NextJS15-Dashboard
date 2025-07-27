@@ -1,0 +1,26 @@
+{
+    "user_id": "cc3c9e56-6bcd-4466-8b6d-b94d475b5569",
+    "name": "Lillie Little",
+    "email": "Jaclyn_Rau@yahoo.com",
+    "instagram_handle": "@Napoleon_Reichel",
+    "tiktok_handle": "@Rowena.Mills9",
+    "joined_at": "2024-12-27T04:47:01.069Z",
+    "advocacy_programs": [
+        {
+            "program_id": "87137d0c-f2d2-418c-9205-89c8c565c386",
+            "brand": "Gorczany, Kemmer and Lueilwitz",
+            "tasks_completed": [
+                {
+                    "task_id": "94434fd7-db25-412f-8bfd-b27ab965c0b4",
+                    "platform": "Instagram",
+                    "post_url": "https://unwieldy-humor.info",
+                    "likes": 270,
+                    "comments": 13,
+                    "shares": 6,
+                    "reach": 2018
+                }
+            ],
+            "total_sales_attributed": 200.70301347712456
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0284421c-3331-4932-a5aa-c959b8fc3745",
+    "name": "Ashley Ferguson",
+    "email": "leachkaren@example.net",
+    "instagram_handle": "@jessica75",
+    "tiktok_handle": "@Chloe.Schamberger",
+    "joined_at": "2024-10-23T03:23:51.087084",
+    "advocacy_programs": [
+        {
+            "program_id": "cb9aa1a6-1846-4851-b23e-48f0a0aa850c",
+            "brand": "Walton-Robbins",
+            "tasks_completed": [
+                {
+                    "task_id": "5fc804ea-7d04-4b14-9a94-05069e9b85e7",
+                    "platform": "Instagram",
+                    "post_url": "http://parker.com/",
+                    "likes": 3909,
+                    "comments": 442,
+                    "shares": 36,
+                    "reach": 2214
+                }
+            ],
+            "total_sales_attributed": 4772.58
+        }
+    ]
+}

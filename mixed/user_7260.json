@@ -1,0 +1,26 @@
+{
+    "user_id": "e2284d96-df3f-4136-8ea2-275284e15b10",
+    "name": "Justin Porter",
+    "email": "joshua54@example.org",
+    "instagram_handle": "@shaffergina",
+    "tiktok_handle": "@samuel09",
+    "joined_at": "2023-09-09T21:28:46.811725",
+    "advocacy_programs": [
+        {
+            "program_id": "1641bb4d-0200-46d1-951d-92e1f889d87c",
+            "brand": "Myers Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "3ac08d79-66b0-4993-bddd-4170d9b1c082",
+                    "platform": "TikTok",
+                    "post_url": "https://www.jacobs.com/",
+                    "likes": 993,
+                    "comments": 188,
+                    "shares": 28,
+                    "reach": 7710
+                }
+            ],
+            "total_sales_attributed": 566.6118655238608
+        }
+    ]
+}

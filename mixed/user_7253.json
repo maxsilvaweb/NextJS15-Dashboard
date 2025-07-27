@@ -1,0 +1,26 @@
+{
+    "user_id": "9d11574d-ec12-444a-a3c8-c34802e2e2f6",
+    "name": "Holly Brady",
+    "email": "nicholas50@example.com",
+    "instagram_handle": "@fmcintyre",
+    "tiktok_handle": "@campbelljoseph",
+    "joined_at": "2024-07-23T06:06:31.381855",
+    "advocacy_programs": [
+        {
+            "program_id": "7ca1b685-c5fc-41c3-ba51-e4905d72779e",
+            "brand": "Munoz Group",
+            "tasks_completed": [
+                {
+                    "task_id": "f5c0dd3a-6ab7-4d97-89e3-e4601052e117",
+                    "platform": "TikTok",
+                    "post_url": "https://angelic-makeover.info",
+                    "likes": 2687,
+                    "comments": 50,
+                    "shares": 43,
+                    "reach": 6254
+                }
+            ],
+            "total_sales_attributed": 3640.58
+        }
+    ]
+}

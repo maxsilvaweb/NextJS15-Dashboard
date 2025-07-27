@@ -1,0 +1,26 @@
+{
+    "user_id": "002aa0a9-48e8-4bde-a52c-afa00108599e",
+    "name": "Anna Bennett",
+    "email": "livingstonbrenda@example.com",
+    "instagram_handle": "@jamesmichael",
+    "tiktok_handle": "@wvillanueva",
+    "joined_at": "2024-12-04T04:23:18.718518",
+    "advocacy_programs": [
+        {
+            "program_id": "e76715f5-54f3-4a6a-901e-89894220e691",
+            "brand": "Hane LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "afd0eb62-0522-48ab-9830-c1fc9217be57",
+                    "platform": "Facebook",
+                    "post_url": "https://hanna.com/",
+                    "likes": 4538,
+                    "comments": 483,
+                    "shares": 26,
+                    "reach": 9699
+                }
+            ],
+            "total_sales_attributed": 3115.24
+        }
+    ]
+}

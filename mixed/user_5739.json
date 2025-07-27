@@ -1,0 +1,26 @@
+{
+    "user_id": "661254d0-485d-4173-abe3-679f28bad987",
+    "name": "Alicia Taylor",
+    "email": "tranmary@example.net",
+    "instagram_handle": "@amanda68",
+    "tiktok_handle": "@joshuakelly",
+    "joined_at": "2024-08-30T13:18:58.110227",
+    "advocacy_programs": [
+        {
+            "program_id": "0c55cd5f-c1bc-4618-a226-dbbd5a776092",
+            "brand": "Lane and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a30adf40-3787-4cbc-bb8b-c734edbf2218",
+                    "platform": "Facebook",
+                    "post_url": "http://www.cervantes.com/",
+                    "likes": 2154,
+                    "comments": 32,
+                    "shares": 83,
+                    "reach": 1797
+                }
+            ],
+            "total_sales_attributed": 1392.75
+        }
+    ]
+}

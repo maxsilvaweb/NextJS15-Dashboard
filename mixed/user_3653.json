@@ -1,0 +1,26 @@
+{
+    "user_id": "1d555a5d-b2d1-4c11-8c34-e110806904a6",
+    "name": "Clinton Hoeger",
+    "email": "Pearline.Schowalter@hotmail.com",
+    "instagram_handle": "@Cecile32",
+    "tiktok_handle": "@Abdiel_Reynolds23",
+    "joined_at": "2024-06-05T12:01:17.385Z",
+    "advocacy_programs": [
+        {
+            "program_id": "31d684b8-fbb6-4872-b3eb-d4f2b497181c",
+            "brand": "Bosco - Hettinger",
+            "tasks_completed": [
+                {
+                    "task_id": "5bb52680-bf24-4117-a68c-fecc39a4f7a5",
+                    "platform": "Instagram",
+                    "post_url": "https://writhing-glider.org",
+                    "likes": 139,
+                    "comments": 48,
+                    "shares": 42,
+                    "reach": 3347
+                }
+            ],
+            "total_sales_attributed": 3484.993236776924
+        }
+    ]
+}

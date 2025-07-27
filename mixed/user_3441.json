@@ -1,0 +1,26 @@
+{
+    "user_id": "7afb91e3-27f7-4624-bb7e-1d3d397a42ff",
+    "name": "Alison Veum",
+    "email": "Brigitte_Kohler@hotmail.com",
+    "instagram_handle": "@Creola16",
+    "tiktok_handle": "@Roosevelt_Heller",
+    "joined_at": "2024-03-29T05:29:17.931Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6a83d87a-48d7-4e54-9fa6-118d7599035a",
+            "brand": "Hermiston Group",
+            "tasks_completed": [
+                {
+                    "task_id": "cdf369b0-93aa-49f7-baa2-7377b6b59cc2",
+                    "platform": "Instagram",
+                    "post_url": "https://stark-bidet.biz",
+                    "likes": 368,
+                    "comments": 48,
+                    "shares": 22,
+                    "reach": 7998
+                }
+            ],
+            "total_sales_attributed": 4035.805003134241
+        }
+    ]
+}

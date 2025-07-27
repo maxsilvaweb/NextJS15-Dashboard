@@ -1,0 +1,26 @@
+{
+    "user_id": "7e3a3111-7abb-4b42-9eef-a9bff20803fe",
+    "name": "Ashley Allen",
+    "email": "amoss@example.org",
+    "instagram_handle": "@youngamy",
+    "tiktok_handle": "@esanchez",
+    "joined_at": "2024-12-13T00:40:03.965541",
+    "advocacy_programs": [
+        {
+            "program_id": "2b15a2cc-9edb-4c8c-977c-6283ca683151",
+            "brand": "Nelson, Barnett and Bowen",
+            "tasks_completed": [
+                {
+                    "task_id": "8db6fc55-f970-4740-a2ca-a87fd0367c16",
+                    "platform": "Instagram",
+                    "post_url": "https://smith-myers.com/",
+                    "likes": 7383,
+                    "comments": 197,
+                    "shares": 58,
+                    "reach": 2899
+                }
+            ],
+            "total_sales_attributed": 6948.91
+        }
+    ]
+}

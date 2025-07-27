@@ -1,0 +1,26 @@
+{
+    "user_id": "0af5a3e6-34d7-4904-a493-b7015556ea6a",
+    "name": "Claire Windler",
+    "email": "Noble92@hotmail.com",
+    "instagram_handle": "@Rigoberto91",
+    "tiktok_handle": "@Annette.Veum",
+    "joined_at": "2024-06-26T03:38:40.643Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4e0111a9-1bbf-461f-8b69-6f05f7f1c6c7",
+            "brand": "Ward - Toy",
+            "tasks_completed": [
+                {
+                    "task_id": "74dd9a74-151e-4eb9-8f48-fe021779d880",
+                    "platform": "TikTok",
+                    "post_url": "https://oddball-reconsideration.com",
+                    "likes": 233,
+                    "comments": 38,
+                    "shares": 9,
+                    "reach": 9994
+                }
+            ],
+            "total_sales_attributed": 2316.1850354218786
+        }
+    ]
+}

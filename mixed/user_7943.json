@@ -1,0 +1,26 @@
+{
+    "user_id": "bbd784cc-a54c-4578-af2e-d2be5d8e8fbd",
+    "name": "Ms. Rebecca Ward",
+    "email": "Andreane_OKon@yahoo.com",
+    "instagram_handle": "@Jace_West2",
+    "tiktok_handle": "@Barrett79",
+    "joined_at": "2024-08-29T14:41:40.727Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ebc64e4e-f96e-440f-87ee-dd5e847c290d",
+            "brand": "Cassin and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "6b0cebf4-5506-4515-9d47-e6f90f5ae38e",
+                    "platform": "TikTok",
+                    "post_url": "https://valuable-mainstream.net",
+                    "likes": 252,
+                    "comments": 49,
+                    "shares": 53,
+                    "reach": 6569
+                }
+            ],
+            "total_sales_attributed": 4382.0555733281135
+        }
+    ]
+}

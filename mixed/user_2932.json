@@ -1,0 +1,26 @@
+{
+    "user_id": "89d7d99c-7549-42c9-b30b-da91b4ef4d0c",
+    "name": "Irene Krajcik",
+    "email": "Antwan_Nikolaus@yahoo.com",
+    "instagram_handle": "@Jacynthe.Hamill86",
+    "tiktok_handle": "@Pattie.Littel34",
+    "joined_at": "2024-09-11T18:35:28.339Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7879afa7-f1f1-4d39-be85-cf08bfaeb40c",
+            "brand": "Bernhard - Dooley",
+            "tasks_completed": [
+                {
+                    "task_id": "20cecedf-a20c-434f-965d-fc156cfec9fb",
+                    "platform": "TikTok",
+                    "post_url": "https://irresponsible-character.info",
+                    "likes": 442,
+                    "comments": 19,
+                    "shares": 99,
+                    "reach": 8691
+                }
+            ],
+            "total_sales_attributed": 4933.507879985385
+        }
+    ]
+}

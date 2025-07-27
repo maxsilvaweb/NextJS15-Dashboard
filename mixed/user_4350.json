@@ -1,0 +1,26 @@
+{
+    "user_id": "fd6ec3be-8910-4a1b-8bcb-b2fb8f87857a",
+    "name": "Daniel Stephenson",
+    "email": "virginiaholmes@example.com",
+    "instagram_handle": "@zscott",
+    "tiktok_handle": "@mwalters",
+    "joined_at": "2025-02-08T00:10:03.414Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ea3c0462-9343-4016-8b5d-bb2b945ce847",
+            "brand": "Johnson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "f225dca0-0ed2-4410-a7d0-99d845dfae49",
+                    "platform": "TikTok",
+                    "post_url": "https://yearly-casement.com",
+                    "likes": 598,
+                    "comments": 16,
+                    "shares": 0,
+                    "reach": 643
+                }
+            ],
+            "total_sales_attributed": 258.97358246672195
+        }
+    ]
+}

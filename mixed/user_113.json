@@ -1,0 +1,26 @@
+{
+    "user_id": "194f84b8-dd75-42b9-bd1b-a3119419468a",
+    "name": "Irma Gorczany",
+    "email": "Consuelo82@gmail.com",
+    "instagram_handle": "@Sydnee.Medhurst60",
+    "tiktok_handle": "@Anderson.Windler65",
+    "joined_at": "2025-01-07T16:05:52.927Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b97cf3fb-69c9-4ca2-ab1a-b2cb699d16b7",
+            "brand": "Windler and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "84a57ea2-6b26-44d8-844d-90f1fa6e6f43",
+                    "platform": "TikTok",
+                    "post_url": "https://windy-bandwidth.biz",
+                    "likes": 73,
+                    "comments": 22,
+                    "shares": 65,
+                    "reach": 4189
+                }
+            ],
+            "total_sales_attributed": 4618.34883053491
+        }
+    ]
+}

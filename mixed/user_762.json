@@ -1,0 +1,26 @@
+{
+    "user_id": "149145de-87c9-4a0c-be95-34db6aa4e43b",
+    "name": "Thomas Martin",
+    "email": "cedwards@example.net",
+    "instagram_handle": "@josecisneros",
+    "tiktok_handle": "@bvincent",
+    "joined_at": "2024-04-15T09:08:20.443Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f5eee23d-5566-43b6-a33c-8c5c0b145729",
+            "brand": "Arnold-Armstrong",
+            "tasks_completed": [
+                {
+                    "task_id": "2e5299db-7127-418e-9a07-d33012c9a3f0",
+                    "platform": "Instagram",
+                    "post_url": "http://hayes.info/",
+                    "likes": 4031,
+                    "comments": 318,
+                    "shares": 0,
+                    "reach": 5994
+                }
+            ],
+            "total_sales_attributed": 556.6719555135337
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d8fc4558-c3a0-4406-8523-2fda7ca6744c",
+    "name": "Kayla Jast",
+    "email": "Wanda26@yahoo.com",
+    "instagram_handle": "@Hershel.Lesch",
+    "tiktok_handle": "@Alden.Christiansen14",
+    "joined_at": "2024-10-26T19:57:38.066Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1e2b1024-4bdf-4834-8664-f405757e4334",
+            "brand": "Yundt LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "852a1f93-a113-42cd-b61c-c1e069d8eced",
+                    "platform": "Instagram",
+                    "post_url": "https://steep-milestone.info/",
+                    "likes": 62,
+                    "comments": 11,
+                    "shares": 69,
+                    "reach": 5805
+                }
+            ],
+            "total_sales_attributed": 4705.344758947149
+        }
+    ]
+}

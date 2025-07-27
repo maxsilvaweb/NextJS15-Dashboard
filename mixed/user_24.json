@@ -1,0 +1,26 @@
+{
+    "user_id": "f790257f-a584-4d0a-b26f-126abb8c54ef",
+    "name": "Naomi Dooley",
+    "email": "Camylle_OConnell@gmail.com",
+    "instagram_handle": "@Claudie_Haag68",
+    "tiktok_handle": "@Julie31",
+    "joined_at": "2024-04-17T15:18:56.555Z",
+    "advocacy_programs": [
+        {
+            "program_id": "63f05079-3537-4f0d-bd9f-2586f32539fd",
+            "brand": "Klocko - Boyer",
+            "tasks_completed": [
+                {
+                    "task_id": "36463628-e7ab-4b67-99db-cc859d210851",
+                    "platform": "TikTok",
+                    "post_url": "https://alive-solvency.biz/",
+                    "likes": 199,
+                    "comments": 43,
+                    "shares": 36,
+                    "reach": 5134
+                }
+            ],
+            "total_sales_attributed": 1390.9331569499047
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d9d51429-e274-4bc6-81b4-4e8daccaf7f3",
+    "name": "Elena Kemmer",
+    "email": "wernerbethany@example.net",
+    "instagram_handle": "@emilycollins",
+    "tiktok_handle": "@gloria24",
+    "joined_at": "2025-03-17T10:35:48.599820",
+    "advocacy_programs": [
+        {
+            "program_id": "b62fd475-ddbc-4436-9def-b0bdf37be91d",
+            "brand": "Perez-Dean",
+            "tasks_completed": [
+                {
+                    "task_id": "f9ac9188-a76d-49b1-a0f7-ab67fe4ccf6c",
+                    "platform": "Instagram",
+                    "post_url": "https://griffin-thomas.org/",
+                    "likes": 7621,
+                    "comments": 171,
+                    "shares": 15,
+                    "reach": 6589
+                }
+            ],
+            "total_sales_attributed": 1739.019756440486
+        }
+    ]
+}

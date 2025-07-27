@@ -1,0 +1,26 @@
+{
+    "user_id": "014d57dc-2f40-4b54-9b66-8fe9410145ab",
+    "name": "Dale Christiansen",
+    "email": "Laverne.Weissnat40@yahoo.com",
+    "instagram_handle": "@Seamus_Lueilwitz",
+    "tiktok_handle": "@Keyshawn.Predovic0",
+    "joined_at": "2024-10-08T03:10:31.852Z",
+    "advocacy_programs": [
+        {
+            "program_id": "43a15f02-3fb8-463d-9c5a-448878e3edf7",
+            "brand": "Wisoky, MacGyver and Schuster",
+            "tasks_completed": [
+                {
+                    "task_id": "d198c3b4-309c-4bcc-9762-f88d7226054c",
+                    "platform": "Instagram",
+                    "post_url": "https://musty-derby.com",
+                    "likes": 192,
+                    "comments": 37,
+                    "shares": 55,
+                    "reach": 5196
+                }
+            ],
+            "total_sales_attributed": 2170.584419115205
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "75580877-997b-45f5-a186-366b70f579f0",
+    "name": "Christina Vance",
+    "email": "Florence_Hudson79@gmail.com",
+    "instagram_handle": "@lunaanna",
+    "tiktok_handle": "@michael23",
+    "joined_at": "2024-03-17T07:11:15.382909",
+    "advocacy_programs": [
+        {
+            "program_id": "d5e88dac-a89f-4bf0-86df-2060758e3997",
+            "brand": "Dawson-Perez",
+            "tasks_completed": [
+                {
+                    "task_id": "19dd51a9-d626-417a-9a40-8a02aad4a8f7",
+                    "platform": "TikTok",
+                    "post_url": "https://www.norris.biz/",
+                    "likes": 89,
+                    "comments": 12,
+                    "shares": 80,
+                    "reach": 3951
+                }
+            ],
+            "total_sales_attributed": 2353.12
+        }
+    ]
+}

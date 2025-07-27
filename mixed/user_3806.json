@@ -1,0 +1,26 @@
+{
+    "user_id": "0b74a388-e292-43d2-a6a2-01a39e6166b3",
+    "name": "Oliver Hauck",
+    "email": "Summer.Steuber30@yahoo.com",
+    "instagram_handle": "@Mitchell.Mohr33",
+    "tiktok_handle": "@Tressa_Grant",
+    "joined_at": "2025-02-20T00:25:49.461Z",
+    "advocacy_programs": [
+        {
+            "program_id": "14dae978-aff4-4536-ab1e-ef1e9d93c4b1",
+            "brand": "Klocko, Bernhard and Mohr",
+            "tasks_completed": [
+                {
+                    "task_id": "4abd4044-b8fd-419c-8d1e-5b7f10380550",
+                    "platform": "TikTok",
+                    "post_url": "https://old-fashioned-archaeology.com",
+                    "likes": 456,
+                    "comments": 44,
+                    "shares": 87,
+                    "reach": 6477
+                }
+            ],
+            "total_sales_attributed": 3535.0196996699055
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d377158f-fa23-497f-a3a4-c61ae39a14ed",
+    "name": "Benjamin Feest",
+    "email": "Arianna68@hotmail.com",
+    "instagram_handle": "@Otho.OHara",
+    "tiktok_handle": "@Verda_Schiller17",
+    "joined_at": "2025-03-03T06:46:05.617Z",
+    "advocacy_programs": [
+        {
+            "program_id": "48e100a2-b7e8-4ac8-bf4a-91c8b843e44b",
+            "brand": "Mosciski, Kuhn and Greenfelder",
+            "tasks_completed": [
+                {
+                    "task_id": "2bb49ff5-3eb8-448f-9468-b7905b3c957c",
+                    "platform": "TikTok",
+                    "post_url": "https://sweet-transparency.net/",
+                    "likes": 17,
+                    "comments": 40,
+                    "shares": 40,
+                    "reach": 848
+                }
+            ],
+            "total_sales_attributed": 2968.0417758692433
+        }
+    ]
+}

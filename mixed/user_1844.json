@@ -1,0 +1,26 @@
+{
+    "user_id": "22031ff3-8106-4c6e-b545-d3399dddb557",
+    "name": "Christie Hilpert",
+    "email": "Cruz8@gmail.com",
+    "instagram_handle": "@Oliver_Roberts",
+    "tiktok_handle": "@Maybelle.Pacocha",
+    "joined_at": "2024-08-06T09:29:13.146Z",
+    "advocacy_programs": [
+        {
+            "program_id": "962fdb4f-fb86-4573-8c65-ddc81415ca3e",
+            "brand": "McDermott - Windler",
+            "tasks_completed": [
+                {
+                    "task_id": "a02b4904-8ea6-4e09-be6d-1e9c763b0bf5",
+                    "platform": "TikTok",
+                    "post_url": "https://last-councilman.biz/",
+                    "likes": 436,
+                    "comments": 6,
+                    "shares": 40,
+                    "reach": 4951
+                }
+            ],
+            "total_sales_attributed": 2865.6807054236315
+        }
+    ]
+}

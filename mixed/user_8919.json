@@ -1,0 +1,26 @@
+{
+    "user_id": "e58995cd-6173-4de0-b628-443b8912e062",
+    "name": "Keith Paul",
+    "email": "Amalia_Schuppe5@hotmail.com",
+    "instagram_handle": "@johnrobinson",
+    "tiktok_handle": "@wdaniels",
+    "joined_at": "2023-10-04T17:29:54.022985",
+    "advocacy_programs": [
+        {
+            "program_id": "0b3536c0-d3bd-44a9-8e25-358099e28214",
+            "brand": "Johnson, Sawyer and Shelton",
+            "tasks_completed": [
+                {
+                    "task_id": "e87a14f1-a0bc-42c0-8cc4-e85570f9bfce",
+                    "platform": "Facebook",
+                    "post_url": "https://collins.com/",
+                    "likes": 2713,
+                    "comments": 350,
+                    "shares": 48,
+                    "reach": 3261
+                }
+            ],
+            "total_sales_attributed": 6048.59
+        }
+    ]
+}

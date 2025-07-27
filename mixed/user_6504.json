@@ -1,0 +1,26 @@
+{
+    "user_id": "ee5bbc39-6a9b-44ed-bcfb-71f8bb3d2215",
+    "name": "Keith Ballard",
+    "email": "jenningsdesiree@example.net",
+    "instagram_handle": "@jennifernguyen",
+    "tiktok_handle": "@jonathan56",
+    "joined_at": "2024-04-04T02:25:53.109286",
+    "advocacy_programs": [
+        {
+            "program_id": "4ffe2f47-7231-4368-86d8-27b5640ce49f",
+            "brand": "Ryan-Martin",
+            "tasks_completed": [
+                {
+                    "task_id": "98488f7a-f87c-4491-94b9-f979718c5c5c",
+                    "platform": "TikTok",
+                    "post_url": "https://www.raymond-rice.com/",
+                    "likes": 1708,
+                    "comments": 484,
+                    "shares": 41,
+                    "reach": 6098
+                }
+            ],
+            "total_sales_attributed": 8611.29
+        }
+    ]
+}

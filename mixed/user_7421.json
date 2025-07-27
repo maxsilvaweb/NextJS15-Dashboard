@@ -1,0 +1,26 @@
+{
+    "user_id": "9bfddbbb-11c8-4c1b-b1a6-78f6e96cc086",
+    "name": "Anne Anderson",
+    "email": "leah79@example.com",
+    "instagram_handle": "@kristen06",
+    "tiktok_handle": "@davisjames",
+    "joined_at": "2023-09-12T22:33:33.813398",
+    "advocacy_programs": [
+        {
+            "program_id": "b1957160-707c-4a05-89d2-a8c55b770682",
+            "brand": "Yoder, Perry and Cobb",
+            "tasks_completed": [
+                {
+                    "task_id": "414e370b-d92f-4dee-b12f-0aa79359c950",
+                    "platform": "YouTube",
+                    "post_url": "https://hefty-fraudster.org",
+                    "likes": 485,
+                    "comments": 25,
+                    "shares": 23,
+                    "reach": 8137
+                }
+            ],
+            "total_sales_attributed": 9630.37
+        }
+    ]
+}

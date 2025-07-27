@@ -1,0 +1,26 @@
+{
+    "user_id": "4523f2c1-c559-43a7-8c1a-1f6c929b132f",
+    "name": "Tyrone Nguyen",
+    "email": "bellapril@example.com",
+    "instagram_handle": "@fitzpatrickmichael",
+    "tiktok_handle": "@uwebb",
+    "joined_at": "2024-12-01T16:42:12.466Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ff4f541a-dee4-4cda-a084-6e42669c7c17",
+            "brand": "Boyer, Maldonado and Shepherd",
+            "tasks_completed": [
+                {
+                    "task_id": "d66f131c-e117-4625-967f-fe66479f3f39",
+                    "platform": "Instagram",
+                    "post_url": "http://www.mcgee-campbell.net/",
+                    "likes": 6953,
+                    "comments": 44,
+                    "shares": 46,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 8034.52
+        }
+    ]
+}

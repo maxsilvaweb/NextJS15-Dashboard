@@ -1,0 +1,26 @@
+{
+    "user_id": "9e4d62d2-a922-413f-b876-1ca326ed72a4",
+    "name": "Michelle Pace",
+    "email": "nathan60@example.org",
+    "instagram_handle": "@michellemartinez",
+    "tiktok_handle": "@heatherconway",
+    "joined_at": "2024-07-27T08:37:43.531Z",
+    "advocacy_programs": [
+        {
+            "program_id": "370d115d-1017-4cf7-b28b-e251b265f678",
+            "brand": "Allen Group",
+            "tasks_completed": [
+                {
+                    "task_id": "2f57dd96-45e1-4b84-835e-685bc3c3ebcb",
+                    "platform": "Twitter",
+                    "post_url": "https://sleepy-goat.name",
+                    "likes": 2984,
+                    "comments": 294,
+                    "shares": 15,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2064.6263650737765
+        }
+    ]
+}

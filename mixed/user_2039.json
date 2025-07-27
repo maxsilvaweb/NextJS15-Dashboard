@@ -1,0 +1,26 @@
+{
+    "user_id": "626919d6-39de-4bc0-bdcd-5f80e353d538",
+    "name": "Joshua Griffin",
+    "email": "fparker@example.org",
+    "instagram_handle": "@vsmith",
+    "tiktok_handle": "@kevinsullivan",
+    "joined_at": "2023-12-07T11:40:52.260179",
+    "advocacy_programs": [
+        {
+            "program_id": "5344ee30-b6a7-4adf-93e4-05793663b7c9",
+            "brand": "Moore Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "725f6095-39a8-4268-a221-576fcb9fe278",
+                    "platform": "TikTok",
+                    "post_url": "https://mccoy-saunders.com/",
+                    "likes": 9001,
+                    "comments": 142,
+                    "shares": 47,
+                    "reach": 5860
+                }
+            ],
+            "total_sales_attributed": 5635.98
+        }
+    ]
+}

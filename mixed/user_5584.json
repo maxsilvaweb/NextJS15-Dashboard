@@ -1,0 +1,26 @@
+{
+    "user_id": "c8c45e73-7c8a-4938-906a-cf00b91bb808",
+    "name": "Leroy Cook",
+    "email": "kimberly48@example.net",
+    "instagram_handle": "@kelseywatson",
+    "tiktok_handle": "@wardpatrick",
+    "joined_at": "2024-02-18T03:01:06.078549",
+    "advocacy_programs": [
+        {
+            "program_id": "13e1360a-8b2d-4b3e-a928-6becd581bf38",
+            "brand": "Rangel-Snyder",
+            "tasks_completed": [
+                {
+                    "task_id": "a97a9280-8524-4c45-96fc-52b63347dc2b",
+                    "platform": "Instagram",
+                    "post_url": "http://hernandez.com/",
+                    "likes": 5445,
+                    "comments": 353,
+                    "shares": 62,
+                    "reach": 9723
+                }
+            ],
+            "total_sales_attributed": 4813.562918250053
+        }
+    ]
+}

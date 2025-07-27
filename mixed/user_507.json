@@ -1,0 +1,26 @@
+{
+    "user_id": "39e02d0b-e594-46ae-a4a4-90e8e7f7ec03",
+    "name": "Teri Cronin",
+    "email": "Gail_Rippin72@gmail.com",
+    "instagram_handle": "@Alta31",
+    "tiktok_handle": "@Aileen.Grimes",
+    "joined_at": "2024-06-29T09:18:33.033Z",
+    "advocacy_programs": [
+        {
+            "program_id": "85e1181f-94bf-4095-9a4e-639ec55ad7c6",
+            "brand": "Reilly, Mayert and Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "d1b42fd8-26c2-4f50-9753-ba47c63a67cf",
+                    "platform": "Instagram",
+                    "post_url": "https://bleak-cappelletti.net",
+                    "likes": 124,
+                    "comments": 32,
+                    "shares": 74,
+                    "reach": 4618
+                }
+            ],
+            "total_sales_attributed": 4092.1617928516644
+        }
+    ]
+}

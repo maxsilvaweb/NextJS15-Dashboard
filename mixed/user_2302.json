@@ -1,0 +1,26 @@
+{
+    "user_id": "a7d8fda2-5cd7-4ee7-83ec-bde87872e72f",
+    "name": "Carla Carroll",
+    "email": "barrydrew@example.net",
+    "instagram_handle": "@kimfernandez",
+    "tiktok_handle": "@johnhamilton",
+    "joined_at": "2024-12-03T16:08:02.469031",
+    "advocacy_programs": [
+        {
+            "program_id": "b4b40af5-ea6e-4f38-9c16-7fe1e25f0106",
+            "brand": "Wright PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d9047528-f11e-4a07-8bad-84b4c485115e",
+                    "platform": "Twitter",
+                    "post_url": "https://www.woods-cohen.net/",
+                    "likes": 2324,
+                    "comments": 255,
+                    "shares": 97,
+                    "reach": 3742
+                }
+            ],
+            "total_sales_attributed": 7746.61
+        }
+    ]
+}

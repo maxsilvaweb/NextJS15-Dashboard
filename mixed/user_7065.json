@@ -1,0 +1,26 @@
+{
+    "user_id": "83c952f8-6a7f-421e-9cf2-ced4c476c7ed",
+    "name": "Brooke Lee",
+    "email": "Charlene.Volkman65@gmail.com",
+    "instagram_handle": "@gonzalezjulia",
+    "tiktok_handle": "@megan08",
+    "joined_at": "2024-09-28T20:11:52.428952",
+    "advocacy_programs": [
+        {
+            "program_id": "b48b3bb0-a5b2-4b79-b1ba-5d2425e7dfe1",
+            "brand": "Perkins Group",
+            "tasks_completed": [
+                {
+                    "task_id": "a4a708dc-e81b-4224-be91-d290a6f2dc6c",
+                    "platform": "Instagram",
+                    "post_url": "https://another-underneath.org/",
+                    "likes": 229,
+                    "comments": 166,
+                    "shares": 19,
+                    "reach": 1629
+                }
+            ],
+            "total_sales_attributed": 3380.13
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "5c0f6710-77e8-44aa-a55b-531aef7104ad",
+    "name": "Jennifer Jones",
+    "email": "maykrystal@example.org",
+    "instagram_handle": "@jamesfletcher",
+    "tiktok_handle": "@thicks",
+    "joined_at": "2023-10-26T22:33:40.175118",
+    "advocacy_programs": [
+        {
+            "program_id": "e326f3c6-21eb-43b5-aaf4-7ca50af98abe",
+            "brand": "Montgomery, Brooks and Howard",
+            "tasks_completed": [
+                {
+                    "task_id": "161278fd-5573-44db-a470-9d91b993430e",
+                    "platform": "Twitter",
+                    "post_url": "https://sarcastic-king.biz/",
+                    "likes": 26,
+                    "comments": 331,
+                    "shares": 27,
+                    "reach": 6705
+                }
+            ],
+            "total_sales_attributed": 3779.65
+        }
+    ]
+}

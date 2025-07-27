@@ -1,0 +1,26 @@
+{
+    "user_id": "76b501ee-09b5-41e0-9d5a-a855d4a3455f",
+    "name": "Christine Sandoval MD",
+    "email": "shelly34@example.com",
+    "instagram_handle": "@wisebrenda",
+    "tiktok_handle": "@wilsonjason",
+    "joined_at": "2024-10-01T11:56:38.357Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e4e85355-505f-4c8b-9348-e9b470558e89",
+            "brand": "Brown-Chan",
+            "tasks_completed": [
+                {
+                    "task_id": "6c307fd1-58e6-4d11-bafc-114fa104abf5",
+                    "platform": "Facebook",
+                    "post_url": "https://low-tennis.org/",
+                    "likes": 4222,
+                    "comments": 131,
+                    "shares": 31,
+                    "reach": 5700
+                }
+            ],
+            "total_sales_attributed": 6799.01
+        }
+    ]
+}

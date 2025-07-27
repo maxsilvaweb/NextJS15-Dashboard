@@ -1,0 +1,26 @@
+{
+    "user_id": "5171b26a-495c-4218-a7f7-05fe936d252d",
+    "name": "Cheryl Ramirez",
+    "email": "erica78@example.com",
+    "instagram_handle": "@cbrewer",
+    "tiktok_handle": "@cynthiaball",
+    "joined_at": "2024-11-11T22:01:23.481048",
+    "advocacy_programs": [
+        {
+            "program_id": "9bb3ed7c-5d79-47d0-8968-a40b6ec011ac",
+            "brand": "Lopez-Cummings",
+            "tasks_completed": [
+                {
+                    "task_id": "2bae0e3f-f693-455b-9e57-101dd731b918",
+                    "platform": "YouTube",
+                    "post_url": "http://merritt.com/",
+                    "likes": 8463,
+                    "comments": 368,
+                    "shares": 74,
+                    "reach": 6395
+                }
+            ],
+            "total_sales_attributed": 4171.59
+        }
+    ]
+}

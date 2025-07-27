@@ -1,0 +1,26 @@
+{
+    "user_id": "86b55c5d-55ad-4d2a-bcc2-dd1e0db073b8",
+    "name": "Jon Brown",
+    "email": "nicole61@example.com",
+    "instagram_handle": "@nancy77",
+    "tiktok_handle": "@shelleyfarrell",
+    "joined_at": "2025-03-04T18:39:23.295250",
+    "advocacy_programs": [
+        {
+            "program_id": "93743241-cd45-4467-b5b5-6cb94c9e4fe9",
+            "brand": "Castro PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "fbc20046-e5b7-4cf1-a423-ca6d4d0b5610",
+                    "platform": "YouTube",
+                    "post_url": "https://oliver-decker.com/",
+                    "likes": 390,
+                    "comments": 86,
+                    "shares": 99,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 9838.77
+        }
+    ]
+}

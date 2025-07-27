@@ -1,0 +1,26 @@
+{
+    "user_id": "00042578-9262-43ed-a7a1-681e3ceaec02",
+    "name": "Amber Jast",
+    "email": "Americo41@yahoo.com",
+    "instagram_handle": "@Ethelyn.Muller20",
+    "tiktok_handle": "@Ervin.Gorczany56",
+    "joined_at": "2024-10-22T04:20:07.845Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3ca34963-f18d-4d7f-a0a2-430c9b6809b4",
+            "brand": "Bartoletti Group",
+            "tasks_completed": [
+                {
+                    "task_id": "21fa8e47-ef01-4355-9f0e-50fc5b297df6",
+                    "platform": "Instagram",
+                    "post_url": "https://international-suv.org/",
+                    "likes": 143,
+                    "comments": 15,
+                    "shares": 33,
+                    "reach": 1357
+                }
+            ],
+            "total_sales_attributed": 2523.3598320819037
+        }
+    ]
+}

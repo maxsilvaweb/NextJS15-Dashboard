@@ -1,0 +1,26 @@
+{
+    "user_id": "45193907-8afc-40e5-a718-10cc8ef969e7",
+    "name": "Mr. Nicolas Rempel-Romaguera",
+    "email": "Adrain.Gorczany72@yahoo.com",
+    "instagram_handle": "@Misty72",
+    "tiktok_handle": "@Aric_Kohler",
+    "joined_at": "2024-04-22T12:45:10.298Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2746649a-7c68-4baf-9cdc-0044c7c03513",
+            "brand": "Lindgren Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "e656ed0d-d4f6-4735-9a5c-dfb9d4483994",
+                    "platform": "Instagram",
+                    "post_url": "https://trained-devil.com/",
+                    "likes": 372,
+                    "comments": 39,
+                    "shares": 82,
+                    "reach": 8150
+                }
+            ],
+            "total_sales_attributed": 3809.0324384322453
+        }
+    ]
+}

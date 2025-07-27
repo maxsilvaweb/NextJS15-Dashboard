@@ -1,0 +1,26 @@
+{
+    "user_id": "f0909ed4-1370-418a-83b3-54ff4ac2fdb4",
+    "name": "Mitchell Nelson",
+    "email": "ugarcia@example.net",
+    "instagram_handle": "@frenchannette",
+    "tiktok_handle": "@ksantiago",
+    "joined_at": "2024-02-16T10:00:59.461532",
+    "advocacy_programs": [
+        {
+            "program_id": "cc62eb9d-a886-4730-9797-425d8f20841a",
+            "brand": "Thompson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ede2c64b-cec7-4333-b969-b66ede79180a",
+                    "platform": "Facebook",
+                    "post_url": "https://lighthearted-mom.org",
+                    "likes": 4791,
+                    "comments": 477,
+                    "shares": 43,
+                    "reach": 4975
+                }
+            ],
+            "total_sales_attributed": 3463.55
+        }
+    ]
+}

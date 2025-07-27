@@ -1,0 +1,26 @@
+{
+    "user_id": "15888cf0-6eb1-473b-b634-b43b4d29832c",
+    "name": "Elizabeth Schmidt",
+    "email": "xallen@example.net",
+    "instagram_handle": "@rlopez",
+    "tiktok_handle": "@christophergarcia",
+    "joined_at": "2024-03-19T08:51:27.496822",
+    "advocacy_programs": [
+        {
+            "program_id": "35c8c039-ef6c-454d-bd6f-3fef09f3c104",
+            "brand": "Stevens Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "dad991a8-0c00-4c5e-a938-bc948a7fd3f3",
+                    "platform": "TikTok",
+                    "post_url": "https://courteous-sonar.name/",
+                    "likes": 724,
+                    "comments": 120,
+                    "shares": 2,
+                    "reach": 7508
+                }
+            ],
+            "total_sales_attributed": 3544.099908662537
+        }
+    ]
+}

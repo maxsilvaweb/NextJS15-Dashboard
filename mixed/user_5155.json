@@ -1,0 +1,26 @@
+{
+    "user_id": "b56f3e22-8869-423d-aafb-ebabbcc25658",
+    "name": "David Davis",
+    "email": "atkinsonchristopher@example.net",
+    "instagram_handle": "@lyonssean",
+    "tiktok_handle": "@kenneth39",
+    "joined_at": "2023-08-22T22:54:34.973563",
+    "advocacy_programs": [
+        {
+            "program_id": "50fff4b9-9c56-404d-a989-03b845361400",
+            "brand": "Patrick, Pearson and James",
+            "tasks_completed": [
+                {
+                    "task_id": "0e2e7aed-62cf-4c26-84d0-80beb82f18ec",
+                    "platform": "Facebook",
+                    "post_url": "http://martin.biz/",
+                    "likes": 9948,
+                    "comments": 1,
+                    "shares": 36,
+                    "reach": 902
+                }
+            ],
+            "total_sales_attributed": 8019.35
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "47fba74f-9c5c-4861-8876-880c8f8a8865",
+    "name": "Shane Moore",
+    "email": "Sammie.Dickinson57@gmail.com",
+    "instagram_handle": "@Lori.Stark",
+    "tiktok_handle": "@Camron.Little",
+    "joined_at": "2025-01-19T01:56:41.013Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2f3223b1-c232-49fd-87d5-7c57145ed824",
+            "brand": "Wilkinson - Bartell",
+            "tasks_completed": [
+                {
+                    "task_id": "79d61552-003b-4b8d-bf3c-1473a5b57677",
+                    "platform": "TikTok",
+                    "post_url": "https://svelte-brochure.org/",
+                    "likes": 444,
+                    "comments": 47,
+                    "shares": 7,
+                    "reach": 4824
+                }
+            ],
+            "total_sales_attributed": 3154.1868140689435
+        }
+    ]
+}

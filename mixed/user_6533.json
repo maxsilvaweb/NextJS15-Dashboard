@@ -1,0 +1,26 @@
+{
+    "user_id": "878a3608-cb71-4e4e-b3dc-931c95ea5146",
+    "name": "Mary Fletcher",
+    "email": "Ken23@gmail.com",
+    "instagram_handle": "@adrianharvey",
+    "tiktok_handle": "@cindy28",
+    "joined_at": "2023-09-08T07:30:30.644684",
+    "advocacy_programs": [
+        {
+            "program_id": "87eaafe4-f9c5-4314-83f4-5bb99ac135e9",
+            "brand": "Duarte and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "e5e5e593-8a66-4be8-8e36-4752802dbf84",
+                    "platform": "TikTok",
+                    "post_url": "http://brewer-saunders.com/",
+                    "likes": 6970,
+                    "comments": 49,
+                    "shares": 17,
+                    "reach": 830
+                }
+            ],
+            "total_sales_attributed": 4249.046488854675
+        }
+    ]
+}

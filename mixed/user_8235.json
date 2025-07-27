@@ -1,0 +1,26 @@
+{
+    "user_id": "475957a2-6c6f-48d5-997d-8e6a53e2f5af",
+    "name": "Steven Peterson",
+    "email": "dennis64@example.net",
+    "instagram_handle": "@asullivan",
+    "tiktok_handle": "@xglenn",
+    "joined_at": "2024-06-19T23:13:01.230107",
+    "advocacy_programs": [
+        {
+            "program_id": "8047b4de-61bc-44a3-94ae-3fc477d1793d",
+            "brand": "Smith, Jones and Richardson",
+            "tasks_completed": [
+                {
+                    "task_id": "c7bdfdbf-c488-4e40-a361-0bc4e7c56f7a",
+                    "platform": "Instagram",
+                    "post_url": "https://white.com/",
+                    "likes": 472,
+                    "comments": 55,
+                    "shares": 76,
+                    "reach": 4655
+                }
+            ],
+            "total_sales_attributed": 3784.7521645638517
+        }
+    ]
+}

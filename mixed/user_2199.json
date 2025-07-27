@@ -1,0 +1,26 @@
+{
+    "user_id": "5880aa07-c674-43d6-910b-c90a4b772a7b",
+    "name": "Clara Powlowski",
+    "email": "Tremaine59@gmail.com",
+    "instagram_handle": "@Derek85",
+    "tiktok_handle": "@Scottie74",
+    "joined_at": "2024-11-30T05:09:04.624Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fae8728b-c8be-4ff8-8617-158dde2660e3",
+            "brand": "Runolfsdottir, Metz and Boehm",
+            "tasks_completed": [
+                {
+                    "task_id": "0ae50f1d-a182-4cc6-9f0d-6eb47050d337",
+                    "platform": "Instagram",
+                    "post_url": "https://robust-mallard.org",
+                    "likes": 309,
+                    "comments": 34,
+                    "shares": 45,
+                    "reach": 6583
+                }
+            ],
+            "total_sales_attributed": 4222.976045143055
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c1fd98f4-eac9-45d1-9765-726435598778",
+    "name": "Susan Simmons",
+    "email": "gregory97@example.org",
+    "instagram_handle": "@zperkins",
+    "tiktok_handle": "@pthomas",
+    "joined_at": "2024-06-15T00:12:10.264987",
+    "advocacy_programs": [
+        {
+            "program_id": "026b1fd7-fd92-4e31-a9bb-4515886e840a",
+            "brand": "Gonzales, Williams and Wilson",
+            "tasks_completed": [
+                {
+                    "task_id": "4ec8e3e6-2ae6-4a1f-a3f8-7f54b01c0a8f",
+                    "platform": "Facebook",
+                    "post_url": "http://www.thomas.com/",
+                    "likes": 4843,
+                    "comments": 126,
+                    "shares": 67,
+                    "reach": 2000
+                }
+            ],
+            "total_sales_attributed": 7808.28
+        }
+    ]
+}

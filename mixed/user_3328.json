@@ -1,0 +1,26 @@
+{
+    "user_id": "516c3827-fecd-47bb-a4b6-5ebe8bca1175",
+    "name": "James Hess",
+    "email": "thomas38@example.org",
+    "instagram_handle": "@kimcaroline",
+    "tiktok_handle": "@taylorcolleen",
+    "joined_at": "2023-10-17T12:15:02.198939",
+    "advocacy_programs": [
+        {
+            "program_id": "ac829025-c186-4a47-ad21-0aca982c8ab3",
+            "brand": "Hunt and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "f903e216-ba5e-4592-9eb2-a70ee990f9d5",
+                    "platform": "Facebook",
+                    "post_url": "http://burton.com/",
+                    "likes": 8509,
+                    "comments": 18,
+                    "shares": 87,
+                    "reach": 5105
+                }
+            ],
+            "total_sales_attributed": 4017.5360863496303
+        }
+    ]
+}

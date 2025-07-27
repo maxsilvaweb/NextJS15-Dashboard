@@ -1,0 +1,26 @@
+{
+    "user_id": "d9544214-9644-4f27-b7c2-6301eb00e47a",
+    "name": "Ms. Brittany Hahn",
+    "email": "Royal.Bode45@gmail.com",
+    "instagram_handle": "@Stefan_Hahn",
+    "tiktok_handle": "@Stella.Ondricka",
+    "joined_at": "2024-09-10T23:23:27.609Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9faf2b10-b26f-494e-9d9d-ab51d5cf7240",
+            "brand": "Ortiz, Weimann and Beahan",
+            "tasks_completed": [
+                {
+                    "task_id": "0bc09919-01e8-44a2-8858-da8079c25ee9",
+                    "platform": "TikTok",
+                    "post_url": "https://regular-lounge.biz/",
+                    "likes": 112,
+                    "comments": 48,
+                    "shares": 23,
+                    "reach": 2460
+                }
+            ],
+            "total_sales_attributed": 4726.247070394491
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "1fea5b48-ace3-46be-8d8b-3d9f086bc2ec",
+    "name": "Anne Woods",
+    "email": "daniel99@example.net",
+    "instagram_handle": "@daniel46",
+    "tiktok_handle": "@robinsonjesus",
+    "joined_at": "2025-03-31T04:14:33.183453",
+    "advocacy_programs": [
+        {
+            "program_id": "143697cf-8bf3-4a29-81ea-22b6d1361ad8",
+            "brand": "Montgomery PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "32d24909-bc52-4548-9c3f-f4b5e97e86d1",
+                    "platform": "TikTok",
+                    "post_url": "https://www.gonzalez.com/",
+                    "likes": 8211,
+                    "comments": 8,
+                    "shares": 29,
+                    "reach": 5769
+                }
+            ],
+            "total_sales_attributed": 5600.27
+        }
+    ]
+}

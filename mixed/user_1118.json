@@ -1,0 +1,26 @@
+{
+    "user_id": "883ad0fb-0722-4007-a437-8492585db634",
+    "name": "Carol Bell",
+    "email": "jaredcruz@example.net",
+    "instagram_handle": "@loribell",
+    "tiktok_handle": "@arnoldshelly",
+    "joined_at": "2025-02-06T12:14:08.214793",
+    "advocacy_programs": [
+        {
+            "program_id": "74cba0b2-ec9d-4eb2-97d8-3efdb5b59f54",
+            "brand": "Dixon-Harvey",
+            "tasks_completed": [
+                {
+                    "task_id": "d9d0554c-4610-46bb-88da-f491972e9da2",
+                    "platform": "Instagram",
+                    "post_url": "http://olson.info/",
+                    "likes": 7649,
+                    "comments": 442,
+                    "shares": 93,
+                    "reach": 7550
+                }
+            ],
+            "total_sales_attributed": 3784.220341500373
+        }
+    ]
+}

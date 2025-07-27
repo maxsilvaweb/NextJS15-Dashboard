@@ -1,0 +1,26 @@
+{
+    "user_id": "455fdc1d-9e36-4dc6-b58a-30d676cdf09d",
+    "name": "Timothy Chang",
+    "email": "morganbryan@example.org",
+    "instagram_handle": "@hawkinsbrian",
+    "tiktok_handle": "@qarmstrong",
+    "joined_at": "2025-07-02T21:22:32.313921",
+    "advocacy_programs": [
+        {
+            "program_id": "0761a287-d873-4299-872e-87f47b11cfaa",
+            "brand": "Hill-Rogers",
+            "tasks_completed": [
+                {
+                    "task_id": "df50f847-e762-439c-a7f4-4c7c8033dd92",
+                    "platform": "Facebook",
+                    "post_url": "https://these-dress.org/",
+                    "likes": 1826,
+                    "comments": 15,
+                    "shares": 56,
+                    "reach": 2270
+                }
+            ],
+            "total_sales_attributed": 9995.07
+        }
+    ]
+}

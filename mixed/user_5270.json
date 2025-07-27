@@ -1,0 +1,26 @@
+{
+    "user_id": "59b9643e-20d2-426f-b654-0befda71ee82",
+    "name": "Willie Crona",
+    "email": "Keyshawn_Bradtke@hotmail.com",
+    "instagram_handle": "@Brad14",
+    "tiktok_handle": "@Antoinette50",
+    "joined_at": "2024-09-14T15:57:46.233Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d43b1bc5-444b-4bdd-8d3a-e3bc8daf6a56",
+            "brand": "Rutherford, Fahey and Ryan",
+            "tasks_completed": [
+                {
+                    "task_id": "f530b5f8-9790-446f-b73e-94440cb2567c",
+                    "platform": "Instagram",
+                    "post_url": "https://esteemed-pasta.biz/",
+                    "likes": 492,
+                    "comments": 4,
+                    "shares": 83,
+                    "reach": 3576
+                }
+            ],
+            "total_sales_attributed": 4134.833303928599
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d9191a10-0bc6-48e2-a585-c07cd2928e3d",
+    "name": "Kayla Holmes",
+    "email": "brianbird@example.net",
+    "instagram_handle": "@robert30",
+    "tiktok_handle": "@qshields",
+    "joined_at": "2024-04-13T04:24:53.300851",
+    "advocacy_programs": [
+        {
+            "program_id": "8231caf2-02d6-41d7-86c2-a4883585ae31",
+            "brand": "Williams LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "431cdc12-23b9-49f0-b3f4-d8797da435be",
+                    "platform": "Instagram",
+                    "post_url": "https://www.jones.net/",
+                    "likes": 3677,
+                    "comments": 44,
+                    "shares": 68,
+                    "reach": 2527
+                }
+            ],
+            "total_sales_attributed": 7310.25
+        }
+    ]
+}

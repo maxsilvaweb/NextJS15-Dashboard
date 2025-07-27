@@ -1,0 +1,26 @@
+{
+    "user_id": "a4d90c9d-5a48-48cc-b16c-f44f38327690",
+    "name": "Daniel Banks",
+    "email": "austinphillip@example.com",
+    "instagram_handle": "@harrellcristina",
+    "tiktok_handle": "@webbsandra",
+    "joined_at": "2024-02-04T18:41:18.989813",
+    "advocacy_programs": [
+        {
+            "program_id": "653999a7-12c4-47f1-8c41-7d711bd3fbdd",
+            "brand": "Riggs Group",
+            "tasks_completed": [
+                {
+                    "task_id": "f91496dd-48bd-4a27-aa92-cfee05b54b41",
+                    "platform": "Facebook",
+                    "post_url": "https://rapid-drug.net/",
+                    "likes": 7502,
+                    "comments": 49,
+                    "shares": 65,
+                    "reach": 8364
+                }
+            ],
+            "total_sales_attributed": 9304.78
+        }
+    ]
+}

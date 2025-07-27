@@ -1,0 +1,26 @@
+{
+    "user_id": "16c891c6-8541-4001-bfd3-fe91516f98c7",
+    "name": "Dr. Howard Anderson",
+    "email": "Bertrand_Bashirian@gmail.com",
+    "instagram_handle": "@Emelia_Rowe42",
+    "tiktok_handle": "@Roy.OHara35",
+    "joined_at": "2024-08-21T22:48:15.339Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2122f40c-b8fd-4f56-84a8-fef93fa78549",
+            "brand": "Hills and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "e68fc7ef-ad26-441f-9990-0971df1b4307",
+                    "platform": "Instagram",
+                    "post_url": "https://subdued-provider.biz",
+                    "likes": 376,
+                    "comments": 21,
+                    "shares": 75,
+                    "reach": 7432
+                }
+            ],
+            "total_sales_attributed": 1298.5851489745087
+        }
+    ]
+}

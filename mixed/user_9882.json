@@ -1,0 +1,26 @@
+{
+    "user_id": "dc48aa48-b3c7-49a7-b3aa-e302cc8c342e",
+    "name": "Thomas Gonzalez",
+    "email": "Hermann.OConner@hotmail.com",
+    "instagram_handle": "@christopher31",
+    "tiktok_handle": "@luke46",
+    "joined_at": "2024-02-20T05:55:18.883176",
+    "advocacy_programs": [
+        {
+            "program_id": "1d4fb4d1-fe6f-478d-9aef-59f2bfbfee2d",
+            "brand": "Buckley LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c2538ec9-2466-4261-ae96-1c2f5bf611f1",
+                    "platform": "Facebook",
+                    "post_url": "http://jones.biz/",
+                    "likes": 316,
+                    "comments": 8,
+                    "shares": 97,
+                    "reach": 8833
+                }
+            ],
+            "total_sales_attributed": 9413.26
+        }
+    ]
+}

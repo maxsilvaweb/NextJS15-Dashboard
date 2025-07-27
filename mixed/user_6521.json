@@ -1,0 +1,26 @@
+{
+    "user_id": "edcc0f6f-a183-4dad-9f13-4cc3e7060d35",
+    "name": "Ms. Faith Borer",
+    "email": "Sienna.Stokes@yahoo.com",
+    "instagram_handle": "@Mathew_Runte",
+    "tiktok_handle": "@Kaia89",
+    "joined_at": "2024-06-25T07:02:36.579Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3de6851a-36f6-4599-9007-0c7108541056",
+            "brand": "Kunde, Mertz and Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "d723175d-44ac-49e1-922e-10f0337c2725",
+                    "platform": "TikTok",
+                    "post_url": "https://crafty-singing.com/",
+                    "likes": 258,
+                    "comments": 42,
+                    "shares": 11,
+                    "reach": 674
+                }
+            ],
+            "total_sales_attributed": 3679.698372938677
+        }
+    ]
+}

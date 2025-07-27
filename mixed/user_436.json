@@ -1,0 +1,26 @@
+{
+    "user_id": "ff81ee5e-23b8-4b56-98fb-00057ee09c8c",
+    "name": "Lola Kulas",
+    "email": "Rosalinda49@gmail.com",
+    "instagram_handle": "@Norma_Simonis70",
+    "tiktok_handle": "@Stanford.Denesik",
+    "joined_at": "2024-04-23T18:08:38.523Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5b07a69b-d535-4e5a-a1a2-f042bdf81426",
+            "brand": "MacGyver - Jaskolski",
+            "tasks_completed": [
+                {
+                    "task_id": "f5203e12-53b5-444c-b4ef-2d49db6f9d6c",
+                    "platform": "Instagram",
+                    "post_url": "https://new-coal.name",
+                    "likes": 412,
+                    "comments": 47,
+                    "shares": 36,
+                    "reach": 832
+                }
+            ],
+            "total_sales_attributed": 688.5046725084864
+        }
+    ]
+}

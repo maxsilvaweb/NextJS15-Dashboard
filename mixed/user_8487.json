@@ -1,0 +1,26 @@
+{
+    "user_id": "9853ef48-1ec5-4a7d-b7c8-4285dc4bf661",
+    "name": "Jerry Newton",
+    "email": "wmccormick@example.org",
+    "instagram_handle": "@angelamendoza",
+    "tiktok_handle": "@omyers",
+    "joined_at": "2024-01-23T01:32:36.674176",
+    "advocacy_programs": [
+        {
+            "program_id": "32778543-1376-47b4-bcf9-b47df5e346ad",
+            "brand": "Russell, Cox and Spencer",
+            "tasks_completed": [
+                {
+                    "task_id": "69f428fe-9bae-4eb0-acea-a85e5ad38ef7",
+                    "platform": "Instagram",
+                    "post_url": "https://untidy-calculus.info",
+                    "likes": 251,
+                    "comments": 341,
+                    "shares": 89,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 9932.54
+        }
+    ]
+}

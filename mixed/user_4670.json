@@ -1,0 +1,26 @@
+{
+    "user_id": "a99d2ff3-a618-4325-95eb-f8399e610962",
+    "name": "Samuel Chapman",
+    "email": "jmccoy@example.org",
+    "instagram_handle": "@heatherwalter",
+    "tiktok_handle": "@chapmaneric",
+    "joined_at": "2025-06-27T05:16:43.062944",
+    "advocacy_programs": [
+        {
+            "program_id": "a183914c-f457-4727-b109-9c82112337f3",
+            "brand": "Short, Henry and Ortiz",
+            "tasks_completed": [
+                {
+                    "task_id": "dea1b70a-fcce-4845-aa60-a88744723e3f",
+                    "platform": "Instagram",
+                    "post_url": "https://chavez.biz/",
+                    "likes": 1661,
+                    "comments": 291,
+                    "shares": 42,
+                    "reach": 9140
+                }
+            ],
+            "total_sales_attributed": 7030.21
+        }
+    ]
+}

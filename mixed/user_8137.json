@@ -1,0 +1,26 @@
+{
+    "user_id": "92f91ca3-61ad-4b40-8881-5940e7097cbe",
+    "name": "Rebecca Brooks",
+    "email": "meghan89@example.com",
+    "instagram_handle": "@victorwilson",
+    "tiktok_handle": "@christophermassey",
+    "joined_at": "2025-06-04T01:19:06.971985",
+    "advocacy_programs": [
+        {
+            "program_id": "831a80d1-654d-49e1-af5f-697fd731cd79",
+            "brand": "Richmond, Trujillo and Mcmahon",
+            "tasks_completed": [
+                {
+                    "task_id": "f8908378-235b-44bf-8690-29f3dc2f8d5d",
+                    "platform": "TikTok",
+                    "post_url": "http://www.thompson-miller.com/",
+                    "likes": 4579,
+                    "comments": 78,
+                    "shares": 25,
+                    "reach": 5724
+                }
+            ],
+            "total_sales_attributed": 8026.68
+        }
+    ]
+}

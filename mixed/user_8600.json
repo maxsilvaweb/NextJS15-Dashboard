@@ -1,0 +1,26 @@
+{
+    "user_id": "d471458c-c99c-4a62-bec5-fc9fc660d34f",
+    "name": "Cristina Orn Jr.",
+    "email": "Brandyn_VonRueden36@yahoo.com",
+    "instagram_handle": "@Cassidy.Willms",
+    "tiktok_handle": "@Marquis.Kunde71",
+    "joined_at": "2024-04-26T06:42:11.195Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6874c2d8-1a27-407e-b174-cbc2c53e0cda",
+            "brand": "Romaguera, Daniel and Bradtke",
+            "tasks_completed": [
+                {
+                    "task_id": "3ab36cbe-1afc-4a19-88d4-92d8afe8e891",
+                    "platform": "TikTok",
+                    "post_url": "https://front-vol.com/",
+                    "likes": 271,
+                    "comments": 4,
+                    "shares": 55,
+                    "reach": 1978
+                }
+            ],
+            "total_sales_attributed": 2695.2699779706104
+        }
+    ]
+}

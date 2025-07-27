@@ -1,0 +1,26 @@
+{
+    "user_id": "cba82188-417a-4df9-84dc-0cf8647ad64a",
+    "name": "Jonathan Vasquez",
+    "email": "robertsoncraig@example.net",
+    "instagram_handle": "@larsendawn",
+    "tiktok_handle": "@hpitts",
+    "joined_at": "2023-11-29T23:01:44.655669",
+    "advocacy_programs": [
+        {
+            "program_id": "8d3fef3d-4c7c-45aa-ac89-9da760f18d7b",
+            "brand": "Richardson, Rogers and Moore",
+            "tasks_completed": [
+                {
+                    "task_id": "f306acf0-e958-4420-be0d-ed55b921c9ff",
+                    "platform": "TikTok",
+                    "post_url": "https://www.hernandez-nunez.com/",
+                    "likes": 2591,
+                    "comments": 403,
+                    "shares": 46,
+                    "reach": 9443
+                }
+            ],
+            "total_sales_attributed": 1864.79
+        }
+    ]
+}

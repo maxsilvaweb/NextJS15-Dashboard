@@ -1,0 +1,26 @@
+{
+    "user_id": "3808c729-6dcd-4dfd-b561-152c869b9630",
+    "name": "Yvette Morar DVM",
+    "email": "annabarnes@example.org",
+    "instagram_handle": "@evansteresa",
+    "tiktok_handle": "@audrey19",
+    "joined_at": "2023-10-19T13:38:21.169215",
+    "advocacy_programs": [
+        {
+            "program_id": "53ff2b07-8a00-43dc-92c5-360a10deaaaf",
+            "brand": "Howard-Moss",
+            "tasks_completed": [
+                {
+                    "task_id": "821c4d8a-9e89-4bdd-b28d-6fda61058bec",
+                    "platform": "Instagram",
+                    "post_url": "https://haynes.com/",
+                    "likes": 4884,
+                    "comments": 36,
+                    "shares": 73,
+                    "reach": 3201
+                }
+            ],
+            "total_sales_attributed": 504.23230168524174
+        }
+    ]
+}

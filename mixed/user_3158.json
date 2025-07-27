@@ -1,0 +1,26 @@
+{
+    "user_id": "7a90812f-6aa6-43dc-8317-16ff369adcaa",
+    "name": "Peter Fowler",
+    "email": "baileyprice@example.org",
+    "instagram_handle": "@cbutler",
+    "tiktok_handle": "@johnestes",
+    "joined_at": "2024-11-12T18:20:24.723882",
+    "advocacy_programs": [
+        {
+            "program_id": "699613e0-be96-4f02-b5ca-4155c6ecb4bd",
+            "brand": "Flynn-Moore",
+            "tasks_completed": [
+                {
+                    "task_id": "dbe14c28-553c-46c4-8848-f2f22c858944",
+                    "platform": "Facebook",
+                    "post_url": "http://www.hull.com/",
+                    "likes": 8604,
+                    "comments": 35,
+                    "shares": 65,
+                    "reach": 1416
+                }
+            ],
+            "total_sales_attributed": 2209.29
+        }
+    ]
+}

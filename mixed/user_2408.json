@@ -1,0 +1,26 @@
+{
+    "user_id": "23b39c45-9365-4271-9182-8407a6305b86",
+    "name": "Marta Schuster Sr.",
+    "email": "Charley.Mosciski77@yahoo.com",
+    "instagram_handle": "@Claude.Paucek34",
+    "tiktok_handle": "@Sid75",
+    "joined_at": "2024-07-28T17:15:18.271Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f56377e8-31ea-46df-8aca-65b955df5f53",
+            "brand": "Maggio Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9b7e73a1-3057-4d2a-920c-0663d057e99a",
+                    "platform": "Instagram",
+                    "post_url": "https://lonely-swath.com/",
+                    "likes": 356,
+                    "comments": 17,
+                    "shares": 69,
+                    "reach": 3058
+                }
+            ],
+            "total_sales_attributed": 1394.0928078906775
+        }
+    ]
+}

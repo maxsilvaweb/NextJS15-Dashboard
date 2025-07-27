@@ -1,0 +1,26 @@
+{
+    "user_id": "bf8b8131-62ab-4812-a945-1236c998480e",
+    "name": "Brittany Miller",
+    "email": "eturner@example.net",
+    "instagram_handle": "@mark02",
+    "tiktok_handle": "@Beryl.Hintz51",
+    "joined_at": "2023-11-02T10:42:36.760235",
+    "advocacy_programs": [
+        {
+            "program_id": "f99dfd57-dec9-4390-995d-f7e731584725",
+            "brand": "Evans Group",
+            "tasks_completed": [
+                {
+                    "task_id": "7fd314c4-e8f2-48f6-a9ac-806391070d28",
+                    "platform": "Twitter",
+                    "post_url": "http://www.pena.com/",
+                    "likes": 4830,
+                    "comments": 464,
+                    "shares": 21,
+                    "reach": 9714
+                }
+            ],
+            "total_sales_attributed": 6894.22
+        }
+    ]
+}

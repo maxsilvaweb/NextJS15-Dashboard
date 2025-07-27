@@ -1,0 +1,26 @@
+{
+    "user_id": "cc65d51a-e393-422a-8a9b-ce34b6fce5eb",
+    "name": "Kenneth Smith",
+    "email": "scott39@example.net",
+    "instagram_handle": "@patrick19",
+    "tiktok_handle": "@james74",
+    "joined_at": "2023-12-01T07:04:17.742374",
+    "advocacy_programs": [
+        {
+            "program_id": "4818ae7e-b366-4a99-95a3-7eadf6243958",
+            "brand": "Stone-Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "d256ba77-64b9-466b-898a-7996de7529e1",
+                    "platform": "Twitter",
+                    "post_url": "https://www.jones-barrett.biz/",
+                    "likes": 7384,
+                    "comments": 51,
+                    "shares": 25,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 992.7213383557101
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "dd1ff032-c431-4322-a7fc-0e8b179e3d22",
+    "name": "Jonathan Smith",
+    "email": "blaireric@example.net",
+    "instagram_handle": "@garnold",
+    "tiktok_handle": "@jillchavez",
+    "joined_at": "2023-10-19T21:21:41.764017",
+    "advocacy_programs": [
+        {
+            "program_id": "d1ba3b25-80c8-4090-bb5a-a43fc692a189",
+            "brand": "Morrison, Cruz and Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "e2672c13-f72a-42cb-b917-c71badf8d413",
+                    "platform": "Instagram",
+                    "post_url": "https://shepard.com/",
+                    "likes": 3211,
+                    "comments": 38,
+                    "shares": 82,
+                    "reach": 9987
+                }
+            ],
+            "total_sales_attributed": 1271.25
+        }
+    ]
+}

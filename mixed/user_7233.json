@@ -1,0 +1,26 @@
+{
+    "user_id": "1e75493a-8c20-4662-93ec-b83efc0ba527",
+    "name": "Alfredo Hyatt",
+    "email": "Wallace89@gmail.com",
+    "instagram_handle": "@Shanelle.Abshire",
+    "tiktok_handle": "@Dayna_Lebsack",
+    "joined_at": "2024-06-01T10:57:43.211Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1933f898-6a72-44f2-9346-4782fc861d73",
+            "brand": "Hansen - Ondricka",
+            "tasks_completed": [
+                {
+                    "task_id": "3439483a-6978-4e7b-86bd-5e3b1f748809",
+                    "platform": "TikTok",
+                    "post_url": "https://grubby-spork.net/",
+                    "likes": 268,
+                    "comments": 3,
+                    "shares": 12,
+                    "reach": 9026
+                }
+            ],
+            "total_sales_attributed": 4992.897249621109
+        }
+    ]
+}

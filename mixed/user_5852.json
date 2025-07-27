@@ -1,0 +1,26 @@
+{
+    "user_id": "8c503a78-548d-47d1-b687-4f46670a9405",
+    "name": "Raymond Nguyen",
+    "email": "millerlinda@example.net",
+    "instagram_handle": "@Rosella.Rau",
+    "tiktok_handle": "@patrickabigail",
+    "joined_at": "2024-01-01T03:53:09.336629",
+    "advocacy_programs": [
+        {
+            "program_id": "7d54b2c6-c06f-4c13-a559-8abd23297ed9",
+            "brand": "Cannon Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "45ec35d8-6347-42d2-bab9-c7e1a4191219",
+                    "platform": "TikTok",
+                    "post_url": "https://www.clark.com/",
+                    "likes": 419,
+                    "comments": 6,
+                    "shares": 95,
+                    "reach": 7484
+                }
+            ],
+            "total_sales_attributed": 4268.94
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "61293702-fb2f-4888-b24b-a6b8337b2b3b",
+    "name": "Brian Bentley",
+    "email": "halesandra@example.net",
+    "instagram_handle": "@harperdylan",
+    "tiktok_handle": "@michael42",
+    "joined_at": "2024-09-03T07:01:09.925276",
+    "advocacy_programs": [
+        {
+            "program_id": "16bc8328-9f9a-4160-960b-52e926962a19",
+            "brand": "Cross, Perez and Taylor",
+            "tasks_completed": [
+                {
+                    "task_id": "2a58e63a-2359-4a8a-8e9d-6d7e9df90675",
+                    "platform": "Facebook",
+                    "post_url": "http://www.trujillo.net/",
+                    "likes": 3209,
+                    "comments": 213,
+                    "shares": 32,
+                    "reach": 4645
+                }
+            ],
+            "total_sales_attributed": 8988.54
+        }
+    ]
+}

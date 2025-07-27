@@ -1,0 +1,26 @@
+{
+    "user_id": "0115988e-5d0e-4a0e-b31f-37738681a98b",
+    "name": "Jesse Knapp",
+    "email": "Roger.Quigley77@yahoo.com",
+    "instagram_handle": "@howarddavid",
+    "tiktok_handle": "@sfreeman",
+    "joined_at": "2025-01-27T01:48:27.296900",
+    "advocacy_programs": [
+        {
+            "program_id": "f70eca13-2f24-4378-bce2-29fa07fa67c3",
+            "brand": "Thomas Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "1f71b521-a921-49dc-89c7-1aaa5d8e8085",
+                    "platform": "TikTok",
+                    "post_url": "http://www.perez.net/",
+                    "likes": 9977,
+                    "comments": 484,
+                    "shares": 45,
+                    "reach": 5866
+                }
+            ],
+            "total_sales_attributed": 3076.18
+        }
+    ]
+}

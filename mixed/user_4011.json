@@ -1,0 +1,26 @@
+{
+    "user_id": "12b4dc97-7281-4163-b8f1-1f42bc7a4d10",
+    "name": "William Savage",
+    "email": "lynnelizabeth@example.com",
+    "instagram_handle": "@dmartinez",
+    "tiktok_handle": "@howellrachel",
+    "joined_at": "2024-12-17T02:02:23.955599",
+    "advocacy_programs": [
+        {
+            "program_id": "66092a09-8304-4f7f-846e-38705925be0d",
+            "brand": "Koelpin and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "0195027f-688b-48cd-a053-4c528f983dba",
+                    "platform": "TikTok",
+                    "post_url": "http://cooper.com/",
+                    "likes": 4330,
+                    "comments": 473,
+                    "shares": 28,
+                    "reach": 2002
+                }
+            ],
+            "total_sales_attributed": 8039.66
+        }
+    ]
+}

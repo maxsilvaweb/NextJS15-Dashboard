@@ -1,0 +1,26 @@
+{
+    "user_id": "0fc1d5b4-0142-4cf4-b055-d07a022fbd51",
+    "name": "Dr. Jennifer Diaz",
+    "email": "jamesjohnson@example.org",
+    "instagram_handle": "@xvance",
+    "tiktok_handle": "@ojohnson",
+    "joined_at": "2024-07-22T13:01:20.048894",
+    "advocacy_programs": [
+        {
+            "program_id": "1a845b0e-925e-4380-8673-dc10ff651157",
+            "brand": "Dillon, Wright and Martin",
+            "tasks_completed": [
+                {
+                    "task_id": "0b089a14-fd7b-4a08-9d0b-1915bd91921b",
+                    "platform": "Twitter",
+                    "post_url": "https://medium-giant.org/",
+                    "likes": 1158,
+                    "comments": 0,
+                    "shares": 53,
+                    "reach": 2523
+                }
+            ],
+            "total_sales_attributed": 2341.3151746852845
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "06c7882b-724b-4a05-940d-0912adc02ee7",
+    "name": "Kelly Olson",
+    "email": "estradapam@example.com",
+    "instagram_handle": "@thomasortiz",
+    "tiktok_handle": "@maryphillips",
+    "joined_at": "2023-11-08T18:11:25.085665",
+    "advocacy_programs": [
+        {
+            "program_id": "5ffd7c8f-963b-4f28-a4e4-f026108de1cc",
+            "brand": "Love-Owens",
+            "tasks_completed": [
+                {
+                    "task_id": "27db4957-3b9e-48d4-adfc-73de5743f351",
+                    "platform": "YouTube",
+                    "post_url": "https://www.boyer-simmons.net/",
+                    "likes": 6622,
+                    "comments": 395,
+                    "shares": 2,
+                    "reach": 9737
+                }
+            ],
+            "total_sales_attributed": 3881.5287284225337
+        }
+    ]
+}

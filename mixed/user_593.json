@@ -1,0 +1,26 @@
+{
+    "user_id": "9c14557d-c0a5-442f-aeb8-7ca5c2181257",
+    "name": "Erin Wolff",
+    "email": "Dandre78@yahoo.com",
+    "instagram_handle": "@Delores20",
+    "tiktok_handle": "@Lemuel46",
+    "joined_at": "2024-09-06T04:59:12.687Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fbf935ba-db63-4e63-ad89-a66bf3fbaa34",
+            "brand": "Dare Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b6a7e4a4-35fe-45f8-a215-bdd095c0d9bc",
+                    "platform": "Instagram",
+                    "post_url": "https://mushy-strait.name/",
+                    "likes": 433,
+                    "comments": 36,
+                    "shares": 29,
+                    "reach": 2312
+                }
+            ],
+            "total_sales_attributed": 3208.381051996498
+        }
+    ]
+}

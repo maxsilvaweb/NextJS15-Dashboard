@@ -1,0 +1,26 @@
+{
+    "user_id": "59d17171-56e0-4835-a25a-5f106dd71180",
+    "name": "Melissa Wall",
+    "email": "Kailyn_Dickinson@hotmail.com",
+    "instagram_handle": "@slee",
+    "tiktok_handle": "@phillip06",
+    "joined_at": "2024-09-23T22:09:00.473803",
+    "advocacy_programs": [
+        {
+            "program_id": "2708314d-b576-4a8b-8472-762111b081bb",
+            "brand": "Rosario LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1e6c5f90-1d1f-498f-a7f4-17be8cd5cca8",
+                    "platform": "Instagram",
+                    "post_url": "http://salazar.com/",
+                    "likes": 7712,
+                    "comments": 40,
+                    "shares": 25,
+                    "reach": 9541
+                }
+            ],
+            "total_sales_attributed": 851.0222802805089
+        }
+    ]
+}

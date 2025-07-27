@@ -1,0 +1,26 @@
+{
+    "user_id": "6bdd1423-6dd8-4175-93bb-8a10aab7b843",
+    "name": "John George",
+    "email": "Arjun_Wilkinson78@hotmail.com",
+    "instagram_handle": "@sfischer",
+    "tiktok_handle": "@philip60",
+    "joined_at": "2025-02-12T17:32:54.792360",
+    "advocacy_programs": [
+        {
+            "program_id": "f06d2652-1485-43c8-b777-91295c50f256",
+            "brand": "Boyle - Wilderman",
+            "tasks_completed": [
+                {
+                    "task_id": "0f9f5f7f-6a30-4f89-ae07-6e22aeb9ba3a",
+                    "platform": "Instagram",
+                    "post_url": "http://www.dominguez-english.com/",
+                    "likes": 5293,
+                    "comments": 339,
+                    "shares": 31,
+                    "reach": 690
+                }
+            ],
+            "total_sales_attributed": 6278.55
+        }
+    ]
+}

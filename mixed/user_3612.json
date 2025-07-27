@@ -1,0 +1,26 @@
+{
+    "user_id": "e1b5b486-ebc6-4066-b2cc-5625548bd678",
+    "name": "Sherri Pagac",
+    "email": "Emmy57@yahoo.com",
+    "instagram_handle": "@Delpha63",
+    "tiktok_handle": "@Lavinia.Schroeder",
+    "joined_at": "2024-12-15T06:50:56.391Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d3c42c87-03c1-44ba-8674-9596e1cb50d8",
+            "brand": "Harber - Goldner",
+            "tasks_completed": [
+                {
+                    "task_id": "7127a58a-1219-45d3-8de5-a240c630783a",
+                    "platform": "TikTok",
+                    "post_url": "https://mealy-midwife.info/",
+                    "likes": 139,
+                    "comments": 47,
+                    "shares": 35,
+                    "reach": 667
+                }
+            ],
+            "total_sales_attributed": 627.6799975419485
+        }
+    ]
+}

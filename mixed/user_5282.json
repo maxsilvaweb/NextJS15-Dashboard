@@ -1,0 +1,26 @@
+{
+    "user_id": "a2cfd7ea-c6cc-481f-b07a-d5e119ac16c1",
+    "name": "Terry Cassin",
+    "email": "Myrtice_West82@hotmail.com",
+    "instagram_handle": "@Jon47",
+    "tiktok_handle": "@Alexie.Raynor24",
+    "joined_at": "2024-04-25T17:35:58.151Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eb68220d-152e-4cd0-aeef-9529b615cee2",
+            "brand": "Greenfelder, McCullough and Schaefer",
+            "tasks_completed": [
+                {
+                    "task_id": "d54214f5-15fd-48c6-87f5-116739e04c60",
+                    "platform": "TikTok",
+                    "post_url": "https://all-junior.org",
+                    "likes": 463,
+                    "comments": 10,
+                    "shares": 30,
+                    "reach": 8337
+                }
+            ],
+            "total_sales_attributed": 2054.089751585082
+        }
+    ]
+}

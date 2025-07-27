@@ -1,0 +1,26 @@
+{
+    "user_id": "88ff431e-3bf3-4f92-b818-f411e26b5bef",
+    "name": "Judith Smith",
+    "email": "lucas22@example.com",
+    "instagram_handle": "@umalone",
+    "tiktok_handle": "@xperry",
+    "joined_at": "2025-05-23T07:38:46.602348",
+    "advocacy_programs": [
+        {
+            "program_id": "f3816ef6-c0bf-49e8-898c-6d6cfeb1e3c8",
+            "brand": "Singleton, Rodriguez and Russo",
+            "tasks_completed": [
+                {
+                    "task_id": "609d41e1-603f-4c2f-9149-b4850aaadb82",
+                    "platform": "Instagram",
+                    "post_url": "https://kennedy-lyons.com/",
+                    "likes": 3081,
+                    "comments": 287,
+                    "shares": 6,
+                    "reach": 5897
+                }
+            ],
+            "total_sales_attributed": 2495.39
+        }
+    ]
+}

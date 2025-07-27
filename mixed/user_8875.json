@@ -1,0 +1,26 @@
+{
+    "user_id": "5f63bbcc-9428-461a-951f-6aceb538a212",
+    "name": "Ora Morar II",
+    "email": "Yesenia77@yahoo.com",
+    "instagram_handle": "@Rene.Adams",
+    "tiktok_handle": "@Evie_Kohler42",
+    "joined_at": "2025-02-11T09:55:07.908Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e89a55f4-5be5-430d-8ca1-0caff1ca2fa9",
+            "brand": "Huels - Dicki",
+            "tasks_completed": [
+                {
+                    "task_id": "52497ad0-aab7-42e7-a558-c48fb48628b1",
+                    "platform": "TikTok",
+                    "post_url": "https://likely-cake.org",
+                    "likes": 352,
+                    "comments": 2,
+                    "shares": 59,
+                    "reach": 6204
+                }
+            ],
+            "total_sales_attributed": 1058.0506393290968
+        }
+    ]
+}

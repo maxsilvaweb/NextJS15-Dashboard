@@ -1,0 +1,26 @@
+{
+    "user_id": "90e352f5-e18e-44a5-bd69-76a78e7cd5fc",
+    "name": "Lauren Melendez",
+    "email": "erinkelly@example.net",
+    "instagram_handle": "@Peyton48",
+    "tiktok_handle": "@Malvina.Dooley1",
+    "joined_at": "2024-07-26T10:19:27.268402",
+    "advocacy_programs": [
+        {
+            "program_id": "938d147f-50a9-4c10-b796-e0dc3a2b3544",
+            "brand": "Solis and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "d42ee475-3a37-42d7-a84b-79af484b6556",
+                    "platform": "Instagram",
+                    "post_url": "https://peters-campbell.com/",
+                    "likes": 1529,
+                    "comments": 48,
+                    "shares": 14,
+                    "reach": 5981
+                }
+            ],
+            "total_sales_attributed": 4073.1128134527994
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "765de631-f40d-4ba6-a088-b8981a97aa8a",
+    "name": "Johnathan Hermann",
+    "email": "Bennie40@yahoo.com",
+    "instagram_handle": "@Lyda.Schaden14",
+    "tiktok_handle": "@Aliza_Emmerich",
+    "joined_at": "2024-12-11T17:01:37.799Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bd304621-13ec-47ab-bef3-92b1c98a06d6",
+            "brand": "McKenzie, Witting and Nader",
+            "tasks_completed": [
+                {
+                    "task_id": "32e3bf60-c5bf-4efb-ad89-f0e71f1b0627",
+                    "platform": "Instagram",
+                    "post_url": "https://pastel-giggle.com/",
+                    "likes": 398,
+                    "comments": 9,
+                    "shares": 19,
+                    "reach": 5605
+                }
+            ],
+            "total_sales_attributed": 1518.580271251244
+        }
+    ]
+}

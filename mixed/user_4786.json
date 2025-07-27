@@ -1,0 +1,26 @@
+{
+    "user_id": "19699290-8596-4856-9df5-8c58320c6bb1",
+    "name": "Katherine Garrett",
+    "email": "stephanieortiz@example.net",
+    "instagram_handle": "@shepherdbrian",
+    "tiktok_handle": "@marcus86",
+    "joined_at": "2025-06-26T23:36:43.418228",
+    "advocacy_programs": [
+        {
+            "program_id": "d49b5552-008a-4563-9ad1-3593920c142d",
+            "brand": "Hoffman-Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "2a49de7d-1d03-4803-b77d-13393e318272",
+                    "platform": "Facebook",
+                    "post_url": "http://www.collier.com/",
+                    "likes": 5789,
+                    "comments": 24,
+                    "shares": 20,
+                    "reach": 5612
+                }
+            ],
+            "total_sales_attributed": 1182.0558244940835
+        }
+    ]
+}

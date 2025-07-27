@@ -1,0 +1,26 @@
+{
+    "user_id": "b9bfd537-18c9-4dde-ba99-31ab74344c9d",
+    "name": "Tammy Mueller",
+    "email": "lisa27@example.com",
+    "instagram_handle": "@reeddonna",
+    "tiktok_handle": "@wangdavid",
+    "joined_at": "2025-01-25T14:47:12.315418",
+    "advocacy_programs": [
+        {
+            "program_id": "e80dd11d-b08f-430a-ab6f-2ddf0cce5b3d",
+            "brand": "Hendrix LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ba50ca4b-ff9e-467f-908e-e1cc0dfdd13d",
+                    "platform": "TikTok",
+                    "post_url": "https://jagged-character.name/",
+                    "likes": 1704,
+                    "comments": 49,
+                    "shares": 89,
+                    "reach": 7102
+                }
+            ],
+            "total_sales_attributed": 9797.34
+        }
+    ]
+}

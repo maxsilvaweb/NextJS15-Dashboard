@@ -1,0 +1,26 @@
+{
+    "user_id": "3d0f8876-4a29-4220-ba93-2946b57f26e3",
+    "name": "Jeremy Campos",
+    "email": "jparker@example.net",
+    "instagram_handle": "@omccoy",
+    "tiktok_handle": "@cholland",
+    "joined_at": "2025-05-13T22:42:51.093404",
+    "advocacy_programs": [
+        {
+            "program_id": "bfbbe45f-d59d-42fb-ae42-5f52a8d41784",
+            "brand": "Zulauf, Carter and Lehner",
+            "tasks_completed": [
+                {
+                    "task_id": "f51f1014-4478-4eef-8029-a7a6681a95af",
+                    "platform": "Twitter",
+                    "post_url": "https://brandt.info/",
+                    "likes": 284,
+                    "comments": 16,
+                    "shares": 52,
+                    "reach": 5086
+                }
+            ],
+            "total_sales_attributed": 2501.92764818752
+        }
+    ]
+}

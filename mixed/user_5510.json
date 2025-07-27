@@ -1,0 +1,26 @@
+{
+    "user_id": "5a25c176-f98f-4dc1-8b12-5f1bd7c73ef0",
+    "name": "Michael Allen",
+    "email": "pamelaturner@example.com",
+    "instagram_handle": "@nyoung",
+    "tiktok_handle": "@varnold",
+    "joined_at": "2023-10-11T13:04:06.443719",
+    "advocacy_programs": [
+        {
+            "program_id": "1b29c604-e22c-4f79-bea5-b4f457af1e1d",
+            "brand": "Ferguson and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "bc4a54a3-4ffb-417d-817e-4dcaee78d344",
+                    "platform": "YouTube",
+                    "post_url": "http://www.white.biz/",
+                    "likes": 1145,
+                    "comments": 172,
+                    "shares": 63,
+                    "reach": 7255
+                }
+            ],
+            "total_sales_attributed": 2762.8
+        }
+    ]
+}

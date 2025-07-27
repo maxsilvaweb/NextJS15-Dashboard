@@ -1,0 +1,26 @@
+{
+    "user_id": "4d55bbf9-bb9f-419d-bb6b-142c80be5978",
+    "name": "Michelle Thompson",
+    "email": "vguerrero@example.com",
+    "instagram_handle": "@daniel57",
+    "tiktok_handle": "@wsanders",
+    "joined_at": "2024-10-22T04:17:00.518974",
+    "advocacy_programs": [
+        {
+            "program_id": "d37478ca-211e-412e-94a2-17aca3b37228",
+            "brand": "Maldonado-Gonzalez",
+            "tasks_completed": [
+                {
+                    "task_id": "ad7d6c85-2827-45a3-a8d2-843573750cab",
+                    "platform": "TikTok",
+                    "post_url": "https://www.johnson.com/",
+                    "likes": 1461,
+                    "comments": 32,
+                    "shares": 100,
+                    "reach": 6594
+                }
+            ],
+            "total_sales_attributed": 3674.27
+        }
+    ]
+}

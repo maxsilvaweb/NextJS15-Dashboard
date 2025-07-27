@@ -1,0 +1,26 @@
+{
+    "user_id": "0d48b65c-97d0-4c0f-9c2e-6876f4919249",
+    "name": "Jeffery Kemmer",
+    "email": "Victoria38@hotmail.com",
+    "instagram_handle": "@Tyra_OConnell",
+    "tiktok_handle": "@Kennith77",
+    "joined_at": "2024-09-01T06:21:30.966Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cc7962c4-8c6d-487f-afe0-c30d1e9ddbbf",
+            "brand": "Bogisich - Quitzon",
+            "tasks_completed": [
+                {
+                    "task_id": "f6f3cdc1-b76f-4956-9934-8d8f41eeafdb",
+                    "platform": "TikTok",
+                    "post_url": "https://wrong-minion.org/",
+                    "likes": 406,
+                    "comments": 37,
+                    "shares": 22,
+                    "reach": 6215
+                }
+            ],
+            "total_sales_attributed": 1132.4588637500776
+        }
+    ]
+}

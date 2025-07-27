@@ -1,0 +1,26 @@
+{
+    "user_id": "a89f391a-91e7-4a69-99ae-a95dc93cb10a",
+    "name": "Mary Pena",
+    "email": "cynthia97@example.net",
+    "instagram_handle": "@laurengarcia",
+    "tiktok_handle": "@jonesmichele",
+    "joined_at": "2024-04-03T07:59:26.470Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ac02fc1f-366c-4912-89ff-f8132ab845cd",
+            "brand": "Guerrero LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "2db88823-13e1-43c7-92aa-78cf69c15c15",
+                    "platform": "Instagram",
+                    "post_url": "http://www.nicholson.com/",
+                    "likes": 352,
+                    "comments": 35,
+                    "shares": 64,
+                    "reach": 2323
+                }
+            ],
+            "total_sales_attributed": 708.57
+        }
+    ]
+}

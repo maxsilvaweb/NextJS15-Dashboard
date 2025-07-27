@@ -1,0 +1,26 @@
+{
+    "user_id": "5b89b3ad-c0d9-40b4-8385-69406e871876",
+    "name": "Patricia Molina",
+    "email": "Daryl21@yahoo.com",
+    "instagram_handle": "@jeremyrobinson",
+    "tiktok_handle": "@carolinejohnson",
+    "joined_at": "2024-01-31T23:06:52.810534",
+    "advocacy_programs": [
+        {
+            "program_id": "e2fb5fea-2b4c-4a52-af88-b77ca5e25f3c",
+            "brand": "Morris-Blair",
+            "tasks_completed": [
+                {
+                    "task_id": "12381381-d28f-442f-9f74-57be242166cb",
+                    "platform": "Instagram",
+                    "post_url": "https://creamy-marten.biz/",
+                    "likes": 7827,
+                    "comments": 1,
+                    "shares": 65,
+                    "reach": 3065
+                }
+            ],
+            "total_sales_attributed": 9185.0
+        }
+    ]
+}

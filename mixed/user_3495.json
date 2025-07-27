@@ -1,0 +1,26 @@
+{
+    "user_id": "ea713e53-b841-4a78-ba9f-286dae64745b",
+    "name": "Ramon Bins",
+    "email": "Monica27@yahoo.com",
+    "instagram_handle": "@Haylie94",
+    "tiktok_handle": "@Yasmine.Glover42",
+    "joined_at": "2024-12-16T08:09:44.011Z",
+    "advocacy_programs": [
+        {
+            "program_id": "37f5544c-d21e-448d-bca8-b5cbd131913c",
+            "brand": "Connelly, Langosh and Cruickshank",
+            "tasks_completed": [
+                {
+                    "task_id": "7cfa0479-71e6-4bc3-9aca-dd876c172a40",
+                    "platform": "TikTok",
+                    "post_url": "https://squeaky-wilderness.biz/",
+                    "likes": 235,
+                    "comments": 25,
+                    "shares": 5,
+                    "reach": 5258
+                }
+            ],
+            "total_sales_attributed": 347.0618777006907
+        }
+    ]
+}

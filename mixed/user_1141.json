@@ -1,0 +1,26 @@
+{
+    "user_id": "a44f216b-ad91-447b-bea1-230454be8a49",
+    "name": "Douglas Moen",
+    "email": "Soledad_Kilback@yahoo.com",
+    "instagram_handle": "@Itzel59",
+    "tiktok_handle": "@Esteban_Barrows",
+    "joined_at": "2025-01-25T01:44:16.329Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b2ad3a15-43c6-46f6-ac68-07d3f8a9d09b",
+            "brand": "Brekke - Mosciski",
+            "tasks_completed": [
+                {
+                    "task_id": "43a7430a-a75b-4aef-9391-1e04f830b853",
+                    "platform": "Instagram",
+                    "post_url": "https://regular-oil.biz/",
+                    "likes": 477,
+                    "comments": 31,
+                    "shares": 55,
+                    "reach": 7128
+                }
+            ],
+            "total_sales_attributed": 4330.563137495303
+        }
+    ]
+}

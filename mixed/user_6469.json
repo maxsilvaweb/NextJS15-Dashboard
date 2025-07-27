@@ -1,0 +1,26 @@
+{
+    "user_id": "3de87c12-6851-4fec-b5c1-46c63ac71dd4",
+    "name": "Kurt Clarke",
+    "email": "matthew57@example.com",
+    "instagram_handle": "@sruiz",
+    "tiktok_handle": "@fdonaldson",
+    "joined_at": "2024-09-01T17:49:25.100139",
+    "advocacy_programs": [
+        {
+            "program_id": "ba84ca12-1124-4e7d-85ff-7287962d39ae",
+            "brand": "Wheeler-Newton",
+            "tasks_completed": [
+                {
+                    "task_id": "3b5a0b48-5b08-45f1-a18f-6c84e8c40d26",
+                    "platform": "TikTok",
+                    "post_url": "http://www.kaiser-baker.info/",
+                    "likes": 9434,
+                    "comments": 84,
+                    "shares": 82,
+                    "reach": 2454
+                }
+            ],
+            "total_sales_attributed": 622.32
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cb6b2711-b4fb-41c3-a422-a156fd9377ae",
+    "name": "Candace Hoffman",
+    "email": "karen76@example.com",
+    "instagram_handle": "@Khalil71",
+    "tiktok_handle": "@rodneyflores",
+    "joined_at": "2025-01-11T00:23:09.435641",
+    "advocacy_programs": [
+        {
+            "program_id": "70c8da60-c0dd-48a7-a124-b8ed7017f3bc",
+            "brand": "Ayers-Hardin",
+            "tasks_completed": [
+                {
+                    "task_id": "1d23992b-351d-448a-b5bb-79067842cc42",
+                    "platform": "Instagram",
+                    "post_url": "https://hefty-straw.org",
+                    "likes": 2340,
+                    "comments": 43,
+                    "shares": 98,
+                    "reach": 7334
+                }
+            ],
+            "total_sales_attributed": 3388.7200777708176
+        }
+    ]
+}

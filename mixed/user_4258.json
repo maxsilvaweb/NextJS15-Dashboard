@@ -1,0 +1,26 @@
+{
+    "user_id": "f6f3ac28-1d94-4a6f-99b1-e7cc8a0d8ef1",
+    "name": "Fernando Matthews",
+    "email": "brownjoseph@example.net",
+    "instagram_handle": "@carrie54",
+    "tiktok_handle": "@ccoleman",
+    "joined_at": "2023-12-30T11:19:40.728830",
+    "advocacy_programs": [
+        {
+            "program_id": "b256df2e-2a73-42b1-a5ad-0fe078e4ce93",
+            "brand": "Wang, Garcia and Lee",
+            "tasks_completed": [
+                {
+                    "task_id": "5cdd2745-56bd-4ab1-b203-667fe1584afa",
+                    "platform": "Facebook",
+                    "post_url": "https://concrete-coil.net",
+                    "likes": 98,
+                    "comments": 452,
+                    "shares": 71,
+                    "reach": 5606
+                }
+            ],
+            "total_sales_attributed": 1950.81
+        }
+    ]
+}

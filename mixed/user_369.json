@@ -1,0 +1,26 @@
+{
+    "user_id": "92fbfa93-3b04-4546-9fa9-84818b7ddffc",
+    "name": "Jonathan Navarro",
+    "email": "lisa25@example.net",
+    "instagram_handle": "@mcfarlandmark",
+    "tiktok_handle": "@nschneider",
+    "joined_at": "2023-11-05T10:13:46.642928",
+    "advocacy_programs": [
+        {
+            "program_id": "b90ff591-b4df-42e8-8994-4e592b5f52d2",
+            "brand": "Frost-Cherry",
+            "tasks_completed": [
+                {
+                    "task_id": "295827b0-189c-4942-8d6d-50d7129f5673",
+                    "platform": "YouTube",
+                    "post_url": "http://www.martinez.com/",
+                    "likes": 2341,
+                    "comments": 433,
+                    "shares": 41,
+                    "reach": 8046
+                }
+            ],
+            "total_sales_attributed": 5867.01
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6fc88750-579b-419e-b5c8-bfa5e7ea759e",
+    "name": "Michelle Romero",
+    "email": "stevenpage@example.net",
+    "instagram_handle": "@smithjohn",
+    "tiktok_handle": "@jennifer62",
+    "joined_at": "2025-02-17T10:22:14.993726",
+    "advocacy_programs": [
+        {
+            "program_id": "761683b6-9755-480c-bd81-d9df5e91a1b3",
+            "brand": "Watts and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "2b08c836-6e39-4de1-9075-980ca3412be0",
+                    "platform": "TikTok",
+                    "post_url": "https://day.org/",
+                    "likes": 7395,
+                    "comments": 13,
+                    "shares": 20,
+                    "reach": 5497
+                }
+            ],
+            "total_sales_attributed": 3211.0087388396933
+        }
+    ]
+}

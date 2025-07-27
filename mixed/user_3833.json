@@ -1,0 +1,26 @@
+{
+    "user_id": "440338a4-a918-419e-ace2-4c88aa90f080",
+    "name": "Dwight Schmidt",
+    "email": "Winfield77@yahoo.com",
+    "instagram_handle": "@Gust84",
+    "tiktok_handle": "@Fred_Franecki74",
+    "joined_at": "2024-03-21T20:41:23.724Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1a5e8ac0-dd72-4419-a1e3-00afe14c958e",
+            "brand": "Herman - Mertz",
+            "tasks_completed": [
+                {
+                    "task_id": "3af1fc3f-f893-4de5-b0e9-e42f046ff4ae",
+                    "platform": "TikTok",
+                    "post_url": "https://likable-widow.biz",
+                    "likes": 391,
+                    "comments": 26,
+                    "shares": 89,
+                    "reach": 4097
+                }
+            ],
+            "total_sales_attributed": 2363.3181865976417
+        }
+    ]
+}

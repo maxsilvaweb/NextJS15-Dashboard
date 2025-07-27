@@ -1,0 +1,26 @@
+{
+    "user_id": "40e70b6c-3ccc-4bbc-a1e3-f799ca408ac0",
+    "name": "Marie Moore",
+    "email": "copelanddennis@example.com",
+    "instagram_handle": "@cschroeder",
+    "tiktok_handle": "@upearson",
+    "joined_at": "2024-05-01T06:07:18.349373",
+    "advocacy_programs": [
+        {
+            "program_id": "7587c2c7-1271-4922-9a29-50e5a37c012c",
+            "brand": "Lee-Baxter",
+            "tasks_completed": [
+                {
+                    "task_id": "9bdc55f9-28e9-4e48-b4c3-6fb86c7382aa",
+                    "platform": "Twitter",
+                    "post_url": "http://perez.com/",
+                    "likes": 52,
+                    "comments": 143,
+                    "shares": 93,
+                    "reach": 1151
+                }
+            ],
+            "total_sales_attributed": 4875.21
+        }
+    ]
+}

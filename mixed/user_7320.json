@@ -1,0 +1,26 @@
+{
+    "user_id": "59c49683-33e8-40ff-b5af-7faaafe3c8ec",
+    "name": "Kaitlyn Murphy",
+    "email": "harrisjessica@example.org",
+    "instagram_handle": "@anthony60",
+    "tiktok_handle": "@wilsonjason",
+    "joined_at": "2024-08-15T21:00:03.993660",
+    "advocacy_programs": [
+        {
+            "program_id": "78dd5b00-6a60-4ae1-b070-4fe4e40ba3bd",
+            "brand": "Brown LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "6dc60b44-17f7-4b7a-8fce-1201cd7bdd79",
+                    "platform": "TikTok",
+                    "post_url": "http://www.bradley-jones.com/",
+                    "likes": 3704,
+                    "comments": 497,
+                    "shares": 64,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 2069.78
+        }
+    ]
+}

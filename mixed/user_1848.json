@@ -1,0 +1,26 @@
+{
+    "user_id": "648510cd-7535-45ac-a41b-ff33d71aca5b",
+    "name": "Bradley Bonilla",
+    "email": "ibarraalison@example.com",
+    "instagram_handle": "@matthewpratt",
+    "tiktok_handle": "@mlong",
+    "joined_at": "2025-03-09T00:49:13.284834",
+    "advocacy_programs": [
+        {
+            "program_id": "4e22263c-5386-4e44-9ca4-22fa646a46a5",
+            "brand": "Sexton PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7f7cff91-8bea-43af-9481-73b9198a01d5",
+                    "platform": "Instagram",
+                    "post_url": "https://www.campbell.com/",
+                    "likes": 9432,
+                    "comments": 288,
+                    "shares": 52,
+                    "reach": 793
+                }
+            ],
+            "total_sales_attributed": 5753.87
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bc164fee-0267-4f28-b19b-ed36f6e43e67",
+    "name": "Aaron Moreno",
+    "email": "moorejeremy@example.net",
+    "instagram_handle": "@ashley56",
+    "tiktok_handle": "@swhite",
+    "joined_at": "2024-10-12T13:12:19.608957",
+    "advocacy_programs": [
+        {
+            "program_id": "0683482b-4827-40a7-9f68-f37565fc5e2f",
+            "brand": "Garza-Cruz",
+            "tasks_completed": [
+                {
+                    "task_id": "17953691-7758-4062-8907-d5d491bb5506",
+                    "platform": "Instagram",
+                    "post_url": "http://www.calhoun.org/",
+                    "likes": 9284,
+                    "comments": 125,
+                    "shares": 33,
+                    "reach": 1928
+                }
+            ],
+            "total_sales_attributed": 245.59
+        }
+    ]
+}

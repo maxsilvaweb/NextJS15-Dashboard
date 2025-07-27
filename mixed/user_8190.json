@@ -1,0 +1,26 @@
+{
+    "user_id": "a05c96ca-3cde-4c73-ab81-ad1a8b4e7440",
+    "name": "Levi Koelpin",
+    "email": "Russel_Rice49@hotmail.com",
+    "instagram_handle": "@Kirk.Block",
+    "tiktok_handle": "@Marcel83",
+    "joined_at": "2025-02-05T18:47:02.593Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1824f706-4166-4657-aa91-b8da46f32b6a",
+            "brand": "Streich - Weimann",
+            "tasks_completed": [
+                {
+                    "task_id": "cdf965da-2409-4e7f-ba75-8a9c7312bc60",
+                    "platform": "TikTok",
+                    "post_url": "https://turbulent-ownership.org/",
+                    "likes": 112,
+                    "comments": 13,
+                    "shares": 1,
+                    "reach": 9006
+                }
+            ],
+            "total_sales_attributed": 2415.265947697632
+        }
+    ]
+}

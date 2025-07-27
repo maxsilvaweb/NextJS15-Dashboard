@@ -1,0 +1,26 @@
+{
+    "user_id": "322322e2-44fd-4930-8b3d-e9468cb265cf",
+    "name": "Mr. Joseph Orn",
+    "email": "Justina.Weber@yahoo.com",
+    "instagram_handle": "@Kevon60",
+    "tiktok_handle": "@Eladio.Hodkiewicz34",
+    "joined_at": "2025-02-24T10:27:44.035Z",
+    "advocacy_programs": [
+        {
+            "program_id": "929ee039-4496-40b5-984a-4392fce63924",
+            "brand": "Kub Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "6641b72a-7bfd-483f-992c-a8464e95e24b",
+                    "platform": "Instagram",
+                    "post_url": "https://muffled-quinoa.name/",
+                    "likes": 386,
+                    "comments": 28,
+                    "shares": 54,
+                    "reach": 1006
+                }
+            ],
+            "total_sales_attributed": 2790.0809239192436
+        }
+    ]
+}

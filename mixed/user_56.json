@@ -1,0 +1,26 @@
+{
+    "user_id": "c6ce46a2-6209-4e52-becd-047921674f84",
+    "name": "Jonathan Smitham",
+    "email": "Elmo7@hotmail.com",
+    "instagram_handle": "@Rashad.Wolf",
+    "tiktok_handle": "@Rogelio32",
+    "joined_at": "2024-09-15T03:30:02.945Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3144a211-e540-4425-b508-5b3782aa4a81",
+            "brand": "Grimes and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "d704ff05-87cf-4361-96a9-5e79a51bd162",
+                    "platform": "Instagram",
+                    "post_url": "https://spotless-tennis.name/",
+                    "likes": 203,
+                    "comments": 34,
+                    "shares": 97,
+                    "reach": 7152
+                }
+            ],
+            "total_sales_attributed": 4042.7743908667358
+        }
+    ]
+}

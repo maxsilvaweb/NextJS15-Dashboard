@@ -1,0 +1,26 @@
+{
+    "user_id": "6997756c-4256-4cdf-954d-9701bbaab99b",
+    "name": "Victor Preston",
+    "email": "emartinez@example.org",
+    "instagram_handle": "@jenniferclay",
+    "tiktok_handle": "@caleb91",
+    "joined_at": "2024-08-28T04:45:18.599477",
+    "advocacy_programs": [
+        {
+            "program_id": "1a74841f-9387-4e5b-924f-bdcf7f8e6bc5",
+            "brand": "Valentine-Garcia",
+            "tasks_completed": [
+                {
+                    "task_id": "758ae1ea-6ce5-4ea7-a6a1-6fa023ad75d6",
+                    "platform": "Facebook",
+                    "post_url": "https://www.mcbride-warren.org/",
+                    "likes": 419,
+                    "comments": 30,
+                    "shares": 46,
+                    "reach": 4609
+                }
+            ],
+            "total_sales_attributed": 2892.25
+        }
+    ]
+}

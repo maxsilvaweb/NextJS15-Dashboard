@@ -1,0 +1,26 @@
+{
+    "user_id": "16a7cec3-1a80-4eb3-a34f-06aae8110ade",
+    "name": "Kelvin Lowe",
+    "email": "Rex.Mann-Carter@gmail.com",
+    "instagram_handle": "@Cleo69",
+    "tiktok_handle": "@Richie.Blanda19",
+    "joined_at": "2025-01-12T08:25:00.359Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f8cfc84b-d7b9-46bb-92ac-ad0cc9cffa04",
+            "brand": "Kris Group",
+            "tasks_completed": [
+                {
+                    "task_id": "e0d90c58-9424-453a-a3e2-a2b1ba1e3715",
+                    "platform": "TikTok",
+                    "post_url": "https://pitiful-confusion.biz",
+                    "likes": 460,
+                    "comments": 31,
+                    "shares": 83,
+                    "reach": 9093
+                }
+            ],
+            "total_sales_attributed": 4911.14832685748
+        }
+    ]
+}

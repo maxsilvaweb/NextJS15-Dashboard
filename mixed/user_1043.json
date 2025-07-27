@@ -1,0 +1,26 @@
+{
+    "user_id": "264ca923-09d9-4d07-b09c-521f3f8f7e7e",
+    "name": "Daniel Burns",
+    "email": "josephstein@example.org",
+    "instagram_handle": "@martinezkristina",
+    "tiktok_handle": "@powellstephen",
+    "joined_at": "2024-01-31T22:00:06.666129",
+    "advocacy_programs": [
+        {
+            "program_id": "783b9070-cb1c-4e2e-ab4d-c8c36bbfe6b0",
+            "brand": "Shields-Jarvis",
+            "tasks_completed": [
+                {
+                    "task_id": "e29df8f4-8608-478a-b325-39ab57e7385d",
+                    "platform": "TikTok",
+                    "post_url": "https://flawless-icebreaker.net",
+                    "likes": 996,
+                    "comments": 90,
+                    "shares": 55,
+                    "reach": 7728
+                }
+            ],
+            "total_sales_attributed": 7167.8
+        }
+    ]
+}

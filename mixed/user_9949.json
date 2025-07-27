@@ -1,0 +1,26 @@
+{
+    "user_id": "e65c3de1-e47d-4db6-aa03-7b68cff81009",
+    "name": "Misty Barnes",
+    "email": "tracey10@example.org",
+    "instagram_handle": "@natalie98",
+    "tiktok_handle": "@roy23",
+    "joined_at": "2024-07-10T09:17:01.875119",
+    "advocacy_programs": [
+        {
+            "program_id": "2a7ee558-b42a-49f7-8607-5e201f0ace34",
+            "brand": "Smith Group",
+            "tasks_completed": [
+                {
+                    "task_id": "da5fa013-5bdb-454d-86eb-679153546f01",
+                    "platform": "Facebook",
+                    "post_url": "http://www.dixon.com/",
+                    "likes": 304,
+                    "comments": 231,
+                    "shares": 56,
+                    "reach": 4883
+                }
+            ],
+            "total_sales_attributed": 4381.82
+        }
+    ]
+}

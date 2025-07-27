@@ -1,0 +1,26 @@
+{
+    "user_id": "9e4fb55b-746c-4929-af77-56d7b4001cff",
+    "name": "Emily Mueller",
+    "email": "emilycooper@example.net",
+    "instagram_handle": "@clayjessica",
+    "tiktok_handle": "@clarkmatthew",
+    "joined_at": "2024-02-19T08:17:02.806687",
+    "advocacy_programs": [
+        {
+            "program_id": "796ef6d6-157b-4a24-a2f2-da8dfafdb502",
+            "brand": "Davis-Moore",
+            "tasks_completed": [
+                {
+                    "task_id": "8b9ccba3-cb79-4745-9301-04ee9d127c18",
+                    "platform": "TikTok",
+                    "post_url": "https://proud-outrun.com/",
+                    "likes": 4628,
+                    "comments": 314,
+                    "shares": 89,
+                    "reach": 6544
+                }
+            ],
+            "total_sales_attributed": 547.68
+        }
+    ]
+}

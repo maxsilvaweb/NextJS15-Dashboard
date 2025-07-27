@@ -1,0 +1,26 @@
+{
+    "user_id": "ecc94ca5-2e5f-4d16-915f-1a8318ca7ae1",
+    "name": "Ashley Nicholson",
+    "email": "ann97@example.net",
+    "instagram_handle": "@joseph68",
+    "tiktok_handle": "@heather80",
+    "joined_at": "2023-12-21T20:08:42.127351",
+    "advocacy_programs": [
+        {
+            "program_id": "28732c49-188c-4233-9a7f-6491ac66d19d",
+            "brand": "Adkins-Anderson",
+            "tasks_completed": [
+                {
+                    "task_id": "bc804742-b903-46f3-86d1-b19cdf79f683",
+                    "platform": "Twitter",
+                    "post_url": "https://www.rogers.org/",
+                    "likes": 489,
+                    "comments": 28,
+                    "shares": 85,
+                    "reach": 7720
+                }
+            ],
+            "total_sales_attributed": 140.42
+        }
+    ]
+}

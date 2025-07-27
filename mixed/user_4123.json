@@ -1,0 +1,26 @@
+{
+    "user_id": "c527ec02-934e-4c2a-a851-c195e25bb7bc",
+    "name": "Alyssa Garner",
+    "email": "cindy38@example.com",
+    "instagram_handle": "@dylan61",
+    "tiktok_handle": "@donaldsoncharles",
+    "joined_at": "2023-10-24T17:31:11.429102",
+    "advocacy_programs": [
+        {
+            "program_id": "0e0a4485-9ab5-4aaf-8fdd-2a8744db9de2",
+            "brand": "Rice-Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "eb786825-ec58-4fa4-9bca-413efba5f835",
+                    "platform": "Facebook",
+                    "post_url": "https://sharp-acevedo.com/",
+                    "likes": 7652,
+                    "comments": 36,
+                    "shares": 40,
+                    "reach": 6440
+                }
+            ],
+            "total_sales_attributed": 3964.6947327429634
+        }
+    ]
+}

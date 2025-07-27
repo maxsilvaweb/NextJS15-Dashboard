@@ -1,0 +1,26 @@
+{
+    "user_id": "4ad05085-534e-4dc1-8820-9d1e5b62f504",
+    "name": "George Riddle",
+    "email": "ricemercedes@example.com",
+    "instagram_handle": "@suzannesmith",
+    "tiktok_handle": "@enicholson",
+    "joined_at": "2025-05-16T09:07:22.272209",
+    "advocacy_programs": [
+        {
+            "program_id": "e9fffa4b-4c4f-4327-841d-ef4efe60cfd5",
+            "brand": "Foster-Munoz",
+            "tasks_completed": [
+                {
+                    "task_id": "cdf85d4c-8cec-4f62-8121-43904f2618fe",
+                    "platform": "Facebook",
+                    "post_url": "http://www.lopez.com/",
+                    "likes": 390,
+                    "comments": 492,
+                    "shares": 56,
+                    "reach": 2192
+                }
+            ],
+            "total_sales_attributed": 1118.2066743785645
+        }
+    ]
+}

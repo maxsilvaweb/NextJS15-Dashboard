@@ -1,0 +1,26 @@
+{
+    "user_id": "aad9971f-d3d4-4b18-ad86-e96ce4fb33e3",
+    "name": "Carla Mccoy",
+    "email": "Hanna.DuBuque65@hotmail.com",
+    "instagram_handle": "@ogreen",
+    "tiktok_handle": "@amybowers",
+    "joined_at": "2023-11-17T14:05:50.400625",
+    "advocacy_programs": [
+        {
+            "program_id": "4ec45529-08c6-4a74-a5cc-3dcbdfdee2a3",
+            "brand": "King Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "668e6cd6-cb21-415d-ae00-86c96c894184",
+                    "platform": "TikTok",
+                    "post_url": "https://www.leon.info/",
+                    "likes": 9465,
+                    "comments": 325,
+                    "shares": 38,
+                    "reach": 7451
+                }
+            ],
+            "total_sales_attributed": 177.83
+        }
+    ]
+}

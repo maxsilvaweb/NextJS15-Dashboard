@@ -1,0 +1,26 @@
+{
+    "user_id": "d520f37d-18c7-4bc3-9a4b-781b3ec5dac6",
+    "name": "Terence Bernhard",
+    "email": "Josianne.Kihn22@gmail.com",
+    "instagram_handle": "@Berenice_Oberbrunner93",
+    "tiktok_handle": "@Eudora36",
+    "joined_at": "2024-12-19T07:56:26.403Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e1a81db9-c252-4206-9813-f7f7efccc7c3",
+            "brand": "Jenkins, Corwin and Herzog",
+            "tasks_completed": [
+                {
+                    "task_id": "4b052f3c-c3ad-4228-be1f-d96841dec089",
+                    "platform": "Instagram",
+                    "post_url": "https://ambitious-ecliptic.org/",
+                    "likes": 38,
+                    "comments": 33,
+                    "shares": 86,
+                    "reach": 7944
+                }
+            ],
+            "total_sales_attributed": 4905.703248975112
+        }
+    ]
+}

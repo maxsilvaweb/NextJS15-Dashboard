@@ -1,0 +1,26 @@
+{
+    "user_id": "0b982f41-4ba3-4052-acde-bb831b4d010a",
+    "name": "Brandon Wilson",
+    "email": "rebeccathomas@example.com",
+    "instagram_handle": "@hendersonjason",
+    "tiktok_handle": "@charles93",
+    "joined_at": "2024-10-29T03:22:02.495214",
+    "advocacy_programs": [
+        {
+            "program_id": "c3f3391a-401f-4311-9d72-a9d0fae73987",
+            "brand": "Collins-Horn",
+            "tasks_completed": [
+                {
+                    "task_id": "e89d6ae5-bc68-462a-b239-4c980db19326",
+                    "platform": "Twitter",
+                    "post_url": "https://www.rodriguez.com/",
+                    "likes": 1864,
+                    "comments": 17,
+                    "shares": 18,
+                    "reach": 6031
+                }
+            ],
+            "total_sales_attributed": 8794.18
+        }
+    ]
+}

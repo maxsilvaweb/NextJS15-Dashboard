@@ -1,0 +1,26 @@
+{
+    "user_id": "d0151599-0cd4-4305-a923-d249dec8b1ab",
+    "name": "Colleen Gray",
+    "email": "moodydawn@example.net",
+    "instagram_handle": "@dianascott",
+    "tiktok_handle": "@dvargas",
+    "joined_at": "2024-02-24T16:23:40.958050",
+    "advocacy_programs": [
+        {
+            "program_id": "bf17eaac-d83e-4250-ae2a-bcae59625b7e",
+            "brand": "Sanchez Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "6aed0592-89e9-4d2b-b7fb-a40a0b792676",
+                    "platform": "TikTok",
+                    "post_url": "http://www.harris-charles.com/",
+                    "likes": 8424,
+                    "comments": 20,
+                    "shares": 43,
+                    "reach": 5071
+                }
+            ],
+            "total_sales_attributed": 486.9212302305932
+        }
+    ]
+}

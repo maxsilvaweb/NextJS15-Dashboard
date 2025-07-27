@@ -1,0 +1,26 @@
+{
+    "user_id": "66321148-6ae0-42ab-b6ed-98a3fec50c71",
+    "name": "Daniel Lucero",
+    "email": "herbertwilson@example.com",
+    "instagram_handle": "@jeffery82",
+    "tiktok_handle": "@rothshelley",
+    "joined_at": "2025-04-09T16:20:43.195250",
+    "advocacy_programs": [
+        {
+            "program_id": "849164e5-0b85-43f5-b0eb-c20a37151aa4",
+            "brand": "Morse, Martinez and Roach",
+            "tasks_completed": [
+                {
+                    "task_id": "fb7740c6-feb1-48a8-b59e-9ea1758cede7",
+                    "platform": "TikTok",
+                    "post_url": "https://only-bran.info/",
+                    "likes": 9279,
+                    "comments": 296,
+                    "shares": 48,
+                    "reach": 8909
+                }
+            ],
+            "total_sales_attributed": 2998.68
+        }
+    ]
+}

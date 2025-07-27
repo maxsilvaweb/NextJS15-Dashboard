@@ -1,0 +1,26 @@
+{
+    "user_id": "467325ec-da90-4060-a285-738dace91aff",
+    "name": "Ms. Robin DuBuque",
+    "email": "Tamia.Glover63@gmail.com",
+    "instagram_handle": "@Bulah.Kertzmann",
+    "tiktok_handle": "@Ricky_Franecki",
+    "joined_at": "2024-12-22T08:09:30.170Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f6f4823e-70ba-4f88-83e4-eb2970c91d4b",
+            "brand": "Hudson, Brown and King",
+            "tasks_completed": [
+                {
+                    "task_id": "6f5882f2-ae43-4bae-90c8-19d37c013793",
+                    "platform": "Instagram",
+                    "post_url": "https://straight-cardboard.net/",
+                    "likes": 111,
+                    "comments": 39,
+                    "shares": 65,
+                    "reach": 4237
+                }
+            ],
+            "total_sales_attributed": 740.8612118879797
+        }
+    ]
+}

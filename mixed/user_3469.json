@@ -1,0 +1,26 @@
+{
+    "user_id": "890b9d0b-a07e-4984-a241-748a895018bc",
+    "name": "Tony Zulauf",
+    "email": "Eulah_Cassin16@hotmail.com",
+    "instagram_handle": "@Dimitri93",
+    "tiktok_handle": "@Angie_Koss22",
+    "joined_at": "2024-06-05T02:40:17.173Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c2f396d5-e30e-4378-9639-d8809644bd6d",
+            "brand": "Feest - Littel",
+            "tasks_completed": [
+                {
+                    "task_id": "fa929f40-415e-4205-908f-b6b281e663d1",
+                    "platform": "Instagram",
+                    "post_url": "https://impeccable-soliloquy.name/",
+                    "likes": 412,
+                    "comments": 14,
+                    "shares": 100,
+                    "reach": 4553
+                }
+            ],
+            "total_sales_attributed": 3822.8924241949467
+        }
+    ]
+}

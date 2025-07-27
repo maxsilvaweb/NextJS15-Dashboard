@@ -1,0 +1,26 @@
+{
+    "user_id": "47d0a044-4c71-4316-9b0d-0709c0588be3",
+    "name": "Sonya Mckinney",
+    "email": "tom57@example.org",
+    "instagram_handle": "@smithsara",
+    "tiktok_handle": "@scastaneda",
+    "joined_at": "2025-04-22T17:13:30.018491",
+    "advocacy_programs": [
+        {
+            "program_id": "488998f2-2256-4397-9696-736e05adcb81",
+            "brand": "Jenkins, Sampson and Mcneil",
+            "tasks_completed": [
+                {
+                    "task_id": "b959d1b5-0911-4754-ae3b-feee224b0d06",
+                    "platform": "Instagram",
+                    "post_url": "https://www.garcia.com/",
+                    "likes": 9404,
+                    "comments": 199,
+                    "shares": 82,
+                    "reach": 4000
+                }
+            ],
+            "total_sales_attributed": 4788.06732002684
+        }
+    ]
+}

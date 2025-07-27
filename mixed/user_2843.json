@@ -1,0 +1,26 @@
+{
+    "user_id": "ef70e3db-e5c5-45e1-b31f-496e5189d278",
+    "name": "Jennifer Fox",
+    "email": "johnroberts@example.com",
+    "instagram_handle": "@michelle01",
+    "tiktok_handle": "@amclean",
+    "joined_at": "2025-04-20T09:56:25.525080",
+    "advocacy_programs": [
+        {
+            "program_id": "9d9b51e8-dbac-44af-b855-8b10c7babbdd",
+            "brand": "Brown, Hughes and Savage",
+            "tasks_completed": [
+                {
+                    "task_id": "76cf61b2-aa42-4282-8dcc-c60e69435ac9",
+                    "platform": "Facebook",
+                    "post_url": "http://torres-young.com/",
+                    "likes": 8444,
+                    "comments": 179,
+                    "shares": 21,
+                    "reach": 9193
+                }
+            ],
+            "total_sales_attributed": 6590.83
+        }
+    ]
+}

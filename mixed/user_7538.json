@@ -1,0 +1,26 @@
+{
+    "user_id": "bff30b3a-5ba6-45e1-bb7a-49b5aba63f69",
+    "name": "Vincent Hinton",
+    "email": "lsmith@example.com",
+    "instagram_handle": "@ronaldspears",
+    "tiktok_handle": "@katherine86",
+    "joined_at": "2024-01-26T07:28:11.799226",
+    "advocacy_programs": [
+        {
+            "program_id": "8c43944a-cd97-4a17-8dae-afcd6038defe",
+            "brand": "Coleman-Fletcher",
+            "tasks_completed": [
+                {
+                    "task_id": "6363977e-6853-4bf8-9ddf-0cd3daf3ced5",
+                    "platform": "TikTok",
+                    "post_url": "http://thompson-hoffman.biz/",
+                    "likes": 3821,
+                    "comments": 103,
+                    "shares": 19,
+                    "reach": 3615
+                }
+            ],
+            "total_sales_attributed": 8454.99
+        }
+    ]
+}

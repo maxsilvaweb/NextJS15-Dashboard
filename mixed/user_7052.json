@@ -1,0 +1,26 @@
+{
+    "user_id": "bf452cd2-52f6-431d-bd1d-05af1a5dd0aa",
+    "name": "Heather Duffy",
+    "email": "bradleydonna@example.com",
+    "instagram_handle": "@spowell",
+    "tiktok_handle": "@rclark",
+    "joined_at": "2023-08-22T10:53:41.650812",
+    "advocacy_programs": [
+        {
+            "program_id": "ef9d3f55-9d22-4ebd-b1d7-0bf8fed43f5a",
+            "brand": "Porter-Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "b2dacba9-99ec-4f9b-93c3-6a163df956e9",
+                    "platform": "YouTube",
+                    "post_url": "http://rodriguez-george.net/",
+                    "likes": 52,
+                    "comments": 30,
+                    "shares": 17,
+                    "reach": 7304
+                }
+            ],
+            "total_sales_attributed": 5338.16
+        }
+    ]
+}

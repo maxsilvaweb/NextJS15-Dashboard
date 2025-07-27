@@ -1,0 +1,26 @@
+{
+    "user_id": "70afde91-c1df-4f77-b094-15912125db5a",
+    "name": "Linda Hernandez",
+    "email": "meyerjenna@example.net",
+    "instagram_handle": "@perrybrandi",
+    "tiktok_handle": "@gilbertjason",
+    "joined_at": "2025-07-22T10:37:02.701998",
+    "advocacy_programs": [
+        {
+            "program_id": "a5e9c2a7-3371-4fb3-a885-9fb4424f1e9a",
+            "brand": "Church, Suarez and Valdez",
+            "tasks_completed": [
+                {
+                    "task_id": "f2e33b9e-1109-4f2d-8eff-c040e12d57d6",
+                    "platform": "Twitter",
+                    "post_url": "https://thorough-swanling.name",
+                    "likes": 6444,
+                    "comments": 4,
+                    "shares": 68,
+                    "reach": 2605
+                }
+            ],
+            "total_sales_attributed": 118.61
+        }
+    ]
+}

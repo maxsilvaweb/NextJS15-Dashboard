@@ -1,0 +1,26 @@
+{
+    "user_id": "82038769-213e-47de-a881-0cc64b7ed209",
+    "name": "Tommy Robles",
+    "email": "jacob37@example.com",
+    "instagram_handle": "@Emerald44",
+    "tiktok_handle": "@Eino83",
+    "joined_at": "2024-09-13T14:10:54.622956",
+    "advocacy_programs": [
+        {
+            "program_id": "9c851fb6-8b27-4069-b481-38db384e8ac3",
+            "brand": "Parrish, Taylor and Green",
+            "tasks_completed": [
+                {
+                    "task_id": "ed2b4d99-0d7c-4505-906b-ab062a8401ef",
+                    "platform": "Instagram",
+                    "post_url": "https://www.harper.org/",
+                    "likes": 140,
+                    "comments": 340,
+                    "shares": 76,
+                    "reach": 9281
+                }
+            ],
+            "total_sales_attributed": 1141.27
+        }
+    ]
+}

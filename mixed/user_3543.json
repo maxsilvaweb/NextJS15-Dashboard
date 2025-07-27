@@ -1,0 +1,26 @@
+{
+    "user_id": "c00bb7e9-1a17-4eec-86a8-79237bec20f3",
+    "name": "Jeffery Malone",
+    "email": "alyssawarren@example.net",
+    "instagram_handle": "@rodriguezkimberly",
+    "tiktok_handle": "@jessicaclark",
+    "joined_at": "2024-09-10T14:28:09.954425",
+    "advocacy_programs": [
+        {
+            "program_id": "e936a9aa-db64-4a9f-9900-0c45eb425e2f",
+            "brand": "Leach, Wood and Lucas",
+            "tasks_completed": [
+                {
+                    "task_id": "52edd023-d91e-4d88-8a7d-23231d51c673",
+                    "platform": "Facebook",
+                    "post_url": "http://www.mcintosh-anderson.biz/",
+                    "likes": 9808,
+                    "comments": 27,
+                    "shares": 57,
+                    "reach": 3943
+                }
+            ],
+            "total_sales_attributed": 466.1876067478648
+        }
+    ]
+}

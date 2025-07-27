@@ -1,0 +1,26 @@
+{
+    "user_id": "2a71536e-5e1f-4142-8e9f-6538991e0ee5",
+    "name": "Jake Daniel",
+    "email": "Forrest.Jaskolski@yahoo.com",
+    "instagram_handle": "@Gabriella_Jakubowski30",
+    "tiktok_handle": "@Domingo_Moore72",
+    "joined_at": "2024-12-22T00:45:04.653Z",
+    "advocacy_programs": [
+        {
+            "program_id": "aa0e7ab7-5e18-4450-9cc5-2535bf2a4308",
+            "brand": "McCullough and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "b8c5eb81-28b3-434b-bd9f-2ee2053934fd",
+                    "platform": "Instagram",
+                    "post_url": "https://forceful-marathon.name",
+                    "likes": 223,
+                    "comments": 2,
+                    "shares": 51,
+                    "reach": 5124
+                }
+            ],
+            "total_sales_attributed": 3053.513464598282
+        }
+    ]
+}

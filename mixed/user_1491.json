@@ -1,0 +1,26 @@
+{
+    "user_id": "07b4429a-a461-4757-9d85-eee41def69af",
+    "name": "Bridget Simon",
+    "email": "luis50@example.net",
+    "instagram_handle": "@sarah02",
+    "tiktok_handle": "@nwilson",
+    "joined_at": "2023-08-27T16:59:37.969490",
+    "advocacy_programs": [
+        {
+            "program_id": "ad32b59a-5e58-4806-9fe8-5d8013f1dd7b",
+            "brand": "Wood Group",
+            "tasks_completed": [
+                {
+                    "task_id": "e736318e-a99c-4a5f-9c5e-4d04ad23b5d2",
+                    "platform": "Instagram",
+                    "post_url": "https://maxwell-daniels.net/",
+                    "likes": 7468,
+                    "comments": 405,
+                    "shares": 37,
+                    "reach": 7469
+                }
+            ],
+            "total_sales_attributed": 7662.62
+        }
+    ]
+}

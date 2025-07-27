@@ -1,0 +1,26 @@
+{
+    "user_id": "20671522-bda5-4a41-81bb-4eaea4eaff74",
+    "name": "Rolando Dach",
+    "email": "Isaias94@hotmail.com",
+    "instagram_handle": "@Americo_Hintz",
+    "tiktok_handle": "@Mackenzie.Kunde",
+    "joined_at": "2024-05-20T09:58:51.596Z",
+    "advocacy_programs": [
+        {
+            "program_id": "942facd7-9920-4f96-b854-a9db69c0266e",
+            "brand": "McClure - Lind",
+            "tasks_completed": [
+                {
+                    "task_id": "ee015fae-6587-4f65-b2cc-94947ae31a92",
+                    "platform": "Instagram",
+                    "post_url": "https://stable-hygienic.org",
+                    "likes": 489,
+                    "comments": 2,
+                    "shares": 59,
+                    "reach": 3817
+                }
+            ],
+            "total_sales_attributed": 338.621029531777
+        }
+    ]
+}

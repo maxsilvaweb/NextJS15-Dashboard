@@ -1,0 +1,26 @@
+{
+    "user_id": "cab32e6b-4781-4057-a575-a3d3986ae6b1",
+    "name": "Emily Lewis",
+    "email": "patricia99@example.net",
+    "instagram_handle": "@hparker",
+    "tiktok_handle": "@Jessie_Von31",
+    "joined_at": "2024-11-24T23:47:46.048820",
+    "advocacy_programs": [
+        {
+            "program_id": "44e6e9e0-a08d-43e8-9979-6b30b14c4ced",
+            "brand": "Powers, Duran and Rhodes",
+            "tasks_completed": [
+                {
+                    "task_id": "c7938a9a-ffa2-484c-a907-ae87eff27d6a",
+                    "platform": "TikTok",
+                    "post_url": "http://www.green.org/",
+                    "likes": 8059,
+                    "comments": 343,
+                    "shares": 73,
+                    "reach": 6319
+                }
+            ],
+            "total_sales_attributed": 3785.7
+        }
+    ]
+}

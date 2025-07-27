@@ -1,0 +1,26 @@
+{
+    "user_id": "c74df531-eac8-4854-bfca-db4e906bae32",
+    "name": "George Arnold",
+    "email": "michellegreen@example.org",
+    "instagram_handle": "@millerjeremy",
+    "tiktok_handle": "@sjohnson",
+    "joined_at": "2025-03-30T19:42:39.664527",
+    "advocacy_programs": [
+        {
+            "program_id": "45d13e88-e135-4c26-ace2-dd30f6710083",
+            "brand": "Moses-Mitchell",
+            "tasks_completed": [
+                {
+                    "task_id": "c813a605-65c5-4477-a10e-ad5c1c6f13d8",
+                    "platform": "Twitter",
+                    "post_url": "https://lovely-lace.org/",
+                    "likes": 5207,
+                    "comments": 24,
+                    "shares": 4,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 1082.21
+        }
+    ]
+}

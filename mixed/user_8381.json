@@ -1,0 +1,26 @@
+{
+    "user_id": "7ef501e8-d647-4640-9175-4632e7985394",
+    "name": "Tyler Torphy",
+    "email": "Alysa.Franecki92@gmail.com",
+    "instagram_handle": "@Sammie_Koelpin2",
+    "tiktok_handle": "@Florencio_Prosacco20",
+    "joined_at": "2024-07-28T13:04:41.064Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e87118ce-3658-48c2-866f-b3173019d370",
+            "brand": "Padberg Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "028780a4-aeb1-44d6-bb2b-c9b41b5c2ace",
+                    "platform": "Instagram",
+                    "post_url": "https://pink-instruction.com/",
+                    "likes": 253,
+                    "comments": 16,
+                    "shares": 66,
+                    "reach": 6260
+                }
+            ],
+            "total_sales_attributed": 1895.8687433517994
+        }
+    ]
+}

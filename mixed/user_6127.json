@@ -1,0 +1,26 @@
+{
+    "user_id": "f40379e0-ec3b-43ea-b5b8-889c520e0a8b",
+    "name": "Dr. Sophie Corkery",
+    "email": "Bernice_Glover@yahoo.com",
+    "instagram_handle": "@Arnold.Legros75",
+    "tiktok_handle": "@Treva_Wyman1",
+    "joined_at": "2024-05-17T13:37:41.053Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a5549fea-3ff7-43f8-9468-e0fb4cb9294f",
+            "brand": "Greenholt, Muller and Breitenberg",
+            "tasks_completed": [
+                {
+                    "task_id": "133480fd-2bb7-4a8c-b39e-1e17c3418b5c",
+                    "platform": "Instagram",
+                    "post_url": "https://mundane-platypus.org/",
+                    "likes": 116,
+                    "comments": 32,
+                    "shares": 100,
+                    "reach": 1294
+                }
+            ],
+            "total_sales_attributed": 1817.7193549212086
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a91ad353-8048-49c6-87c4-a273dc6e0c0f",
+    "name": "Heather Abbott DDS",
+    "email": "Clyde.Bartoletti98@gmail.com",
+    "instagram_handle": "@Elsie42",
+    "tiktok_handle": "@Rosalia_Kuhic57",
+    "joined_at": "2024-08-31T00:34:05.713Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9d0a6c64-3755-437c-b78f-f9f7697a3248",
+            "brand": "Rogahn LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "36e44ec4-608e-41b8-8720-c10d86bb3e34",
+                    "platform": "TikTok",
+                    "post_url": "https://bogus-haversack.name/",
+                    "likes": 386,
+                    "comments": 33,
+                    "shares": 19,
+                    "reach": 6148
+                }
+            ],
+            "total_sales_attributed": 1806.926167063468
+        }
+    ]
+}

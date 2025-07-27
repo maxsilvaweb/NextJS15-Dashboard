@@ -1,0 +1,26 @@
+{
+    "user_id": "df688369-c28f-4bad-8ed6-753ba944bb3f",
+    "name": "Shaun Hamilton",
+    "email": "melaniepotts@example.com",
+    "instagram_handle": "@carrie14",
+    "tiktok_handle": "@curtisfriedman",
+    "joined_at": "2025-06-26T20:40:48.056162",
+    "advocacy_programs": [
+        {
+            "program_id": "85b99546-9493-4e56-993d-7aecdd0db523",
+            "brand": "Figueroa-Cook",
+            "tasks_completed": [
+                {
+                    "task_id": "125b7dcc-d06f-47cd-b4bb-50ed17f712e4",
+                    "platform": "TikTok",
+                    "post_url": "http://bass.com/",
+                    "likes": 997,
+                    "comments": 408,
+                    "shares": 71,
+                    "reach": 4008
+                }
+            ],
+            "total_sales_attributed": 6449.34
+        }
+    ]
+}

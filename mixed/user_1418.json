@@ -1,0 +1,26 @@
+{
+    "user_id": "f1178d19-15f7-4726-8a2c-8d9ebe415978",
+    "name": "Rebecca Smith",
+    "email": "Velda_Tromp@gmail.com",
+    "instagram_handle": "@wford",
+    "tiktok_handle": "@lewisjames",
+    "joined_at": "2025-04-24T08:49:55.192984",
+    "advocacy_programs": [
+        {
+            "program_id": "d066240c-2137-44da-9922-165a10e6a859",
+            "brand": "Lucas, Mathews and Marshall",
+            "tasks_completed": [
+                {
+                    "task_id": "d3816245-ae44-4e71-9cdc-054e563baa5c",
+                    "platform": "Instagram",
+                    "post_url": "https://lopez-mcdonald.com/",
+                    "likes": 9010,
+                    "comments": 35,
+                    "shares": 51,
+                    "reach": 3445
+                }
+            ],
+            "total_sales_attributed": 2473.08
+        }
+    ]
+}

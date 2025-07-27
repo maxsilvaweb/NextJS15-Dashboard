@@ -1,0 +1,26 @@
+{
+    "user_id": "fa3eeae4-c59c-4424-a341-6e47ed74f48f",
+    "name": "Christopher West",
+    "email": "dbryant@example.com",
+    "instagram_handle": "@lisagarcia",
+    "tiktok_handle": "@karenpace",
+    "joined_at": "2024-11-23T13:56:58.232815",
+    "advocacy_programs": [
+        {
+            "program_id": "0895a7eb-e3e5-4b7e-bc22-377b6e9d8e01",
+            "brand": "Armstrong, Stevens and Malone",
+            "tasks_completed": [
+                {
+                    "task_id": "4a202753-cca9-48b0-9cff-8fdaa5bc643c",
+                    "platform": "Facebook",
+                    "post_url": "http://mann.net/",
+                    "likes": 2120,
+                    "comments": 64,
+                    "shares": 17,
+                    "reach": 1594
+                }
+            ],
+            "total_sales_attributed": 4999.62
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "bc53cbeb-3164-4091-93c8-840370ca5205",
+    "name": "Heather Mitchell",
+    "email": "iwalker@example.net",
+    "instagram_handle": "@amanda68",
+    "tiktok_handle": "@barberhelen",
+    "joined_at": "2024-06-20T18:01:23.640882",
+    "advocacy_programs": [
+        {
+            "program_id": "b8ba8343-9897-435e-b9df-25941e8576d1",
+            "brand": "Monroe Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "05d828df-adf1-41bf-aaec-798573b5f8d8",
+                    "platform": "TikTok",
+                    "post_url": "https://www.hunter.com/",
+                    "likes": 9068,
+                    "comments": 0,
+                    "shares": 74,
+                    "reach": 2711
+                }
+            ],
+            "total_sales_attributed": 800.766675563208
+        }
+    ]
+}

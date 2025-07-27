@@ -1,0 +1,26 @@
+{
+    "user_id": "a07b7d28-fe9b-4b67-b201-630f31f81abf",
+    "name": "Sydney Cohen",
+    "email": "fieldscody@example.net",
+    "instagram_handle": "@brenttaylor",
+    "tiktok_handle": "@hillnicholas",
+    "joined_at": "2025-02-17T04:56:45.782Z",
+    "advocacy_programs": [
+        {
+            "program_id": "87506d92-5188-49a4-8d87-4dbbc021e45d",
+            "brand": "Long PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "3d31ce42-4d1d-4e02-880e-16d4909eb829",
+                    "platform": "Instagram",
+                    "post_url": "https://flimsy-peony.biz",
+                    "likes": 3575,
+                    "comments": 72,
+                    "shares": 19,
+                    "reach": 4130
+                }
+            ],
+            "total_sales_attributed": 2047.62
+        }
+    ]
+}

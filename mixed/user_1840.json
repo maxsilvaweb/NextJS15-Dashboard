@@ -1,0 +1,26 @@
+{
+    "user_id": "f5770b20-c935-4864-bcbc-fb3c89e976e7",
+    "name": "Ryan Benton",
+    "email": "beckmikayla@example.org",
+    "instagram_handle": "@joshuadavis",
+    "tiktok_handle": "@jason81",
+    "joined_at": "2024-12-07T14:30:51.604231",
+    "advocacy_programs": [
+        {
+            "program_id": "126fbb99-1c58-4b72-8614-4b365b66694d",
+            "brand": "Block LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "d4c0ee4c-3e85-470b-b0b9-3cdc6d391dc2",
+                    "platform": "Facebook",
+                    "post_url": "http://www.clark.biz/",
+                    "likes": 8206,
+                    "comments": 17,
+                    "shares": 21,
+                    "reach": 5596
+                }
+            ],
+            "total_sales_attributed": 2635.52
+        }
+    ]
+}

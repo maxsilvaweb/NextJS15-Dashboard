@@ -1,0 +1,26 @@
+{
+    "user_id": "9e5a68ff-f0c0-47f8-b4e4-91e0dd06a32f",
+    "name": "Nicolas Nienow",
+    "email": "Ora71@yahoo.com",
+    "instagram_handle": "@Grady.Keebler33",
+    "tiktok_handle": "@Jonas_Kautzer",
+    "joined_at": "2025-02-26T09:38:38.446Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ae7affda-625d-4ac8-a9fe-14a611690f3e",
+            "brand": "Parker - Rath",
+            "tasks_completed": [
+                {
+                    "task_id": "be133d0f-b938-4488-93d5-459f899c6414",
+                    "platform": "TikTok",
+                    "post_url": "https://neat-maestro.org/",
+                    "likes": 435,
+                    "comments": 9,
+                    "shares": 15,
+                    "reach": 7019
+                }
+            ],
+            "total_sales_attributed": 2807.9820177767965
+        }
+    ]
+}

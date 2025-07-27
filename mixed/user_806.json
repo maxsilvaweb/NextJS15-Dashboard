@@ -1,0 +1,26 @@
+{
+    "user_id": "2fbc2fd1-b286-4f03-bf46-7e05cb1073f8",
+    "name": "Susan Carlson",
+    "email": "jamesholmes@example.org",
+    "instagram_handle": "@xcarter",
+    "tiktok_handle": "@Alford99",
+    "joined_at": "2023-12-07T13:46:15.701442",
+    "advocacy_programs": [
+        {
+            "program_id": "e029b8e2-6f3f-49f2-ae57-f2b78097e76b",
+            "brand": "Klocko, Rowe and Kub",
+            "tasks_completed": [
+                {
+                    "task_id": "7de2be5a-7e8f-4869-aa2c-717e350e9201",
+                    "platform": "Instagram",
+                    "post_url": "http://park-alvarez.com/",
+                    "likes": 8824,
+                    "comments": 182,
+                    "shares": 8,
+                    "reach": 5382
+                }
+            ],
+            "total_sales_attributed": 7797.86
+        }
+    ]
+}

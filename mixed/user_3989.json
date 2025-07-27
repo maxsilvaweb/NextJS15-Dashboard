@@ -1,0 +1,26 @@
+{
+    "user_id": "f6db31bf-1790-44dd-a258-99e968074359",
+    "name": "Vincent Altenwerth",
+    "email": "Alberta98@yahoo.com",
+    "instagram_handle": "@Erwin36",
+    "tiktok_handle": "@Rey39",
+    "joined_at": "2024-05-11T16:54:05.764Z",
+    "advocacy_programs": [
+        {
+            "program_id": "66bf8b87-4e6c-4e6e-99db-2331c88c9569",
+            "brand": "Ebert, Robel and Fisher",
+            "tasks_completed": [
+                {
+                    "task_id": "3c7e4458-94d0-4fae-b8c4-77dca3a3156f",
+                    "platform": "TikTok",
+                    "post_url": "https://severe-newsletter.biz/",
+                    "likes": 96,
+                    "comments": 11,
+                    "shares": 51,
+                    "reach": 1449
+                }
+            ],
+            "total_sales_attributed": 4813.436665335237
+        }
+    ]
+}

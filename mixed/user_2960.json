@@ -1,0 +1,26 @@
+{
+    "user_id": "6d46b1d8-4026-4898-8bae-92836eafc0c0",
+    "name": "Deborah Mcgrath",
+    "email": "hayleypatton@example.net",
+    "instagram_handle": "@wilkersonmichele",
+    "tiktok_handle": "@jackieballard",
+    "joined_at": "2024-05-10T21:43:14.569149",
+    "advocacy_programs": [
+        {
+            "program_id": "1c2a4d3a-e83e-427a-ab22-dbeaf9694666",
+            "brand": "Cortez, Harris and Harper",
+            "tasks_completed": [
+                {
+                    "task_id": "d020c742-e000-4b53-9a9b-ba56b100e7f4",
+                    "platform": "TikTok",
+                    "post_url": "https://www.nelson.com/",
+                    "likes": 1591,
+                    "comments": 489,
+                    "shares": 16,
+                    "reach": 580
+                }
+            ],
+            "total_sales_attributed": 6180.59
+        }
+    ]
+}

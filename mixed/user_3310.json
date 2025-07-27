@@ -1,0 +1,26 @@
+{
+    "user_id": "f70c86ce-700f-43ed-91a6-940123c844f6",
+    "name": "Robin Hernandez",
+    "email": "calvin96@example.org",
+    "instagram_handle": "@phillip30",
+    "tiktok_handle": "@gomezryan",
+    "joined_at": "2024-01-12T13:03:07.368867",
+    "advocacy_programs": [
+        {
+            "program_id": "4ed14689-bde4-496f-9012-a1032b3f7c7b",
+            "brand": "Mccarthy, Mullins and Kennedy",
+            "tasks_completed": [
+                {
+                    "task_id": "4fcfa096-9077-467d-9a2d-661b997481fe",
+                    "platform": "Instagram",
+                    "post_url": "https://www.fernandez.biz/",
+                    "likes": 2275,
+                    "comments": 465,
+                    "shares": 6,
+                    "reach": 2228
+                }
+            ],
+            "total_sales_attributed": 1773.925979688669
+        }
+    ]
+}

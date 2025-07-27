@@ -1,0 +1,26 @@
+{
+    "user_id": "f74996ad-28c7-4f65-8a7c-1161ff98a601",
+    "name": "Jon Marsh",
+    "email": "isaacbauer@example.com",
+    "instagram_handle": "@sbradford",
+    "tiktok_handle": "@brooke62",
+    "joined_at": "2023-08-24T01:32:19.171655",
+    "advocacy_programs": [
+        {
+            "program_id": "ade68966-e16a-4bd5-abbf-0c3db8bca9cb",
+            "brand": "Chapman-Middleton",
+            "tasks_completed": [
+                {
+                    "task_id": "c6023c40-8ced-4107-a7cf-311c9e7652e2",
+                    "platform": "Twitter",
+                    "post_url": "https://sexton-mckenzie.info/",
+                    "likes": 2435,
+                    "comments": 24,
+                    "shares": 16,
+                    "reach": 2818
+                }
+            ],
+            "total_sales_attributed": 5099.11
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a1ccee7c-9729-45e1-a0bc-4124f38c7aeb",
+    "name": "William Taylor",
+    "email": "darrell54@example.com",
+    "instagram_handle": "@masonhale",
+    "tiktok_handle": "@ashley62",
+    "joined_at": "2023-08-29T11:25:42.418807",
+    "advocacy_programs": [
+        {
+            "program_id": "d091bd86-138d-48ff-a94d-911b3a154303",
+            "brand": "Hernandez-Schneider",
+            "tasks_completed": [
+                {
+                    "task_id": "b45be3ad-4a32-49ef-99c3-00b2ab4ceda3",
+                    "platform": "TikTok",
+                    "post_url": "https://wrathful-foodstuffs.net",
+                    "likes": 9918,
+                    "comments": 142,
+                    "shares": 61,
+                    "reach": 9365
+                }
+            ],
+            "total_sales_attributed": 3917.4662541342495
+        }
+    ]
+}

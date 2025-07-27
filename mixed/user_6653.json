@@ -1,0 +1,26 @@
+{
+    "user_id": "99d669c7-8239-4d46-a31d-bed4eabed0b8",
+    "name": "Derek Walker",
+    "email": "christopher65@example.com",
+    "instagram_handle": "@adambarton",
+    "tiktok_handle": "@stevensdevin",
+    "joined_at": "2023-12-17T06:18:55.951205",
+    "advocacy_programs": [
+        {
+            "program_id": "f5825048-2656-4822-9d2b-0bde07b63271",
+            "brand": "Sanchez-Hanson",
+            "tasks_completed": [
+                {
+                    "task_id": "bfe2fb67-ba61-4e1d-ae10-ed399cd6c003",
+                    "platform": "TikTok",
+                    "post_url": "https://walls-smith.com/",
+                    "likes": 2740,
+                    "comments": 261,
+                    "shares": 17,
+                    "reach": 8256
+                }
+            ],
+            "total_sales_attributed": 4692.76
+        }
+    ]
+}

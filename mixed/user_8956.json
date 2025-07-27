@@ -1,0 +1,26 @@
+{
+    "user_id": "8b10afde-1d93-4f56-a1ce-709f2dc8b838",
+    "name": "Dr. Alberto Sawayn II",
+    "email": "Marianna_Schuppe9@gmail.com",
+    "instagram_handle": "@Alison.Nienow",
+    "tiktok_handle": "@Blanca.Rodriguez82",
+    "joined_at": "2024-07-24T18:03:21.677Z",
+    "advocacy_programs": [
+        {
+            "program_id": "af4d35ec-a8f7-4a64-be93-85b5e1fd45da",
+            "brand": "Larkin, Windler and Reinger",
+            "tasks_completed": [
+                {
+                    "task_id": "5d3ece9f-5cce-4ee6-b155-1b90c38bd4c4",
+                    "platform": "TikTok",
+                    "post_url": "https://homely-tooth.info/",
+                    "likes": 65,
+                    "comments": 39,
+                    "shares": 28,
+                    "reach": 6456
+                }
+            ],
+            "total_sales_attributed": 4093.3139367007097
+        }
+    ]
+}

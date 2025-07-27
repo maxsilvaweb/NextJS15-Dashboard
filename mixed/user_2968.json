@@ -1,0 +1,26 @@
+{
+    "user_id": "2020928b-f903-41f3-8faf-fef0cabfb147",
+    "name": "Stephen Aguilar",
+    "email": "Antonette.Gusikowski@yahoo.com",
+    "instagram_handle": "@Yadira49",
+    "tiktok_handle": "@william51",
+    "joined_at": "2024-06-29T05:41:52.886222",
+    "advocacy_programs": [
+        {
+            "program_id": "f4745883-f533-4ec1-a25a-7e8dec914927",
+            "brand": "Krause Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "69e9fef3-b524-435c-903a-e305e34fe5dd",
+                    "platform": "TikTok",
+                    "post_url": "https://www.gonzalez.com/",
+                    "likes": 3585,
+                    "comments": 447,
+                    "shares": 23,
+                    "reach": 9748
+                }
+            ],
+            "total_sales_attributed": 7267.23
+        }
+    ]
+}

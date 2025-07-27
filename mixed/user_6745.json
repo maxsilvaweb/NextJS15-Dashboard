@@ -1,0 +1,26 @@
+{
+    "user_id": "f463983a-1a27-48e5-8ac1-7168e3ab9a03",
+    "name": "James Morris",
+    "email": "denise57@example.org",
+    "instagram_handle": "@natalieclark",
+    "tiktok_handle": "@joshuadoyle",
+    "joined_at": "2024-12-22T04:08:20.152046",
+    "advocacy_programs": [
+        {
+            "program_id": "e732fe84-d8c5-4fd2-9d1b-b7872bf6989a",
+            "brand": "Nguyen-Hayes",
+            "tasks_completed": [
+                {
+                    "task_id": "efc65721-b319-4974-957e-8762139e3d27",
+                    "platform": "TikTok",
+                    "post_url": "https://williams.net/",
+                    "likes": 3698,
+                    "comments": 211,
+                    "shares": 95,
+                    "reach": 9038
+                }
+            ],
+            "total_sales_attributed": 9073.08
+        }
+    ]
+}

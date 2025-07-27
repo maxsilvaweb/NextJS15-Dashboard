@@ -1,0 +1,26 @@
+{
+    "user_id": "3c16f03b-07b4-4261-a93d-b1ea59da4d29",
+    "name": "Kathleen Muller",
+    "email": "Adonis49@yahoo.com",
+    "instagram_handle": "@Christine83",
+    "tiktok_handle": "@Clair.Kuphal",
+    "joined_at": "2025-01-13T18:52:30.810Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0b9af81f-3571-4ec2-b861-ba1a5292b777",
+            "brand": "Boyle, Swift and Bauch",
+            "tasks_completed": [
+                {
+                    "task_id": "dbde9687-44a8-45da-8269-08450f797cac",
+                    "platform": "TikTok",
+                    "post_url": "https://indolent-rawhide.org",
+                    "likes": 199,
+                    "comments": 16,
+                    "shares": 58,
+                    "reach": 5650
+                }
+            ],
+            "total_sales_attributed": 1952.6355377219315
+        }
+    ]
+}

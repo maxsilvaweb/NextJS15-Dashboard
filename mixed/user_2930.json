@@ -1,0 +1,26 @@
+{
+    "user_id": "5fd1c913-1beb-4e67-ab8b-49fb56577ae1",
+    "name": "Katie Galloway",
+    "email": "mcguirematthew@example.com",
+    "instagram_handle": "@pkennedy",
+    "tiktok_handle": "@kathleencochran",
+    "joined_at": "2025-07-02T09:59:51.049482",
+    "advocacy_programs": [
+        {
+            "program_id": "1f584ccb-b947-46ea-a449-f08fbcb59eb5",
+            "brand": "Ford-Gates",
+            "tasks_completed": [
+                {
+                    "task_id": "8932aae6-7048-49f2-9cf0-42f2a95ac837",
+                    "platform": "Instagram",
+                    "post_url": "https://harris.com/",
+                    "likes": 3334,
+                    "comments": 301,
+                    "shares": 51,
+                    "reach": 6686
+                }
+            ],
+            "total_sales_attributed": 237.40123604695916
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e3e1054c-556b-4120-8013-e822463f45f2",
+    "name": "Gregory Cormier",
+    "email": "Mariane27@hotmail.com",
+    "instagram_handle": "@Alycia_Zulauf25",
+    "tiktok_handle": "@Lurline.Olson82",
+    "joined_at": "2024-10-14T01:10:02.486Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ef5bd662-b894-45df-aaf0-ba90440ae673",
+            "brand": "Davis - Keebler",
+            "tasks_completed": [
+                {
+                    "task_id": "e731b738-2610-4f28-b30f-a6edc69f3778",
+                    "platform": "TikTok",
+                    "post_url": "https://cheerful-pigpen.name",
+                    "likes": 77,
+                    "comments": 48,
+                    "shares": 82,
+                    "reach": 7788
+                }
+            ],
+            "total_sales_attributed": 4912.184631013939
+        }
+    ]
+}

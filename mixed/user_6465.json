@@ -1,0 +1,26 @@
+{
+    "user_id": "e7c0f25c-4ba0-4293-88b4-ebb942588d50",
+    "name": "Charles Hall",
+    "email": "upayne@example.com",
+    "instagram_handle": "@robert95",
+    "tiktok_handle": "@shirley82",
+    "joined_at": "2025-06-10T11:17:07.853332",
+    "advocacy_programs": [
+        {
+            "program_id": "d5b07f62-3f7f-434f-98bb-1d56d54f69ed",
+            "brand": "White, Goodman and Griffith",
+            "tasks_completed": [
+                {
+                    "task_id": "2f89a135-2429-4ec4-9a3e-052c80297560",
+                    "platform": "YouTube",
+                    "post_url": "https://glorious-nun.info/",
+                    "likes": 8318,
+                    "comments": 73,
+                    "shares": 8,
+                    "reach": 3244
+                }
+            ],
+            "total_sales_attributed": 8314.31
+        }
+    ]
+}

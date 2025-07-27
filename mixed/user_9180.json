@@ -1,0 +1,26 @@
+{
+    "user_id": "a7a25fa8-7be6-49b4-8bbd-bdd4040d28b0",
+    "name": "Lisa Medina",
+    "email": "miascott@example.org",
+    "instagram_handle": "@nathanpatterson",
+    "tiktok_handle": "@kimlove",
+    "joined_at": "2024-03-22T00:58:31.925534",
+    "advocacy_programs": [
+        {
+            "program_id": "9c3de232-4a2f-4c20-acbb-660d96e34897",
+            "brand": "Ferguson, Thomas and Henry",
+            "tasks_completed": [
+                {
+                    "task_id": "120621e2-e790-4c18-b2c3-389d5cf6b1d0",
+                    "platform": "TikTok",
+                    "post_url": "https://benton.com/",
+                    "likes": 270,
+                    "comments": 435,
+                    "shares": 46,
+                    "reach": 8562
+                }
+            ],
+            "total_sales_attributed": 9762.55
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "145f219f-1ac5-4ef1-8b0c-18b348bcbca8",
+    "name": "Stephanie Martinez",
+    "email": "richardmorris@example.org",
+    "instagram_handle": "@ggrant",
+    "tiktok_handle": "@andersondaniel",
+    "joined_at": "2024-08-08T19:43:16.430153",
+    "advocacy_programs": [
+        {
+            "program_id": "8474f8e0-9fe4-4163-8031-665fb5ea1752",
+            "brand": "Burns, Watson and Williams",
+            "tasks_completed": [
+                {
+                    "task_id": "d5ea2394-21b5-43fc-b0a7-150ac0d436e7",
+                    "platform": "TikTok",
+                    "post_url": "https://howard.com/",
+                    "likes": 4418,
+                    "comments": 443,
+                    "shares": 69,
+                    "reach": 3888
+                }
+            ],
+            "total_sales_attributed": 8181.73
+        }
+    ]
+}

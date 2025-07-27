@@ -1,0 +1,26 @@
+{
+    "user_id": "b037dee3-04fc-444b-9114-c0d85b05b6c9",
+    "name": "George Suarez",
+    "email": "patrickperry@example.org",
+    "instagram_handle": "@ewright",
+    "tiktok_handle": "@nortonjerry",
+    "joined_at": "2025-06-09T15:52:13.374875",
+    "advocacy_programs": [
+        {
+            "program_id": "b98480a9-0f16-435f-84ee-3013d3d80da2",
+            "brand": "Herzog, Armstrong and Romaguera",
+            "tasks_completed": [
+                {
+                    "task_id": "fed253e6-92dd-4f1e-9385-c79d6dd69716",
+                    "platform": "YouTube",
+                    "post_url": "https://duncan.com/",
+                    "likes": 8293,
+                    "comments": 110,
+                    "shares": 86,
+                    "reach": 9866
+                }
+            ],
+            "total_sales_attributed": 3742.1664347701076
+        }
+    ]
+}

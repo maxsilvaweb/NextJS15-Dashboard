@@ -1,0 +1,26 @@
+{
+    "user_id": "d073a38c-e40a-4ec7-bca9-611939aecc35",
+    "name": "Robert Jacobs",
+    "email": "kimpatricia@example.org",
+    "instagram_handle": "@jamesbaker",
+    "tiktok_handle": "@jsmith",
+    "joined_at": "2024-11-12T10:52:03.041057",
+    "advocacy_programs": [
+        {
+            "program_id": "e66f321b-d076-4dd9-985b-b1f2050e0941",
+            "brand": "Schultz-Kent",
+            "tasks_completed": [
+                {
+                    "task_id": "d0bafeff-2695-4617-9d48-fc9a9ffd0b5b",
+                    "platform": "TikTok",
+                    "post_url": "http://www.villanueva.com/",
+                    "likes": 8961,
+                    "comments": 51,
+                    "shares": 4,
+                    "reach": 741
+                }
+            ],
+            "total_sales_attributed": 834.5589732188805
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "84c0650a-653e-4b43-b4cb-07945c75fe1b",
+    "name": "Isaiah Reed",
+    "email": "hartjason@example.net",
+    "instagram_handle": "@cortezbrenda",
+    "tiktok_handle": "@Aracely.Grimes",
+    "joined_at": "2024-01-09T22:54:56.700686",
+    "advocacy_programs": [
+        {
+            "program_id": "816f280b-dc13-4d89-8b79-814b0a9f31b3",
+            "brand": "Lambert, Roberts and Cantu",
+            "tasks_completed": [
+                {
+                    "task_id": "5655993f-dafa-4ad1-85e8-f8f885dd297e",
+                    "platform": "Instagram",
+                    "post_url": "http://clark-brown.com/",
+                    "likes": 4248,
+                    "comments": 18,
+                    "shares": 43,
+                    "reach": 9208
+                }
+            ],
+            "total_sales_attributed": 7340.32
+        }
+    ]
+}

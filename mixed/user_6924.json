@@ -1,0 +1,26 @@
+{
+    "user_id": "4bbfdf21-f852-4077-9310-4f43d32290b5",
+    "name": "Mary Padilla",
+    "email": "angelapage@example.net",
+    "instagram_handle": "@greenleonard",
+    "tiktok_handle": "@Elise_Wisozk",
+    "joined_at": "2023-12-14T06:02:46.037162",
+    "advocacy_programs": [
+        {
+            "program_id": "b38662ea-a6f5-45a4-978f-32afa4e4c4ad",
+            "brand": "Gray, Martin and Villarreal",
+            "tasks_completed": [
+                {
+                    "task_id": "1a65854f-ab4f-4bf0-9c29-304ddcd2dcf6",
+                    "platform": "TikTok",
+                    "post_url": "https://www.patel.org/",
+                    "likes": 3449,
+                    "comments": 220,
+                    "shares": 86,
+                    "reach": 1853
+                }
+            ],
+            "total_sales_attributed": 1207.6
+        }
+    ]
+}

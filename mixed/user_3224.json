@@ -1,0 +1,26 @@
+{
+    "user_id": "0131d07c-49d1-434c-ac2a-3100d5fe9fb1",
+    "name": "Antonio Hintz",
+    "email": "Nicolette62@yahoo.com",
+    "instagram_handle": "@Louvenia59",
+    "tiktok_handle": "@Reina.Borer",
+    "joined_at": "2024-08-07T02:34:07.977Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d33eb2d8-890b-4129-b105-d81ee04c5921",
+            "brand": "Friesen, Mosciski and Wiegand",
+            "tasks_completed": [
+                {
+                    "task_id": "8997fef5-527f-4106-8fea-4bad46c1a5c8",
+                    "platform": "TikTok",
+                    "post_url": "https://blind-pharmacopoeia.name/",
+                    "likes": 382,
+                    "comments": 28,
+                    "shares": 53,
+                    "reach": 6553
+                }
+            ],
+            "total_sales_attributed": 4386.079159007702
+        }
+    ]
+}

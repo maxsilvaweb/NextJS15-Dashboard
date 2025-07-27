@@ -1,0 +1,26 @@
+{
+    "user_id": "bd9df56d-4b4c-42d4-8ffa-ccaf7156cd95",
+    "name": "Jennifer Campbell",
+    "email": "Syble.Sanford79@hotmail.com",
+    "instagram_handle": "@palmerdaniel",
+    "tiktok_handle": "@Lauriane_Schuster",
+    "joined_at": "2024-01-08T19:52:28.006399",
+    "advocacy_programs": [
+        {
+            "program_id": "6b778c97-70f2-4b54-90ec-ee51a700df74",
+            "brand": "Friedman Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "b90d871b-690a-47f6-87bc-2ccd3e4a70e3",
+                    "platform": "Instagram",
+                    "post_url": "https://quick-witted-dandelion.biz",
+                    "likes": 10,
+                    "comments": 39,
+                    "shares": 3,
+                    "reach": 4976
+                }
+            ],
+            "total_sales_attributed": 3102.51
+        }
+    ]
+}

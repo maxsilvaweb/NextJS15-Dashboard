@@ -1,0 +1,26 @@
+{
+    "user_id": "02b7bf7b-0456-48a0-af0f-c53a29527179",
+    "name": "Sheila Schaefer",
+    "email": "Tremayne9@yahoo.com",
+    "instagram_handle": "@Wilfred_Mraz",
+    "tiktok_handle": "@Kylie.Hermiston",
+    "joined_at": "2025-02-06T03:44:19.609Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3893c135-da1d-4360-87d4-aad6fff36f3f",
+            "brand": "Lueilwitz LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "eac7ac2c-9bf4-4ce8-a07f-8541a3cf91c3",
+                    "platform": "TikTok",
+                    "post_url": "https://strange-king.info",
+                    "likes": 389,
+                    "comments": 45,
+                    "shares": 25,
+                    "reach": 9891
+                }
+            ],
+            "total_sales_attributed": 2733.7825018439253
+        }
+    ]
+}

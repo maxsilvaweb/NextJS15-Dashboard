@@ -1,0 +1,26 @@
+{
+    "user_id": "aaf77ecb-ecfc-484b-b47d-da7e9520e4e0",
+    "name": "Donald Watson",
+    "email": "christopherbenton@example.net",
+    "instagram_handle": "@juliecox",
+    "tiktok_handle": "@david33",
+    "joined_at": "2023-09-13T19:31:38.808610",
+    "advocacy_programs": [
+        {
+            "program_id": "2ed4fdeb-036e-4bf2-8924-4598f31c3f05",
+            "brand": "Sullivan, Taylor and Downs",
+            "tasks_completed": [
+                {
+                    "task_id": "27aa159e-35de-4438-ab95-3ce6b3bcbd94",
+                    "platform": "Facebook",
+                    "post_url": "https://moist-ribbon.org/",
+                    "likes": 3705,
+                    "comments": 369,
+                    "shares": 26,
+                    "reach": 9229
+                }
+            ],
+            "total_sales_attributed": 1543.28
+        }
+    ]
+}

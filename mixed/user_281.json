@@ -1,0 +1,26 @@
+{
+    "user_id": "8512a782-a986-460a-bc6e-79ca894eb304",
+    "name": "Kerry Ziemann",
+    "email": "Amanda59@yahoo.com",
+    "instagram_handle": "@Constantin.Upton19",
+    "tiktok_handle": "@Eloise.Kunde",
+    "joined_at": "2025-03-04T12:47:36.755Z",
+    "advocacy_programs": [
+        {
+            "program_id": "168ae005-11f2-4a44-930c-dac77e767f23",
+            "brand": "Abbott LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "a831de9c-7489-429a-abc9-72f1144e6684",
+                    "platform": "Instagram",
+                    "post_url": "https://made-up-prohibition.biz",
+                    "likes": 180,
+                    "comments": 50,
+                    "shares": 71,
+                    "reach": 2514
+                }
+            ],
+            "total_sales_attributed": 4444.387743492247
+        }
+    ]
+}

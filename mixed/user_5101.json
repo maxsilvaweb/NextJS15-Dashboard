@@ -1,0 +1,26 @@
+{
+    "user_id": "08a49969-e9e5-4f1a-b753-584133898a6e",
+    "name": "Larry Moreno",
+    "email": "alyssa40@example.com",
+    "instagram_handle": "@chapmanchristopher",
+    "tiktok_handle": "@nicole75",
+    "joined_at": "2023-08-03T02:25:52.039014",
+    "advocacy_programs": [
+        {
+            "program_id": "f29cd913-0292-4e06-828a-791ed9a7225f",
+            "brand": "Moore Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "59098202-f32e-4253-a8ca-0cf00211fd76",
+                    "platform": "TikTok",
+                    "post_url": "https://waterlogged-decision.com/",
+                    "likes": 1050,
+                    "comments": 35,
+                    "shares": 90,
+                    "reach": 3287
+                }
+            ],
+            "total_sales_attributed": 4451.45
+        }
+    ]
+}

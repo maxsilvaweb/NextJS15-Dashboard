@@ -1,0 +1,26 @@
+{
+    "user_id": "c876184a-2cd2-4c00-91b5-860fe3e061f6",
+    "name": "Philip Roberts",
+    "email": "jeremiahwells@example.com",
+    "instagram_handle": "@gutierrezandrew",
+    "tiktok_handle": "@carolynfoster",
+    "joined_at": "2024-07-20T03:14:54.753148",
+    "advocacy_programs": [
+        {
+            "program_id": "5d0f7c4f-5270-4d6a-ba59-4f775b2aeade",
+            "brand": "Jensen-Coleman",
+            "tasks_completed": [
+                {
+                    "task_id": "968f3879-8f16-4330-bdaf-fd2509e35856",
+                    "platform": "Facebook",
+                    "post_url": "http://smith.com/",
+                    "likes": 240,
+                    "comments": 288,
+                    "shares": 77,
+                    "reach": 7976
+                }
+            ],
+            "total_sales_attributed": 4018.14
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "99959c20-0252-4738-ae5d-46b0afbd6b35",
+    "name": "Dexter Kulas",
+    "email": "Delmer72@yahoo.com",
+    "instagram_handle": "@lindsay46",
+    "tiktok_handle": "@jeremylindsey",
+    "joined_at": "2025-04-11T14:09:52.874025",
+    "advocacy_programs": [
+        {
+            "program_id": "927ede95-bf59-4099-a26e-97c6a93b230e",
+            "brand": "Langosh - Maggio",
+            "tasks_completed": [
+                {
+                    "task_id": "4b6587d3-5678-4c34-8f24-343675187eab",
+                    "platform": "Facebook",
+                    "post_url": "https://www.wilson.com/",
+                    "likes": 483,
+                    "comments": 351,
+                    "shares": 67,
+                    "reach": 9044
+                }
+            ],
+            "total_sales_attributed": 4391.05
+        }
+    ]
+}

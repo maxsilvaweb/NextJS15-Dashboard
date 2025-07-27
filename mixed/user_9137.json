@@ -1,0 +1,26 @@
+{
+    "user_id": "1b61728e-7a1a-428e-adc0-c1c7d2e1cd84",
+    "name": "Megan Harris",
+    "email": "laurenclark@example.net",
+    "instagram_handle": "@dwaynelamb",
+    "tiktok_handle": "@ulloyd",
+    "joined_at": "2025-06-04T15:15:23.311380",
+    "advocacy_programs": [
+        {
+            "program_id": "c96f76da-c167-4a0f-84ad-984676b4df97",
+            "brand": "Rivera and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "d9b7764a-ffa1-4ade-b015-a6b6314fb08d",
+                    "platform": "Instagram",
+                    "post_url": "http://gordon-pacheco.com/",
+                    "likes": 3109,
+                    "comments": 319,
+                    "shares": 28,
+                    "reach": 2928
+                }
+            ],
+            "total_sales_attributed": 9506.32
+        }
+    ]
+}

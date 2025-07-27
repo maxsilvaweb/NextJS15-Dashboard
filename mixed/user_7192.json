@@ -1,0 +1,26 @@
+{
+    "user_id": "55b6ad4a-cb8a-4d3c-830c-c72a7f5e9745",
+    "name": "Alan Curry",
+    "email": "Lenore_Emmerich0@gmail.com",
+    "instagram_handle": "@poolediane",
+    "tiktok_handle": "@samuelrusso",
+    "joined_at": "2023-12-24T15:21:48.580039",
+    "advocacy_programs": [
+        {
+            "program_id": "695d6812-ac9b-4859-ac48-45a5d968674f",
+            "brand": "Morgan Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "4d207c9e-e9a1-41c3-8b66-f2221b649191",
+                    "platform": "Instagram",
+                    "post_url": "https://www.coleman-rojas.info/",
+                    "likes": 59,
+                    "comments": 125,
+                    "shares": 65,
+                    "reach": 6625
+                }
+            ],
+            "total_sales_attributed": 2875.67
+        }
+    ]
+}

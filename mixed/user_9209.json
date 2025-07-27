@@ -1,0 +1,26 @@
+{
+    "user_id": "c6174db1-540c-4ef7-8de7-597e7ed4b5c9",
+    "name": "Marion Kuhlman",
+    "email": "Myah20@yahoo.com",
+    "instagram_handle": "@Christiana_Mayer2",
+    "tiktok_handle": "@Vince_Crooks89",
+    "joined_at": "2025-02-17T18:57:48.795Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fb3b2af5-adbf-470f-917e-cc8ac3ed98b7",
+            "brand": "Barton Group",
+            "tasks_completed": [
+                {
+                    "task_id": "6613721d-fb20-47b3-a4cf-9a25dc70fe0e",
+                    "platform": "Instagram",
+                    "post_url": "https://weighty-goodwill.biz/",
+                    "likes": 256,
+                    "comments": 26,
+                    "shares": 97,
+                    "reach": 9652
+                }
+            ],
+            "total_sales_attributed": 3777.7385287172638
+        }
+    ]
+}

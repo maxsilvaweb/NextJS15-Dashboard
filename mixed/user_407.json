@@ -1,0 +1,26 @@
+{
+    "user_id": "de6937ab-b2e4-4fbc-aaab-190b782b3d0c",
+    "name": "Jeremiah Ondricka",
+    "email": "Joshua39@gmail.com",
+    "instagram_handle": "@Elias.Dickens27",
+    "tiktok_handle": "@Jackson.Baumbach",
+    "joined_at": "2024-05-17T01:42:25.156Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8d743472-3192-4399-9efe-10ef89cc08e1",
+            "brand": "Bailey - Trantow",
+            "tasks_completed": [
+                {
+                    "task_id": "0398e383-8720-4ff0-9ed8-282e8da67e3c",
+                    "platform": "TikTok",
+                    "post_url": "https://husky-digestive.org",
+                    "likes": 385,
+                    "comments": 30,
+                    "shares": 62,
+                    "reach": 2998
+                }
+            ],
+            "total_sales_attributed": 3878.491804075639
+        }
+    ]
+}

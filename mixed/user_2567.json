@@ -1,0 +1,26 @@
+{
+    "user_id": "0d6d4d4e-ceeb-4742-9fc2-312c684d8787",
+    "name": "David Williams",
+    "email": "tammy14@example.com",
+    "instagram_handle": "@henry57",
+    "tiktok_handle": "@smitherica",
+    "joined_at": "2025-03-18T00:20:04.961556",
+    "advocacy_programs": [
+        {
+            "program_id": "e46b8b14-3b4d-4bdb-a122-52b384f19b18",
+            "brand": "Flowers-Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "0064fd0b-71fc-4260-bc98-3315211edc18",
+                    "platform": "YouTube",
+                    "post_url": "http://www.holloway.com/",
+                    "likes": 403,
+                    "comments": 97,
+                    "shares": 99,
+                    "reach": 6554
+                }
+            ],
+            "total_sales_attributed": 804.7570564169877
+        }
+    ]
+}

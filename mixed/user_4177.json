@@ -1,0 +1,26 @@
+{
+    "user_id": "1edcbdf0-9309-4f8d-a9ba-387ece73bd9b",
+    "name": "Susie Tromp",
+    "email": "Thelma_Hahn38@hotmail.com",
+    "instagram_handle": "@Hilbert7",
+    "tiktok_handle": "@Carlotta43",
+    "joined_at": "2024-11-28T05:14:34.499Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3cd70042-3ad4-4672-97a1-90ee38fdae4c",
+            "brand": "Skiles LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1dd9944d-6e54-47ab-855f-1644f1339164",
+                    "platform": "TikTok",
+                    "post_url": "https://probable-fold.biz/",
+                    "likes": 324,
+                    "comments": 15,
+                    "shares": 56,
+                    "reach": 8791
+                }
+            ],
+            "total_sales_attributed": 2076.8584056854033
+        }
+    ]
+}

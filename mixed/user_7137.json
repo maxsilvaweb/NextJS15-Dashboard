@@ -1,0 +1,26 @@
+{
+    "user_id": "864f7155-a735-4a31-8946-933a4050e06b",
+    "name": "Wesley Mann",
+    "email": "Erika69@gmail.com",
+    "instagram_handle": "@Lilian.Funk",
+    "tiktok_handle": "@Judah.Runolfsson-Klein91",
+    "joined_at": "2024-05-13T04:23:08.530Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4a0e39bf-472b-4072-a963-ecb232f26e17",
+            "brand": "Gusikowski - Shields",
+            "tasks_completed": [
+                {
+                    "task_id": "9362e607-9d1a-4e46-9962-661243e43a31",
+                    "platform": "TikTok",
+                    "post_url": "https://somber-pharmacopoeia.name/",
+                    "likes": 351,
+                    "comments": 16,
+                    "shares": 57,
+                    "reach": 2753
+                }
+            ],
+            "total_sales_attributed": 1911.3524063894192
+        }
+    ]
+}

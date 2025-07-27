@@ -1,0 +1,26 @@
+{
+    "user_id": "3aed8aee-cd75-4ed6-b150-3d04ca8d70f2",
+    "name": "Christopher Rempel",
+    "email": "Abe_MacGyver@hotmail.com",
+    "instagram_handle": "@Tatyana.Heaney",
+    "tiktok_handle": "@Carli43",
+    "joined_at": "2025-01-23T12:59:51.832Z",
+    "advocacy_programs": [
+        {
+            "program_id": "592a7611-661a-430f-9b21-2f2e21fadd8a",
+            "brand": "Dickens LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5d03fae8-21ac-4d70-a7a4-967f9ac242de",
+                    "platform": "Instagram",
+                    "post_url": "https://unimportant-tune-up.info",
+                    "likes": 413,
+                    "comments": 50,
+                    "shares": 8,
+                    "reach": 9172
+                }
+            ],
+            "total_sales_attributed": 950.5681044832271
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "db4a90b5-d563-4b3a-bb77-3de1efc1e88b",
+    "name": "Zachary Hernandez",
+    "email": "samanthagarcia@example.com",
+    "instagram_handle": "@madisonwhite",
+    "tiktok_handle": "@jeffrey72",
+    "joined_at": "2024-10-25T16:32:31.957Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6718febc-0a03-447c-aae7-b5c0c49dddf4",
+            "brand": "Armstrong, Brown and Lawson",
+            "tasks_completed": [
+                {
+                    "task_id": "270bee05-1853-4d33-8a8c-9d91c784cd71",
+                    "platform": "Instagram",
+                    "post_url": "http://austin-shepard.com/",
+                    "likes": 8634,
+                    "comments": 306,
+                    "shares": 58,
+                    "reach": 9295
+                }
+            ],
+            "total_sales_attributed": 1137.15
+        }
+    ]
+}

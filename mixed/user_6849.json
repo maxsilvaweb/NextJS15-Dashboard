@@ -1,0 +1,26 @@
+{
+    "user_id": "b6e29aab-6779-422b-b48b-4a3df3a3051f",
+    "name": "Tracy Murphy",
+    "email": "hartstephen@example.net",
+    "instagram_handle": "@hallleah",
+    "tiktok_handle": "@daniel17",
+    "joined_at": "2024-12-29T20:01:56.789515",
+    "advocacy_programs": [
+        {
+            "program_id": "5e9164a5-908e-4e05-a7e6-d778869baebe",
+            "brand": "Le, Lutz and Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "6562128c-6e18-49b0-a259-8159e2ca08e7",
+                    "platform": "Instagram",
+                    "post_url": "http://everett.com/",
+                    "likes": 164,
+                    "comments": 35,
+                    "shares": 60,
+                    "reach": 5674
+                }
+            ],
+            "total_sales_attributed": 9590.87
+        }
+    ]
+}

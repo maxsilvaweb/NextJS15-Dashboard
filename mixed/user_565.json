@@ -1,0 +1,26 @@
+{
+    "user_id": "c8a8f12e-0c53-4642-8e99-a8acc51b4ea1",
+    "name": "Nicholas Weber",
+    "email": "duncanmary@example.net",
+    "instagram_handle": "@angelahughes",
+    "tiktok_handle": "@hannah94",
+    "joined_at": "2023-08-05T17:31:37.985776",
+    "advocacy_programs": [
+        {
+            "program_id": "36421f40-cf4f-4db9-aed0-d4bc0a98f2a7",
+            "brand": "Macdonald Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "f012e54f-e902-498d-935c-efeb8e39befb",
+                    "platform": "Facebook",
+                    "post_url": "https://www.norton-diaz.com/",
+                    "likes": 7895,
+                    "comments": 109,
+                    "shares": 10,
+                    "reach": 8688
+                }
+            ],
+            "total_sales_attributed": 9184.73
+        }
+    ]
+}

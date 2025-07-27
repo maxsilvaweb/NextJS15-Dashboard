@@ -1,0 +1,26 @@
+{
+    "user_id": "b31e12ae-c34b-4f34-87be-9fb7b71a0909",
+    "name": "Claudia Grady",
+    "email": "Niko71@yahoo.com",
+    "instagram_handle": "@Jenifer13",
+    "tiktok_handle": "@Blake_Powlowski60",
+    "joined_at": "2025-02-15T17:08:52.179Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1b8d3ed9-6ca3-42a6-a51f-09970b0edbcd",
+            "brand": "Quigley - Maggio",
+            "tasks_completed": [
+                {
+                    "task_id": "925884e1-f51c-46cb-b8f2-2cb649c9c3bb",
+                    "platform": "TikTok",
+                    "post_url": "https://evil-affect.org/",
+                    "likes": 497,
+                    "comments": 12,
+                    "shares": 47,
+                    "reach": 1083
+                }
+            ],
+            "total_sales_attributed": 4150.611497034544
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d69da204-1d32-426a-a0c3-efc37d55ecce",
+    "name": "Stephanie Day",
+    "email": "mmatthews@example.org",
+    "instagram_handle": "@pwatson",
+    "tiktok_handle": "@woodstristan",
+    "joined_at": "2025-06-14T05:35:21.389279",
+    "advocacy_programs": [
+        {
+            "program_id": "5ee95273-d11e-4258-bf4e-31ca90bc695b",
+            "brand": "Flores, Conley and Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "8954af69-c53e-4da1-8837-dd7839b095a6",
+                    "platform": "Facebook",
+                    "post_url": "https://www.bates.com/",
+                    "likes": 7198,
+                    "comments": 6,
+                    "shares": 0,
+                    "reach": 4107
+                }
+            ],
+            "total_sales_attributed": 3341.4455491951803
+        }
+    ]
+}

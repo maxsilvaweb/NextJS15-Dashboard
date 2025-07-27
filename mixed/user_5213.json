@@ -1,0 +1,26 @@
+{
+    "user_id": "a3098a6e-5e88-489a-ad57-4b2691a29dbf",
+    "name": "Rhonda Matthews",
+    "email": "perezrobert@example.org",
+    "instagram_handle": "@lynnmorton",
+    "tiktok_handle": "@andrew86",
+    "joined_at": "2024-10-28T02:26:06.867210",
+    "advocacy_programs": [
+        {
+            "program_id": "cdf66845-974e-4e7f-b8d9-6401b290126b",
+            "brand": "Henry, Martin and Weaver",
+            "tasks_completed": [
+                {
+                    "task_id": "b07251ee-4bfb-4aec-a35a-bf36fa75b8a2",
+                    "platform": "TikTok",
+                    "post_url": "http://www.frank-wright.com/",
+                    "likes": 160,
+                    "comments": 398,
+                    "shares": 27,
+                    "reach": 9290
+                }
+            ],
+            "total_sales_attributed": 8199.63
+        }
+    ]
+}

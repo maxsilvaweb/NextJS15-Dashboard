@@ -1,0 +1,26 @@
+{
+    "user_id": "1f2ccba7-8edc-4cbf-b8f3-7bc61aac269d",
+    "name": "Cary Dach",
+    "email": "Lysanne.Greenfelder62@yahoo.com",
+    "instagram_handle": "@Lucie47",
+    "tiktok_handle": "@Terence_Upton-Walter",
+    "joined_at": "2024-05-26T22:20:08.740Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2418595b-5c22-43a3-94be-573a9fa6af16",
+            "brand": "Kutch, Stehr and King",
+            "tasks_completed": [
+                {
+                    "task_id": "4dddfada-a88c-4fd6-8136-11f8f92d0d7a",
+                    "platform": "TikTok",
+                    "post_url": "https://heavenly-curl.com",
+                    "likes": 68,
+                    "comments": 35,
+                    "shares": 46,
+                    "reach": 582
+                }
+            ],
+            "total_sales_attributed": 713.3195685858897
+        }
+    ]
+}

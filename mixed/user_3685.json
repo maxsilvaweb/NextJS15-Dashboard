@@ -1,0 +1,26 @@
+{
+    "user_id": "21abf815-7f8b-4e9f-a2d6-107d635924a0",
+    "name": "Alfonso DuBuque",
+    "email": "Kirstin.Gottlieb@yahoo.com",
+    "instagram_handle": "@Lisette53",
+    "tiktok_handle": "@Oda36",
+    "joined_at": "2025-03-09T18:16:10.461Z",
+    "advocacy_programs": [
+        {
+            "program_id": "067594a1-d39c-4378-a28f-c38cd4df6fea",
+            "brand": "Schaden - Greenfelder",
+            "tasks_completed": [
+                {
+                    "task_id": "7705b7df-2084-4ebb-af19-28e7ba507bf0",
+                    "platform": "TikTok",
+                    "post_url": "https://ashamed-council.biz/",
+                    "likes": 182,
+                    "comments": 12,
+                    "shares": 7,
+                    "reach": 9810
+                }
+            ],
+            "total_sales_attributed": 1554.7535252261468
+        }
+    ]
+}

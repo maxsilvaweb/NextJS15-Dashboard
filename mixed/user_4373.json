@@ -1,0 +1,26 @@
+{
+    "user_id": "960c0228-3dd0-4b41-b5fe-89f9945b3741",
+    "name": "Mack Cremin",
+    "email": "Marian24@gmail.com",
+    "instagram_handle": "@Catalina_Franecki",
+    "tiktok_handle": "@Kian.Bahringer",
+    "joined_at": "2024-09-03T19:11:43.605Z",
+    "advocacy_programs": [
+        {
+            "program_id": "70c1b1be-bed1-4dcc-92db-2b2bd127a4b0",
+            "brand": "Casper Group",
+            "tasks_completed": [
+                {
+                    "task_id": "9bd6efa4-28aa-4768-bb76-103f320f1c12",
+                    "platform": "TikTok",
+                    "post_url": "https://exotic-lifestyle.biz",
+                    "likes": 405,
+                    "comments": 38,
+                    "shares": 42,
+                    "reach": 775
+                }
+            ],
+            "total_sales_attributed": 4221.075631544196
+        }
+    ]
+}

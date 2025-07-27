@@ -1,0 +1,26 @@
+{
+    "user_id": "13323f1f-3216-4590-9c5e-79eb1040778c",
+    "name": "Ronald Ramirez",
+    "email": "kathyliu@example.com",
+    "instagram_handle": "@jmcclure",
+    "tiktok_handle": "@rogerdavis",
+    "joined_at": "2024-08-15T09:59:02.716956",
+    "advocacy_programs": [
+        {
+            "program_id": "ef836d28-798b-4d9e-8559-b047d9b31638",
+            "brand": "Simmons-Glover",
+            "tasks_completed": [
+                {
+                    "task_id": "8a69cb19-2724-4425-a95d-e6430eb9f666",
+                    "platform": "Instagram",
+                    "post_url": "https://bruised-fireplace.info",
+                    "likes": 213,
+                    "comments": 98,
+                    "shares": 42,
+                    "reach": 3964
+                }
+            ],
+            "total_sales_attributed": 7074.38
+        }
+    ]
+}

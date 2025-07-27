@@ -1,0 +1,26 @@
+{
+    "user_id": "7eacf1bc-1ab2-4b07-8335-e1fa03f1eea5",
+    "name": "Keith Garcia",
+    "email": "coffeygary@example.net",
+    "instagram_handle": "@alyssa09",
+    "tiktok_handle": "@michellebarber",
+    "joined_at": "2024-09-28T16:29:20.739Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c1e691dc-0a30-4e56-b583-d5db36df4dda",
+            "brand": "Hahn-Bowman",
+            "tasks_completed": [
+                {
+                    "task_id": "cbb025f7-b5bb-4840-83f3-6e52c0a78bfe",
+                    "platform": "Instagram",
+                    "post_url": "https://livingston.com/",
+                    "likes": 4652,
+                    "comments": 129,
+                    "shares": 19,
+                    "reach": 2136
+                }
+            ],
+            "total_sales_attributed": 4024.9352078917846
+        }
+    ]
+}

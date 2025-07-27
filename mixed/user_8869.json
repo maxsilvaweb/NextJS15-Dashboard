@@ -1,0 +1,26 @@
+{
+    "user_id": "c0180bb4-ccaf-41e4-996b-086a12d6d209",
+    "name": "Miss Gretchen Grimes",
+    "email": "Miller.Harvey@gmail.com",
+    "instagram_handle": "@Marcia_Kuhlman",
+    "tiktok_handle": "@Kole.Dibbert",
+    "joined_at": "2024-03-26T14:07:36.752Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e7539198-5dba-438d-9652-455c9e986841",
+            "brand": "Streich Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "264e8414-8f42-4e53-b93c-77e4131a14bf",
+                    "platform": "TikTok",
+                    "post_url": "https://mixed-bookend.info/",
+                    "likes": 366,
+                    "comments": 10,
+                    "shares": 53,
+                    "reach": 8519
+                }
+            ],
+            "total_sales_attributed": 1212.220699692339
+        }
+    ]
+}

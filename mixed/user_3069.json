@@ -1,0 +1,26 @@
+{
+    "user_id": "5950f6da-0f9f-4563-a600-81ba54f4970a",
+    "name": "Jon Morris",
+    "email": "stokescrystal@example.com",
+    "instagram_handle": "@jbrown",
+    "tiktok_handle": "@Eveline.Kassulke68",
+    "joined_at": "2024-06-27T18:39:09.950786",
+    "advocacy_programs": [
+        {
+            "program_id": "0a007573-3328-44b2-9d6a-1b5d2647fc02",
+            "brand": "Smith-Oconnor",
+            "tasks_completed": [
+                {
+                    "task_id": "970c2b87-6f66-475b-ab66-0513754a9fe7",
+                    "platform": "Facebook",
+                    "post_url": "https://www.kelley.com/",
+                    "likes": 957,
+                    "comments": 80,
+                    "shares": 85,
+                    "reach": 4641
+                }
+            ],
+            "total_sales_attributed": 4603.38
+        }
+    ]
+}

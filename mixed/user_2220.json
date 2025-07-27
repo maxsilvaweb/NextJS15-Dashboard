@@ -1,0 +1,26 @@
+{
+    "user_id": "d0434e52-a510-4fd3-ae73-088a11a1e518",
+    "name": "Ryan Wu Jr.",
+    "email": "Johnathon32@gmail.com",
+    "instagram_handle": "@harriselizabeth",
+    "tiktok_handle": "@angela01",
+    "joined_at": "2025-02-15T05:51:40.370845",
+    "advocacy_programs": [
+        {
+            "program_id": "1d4f78a5-babb-4435-8379-477f9d885a7e",
+            "brand": "Cooper-Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "ce3e2d36-1816-4927-bc11-171ba6b39fe4",
+                    "platform": "Facebook",
+                    "post_url": "http://www.allen-lang.com/",
+                    "likes": 2014,
+                    "comments": 121,
+                    "shares": 93,
+                    "reach": 8137
+                }
+            ],
+            "total_sales_attributed": 7117.27
+        }
+    ]
+}

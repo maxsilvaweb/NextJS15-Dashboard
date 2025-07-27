@@ -1,0 +1,26 @@
+{
+    "user_id": "b29b7cab-8740-49b2-98e5-663ebd1d5af9",
+    "name": "Calvin Smith",
+    "email": "mariepugh@example.net",
+    "instagram_handle": "@ashley74",
+    "tiktok_handle": "@taylormeagan",
+    "joined_at": "2025-05-27T12:54:06.203920",
+    "advocacy_programs": [
+        {
+            "program_id": "7234c20f-8bb3-4510-b60d-f8c5bebce549",
+            "brand": "Sanchez, Maldonado and Adams",
+            "tasks_completed": [
+                {
+                    "task_id": "26492c24-4344-481f-90fd-5c5d10313b61",
+                    "platform": "Instagram",
+                    "post_url": "https://worthy-gastropod.biz",
+                    "likes": 3949,
+                    "comments": 15,
+                    "shares": 77,
+                    "reach": 8209
+                }
+            ],
+            "total_sales_attributed": 3052.71
+        }
+    ]
+}

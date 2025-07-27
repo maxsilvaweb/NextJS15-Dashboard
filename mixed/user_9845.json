@@ -1,0 +1,26 @@
+{
+    "user_id": "7153cbab-e22b-4c3e-baa7-60698db0ae14",
+    "name": "Jean Kozey",
+    "email": "Monserrate.Terry@gmail.com",
+    "instagram_handle": "@Shana66",
+    "tiktok_handle": "@Faustino28",
+    "joined_at": "2025-03-08T01:42:35.022Z",
+    "advocacy_programs": [
+        {
+            "program_id": "6dfb6184-59f0-4dd3-a4bb-ddda22a9b01f",
+            "brand": "Hammes, Davis and Gleason",
+            "tasks_completed": [
+                {
+                    "task_id": "96195852-ae92-4eaa-b9ec-f0eb480d0b5f",
+                    "platform": "TikTok",
+                    "post_url": "https://bulky-platypus.com",
+                    "likes": 104,
+                    "comments": 21,
+                    "shares": 77,
+                    "reach": 9669
+                }
+            ],
+            "total_sales_attributed": 783.4407813155618
+        }
+    ]
+}

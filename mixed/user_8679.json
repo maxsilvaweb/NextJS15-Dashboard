@@ -1,0 +1,26 @@
+{
+    "user_id": "0c671c73-6d25-4dee-a5ab-0b0ef2584a40",
+    "name": "Jeffrey Castillo",
+    "email": "qwashington@example.net",
+    "instagram_handle": "@dwheeler",
+    "tiktok_handle": "@priceleslie",
+    "joined_at": "2024-04-26T14:13:39.308733",
+    "advocacy_programs": [
+        {
+            "program_id": "c6e97a63-aa90-482f-b435-f07022c23581",
+            "brand": "Crist - Prosacco",
+            "tasks_completed": [
+                {
+                    "task_id": "e4ab7422-a67a-4d92-8894-64ab252f6b0f",
+                    "platform": "Instagram",
+                    "post_url": "https://www.hamilton.com/",
+                    "likes": 1364,
+                    "comments": 47,
+                    "shares": 87,
+                    "reach": 4666
+                }
+            ],
+            "total_sales_attributed": 9211.79
+        }
+    ]
+}

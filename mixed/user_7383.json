@@ -1,0 +1,26 @@
+{
+    "user_id": "2bcf3b05-8362-4eb2-a04d-254ff9442365",
+    "name": "Mary Kiehn",
+    "email": "Rolando48@gmail.com",
+    "instagram_handle": "@Earnestine98",
+    "tiktok_handle": "@Darrion40",
+    "joined_at": "2024-03-28T08:19:52.264Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0a548308-13e9-45a0-9335-2a0250866a62",
+            "brand": "Dach - Renner",
+            "tasks_completed": [
+                {
+                    "task_id": "0de6d760-53f0-4d35-8417-1d89ea465730",
+                    "platform": "Instagram",
+                    "post_url": "https://antique-affiliate.biz",
+                    "likes": 425,
+                    "comments": 46,
+                    "shares": 2,
+                    "reach": 5708
+                }
+            ],
+            "total_sales_attributed": 4111.778672668292
+        }
+    ]
+}

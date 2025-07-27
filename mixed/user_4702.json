@@ -1,0 +1,26 @@
+{
+    "user_id": "84c25aba-5ff6-4342-97e6-398152e1dd9e",
+    "name": "Joseph Robinson",
+    "email": "cookdustin@example.org",
+    "instagram_handle": "@williamsdale",
+    "tiktok_handle": "@gina83",
+    "joined_at": "2024-08-11T00:55:59.320193",
+    "advocacy_programs": [
+        {
+            "program_id": "f27c1525-0abc-4aac-bd5f-bb37e61f44dc",
+            "brand": "Davis, Ho and Daniels",
+            "tasks_completed": [
+                {
+                    "task_id": "91d411c7-516c-4350-9eab-eb15045899eb",
+                    "platform": "Instagram",
+                    "post_url": "http://www.cohen.com/",
+                    "likes": 9980,
+                    "comments": 44,
+                    "shares": 69,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 3993.21
+        }
+    ]
+}

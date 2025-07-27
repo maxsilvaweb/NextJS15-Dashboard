@@ -1,0 +1,26 @@
+{
+    "user_id": "0b400641-3bfe-4783-a4ed-57fd0cdeb05a",
+    "name": "Kimberly Mason",
+    "email": "simpsonmichael@example.com",
+    "instagram_handle": "@carmen98",
+    "tiktok_handle": "@yvonnewiley",
+    "joined_at": "2025-07-11T23:25:53.983625",
+    "advocacy_programs": [
+        {
+            "program_id": "b2cd4eb0-8f5d-424b-bbb0-ed346e90c410",
+            "brand": "Baker Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "7d951eaa-b718-43bf-b85b-b89ec24a8a97",
+                    "platform": "Facebook",
+                    "post_url": "https://morris-jenkins.com/",
+                    "likes": 6911,
+                    "comments": 69,
+                    "shares": 79,
+                    "reach": 3058
+                }
+            ],
+            "total_sales_attributed": 7450.06
+        }
+    ]
+}

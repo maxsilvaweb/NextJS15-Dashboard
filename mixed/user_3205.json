@@ -1,0 +1,26 @@
+{
+    "user_id": "8ee58e43-c575-446f-8032-ad0943da175d",
+    "name": "Robert Salinas",
+    "email": "kevinwarren@example.org",
+    "instagram_handle": "@vhernandez",
+    "tiktok_handle": "@josemartin",
+    "joined_at": "2024-05-07T22:29:12.564399",
+    "advocacy_programs": [
+        {
+            "program_id": "83e648b7-7bb2-4386-a459-8275ca3a1260",
+            "brand": "Brooks, Bullock and Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "c77a69d6-cebf-4725-88fe-f3f7acb7564c",
+                    "platform": "Instagram",
+                    "post_url": "https://hull-santiago.com/",
+                    "likes": 6938,
+                    "comments": 44,
+                    "shares": 100,
+                    "reach": 7145
+                }
+            ],
+            "total_sales_attributed": 7301.79
+        }
+    ]
+}

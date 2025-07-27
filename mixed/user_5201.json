@@ -1,0 +1,26 @@
+{
+    "user_id": "96a174fc-4039-41e6-8022-12dd29cfc626",
+    "name": "Betsy Macejkovic",
+    "email": "Fernando_Ratke@gmail.com",
+    "instagram_handle": "@Rosalyn_Ratke",
+    "tiktok_handle": "@Milford76",
+    "joined_at": "2024-09-14T08:27:49.473Z",
+    "advocacy_programs": [
+        {
+            "program_id": "407bd6e7-7849-4a95-9239-e20308deda87",
+            "brand": "Boyer, Bernier and Jerde",
+            "tasks_completed": [
+                {
+                    "task_id": "d240d042-2b75-4585-a640-7ab56dbedb76",
+                    "platform": "Instagram",
+                    "post_url": "https://hidden-fit.biz",
+                    "likes": 340,
+                    "comments": 9,
+                    "shares": 96,
+                    "reach": 7466
+                }
+            ],
+            "total_sales_attributed": 2299.329261327117
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ea460b9e-6b35-45be-a608-e3e54fafe0d9",
+    "name": "Christy Smith",
+    "email": "vmccullough@example.com",
+    "instagram_handle": "@carolinecollier",
+    "tiktok_handle": "@tylerrocha",
+    "joined_at": "2024-11-22T06:06:13.123029",
+    "advocacy_programs": [
+        {
+            "program_id": "df15849e-ec90-41d8-a199-b6056318aad6",
+            "brand": "Guerrero-Ferguson",
+            "tasks_completed": [
+                {
+                    "task_id": "239a4c99-13ed-4cec-935f-899ec72ddc64",
+                    "platform": "Facebook",
+                    "post_url": "https://near-diver.net/",
+                    "likes": 449,
+                    "comments": 320,
+                    "shares": 49,
+                    "reach": 6387
+                }
+            ],
+            "total_sales_attributed": 4646.703705806358
+        }
+    ]
+}

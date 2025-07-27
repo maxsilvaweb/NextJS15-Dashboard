@@ -1,0 +1,26 @@
+{
+    "user_id": "79fe5f58-a7c6-495a-b4fc-c45d0c077ba6",
+    "name": "Kimberly Houston",
+    "email": "erichall@example.org",
+    "instagram_handle": "@walkertracy",
+    "tiktok_handle": "@teresabates",
+    "joined_at": "2024-12-14T16:31:37.399Z",
+    "advocacy_programs": [
+        {
+            "program_id": "302fab5b-9251-46f4-8873-870dc104572c",
+            "brand": "Stuart-Moses",
+            "tasks_completed": [
+                {
+                    "task_id": "f585ef37-e107-4e71-a5ab-9341fb594cde",
+                    "platform": "TikTok",
+                    "post_url": "https://www.jackson.com/",
+                    "likes": 409,
+                    "comments": 48,
+                    "shares": 55,
+                    "reach": 5631
+                }
+            ],
+            "total_sales_attributed": 3402.54
+        }
+    ]
+}

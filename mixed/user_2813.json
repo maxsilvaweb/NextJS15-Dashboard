@@ -1,0 +1,26 @@
+{
+    "user_id": "1aa63779-b3b0-47c2-9973-b37b43e46d5a",
+    "name": "Cheyenne Simmons",
+    "email": "Onie9@gmail.com",
+    "instagram_handle": "@meganmclaughlin",
+    "tiktok_handle": "@matthewskelly",
+    "joined_at": "2023-07-28T14:36:43.378908",
+    "advocacy_programs": [
+        {
+            "program_id": "47be6cf2-ade4-4f10-a512-31ea3f48d181",
+            "brand": "Mcdaniel, Duke and Hubbard",
+            "tasks_completed": [
+                {
+                    "task_id": "a9bc1cce-5e2d-4c07-b49d-013734de7cdf",
+                    "platform": "TikTok",
+                    "post_url": "https://burns.com/",
+                    "likes": 350,
+                    "comments": 156,
+                    "shares": 93,
+                    "reach": 1104
+                }
+            ],
+            "total_sales_attributed": 2748.32
+        }
+    ]
+}

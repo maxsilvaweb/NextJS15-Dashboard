@@ -1,0 +1,26 @@
+{
+    "user_id": "e724d1fb-a760-4ce6-baba-a2a86452fa38",
+    "name": "Micheal Schamberger",
+    "email": "Demetrius_Frami@yahoo.com",
+    "instagram_handle": "@Akeem_Prohaska91",
+    "tiktok_handle": "@Fermin8",
+    "joined_at": "2024-04-05T14:45:48.313Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9d098dfc-440f-4987-98a0-e80a70c77891",
+            "brand": "Mueller - Conroy",
+            "tasks_completed": [
+                {
+                    "task_id": "37ed45ec-1c82-4adf-94cd-de71e4b31974",
+                    "platform": "TikTok",
+                    "post_url": "https://discrete-cemetery.com",
+                    "likes": 140,
+                    "comments": 26,
+                    "shares": 85,
+                    "reach": 1292
+                }
+            ],
+            "total_sales_attributed": 2329.883777717897
+        }
+    ]
+}

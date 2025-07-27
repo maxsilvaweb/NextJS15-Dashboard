@@ -1,0 +1,26 @@
+{
+    "user_id": "6a8c38c5-f71b-4c33-acef-15eba25162cd",
+    "name": "James Smith",
+    "email": "thomasthompson@example.net",
+    "instagram_handle": "@ocalderon",
+    "tiktok_handle": "@bowenchristopher",
+    "joined_at": "2024-09-28T01:10:43.617039",
+    "advocacy_programs": [
+        {
+            "program_id": "253ec04c-2f67-4463-a479-528d6b50b9f8",
+            "brand": "Hill PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "de6b7175-d8ee-43c9-ad20-e342735303d3",
+                    "platform": "Instagram",
+                    "post_url": "https://www.scott.net/",
+                    "likes": 1360,
+                    "comments": 29,
+                    "shares": 17,
+                    "reach": 9373
+                }
+            ],
+            "total_sales_attributed": 7203.8
+        }
+    ]
+}

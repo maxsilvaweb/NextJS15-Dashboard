@@ -1,0 +1,26 @@
+{
+    "user_id": "ab547c75-2b04-4c96-90c3-f0a4aa3c7c9b",
+    "name": "Jennifer Mcdonald",
+    "email": "jamiebarrett@example.com",
+    "instagram_handle": "@jbeck",
+    "tiktok_handle": "@conniemorton",
+    "joined_at": "2023-10-17T00:16:07.481288",
+    "advocacy_programs": [
+        {
+            "program_id": "150a1843-72e8-4df3-8302-d1d1faf878cc",
+            "brand": "Boyd-Wright",
+            "tasks_completed": [
+                {
+                    "task_id": "98f5db71-2bdf-4e55-ade4-ae3f14fa4eb9",
+                    "platform": "TikTok",
+                    "post_url": "http://wong.info/",
+                    "likes": 1601,
+                    "comments": 203,
+                    "shares": 42,
+                    "reach": 4743
+                }
+            ],
+            "total_sales_attributed": 2286.18
+        }
+    ]
+}

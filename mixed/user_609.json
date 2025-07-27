@@ -1,0 +1,26 @@
+{
+    "user_id": "c02734b5-309b-4d49-af9e-7c2e083a3a64",
+    "name": "James Campbell",
+    "email": "smunoz@example.net",
+    "instagram_handle": "@navarrotimothy",
+    "tiktok_handle": "@mariedunn",
+    "joined_at": "2025-07-12T15:01:55.220495",
+    "advocacy_programs": [
+        {
+            "program_id": "2abecdb2-f08a-454c-9a0e-a606358e1ed4",
+            "brand": "Cook Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "57d868fb-f439-4627-9198-c752d384ca46",
+                    "platform": "TikTok",
+                    "post_url": "http://www.moore.net/",
+                    "likes": 341,
+                    "comments": 48,
+                    "shares": 90,
+                    "reach": 2255
+                }
+            ],
+            "total_sales_attributed": 3546.7569979095256
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "4abe1ad9-09b7-49bb-b754-6eec80f01a15",
+    "name": "David Welch",
+    "email": "laurensnyder@example.com",
+    "instagram_handle": "@alexbeck",
+    "tiktok_handle": "@lindaalvarado",
+    "joined_at": "2025-04-06T02:59:28.912565",
+    "advocacy_programs": [
+        {
+            "program_id": "40d32a50-eacc-4538-8510-5ce3a19682b3",
+            "brand": "Harrison, Roberts and Cummings",
+            "tasks_completed": [
+                {
+                    "task_id": "0f786ed0-20b2-493e-a763-2887aa2a8f50",
+                    "platform": "Facebook",
+                    "post_url": "https://www.brown.com/",
+                    "likes": 781,
+                    "comments": 35,
+                    "shares": 22,
+                    "reach": 9688
+                }
+            ],
+            "total_sales_attributed": 823.04
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "50ab893b-743b-4c0b-b06a-1ef0ac961701",
+    "name": "Vanessa Sawyer",
+    "email": "Janessa_Anderson57@hotmail.com",
+    "instagram_handle": "@hutchinsonrobert",
+    "tiktok_handle": "@gonzalezconnie",
+    "joined_at": "2024-07-13T16:41:13.152743",
+    "advocacy_programs": [
+        {
+            "program_id": "7d09a6fc-c1d0-4f5f-97e5-3140ac470f14",
+            "brand": "Phelps, Henderson and Robinson",
+            "tasks_completed": [
+                {
+                    "task_id": "65180508-073d-4a6a-ba0c-72b0f3147c95",
+                    "platform": "TikTok",
+                    "post_url": "https://dirty-swing.com",
+                    "likes": 4201,
+                    "comments": 12,
+                    "shares": 0,
+                    "reach": 5925
+                }
+            ],
+            "total_sales_attributed": 5700.36
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "03bc310f-7b25-48a2-9d01-634332b39207",
+    "name": "Catherine Shaw",
+    "email": "tmason@example.net",
+    "instagram_handle": "@burtonrichard",
+    "tiktok_handle": "@sandra91",
+    "joined_at": "2025-05-06T22:04:21.914129",
+    "advocacy_programs": [
+        {
+            "program_id": "7a348ef0-e150-495f-940f-0bf58618b19a",
+            "brand": "Schaefer and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "a374ea5f-5327-4886-a9d8-15ba56f7b1db",
+                    "platform": "Facebook",
+                    "post_url": "http://green.com/",
+                    "likes": 9905,
+                    "comments": 11,
+                    "shares": 5,
+                    "reach": 5724
+                }
+            ],
+            "total_sales_attributed": 3890.687640459934
+        }
+    ]
+}

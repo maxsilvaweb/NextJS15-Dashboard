@@ -1,0 +1,26 @@
+{
+    "user_id": "2cff566a-9e6e-4c0a-8be5-c8f527e9a33f",
+    "name": "Jennifer Krause",
+    "email": "zmartinez@example.org",
+    "instagram_handle": "@julia92",
+    "tiktok_handle": "@melissa24",
+    "joined_at": "2025-05-15T12:31:23.272735",
+    "advocacy_programs": [
+        {
+            "program_id": "3f8bffe1-4c3c-49e7-bccf-60e7aa9c47a1",
+            "brand": "Cochran-Allen",
+            "tasks_completed": [
+                {
+                    "task_id": "4acfda84-95b6-4c3e-a550-ea3b767d40a0",
+                    "platform": "Instagram",
+                    "post_url": "http://www.ward.com/",
+                    "likes": 3787,
+                    "comments": 0,
+                    "shares": 16,
+                    "reach": 1281
+                }
+            ],
+            "total_sales_attributed": 4097.55
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "c5affe0e-b4f4-41ac-bca1-bb0e3189a538",
+    "name": "Kent Sosa",
+    "email": "joshua36@example.com",
+    "instagram_handle": "@udonovan",
+    "tiktok_handle": "@wgarcia",
+    "joined_at": "2024-11-12T09:09:38.032971",
+    "advocacy_programs": [
+        {
+            "program_id": "264e333a-13e2-48a1-9966-7acd11a55589",
+            "brand": "Faulkner-Gilbert",
+            "tasks_completed": [
+                {
+                    "task_id": "96903b3d-2edc-4446-9ea5-e8ef2e663b5f",
+                    "platform": "TikTok",
+                    "post_url": "https://www.abbott.net/",
+                    "likes": 5148,
+                    "comments": 356,
+                    "shares": 87,
+                    "reach": 2117
+                }
+            ],
+            "total_sales_attributed": 7713.38
+        }
+    ]
+}

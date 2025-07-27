@@ -1,0 +1,26 @@
+{
+    "user_id": "bf4297a0-b1e8-43fd-8038-a85f2ffb6529",
+    "name": "Viola Turcotte",
+    "email": "Francisco4@yahoo.com",
+    "instagram_handle": "@Felicita92",
+    "tiktok_handle": "@Tito.Kulas38",
+    "joined_at": "2024-06-01T09:24:19.461Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5402f3d9-9348-42f2-9e78-a8287370d505",
+            "brand": "Leuschke LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ad37e553-9194-439f-9ada-6be8e1290d5d",
+                    "platform": "Instagram",
+                    "post_url": "https://trained-yeast.biz/",
+                    "likes": 451,
+                    "comments": 0,
+                    "shares": 60,
+                    "reach": 2133
+                }
+            ],
+            "total_sales_attributed": 1293.8976507115694
+        }
+    ]
+}

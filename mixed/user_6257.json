@@ -1,0 +1,26 @@
+{
+    "user_id": "d2fd8ed9-bfa4-4abc-9bd9-3ce73831514f",
+    "name": "Regina Thiel",
+    "email": "Mohammad.Kutch22@gmail.com",
+    "instagram_handle": "@Bianka.McClure",
+    "tiktok_handle": "@Wyatt.Schamberger",
+    "joined_at": "2025-02-10T16:41:58.357Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f4480b26-50d4-415c-8a66-82dd14507824",
+            "brand": "Ortiz - Hettinger",
+            "tasks_completed": [
+                {
+                    "task_id": "ca999bda-558b-4a25-b512-06e612c6788f",
+                    "platform": "Instagram",
+                    "post_url": "https://precious-ad.net",
+                    "likes": 483,
+                    "comments": 7,
+                    "shares": 89,
+                    "reach": 9372
+                }
+            ],
+            "total_sales_attributed": 1080.6768970284372
+        }
+    ]
+}

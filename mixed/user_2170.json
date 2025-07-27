@@ -1,0 +1,26 @@
+{
+    "user_id": "acd2af5a-1b47-4cb0-974f-6092be6f684f",
+    "name": "Elisa Quigley",
+    "email": "Shawn7@hotmail.com",
+    "instagram_handle": "@Waldo.Watsica",
+    "tiktok_handle": "@Raquel26",
+    "joined_at": "2025-02-12T05:59:56.677Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a11c1810-8154-4223-b2c1-250dd327dbe7",
+            "brand": "Bergstrom, Flatley and Hermann",
+            "tasks_completed": [
+                {
+                    "task_id": "7594d478-d403-4e81-b2cd-6d53ff054b65",
+                    "platform": "Instagram",
+                    "post_url": "https://fatal-status.name",
+                    "likes": 126,
+                    "comments": 18,
+                    "shares": 43,
+                    "reach": 7289
+                }
+            ],
+            "total_sales_attributed": 418.3792171418205
+        }
+    ]
+}

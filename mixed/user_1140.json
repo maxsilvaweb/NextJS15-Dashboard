@@ -1,0 +1,26 @@
+{
+    "user_id": "afc5cf02-4364-45e2-9db6-0df3c82cbb1b",
+    "name": "Ricardo Hegmann MD",
+    "email": "Anais.Ratke1@gmail.com",
+    "instagram_handle": "@Rhoda94",
+    "tiktok_handle": "@Emilia.Wilderman",
+    "joined_at": "2024-12-14T15:37:12.383Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e0167e63-3ece-459b-b56f-288d8251390b",
+            "brand": "Pouros - Watsica",
+            "tasks_completed": [
+                {
+                    "task_id": "a7d70438-4406-44cb-8bb6-240535e3d59f",
+                    "platform": "TikTok",
+                    "post_url": "https://annual-conversation.name",
+                    "likes": 85,
+                    "comments": 36,
+                    "shares": 51,
+                    "reach": 6270
+                }
+            ],
+            "total_sales_attributed": 3854.7890827624055
+        }
+    ]
+}

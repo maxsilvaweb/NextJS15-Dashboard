@@ -1,0 +1,26 @@
+{
+    "user_id": "09b8a161-cfa0-45b3-b554-3d7120896ae2",
+    "name": "Andre Young",
+    "email": "Rolando68@gmail.com",
+    "instagram_handle": "@ilewis",
+    "tiktok_handle": "@michelle18",
+    "joined_at": "2025-01-26T11:41:05.948068",
+    "advocacy_programs": [
+        {
+            "program_id": "67489d3a-f151-4da7-abde-8fd8d69c5481",
+            "brand": "Johnson-Gates",
+            "tasks_completed": [
+                {
+                    "task_id": "22de25e9-7544-4290-9a0d-516b1fe36e97",
+                    "platform": "Facebook",
+                    "post_url": "https://shimmering-adult.org",
+                    "likes": 5538,
+                    "comments": 2,
+                    "shares": 4,
+                    "reach": 1280
+                }
+            ],
+            "total_sales_attributed": 7554.35
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "01ef4c45-b8d4-4c96-94d0-c855081ca8b8",
+    "name": "Michelle Miranda",
+    "email": "pclark@example.com",
+    "instagram_handle": "@hroberts",
+    "tiktok_handle": "@craigdoyle",
+    "joined_at": "2023-12-19T09:36:37.782644",
+    "advocacy_programs": [
+        {
+            "program_id": "505fbefb-2180-431c-8504-ce97ada13e65",
+            "brand": "Johnson, Thomas and Burnett",
+            "tasks_completed": [
+                {
+                    "task_id": "cdde20af-e529-4a60-b17f-5afb61bcfca3",
+                    "platform": "Facebook",
+                    "post_url": "https://cook-ellis.com/",
+                    "likes": 7995,
+                    "comments": 81,
+                    "shares": 57,
+                    "reach": 2024
+                }
+            ],
+            "total_sales_attributed": 9622.34
+        }
+    ]
+}

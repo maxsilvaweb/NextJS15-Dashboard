@@ -1,0 +1,26 @@
+{
+    "user_id": "0037eb27-1db3-4b97-ba70-03b9e61058c3",
+    "name": "Clifford Yost Sr.",
+    "email": "Amari55@yahoo.com",
+    "instagram_handle": "@Lydia_Schamberger",
+    "tiktok_handle": "@Camylle.Watsica9",
+    "joined_at": "2024-08-17T17:32:50.682Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e31d1faf-ffa1-4269-b6d6-1e95ce1767ee",
+            "brand": "Bartoletti Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "eda804b3-8d29-43f6-bec7-eca962a3e84d",
+                    "platform": "TikTok",
+                    "post_url": "https://tense-solvency.name",
+                    "likes": 180,
+                    "comments": 24,
+                    "shares": 71,
+                    "reach": 5454
+                }
+            ],
+            "total_sales_attributed": 4427.109176352454
+        }
+    ]
+}

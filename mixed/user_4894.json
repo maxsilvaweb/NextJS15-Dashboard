@@ -1,0 +1,26 @@
+{
+    "user_id": "3a035be1-1935-4865-914f-80913cca29ed",
+    "name": "Mrs. Wendy Beier",
+    "email": "Cassandre.Wuckert89@gmail.com",
+    "instagram_handle": "@Heidi.Berge",
+    "tiktok_handle": "@Aliya_Beer16",
+    "joined_at": "2024-09-26T08:20:29.170Z",
+    "advocacy_programs": [
+        {
+            "program_id": "cbc036de-3352-412c-aa63-497de9358f5a",
+            "brand": "Kertzmann LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "9eb95e13-d4fe-4f11-a7bf-793d8e07db76",
+                    "platform": "Instagram",
+                    "post_url": "https://helpless-almighty.info/",
+                    "likes": 66,
+                    "comments": 36,
+                    "shares": 94,
+                    "reach": 9684
+                }
+            ],
+            "total_sales_attributed": 2512.850865948083
+        }
+    ]
+}

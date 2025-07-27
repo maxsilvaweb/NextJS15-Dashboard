@@ -1,0 +1,26 @@
+{
+    "user_id": "0ab568f1-5deb-4f8b-8d9a-ff3773b55787",
+    "name": "Maureen Hegmann",
+    "email": "Herminia_Herzog@hotmail.com",
+    "instagram_handle": "@Josie.Schoen",
+    "tiktok_handle": "@Laisha_Hudson",
+    "joined_at": "2024-09-28T23:11:04.915Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7c856446-e9ad-4b21-b31f-2026d8b9a191",
+            "brand": "Turcotte, Denesik and Sporer",
+            "tasks_completed": [
+                {
+                    "task_id": "068214cb-8d19-4f9d-8f12-d20cf25c532b",
+                    "platform": "TikTok",
+                    "post_url": "https://untrue-hello.biz/",
+                    "likes": 44,
+                    "comments": 47,
+                    "shares": 91,
+                    "reach": 1522
+                }
+            ],
+            "total_sales_attributed": 1054.2073020644166
+        }
+    ]
+}

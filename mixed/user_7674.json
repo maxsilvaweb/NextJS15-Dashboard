@@ -1,0 +1,26 @@
+{
+    "user_id": "8280e9ae-e07b-4813-bf0b-61dd9c391da0",
+    "name": "Jamie Esparza",
+    "email": "Norwood_Bradtke@yahoo.com",
+    "instagram_handle": "@emyers",
+    "tiktok_handle": "@cphillips",
+    "joined_at": "2024-03-22T07:27:23.131873",
+    "advocacy_programs": [
+        {
+            "program_id": "23e6f583-8454-45b4-995d-e8d1400a10ff",
+            "brand": "Ballard, Long and Hill",
+            "tasks_completed": [
+                {
+                    "task_id": "ac6db98c-12bb-492e-a9aa-4accec6a9668",
+                    "platform": "Facebook",
+                    "post_url": "https://bray.biz/",
+                    "likes": 2875,
+                    "comments": 41,
+                    "shares": 57,
+                    "reach": 1533
+                }
+            ],
+            "total_sales_attributed": 4523.74
+        }
+    ]
+}

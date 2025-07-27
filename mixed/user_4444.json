@@ -1,0 +1,26 @@
+{
+    "user_id": "ed064c7b-2d9c-433a-82bc-9bac3f2bfab7",
+    "name": "Mr. Javier Kuvalis",
+    "email": "Bethel_Upton0@gmail.com",
+    "instagram_handle": "@Laura.Wintheiser",
+    "tiktok_handle": "@Ramiro_Mills",
+    "joined_at": "2024-12-28T21:16:55.562Z",
+    "advocacy_programs": [
+        {
+            "program_id": "2f915854-34e8-421e-8651-b12f39a5c19d",
+            "brand": "Hamill, Effertz and Roberts",
+            "tasks_completed": [
+                {
+                    "task_id": "e7a7da96-d349-434e-84ae-d6a055ee9bd7",
+                    "platform": "TikTok",
+                    "post_url": "https://enraged-exploration.org",
+                    "likes": 380,
+                    "comments": 10,
+                    "shares": 94,
+                    "reach": 4798
+                }
+            ],
+            "total_sales_attributed": 440.2864635343504
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "5ce6aa07-54bb-45d3-8d8b-933df7f42b06",
+    "name": "Jack Jenkins",
+    "email": "Julien.Kshlerin99@gmail.com",
+    "instagram_handle": "@Parker57",
+    "tiktok_handle": "@Loma55",
+    "joined_at": "2024-07-17T06:51:22.880Z",
+    "advocacy_programs": [
+        {
+            "program_id": "301dad06-ce2d-43a5-9a23-7446f65014f5",
+            "brand": "Robel Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "2bf69b4e-c857-4003-b413-130a49c59e08",
+                    "platform": "Instagram",
+                    "post_url": "https://sorrowful-drive.name",
+                    "likes": 402,
+                    "comments": 37,
+                    "shares": 50,
+                    "reach": 6742
+                }
+            ],
+            "total_sales_attributed": 2332.601064098404
+        }
+    ]
+}

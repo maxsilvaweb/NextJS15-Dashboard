@@ -1,0 +1,26 @@
+{
+    "user_id": "6234331c-a461-4fc8-bc8e-e4ead8dd84e2",
+    "name": "Anthony Sims",
+    "email": "traviscoleman@example.org",
+    "instagram_handle": "@wilkinsonkevin",
+    "tiktok_handle": "@rachelholmes",
+    "joined_at": "2024-02-19T00:27:44.125344",
+    "advocacy_programs": [
+        {
+            "program_id": "d1d27d4e-2253-487f-b897-84eb7e9b848e",
+            "brand": "Marshall-Wilson",
+            "tasks_completed": [
+                {
+                    "task_id": "968f29d8-6a2f-4337-9e37-f753acdfbb01",
+                    "platform": "Instagram",
+                    "post_url": "https://pruitt.com/",
+                    "likes": 9334,
+                    "comments": 495,
+                    "shares": 36,
+                    "reach": 7472
+                }
+            ],
+            "total_sales_attributed": 9741.12
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "cd4d3a8c-bcd2-4745-8e3a-531f1045db77",
+    "name": "Christopher Rosales",
+    "email": "kcarter@example.org",
+    "instagram_handle": "@holderbrian",
+    "tiktok_handle": "@kristenferguson",
+    "joined_at": "2024-09-16T09:15:44.751910",
+    "advocacy_programs": [
+        {
+            "program_id": "933a4628-0967-4958-a24b-d3559a321494",
+            "brand": "Gonzalez LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "b194da82-5072-4841-b107-1e28fdc1dd9e",
+                    "platform": "TikTok",
+                    "post_url": "https://coarse-tuxedo.biz/",
+                    "likes": 253,
+                    "comments": 108,
+                    "shares": 17,
+                    "reach": 2959
+                }
+            ],
+            "total_sales_attributed": 2821.83
+        }
+    ]
+}

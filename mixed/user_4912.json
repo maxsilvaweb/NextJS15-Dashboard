@@ -1,0 +1,26 @@
+{
+    "user_id": "b8006fe0-947b-41fb-a5aa-5a46daec2ecc",
+    "name": "Paula Fernandez",
+    "email": "patricia49@example.com",
+    "instagram_handle": "@smithalexis",
+    "tiktok_handle": "@brian14",
+    "joined_at": "2024-06-06T23:39:02.409349",
+    "advocacy_programs": [
+        {
+            "program_id": "713cd0ce-ae36-4c63-93ed-9edf6e16ff82",
+            "brand": "Rogers LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "0a19feab-61b7-4144-b87f-8db66b3a7942",
+                    "platform": "Facebook",
+                    "post_url": "https://reese.biz/",
+                    "likes": 9480,
+                    "comments": 77,
+                    "shares": 18,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 6654.06
+        }
+    ]
+}

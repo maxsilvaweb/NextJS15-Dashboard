@@ -1,0 +1,26 @@
+{
+    "user_id": "08038f2c-71ef-416c-a111-3b842a0d7bab",
+    "name": "Loretta Torres",
+    "email": "chanstephanie@example.com",
+    "instagram_handle": "@bradley66",
+    "tiktok_handle": "@dana79",
+    "joined_at": "2024-06-27T18:25:06.175220",
+    "advocacy_programs": [
+        {
+            "program_id": "ee9df035-ffb5-4775-8b8d-9fda7cd07a3e",
+            "brand": "Fleming, Hall and Bell",
+            "tasks_completed": [
+                {
+                    "task_id": "38c80ace-3581-48e6-87b4-bb7088cc9715",
+                    "platform": "Twitter",
+                    "post_url": "https://santiago-perry.com/",
+                    "likes": 1603,
+                    "comments": 45,
+                    "shares": 88,
+                    "reach": 1176
+                }
+            ],
+            "total_sales_attributed": 9945.98
+        }
+    ]
+}

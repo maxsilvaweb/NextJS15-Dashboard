@@ -1,0 +1,26 @@
+{
+    "user_id": "8207d802-d364-4c2b-9967-2057178059b7",
+    "name": "Grant Cummings",
+    "email": "biancastone@example.net",
+    "instagram_handle": "@jennifer33",
+    "tiktok_handle": "@davidgraham",
+    "joined_at": "2023-09-08T01:11:02.530312",
+    "advocacy_programs": [
+        {
+            "program_id": "7dc39ccf-8c62-4583-abc5-8e0798e2f976",
+            "brand": "Phillips, Anderson and Peters",
+            "tasks_completed": [
+                {
+                    "task_id": "de60f593-a661-46b6-a4b0-b5e30c6a19e2",
+                    "platform": "YouTube",
+                    "post_url": "https://www.martinez.net/",
+                    "likes": 7729,
+                    "comments": 420,
+                    "shares": 88,
+                    "reach": 1379
+                }
+            ],
+            "total_sales_attributed": 7295.97
+        }
+    ]
+}

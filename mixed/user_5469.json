@@ -1,0 +1,26 @@
+{
+    "user_id": "c49492c5-e7ec-4a8d-8e71-5415d1c08ff3",
+    "name": "Katrina Koss",
+    "email": "Norma_Lehner@gmail.com",
+    "instagram_handle": "@Lonnie67",
+    "tiktok_handle": "@Jacinthe_Balistreri",
+    "joined_at": "2024-06-10T23:00:24.920Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8f575f54-5c8c-4740-8151-53849139af69",
+            "brand": "Cummings Group",
+            "tasks_completed": [
+                {
+                    "task_id": "262a5af1-1661-4a33-be3b-5379fb1c1fde",
+                    "platform": "TikTok",
+                    "post_url": "https://devoted-mechanic.org",
+                    "likes": 191,
+                    "comments": 23,
+                    "shares": 1,
+                    "reach": 7173
+                }
+            ],
+            "total_sales_attributed": 1613.6137681750693
+        }
+    ]
+}

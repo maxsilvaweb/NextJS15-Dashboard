@@ -1,0 +1,26 @@
+{
+    "user_id": "efe73306-6c24-4259-854b-620495803cbd",
+    "name": "Julie Roth",
+    "email": "Adan_Mann@yahoo.com",
+    "instagram_handle": "@dawsonkelly",
+    "tiktok_handle": "@alan03",
+    "joined_at": "2025-02-10T12:03:54.777982",
+    "advocacy_programs": [
+        {
+            "program_id": "f40262f9-4063-40b3-bb03-1b5f0d2bc529",
+            "brand": "Rodriguez, Tucker and Rivera",
+            "tasks_completed": [
+                {
+                    "task_id": "0e17c1af-b97a-4223-b638-38b8516f0dde",
+                    "platform": "Facebook",
+                    "post_url": "https://stark-corporation.name/",
+                    "likes": 4747,
+                    "comments": 104,
+                    "shares": 78,
+                    "reach": 2557
+                }
+            ],
+            "total_sales_attributed": 6870.0
+        }
+    ]
+}

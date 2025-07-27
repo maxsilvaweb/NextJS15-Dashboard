@@ -1,0 +1,26 @@
+{
+    "user_id": "c2d3336e-a0ea-49e1-a9f6-9cbbe3bc53ab",
+    "name": "Erica Wood",
+    "email": "pattonmaria@example.org",
+    "instagram_handle": "@tparsons",
+    "tiktok_handle": "@crystalcole",
+    "joined_at": "2025-01-09T00:43:04.646429",
+    "advocacy_programs": [
+        {
+            "program_id": "8c498c42-3972-464b-ba93-096b97452362",
+            "brand": "Clark and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "556728c8-a4fe-466d-bf34-583580c46fc0",
+                    "platform": "Instagram",
+                    "post_url": "https://www.mathews-jones.com/",
+                    "likes": 3038,
+                    "comments": 101,
+                    "shares": 51,
+                    "reach": 5219
+                }
+            ],
+            "total_sales_attributed": 2562.186665305964
+        }
+    ]
+}

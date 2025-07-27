@@ -1,0 +1,26 @@
+{
+    "user_id": "dd4ba42f-e93a-4700-80f0-c327b41aac9f",
+    "name": "Damon Lindgren",
+    "email": "Otis50@gmail.com",
+    "instagram_handle": "@Marc.Gutmann",
+    "tiktok_handle": "@Howell_Ullrich",
+    "joined_at": "2024-04-23T08:02:50.848Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1347ffd4-db68-4e76-852c-fc92977e9cd4",
+            "brand": "Gutkowski - Hane",
+            "tasks_completed": [
+                {
+                    "task_id": "71ce8acf-26cb-499f-84bd-18cd2da2f0a9",
+                    "platform": "TikTok",
+                    "post_url": "https://rundown-range.org/",
+                    "likes": 354,
+                    "comments": 33,
+                    "shares": 13,
+                    "reach": 1551
+                }
+            ],
+            "total_sales_attributed": 825.2598846081625
+        }
+    ]
+}

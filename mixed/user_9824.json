@@ -1,0 +1,26 @@
+{
+    "user_id": "eb97af6d-c21a-44ae-8f4c-6f64b26c03cb",
+    "name": "Dustin Lane",
+    "email": "hillkevin@example.org",
+    "instagram_handle": "@ubarber",
+    "tiktok_handle": "@jameslarry",
+    "joined_at": "2025-02-27T08:19:33.420061",
+    "advocacy_programs": [
+        {
+            "program_id": "f4a95fda-a118-4aac-a078-c65141433b6b",
+            "brand": "Alexander-Martin",
+            "tasks_completed": [
+                {
+                    "task_id": "34ce09fc-08f1-4ca6-8df6-a12c498dad7f",
+                    "platform": "Instagram",
+                    "post_url": "https://knapp.com/",
+                    "likes": 8318,
+                    "comments": 199,
+                    "shares": 74,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 1395.6350457657363
+        }
+    ]
+}

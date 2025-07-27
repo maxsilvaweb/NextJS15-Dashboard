@@ -1,0 +1,26 @@
+{
+    "user_id": "964803ea-baa3-4b09-9bf8-694ed5ff1c6f",
+    "name": "Theresa Lindgren DVM",
+    "email": "Concepcion.Schmeler19@yahoo.com",
+    "instagram_handle": "@Sydnie.Kris-Nolan",
+    "tiktok_handle": "@Joseph.Boehm",
+    "joined_at": "2024-06-19T04:52:01.422Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4280f263-30ec-4226-9d14-1c3db42bd645",
+            "brand": "Wolf, Daugherty and Dietrich",
+            "tasks_completed": [
+                {
+                    "task_id": "484fe4dc-9544-497c-97e8-83b448c78b05",
+                    "platform": "TikTok",
+                    "post_url": "https://self-assured-hundred.org",
+                    "likes": 280,
+                    "comments": 30,
+                    "shares": 98,
+                    "reach": 9397
+                }
+            ],
+            "total_sales_attributed": 787.1806852555491
+        }
+    ]
+}

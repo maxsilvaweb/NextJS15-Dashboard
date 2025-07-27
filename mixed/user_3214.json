@@ -1,0 +1,26 @@
+{
+    "user_id": "0c4d8707-73d1-4deb-80e7-c59bb0ed9019",
+    "name": "Derek Huel",
+    "email": "Hipolito.Gorczany62@yahoo.com",
+    "instagram_handle": "@Arlo.Bogisich",
+    "tiktok_handle": "@Conor.Pfeffer48",
+    "joined_at": "2025-02-23T04:51:34.169Z",
+    "advocacy_programs": [
+        {
+            "program_id": "7acf2e8a-2b3b-420c-8d99-912c37eb5eed",
+            "brand": "Kuhn LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "cce0830e-92d8-48a7-b7d5-dad2cc4e1ea1",
+                    "platform": "TikTok",
+                    "post_url": "https://rare-barge.net",
+                    "likes": 265,
+                    "comments": 27,
+                    "shares": 37,
+                    "reach": 7682
+                }
+            ],
+            "total_sales_attributed": 3418.8163599303934
+        }
+    ]
+}

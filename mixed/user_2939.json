@@ -1,0 +1,26 @@
+{
+    "user_id": "af70b3a2-bc96-4a54-bb05-856e36204921",
+    "name": "Jeremiah Strosin",
+    "email": "Sadie55@gmail.com",
+    "instagram_handle": "@Bridget37",
+    "tiktok_handle": "@Skylar_Stracke",
+    "joined_at": "2024-04-06T15:19:38.088Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ccf28533-3a34-4b44-813f-e13a8dc52857",
+            "brand": "McKenzie, Witting and McKenzie",
+            "tasks_completed": [
+                {
+                    "task_id": "8264bf84-658c-402e-ab7c-ca1460439dac",
+                    "platform": "TikTok",
+                    "post_url": "https://inconsequential-analogy.name",
+                    "likes": 115,
+                    "comments": 45,
+                    "shares": 95,
+                    "reach": 5749
+                }
+            ],
+            "total_sales_attributed": 650.1579850961797
+        }
+    ]
+}

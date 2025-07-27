@@ -1,0 +1,26 @@
+{
+    "user_id": "029025a9-d80f-4ded-89d9-742f4ab60b49",
+    "name": "Rudy Hane",
+    "email": "Tiara_Effertz10@hotmail.com",
+    "instagram_handle": "@Estefania.Bergnaum",
+    "tiktok_handle": "@Merlin.Becker26",
+    "joined_at": "2024-08-06T12:58:04.708Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f52d6ea1-20ec-49dd-aae6-333436cbbabf",
+            "brand": "Ward - Wuckert",
+            "tasks_completed": [
+                {
+                    "task_id": "1cfd7af4-6c79-497e-87cb-d7c65797aa29",
+                    "platform": "TikTok",
+                    "post_url": "https://sneaky-cassava.net",
+                    "likes": 499,
+                    "comments": 24,
+                    "shares": 3,
+                    "reach": 9375
+                }
+            ],
+            "total_sales_attributed": 2010.031825630128
+        }
+    ]
+}

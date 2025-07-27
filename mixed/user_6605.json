@@ -1,0 +1,26 @@
+{
+    "user_id": "61047b93-d583-4f32-b467-9775155a8a00",
+    "name": "Sarah Scott",
+    "email": "ynunez@example.com",
+    "instagram_handle": "@gharper",
+    "tiktok_handle": "@reyeswendy",
+    "joined_at": "2025-02-06T22:05:39.570252",
+    "advocacy_programs": [
+        {
+            "program_id": "369a909a-da9f-46ae-b1dd-f218db24aad5",
+            "brand": "Pham-Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "4e41fdbe-4990-4ca5-8821-8ec7fdefe21d",
+                    "platform": "Instagram",
+                    "post_url": "https://powell.com/",
+                    "likes": 1337,
+                    "comments": 303,
+                    "shares": 3,
+                    "reach": 8016
+                }
+            ],
+            "total_sales_attributed": 3488.117868302882
+        }
+    ]
+}

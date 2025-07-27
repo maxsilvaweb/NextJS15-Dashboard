@@ -1,0 +1,26 @@
+{
+    "user_id": "ced50c98-ba28-4fe0-9c41-a4febd7ac480",
+    "name": "Leonard Schmidt",
+    "email": "Adrien92@gmail.com",
+    "instagram_handle": "@Alexandro_Gerlach3",
+    "tiktok_handle": "@Quentin_Connelly-Tromp",
+    "joined_at": "2025-03-06T23:36:02.573Z",
+    "advocacy_programs": [
+        {
+            "program_id": "d328ac82-ee1e-4964-9453-23afab012f9b",
+            "brand": "Heaney, Ritchie and Carroll",
+            "tasks_completed": [
+                {
+                    "task_id": "1c4809f2-69da-476c-95bf-c28ec234c979",
+                    "platform": "Instagram",
+                    "post_url": "https://ashamed-tusk.name",
+                    "likes": 32,
+                    "comments": 21,
+                    "shares": 86,
+                    "reach": 8429
+                }
+            ],
+            "total_sales_attributed": 217.61666811168925
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "6b45359d-9847-43b5-8236-1e9b7ef3f421",
+    "name": "Joshua Mcdonald",
+    "email": "waltongary@example.com",
+    "instagram_handle": "@kaylapierce",
+    "tiktok_handle": "@fmiller",
+    "joined_at": "2024-11-06T21:37:25.663745",
+    "advocacy_programs": [
+        {
+            "program_id": "be7a1c7e-ae57-4e14-aaf7-f89f606fe96f",
+            "brand": "Grimes, Larson and Johnston",
+            "tasks_completed": [
+                {
+                    "task_id": "2d4b9c78-0e91-4ae4-a83b-279514913d6d",
+                    "platform": "Instagram",
+                    "post_url": "http://www.stephens.com/",
+                    "likes": 6273,
+                    "comments": 321,
+                    "shares": 40,
+                    "reach": 1957
+                }
+            ],
+            "total_sales_attributed": 2916.52
+        }
+    ]
+}

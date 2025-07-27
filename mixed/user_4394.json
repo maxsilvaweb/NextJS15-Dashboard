@@ -1,0 +1,26 @@
+{
+    "user_id": "44691e4f-f6fe-4e6e-852e-695489be5845",
+    "name": "Robert Bean",
+    "email": "kgutierrez@example.net",
+    "instagram_handle": "@grantmarie",
+    "tiktok_handle": "@kmartin",
+    "joined_at": "2023-12-24T12:06:33.943715",
+    "advocacy_programs": [
+        {
+            "program_id": "5ba77cb7-f772-4577-b136-52a4a7d62d3a",
+            "brand": "Torres, Eaton and Shepard",
+            "tasks_completed": [
+                {
+                    "task_id": "e1bfee85-da62-409b-b50a-7daa076c41a9",
+                    "platform": "Twitter",
+                    "post_url": "http://stafford.com/",
+                    "likes": 943,
+                    "comments": 250,
+                    "shares": 97,
+                    "reach": 7027
+                }
+            ],
+            "total_sales_attributed": 1524.7899316940861
+        }
+    ]
+}

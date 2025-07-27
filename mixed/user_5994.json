@@ -1,0 +1,26 @@
+{
+    "user_id": "d746a1cf-2482-4b9e-9077-8f5d8909ebd2",
+    "name": "Victor Koepp",
+    "email": "Stevie.Turcotte-Schumm64@hotmail.com",
+    "instagram_handle": "@Mafalda_Emard",
+    "tiktok_handle": "@Ross8",
+    "joined_at": "2024-07-23T08:37:09.358Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a153c5c7-d2a5-43ac-b32a-559d0d7745f1",
+            "brand": "Breitenberg and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "cfbdb692-54f1-4cc2-a2e7-6ce4547a65f6",
+                    "platform": "TikTok",
+                    "post_url": "https://clean-punctuation.com",
+                    "likes": 96,
+                    "comments": 12,
+                    "shares": 38,
+                    "reach": 8091
+                }
+            ],
+            "total_sales_attributed": 2905.0821211585744
+        }
+    ]
+}

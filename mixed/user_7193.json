@@ -1,0 +1,26 @@
+{
+    "user_id": "307e8b90-2873-4212-bb4c-f7921590a710",
+    "name": "Robin Dicki",
+    "email": "Jorge_Goodwin@yahoo.com",
+    "instagram_handle": "@Nels.Schulist",
+    "tiktok_handle": "@Rafael35",
+    "joined_at": "2024-06-25T03:17:04.748Z",
+    "advocacy_programs": [
+        {
+            "program_id": "188084a9-b4be-43fc-b086-ad77e0b3aeae",
+            "brand": "Sanford, Langosh and Farrell",
+            "tasks_completed": [
+                {
+                    "task_id": "17f57785-8836-4bed-9f26-269da4c26758",
+                    "platform": "TikTok",
+                    "post_url": "https://puzzled-dandelion.com/",
+                    "likes": 287,
+                    "comments": 7,
+                    "shares": 96,
+                    "reach": 5775
+                }
+            ],
+            "total_sales_attributed": 3787.983865559663
+        }
+    ]
+}

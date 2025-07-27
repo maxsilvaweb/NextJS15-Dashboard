@@ -1,0 +1,26 @@
+{
+    "user_id": "01dba8b8-a0ae-4b07-b2c1-4f19d4eec497",
+    "name": "Harriet Hodkiewicz",
+    "email": "Maryam.Corwin@hotmail.com",
+    "instagram_handle": "@Baby_Champlin",
+    "tiktok_handle": "@Levi58",
+    "joined_at": "2024-10-11T21:48:30.393Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e9be9352-6ebe-4999-b2a1-553d13abf582",
+            "brand": "Cassin - Skiles",
+            "tasks_completed": [
+                {
+                    "task_id": "8b436545-d6c1-4c81-9132-edf273f996cc",
+                    "platform": "TikTok",
+                    "post_url": "https://anguished-horst.org/",
+                    "likes": 12,
+                    "comments": 50,
+                    "shares": 16,
+                    "reach": 8130
+                }
+            ],
+            "total_sales_attributed": 4804.0297245061965
+        }
+    ]
+}

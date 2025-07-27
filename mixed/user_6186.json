@@ -1,0 +1,26 @@
+{
+    "user_id": "f6d0ecd9-a4f0-4da0-a00d-8f776ac09cf3",
+    "name": "Shannon Farmer",
+    "email": "stevenwilson@example.net",
+    "instagram_handle": "@felicialopez",
+    "tiktok_handle": "@samantha71",
+    "joined_at": "2025-01-03T20:49:16.046611",
+    "advocacy_programs": [
+        {
+            "program_id": "5fbf66a8-922b-4c45-94eb-108333624999",
+            "brand": "Kuhn Group",
+            "tasks_completed": [
+                {
+                    "task_id": "58d2234a-bfa4-41cf-a950-32c985636e4e",
+                    "platform": "Facebook",
+                    "post_url": "http://sanchez.biz/",
+                    "likes": 1983,
+                    "comments": 8,
+                    "shares": 8,
+                    "reach": 3480
+                }
+            ],
+            "total_sales_attributed": 3896.4405663349235
+        }
+    ]
+}

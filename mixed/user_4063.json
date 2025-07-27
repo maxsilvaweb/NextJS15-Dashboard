@@ -1,0 +1,26 @@
+{
+    "user_id": "a36600ce-5d5a-4f59-8a7f-0edd6f0d5b54",
+    "name": "Carlos Lowe",
+    "email": "Federico7@hotmail.com",
+    "instagram_handle": "@Jedidiah96",
+    "tiktok_handle": "@Anne.Crist23",
+    "joined_at": "2024-08-31T07:51:05.308Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8baf6c72-8b5b-4193-9ff2-c91af49bf478",
+            "brand": "Ledner Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "aa661f75-4dee-4809-ab10-85d97f3bed35",
+                    "platform": "Instagram",
+                    "post_url": "https://electric-feather.biz",
+                    "likes": 55,
+                    "comments": 12,
+                    "shares": 99,
+                    "reach": 7998
+                }
+            ],
+            "total_sales_attributed": 4941.57220824752
+        }
+    ]
+}

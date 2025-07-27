@@ -1,0 +1,26 @@
+{
+    "user_id": "024fc9d1-a5ae-4cdb-963c-d2a0c63277e0",
+    "name": "Ashley Smith",
+    "email": "Peter_Bogan81@gmail.com",
+    "instagram_handle": "@katherine06",
+    "tiktok_handle": "@billyreynolds",
+    "joined_at": "2024-01-11T05:26:38.522499",
+    "advocacy_programs": [
+        {
+            "program_id": "8605041f-97bb-4bc4-80d1-77c4fb372883",
+            "brand": "Lewis, Berger and Johns",
+            "tasks_completed": [
+                {
+                    "task_id": "7b5a995a-0e44-4e02-b3c4-01bffce8340e",
+                    "platform": "TikTok",
+                    "post_url": "http://www.marshall-martinez.net/",
+                    "likes": 398,
+                    "comments": 94,
+                    "shares": 11,
+                    "reach": 1506
+                }
+            ],
+            "total_sales_attributed": 4725.560344776427
+        }
+    ]
+}

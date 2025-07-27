@@ -1,0 +1,26 @@
+{
+    "user_id": "a36c9ce7-0b73-41c5-98dd-c198ee353f16",
+    "name": "Noel Smith",
+    "email": "Meagan_Heller69@hotmail.com",
+    "instagram_handle": "@Georgiana_Ullrich93",
+    "tiktok_handle": "@Kimberly_Gleichner",
+    "joined_at": "2024-12-15T02:04:05.142Z",
+    "advocacy_programs": [
+        {
+            "program_id": "1ec219a9-a2c2-4e96-92c5-1a6e41c3a417",
+            "brand": "McCullough Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "ebcf4a1a-f530-42a3-aa1c-6a69eb9a1014",
+                    "platform": "TikTok",
+                    "post_url": "https://humiliating-bathrobe.name/",
+                    "likes": 36,
+                    "comments": 46,
+                    "shares": 25,
+                    "reach": 8899
+                }
+            ],
+            "total_sales_attributed": 2167.5635266875056
+        }
+    ]
+}

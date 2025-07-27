@@ -1,0 +1,26 @@
+{
+    "user_id": "dc8e4481-c4ac-4781-af1b-b23ec45e0224",
+    "name": "Joel Gaines",
+    "email": "ksmith@example.org",
+    "instagram_handle": "@vmcdowell",
+    "tiktok_handle": "@michael27",
+    "joined_at": "2024-10-18T15:52:32.842595",
+    "advocacy_programs": [
+        {
+            "program_id": "25f78b24-2941-44f4-a47d-36e92753500c",
+            "brand": "Steele, York and Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "1eb95003-b94a-4b34-906b-0cc125e5fd56",
+                    "platform": "TikTok",
+                    "post_url": "http://www.perez-gonzalez.info/",
+                    "likes": 6531,
+                    "comments": 365,
+                    "shares": 14,
+                    "reach": 9318
+                }
+            ],
+            "total_sales_attributed": 1622.699499628363
+        }
+    ]
+}

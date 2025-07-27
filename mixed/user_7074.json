@@ -1,0 +1,26 @@
+{
+    "user_id": "c6e02dcd-266c-4c26-94c9-479b0c670084",
+    "name": "Tina Benton",
+    "email": "jaredhernandez@example.net",
+    "instagram_handle": "@hayesjose",
+    "tiktok_handle": "@kathleenvargas",
+    "joined_at": "2024-09-19T15:43:41.076822",
+    "advocacy_programs": [
+        {
+            "program_id": "2286df64-993c-47c6-9eb1-3fb5535bd549",
+            "brand": "Lopez, Coleman and Allison",
+            "tasks_completed": [
+                {
+                    "task_id": "b6e04e93-924d-42ff-b285-6dabde6db0e7",
+                    "platform": "TikTok",
+                    "post_url": "https://www.smith.com/",
+                    "likes": 7140,
+                    "comments": 413,
+                    "shares": 14,
+                    "reach": 8404
+                }
+            ],
+            "total_sales_attributed": 1597.72
+        }
+    ]
+}

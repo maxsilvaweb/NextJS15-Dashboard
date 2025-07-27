@@ -1,0 +1,26 @@
+{
+    "user_id": "06e33445-8456-428a-a94d-3d1b24dd5368",
+    "name": "Willie Scott",
+    "email": "hannahchen@example.org",
+    "instagram_handle": "@richard66",
+    "tiktok_handle": "@rogersfrederick",
+    "joined_at": "2024-12-03T23:33:00.558Z",
+    "advocacy_programs": [
+        {
+            "program_id": "a4307226-d179-4173-8d23-c86fa9499b0f",
+            "brand": "Wood-Morris",
+            "tasks_completed": [
+                {
+                    "task_id": "27de08fb-fa5f-45d6-972f-48e66731bab2",
+                    "platform": "TikTok",
+                    "post_url": "https://www.fox.com/",
+                    "likes": 2717,
+                    "comments": 115,
+                    "shares": 67,
+                    "reach": 8339
+                }
+            ],
+            "total_sales_attributed": 7042.49
+        }
+    ]
+}

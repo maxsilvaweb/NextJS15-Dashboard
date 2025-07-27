@@ -1,0 +1,26 @@
+{
+    "user_id": "98420a65-1daa-452a-a2df-7745cda8f266",
+    "name": "Lindsay Meyer",
+    "email": "kimberlypeters@example.com",
+    "instagram_handle": "@michelle23",
+    "tiktok_handle": "@jonathan63",
+    "joined_at": "2024-05-13T19:01:49.961409",
+    "advocacy_programs": [
+        {
+            "program_id": "8bd30625-a5d9-4548-9eb7-91f44b9845d6",
+            "brand": "Little and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "be2580a1-2be9-4e01-960a-b5d9f273004e",
+                    "platform": "Instagram",
+                    "post_url": "http://price.biz/",
+                    "likes": 7819,
+                    "comments": 86,
+                    "shares": 94,
+                    "reach": 7962
+                }
+            ],
+            "total_sales_attributed": 7315.47
+        }
+    ]
+}

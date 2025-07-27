@@ -1,0 +1,26 @@
+{
+    "user_id": "fed94434-ff70-4fb4-90b3-d29299ea22e2",
+    "name": "Beth Hamill",
+    "email": "Kris45@gmail.com",
+    "instagram_handle": "@Alec_Schulist98",
+    "tiktok_handle": "@Elena.Buckridge",
+    "joined_at": "2024-06-21T03:19:54.040Z",
+    "advocacy_programs": [
+        {
+            "program_id": "fa0acc1e-52a0-43ee-a422-05d19a6e62d6",
+            "brand": "Kerluke, Muller and Abernathy",
+            "tasks_completed": [
+                {
+                    "task_id": "47cecdee-5bbd-4939-b44a-7836ada73869",
+                    "platform": "TikTok",
+                    "post_url": "https://pushy-e-mail.name/",
+                    "likes": 316,
+                    "comments": 43,
+                    "shares": 42,
+                    "reach": 5977
+                }
+            ],
+            "total_sales_attributed": 263.0284008625151
+        }
+    ]
+}

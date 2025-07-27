@@ -1,0 +1,26 @@
+{
+    "user_id": "28f3eb9d-8292-46bf-b2b6-0f640bb4d1d4",
+    "name": "Ivan Spencer",
+    "email": "Carolyn_Leuschke@yahoo.com",
+    "instagram_handle": "@Elmo.Wiegand",
+    "tiktok_handle": "@Sienna.Boyer47",
+    "joined_at": "2024-09-25T12:06:49.451Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b6fedde9-41ee-4fc5-a3a5-da1f90b777e6",
+            "brand": "Kuhlman, Corkery and Rath",
+            "tasks_completed": [
+                {
+                    "task_id": "73774470-2287-4555-84a8-fa101018c316",
+                    "platform": "TikTok",
+                    "post_url": "https://bossy-bran.org/",
+                    "likes": 483,
+                    "comments": 4,
+                    "shares": 13,
+                    "reach": 6433
+                }
+            ],
+            "total_sales_attributed": 2660.4937205052406
+        }
+    ]
+}

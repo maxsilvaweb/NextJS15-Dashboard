@@ -1,0 +1,26 @@
+{
+    "user_id": "e5e6b5b6-22fd-45bf-90d0-30e99179bdc1",
+    "name": "Jeremy Thompson",
+    "email": "mwong@example.org",
+    "instagram_handle": "@aaronroberts",
+    "tiktok_handle": "@georgeperez",
+    "joined_at": "2024-02-18T23:35:28.108483",
+    "advocacy_programs": [
+        {
+            "program_id": "9f8fb542-4606-48f9-84e9-acb0784332d9",
+            "brand": "Kemp-Perez",
+            "tasks_completed": [
+                {
+                    "task_id": "7323cebf-7003-4bee-8852-28864e896995",
+                    "platform": "Twitter",
+                    "post_url": "http://www.johnson-taylor.info/",
+                    "likes": 4451,
+                    "comments": 214,
+                    "shares": 9,
+                    "reach": 4444
+                }
+            ],
+            "total_sales_attributed": 9305.07
+        }
+    ]
+}

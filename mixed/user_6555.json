@@ -1,0 +1,26 @@
+{
+    "user_id": "31dc1ce3-cd1c-4538-9aa0-f5e9067998bc",
+    "name": "Jason Hunt",
+    "email": "nicholas58@example.com",
+    "instagram_handle": "@melissatorres",
+    "tiktok_handle": "@chadrobinson",
+    "joined_at": "2025-04-11T10:24:59.621066",
+    "advocacy_programs": [
+        {
+            "program_id": "dead0f77-5ad3-4ea4-91e0-b57529fde20f",
+            "brand": "Marshall-Ortiz",
+            "tasks_completed": [
+                {
+                    "task_id": "3abf9ff1-93be-406b-820f-efbff35869db",
+                    "platform": "Instagram",
+                    "post_url": "http://cherry.info/",
+                    "likes": 8279,
+                    "comments": 373,
+                    "shares": 69,
+                    "reach": 8386
+                }
+            ],
+            "total_sales_attributed": 6381.77
+        }
+    ]
+}

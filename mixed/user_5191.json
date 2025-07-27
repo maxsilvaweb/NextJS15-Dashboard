@@ -1,0 +1,26 @@
+{
+    "user_id": "3879a392-ff9e-4167-82ac-97822f9de893",
+    "name": "Amanda Shaw",
+    "email": "frobertson@example.com",
+    "instagram_handle": "@amywilliams",
+    "tiktok_handle": "@cynthiarobinson",
+    "joined_at": "2023-10-15T21:50:04.458470",
+    "advocacy_programs": [
+        {
+            "program_id": "b3bc4103-94d0-4e87-abb1-c54ea511e72f",
+            "brand": "Wright, Fowler and Powell",
+            "tasks_completed": [
+                {
+                    "task_id": "07ef286b-6337-4f0c-bbb5-ac9e5f793586",
+                    "platform": "YouTube",
+                    "post_url": "https://vengeful-finger.name/",
+                    "likes": 5761,
+                    "comments": 200,
+                    "shares": 45,
+                    "reach": 4566
+                }
+            ],
+            "total_sales_attributed": 6339.19
+        }
+    ]
+}

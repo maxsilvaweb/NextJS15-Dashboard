@@ -1,0 +1,26 @@
+{
+    "user_id": "539c92c9-8976-46c5-8d1d-1a3648c4f30c",
+    "name": "Dr. Douglas Kovacek",
+    "email": "Freeda.Schmeler-Weimann82@gmail.com",
+    "instagram_handle": "@Kendra80",
+    "tiktok_handle": "@Eunice27",
+    "joined_at": "2024-04-29T17:48:00.868Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c5131bbc-416c-4141-a6bf-2e43af8b9d74",
+            "brand": "Jones LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "754199c4-4736-4073-b65c-ccd9bc8b9e61",
+                    "platform": "Instagram",
+                    "post_url": "https://cavernous-remark.com/",
+                    "likes": 448,
+                    "comments": 40,
+                    "shares": 9,
+                    "reach": 4232
+                }
+            ],
+            "total_sales_attributed": 1305.882815059928
+        }
+    ]
+}

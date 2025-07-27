@@ -1,0 +1,26 @@
+{
+    "user_id": "d5eb008e-57b3-4ddc-8c57-b63e07dd40a6",
+    "name": "Stephen Jacobi",
+    "email": "Monica_McCullough@hotmail.com",
+    "instagram_handle": "@Donnie40",
+    "tiktok_handle": "@Sherman68",
+    "joined_at": "2024-07-28T09:17:44.005Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e3591222-1d9e-4508-b6ff-502209daac94",
+            "brand": "Wolf, Ullrich and Leannon",
+            "tasks_completed": [
+                {
+                    "task_id": "8bbf5f14-823c-472b-8893-66431080334b",
+                    "platform": "TikTok",
+                    "post_url": "https://defensive-bowling.org/",
+                    "likes": 498,
+                    "comments": 31,
+                    "shares": 58,
+                    "reach": 5641
+                }
+            ],
+            "total_sales_attributed": 1628.8685702729338
+        }
+    ]
+}

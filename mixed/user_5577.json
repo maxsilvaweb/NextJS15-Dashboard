@@ -1,0 +1,26 @@
+{
+    "user_id": "8466c8d2-2d30-406f-9f7d-2351b86206ec",
+    "name": "Carl Smith",
+    "email": "stephanie93@example.org",
+    "instagram_handle": "@suarezjaime",
+    "tiktok_handle": "@xlopez",
+    "joined_at": "2023-09-19T07:30:09.555834",
+    "advocacy_programs": [
+        {
+            "program_id": "3780431a-2b2d-4382-b7ad-8eea1760a5b1",
+            "brand": "Russell PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "592467dc-b897-452f-be41-471554faf368",
+                    "platform": "Instagram",
+                    "post_url": "http://casey.biz/",
+                    "likes": 6855,
+                    "comments": 197,
+                    "shares": 56,
+                    "reach": 1022
+                }
+            ],
+            "total_sales_attributed": 6153.5
+        }
+    ]
+}

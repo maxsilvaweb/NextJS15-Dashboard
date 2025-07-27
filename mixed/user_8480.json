@@ -1,0 +1,26 @@
+{
+    "user_id": "b0cccf96-45cd-4622-9b0b-b57da09f6917",
+    "name": "Carla Nguyen",
+    "email": "katherinevalencia@example.org",
+    "instagram_handle": "@bianca15",
+    "tiktok_handle": "@lcastillo",
+    "joined_at": "2025-01-02T08:31:32.921493",
+    "advocacy_programs": [
+        {
+            "program_id": "70664280-b1af-4a47-9f4a-348d65e5b54d",
+            "brand": "Taylor-Smith",
+            "tasks_completed": [
+                {
+                    "task_id": "64c9bbca-b1ef-486e-b763-8fa25fe00993",
+                    "platform": "Facebook",
+                    "post_url": "http://fernandez-cook.com/",
+                    "likes": 1542,
+                    "comments": 398,
+                    "shares": 29,
+                    "reach": 5509
+                }
+            ],
+            "total_sales_attributed": 7770.78
+        }
+    ]
+}

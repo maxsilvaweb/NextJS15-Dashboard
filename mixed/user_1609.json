@@ -1,0 +1,26 @@
+{
+    "user_id": "687ed8f5-de57-4d45-aac8-0be586ac376a",
+    "name": "Hannah Campbell",
+    "email": "Adolphus.Predovic63@gmail.com",
+    "instagram_handle": "@aphelps",
+    "tiktok_handle": "@Bertram9",
+    "joined_at": "2024-12-22T05:43:30.692631",
+    "advocacy_programs": [
+        {
+            "program_id": "1ae16177-d0d3-4788-ae67-fbe782ce10a1",
+            "brand": "Dennis Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "6a42aa85-e16a-4d85-9870-ec9585f6e1be",
+                    "platform": "Instagram",
+                    "post_url": "https://williams-dunn.info/",
+                    "likes": 8075,
+                    "comments": 408,
+                    "shares": 94,
+                    "reach": 1265
+                }
+            ],
+            "total_sales_attributed": 328.7534008943493
+        }
+    ]
+}

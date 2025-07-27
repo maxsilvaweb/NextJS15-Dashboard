@@ -1,0 +1,26 @@
+{
+    "user_id": "b23647ca-3d28-4d00-8cf1-90e7102a3afc",
+    "name": "Ramiro Boehm",
+    "email": "Jordan_Bashirian@yahoo.com",
+    "instagram_handle": "@Annabell.Adams98",
+    "tiktok_handle": "@Darrin_Steuber",
+    "joined_at": "2025-01-03T01:10:11.439Z",
+    "advocacy_programs": [
+        {
+            "program_id": "45afd1f1-5c7d-4696-9245-7cf284a08c54",
+            "brand": "Gerlach - O'Keefe",
+            "tasks_completed": [
+                {
+                    "task_id": "ea254b9f-3270-46c0-9fcb-ff005c966be6",
+                    "platform": "TikTok",
+                    "post_url": "https://blond-marten.info/",
+                    "likes": 281,
+                    "comments": 10,
+                    "shares": 38,
+                    "reach": 806
+                }
+            ],
+            "total_sales_attributed": 4877.455744592294
+        }
+    ]
+}

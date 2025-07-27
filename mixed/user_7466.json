@@ -1,0 +1,26 @@
+{
+    "user_id": "103948db-0105-4f36-8700-37df7ea72984",
+    "name": "Rebecca Olson",
+    "email": "scottricky@example.org",
+    "instagram_handle": "@mary00",
+    "tiktok_handle": "@haleymullins",
+    "joined_at": "2024-06-09T04:44:35.056933",
+    "advocacy_programs": [
+        {
+            "program_id": "ed360ce9-86de-4f1e-9911-5912416d436b",
+            "brand": "Bennett-Davis",
+            "tasks_completed": [
+                {
+                    "task_id": "95533d23-c77e-46f4-9534-b3cb76ef661d",
+                    "platform": "Instagram",
+                    "post_url": "https://swift-detective.biz",
+                    "likes": 5158,
+                    "comments": 257,
+                    "shares": 42,
+                    "reach": 2733
+                }
+            ],
+            "total_sales_attributed": 1130.9839921621287
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "36e8e872-277d-4e4f-a4e2-a03215e18b92",
+    "name": "Dr. Doreen Dietrich",
+    "email": "Alice.VonRueden@gmail.com",
+    "instagram_handle": "@Noelia36",
+    "tiktok_handle": "@Charley83",
+    "joined_at": "2024-10-22T13:39:53.607Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3a764ef1-e3ee-421a-a55a-9e2d78dbc653",
+            "brand": "Metz - Cremin",
+            "tasks_completed": [
+                {
+                    "task_id": "06bb0597-dda2-4733-991c-20711581d6bf",
+                    "platform": "Instagram",
+                    "post_url": "https://celebrated-fat.com/",
+                    "likes": 44,
+                    "comments": 0,
+                    "shares": 100,
+                    "reach": 668
+                }
+            ],
+            "total_sales_attributed": 1321.8177053955956
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "8252179f-e254-423e-865c-5d3e7bc5430e",
+    "name": "Danielle Hoover",
+    "email": "claytondominguez@example.net",
+    "instagram_handle": "@oneilljose",
+    "tiktok_handle": "@lopezvalerie",
+    "joined_at": "2024-03-06T22:22:02.982114",
+    "advocacy_programs": [
+        {
+            "program_id": "3a8fdcc7-7c12-4692-868f-6bc46c9922a9",
+            "brand": "Morris and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "ec0451fe-7c5e-4522-9ffc-32b0319015bd",
+                    "platform": "Instagram",
+                    "post_url": "https://shiny-opera.name/",
+                    "likes": 2357,
+                    "comments": 125,
+                    "shares": 41,
+                    "reach": 5014
+                }
+            ],
+            "total_sales_attributed": 4403.53
+        }
+    ]
+}

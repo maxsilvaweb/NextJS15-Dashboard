@@ -1,0 +1,26 @@
+{
+    "user_id": "d797f60b-22ff-4016-99f3-46d8ce06cf34",
+    "name": "Aaron Gislason",
+    "email": "Kayla3@gmail.com",
+    "instagram_handle": "@Stuart.Koch31",
+    "tiktok_handle": "@Elouise.Lind",
+    "joined_at": "2025-01-01T10:45:47.086Z",
+    "advocacy_programs": [
+        {
+            "program_id": "feb74da3-0193-49dc-841d-ee04e95ceb1c",
+            "brand": "Skiles - Lang",
+            "tasks_completed": [
+                {
+                    "task_id": "4eaad2b5-0b85-41ea-8e8d-a4e047a30ed0",
+                    "platform": "TikTok",
+                    "post_url": "https://wealthy-account.biz",
+                    "likes": 106,
+                    "comments": 37,
+                    "shares": 89,
+                    "reach": 3303
+                }
+            ],
+            "total_sales_attributed": 1976.7628406571387
+        }
+    ]
+}

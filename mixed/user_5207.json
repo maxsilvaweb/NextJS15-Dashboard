@@ -1,0 +1,26 @@
+{
+    "user_id": "6fa169a2-aebc-43a5-84df-d30d37fa97f7",
+    "name": "Allison Sipes",
+    "email": "williamstonya@example.org",
+    "instagram_handle": "@matthew30",
+    "tiktok_handle": "@jonesmichelle",
+    "joined_at": "2025-01-08T19:22:51.026330",
+    "advocacy_programs": [
+        {
+            "program_id": "2da144fd-d667-47c1-8a9e-99764d24f7e1",
+            "brand": "Pearson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "ad97cb82-c6f3-426d-a06d-03ce5a0ab640",
+                    "platform": "Instagram",
+                    "post_url": "http://www.johnson.com/",
+                    "likes": 1993,
+                    "comments": 278,
+                    "shares": 26,
+                    "reach": 2477
+                }
+            ],
+            "total_sales_attributed": 833.73
+        }
+    ]
+}

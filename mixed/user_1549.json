@@ -1,0 +1,26 @@
+{
+    "user_id": "d3f1c81c-071a-47ba-b9b1-fd706c38146e",
+    "name": "Jesse Hilll",
+    "email": "Leila41@gmail.com",
+    "instagram_handle": "@Justina.Stanton",
+    "tiktok_handle": "@Anderson32",
+    "joined_at": "2025-01-05T19:44:22.092Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bc9301b9-3238-494d-8639-914276b1ca5b",
+            "brand": "D'Amore and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "0b5e4997-1746-46f5-abd7-efc21217acd1",
+                    "platform": "Instagram",
+                    "post_url": "https://prudent-formation.com",
+                    "likes": 240,
+                    "comments": 48,
+                    "shares": 51,
+                    "reach": 9426
+                }
+            ],
+            "total_sales_attributed": 3572.5669884543904
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "ce5b6e99-aad4-4f8d-aa38-3ab2bf15ec92",
+    "name": "Laurie Barnes",
+    "email": "lindacarter@example.org",
+    "instagram_handle": "@lewisaimee",
+    "tiktok_handle": "@william98",
+    "joined_at": "2024-02-02T04:30:01.954873",
+    "advocacy_programs": [
+        {
+            "program_id": "77a9bc7a-6cea-4b01-b02a-9b4b35065ec5",
+            "brand": "Holmes PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7781255e-55a3-4758-aad7-6673dbe8e275",
+                    "platform": "Twitter",
+                    "post_url": "http://www.scott-bryant.biz/",
+                    "likes": 2176,
+                    "comments": 220,
+                    "shares": 51,
+                    "reach": 4738
+                }
+            ],
+            "total_sales_attributed": 3423.270672007198
+        }
+    ]
+}

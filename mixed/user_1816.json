@@ -1,0 +1,26 @@
+{
+    "user_id": "9c6e2d3a-e515-4ee7-8359-dd9f6f4ca2be",
+    "name": "Carrie Sanchez",
+    "email": "fduran@example.com",
+    "instagram_handle": "@david05",
+    "tiktok_handle": "@eileen02",
+    "joined_at": "2025-02-21T14:38:33.933671",
+    "advocacy_programs": [
+        {
+            "program_id": "bf680a06-ebd6-45e9-9882-856b45e667b9",
+            "brand": "Medhurst - Bode",
+            "tasks_completed": [
+                {
+                    "task_id": "d96d1475-68bf-4e02-b298-0cdb98d8fa45",
+                    "platform": "Facebook",
+                    "post_url": "https://www.acosta.biz/",
+                    "likes": 8087,
+                    "comments": 422,
+                    "shares": 46,
+                    "reach": 1165
+                }
+            ],
+            "total_sales_attributed": 4734.58
+        }
+    ]
+}

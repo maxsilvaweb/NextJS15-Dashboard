@@ -1,0 +1,26 @@
+{
+    "user_id": "a5164f1b-2ee7-4a31-b607-4e255f00f228",
+    "name": "Eric Harding",
+    "email": "ysingleton@example.com",
+    "instagram_handle": "@fmanning",
+    "tiktok_handle": "@bridgeselizabeth",
+    "joined_at": "2025-01-03T07:08:48.263530",
+    "advocacy_programs": [
+        {
+            "program_id": "e8781771-1d63-468a-9284-b9fa1d63f672",
+            "brand": "Welch-Buckley",
+            "tasks_completed": [
+                {
+                    "task_id": "16e449ac-3ea3-47d5-b632-358184755a1c",
+                    "platform": "TikTok",
+                    "post_url": "https://olsen.net/",
+                    "likes": 2317,
+                    "comments": 20,
+                    "shares": 46,
+                    "reach": 4432
+                }
+            ],
+            "total_sales_attributed": 594.09
+        }
+    ]
+}

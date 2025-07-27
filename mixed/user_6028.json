@@ -1,0 +1,26 @@
+{
+    "user_id": "3c1985ba-bcbd-4d10-8d92-2c49f7badef4",
+    "name": "Elizabeth Davis",
+    "email": "hillmatthew@example.org",
+    "instagram_handle": "@romanbrian",
+    "tiktok_handle": "@dvaughan",
+    "joined_at": "2024-08-26T20:03:49.522599",
+    "advocacy_programs": [
+        {
+            "program_id": "7f7a521b-d7ed-4ef0-8ef8-455088582a84",
+            "brand": "Hubbard LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "698462f8-eb68-412c-a4f9-bf560450efcf",
+                    "platform": "Instagram",
+                    "post_url": "https://lucky-lady.net/",
+                    "likes": 8498,
+                    "comments": 409,
+                    "shares": 86,
+                    "reach": 1873
+                }
+            ],
+            "total_sales_attributed": 6480.75
+        }
+    ]
+}

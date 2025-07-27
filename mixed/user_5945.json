@@ -1,0 +1,26 @@
+{
+    "user_id": "88f89a85-db78-4092-ab8c-e77cf43bd037",
+    "name": "Hannah Curtis",
+    "email": "whenderson@example.com",
+    "instagram_handle": "@patrick45",
+    "tiktok_handle": "@jay05",
+    "joined_at": "2025-01-18T04:18:11.820520",
+    "advocacy_programs": [
+        {
+            "program_id": "55b448d4-8de5-4e09-b695-a19436f290c0",
+            "brand": "Schultz Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "0b431e30-1fa6-4c32-9152-022511e3f7cd",
+                    "platform": "YouTube",
+                    "post_url": "https://rundown-bungalow.biz",
+                    "likes": 172,
+                    "comments": 31,
+                    "shares": 76,
+                    "reach": 6629
+                }
+            ],
+            "total_sales_attributed": 4490.61
+        }
+    ]
+}

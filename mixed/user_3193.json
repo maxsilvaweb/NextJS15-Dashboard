@@ -1,0 +1,26 @@
+{
+    "user_id": "04a7e933-3bef-49e7-8c36-d40696357cd1",
+    "name": "Archie Witting",
+    "email": "Mireya_Rowe-Beahan@hotmail.com",
+    "instagram_handle": "@Shana.Ratke59",
+    "tiktok_handle": "@Tanner78",
+    "joined_at": "2024-08-04T18:58:11.417Z",
+    "advocacy_programs": [
+        {
+            "program_id": "621915fa-a378-4ef3-b67c-34f8e8d84cd9",
+            "brand": "Schinner, Bergnaum and Becker",
+            "tasks_completed": [
+                {
+                    "task_id": "9a192805-00fb-4972-994c-cbca02b83b84",
+                    "platform": "TikTok",
+                    "post_url": "https://foolhardy-fishery.info/",
+                    "likes": 65,
+                    "comments": 23,
+                    "shares": 57,
+                    "reach": 6672
+                }
+            ],
+            "total_sales_attributed": 4629.945134952001
+        }
+    ]
+}

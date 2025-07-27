@@ -1,0 +1,26 @@
+{
+    "user_id": "3bc4541b-761d-49cc-9360-aeb4d3d5ede2",
+    "name": "Brandi Gibson",
+    "email": "akeith@example.net",
+    "instagram_handle": "@connormunoz",
+    "tiktok_handle": "@douglas59",
+    "joined_at": "2024-10-09T01:20:50.048Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b0952d67-f53c-4052-98bc-6d481d370cc3",
+            "brand": "Klein Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "9c87a8f9-2bf0-48e4-9b43-ad8f875c8db8",
+                    "platform": "Instagram",
+                    "post_url": "http://www.henry-rodriguez.com/",
+                    "likes": 7930,
+                    "comments": 46,
+                    "shares": 28,
+                    "reach": 4303
+                }
+            ],
+            "total_sales_attributed": 7706.73
+        }
+    ]
+}

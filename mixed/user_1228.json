@@ -1,0 +1,26 @@
+{
+    "user_id": "a6fb3ea2-c8dc-4eb5-bca4-7014119e4f3a",
+    "name": "Kimberly Ponce",
+    "email": "michaelparker@example.com",
+    "instagram_handle": "@rsimon",
+    "tiktok_handle": "@shawnjohnson",
+    "joined_at": "2024-06-13T22:32:03.275987",
+    "advocacy_programs": [
+        {
+            "program_id": "03a92495-6780-4bbb-b78a-610d2b14324e",
+            "brand": "Ryan LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "8efc99c1-1be0-485a-9e68-9ca88fdbd977",
+                    "platform": "Twitter",
+                    "post_url": "https://hoover-mendoza.org/",
+                    "likes": 8083,
+                    "comments": 3,
+                    "shares": 36,
+                    "reach": 1152
+                }
+            ],
+            "total_sales_attributed": 730.13
+        }
+    ]
+}

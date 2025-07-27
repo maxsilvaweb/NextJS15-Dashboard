@@ -1,0 +1,26 @@
+{
+    "user_id": "25946873-64aa-4f54-96d5-d15b508e710d",
+    "name": "Christopher Walker",
+    "email": "hamiltonrodney@example.com",
+    "instagram_handle": "@wallalexa",
+    "tiktok_handle": "@aweiss",
+    "joined_at": "2024-10-11T15:42:44.460605",
+    "advocacy_programs": [
+        {
+            "program_id": "848a0de0-7753-42cf-a0de-26ef6fb56db9",
+            "brand": "Stevens-Guerrero",
+            "tasks_completed": [
+                {
+                    "task_id": "637d61ab-1e96-4ee9-a43b-784bb225dbed",
+                    "platform": "TikTok",
+                    "post_url": "http://andrews.com/",
+                    "likes": 126,
+                    "comments": 81,
+                    "shares": 58,
+                    "reach": 2846
+                }
+            ],
+            "total_sales_attributed": 9968.1
+        }
+    ]
+}

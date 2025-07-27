@@ -1,0 +1,26 @@
+{
+    "user_id": "0f8a62cd-f2ac-437a-b4f0-137c622ac235",
+    "name": "Erik Willms",
+    "email": "Zula.Denesik76@yahoo.com",
+    "instagram_handle": "@Walter.Rath",
+    "tiktok_handle": "@Sylvester36",
+    "joined_at": "2025-03-05T00:06:21.964Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f4ba490d-b876-48bb-aa39-2ed9391cd2c8",
+            "brand": "Olson, Jerde and Simonis",
+            "tasks_completed": [
+                {
+                    "task_id": "d1411679-2f92-45dc-9de6-8b25cf153ae9",
+                    "platform": "Instagram",
+                    "post_url": "https://lazy-planula.net",
+                    "likes": 196,
+                    "comments": 45,
+                    "shares": 34,
+                    "reach": 3957
+                }
+            ],
+            "total_sales_attributed": 4452.414892351455
+        }
+    ]
+}

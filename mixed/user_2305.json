@@ -1,0 +1,26 @@
+{
+    "user_id": "bc3f5d2a-8731-42f3-88a2-f3567603937c",
+    "name": "Brittany Gonzalez",
+    "email": "amandalee@example.com",
+    "instagram_handle": "@douglasjoseph",
+    "tiktok_handle": "@daniel64",
+    "joined_at": "2025-05-24T03:08:34.791314",
+    "advocacy_programs": [
+        {
+            "program_id": "87d523de-9620-46f8-84e0-cfbcd64c9405",
+            "brand": "Davis-Ibarra",
+            "tasks_completed": [
+                {
+                    "task_id": "8ad4bc6e-df1e-4d15-a66e-e34619d24f82",
+                    "platform": "Facebook",
+                    "post_url": "https://schultz-gonzalez.com/",
+                    "likes": 2861,
+                    "comments": 205,
+                    "shares": 31,
+                    "reach": 3844
+                }
+            ],
+            "total_sales_attributed": 8518.16
+        }
+    ]
+}

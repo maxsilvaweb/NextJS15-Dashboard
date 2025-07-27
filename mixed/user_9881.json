@@ -1,0 +1,26 @@
+{
+    "user_id": "7dba1591-7365-44bf-b3b2-0dc483c25296",
+    "name": "Dr. Terry Bogisich",
+    "email": "Fiona_Bednar@gmail.com",
+    "instagram_handle": "@Junius_Marvin",
+    "tiktok_handle": "@Asa17",
+    "joined_at": "2024-12-13T14:54:32.690Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ba88e3fc-86a9-484e-bfc4-7eba1a9fd419",
+            "brand": "Jakubowski - Boyle",
+            "tasks_completed": [
+                {
+                    "task_id": "2bc2f06a-d34f-4cb3-bbd9-31f6fe698803",
+                    "platform": "Instagram",
+                    "post_url": "https://afraid-earth.net",
+                    "likes": 296,
+                    "comments": 20,
+                    "shares": 37,
+                    "reach": 3596
+                }
+            ],
+            "total_sales_attributed": 3222.398954838959
+        }
+    ]
+}

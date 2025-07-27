@@ -1,0 +1,26 @@
+{
+    "user_id": "a7493f75-6f29-41a4-9548-21ddc37a324a",
+    "name": "Margaret Hamill",
+    "email": "Mireya_Lynch@gmail.com",
+    "instagram_handle": "@Xander.Cartwright90",
+    "tiktok_handle": "@Thora_Wisozk",
+    "joined_at": "2025-02-03T22:09:58.982Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5069010f-a11e-4e39-aace-5d505b58a235",
+            "brand": "Bartell LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "43951318-30d9-4597-9498-daa7f30ed45a",
+                    "platform": "Instagram",
+                    "post_url": "https://meager-event.net/",
+                    "likes": 482,
+                    "comments": 7,
+                    "shares": 23,
+                    "reach": 9005
+                }
+            ],
+            "total_sales_attributed": 4577.197215503563
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "d8b41c7a-ebde-4638-bc74-413b9f59723b",
+    "name": "Don Franecki",
+    "email": "Luigi82@hotmail.com",
+    "instagram_handle": "@Rhiannon_Hartmann19",
+    "tiktok_handle": "@Quincy_Nienow12",
+    "joined_at": "2024-04-21T09:05:39.611Z",
+    "advocacy_programs": [
+        {
+            "program_id": "bc4655ce-7997-4a1b-a30b-776a4b1954df",
+            "brand": "Haley - Fay",
+            "tasks_completed": [
+                {
+                    "task_id": "65b742f1-6785-4c3c-950e-b5839fe9d396",
+                    "platform": "Instagram",
+                    "post_url": "https://husky-adult.info",
+                    "likes": 269,
+                    "comments": 9,
+                    "shares": 49,
+                    "reach": 3937
+                }
+            ],
+            "total_sales_attributed": 237.07216649547706
+        }
+    ]
+}

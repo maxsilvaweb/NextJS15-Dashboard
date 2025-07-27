@@ -1,0 +1,26 @@
+{
+    "user_id": "055ed026-6b2e-4af8-ae60-db2a4107f676",
+    "name": "Kristine Roberts",
+    "email": "Daphne.Stamm7@yahoo.com",
+    "instagram_handle": "@Christine81",
+    "tiktok_handle": "@Lula.Johnston86",
+    "joined_at": "2024-11-02T18:10:29.120Z",
+    "advocacy_programs": [
+        {
+            "program_id": "0fe500f3-21b2-4574-9c4f-0447f05e0521",
+            "brand": "Schimmel Group",
+            "tasks_completed": [
+                {
+                    "task_id": "30d741cb-d152-4bf2-aa20-2dcec8696189",
+                    "platform": "TikTok",
+                    "post_url": "https://quixotic-ownership.name/",
+                    "likes": 145,
+                    "comments": 28,
+                    "shares": 76,
+                    "reach": 1612
+                }
+            ],
+            "total_sales_attributed": 325.10132678890784
+        }
+    ]
+}

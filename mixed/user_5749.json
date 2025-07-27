@@ -1,0 +1,26 @@
+{
+    "user_id": "6c3953e6-1663-4f8c-9941-4311e2f9ae65",
+    "name": "Alexandra Johnson",
+    "email": "Mavis.Shields@hotmail.com",
+    "instagram_handle": "@susan80",
+    "tiktok_handle": "@adam64",
+    "joined_at": "2023-08-27T03:06:07.977248",
+    "advocacy_programs": [
+        {
+            "program_id": "aa20db34-6122-4ff9-8f02-4f9e5f7b3e37",
+            "brand": "Leuschke LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "80c26c7e-c6d9-456d-9ae2-c7369f236566",
+                    "platform": "TikTok",
+                    "post_url": "https://cunningham.com/",
+                    "likes": 2847,
+                    "comments": 293,
+                    "shares": 78,
+                    "reach": 1647
+                }
+            ],
+            "total_sales_attributed": 9417.37
+        }
+    ]
+}

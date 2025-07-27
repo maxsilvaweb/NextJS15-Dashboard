@@ -1,0 +1,26 @@
+{
+    "user_id": "115571fd-53c8-4f36-b79d-b31833808915",
+    "name": "John Gray",
+    "email": "michelle43@example.com",
+    "instagram_handle": "@mayomelvin",
+    "tiktok_handle": "@evandavis",
+    "joined_at": "2025-01-08T13:43:04.965Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b4ee5770-6d7f-4d7e-8d30-d2fdbec702a9",
+            "brand": "Randall-Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "4967948d-9dec-4635-990b-3513469a788d",
+                    "platform": "Facebook",
+                    "post_url": "http://hughes-warren.com/",
+                    "likes": 44,
+                    "comments": 419,
+                    "shares": 100,
+                    "reach": 5945
+                }
+            ],
+            "total_sales_attributed": 4478.926178909947
+        }
+    ]
+}

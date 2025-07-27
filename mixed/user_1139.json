@@ -1,0 +1,26 @@
+{
+    "user_id": "488550e5-f519-479f-832f-78b5b0cd7115",
+    "name": "Benjamin Owens",
+    "email": "lambertmatthew@example.com",
+    "instagram_handle": "@parkrobert",
+    "tiktok_handle": "@jill63",
+    "joined_at": "2023-09-16T15:49:31.381592",
+    "advocacy_programs": [
+        {
+            "program_id": "d4151185-3f00-42c4-994a-1c9cda8a9762",
+            "brand": "Jennings, Greer and Cannon",
+            "tasks_completed": [
+                {
+                    "task_id": "0b3ba357-b487-46cc-89eb-c84877483359",
+                    "platform": "Instagram",
+                    "post_url": "http://www.grant.info/",
+                    "likes": 3428,
+                    "comments": 66,
+                    "shares": 95,
+                    "reach": 4166
+                }
+            ],
+            "total_sales_attributed": 9096.36
+        }
+    ]
+}

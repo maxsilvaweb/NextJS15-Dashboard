@@ -1,0 +1,26 @@
+{
+    "user_id": "48bd2439-7b4d-49b2-ba44-68c5ff6285ab",
+    "name": "Yesenia Taylor",
+    "email": "Jalon.Stanton-Will@gmail.com",
+    "instagram_handle": "@mistyyates",
+    "tiktok_handle": "@stephaniemiller",
+    "joined_at": "2024-04-22T06:39:31.988994",
+    "advocacy_programs": [
+        {
+            "program_id": "efd67562-01d0-44dc-b82d-48d2421210b1",
+            "brand": "West-Patton",
+            "tasks_completed": [
+                {
+                    "task_id": "606dd975-2e56-4dbb-b095-b7701954b1f7",
+                    "platform": "Instagram",
+                    "post_url": "https://morgan.biz/",
+                    "likes": 134,
+                    "comments": 315,
+                    "shares": 47,
+                    "reach": 2380
+                }
+            ],
+            "total_sales_attributed": 432.75
+        }
+    ]
+}

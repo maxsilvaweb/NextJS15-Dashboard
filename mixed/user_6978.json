@@ -1,0 +1,26 @@
+{
+    "user_id": "67e983dc-aa80-4d7a-9033-f342d858cbc4",
+    "name": "Kimberly Sullivan",
+    "email": "vparsons@example.com",
+    "instagram_handle": "@barajasjohn",
+    "tiktok_handle": "@brownsabrina",
+    "joined_at": "2024-02-20T23:08:29.365338",
+    "advocacy_programs": [
+        {
+            "program_id": "e9fb6d25-6c39-4f96-80fb-424c453d61ec",
+            "brand": "Allen-Miller",
+            "tasks_completed": [
+                {
+                    "task_id": "4f0e2012-86cc-4bdd-85a9-486aee604145",
+                    "platform": "TikTok",
+                    "post_url": "https://outlying-fork.name",
+                    "likes": 630,
+                    "comments": 107,
+                    "shares": 34,
+                    "reach": 2682
+                }
+            ],
+            "total_sales_attributed": 4755.93
+        }
+    ]
+}

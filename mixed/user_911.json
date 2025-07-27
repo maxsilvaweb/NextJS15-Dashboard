@@ -1,0 +1,26 @@
+{
+    "user_id": "ec9b69df-3d97-40b6-a2ab-b58bcd8a8236",
+    "name": "Paul Lakin",
+    "email": "Watson.Kub@gmail.com",
+    "instagram_handle": "@Jettie_Wuckert48",
+    "tiktok_handle": "@Cristobal45",
+    "joined_at": "2024-03-22T17:38:56.794Z",
+    "advocacy_programs": [
+        {
+            "program_id": "83570827-2155-405c-8fee-8001fe071b79",
+            "brand": "Gerlach and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "0880f5c8-c8b3-49c4-be6d-45c06d8e7525",
+                    "platform": "Instagram",
+                    "post_url": "https://long-fundraising.info/",
+                    "likes": 455,
+                    "comments": 50,
+                    "shares": 33,
+                    "reach": 2889
+                }
+            ],
+            "total_sales_attributed": 4850.930062743059
+        }
+    ]
+}

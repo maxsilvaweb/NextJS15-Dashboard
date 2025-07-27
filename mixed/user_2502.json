@@ -1,0 +1,26 @@
+{
+    "user_id": "420bb928-0cd9-4f25-bc0a-15770c83af3a",
+    "name": "Amanda Scott",
+    "email": "brian91@example.net",
+    "instagram_handle": "@caitlinfowler",
+    "tiktok_handle": "@davidhicks",
+    "joined_at": "2024-05-10T03:31:05.103207",
+    "advocacy_programs": [
+        {
+            "program_id": "a1bbce5d-44a0-47e6-ae0d-fe02ebda14a7",
+            "brand": "Barrows - Lubowitz",
+            "tasks_completed": [
+                {
+                    "task_id": "68be45d8-f1b4-41c6-9fb3-74bdd55b306c",
+                    "platform": "TikTok",
+                    "post_url": "https://mills.com/",
+                    "likes": 1160,
+                    "comments": 23,
+                    "shares": 22,
+                    "reach": 4487
+                }
+            ],
+            "total_sales_attributed": 1818.880231002795
+        }
+    ]
+}

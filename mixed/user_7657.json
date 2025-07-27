@@ -1,0 +1,26 @@
+{
+    "user_id": "c58bb314-eaf7-40eb-844b-e3fa42600f67",
+    "name": "Michael Riley",
+    "email": "stephen00@example.org",
+    "instagram_handle": "@berrykelly",
+    "tiktok_handle": "@ashley87",
+    "joined_at": "2024-02-27T22:58:53.191000",
+    "advocacy_programs": [
+        {
+            "program_id": "6d4c8fbe-bd66-4bd9-90a1-db9456a4e654",
+            "brand": "Thompson-Brown",
+            "tasks_completed": [
+                {
+                    "task_id": "8a556dfe-d438-4113-9fff-9feba9ce6eda",
+                    "platform": "TikTok",
+                    "post_url": "http://stephenson.info/",
+                    "likes": 9985,
+                    "comments": 200,
+                    "shares": 36,
+                    "reach": 880
+                }
+            ],
+            "total_sales_attributed": 3437.5
+        }
+    ]
+}

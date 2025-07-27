@@ -1,0 +1,26 @@
+{
+    "user_id": "1ada7842-6527-4f34-9512-5eee19f4a3da",
+    "name": "Danielle Jenkins",
+    "email": "stephenhughes@example.com",
+    "instagram_handle": "@norrisamanda",
+    "tiktok_handle": "@masonautumn",
+    "joined_at": "2024-12-23T20:45:14.697Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4b6803e8-67c0-4019-89e0-4f48e8ae2004",
+            "brand": "Poole-Ferrell",
+            "tasks_completed": [
+                {
+                    "task_id": "62f00f86-608d-41cb-8e6d-48b8be028b10",
+                    "platform": "Instagram",
+                    "post_url": "https://grizzled-affect.info/",
+                    "likes": 18,
+                    "comments": 56,
+                    "shares": 97,
+                    "reach": 7335
+                }
+            ],
+            "total_sales_attributed": 4406.12
+        }
+    ]
+}

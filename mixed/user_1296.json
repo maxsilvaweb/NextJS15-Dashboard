@@ -1,0 +1,26 @@
+{
+    "user_id": "403173ae-9f79-4b60-b595-33f8a6c30001",
+    "name": "Michelle Wilson",
+    "email": "wjenkins@example.net",
+    "instagram_handle": "@willisharold",
+    "tiktok_handle": "@dmorris",
+    "joined_at": "2024-11-21T14:19:46.898777",
+    "advocacy_programs": [
+        {
+            "program_id": "10163c8b-2e33-4873-bb8b-8314d127ff50",
+            "brand": "Smith and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "52d44793-7c1b-49b4-80fd-404bcf7d6f79",
+                    "platform": "Instagram",
+                    "post_url": "http://www.bright.com/",
+                    "likes": 432,
+                    "comments": 252,
+                    "shares": 58,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 9113.69
+        }
+    ]
+}

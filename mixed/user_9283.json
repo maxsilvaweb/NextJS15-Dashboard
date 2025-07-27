@@ -1,0 +1,26 @@
+{
+    "user_id": "4c5229fa-8ea6-4028-a7b5-cabc49cca260",
+    "name": "Candice Sandoval",
+    "email": "logantara@example.org",
+    "instagram_handle": "@marie48",
+    "tiktok_handle": "@robert51",
+    "joined_at": "2025-04-05T10:37:15.466655",
+    "advocacy_programs": [
+        {
+            "program_id": "0b23e083-1e1c-40e1-aad0-a7ff514c90f3",
+            "brand": "Harrington-Curry",
+            "tasks_completed": [
+                {
+                    "task_id": "4764c73b-3d5a-4758-82ba-712de4a2440c",
+                    "platform": "YouTube",
+                    "post_url": "https://www.harding.com/",
+                    "likes": 6107,
+                    "comments": 261,
+                    "shares": 60,
+                    "reach": 4538
+                }
+            ],
+            "total_sales_attributed": 3951.7634163408065
+        }
+    ]
+}

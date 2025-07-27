@@ -1,0 +1,26 @@
+{
+    "user_id": "f87a8c2f-f083-487c-b1a8-fbf088d5e4ab",
+    "name": "Anthony Barnes",
+    "email": "Gennaro_Doyle@yahoo.com",
+    "instagram_handle": "@melissawilliams",
+    "tiktok_handle": "@qdillon",
+    "joined_at": "2024-11-01T01:02:43.185527",
+    "advocacy_programs": [
+        {
+            "program_id": "7ed4cb7b-19ea-4266-97ba-ba6ebcb444b5",
+            "brand": "Mclaughlin-Franklin",
+            "tasks_completed": [
+                {
+                    "task_id": "9dbcce05-3d03-45e8-8d73-3f78eab605fc",
+                    "platform": "TikTok",
+                    "post_url": "https://exalted-ravioli.org/",
+                    "likes": 4967,
+                    "comments": 37,
+                    "shares": 97,
+                    "reach": 4203
+                }
+            ],
+            "total_sales_attributed": 4161.43
+        }
+    ]
+}

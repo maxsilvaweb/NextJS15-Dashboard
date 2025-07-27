@@ -1,0 +1,26 @@
+{
+    "user_id": "1756e875-d975-4c39-a0b1-e64d5447b389",
+    "name": "Wesley Lane",
+    "email": "alyssacampbell@example.org",
+    "instagram_handle": "@martin24",
+    "tiktok_handle": "@heather36",
+    "joined_at": "2025-05-13T03:34:26.119883",
+    "advocacy_programs": [
+        {
+            "program_id": "861be5b7-ee93-400e-9641-8b460a30f834",
+            "brand": "Ewing, Brown and Willis",
+            "tasks_completed": [
+                {
+                    "task_id": "11696049-6652-45f8-9670-9a0a26c76f97",
+                    "platform": "Facebook",
+                    "post_url": "https://chen-valentine.com/",
+                    "likes": 8852,
+                    "comments": 370,
+                    "shares": 83,
+                    "reach": 8524
+                }
+            ],
+            "total_sales_attributed": 9793.07
+        }
+    ]
+}

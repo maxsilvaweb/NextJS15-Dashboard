@@ -1,0 +1,26 @@
+{
+    "user_id": "5513b6f0-b3a6-4370-9020-edc9da84de91",
+    "name": "William Taylor",
+    "email": "wangamy@example.com",
+    "instagram_handle": "@jonhernandez",
+    "tiktok_handle": "@thickman",
+    "joined_at": "2024-11-18T15:37:16.286889",
+    "advocacy_programs": [
+        {
+            "program_id": "c23dfd24-7356-4fa0-bf23-affdc6ba6b9e",
+            "brand": "Reyes PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7355694b-f580-42d1-8c80-43a27a7aff1e",
+                    "platform": "TikTok",
+                    "post_url": "https://optimal-decongestant.org/",
+                    "likes": 4630,
+                    "comments": 145,
+                    "shares": 75,
+                    "reach": 7514
+                }
+            ],
+            "total_sales_attributed": 2123.732661255839
+        }
+    ]
+}

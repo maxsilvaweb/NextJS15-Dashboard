@@ -1,0 +1,26 @@
+{
+    "user_id": "7176fccc-de9c-47de-9831-155ac1fd4a6c",
+    "name": "Jerald Schimmel",
+    "email": "Dimitri87@yahoo.com",
+    "instagram_handle": "@Dedrick.Schneider",
+    "tiktok_handle": "@Fredy34",
+    "joined_at": "2024-11-27T07:01:47.780Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3b1d3624-f7a7-47e9-a402-3f83868c8c4f",
+            "brand": "Brekke - McClure",
+            "tasks_completed": [
+                {
+                    "task_id": "7592afdb-b44d-49c3-ba70-2f534df3b084",
+                    "platform": "Instagram",
+                    "post_url": "https://good-natured-cleaner.org/",
+                    "likes": 323,
+                    "comments": 17,
+                    "shares": 47,
+                    "reach": 7335
+                }
+            ],
+            "total_sales_attributed": 1266.5748373612523
+        }
+    ]
+}

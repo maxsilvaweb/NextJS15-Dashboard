@@ -1,0 +1,26 @@
+{
+    "user_id": "c31d8786-a6ee-4edf-886c-d818a34fae85",
+    "name": "Dawn Cooke",
+    "email": "ahayes@example.com",
+    "instagram_handle": "@paulaclark",
+    "tiktok_handle": "@charles42",
+    "joined_at": "2024-04-20T23:40:29.080676",
+    "advocacy_programs": [
+        {
+            "program_id": "12074313-eed7-457d-b5e5-dc36420b7e5b",
+            "brand": "Williams, Murray and Singh",
+            "tasks_completed": [
+                {
+                    "task_id": "789104b7-d51f-41b6-b2dc-a209048bf5b5",
+                    "platform": "Facebook",
+                    "post_url": "https://bowers.com/",
+                    "likes": 2125,
+                    "comments": 402,
+                    "shares": 28,
+                    "reach": 5307
+                }
+            ],
+            "total_sales_attributed": 7163.0
+        }
+    ]
+}

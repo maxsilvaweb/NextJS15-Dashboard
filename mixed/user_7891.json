@@ -1,0 +1,26 @@
+{
+    "user_id": "c2d3053d-0ffe-4b46-a56f-86faac6469fc",
+    "name": "Stefanie Adams",
+    "email": "Rosina41@yahoo.com",
+    "instagram_handle": "@chris22",
+    "tiktok_handle": "@lstark",
+    "joined_at": "2024-12-27T14:30:33.282420",
+    "advocacy_programs": [
+        {
+            "program_id": "c05cf9bc-3bec-4acc-a85c-7f2e10f36422",
+            "brand": "Williams Group",
+            "tasks_completed": [
+                {
+                    "task_id": "590c7be7-cb4f-4255-988b-7b805630ef2b",
+                    "platform": "Instagram",
+                    "post_url": "http://rivas.org/",
+                    "likes": 731,
+                    "comments": 205,
+                    "shares": 35,
+                    "reach": 6480
+                }
+            ],
+            "total_sales_attributed": 8287.96
+        }
+    ]
+}

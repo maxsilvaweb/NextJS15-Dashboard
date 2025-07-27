@@ -1,0 +1,26 @@
+{
+    "user_id": "6f342c2c-6a6c-49ee-b6ef-77d96f097a82",
+    "name": "Julie Brown MD",
+    "email": "dustinpage@example.org",
+    "instagram_handle": "@brice",
+    "tiktok_handle": "@brownjoe",
+    "joined_at": "2024-07-14T18:46:02.520499",
+    "advocacy_programs": [
+        {
+            "program_id": "c6075d80-8908-436a-b6a2-4c889a0a8ab4",
+            "brand": "Balistreri, Stroman and Bins",
+            "tasks_completed": [
+                {
+                    "task_id": "f1731fb5-4d94-4345-8da6-0fb7e3839c58",
+                    "platform": "Facebook",
+                    "post_url": "https://sanchez.com/",
+                    "likes": 1607,
+                    "comments": 276,
+                    "shares": 42,
+                    "reach": 6124
+                }
+            ],
+            "total_sales_attributed": 4164.72
+        }
+    ]
+}

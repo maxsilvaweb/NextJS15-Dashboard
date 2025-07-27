@@ -1,0 +1,26 @@
+{
+    "user_id": "29a1f8b5-e0ef-496a-a3b7-042812cadb77",
+    "name": "Brandon Myers",
+    "email": "sjacobs@example.net",
+    "instagram_handle": "@hermanangela",
+    "tiktok_handle": "@zrowland",
+    "joined_at": "2025-05-31T07:26:23.624942",
+    "advocacy_programs": [
+        {
+            "program_id": "963e5455-7459-489f-82de-c7480c7ca413",
+            "brand": "James PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "c72a2872-8a5a-484d-95ff-cd0a72dd04e8",
+                    "platform": "Facebook",
+                    "post_url": "http://miller.com/",
+                    "likes": 9037,
+                    "comments": 23,
+                    "shares": 1,
+                    "reach": 9019
+                }
+            ],
+            "total_sales_attributed": 3725.98
+        }
+    ]
+}

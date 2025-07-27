@@ -1,0 +1,26 @@
+{
+    "user_id": "bee887b8-5080-47f4-aff8-aa573e577bb1",
+    "name": "Gretchen Botsford-Anderson",
+    "email": "Alexandrea10@gmail.com",
+    "instagram_handle": "@Maxwell20",
+    "tiktok_handle": "@Cecelia33",
+    "joined_at": "2024-04-09T22:33:05.557Z",
+    "advocacy_programs": [
+        {
+            "program_id": "64fdf1a3-ccd2-46ca-b2f8-de1bc8540bf3",
+            "brand": "Wolf and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "011df8ea-332a-4513-9cf7-44ef247c00d7",
+                    "platform": "TikTok",
+                    "post_url": "https://thin-igloo.info",
+                    "likes": 68,
+                    "comments": 0,
+                    "shares": 100,
+                    "reach": 6874
+                }
+            ],
+            "total_sales_attributed": 4546.855560661036
+        }
+    ]
+}

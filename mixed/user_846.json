@@ -1,0 +1,26 @@
+{
+    "user_id": "adc4aed1-63d6-451b-bd1c-dadae702f4e0",
+    "name": "Robert Dickson",
+    "email": "amber82@example.com",
+    "instagram_handle": "@stephanie34",
+    "tiktok_handle": "@paige51",
+    "joined_at": "2023-09-23T20:08:59.478720",
+    "advocacy_programs": [
+        {
+            "program_id": "7c1e94b3-0ce1-4f21-a7cc-0f02cf8aa24c",
+            "brand": "Lee, Ruiz and Taylor",
+            "tasks_completed": [
+                {
+                    "task_id": "225fd3cc-0acc-46f0-aef8-01e7ef6aacfd",
+                    "platform": "Facebook",
+                    "post_url": "http://www.edwards-henderson.com/",
+                    "likes": 8485,
+                    "comments": 33,
+                    "shares": 33,
+                    "reach": 2832
+                }
+            ],
+            "total_sales_attributed": 7215.56
+        }
+    ]
+}

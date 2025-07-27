@@ -1,0 +1,26 @@
+{
+    "user_id": "acaa4b0f-c636-4c82-bfb8-8484374d46c7",
+    "name": "Luz Hansen",
+    "email": "Alfred57@gmail.com",
+    "instagram_handle": "@Marcel40",
+    "tiktok_handle": "@Trinity_Kunze",
+    "joined_at": "2024-06-19T09:52:20.432Z",
+    "advocacy_programs": [
+        {
+            "program_id": "ae828f79-69fe-4179-909f-bd2b69603d65",
+            "brand": "Kozey Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "d9636bba-88a2-4ae2-b8c3-e637c66003a5",
+                    "platform": "Instagram",
+                    "post_url": "https://grandiose-king.net",
+                    "likes": 357,
+                    "comments": 10,
+                    "shares": 36,
+                    "reach": 7962
+                }
+            ],
+            "total_sales_attributed": 4728.8195354606805
+        }
+    ]
+}

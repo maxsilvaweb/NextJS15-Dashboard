@@ -1,0 +1,26 @@
+{
+    "user_id": "d8c86bee-d727-4c2b-a014-66787290d6a9",
+    "name": "Carrie Williams",
+    "email": "markrice@example.com",
+    "instagram_handle": "@baldwinjack",
+    "tiktok_handle": "@zmoore",
+    "joined_at": "2024-10-19T12:02:02.810826",
+    "advocacy_programs": [
+        {
+            "program_id": "d229fd92-51b4-4326-a739-2517eeaa58c2",
+            "brand": "Cook, Greene and Scott",
+            "tasks_completed": [
+                {
+                    "task_id": "33ba520b-c1d7-4825-9528-8a95fd9ba257",
+                    "platform": "YouTube",
+                    "post_url": "https://rusty-bin.biz/",
+                    "likes": 5477,
+                    "comments": 19,
+                    "shares": 97,
+                    "reach": 6585
+                }
+            ],
+            "total_sales_attributed": 7674.84
+        }
+    ]
+}

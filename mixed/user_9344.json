@@ -1,0 +1,26 @@
+{
+    "user_id": "5271bcda-0069-427b-b6f4-fa151ca76415",
+    "name": "Michael Cervantes",
+    "email": "elizabeth74@example.com",
+    "instagram_handle": "@tcampbell",
+    "tiktok_handle": "@andersonpamela",
+    "joined_at": "2024-02-01T17:51:34.687129",
+    "advocacy_programs": [
+        {
+            "program_id": "e345baf0-57eb-42d9-8a0c-b5bf551e184d",
+            "brand": "Davis-Klein",
+            "tasks_completed": [
+                {
+                    "task_id": "0e3fd185-e21b-4b74-8a46-198bd482be4c",
+                    "platform": "TikTok",
+                    "post_url": "http://www.sparks-allen.org/",
+                    "likes": 7328,
+                    "comments": 9,
+                    "shares": 34,
+                    "reach": 7805
+                }
+            ],
+            "total_sales_attributed": 6823.81
+        }
+    ]
+}

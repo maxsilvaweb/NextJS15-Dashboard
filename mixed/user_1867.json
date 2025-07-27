@@ -1,0 +1,26 @@
+{
+    "user_id": "101dcef2-84eb-43d5-a126-9cef34090403",
+    "name": "Omar Bergnaum",
+    "email": "Aiyana9@hotmail.com",
+    "instagram_handle": "@Jermey.Haley",
+    "tiktok_handle": "@Moriah71",
+    "joined_at": "2024-12-02T17:45:50.119Z",
+    "advocacy_programs": [
+        {
+            "program_id": "beadf059-380e-4781-b09e-2ba56ad909a6",
+            "brand": "Kovacek Group",
+            "tasks_completed": [
+                {
+                    "task_id": "93fb16fc-ce2d-4ed9-bc91-4626557915a6",
+                    "platform": "Instagram",
+                    "post_url": "https://thick-draw.net",
+                    "likes": 398,
+                    "comments": 39,
+                    "shares": 18,
+                    "reach": 9473
+                }
+            ],
+            "total_sales_attributed": 3176.353674710851
+        }
+    ]
+}

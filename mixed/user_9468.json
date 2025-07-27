@@ -1,0 +1,26 @@
+{
+    "user_id": "b47baa02-2e5b-4721-b373-a024b4fc0027",
+    "name": "Sydney Koch",
+    "email": "ijohnson@example.com",
+    "instagram_handle": "@boothkevin",
+    "tiktok_handle": "@philliprichard",
+    "joined_at": "2025-04-30T01:56:46.194898",
+    "advocacy_programs": [
+        {
+            "program_id": "3e364961-953e-42e3-a81f-ae2a9ba6da97",
+            "brand": "Terry Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "66ce453c-94ac-4142-9d01-de4184f072d9",
+                    "platform": "TikTok",
+                    "post_url": "http://www.long.org/",
+                    "likes": 8098,
+                    "comments": 24,
+                    "shares": 60,
+                    "reach": 3881
+                }
+            ],
+            "total_sales_attributed": 7878.1
+        }
+    ]
+}

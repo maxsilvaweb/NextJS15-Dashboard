@@ -1,0 +1,26 @@
+{
+    "user_id": "28588bc0-08dd-48ab-b140-762fd5724982",
+    "name": "Corey Perez",
+    "email": "humphreykim@example.com",
+    "instagram_handle": "@markgomez",
+    "tiktok_handle": "@kimberly86",
+    "joined_at": "2024-06-19T22:47:26.139765",
+    "advocacy_programs": [
+        {
+            "program_id": "ab379281-0ba0-407d-8362-400e016e08a2",
+            "brand": "Long Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "c8de2e32-ae1f-48d2-834e-44961809ee1e",
+                    "platform": "Facebook",
+                    "post_url": "https://immediate-fund.name/",
+                    "likes": 9469,
+                    "comments": 130,
+                    "shares": 47,
+                    "reach": 6058
+                }
+            ],
+            "total_sales_attributed": 4399.955570444994
+        }
+    ]
+}

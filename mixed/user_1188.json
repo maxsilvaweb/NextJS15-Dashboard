@@ -1,0 +1,26 @@
+{
+    "user_id": "c65d6e95-4c68-4a8f-ab1f-052033b0e932",
+    "name": "Heather Rodriguez",
+    "email": "forbesjoel@example.org",
+    "instagram_handle": "@donaldwolf",
+    "tiktok_handle": "@mooneysteve",
+    "joined_at": "2023-08-08T11:06:55.795460",
+    "advocacy_programs": [
+        {
+            "program_id": "a0581f29-0520-4451-b6cc-df9877a3c73d",
+            "brand": "Rush LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1a4b1bb7-8772-4d1d-92c5-8c6f5d0d2a9a",
+                    "platform": "TikTok",
+                    "post_url": "http://sullivan-baker.com/",
+                    "likes": 2629,
+                    "comments": 283,
+                    "shares": 1,
+                    "reach": 3161
+                }
+            ],
+            "total_sales_attributed": 1663.55
+        }
+    ]
+}

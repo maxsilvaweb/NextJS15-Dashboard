@@ -1,0 +1,26 @@
+{
+    "user_id": "9d3e2f30-5f32-4640-9d79-7ddccd82225b",
+    "name": "Colin Owens",
+    "email": "lisa77@example.org",
+    "instagram_handle": "@emilyyu",
+    "tiktok_handle": "@troy89",
+    "joined_at": "2024-11-28T19:21:30.832567",
+    "advocacy_programs": [
+        {
+            "program_id": "6970b18c-cb6b-455c-892a-2a9368933897",
+            "brand": "Lewis LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "299254e3-f43f-4626-9f0e-9a20a0fd1bcf",
+                    "platform": "TikTok",
+                    "post_url": "http://www.bond.org/",
+                    "likes": 5424,
+                    "comments": 174,
+                    "shares": 38,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 6495.25
+        }
+    ]
+}

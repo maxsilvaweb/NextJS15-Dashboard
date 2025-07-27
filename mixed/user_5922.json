@@ -1,0 +1,26 @@
+{
+    "user_id": "ccb1494f-9933-4c8f-88cf-aaeecd9a59c4",
+    "name": "Kevin Jimenez",
+    "email": "michael89@example.net",
+    "instagram_handle": "@shannon17",
+    "tiktok_handle": "@mperry",
+    "joined_at": "2024-05-19T15:28:54.722248",
+    "advocacy_programs": [
+        {
+            "program_id": "ffebb1a1-51d5-4df1-be6f-f21ebaafacae",
+            "brand": "Reed-Banks",
+            "tasks_completed": [
+                {
+                    "task_id": "e76d6549-9d23-47b1-98e3-da420ce6a756",
+                    "platform": "TikTok",
+                    "post_url": "https://www.clark-sparks.com/",
+                    "likes": 8029,
+                    "comments": 161,
+                    "shares": 40,
+                    "reach": 6694
+                }
+            ],
+            "total_sales_attributed": 7792.81
+        }
+    ]
+}

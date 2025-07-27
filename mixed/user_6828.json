@@ -1,0 +1,26 @@
+{
+    "user_id": "d151118b-3fb6-4513-99a9-669c823bea2e",
+    "name": "Billy Collins",
+    "email": "Brown.Braun@gmail.com",
+    "instagram_handle": "@pricetammy",
+    "tiktok_handle": "@stevensonkristina",
+    "joined_at": "2025-06-11T16:52:02.241432",
+    "advocacy_programs": [
+        {
+            "program_id": "d15254ee-92c1-443e-97c5-7b53786593e2",
+            "brand": "Cook-Green",
+            "tasks_completed": [
+                {
+                    "task_id": "eb4e5570-b2bd-4bc4-b1d9-c059b335e2af",
+                    "platform": "Instagram",
+                    "post_url": "https://www.berg-alvarez.com/",
+                    "likes": 262,
+                    "comments": 361,
+                    "shares": 72,
+                    "reach": 3139
+                }
+            ],
+            "total_sales_attributed": 9361.0
+        }
+    ]
+}

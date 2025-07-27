@@ -1,0 +1,26 @@
+{
+    "user_id": "0e2ee061-d76c-429c-afca-8f56db8a992c",
+    "name": "Marcus Welch",
+    "email": "jill02@example.net",
+    "instagram_handle": "@cschneider",
+    "tiktok_handle": "@davistonya",
+    "joined_at": "2025-06-23T11:04:31.448471",
+    "advocacy_programs": [
+        {
+            "program_id": "6184465d-2fbe-4b08-b300-2266b0f981c8",
+            "brand": "Arellano, Lee and Daniels",
+            "tasks_completed": [
+                {
+                    "task_id": "b71a582e-6849-41ed-9861-43b55395d736",
+                    "platform": "Facebook",
+                    "post_url": "http://www.smith.info/",
+                    "likes": 9753,
+                    "comments": 238,
+                    "shares": 39,
+                    "reach": 4137
+                }
+            ],
+            "total_sales_attributed": 4042.076956075428
+        }
+    ]
+}

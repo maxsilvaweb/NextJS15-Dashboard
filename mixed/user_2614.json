@@ -1,0 +1,26 @@
+{
+    "user_id": "5f4cd192-556e-4e41-bf5e-a1ab6f5749f9",
+    "name": "Katrina Butler",
+    "email": "rmiranda@example.org",
+    "instagram_handle": "@oanderson",
+    "tiktok_handle": "@bbryant",
+    "joined_at": "2024-12-11T09:54:25.132781",
+    "advocacy_programs": [
+        {
+            "program_id": "4f07ff4f-67ec-4bca-a69e-fd1e2f12b65e",
+            "brand": "Fitzpatrick, Flynn and Riley",
+            "tasks_completed": [
+                {
+                    "task_id": "32db751d-8136-4181-bbcc-ecfd659c798c",
+                    "platform": "TikTok",
+                    "post_url": "http://www.barker.biz/",
+                    "likes": 2984,
+                    "comments": 336,
+                    "shares": 80,
+                    "reach": 2501
+                }
+            ],
+            "total_sales_attributed": 1786.8
+        }
+    ]
+}

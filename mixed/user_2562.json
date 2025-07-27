@@ -1,0 +1,26 @@
+{
+    "user_id": "0cb1c5f5-304a-4427-9c13-2b9f11f321c1",
+    "name": "April Owens",
+    "email": "steven50@example.net",
+    "instagram_handle": "@mdorsey",
+    "tiktok_handle": "@onicholson",
+    "joined_at": "2024-12-26T14:22:45.030161",
+    "advocacy_programs": [
+        {
+            "program_id": "f668f4c8-6467-482d-a6f6-9a4dda181772",
+            "brand": "Miller-Nelson",
+            "tasks_completed": [
+                {
+                    "task_id": "e319db2a-9601-4b47-8353-7bf4809430fe",
+                    "platform": "YouTube",
+                    "post_url": "http://www.russell.com/",
+                    "likes": 4002,
+                    "comments": 28,
+                    "shares": 77,
+                    "reach": 615
+                }
+            ],
+            "total_sales_attributed": 3384.2713405338714
+        }
+    ]
+}

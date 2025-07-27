@@ -1,0 +1,26 @@
+{
+    "user_id": "c83d21bc-a214-45b2-9b68-f67c890c5d84",
+    "name": "Dominique Tanner",
+    "email": "ahurst@example.org",
+    "instagram_handle": "@christopher63",
+    "tiktok_handle": "@kirstenodonnell",
+    "joined_at": "2023-08-30T08:35:24.890307",
+    "advocacy_programs": [
+        {
+            "program_id": "65a0ecba-e41d-4569-b1ac-6444092a5071",
+            "brand": "Henderson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "102734bc-1cc3-4952-b52b-6885b006aadc",
+                    "platform": "Instagram",
+                    "post_url": "http://www.baldwin.com/",
+                    "likes": 1996,
+                    "comments": 98,
+                    "shares": 82,
+                    "reach": 7274
+                }
+            ],
+            "total_sales_attributed": 692.5
+        }
+    ]
+}

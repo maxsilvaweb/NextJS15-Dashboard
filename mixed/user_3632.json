@@ -1,0 +1,26 @@
+{
+    "user_id": "8e66167d-9987-4fe8-a2b7-c7162138dbe1",
+    "name": "Jason Chandler",
+    "email": "natalie28@example.org",
+    "instagram_handle": "@tracy54",
+    "tiktok_handle": "@griffintrevor",
+    "joined_at": "2025-05-27T00:44:36.385243",
+    "advocacy_programs": [
+        {
+            "program_id": "f29ca1f6-3741-4ecc-a8c1-cd905b1642f7",
+            "brand": "Valdez Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "852a7047-d9d7-44e3-9165-d20ba4dccc43",
+                    "platform": "Instagram",
+                    "post_url": "https://impish-dish.net/",
+                    "likes": 9461,
+                    "comments": 318,
+                    "shares": 38,
+                    "reach": 5540
+                }
+            ],
+            "total_sales_attributed": 8450.56
+        }
+    ]
+}

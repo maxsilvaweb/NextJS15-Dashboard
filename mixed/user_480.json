@@ -1,0 +1,26 @@
+{
+    "user_id": "fb6d5ab9-eeb3-42e2-b0db-3ad43957b61b",
+    "name": "Sheri Hall",
+    "email": "zachary57@example.org",
+    "instagram_handle": "@jasondavies",
+    "tiktok_handle": "@iwilson",
+    "joined_at": "2023-11-18T04:35:09.345947",
+    "advocacy_programs": [
+        {
+            "program_id": "fd36ea36-76e2-4744-98ce-99bd472ddf0a",
+            "brand": "Griffin, Young and Silva",
+            "tasks_completed": [
+                {
+                    "task_id": "320b92fc-a918-46e7-a16c-0bddd65bfb21",
+                    "platform": "Twitter",
+                    "post_url": "https://www.johnson-hicks.org/",
+                    "likes": 384,
+                    "comments": 20,
+                    "shares": 25,
+                    "reach": 4091
+                }
+            ],
+            "total_sales_attributed": 6521.47
+        }
+    ]
+}

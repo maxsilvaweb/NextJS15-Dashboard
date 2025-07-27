@@ -1,0 +1,26 @@
+{
+    "user_id": "1dbb0ab8-aafa-440f-a204-35bb40947cd4",
+    "name": "Elizabeth Rivera MD",
+    "email": "zriley@example.com",
+    "instagram_handle": "@walkeranthony",
+    "tiktok_handle": "@frodriguez",
+    "joined_at": "2024-03-24T11:01:55.652303",
+    "advocacy_programs": [
+        {
+            "program_id": "e9a1f16c-e7f8-4697-b397-210109f470fd",
+            "brand": "Young, Strickland and Davidson",
+            "tasks_completed": [
+                {
+                    "task_id": "2a384489-16fb-4a99-aa63-895f7b69b69d",
+                    "platform": "TikTok",
+                    "post_url": "https://johnson.com/",
+                    "likes": 88,
+                    "comments": 429,
+                    "shares": 33,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 1867.1185148718928
+        }
+    ]
+}

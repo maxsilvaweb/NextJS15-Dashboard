@@ -1,0 +1,26 @@
+{
+    "user_id": "81b44f5d-9647-4c23-a2dc-708390cf36c6",
+    "name": "Carla Williamson",
+    "email": "tduncan@example.net",
+    "instagram_handle": "@bethgraham",
+    "tiktok_handle": "@tlewis",
+    "joined_at": "2023-10-04T18:21:08.844736",
+    "advocacy_programs": [
+        {
+            "program_id": "edf237e8-d395-498b-a6b8-25647553a0a1",
+            "brand": "Zamora Group",
+            "tasks_completed": [
+                {
+                    "task_id": "7957e8e0-8de0-4b34-ad19-7e148b4e79ae",
+                    "platform": "Instagram",
+                    "post_url": "https://www.gibson.info/",
+                    "likes": 9106,
+                    "comments": 81,
+                    "shares": 93,
+                    "reach": 9650
+                }
+            ],
+            "total_sales_attributed": 1279.5
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "db07260e-61a1-4086-a142-ed2a7521a84c",
+    "name": "Robert Pearson",
+    "email": "wdominguez@example.com",
+    "instagram_handle": "@michaelcooper",
+    "tiktok_handle": "@imitchell",
+    "joined_at": "2023-12-19T09:47:46.583191",
+    "advocacy_programs": [
+        {
+            "program_id": "c0b279c4-a8a5-4eb2-ac9f-df8f6c5e266d",
+            "brand": "Becker, Martin and Gallagher",
+            "tasks_completed": [
+                {
+                    "task_id": "c6ec0845-c340-41bc-b50c-576b06c9d8b5",
+                    "platform": "TikTok",
+                    "post_url": "https://phillips-caldwell.org/",
+                    "likes": 681,
+                    "comments": 485,
+                    "shares": 26,
+                    "reach": 3303
+                }
+            ],
+            "total_sales_attributed": 2967.6735095939016
+        }
+    ]
+}

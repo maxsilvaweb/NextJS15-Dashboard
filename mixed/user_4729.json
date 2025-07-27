@@ -1,0 +1,26 @@
+{
+    "user_id": "f0af650e-4df3-4b5e-8b27-695e94f1f48a",
+    "name": "Kimberly Warren",
+    "email": "Dan58@gmail.com",
+    "instagram_handle": "@shelby25",
+    "tiktok_handle": "@leslie19",
+    "joined_at": "2023-10-19T10:37:33.924848",
+    "advocacy_programs": [
+        {
+            "program_id": "bae7ca03-d92f-4e04-bf2a-fa2ebaf05b40",
+            "brand": "Lewis LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "38a8ccc2-d326-4144-ae70-ce75a7943ce4",
+                    "platform": "Facebook",
+                    "post_url": "http://www.yang.biz/",
+                    "likes": 8485,
+                    "comments": 42,
+                    "shares": 12,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 1442.2259209363565
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "19d1b35a-e99e-4e09-b651-5c56c5f659bc",
+    "name": "Sherry Bode",
+    "email": "Judson.Rohan42@hotmail.com",
+    "instagram_handle": "@Ivah_Ferry",
+    "tiktok_handle": "@Alia46",
+    "joined_at": "2024-04-10T06:31:34.386Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dda3020e-48a3-4842-99ba-51490e5d521f",
+            "brand": "Zieme LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "5e752c4d-b6d1-4f09-a84e-eb4049545fa0",
+                    "platform": "TikTok",
+                    "post_url": "https://timely-stump.net/",
+                    "likes": 292,
+                    "comments": 42,
+                    "shares": 38,
+                    "reach": 1031
+                }
+            ],
+            "total_sales_attributed": 1836.5227569592685
+        }
+    ]
+}

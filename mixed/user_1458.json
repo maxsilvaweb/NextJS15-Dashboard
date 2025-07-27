@@ -1,0 +1,26 @@
+{
+    "user_id": "12e11793-0355-4718-b087-dbb759662898",
+    "name": "Dewey Zemlak",
+    "email": "Ferne47@yahoo.com",
+    "instagram_handle": "@Bernita.Daugherty67",
+    "tiktok_handle": "@Haylie.Labadie",
+    "joined_at": "2024-04-25T18:58:22.554Z",
+    "advocacy_programs": [
+        {
+            "program_id": "f01dcbfb-7dd3-4bd0-9447-ab357b9352cc",
+            "brand": "Hand - Kuphal",
+            "tasks_completed": [
+                {
+                    "task_id": "adbbd723-e17d-4499-b818-42488f82713f",
+                    "platform": "Instagram",
+                    "post_url": "https://coordinated-kick.net/",
+                    "likes": 260,
+                    "comments": 50,
+                    "shares": 19,
+                    "reach": 935
+                }
+            ],
+            "total_sales_attributed": 2977.783059700117
+        }
+    ]
+}

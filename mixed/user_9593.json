@@ -1,0 +1,26 @@
+{
+    "user_id": "516162a6-e95d-439a-be39-bc03fce195be",
+    "name": "Rebecca Porter",
+    "email": "lamevelyn@example.com",
+    "instagram_handle": "@xhudson",
+    "tiktok_handle": "@jesse44",
+    "joined_at": "2024-08-28T20:16:31.415344",
+    "advocacy_programs": [
+        {
+            "program_id": "b8be9a6f-c107-459c-89e1-c36791951594",
+            "brand": "Armstrong-Powell",
+            "tasks_completed": [
+                {
+                    "task_id": "a9c3cccd-2d40-44ca-bcb2-73bd7f949571",
+                    "platform": "TikTok",
+                    "post_url": "https://crooked-contrail.biz",
+                    "likes": 7942,
+                    "comments": 262,
+                    "shares": 9,
+                    "reach": 1296
+                }
+            ],
+            "total_sales_attributed": 8340.28
+        }
+    ]
+}

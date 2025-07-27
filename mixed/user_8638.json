@@ -1,0 +1,26 @@
+{
+    "user_id": "d907f07e-7e47-44c4-91d9-cae05871db83",
+    "name": "Victoria Snyder",
+    "email": "lloydrobert@example.org",
+    "instagram_handle": "@christinaschmidt",
+    "tiktok_handle": "@Nathaniel_Balistreri",
+    "joined_at": "2024-04-25T10:19:57.280Z",
+    "advocacy_programs": [
+        {
+            "program_id": "96eaf7a6-26ec-48b0-a66d-d4d826f51dab",
+            "brand": "Stevens-Caldwell",
+            "tasks_completed": [
+                {
+                    "task_id": "a4ba35f7-25d0-42e7-a60e-6bd06801c0f1",
+                    "platform": "Facebook",
+                    "post_url": "https://selfish-minority.net/",
+                    "likes": 2017,
+                    "comments": 41,
+                    "shares": 65,
+                    "reach": 4951
+                }
+            ],
+            "total_sales_attributed": 4788.02
+        }
+    ]
+}

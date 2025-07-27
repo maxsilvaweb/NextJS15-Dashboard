@@ -1,0 +1,26 @@
+{
+    "user_id": "a9e49e5b-8128-49ac-8389-eaabfbe24ea1",
+    "name": "Ann Li",
+    "email": "imcbride@example.com",
+    "instagram_handle": "@hkelly",
+    "tiktok_handle": "@bergalexander",
+    "joined_at": "2024-11-17T09:02:46.356633",
+    "advocacy_programs": [
+        {
+            "program_id": "1abcdb6d-28b0-4919-b2ce-6f8760f8dbdd",
+            "brand": "Davidson, Richardson and Todd",
+            "tasks_completed": [
+                {
+                    "task_id": "c39ead0b-a75e-4179-9b88-7dfe82023eb9",
+                    "platform": "TikTok",
+                    "post_url": "https://www.foster-fitzgerald.com/",
+                    "likes": 8278,
+                    "comments": 165,
+                    "shares": 40,
+                    "reach": 7302
+                }
+            ],
+            "total_sales_attributed": 708.6507976934465
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "73e7e6b7-3b05-490b-a8b3-64e3686cd312",
+    "name": "George Graves",
+    "email": "Emile_Buckridge69@gmail.com",
+    "instagram_handle": "@ajackson",
+    "tiktok_handle": "@goodwinzachary",
+    "joined_at": "2024-09-08T08:14:03.739897",
+    "advocacy_programs": [
+        {
+            "program_id": "468ea94c-26ca-4d67-b8e0-e6bf14acb801",
+            "brand": "Ruiz Group",
+            "tasks_completed": [
+                {
+                    "task_id": "7aab1208-cf03-4323-af49-fe43bb90aa2c",
+                    "platform": "YouTube",
+                    "post_url": "https://moreno-grant.info/",
+                    "likes": 5525,
+                    "comments": 395,
+                    "shares": 26,
+                    "reach": 5770
+                }
+            ],
+            "total_sales_attributed": 684.79
+        }
+    ]
+}

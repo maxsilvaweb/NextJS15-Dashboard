@@ -1,0 +1,26 @@
+{
+    "user_id": "9be32f6d-2558-44bd-8992-851d69f03cf7",
+    "name": "Kristie Muller",
+    "email": "Zackary11@yahoo.com",
+    "instagram_handle": "@Harley.Bednar",
+    "tiktok_handle": "@Juliet.Koss",
+    "joined_at": "2024-10-08T17:22:42.117Z",
+    "advocacy_programs": [
+        {
+            "program_id": "71a8498f-405a-4d0b-a69c-3281b6fa7c68",
+            "brand": "Dickens - Braun",
+            "tasks_completed": [
+                {
+                    "task_id": "79a50086-c527-49e5-a7df-8b4b0b2e78e6",
+                    "platform": "TikTok",
+                    "post_url": "https://distorted-punctuation.org",
+                    "likes": 445,
+                    "comments": 24,
+                    "shares": 74,
+                    "reach": 5263
+                }
+            ],
+            "total_sales_attributed": 4897.778468080325
+        }
+    ]
+}

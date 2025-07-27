@@ -1,0 +1,26 @@
+{
+    "user_id": "25d5ba5c-bd3f-4c49-bd01-07edb9b6afbc",
+    "name": "Melissa Ortiz",
+    "email": "sharon42@example.net",
+    "instagram_handle": "@nwilliamson",
+    "tiktok_handle": "@allison92",
+    "joined_at": "2024-02-21T06:37:32.214607",
+    "advocacy_programs": [
+        {
+            "program_id": "53d44108-d4ed-4f62-bf7d-59cf17c0b2aa",
+            "brand": "Carroll-Barnett",
+            "tasks_completed": [
+                {
+                    "task_id": "d1db00f2-f8a4-4059-ac9f-2e1e05ff84b1",
+                    "platform": "Instagram",
+                    "post_url": "http://www.jackson.net/",
+                    "likes": 1976,
+                    "comments": 40,
+                    "shares": 59,
+                    "reach": 5210
+                }
+            ],
+            "total_sales_attributed": 1984.3951568176865
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "0547fc39-3442-419b-abbe-bef65eb1e9fe",
+    "name": "Craig Harvey",
+    "email": "staceyfrank@example.org",
+    "instagram_handle": "@lestes",
+    "tiktok_handle": "@ericcolon",
+    "joined_at": "2024-10-25T13:54:54.536710",
+    "advocacy_programs": [
+        {
+            "program_id": "96d42ead-6426-437e-82ce-0b0aac86f43b",
+            "brand": "Hunter, Melton and Rivera",
+            "tasks_completed": [
+                {
+                    "task_id": "6c0b8a55-faa7-45ef-93f2-d482be2115b2",
+                    "platform": "Instagram",
+                    "post_url": "https://www.bass.net/",
+                    "likes": 9649,
+                    "comments": 322,
+                    "shares": 51,
+                    "reach": 5748
+                }
+            ],
+            "total_sales_attributed": 9063.57
+        }
+    ]
+}

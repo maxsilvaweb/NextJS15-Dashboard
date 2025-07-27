@@ -1,0 +1,26 @@
+{
+    "user_id": "f1633086-f285-45af-b912-38a6acd1e353",
+    "name": "Heather Watson",
+    "email": "tinaharrison@example.net",
+    "instagram_handle": "@pamela43",
+    "tiktok_handle": "@jasonlewis",
+    "joined_at": "2024-12-01T23:04:00.043123",
+    "advocacy_programs": [
+        {
+            "program_id": "4e31aecf-4232-4dac-a016-270e9d1f704c",
+            "brand": "Roberts and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "b1ecae1d-8564-4f4d-95de-42ea1cb7ab96",
+                    "platform": "Instagram",
+                    "post_url": "http://trevino-lee.com/",
+                    "likes": 1175,
+                    "comments": 368,
+                    "shares": 91,
+                    "reach": 1835
+                }
+            ],
+            "total_sales_attributed": 8988.33
+        }
+    ]
+}

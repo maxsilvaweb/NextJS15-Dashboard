@@ -1,0 +1,26 @@
+{
+    "user_id": "c110e72b-bc8a-4ea3-ad58-87079cca5f2f",
+    "name": "Martha Turcotte",
+    "email": "Nedra.Gottlieb85@gmail.com",
+    "instagram_handle": "@Rebecca.Lindgren64",
+    "tiktok_handle": "@Ayana.Hand14",
+    "joined_at": "2024-11-16T08:50:57.706Z",
+    "advocacy_programs": [
+        {
+            "program_id": "b34bbbd6-5e97-47db-9b93-40df332e5320",
+            "brand": "Brakus - Stamm",
+            "tasks_completed": [
+                {
+                    "task_id": "ace4b980-89e9-45f8-9f3c-841661459d66",
+                    "platform": "Instagram",
+                    "post_url": "https://monumental-stitcher.net/",
+                    "likes": 224,
+                    "comments": 38,
+                    "shares": 46,
+                    "reach": 8491
+                }
+            ],
+            "total_sales_attributed": 764.9015294330859
+        }
+    ]
+}

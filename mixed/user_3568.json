@@ -1,0 +1,26 @@
+{
+    "user_id": "47ab56e2-54bf-4c42-baf9-6210a02d843b",
+    "name": "Alma Jast",
+    "email": "Jamel.Beahan54@gmail.com",
+    "instagram_handle": "@Greta_Nienow30",
+    "tiktok_handle": "@Oral.Dach",
+    "joined_at": "2024-12-06T16:59:24.618Z",
+    "advocacy_programs": [
+        {
+            "program_id": "73fbeca9-651e-45ae-8858-2b32311ef2b8",
+            "brand": "Armstrong, Franey and Cummings",
+            "tasks_completed": [
+                {
+                    "task_id": "c49dcb58-6768-42ea-b943-b49457a6d281",
+                    "platform": "Instagram",
+                    "post_url": "https://these-bonfire.net",
+                    "likes": 398,
+                    "comments": 26,
+                    "shares": 99,
+                    "reach": 2709
+                }
+            ],
+            "total_sales_attributed": 2707.3215946961755
+        }
+    ]
+}

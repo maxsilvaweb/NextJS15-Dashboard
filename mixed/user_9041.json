@@ -1,0 +1,26 @@
+{
+    "user_id": "cfbbcf37-2d2d-4906-978b-cb7db716f12a",
+    "name": "Fredrick Cronin",
+    "email": "Vida53@gmail.com",
+    "instagram_handle": "@Paolo30",
+    "tiktok_handle": "@Jada78",
+    "joined_at": "2024-05-12T14:48:43.118Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5a4c1b8b-5f9b-469b-9117-a5ca14891bfa",
+            "brand": "Tromp - Kovacek",
+            "tasks_completed": [
+                {
+                    "task_id": "954506d3-5c46-4c78-bda7-22c98cfeb40d",
+                    "platform": "TikTok",
+                    "post_url": "https://wiggly-shore.biz",
+                    "likes": 416,
+                    "comments": 18,
+                    "shares": 34,
+                    "reach": 7888
+                }
+            ],
+            "total_sales_attributed": 842.3824129137998
+        }
+    ]
+}

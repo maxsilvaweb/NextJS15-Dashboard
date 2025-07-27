@@ -1,0 +1,26 @@
+{
+    "user_id": "8b4f7fc1-90e4-4c2a-9bf3-34577e940772",
+    "name": "John Kunze-Reichel",
+    "email": "Evan16@hotmail.com",
+    "instagram_handle": "@Abdullah76",
+    "tiktok_handle": "@Natasha_Mueller30",
+    "joined_at": "2025-02-22T14:20:57.907Z",
+    "advocacy_programs": [
+        {
+            "program_id": "9756fb3a-7ea8-4cd8-a263-c32ba4c36e6b",
+            "brand": "Weimann - Mueller",
+            "tasks_completed": [
+                {
+                    "task_id": "d7639f46-64d7-42d8-8edb-86599b2bb46d",
+                    "platform": "Instagram",
+                    "post_url": "https://deserted-adviser.com",
+                    "likes": 167,
+                    "comments": 30,
+                    "shares": 15,
+                    "reach": 7834
+                }
+            ],
+            "total_sales_attributed": 4268.294790565273
+        }
+    ]
+}

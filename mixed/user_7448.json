@@ -1,0 +1,26 @@
+{
+    "user_id": "6c5831d2-9de4-44c3-88ca-b812e0ae10b7",
+    "name": "Dr. Candace Kennedy DVM",
+    "email": "leondavid@example.com",
+    "instagram_handle": "@Gus.Mayert48",
+    "tiktok_handle": "@christopher43",
+    "joined_at": "2024-12-11T03:01:56.390Z",
+    "advocacy_programs": [
+        {
+            "program_id": "526926fb-7d81-443a-b980-ed9fa9856a7b",
+            "brand": "Windler, Hodkiewicz and Feil",
+            "tasks_completed": [
+                {
+                    "task_id": "538391c9-145d-4ac7-bd18-0d56149cb690",
+                    "platform": "TikTok",
+                    "post_url": "https://serrano.com/",
+                    "likes": 2417,
+                    "comments": 182,
+                    "shares": 76,
+                    "reach": 7880
+                }
+            ],
+            "total_sales_attributed": 1054.322626500571
+        }
+    ]
+}

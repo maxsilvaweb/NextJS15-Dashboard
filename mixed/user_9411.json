@@ -1,0 +1,26 @@
+{
+    "user_id": "80093890-610d-4939-b4e9-4a8d6f3bc2ce",
+    "name": "Kevin Perez",
+    "email": "Anjali41@gmail.com",
+    "instagram_handle": "@nancy24",
+    "tiktok_handle": "@jjordan",
+    "joined_at": "2025-01-03T17:10:10.438368",
+    "advocacy_programs": [
+        {
+            "program_id": "634395e8-8ef6-4f9c-8725-b501e65c30ac",
+            "brand": "Baker Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "e2c8b498-b6dc-4bbc-8071-e64ea4ffd127",
+                    "platform": "Instagram",
+                    "post_url": "https://miller.com/",
+                    "likes": 7171,
+                    "comments": 340,
+                    "shares": 13,
+                    "reach": 9514
+                }
+            ],
+            "total_sales_attributed": 9711.34
+        }
+    ]
+}

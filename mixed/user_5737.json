@@ -1,0 +1,26 @@
+{
+    "user_id": "34170463-c6f7-4e27-a874-33e898e9eaa4",
+    "name": "Hector Bartell",
+    "email": "Reta31@yahoo.com",
+    "instagram_handle": "@Lizeth.Powlowski",
+    "tiktok_handle": "@Yvette.Gleason",
+    "joined_at": "2024-05-30T06:22:33.909Z",
+    "advocacy_programs": [
+        {
+            "program_id": "4c713faa-dada-4d31-8220-d21e4f9d7988",
+            "brand": "Rice Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "2dc142e1-c06c-4073-9fca-6431abd3dc36",
+                    "platform": "Instagram",
+                    "post_url": "https://hospitable-publicity.net",
+                    "likes": 423,
+                    "comments": 20,
+                    "shares": 23,
+                    "reach": 6321
+                }
+            ],
+            "total_sales_attributed": 3986.036753534212
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "e5163aaf-d3e9-4902-9c06-6de756828daf",
+    "name": "Chelsea Tran",
+    "email": "matthew47@example.net",
+    "instagram_handle": "@huffmark",
+    "tiktok_handle": "@rowen",
+    "joined_at": "2025-04-29T00:29:58.055549",
+    "advocacy_programs": [
+        {
+            "program_id": "8a16659c-61ff-4b4d-9871-9d8a1a41895c",
+            "brand": "Dominguez Group",
+            "tasks_completed": [
+                {
+                    "task_id": "7dbafb92-9d5d-4957-a82f-b54d2be2c5dc",
+                    "platform": "Instagram",
+                    "post_url": "https://www.bender.com/",
+                    "likes": 4395,
+                    "comments": 87,
+                    "shares": 65,
+                    "reach": 1897
+                }
+            ],
+            "total_sales_attributed": 3606.441890620008
+        }
+    ]
+}

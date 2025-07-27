@@ -1,0 +1,26 @@
+{
+    "user_id": "cd620cae-b6af-4137-bd05-999a6167b7f4",
+    "name": "Ashley Gilmore",
+    "email": "smoore@example.com",
+    "instagram_handle": "@Adonis44",
+    "tiktok_handle": "@elawrence",
+    "joined_at": "2025-01-10T08:29:23.381426",
+    "advocacy_programs": [
+        {
+            "program_id": "6e5d83f3-64e3-4315-af6d-e26a3a746ea0",
+            "brand": "Runolfsson and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "076cf989-1a71-4392-8b45-b1c660388afc",
+                    "platform": "Instagram",
+                    "post_url": "https://www.hunt.com/",
+                    "likes": 5014,
+                    "comments": 60,
+                    "shares": 37,
+                    "reach": 824
+                }
+            ],
+            "total_sales_attributed": 4170.03
+        }
+    ]
+}

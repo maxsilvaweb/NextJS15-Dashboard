@@ -1,0 +1,26 @@
+{
+    "user_id": "05175008-6770-4daf-ae4e-57abdb47ec21",
+    "name": "Beth Feil",
+    "email": "stephensstephanie@example.com",
+    "instagram_handle": "@moorebrandon",
+    "tiktok_handle": "@janetharrington",
+    "joined_at": "2024-08-07T11:59:16.116935",
+    "advocacy_programs": [
+        {
+            "program_id": "e79cabe0-73a6-4b0c-a280-cf6576444c67",
+            "brand": "Martin and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "7bd3d944-cba1-46ce-8d1c-2389d5d7ee4b",
+                    "platform": "TikTok",
+                    "post_url": "http://allison.net/",
+                    "likes": 3263,
+                    "comments": 14,
+                    "shares": 97,
+                    "reach": 1696
+                }
+            ],
+            "total_sales_attributed": 3541.89
+        }
+    ]
+}

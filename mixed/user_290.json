@@ -1,0 +1,26 @@
+{
+    "user_id": "5d92855e-de8e-4b73-8cce-fe7672c15442",
+    "name": "Louis Turner",
+    "email": "Rafaela_Huel@gmail.com",
+    "instagram_handle": "@Lavonne_Hodkiewicz",
+    "tiktok_handle": "@Max_Spinka",
+    "joined_at": "2024-05-25T20:02:44.935Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3973cdf9-31e0-4dda-a166-db929e54adba",
+            "brand": "Kozey, Leuschke and Watsica",
+            "tasks_completed": [
+                {
+                    "task_id": "f95c3e66-d55f-4410-b4c1-c392b75a5211",
+                    "platform": "TikTok",
+                    "post_url": "https://lonely-widow.com",
+                    "likes": 246,
+                    "comments": 12,
+                    "shares": 41,
+                    "reach": 9085
+                }
+            ],
+            "total_sales_attributed": 3629.353236964554
+        }
+    ]
+}

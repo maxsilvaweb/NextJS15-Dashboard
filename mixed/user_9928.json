@@ -1,0 +1,26 @@
+{
+    "user_id": "c7272c3e-3fd9-4461-aef3-02c5b8179f73",
+    "name": "Christina Guerra",
+    "email": "sarahcarter@example.net",
+    "instagram_handle": "@johnsonpaula",
+    "tiktok_handle": "@renee99",
+    "joined_at": "2025-04-02T21:18:59.327476",
+    "advocacy_programs": [
+        {
+            "program_id": "572d7c34-4cd2-47a0-bafc-11d6101ef280",
+            "brand": "Chan-Scott",
+            "tasks_completed": [
+                {
+                    "task_id": "dd987b1b-cf91-4658-94ca-f5bbb1e880d1",
+                    "platform": "YouTube",
+                    "post_url": "https://www.barnes.com/",
+                    "likes": 9464,
+                    "comments": 79,
+                    "shares": 99,
+                    "reach": 7036
+                }
+            ],
+            "total_sales_attributed": 6930.07
+        }
+    ]
+}

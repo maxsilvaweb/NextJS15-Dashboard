@@ -1,0 +1,26 @@
+{
+    "user_id": "94325e3a-1e97-4a89-a646-78fff40f2dc0",
+    "name": "Michael Gonzalez",
+    "email": "nathan09@example.org",
+    "instagram_handle": "@allengary",
+    "tiktok_handle": "@danielgomez",
+    "joined_at": "2024-08-10T20:54:34.303976",
+    "advocacy_programs": [
+        {
+            "program_id": "577b5afa-f319-4acb-a312-de7cfd2e631e",
+            "brand": "Conway-Walker",
+            "tasks_completed": [
+                {
+                    "task_id": "6e878cff-ed19-4897-a9b0-028bfd835c98",
+                    "platform": "Facebook",
+                    "post_url": "https://hidden-goat.name",
+                    "likes": 355,
+                    "comments": 436,
+                    "shares": 27,
+                    "reach": 1264
+                }
+            ],
+            "total_sales_attributed": 2797.83
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "2a37cd7d-785b-48bf-9bd5-5a666630ab8d",
+    "name": "Tyler Smith",
+    "email": "kharper@example.org",
+    "instagram_handle": "@elizabeththomas",
+    "tiktok_handle": "@perkinsmichael",
+    "joined_at": "2024-12-17T05:52:08.563789",
+    "advocacy_programs": [
+        {
+            "program_id": "92ba60ba-133a-43a7-a806-0eda25eaae3b",
+            "brand": "Hayes-Ford",
+            "tasks_completed": [
+                {
+                    "task_id": "2f06904a-23ea-49ce-85eb-14641bca8057",
+                    "platform": "Instagram",
+                    "post_url": "http://cooper.com/",
+                    "likes": 4790,
+                    "comments": 6,
+                    "shares": 14,
+                    "reach": 2217
+                }
+            ],
+            "total_sales_attributed": 2360.82
+        }
+    ]
+}

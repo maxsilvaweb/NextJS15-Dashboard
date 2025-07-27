@@ -1,0 +1,26 @@
+{
+    "user_id": "31bd1391-df9b-4493-8424-96a413045c18",
+    "name": "Lucia Franey",
+    "email": "Katelynn.Green2@gmail.com",
+    "instagram_handle": "@Alicia_Raynor",
+    "tiktok_handle": "@Gwen.Rodriguez",
+    "joined_at": "2024-05-09T15:28:38.871Z",
+    "advocacy_programs": [
+        {
+            "program_id": "11065ee9-1656-4d7b-b820-51c9b5408046",
+            "brand": "Walsh - Kuphal",
+            "tasks_completed": [
+                {
+                    "task_id": "988dbab8-5b71-4de4-9ece-4af1f07c0f64",
+                    "platform": "TikTok",
+                    "post_url": "https://windy-resource.name",
+                    "likes": 411,
+                    "comments": 25,
+                    "shares": 71,
+                    "reach": 6319
+                }
+            ],
+            "total_sales_attributed": 4288.975510000007
+        }
+    ]
+}

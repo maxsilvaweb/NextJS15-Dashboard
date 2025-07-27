@@ -1,0 +1,26 @@
+{
+    "user_id": "5af53156-85d4-4915-890f-d6c63d39d3dd",
+    "name": "Pamela Tate",
+    "email": "sosakevin@example.net",
+    "instagram_handle": "@sara75",
+    "tiktok_handle": "@heidiferguson",
+    "joined_at": "2025-06-21T22:36:28.252524",
+    "advocacy_programs": [
+        {
+            "program_id": "028d4c2e-b774-4602-9c6f-c57556388dbc",
+            "brand": "Coleman, Rhodes and Aguilar",
+            "tasks_completed": [
+                {
+                    "task_id": "a4300a77-d4ae-4547-8839-c6d3ad7eb738",
+                    "platform": "Instagram",
+                    "post_url": "http://york-harris.org/",
+                    "likes": 268,
+                    "comments": 419,
+                    "shares": 14,
+                    "reach": 9418
+                }
+            ],
+            "total_sales_attributed": 2381.18
+        }
+    ]
+}

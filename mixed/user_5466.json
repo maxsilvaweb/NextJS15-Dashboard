@@ -1,0 +1,26 @@
+{
+    "user_id": "8a7314a1-3b37-4119-a27f-d5516db2b3c9",
+    "name": "Kristine Walsh",
+    "email": "Melissa_Jaskolski3@hotmail.com",
+    "instagram_handle": "@Mallory_Denesik51",
+    "tiktok_handle": "@Jon49",
+    "joined_at": "2024-11-27T20:06:02.242Z",
+    "advocacy_programs": [
+        {
+            "program_id": "8c3a3e72-801c-4cfe-b8e9-30fea6277d14",
+            "brand": "Bergstrom, Gerlach and Hahn",
+            "tasks_completed": [
+                {
+                    "task_id": "be4a422e-0c6b-4c66-afd1-bc6b80afd971",
+                    "platform": "TikTok",
+                    "post_url": "https://circular-word.info/",
+                    "likes": 210,
+                    "comments": 25,
+                    "shares": 66,
+                    "reach": 5816
+                }
+            ],
+            "total_sales_attributed": 1598.5767808281662
+        }
+    ]
+}

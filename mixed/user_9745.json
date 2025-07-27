@@ -1,0 +1,26 @@
+{
+    "user_id": "757d74cc-5415-4aca-95c4-c59ce1afbec9",
+    "name": "Julian Altenwerth",
+    "email": "Annetta.Durgan@yahoo.com",
+    "instagram_handle": "@Kaleb72",
+    "tiktok_handle": "@Laura19",
+    "joined_at": "2024-06-14T03:50:29.407Z",
+    "advocacy_programs": [
+        {
+            "program_id": "03fa03de-daae-4ca5-b172-f3a5c84b97d0",
+            "brand": "Bergnaum - Lockman",
+            "tasks_completed": [
+                {
+                    "task_id": "9003d4d9-2c92-4472-a6b4-2f08fc16fcdb",
+                    "platform": "TikTok",
+                    "post_url": "https://sad-step.net/",
+                    "likes": 178,
+                    "comments": 7,
+                    "shares": 3,
+                    "reach": 1158
+                }
+            ],
+            "total_sales_attributed": 3968.204467079022
+        }
+    ]
+}

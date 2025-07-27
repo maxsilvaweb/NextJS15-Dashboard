@@ -1,0 +1,26 @@
+{
+    "user_id": "b4ee0600-486c-4f5b-ab36-f7f187954633",
+    "name": "Linda Prince",
+    "email": "Constance27@gmail.com",
+    "instagram_handle": "@wcummings",
+    "tiktok_handle": "@wcampbell",
+    "joined_at": "2023-12-27T21:22:35.049385",
+    "advocacy_programs": [
+        {
+            "program_id": "956c8c9e-392c-4bbe-b875-005d9dffff7f",
+            "brand": "Henry, Rivera and Taylor",
+            "tasks_completed": [
+                {
+                    "task_id": "f634bec6-7d52-436e-aeaa-1b70c7e1051a",
+                    "platform": "TikTok",
+                    "post_url": "https://mcintosh.com/",
+                    "likes": 343,
+                    "comments": 109,
+                    "shares": 36,
+                    "reach": 5809
+                }
+            ],
+            "total_sales_attributed": 1227.34
+        }
+    ]
+}

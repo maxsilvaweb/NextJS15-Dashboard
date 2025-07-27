@@ -1,0 +1,26 @@
+{
+    "user_id": "f5d69676-faf1-4e62-861b-8722510d06bd",
+    "name": "Nichole Phillips",
+    "email": "ksaunders@example.org",
+    "instagram_handle": "@tcasey",
+    "tiktok_handle": "@calebrich",
+    "joined_at": "2024-10-06T17:52:29.058080",
+    "advocacy_programs": [
+        {
+            "program_id": "0505cbdd-ecce-494a-ac38-92bcce7ec711",
+            "brand": "Garcia and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "c8c39bdb-1958-4e34-953d-c4fe19507acb",
+                    "platform": "Facebook",
+                    "post_url": "https://good-natured-hyphenation.net/",
+                    "likes": 4255,
+                    "comments": 422,
+                    "shares": 34,
+                    "reach": 5452
+                }
+            ],
+            "total_sales_attributed": 852.8423231358171
+        }
+    ]
+}

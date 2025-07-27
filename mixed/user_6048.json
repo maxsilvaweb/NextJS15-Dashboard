@@ -1,0 +1,26 @@
+{
+    "user_id": "04fea598-ea52-41bf-81e2-20c6414a31f9",
+    "name": "Edgar Fisher",
+    "email": "Simeon70@gmail.com",
+    "instagram_handle": "@Kurtis67",
+    "tiktok_handle": "@Manuela.Bailey",
+    "joined_at": "2024-11-25T21:33:28.331Z",
+    "advocacy_programs": [
+        {
+            "program_id": "e0b87256-56e2-4c45-9c26-233a731163df",
+            "brand": "Hagenes, Bruen and Oberbrunner",
+            "tasks_completed": [
+                {
+                    "task_id": "abcd38e2-0506-480f-bc01-5cc987d203d5",
+                    "platform": "Instagram",
+                    "post_url": "https://delicious-configuration.info",
+                    "likes": 403,
+                    "comments": 34,
+                    "shares": 45,
+                    "reach": 1564
+                }
+            ],
+            "total_sales_attributed": 3743.683923144214
+        }
+    ]
+}

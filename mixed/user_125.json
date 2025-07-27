@@ -1,0 +1,26 @@
+{
+    "user_id": "e552290e-3583-4bf5-b97b-fc507a63878d",
+    "name": "Debbie Zulauf",
+    "email": "Jillian.Thiel47@yahoo.com",
+    "instagram_handle": "@Sabryna87",
+    "tiktok_handle": "@Zoey_Krajcik64",
+    "joined_at": "2025-01-05T17:51:51.512Z",
+    "advocacy_programs": [
+        {
+            "program_id": "eb388a65-1a45-4b54-a92a-2b9c72c855b5",
+            "brand": "Borer Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "b111bfa2-11bc-4abb-9d18-52bad150f124",
+                    "platform": "Instagram",
+                    "post_url": "https://mundane-interviewer.name/",
+                    "likes": 260,
+                    "comments": 21,
+                    "shares": 15,
+                    "reach": 4539
+                }
+            ],
+            "total_sales_attributed": 4095.226150065579
+        }
+    ]
+}

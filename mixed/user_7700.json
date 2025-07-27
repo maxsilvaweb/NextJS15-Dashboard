@@ -1,0 +1,26 @@
+{
+    "user_id": "6c80a0de-7c42-497f-af3f-388200c038d6",
+    "name": "Gina Cain",
+    "email": "fsmith@example.net",
+    "instagram_handle": "@whitemichele",
+    "tiktok_handle": "@elizabethjackson",
+    "joined_at": "2024-03-28T04:43:28.083432",
+    "advocacy_programs": [
+        {
+            "program_id": "6a7b449a-6537-4a1b-8c31-39b9b1ca4b78",
+            "brand": "Miranda Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "85787218-ea74-48c8-abe8-40544d993672",
+                    "platform": "TikTok",
+                    "post_url": "https://huang.com/",
+                    "likes": 8354,
+                    "comments": 22,
+                    "shares": 38,
+                    "reach": -1000
+                }
+            ],
+            "total_sales_attributed": 9372.36
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "a2d00c02-4f83-49a7-8bd9-4afb1e293c2c",
+    "name": "Ronald Carter",
+    "email": "Cloyd26@hotmail.com",
+    "instagram_handle": "@Moriah_Treutel74",
+    "tiktok_handle": "@Wanda.Boyer",
+    "joined_at": "2024-10-05T04:44:42.908Z",
+    "advocacy_programs": [
+        {
+            "program_id": "741dd2dd-d193-4084-b59a-6bdf5c817b46",
+            "brand": "Mayer, Bailey and Dibbert",
+            "tasks_completed": [
+                {
+                    "task_id": "c58c015a-eff5-4bd3-a4db-db15769756c7",
+                    "platform": "Instagram",
+                    "post_url": "https://polished-eyeliner.com/",
+                    "likes": 68,
+                    "comments": 16,
+                    "shares": 96,
+                    "reach": 1114
+                }
+            ],
+            "total_sales_attributed": 1887.394658640687
+        }
+    ]
+}

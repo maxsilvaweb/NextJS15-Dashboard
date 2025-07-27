@@ -1,0 +1,26 @@
+{
+    "user_id": "cf78d28a-00e0-42bb-a27f-67594455b6c6",
+    "name": "Erica Vaughn",
+    "email": "ryan71@example.net",
+    "instagram_handle": "@weaverkatie",
+    "tiktok_handle": "@raymond15",
+    "joined_at": "2023-10-30T03:29:17.359855",
+    "advocacy_programs": [
+        {
+            "program_id": "da89082b-3585-4220-83a9-3b1f0daa6d69",
+            "brand": "Torphy and Sons",
+            "tasks_completed": [
+                {
+                    "task_id": "7de3b3dc-1541-4b5a-ad40-9923b1754e1c",
+                    "platform": "Facebook",
+                    "post_url": "http://www.wiggins-bradshaw.info/",
+                    "likes": 8929,
+                    "comments": 258,
+                    "shares": 45,
+                    "reach": 3126
+                }
+            ],
+            "total_sales_attributed": 3258.03
+        }
+    ]
+}

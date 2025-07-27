@@ -1,0 +1,26 @@
+{
+    "user_id": "db98bd3c-2d07-498d-9a95-cc6c13111fd9",
+    "name": "Tammy Cardenas",
+    "email": "randy22@example.net",
+    "instagram_handle": "@christopher04",
+    "tiktok_handle": "@rdurham",
+    "joined_at": "2024-10-29T06:27:28.078805",
+    "advocacy_programs": [
+        {
+            "program_id": "2181d310-3ed0-4302-bf9a-33d288cba4fb",
+            "brand": "Jones-Bowers",
+            "tasks_completed": [
+                {
+                    "task_id": "9f8af6ec-34cb-4155-818b-b35165fceb27",
+                    "platform": "Twitter",
+                    "post_url": "http://ramirez.com/",
+                    "likes": 4595,
+                    "comments": 23,
+                    "shares": 12,
+                    "reach": 5628
+                }
+            ],
+            "total_sales_attributed": 6711.57
+        }
+    ]
+}

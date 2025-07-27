@@ -1,0 +1,26 @@
+{
+    "user_id": "8835bd55-8cc5-4b24-a7a8-fa44000d08cc",
+    "name": "Roberta Torres",
+    "email": "cindy67@example.org",
+    "instagram_handle": "@glenn92",
+    "tiktok_handle": "@samantha32",
+    "joined_at": "2023-10-22T14:21:50.238603",
+    "advocacy_programs": [
+        {
+            "program_id": "f2a60042-eb3a-4465-a5c2-9dfd3fb9a4a4",
+            "brand": "Yang Ltd",
+            "tasks_completed": [
+                {
+                    "task_id": "fcee2f58-620d-46c2-909f-6a86cac1dad3",
+                    "platform": "TikTok",
+                    "post_url": "https://common-lava.info",
+                    "likes": 1242,
+                    "comments": 381,
+                    "shares": 86,
+                    "reach": 9048
+                }
+            ],
+            "total_sales_attributed": 4265.689747396898
+        }
+    ]
+}

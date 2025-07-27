@@ -1,0 +1,26 @@
+{
+    "user_id": "ccf5f2f6-a7fb-4105-b322-cecb468aef96",
+    "name": "Michael Morgan",
+    "email": "Keyshawn53@hotmail.com",
+    "instagram_handle": "@barberryan",
+    "tiktok_handle": "@maxwellchristopher",
+    "joined_at": "2025-06-12T22:26:01.353544",
+    "advocacy_programs": [
+        {
+            "program_id": "d1d1efef-0903-4af3-86f3-26fc48ce09e5",
+            "brand": "Bowman-Rivera",
+            "tasks_completed": [
+                {
+                    "task_id": "1fc1bf22-c16f-40a2-b9eb-778e2768bc7a",
+                    "platform": "Instagram",
+                    "post_url": "http://www.bullock-nicholson.com/",
+                    "likes": 37,
+                    "comments": 40,
+                    "shares": 43,
+                    "reach": 6602
+                }
+            ],
+            "total_sales_attributed": 8750.72
+        }
+    ]
+}

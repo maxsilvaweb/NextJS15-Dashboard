@@ -1,0 +1,26 @@
+{
+    "user_id": "3279ab74-b3be-49fc-b9c8-ebd8bb360e06",
+    "name": "Shane Altenwerth",
+    "email": "emilyadams@example.net",
+    "instagram_handle": "@allison56",
+    "tiktok_handle": "@debra36",
+    "joined_at": "2024-10-18T04:41:54.659427",
+    "advocacy_programs": [
+        {
+            "program_id": "fa35d415-bdeb-45e1-96b7-ebc03cf836b1",
+            "brand": "Lawson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "1bac7622-fd97-4018-a8af-6d341064eba3",
+                    "platform": "Instagram",
+                    "post_url": "https://granular-hospitalization.biz/",
+                    "likes": 353,
+                    "comments": 452,
+                    "shares": 22,
+                    "reach": 3031
+                }
+            ],
+            "total_sales_attributed": 1287.89
+        }
+    ]
+}

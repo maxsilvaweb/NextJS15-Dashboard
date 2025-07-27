@@ -1,0 +1,26 @@
+{
+    "user_id": "caa3f827-9c64-480a-be3d-5b149e387408",
+    "name": "Billy Morgan",
+    "email": "damonbrooks@example.net",
+    "instagram_handle": "@rayrobin",
+    "tiktok_handle": "@Ashlee10",
+    "joined_at": "2023-08-03T03:31:09.312533",
+    "advocacy_programs": [
+        {
+            "program_id": "2b9b3c7c-1d3d-4fcd-9c15-f92a437dd70d",
+            "brand": "Fisher-Bryant",
+            "tasks_completed": [
+                {
+                    "task_id": "6d82ba38-1ba7-4202-acff-b08d13520602",
+                    "platform": "TikTok",
+                    "post_url": "https://www.wilson.com/",
+                    "likes": 3118,
+                    "comments": 346,
+                    "shares": 49,
+                    "reach": 3209
+                }
+            ],
+            "total_sales_attributed": 8301.2
+        }
+    ]
+}

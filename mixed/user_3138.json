@@ -1,0 +1,26 @@
+{
+    "user_id": "17e48c25-6701-4476-8d0b-919e093d2056",
+    "name": "Cecil Bradtke",
+    "email": "Jerel_Kautzer@hotmail.com",
+    "instagram_handle": "@Orion.Greenfelder52",
+    "tiktok_handle": "@Adolph_Wisoky64",
+    "joined_at": "2025-01-15T08:41:09.610Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5bab9e8f-1fc2-4269-9526-506f3dc22e0c",
+            "brand": "Kuhlman - Hoppe",
+            "tasks_completed": [
+                {
+                    "task_id": "c3810aa6-3496-43dc-a9cd-b3e69a40bee5",
+                    "platform": "TikTok",
+                    "post_url": "https://digital-disconnection.net/",
+                    "likes": 13,
+                    "comments": 41,
+                    "shares": 59,
+                    "reach": 2223
+                }
+            ],
+            "total_sales_attributed": 2256.69410072431
+        }
+    ]
+}

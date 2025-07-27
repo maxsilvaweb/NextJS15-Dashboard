@@ -1,0 +1,26 @@
+{
+    "user_id": "0ccc1fe2-0f64-4a24-bae5-b97ffec1c6d4",
+    "name": "Claire Buckley",
+    "email": "smithjoshua@example.com",
+    "instagram_handle": "@ffernandez",
+    "tiktok_handle": "@alejandro38",
+    "joined_at": "2024-02-17T05:11:07.500102",
+    "advocacy_programs": [
+        {
+            "program_id": "577ad319-ccd3-4dcf-b125-dac53617c353",
+            "brand": "Lopez Group",
+            "tasks_completed": [
+                {
+                    "task_id": "88c95707-6274-4c75-9cc2-8963409908d7",
+                    "platform": "Instagram",
+                    "post_url": "https://www.christensen.net/",
+                    "likes": 7181,
+                    "comments": 42,
+                    "shares": 91,
+                    "reach": 4106
+                }
+            ],
+            "total_sales_attributed": 4211.37
+        }
+    ]
+}

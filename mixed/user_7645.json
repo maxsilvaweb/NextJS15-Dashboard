@@ -1,0 +1,26 @@
+{
+    "user_id": "70883604-f293-4307-bfe6-7a5aa480e135",
+    "name": "Jeffrey Thomas",
+    "email": "williamsmatthew@example.com",
+    "instagram_handle": "@qsims",
+    "tiktok_handle": "@tjacobs",
+    "joined_at": "2023-12-10T12:05:59.174152",
+    "advocacy_programs": [
+        {
+            "program_id": "ff9fcc44-ed6f-4c87-bf73-1ff99d0847a6",
+            "brand": "Gibson, Brady and Sullivan",
+            "tasks_completed": [
+                {
+                    "task_id": "e297e272-9a57-47e5-99b6-91fddb2bc010",
+                    "platform": "Instagram",
+                    "post_url": "https://www.williams.com/",
+                    "likes": 9154,
+                    "comments": 312,
+                    "shares": 32,
+                    "reach": 4086
+                }
+            ],
+            "total_sales_attributed": 2349.48
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "user_id": "61e4e29d-851c-4ea8-8134-90738d48f581",
+    "name": "Jody Davenport",
+    "email": "Jada_Stiedemann30@gmail.com",
+    "instagram_handle": "@derekpineda",
+    "tiktok_handle": "@lauraparker",
+    "joined_at": "2025-06-01T13:24:51.815397",
+    "advocacy_programs": [
+        {
+            "program_id": "9aaa6b9d-0722-4af4-9180-d9f3e69167d3",
+            "brand": "Cantrell-Ramirez",
+            "tasks_completed": [
+                {
+                    "task_id": "a9c270e7-72ef-4c8f-8adc-ee271e3e51bb",
+                    "platform": "Facebook",
+                    "post_url": "https://www.morrison.net/",
+                    "likes": 5272,
+                    "comments": 42,
+                    "shares": 70,
+                    "reach": 6778
+                }
+            ],
+            "total_sales_attributed": 7852.15
+        }
+    ]
+}

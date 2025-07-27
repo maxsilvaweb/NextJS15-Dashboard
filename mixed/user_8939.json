@@ -1,0 +1,26 @@
+{
+    "user_id": "99dfbddb-0d0b-4cda-9196-d0aebb9c99a1",
+    "name": "Kent Schowalter",
+    "email": "Savanna_Kovacek28@hotmail.com",
+    "instagram_handle": "@Bertha74",
+    "tiktok_handle": "@Ethelyn_Schneider15",
+    "joined_at": "2024-09-16T12:15:34.339Z",
+    "advocacy_programs": [
+        {
+            "program_id": "28e02719-e04e-424d-8bde-5c25a54656cb",
+            "brand": "Kozey, Littel and O'Hara",
+            "tasks_completed": [
+                {
+                    "task_id": "8ce16597-d07a-422f-b0cd-1e4e9d229829",
+                    "platform": "TikTok",
+                    "post_url": "https://simple-distinction.name",
+                    "likes": 370,
+                    "comments": 5,
+                    "shares": 53,
+                    "reach": 9461
+                }
+            ],
+            "total_sales_attributed": 4305.520837150305
+        }
+    ]
+}

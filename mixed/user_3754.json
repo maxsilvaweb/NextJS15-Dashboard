@@ -1,0 +1,26 @@
+{
+    "user_id": "be420c25-6a1b-410a-85ba-2a53b7d4fb7a",
+    "name": "Ms. Alicia Parker",
+    "email": "Margaretta38@hotmail.com",
+    "instagram_handle": "@Darrin.Lowe45",
+    "tiktok_handle": "@Benjamin5",
+    "joined_at": "2024-11-15T19:53:44.220Z",
+    "advocacy_programs": [
+        {
+            "program_id": "afd557ea-cf8c-473d-88f4-69c8aad7c0bf",
+            "brand": "Schulist Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "95209115-b7c1-4872-a7b4-9ac32207f319",
+                    "platform": "Instagram",
+                    "post_url": "https://ignorant-charlatan.net",
+                    "likes": 275,
+                    "comments": 10,
+                    "shares": 63,
+                    "reach": 2023
+                }
+            ],
+            "total_sales_attributed": 3659.540043513411
+        }
+    ]
+}

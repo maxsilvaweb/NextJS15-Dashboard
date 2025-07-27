@@ -1,0 +1,26 @@
+{
+    "user_id": "dd5fe85b-148a-4494-bbc9-1c526664d56e",
+    "name": "Alicia Compton",
+    "email": "Bartholome52@gmail.com",
+    "instagram_handle": "@yschneider",
+    "tiktok_handle": "@joseph45",
+    "joined_at": "2024-08-07T17:46:08.292432",
+    "advocacy_programs": [
+        {
+            "program_id": "51dcca83-c049-493f-b613-8eb55de75a79",
+            "brand": "Dawson, Jackson and Riggs",
+            "tasks_completed": [
+                {
+                    "task_id": "cd71ef17-915d-4746-973e-ccb5ecad29cb",
+                    "platform": "TikTok",
+                    "post_url": "http://www.flores.biz/",
+                    "likes": 8179,
+                    "comments": 74,
+                    "shares": 100,
+                    "reach": 8843
+                }
+            ],
+            "total_sales_attributed": 4307.46
+        }
+    ]
+}

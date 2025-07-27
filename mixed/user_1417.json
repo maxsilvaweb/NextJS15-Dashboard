@@ -1,0 +1,26 @@
+{
+    "user_id": "4349a7cb-91dd-4285-82a0-a220b6c447dd",
+    "name": "Elbert Dietrich",
+    "email": "Esta52@yahoo.com",
+    "instagram_handle": "@Destiney86",
+    "tiktok_handle": "@Jasmin_Dare87",
+    "joined_at": "2024-11-13T02:45:02.297Z",
+    "advocacy_programs": [
+        {
+            "program_id": "c100fd3c-4bcc-4cb8-ac0f-71ee712897ff",
+            "brand": "Dare Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "3c2f14f5-f5da-42a7-9ffc-c70fc152f519",
+                    "platform": "Instagram",
+                    "post_url": "https://comfortable-rubric.biz/",
+                    "likes": 444,
+                    "comments": 28,
+                    "shares": 70,
+                    "reach": 7677
+                }
+            ],
+            "total_sales_attributed": 440.3787088372965
+        }
+    ]
+}

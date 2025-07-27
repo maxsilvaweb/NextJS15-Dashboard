@@ -1,0 +1,26 @@
+{
+    "user_id": "2bdb4c35-b64f-473d-aaad-e35cb18463c0",
+    "name": "Spencer Fahey",
+    "email": "Cristian.Barton@hotmail.com",
+    "instagram_handle": "@Lyda.Kovacek",
+    "tiktok_handle": "@Chandler.Weimann",
+    "joined_at": "2025-01-23T00:17:01.238Z",
+    "advocacy_programs": [
+        {
+            "program_id": "3fe7ccf4-f9ad-4b84-9030-fe2b41d90983",
+            "brand": "Schroeder Group",
+            "tasks_completed": [
+                {
+                    "task_id": "a8d4a698-f590-4967-be4a-f04d5e901920",
+                    "platform": "TikTok",
+                    "post_url": "https://thick-illusion.org/",
+                    "likes": 175,
+                    "comments": 16,
+                    "shares": 79,
+                    "reach": 9619
+                }
+            ],
+            "total_sales_attributed": 4904.040331875056
+        }
+    ]
+}

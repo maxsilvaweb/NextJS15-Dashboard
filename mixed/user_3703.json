@@ -1,0 +1,26 @@
+{
+    "user_id": "c4083ecb-b755-4171-a93e-65b367e2f0ca",
+    "name": "Jacob Mckinney",
+    "email": "bryantdarren@example.com",
+    "instagram_handle": "@mullenelizabeth",
+    "tiktok_handle": "@jade13",
+    "joined_at": "2024-10-20T01:14:50.512003",
+    "advocacy_programs": [
+        {
+            "program_id": "3053f797-4a08-4fee-b67d-0780cbe8d87c",
+            "brand": "Miller-Kline",
+            "tasks_completed": [
+                {
+                    "task_id": "9a4efeb0-3a88-48aa-a0ef-49bb0b3412d3",
+                    "platform": "TikTok",
+                    "post_url": "https://andrews.com/",
+                    "likes": 5020,
+                    "comments": 264,
+                    "shares": 18,
+                    "reach": 2534
+                }
+            ],
+            "total_sales_attributed": 7419.99
+        }
+    ]
+}

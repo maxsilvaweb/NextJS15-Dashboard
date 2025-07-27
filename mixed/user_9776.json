@@ -1,0 +1,26 @@
+{
+    "user_id": "c331d854-433f-4d3d-8953-7026708f6265",
+    "name": "Barry Smith",
+    "email": "Arianna.Welch@hotmail.com",
+    "instagram_handle": "@Hollie_Mayert42",
+    "tiktok_handle": "@Everett56",
+    "joined_at": "2025-02-06T05:05:12.199Z",
+    "advocacy_programs": [
+        {
+            "program_id": "70b24c1b-b16a-48e2-9e2c-bf6c9e2b618b",
+            "brand": "O'Connell - Volkman",
+            "tasks_completed": [
+                {
+                    "task_id": "14569688-5aa2-4a8c-a562-f59c219c1986",
+                    "platform": "TikTok",
+                    "post_url": "https://mature-conversation.net/",
+                    "likes": 329,
+                    "comments": 42,
+                    "shares": 63,
+                    "reach": 1465
+                }
+            ],
+            "total_sales_attributed": 1351.4265649829147
+        }
+    ]
+}

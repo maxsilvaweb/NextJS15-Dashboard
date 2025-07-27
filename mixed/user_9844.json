@@ -1,0 +1,26 @@
+{
+    "user_id": "5df6bb83-223d-48d1-9260-910fd4c171fa",
+    "name": "Ida Anderson",
+    "email": "Keagan_Kozey97@hotmail.com",
+    "instagram_handle": "@Ayden.Muller",
+    "tiktok_handle": "@Reuben.Stroman",
+    "joined_at": "2024-11-06T11:03:57.465Z",
+    "advocacy_programs": [
+        {
+            "program_id": "709e0231-b3a3-4a10-a607-ed102ff95bd0",
+            "brand": "Corwin - Leuschke",
+            "tasks_completed": [
+                {
+                    "task_id": "52815786-2eb1-44d2-a407-587b564e86e0",
+                    "platform": "Instagram",
+                    "post_url": "https://criminal-kiss.com/",
+                    "likes": 87,
+                    "comments": 24,
+                    "shares": 1,
+                    "reach": 7348
+                }
+            ],
+            "total_sales_attributed": 2183.866799048167
+        }
+    ]
+}

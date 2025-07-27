@@ -1,0 +1,26 @@
+{
+    "user_id": "daddebc6-6a27-429d-b175-9e10bf7d76a9",
+    "name": "Ann Galloway",
+    "email": "david15@example.com",
+    "instagram_handle": "@kellygeorge",
+    "tiktok_handle": "@amandamitchell",
+    "joined_at": "2025-03-13T16:29:56.741833",
+    "advocacy_programs": [
+        {
+            "program_id": "dbeb9f12-0190-4204-b96c-0522441dc187",
+            "brand": "Sherman, Gonzalez and Ramirez",
+            "tasks_completed": [
+                {
+                    "task_id": "3d5b2065-6321-452b-b724-cb1d29a63c75",
+                    "platform": "Twitter",
+                    "post_url": "https://byrd.com/",
+                    "likes": 4146,
+                    "comments": 45,
+                    "shares": 42,
+                    "reach": 978
+                }
+            ],
+            "total_sales_attributed": 369.19
+        }
+    ]
+}

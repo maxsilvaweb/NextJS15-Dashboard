@@ -1,0 +1,26 @@
+{
+    "user_id": "baac7689-1da3-432e-bb07-ade49e38588a",
+    "name": "Mark Thomas",
+    "email": "jwilkinson@example.com",
+    "instagram_handle": "@aflores",
+    "tiktok_handle": "@kaylaperkins",
+    "joined_at": "2024-07-06T12:49:06.550729",
+    "advocacy_programs": [
+        {
+            "program_id": "ef125a48-ef92-4866-9a3a-07f4ace8794e",
+            "brand": "Pugh, Lopez and Dyer",
+            "tasks_completed": [
+                {
+                    "task_id": "9df6ed17-b701-4e88-b912-ce36d110dbff",
+                    "platform": "YouTube",
+                    "post_url": "http://www.tucker-scott.com/",
+                    "likes": 2692,
+                    "comments": 290,
+                    "shares": 41,
+                    "reach": 7332
+                }
+            ],
+            "total_sales_attributed": 1289.51
+        }
+    ]
+}

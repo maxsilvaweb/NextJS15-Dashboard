@@ -1,0 +1,26 @@
+{
+    "user_id": "c0edf7e1-2052-47fe-a8d9-0626f6ad4046",
+    "name": "Mark Wiegand V",
+    "email": "Johnathon_Tromp@gmail.com",
+    "instagram_handle": "@Freddie55",
+    "tiktok_handle": "@Clare_Lubowitz",
+    "joined_at": "2025-01-05T16:04:00.544Z",
+    "advocacy_programs": [
+        {
+            "program_id": "29b85fbc-dbc6-4bc8-b582-bacc663a4ea6",
+            "brand": "Wehner, Stiedemann and Breitenberg",
+            "tasks_completed": [
+                {
+                    "task_id": "95398a67-42c0-4244-a426-1980e53aa09c",
+                    "platform": "TikTok",
+                    "post_url": "https://cuddly-deduction.com/",
+                    "likes": 102,
+                    "comments": 12,
+                    "shares": 64,
+                    "reach": 3060
+                }
+            ],
+            "total_sales_attributed": 4318.466476951166
+        }
+    ]
+}

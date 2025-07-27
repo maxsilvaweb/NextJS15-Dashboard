@@ -1,0 +1,26 @@
+{
+    "user_id": "b337159d-c3c8-487c-9876-987275696501",
+    "name": "Opal Auer",
+    "email": "jenna31@example.org",
+    "instagram_handle": "@Unique83",
+    "tiktok_handle": "@tuckerdonna",
+    "joined_at": "2024-08-12T17:39:27.420Z",
+    "advocacy_programs": [
+        {
+            "program_id": "47653f12-285e-497c-9457-e358623aa6e4",
+            "brand": "Ramos PLC",
+            "tasks_completed": [
+                {
+                    "task_id": "ab63fe0e-1cf7-4280-84fd-5bd770111719",
+                    "platform": "Instagram",
+                    "post_url": "https://damaged-seagull.name/",
+                    "likes": 4563,
+                    "comments": 397,
+                    "shares": 93,
+                    "reach": 3273
+                }
+            ],
+            "total_sales_attributed": 4145.888078659826
+        }
+    ]
+}

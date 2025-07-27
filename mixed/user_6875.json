@@ -1,0 +1,26 @@
+{
+    "user_id": "fdcdd087-fb6a-4bae-99e6-18b79ff6e8d1",
+    "name": "Deborah Kertzmann",
+    "email": "ojackson@example.com",
+    "instagram_handle": "@Jacky.Reynolds78",
+    "tiktok_handle": "@josephsmith",
+    "joined_at": "2025-06-01T18:57:10.412342",
+    "advocacy_programs": [
+        {
+            "program_id": "e6843514-7436-484e-bdaa-06ba0623bbfd",
+            "brand": "Sanchez, Davis and Jones",
+            "tasks_completed": [
+                {
+                    "task_id": "dc6e5be0-1139-402a-9aff-adb5a71cf43f",
+                    "platform": "Instagram",
+                    "post_url": "http://www.saunders-flores.com/",
+                    "likes": 9384,
+                    "comments": 3,
+                    "shares": 80,
+                    "reach": 5949
+                }
+            ],
+            "total_sales_attributed": 9198.24
+        }
+    ]
+}

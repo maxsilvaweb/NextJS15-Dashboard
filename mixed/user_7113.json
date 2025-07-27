@@ -1,0 +1,26 @@
+{
+    "user_id": "d3247f01-7dae-4393-abdf-7987563c7122",
+    "name": "Michael Torres",
+    "email": "whunt@example.net",
+    "instagram_handle": "@mariacarpenter",
+    "tiktok_handle": "@ortegasean",
+    "joined_at": "2023-11-16T22:37:53.415096",
+    "advocacy_programs": [
+        {
+            "program_id": "2929a697-f6e3-43fe-af35-a05cdd895a01",
+            "brand": "Williamson, Patel and Gray",
+            "tasks_completed": [
+                {
+                    "task_id": "e53c5fc7-f0b9-40a4-af11-7dff6022be4d",
+                    "platform": "Facebook",
+                    "post_url": "http://baxter.com/",
+                    "likes": 5190,
+                    "comments": 13,
+                    "shares": 49,
+                    "reach": 5427
+                }
+            ],
+            "total_sales_attributed": 1315.3
+        }
+    ]
+}

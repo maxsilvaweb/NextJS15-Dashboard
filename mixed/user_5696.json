@@ -1,0 +1,26 @@
+{
+    "user_id": "1e47e45c-2b76-4e64-b404-6785ed8e98be",
+    "name": "Christian Lambert",
+    "email": "vaughnerin@example.net",
+    "instagram_handle": "@johnsonmichael",
+    "tiktok_handle": "@griffinrichard",
+    "joined_at": "2024-10-09T12:06:35.100759",
+    "advocacy_programs": [
+        {
+            "program_id": "23da89b0-30ae-4f09-a0f4-5ac9b66af64c",
+            "brand": "Cruz Group",
+            "tasks_completed": [
+                {
+                    "task_id": "b754a00d-b0f9-41b5-9d48-2a040d2ef2a3",
+                    "platform": "YouTube",
+                    "post_url": "http://www.hull.com/",
+                    "likes": 2409,
+                    "comments": 4,
+                    "shares": 28,
+                    "reach": 8551
+                }
+            ],
+            "total_sales_attributed": 2306.91
+        }
+    ]
+}

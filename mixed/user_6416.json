@@ -1,0 +1,26 @@
+{
+    "user_id": "ba5b5192-2398-477b-a02c-011c441a5c1d",
+    "name": "Catherine Arnold",
+    "email": "qvelazquez@example.org",
+    "instagram_handle": "@elizabeth70",
+    "tiktok_handle": "@garciamichael",
+    "joined_at": "2024-03-13T02:08:27.871338",
+    "advocacy_programs": [
+        {
+            "program_id": "7c0c3e7d-f08b-4838-976d-5f0f48ac012e",
+            "brand": "Hoover-Pittman",
+            "tasks_completed": [
+                {
+                    "task_id": "1e5f03c6-d3c8-4cfe-9d3d-5e5b7fdd9bcb",
+                    "platform": "TikTok",
+                    "post_url": "https://dental-fraudster.org",
+                    "likes": 4261,
+                    "comments": 49,
+                    "shares": 28,
+                    "reach": 2450
+                }
+            ],
+            "total_sales_attributed": 3980.43
+        }
+    ]
+}

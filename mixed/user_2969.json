@@ -1,0 +1,26 @@
+{
+    "user_id": "0f204fd0-a623-44f1-ab98-590a06f32e5c",
+    "name": "Diana Hessel",
+    "email": "Thora73@gmail.com",
+    "instagram_handle": "@Kelley.Bayer10",
+    "tiktok_handle": "@Bertrand.Gulgowski",
+    "joined_at": "2024-08-07T19:06:39.121Z",
+    "advocacy_programs": [
+        {
+            "program_id": "5d5648b9-677e-45fa-8a85-6b246c4e9947",
+            "brand": "Schmeler - Christiansen",
+            "tasks_completed": [
+                {
+                    "task_id": "784b4a82-237c-4948-809b-2862acfed370",
+                    "platform": "Instagram",
+                    "post_url": "https://pricey-finer.biz",
+                    "likes": 91,
+                    "comments": 24,
+                    "shares": 49,
+                    "reach": 6201
+                }
+            ],
+            "total_sales_attributed": 4289.5547953224095
+        }
+    ]
+}

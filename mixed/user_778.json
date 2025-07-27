@@ -1,0 +1,26 @@
+{
+    "user_id": "1bd3640c-7124-4cc6-878b-1756d4fb2fcb",
+    "name": "Taylor Turner",
+    "email": "Howell42@hotmail.com",
+    "instagram_handle": "@Kaycee64",
+    "tiktok_handle": "@Dawn_Dietrich28",
+    "joined_at": "2024-08-23T19:09:33.102Z",
+    "advocacy_programs": [
+        {
+            "program_id": "be4a75f7-b75a-495a-b397-31a91ae023c3",
+            "brand": "Douglas - Hauck",
+            "tasks_completed": [
+                {
+                    "task_id": "6c421af8-dd6b-45f2-ac22-1bdd2991d087",
+                    "platform": "TikTok",
+                    "post_url": "https://uneven-mixture.org/",
+                    "likes": 376,
+                    "comments": 48,
+                    "shares": 18,
+                    "reach": 7663
+                }
+            ],
+            "total_sales_attributed": 2820.9039022252828
+        }
+    ]
+}

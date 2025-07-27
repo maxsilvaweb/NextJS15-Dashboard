@@ -1,0 +1,26 @@
+{
+    "user_id": "79a9633b-5ae7-4cab-a645-a185714cde43",
+    "name": "Owen Jast",
+    "email": "Pietro8@gmail.com",
+    "instagram_handle": "@Scarlett.Sporer",
+    "tiktok_handle": "@Elody_Haag",
+    "joined_at": "2025-01-16T05:09:22.789Z",
+    "advocacy_programs": [
+        {
+            "program_id": "dbbe5848-204e-4640-8692-f5906b3b286a",
+            "brand": "Renner LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "7b83c2e5-a410-4b77-9300-5a2b5879b29d",
+                    "platform": "Instagram",
+                    "post_url": "https://clumsy-habit.info",
+                    "likes": 275,
+                    "comments": 28,
+                    "shares": 34,
+                    "reach": 4345
+                }
+            ],
+            "total_sales_attributed": 2054.908991689675
+        }
+    ]
+}

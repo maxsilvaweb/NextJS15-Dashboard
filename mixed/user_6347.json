@@ -1,0 +1,26 @@
+{
+    "user_id": "06d16cdf-6eb4-4f57-96a2-0da7339e5b9f",
+    "name": "Seth Frami",
+    "email": "Shyanne.Krajcik@hotmail.com",
+    "instagram_handle": "@Freeman_Wilkinson53",
+    "tiktok_handle": "@Muhammad_Kshlerin24",
+    "joined_at": "2024-11-22T08:37:28.711Z",
+    "advocacy_programs": [
+        {
+            "program_id": "77354107-30d4-4e4d-b295-e8a682d93b1b",
+            "brand": "Raynor, Hahn and Kreiger",
+            "tasks_completed": [
+                {
+                    "task_id": "cdf0abb0-489f-4592-adeb-ec5bcc4ccbb4",
+                    "platform": "TikTok",
+                    "post_url": "https://hidden-skean.org/",
+                    "likes": 436,
+                    "comments": 43,
+                    "shares": 84,
+                    "reach": 1234
+                }
+            ],
+            "total_sales_attributed": 254.5607824116054
+        }
+    ]
+}

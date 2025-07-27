@@ -1,0 +1,26 @@
+{
+    "user_id": "efaa2e99-da42-4c88-85cb-27ebd1e533f2",
+    "name": "Noah Thiel",
+    "email": "Brielle56@gmail.com",
+    "instagram_handle": "@Tina50",
+    "tiktok_handle": "@Otis90",
+    "joined_at": "2024-10-01T09:33:11.622Z",
+    "advocacy_programs": [
+        {
+            "program_id": "76f21902-e239-449d-91ee-363898a06d57",
+            "brand": "Wisozk, Murray and Doyle",
+            "tasks_completed": [
+                {
+                    "task_id": "66f94c27-689f-4ec5-b559-4116b46714bc",
+                    "platform": "Instagram",
+                    "post_url": "https://numb-apricot.info",
+                    "likes": 398,
+                    "comments": 6,
+                    "shares": 47,
+                    "reach": 6758
+                }
+            ],
+            "total_sales_attributed": 530.4232729621798
+        }
+    ]
+}

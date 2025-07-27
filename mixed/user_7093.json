@@ -1,0 +1,26 @@
+{
+    "user_id": "cf1ccaf9-335f-4186-b908-64faee606f49",
+    "name": "Stephen Jones",
+    "email": "Adele_Schoen@gmail.com",
+    "instagram_handle": "@felicia59",
+    "tiktok_handle": "@michael01",
+    "joined_at": "2023-09-06T23:42:05.660998",
+    "advocacy_programs": [
+        {
+            "program_id": "d6a3fed2-d32e-4e1d-bd5c-4a291964238d",
+            "brand": "Cunningham Group",
+            "tasks_completed": [
+                {
+                    "task_id": "21bd922d-f273-434c-817a-99c0034abed1",
+                    "platform": "Twitter",
+                    "post_url": "http://www.caldwell.net/",
+                    "likes": 343,
+                    "comments": 394,
+                    "shares": 40,
+                    "reach": 1113
+                }
+            ],
+            "total_sales_attributed": 9168.64
+        }
+    ]
+}

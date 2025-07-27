@@ -1,0 +1,26 @@
+{
+    "user_id": "ad8267f6-a29a-45f7-8b1a-b0977c77bbed",
+    "name": "Ernest Khan",
+    "email": "wwarren@example.net",
+    "instagram_handle": "@lambertjoseph",
+    "tiktok_handle": "@miguel84",
+    "joined_at": "2024-08-05T02:07:41.815721",
+    "advocacy_programs": [
+        {
+            "program_id": "b7626b5f-e6e1-4fcd-bbc9-7d2795335361",
+            "brand": "Wilson LLC",
+            "tasks_completed": [
+                {
+                    "task_id": "47f195ec-3cf6-433b-9a04-5eda6136d65b",
+                    "platform": "TikTok",
+                    "post_url": "http://www.pollard.com/",
+                    "likes": 4831,
+                    "comments": 103,
+                    "shares": 35,
+                    "reach": 669
+                }
+            ],
+            "total_sales_attributed": 3732.58
+        }
+    ]
+}

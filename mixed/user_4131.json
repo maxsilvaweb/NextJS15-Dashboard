@@ -1,0 +1,26 @@
+{
+    "user_id": "2789fac3-f79a-4e8d-af8f-494be4e5e118",
+    "name": "Jamie Hicks",
+    "email": "catherinebridges@example.com",
+    "instagram_handle": "@kbates",
+    "tiktok_handle": "@alejandro34",
+    "joined_at": "2025-02-20T15:38:27.077078",
+    "advocacy_programs": [
+        {
+            "program_id": "279c392e-442e-47d9-ac42-96e84c4879ac",
+            "brand": "Ramos-Howell",
+            "tasks_completed": [
+                {
+                    "task_id": "cec7f6f4-2e5e-47d9-8720-e8b360d77c50",
+                    "platform": "Instagram",
+                    "post_url": "https://excited-molasses.name/",
+                    "likes": 9179,
+                    "comments": 174,
+                    "shares": 89,
+                    "reach": 6906
+                }
+            ],
+            "total_sales_attributed": 659.99
+        }
+    ]
+}

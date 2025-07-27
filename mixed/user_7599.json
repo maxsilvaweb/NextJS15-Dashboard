@@ -1,0 +1,26 @@
+{
+    "user_id": "fdaab507-4c1f-4eae-81bc-d3c9bf35a9ce",
+    "name": "Casey Reichert",
+    "email": "curtisdennis@example.net",
+    "instagram_handle": "@martinezamanda",
+    "tiktok_handle": "@lthomas",
+    "joined_at": "2024-05-09T09:53:35.531866",
+    "advocacy_programs": [
+        {
+            "program_id": "da40f503-5644-4606-9ddc-40eb435962d4",
+            "brand": "Wilkinson Inc",
+            "tasks_completed": [
+                {
+                    "task_id": "40b2f497-d50f-4da8-a873-9b6eb28ac327",
+                    "platform": "Twitter",
+                    "post_url": "https://lee.com/",
+                    "likes": 1309,
+                    "comments": 378,
+                    "shares": 36,
+                    "reach": 5556
+                }
+            ],
+            "total_sales_attributed": 8754.45
+        }
+    ]
+}

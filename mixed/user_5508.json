@@ -1,0 +1,26 @@
+{
+    "user_id": "4a696c73-ea86-40ac-9f25-fd5e7208a75f",
+    "name": "Colleen Conrad",
+    "email": "bthomas@example.net",
+    "instagram_handle": "@blackburncolleen",
+    "tiktok_handle": "@derrick86",
+    "joined_at": "2023-11-16T04:30:09.135043",
+    "advocacy_programs": [
+        {
+            "program_id": "0b292153-6459-468f-91a2-e92c19abd6f5",
+            "brand": "Brown, White and Johnson",
+            "tasks_completed": [
+                {
+                    "task_id": "ac0c5d3c-b1c5-47c2-ac98-ebaf550413b0",
+                    "platform": "Instagram",
+                    "post_url": "http://www.jensen-gross.info/",
+                    "likes": 236,
+                    "comments": 36,
+                    "shares": 100,
+                    "reach": 9148
+                }
+            ],
+            "total_sales_attributed": 548.2243196761385
+        }
+    ]
+}
