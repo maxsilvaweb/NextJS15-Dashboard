@@ -1,22 +1,183 @@
 import os
 import json
-import glob
 import logging
+import glob
 from datetime import datetime
-from upload_to_postgres_heroku_backup import HerokuPostgreSQLUploader
 import psycopg2
 from psycopg2.extras import execute_batch
+from dotenv import load_dotenv
 
-# Configure logging
+# Load environment variables
+load_dotenv()
+
+# Set up logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('upload.log'),
         logging.StreamHandler()
     ]
 )
-logger = logging.getLogger(__name__)
+
+class HerokuPostgreSQLUploader:
+    def __init__(self):
+        self.database_url = os.getenv('HEROKU_DATABASE_URL') or os.getenv('DATABASE_URL')
+        if not self.database_url:
+            raise ValueError("Database URL not found in environment variables")
+        
+        self.logger = logging.getLogger(__name__)
+    
+    def get_connection(self):
+        """Get database connection"""
+        try:
+            conn = psycopg2.connect(self.database_url)
+            return conn
+        except Exception as e:
+            self.logger.error(f"Error connecting to database: {e}")
+            raise
+    
+    def create_tables(self):
+        """Create necessary tables if they don't exist"""
+        try:
+            with self.get_connection() as conn:
+                with conn.cursor() as cursor:
+                    # Create processed_data table
+                    cursor.execute("""
+                        CREATE TABLE IF NOT EXISTS processed_data (
+                            id SERIAL PRIMARY KEY,
+                            user_id INTEGER,
+                            name VARCHAR(255),
+                            email VARCHAR(255),
+                            email_valid BOOLEAN,
+                            instagram_handle VARCHAR(255),
+                            tiktok_handle VARCHAR(255),
+                            joined_at TIMESTAMP,
+                            program_id VARCHAR(255),
+                            brand VARCHAR(255),
+                            task_id VARCHAR(255),
+                            platform VARCHAR(255),
+                            post_url TEXT,
+                            url_valid BOOLEAN,
+                            likes INTEGER DEFAULT 0,
+                            comments INTEGER DEFAULT 0,
+                            shares INTEGER DEFAULT 0,
+                            reach INTEGER DEFAULT 0,
+                            total_sales_attributed NUMERIC(10,2) DEFAULT 0,
+                            source_file VARCHAR(255),
+                            issues_found INTEGER DEFAULT 0,
+                            issues_list TEXT,
+                            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+                        )
+                    """)
+                    
+                    # Create processing_log table
+                    cursor.execute("""
+                        CREATE TABLE IF NOT EXISTS processing_log (
+                            id SERIAL PRIMARY KEY,
+                            run_id VARCHAR(255),
+                            commit_sha VARCHAR(255),
+                            files_processed INTEGER,
+                            records_created INTEGER,
+                            processing_time_seconds NUMERIC(10,2),
+                            status VARCHAR(50),
+                            error_message TEXT,
+                            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+                        )
+                    """)
+                    
+                    conn.commit()
+                    self.logger.info("Tables created successfully")
+        except Exception as e:
+            self.logger.error(f"Error creating tables: {e}")
+            raise
+    
+    def upload_processed_data(self, data_records):
+        """Upload processed data records to database"""
+        if not data_records:
+            self.logger.warning("No data records to upload")
+            return 0
+        
+        try:
+            with self.get_connection() as conn:
+                with conn.cursor() as cursor:
+                    # Prepare insert query
+                    insert_query = """
+                        INSERT INTO processed_data (
+                            user_id, name, email, email_valid, instagram_handle, tiktok_handle,
+                            joined_at, program_id, brand, task_id, platform, post_url, url_valid,
+                            likes, comments, shares, reach, total_sales_attributed, source_file,
+                            issues_found, issues_list
+                        ) VALUES (
+                            %(user_id)s, %(name)s, %(email)s, %(email_valid)s, %(instagram_handle)s,
+                            %(tiktok_handle)s, %(joined_at)s, %(program_id)s, %(brand)s, %(task_id)s,
+                            %(platform)s, %(post_url)s, %(url_valid)s, %(likes)s, %(comments)s,
+                            %(shares)s, %(reach)s, %(total_sales_attributed)s, %(source_file)s,
+                            %(issues_found)s, %(issues_list)s
+                        )
+                    """
+                    
+                    # Convert issues_list to string if it's a list
+                    for record in data_records:
+                        if isinstance(record.get('issues_list'), list):
+                            record['issues_list'] = ','.join(record['issues_list'])
+                    
+                    # Execute batch insert
+                    cursor.executemany(insert_query, data_records)
+                    conn.commit()
+                    
+                    uploaded_count = len(data_records)
+                    self.logger.info(f"Successfully uploaded {uploaded_count} records")
+                    return uploaded_count
+                    
+        except Exception as e:
+            self.logger.error(f"Error uploading data: {e}")
+            raise
+    
+    def log_processing_stats(self, run_id, commit_sha, files_processed, records_created, processing_time, status, error_message=None):
+        """Log processing statistics"""
+        try:
+            with self.get_connection() as conn:
+                with conn.cursor() as cursor:
+                    cursor.execute("""
+                        INSERT INTO processing_log (
+                            run_id, commit_sha, files_processed, records_created,
+                            processing_time_seconds, status, error_message
+                        ) VALUES (%s, %s, %s, %s, %s, %s, %s)
+                    """, (run_id, commit_sha, files_processed, records_created, processing_time, status, error_message))
+                    
+                    conn.commit()
+                    self.logger.info("Processing stats logged successfully")
+        except Exception as e:
+            self.logger.error(f"Error logging processing stats: {e}")
+            raise
+    
+    def get_last_uploaded_user_number(self):
+        """Get the highest user_id from the database"""
+        try:
+            with self.get_connection() as conn:
+                with conn.cursor() as cursor:
+                    cursor.execute("SELECT MAX(user_id) FROM processed_data")
+                    result = cursor.fetchone()[0]
+                    return result if result is not None else 0
+        except Exception as e:
+            self.logger.error(f"Error getting last uploaded user number: {e}")
+            return 0
+    
+    def table_exists(self, table_name):
+        """Check if a table exists"""
+        try:
+            with self.get_connection() as conn:
+                with conn.cursor() as cursor:
+                    cursor.execute("""
+                        SELECT EXISTS (
+                            SELECT FROM information_schema.tables 
+                            WHERE table_name = %s
+                        )
+                    """, (table_name,))
+                    return cursor.fetchone()[0]
+        except Exception as e:
+            self.logger.error(f"Error checking if table exists: {e}")
+            return False
 
 class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
     def __init__(self, mixed_dir="mixed"):
@@ -36,10 +197,10 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
                         );
                     """)
                     tables_exist = cur.fetchone()[0]
-                    logger.info(f"Tables exist: {tables_exist}")
+                    self.logger.info(f"Tables exist: {tables_exist}")
                     return tables_exist
         except Exception as e:
-            logger.error(f"Error checking if tables exist: {e}")
+            self.logger.error(f"Error checking if tables exist: {e}")
             return False
     
     def get_last_uploaded_user_number(self):
@@ -50,10 +211,10 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
                     cur.execute("SELECT MAX(user_id) FROM processed_data")
                     result = cur.fetchone()[0]
                     last_number = result if result is not None else -1
-                    logger.info(f"Last uploaded user number: {last_number}")
+                    self.logger.info(f"Last uploaded user number: {last_number}")
                     return last_number
         except Exception as e:
-            logger.error(f"Error getting last uploaded user number: {e}")
+            self.logger.error(f"Error getting last uploaded user number: {e}")
             return -1
     
     def get_available_user_files(self):
@@ -69,15 +230,15 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
                 number = int(filename.replace("user_", "").replace(".json", ""))
                 file_numbers.append((number, file_path))
             except ValueError:
-                logger.warning(f"Skipping file with invalid format: {filename}")
+                self.logger.warning(f"Skipping file with invalid format: {filename}")
         
         # Sort by number
         file_numbers.sort(key=lambda x: x[0])
-        logger.info(f"Found {len(file_numbers)} user files")
+        self.logger.info(f"Found {len(file_numbers)} user files")
         return file_numbers
     
     def process_user_file(self, file_path, user_number):
-        """Process a single user file and return processed data"""
+        """Process a single user file and return records"""
         try:
             with open(file_path, 'r') as f:
                 user_data = json.load(f)
@@ -124,13 +285,13 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
             return processed_records
             
         except Exception as e:
-            logger.error(f"Error processing file {file_path}: {e}")
+            self.logger.error(f"Error processing file {file_path}: {e}")
             return []
     
     def batch_upload_records(self, records, batch_size=1000):
         """Upload records in batches to avoid memory issues"""
         if not records:
-            logger.warning("No records to upload")
+            self.logger.warning("No records to upload")
             return 0
         
         total_uploaded = 0
@@ -189,39 +350,39 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
                         batch_uploaded = cur.rowcount
                         total_uploaded += batch_uploaded
                         
-                        logger.info(f"Uploaded batch {i//batch_size + 1}: {batch_uploaded} records")
+                        self.logger.info(f"Uploaded batch {i//batch_size + 1}: {batch_uploaded} records")
                     
                     conn.commit()
-                    logger.info(f"Total records uploaded: {total_uploaded}")
+                    self.logger.info(f"Total records uploaded: {total_uploaded}")
                     return total_uploaded
                     
         except Exception as e:
-            logger.error(f"Error during batch upload: {e}")
+            self.logger.error(f"Error during batch upload: {e}")
             return 0
     
     def run_upload_process(self, start_file=None, end_file=None):
         """Main upload process with your requirements"""
-        logger.info("Starting enhanced upload process...")
+        self.logger.info("Starting upload process...")
         
         # Step 1: Check if tables exist, create if not
         tables_exist = self.check_tables_exist()
         
         if not tables_exist:
-            logger.info("Tables don't exist. Creating tables...")
+            self.logger.info("Tables don't exist. Creating tables...")
             self.create_tables()
-            logger.info("Tables created successfully")
+            self.logger.info("Tables created successfully")
         
         # Step 2: Get available files
         available_files = self.get_available_user_files()
         
         if not available_files:
-            logger.warning(f"No user files found in {self.mixed_dir} directory")
+            self.logger.warning(f"No user files found in {self.mixed_dir} directory")
             return
         
         # Step 3: Determine which files to process
         if not tables_exist:
             # No tables existed, so database is empty - upload all files
-            logger.info("Database was empty. Processing all available files...")
+            self.logger.info("Database was empty. Processing all available files...")
             files_to_process = available_files
         else:
             # Tables exist, check last uploaded file
@@ -229,23 +390,23 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
             
             if last_uploaded == -1:
                 # No data in tables, upload all
-                logger.info("Tables exist but no data found. Processing all files...")
+                self.logger.info("Tables exist but no data found. Processing all files...")
                 files_to_process = available_files
             else:
                 # Upload only files after the last uploaded
-                logger.info(f"Last uploaded file: user_{last_uploaded}.json")
+                self.logger.info(f"Last uploaded file: user_{last_uploaded}.json")
                 files_to_process = [(num, path) for num, path in available_files if num > last_uploaded]
-                logger.info(f"Found {len(files_to_process)} new files to process")
+                self.logger.info(f"Found {len(files_to_process)} new files to process")
         
         # Apply custom range if specified
         if start_file is not None or end_file is not None:
             start = start_file if start_file is not None else 0
             end = end_file if end_file is not None else 9999
             files_to_process = [(num, path) for num, path in files_to_process if start <= num <= end]
-            logger.info(f"Custom range applied: {len(files_to_process)} files to process")
+            self.logger.info(f"Custom range applied: {len(files_to_process)} files to process")
         
         if not files_to_process:
-            logger.info("No new files to process")
+            self.logger.info("No new files to process")
             return
         
         # Step 4: Process and upload files
@@ -253,7 +414,7 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
         processed_count = 0
         
         for user_number, file_path in files_to_process:
-            logger.info(f"Processing file: {os.path.basename(file_path)}")
+            self.logger.info(f"Processing file: {os.path.basename(file_path)}")
             
             records = self.process_user_file(file_path, user_number)
             all_records.extend(records)
@@ -262,18 +423,21 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
             # Upload in batches of files to avoid memory issues
             if len(all_records) >= 5000:  # Upload every 5000 records
                 uploaded = self.batch_upload_records(all_records)
-                logger.info(f"Uploaded {uploaded} records from {processed_count} files")
+                self.logger.info(f"Uploaded {uploaded} records from {processed_count} files")
                 all_records = []  # Clear memory
         
         # Upload remaining records
         if all_records:
             uploaded = self.batch_upload_records(all_records)
-            logger.info(f"Uploaded final batch: {uploaded} records")
+            self.logger.info(f"Uploaded final batch: {uploaded} records")
         
-        logger.info(f"Upload process completed. Processed {processed_count} files.")
+        self.logger.info(f"Upload process completed. Processed {processed_count} files.")
 
 def main():
     """Main function to run the enhanced uploader"""
+    # Set up logger for main function
+    logger = logging.getLogger(__name__)
+    
     # Change from "mixed_backup" to "mixed" to match your file location
     uploader = EnhancedHerokuUploader(mixed_dir="mixed")
     
