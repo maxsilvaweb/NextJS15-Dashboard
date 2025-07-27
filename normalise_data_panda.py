@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import datetime
 import logging
 import glob
-from upload_to_postgres_heroku import HerokuPostgreSQLUploader
+from upload_to_postgres_heroku_backup import HerokuPostgreSQLUploader
 
 # Set up logging
 logging.basicConfig(
