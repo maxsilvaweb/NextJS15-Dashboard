@@ -45,10 +45,9 @@ class HerokuPostgreSQLUploader:
                     cursor.execute("""
                         CREATE TABLE IF NOT EXISTS processed_data (
                             id SERIAL PRIMARY KEY,
-                            user_id INTEGER,
+                            user_id VARCHAR(255),
                             name VARCHAR(255),
                             email VARCHAR(255),
-                            email_valid BOOLEAN,
                             instagram_handle VARCHAR(255),
                             tiktok_handle VARCHAR(255),
                             joined_at TIMESTAMP,
@@ -57,15 +56,12 @@ class HerokuPostgreSQLUploader:
                             task_id VARCHAR(255),
                             platform VARCHAR(255),
                             post_url TEXT,
-                            url_valid BOOLEAN,
                             likes INTEGER DEFAULT 0,
                             comments INTEGER DEFAULT 0,
                             shares INTEGER DEFAULT 0,
                             reach INTEGER DEFAULT 0,
                             total_sales_attributed NUMERIC(10,2) DEFAULT 0,
                             source_file VARCHAR(255),
-                            issues_found INTEGER DEFAULT 0,
-                            issues_list TEXT,
                             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
                         )
                     """)
@@ -217,6 +213,20 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
             self.logger.error(f"Error getting last uploaded user number: {e}")
             return -1
     
+    def get_last_processed_file_number(self):
+        """Get the highest file number that has been processed"""
+        try:
+            with self.get_connection() as conn:
+                with conn.cursor() as cur:
+                    cur.execute("SELECT MAX(CAST(REPLACE(REPLACE(source_file, 'user_', ''), '.json', '') AS INTEGER)) FROM processed_data WHERE source_file LIKE 'user_%.json'")
+                    result = cur.fetchone()[0]
+                    last_number = result if result is not None else -1
+                    self.logger.info(f"Last processed file number: {last_number}")
+                    return last_number
+        except Exception as e:
+            self.logger.error(f"Error getting last processed file number: {e}")
+            return -1
+    
     def get_available_user_files(self):
         """Get list of available user files and their numbers"""
         pattern = os.path.join(self.mixed_dir, "user_*.json")
@@ -247,7 +257,7 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
             
             # Extract user info
             user_info = {
-                'user_id': user_number,
+                'user_id': user_data.get('user_id'),  # Use actual user_id from JSON
                 'name': user_data.get('name'),
                 'email': user_data.get('email'),
                 'instagram_handle': user_data.get('instagram_handle'),
@@ -385,7 +395,7 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
             files_to_process = available_files
         else:
             # Tables exist, check last uploaded file
-            last_uploaded = self.get_last_uploaded_user_number()
+            last_uploaded = self.get_last_processed_file_number()
             
             if last_uploaded == -1:
                 # No data in tables, upload all
