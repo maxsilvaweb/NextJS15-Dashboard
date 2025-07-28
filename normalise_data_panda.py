@@ -2,7 +2,9 @@ import os
 import json
 import re
 import pandas as pd
+import logging
 from datetime import datetime
+from uploader import HerokuPostgreSQLUploader
 
 def is_valid_email(email):
     """Check if email is valid using regex pattern"""
