@@ -1,0 +1,26 @@
+{
+  "user_id": "cdeed38f-7b35-4aaa-96e7-3a75d337d064",
+  "name": "Max Silva3",
+  "email": "max@m4x.com",
+  "instagram_handle": "@tho4mp4ntony",
+  "tiktok_handle": "@matthew69",
+  "joined_at": "2024-09-05T01:35:28.227810",
+  "advocacy_programs": [
+    {
+      "program_id": "aa1aaf26-e508-479b-b317-0898a5f744a0",
+      "brand": "Mcdowell, Black and Walker",
+      "tasks_completed": [
+        {
+          "task_id": "5854252f-10d9-46b6-a32d-68880574e880",
+          "platform": "TikTok",
+          "post_url": "http://www.martinez.net/",
+          "likes": 455,
+          "comments": 0,
+          "shares": 68,
+          "reach": 2220
+        }
+      ],
+      "total_sales_attributed": 4828.34
+    }
+  ]
+}
