@@ -305,7 +305,7 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
                         (user_id, name, email, instagram_handle, tiktok_handle, joined_at,
                          program_id, brand, task_id, platform, post_url, likes, comments, 
                          shares, reach, total_sales_attributed, source_file, created_at)
-                        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                     """
                     
                     # Process in batches
