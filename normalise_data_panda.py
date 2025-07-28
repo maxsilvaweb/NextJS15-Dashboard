@@ -3,16 +3,6 @@ import json
 import re
 import pandas as pd
 from datetime import datetime
-import logging
-import glob
-from upload_to_postgres_heroku_backup import HerokuPostgreSQLUploader
-
-# Set up logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    filename='data_processing.log'
-)
 
 def is_valid_email(email):
     """Check if email is valid using regex pattern"""
