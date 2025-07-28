@@ -341,7 +341,8 @@ class EnhancedHerokuUploader(HerokuPostgreSQLUploader):
                                 record.get('shares', 0),
                                 record.get('reach', 0),
                                 record.get('total_sales_attributed', 0),
-                                record.get('source_file')
+                                record.get('source_file'),
+                                datetime.now()
                             ))
                         
                         # Execute batch
