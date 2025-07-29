@@ -1,5 +1,5 @@
 variable "project_name" {
-  description = "Name of the project"
+  description = "duel_"
   type        = string
   default     = "duel"
 }
