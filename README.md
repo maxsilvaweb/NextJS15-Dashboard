@@ -1,4 +1,4 @@
-# Duel Dashboard
+# Full Stack Dashboard
 
 A modern advocacy analytics dashboard built with Next.js that provides real-time insights into advocacy program performance across multiple social media platforms.
 
