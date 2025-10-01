@@ -1,4 +1,4 @@
-# Full Stack Dashboard
+# NextJS14-Dashboard + Data Normalization utilising Python + Terraform for IaS
 
 A modern advocacy analytics dashboard built with Next.js that provides real-time insights into advocacy program performance across multiple social media platforms.
 
